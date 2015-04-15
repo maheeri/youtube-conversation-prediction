@@ -96,6 +96,6 @@ if __name__ == "__main__":
 
 		dictionary[videoId] = data
 
-	with open('comments.txt', 'w') as commentfile:
+	with open('comments.json', 'w') as commentfile:
 		json.dump(dictionary, commentfile, sort_keys = True, indent = 4, ensure_ascii=True)
 
