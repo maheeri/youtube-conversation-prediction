@@ -7,9 +7,13 @@ import httplib2
 import os
 import sys
 import datetime
+import json
 
 from apiclient.discovery import build
 from apiclient.errors import HttpError
+
+from comments import get_comments
+from captions3 import get_transcript
 
 # Key and version data 
 DEVELOPER_KEY = "AIzaSyBEuuLWPO0AJIIp7TVGIB1uM_mNiNkMVbw"
@@ -27,7 +31,7 @@ are enabled,(3) Has greater than 100,000 views and (4) Is more
 than 5 days old"""
 def valid_constraints(video_id):
  	video_info_list = youtube.videos().list(
-		part="snippet, contentDetails, statistics",
+		part="snippet, contentDetails, statistics, topicDetails",
 		id = video_id
 	).execute()
 	
@@ -37,6 +41,8 @@ def valid_constraints(video_id):
 	captions_enabled = video_info["contentDetails"]["caption"]
 	num_views_string = video_info["statistics"]["viewCount"]
 	publish_date = video_info["snippet"]["publishedAt"]
+	topics = video_info["topicDetails"]["topicIds"]
+
 	publish_date = datetime.datetime.strptime(publish_date, '%Y-%m-%dT%H:%M:%S.%fZ')
 	
 	# Check for a 5 +- 2 minute duration
@@ -64,60 +70,73 @@ def valid_constraints(video_id):
 	date_diff = current_date - publish_date 
 	valid_publish_date = date_diff.days > 5
 	
-	return valid_duration and valid_num_views and captions_enabled and valid_publish_date
+	return (valid_duration and valid_num_views and captions_enabled and valid_publish_date), num_views_string, topics, duration_string, publish_date 
 
-# Change directory to be able to write to file 
-os.chdir('C:\\Users\\Maheer\\Dropbox\\Cornell Course Materials\\Spring 2015\\CS 4300\\youtube-caption-prediction\\video_id_data')
 
-# List of usernames to retrive videos from 
-username_list = ["VICE"]
 
 # Retrieve the contentDetails part of the channel resource for the
-# given username - loop 
-for username in username_list:
-	channels_response = youtube.channels().list(
-	forUsername=username,
-	part="contentDetails"
-	).execute()
-	
-	# Open a file with the name "username" for writing video IDs
-	f = open(username+".txt", "w+")
-	
-	processed_count = 0 # Number of videos processed 
-	
-	for channel in channels_response["items"]:
-		# From the API response, extract the playlist ID that identifies the list
-		# of videos uploaded to the authenticated user's channel.
-		uploads_list_id = channel["contentDetails"]["relatedPlaylists"]["uploads"]
+# given username - loop
+def retrieve_user_videos(username_list):
+	results = []
+	for username in username_list:
+		channels_response = youtube.channels().list(
+		forUsername=username,
+		part="contentDetails"
+		).execute()
+		
+		processed_count = 0 # Number of videos processed 
+		
+		for channel in channels_response["items"]:
+			# From the API response, extract the playlist ID that identifies the list
+			# of videos uploaded to the authenticated user's channel.
+			uploads_list_id = channel["contentDetails"]["relatedPlaylists"]["uploads"]
 
-		print "Videos in list %s" % uploads_list_id
+			print "Videos in list %s" % uploads_list_id
 
-		# Retrieve the list of videos uploaded to the authenticated user's channel.
-		playlistitems_list_request = youtube.playlistItems().list(
-			playlistId=uploads_list_id,
-			part="snippet",
-			maxResults=50
-		)
-	
-		while playlistitems_list_request:
-			playlistitems_list_response = playlistitems_list_request.execute()
+			# Retrieve the list of videos uploaded to the authenticated user's channel.
+			playlistitems_list_request = youtube.playlistItems().list(
+				playlistId=uploads_list_id,
+				part="snippet",
+				maxResults=50
+			)
+		
+			while playlistitems_list_request:
+				playlistitems_list_response = playlistitems_list_request.execute()
 
-			# Print information about each video.
-			for playlist_item in playlistitems_list_response["items"]:
-				processed_count = processed_count + 1
-				print(processed_count) # To track progress
-				title = playlist_item["snippet"]["title"]
-				video_id = playlist_item["snippet"]["resourceId"]["videoId"]
-				if (valid_constraints(video_id)):
-					print("Valid video found: " + title)
-					f.write(video_id + "\n")
+				# Print information about each video.
+				for playlist_item in playlistitems_list_response["items"]:
+					processed_count = processed_count + 1
+					print(processed_count) # To track progress
+					title = playlist_item["snippet"]["title"]
+					video_id = playlist_item["snippet"]["resourceId"]["videoId"]
+					valid_video, num_views_string, topics, duration_string, publish_date = valid_constraints(video_id)
+					if (valid_video):
+						transcript = get_transcript(video_id)
+						if transcript is not None:
+							video_info = 	{
+											"id": video_id,
+											"source": username,
+											"topic_ids": topics,
+											"num_comments": 1, #TODO
+											"views" : num_views_string,
+											"duration": duration_string,
+											"publish_date": publish_date,
+											"comments": get_comments(video_id),
+											"transcript": transcript
+											}
+							result.append(video_info)
 
-			playlistitems_list_request = youtube.playlistItems().list_next(
-				playlistitems_list_request, playlistitems_list_response)
-	
-	# Close file after all the video IDs for a username have been found 
-	f.close()
-	# Reset the count of procssed videos
-	processed_count = 0
-	
-print("Done")
+				playlistitems_list_request = youtube.playlistItems().list_next(
+					playlistitems_list_request, playlistitems_list_response)
+	return results	
+
+
+
+if __name__ == "__main__":
+	print("Starting video collection")
+	username_list = ["VICE"]
+	videos_data = retrieve_user_videos(username_list)
+	print("Done", "Now dumping...")
+	filename = "videos_data"
+	json.dump(videos_data, filename, sort_keys = True, indent = 4, ensure_ascii=True)
+	print("Done dumping file to json", "filename:", filename)
