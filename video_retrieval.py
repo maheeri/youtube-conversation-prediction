@@ -1,3 +1,6 @@
+"""Retrieve the video_ids corresponding to particular channels (referred
+to as usernames also) and write them to a file"""
+
 #!/usr/bin/python
 
 import httplib2
