@@ -62,13 +62,27 @@ def get_comment_threads(data, youtube, video_id, nextPageToken):
 	else:
 		return data, results["nextPageToken"]
 
-# Get first results
-data, nextPage = get_comment_threads({}, service, video_id, None)
 
-while nextPage != None:
-	# print(len(data))
-	data, nextPage = get_comment_threads(data, service, video_id, nextPage)
+def get_comments_obj(my_video_id, dump=False):
+	# Get first results
+	data, nextPage = get_comment_threads({}, service, my_video_id, None)
 
-with open('comments.txt', 'w') as commentfile:
-	json.dump(data, commentfile, sort_keys = True, indent = 4, ensure_ascii=True)
+	while nextPage != None:
+		# print(len(data))
+		data, nextPage = get_comment_threads(data, service, my_video_id, nextPage)
+	if dump:
+		with open(my_video_id+'_comments.txt', 'w') as commentfile:
+			json.dump(data, commentfile, sort_keys = True, indent = 4, ensure_ascii=True)
+	return data
+
+if __name__ == "__main__":
+	# Get first results
+	data, nextPage = get_comment_threads({}, service, video_id, None)
+
+	while nextPage != None:
+		# print(len(data))
+		data, nextPage = get_comment_threads(data, service, video_id, nextPage)
+
+	with open('comments.txt', 'w') as commentfile:
+		json.dump(data, commentfile, sort_keys = True, indent = 4, ensure_ascii=True)
 
