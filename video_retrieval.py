@@ -40,6 +40,7 @@ def valid_constraints(video_id):
 	duration_string = video_info["contentDetails"]["duration"]
 	captions_enabled = video_info["contentDetails"]["caption"]
 	num_views_string = video_info["statistics"]["viewCount"]
+	num_comments = video_info["statistics"]["commentCount"]
 	publish_date = video_info["snippet"]["publishedAt"]
 	topics = video_info["topicDetails"]["topicIds"]
 
@@ -70,7 +71,7 @@ def valid_constraints(video_id):
 	date_diff = current_date - publish_date 
 	valid_publish_date = date_diff.days > 5
 	
-	return (valid_duration and valid_num_views and captions_enabled and valid_publish_date), num_views_string, topics, duration_string, publish_date 
+	return (valid_duration and valid_num_views and captions_enabled and valid_publish_date), num_views_string, num_comments, topics, duration_string, publish_date 
 
 
 # Retrieve the contentDetails part of the channel resource for the
@@ -108,7 +109,7 @@ def retrieve_user_videos(username_list):
 					print(processed_count) # To track progress
 					title = playlist_item["snippet"]["title"]
 					video_id = playlist_item["snippet"]["resourceId"]["videoId"]
-					valid_video, num_views_string, topics, duration_string, publish_date = valid_constraints(video_id)
+					valid_video, num_views, num_comments, topics, duration, publish_date = valid_constraints(video_id)
 					if (valid_video):
 						transcript = get_transcript(video_id)
 						if transcript is not None:
@@ -116,9 +117,9 @@ def retrieve_user_videos(username_list):
 											"id": video_id,
 											"source": username,
 											"topic_ids": topics,
-											"num_comments": 1, #TODO
-											"views" : num_views_string,
-											"duration": duration_string,
+											"num_comments": num_comments,
+											"views" : num_views,
+											"duration": duration,
 											"publish_date": publish_date,
 											"comments": get_comments(video_id),
 											"transcript": transcript
