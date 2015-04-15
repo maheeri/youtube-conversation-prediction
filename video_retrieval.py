@@ -70,7 +70,8 @@ def valid_constraints(video_id):
 os.chdir('C:\\Users\\Maheer\\Dropbox\\Cornell Course Materials\\Spring 2015\\CS 4300\\youtube-caption-prediction\\video_id_data')
 
 # List of usernames to retrive videos from 
-username_list = ["VICE"]
+# Already have IDs for these: VICE, VSauce
+username_list = []
 
 # Retrieve the contentDetails part of the channel resource for the
 # given username - loop 
@@ -102,14 +103,14 @@ for username in username_list:
 		while playlistitems_list_request:
 			playlistitems_list_response = playlistitems_list_request.execute()
 
-			# Print information about each video.
+			# Check if video satisfies constraints and write to file
 			for playlist_item in playlistitems_list_response["items"]:
 				processed_count = processed_count + 1
 				print(processed_count) # To track progress
-				title = playlist_item["snippet"]["title"]
+				#title = playlist_item["snippet"]["title"]
 				video_id = playlist_item["snippet"]["resourceId"]["videoId"]
 				if (valid_constraints(video_id)):
-					print("Valid video found: " + title)
+					print("Valid video found")
 					f.write(video_id + "\n")
 
 			playlistitems_list_request = youtube.playlistItems().list_next(
