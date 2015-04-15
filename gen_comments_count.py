@@ -57,4 +57,4 @@ def get_all_comm_counts(filename):
 		
 	
 if __name__ == "__main__":
-	get_all_comm_counts("VICE.txt")
+	get_all_comm_counts("VSauce.txt")

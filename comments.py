@@ -18,6 +18,9 @@ import json
 import urllib
 
 
+# Assign file of video ids to parse
+videolist = "./video_id_data/VICE2.txt"
+
 # Authenticate
 YOUTUBE_READ_WRITE_SCOPE = "https://www.googleapis.com/auth/youtube"
 YOUTUBE_API_SERVICE_NAME = "youtube"
@@ -26,16 +29,14 @@ DEVELOPER_KEY = "AIzaSyBt4F-EsA1jsLMWERsivgufl0Wn7nwuZ9o"
 
 # Assign
 service = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
-video_id = 'RtWw3OtdBkw'
 
 # Call the API's commentThreads.list method to list the existing comments.
 def _get_comment_threads(data, youtube, video_id, nextPageToken):
-
 	length = len(data)
 
 	results = youtube.commentThreads().list(
 		part="snippet",
-		videoId=video_id,
+		videoId=videoId,
 		textFormat="plainText",
 		maxResults=100,
 		pageToken=nextPageToken
@@ -76,13 +77,22 @@ def get_comments(my_video_id, dump=False):
 	return data
 
 if __name__ == "__main__":
-	# Get first results
-	data, nextPage = _get_comment_threads({}, service, video_id, None)
+	dictionary = {}
 
-	while nextPage != None:
-		# print(len(data))
-		data, nextPage = _get_comment_threads(data, service, video_id, nextPage)
+	with open(videolist) as f:
+		videoIds = [line.strip() for line in f.readlines()]		
+	
 
-	with open('comments.txt', 'w') as commentfile:
-		json.dump(data, commentfile, sort_keys = True, indent = 4, ensure_ascii=True)
+	for index, videoId in enumerate(videoIds):
+		print(index)
+		# Get first results
+		data, nextPage = get_comment_threads({}, service, videoId, None)
+
+		while nextPage != None:
+			# print(len(data))
+			data, nextPage = get_comment_threads(data, service, videoId, nextPage)
+
+		dictionary[videoId] = data
+	with open('comments.json', 'w') as commentfile:
+		json.dump(dictionary, commentfile, sort_keys = True, indent = 4, ensure_ascii=True)
 

@@ -73,7 +73,6 @@ def valid_constraints(video_id):
 	return (valid_duration and valid_num_views and captions_enabled and valid_publish_date), num_views_string, topics, duration_string, publish_date 
 
 
-
 # Retrieve the contentDetails part of the channel resource for the
 # given username - loop
 def retrieve_user_videos(username_list):
