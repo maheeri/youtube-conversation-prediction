@@ -166,7 +166,7 @@ def retrieve_user_videos(username_list):
 											"comments": get_comments(video_id),
 											"transcript": transcript
 											}
-							result.append(video_info)
+							results.append(video_info)
 
 				playlistitems_list_request = youtube.playlistItems().list_next(
 					playlistitems_list_request, playlistitems_list_response)
@@ -176,10 +176,10 @@ def retrieve_user_videos(username_list):
 
 if __name__ == "__main__":
 	print("Starting video collection")
-	username_list = ["VICE"]
+	username_list = ["YouTube"]
 	videos_data = retrieve_user_videos(username_list)
 	print("Done", "Now dumping...")
 	filename = "videos_data"
-	with open(filename+'.json', 'w') as datafile:
+	with open(filename+'.json', 'w+') as datafile:
 		json.dump(videos_data, datafile, sort_keys = True, indent = 4, ensure_ascii=True)
 	print("Done dumping file to json", "filename:", filename)
