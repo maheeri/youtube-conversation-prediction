@@ -2,7 +2,9 @@
 import numpy as np
 from bs4 import BeautifulSoup
 import urllib3
-
+import json
+import re
+import nltk
 
 def get_transcript(vid_id):
     """
@@ -40,6 +42,18 @@ def get_transcript(vid_id):
 
 if __name__ == "__main__":
     # Testing
+    tokensDict = {}
+    tokens = []
     transcript = get_transcript("SDdXVOD4llU")
-    if transcript is not None:
-        print(transcript.prettify())
+    for text in transcript.find_all("text"):
+        toAppend = re.sub("&#39;", "\'", text.get_text())
+        toAppend = re.sub("\n", " ", toAppend)
+        toAppend = re.sub("[:&%$#@!,.?]", "", toAppend).lower()
+        tokens += nltk.word_tokenize(toAppend)
+    for word in tokens:
+        if word not in tokensDict:
+            tokensDict[word] = 1
+        else:
+            tokensDict[word] += 1
+    with open("captions.json", "w") as captionsFile:
+        json.dump(tokensDict, captionsFile, indent=4, ensure_ascii=True);
