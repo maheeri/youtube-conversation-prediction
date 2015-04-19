@@ -31,8 +31,7 @@ DEVELOPER_KEY = "AIzaSyBt4F-EsA1jsLMWERsivgufl0Wn7nwuZ9o"
 service = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
 
 # Call the API's commentThreads.list method to list the existing comments.
-def get_comment_threads(data, youtube, videoId, nextPageToken):
-
+def _get_comment_threads(data, youtube, video_id, nextPageToken):
 	length = len(data)
 
 	results = youtube.commentThreads().list(
@@ -65,20 +64,19 @@ def get_comment_threads(data, youtube, videoId, nextPageToken):
 		return data, results["nextPageToken"]
 
 
-def get_comments_obj(my_video_id, dump=False):
+def get_comments(my_video_id, dump=False):
 	# Get first results
-	data, nextPage = get_comment_threads({}, service, my_video_id, None)
+	data, nextPage = _get_comment_threads({}, service, my_video_id, None)
 
 	while nextPage != None:
 		# print(len(data))
-		data, nextPage = get_comment_threads(data, service, my_video_id, nextPage)
+		data, nextPage = _get_comment_threads(data, service, my_video_id, nextPage)
 	if dump:
 		with open(my_video_id+'_comments.txt', 'w') as commentfile:
 			json.dump(data, commentfile, sort_keys = True, indent = 4, ensure_ascii=True)
 	return data
 
 if __name__ == "__main__":
-
 	dictionary = {}
 
 	with open(videolist) as f:
@@ -95,7 +93,6 @@ if __name__ == "__main__":
 			data, nextPage = get_comment_threads(data, service, videoId, nextPage)
 
 		dictionary[videoId] = data
-
 	with open('comments.json', 'w') as commentfile:
 		json.dump(dictionary, commentfile, sort_keys = True, indent = 4, ensure_ascii=True)
 
