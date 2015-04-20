@@ -40,11 +40,45 @@ def get_transcript(vid_id):
     track_resp.close()
     return BeautifulSoup(transcript_xml).transcript
 
+def get_tokens(text):
+    text = re.sub("&#39;", "\'", text)
+    text = re.sub("\n", " ", text)
+    text = re.sub("[:&%$#@!,.?]", "", text)
+    return nltk.word_tokenize(text.lower())
+
+def format_transcript(transcript):
+    """
+    Inputs:
+        beautifulsoup transcript
+    Outputs:
+        array/dictionary formatted transcript
+    """
+    foramtted_transcript = []
+    for text_soup in transcript.find_all("text"):
+        text = text_soup.get_text()
+        line = {
+                'text'  : text,
+                'dur'   : text_soup['dur'],
+                'start' : text_soup['start'],
+                'toks'  : get_tokens(text)
+                }
+        foramtted_transcript.append(line)
+    return foramtted_transcript
+
+def get_formatted_transcript(vid_id):
+    """
+    Convience method
+    """
+    return format_transcript(get_transcript(vid_id))
+
 if __name__ == "__main__":
     # Testing
     tokensDict = {}
     tokens = []
     transcript = get_transcript("SDdXVOD4llU")
+    foramtted_transcript = format_transcript(transcript)
+    print(foramtted_transcript)
+    """
     for text in transcript.find_all("text"):
         toAppend = re.sub("&#39;", "\'", text.get_text())
         toAppend = re.sub("\n", " ", toAppend)
@@ -57,3 +91,4 @@ if __name__ == "__main__":
             tokensDict[word] += 1
     with open("captions.json", "w") as captionsFile:
         json.dump(tokensDict, captionsFile, indent=4, ensure_ascii=True);
+    """
