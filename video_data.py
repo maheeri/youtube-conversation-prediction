@@ -5,9 +5,6 @@ Come our functions to output one json file
 from apiclient.discovery import build
 from apiclient.discovery import build_from_document
 from apiclient.errors import HttpError
-from oauth2client.client import flow_from_clientsecrets
-from oauth2client.file import Storage
-from oauth2client.tools import argparser, run_flo
 from bs4 import BeautifulSoup
 import httplib2
 import os
@@ -46,9 +43,9 @@ def get_transcript_tokens(vid_id):
 	dir_soup = BeautifulSoup(sub_dir_xml)
 	eng_track = dir_soup.find(lang_code="en")
 	if eng_track is None:
-		print('Skipped because no native subtitles in english')
-		print('Could modify code to translate from other langauge')
-		print(dir_soup.find_all('track'))
+		# print('Skipped because no native subtitles in english')
+		# print('Could modify code to translate from other langauge')
+		# print(dir_soup.find_all('track'))
 		return None
 
 	track_resp = http.request('GET', 'http://video.google.com/timedtext',
@@ -124,6 +121,18 @@ def get_comment_threads(data, youtube, videoId, nextPageToken):
 	else:
 		return data, results["nextPageToken"]
 
+def comments_list(youtube, parentId): 
+	results = youtube.comments().list(
+		part="snippet",
+		parentId=parentId,
+		textFormat="plainText",
+	).execute()
+	comments = []
+	for item in results["items"]:
+		comments += nltk.word_tokenize(item["snippet"]["textDisplay"].lower())
+	return comments, len(results)
+
+
 def get_all_comments(youtube, videoId):
 
 	# Get first results
@@ -133,18 +142,25 @@ def get_all_comments(youtube, videoId):
 		# print(len(data))
 		data, nextPage = get_comment_threads(data, youtube, videoId, nextPage)
 
-	tokensDict = {}
+	wordList = []
 	repliesCount = 0
+	commentSize = len(data)
+	topCommentSize = len(data)
+	avgReplies = 0
+
 	for each in data:
 		tokens = nltk.word_tokenize((data[each])["text"].lower())
-		for word in tokens:
-			if word not in tokensDict:
-				tokensDict[word] = 1
-			else:
-				tokensDict[word] += 1
-		repliesCount += (data[each])["replies"]
+		wordList += tokens
+		if data[each]["replies"] != 0:
+			avgReplies += data[each]["replies"]
+			nestedComments, nestedCommentsLen = comments_list(youtube, data[each]["id"])
+			wordList += nestedComments
+			commentSize += nestedCommentsLen
 
-	return tokensDict, repliesCount
+	avgReplies = avgReplies / topCommentSize
+	avgWords = len(wordList) / commentSize
+
+	return avgReplies, avgWords
 
 if __name__ == "__main__":
 
@@ -162,7 +178,7 @@ if __name__ == "__main__":
 
 	videoDict = {}
 	for index, videoId in enumerate(videoIds):
-		comments, replies = get_all_comments(youtube, videoId)
+		avgReplies, avgWords = get_all_comments(youtube, videoId)
 		captions = get_transcript_tokens(videoId)
 		videoLength, numberViews, numberComments, publishDate, topics = valid_constraints(youtube, videoId)
 
@@ -170,10 +186,10 @@ if __name__ == "__main__":
 			"videoLength" : videoLength, 
 			"numberViews" : numberViews,
 			"numberComments" : numberComments,
+			"avgRepliesPerComment" : avgReplies,
+			"avgWordsPerComment": avgWords,
 			"publishDate" : publishDate,
 			"topics" : topics,
-			"comments" : comments,
-			"replies" : replies,
 			"captions" : captions
 		}
 

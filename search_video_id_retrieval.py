@@ -128,6 +128,10 @@ def populate_all_category_searches(videos_per_category):
 
 	return category_to_video_id_dict
 
-	
+def json_dump(content, filename):
+	with open(filename+'.json', 'w') as outfile:
+		json.dump(content, outfile, sort_keys = True, indent = 4, ensure_ascii=True)
+
 if __name__ == "__main__":
-	print(populate_all_category_searches(1))
+	video_id_cat_dict = populate_all_category_searches(200)
+	json_dump(video_id_cat_dict, "video_ids")	
