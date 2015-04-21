@@ -14,12 +14,7 @@ def has_english(vid_id):
     resp.close()
     dir_soup = BeautifulSoup(sub_dir_xml)
     eng_track = dir_soup.find(lang_code="en")
-    if eng_track is None:
-        print('Skipped because no native subtitles in english')
-        print('Could modify code to translate from other langauge')
-        print(dir_soup.find_all('track'))
-        return False
-    return True
+    return False if eng_track is None else True
 
 def get_transcript(vid_id):
     """
