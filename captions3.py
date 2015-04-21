@@ -69,7 +69,10 @@ def get_formatted_transcript(vid_id):
     """
     Convience method
     """
-    return format_transcript(get_transcript(vid_id))
+    transcript = get_transcript(vid_id)
+    if transcript is None:
+        return None
+    return format_transcript(transcript)
 
 if __name__ == "__main__":
     # Testing
