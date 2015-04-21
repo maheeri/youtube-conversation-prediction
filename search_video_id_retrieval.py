@@ -12,6 +12,7 @@ from apiclient.discovery import build
 from apiclient.errors import HttpError
 
 from categories import create_category_id_dict
+from captions3 import has_english
 
 # Key and version data 
 DEVELOPER_KEY = "AIzaSyBEuuLWPO0AJIIp7TVGIB1uM_mNiNkMVbw"
@@ -64,7 +65,9 @@ def valid_constraints(video_id):
 	# valid_publish_date = date_diff.days > 5
 	valid_publish_date = (publish_date.year == 2013) or (publish_date.year == 2014)
 	
-	return (valid_duration and valid_num_views and valid_publish_date)
+	valid_captions = has_english(video_id)
+
+	return (valid_captions and valid_duration and valid_num_views and valid_publish_date)
 	
 
 """Retrieves num_required video_ids for the given category id. num_required is the number of 
@@ -134,4 +137,4 @@ def json_dump(content, filename):
 
 if __name__ == "__main__":
 	video_id_cat_dict = populate_all_category_searches(200)
-	json_dump(video_id_cat_dict, "video_ids")	
+	json_dump(video_id_cat_dict, "video_ids_v2")	

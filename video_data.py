@@ -115,6 +115,17 @@ def get_all_comments(youtube, videoId):
 
 	return avgReplies, avgWords, numReplies
 
+def open_video_ids_json(filename):
+	""" Takes a json name and returns a list of video_ids """
+	with open(filename) as data_file:    
+		data = json.load(data_file)
+		video_set = set()
+		for key in data:
+			for vid_id in data[key]:
+				video_set.add(vid_id)
+		return list(video_set)
+
+
 if __name__ == "__main__":
 
 	# Authenticate
