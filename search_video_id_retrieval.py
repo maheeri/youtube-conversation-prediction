@@ -22,10 +22,13 @@ YOUTUBE_API_VERSION = "v3"
 # Authenticate 
 youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, 
 	developerKey=DEVELOPER_KEY)
-	
+
+global_retrieved = 0
+global_searched = 0
+
 """Check that the video given by video_id satisfies the following
-constraints: (1) The length is 5 +- 1 minute,(2) Has more than
-100,000 views, (3) Was pubslihed in 2013"""
+constraints: (1) The length is 6 +- 2 minute,(2) Has more than
+100,000 views, (3) Was pubslihed in 2013 or 2014"""
 def valid_constraints(video_id):
 	video_info_list = youtube.videos().list(
 		part="snippet, statistics, contentDetails",
@@ -50,7 +53,7 @@ def valid_constraints(video_id):
 	elif (minute_index != -1 and second_index != -1):
 		duration = int(duration_string[2:minute_index]) * 60 + int(duration_string[minute_index+1:second_index])
 		
-	valid_duration = (duration > 240) and (duration < 360)
+	valid_duration = (duration > 240) and (duration < 480)
 	
 	# Check for a valid number of views
 	valid_num_views = (num_views > 100000)
@@ -59,7 +62,7 @@ def valid_constraints(video_id):
 	# current_date = datetime.datetime.now()
 	# date_diff = current_date - publish_date 
 	# valid_publish_date = date_diff.days > 5
-	valid_publish_date = (publish_date.year == 2013)
+	valid_publish_date = (publish_date.year == 2013) or (publish_date.year == 2014)
 	
 	return (valid_duration and valid_num_views and valid_publish_date)
 	
@@ -88,7 +91,6 @@ def category_video_search(category_id, num_required):
 	
 	
 	video_id_list = []
-	# Add each a result to a file with the name query.txt
 	while (num_videos_retrieved < num_required and num_videos_searched < total_results):
 		
 		if search_request is None: # No more searches can be run
@@ -101,7 +103,7 @@ def category_video_search(category_id, num_required):
 			if num_videos_searched >= total_results: # Looked through all results
 				return video_id_list
 			if valid_constraints(search_result["id"]["videoId"]):
-				if (num_videos_retrieved < num_required): 
+				if (num_videos_retrieved < num_required):
 					num_videos_retrieved = num_videos_retrieved + 1
 					video_id_list.append(search_result["id"]["videoId"])
 				else: # Have reached the required limit
@@ -123,7 +125,7 @@ def populate_all_category_searches(videos_per_category):
 	
 	for category_id in category_id_to_name_dict.keys():
 		category_to_video_id_dict[category_id] = category_video_search(category_id, videos_per_category)
-	
+
 	return category_to_video_id_dict
 
 	
