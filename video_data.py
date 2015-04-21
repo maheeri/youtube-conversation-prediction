@@ -18,61 +18,10 @@ import urllib3
 import json
 import re
 import nltk
+from captions3 import get_formatted_transcript
 
 # Assign file of video ids to parse
 videolist = "./video_id_data/VICE2.txt"
-
-# Retrives the transcript (tokenized) given a videoId
-def get_transcript_tokens(vid_id):
-	"""
-	Input: 
-		vid_id: Youtube video id
-	Output:
-		transcript: Beautiful soup xml object of transcipt
-		of the format:
-		<transcript>
-			<text dur="DURATION_TIME" start="START_TIME">
-				SPOKEN TEXT
-			</text>
-		</transcript>
-	"""
-	http = urllib3.PoolManager() #init urllib
-	resp = http.request('GET', 'http://video.google.com/timedtext',preload_content=False, fields={'type': 'list', 'v': vid_id})
-	sub_dir_xml = resp.read()
-	resp.close()
-	dir_soup = BeautifulSoup(sub_dir_xml)
-	eng_track = dir_soup.find(lang_code="en")
-	if eng_track is None:
-		# print('Skipped because no native subtitles in english')
-		# print('Could modify code to translate from other langauge')
-		# print(dir_soup.find_all('track'))
-		return None
-
-	track_resp = http.request('GET', 'http://video.google.com/timedtext',
-		preload_content=False, 
-		fields={'type': 'track',
-				'v'   : vid_id, 
-				'name': eng_track['name'], 
-				'lang': eng_track['lang_code']
-				})
-	transcript_xml = track_resp.read()
-	track_resp.close()
-	transcript =  BeautifulSoup(transcript_xml).transcript
-
-	tokensDict = {}
-	tokens = []
-	for text in transcript.find_all("text"):
-		toAppend = re.sub("&#39;", "\'", text.get_text())
-		toAppend = re.sub("\n", " ", toAppend)
-		toAppend = re.sub("[:&%$#@!,.?]", "", toAppend).lower()
-		tokens += nltk.word_tokenize(toAppend)
-	for word in tokens:
-		if word not in tokensDict:
-			tokensDict[word] = 1
-		else:
-			tokensDict[word] += 1
-
-	return tokensDict
 
 # Retrieves the metadata of a video
 def valid_constraints(youtube, video_id):
@@ -80,15 +29,18 @@ def valid_constraints(youtube, video_id):
 		part="topicDetails, snippet, contentDetails, statistics",
 		id = video_id
 	).execute()
+
 	video_info = video_info_list["items"][0]
+	title = video_info["snippet"]["title"]
 	duration_string = video_info["contentDetails"]["duration"]
 	captions_enabled = video_info["contentDetails"]["caption"]
-	num_views_string = video_info["statistics"]["viewCount"]
-	num_comments = video_info["statistics"]["commentCount"]
+	num_views = int(video_info["statistics"]["viewCount"])
+	num_comments = int(video_info["statistics"]["commentCount"])
 	publish_date = video_info["snippet"]["publishedAt"]
 	topics = video_info["topicDetails"]["topicIds"] 
+	captions = get_formatted_transcript(video_id);
 
-	return duration_string, num_views_string, num_comments, publish_date, topics
+	return title, duration_string, num_views_string, num_comments, publish_date, topics, captions
 
 def get_comment_threads(data, youtube, videoId, nextPageToken):
 	length = len(data)
@@ -157,10 +109,11 @@ def get_all_comments(youtube, videoId):
 			wordList += nestedComments
 			commentSize += nestedCommentsLen
 
+	numReplies = avgReplies
 	avgReplies = avgReplies / topCommentSize
 	avgWords = len(wordList) / commentSize
 
-	return avgReplies, avgWords
+	return avgReplies, avgWords, numReplies
 
 def open_video_ids_json(filename):
 	""" Takes a json name and returns a list of video_ids """
@@ -189,14 +142,15 @@ if __name__ == "__main__":
 
 	videoDict = {}
 	for index, videoId in enumerate(videoIds):
-		avgReplies, avgWords = get_all_comments(youtube, videoId)
-		captions = get_transcript_tokens(videoId)
-		videoLength, numberViews, numberComments, publishDate, topics = valid_constraints(youtube, videoId)
+		avgReplies, avgWords, numReplies = get_all_comments(youtube, videoId)
+		title, videoLength, numberViews, numberComments, publishDate, topics, captions = valid_constraints(youtube, videoId)
 
 		json_format = {
+			"title" : title,
 			"videoLength" : videoLength, 
 			"numberViews" : numberViews,
 			"numberComments" : numberComments,
+			"numReplies" : numReplies,
 			"avgRepliesPerComment" : avgReplies,
 			"avgWordsPerComment": avgWords,
 			"publishDate" : publishDate,
