@@ -5,9 +5,6 @@ Come our functions to output one json file
 from apiclient.discovery import build
 from apiclient.discovery import build_from_document
 from apiclient.errors import HttpError
-from oauth2client.client import flow_from_clientsecrets
-from oauth2client.file import Storage
-from oauth2client.tools import argparser, run_flo
 from bs4 import BeautifulSoup
 import httplib2
 import os
@@ -133,18 +130,29 @@ def get_all_comments(youtube, videoId):
 		# print(len(data))
 		data, nextPage = get_comment_threads(data, youtube, videoId, nextPage)
 
-	tokensDict = {}
-	repliesCount = 0
-	for each in data:
-		tokens = nltk.word_tokenize((data[each])["text"].lower())
-		for word in tokens:
-			if word not in tokensDict:
-				tokensDict[word] = 1
-			else:
-				tokensDict[word] += 1
-		repliesCount += (data[each])["replies"]
+	# tokensDict = {}
+	# repliesCount = 0
+	# for each in data:
+	# 	tokens = nltk.word_tokenize((data[each])["text"].lower())
+	# 	for word in tokens:
+	# 		if word not in tokensDict:
+	# 			tokensDict[word] = 1
+	# 		else:
+	# 			tokensDict[word] += 1
+	# 	repliesCount += (data[each])["replies"]
 
-	return tokensDict, repliesCount
+	avgReplies = 0;
+	repliesCount = 0;
+
+	for each in data:
+		if data[each]["replies"] != 0:
+			avgReplies += data[each]["replies"]
+			repliesCount += 1
+
+
+	avgReplies = avgReplies / repliesCount
+
+	return avgReplies
 
 if __name__ == "__main__":
 
@@ -162,7 +170,7 @@ if __name__ == "__main__":
 
 	videoDict = {}
 	for index, videoId in enumerate(videoIds):
-		comments, replies = get_all_comments(youtube, videoId)
+		avgReplies = get_all_comments(youtube, videoId)
 		captions = get_transcript_tokens(videoId)
 		videoLength, numberViews, numberComments, publishDate, topics = valid_constraints(youtube, videoId)
 
@@ -170,10 +178,9 @@ if __name__ == "__main__":
 			"videoLength" : videoLength, 
 			"numberViews" : numberViews,
 			"numberComments" : numberComments,
+			"avgReplies" : avgReplies,
 			"publishDate" : publishDate,
 			"topics" : topics,
-			"comments" : comments,
-			"replies" : replies,
 			"captions" : captions
 		}
 
