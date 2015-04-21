@@ -127,6 +127,7 @@ def open_video_ids_json(filename):
 
 
 if __name__ == "__main__":
+	input_json_filename = "video_ids_v2.json"
 
 	# Authenticate
 	YOUTUBE_READ_WRITE_SCOPE = "https://www.googleapis.com/auth/youtube"
@@ -137,8 +138,8 @@ if __name__ == "__main__":
 	# Assign
 	youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
 
-	with open(videolist) as f:
-		videoIds = [line.strip() for line in f.readlines()]		
+
+	videoIds = open_video_ids_json(input_json_filename)
 
 	videoDict = {}
 	for index, videoId in enumerate(videoIds):
