@@ -121,6 +121,18 @@ def get_comment_threads(data, youtube, videoId, nextPageToken):
 	else:
 		return data, results["nextPageToken"]
 
+def comments_list(youtube, parentId): 
+	results = youtube.comments().list(
+		part="snippet",
+		parentId=parentId,
+		textFormat="plainText",
+	).execute()
+	comments = []
+	for item in results["items"]:
+		comments += nltk.word_tokenize(item["snippet"]["textDisplay"].lower())
+	return comments, len(results)
+
+
 def get_all_comments(youtube, videoId):
 
 	# Get first results
@@ -133,6 +145,7 @@ def get_all_comments(youtube, videoId):
 	wordList = []
 	repliesCount = 0
 	commentSize = len(data)
+	topCommentSize = len(data)
 	avgReplies = 0
 
 	for each in data:
@@ -140,8 +153,11 @@ def get_all_comments(youtube, videoId):
 		wordList += tokens
 		if data[each]["replies"] != 0:
 			avgReplies += data[each]["replies"]
+			nestedComments, nestedCommentsLen = comments_list(youtube, data[each]["id"])
+			wordList += nestedComments
+			commentSize += nestedCommentsLen
 
-	avgReplies = avgReplies / commentSize
+	avgReplies = avgReplies / topCommentSize
 	avgWords = len(wordList) / commentSize
 
 	return avgReplies, avgWords
