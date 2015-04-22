@@ -177,13 +177,10 @@ def prepare():
 	X_test  = tfv.transform(video_captions_test)
 	svm_regression_classifier = SVR(kernel="linear")
 	svm_regression_classifier.fit(X_test, num_comments_test)
-	num_comments_pred_svr = svm_regression_classifier.predict(X_test)
-	my_mae_score_svr = mean_absolute_error(num_comments_test, num_comments_pred_svr)
-
-	return num_comments_pred_svr;
+	return tfv, svm_regression_classifier
 
 def return_ranked_videos(query):
-	returned_videos = video_search(query, 100)
+	returned_videos = video_search(query, 20)
 	classifier_data = process_videos(returned_videos)
 	classifier = prepare()
 	scores = classifer.predict(classifer_data)
@@ -192,5 +189,17 @@ def return_ranked_videos(query):
 	ranking = sorted(ranking, key=lambda x: x[0], reverse=True)
 
 	return ranking
+
+
+def find_videos(query):
+    returned_videos = video_search(query, 20)
+    results = []
+    for vid_id in returned_videos:
+        flat_trans = get_flattened_transcript(vid_id)
+        #tfidf fit
+        capt_vector = tfv.transform(flat_trans)
+        num_comments_pred_svr = svm_regression_classifier.predict(capt_vector)
+        results.appened((num_comments_pred_svr, vid_id, title, orig))
+
 
 return_ranked_videos("cats")
