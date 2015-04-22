@@ -23,14 +23,12 @@
     <div class="main_container container">
       <div id="input_panel">
         <form id="input_form" class="center_text">
-          <div class="main_text text_large">Find restaurants near...</div>
+            <h1>YouTube Conversationality Search</h1>
+            <br><br>
+          <div class="main_text text_large">Search Query</div>
+
           <div class="form-group input_form_group">
             <input type="text" class="form-control" id="loc_input_field" placeholder="Address">
-          </div>
-          <div class="main_text text_large">Within...</div>
-          <div class="form-group input-group">
-            <input type="number" step="0.1" placeholder="distance" class="form-control" id="dist_input_field" placeholder="Address" describedby="addon1">
-            <span class="input-group-addon" id="addon1">miles</span>
           </div>
           <button id="submit_button" type="submit" class="btn btn-default pull-left">Search</button>
           <div class="error_text pull-left"></div>
@@ -43,21 +41,54 @@
           </div>
 
           <div class="info_text">
-            <div class="text_large">
-              <span id="result_count">1</span> restaurants found near
-            </div>
-            <div id="display_input" class="orange_thin center_text"></div>
+            
           </div>
           <ul id="results" class="list-group"></ul>
 
-          <button id="results_button" type="submit" class="btn btn-default">Download formatted output</button>
         </div>
 
         <img id="spinner" src="{{ url_for('static', filename='assets/ajax-loader.gif') }}">
 
       </div>
 
-      <div id="map-canvas"></div>
+      <div id="output_panel">
+        <h1>Results:</h1>
+
+        <div id="result">
+          <a href="https://www.youtube.com/watch?v=0ne7ChIFlZg">Link</a>
+          <table>
+            <tr>
+              <td>Conversationality Score: </td>
+              <td>&nbsp;</td>
+              <td>9999</td>
+            </tr>
+            <tr>
+              <td>Real Score: </td>
+              <td>&nbsp;</td>
+              <td>9999</td>
+            </tr>
+          </table>
+        </div>
+        
+        <br>
+
+        <div id="result">
+          <a href="https://www.youtube.com/watch?v=0ne7ChIFlZg">Link</a>
+          <table>
+            <tr>
+              <td>Conversationality Score: </td>
+              <td>&nbsp;</td>
+              <td>9999</td>
+            </tr>
+            <tr>
+              <td>Real Score: </td>
+              <td>&nbsp;</td>
+              <td>9999</td>
+            </tr>
+          </table>
+        </div>
+
+      </div>
     </div>
   </body>
 

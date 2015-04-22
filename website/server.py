@@ -1,11 +1,10 @@
 from flask import Flask, render_template, jsonify, request
-from finder.finder import find_nearest, format_results, connect_db
 
 app = Flask(__name__)
 
 @app.route('/')
 def main():
-    return render_template('restaurants.html')
+    return render_template('youtube_captions.html')
 
 @app.route('/find_restaurants', methods=['POST'])
 def ajax_find_restaurants():
@@ -28,12 +27,6 @@ def ajax_get_results():
   with open('queries.txt', 'r') as results:
     return results.read()
 
-@app.route('/connect_db', methods=['POST'])
-def ajax_connect_db():
- return connect_db()
-
 if __name__ == '__main__':
-  open('queries.txt', 'w').close()  # truncate output file
-  connect_db()
   app.debug = True
   app.run()
