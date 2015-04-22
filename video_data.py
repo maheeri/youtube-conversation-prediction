@@ -1,5 +1,5 @@
 '''
-Come our functions to output one json file
+Input json of vid_ids, ouputs data as json file
 '''
 
 from apiclient.discovery import build
@@ -9,9 +9,6 @@ from bs4 import BeautifulSoup
 import httplib2
 import os
 import sys
-import re
-import nltk
-import json
 import urllib	
 import numpy as np
 import urllib3
@@ -20,9 +17,6 @@ import re
 import nltk
 from captions3 import get_formatted_transcript
 
-# Assign file of video ids to parse
-videolist = "./video_id_data/VICE2.txt"
-
 # Retrieves the metadata of a video
 def valid_constraints(youtube, video_id):
 	video_info_list = youtube.videos().list(
@@ -30,17 +24,16 @@ def valid_constraints(youtube, video_id):
 		id = video_id
 	).execute()
 
-	video_info = video_info_list["items"][0]
-	title = video_info["snippet"]["title"]
+	video_info 		= video_info_list["items"][0]
+	title 			= video_info["snippet"]["title"]
 	duration_string = video_info["contentDetails"]["duration"]
-	captions_enabled = video_info["contentDetails"]["caption"]
-	num_views = int(video_info["statistics"]["viewCount"])
-	num_comments = int(video_info["statistics"]["commentCount"])
-	publish_date = video_info["snippet"]["publishedAt"]
-	topics = video_info["topicDetails"]["topicIds"] 
-	captions = get_formatted_transcript(video_id);
+	num_views 		= int(video_info["statistics"]["viewCount"])
+	num_comments 	= int(video_info["statistics"]["commentCount"])
+	publish_date 	= video_info["snippet"]["publishedAt"]
+	topics 			= video_info["topicDetails"]["topicIds"] 
+	captions 		= get_formatted_transcript(video_id);
 
-	return title, duration_string, num_views_string, num_comments, publish_date, topics, captions
+	return title, duration_string, num_views, num_comments, publish_date, topics, captions
 
 def get_comment_threads(data, youtube, videoId, nextPageToken):
 	length = len(data)
@@ -53,12 +46,12 @@ def get_comment_threads(data, youtube, videoId, nextPageToken):
 	).execute()
 
 	for item in results["items"]:
-		comment_id = item["id"]
-		comment = item["snippet"]["topLevelComment"]
-		author = comment["snippet"]["authorDisplayName"]
-		text = re.sub('\W+',' ', comment["snippet"]["textDisplay"][:-1])
-		date = comment["snippet"]["updatedAt"]
-		replies = item["snippet"]["totalReplyCount"]
+		comment_id 	= item["id"]
+		comment 	= item["snippet"]["topLevelComment"]
+		author 		= comment["snippet"]["authorDisplayName"]
+		text 		= re.sub('\W+',' ', comment["snippet"]["textDisplay"][:-1])
+		date 		= comment["snippet"]["updatedAt"]
+		replies 	= item["snippet"]["totalReplyCount"]
 
 		data[comment_id] = {
 			"id": comment_id,
@@ -136,7 +129,7 @@ if __name__ == "__main__":
 	DEVELOPER_KEY = "AIzaSyBt4F-EsA1jsLMWERsivgufl0Wn7nwuZ9o"
 
 	# Assign
-	youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
+	YOUTUBE = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
 
 
 	videoIds = open_video_ids_json(input_json_filename)
@@ -146,18 +139,18 @@ if __name__ == "__main__":
 		avgReplies, avgWords, numReplies = get_all_comments(youtube, videoId)
 		title, videoLength, numberViews, numberComments, publishDate, topics, captions = valid_constraints(youtube, videoId)
 
-		json_format = {
-			"title" : title,
-			"videoLength" : videoLength, 
-			"numberViews" : numberViews,
-			"numberComments" : numberComments,
-			"numReplies" : numReplies,
-			"avgRepliesPerComment" : avgReplies,
-			"avgWordsPerComment": avgWords,
-			"publishDate" : publishDate,
-			"topics" : topics,
-			"captions" : captions
-		}
+json_format = {
+	"title" : title,
+	"videoLength" : videoLength, 
+	"numberViews" : numberViews,
+	"numberComments" : numberComments,
+	"numReplies" : numReplies,
+	"avgRepliesPerComment" : avgReplies,
+	"avgWordsPerComment": avgWords,
+	"publishDate" : publishDate,
+	"topics" : topics,
+	"captions" : captions
+}
 
 		videoDict[videoId] = json_format
 
