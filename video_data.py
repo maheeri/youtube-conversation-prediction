@@ -78,33 +78,51 @@ def comments_list(youtube, parentId):
 	return comments, len(results)
 
 
+def get_comments_metadata(youtube, videoId):
+	# Get first results
+	data, nextPage = get_comment_threads({}, youtube, videoId, None)
+	while nextPage != None:
+		data, nextPage = get_comment_threads(data, youtube, videoId, nextPage)
+
+	topCommentSize = len(data)
+	numReplies = 0
+	for each in data:
+		if data[each]["replies"] != 0:
+			numReplies += data[each]["replies"]
+
+	avgReplies 	= (numReplies / float(topCommentSize))
+	comment_metadata = {
+						"avg_replies" : avgReplies,
+						"num_rplies"  : numReplies
+						}
+	return comment_metadata
+
+
 def get_all_comments(youtube, videoId):
 
 	# Get first results
 	data, nextPage = get_comment_threads({}, youtube, videoId, None)
 
 	while nextPage != None:
-		# print(len(data))
 		data, nextPage = get_comment_threads(data, youtube, videoId, nextPage)
 
 	wordList = []
 	repliesCount = 0
 	commentSize = len(data)
 	topCommentSize = len(data)
-	avgReplies = 0
+	numReplies = 0
 
 	for each in data:
 		tokens = nltk.word_tokenize((data[each])["text"].lower())
 		wordList += tokens
 		if data[each]["replies"] != 0:
-			avgReplies += data[each]["replies"]
+			numReplies += data[each]["replies"]
 			nestedComments, nestedCommentsLen = comments_list(youtube, data[each]["id"])
 			wordList += nestedComments
 			commentSize += nestedCommentsLen
 
-	numReplies = avgReplies
-	avgReplies = avgReplies / topCommentSize
-	avgWords = len(wordList) / commentSize
+	avgReplies 	= (numReplies / float(topCommentSize))
+	avgWords 	= (len(wordList) / float(commentSize))
 
 	return avgReplies, avgWords, numReplies
 
@@ -139,18 +157,18 @@ if __name__ == "__main__":
 		avgReplies, avgWords, numReplies = get_all_comments(youtube, videoId)
 		title, videoLength, numberViews, numberComments, publishDate, topics, captions = valid_constraints(youtube, videoId)
 
-json_format = {
-	"title" : title,
-	"videoLength" : videoLength, 
-	"numberViews" : numberViews,
-	"numberComments" : numberComments,
-	"numReplies" : numReplies,
-	"avgRepliesPerComment" : avgReplies,
-	"avgWordsPerComment": avgWords,
-	"publishDate" : publishDate,
-	"topics" : topics,
-	"captions" : captions
-}
+		json_format = {
+			"title" : title,
+			"videoLength" : videoLength, 
+			"numberViews" : numberViews,
+			"numberComments" : numberComments,
+			"numReplies" : numReplies,
+			"avgRepliesPerComment" : avgReplies,
+			"avgWordsPerComment": avgWords,
+			"publishDate" : publishDate,
+			"topics" : topics,
+			"captions" : captions
+		}
 
 		videoDict[videoId] = json_format
 
