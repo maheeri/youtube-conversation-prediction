@@ -37,15 +37,12 @@ def get_transcript(vid_id):
     dir_soup = BeautifulSoup(sub_dir_xml)
     eng_track = dir_soup.find(lang_code="en")
     if eng_track is None:
-        print('Skipped because no native subtitles in english')
-        print('Could modify code to translate from other langauge')
-        print(dir_soup.find_all('track'))
         return None
     track_resp = http.request('GET', 'http://video.google.com/timedtext',preload_content=False,
-                       fields={'type': 'track',
-                               'v':    vid_id, 
-                               'name': eng_track['name'], 
-                               'lang': eng_track['lang_code']})
+                               fields={'type': 'track',
+                                       'v':    vid_id, 
+                                       'name': eng_track['name'].encode('unicode-escape'), 
+                                       'lang': 'en'})
     transcript_xml = track_resp.read()
     track_resp.close()
     return BeautifulSoup(transcript_xml).transcript
@@ -66,13 +63,13 @@ def format_transcript(transcript):
     foramtted_transcript = []
     for text_soup in transcript.find_all("text"):
         text = text_soup.get_text()
-        line = {
-                'text'  : text,
-                'dur'   : text_soup['dur'],
-                'start' : text_soup['start'],
-                'toks'  : get_tokens(text)
-                }
-        foramtted_transcript.append(line)
+        if len(text) > 0:
+            line = {
+                    'text'  : text,
+                    'dur'   : text_soup['dur'] if 'dur' in text_soup else 0,
+                    'start' : text_soup['start'] if 'start' in text_soup else 0
+                    }
+            foramtted_transcript.append(line)
     return foramtted_transcript
 
 def get_formatted_transcript(vid_id):
