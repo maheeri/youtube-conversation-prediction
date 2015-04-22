@@ -52,8 +52,19 @@ body {
   padding-right: 45px;
   float: left;
   min-height: 100%;
-  position: relative;
-  width: 30%;
+  width: 25%;
+
+}
+
+#output_panel{
+  float: left;
+  padding: 30px;
+  padding-left: 45px;
+  margin-left: 20px;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-left-color: #BA0909;
+  min-height: 100%;
 }
 
 #info_panel {
