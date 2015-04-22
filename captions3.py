@@ -30,11 +30,19 @@ def get_transcript(vid_id):
         </transcript>
     """
     http = urllib3.PoolManager() #init urllib
+    resp = http.request('GET', 'http://video.google.com/timedtext',preload_content=False,
+                       fields={'type': 'list', 'v': vid_id})
+    sub_dir_xml = resp.read()
+    resp.close()
+    dir_soup = BeautifulSoup(sub_dir_xml)
+    eng_track = dir_soup.find(lang_code="en")
+    if eng_track is None:
+        return None
     track_resp = http.request('GET', 'http://video.google.com/timedtext',preload_content=False,
-                       fields={'type': 'track',
-                               'v':    vid_id, 
-                               'name': eng_track['name'], 
-                               'lang': eng_track['lang_code']})
+                               fields={'type': 'track',
+                                       'v':    vid_id, 
+                                       'name': eng_track['name'], 
+                                       'lang': eng_track['lang_code']})
     transcript_xml = track_resp.read()
     track_resp.close()
     return BeautifulSoup(transcript_xml).transcript
