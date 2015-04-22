@@ -1,649 +1,5499 @@
 {
-    "0g1prCAR-lc": {
-        "avgRepliesPerComment": 1.2879464285714286, 
-        "avgWordsPerComment": 34.827932960893854, 
-        "captions": null, 
-        "numberComments": "1027", 
-        "numberViews": "190121", 
-        "publishDate": "2014-02-07T17:41:15.000Z", 
-        "topics": [
-            "/m/034vfh", 
-            "/m/011q2zfc"
+    "B3YbODo7ieQ": {
+        "avgRepliesPerComment": 0.2775478530781169, 
+        "avgWordsPerComment": 17.628145179247383, 
+        "captions": [
+            {
+                "dur": "1.31", 
+                "start": "5.529", 
+                "text": "Can you believe it?", 
+                "toks": [
+                    "can", 
+                    "you", 
+                    "believe", 
+                    "it"
+                ]
+            }, 
+            {
+                "dur": "1.531", 
+                "start": "6.839", 
+                "text": "We&#39;ve made 50 of these dumb things!", 
+                "toks": [
+                    "we", 
+                    "'ve", 
+                    "made", 
+                    "50", 
+                    "of", 
+                    "these", 
+                    "dumb", 
+                    "things"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "8.37", 
+                "text": "From the \nguy who made Batman comics cool again", 
+                "toks": [
+                    "from", 
+                    "the", 
+                    "guy", 
+                    "who", 
+                    "made", 
+                    "batman", 
+                    "comics", 
+                    "cool", 
+                    "again"
+                ]
+            }, 
+            {
+                "dur": "4", 
+                "start": "17.16", 
+                "text": "and the guy who\u2019ll probably make Batman\nmovies suck again", 
+                "toks": [
+                    "and", 
+                    "the", 
+                    "guy", 
+                    "who\u2019ll", 
+                    "probably", 
+                    "make", 
+                    "batman", 
+                    "movies", 
+                    "suck", 
+                    "again"
+                ]
+            }, 
+            {
+                "dur": "2.759", 
+                "start": "21.16", 
+                "text": "comes a film based on a graphic novel", 
+                "toks": [
+                    "comes", 
+                    "a", 
+                    "film", 
+                    "based", 
+                    "on", 
+                    "a", 
+                    "graphic", 
+                    "novel"
+                ]
+            }, 
+            {
+                "dur": "1.761", 
+                "start": "23.919", 
+                "text": "based on an older film", 
+                "toks": [
+                    "based", 
+                    "on", 
+                    "an", 
+                    "older", 
+                    "film"
+                ]
+            }, 
+            {
+                "dur": "2.219", 
+                "start": "25.68", 
+                "text": "based on ancient Greek propaganda", 
+                "toks": [
+                    "based", 
+                    "on", 
+                    "ancient", 
+                    "greek", 
+                    "propaganda"
+                ]
+            }, 
+            {
+                "dur": "2.93", 
+                "start": "27.899", 
+                "text": "based on a true story...", 
+                "toks": [
+                    "based", 
+                    "on", 
+                    "a", 
+                    "true", 
+                    "story"
+                ]
+            }, 
+            {
+                "dur": "1.171", 
+                "start": "30.829", 
+                "text": "300.", 
+                "toks": [
+                    "300"
+                ]
+            }, 
+            {
+                "dur": "3.36", 
+                "start": "32", 
+                "text": "Before the release of the unnecessary sequel\non a boat", 
+                "toks": [
+                    "before", 
+                    "the", 
+                    "release", 
+                    "of", 
+                    "the", 
+                    "unnecessary", 
+                    "sequel", 
+                    "on", 
+                    "a", 
+                    "boat"
+                ]
+            }, 
+            {
+                "dur": "3.74", 
+                "start": "35.36", 
+                "text": "revisit the movie that made guys everywhere\nfeel really out of shape.", 
+                "toks": [
+                    "revisit", 
+                    "the", 
+                    "movie", 
+                    "that", 
+                    "made", 
+                    "guys", 
+                    "everywhere", 
+                    "feel", 
+                    "really", 
+                    "out", 
+                    "of", 
+                    "shape"
+                ]
+            }, 
+            {
+                "dur": "4.529", 
+                "start": "39.1", 
+                "text": "Meet the Spartans, a society built on reason,", 
+                "toks": [
+                    "meet", 
+                    "the", 
+                    "spartans", 
+                    "a", 
+                    "society", 
+                    "built", 
+                    "on", 
+                    "reason"
+                ]
+            }, 
+            {
+                "dur": "1.631", 
+                "start": "43.629", 
+                "text": "sit ups,", 
+                "toks": [
+                    "sit", 
+                    "ups"
+                ]
+            }, 
+            {
+                "dur": "2.509", 
+                "start": "45.26", 
+                "text": "and child abuse.", 
+                "toks": [
+                    "and", 
+                    "child", 
+                    "abuse"
+                ]
+            }, 
+            {
+                "dur": "3.07", 
+                "start": "47.769", 
+                "text": "Led by Leonidas, cinema\u2019s yelliest king", 
+                "toks": [
+                    "led", 
+                    "by", 
+                    "leonidas", 
+                    "cinema\u2019s", 
+                    "yelliest", 
+                    "king"
+                ]
+            }, 
+            {
+                "dur": "2.45", 
+                "start": "50.839", 
+                "text": "&quot;This is Sparta!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "this", 
+                    "is", 
+                    "spartaquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "0.82", 
+                "start": "53.289", 
+                "text": "&quot;Spartans!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "spartansquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.63", 
+                "start": "54.109", 
+                "text": "&quot;No mercy!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "no", 
+                    "mercyquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "0.82", 
+                "start": "55.739", 
+                "text": "&quot;No!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "noquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "0.82", 
+                "start": "56.559", 
+                "text": "&quot;Regroup!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "regroupquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.631", 
+                "start": "57.379", 
+                "text": "&quot;Stay on!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "stay", 
+                    "onquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.09", 
+                "start": "59.01", 
+                "text": "&quot;Tonight we dine in hell!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "tonight", 
+                    "we", 
+                    "dine", 
+                    "in", 
+                    "hellquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.44", 
+                "start": "63.1", 
+                "text": "Who hails from the Scottish part of Greece?", 
+                "toks": [
+                    "who", 
+                    "hails", 
+                    "from", 
+                    "the", 
+                    "scottish", 
+                    "part", 
+                    "of", 
+                    "greece"
+                ]
+            }, 
+            {
+                "dur": "4.16", 
+                "start": "66.54", 
+                "text": "&quot;We&#39;ve been sharing our culture with you all\nmorning.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "we", 
+                    "'ve", 
+                    "been", 
+                    "sharing", 
+                    "our", 
+                    "culture", 
+                    "with", 
+                    "you", 
+                    "all", 
+                    "morningquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "5.86", 
+                "start": "70.7", 
+                "text": "Watch as Leonidas and his 300 closest gym\nbuddies stand against the might of Xerxes,", 
+                "toks": [
+                    "watch", 
+                    "as", 
+                    "leonidas", 
+                    "and", 
+                    "his", 
+                    "300", 
+                    "closest", 
+                    "gym", 
+                    "buddies", 
+                    "stand", 
+                    "against", 
+                    "the", 
+                    "might", 
+                    "of", 
+                    "xerxes"
+                ]
+            }, 
+            {
+                "dur": "3.29", 
+                "start": "76.56", 
+                "text": "a hairless giant with an entire jewelry store\non his face", 
+                "toks": [
+                    "a", 
+                    "hairless", 
+                    "giant", 
+                    "with", 
+                    "an", 
+                    "entire", 
+                    "jewelry", 
+                    "store", 
+                    "on", 
+                    "his", 
+                    "face"
+                ]
+            }, 
+            {
+                "dur": "3.08", 
+                "start": "79.85", 
+                "text": "and a voice that sounds like he\u2019s in the\nwitness protection program.", 
+                "toks": [
+                    "and", 
+                    "a", 
+                    "voice", 
+                    "that", 
+                    "sounds", 
+                    "like", 
+                    "he\u2019s", 
+                    "in", 
+                    "the", 
+                    "witness", 
+                    "protection", 
+                    "program"
+                ]
+            }, 
+            {
+                "dur": "4.49", 
+                "start": "82.93", 
+                "text": "&quot;I will erase even the memory of Sparta from\nthe histories.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "will", 
+                    "erase", 
+                    "even", 
+                    "the", 
+                    "memory", 
+                    "of", 
+                    "sparta", 
+                    "from", 
+                    "the", 
+                    "historiesquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "5.07", 
+                "start": "87.42", 
+                "text": "Lace up your sandals for a blend of historical\ntruth and Zack Snyder nonsense,", 
+                "toks": [
+                    "lace", 
+                    "up", 
+                    "your", 
+                    "sandals", 
+                    "for", 
+                    "a", 
+                    "blend", 
+                    "of", 
+                    "historical", 
+                    "truth", 
+                    "and", 
+                    "zack", 
+                    "snyder", 
+                    "nonsense"
+                ]
+            }, 
+            {
+                "dur": "0.82", 
+                "start": "92.49", 
+                "text": "mixing", 
+                "toks": [
+                    "mixing"
+                ]
+            }, 
+            {
+                "dur": "1.919", 
+                "start": "93.31", 
+                "text": "real Greek battle formations", 
+                "toks": [
+                    "real", 
+                    "greek", 
+                    "battle", 
+                    "formations"
+                ]
+            }, 
+            {
+                "dur": "2.341", 
+                "start": "95.229", 
+                "text": "qith crazy ninja spin moves,", 
+                "toks": [
+                    "qith", 
+                    "crazy", 
+                    "ninja", 
+                    "spin", 
+                    "moves"
+                ]
+            }, 
+            {
+                "dur": "1.619", 
+                "start": "97.57", 
+                "text": "real Spartan councils", 
+                "toks": [
+                    "real", 
+                    "spartan", 
+                    "councils"
+                ]
+            }, 
+            {
+                "dur": "2.401", 
+                "start": "99.189", 
+                "text": "with sexy stripper oracles,", 
+                "toks": [
+                    "with", 
+                    "sexy", 
+                    "stripper", 
+                    "oracles"
+                ]
+            }, 
+            {
+                "dur": "2.16", 
+                "start": "101.59", 
+                "text": "and actual Persian fighting units", 
+                "toks": [
+                    "and", 
+                    "actual", 
+                    "persian", 
+                    "fighting", 
+                    "units"
+                ]
+            }, 
+            {
+                "dur": "4", 
+                "start": "103.75", 
+                "text": "With mutant Persian goat men? Huh?", 
+                "toks": [
+                    "with", 
+                    "mutant", 
+                    "persian", 
+                    "goat", 
+                    "men", 
+                    "huh"
+                ]
+            }, 
+            {
+                "dur": "5.07", 
+                "start": "107.75", 
+                "text": "Oil up for the most confusing thing to happen\nto teenage boys since calculus class,", 
+                "toks": [
+                    "oil", 
+                    "up", 
+                    "for", 
+                    "the", 
+                    "most", 
+                    "confusing", 
+                    "thing", 
+                    "to", 
+                    "happen", 
+                    "to", 
+                    "teenage", 
+                    "boys", 
+                    "since", 
+                    "calculus", 
+                    "class"
+                ]
+            }, 
+            {
+                "dur": "3.659", 
+                "start": "112.82", 
+                "text": "full of homoerotic undertones like", 
+                "toks": [
+                    "full", 
+                    "of", 
+                    "homoerotic", 
+                    "undertones", 
+                    "like"
+                ]
+            }, 
+            {
+                "dur": "1.361", 
+                "start": "116.479", 
+                "text": "Men wearing thongs", 
+                "toks": [
+                    "men", 
+                    "wearing", 
+                    "thongs"
+                ]
+            }, 
+            {
+                "dur": "2.569", 
+                "start": "117.84", 
+                "text": "Men getting speared with phallic objects", 
+                "toks": [
+                    "men", 
+                    "getting", 
+                    "speared", 
+                    "with", 
+                    "phallic", 
+                    "objects"
+                ]
+            }, 
+            {
+                "dur": "1.931", 
+                "start": "120.409", 
+                "text": "Men holding hands", 
+                "toks": [
+                    "men", 
+                    "holding", 
+                    "hands"
+                ]
+            }, 
+            {
+                "dur": "2.839", 
+                "start": "122.34", 
+                "text": "Men holding men tenderly from behind", 
+                "toks": [
+                    "men", 
+                    "holding", 
+                    "men", 
+                    "tenderly", 
+                    "from", 
+                    "behind"
+                ]
+            }, 
+            {
+                "dur": "2.01", 
+                "start": "125.179", 
+                "text": "Men letting it hang", 
+                "toks": [
+                    "men", 
+                    "letting", 
+                    "it", 
+                    "hang"
+                ]
+            }, 
+            {
+                "dur": "2.341", 
+                "start": "127.189", 
+                "text": "Men getting all wet in the rain", 
+                "toks": [
+                    "men", 
+                    "getting", 
+                    "all", 
+                    "wet", 
+                    "in", 
+                    "the", 
+                    "rain"
+                ]
+            }, 
+            {
+                "dur": "2.79", 
+                "start": "129.53", 
+                "text": "Men getting all sweaty on the beach.", 
+                "toks": [
+                    "men", 
+                    "getting", 
+                    "all", 
+                    "sweaty", 
+                    "on", 
+                    "the", 
+                    "beach"
+                ]
+            }, 
+            {
+                "dur": "2.72", 
+                "start": "132.32", 
+                "text": "Men playing two flutes at the same time", 
+                "toks": [
+                    "men", 
+                    "playing", 
+                    "two", 
+                    "flutes", 
+                    "at", 
+                    "the", 
+                    "same", 
+                    "time"
+                ]
+            }, 
+            {
+                "dur": "1.919", 
+                "start": "135.04", 
+                "text": "Men saying things like this:", 
+                "toks": [
+                    "men", 
+                    "saying", 
+                    "things", 
+                    "like", 
+                    "this"
+                ]
+            }, 
+            {
+                "dur": "1.161", 
+                "start": "136.959", 
+                "text": "\u201cA fine thrust.\u201d", 
+                "toks": [
+                    "\u201ca", 
+                    "fine", 
+                    "thrust\u201d"
+                ]
+            }, 
+            {
+                "dur": "0.8", 
+                "start": "138.12", 
+                "text": "or this:", 
+                "toks": [
+                    "or", 
+                    "this"
+                ]
+            }, 
+            {
+                "dur": "6.08", 
+                "start": "138.92", 
+                "text": "&quot;Your Athenian rivals will kneel at your feet\nif you will but kneel at mine.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "your", 
+                    "athenian", 
+                    "rivals", 
+                    "will", 
+                    "kneel", 
+                    "at", 
+                    "your", 
+                    "feet", 
+                    "if", 
+                    "you", 
+                    "will", 
+                    "but", 
+                    "kneel", 
+                    "at", 
+                    "minequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.409", 
+                "start": "145", 
+                "text": "And a male-to-female nipple ratio of 600 to\n4.", 
+                "toks": [
+                    "and", 
+                    "a", 
+                    "male-to-female", 
+                    "nipple", 
+                    "ratio", 
+                    "of", 
+                    "600", 
+                    "to", 
+                    "4"
+                ]
+            }, 
+            {
+                "dur": "4.271", 
+                "start": "148.409", 
+                "text": "Man, I haven\u2019t seen a movie this deep in\nthe closet since Top Gun!", 
+                "toks": [
+                    "man", 
+                    "i", 
+                    "haven\u2019t", 
+                    "seen", 
+                    "a", 
+                    "movie", 
+                    "this", 
+                    "deep", 
+                    "in", 
+                    "the", 
+                    "closet", 
+                    "since", 
+                    "top", 
+                    "gun"
+                ]
+            }, 
+            {
+                "dur": "3.669", 
+                "start": "152.68", 
+                "text": "&quot;I am dangerous!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "am", 
+                    "dangerousquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "5.441", 
+                "start": "156.349", 
+                "text": "So get pumped for a dumb movie that\u2019s only\ncool because of Zack Snyder\u2019s bag of overused", 
+                "toks": [
+                    "so", 
+                    "get", 
+                    "pumped", 
+                    "for", 
+                    "a", 
+                    "dumb", 
+                    "movie", 
+                    "that\u2019s", 
+                    "only", 
+                    "cool", 
+                    "because", 
+                    "of", 
+                    "zack", 
+                    "snyder\u2019s", 
+                    "bag", 
+                    "of", 
+                    "overused"
+                ]
+            }, 
+            {
+                "dur": "1.199", 
+                "start": "161.79", 
+                "text": "visual tricks", 
+                "toks": [
+                    "visual", 
+                    "tricks"
+                ]
+            }, 
+            {
+                "dur": "0.941", 
+                "start": "162.989", 
+                "text": "featuring...", 
+                "toks": [
+                    "featuring"
+                ]
+            }, 
+            {
+                "dur": "6.76", 
+                "start": "163.93", 
+                "text": "Dramatic falling stuff", 
+                "toks": [
+                    "dramatic", 
+                    "falling", 
+                    "stuff"
+                ]
+            }, 
+            {
+                "dur": "1.329", 
+                "start": "170.69", 
+                "text": "Instagram filters", 
+                "toks": [
+                    "instagram", 
+                    "filters"
+                ]
+            }, 
+            {
+                "dur": "4.631", 
+                "start": "172.019", 
+                "text": "And", 
+                "toks": [
+                    "and"
+                ]
+            }, 
+            {
+                "dur": "4.63", 
+                "start": "176.65", 
+                "text": "suuuper", 
+                "toks": [
+                    "suuuper"
+                ]
+            }, 
+            {
+                "dur": "4.629", 
+                "start": "181.28", 
+                "text": "sloooow", 
+                "toks": [
+                    "sloooow"
+                ]
+            }, 
+            {
+                "dur": "4.64", 
+                "start": "185.909", 
+                "text": "moootion.", 
+                "toks": [
+                    "moootion"
+                ]
+            }, 
+            {
+                "dur": "3.08", 
+                "start": "190.549", 
+                "text": "Come on! I might as well be reading the book!", 
+                "toks": [
+                    "come", 
+                    "on", 
+                    "i", 
+                    "might", 
+                    "as", 
+                    "well", 
+                    "be", 
+                    "reading", 
+                    "the", 
+                    "book"
+                ]
+            }, 
+            {
+                "dur": "1.301", 
+                "start": "193.629", 
+                "text": "Starring...", 
+                "toks": [
+                    "starring"
+                ]
+            }, 
+            {
+                "dur": "1.4", 
+                "start": "194.93", 
+                "text": "Gerard Butt", 
+                "toks": [
+                    "gerard", 
+                    "butt"
+                ]
+            }, 
+            {
+                "dur": "1.079", 
+                "start": "196.33", 
+                "text": "Nick Fury", 
+                "toks": [
+                    "nick", 
+                    "fury"
+                ]
+            }, 
+            {
+                "dur": "2.351", 
+                "start": "197.409", 
+                "text": "6 through 300", 
+                "toks": [
+                    "6", 
+                    "through", 
+                    "300"
+                ]
+            }, 
+            {
+                "dur": "0.789", 
+                "start": "199.76", 
+                "text": "Dhalsim", 
+                "toks": [
+                    "dhalsim"
+                ]
+            }, 
+            {
+                "dur": "1.571", 
+                "start": "200.549", 
+                "text": "Emperor Herpetine", 
+                "toks": [
+                    "emperor", 
+                    "herpetine"
+                ]
+            }, 
+            {
+                "dur": "1.94", 
+                "start": "202.12", 
+                "text": "\u201cHey, You Guys\u201d", 
+                "toks": [
+                    "\u201chey", 
+                    "you", 
+                    "guys\u201d"
+                ]
+            }, 
+            {
+                "dur": "1.92", 
+                "start": "204.06", 
+                "text": "Cersei Lannister?", 
+                "toks": [
+                    "cersei", 
+                    "lannister"
+                ]
+            }, 
+            {
+                "dur": "0.959", 
+                "start": "205.98", 
+                "text": "McNulty?", 
+                "toks": [
+                    "mcnulty"
+                ]
+            }, 
+            {
+                "dur": "2.321", 
+                "start": "206.939", 
+                "text": "and Michael Fassbender?!", 
+                "toks": [
+                    "and", 
+                    "michael", 
+                    "fassbender"
+                ]
+            }, 
+            {
+                "dur": "1.869", 
+                "start": "209.26", 
+                "text": "300", 
+                "toks": [
+                    "300"
+                ]
+            }, 
+            {
+                "dur": "4.851", 
+                "start": "211.129", 
+                "text": "One cool looking movie and now he gets to\nmake Batman vs. Superman? Great.", 
+                "toks": [
+                    "one", 
+                    "cool", 
+                    "looking", 
+                    "movie", 
+                    "and", 
+                    "now", 
+                    "he", 
+                    "gets", 
+                    "to", 
+                    "make", 
+                    "batman", 
+                    "vs", 
+                    "superman", 
+                    "great"
+                ]
+            }, 
+            {
+                "dur": "3.119", 
+                "start": "215.98", 
+                "text": "Thanks for watching our 50th Honest Trailer.", 
+                "toks": [
+                    "thanks", 
+                    "for", 
+                    "watching", 
+                    "our", 
+                    "50th", 
+                    "honest", 
+                    "trailer"
+                ]
+            }, 
+            {
+                "dur": "3.901", 
+                "start": "219.099", 
+                "text": "Who knows - maybe someday we&#39;ll make it to\n300!", 
+                "toks": [
+                    "who", 
+                    "knows", 
+                    "-", 
+                    "maybe", 
+                    "someday", 
+                    "we", 
+                    "'ll", 
+                    "make", 
+                    "it", 
+                    "to", 
+                    "300"
+                ]
+            }, 
+            {
+                "dur": "1.73", 
+                "start": "223", 
+                "text": "Hehe, get it?", 
+                "toks": [
+                    "hehe", 
+                    "get", 
+                    "it"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "224.73", 
+                "text": "Ugh. Please don&#39;t forget ", 
+                "toks": [
+                    "ugh", 
+                    "please", 
+                    "do", 
+                    "n't", 
+                    "forget"
+                ]
+            }, 
+            {
+                "dur": "0.69", 
+                "start": "241.269", 
+                "text": "to subscribe.", 
+                "toks": [
+                    "to", 
+                    "subscribe"
+                ]
+            }
         ], 
-        "videoLength": "PT7M32S"
+        "numReplies": 1073, 
+        "numberComments": 9791, 
+        "numberViews": 7012860, 
+        "publishDate": "2014-02-25T18:12:16.000Z", 
+        "title": "Honest Trailers - 300", 
+        "topics": [
+            "/m/0zwmygm", 
+            "/m/07f_t4"
+        ], 
+        "videoLength": "PT4M5S"
     }, 
-    "2nCARJM7EUA": {
-        "avgRepliesPerComment": 1.3529411764705883, 
-        "avgWordsPerComment": 30.820359281437124, 
-        "captions": null, 
-        "numberComments": "207", 
-        "numberViews": "102379", 
-        "publishDate": "2014-11-18T21:43:52.000Z", 
-        "topics": [
-            "/m/0zmzhtl", 
-            "/m/034vfh"
+    "BzpIB5TJ7LI": {
+        "avgRepliesPerComment": 0.2739568345323741, 
+        "avgWordsPerComment": 13.590547263681591, 
+        "captions": [
+            {
+                "dur": "5.45", 
+                "start": "8.14", 
+                "text": "From Martin Scorsese, the legendary director\nof that movie starring Leonardo DiCaprio,", 
+                "toks": [
+                    "from", 
+                    "martin", 
+                    "scorsese", 
+                    "the", 
+                    "legendary", 
+                    "director", 
+                    "of", 
+                    "that", 
+                    "movie", 
+                    "starring", 
+                    "leonardo", 
+                    "dicaprio"
+                ]
+            }, 
+            {
+                "dur": "2.77", 
+                "start": "13.59", 
+                "text": "that other movie starring Leonardo DiCaprio,", 
+                "toks": [
+                    "that", 
+                    "other", 
+                    "movie", 
+                    "starring", 
+                    "leonardo", 
+                    "dicaprio"
+                ]
+            }, 
+            {
+                "dur": "2.84", 
+                "start": "16.36", 
+                "text": "and also these movies starring Leonardo DiCaprio", 
+                "toks": [
+                    "and", 
+                    "also", 
+                    "these", 
+                    "movies", 
+                    "starring", 
+                    "leonardo", 
+                    "dicaprio"
+                ]
+            }, 
+            {
+                "dur": "4.57", 
+                "start": "19.2", 
+                "text": "Comes the Wolf of Wall Street\n...starring Leonardo DiCaprio.", 
+                "toks": [
+                    "comes", 
+                    "the", 
+                    "wolf", 
+                    "of", 
+                    "wall", 
+                    "street", 
+                    "starring", 
+                    "leonardo", 
+                    "dicaprio"
+                ]
+            }, 
+            {
+                "dur": "4.03", 
+                "start": "23.77", 
+                "text": "Strap in for the last film you\u2019d ever want\nto watch with your grandparents...", 
+                "toks": [
+                    "strap", 
+                    "in", 
+                    "for", 
+                    "the", 
+                    "last", 
+                    "film", 
+                    "you\u2019d", 
+                    "ever", 
+                    "want", 
+                    "to", 
+                    "watch", 
+                    "with", 
+                    "your", 
+                    "grandparents"
+                ]
+            }, 
+            {
+                "dur": "2.779", 
+                "start": "27.8", 
+                "text": "Featuring an average of 3.16 \u201cf*cks\u201d per\nminute", 
+                "toks": [
+                    "featuring", 
+                    "an", 
+                    "average", 
+                    "of", 
+                    "316", 
+                    "\u201cf*cks\u201d", 
+                    "per", 
+                    "minute"
+                ]
+            }, 
+            {
+                "dur": "2.671", 
+                "start": "30.579", 
+                "text": "&quot;F*cking 30,000 f*cking dollars!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "f*cking", 
+                    "30000", 
+                    "f*cking", 
+                    "dollarsquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.34", 
+                "start": "33.25", 
+                "text": "&quot;F*cking half-wit!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "f*cking", 
+                    "half-witquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "0.67", 
+                "start": "34.59", 
+                "text": "&quot;Beni-f*cking-hana!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "beni-f*cking-hanaquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2", 
+                "start": "35.26", 
+                "text": "&quot;Absolutely f*cking not!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "absolutely", 
+                    "f*cking", 
+                    "notquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.01", 
+                "start": "37.26", 
+                "text": "&quot;F*ckity f*ck f*ck!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "f*ckity", 
+                    "f*ck", 
+                    "f*ckquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.039", 
+                "start": "39.27", 
+                "text": "But f*ck it: we can do better than that!", 
+                "toks": [
+                    "but", 
+                    "f*ck", 
+                    "it", 
+                    "we", 
+                    "can", 
+                    "do", 
+                    "better", 
+                    "than", 
+                    "that"
+                ]
+            }, 
+            {
+                "dur": "4.311", 
+                "start": "43.309", 
+                "text": "Leonardo Di-f*cking-Caprio stars as a f*cking\nhot young rich guy who", 
+                "toks": [
+                    "leonardo", 
+                    "di-f*cking-caprio", 
+                    "stars", 
+                    "as", 
+                    "a", 
+                    "f*cking", 
+                    "hot", 
+                    "young", 
+                    "rich", 
+                    "guy", 
+                    "who"
+                ]
+            }, 
+            {
+                "dur": "3.459", 
+                "start": "47.62", 
+                "text": "hangs out on f*cking yachts and has sex with\nf*cking models", 
+                "toks": [
+                    "hangs", 
+                    "out", 
+                    "on", 
+                    "f*cking", 
+                    "yachts", 
+                    "and", 
+                    "has", 
+                    "sex", 
+                    "with", 
+                    "f*cking", 
+                    "models"
+                ]
+            }, 
+            {
+                "dur": "2.89", 
+                "start": "51.079", 
+                "text": "...basically Leonardo DiCaprio.", 
+                "toks": [
+                    "basically", 
+                    "leonardo", 
+                    "dicaprio"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "53.969", 
+                "text": "Watch as he yells his way to an Oscar nomination", 
+                "toks": [
+                    "watch", 
+                    "as", 
+                    "he", 
+                    "yells", 
+                    "his", 
+                    "way", 
+                    "to", 
+                    "an", 
+                    "oscar", 
+                    "nomination"
+                ]
+            }, 
+            {
+                "dur": "4.031", 
+                "start": "63.649", 
+                "text": "And watch as the guy who stole Best Actor\nstops by to pound his chest", 
+                "toks": [
+                    "and", 
+                    "watch", 
+                    "as", 
+                    "the", 
+                    "guy", 
+                    "who", 
+                    "stole", 
+                    "best", 
+                    "actor", 
+                    "stops", 
+                    "by", 
+                    "to", 
+                    "pound", 
+                    "his", 
+                    "chest"
+                ]
+            }, 
+            {
+                "dur": "6.42", 
+                "start": "67.68", 
+                "text": "right in Leo\u2019s f*cking face.", 
+                "toks": [
+                    "right", 
+                    "in", 
+                    "leo\u2019s", 
+                    "f*cking", 
+                    "face"
+                ]
+            }, 
+            {
+                "dur": "4.1", 
+                "start": "74.1", 
+                "text": "F*ck you!", 
+                "toks": [
+                    "f*ck", 
+                    "you"
+                ]
+            }, 
+            {
+                "dur": "3.34", 
+                "start": "78.2", 
+                "text": "Rejoice at the triumphant return of fat f*cking\nJonah Hill", 
+                "toks": [
+                    "rejoice", 
+                    "at", 
+                    "the", 
+                    "triumphant", 
+                    "return", 
+                    "of", 
+                    "fat", 
+                    "f*cking", 
+                    "jonah", 
+                    "hill"
+                ]
+            }, 
+            {
+                "dur": "5.31", 
+                "start": "81.54", 
+                "text": "and recoil at the triumphant debut of his\nfat f*cking penis.", 
+                "toks": [
+                    "and", 
+                    "recoil", 
+                    "at", 
+                    "the", 
+                    "triumphant", 
+                    "debut", 
+                    "of", 
+                    "his", 
+                    "fat", 
+                    "f*cking", 
+                    "penis"
+                ]
+            }, 
+            {
+                "dur": "4.809", 
+                "start": "86.85", 
+                "text": "Thrill as he tries to shed his image as the\nfunny fat guy in comedies... by becoming the", 
+                "toks": [
+                    "thrill", 
+                    "as", 
+                    "he", 
+                    "tries", 
+                    "to", 
+                    "shed", 
+                    "his", 
+                    "image", 
+                    "as", 
+                    "the", 
+                    "funny", 
+                    "fat", 
+                    "guy", 
+                    "in", 
+                    "comedies", 
+                    "by", 
+                    "becoming", 
+                    "the"
+                ]
+            }, 
+            {
+                "dur": "2.271", 
+                "start": "91.659", 
+                "text": "funny fat guy in a Scorsese movie.", 
+                "toks": [
+                    "funny", 
+                    "fat", 
+                    "guy", 
+                    "in", 
+                    "a", 
+                    "scorsese", 
+                    "movie"
+                ]
+            }, 
+            {
+                "dur": "2.399", 
+                "start": "93.93", 
+                "text": "&quot;You&#39;re alright... we all love you...&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "you", 
+                    "'re", 
+                    "alright", 
+                    "we", 
+                    "all", 
+                    "love", 
+                    "youquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.29", 
+                "start": "96.329", 
+                "text": "&quot;Shut the f*ck up!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "shut", 
+                    "the", 
+                    "f*ck", 
+                    "upquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "5.35", 
+                "start": "98.619", 
+                "text": "Experience the film that critics f*cking slammed\nfor glorifying the lifestyle of a corrupt", 
+                "toks": [
+                    "experience", 
+                    "the", 
+                    "film", 
+                    "that", 
+                    "critics", 
+                    "f*cking", 
+                    "slammed", 
+                    "for", 
+                    "glorifying", 
+                    "the", 
+                    "lifestyle", 
+                    "of", 
+                    "a", 
+                    "corrupt"
+                ]
+            }, 
+            {
+                "dur": "1.701", 
+                "start": "103.969", 
+                "text": "Wall Street stockbroker...", 
+                "toks": [
+                    "wall", 
+                    "street", 
+                    "stockbroker"
+                ]
+            }, 
+            {
+                "dur": "3.67", 
+                "start": "105.67", 
+                "text": "Even though he\u2019s a f*cking miserable wife\nbeating drug addict who loses his business,", 
+                "toks": [
+                    "even", 
+                    "though", 
+                    "he\u2019s", 
+                    "a", 
+                    "f*cking", 
+                    "miserable", 
+                    "wife", 
+                    "beating", 
+                    "drug", 
+                    "addict", 
+                    "who", 
+                    "loses", 
+                    "his", 
+                    "business"
+                ]
+            }, 
+            {
+                "dur": "1.11", 
+                "start": "109.34", 
+                "text": "family, and fortune.", 
+                "toks": [
+                    "family", 
+                    "and", 
+                    "fortune"
+                ]
+            }, 
+            {
+                "dur": "3.61", 
+                "start": "110.45", 
+                "text": "They do make qualludes look f*cking awesome,\nthough!", 
+                "toks": [
+                    "they", 
+                    "do", 
+                    "make", 
+                    "qualludes", 
+                    "look", 
+                    "f*cking", 
+                    "awesome", 
+                    "though"
+                ]
+            }, 
+            {
+                "dur": "2.53", 
+                "start": "114.06", 
+                "text": "&quot;Get off the phone!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "get", 
+                    "off", 
+                    "the", 
+                    "phonequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "0.809", 
+                "start": "116.59", 
+                "text": "&quot;Hahaha!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "hahahaquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.421", 
+                "start": "117.399", 
+                "text": "&quot;Jesus Christ, Jordan!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "jesus", 
+                    "christ", 
+                    "jordanquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.39", 
+                "start": "119.82", 
+                "text": "Witness Scorcese break out every Scorcese-ism\nin the book, like", 
+                "toks": [
+                    "witness", 
+                    "scorcese", 
+                    "break", 
+                    "out", 
+                    "every", 
+                    "scorcese-ism", 
+                    "in", 
+                    "the", 
+                    "book", 
+                    "like"
+                ]
+            }, 
+            {
+                "dur": "2.38", 
+                "start": "123.21", 
+                "text": "a f*ck-ton of tracking shots", 
+                "toks": [
+                    "a", 
+                    "f*ck-ton", 
+                    "of", 
+                    "tracking", 
+                    "shots"
+                ]
+            }, 
+            {
+                "dur": "1.66", 
+                "start": "125.59", 
+                "text": "f*ckin\u2019 Voiceover", 
+                "toks": [
+                    "f*ckin\u2019", 
+                    "voiceover"
+                ]
+            }, 
+            {
+                "dur": "3.68", 
+                "start": "127.25", 
+                "text": "&quot;See that humongous estate down there? That&#39;s\nmy house.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "see", 
+                    "that", 
+                    "humongous", 
+                    "estate", 
+                    "down", 
+                    "there", 
+                    "that", 
+                    "'s", 
+                    "my", 
+                    "housequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.31", 
+                "start": "130.93", 
+                "text": "f*ckin&#39; freeze frames", 
+                "toks": [
+                    "f*ckin", 
+                    "'", 
+                    "freeze", 
+                    "frames"
+                ]
+            }, 
+            {
+                "dur": "1.88", 
+                "start": "132.24", 
+                "text": "multiple f*ckin\u2019 wives", 
+                "toks": [
+                    "multiple", 
+                    "f*ckin\u2019", 
+                    "wives"
+                ]
+            }, 
+            {
+                "dur": "2", 
+                "start": "134.12", 
+                "text": "having a huge f*cking hard on for", 
+                "toks": [
+                    "having", 
+                    "a", 
+                    "huge", 
+                    "f*cking", 
+                    "hard", 
+                    "on", 
+                    "for"
+                ]
+            }, 
+            {
+                "dur": "6.1", 
+                "start": "136.12", 
+                "text": "And an ambitious criminal main character with\na short temper whose pride is ultimately their", 
+                "toks": [
+                    "and", 
+                    "an", 
+                    "ambitious", 
+                    "criminal", 
+                    "main", 
+                    "character", 
+                    "with", 
+                    "a", 
+                    "short", 
+                    "temper", 
+                    "whose", 
+                    "pride", 
+                    "is", 
+                    "ultimately", 
+                    "their"
+                ]
+            }, 
+            {
+                "dur": "0.62", 
+                "start": "142.22", 
+                "text": "downfall.", 
+                "toks": [
+                    "downfall"
+                ]
+            }, 
+            {
+                "dur": "2.5", 
+                "start": "142.84", 
+                "text": "&quot;I ain&#39;t goin&#39; nowhere!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "ai", 
+                    "n't", 
+                    "goin", 
+                    "'", 
+                    "nowherequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.83", 
+                "start": "145.34", 
+                "text": "So settle in for a movie that\u2019s all about\nf*cking excess,", 
+                "toks": [
+                    "so", 
+                    "settle", 
+                    "in", 
+                    "for", 
+                    "a", 
+                    "movie", 
+                    "that\u2019s", 
+                    "all", 
+                    "about", 
+                    "f*cking", 
+                    "excess"
+                ]
+            }, 
+            {
+                "dur": "1.63", 
+                "start": "149.17", 
+                "text": "from the 3 hour run time", 
+                "toks": [
+                    "from", 
+                    "the", 
+                    "3", 
+                    "hour", 
+                    "run", 
+                    "time"
+                ]
+            }, 
+            {
+                "dur": "1.24", 
+                "start": "150.8", 
+                "text": "To the f*ckin cursing", 
+                "toks": [
+                    "to", 
+                    "the", 
+                    "f*ckin", 
+                    "cursing"
+                ]
+            }, 
+            {
+                "dur": "3.04", 
+                "start": "152.04", 
+                "text": "&quot;F*ck this, sh*t that, c*ck, c***, a**hole&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "f*ck", 
+                    "this", 
+                    "sh*t", 
+                    "that", 
+                    "c*ck", 
+                    "c***", 
+                    "a**holequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "155.08", 
+                "text": "To all the people in suits listening to Leo\ntalk", 
+                "toks": [
+                    "to", 
+                    "all", 
+                    "the", 
+                    "people", 
+                    "in", 
+                    "suits", 
+                    "listening", 
+                    "to", 
+                    "leo", 
+                    "talk"
+                ]
+            }, 
+            {
+                "dur": "2.36", 
+                "start": "165.9", 
+                "text": "To shots of those same people going", 
+                "toks": [
+                    "to", 
+                    "shots", 
+                    "of", 
+                    "those", 
+                    "same", 
+                    "people", 
+                    "going"
+                ]
+            }, 
+            {
+                "dur": "6.43", 
+                "start": "168.26", 
+                "text": "f*cking", 
+                "toks": [
+                    "f*cking"
+                ]
+            }, 
+            {
+                "dur": "6.409", 
+                "start": "174.69", 
+                "text": "nuts.", 
+                "toks": [
+                    "nuts"
+                ]
+            }, 
+            {
+                "dur": "6.42", 
+                "start": "181.099", 
+                "text": "Starring:", 
+                "toks": [
+                    "starring"
+                ]
+            }, 
+            {
+                "dur": "1.561", 
+                "start": "187.519", 
+                "text": "Two-Time Oscar Nominee Jonah Hill", 
+                "toks": [
+                    "two-time", 
+                    "oscar", 
+                    "nominee", 
+                    "jonah", 
+                    "hill"
+                ]
+            }, 
+            {
+                "dur": "3.04", 
+                "start": "189.08", 
+                "text": "F%*k Me", 
+                "toks": [
+                    "f*k", 
+                    "me"
+                ]
+            }, 
+            {
+                "dur": "1.64", 
+                "start": "192.12", 
+                "text": "How I Divorced Your Mother", 
+                "toks": [
+                    "how", 
+                    "i", 
+                    "divorced", 
+                    "your", 
+                    "mother"
+                ]
+            }, 
+            {
+                "dur": "1.78", 
+                "start": "193.76", 
+                "text": "The director of Iron Man", 
+                "toks": [
+                    "the", 
+                    "director", 
+                    "of", 
+                    "iron", 
+                    "man"
+                ]
+            }, 
+            {
+                "dur": "1.65", 
+                "start": "195.54", 
+                "text": "The director of Her", 
+                "toks": [
+                    "the", 
+                    "director", 
+                    "of", 
+                    "her"
+                ]
+            }, 
+            {
+                "dur": "1.969", 
+                "start": "197.19", 
+                "text": "The director of The Princess Bride", 
+                "toks": [
+                    "the", 
+                    "director", 
+                    "of", 
+                    "the", 
+                    "princess", 
+                    "bride"
+                ]
+            }, 
+            {
+                "dur": "1.08", 
+                "start": "199.159", 
+                "text": "Shane", 
+                "toks": [
+                    "shane"
+                ]
+            }, 
+            {
+                "dur": "1.39", 
+                "start": "200.239", 
+                "text": "Coach Taylor", 
+                "toks": [
+                    "coach", 
+                    "taylor"
+                ]
+            }, 
+            {
+                "dur": "1.961", 
+                "start": "201.629", 
+                "text": "Dallas Oscar Stealers Club", 
+                "toks": [
+                    "dallas", 
+                    "oscar", 
+                    "stealers", 
+                    "club"
+                ]
+            }, 
+            {
+                "dur": "2.17", 
+                "start": "203.59", 
+                "text": "The Artist Formerly Known as Relevant", 
+                "toks": [
+                    "the", 
+                    "artist", 
+                    "formerly", 
+                    "known", 
+                    "as", 
+                    "relevant"
+                ]
+            }, 
+            {
+                "dur": "4.199", 
+                "start": "205.76", 
+                "text": "The real Jordan Belfort,\nbecause that guy deserves a f*ckin break,", 
+                "toks": [
+                    "the", 
+                    "real", 
+                    "jordan", 
+                    "belfort", 
+                    "because", 
+                    "that", 
+                    "guy", 
+                    "deserves", 
+                    "a", 
+                    "f*ckin", 
+                    "break"
+                ]
+            }, 
+            {
+                "dur": "1.051", 
+                "start": "209.959", 
+                "text": "right? F*ck.", 
+                "toks": [
+                    "right", 
+                    "f*ck"
+                ]
+            }, 
+            {
+                "dur": "1.929", 
+                "start": "211.01", 
+                "text": "And Leonardo NoOscarO,", 
+                "toks": [
+                    "and", 
+                    "leonardo", 
+                    "nooscaro"
+                ]
+            }, 
+            {
+                "dur": "3.061", 
+                "start": "212.939", 
+                "text": "which is crazy when you think about all the\nother people who have Oscars, like", 
+                "toks": [
+                    "which", 
+                    "is", 
+                    "crazy", 
+                    "when", 
+                    "you", 
+                    "think", 
+                    "about", 
+                    "all", 
+                    "the", 
+                    "other", 
+                    "people", 
+                    "who", 
+                    "have", 
+                    "oscars", 
+                    "like"
+                ]
+            }, 
+            {
+                "dur": "0.959", 
+                "start": "216", 
+                "text": "Three Six Mafia", 
+                "toks": [
+                    "three", 
+                    "six", 
+                    "mafia"
+                ]
+            }, 
+            {
+                "dur": "0.821", 
+                "start": "216.959", 
+                "text": "Al Gore", 
+                "toks": [
+                    "al", 
+                    "gore"
+                ]
+            }, 
+            {
+                "dur": "0.92", 
+                "start": "217.78", 
+                "text": "Cuba Gooding Jr", 
+                "toks": [
+                    "cuba", 
+                    "gooding", 
+                    "jr"
+                ]
+            }, 
+            {
+                "dur": "1.179", 
+                "start": "218.7", 
+                "text": "Dean Pelton from Community", 
+                "toks": [
+                    "dean", 
+                    "pelton", 
+                    "from", 
+                    "community"
+                ]
+            }, 
+            {
+                "dur": "0.591", 
+                "start": "219.879", 
+                "text": "Sookie", 
+                "toks": [
+                    "sookie"
+                ]
+            }, 
+            {
+                "dur": "0.65", 
+                "start": "220.47", 
+                "text": "Catwoman", 
+                "toks": [
+                    "catwoman"
+                ]
+            }, 
+            {
+                "dur": "0.78", 
+                "start": "221.12", 
+                "text": "Marisa Tomei", 
+                "toks": [
+                    "marisa", 
+                    "tomei"
+                ]
+            }, 
+            {
+                "dur": "0.58", 
+                "start": "221.9", 
+                "text": "Cher", 
+                "toks": [
+                    "cher"
+                ]
+            }, 
+            {
+                "dur": "0.99", 
+                "start": "222.48", 
+                "text": "Nic Cage", 
+                "toks": [
+                    "nic", 
+                    "cage"
+                ]
+            }, 
+            {
+                "dur": "0.28", 
+                "start": "223.47", 
+                "text": "Mo\u2019nique", 
+                "toks": [
+                    "mo\u2019nique"
+                ]
+            }, 
+            {
+                "dur": "1.93", 
+                "start": "223.75", 
+                "text": "American Idol Quarterfinalist Jennifer Hudson", 
+                "toks": [
+                    "american", 
+                    "idol", 
+                    "quarterfinalist", 
+                    "jennifer", 
+                    "hudson"
+                ]
+            }, 
+            {
+                "dur": "0.75", 
+                "start": "225.68", 
+                "text": "Katniss", 
+                "toks": [
+                    "katniss"
+                ]
+            }, 
+            {
+                "dur": "1.759", 
+                "start": "226.43", 
+                "text": "Roberto Benigni - TWICE!", 
+                "toks": [
+                    "roberto", 
+                    "benigni", 
+                    "-", 
+                    "twice"
+                ]
+            }, 
+            {
+                "dur": "2.94", 
+                "start": "228.189", 
+                "text": "and the movie Crash", 
+                "toks": [
+                    "and", 
+                    "the", 
+                    "movie", 
+                    "crash"
+                ]
+            }, 
+            {
+                "dur": "1.911", 
+                "start": "231.129", 
+                "text": "The Wolf of F*cking Wall Street", 
+                "toks": [
+                    "the", 
+                    "wolf", 
+                    "of", 
+                    "f*cking", 
+                    "wall", 
+                    "street"
+                ]
+            }, 
+            {
+                "dur": "4.3", 
+                "start": "233.04", 
+                "text": "\u201cSell me this pen.\u201d", 
+                "toks": [
+                    "\u201csell", 
+                    "me", 
+                    "this", 
+                    "pen\u201d"
+                ]
+            }, 
+            {
+                "dur": "3.89", 
+                "start": "237.34", 
+                "text": "It\u2019s the one Dicaprio used in Wolf of Wall\nStreet.", 
+                "toks": [
+                    "it\u2019s", 
+                    "the", 
+                    "one", 
+                    "dicaprio", 
+                    "used", 
+                    "in", 
+                    "wolf", 
+                    "of", 
+                    "wall", 
+                    "street"
+                ]
+            }, 
+            {
+                "dur": "0.5", 
+                "start": "241.23", 
+                "text": "Boom!", 
+                "toks": [
+                    "boom"
+                ]
+            }, 
+            {
+                "dur": "1.899", 
+                "start": "241.73", 
+                "text": "F*ckin\u2019 easy money right there.", 
+                "toks": [
+                    "f*ckin\u2019", 
+                    "easy", 
+                    "money", 
+                    "right", 
+                    "there"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "243.629", 
+                "text": "Be sure to subscribe for more Honest Trailers.", 
+                "toks": [
+                    "be", 
+                    "sure", 
+                    "to", 
+                    "subscribe", 
+                    "for", 
+                    "more", 
+                    "honest", 
+                    "trailers"
+                ]
+            }
         ], 
-        "videoLength": "PT7M42S"
+        "numReplies": 952, 
+        "numberComments": 12452, 
+        "numberViews": 7682343, 
+        "publishDate": "2014-04-15T16:59:45.000Z", 
+        "title": "Honest Trailers - The Wolf of Wall Street", 
+        "topics": [
+            "/m/0zwmygm", 
+            "/m/0kmyxvt"
+        ], 
+        "videoLength": "PT4M26S"
     }, 
-    "A1C0izZjtfY": {
-        "avgRepliesPerComment": 0.8076923076923077, 
-        "avgWordsPerComment": 25.853448275862068, 
-        "captions": null, 
-        "numberComments": "740", 
-        "numberViews": "219032", 
-        "publishDate": "2014-02-05T16:37:43.000Z", 
-        "topics": [
-            "/m/01np92", 
-            "/m/034vfh"
+    "diU70KshcjA": {
+        "avgRepliesPerComment": 0.6810278372591007, 
+        "avgWordsPerComment": 12.522951579784063, 
+        "captions": [
+            {
+                "dur": "4.03", 
+                "start": "1.27", 
+                "text": "If you\u2019ve ever wondered why", 
+                "toks": [
+                    "if", 
+                    "you\u2019ve", 
+                    "ever", 
+                    "wondered", 
+                    "why"
+                ]
+            }, 
+            {
+                "dur": "3.94", 
+                "start": "5.45", 
+                "text": "Disney\u2019s tales all end in lies", 
+                "toks": [
+                    "disney\u2019s", 
+                    "tales", 
+                    "all", 
+                    "end", 
+                    "in", 
+                    "lies"
+                ]
+            }, 
+            {
+                "dur": "9.67", 
+                "start": "9.74", 
+                "text": "Here\u2019s what happened \nafter all their dreams came true", 
+                "toks": [
+                    "here\u2019s", 
+                    "what", 
+                    "happened", 
+                    "after", 
+                    "all", 
+                    "their", 
+                    "dreams", 
+                    "came", 
+                    "true"
+                ]
+            }, 
+            {
+                "dur": "4.67", 
+                "start": "23.99", 
+                "text": "I loved being princess down in\nthis beautiful ocean blue", 
+                "toks": [
+                    "i", 
+                    "loved", 
+                    "being", 
+                    "princess", 
+                    "down", 
+                    "in", 
+                    "this", 
+                    "beautiful", 
+                    "ocean", 
+                    "blue"
+                ]
+            }, 
+            {
+                "dur": "2.14", 
+                "start": "28.89", 
+                "text": "But mermaids are going missing", 
+                "toks": [
+                    "but", 
+                    "mermaids", 
+                    "are", 
+                    "going", 
+                    "missing"
+                ]
+            }, 
+            {
+                "dur": "2.32", 
+                "start": "31.09", 
+                "text": "they end up in someone\u2019s stew", 
+                "toks": [
+                    "they", 
+                    "end", 
+                    "up", 
+                    "in", 
+                    "someone\u2019s", 
+                    "stew"
+                ]
+            }, 
+            {
+                "dur": "4.7", 
+                "start": "33.53", 
+                "text": "So just try to put yourself in\nto somebody else\u2019s gills", 
+                "toks": [
+                    "so", 
+                    "just", 
+                    "try", 
+                    "to", 
+                    "put", 
+                    "yourself", 
+                    "in", 
+                    "to", 
+                    "somebody", 
+                    "else\u2019s", 
+                    "gills"
+                ]
+            }, 
+            {
+                "dur": "4.8", 
+                "start": "38.32", 
+                "text": "You\u2019re killing my ecosystem\nwith fishing and oil spills", 
+                "toks": [
+                    "you\u2019re", 
+                    "killing", 
+                    "my", 
+                    "ecosystem", 
+                    "with", 
+                    "fishing", 
+                    "and", 
+                    "oil", 
+                    "spills"
+                ]
+            }, 
+            {
+                "dur": "4.21", 
+                "start": "43.63", 
+                "text": "Thank you BP", 
+                "toks": [
+                    "thank", 
+                    "you", 
+                    "bp"
+                ]
+            }, 
+            {
+                "dur": "2.68", 
+                "start": "48.06", 
+                "text": "The British are killing\nOil is spilling", 
+                "toks": [
+                    "the", 
+                    "british", 
+                    "are", 
+                    "killing", 
+                    "oil", 
+                    "is", 
+                    "spilling"
+                ]
+            }, 
+            {
+                "dur": "1.64", 
+                "start": "50.76", 
+                "text": "Now I can&#39;t see", 
+                "toks": [
+                    "now", 
+                    "i", 
+                    "ca", 
+                    "n't", 
+                    "see"
+                ]
+            }, 
+            {
+                "dur": "2.3", 
+                "start": "52.88", 
+                "text": "Chinamen feast on Flounder&#39;s fins", 
+                "toks": [
+                    "chinamen", 
+                    "feast", 
+                    "on", 
+                    "flounder", 
+                    "'s", 
+                    "fins"
+                ]
+            }, 
+            {
+                "dur": "2.04", 
+                "start": "55.42", 
+                "text": "Plus the Japanese killed all my whale friends", 
+                "toks": [
+                    "plus", 
+                    "the", 
+                    "japanese", 
+                    "killed", 
+                    "all", 
+                    "my", 
+                    "whale", 
+                    "friends"
+                ]
+            }, 
+            {
+                "dur": "2.22", 
+                "start": "57.94", 
+                "text": "Oceans are browning\nI think I&#39;m drowning", 
+                "toks": [
+                    "oceans", 
+                    "are", 
+                    "browning", 
+                    "i", 
+                    "think", 
+                    "i", 
+                    "'m", 
+                    "drowning"
+                ]
+            }, 
+            {
+                "dur": "3.34", 
+                "start": "60.17", 
+                "text": "Thanks to BP", 
+                "toks": [
+                    "thanks", 
+                    "to", 
+                    "bp"
+                ]
+            }, 
+            {
+                "dur": "2.2", 
+                "start": "70.76", 
+                "text": "Hey, I\u2019m OK but I\u2019m slightly scared", 
+                "toks": [
+                    "hey", 
+                    "i\u2019m", 
+                    "ok", 
+                    "but", 
+                    "i\u2019m", 
+                    "slightly", 
+                    "scared"
+                ]
+            }, 
+            {
+                "dur": "2.4", 
+                "start": "73.14", 
+                "text": "My husband\u2019s a mark for the War on\nTerror", 
+                "toks": [
+                    "my", 
+                    "husband\u2019s", 
+                    "a", 
+                    "mark", 
+                    "for", 
+                    "the", 
+                    "war", 
+                    "on", 
+                    "terror"
+                ]
+            }, 
+            {
+                "dur": "2.73", 
+                "start": "75.77", 
+                "text": "Aladdin was taken by the CIA", 
+                "toks": [
+                    "aladdin", 
+                    "was", 
+                    "taken", 
+                    "by", 
+                    "the", 
+                    "cia"
+                ]
+            }, 
+            {
+                "dur": "2.64", 
+                "start": "80.65", 
+                "text": "We\u2019re not Taliban\nYou\u2019ve got the wrong man", 
+                "toks": [
+                    "we\u2019re", 
+                    "not", 
+                    "taliban", 
+                    "you\u2019ve", 
+                    "got", 
+                    "the", 
+                    "wrong", 
+                    "man"
+                ]
+            }, 
+            {
+                "dur": "1.68", 
+                "start": "83.39", 
+                "text": "in Guantanamo Bay", 
+                "toks": [
+                    "in", 
+                    "guantanamo", 
+                    "bay"
+                ]
+            }, 
+            {
+                "dur": "2.32", 
+                "start": "85.33", 
+                "text": "Prince Ali\nWhere could he be? ", 
+                "toks": [
+                    "prince", 
+                    "ali", 
+                    "where", 
+                    "could", 
+                    "he", 
+                    "be"
+                ]
+            }, 
+            {
+                "dur": "2.03", 
+                "start": "87.75", 
+                "text": "Drowning in wawa", 
+                "toks": [
+                    "drowning", 
+                    "in", 
+                    "wawa"
+                ]
+            }, 
+            {
+                "dur": "5.21", 
+                "start": "89.97", 
+                "text": "Interrogation from the nation of the &quot;free&quot;", 
+                "toks": [
+                    "interrogation", 
+                    "from", 
+                    "the", 
+                    "nation", 
+                    "of", 
+                    "the", 
+                    "quot", 
+                    ";", 
+                    "freequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.51", 
+                "start": "95.27", 
+                "text": "Bin Laden\u2019s taken the fall\nWe\u2019re not trained pilots at all", 
+                "toks": [
+                    "bin", 
+                    "laden\u2019s", 
+                    "taken", 
+                    "the", 
+                    "fall", 
+                    "we\u2019re", 
+                    "not", 
+                    "trained", 
+                    "pilots", 
+                    "at", 
+                    "all"
+                ]
+            }, 
+            {
+                "dur": "2.33", 
+                "start": "100.08", 
+                "text": "Jafar went crazy and no one put up a fuss", 
+                "toks": [
+                    "jafar", 
+                    "went", 
+                    "crazy", 
+                    "and", 
+                    "no", 
+                    "one", 
+                    "put", 
+                    "up", 
+                    "a", 
+                    "fuss"
+                ]
+            }, 
+            {
+                "dur": "2.36", 
+                "start": "102.43", 
+                "text": "We\u2019re for freedom\nGenie can vouch for us", 
+                "toks": [
+                    "we\u2019re", 
+                    "for", 
+                    "freedom", 
+                    "genie", 
+                    "can", 
+                    "vouch", 
+                    "for", 
+                    "us"
+                ]
+            }, 
+            {
+                "dur": "2.14", 
+                "start": "104.62", 
+                "text": "Bush was crazy\nObama\u2019s lazy", 
+                "toks": [
+                    "bush", 
+                    "was", 
+                    "crazy", 
+                    "obama\u2019s", 
+                    "lazy"
+                ]
+            }, 
+            {
+                "dur": "1.67", 
+                "start": "106.81", 
+                "text": "al-Qaeda\u2019s not in this country", 
+                "toks": [
+                    "al-qaeda\u2019s", 
+                    "not", 
+                    "in", 
+                    "this", 
+                    "country"
+                ]
+            }, 
+            {
+                "dur": "4.21", 
+                "start": "109.24", 
+                "text": "Set free my Prince Ali", 
+                "toks": [
+                    "set", 
+                    "free", 
+                    "my", 
+                    "prince", 
+                    "ali"
+                ]
+            }, 
+            {
+                "dur": "1.36", 
+                "start": "113.83", 
+                "text": "A whore! A whore!", 
+                "toks": [
+                    "a", 
+                    "whore", 
+                    "a", 
+                    "whore"
+                ]
+            }, 
+            {
+                "dur": "1.68", 
+                "start": "115.29", 
+                "text": "A whore, a whore, a whore!", 
+                "toks": [
+                    "a", 
+                    "whore", 
+                    "a", 
+                    "whore", 
+                    "a", 
+                    "whore"
+                ]
+            }, 
+            {
+                "dur": "3.43", 
+                "start": "117.55", 
+                "text": "This town\u2019s gone wild since I married\nAdam", 
+                "toks": [
+                    "this", 
+                    "town\u2019s", 
+                    "gone", 
+                    "wild", 
+                    "since", 
+                    "i", 
+                    "married", 
+                    "adam"
+                ]
+            }, 
+            {
+                "dur": "1.95", 
+                "start": "121.08", 
+                "text": "They think I\u2019m going straight to hell", 
+                "toks": [
+                    "they", 
+                    "think", 
+                    "i\u2019m", 
+                    "going", 
+                    "straight", 
+                    "to", 
+                    "hell"
+                ]
+            }, 
+            {
+                "dur": "3.29", 
+                "start": "124.25", 
+                "text": "But the charges laid on me\nof bestiality", 
+                "toks": [
+                    "but", 
+                    "the", 
+                    "charges", 
+                    "laid", 
+                    "on", 
+                    "me", 
+                    "of", 
+                    "bestiality"
+                ]
+            }, 
+            {
+                "dur": "2.53", 
+                "start": "127.76", 
+                "text": "Could wind up getting me thrown in a cell", 
+                "toks": [
+                    "could", 
+                    "wind", 
+                    "up", 
+                    "getting", 
+                    "me", 
+                    "thrown", 
+                    "in", 
+                    "a", 
+                    "cell"
+                ]
+            }, 
+            {
+                "dur": "5.26", 
+                "start": "131.85", 
+                "text": "No, I\u2019m overrun by mad men", 
+                "toks": [
+                    "no", 
+                    "i\u2019m", 
+                    "overrun", 
+                    "by", 
+                    "mad", 
+                    "men"
+                ]
+            }, 
+            {
+                "dur": "8.11", 
+                "start": "137.66", 
+                "text": "I hear they plan to burn me at the stake", 
+                "toks": [
+                    "i", 
+                    "hear", 
+                    "they", 
+                    "plan", 
+                    "to", 
+                    "burn", 
+                    "me", 
+                    "at", 
+                    "the", 
+                    "stake"
+                ]
+            }, 
+            {
+                "dur": "4.2", 
+                "start": "146.43", 
+                "text": "They legit believe I\u2019m Satan", 
+                "toks": [
+                    "they", 
+                    "legit", 
+                    "believe", 
+                    "i\u2019m", 
+                    "satan"
+                ]
+            }, 
+            {
+                "dur": "9.46", 
+                "start": "151.73", 
+                "text": "And now I hear that \nPETA&#39;s gonna take my beast away", 
+                "toks": [
+                    "and", 
+                    "now", 
+                    "i", 
+                    "hear", 
+                    "that", 
+                    "peta", 
+                    "'s", 
+                    "gon", 
+                    "na", 
+                    "take", 
+                    "my", 
+                    "beast", 
+                    "away"
+                ]
+            }, 
+            {
+                "dur": "3.7", 
+                "start": "167.82", 
+                "text": "After John Smith traveled back to England", 
+                "toks": [
+                    "after", 
+                    "john", 
+                    "smith", 
+                    "traveled", 
+                    "back", 
+                    "to", 
+                    "england"
+                ]
+            }, 
+            {
+                "dur": "2.9", 
+                "start": "172.5", 
+                "text": "I helped my people cultivate the fields", 
+                "toks": [
+                    "i", 
+                    "helped", 
+                    "my", 
+                    "people", 
+                    "cultivate", 
+                    "the", 
+                    "fields"
+                ]
+            }, 
+            {
+                "dur": "2.99", 
+                "start": "176.16", 
+                "text": "More English, French, and Spaniards\ncame to visit", 
+                "toks": [
+                    "more", 
+                    "english", 
+                    "french", 
+                    "and", 
+                    "spaniards", 
+                    "came", 
+                    "to", 
+                    "visit"
+                ]
+            }, 
+            {
+                "dur": "4.44", 
+                "start": "179.92", 
+                "text": "And they greeted us with guns and germs\nand steel", 
+                "toks": [
+                    "and", 
+                    "they", 
+                    "greeted", 
+                    "us", 
+                    "with", 
+                    "guns", 
+                    "and", 
+                    "germs", 
+                    "and", 
+                    "steel"
+                ]
+            }, 
+            {
+                "dur": "3.74", 
+                "start": "184.45", 
+                "text": "They forced us into unknown lands of\nexile", 
+                "toks": [
+                    "they", 
+                    "forced", 
+                    "us", 
+                    "into", 
+                    "unknown", 
+                    "lands", 
+                    "of", 
+                    "exile"
+                ]
+            }, 
+            {
+                "dur": "3.7", 
+                "start": "188.98", 
+                "text": "They pillaged, raped, and left us all for\ndead", 
+                "toks": [
+                    "they", 
+                    "pillaged", 
+                    "raped", 
+                    "and", 
+                    "left", 
+                    "us", 
+                    "all", 
+                    "for", 
+                    "dead"
+                ]
+            }, 
+            {
+                "dur": "3.66", 
+                "start": "193.19", 
+                "text": "So now I\u2019m far more liberal with a weapon", 
+                "toks": [
+                    "so", 
+                    "now", 
+                    "i\u2019m", 
+                    "far", 
+                    "more", 
+                    "liberal", 
+                    "with", 
+                    "a", 
+                    "weapon"
+                ]
+            }, 
+            {
+                "dur": "2.77", 
+                "start": "197.14", 
+                "text": "When I separate their bodies from their\nheads", 
+                "toks": [
+                    "when", 
+                    "i", 
+                    "separate", 
+                    "their", 
+                    "bodies", 
+                    "from", 
+                    "their", 
+                    "heads"
+                ]
+            }, 
+            {
+                "dur": "1.24", 
+                "start": "200.3", 
+                "text": "Wait! What?", 
+                "toks": [
+                    "wait", 
+                    "what"
+                ]
+            }, 
+            {
+                "dur": "3.79", 
+                "start": "201.63", 
+                "text": "Have you ever held the entrails of an\nEnglish guy?", 
+                "toks": [
+                    "have", 
+                    "you", 
+                    "ever", 
+                    "held", 
+                    "the", 
+                    "entrails", 
+                    "of", 
+                    "an", 
+                    "english", 
+                    "guy"
+                ]
+            }, 
+            {
+                "dur": "3.25", 
+                "start": "205.65", 
+                "text": "Or bit the beating hearts of Spanish men?", 
+                "toks": [
+                    "or", 
+                    "bit", 
+                    "the", 
+                    "beating", 
+                    "hearts", 
+                    "of", 
+                    "spanish", 
+                    "men"
+                ]
+            }, 
+            {
+                "dur": "3.12", 
+                "start": "209.69", 
+                "text": "Can you shoot an arrow in some \nFrench guy\u2019s eyeball?", 
+                "toks": [
+                    "can", 
+                    "you", 
+                    "shoot", 
+                    "an", 
+                    "arrow", 
+                    "in", 
+                    "some", 
+                    "french", 
+                    "guy\u2019s", 
+                    "eyeball"
+                ]
+            }, 
+            {
+                "dur": "4", 
+                "start": "213.84", 
+                "text": "Can you paint with the red colors in these\nmen?", 
+                "toks": [
+                    "can", 
+                    "you", 
+                    "paint", 
+                    "with", 
+                    "the", 
+                    "red", 
+                    "colors", 
+                    "in", 
+                    "these", 
+                    "men"
+                ]
+            }, 
+            {
+                "dur": "2.16", 
+                "start": "218.87", 
+                "text": "I can murder if I please", 
+                "toks": [
+                    "i", 
+                    "can", 
+                    "murder", 
+                    "if", 
+                    "i", 
+                    "please"
+                ]
+            }, 
+            {
+                "dur": "4.86", 
+                "start": "221.24", 
+                "text": "cause I\u2019m dying of disease", 
+                "toks": [
+                    "cause", 
+                    "i\u2019m", 
+                    "dying", 
+                    "of", 
+                    "disease"
+                ]
+            }, 
+            {
+                "dur": "8.32", 
+                "start": "227.16", 
+                "text": "I can paint with the red colors in these\nmen", 
+                "toks": [
+                    "i", 
+                    "can", 
+                    "paint", 
+                    "with", 
+                    "the", 
+                    "red", 
+                    "colors", 
+                    "in", 
+                    "these", 
+                    "men"
+                ]
+            }, 
+            {
+                "dur": "1.62", 
+                "start": "236.14", 
+                "text": "Thanks to BP", 
+                "toks": [
+                    "thanks", 
+                    "to", 
+                    "bp"
+                ]
+            }, 
+            {
+                "dur": "1.26", 
+                "start": "237.82", 
+                "text": "Where&#39;s Prince Ali", 
+                "toks": [
+                    "where", 
+                    "'s", 
+                    "prince", 
+                    "ali"
+                ]
+            }, 
+            {
+                "dur": "1.34", 
+                "start": "239.13", 
+                "text": "Bestiality", 
+                "toks": [
+                    "bestiality"
+                ]
+            }, 
+            {
+                "dur": "4.01", 
+                "start": "240.51", 
+                "text": "I&#39;ve got STDs", 
+                "toks": [
+                    "i", 
+                    "'ve", 
+                    "got", 
+                    "stds"
+                ]
+            }
         ], 
-        "videoLength": "PT6M21S"
+        "numReplies": 7951, 
+        "numberComments": 133980, 
+        "numberViews": 48590148, 
+        "publishDate": "2013-03-13T02:09:00.000Z", 
+        "title": "After Ever After - DISNEY Parody", 
+        "topics": [
+            "/m/0shdfj8", 
+            "/m/0sk22ff"
+        ], 
+        "videoLength": "PT4M19S"
     }, 
-    "EVGdmE4_h4c": {
-        "avgRepliesPerComment": 0.7379310344827587, 
-        "avgWordsPerComment": 15.711711711711711, 
-        "captions": null, 
-        "numberComments": "249", 
-        "numberViews": "159888", 
-        "publishDate": "2014-11-12T21:58:07.000Z", 
-        "topics": [
-            "/m/034vfh", 
-            "/m/011q2zfc"
+    "fupWquPNoTc": {
+        "avgRepliesPerComment": 0.22839506172839505, 
+        "avgWordsPerComment": 18.323312145679438, 
+        "captions": [
+            {
+                "dur": "5.6", 
+                "start": "8", 
+                "text": "From Guillermo del Toro, the Latino Peter\nJackson, comes a completely original sci-fi", 
+                "toks": [
+                    "from", 
+                    "guillermo", 
+                    "del", 
+                    "toro", 
+                    "the", 
+                    "latino", 
+                    "peter", 
+                    "jackson", 
+                    "comes", 
+                    "a", 
+                    "completely", 
+                    "original", 
+                    "sci-fi"
+                ]
+            }, 
+            {
+                "dur": "3.48", 
+                "start": "13.61", 
+                "text": "universe that doesn&#39;t rely on any pre-existing\nfranchise.", 
+                "toks": [
+                    "universe", 
+                    "that", 
+                    "does", 
+                    "n't", 
+                    "rely", 
+                    "on", 
+                    "any", 
+                    "pre-existing", 
+                    "franchise"
+                ]
+            }, 
+            {
+                "dur": "2.019", 
+                "start": "17.09", 
+                "text": "... as long as you don&#39;t count Transformers,", 
+                "toks": [
+                    "as", 
+                    "long", 
+                    "as", 
+                    "you", 
+                    "do", 
+                    "n't", 
+                    "count", 
+                    "transformers"
+                ]
+            }, 
+            {
+                "dur": "0.701", 
+                "start": "19.109", 
+                "text": "Ultra Man,", 
+                "toks": [
+                    "ultra", 
+                    "man"
+                ]
+            }, 
+            {
+                "dur": "0.7", 
+                "start": "19.81", 
+                "text": "Power Rangers,", 
+                "toks": [
+                    "power", 
+                    "rangers"
+                ]
+            }, 
+            {
+                "dur": "0.35", 
+                "start": "20.51", 
+                "text": "Godzilla,", 
+                "toks": [
+                    "godzilla"
+                ]
+            }, 
+            {
+                "dur": "1.3", 
+                "start": "20.86", 
+                "text": "Rock &#39;Em Sock &#39;Em Robots,", 
+                "toks": [
+                    "rock", 
+                    "'em", 
+                    "sock", 
+                    "'em", 
+                    "robots"
+                ]
+            }, 
+            {
+                "dur": "2.34", 
+                "start": "22.16", 
+                "text": "that stupid Hugh Jackman robot boxing movie,", 
+                "toks": [
+                    "that", 
+                    "stupid", 
+                    "hugh", 
+                    "jackman", 
+                    "robot", 
+                    "boxing", 
+                    "movie"
+                ]
+            }, 
+            {
+                "dur": "1.91", 
+                "start": "24.5", 
+                "text": "or every anime ever made.", 
+                "toks": [
+                    "or", 
+                    "every", 
+                    "anime", 
+                    "ever", 
+                    "made"
+                ]
+            }, 
+            {
+                "dur": "1.54", 
+                "start": "26.41", 
+                "text": "Pacific Rim.", 
+                "toks": [
+                    "pacific", 
+                    "rim"
+                ]
+            }, 
+            {
+                "dur": "6.24", 
+                "start": "27.95", 
+                "text": "When giant aliens emerge from this iTunes\nvisualizer at the bottom of the ocean, the", 
+                "toks": [
+                    "when", 
+                    "giant", 
+                    "aliens", 
+                    "emerge", 
+                    "from", 
+                    "this", 
+                    "itunes", 
+                    "visualizer", 
+                    "at", 
+                    "the", 
+                    "bottom", 
+                    "of", 
+                    "the", 
+                    "ocean", 
+                    "the"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "34.19", 
+                "text": "entire world&#39;s resources will be spent on\nbuilding giant robots to punch them in the face.", 
+                "toks": [
+                    "entire", 
+                    "world", 
+                    "'s", 
+                    "resources", 
+                    "will", 
+                    "be", 
+                    "spent", 
+                    "on", 
+                    "building", 
+                    "giant", 
+                    "robots", 
+                    "to", 
+                    "punch", 
+                    "them", 
+                    "in", 
+                    "the", 
+                    "face"
+                ]
+            }, 
+            {
+                "dur": "4.09", 
+                "start": "44.1", 
+                "text": "But these machines are only as good as their\ntwo pilots, who for no reason at all must", 
+                "toks": [
+                    "but", 
+                    "these", 
+                    "machines", 
+                    "are", 
+                    "only", 
+                    "as", 
+                    "good", 
+                    "as", 
+                    "their", 
+                    "two", 
+                    "pilots", 
+                    "who", 
+                    "for", 
+                    "no", 
+                    "reason", 
+                    "at", 
+                    "all", 
+                    "must"
+                ]
+            }, 
+            {
+                "dur": "4.691", 
+                "start": "49.079", 
+                "text": "be connected by an overly-complicated neural\nbridge to ensure drift compatibility,", 
+                "toks": [
+                    "be", 
+                    "connected", 
+                    "by", 
+                    "an", 
+                    "overly-complicated", 
+                    "neural", 
+                    "bridge", 
+                    "to", 
+                    "ensure", 
+                    "drift", 
+                    "compatibility"
+                ]
+            }, 
+            {
+                "dur": "4.43", 
+                "start": "53.77", 
+                "text": "a system so advanced only family members can\ndo it.", 
+                "toks": [
+                    "a", 
+                    "system", 
+                    "so", 
+                    "advanced", 
+                    "only", 
+                    "family", 
+                    "members", 
+                    "can", 
+                    "do", 
+                    "it"
+                ]
+            }, 
+            {
+                "dur": "1.75", 
+                "start": "58.2", 
+                "text": "&quot;You are drift compatible.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "you", 
+                    "are", 
+                    "drift", 
+                    "compatiblequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.379", 
+                "start": "59.95", 
+                "text": "Or just two random strangers.", 
+                "toks": [
+                    "or", 
+                    "just", 
+                    "two", 
+                    "random", 
+                    "strangers"
+                ]
+            }, 
+            {
+                "dur": "1.66", 
+                "start": "61.329", 
+                "text": "&quot;We are drift compatible.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "we", 
+                    "are", 
+                    "drift", 
+                    "compatiblequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.06", 
+                "start": "62.989", 
+                "text": "Or just one guy by himself.", 
+                "toks": [
+                    "or", 
+                    "just", 
+                    "one", 
+                    "guy", 
+                    "by", 
+                    "himself"
+                ]
+            }, 
+            {
+                "dur": "2.88", 
+                "start": "66.049", 
+                "text": "This makes no sense - but it sure looks cool!", 
+                "toks": [
+                    "this", 
+                    "makes", 
+                    "no", 
+                    "sense", 
+                    "-", 
+                    "but", 
+                    "it", 
+                    "sure", 
+                    "looks", 
+                    "cool"
+                ]
+            }, 
+            {
+                "dur": "4.97", 
+                "start": "68.929", 
+                "text": "Meet Raleigh Becket, a hot-shot pilot struggling\nto maintain his American accent", 
+                "toks": [
+                    "meet", 
+                    "raleigh", 
+                    "becket", 
+                    "a", 
+                    "hot-shot", 
+                    "pilot", 
+                    "struggling", 
+                    "to", 
+                    "maintain", 
+                    "his", 
+                    "american", 
+                    "accent"
+                ]
+            }, 
+            {
+                "dur": "5.411", 
+                "start": "73.899", 
+                "text": "&quot;All those years I spent living in the past,\nI never really thought about the future.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "all", 
+                    "those", 
+                    "years", 
+                    "i", 
+                    "spent", 
+                    "living", 
+                    "in", 
+                    "the", 
+                    "past", 
+                    "i", 
+                    "never", 
+                    "really", 
+                    "thought", 
+                    "about", 
+                    "the", 
+                    "futurequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.899", 
+                "start": "79.31", 
+                "text": "And his co-pilot, Mako Mori, a girl so bad\nat speaking English", 
+                "toks": [
+                    "and", 
+                    "his", 
+                    "co-pilot", 
+                    "mako", 
+                    "mori", 
+                    "a", 
+                    "girl", 
+                    "so", 
+                    "bad", 
+                    "at", 
+                    "speaking", 
+                    "english"
+                ]
+            }, 
+            {
+                "dur": "2.98", 
+                "start": "83.209", 
+                "text": "&quot;I&#39;ve studied your fighting techniques and\nstrategy.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "'ve", 
+                    "studied", 
+                    "your", 
+                    "fighting", 
+                    "techniques", 
+                    "and", 
+                    "strategyquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.411", 
+                "start": "86.189", 
+                "text": "sometimes she just gives up mid-sentence.", 
+                "toks": [
+                    "sometimes", 
+                    "she", 
+                    "just", 
+                    "gives", 
+                    "up", 
+                    "mid-sentence"
+                ]
+            }, 
+            {
+                "dur": "5.42", 
+                "start": "87.6", 
+                "text": "&quot;You promised me!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "you", 
+                    "promised", 
+                    "mequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.519", 
+                "start": "93.02", 
+                "text": "Watch as these two awkwardly flirt in the\nclassic will-they-won&#39;t-they relationship.", 
+                "toks": [
+                    "watch", 
+                    "as", 
+                    "these", 
+                    "two", 
+                    "awkwardly", 
+                    "flirt", 
+                    "in", 
+                    "the", 
+                    "classic", 
+                    "will-they-won't-they", 
+                    "relationship"
+                ]
+            }, 
+            {
+                "dur": "4.76", 
+                "start": "97.539", 
+                "text": "Then, for the first time in movie history...\nWON&#39;T.", 
+                "toks": [
+                    "then", 
+                    "for", 
+                    "the", 
+                    "first", 
+                    "time", 
+                    "in", 
+                    "movie", 
+                    "history", 
+                    "wo", 
+                    "n't"
+                ]
+            }, 
+            {
+                "dur": "1.959", 
+                "start": "105.2", 
+                "text": "Suit up with these bad ass fighting robots.", 
+                "toks": [
+                    "suit", 
+                    "up", 
+                    "with", 
+                    "these", 
+                    "bad", 
+                    "ass", 
+                    "fighting", 
+                    "robots"
+                ]
+            }, 
+            {
+                "dur": "1.12", 
+                "start": "107.159", 
+                "text": "&quot;Crimson Typoon.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "crimson", 
+                    "typoonquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.11", 
+                "start": "108.279", 
+                "text": "&quot;Cherno Alpha.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "cherno", 
+                    "alphaquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.21", 
+                "start": "109.389", 
+                "text": "&quot;Striker Eureka.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "striker", 
+                    "eurekaquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.12", 
+                "start": "110.599", 
+                "text": "And this one named after a stripper.", 
+                "toks": [
+                    "and", 
+                    "this", 
+                    "one", 
+                    "named", 
+                    "after", 
+                    "a", 
+                    "stripper"
+                ]
+            }, 
+            {
+                "dur": "1.481", 
+                "start": "112.719", 
+                "text": "&quot;Gipsy Danger.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "gipsy", 
+                    "dangerquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.619", 
+                "start": "114.2", 
+                "text": "Who comes fully-equipped with", 
+                "toks": [
+                    "who", 
+                    "comes", 
+                    "fully-equipped", 
+                    "with"
+                ]
+            }, 
+            {
+                "dur": "1.97", 
+                "start": "115.819", 
+                "text": "ineffective elbow rockets,", 
+                "toks": [
+                    "ineffective", 
+                    "elbow", 
+                    "rockets"
+                ]
+            }, 
+            {
+                "dur": "5.591", 
+                "start": "117.789", 
+                "text": "painfully slow plasma canons,", 
+                "toks": [
+                    "painfully", 
+                    "slow", 
+                    "plasma", 
+                    "canons"
+                ]
+            }, 
+            {
+                "dur": "4.21", 
+                "start": "123.38", 
+                "text": "and an incredibly powerful sword they forgot\nthey had until about two thirds of the way", 
+                "toks": [
+                    "and", 
+                    "an", 
+                    "incredibly", 
+                    "powerful", 
+                    "sword", 
+                    "they", 
+                    "forgot", 
+                    "they", 
+                    "had", 
+                    "until", 
+                    "about", 
+                    "two", 
+                    "thirds", 
+                    "of", 
+                    "the", 
+                    "way"
+                ]
+            }, 
+            {
+                "dur": "5.009", 
+                "start": "127.59", 
+                "text": "through the movie.", 
+                "toks": [
+                    "through", 
+                    "the", 
+                    "movie"
+                ]
+            }, 
+            {
+                "dur": "4.011", 
+                "start": "132.599", 
+                "text": "... Probably should&#39;ve busted that out at\nthe beginning of the movie. Don&#39;t you think?", 
+                "toks": [
+                    "probably", 
+                    "should", 
+                    "'ve", 
+                    "busted", 
+                    "that", 
+                    "out", 
+                    "at", 
+                    "the", 
+                    "beginning", 
+                    "of", 
+                    "the", 
+                    "movie", 
+                    "do", 
+                    "n't", 
+                    "you", 
+                    "think"
+                ]
+            }, 
+            {
+                "dur": "5.64", 
+                "start": "136.61", 
+                "text": "Ride along with a Marshal, an ex-pilot\nforced to take cancer-causing future Altoids", 
+                "toks": [
+                    "ride", 
+                    "along", 
+                    "with", 
+                    "a", 
+                    "marshal", 
+                    "an", 
+                    "ex-pilot", 
+                    "forced", 
+                    "to", 
+                    "take", 
+                    "cancer-causing", 
+                    "future", 
+                    "altoids"
+                ]
+            }, 
+            {
+                "dur": "4.7", 
+                "start": "142.25", 
+                "text": "but no amount of future cancer can stop him\nfrom giving the most awesome speech since", 
+                "toks": [
+                    "but", 
+                    "no", 
+                    "amount", 
+                    "of", 
+                    "future", 
+                    "cancer", 
+                    "can", 
+                    "stop", 
+                    "him", 
+                    "from", 
+                    "giving", 
+                    "the", 
+                    "most", 
+                    "awesome", 
+                    "speech", 
+                    "since"
+                ]
+            }, 
+            {
+                "dur": "1.24", 
+                "start": "146.95", 
+                "text": "Independence Day.", 
+                "toks": [
+                    "independence", 
+                    "day"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "148.19", 
+                "text": "&quot;Today we face the monsters that are at our\ndoor and bring the fight to them. Today we", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "today", 
+                    "we", 
+                    "face", 
+                    "the", 
+                    "monsters", 
+                    "that", 
+                    "are", 
+                    "at", 
+                    "our", 
+                    "door", 
+                    "and", 
+                    "bring", 
+                    "the", 
+                    "fight", 
+                    "to", 
+                    "them", 
+                    "today", 
+                    "we"
+                ]
+            }, 
+            {
+                "dur": "2.61", 
+                "start": "155.19", 
+                "text": "are canceling the apocalypse!&quot;", 
+                "toks": [
+                    "are", 
+                    "canceling", 
+                    "the", 
+                    "apocalypsequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.2", 
+                "start": "157.8", 
+                "text": "[cheering]", 
+                "toks": [
+                    "[", 
+                    "cheering", 
+                    "]"
+                ]
+            }, 
+            {
+                "dur": "1.6", 
+                "start": "160", 
+                "text": "Hell yeah!", 
+                "toks": [
+                    "hell", 
+                    "yeah"
+                ]
+            }, 
+            {
+                "dur": "6.35", 
+                "start": "161.6", 
+                "text": "So relive the summer&#39;s guiltiest pleasure\nthat&#39;s either the most awesome dumb movie", 
+                "toks": [
+                    "so", 
+                    "relive", 
+                    "the", 
+                    "summer", 
+                    "'s", 
+                    "guiltiest", 
+                    "pleasure", 
+                    "that", 
+                    "'s", 
+                    "either", 
+                    "the", 
+                    "most", 
+                    "awesome", 
+                    "dumb", 
+                    "movie"
+                ]
+            }, 
+            {
+                "dur": "1.65", 
+                "start": "167.95", 
+                "text": "ever made", 
+                "toks": [
+                    "ever", 
+                    "made"
+                ]
+            }, 
+            {
+                "dur": "5.94", 
+                "start": "169.6", 
+                "text": "or the dumbest awesome movie ever made.", 
+                "toks": [
+                    "or", 
+                    "the", 
+                    "dumbest", 
+                    "awesome", 
+                    "movie", 
+                    "ever", 
+                    "made"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "175.54", 
+                "text": "So awesome!", 
+                "toks": [
+                    "so", 
+                    "awesome"
+                ]
+            }, 
+            {
+                "dur": "1.04", 
+                "start": "182.82", 
+                "text": "So dumb!", 
+                "toks": [
+                    "so", 
+                    "dumb"
+                ]
+            }, 
+            {
+                "dur": "0.68", 
+                "start": "183.86", 
+                "text": "Starring...", 
+                "toks": [
+                    "starring"
+                ]
+            }, 
+            {
+                "dur": "3.5", 
+                "start": "184.54", 
+                "text": "things your inner 9-year-old will love", 
+                "toks": [
+                    "things", 
+                    "your", 
+                    "inner", 
+                    "9-year-old", 
+                    "will", 
+                    "love"
+                ]
+            }, 
+            {
+                "dur": "1.71", 
+                "start": "188.04", 
+                "text": "giant robots", 
+                "toks": [
+                    "giant", 
+                    "robots"
+                ]
+            }, 
+            {
+                "dur": "1.78", 
+                "start": "189.75", 
+                "text": "giant monsters", 
+                "toks": [
+                    "giant", 
+                    "monsters"
+                ]
+            }, 
+            {
+                "dur": "3.17", 
+                "start": "191.53", 
+                "text": "giant robots punching giant monsters", 
+                "toks": [
+                    "giant", 
+                    "robots", 
+                    "punching", 
+                    "giant", 
+                    "monsters"
+                ]
+            }, 
+            {
+                "dur": "2.58", 
+                "start": "194.7", 
+                "text": "using shipping crates as brass knuckles", 
+                "toks": [
+                    "using", 
+                    "shipping", 
+                    "crates", 
+                    "as", 
+                    "brass", 
+                    "knuckles"
+                ]
+            }, 
+            {
+                "dur": "2.42", 
+                "start": "197.28", 
+                "text": "using a freighter like a baseball bat", 
+                "toks": [
+                    "using", 
+                    "a", 
+                    "freighter", 
+                    "like", 
+                    "a", 
+                    "baseball", 
+                    "bat"
+                ]
+            }, 
+            {
+                "dur": "0.99", 
+                "start": "199.7", 
+                "text": "bo staff fighting", 
+                "toks": [
+                    "bo", 
+                    "staff", 
+                    "fighting"
+                ]
+            }, 
+            {
+                "dur": "1.54", 
+                "start": "200.69", 
+                "text": "colors!", 
+                "toks": [
+                    "colors"
+                ]
+            }, 
+            {
+                "dur": "1.34", 
+                "start": "202.23", 
+                "text": "a doggy!", 
+                "toks": [
+                    "a", 
+                    "doggy"
+                ]
+            }, 
+            {
+                "dur": "1.45", 
+                "start": "203.57", 
+                "text": "aw, that&#39;s got three arms!", 
+                "toks": [
+                    "aw", 
+                    "that", 
+                    "'s", 
+                    "got", 
+                    "three", 
+                    "arms"
+                ]
+            }, 
+            {
+                "dur": "2.22", 
+                "start": "205.02", 
+                "text": "pew pew pew!", 
+                "toks": [
+                    "pew", 
+                    "pew", 
+                    "pew"
+                ]
+            }, 
+            {
+                "dur": "0.74", 
+                "start": "207.24", 
+                "text": "whoa!", 
+                "toks": [
+                    "whoa"
+                ]
+            }, 
+            {
+                "dur": "1.5", 
+                "start": "207.98", 
+                "text": "and that one part...", 
+                "toks": [
+                    "and", 
+                    "that", 
+                    "one", 
+                    "part"
+                ]
+            }, 
+            {
+                "dur": "1.69", 
+                "start": "209.48", 
+                "text": "where he&#39;s all like &quot;Ugh&quot;...", 
+                "toks": [
+                    "where", 
+                    "he", 
+                    "'s", 
+                    "all", 
+                    "like", 
+                    "quot", 
+                    ";", 
+                    "ughquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.66", 
+                "start": "211.17", 
+                "text": "and the Kaiju&#39;s all &quot;Rarr!&quot;", 
+                "toks": [
+                    "and", 
+                    "the", 
+                    "kaiju", 
+                    "'s", 
+                    "all", 
+                    "quot", 
+                    ";", 
+                    "rarrquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.96", 
+                "start": "214.83", 
+                "text": "Awesome Dumb Robot Movie", 
+                "toks": [
+                    "awesome", 
+                    "dumb", 
+                    "robot", 
+                    "movie"
+                ]
+            }, 
+            {
+                "dur": "0.76", 
+                "start": "216.79", 
+                "text": "ummm...", 
+                "toks": [
+                    "ummm"
+                ]
+            }, 
+            {
+                "dur": "2.32", 
+                "start": "217.55", 
+                "text": "Pacific Rim", 
+                "toks": [
+                    "pacific", 
+                    "rim"
+                ]
+            }, 
+            {
+                "dur": "5.74", 
+                "start": "219.87", 
+                "text": "Let&#39;s be honest: that movie was super dumb.\nBut I still cannot wait for the sequel.", 
+                "toks": [
+                    "let", 
+                    "'s", 
+                    "be", 
+                    "honest", 
+                    "that", 
+                    "movie", 
+                    "was", 
+                    "super", 
+                    "dumb", 
+                    "but", 
+                    "i", 
+                    "still", 
+                    "can", 
+                    "not", 
+                    "wait", 
+                    "for", 
+                    "the", 
+                    "sequel"
+                ]
+            }, 
+            {
+                "dur": "0.9", 
+                "start": "225.61", 
+                "text": "Thanks for watching.", 
+                "toks": [
+                    "thanks", 
+                    "for", 
+                    "watching"
+                ]
+            }, 
+            {
+                "dur": "1.59", 
+                "start": "226.51", 
+                "text": "Be sure to subscribe.", 
+                "toks": [
+                    "be", 
+                    "sure", 
+                    "to", 
+                    "subscribe"
+                ]
+            }, 
+            {
+                "dur": "2.8", 
+                "start": "228.1", 
+                "text": "&quot;Only YOU can prevent forest fires.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "only", 
+                    "you", 
+                    "can", 
+                    "prevent", 
+                    "forest", 
+                    "firesquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.59", 
+                "start": "230.9", 
+                "text": "&quot;60% of the time, it works every time!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "60", 
+                    "of", 
+                    "the", 
+                    "time", 
+                    "it", 
+                    "works", 
+                    "every", 
+                    "timequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.5", 
+                "start": "234.49", 
+                "text": "&quot;I&#39;m not locked in here with you. You&#39;re locked\nin here with me.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "'m", 
+                    "not", 
+                    "locked", 
+                    "in", 
+                    "here", 
+                    "with", 
+                    "you", 
+                    "you", 
+                    "'re", 
+                    "locked", 
+                    "in", 
+                    "here", 
+                    "with", 
+                    "mequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.21", 
+                "start": "238.99", 
+                "text": "&quot;I am a banana!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "am", 
+                    "a", 
+                    "bananaquot", 
+                    ";"
+                ]
+            }
         ], 
-        "videoLength": "PT5M38S"
+        "numReplies": 2294, 
+        "numberComments": 17250, 
+        "numberViews": 7123555, 
+        "publishDate": "2013-10-22T17:04:23.000Z", 
+        "title": "Honest Trailers - Pacific Rim", 
+        "topics": [
+            "/m/0zwmygm", 
+            "/m/0h0yd81"
+        ], 
+        "videoLength": "PT4M2S"
     }, 
-    "EvRJN2rblp4": {
-        "avgRepliesPerComment": 0.8053375196232339, 
-        "avgWordsPerComment": 38.90909090909091, 
-        "captions": null, 
-        "numberComments": "1151", 
-        "numberViews": "300053", 
-        "publishDate": "2014-02-04T16:30:20.000Z", 
-        "topics": [
-            "/m/03flrg", 
-            "/m/034vfh"
+    "pvJqvA0QU1g": {
+        "avgRepliesPerComment": 0.24051017309444275, 
+        "avgWordsPerComment": 10.358342217484008, 
+        "captions": [
+            {
+                "dur": "7", 
+                "start": "4.02", 
+                "text": "From the company that owns a monopoly on teenage\ngirl fantasies", 
+                "toks": [
+                    "from", 
+                    "the", 
+                    "company", 
+                    "that", 
+                    "owns", 
+                    "a", 
+                    "monopoly", 
+                    "on", 
+                    "teenage", 
+                    "girl", 
+                    "fantasies"
+                ]
+            }, 
+            {
+                "dur": "4.97", 
+                "start": "12", 
+                "text": "comes the only film about starving children\nwith it\u2019s own delicious sandwich tie-in!", 
+                "toks": [
+                    "comes", 
+                    "the", 
+                    "only", 
+                    "film", 
+                    "about", 
+                    "starving", 
+                    "children", 
+                    "with", 
+                    "it\u2019s", 
+                    "own", 
+                    "delicious", 
+                    "sandwich", 
+                    "tie-in"
+                ]
+            }, 
+            {
+                "dur": "3.83", 
+                "start": "16.97", 
+                "text": "Subway: be bold, eat fresh!", 
+                "toks": [
+                    "subway", 
+                    "be", 
+                    "bold", 
+                    "eat", 
+                    "fresh"
+                ]
+            }, 
+            {
+                "dur": "2.03", 
+                "start": "20.8", 
+                "text": "The Hunger Games: Catching Fire", 
+                "toks": [
+                    "the", 
+                    "hunger", 
+                    "games", 
+                    "catching", 
+                    "fire"
+                ]
+            }, 
+            {
+                "dur": "3.25", 
+                "start": "22.83", 
+                "text": "You\u2019ve seen the first Hunger Games,", 
+                "toks": [
+                    "you\u2019ve", 
+                    "seen", 
+                    "the", 
+                    "first", 
+                    "hunger", 
+                    "games"
+                ]
+            }, 
+            {
+                "dur": "4.05", 
+                "start": "26.08", 
+                "text": "now, prepare for the way better follow-up\nto the thinking girl&#39;s Twilight", 
+                "toks": [
+                    "now", 
+                    "prepare", 
+                    "for", 
+                    "the", 
+                    "way", 
+                    "better", 
+                    "follow-up", 
+                    "to", 
+                    "the", 
+                    "thinking", 
+                    "girl", 
+                    "'s", 
+                    "twilight"
+                ]
+            }, 
+            {
+                "dur": "5.839", 
+                "start": "30.13", 
+                "text": "and watch as this good movie gets hailed as\ngreat because everyone wants to be BFF\u2019s", 
+                "toks": [
+                    "and", 
+                    "watch", 
+                    "as", 
+                    "this", 
+                    "good", 
+                    "movie", 
+                    "gets", 
+                    "hailed", 
+                    "as", 
+                    "great", 
+                    "because", 
+                    "everyone", 
+                    "wants", 
+                    "to", 
+                    "be", 
+                    "bff\u2019s"
+                ]
+            }, 
+            {
+                "dur": "0.77", 
+                "start": "35.969", 
+                "text": "with Jennifer Lawrence.", 
+                "toks": [
+                    "with", 
+                    "jennifer", 
+                    "lawrence"
+                ]
+            }, 
+            {
+                "dur": "2.291", 
+                "start": "36.739", 
+                "text": "&quot;I&#39;m sorry, I did a shot before I --&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "'m", 
+                    "sorry", 
+                    "i", 
+                    "did", 
+                    "a", 
+                    "shot", 
+                    "before", 
+                    "i", 
+                    "--", 
+                    "quot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.049", 
+                "start": "39.03", 
+                "text": "God, she\u2019s just so down to Earth.", 
+                "toks": [
+                    "god", 
+                    "she\u2019s", 
+                    "just", 
+                    "so", 
+                    "down", 
+                    "to", 
+                    "earth"
+                ]
+            }, 
+            {
+                "dur": "6.241", 
+                "start": "43.079", 
+                "text": "Return to Panem, where it\u2019s taken 75 years\nfor people to get a little bit upset about", 
+                "toks": [
+                    "return", 
+                    "to", 
+                    "panem", 
+                    "where", 
+                    "it\u2019s", 
+                    "taken", 
+                    "75", 
+                    "years", 
+                    "for", 
+                    "people", 
+                    "to", 
+                    "get", 
+                    "a", 
+                    "little", 
+                    "bit", 
+                    "upset", 
+                    "about"
+                ]
+            }, 
+            {
+                "dur": "2.39", 
+                "start": "49.32", 
+                "text": "the annual child murdering competition", 
+                "toks": [
+                    "the", 
+                    "annual", 
+                    "child", 
+                    "murdering", 
+                    "competition"
+                ]
+            }, 
+            {
+                "dur": "2.63", 
+                "start": "51.71", 
+                "text": "and reunite with Katniss.", 
+                "toks": [
+                    "and", 
+                    "reunite", 
+                    "with", 
+                    "katniss"
+                ]
+            }, 
+            {
+                "dur": "4.98", 
+                "start": "54.34", 
+                "text": "Watch as this global role model and feminist\nicon spends the entire movie", 
+                "toks": [
+                    "watch", 
+                    "as", 
+                    "this", 
+                    "global", 
+                    "role", 
+                    "model", 
+                    "and", 
+                    "feminist", 
+                    "icon", 
+                    "spends", 
+                    "the", 
+                    "entire", 
+                    "movie"
+                ]
+            }, 
+            {
+                "dur": "1.68", 
+                "start": "59.32", 
+                "text": "getting saved by boys,", 
+                "toks": [
+                    "getting", 
+                    "saved", 
+                    "by", 
+                    "boys"
+                ]
+            }, 
+            {
+                "dur": "0.719", 
+                "start": "61", 
+                "text": "&quot;Duck!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "duckquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.16", 
+                "start": "61.719", 
+                "text": "&quot;Whoa whoa whoa!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "whoa", 
+                    "whoa", 
+                    "whoaquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.611", 
+                "start": "63.879", 
+                "text": "&quot;Get out of my way!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "get", 
+                    "out", 
+                    "of", 
+                    "my", 
+                    "wayquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "0.719", 
+                "start": "67.49", 
+                "text": "complaining,", 
+                "toks": [
+                    "complaining"
+                ]
+            }, 
+            {
+                "dur": "2.461", 
+                "start": "68.209", 
+                "text": "&quot;I don&#39;t want anyone looking to me.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "do", 
+                    "n't", 
+                    "want", 
+                    "anyone", 
+                    "looking", 
+                    "to", 
+                    "mequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.6", 
+                "start": "70.67", 
+                "text": "&quot;I&#39;m really not in the mood for a lecture.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "'m", 
+                    "really", 
+                    "not", 
+                    "in", 
+                    "the", 
+                    "mood", 
+                    "for", 
+                    "a", 
+                    "lecturequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.5", 
+                "start": "72.27", 
+                "text": "&quot;So far, I&#39;m not overwhelmed by our choices.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "so", 
+                    "far", 
+                    "i", 
+                    "'m", 
+                    "not", 
+                    "overwhelmed", 
+                    "by", 
+                    "our", 
+                    "choicesquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.439", 
+                "start": "74.77", 
+                "text": "&quot;I should have just eaten the berries in the\narena and died like I was supposed to.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "should", 
+                    "have", 
+                    "just", 
+                    "eaten", 
+                    "the", 
+                    "berries", 
+                    "in", 
+                    "the", 
+                    "arena", 
+                    "and", 
+                    "died", 
+                    "like", 
+                    "i", 
+                    "was", 
+                    "supposed", 
+                    "toquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "0.921", 
+                "start": "79.209", 
+                "text": "being antisocial,", 
+                "toks": [
+                    "being", 
+                    "antisocial"
+                ]
+            }, 
+            {
+                "dur": "1.75", 
+                "start": "80.13", 
+                "text": "&quot;These tributes are crazy.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "these", 
+                    "tributes", 
+                    "are", 
+                    "crazyquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.629", 
+                "start": "81.88", 
+                "text": "&quot;God, does anybody actually believe this?&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "god", 
+                    "does", 
+                    "anybody", 
+                    "actually", 
+                    "believe", 
+                    "thisquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.441", 
+                "start": "84.509", 
+                "text": "&quot;You son of a bitch!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "you", 
+                    "son", 
+                    "of", 
+                    "a", 
+                    "bitchquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.919", 
+                "start": "87.95", 
+                "text": "&quot;You are a strangely dislikeable person.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "you", 
+                    "are", 
+                    "a", 
+                    "strangely", 
+                    "dislikeable", 
+                    "personquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.121", 
+                "start": "90.869", 
+                "text": "&quot;I&#39;ve never been very good at friends.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "'ve", 
+                    "never", 
+                    "been", 
+                    "very", 
+                    "good", 
+                    "at", 
+                    "friendsquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.369", 
+                "start": "93.99", 
+                "text": "and getting manipulated to the point where\nher actions have no effect on the plot at", 
+                "toks": [
+                    "and", 
+                    "getting", 
+                    "manipulated", 
+                    "to", 
+                    "the", 
+                    "point", 
+                    "where", 
+                    "her", 
+                    "actions", 
+                    "have", 
+                    "no", 
+                    "effect", 
+                    "on", 
+                    "the", 
+                    "plot", 
+                    "at"
+                ]
+            }, 
+            {
+                "dur": "0.25", 
+                "start": "97.359", 
+                "text": "all.", 
+                "toks": [
+                    "all"
+                ]
+            }, 
+            {
+                "dur": "1.891", 
+                "start": "97.599", 
+                "text": "&quot;You have been our mission from the beginning.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "you", 
+                    "have", 
+                    "been", 
+                    "our", 
+                    "mission", 
+                    "from", 
+                    "the", 
+                    "beginningquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.439", 
+                "start": "99.49", 
+                "text": "&quot;Better for you to know nothing at all.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "better", 
+                    "for", 
+                    "you", 
+                    "to", 
+                    "know", 
+                    "nothing", 
+                    "at", 
+                    "allquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.53", 
+                "start": "101.929", 
+                "text": "Follow Katniss as she must once again choose\nbetween Gale, a total hunk", 
+                "toks": [
+                    "follow", 
+                    "katniss", 
+                    "as", 
+                    "she", 
+                    "must", 
+                    "once", 
+                    "again", 
+                    "choose", 
+                    "between", 
+                    "gale", 
+                    "a", 
+                    "total", 
+                    "hunk"
+                ]
+            }, 
+            {
+                "dur": "1.351", 
+                "start": "106.459", 
+                "text": "&quot;Hey, Kat-nip.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "hey", 
+                    "kat-nipquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.299", 
+                "start": "107.81", 
+                "text": "or Peeta, a total burden to everyone around\nhim.", 
+                "toks": [
+                    "or", 
+                    "peeta", 
+                    "a", 
+                    "total", 
+                    "burden", 
+                    "to", 
+                    "everyone", 
+                    "around", 
+                    "him"
+                ]
+            }, 
+            {
+                "dur": "2.841", 
+                "start": "112.109", 
+                "text": "Whether he\u2019s drowning,", 
+                "toks": [
+                    "whether", 
+                    "he\u2019s", 
+                    "drowning"
+                ]
+            }, 
+            {
+                "dur": "0.949", 
+                "start": "114.95", 
+                "text": "falling,", 
+                "toks": [
+                    "falling"
+                ]
+            }, 
+            {
+                "dur": "0.95", 
+                "start": "115.899", 
+                "text": "&quot;Peeta!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "peetaquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.81", 
+                "start": "116.849", 
+                "text": "&quot;I can&#39;t carry him!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "ca", 
+                    "n't", 
+                    "carry", 
+                    "himquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.76", 
+                "start": "120.659", 
+                "text": "wandering into a forcefield,", 
+                "toks": [
+                    "wandering", 
+                    "into", 
+                    "a", 
+                    "forcefield"
+                ]
+            }, 
+            {
+                "dur": "2.33", 
+                "start": "122.419", 
+                "text": "&quot;Peeta no!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "peeta", 
+                    "noquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "5.12", 
+                "start": "124.749", 
+                "text": "or wandering into a pack of killer monkeys,", 
+                "toks": [
+                    "or", 
+                    "wandering", 
+                    "into", 
+                    "a", 
+                    "pack", 
+                    "of", 
+                    "killer", 
+                    "monkeys"
+                ]
+            }, 
+            {
+                "dur": "3.691", 
+                "start": "129.869", 
+                "text": "nothing will stop Peeta on his neverending\nquest to escape from the friend-zone.", 
+                "toks": [
+                    "nothing", 
+                    "will", 
+                    "stop", 
+                    "peeta", 
+                    "on", 
+                    "his", 
+                    "neverending", 
+                    "quest", 
+                    "to", 
+                    "escape", 
+                    "from", 
+                    "the", 
+                    "friend-zone"
+                ]
+            }, 
+            {
+                "dur": "2.11", 
+                "start": "133.56", 
+                "text": "&quot;What&#39;s your favorite color?&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "what", 
+                    "'s", 
+                    "your", 
+                    "favorite", 
+                    "colorquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.84", 
+                "start": "135.67", 
+                "text": "&quot;Now you&#39;ve stepped over the line.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "now", 
+                    "you", 
+                    "'ve", 
+                    "stepped", 
+                    "over", 
+                    "the", 
+                    "linequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.21", 
+                "start": "138.51", 
+                "text": "&quot;Seriously, though, what is it?&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "seriously", 
+                    "though", 
+                    "what", 
+                    "is", 
+                    "itquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.29", 
+                "start": "141.72", 
+                "text": "&quot;For you.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "for", 
+                    "youquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.29", 
+                "start": "143.01", 
+                "text": "&quot;Thank you.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "thank", 
+                    "youquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.93", 
+                "start": "144.3", 
+                "text": "&quot;Nobody needs me.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "nobody", 
+                    "needs", 
+                    "mequot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "1.28", 
+                "start": "146.23", 
+                "text": "&quot;I do.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "i", 
+                    "doquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "2.58", 
+                "start": "147.51", 
+                "text": "Holy sh*t, it worked!", 
+                "toks": [
+                    "holy", 
+                    "sh*t", 
+                    "it", 
+                    "worked"
+                ]
+            }, 
+            {
+                "dur": "3.16", 
+                "start": "150.09", 
+                "text": "Not bad, cake boss, not bad.", 
+                "toks": [
+                    "not", 
+                    "bad", 
+                    "cake", 
+                    "boss", 
+                    "not", 
+                    "bad"
+                ]
+            }, 
+            {
+                "dur": "4.42", 
+                "start": "153.25", 
+                "text": "Join Peeta and Katniss as they spend 12 days\nriding around on a train,", 
+                "toks": [
+                    "join", 
+                    "peeta", 
+                    "and", 
+                    "katniss", 
+                    "as", 
+                    "they", 
+                    "spend", 
+                    "12", 
+                    "days", 
+                    "riding", 
+                    "around", 
+                    "on", 
+                    "a", 
+                    "train"
+                ]
+            }, 
+            {
+                "dur": "1.69", 
+                "start": "157.67", 
+                "text": "&quot;You never get off this train!&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "you", 
+                    "never", 
+                    "get", 
+                    "off", 
+                    "this", 
+                    "trainquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.42", 
+                "start": "159.36", 
+                "text": "even though flying hovercrafts exist in the\nsame movie.", 
+                "toks": [
+                    "even", 
+                    "though", 
+                    "flying", 
+                    "hovercrafts", 
+                    "exist", 
+                    "in", 
+                    "the", 
+                    "same", 
+                    "movie"
+                ]
+            }, 
+            {
+                "dur": "4.54", 
+                "start": "162.78", 
+                "text": "Then gear up for Hunger Games All Stars: Rumble\nin the Jungle.", 
+                "toks": [
+                    "then", 
+                    "gear", 
+                    "up", 
+                    "for", 
+                    "hunger", 
+                    "games", 
+                    "all", 
+                    "stars", 
+                    "rumble", 
+                    "in", 
+                    "the", 
+                    "jungle"
+                ]
+            }, 
+            {
+                "dur": "2.66", 
+                "start": "167.32", 
+                "text": "Full of new twists like...", 
+                "toks": [
+                    "full", 
+                    "of", 
+                    "new", 
+                    "twists", 
+                    "like"
+                ]
+            }, 
+            {
+                "dur": "1.09", 
+                "start": "169.98", 
+                "text": "older people,", 
+                "toks": [
+                    "older", 
+                    "people"
+                ]
+            }, 
+            {
+                "dur": "1.44", 
+                "start": "171.07", 
+                "text": "fog herpes,", 
+                "toks": [
+                    "fog", 
+                    "herpes"
+                ]
+            }, 
+            {
+                "dur": "3.88", 
+                "start": "172.51", 
+                "text": "and the rotating danger zones from Battle\nRoyale.", 
+                "toks": [
+                    "and", 
+                    "the", 
+                    "rotating", 
+                    "danger", 
+                    "zones", 
+                    "from", 
+                    "battle", 
+                    "royale"
+                ]
+            }, 
+            {
+                "dur": "2.33", 
+                "start": "176.39", 
+                "text": "Meet new competitors like...", 
+                "toks": [
+                    "meet", 
+                    "new", 
+                    "competitors", 
+                    "like"
+                ]
+            }, 
+            {
+                "dur": "4.78", 
+                "start": "178.72", 
+                "text": "Joanna, a hottie who does her best to make\nKatniss jealous,", 
+                "toks": [
+                    "joanna", 
+                    "a", 
+                    "hottie", 
+                    "who", 
+                    "does", 
+                    "her", 
+                    "best", 
+                    "to", 
+                    "make", 
+                    "katniss", 
+                    "jealous"
+                ]
+            }, 
+            {
+                "dur": "5.07", 
+                "start": "183.5", 
+                "text": "Finnick, a hottie who does his best to make\nKatniss jealous,", 
+                "toks": [
+                    "finnick", 
+                    "a", 
+                    "hottie", 
+                    "who", 
+                    "does", 
+                    "his", 
+                    "best", 
+                    "to", 
+                    "make", 
+                    "katniss", 
+                    "jealous"
+                ]
+            }, 
+            {
+                "dur": "3.13", 
+                "start": "188.57", 
+                "text": "and a bunch of new random tributes who die\nbefore you even bother to learn their silly", 
+                "toks": [
+                    "and", 
+                    "a", 
+                    "bunch", 
+                    "of", 
+                    "new", 
+                    "random", 
+                    "tributes", 
+                    "who", 
+                    "die", 
+                    "before", 
+                    "you", 
+                    "even", 
+                    "bother", 
+                    "to", 
+                    "learn", 
+                    "their", 
+                    "silly"
+                ]
+            }, 
+            {
+                "dur": "0.56", 
+                "start": "191.7", 
+                "text": "names.", 
+                "toks": [
+                    "names"
+                ]
+            }, 
+            {
+                "dur": "1.72", 
+                "start": "192.26", 
+                "text": "&quot;Not a threat.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "not", 
+                    "a", 
+                    "threatquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "4.19", 
+                "start": "193.98", 
+                "text": "So experience a film that\u2019s ultimately just\na commercial for the next film...", 
+                "toks": [
+                    "so", 
+                    "experience", 
+                    "a", 
+                    "film", 
+                    "that\u2019s", 
+                    "ultimately", 
+                    "just", 
+                    "a", 
+                    "commercial", 
+                    "for", 
+                    "the", 
+                    "next", 
+                    "film"
+                ]
+            }, 
+            {
+                "dur": "3.61", 
+                "start": "198.17", 
+                "text": "&quot;This is the revolution, and you are the Mocking\nJay.&quot;", 
+                "toks": [
+                    "quot", 
+                    ";", 
+                    "this", 
+                    "is", 
+                    "the", 
+                    "revolution", 
+                    "and", 
+                    "you", 
+                    "are", 
+                    "the", 
+                    "mocking", 
+                    "jayquot", 
+                    ";"
+                ]
+            }, 
+            {
+                "dur": "3.09", 
+                "start": "201.78", 
+                "text": "which will ultimately just be a commercial\nfor the next film...", 
+                "toks": [
+                    "which", 
+                    "will", 
+                    "ultimately", 
+                    "just", 
+                    "be", 
+                    "a", 
+                    "commercial", 
+                    "for", 
+                    "the", 
+                    "next", 
+                    "film"
+                ]
+            }, 
+            {
+                "dur": "5.48", 
+                "start": "204.87", 
+                "text": "because now every successful franchise has\nto drag things out as long as possible.", 
+                "toks": [
+                    "because", 
+                    "now", 
+                    "every", 
+                    "successful", 
+                    "franchise", 
+                    "has", 
+                    "to", 
+                    "drag", 
+                    "things", 
+                    "out", 
+                    "as", 
+                    "long", 
+                    "as", 
+                    "possible"
+                ]
+            }, 
+            {
+                "dur": "3.29", 
+                "start": "210.35", 
+                "text": "OK! We\u2019ll go see the sequels!", 
+                "toks": [
+                    "ok", 
+                    "we\u2019ll", 
+                    "go", 
+                    "see", 
+                    "the", 
+                    "sequels"
+                ]
+            }, 
+            {
+                "dur": "1.64", 
+                "start": "213.64", 
+                "text": "Don\u2019t hurt us!", 
+                "toks": [
+                    "don\u2019t", 
+                    "hurt", 
+                    "us"
+                ]
+            }, 
+            {
+                "dur": "0.55", 
+                "start": "215.28", 
+                "text": "Starring...", 
+                "toks": [
+                    "starring"
+                ]
+            }, 
+            {
+                "dur": "0.54", 
+                "start": "215.83", 
+                "text": "J-Hutch", 
+                "toks": [
+                    "j-hutch"
+                ]
+            }, 
+            {
+                "dur": "1.47", 
+                "start": "216.37", 
+                "text": "Baby Thor", 
+                "toks": [
+                    "baby", 
+                    "thor"
+                ]
+            }, 
+            {
+                "dur": "1.56", 
+                "start": "217.84", 
+                "text": "Jack Bauer\u2019s Dad", 
+                "toks": [
+                    "jack", 
+                    "bauer\u2019s", 
+                    "dad"
+                ]
+            }, 
+            {
+                "dur": "1.8", 
+                "start": "219.4", 
+                "text": "Ryan Seacrest", 
+                "toks": [
+                    "ryan", 
+                    "seacrest"
+                ]
+            }, 
+            {
+                "dur": "1.49", 
+                "start": "221.2", 
+                "text": "Minecraft", 
+                "toks": [
+                    "minecraft"
+                ]
+            }, 
+            {
+                "dur": "1.42", 
+                "start": "222.69", 
+                "text": "Jeffrey Wrong", 
+                "toks": [
+                    "jeffrey", 
+                    "wrong"
+                ]
+            }, 
+            {
+                "dur": "0.7", 
+                "start": "224.11", 
+                "text": "Aqualad", 
+                "toks": [
+                    "aqualad"
+                ]
+            }, 
+            {
+                "dur": "2.009", 
+                "start": "224.81", 
+                "text": "Yoda", 
+                "toks": [
+                    "yoda"
+                ]
+            }, 
+            {
+                "dur": "1.181", 
+                "start": "226.819", 
+                "text": "Stormtroopers", 
+                "toks": [
+                    "stormtroopers"
+                ]
+            }, 
+            {
+                "dur": "1.65", 
+                "start": "228", 
+                "text": "Matthew McConaughey", 
+                "toks": [
+                    "matthew", 
+                    "mcconaughey"
+                ]
+            }, 
+            {
+                "dur": "1.39", 
+                "start": "229.65", 
+                "text": "Jerry Bruckheimer Films", 
+                "toks": [
+                    "jerry", 
+                    "bruckheimer", 
+                    "films"
+                ]
+            }, 
+            {
+                "dur": "1.9", 
+                "start": "231.04", 
+                "text": "The Claaaaaw", 
+                "toks": [
+                    "the", 
+                    "claaaaaw"
+                ]
+            }, 
+            {
+                "dur": "1.92", 
+                "start": "232.94", 
+                "text": "Infinite arrows", 
+                "toks": [
+                    "infinite", 
+                    "arrows"
+                ]
+            }, 
+            {
+                "dur": "4.14", 
+                "start": "234.86", 
+                "text": "And a Totally Average Down to Earth Girl,\nJust Like You!", 
+                "toks": [
+                    "and", 
+                    "a", 
+                    "totally", 
+                    "average", 
+                    "down", 
+                    "to", 
+                    "earth", 
+                    "girl", 
+                    "just", 
+                    "like", 
+                    "you"
+                ]
+            }, 
+            {
+                "dur": "2.97", 
+                "start": "239", 
+                "text": "The Hunger Games: Catching Fire.", 
+                "toks": [
+                    "the", 
+                    "hunger", 
+                    "games", 
+                    "catching", 
+                    "fire"
+                ]
+            }, 
+            {
+                "dur": "6.849", 
+                "start": "241.97", 
+                "text": "Now THAT\u2019S how Buttercup is supposed to\nlook. Was that so hard, guys?", 
+                "toks": [
+                    "now", 
+                    "that\u2019s", 
+                    "how", 
+                    "buttercup", 
+                    "is", 
+                    "supposed", 
+                    "to", 
+                    "look", 
+                    "was", 
+                    "that", 
+                    "so", 
+                    "hard", 
+                    "guys"
+                ]
+            }, 
+            {
+                "dur": "1.121", 
+                "start": "248.819", 
+                "text": "Thanks for watching!", 
+                "toks": [
+                    "thanks", 
+                    "for", 
+                    "watching"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "249.94", 
+                "text": "Be sure to subscribe and tell us in the comments\nbelow what movie you want ", 
+                "toks": [
+                    "be", 
+                    "sure", 
+                    "to", 
+                    "subscribe", 
+                    "and", 
+                    "tell", 
+                    "us", 
+                    "in", 
+                    "the", 
+                    "comments", 
+                    "below", 
+                    "what", 
+                    "movie", 
+                    "you", 
+                    "want"
+                ]
+            }, 
+            {
+                "dur": "7", 
+                "start": "265.18", 
+                "text": "to see next.", 
+                "toks": [
+                    "to", 
+                    "see", 
+                    "next"
+                ]
+            }
         ], 
-        "videoLength": "PT7M31S"
-    }, 
-    "FIECwruRJ6s": {
-        "avgRepliesPerComment": 1.7772727272727273, 
-        "avgWordsPerComment": 40.12072892938497, 
-        "captions": null, 
-        "numberComments": "629", 
-        "numberViews": "172234", 
-        "publishDate": "2014-02-06T18:53:48.000Z", 
+        "numReplies": 1584, 
+        "numberComments": 17427, 
+        "numberViews": 8995513, 
+        "publishDate": "2014-03-07T17:53:11.000Z", 
+        "title": "Honest Trailers - The Hunger Games: Catching Fire", 
         "topics": [
-            "/m/034vfh", 
-            "/m/011q2zfc"
+            "/m/0zwmygm", 
+            "/m/0n40qmp"
         ], 
-        "videoLength": "PT5M39S"
-    }, 
-    "NK3-Cy33pKs": {
-        "avgRepliesPerComment": 1.275, 
-        "avgWordsPerComment": 38.984162895927604, 
-        "captions": null, 
-        "numberComments": "737", 
-        "numberViews": "245661", 
-        "publishDate": "2014-09-25T10:00:09.000Z", 
-        "topics": [
-            "/m/034vfh", 
-            "/m/0b42yj"
-        ], 
-        "videoLength": "PT4M25S"
-    }, 
-    "Wl8O4_TKJMQ": {
-        "avgRepliesPerComment": 1.1141678129298487, 
-        "avgWordsPerComment": 29.610288386593922, 
-        "captions": null, 
-        "numberComments": "1625", 
-        "numberViews": "423794", 
-        "publishDate": "2014-02-03T17:00:23.000Z", 
-        "topics": [
-            "/m/034vfh", 
-            "/m/01np92", 
-            "/m/011q2zfc"
-        ], 
-        "videoLength": "PT6M38S"
-    }, 
-    "bDbmu2S90po": {
-        "avgRepliesPerComment": 0.5684713375796179, 
-        "avgWordsPerComment": 21.266579973992197, 
-        "captions": null, 
-        "numberComments": "1017", 
-        "numberViews": "535907", 
-        "publishDate": "2014-08-04T18:03:47.000Z", 
-        "topics": [
-            "/m/034vfh"
-        ], 
-        "videoLength": "PT5M19S"
-    }, 
-    "jEiETD8HKZA": {
-        "avgRepliesPerComment": 2.045346062052506, 
-        "avgWordsPerComment": 77.0307467057101, 
-        "captions": null, 
-        "numberComments": "1282", 
-        "numberViews": "157239", 
-        "publishDate": "2015-03-07T04:00:00.000Z", 
-        "topics": [
-            "/m/034vfh", 
-            "/m/011q2zfc", 
-            "/m/03mdt"
-        ], 
-        "videoLength": "PT5M3S"
-    }, 
-    "nXIYQxMN9-4": {
-        "avgRepliesPerComment": 0.9592476489028213, 
-        "avgWordsPerComment": 33.4, 
-        "captions": null, 
-        "numberComments": "2032", 
-        "numberViews": "336882", 
-        "publishDate": "2014-12-18T21:37:45.000Z", 
-        "topics": [
-            "/m/034vfh", 
-            "/m/048qr"
-        ], 
-        "videoLength": "PT7M35S"
-    }, 
-    "oTRdDYvGZ7c": {
-        "avgRepliesPerComment": 2.4792899408284024, 
-        "avgWordsPerComment": 55.508591065292094, 
-        "captions": null, 
-        "numberComments": "1155", 
-        "numberViews": "155102", 
-        "publishDate": "2015-02-27T21:38:48.000Z", 
-        "topics": [
-            "/m/06l19", 
-            "/m/0d63kt", 
-            "/m/034vfh", 
-            "/m/0dp09y"
-        ], 
-        "videoLength": "PT7M41S"
-    }, 
-    "rb9hp6i_-W4": {
-        "avgRepliesPerComment": 0.7341772151898734, 
-        "avgWordsPerComment": 21.44214876033058, 
-        "captions": null, 
-        "numberComments": "274", 
-        "numberViews": "240951", 
-        "publishDate": "2014-09-16T17:47:40.000Z", 
-        "topics": [
-            "/m/034vfh"
-        ], 
-        "videoLength": "PT5M44S"
-    }, 
-    "t8aZaUgFZss": {
-        "avgRepliesPerComment": 1.9321148825065275, 
-        "avgWordsPerComment": 61.577669902912625, 
-        "captions": {
-            "'d": 3, 
-            "'re": 6, 
-            "'s": 23, 
-            "'ve": 4, 
-            "a": 36, 
-            "about": 1, 
-            "academy": 1, 
-            "act": 1, 
-            "active": 1, 
-            "actual": 1, 
-            "actually": 3, 
-            "adopt": 1, 
-            "afraid": 1, 
-            "against": 2, 
-            "aggressive": 1, 
-            "all": 4, 
-            "alliance": 1, 
-            "allured": 1, 
-            "almost": 1, 
-            "alone": 1, 
-            "also": 1, 
-            "america": 2, 
-            "an": 4, 
-            "and": 45, 
-            "anybody": 1, 
-            "appearance": 1, 
-            "application": 2, 
-            "are": 4, 
-            "area": 2, 
-            "areas": 1, 
-            "armed": 1, 
-            "army": 1, 
-            "arrested": 1, 
-            "as": 6, 
-            "associated": 1, 
-            "associates": 1, 
-            "assumed": 1, 
-            "at": 5, 
-            "atlanta": 1, 
-            "attacks": 1, 
-            "away": 1, 
-            "balco": 1, 
-            "base": 1, 
-            "basically": 1, 
-            "be": 5, 
-            "been": 3, 
-            "before": 3, 
-            "believe": 1, 
-            "between": 1, 
-            "book": 1, 
-            "boom": 1, 
-            "both": 1, 
-            "boys": 1, 
-            "breacher": 1, 
-            "buildings": 1, 
-            "bullets": 1, 
-            "bunch": 1, 
-            "but": 5, 
-            "by": 1, 
-            "camera": 1, 
-            "camouflage": 3, 
-            "can": 2, 
-            "carry": 3, 
-            "case": 1, 
-            "cases": 4, 
-            "certain": 1, 
-            "certainly": 1, 
-            "chaotic": 1, 
-            "chicago": 1, 
-            "cities": 1, 
-            "clear": 2, 
-            "club": 1, 
-            "college": 2, 
-            "come": 1, 
-            "comfort": 1, 
-            "commonly": 1, 
-            "communication": 2, 
-            "compare": 1, 
-            "complacency": 1, 
-            "conflict": 2, 
-            "control": 2, 
-            "convention": 1, 
-            "cool": 4, 
-            "cops": 3, 
-            "could": 1, 
-            "countries": 1, 
-            "country": 1, 
-            "crew": 1, 
-            "crime": 2, 
-            "crowd": 2, 
-            "cuffs": 1, 
-            "dangers": 1, 
-            "debrief": 1, 
-            "deep": 1, 
-            "degrees": 1, 
-            "delta": 1, 
-            "department": 2, 
-            "departments": 1, 
-            "deserves": 1, 
-            "detective": 1, 
-            "devices": 1, 
-            "did": 4, 
-            "different": 3, 
-            "direct": 1, 
-            "direction": 1, 
-            "directly": 1, 
-            "discretion": 2, 
-            "disorients": 1, 
-            "displays": 1, 
-            "distant": 1, 
-            "distinctions": 1, 
-            "do": 9, 
-            "does": 1, 
-            "draw": 2, 
-            "dressing": 1, 
-            "each": 1, 
-            "either": 1, 
-            "engage": 1, 
-            "environments": 1, 
-            "even": 3, 
-            "every": 2, 
-            "everybody": 1, 
-            "ex-officers": 1, 
-            "explosives": 1, 
-            "extras": 1, 
-            "extremely": 2, 
-            "fake": 1, 
-            "familiar": 1, 
-            "ferguson": 5, 
-            "fight": 2, 
-            "figure": 3, 
-            "fire": 1, 
-            "firing": 1, 
-            "first-hand": 1, 
-            "flash-bangs": 1, 
-            "folks": 1, 
-            "follow": 1, 
-            "food": 1, 
-            "for": 5, 
-            "force": 2, 
-            "forces": 2, 
-            "foreign": 1, 
-            "freaks": 1, 
-            "from": 5, 
-            "fucking": 1, 
-            "fundamental": 1, 
-            "funny": 1, 
-            "games": 1, 
-            "gas": 2, 
-            "gassed": 1, 
-            "gave": 2, 
-            "gear": 6, 
-            "get": 1, 
-            "goes": 2, 
-            "going": 1, 
-            "got": 5, 
-            "gotten": 2, 
-            "grew": 1, 
-            "grown": 1, 
-            "guess": 2, 
-            "gun": 5, 
-            "guns": 2, 
-            "gunshots": 1, 
-            "had": 4, 
-            "hall": 1, 
-            "happening": 1, 
-            "haunted": 1, 
-            "have": 2, 
-            "having": 1, 
-            "he": 6, 
-            "heavily": 1, 
-            "heavy": 1, 
-            "him": 2, 
-            "hired": 1, 
-            "his": 5, 
-            "hope": 1, 
-            "house": 1, 
-            "hurdles": 1, 
-            "i": 17, 
-            "if": 8, 
-            "image": 1, 
-            "in": 26, 
-            "including": 1, 
-            "increasing": 1, 
-            "infrequent": 1, 
-            "inner": 1, 
-            "into": 1, 
-            "invade": 1, 
-            "is": 13, 
-            "issue": 1, 
-            "it": 29, 
-            "jarring": 1, 
-            "job": 2, 
-            "just": 8, 
-            "keep": 1, 
-            "kids": 1, 
-            "kind": 6, 
-            "kinda": 1, 
-            "know": 31, 
-            "lands": 1, 
-            "laws": 1, 
-            "least": 1, 
-            "leave": 1, 
-            "led": 1, 
-            "legitimate": 1, 
-            "less": 2, 
-            "lethal": 2, 
-            "level": 1, 
-            "lighting": 2, 
-            "lights": 1, 
-            "like": 33, 
-            "little": 3, 
-            "local": 1, 
-            "looked": 1, 
-            "looks": 2, 
-            "lot": 8, 
-            "lying": 1, 
-            "made": 1, 
-            "main": 1, 
-            "major": 1, 
-            "makeup": 1, 
-            "may": 1, 
-            "mean": 3, 
-            "mentality": 1, 
-            "mic": 1, 
-            "militaristic": 1, 
-            "militarization": 1, 
-            "militarized": 1, 
-            "mind": 3, 
-            "mindset": 1, 
-            "missouri": 2, 
-            "more": 3, 
-            "morton": 1, 
-            "move": 1, 
-            "movies": 1, 
-            "much": 1, 
-            "my": 1, 
-            "n't": 11, 
-            "necessary": 1, 
-            "needed": 1, 
-            "never": 2, 
-            "night": 1, 
-            "nights": 1, 
-            "no": 1, 
-            "norm": 2, 
-            "nostalgic": 1, 
-            "not": 2, 
-            "now": 1, 
-            "number": 1, 
-            "observe": 1, 
-            "occupy": 1, 
-            "of": 32, 
-            "off": 2, 
-            "officer": 1, 
-            "officers": 4, 
-            "olympic": 1, 
-            "on": 12, 
-            "once": 1, 
-            "one": 8, 
-            "only": 1, 
-            "opposed": 1, 
-            "or": 10, 
-            "orderly": 1, 
-            "orders": 1, 
-            "other": 2, 
-            "our": 2, 
-            "out": 9, 
-            "paid": 1, 
-            "pandemonium": 1, 
-            "part": 1, 
-            "parts": 1, 
-            "peace": 1, 
-            "people": 3, 
-            "physical": 1, 
-            "picked": 1, 
-            "places": 1, 
-            "play": 1, 
-            "point": 2, 
-            "pole": 1, 
-            "police": 7, 
-            "policemen": 1, 
-            "policing": 2, 
-            "presents": 1, 
-            "pretty": 3, 
-            "probably": 1, 
-            "problem": 1, 
-            "protect": 1, 
-            "put": 1, 
-            "puts": 2, 
-            "radley": 1, 
-            "range": 1, 
-            "rare": 1, 
-            "real": 2, 
-            "realized": 1, 
-            "really": 2, 
-            "reason": 2, 
-            "reliant": 1, 
-            "rely": 4, 
-            "reporting": 1, 
-            "reversing": 1, 
-            "rigged": 1, 
-            "riot": 1, 
-            "role": 4, 
-            "rubber": 1, 
-            "rules": 1, 
-            "run-down": 1, 
-            "safety": 1, 
-            "said": 1, 
-            "saw": 2, 
-            "scenarios": 1, 
-            "scheme": 1, 
-            "scream": 1, 
-            "screaming": 1, 
-            "second": 2, 
-            "section": 1, 
-            "see": 4, 
-            "seen": 1, 
-            "setting": 1, 
-            "sheriff": 1, 
-            "shield": 1, 
-            "shooter": 1, 
-            "shooting": 2, 
-            "shopping": 1, 
-            "shot": 1, 
-            "similar": 1, 
-            "situation": 1, 
-            "situations": 1, 
-            "so": 2, 
-            "soldier": 3, 
-            "soldier-like": 1, 
-            "soldierly": 1, 
-            "soldiers": 2, 
-            "solve": 1, 
-            "some": 2, 
-            "somebody": 1, 
-            "something": 1, 
-            "sometimes": 1, 
-            "sort": 1, 
-            "sound": 1, 
-            "soundtrack": 1, 
-            "southside": 1, 
-            "specifically": 1, 
-            "stage": 3, 
-            "stamberg": 1, 
-            "stampede": 1, 
-            "stand": 1, 
-            "stanford": 1, 
-            "start": 3, 
-            "started": 1, 
-            "starts": 2, 
-            "stick": 1, 
-            "striking": 1, 
-            "strobe": 1, 
-            "students": 1, 
-            "suburbs": 3, 
-            "such": 3, 
-            "suddenly": 1, 
-            "sue": 1, 
-            "superiors": 1, 
-            "supposed": 2, 
-            "sure": 1, 
-            "swat": 2, 
-            "tactical": 3, 
-            "take": 1, 
-            "talk": 1, 
-            "talked": 2, 
-            "taser": 2, 
-            "team": 2, 
-            "tear": 1, 
-            "than": 1, 
-            "that": 26, 
-            "the": 47, 
-            "their": 5, 
-            "them": 6, 
-            "themselves": 1, 
-            "there": 6, 
-            "these": 3, 
-            "they": 25, 
-            "things": 1, 
-            "think": 6, 
-            "thinking": 1, 
-            "this": 5, 
-            "thomas": 1, 
-            "those": 2, 
-            "though": 1, 
-            "thought": 1, 
-            "threat": 1, 
-            "through": 3, 
-            "ticket": 1, 
-            "ticketed": 1, 
-            "ties": 1, 
-            "time": 1, 
-            "to": 33, 
-            "too": 1, 
-            "tool": 1, 
-            "tools": 2, 
-            "top": 1, 
-            "tough": 1, 
-            "town": 1, 
-            "toys": 1, 
-            "tree": 1, 
-            "trend": 1, 
-            "tricky": 1, 
-            "tripods": 1, 
-            "turn": 1, 
-            "turned": 1, 
-            "two": 3, 
-            "undo": 1, 
-            "uniforms": 1, 
-            "unless": 1, 
-            "unrest": 1, 
-            "up": 2, 
-            "urban": 1, 
-            "us": 2, 
-            "use": 5, 
-            "very": 6, 
-            "villain": 1, 
-            "violence": 4, 
-            "visited": 1, 
-            "want": 1, 
-            "warning": 1, 
-            "wars": 1, 
-            "was": 14, 
-            "way": 1, 
-            "we": 12, 
-            "weaponry": 1, 
-            "wear": 1, 
-            "wearing": 1, 
-            "well": 1, 
-            "went": 2, 
-            "were": 10, 
-            "what": 6, 
-            "when": 4, 
-            "where": 1, 
-            "whereas": 1, 
-            "whether": 1, 
-            "which": 4, 
-            "who": 4, 
-            "whole": 1, 
-            "why": 1, 
-            "will": 1, 
-            "with": 15, 
-            "woods": 1, 
-            "would": 5, 
-            "yeah": 1, 
-            "you": 44, 
-            "your": 2, 
-            "zero": 1, 
-            "zero-tolerance": 1
-        }, 
-        "numberComments": "1137", 
-        "numberViews": "258200", 
-        "publishDate": "2015-03-14T03:30:01.000Z", 
-        "topics": [
-            "/m/034vfh", 
-            "/m/011q2zfc", 
-            "/m/03mdt"
-        ], 
-        "videoLength": "PT7M3S"
-    }, 
-    "xnBcOsMYkpc": {
-        "avgRepliesPerComment": 0.2777777777777778, 
-        "avgWordsPerComment": 11.619047619047619, 
-        "captions": null, 
-        "numberComments": "117", 
-        "numberViews": "274505", 
-        "publishDate": "2014-10-01T16:27:51.000Z", 
-        "topics": [
-            "/m/034vfh"
-        ], 
-        "videoLength": "PT2M12S"
+        "videoLength": "PT4M38S"
     }
 }
