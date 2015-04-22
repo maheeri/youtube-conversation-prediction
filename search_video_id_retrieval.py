@@ -37,12 +37,13 @@ def valid_constraints(video_id):
 	).execute()
 	video_info = video_info_list["items"][0]
 	num_views = video_info["statistics"]["viewCount"]
+	num_comments = video_info["statistics"]["commentCount"]
 	publish_date = video_info["snippet"]["publishedAt"]
 	duration_string = video_info["contentDetails"]["duration"]
 
 	publish_date = datetime.datetime.strptime(publish_date, '%Y-%m-%dT%H:%M:%S.%fZ')
 	
-	# Check for a 5 +- 1 minute duration
+	# Check for a 6 +- 2 minute duration
 	hour_index = duration_string.find("H")
 	minute_index = duration_string.find("M")
 	second_index = duration_string.find("S")
@@ -67,7 +68,9 @@ def valid_constraints(video_id):
 	
 	valid_captions = has_english(video_id)
 
-	return (valid_captions and valid_duration and valid_num_views and valid_publish_date)
+	valid_num_comments = num_comments > 0
+
+	return (valid_captions and valid_duration and valid_num_views and valid_publish_date and valid_num_comments)
 	
 
 """Retrieves num_required video_ids for the given category id. num_required is the number of 
