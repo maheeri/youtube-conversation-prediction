@@ -1,0 +1,182 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: "Helvetica Neue";
+  font-style: condensed;
+  font-weight: normal;
+/*
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-perspective: 1px;
+  perspective: 1px;*/
+}
+
+.main_container {
+  width: 100%;
+}
+
+#db_spinner {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 100;
+}
+
+#db_loading_mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.6;
+  background-color: #fff;
+  z-index: 10;
+  text-align: center;
+  display: none;
+}
+
+#connect_db_text {
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+/* ---------------- Input panel ---------------- */
+
+#input_panel {
+  padding: 30px;
+  padding-right: 45px;
+  float: left;
+  min-height: 100%;
+  position: relative;
+  width: 30%;
+}
+
+#info_panel {
+  float: left;
+  width: 100%;
+  display: none;
+}
+
+/*#input_form {
+  display: none;
+}*/
+
+#spinner {
+  display: block;
+  position: absolute;
+  top: 49% ;
+  left: 49%;
+  margin: auto;
+  width: 20px;
+  display: none;
+}
+
+.loading {
+  background-color: #000;
+  opacity: 20%;
+}
+
+.main_text {
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+.error_text {
+  padding-left: 30px;
+  padding-top: 8px;
+  color: #FF8080;
+  text-align: center;
+  display: none;
+}
+
+/* ---------------- Map panel ---------------- */
+
+#results {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  margin: 0;
+}
+
+#results li:hover {
+  background-color: #e6e6e6;
+  cursor: pointer;
+}
+
+.results_header {
+  width: 100%;
+  height: 60px;
+}
+
+.info_text {
+  display: block;
+  width: 100%;
+  color: #ccc;
+  padding-bottom: 10px;
+  /*font-size: 100%;*/
+}
+
+.restaurant_item .name {
+  padding-bottom: 10px;
+}
+
+#back_button {
+  margin-top: 8px;
+}
+
+#results_button {
+  margin-top: 30px;
+}
+
+/* ---------------- Map panel ---------------- */
+
+#map-canvas {
+  width: 70%;
+  height: 100%;
+  padding: 30px 0;
+  float: right;
+}
+
+.marker_label {
+  white-space:nowrap;
+}
+
+/* ---------------- Properties ---------------- */
+
+.fill_width {
+  width: 100%;
+}
+
+.center_text {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/*.center {
+  margin: 0 auto;
+  text-align: center;
+  vertical-align: middle;
+}*/
+
+.text_large {
+  font-size: 230%;
+  font-weight: lighter;
+}
+
+.padding_30 {
+  padding: 30px;
+}
+
+.orange {
+  color: #E68A2E;
+  font-weight: bold;
+}
+
+.orange_thin {
+  color: #E68A2E;
+}

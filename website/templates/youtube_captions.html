@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    <title>Restaurants locator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/restaurants.css') }}">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
+    
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/FileSaver.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/restaurants.js') }}"></script>
+  </head>
+
+  <body>
+    <div id="db_loading_mask">
+      <div id="connect_db_text" class="text_large">Connecting to database...</div>
+      <img id="db_spinner" src="{{ url_for('static', filename='assets/ajax-loader.gif') }}">
+    </div>
+
+    <div class="main_container container">
+      <div id="input_panel">
+        <form id="input_form" class="center_text">
+          <div class="main_text text_large">Find restaurants near...</div>
+          <div class="form-group input_form_group">
+            <input type="text" class="form-control" id="loc_input_field" placeholder="Address">
+          </div>
+          <div class="main_text text_large">Within...</div>
+          <div class="form-group input-group">
+            <input type="number" step="0.1" placeholder="distance" class="form-control" id="dist_input_field" placeholder="Address" describedby="addon1">
+            <span class="input-group-addon" id="addon1">miles</span>
+          </div>
+          <button id="submit_button" type="submit" class="btn btn-default pull-left">Search</button>
+          <div class="error_text pull-left"></div>
+        </form>
+
+        <div id="info_panel">
+          <div class="results_header">
+            <div class="results_text text_large pull-left">Results...</div>
+            <button id="back_button" class="btn btn-default pull-right">Back</button>
+          </div>
+
+          <div class="info_text">
+            <div class="text_large">
+              <span id="result_count">1</span> restaurants found near
+            </div>
+            <div id="display_input" class="orange_thin center_text"></div>
+          </div>
+          <ul id="results" class="list-group"></ul>
+
+          <button id="results_button" type="submit" class="btn btn-default">Download formatted output</button>
+        </div>
+
+        <img id="spinner" src="{{ url_for('static', filename='assets/ajax-loader.gif') }}">
+
+      </div>
+
+      <div id="map-canvas"></div>
+    </div>
+  </body>
+
+</html>
+
+
