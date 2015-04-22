@@ -30,17 +30,6 @@ def get_transcript(vid_id):
         </transcript>
     """
     http = urllib3.PoolManager() #init urllib
-    resp = http.request('GET', 'http://video.google.com/timedtext',preload_content=False,
-                       fields={'type': 'list', 'v': vid_id})
-    sub_dir_xml = resp.read()
-    resp.close()
-    dir_soup = BeautifulSoup(sub_dir_xml)
-    eng_track = dir_soup.find(lang_code="en")
-    if eng_track is None:
-        print('Skipped because no native subtitles in english')
-        print('Could modify code to translate from other langauge')
-        print(dir_soup.find_all('track'))
-        return None
     track_resp = http.request('GET', 'http://video.google.com/timedtext',preload_content=False,
                        fields={'type': 'track',
                                'v':    vid_id, 
@@ -69,8 +58,7 @@ def format_transcript(transcript):
         line = {
                 'text'  : text,
                 'dur'   : text_soup['dur'],
-                'start' : text_soup['start'],
-                'toks'  : get_tokens(text)
+                'start' : text_soup['start']
                 }
         foramtted_transcript.append(line)
     return foramtted_transcript
