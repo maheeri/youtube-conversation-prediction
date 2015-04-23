@@ -11,7 +11,7 @@ from sklearn.dummy import DummyClassifier
 from sklearn.svm import SVR
 
 sys.path.append(os.path.abspath("../..")) 
-from captions3 import has_english
+from captions3 import *
 
 
 # Key and version data 
@@ -74,7 +74,7 @@ def video_search(query, num_required):
 	# Call the search.list method to retrieve results matching the specified
 	# query term.
 	search_request = youtube.search().list(
-		part="id",
+		part="id, snippet, statistics, contentDetails",
 		maxResults=50,
 		type="video",
 		videoCaption="closedCaption",
@@ -110,7 +110,7 @@ def video_search(query, num_required):
 			if valid_constraints(search_result["id"]["videoId"]):
 				if (num_videos_retrieved < num_required):
 					num_videos_retrieved = num_videos_retrieved + 1
-					video_id_list.append(search_result["id"]["videoId"])
+					video_id_list.append(search_result["id"]["videoId"], search_result["snippet"]["title"], search_result["statistics"]["viewCount"])
 				else: # Have reached the required limit
 					return video_id_list
 		
@@ -147,7 +147,7 @@ def process_videos(video_list):
 
 
 # Load Data:
-def prepare():	
+def prepare():
 	with open('data_wo_replies.json') as json_file:   
 		video_data = json.load(json_file)
 
@@ -191,15 +191,21 @@ def return_ranked_videos(query):
 	return ranking
 
 
-def find_videos(query):
+def find_videos(query, tfv, svm):
     returned_videos = video_search(query, 20)
     results = []
-    for vid_id in returned_videos:
-        flat_trans = get_flattened_transcript(vid_id)
-        #tfidf fit
-        capt_vector = tfv.transform(flat_trans)
-        num_comments_pred_svr = svm_regression_classifier.predict(capt_vector)
-        results.appened((num_comments_pred_svr, vid_id, title, orig))
+    for vid_id,title,view_count in returned_videos:
+        flat_trans              = get_flattened_transcript(vid_id)
+        capt_vector             = tfv.transform(flat_trans)
+        num_comments_pred_svr   = svm.predict(capt_vector)
+        results.appened({
+                        'vid_id': vid_id,
+                        'vid_title' :title, 
+                        'vid_real_com': view_count,
+                        'vid_pred' : num_comments_pred_svr 
+                        })
+    return sorted(results, key = lambda x:x['vid_pred'], Reverse=True)
 
-
-return_ranked_videos("cats")
+if __name__ == "__main__":
+	#testing
+    prepare()

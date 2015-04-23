@@ -4,14 +4,14 @@
   <head>
     <title>Restaurants locator</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.css') }}">
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/restaurants.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/youtubeCaptions.css') }}">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
     
     <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
     <script src="{{ url_for('static', filename='js/FileSaver.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/restaurants.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/youtubeCaptions.js') }}"></script>
   </head>
 
   <body>
@@ -28,7 +28,7 @@
           <div class="main_text text_large">Search Query</div>
 
           <div class="form-group input_form_group">
-            <input type="text" class="form-control" id="loc_input_field" placeholder="Address">
+            <input type="text" class="form-control" id="query_input_field" placeholder="Query">
           </div>
           <button id="submit_button" type="submit" class="btn btn-default pull-left">Search</button>
           <div class="error_text pull-left"></div>
@@ -53,39 +53,42 @@
 
       <div id="output_panel">
         <h1>Results:</h1>
+        <div id="results">
+          <div class="result">
+            <b>Title</b><br>
+            <a href="https://www.youtube.com/watch?v=0ne7ChIFlZg">Link</a>
+            <table>
+              <tr>
+                <td>Conversationality Score: </td>
+                <td>&nbsp;</td>
+                <td>9999</td>
+              </tr>
+              <tr>
+                <td>Real Score: </td>
+                <td>&nbsp;</td>
+                <td>9999</td>
+              </tr>
+            </table>
+          </div>
+          
+          <br>
 
-        <div id="result">
-          <a href="https://www.youtube.com/watch?v=0ne7ChIFlZg">Link</a>
-          <table>
-            <tr>
-              <td>Conversationality Score: </td>
-              <td>&nbsp;</td>
-              <td>9999</td>
-            </tr>
-            <tr>
-              <td>Real Score: </td>
-              <td>&nbsp;</td>
-              <td>9999</td>
-            </tr>
-          </table>
-        </div>
-        
-        <br>
-
-        <div id="result">
-          <a href="https://www.youtube.com/watch?v=0ne7ChIFlZg">Link</a>
-          <table>
-            <tr>
-              <td>Conversationality Score: </td>
-              <td>&nbsp;</td>
-              <td>9999</td>
-            </tr>
-            <tr>
-              <td>Real Score: </td>
-              <td>&nbsp;</td>
-              <td>9999</td>
-            </tr>
-          </table>
+          <div class="result">
+            <b>Title</b><br>
+            <a href="https://www.youtube.com/watch?v=0ne7ChIFlZg">Link</a>
+            <table>
+              <tr>
+                <td>Conversationality Score: </td>
+                <td>&nbsp;</td>
+                <td>9999</td>
+              </tr>
+              <tr>
+                <td>Real Score: </td>
+                <td>&nbsp;</td>
+                <td>9999</td>
+              </tr>
+            </table>
+          </div>
         </div>
 
       </div>
