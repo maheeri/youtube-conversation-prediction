@@ -14,7 +14,7 @@ var pageUrl = "http://youtube.com/watch?v="+vidID;
  * @param timeOutMillis the max amount of time to wait. If not specified, 3 sec is used.
  */
 function waitFor(testFx, onReady, timeOutMillis) {
-    var maxtimeOutMillis = timeOutMillis ? timeOutMillis : 7000, //< Default Max Timout is 7s
+    var maxtimeOutMillis = timeOutMillis ? timeOutMillis : 11000, //< Default Max Timout is 11s
         start = new Date().getTime(),
         condition = false,
         interval = setInterval(function() {
@@ -39,12 +39,13 @@ function waitFor(testFx, onReady, timeOutMillis) {
 //Page and System Creation
 var page = require("webpage").create();
 
+page.captureContent = [/[\s\S]*/]
 //Listeners//
 page.onConsoleMessage = function(msg) {
     console.log(msg);
 };
-page.onResourceReceived = function (res) {
-    if (res["url"].indexOf("insight_ajax?action_get_statistics_and_data")>-1){
+page.onResourceReceived = function (resp) {
+    if (resp["url"].indexOf("insight_ajax?action_get_statistics_and_data")>-1){
         console.log('got insight');
     }
 };
@@ -94,6 +95,37 @@ page.open(pageUrl, function (status) {
                 console.log("The 1st button click worked.");
                 console.log("Trying to click 2nd.");
                 page.evaluate(function() {
+                    (function() {
+                        var XHR = XMLHttpRequest.prototype;
+                        // Remember references to original methods
+                        var open = XHR.open;
+                        var send = XHR.send;
+                        // Overwrite native methods
+                        // Collect data: 
+                        XHR.open = function(method, url) {
+                            this._method = method;
+                            this._url = url;
+                            return open.apply(this, arguments);
+                        };
+                        // Implement "ajaxSuccess" functionality
+                        XHR.send = function(postData) {
+                            this.addEventListener('load', function() {
+                                // console.log("captured:   "+this._url);
+                                if (this._url.indexOf("insight_ajax?action_get_statistics_and_data")>-1){
+                                    console.log("I'm on the other side");
+                                    // console.log(postData);
+                                    if (this.responseText == undefined){
+                                        console.log("Something weird (responseText)");
+                                    }else{
+                                        // console.log(this.responseText);
+                                        window.viewTimeData = this.responseText;
+                                    }
+                                }
+                            });
+                            return send.apply(this, arguments);
+                        };
+                    document.querySelector("button[data-trigger-for='action-panel-stats']").click();
+                    })();
                     document.querySelector("button[data-trigger-for='action-panel-stats']").click();
                 })
                 waitFor(function() {
@@ -104,10 +136,11 @@ page.open(pageUrl, function (status) {
                 }, function() {
                     console.log("Graph is now displaying");
                     var my_height = page.evaluate(function(){
-                        var rect    = document.querySelector("svg[aria-label='A chart.'] g rect");
-                        var height  = rect.getAttribute('height');
-                        var width   = rect.getAttribute('width');
-                        return height;
+                        // var rect    = c
+                        // var height  = rect.getAttribute('height');
+                        // var width   = rect.getAttribute('width');
+                        // return height;
+                        return window.viewTimeData;
                     })
                     console.log(my_height);
                     phantom.exit();
@@ -116,15 +149,3 @@ page.open(pageUrl, function (status) {
         });
     }
 });
-
-
-
-
-
-
-
-
-
-
-
-
