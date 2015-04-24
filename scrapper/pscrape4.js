@@ -39,7 +39,6 @@ function waitFor(testFx, onReady, timeOutMillis) {
 //Page and System Creation
 var page = require("webpage").create();
 
-page.captureContent = [/[\s\S]*/]
 //Listeners//
 page.onConsoleMessage = function(msg) {
     console.log(msg);
@@ -95,6 +94,7 @@ page.open(pageUrl, function (status) {
                 console.log("The 1st button click worked.");
                 console.log("Trying to click 2nd.");
                 page.evaluate(function() {
+                    /* Modfied: http://stackoverflow.com/questions/13765031/scrape-eavesdrop-ajax-data-using-javascript */
                     (function() {
                         var XHR = XMLHttpRequest.prototype;
                         // Remember references to original methods
@@ -126,7 +126,6 @@ page.open(pageUrl, function (status) {
                         };
                     document.querySelector("button[data-trigger-for='action-panel-stats']").click();
                     })();
-                    document.querySelector("button[data-trigger-for='action-panel-stats']").click();
                 })
                 waitFor(function() {
                     // Check in the graph is loaded
@@ -135,14 +134,12 @@ page.open(pageUrl, function (status) {
                     });
                 }, function() {
                     console.log("Graph is now displaying");
-                    var my_height = page.evaluate(function(){
-                        // var rect    = c
-                        // var height  = rect.getAttribute('height');
-                        // var width   = rect.getAttribute('width');
-                        // return height;
+                    var scraped_data = page.evaluate(function(){
                         return window.viewTimeData;
                     })
-                    console.log(my_height);
+                    var fs = require('fs');
+                    var path = 'scraped/';
+                    fs.write(path+vidID+'.scrape', scraped_data, 'w');
                     phantom.exit();
                 });
             });

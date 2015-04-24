@@ -77,9 +77,8 @@
   function getX(pathEl, target){
     var segs = pathEl.pathSegList;
     var prev_point = segs.getItem(0);
-    for (var i=1; i<segs.length; i++){
-      point = segs.getItem(i);
-      console.log(point.y * (33000/height))
+    for (var i=1; i<segs.length; i++)
+      console.log(segs.getItem(i).y * (33000/150))
       if (point.y > target)
         return (prev_point.x+point.x)/2;
     }
