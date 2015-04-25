@@ -1,4 +1,4 @@
-var vidID = "1dZbjuU3Cmo"
+var vidID = "o6mA6y6KMmA"
 var pageUrl = "http://youtube.com/watch?v="+vidID;
 //waitfor
 /**
@@ -42,11 +42,6 @@ var page = require("webpage").create();
 //Listeners//
 page.onConsoleMessage = function(msg) {
     console.log(msg);
-};
-page.onResourceReceived = function (resp) {
-    if (resp["url"].indexOf("insight_ajax?action_get_statistics_and_data")>-1){
-        console.log('got insight');
-    }
 };
 
 // Open Twitter on 'sencha' profile and, onPageLoad, do...
@@ -137,6 +132,11 @@ page.open(pageUrl, function (status) {
                     var scraped_data = page.evaluate(function(){
                         return window.viewTimeData;
                     })
+                    //Get current time of scrape
+                    var currentdate = new Date();
+                    timeStr = '%TIME_START%'+currentdate.toDateString()+'%TIME_END% ';
+                    scraped_data = timeStr+scraped_data;
+                    //Write scrape to file
                     var fs = require('fs');
                     var path = 'scraped/';
                     fs.write(path+vidID+'.scrape', scraped_data, 'w');
