@@ -3,7 +3,7 @@ import re
 import dateutil
 import datetime
 
-def get_date(target_views, pub_date, scrapped_filename):
+def get_date(target_views, pub_date, scrapped_filename, scrapped_path="scraped/"):
     """
     =Inputs=
     target_views : int
@@ -27,7 +27,7 @@ def get_date(target_views, pub_date, scrapped_filename):
                     return [idx]
         return None
     #read scrape via regex
-    my_file = open(scrapped_filename+'.scrape')
+    my_file = open(scrapped_path+scrapped_filename+'.scrape')
     content = my_file.read()
 
     #get data
