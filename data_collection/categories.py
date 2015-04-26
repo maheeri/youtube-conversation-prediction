@@ -31,11 +31,15 @@ def create_category_id_dict():
 		regionCode = "US"
 	).execute()
 	
+	# These don't seem to return any results
+	dead_categories = [18,21,31,32,33,34,35,36,37,38,39,40,41,42]
+	
 	category_id_dict = {}
 	for category_item in category_response["items"]:
 		id = int(category_item["id"])
-		category_name = category_item["snippet"]["title"]
-		category_id_dict[id] = category_name
+		if (not (id in dead_categories)):
+			category_name = category_item["snippet"]["title"]
+			category_id_dict[id] = category_name
 		
 	return category_id_dict
 	
