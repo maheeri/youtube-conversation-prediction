@@ -4,6 +4,12 @@ output folder /scraped/.
 The scrape will contain the view data over time as well as the date the scrape
 was run on.
 A python script later extracts the exact date needed
+
+
+Example Run:
+
+./slimmerjs pscrape4.js video_ids_v2_list.json 
+
 */
 
 //set output path
