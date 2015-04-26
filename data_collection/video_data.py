@@ -139,6 +139,8 @@ def open_video_ids_json(filename):
 
 if __name__ == "__main__":
 	input_json_filename = "video_ids_v2.json"
+	#input_json_filename = os.path.join(os.pardir, os.path.join('data','video_ids_v2.json'))
+
 
 	# Authenticate
 	YOUTUBE_READ_WRITE_SCOPE = "https://www.googleapis.com/auth/youtube"
