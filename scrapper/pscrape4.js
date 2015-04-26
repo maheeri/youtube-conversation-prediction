@@ -4,8 +4,16 @@ output folder /scraped/.
 The scrape will contain the view data over time as well as the date the scrape
 was run on.
 A python script later extracts the exact date needed
+
+
+Example Run:
+
+./slimmerjs pscrape4.js video_ids_v2_list.json 
+
 */
 
+//set output path
+var path = 'scraped/';
 
 //Filereader and system
 var fs = require('fs');
@@ -18,25 +26,40 @@ try {
     file.close();
 } catch (e) {
     console.log(e);
+    phantom.exit();
 }
-
-
 var vidIDList           = JSON.parse(content);
 var my_vidListIterator  = vidListIterator(vidIDList)
 
+var failedList = [] //used as a global of sorts
+
 var recur_scrape = function(){
-    if (my_vidListIterator.hasNext){
+    if (my_vidListIterator.hasNext()){
         vidID = my_vidListIterator.next();
-        console.log(vidID);
-        scrape(vidID, recur_scrape);
+        console.log('Processing: '+vidID);
+        setTimeout(scrape(vidID, recur_scrape), 2500); //wait 2.5 to be nice
     }else{
+        console.log("Completed scrapping all files")
+        failedListJson = JSON.stringify(failedList, undefined, 4);
+        fs.write(path+'failedList.json', failedListJson, 'w');
         phantom.exit();
     }
 }
 
 recur_scrape();
-   
 
+
+/* Creating an onfail function */
+function createOnFail(vidID, page, callback){
+    return function(){
+        failedList.push(vidID);
+        page.close();
+        console.log('Failed    : '+vidID);
+        callback();
+    }
+}
+
+/* Iterator for video list */
 function vidListIterator(vidIDList){
     return {
         vidIDList   : vidIDList,
@@ -57,7 +80,6 @@ function vidListIterator(vidIDList){
 }
 
 
-//waitfor
 /**
  * Wait until the test condition is true or a timeout occurs. Useful for waiting
  * on a server response or for a ui change (fadeIn, etc.) to occur.
@@ -69,9 +91,10 @@ function vidListIterator(vidIDList){
  * it can be passed in as a string (e.g.: "1 == 1" or "$('#bar').is(':visible')" or
  * as a callback function.
  * @param timeOutMillis the max amount of time to wait. If not specified, 3 sec is used.
+ * ! I hard coded my failcallback into this out of lazyness !
  */
-function waitFor(testFx, onReady, timeOutMillis) {
-    var maxtimeOutMillis = timeOutMillis ? timeOutMillis : 11000, //< Default Max Timout is 11s
+function waitFor(testFx, onReady, onFail, timeOutMillis) {
+    var maxtimeOutMillis = timeOutMillis ? timeOutMillis : 7000, //< Default Max Timout is 7s
         start = new Date().getTime(),
         condition = false,
         interval = setInterval(function() {
@@ -82,10 +105,12 @@ function waitFor(testFx, onReady, timeOutMillis) {
                 if(!condition) {
                     // If condition still not fulfilled (timeout but condition is 'false')
                     console.log("'waitFor()' timeout");
-                    phantom.exit(1);
+                    typeof(onFail) === "string" ? eval(onFail) : onFail(); //< Do what it's supposed to do once the condition is fulfilled
+                    clearInterval(interval); //< Stop this interval
+                    // phantom.exit(1);
                 } else {
                     // Condition fulfilled (timeout and/or condition is 'true')
-                    console.log("'waitFor()' finished in " + (new Date().getTime() - start) + "ms.");
+                    // console.log("'waitFor()' finished in " + (new Date().getTime() - start) + "ms.");
                     typeof(onReady) === "string" ? eval(onReady) : onReady(); //< Do what it's supposed to do once the condition is fulfilled
                     clearInterval(interval); //< Stop this interval
                 }
@@ -99,8 +124,10 @@ function waitFor(testFx, onReady, timeOutMillis) {
 */
 function scrape(vidID, callback){
     var pageUrl = "http://youtube.com/watch?v="+vidID;
-    //Page and System Creation
+    //Page Creation
     var page = require("webpage").create();
+    //Onfail function
+    var onFailCallback = createOnFail(vidID, page, callback);
     //Listeners//
     page.onConsoleMessage = function(msg) {
         console.log(msg);
@@ -117,8 +144,8 @@ function scrape(vidID, callback){
                     return (document.getElementById("action-panel-overflow-button") != undefined);
                 });
             }, function() {
-                console.log("The page is now actually loaded");
-                console.log("Trying to click 1st.");
+                // console.log("The page is now actually loaded");
+                // console.log("Trying to click 1st.");
                 page.evaluate(function() {
                     document.getElementById("action-panel-overflow-button").click();
                 })
@@ -128,8 +155,8 @@ function scrape(vidID, callback){
                         return (document.getElementById("aria-menu-id-3") != undefined);
                     });
                 }, function() {
-                    console.log("The 1st button click worked.");
-                    console.log("Trying to click 2nd.");
+                    // console.log("The 1st button click worked.");
+                    // console.log("Trying to click 2nd.");
                     page.evaluate(function() {
                         /* Modfied: http://stackoverflow.com/questions/13765031/scrape-eavesdrop-ajax-data-using-javascript */
                         (function() {
@@ -166,7 +193,7 @@ function scrape(vidID, callback){
                             return (document.querySelector("svg[aria-label='A chart.']") != undefined);
                         });
                     }, function() {
-                        console.log("Graph is now displaying");
+                        // console.log("Graph is now displaying");
                         var scraped_data = page.evaluate(function(){
                             return window.viewTimeData;
                         })
@@ -175,13 +202,13 @@ function scrape(vidID, callback){
                         timeStr = '%TIME_START%'+currentdate.toDateString()+'%TIME_END% ';
                         scraped_data = timeStr+scraped_data;
                         //Write scrape to file
-                        var path = 'scraped/';
                         fs.write(path+vidID+'.scrape', scraped_data, 'w');
                         page.close();
+                        console.log('Scrapped  : '+vidID);
                         callback();
-                    });
-                });
-            });
+                    }, onFailCallback);
+                },onFailCallback);
+            },onFailCallback);
         }
     });
 }
