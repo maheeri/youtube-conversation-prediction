@@ -194,13 +194,19 @@ function scrape(vidID, callback){
                         });
                     }, function() {
                         // console.log("Graph is now displaying");
-                        var scraped_data = page.evaluate(function(){
+                        var scraped_data = page.evaluate(function(){ //get scrape
                             return window.viewTimeData;
                         })
-                        //Get current time of scrape
-                        var currentdate = new Date();
-                        timeStr = '%TIME_START%'+currentdate.toDateString()+'%TIME_END% ';
-                        scraped_data = timeStr+scraped_data;
+                        var date_ret_str = page.evaluate(function(){ //get scrape ret
+                            return document.getElementsByClassName('stats-sub-header')[0].childNodes[0].nodeValue.substr(8).trim();
+                        })
+                        var date_pub_str = page.evaluate(function(){ //get scrape pub
+                            return document.getElementsByClassName('watch-time-text')[0].innerHTML.substr(13).trim();
+                        })
+                        //Format times into scrape
+                        date_pub_str = ' %PUB_START%'+date_pub_str+'%PUB_END% ';
+                        date_ret_str = ' %RET_START%'+date_ret_str+'%RET_END% ';
+                        scraped_data = date_pub_str+date_ret_str+scraped_data;
                         //Write scrape to file
                         fs.write(path+vidID+'.scrape', scraped_data, 'w');
                         page.close();
