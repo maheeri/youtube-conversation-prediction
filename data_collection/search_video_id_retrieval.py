@@ -28,7 +28,7 @@ global_retrieved = 0
 global_searched = 0
 
 """Check that the video given by video_id satisfies the following
-constraints: (1) The length is 6 +- 2 minute,(2) Has more than
+constraints: (1) The length is 8 +- 4 minutes,(2) Has more than
 100,000 views, (3) Was pubslihed in 2013 or 2014"""
 def valid_constraints(video_id):
 	video_info_list = youtube.videos().list(
@@ -43,7 +43,7 @@ def valid_constraints(video_id):
 
 	publish_date = datetime.datetime.strptime(publish_date, '%Y-%m-%dT%H:%M:%S.%fZ')
 	
-	# Check for a 6 +- 2 minute duration
+	# Check for a 8 +- 4 minute duration
 	hour_index = duration_string.find("H")
 	minute_index = duration_string.find("M")
 	second_index = duration_string.find("S")
@@ -55,7 +55,7 @@ def valid_constraints(video_id):
 	elif (minute_index != -1 and second_index != -1):
 		duration = int(duration_string[2:minute_index]) * 60 + int(duration_string[minute_index+1:second_index])
 		
-	valid_duration = (duration > 240) and (duration < 480)
+	valid_duration = (duration > 240) and (duration < 720)
 	
 	# Check for a valid number of views
 	valid_num_views = (num_views > 100000)
@@ -89,6 +89,10 @@ def category_video_search(category_id, num_required):
 	)
 	 
 	search_response = search_request.execute()
+
+	# This category has no results to show
+	if search_response["items"] == []:
+		return []
 	
 	total_results = search_response["pageInfo"]["totalResults"] # To see if we can attain the number of searched videos
 	
@@ -139,5 +143,6 @@ def json_dump(content, filename):
 		json.dump(content, outfile, sort_keys = True, indent = 4, ensure_ascii=True)
 
 if __name__ == "__main__":
-	video_id_cat_dict = populate_all_category_searches(200)
-	json_dump(video_id_cat_dict, "video_ids_v2")	
+	os.chdir("C:\\Users\\Maheer\\Dropbox\\Cornell Course Materials\\Spring 2015\\CS 4300\\youtube-caption-prediction\\data")
+	video_id_cat_dict = populate_all_category_searches(400)
+	json_dump(video_id_cat_dict, "video_ids_v3")	
