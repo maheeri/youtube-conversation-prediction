@@ -27,21 +27,22 @@ youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
 global_retrieved = 0
 global_searched = 0
 
-"""Check that the video given by video_id satisfies the following
-constraints: (1) The length is 8 +- 4 minutes,(2) Has more than
-100,000 views, (3) Was pubslihed in 2013 or 2014"""
+""" Check that the video given by video_id satisfies the following constraints: 
+(1) The length is 8 +- 4 minutes,
+(2) Has more than 100,000 views, 
+(3) Was pubslihed in 2013 or 2014 """
 def valid_constraints(video_id):
 	video_info_list = youtube.videos().list(
-		part="snippet, statistics, contentDetails",
+		part="statistics, contentDetails",
 		id = video_id
 	).execute()
 	video_info = video_info_list["items"][0]
 	num_views = video_info["statistics"]["viewCount"]
 	num_comments = video_info["statistics"]["commentCount"]
-	publish_date = video_info["snippet"]["publishedAt"]
+	# publish_date = video_info["snippet"]["publishedAt"] #add back 'snippet' to part if uncommented
 	duration_string = video_info["contentDetails"]["duration"]
 
-	publish_date = datetime.datetime.strptime(publish_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+	# publish_date = datetime.datetime.strptime(publish_date, '%Y-%m-%dT%H:%M:%S.%fZ')
 	
 	# Check for a 8 +- 4 minute duration
 	hour_index = duration_string.find("H")
@@ -64,13 +65,13 @@ def valid_constraints(video_id):
 	# current_date = datetime.datetime.now()
 	# date_diff = current_date - publish_date 
 	# valid_publish_date = date_diff.days > 5
-	valid_publish_date = (publish_date.year == 2013) or (publish_date.year == 2014)
+	# valid_publish_date = (publish_date.year == 2013) or (publish_date.year == 2014)
 	
 	valid_captions = has_english(video_id)
 
 	valid_num_comments = num_comments > 0
 
-	return (valid_captions and valid_duration and valid_num_views and valid_publish_date and valid_num_comments)
+	return (valid_captions and valid_duration and valid_num_views and valid_num_comments) #and valid_publish_date
 	
 
 """Retrieves num_required video_ids for the given category id. num_required is the number of 
@@ -85,8 +86,11 @@ def category_video_search(category_id, num_required):
 		maxResults=50,
 		type="video",
 		videoCaption="closedCaption",
+		relevanceLanguage ="en",
+		publishedAfter="2013-01-01T00:00:00Z",
+		publishedBefore="2015-01-01T00:00:00Z",
 		videoCategoryId=category_id
-	)
+	) # topicId (play with this?)
 	 
 	search_response = search_request.execute()
 
@@ -143,6 +147,7 @@ def json_dump(content, filename):
 		json.dump(content, outfile, sort_keys = True, indent = 4, ensure_ascii=True)
 
 if __name__ == "__main__":
-	os.chdir("C:\\Users\\Maheer\\Dropbox\\Cornell Course Materials\\Spring 2015\\CS 4300\\youtube-caption-prediction\\data")
-	video_id_cat_dict = populate_all_category_searches(400)
-	json_dump(video_id_cat_dict, "video_ids_v3")	
+	os.chdir(os.path.join(os.pardir, 'data'))
+	# os.chdir("C:\\Users\\Maheer\\Dropbox\\Cornell Course Materials\\Spring 2015\\CS 4300\\youtube-caption-prediction\\data")
+	video_id_cat_dict = populate_all_category_searches(500)
+	json_dump(video_id_cat_dict, "video_ids_v4")	
