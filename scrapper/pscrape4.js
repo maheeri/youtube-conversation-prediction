@@ -203,21 +203,26 @@ function scrape(vidID, callback){
                         });
                     }, function() {
                         // console.log("Graph is now displaying");
-                        var scraped_data = page.evaluate(function(){ //get scrape
-                            return window.viewTimeData;
+                        var all_data_str = page.evaluate(function(){ //get scrape
+                            return window.viewTimeData.match(/<graph_data><!\[CDATA(.*)]><\/graph_data>/)[1].trim();
                         })
                         var date_ret_str = page.evaluate(function(){ //get scrape ret
-                            return document.getElementsByClassName('stats-sub-header')[0].childNodes[0].nodeValue.substr(8).trim();
+                            return document.getElementsByClassName('stats-sub-header')[0].childNodes[0].nodeValue.match(/Through(.*)/)[1].trim();
                         })
                         var date_pub_str = page.evaluate(function(){ //get scrape pub
-                            return document.getElementsByClassName('watch-time-text')[0].innerHTML.substr(13).trim();
+                            return document.getElementsByClassName('watch-time-text')[0].innerHTML.match(/Published on(.*)/)[1].trim();
                         })
-                        //Format times into scrape
-                        date_pub_str = ' %PUB_START%'+date_pub_str+'%PUB_END% ';
-                        date_ret_str = ' %RET_START%'+date_ret_str+'%RET_END% ';
-                        scraped_data = date_pub_str+date_ret_str+scraped_data;
+                        all_data     = eval(all_data_str);
+                        views_data   = all_data[0]['views']['cumulative']['data']
+                        // data_str = re.findall(r"<graph_data><!\[CDATA(.*)]></graph_data>", content)[0]
+                        var scraped_data = {
+                            'data'      : views_data,
+                            'pub_date'  : date_pub_str,
+                            'ret_date'  : date_ret_str
+                        }
+                        scraped_data_json = JSON.stringify(scraped_data, undefined, 4);
                         //Write scrape to file
-                        fs.write(path+vidID+'.scrape', scraped_data, 'w');
+                        fs.write(path+vidID+'.scrape', scraped_data_json, 'w');
                         page.close();
                         console.log('Scrapped  : '+vidID);
                         callback();

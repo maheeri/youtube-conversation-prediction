@@ -1,5 +1,5 @@
 from __future__ import division
-import re
+import json
 import datetime
 from dateutil.parser import parse
 
@@ -9,7 +9,7 @@ def get_date(target_views, vid_id):
     target_views : int
         The desired number of views to return a date at
     vid_id: string
-        The video id of the video to get the date via scrape
+        The video id of the video to get the date via scraped json
     =Outputs=
     error: float
         % error of approxmation
@@ -26,22 +26,15 @@ def get_date(target_views, vid_id):
                 else:
                     return [idx]
         return None
-    #read scrape via regex
-    my_file = open(vid_id+'.scrape')
-    content = my_file.read()
+    #read scrape from json
+    scrape = json.load(open(vid_id+'.scrape'))
     #get data
-    data_str = re.findall(r"<graph_data><!\[CDATA(.*)]></graph_data>", content)[0]
-    data_str = re.sub('false', 'False', data_str)
-    data_str = re.sub('true', 'True', data_str)
-    data = eval(data_str)
-    views_list = data[0]['views']['cumulative']['data']
-    #get ret date
-    ret_date_str = re.findall(r"%RET_START%(.*)%RET_END%", content)[0]
-    ret_date = parse(ret_date_str)
-    #get pub date
-    pub_date_str = re.findall(r"%PUB_START%(.*)%PUB_END%", content)[0]
-    pub_date = parse(pub_date_str)
-
+    views_list   = scrape['data']
+    ret_date_str = scrape['ret_date']
+    pub_date_str = scrape['pub_date']
+    #convert dates to datetime
+    ret_date     = parse(ret_date_str)
+    pub_date     = parse(pub_date_str)
 
     #get neighboring views and idx
     views_idxs = get_views_idxs(target_views, views_list)
@@ -66,4 +59,4 @@ def get_date(target_views, vid_id):
     return (error, date_target)
     
 if __name__ == "__main__":
-    get_date(10000, 'kf3_U0MLs9A')
+    get_date(10000, '3clA3oeljGU')
