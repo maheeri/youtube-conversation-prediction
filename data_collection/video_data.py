@@ -138,9 +138,7 @@ def open_video_ids_json(filename):
 
 
 if __name__ == "__main__":
-	input_json_filename = "video_ids_v2.json"
-	#input_json_filename = os.path.join(os.pardir, os.path.join('data','video_ids_v2.json'))
-
+	input_json_filename = os.path.join(os.pardir, os.path.join('data','video_ids_v3.json'))
 
 	# Authenticate
 	YOUTUBE_READ_WRITE_SCOPE = "https://www.googleapis.com/auth/youtube"
@@ -153,6 +151,9 @@ if __name__ == "__main__":
 
 
 	videoIds = open_video_ids_json(input_json_filename)
+
+	# with open('video_ids_v3_list.json', 'w') as datafile:
+	# 	json.dump(videoIds, datafile, indent = 4, ensure_ascii=True)
 
 	videoDict = {}
 	for index, videoId in enumerate(videoIds):
