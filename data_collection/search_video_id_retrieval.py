@@ -7,12 +7,14 @@ import os
 import sys
 import datetime
 import json
+from collections import defaultdict
 
 from apiclient.discovery import build
 from apiclient.errors import HttpError
 
 from categories import create_category_id_dict
 from captions3 import has_english
+from util import *
 
 # Key and version data 
 DEVELOPER_KEY = "AIzaSyBEuuLWPO0AJIIp7TVGIB1uM_mNiNkMVbw"
@@ -129,25 +131,22 @@ def category_video_search(category_id, num_required):
 	return video_id_list
 	
 	
-"""Returns a dictionary where the keys are the category ids and the values are the 
-lists of associated video_ids for the US region. Each list has videos_per_category
+"""Returns a dictionary where the keys are the video ids and the values are the 
+categories it belongs to (inverted index style) Each list has videos_per_category
 number of video_ids"""
 def populate_all_category_searches(videos_per_category):
 	category_id_to_name_dict = create_category_id_dict() # maps category ids to names
 	
-	category_to_video_id_dict = {}
+	video_id_cat_dict = defaultdict(list)
 	
-	for category_id in category_id_to_name_dict.keys():
-		category_to_video_id_dict[category_id] = category_video_search(category_id, videos_per_category)
+	for category_id in category_id_to_name_dict:
+		for vid_id in category_video_search(category_id, videos_per_category):
+			video_id_cat_dict[vid_id].append(category_id)
 
-	return category_to_video_id_dict
-
-def json_dump(content, filename):
-	with open(filename+'.json', 'w') as outfile:
-		json.dump(content, outfile, sort_keys = True, indent = 4, ensure_ascii=True)
+	return video_id_cat_dict
 
 if __name__ == "__main__":
 	os.chdir(os.path.join(os.pardir, 'data'))
-	# os.chdir("C:\\Users\\Maheer\\Dropbox\\Cornell Course Materials\\Spring 2015\\CS 4300\\youtube-caption-prediction\\data")
-	video_id_cat_dict = populate_all_category_searches(500)
-	json_dump(video_id_cat_dict, "video_ids_v4")	
+	video_id_cat_dict = populate_all_category_searches(5)
+	print len(video_id_cat_dict)
+	json_dump(video_id_cat_dict, "video_ids_v5")	

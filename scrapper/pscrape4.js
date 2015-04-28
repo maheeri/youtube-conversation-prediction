@@ -28,11 +28,20 @@ try {
     console.log(e);
     phantom.exit();
 }
-var vidIDList           = JSON.parse(content);
+//Parse input as json and convert to list
+var inv_idx = JSON.parse(content);
+var vidIDList = [];
+for (var key in inv_idx) {
+  if (inv_idx.hasOwnProperty(key)) {
+    vidIDList.push(key);
+  }
+}
+//Create iterator
 var my_vidListIterator  = vidListIterator(vidIDList)
 
 var failedList = [] //used as a global of sorts
 
+//Recursive function to go through all videos
 var recur_scrape = function(){
     if (my_vidListIterator.hasNext()){
         vidID = my_vidListIterator.next();
