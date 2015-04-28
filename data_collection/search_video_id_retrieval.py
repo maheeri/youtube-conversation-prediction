@@ -140,7 +140,7 @@ def populate_all_category_searches(videos_per_category):
 	video_id_cat_dict = defaultdict(list)
 	
 	for idx,category_id in enumerate(category_id_to_name_dict):
-		print "% complete: ", (idx/len(category_id_to_name_dict))
+		print "% complete: ", (idx/len(category_id_to_name_dict) * 1.0)
 		for vid_id in category_video_search(category_id, videos_per_category):
 			video_id_cat_dict[vid_id].append(category_id)
 
