@@ -16,13 +16,23 @@ def inverted_index(vid_ids_json_cat_dict):
 			inv_idx[vid_id].append(cat_id)
 	return inv_idx
 
-def prune(inv_idx,failed_list):
+def prune(inv_idx, failed_list):
 	""" Deletes vid_ids from inv_idx if they are in the failed list """
+	start_size = len(inv_idx)
 	for failed_vid_id in failed_list:
-		del inv_idx[failed_vid_id]
+		if failed_vid_id in inv_idx:
+			del inv_idx[failed_vid_id]
+	print "I pruned this many vid ids: ", (start_size - len(inv_idx))
 	return inv_idx
 
 if __name__ == "__main__":
+	#### The code prunces incoming lists ####
+	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
+	inv_idx = json.load(open('video_ids_v5.json'))
+	failed_list = json.load(open('failedList_old_but_correct.json'))
+	inv_idx_pruned = prune(inv_idx, failed_list)
+	json_dump(inv_idx_pruned, 'video_ids_v5_pruned')
+
 	pass
 	#### The code below converts an old cat vid dict to an inverted index style dict ####
 	# os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
