@@ -139,7 +139,8 @@ def populate_all_category_searches(videos_per_category):
 	
 	video_id_cat_dict = defaultdict(list)
 	
-	for category_id in category_id_to_name_dict:
+	for idx,category_id in enumerate(category_id_to_name_dict):
+		print "% complete: ", (idx/len(category_id_to_name_dict))
 		for vid_id in category_video_search(category_id, videos_per_category):
 			video_id_cat_dict[vid_id].append(category_id)
 
@@ -147,6 +148,6 @@ def populate_all_category_searches(videos_per_category):
 
 if __name__ == "__main__":
 	os.chdir(os.path.join(os.pardir, 'data'))
-	video_id_cat_dict = populate_all_category_searches(5)
-	print len(video_id_cat_dict)
+	video_id_cat_dict = populate_all_category_searches(1000)
+	print "total results: ", len(video_id_cat_dict)
 	json_dump(video_id_cat_dict, "video_ids_v5")	

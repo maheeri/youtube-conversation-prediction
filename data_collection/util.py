@@ -23,8 +23,7 @@ def prune(inv_idx,failed_list):
 	return inv_idx
 
 if __name__ == "__main__":
-
-
+	pass
 	#### The code below converts an old cat vid dict to an inverted index style dict ####
 	# os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
 	# cat_vid_dict = json.load(open('video_ids_v4.json'))
