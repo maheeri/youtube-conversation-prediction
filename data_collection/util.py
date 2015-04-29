@@ -28,12 +28,12 @@ def prune(inv_idx, failed_list):
 if __name__ == "__main__":
 	#### The code prunces incoming lists ####
 	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
-	inv_idx = json.load(open('video_ids_v5.json'))
-	failed_list = json.load(open('failedList_old_but_correct.json'))
+	inv_idx = json.load(open('video_ids_v5_pruned.json'))
+	failed_list = json.load(open('failedList.json'))
 	inv_idx_pruned = prune(inv_idx, failed_list)
-	json_dump(inv_idx_pruned, 'video_ids_v5_pruned')
+	json_dump(inv_idx_pruned, 'video_ids_v5_pruned_pruned')
+	########
 
-	pass
 	#### The code below converts an old cat vid dict to an inverted index style dict ####
 	# os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
 	# cat_vid_dict = json.load(open('video_ids_v4.json'))
@@ -41,3 +41,4 @@ if __name__ == "__main__":
 	# print len(inv_idx)
 	# json_dump(inv_idx, 'video_ids_v5')	
 	########
+	pass

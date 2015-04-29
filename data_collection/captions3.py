@@ -72,6 +72,17 @@ def format_transcript(transcript):
             foramtted_transcript.append(line)
     return foramtted_transcript
 
+
+def get_flattened_transcript(vid_id):
+    transcript = get_transcript(vid_id)
+    flat_text = ""
+    for text_soup in transcript.find_all("text"):
+        text = text_soup.get_text()
+        if len(text) > 0:
+            flat_text += (text + " ")
+    return flat_text[:-1]
+
+
 def get_formatted_transcript(vid_id):
     """
     Convience method

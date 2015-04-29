@@ -214,7 +214,6 @@ function scrape(vidID, callback){
                         })
                         all_data     = eval(all_data_str);
                         views_data   = all_data[0]['views']['cumulative']['data']
-                        // data_str = re.findall(r"<graph_data><!\[CDATA(.*)]></graph_data>", content)[0]
                         var scraped_data = {
                             'data'      : views_data,
                             'pub_date'  : date_pub_str,
