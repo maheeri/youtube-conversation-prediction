@@ -25,6 +25,11 @@ def prune(inv_idx, failed_list):
 	print "I pruned this many vid ids: ", (start_size - len(inv_idx))
 	return inv_idx
 
+def get_filenames(path, extension=".json"):
+	""" Return list of filenames of that extensio without the extension """
+	ext_length = len(extension)
+	return [jsonfile[:-ext_length] for jsonfile in os.listdir(path) if jsonfile.endswith(extension)]
+
 if __name__ == "__main__":
 	#### The code prunces incoming lists ####
 	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
