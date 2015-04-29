@@ -12,6 +12,7 @@ import urllib
 import urllib3
 import json
 from captions3 import get_formatted_transcript
+from util import *
 
 
 # Authenticate
@@ -35,7 +36,7 @@ def get_comment_threads(vid_id, data=None, next_page_tok=None):
 			parentId 	= parent_id,
 			textFormat 	= "plainText",
 		).execute()
-		comments = api_results["items"]:
+		comments = api_results["items"]
 		return comments
 
 	def format_comment(comment):
@@ -47,7 +48,7 @@ def get_comment_threads(vid_id, data=None, next_page_tok=None):
 		}
 	##############################################
 	# Check base case
-	if next_page_tok == '' or next_page_tok is None:
+	if next_page_tok == '' or next_page_tok is None and data is not None:
 		return data
 	# If this is the first call, start data
 	if data is None:
@@ -75,7 +76,8 @@ def get_comment_threads(vid_id, data=None, next_page_tok=None):
 			}
 
 	# Recur
-	return get_comment_threads(vid_id, data, api_results["nextPageToken"])
+	new_next_page_tok = api_results["nextPageToken"] if "nextPageToken" in api_results else ''
+	return get_comment_threads(vid_id, data, new_next_page_tok)
 
 
 def get_video_data(vid_id, categories_list):
@@ -97,7 +99,7 @@ def get_video_data(vid_id, categories_list):
 	if captions == None: #Optimization by doing this check also throws away videos with bad captions
 		return None
 	comment_thread = get_comment_threads(vid_id)
-	return {
+	vid_data = {
 		"title" 				: title,
 		"video_length" 			: duration_string,
 		"vide_defintion"		: video_defintion,
@@ -108,18 +110,28 @@ def get_video_data(vid_id, categories_list):
 		"captions" 				: captions,
 		'comment_thread'		: comment_thread
 	}
+	return vid_data
 
-def process_inv_idx(inv_idx):
+def process_inv_idx(inv_idx, cautious=False, path=None):
+	vid_id_set = set(get_filenames(path))
 	all_data = {}
 	for vid_id, categories_list in inv_idx.iteritems():
-		print "proccessing: ", vid_id
-		all_data[vid_id] = get_video_data(vid_id, categories_list)
+		if vid_id not in vid_id_set:
+			print "proccessing: ", vid_id
+			cur_vid_data = get_video_data(vid_id, categories_list)
+			if cautious:
+				with open(path+vid_id+'.json', 'w') as datafile:
+					json.dump(cur_vid_data, datafile, indent = 4, ensure_ascii=True)
+			else:
+				all_data[vid_id] = cur_vid_data
 	return all_data
+
 
 if __name__ == "__main__":
 	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
 	input_json_filename = 'video_ids_v5_pruned_pruned.json'
 	videoIds_inv_idx = json.load(open(input_json_filename))
-	videos_data = process_inv_idx(videoIds_inv_idx)
-	with open('video_ids_v5_pruned_pruned_data.json', 'w') as datafile:
-		json.dump(videos_data, datafile, indent = 4, ensure_ascii=True)
+	videos_data = process_inv_idx(videoIds_inv_idx, cautious=True, path="comments/")
+
+	# with open('video_ids_v5_pruned_pruned_data.json', 'w') as datafile:
+	# 	json.dump(videos_data, datafile, indent = 4, ensure_ascii=True)
