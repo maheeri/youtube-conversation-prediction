@@ -1,0 +1,1024 @@
+{
+    "comment_thread": {}, 
+    "video_length": "PT8M41S", 
+    "captions": [
+        {
+            "text": "DR. JAMES GRIME: So another\nprime-generating formula is", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "actually the most important\none of all.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s called the prime\nnumber theorem.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So let me write it out.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I think it deserves\nbeing written out.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Really important result\nin mathematics.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s so important that you\ncan refer to by its TLA.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You can refer to it by its\nthree-letter acronym.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Just call it PNT.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "People know what PNT is.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s the prime number theorem.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s that important.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And the prime number theorem is\nabout how many primes are", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "there, less than a number n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So how many primes are there\nless than a billion?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Something like that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And so the formula says\nthat the number of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "primes less than n--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "well, the symbol for\nthat is pi of n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now, don&#39;t be confused.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This pi is not 3.14.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s nothing to do with pi.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "We&#39;ve reused the symbol\nfor something else.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So it&#39;s P for prime.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So the number of primes\nless than n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And this is approximately n\ndivided by natural log of n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "A couple of things to say,\nbecause some of you won&#39;t be", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "familiar with that\nnatural log of n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Some of you will.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But for the ones who aren&#39;t\nfamiliar, I&#39;ll try and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "quickly show you.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s just a function.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You could call it--\nit&#39;s just a thing.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Any number-- you\npick a number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Any number, like n, can be\nwritten this way, as e to the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "power x.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "e is another constant.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s 2 point--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I never remember what it is.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "718, something, something,\nsomething.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So any number can be written\nin that way.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s 2.718 to the power\nof something.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And the log of n is this bit.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s x.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s the power.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So that&#39;s what a log is.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If I plot log of x, it\nlooks like this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This is actually growing,\nbut it grows", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "really, really slowly.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I think the log of\n1 billion is 21.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you put in a big number, and\nyou&#39;re actually getting a", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "very small number out.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s always getting bigger.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s actually tending\nto infinity.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "One more thing to say--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this twiddle is a new\nsymbol to you.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Tilde--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "or twiddles, as I like\nto call it--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it&#39;s a new symbol.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "What it means is if you divide\nthose two things--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "so I&#39;m going to divide\nthem, like that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If you divide those two things,\nthat&#39;s tending to 1 as", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "n gets bigger.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That&#39;s what it means.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s slightly technical.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You can say approximately\nequal to, if", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "you&#39;re happy with that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But that has a proper meaning.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So what it&#39;s told us\nis it tells us", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "how many, on average--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it gives an approximation, at\nleast-- of how many primes we", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "can expect less than\na number--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "1 billion, 10 billion,\na googol.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But we can then get some\nresults from that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That means that the proportion\nof prime numbers is-- well, if", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "we divide by n, the proportion\nof primes less than n is 1", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "over log n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So if we&#39;re talking 1 billion,\nI said the log of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "1 billion was 21.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So the proportion of\nprimes is 1/21.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s like 5%.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "5% of numbers less than\n1 billion are prime.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You can call it a probability\nif you want.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If I picked a number at random,\nwhat&#39;s the probability", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that it&#39;s going to be\na prime number?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s 5%.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "What does it mean?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It does mean that the prime\nnumbers are getting rarer,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "more spaced out, as the\nnumbers get bigger.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So this proportion is\ngetting smaller.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The gaps--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "we can write the\ngaps, as well.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The average gap between primes\nis now equal to log of n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So if n was 1 billion again--\nlet&#39;s stick with that--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it turns out the average gap\nbetween the primes is 21.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Some have bigger gaps.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Some have smaller gaps.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Some are twin primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But the average gap is 21.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: Let me give\nyou a number, and you", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "give me all the stats.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I&#39;ll give you a number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Give me the state of the nation\nfor the first 5 and 1/2", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "billion numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "DR. JAMES GRIME: 5\nand 1/2 billion--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "5 and 1/2 billion is this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So 1 billion has nine 0&#39;s.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So this is 5 and 1/2 billion.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "We&#39;re going to take the log\nof that, the natural log.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "What have we got?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "22.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: 22.4.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "DR. JAMES GRIME: 22.4.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: So what\ndo you now know?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "DR. JAMES GRIME: So I know that\nthe proportion of primes", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "less than 5 and 1/2\nbillion is 1/22.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Again, it&#39;s just like--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "well, let&#39;s see.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Is it 4%?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Let&#39;s see if we can do it.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Yeah, so about 4% of numbers\nless than 5 and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "1/2 billion are prime.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The average gap is about\n22.4, 22, 23.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So that&#39;s a lot of\ninformation.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And then one more thing, then.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "One more thing we can\nlearn from this--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "our prime number formula.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The n-th prime twiddles,\nor is approximately,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "n lots of log n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you might see where\nthis comes from.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If the average gap is log n, and\nyou want to know the n-th", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "prime, you can multiply by n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You add the gaps all together.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The n-th prime is approximately\nn log n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Which means 5 and 1/2 billion,\nthe 5 billionth, 500 million", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "da-da-da-da-da prime is--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it actually gets better\nresults the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "bigger the number is.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So it helps you find--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "but it is an approximation,\nrather than those formulas,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the prime number formula\ngiving ones.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "One more thing I wanted\nto say about this--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this average gap we&#39;ve\ndiscovered, which is log n--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and I said it was an average.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So sometimes you get\nbigger than that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Sometimes you get\na twin prime.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You make an average of\nit, you get log n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The gaps do have\nbounds on them.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You can&#39;t go as big\nas you like.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "There&#39;s actually a little--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it&#39;s called Bertrand&#39;s\npostulate.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And it says if you pick any\nnumber-- let&#39;s pick the number", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "n-- he said that there will be\na prime that is bigger than n", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and smaller than 2n.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you can&#39;t have a gap\nthat is too big.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "There&#39;s a little\nrhyme for this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The rhyme is, &quot;Chebyshev said\nit, and I&#39;ll say it again,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "there&#39;s always a prime between n\nand 2n.&quot; And if you put n as", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "a prime instead--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "let&#39;s take it as the\nn-th prime--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "then the next prime you&#39;re\nlooking for has to be", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "sandwiched between prime\nand 2 times the prime.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Let&#39;s pick a prime.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Prime&#39;s the nice version\nto do it in.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Well, pick a prime.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: 11?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "DR. JAMES GRIME: 11&#39;s fine.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Right, so let&#39;s have 11.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "All it&#39;s telling you is that\nyou&#39;re guaranteed to have a", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "prime between 11 and\n22, which is true.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So your gaps can&#39;t\nget too big.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "For primes over 100, you\ncan do better than 2.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That can actually shrink\ndown to 1.2.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So that gives you quite\na narrow gap.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So that just means that the\nprimes can&#39;t have very, very,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "very long gaps between them.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So they&#39;re quite regular.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Primes are always turning up.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "They&#39;re fairly regular.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And there&#39;s infinitely\nmany of them.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But they&#39;re like weeds.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "They&#39;re always popping up.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You can&#39;t get rid of them.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "There&#39;s another prime.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You don&#39;t go for too long\nwithout another", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "prime popping up.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: Surely when we\nget up into sort of the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Graham&#39;s numbers of the\nworld, those weeds", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "become a bit more sparse.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "DR. JAMES GRIME: They\nbecome spaced out.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But proportionally, compared\nto the size of numbers that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "you&#39;re using, the proportion is\nactually very, very tiny.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "In absolute terms, they&#39;re\nreally spaced out.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But as a proportion to these\nhuge numbers we&#39;re talking", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "about, they&#39;re close.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This prime number formula is\nactually the easy version of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the prime number formula.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "There&#39;s more sophisticated\nversions of this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "They look the same, but they&#39;ve\nadded on extra terms.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And so you can see that the\nerror is sort of zigzagging", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "around 0-ish.", 
+            "dur": 0, 
+            "start": 0
+        }
+    ], 
+    "title": "Primes are like Weeds (PNT) - Numberphile", 
+    "publish_date": "2013-08-13T14:00:17.000Z", 
+    "topics": [
+        "/m/05xdq", 
+        "/m/05x5j", 
+        "/m/0vb40_n", 
+        "/m/05dkb"
+    ], 
+    "vide_defintion": "hd", 
+    "number_views": 302608, 
+    "categories": [
+        28
+    ]
+}
