@@ -1,0 +1,609 @@
+{
+    "comment_thread": {
+        "z13gs5tqkumcsxhmy23ci3mbfvq5f1d24": {
+            "top_comment": {
+                "date": "2013-09-06T17:22:11.860Z", 
+                "text": "Log Tables - Numberphile\ufeff", 
+                "author": "Numberphile"
+            }, 
+            "comments": [
+                {
+                    "date": "2014-01-17T12:49:15.289Z", 
+                    "text": "Today it is very hard to replace the calculator and for any equations \nstyle. \nBut in electronic, this technic becomes very usefull and efficient. For \ninstance, let's say you want to get the wattage taken of an electric load. \nFirst, measure voltage and current, perform an log10 of both voltages using \nlog amp, you then antilog the sum of the two voltages, and you get wattage \n! Logarithmic operation is cool in electronic! \n\njust like Numberphile!\nThank you!", 
+                    "author": "Sylvain Duteau"
+                }, 
+                {
+                    "date": "2013-09-06T19:03:32.302Z", 
+                    "text": "I agree that it will be very handy if we don't have the calculator and need \nto perform multiplications in a very high precision and limited time, this \nlog rule is very convenient and easier to use, *provided* that we have the \ntables. If such precision is not needed, however, an approximation might be \nfaster (I remember Brady posted one video about it, such as 38284 x 4489 is \nroughly 40000 x 4000 if I'm not mistaken, or I'll do 38000 x 4500 which is \nquite easy to do and has better precision). On the other hand, if I'm given \nonly a piece of paper and pen, I have no choice other than doing the \"hard \nway\" :)\n\nPS: I'm pretty sure back in 1969 they were equipped with small calculators \n(or something like that) when collecting data on the moon, but I get what \nyou're trying to picture. Flipping over pages of log/antilog tables would \nbe quite hard to do with those astronaut gloves though...", 
+                    "author": "Marcellinus Ferdinand Suciadi"
+                }, 
+                {
+                    "date": "2013-09-06T18:39:44.774Z", 
+                    "text": "there is no question of preference +Marcellinus Ferdinand Suciadi if you \ndon't have a calculator near at hand. Let's say in 1969 when they where \nsending three guys to the moon and had to calculate tons of stuff. :-)\n\nBorn in 1979 I had a logarithmic ruler in my hand in the 80's from my dad, \nbut actually only learned simple multiplications like 3x4 with it, although \nlooking back I really admire calculating skills with such tools and \nmethodes.", 
+                    "author": "Volker Scheffer"
+                }, 
+                {
+                    "date": "2013-09-06T18:13:39.431Z", 
+                    "text": "I still prefer the old way of doing multiplication by hand, since most of \nthe time (all of time, in fact) I don't have the log and antilog tables \nwith me :/ nevertheless, this reserves as a quick reminder on how to read \nlog/antilog tables. Thanks Brady!\n\nWaiting for the next video; now you make me curious how on the earth did \nthey make those tables :)", 
+                    "author": "Marcellinus Ferdinand Suciadi"
+                }
+            ], 
+            "num_replies": 4
+        }, 
+        "z13ng5oaarqcz5izs04cdrxb5wfhvzg5jec": {
+            "top_comment": {
+                "date": "2013-09-16T19:05:37.389Z", 
+                "text": "*Noah's Ark* and the Vipers\n\nThis joke probably doesn't travel across localities and time very well but \nI'll tell it anyway.\n\nWhen Noah was letting the animals off his Ark he instructed each couple to \ngo forth and multiply. And, two by two, they complied happily.  When, \nhowever, it came to a type of Viper called an Adder the snakes complained \nto Noah that they could not possibly do it!  After all they said, we are \nonly Adders and we don't know how to multiply! Noah told them sternly that \nthey must, or he wouldn't let them go and he promptly locked them in the \nwood shed.\n\nSome time later Noah returned and opened the shed.  He found the two snakes \nlooking contentedly into each other's eyes. He asked them how they were \ndoing and they said that everything was now fine and that Noah should let \nthem go.  Noah said \"I thought you told me that there was no way you could \never multiply!\" The Adders replied coyly \"When you locked us in the wood \nshed - we discovered logs!\"\n\n\n*John Napier*: http://goo.gl/oIejW9\ufeff", 
+                "author": "Kevin Clift"
+            }, 
+            "comments": [
+                {
+                    "date": "2013-09-16T19:48:18.112Z", 
+                    "text": "She is hilarious isn't she?", 
+                    "author": "Kevin Clift"
+                }, 
+                {
+                    "date": "2013-09-16T19:39:50.361Z", 
+                    "text": "+Jeni Ong  made me laugh more than the joke itself!", 
+                    "author": "Daniel T"
+                }
+            ], 
+            "num_replies": 2
+        }, 
+        "z134cljafru1hrx1h23ijvzhezbcutbb204": {
+            "top_comment": {
+                "date": "2013-11-27T17:27:19.717Z", 
+                "text": "I'm still waiting for the next part of this...\ufeff", 
+                "author": "Baga Jr"
+            }, 
+            "comments": [
+                {
+                    "date": "2014-02-19T10:44:55.486Z", 
+                    "text": "http://youtu.be/vzV50goW_WM", 
+                    "author": "Numberphile"
+                }, 
+                {
+                    "date": "2014-02-06T02:37:44.717Z", 
+                    "text": "+Roger Bowley I'm obsessed with making everything as intuitive as possible \nso would you mind explaining why he was imagining lim n -> inf of (1-1/n)^n \nand how that relates to creating the log table because I don't see where \nthat came from? I've always wondered this since I first saw this definition \nof e, but nobody ever explained it; they just stated it.", 
+                    "author": "Baga Jr"
+                }, 
+                {
+                    "date": "2014-02-05T17:11:56.814Z", 
+                    "text": "So am I --Brady filmed it twice, and then forgot about it.\n\nNapier imagined a number (1 -0.1)^(10) and then took powers of it. So the \npower of 0.2 is ((1 -0.1)^(10))^0.2=(1-0.1)^2=0.81. For 0.3 it is \n0.9*0.81=0.729 and so on\n\nTo get more accuracy he started with (1-0.001)^1000, and then did the same \ntrick. It took 20 years to work ot the table using 10^7 instead of 1000  or \n10.\nIn the limit of 10 going to infinity the result is1/e where e is Euler's \nconstant.", 
+                    "author": "Roger Bowley"
+                }
+            ], 
+            "num_replies": 3
+        }
+    }, 
+    "video_length": "PT5M10S", 
+    "captions": [
+        {
+            "text": "ROGER BOWLEY: I&#39;m going to be\ntalking about logarithms,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "logarithms to the base 10.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So for example, if I have a\nnumber, which is 100, I can", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "think of that as 10 squared,\nor 10 to the power 2.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So 2 is the logarithm of this\nnumber, 100, to the base 10.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "1,000 is 10 to the 3.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This is the logarithm, the 3,\nand it corresponds to the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number of 0&#39;s there.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It is logarithm of\n1,000 equals 3.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I can do 10 to another number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So for example, 10 to the 1.6232\nturns out to be 42.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That means that if I were to\ntake 10, that means that the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "log to the base 10 of\n42 is 1.6232 to", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "four significant figures.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The reason it&#39;s useful\nis multiplication.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If I have two numbers and\nI want to multiply them", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "together, it&#39;s easy to make\nmistakes, because there are a", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "lot of little operations that\nhave to be added up.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If you go through logarithms and\nyou get a logarithm of a", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number, such as 42, and you\nmultiply it with another", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number, such as 37, or 59, or\n200, you get the logarithm of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that number, and you add\nthese numbers together.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Let me show you an example.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "37 times 59.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now, I can write 37 as 10 to the\n1.5682, and multiply that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "by this number, which is\n10 to the power 1.7709.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And when I multiply these\nnumbers together, all I have", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "to do is add this number to that\nnumber to make this into", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "10 to the 3.3391.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: That&#39;s\nlike a shortcut.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ROGER BOWLEY: Yes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Instead of multiplying numbers,\nyou&#39;re adding this to", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that to get this exponent,\nand that number, it", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "turns out, is 2183.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Instead of having to write this\nout longhand as 37 times", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "59 and work it all out in gory\ndetail, which will require 9", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "times 7 and 3 times 9, and then\n5 times 7, and working it", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "out, and not making a mistake,\nall you have to do is", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "addition, which is\nmuch easier.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And if I were to do division, I\nwould do subtraction, which", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "is much easier.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Addition and subtraction\nare much easier than", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "multiplication and division.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So this is a great\nsimplification.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It makes your life\nmuch easier.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The catch is that you have\nto know these numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "37 is 10 to the power of this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So where did I get that from?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Where did I get 59\nis this number?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Well, the big secret, the thing\nthat makes it possible", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "is that I have a table of these\nlogarithms, and I look", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "up 37, this is actually 3.7, so\nin order to make it 37, I", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "have to add a 1 to it,\nand it&#39;s 1.5682.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So that&#39;s this number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And then I look up 59.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And there&#39;s 59.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "59.0, I go across , its 0.7709,\nbut this is 5.9, so I", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "have to add a 1.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So these, I cheated, it&#39;s\nall in a table.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I can look it up.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "When I was a lad at school, this\nis how we learned to do", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "multiplication.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I mean, we learned how to do\nlong multiplication, but we", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "added these numbers together\nto get the answer quickly.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And it was the way of doing\nit, because there weren&#39;t", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "pocket calculators in my youth,\nbecause I&#39;m so old.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This is all we had down mine.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So when I&#39;ve got this number,\nI have to go to a different", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "table, which is called the\ntable of antilogs.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now, the 3 in the front of this\nmeans 1,000, so I just", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "have to look up 0.3391.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So I go down the table,\nthere&#39;s 0.33.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And then you look across\nthe top, and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "there&#39;s a 9, 3391, 2183.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And then I look at the\n1, which is this", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "thing, and add that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And you see I get 2183.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And if there was a number there,\nI&#39;d have to add that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "last one, but it&#39;s actually 0.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So this is 2183, which\nturns out to be the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "right answer exactly.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you could get four\nsignificant figures by doing", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this, which is reasonably\naccurate.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s the speed, the\nreliability.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If these tables are accurate,\nyou can get the numbers out.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: Is this just\nsomething that schoolboys and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "schoolgirls would use, or were\nlog tables important for", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "professionals?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ROGER BOWLEY: Oh, yes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Log tables would be used by\nprofessionals who wanted to", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "get accuracy.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And they might not be just four\nsignificant figures, they", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "might be more, depending\non the accuracy of the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "calculations that you\nneed to make.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And they made calculations very\nreliable, provided the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "tables were reliable.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But the tables, to start with,\nweren&#39;t very reliable.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And that&#39;s really a complete\nstory in itself, which I&#39;d", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "like to tell you.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Well, now you&#39;re going to ask\nthe question, where do these", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "numbers come from?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "How did I make up tables of\nantilogarithms and logarithms?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And this was done by a man\ncalled John Napier.", 
+            "dur": 0, 
+            "start": 0
+        }
+    ], 
+    "title": "Log Tables - Numberphile", 
+    "publish_date": "2013-09-05T15:17:24.000Z", 
+    "topics": [
+        "/m/04jm3", 
+        "/m/0vb40_n", 
+        "/m/05fwb"
+    ], 
+    "vide_defintion": "hd", 
+    "number_views": 224619, 
+    "categories": [
+        28
+    ]
+}
