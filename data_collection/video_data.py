@@ -8,8 +8,6 @@ from apiclient.errors import HttpError
 import httplib2
 import os
 import sys
-import urllib	
-import urllib3
 import json
 from captions3 import get_formatted_transcript
 from util import *
@@ -126,12 +124,18 @@ def process_inv_idx(inv_idx, cautious=False, path=None):
 				all_data[vid_id] = cur_vid_data
 	return all_data
 
+def try_forever():
+	try:
+		videos_data = process_inv_idx(videoIds_inv_idx, cautious=True, path="comments/")
+	except:
+		try_forever()
+
 
 if __name__ == "__main__":
 	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
 	input_json_filename = 'video_ids_v5_pruned_pruned.json'
 	videoIds_inv_idx = json.load(open(input_json_filename))
-	videos_data = process_inv_idx(videoIds_inv_idx, cautious=True, path="comments/")
+	try_forever()
 
 	# with open('video_ids_v5_pruned_pruned_data.json', 'w') as datafile:
 	# 	json.dump(videos_data, datafile, indent = 4, ensure_ascii=True)
