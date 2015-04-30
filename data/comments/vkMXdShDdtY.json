@@ -1,0 +1,1110 @@
+{
+    "comment_thread": {
+        "z13sutwxsrjwxh3wp04ccf4rozueznl5jx40k": {
+            "top_comment": {
+                "date": "2013-05-29T00:12:35.000Z", 
+                "text": "Gaps between primes. The Numberphile guys (Ed Copeland and Tony Padilla \nfrom the University of Nottingham) chat about the recent proof that there's \nan infinite number of pairs of primes separated by 70 million. They seem \nsurprised that the man who discovered the proof was from the University of \nNew Hampshire and not an \"elite\" university like Princeton or Harvard. No, \nthey don't explain how the proof works (it's 56 pages), instead they talk \nabout how difficult it would be for large prime numbers to date. That will \nstick in your head. Anyway, he didn't make the breakthrough by inventing \nany phenomenally new math -- rather he basically just plugged and chugged \nusing established techniques longer than anyone else. It might lead to a \nproof of the hundreds of years old twin primes conjecture.\ufeff", 
+                "author": "Wayne Radinsky"
+            }, 
+            "comments": [
+                {
+                    "date": "2013-05-29T01:06:28.472Z", 
+                    "text": "So much time devoted to a single problem. The bar is getting pretty high!", 
+                    "author": "Ethan Smith"
+                }, 
+                {
+                    "date": "2013-05-29T00:07:47.000Z", 
+                    "text": "Continued: Gaps between Primes (extra footage) - Numberphile", 
+                    "author": "Wayne Radinsky"
+                }
+            ], 
+            "num_replies": 2
+        }, 
+        "z12cxfuivnbmynaeg22kizaapnupz14ag04": {
+            "top_comment": {
+                "date": "2013-05-27T18:53:32.000Z", 
+                "text": "Chinese researcher has proven that the biggest gap between any two closest \nprime numbers is less than 70 millions.\ufeff", 
+                "author": "Peter Bo\u010dan"
+            }, 
+            "comments": [
+                {
+                    "date": "2013-05-28T11:44:35.313Z", 
+                    "text": "hmmm, he could make better....", 
+                    "author": "Mark Becker"
+                }, 
+                {
+                    "date": "2013-05-27T21:36:27.183Z", 
+                    "text": "Of course you're absolutely right, +Paul Hartzer . Thanks for the \ncorrection.", 
+                    "author": "Bobby Martin"
+                }, 
+                {
+                    "date": "2013-05-27T21:36:14.458Z", 
+                    "text": "Umm...okay o.o", 
+                    "author": "Danne Koon"
+                }, 
+                {
+                    "date": "2013-05-27T20:56:32.000Z", 
+                    "text": "Thanks +Paul Hartzer that's precisely what I meant. ", 
+                    "author": "Leon Sering"
+                }, 
+                {
+                    "date": "2013-05-27T20:06:57.970Z", 
+                    "text": "+Bobby Martin If that's true, then the Twin Prime Conjecture is wrong, \nbecause it says that for gap 2, there does not exist any n such that all \nprimes > n have a gap greater than 2 to the next prime.\n\n+Leon Sering 's proof is that, given any number n, there is a sequence of \nconsecutive non-primes that is n-1 long. For instance, for n = 7: 5042, \n5043, 5044, 5045, 5046, and 5047 are not prime. This is because 7! = 7 * 6 \n* 5 * 4 * 3 * 2, so 7! + 2 = (7 * 6 * 5 * 4 * 3 + 1) * 2, 7! + 3 = (7 * 6 * \n5 * 4 * 2 + 1) * 3, and so on.\n\nHence, for n = 10,000,000, there must be a sequence of consecutive \nnon-primes that is 9,999,999 numbers long (specifically, from 10,000,000! + \n2 to 10,000,000! + 10,000,000). That's not the same thing that you said; \nyou're overgeneralizing.", 
+                    "author": "Paul Hartzer"
+                }, 
+                {
+                    "date": "2013-05-27T20:58:17.000Z", 
+                    "text": "No that would be a contradiction to the proof by Zhang. \nI just showed that there are arbitrary big gaps between primes. \nSo give me a number a and I show you a gap of this size or bigger. Pick \nn=a+1 in my \"proof\".", 
+                    "author": "Leon Sering"
+                }, 
+                {
+                    "date": "2013-05-27T19:46:25.266Z", 
+                    "text": "+Leon Sering You mean, for any gap X, there exists some n for which all \nprimes > n have a gap greater than X to the next prime.\n\nNice proof!", 
+                    "author": "Bobby Martin"
+                }, 
+                {
+                    "date": "2013-05-27T19:30:57.857Z", 
+                    "text": "A simple proof why there is no closest gap between any 2 primes:\nfor any number n the n-1 numbers n!+2, n!+3, n!+4,..., n!+n are not prime. ", 
+                    "author": "Leon Sering"
+                }, 
+                {
+                    "date": "2013-05-27T18:54:04.894Z", 
+                    "text": "Ah, I see... but still that chains the primes a bit more than yesterday...", 
+                    "author": "Peter Bo\u010dan"
+                }, 
+                {
+                    "date": "2013-05-27T18:48:33.157Z", 
+                    "text": "No, it's saying that there are infinitely many pairs of primes (p1, p2) \nsuch that |p1 - p2| <= 70,000,000, which is not quite the same thing.\n\nIf the biggest gap between *any* pair of primes was <= 70,000,000, that \nwould contradict the prime number theorem:\n\nhttp://en.wikipedia.org/wiki/Prime_number_theorem", 
+                    "author": "Christian Tamblyn"
+                }
+            ], 
+            "num_replies": 10
+        }, 
+        "z13mxzb4xyi5h5mdz22nw14rdyerene4v04": {
+            "top_comment": {
+                "date": "2013-05-27T17:05:05.000Z", 
+                "text": "I wonder if the current buzz about primes will impact cryptography in the near future.", 
+                "author": "David Erdman II"
+            }, 
+            "comments": [
+                {
+                    "date": "2013-05-28T21:48:05.800Z", 
+                    "text": "so so cool!!!!!", 
+                    "author": "Stefanie Erdman"
+                }, 
+                {
+                    "date": "2013-05-28T21:09:13.924Z", 
+                    "text": "This is so cool!", 
+                    "author": "Stefanie Erdman"
+                }
+            ], 
+            "num_replies": 2
+        }
+    }, 
+    "video_length": "PT8M59S", 
+    "captions": [
+        {
+            "text": "ED COPELAND: Hello.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: I was going to ask\nyou to describe this in", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "terms that you would describe\nit to, say, your daughter.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And then I remembered\nyour daughter does", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "economics at Cambridge.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: Yeah.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: So let&#39;s\nnot do that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Let&#39;s describe this as you\nshould describe to me, maybe.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: OK, so there&#39;s\nbeen a very exciting", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "breakthrough in the field\nof number theory.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It caused an awful lot of\nexcitement amongst the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "mathematicians, as excited as\nmathematicians can get.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And the crazy thing about it\nis that it&#39;s come from", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "somebody who&#39;s pretty\nmuch unknown.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s a guy called Yitang\nZhang, which is", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "a pretty cool name.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And he does work at the\nUniversity of New Hampshire.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: It&#39;s about prime\nnumbers, the things that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "certainly got me into maths.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: In fact, he really\nstruggled to get an", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "academic job.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "He worked for a time\nin Subway.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: There are some\namazing properties of primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And they&#39;ve led to lots of\nconjectures that haven&#39;t yet", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "been proven.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: There&#39;s nothing\nwrong with working in Subway.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But normally, these\nbreakthroughs are achieved by", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "those that are working at\nPrinceton, Harvard, these", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "kinds of really elite places.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And now we&#39;ve got somebody who&#39;s\nliterally come out of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "nowhere, that no one expected to\nproduce this kind of result", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and has done something really\nimpressive that many great", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "minds were unable to do.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: But one in\nparticular doesn&#39;t involve", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "multiplication of primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It involves additions\nof primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And it&#39;s the fact that there\nseem to be an endless series", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of primes which differ by 2.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So the obvious ones are the low\nnumber primes, so 3 and 5,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and 5 and 7, 11 and 13.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: So these two prime\nnumbers are called twin", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "primes and are called twins\nbecause they differ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "by this number 2.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: And then there&#39;s\na conjecture that goes back", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "hundreds of years, which says,\nactually, there&#39;s an infinite", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number of these.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So the highest known pair\nis a remarkable, right?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "3,756,801,695,685 times 2 to the\npower of 666,689 plus 1 is", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the higher of the\npairs of primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And if I take away 1, it\ngives me the lower of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the pairs of primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: That&#39;s epic.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: It&#39;s an epic.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Just to remind you, the lower\nones that we were describing", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "were 3 and 5, and 5\nand 7, et cetera.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So to be able to do that and\nshow that that&#39;s a pair of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "primes that differ by\n2 is remarkable.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: So these ones that\ndiffer by 2 are called", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "twin primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You also get, of course,\nones that differ by 4.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "These are called\ncousin primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And there&#39;s even those\nthat differ by 6.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And these are called sexy\nprimes, which I think you&#39;ve", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "done as well.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Why can&#39;t you have prime number\nthat differ by 7?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: You can&#39;t have\nprime numbers that differ by 7", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "because one of them will\nbe an even number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: Exactly, Brady.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Well done.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So we know that there definitely\nare an infinite", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number of prime numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And I can prove that for\nyou if you want.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: We&#39;ve done that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: You&#39;ve\ndone that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I thought you had.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "OK, so you know that\nthere&#39;s an infinite", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number of prime numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "What people aren&#39;t sure about is\nthat there are an infinite", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number of prime numbers\nthat differ by 2.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But it&#39;s believed to be true.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: And so the goal\nis to try and show this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And it&#39;s never been shown.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But what has been shown, for\nthe first time, is that you", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "can bound the difference\nbetween two primes.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And somebody has shown-- in\nfact, Yitang Zhang, from the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "University of New Hampshire,\nhas shown that there is a", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "bound between two primes, let&#39;s\nsay one prime a and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "another prime b.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And that bound is that it can be\nsome number N. And so if N", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "would be 2, for the case that\nwe&#39;re interested in here-- and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that&#39;s the ultimate case that\npeople are interested in.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But what he&#39;s managed to show is\nthere is some number N for", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "which for an infinite number\nof primes, a and b, this is", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "going to be less than or\nequal to 70 million.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: So just to be\nclear, two primes can be", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "separated by more\nthan 70 million?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: Oh yes,\nyes, yes, they can.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But what he&#39;s shown is that--\nand in fact, the conjecture is", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that every single even number,\nthere is an infinite number of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "primes that can be separated\nby that amount.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So here, the even number\nis 2, right?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So the conjecture is there&#39;s an\ninfinite number of pairs of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "primes which are\nseparated by 2.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But there&#39;s also a conjecture\nthat there&#39;s an infinite", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number of pairs of primes\nseparated by 4, and an", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "infinite number separated\nby 6, and 8, and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "in fact, up to infinity.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So that all the even numbers,\nthe conjectures are there are", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "an infinite number of primes\nseparated by that amount.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But no one has been able to\nshow that&#39;s true of any", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number up to now.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And what he has demonstrated\nis there are an infinite", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number of primes which will be\nseparated by a number N which", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "he hasn&#39;t yet calculated, but\nhe knows that it&#39;s less than", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "70 million.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: There&#39;re an\ninfinity of these guys.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "[PHONE RINGING]", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: Oh, god.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: What?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Take two.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: Hello.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Hi, babe.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I&#39;m in the middle of\ndoing a video.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Well, I&#39;ve got to answer\nit so it stops ringing.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "All right, call you back\nwhen we&#39;re done.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "All right, see you in a bit.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: Was that Ed?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: No, it was--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: The mathematicians\nwho work on", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "prime numbers will now, no\ndoubt, be scouring over what", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "he has done and trying to\nknock this number down.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I mean, I was already hearing\nabout one of the key people", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "involved, a guy called Goldston,\nwho&#39;s talked about", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it might be immediately\npossible to knock this", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "down to about 16.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And that&#39;s a lot closer\nto 2 than 70 million.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But of course, he has\na very nice way of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "describing this value.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Maybe 70 million means the\nprimes are not twins, but", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "they&#39;re certainly siblings.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: But why\nis it amazing, I", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "think, is more the point.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Why is it really incredible?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Well, there&#39;s a sort of nice\nway to illustrate this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "One thing we know is that\nobviously, there are an", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "infinite number of\nprime numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But the gaps between the prime\nnumbers, generically, get", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "bigger and bigger and bigger.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "In fact, you know that\nfor the first N--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "for prime numbers between 0 and\nN, the average gap is of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "order log of N. It&#39;s a function,\nbut this is a big", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number, is the point.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s not as big as N, but\nit&#39;s a big number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "OK, so let me illustrate what\nthat means in practice.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So imagine you had a scenario\nwhere you&#39;ve got a world with", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "all the numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And there&#39;s some rule--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and I&#39;m just going to impose\nthis rule because I&#39;m king of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this world--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that says that prime numbers\ncan only fall in love with", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "other prime numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "OK, so the idea is that\nyou go on dates with", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "your nearest neighbors.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And do you fall in\nlove or not?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So for the prime numbers at the\nlower end of the number", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "spectrum, they&#39;ve got it made.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "3 gets it down with 5.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "7&#39;s getting it on with 11.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "They don&#39;t have to go\nvery far before they", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "find their true love.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But when you get up to, say,\ngoogolplex, in principle, on", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "average, you expect to go on of\norder a googol dates before", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "you&#39;re likely to find\nyour true love.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Because the prime numbers\nare so far apart at that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "large end of things.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So it&#39;s a pretty loveless place\nat that end of things.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you get to bigger and bigger\nnumbers, you might", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "think there&#39;s just no\nway you&#39;re going to", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "find your true love.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And you probably won&#39;t even\nbother going out of the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "house.You&#39;d just stay\nin and watch", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Jeremy Kyle or something.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But what is actually true,\nthough, what Zhang has shown", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "us, is that for some lucky prime\nnumbers at that very", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "high end of things,\nthey actually--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and it&#39;s always the case-- there\nare some that actually", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "will only have to go on about\n70 million dates before they", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "find their true love.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So there are always some prime\nnumbers which are relatively", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "close together.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: 70 million seems\nsuch an arbitrary number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: Yeah.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY HARAN: And it&#39;s like, if\nit&#39;s possible to explain, how", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "has that fallen out\nof this proof?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "ED COPELAND: 2, 3, 4, 5, 6.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "TONY PADILLA: OK, so when people\ndo number theory, how", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "do they actually go about\ndoing these proofs?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "They tend to use sieve theory.", 
+            "dur": 0, 
+            "start": 0
+        }
+    ], 
+    "title": "Gaps between Primes - Numberphile", 
+    "publish_date": "2013-05-27T16:04:42.000Z", 
+    "topics": [
+        "/m/05x5j", 
+        "/m/0bjzh", 
+        "/m/0vb40_n", 
+        "/m/0d1lbt"
+    ], 
+    "vide_defintion": "hd", 
+    "number_views": 325837, 
+    "categories": [
+        28
+    ]
+}

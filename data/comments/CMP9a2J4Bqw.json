@@ -1,0 +1,957 @@
+{
+    "comment_thread": {
+        "z12jdp05jxjicfj1p23fj1u42rnkvxcfw": {
+            "top_comment": {
+                "date": "2013-09-27T17:18:41.236Z", 
+                "text": "*Squaring the circle*\n\nOne of the ancient problems proposed by ancient geometers.\nThe challenge is to construct a square with the same area as a given circle \nusing a compass and a straightedge with a finite number of steps.\n\nIn 1882, it was proven that this challenge can't be done, it is impossible, \nin fact, this is why we use the expression \"squaring the circle\" to express \nthe impossibility.\n\nThe proof consist of the magic of Pi that it turned out to be a \ntranscendental number.\n\nthanks to +Jon Percepto \nvia +Numberphile \n\n#mathematics   #Pi\ufeff", 
+                "author": "BEKHTI Youcef Abderrahmane"
+            }, 
+            "comments": [
+                {
+                    "date": "2013-09-27T22:55:56.244Z", 
+                    "text": "We start with our segment AB of length a, and extend by a segment BC of \nlength 1. Now we draw a semicircle so that AC is a diameter of this circle, \nand draw a line from B perpendicular to AC so that it touches the \nsemicircle at point D. This is the drawing he made in the video, with the \npoints labelled.\nThe important fact here is that the angle ADC is a right angle. This tells \nus that the angles BCD and BDA are the same, and that the angles CDB and \nDAB are the same, so the triangles ABD and DBC are similar.\nSo the ratio of the length of AB to the length of BD must be the same as \nthe ratio of the length of BD to the length of BC, by similarity. I.e.\n|AB|/|BD| = |BD|/|BC|\nor, multiplying both sides by |BD|*|BC|,\n|AB|*|BC| = |BD|^2\nNow |AB| = a, and |BC| = 1, so |BD|^2 = a and hence |BD| has length sqrt(a)", 
+                    "author": "Layra Idarani"
+                }, 
+                {
+                    "date": "2013-09-28T03:42:30.000Z", 
+                    "text": "Trigonometry wud b easier....angle in a semi-circle is \n90.....tan\u20ac=x/a....tan(90-\u20ac)=x/1=cot\u20ac.....tan\u20accot\u20ac=1....x^2/a=1....\ufeffAngle \nDAB=\u20ac angle DCB=90-\u20ac....", 
+                    "author": "yeshash m.c."
+                }, 
+                {
+                    "date": "2013-09-27T20:20:30.163Z", 
+                    "text": "I don't know about the proof using geometry +yeshash m.c. \nPersonally, i used Pythagoras and a three equations system to solve it", 
+                    "author": "BEKHTI Youcef Abderrahmane"
+                }, 
+                {
+                    "date": "2013-09-27T20:04:54.857Z", 
+                    "text": "The sqrt part.....how to prove it by using geometry????", 
+                    "author": "yeshash m.c."
+                }
+            ], 
+            "num_replies": 4
+        }, 
+        "z13zht5wetaavnn4304cfn4romjbsl24lok0k": {
+            "top_comment": {
+                "date": "2013-07-10T15:39:18.787Z", 
+                "text": "", 
+                "author": "Ali Jorani"
+            }, 
+            "comments": [
+                {
+                    "date": "2013-07-13T05:43:26.095Z", 
+                    "text": "Yeah, it's always good.", 
+                    "author": "Ali Jorani"
+                }, 
+                {
+                    "date": "2013-07-12T23:52:23.448Z", 
+                    "text": "new ? is it good ?", 
+                    "author": "assem ali"
+                }
+            ], 
+            "num_replies": 2
+        }, 
+        "z12od5152vfog3d4j04ch3yikmqdw1zax44": {
+            "top_comment": {
+                "date": "2015-01-09T15:59:25.888Z", 
+                "text": "use string to take the circumference of the circle. This will be 2\u03c0. Divide \nthat by two with the triangle, and then take the square root of that, which \nwill be the square root of pi. Make a square with the length of this.\ufeff", 
+                "author": "Owen Mech"
+            }, 
+            "comments": [
+                {
+                    "date": "2015-01-14T18:42:24.935Z", 
+                    "text": "+Christian M\u00fcller It is even possible in the opposite direction: Draw any \nsquare. Multiply the length of its side by it self. Now draw circle with \nradius 1 and use the methode described above to get a string with length pi \n(as radius is 1 half cicumfrence equals pi). Divide the length of the \nsquared sidelength by pi. Measure length with string. Your string is the \nlength of the radius for the circle you need to draw. Area of circle=Area \nof square", 
+                    "author": "Christian M\u00fcller"
+                }, 
+                {
+                    "date": "2015-01-14T18:33:59.170Z", 
+                    "text": "+WeissM89 Well he did not explicitly include the usage of strings. But in \nfact I am pretty sure that greeks had strings and were able to use them \n(How else should they be able to draw a circle if not by using a string \nwith a piece of chalk at one and a pointy stick at the other one). I \nthought about the same idea as well, except that when you start drawing the \ncircle you measure the beginning. Use the ruler to draw the radius from \nthat point to the middle (marked by pointy stick). Use the ruler again to \ndraw the diameter. Cut the string in such away that each end of the string \n(which is lying on the circumfrence) touches the points where the diameter \ncrosses the circle: string of length pi (times radius but thats \nirrelevant). Now simply get the square root of the length of the string as \nexplained in the video. Measure it with a string. Use a thales-circle for \n90\u00b0 and use the sting for the second side. Add the other 2 sides either by \nconnecting, measuring parallel lines or thales-circle. And ta-da your \nsquare has the same area as the circle you began with.\nEven if it is not included in the rules, in can easily done using \n\"technology\" the greeks had (no computer, calculator or whatever needed). \nSo if the greek really didnt manage to get a square and circle of the same \narea, they were stupid.", 
+                    "author": "Christian M\u00fcller"
+                }, 
+                {
+                    "date": "2015-01-11T03:11:51.612Z", 
+                    "text": "I was about to post this method until I read your reply...... Is that \ncheating or are we genius?", 
+                    "author": "WeissM89"
+                }
+            ], 
+            "num_replies": 3
+        }, 
+        "z12kujkzfxandlxm423dw1r5owydc5t1z": {
+            "top_comment": {
+                "date": "2015-01-05T13:04:40.339Z", 
+                "text": "+Numberphile At 0:13 James says that squaring the circle was solved in \n1882. Please show us how...\ufeff", 
+                "author": "Billy Sugger"
+            }, 
+            "comments": [
+                {
+                    "date": "2015-01-14T20:44:34.415Z", 
+                    "text": "Solved as in proven impossible.", 
+                    "author": "athox"
+                }, 
+                {
+                    "date": "2015-01-10T16:41:15.579Z", 
+                    "text": "What he meant by proof is the transcendence of pi. Ferdinand von Lindemann \nestablished, together with Karl Weisterstrass a theory on the transcendence \nof numbers. According to this theory, pi had to be irrational (though I \ndon't know the maths behind it, I hope numberphile will do a video on the \ntheory and it's relevance to pi). That was the only proof required that \nhadn't been found yet to proof that squaring the circle (using compass and \nstraightedge like the Ancient Greeks) was impossible. It was already noted \nthat if pi was to be irrational, it would be impossible to square the \ncircle, so that's why they only needed proof of pi being irrational. \n\nYou can find more on the theory (and it's application to other irrational \nnumbers) here en.wikipedia.org/wiki/Lindemann%E2%80%93Weierstrass_theorem", 
+                    "author": "nGon-"
+                }, 
+                {
+                    "date": "2015-01-10T10:28:43.646Z", 
+                    "text": "+George Sorrell\nThank you for that. :-)", 
+                    "author": "Billy Sugger"
+                }, 
+                {
+                    "date": "2015-01-10T08:20:48.686Z", 
+                    "text": "It was solved in the sense that it was shown to be impossible by the laws \nof constructible numbers because pi is a transcendental number. Solved \ndoesn't mean it is proven to be true, just as Fermat's Last Theorem was \nproven to show that there does not exist a solution for a^n + b^n = c^n for \nn > 2.", 
+                    "author": "George Sorrell"
+                }, 
+                {
+                    "date": "2015-01-10T05:58:17.574Z", 
+                    "text": "I think he may have been referring to the fact that it *can't* be solved \ntraditionally being proven in 1882, as the Wikipedia article on squaring \nthe circle states:\n\n\"In 1882, the task was proven to be impossible, as a consequence of the \nLindemann\u2013Weierstrass theorem which proves that pi (\u03c0) is a transcendental, \nrather than an algebraic irrational number; that is, it is not the root of \nany polynomial with rational coefficients. It had been known for some \ndecades before then that the construction would be impossible if pi were \ntranscendental, but pi was not proven transcendental until 1882. \nApproximate squaring to any given non-perfect accuracy, in contrast, is \npossible in a finite number of steps, since there are rational numbers \narbitrarily close to \u03c0.\"\n\nhttp://en.wikipedia.org/wiki/Squaring_the_circle", 
+                    "author": "Michael Meissner"
+                }, 
+                {
+                    "date": "2015-01-09T21:37:45.562Z", 
+                    "text": "+Billy Sugger I forgot what the details were. I think that the video was \nabout how pi was almost changed to 3.2.", 
+                    "author": "George Hamilton"
+                }, 
+                {
+                    "date": "2015-01-08T12:16:39.066Z", 
+                    "text": "So James was wrong that it was \"solved\" in 1882, but that it was proven \nimpossible in 1882?", 
+                    "author": "Billy Sugger"
+                }, 
+                {
+                    "date": "2015-01-07T01:23:41.327Z", 
+                    "text": "He in another video said that it was proven to be impossible.", 
+                    "author": "George Hamilton"
+                }
+            ], 
+            "num_replies": 3
+        }
+    }, 
+    "video_length": "PT7M34S", 
+    "captions": [
+        {
+            "text": "DR. .JAMES GRIME: So today we&#39;re\ngoing to talk about one", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of the great unsolved problems\nin mathematics that went back", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "to the Ancient Greeks, thousands\nof years ago, which", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "was eventually solved in 1882.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And the problem is called\nsquaring the circle.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And you may have even heard of\nthe problem as a metaphor for", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "something that&#39;s impossible\nto do.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The question is, can you make a\nsquare with the same area as", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the circle?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now you have to understand\nthe rules.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "In Ancient Greece they\ndidn&#39;t have algebra.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So they could only\nconstruct numbers", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "using lines and circles.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you could only make things\nusing a straight edge--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "like a ruler, but not a\nmeasured ruler, just a", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "straight edge--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and a compass.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So lines and circles,\nthose are the rules.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Those are the rules the Ancient\nGreeks had to work by.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Using those rules, can you\nconstruct a square with the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "same area as the circle?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Let&#39;s have a look at\nwhat you can do", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "with rules and compasses.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You can add numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Here&#39;s a line, and\nit has length a.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And I add another line\nof length b.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And the whole thing\nis a plus b.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you can add numbers together", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "quite easily with lines.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You can subtract numbers,\nas well.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If I start with b, and then I\nmark off a length, which I&#39;m", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "going to call a, then this\nbit here, that&#39;s going", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "to be b minus a.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "We can multiply.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If I draw a little triangle\nhere, this has length 1.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And this has length a.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I&#39;m going to scale\nup the triangle.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I scale it up, so now this has\nlength b, the big triangle has", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "length b, then this has been\nscaled up as well, so that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this has a length a times b.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You divide.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Same idea, but it&#39;s the\nreverse of that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If I took a bigger triangle, if\nthat has a length of b, and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the long edge here has a length\nof a, if I scale it", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "down so now this has a length\nof 1, then this has been", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "scaled down as well.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And you scale it down so\nit has a length of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "a divided by b.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you can divide by scaling\ntriangles as well.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And there&#39;s one more\nthing you can do.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If I draw a line here,\nthis is a.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I&#39;m going to add 1 to it.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That&#39;s 1.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I&#39;m then going to draw\na semicircle.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And this length, here, is\nthe square root of a.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And that&#39;s all you can do.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That is it.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "With a ruler and a compass, you\ncan add, multiply, divide,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "subtract, workout square\nroots, and that is it.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That is all you can do.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The numbers you make using\nthose rules are called", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "constructible all numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So all those numbers are\njust repeated use", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of those few rules.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If we had a circle--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "let&#39;s this make this easy.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Let&#39;s say this circle\nhas a radius of 1.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The area of the circle is pi\ntimes the radius squared.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And the radius squared,\nthat&#39;s 1.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So the area of the circle\nis just pi.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So I want a square with\nthe same area.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I want a square now that\nhas an area of pi.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And you may be ahead of me here,\nbecause a square has an", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "area of pi, the lengths of the\nsides are the square root of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "pi", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now it&#39;s at the square\nroot of pi.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "We can do square roots.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That&#39;s allowed.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So there&#39;s nothing yet to say\nthat we can&#39;t do this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So what&#39;s the problem?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Well we know that pi\nis irrational.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Actually, that wasn&#39;t\neasy to work out.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "We only worked that out\nquite recently.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "By quite recently I mean 1761.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But being irrational\nis not enough.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "There are constructible numbers\nthat are irrational.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You can make the square root\nof 2 quite easily.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And you can make the square\nroot of the square root", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of 2, and so on.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So being irrational is not\nenough to say that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this can&#39;t be done.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If I&#39;m allowed to make this\na bit more general, if I&#39;m", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "allowed to use other roots,\nlike cube roots, or fifth", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "roots, or nth roots, if I&#39;m\nallowed to add those in as", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "well, the numbers that you can\nmake using those rules are", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "called algebraic numbers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That&#39;s just a bit more\ngeneral, same idea.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And it turns out that they were\nable to prove that pi was", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "not an algebraic number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And if it&#39;s not an algebraic\nnumber, then it&#39;s definitely", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "not a constructible number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now this is what I like.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The word for a number that is\nnot algebraic is called a", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "transcendental number, which\nis a fantastic word.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now to prove something is\ntranscendental is really hard.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "In fact, mathematicians had\nshown that transcendental", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "numbers existed seven years\nbefore they even found an", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "example of a transcendental\nnumber.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So you have to imagine in those\nseven years, people were", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "saying to the mathematicians,\nshow me a transcendental", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "number, come on, show me a\ntranscendental number.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But it was a really\nhard thing to do.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Eventually they found a\nfew examples of this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But we still have to wait until\nwe were able to prove", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that pi itself was\ntranscendental.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And then that was\ndone in 1882.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Once we&#39;ve shown that, we&#39;ve\nshown that pi is not", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "constructible.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And that is a proof that you\ncannot square the circle.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY: Can you only not square\nthis circle given the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "parameters of these rules\nin this game?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Could a computer square\na circle?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "DR. .JAMES GRIME: You can make\na square with sides that have", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "length root pi.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Absolutely.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So to the modern day people,\nwith our tools of algebra--", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "algebra is fantastic.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "People complain about algebra,\nand having to", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "learn algebra at school.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But if we didn&#39;t have algebra,\nwe would be doing maths like", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the Ancient Greeks did maths.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I promise you, that would\nbe much, much worse.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Your textbooks would\nbe ridiculous.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "They&#39;d be very wordy.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Algebra is an amazing, powerful\ntool in mathematics.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s not there to cause\nyou problems.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s there for a reason.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s brilliant.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So this is easy to make a square\nwith the area of pi.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But using the Greek rules,\nstraight lines and circles,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it&#39;s impossible to do.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY: You say it&#39;s easy\nto make a square", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "with the area of pi.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But because pi has this nature\nwhere the digits continue, and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "we can&#39;t even get to the exact\nfigure, surely you can&#39;t make", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "a square that&#39;s exactly pi.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Because you don&#39;t even\nknow what pi is.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Or you can do it, can you?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "DR. .JAMES GRIME: You can do\nit and you&#39;re treading on", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "something called Zeno&#39;s Paradox\nthere, which we&#39;re", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "about to do next.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "BRADY: OK.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So for a second video in a row\nwe&#39;re going to tell people", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "they have to wait to\nfind out more?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "DR. .JAMES GRIME: If that&#39;s the\nway you want to play it,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Brady, that&#39;s your choice.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This is Brady&#39;s decision.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "He&#39;s stringing you along here.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The representatives\nactually passed it", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "unanimously, 67 to 0.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "They passed it.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now this is the weird bit.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "On the same day that they\nwere passing the bill--", 
+            "dur": 0, 
+            "start": 0
+        }
+    ], 
+    "title": "Squaring the Circle - Numberphile", 
+    "publish_date": "2013-03-25T12:31:34.000Z", 
+    "topics": [
+        "/m/01clw7"
+    ], 
+    "vide_defintion": "hd", 
+    "number_views": 660670, 
+    "categories": [
+        28
+    ]
+}
