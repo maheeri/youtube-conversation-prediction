@@ -92,7 +92,7 @@ def get_video_data(vid_id, categories_list):
 	num_views 		= int(video_info["statistics"]["viewCount"])
 	publish_date 	= video_info["snippet"]["publishedAt"]
 	topics 			= video_info["topicDetails"]["topicIds"] if 'topicDetails' in video_info and 'topicIds' in video_info["topicDetails"] else [] #code around bug
-	captions 		= get_formatted_transcript(vid_id);
+	captions 		= get_formatted_transcript(vid_id)
 
 	if captions == None: #Optimization by doing this check also throws away videos with bad captions
 		return None
