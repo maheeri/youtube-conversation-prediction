@@ -23,6 +23,34 @@ DEVELOPER_KEY = "AIzaSyBt4F-EsA1jsLMWERsivgufl0Wn7nwuZ9o"
 youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
 
 
+def get_approx_score(vid_id, score=None, next_page_tok=None):
+	""" Get the approx raw_score of comments from a videoID """
+	##############################################
+	# Check base case
+	if next_page_tok == '' or next_page_tok is None and score is not None:
+		return score
+	# If this is the first call, start data
+	if score is None:
+		score = 0
+	# Get the thread via API call
+	api_results = youtube.commentThreads().list(
+		part 		= "snippet",
+		videoId 	= vid_id,
+		textFormat	= "plainText",
+		maxResults	= 100,
+		pageToken 	= next_page_tok
+	).execute()
+
+	# Process the thread and get the associated comments
+	for item in api_results["items"]:
+		num_replies = item["snippet"]["totalReplyCount"]
+		# Only if this has 2 or more replies do I add it
+		if num_replies >= 2:
+			score += num_replies
+	# Recur
+	new_next_page_tok = api_results["nextPageToken"] if "nextPageToken" in api_results else ''
+	return get_approx_score(vid_id, score, new_next_page_tok)
+
 
 def get_comment_threads(vid_id, data=None, next_page_tok=None):
 	""" Get the thread of comments from a videoID """
