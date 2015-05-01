@@ -38,9 +38,9 @@ def valid_constraints(video_id):
 		part="statistics, contentDetails",
 		id = video_id
 	).execute()
-	video_info = video_info_list["items"][0]
-	num_views = video_info["statistics"]["viewCount"]
-	num_comments = video_info["statistics"]["commentCount"]
+	video_info 		= video_info_list["items"][0]
+	num_views 		= int(video_info["statistics"]["viewCount"])
+	num_comments 	= int(video_info["statistics"]["commentCount"])
 	# publish_date = video_info["snippet"]["publishedAt"] #add back 'snippet' to part if uncommented
 	duration_string = video_info["contentDetails"]["duration"]
 
@@ -148,6 +148,6 @@ def populate_all_category_searches(videos_per_category):
 
 if __name__ == "__main__":
 	os.chdir(os.path.join(os.pardir, 'data'))
-	video_id_cat_dict = populate_all_category_searches(1000)
+	video_id_cat_dict = populate_all_category_searches(2000)
 	print "total results: ", len(video_id_cat_dict)
-	json_dump(video_id_cat_dict, "video_ids_v5")	
+	json_dump(video_id_cat_dict, "video_ids_v6")	
