@@ -1,0 +1,644 @@
+{
+    "comment_thread": {
+        "z132jl0yrwbqubhxx04cidizhvelcpoark00k": {
+            "top_comment": {
+                "date": "2013-11-04T10:54:21.071Z", 
+                "text": "", 
+                "author": "Jo\u00e3o Carvalho"
+            }, 
+            "comments": [
+                {
+                    "date": "2013-11-04T15:54:51.268Z", 
+                    "text": "interesting topic !!! ", 
+                    "author": "Kyriakos Loizou"
+                }, 
+                {
+                    "date": "2013-11-04T14:26:04.450Z", 
+                    "text": "very good.", 
+                    "author": "Fabio Bellazzecca"
+                }
+            ], 
+            "num_replies": 2
+        }
+    }, 
+    "video_length": "PT10M7S", 
+    "captions": [
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Welcome to Cyber Secrets.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "In this episode, we will discuss how to practice \nforensic data recovery using open source \nsoftware.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Start by connecting to a write blocker.  Forensic \nimage the drive, and then recover the data using \nvarious methods.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Use tools such as &quot;recoverjpeg&quot;, &quot;foremost&quot;, \nand &quot;scalpel&quot;", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Remember , when doing forensics, always use a \nwrite blocker...", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "now", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Imagine that you have a suspect usb thumb \ndrive that you want to make a forensically sound \nimage of.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Connect that drive to a write blocker and then \nconnected to the forensic workstation.  ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Once plugged in, we notice the suspect drive is \nfull of files.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now we&#39;re going to image the evidence using the \nforensic imager &quot;dcfldd&quot;.  The first we need to \nfind the USB.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "One method is to simply use the &quot;dir&#39; \nCommand and as you see that &quot;/dev/sdb&quot;", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Another method is to use &quot;dmesg&quot;", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "See there&#39;s a 2 GB drive and also an &quot;sdb&quot;.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now that you have the drive, use &quot;dcfldd&quot; to \nstart the imaging process", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Make a bitstream copy the physical drive or the \n&quot;sdb&quot;.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This takes time...", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "A long time..", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I suggest finding something else to do until it is \ndone.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and it is finally finished", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Computer forensics can be a test of patience.  \nVerified the image after creation.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Make a hash of the image", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I like to save the hash value into a file to held \nverify the evidence has not been altered after \nacquisition.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This is a very important step.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "We are going to create a second image using a \nlogical disk bitstream copy so we can mount the \nimage to drive.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "skin takes a while that this is useful if you \nwanna scan from hour that includes easy \naccess to the data", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now we&#39;re going to mount the drive.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "First is to make a directory", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "We will use &quot;/mnt/test&quot; and mount the file we \njust created &quot;test.dd&quot; to &quot;/mnt/test&quot;", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Once it is mounted, verify the data.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Make sure that we can get access to it.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "AS you can see, all the files are in USB are also \nin this DD", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now to get a better look, open up a graphic file \nexplorer and navigate to the &quot;/mnt/test&quot; folder, \nor that mount point we created.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This is the same data that&#39;s on the USB thumb \ndrive except this is a copy and you didn&#39;t \ndestroy the evidence.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This is just for demonstration purposes right now", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I&#39;m going into the mounted folder", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "VLCPortable.exe and opening up the executable \nso you can see that it can run as if it was open \non the usb thumbdrive.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Open up another.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and three working just fine", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This shows you that you don&#39;t have to have a \nUSB thumbdrive connected to get access to the \ndata, you can still get access through a copy.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Depending on which you need it for, this is a \ngreat easy quit method to test the data that was \non the suspects usb drive.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If you are still awake, we actually get to play \nwith some tools now.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&quot;recoverjpeg&quot; is a data carving tool that looks \nat a drive or image and carves out graphic files.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It is good at what it does, but it only grabs \ngraphic files.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "In the background, it is filling up with images.  \nThese are the images that &quot;recoverjpeg&quot; was \nable to recover.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Just a reminder it&#39;s called recoverjpeg because it only recovers JPEG images", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Foremost was a pioneer in Linux data carving.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "There are many options and parameters that can help hone what it is searching for.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "For example; the &quot;-T&quot; creates unique folders", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and &quot;-a&quot; or case any ignores file footers.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the nice part about creating its own folder", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "is that you can run foremost multiple times without having to empty out the output folder.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The interesting thing about &quot;-a&quot;, is that by ignoring footers, you will get more false positives", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "The other benefit of foremost is it has an audit log which gives you all the information of files that was able to recover from.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "As you see the numbers, but since I did &quot;-a&quot;, you will have a lot of false positives.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Verify some graphics", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "A lot ot the graphics are not coming because they are false positives.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Lets look at jpgs", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the icons of pictures not showing are false positives, but you can see the rest of the pictures are showing up.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This time original we will run foremost again however we&#39;re taking the ignore footers off and we&#39;re ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "going to add a specific key that will allow us to look for specific types.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Such as .jpg files and .pdfs", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this is a little bit faster carving and again it&#39;s gonna take some time", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "time is pretty much all we have in forensics", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So get used to it...", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now that it is done, we are going to do the same thigs we always do and verify findings.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Open up a few .pdf files", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It opened just fine", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "in next window and just fine", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "try one more and this one seems to open fine.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "can go back and the audit log and see the numbers changed.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Do one last verification of the JPEG files", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "in compared to last screen where there&#39;s a lot of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "images that were not coming up this almost \nevery images coming up as a full image", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now last, but definately not least is scalpel.  This tools is actually based on foremost and has a few extra nice modifications", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Scalpel has an easy to edit configuration file where you can customize the file types it searches for", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If you know the header and the footer of the file and you can also add the extension", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "To practice with these tools, get a drive and add your own files to it.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "This creates a base line for you to test, because you know exactly what time it exactly which you should find.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": " ", 
+            "dur": 0, 
+            "start": 0
+        }
+    ], 
+    "title": "Forensic Data Recovery and File Carving", 
+    "publish_date": "2013-11-03T02:53:34.000Z", 
+    "topics": [
+        "/m/02wxbd", 
+        "/m/06r8md", 
+        "/m/064nxqb"
+    ], 
+    "vide_defintion": "hd", 
+    "number_views": 7334, 
+    "categories": [
+        43
+    ]
+}
