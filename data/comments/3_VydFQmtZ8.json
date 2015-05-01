@@ -1,0 +1,683 @@
+{
+    "comment_thread": {}, 
+    "video_length": "PT11M2S", 
+    "captions": [
+        {
+            "text": "&gt;&gt; PROFESSOR S\u00c9QUIN: This really is the\ngalactic concentrator, OK.  If you hold that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "in the right spot it will take the power that\ncomes from the black hole at the centre of", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the galaxy and you focus upon you and it gives\nyou eternal beauty and intelligence and all", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the good stuff. But don&#39;t tell that to anybody\nelse.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Hi, were going to talk about the topology\nof twisted toroids.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now that sounds a little frightening, does it?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: It does.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; PROFESSOR S\u00c9QUIN: Right, it is going\nto be simple. I&#39;m Carlo S\u00e9quin and this", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "is a bagel and if you&#39;re familiar with bagels\nyou know we don&#39;t just eat a bagel dry. What", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "you do is you basically slice it, right? You\nkind of cut it open and then you put cream", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "cheese on it. For a mathematician, this is\na torus. Anything that has a smooth shape", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "with just one hole, that&#39;s called a torus.\nTo a mathematician you can smoothly deform", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that in to any other shapes. Interestingly\nenough if you take you coffee cup with a handle", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "like that, and even though it has this big\nvoid and all of that, topologically it is", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "still a torus. So to mathematicians, you know,\nshape is not important, it&#39;s just the connectivity.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And something that has one tunnel here or\none handle, that essentially is a genus one", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "surface and they call that a torus.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now, if we cut this bagel, what do we get?\nWe&#39;re basically getting two tori, each one", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "individually even though the shape is different,\nyou know, still has essentially one ring,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "one handle and one hole through it so it&#39;s\nstill a torus.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "But now, what if we&#39;re kind of crazy and\nrather than slicing this in one nice plane,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "we essentially start stabbing through the\ntorus like that and then as we go around the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "perimeter we rotate our knife around. And\nif I&#39;m doing that very carefully and kind", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of cutting through and I&#39;m rotating my knife all the way around and then doing it on the other", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "side, the doughnut will still fall apart in\nto two individual pieces.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Is that two pieces professor?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; PROFESSOR S\u00c9QUIN: It&#39;s two separate\npieces but they&#39;re now linked. Individually,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "both of them are still tori. They&#39;re still\nessentially rings with one handle, but now", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I can hold one and the other one will not\nfall on the floor, which is a great advantage", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "if you&#39;re eating those on the train and it&#39;s\nkind of shaking.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And there&#39;s another benefit. If you compare\nthat surface in here, compared to the surface we had before,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this surface here is actually bigger.\nThat means we can put more cream cheese in", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "to this bagel and then when we&#39;ve put it\nback together it&#39;ll make a much juicer bagel.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "To a topological oriented mathematician they&#39;re\njust two tori because in topology we&#39;re actually", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "allowed to have sliding surfaces through one\nanother. Now, if you&#39;re a knot theoretician", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and you&#39;re talking about knot and links then\nthis is different because these two rings", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "are linked, whereas the other two were not\nlinked. You can separate them, you can move", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "them apart but you cannot separate those two things.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now, this geometry is not my invention. This\ngeometry is actually due to Keizo Ushio. He", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "is a well-known stone sculptor in Japan, well\nknown over there, not so well known in this", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "particular country. I first met him in 1999.\nIt was at a conference on art and mathematics", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "in San Sebasti\u00e1n, Spain, and before the\nconference he had carved a really large, about", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "three foot diameter, granite torus in a perfect\nshape like that. And then, during the conference", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "he was drilling a sequence of a couple of\na hundred holes in this spiral fashion through", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this granite doughnut, just like I have sliced\nthrough the bagel before.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Now, in this case we have a nice hole and\nthat diameter of that hole is just about the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "same diameter as the diameter of the rim.\nSo now, when I take these two apart, they", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "come apart much more nicely and they rattle,\nand not only that but I can put them into", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "this configuration which you can see is locking\nup very nicely. And he then rearranged those", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "two rings and then essentially left a sculpture\nthere that looks something like that.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And yeah, I wanted to better understand that\nbecause I saw it and I understood it but I", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "felt until I have one in my hand that I can\nmanipulate I really don&#39;t know. So, I went", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "home and within one month I made this object on our own fused deposition modelling machine", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "which is, you know, a very sturdy rapid prototyping machine. Built it a little bit apart so, just,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it wouldn&#39;t touch, just so in this particular\nshape. And there&#39;s kind of a filler material", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that would be in the gap when you build it,\nbut the filler material can easily be then", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "scratched out and you can wrench these things apart and then clean out the surface, all", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the filler material. So, I get the really\nperfect replica of this object and now I finally", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "understand what is going on.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So, we have two of these interlinked. Could\nI somehow get three of them interlinked?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "And so, I had to think about it for a while,\nbut then it suddenly became obvious. Well,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "if you take a different kind of knife, not\nkind of like, you know, the straight knife", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "that we sort of rotate around the middle of\nthe blade as we go around the torus. But we", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "instead take a knife like that, so now we\nhave essentially three sort of half blades", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "coming together in the middle and I slowly\nrotate that knife as I push it forward along", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the rim of the torus, and going once around\nthe torus I will make sure this rotates exactly 360 degrees.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s kind of important to do it that way and then", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "you get this, and you can see those spiral cuts and you don&#39;t know\nwhat to expect until you kind of shake it loose.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: That&#39;s brilliant.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; PROFESSOR S\u00c9QUIN: And now, we can see we have three of those pieces all inter linked.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Of course, we can do it with three blades,\nwhat about if you used four blades? I could", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "put them at 90 degree and add a fourth one.\nIt&#39;s the same as basically using two cuts", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "with a knife, one going around that way, the\nother one going around that way. But in either", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "case we would still turn the whole contraption\nthrough a full 360 degrees so every piece", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of material winds around the torus and connects back to itself. Well, what would you get?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "Probably something that has four rings and\nin order to make it more visible I gave this", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "one, not a round doughnut shape cross-section, but I basically made a square cross section.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "It&#39;s topologically still a torus, just the\nfact that it is rigid and has flat faces doesn&#39;t", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "matter, and now after the cut, yes indeed,\nyou get something that has four intertwined rings.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "You immediately ask, what about five,\nwhat about 6? Well, six is a nice one because", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "now we can start out with a hexagon cross-section, a perfectly regular hexagon, and we cut the", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "hexagon we say on three diameters. Then each one of the pieces is itself a small triangle", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and these triangles are perfectly equilateral,\nso we can see a perfectly equilateral cross-section", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and then six of those essentially form the\nhexagon that makes this shape and by cutting", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it apart, yeah, you of get now, six rings.\nAnd that makes an even more intriguing kind", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of potential sculptures that we might have\nand that it makes an even harder puzzle.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "That&#39;s where I stopped, so now I tried to build one of these, OK, like we&#39;ve seen before, rotating", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the knife a full 360 degrees as we go around\nthe doughnut. Well, if you do it wrong and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "you rotate your knife only 180 degrees, and\nwhat does that do? Well, somehow this doesn&#39;t", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "want to come apart here. If you look at that\nthen, it still hangs together. It seems to", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "be like one band, actually it&#39;s a band that\ngoes around the loop twice and seems to be", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "somewhat intertwined. And-", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Is that one continuous piece of\nbread then?", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; PROFESSOR S\u00c9QUIN: It&#39;s one continuous\npiece of bread, so it&#39;s a little harder to,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "you know, cram the cream cheese in there.\nAnd again, we can look to some sculptures", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of Keizo Ushio who has made this kind of shape\nbut much more beautiful and much more regular.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I&#39;ve exaggerated what he has done in some\nof his sculptures and you can see, it&#39;s basically", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "a doughnut and you get this one groove that\nspirals around, it goes to the inside. Now,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I really would like to make a really giant\nsculpture of this. It would be awesome to", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "have a sculpture like that where you could\nstep inside and see yourself reflected again", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and again in all the different parts of this\ninner space. So, let&#39;s focus on that inner", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "space. What have we taken away from the torus?\nWe have cut something out and that thing that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "we have cut out is actually a M\u00f6bius band.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; BRADY:  Aaah.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "PROFESSOR S\u00c9QUIN: Ah, what&#39;s a M\u00f6bius band? Oh, let&#39;s see.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If you take off your belt here, right, and you\nwrap your belt around, you know, that, in", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "the ordinary way you close your belt is just\na cylinder. But, if we give that belt a 180", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "degree twist so the dull side gets to the\nshiny side and connect it in that way, now", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "we have a M\u00f6bius band. And what&#39;s special\nabout the M\u00f6bius band is that if we start", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "hiking on the shiny side and we go around,\nwe go around, we go around, we go around,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and suddenly oops! We&#39;re ending up on the\nother side. So we have stepped from one side", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of the band to the other without going over\nthe edge, by just going once around the loop.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "So that&#39;s a M\u00f6bius span and that&#39;s of course\na very famous structure. But before, I already", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "mentioned that we might want to rotate the\nknife at different rates, so what happens", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "if you rotate it three times as fast? So as\nit goes around it swings through three times", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "180 degrees? And you get this.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Wow.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; PROFESSOR S\u00c9QUIN: But now we&#39;ve taken\nout a M\u00f6bius space that makes three flips.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "I call it the Tripley-twist-it M\u00f6bius space\nand I certainly sent pictures of that to Keizo Ushio", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "and asked him whether he would carve\none of those, and so far he hasn&#39;t done it", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "yet but I think one of these days he might\ncome up and create a big stone sculpture that", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "has this particular shape.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: That looks like kind of a propeller\nor something, the one on this side,", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "it looks like that should be on the front\nof a plane or something.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; PROFESSOR S\u00c9QUIN: Yeah, or it could be\nthe head of a tunnel boring machine going", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "[imitates machinery noise] or, but you don&#39;t\nknow, this really is the galactic concentrator, OK", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "If you hold that in the right spot it\nwill take the power that comes from the black", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "hole at the centre of the galaxy and you focus\nupon you and it gives you eternal beauty and", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "intelligence and all the good stuff. But don&#39;t\ntell that to anybody else.", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "[Both laugh]", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "&gt;&gt; PROFESSOR S\u00c9QUIN: Yeah, you&#39;re not the first one that thinks I&#39;m crazy. Now, you were", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "asking is this any good? And you know, some\narchitects were fascinated by the concept", 
+            "dur": 0, 
+            "start": 0
+        }, 
+        {
+            "text": "of M\u00f6bius something, so obviously its &#39;can\nyou build a M\u00f6bius house?&#39;", 
+            "dur": 0, 
+            "start": 0
+        }
+    ], 
+    "title": "Topology of a Twisted Torus - Numberphile", 
+    "publish_date": "2014-01-27T10:41:16.000Z", 
+    "topics": [
+        "/m/0jy41", 
+        "/m/07cj3", 
+        "/m/0vb40_n"
+    ], 
+    "vide_defintion": "hd", 
+    "number_views": 277011, 
+    "categories": [
+        28
+    ]
+}
