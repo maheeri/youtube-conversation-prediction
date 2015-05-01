@@ -7,13 +7,13 @@ A python script later extracts the exact date needed
 
 
 Example Run:
-
+xvfb-run
 ./slimmerjs pscrape4.js video_ids_v2_list.json 
 
 */
 
 //set output path
-var path = 'scraped/';
+var path = '../../data/scraped/';
 
 //Filereader and system
 var fs = require('fs');
