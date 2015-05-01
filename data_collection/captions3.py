@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import urllib3
 import json
 import re
-import nltk
 
 def has_english(vid_id):
     http = urllib3.PoolManager() #init urllib
@@ -47,11 +46,7 @@ def get_transcript(vid_id):
     track_resp.close()
     return BeautifulSoup(transcript_xml).transcript
 
-def get_tokens(text):
-    text = re.sub("&#39;", "\'", text)
-    text = re.sub("\n", " ", text)
-    text = re.sub("[:&%$#@!,.?]", "", text)
-    return nltk.word_tokenize(text.lower())
+
 
 def format_transcript(transcript):
     """
@@ -66,8 +61,8 @@ def format_transcript(transcript):
         if len(text) > 0:
             line = {
                     'text'  : text,
-                    'dur'   : text_soup['dur'] if 'dur' in text_soup else 0,
-                    'start' : text_soup['start'] if 'start' in text_soup else 0
+                    'dur'   : text_soup['dur'] if text_soup.has_attr('dur') else 0,
+                    'start' : text_soup['start'] if text_soup.has_attr('start') else 0
                     }
             foramtted_transcript.append(line)
     return foramtted_transcript
