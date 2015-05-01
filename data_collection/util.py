@@ -3,6 +3,7 @@
 import os
 import json
 from collections import defaultdict
+import nltk
 
 def json_dump(content, filename):
 	""" Dumps content to json file """
@@ -25,6 +26,12 @@ def prune(inv_idx, failed_list):
 	print "I pruned this many vid ids: ", (start_size - len(inv_idx))
 	return inv_idx
 
+def get_tokens(text):
+    text = re.sub("&#39;", "\'", text)
+    text = re.sub("\n", " ", text)
+    text = re.sub("[:&%$#@!,.?]", "", text)
+    return nltk.word_tokenize(text.lower())
+
 def get_filenames(path, extension=".json"):
 	""" Return list of filenames of that extensio without the extension """
 	ext_length = len(extension)
@@ -33,10 +40,10 @@ def get_filenames(path, extension=".json"):
 if __name__ == "__main__":
 	#### The code prunces incoming lists ####
 	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
-	inv_idx = json.load(open('video_ids_v5_pruned.json'))
-	failed_list = json.load(open('failedList.json'))
+	inv_idx = json.load(open('video_ids_v7_pruned.json'))
+	failed_list = json.load(open('failedList_v7.json'))
 	inv_idx_pruned = prune(inv_idx, failed_list)
-	json_dump(inv_idx_pruned, 'video_ids_v5_pruned_pruned')
+	json_dump(inv_idx_pruned, 'video_ids_v7_pruned_pruned')
 	########
 
 	#### The code below converts an old cat vid dict to an inverted index style dict ####

@@ -161,7 +161,7 @@ def try_forever():
 
 if __name__ == "__main__":
 	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
-	input_json_filename = 'video_ids_v5_pruned_pruned.json'
+	input_json_filename = 'video_ids_v7_pruned_pruned.json'
 	videoIds_inv_idx = json.load(open(input_json_filename))
 	try_forever()
 
