@@ -1,0 +1,958 @@
+{
+    "publish_date": "2013-02-19T20:01:06.000Z", 
+    "score": 0.00019316729370816212, 
+    "video_length": "PT10M6S", 
+    "captions": [
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG:\nMy name is Christian Von", 
+            "dur": "1.286", 
+            "start": "0"
+        }, 
+        {
+            "text": "Koenigsegg.", 
+            "dur": "0.74", 
+            "start": "1.286"
+        }, 
+        {
+            "text": "I&#39;m 40 years old.", 
+            "dur": "1.265", 
+            "start": "2.026"
+        }, 
+        {
+            "text": "And for half of my life I&#39;ve\nbeen on the quest to be a", 
+            "dur": "2.325", 
+            "start": "3.291"
+        }, 
+        {
+            "text": "leader in the hypercar industry,\nutilizing Swedish", 
+            "dur": "3.28", 
+            "start": "5.616"
+        }, 
+        {
+            "text": "design combined with visionary\ntechnical solutions.", 
+            "dur": "2.665", 
+            "start": "8.896"
+        }, 
+        {
+            "text": "Our latest car, the Agera R, is\nbuilt in the old hangers of", 
+            "dur": "3.885", 
+            "start": "15.256"
+        }, 
+        {
+            "text": "a former Swedish fighter\njet squadron.", 
+            "dur": "2.645", 
+            "start": "19.141"
+        }, 
+        {
+            "text": "Their symbol, a ghost, is now\nproudly painted on the back of", 
+            "dur": "3.63", 
+            "start": "21.786"
+        }, 
+        {
+            "text": "every Koenigsegg.", 
+            "dur": "1.28", 
+            "start": "25.416"
+        }, 
+        {
+            "text": "[MUSIC PLAYING]", 
+            "dur": "26.235", 
+            "start": "26.696"
+        }, 
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG: So\nnow I&#39;m going to show you", 
+            "dur": "1.355", 
+            "start": "52.931"
+        }, 
+        {
+            "text": "something which we are working\non for the future, which I", 
+            "dur": "3.07", 
+            "start": "54.286"
+        }, 
+        {
+            "text": "personally find very, very\ninteresting in many aspects.", 
+            "dur": "3.28", 
+            "start": "57.356"
+        }, 
+        {
+            "text": "So what this is, this is what\nwe call an actuator.", 
+            "dur": "4.3", 
+            "start": "60.636"
+        }, 
+        {
+            "text": "It&#39;s a Free Valve actuator.", 
+            "dur": "1.8", 
+            "start": "64.936"
+        }, 
+        {
+            "text": "Most of you who are familiar\nwith combustion engines and", 
+            "dur": "3.7", 
+            "start": "66.736"
+        }, 
+        {
+            "text": "especially car engines know\nthat there are camshafts", 
+            "dur": "2.92", 
+            "start": "70.436"
+        }, 
+        {
+            "text": "involved to move the valves\ninside the cylinder head.", 
+            "dur": "5.645", 
+            "start": "73.356"
+        }, 
+        {
+            "text": "And these valves, they have been\ncontrolled by camshafts", 
+            "dur": "3.005", 
+            "start": "79.001"
+        }, 
+        {
+            "text": "for the last 150 years or\nsomething like that.", 
+            "dur": "3.01", 
+            "start": "82.006"
+        }, 
+        {
+            "text": "But it&#39;s very restrictive,\nreally, especially if you have", 
+            "dur": "2.96", 
+            "start": "85.016"
+        }, 
+        {
+            "text": "multi-cylinders and you want\nto have a rev range to go", 
+            "dur": "3.72", 
+            "start": "87.976"
+        }, 
+        {
+            "text": "through with efficiency and\npower because, when you have a", 
+            "dur": "4.76", 
+            "start": "91.696"
+        }, 
+        {
+            "text": "camshaft, you basically look\nat all the cylinders in the", 
+            "dur": "2.43", 
+            "start": "96.456"
+        }, 
+        {
+            "text": "same line to do, pretty\nmuch, the same thing.", 
+            "dur": "2.49", 
+            "start": "98.886"
+        }, 
+        {
+            "text": "There are coming systems now\nwhich give some flexibility.", 
+            "dur": "2.65", 
+            "start": "101.376"
+        }, 
+        {
+            "text": "You can tweak the angle a little\nbit, compared to the", 
+            "dur": "2.89", 
+            "start": "104.026"
+        }, 
+        {
+            "text": "crank of the engine.", 
+            "dur": "1.53", 
+            "start": "106.916"
+        }, 
+        {
+            "text": "And you can slide them sideways,\nlike Audi is doing", 
+            "dur": "2.28", 
+            "start": "108.446"
+        }, 
+        {
+            "text": "to shut off cylinders now.", 
+            "dur": "1.27", 
+            "start": "110.726"
+        }, 
+        {
+            "text": "So it&#39;s getting better and\nbetter, but it&#39;s still very,", 
+            "dur": "2.21", 
+            "start": "111.996"
+        }, 
+        {
+            "text": "very restrictive.", 
+            "dur": "1.12", 
+            "start": "114.206"
+        }, 
+        {
+            "text": "You can think of the camshaft\nlike a broom, pretty much.", 
+            "dur": "2.72", 
+            "start": "115.326"
+        }, 
+        {
+            "text": "You hold it in your hands and\nyou push all the valves", 
+            "dur": "1.75", 
+            "start": "118.046"
+        }, 
+        {
+            "text": "simultaneously with\nthis broomstick.", 
+            "dur": "2.205", 
+            "start": "119.796"
+        }, 
+        {
+            "text": "What the Free Valve system\ndoes is that each valve", 
+            "dur": "3.264", 
+            "start": "122.001"
+        }, 
+        {
+            "text": "becomes individual.", 
+            "dur": "1.001", 
+            "start": "125.265"
+        }, 
+        {
+            "text": "So if you think of the valves\nlike keys on the piano,", 
+            "dur": "3.12", 
+            "start": "126.266"
+        }, 
+        {
+            "text": "suddenly, instead of pushing all\nthe keys at the same time", 
+            "dur": "3.29", 
+            "start": "129.386"
+        }, 
+        {
+            "text": "with a broomstick, you can\nactually play the keys with", 
+            "dur": "3.44", 
+            "start": "132.676"
+        }, 
+        {
+            "text": "your fingers, which is\nthe Free Valve idea.", 
+            "dur": "3.11", 
+            "start": "136.116"
+        }, 
+        {
+            "text": "And then, of course, the\nengine can perform in a", 
+            "dur": "2.5", 
+            "start": "139.226"
+        }, 
+        {
+            "text": "completely different way than\nbeing forced into a preset", 
+            "dur": "3.19", 
+            "start": "141.726"
+        }, 
+        {
+            "text": "pattern of combustion.", 
+            "dur": "2.06", 
+            "start": "144.916"
+        }, 
+        {
+            "text": "So what we&#39;re going to show\nyou here is this is like a", 
+            "dur": "2.47", 
+            "start": "146.976"
+        }, 
+        {
+            "text": "small cut out of a\ncylinder head.", 
+            "dur": "2.73", 
+            "start": "149.446"
+        }, 
+        {
+            "text": "Here we have one valve.", 
+            "dur": "1.57", 
+            "start": "152.176"
+        }, 
+        {
+            "text": "Normally, there are two intake\nvalves and two exhaust valves.", 
+            "dur": "3.08", 
+            "start": "153.746"
+        }, 
+        {
+            "text": "And here is just a small\nrig to run one of", 
+            "dur": "3.22", 
+            "start": "156.826"
+        }, 
+        {
+            "text": "these Free Valve actuators.", 
+            "dur": "1.6", 
+            "start": "160.046"
+        }, 
+        {
+            "text": "So basically, here you\nhave the valve.", 
+            "dur": "1.66", 
+            "start": "161.646"
+        }, 
+        {
+            "text": "Here you have the actuator.", 
+            "dur": "0.59", 
+            "start": "163.306"
+        }, 
+        {
+            "text": "It goes into it like this.", 
+            "dur": "1.76", 
+            "start": "163.896"
+        }, 
+        {
+            "text": "This is lubricated by engine\noil and pressurized by", 
+            "dur": "4.06", 
+            "start": "165.656"
+        }, 
+        {
+            "text": "pressurized air, which acts\nlike an air hammer", 
+            "dur": "2.39", 
+            "start": "169.716"
+        }, 
+        {
+            "text": "to move this out.", 
+            "dur": "1.67", 
+            "start": "172.106"
+        }, 
+        {
+            "text": "Then the engine oil makes sure\nit stays stable and can lock", 
+            "dur": "3.57", 
+            "start": "173.776"
+        }, 
+        {
+            "text": "it in different positions.", 
+            "dur": "1.48", 
+            "start": "177.346"
+        }, 
+        {
+            "text": "And then air spring or a metal\nspring pushes it back.", 
+            "dur": "4.54", 
+            "start": "178.826"
+        }, 
+        {
+            "text": "So we have individual control\nover each valve, which brings", 
+            "dur": "3.58", 
+            "start": "183.366"
+        }, 
+        {
+            "text": "great benefit to the combustion", 
+            "dur": "2.89", 
+            "start": "186.946"
+        }, 
+        {
+            "text": "cycles in the engine.", 
+            "dur": "2.15", 
+            "start": "189.836"
+        }, 
+        {
+            "text": "So it&#39;s actually a snowballing\neffect.", 
+            "dur": "1.68", 
+            "start": "191.986"
+        }, 
+        {
+            "text": "The engine becomes lighter,\nsmaller, cheaper, cleaner.", 
+            "dur": "3.51", 
+            "start": "193.666"
+        }, 
+        {
+            "text": "It can change the look of\nthe car in the end.", 
+            "dur": "1.79", 
+            "start": "197.176"
+        }, 
+        {
+            "text": "So it&#39;s a very, very interesting\ntechnology that", 
+            "dur": "2.52", 
+            "start": "198.966"
+        }, 
+        {
+            "text": "I&#39;m sure, one way or the\nother, will conquer the", 
+            "dur": "3.13", 
+            "start": "201.486"
+        }, 
+        {
+            "text": "cylinder heads of the world.", 
+            "dur": "2.18", 
+            "start": "204.616"
+        }, 
+        {
+            "text": "So here we&#39;ll go into a little\nbit of details how it works.", 
+            "dur": "3.01", 
+            "start": "206.796"
+        }, 
+        {
+            "text": "Urban, who is partly responsible\nfor this", 
+            "dur": "2.4", 
+            "start": "209.806"
+        }, 
+        {
+            "text": "development, will show you a\nlittle bit what it looks like.", 
+            "dur": "4.425", 
+            "start": "212.206"
+        }, 
+        {
+            "text": "URBAN CARLSON: It&#39;s a very\nsimple control system.", 
+            "dur": "2.825", 
+            "start": "216.631"
+        }, 
+        {
+            "text": "We have one signal\nfor each valve.", 
+            "dur": "4.702", 
+            "start": "219.456"
+        }, 
+        {
+            "text": "And when we tell it to open,\nit opens with a few", 
+            "dur": "3.388", 
+            "start": "224.158"
+        }, 
+        {
+            "text": "milliseconds delay.", 
+            "dur": "1.235", 
+            "start": "227.546"
+        }, 
+        {
+            "text": "And when we tell it to close,\nit closes with, again, a few", 
+            "dur": "3.83", 
+            "start": "228.781"
+        }, 
+        {
+            "text": "milliseconds delay.", 
+            "dur": "1.59", 
+            "start": "232.611"
+        }, 
+        {
+            "text": "This it can do at very\nhigh speeds, up to", 
+            "dur": "3.545", 
+            "start": "234.201"
+        }, 
+        {
+            "text": "20,000 RPM, if necessary.", 
+            "dur": "2.342", 
+            "start": "237.746"
+        }, 
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG: The\nsame size of actuator is", 
+            "dur": "1.788", 
+            "start": "240.088"
+        }, 
+        {
+            "text": "actually good for a small\nmotorcycle engine revving", 
+            "dur": "3.11", 
+            "start": "241.876"
+        }, 
+        {
+            "text": "15,000 RPM and a truck engine\nrevving 2,500 RPM.", 
+            "dur": "5.76", 
+            "start": "244.986"
+        }, 
+        {
+            "text": "Because the motorcycle valve is\nvery light, so it takes the", 
+            "dur": "3.359", 
+            "start": "250.746"
+        }, 
+        {
+            "text": "same energy to drive it\nbackwards and forwards at", 
+            "dur": "2.091", 
+            "start": "254.105"
+        }, 
+        {
+            "text": "15,000 RPM as it takes to drive\na huge, heavy truck", 
+            "dur": "3.93", 
+            "start": "256.196"
+        }, 
+        {
+            "text": "valve backwards and forwards\nat 2,500 RPM.", 
+            "dur": "3.21", 
+            "start": "260.126"
+        }, 
+        {
+            "text": "So it&#39;s very neat that the same\nactuator basically covers", 
+            "dur": "3.18", 
+            "start": "263.336"
+        }, 
+        {
+            "text": "the need for all different\nengine sizes.", 
+            "dur": "3.245", 
+            "start": "266.516"
+        }, 
+        {
+            "text": "So now we&#39;re running at\nwhat kind of RPM here?", 
+            "dur": "1.9", 
+            "start": "269.761"
+        }, 
+        {
+            "text": "URBAN CARLSON: Well, here&#39;s\na little bit over idle.", 
+            "dur": "3.8", 
+            "start": "271.661"
+        }, 
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG:\nThis is actually the", 
+            "dur": "1.255", 
+            "start": "275.461"
+        }, 
+        {
+            "text": "movement of the valve.", 
+            "dur": "2.19", 
+            "start": "276.716"
+        }, 
+        {
+            "text": "So you can see it\ngoes quickly up.", 
+            "dur": "1.99", 
+            "start": "278.906"
+        }, 
+        {
+            "text": "And then it stays flat.", 
+            "dur": "1.455", 
+            "start": "280.896"
+        }, 
+        {
+            "text": "It&#39;s like having a square\ncamshaft profile to make the", 
+            "dur": "2.017", 
+            "start": "282.351"
+        }, 
+        {
+            "text": "engine breathe really well.", 
+            "dur": "1.868", 
+            "start": "284.368"
+        }, 
+        {
+            "text": "If you would have a square\ncamshaft profile, it would", 
+            "dur": "2.66", 
+            "start": "286.236"
+        }, 
+        {
+            "text": "break immediately, because it\nwould jump off the edges and", 
+            "dur": "3.425", 
+            "start": "288.896"
+        }, 
+        {
+            "text": "would start hitting\nthe valve stem.", 
+            "dur": "2.415", 
+            "start": "292.321"
+        }, 
+        {
+            "text": "And it wouldn&#39;t work.", 
+            "dur": "0.97", 
+            "start": "294.736"
+        }, 
+        {
+            "text": "But with the Free Valve system,\nyou can actually open", 
+            "dur": "2.48", 
+            "start": "295.706"
+        }, 
+        {
+            "text": "any way you like and open really\nfast, stay open flat,", 
+            "dur": "3.63", 
+            "start": "298.186"
+        }, 
+        {
+            "text": "and then drop down.", 
+            "dur": "0.98", 
+            "start": "301.816"
+        }, 
+        {
+            "text": "Here it&#39;s possible to see the\nvalve sequence as well.", 
+            "dur": "2.351", 
+            "start": "302.796"
+        }, 
+        {
+            "text": "That is a smooth curve, so it\ndoesn&#39;t hit the valve so you", 
+            "dur": "2.385", 
+            "start": "305.147"
+        }, 
+        {
+            "text": "create noise and wear.", 
+            "dur": "1.25", 
+            "start": "307.532"
+        }, 
+        {
+            "text": "URBAN CARLSON: This\nis 3,000 RPM.", 
+            "dur": "3.618", 
+            "start": "314.566"
+        }, 
+        {
+            "text": "And you can see still a square\nform of the valve curve.", 
+            "dur": "6.127", 
+            "start": "318.184"
+        }, 
+        {
+            "text": "This is 9,000 RPM.", 
+            "dur": "12.68", 
+            "start": "331.116"
+        }, 
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG: So\nthis might just look like an", 
+            "dur": "2.78", 
+            "start": "343.796"
+        }, 
+        {
+            "text": "old Saab to you all.", 
+            "dur": "1.58", 
+            "start": "346.576"
+        }, 
+        {
+            "text": "And in fact, it is, apart\nfrom one aspect.", 
+            "dur": "3.88", 
+            "start": "348.156"
+        }, 
+        {
+            "text": "That aspect is what you\nsee that&#39;s red here.", 
+            "dur": "2.29", 
+            "start": "355.036"
+        }, 
+        {
+            "text": "And that&#39;s the cylinder head,\nwhich has been modified to", 
+            "dur": "2.83", 
+            "start": "357.326"
+        }, 
+        {
+            "text": "accommodate our Cargine\nFree Valve system.", 
+            "dur": "4.79", 
+            "start": "360.156"
+        }, 
+        {
+            "text": "So basically what we&#39;ve done\nhere is we&#39;ve taken the", 
+            "dur": "3.4", 
+            "start": "364.946"
+        }, 
+        {
+            "text": "cylinder head apart, machined\nout all the mountings and so", 
+            "dur": "2.99", 
+            "start": "368.346"
+        }, 
+        {
+            "text": "on for the camshafts, and\ninstalled 16 Cargine Free", 
+            "dur": "4.99", 
+            "start": "371.336"
+        }, 
+        {
+            "text": "Valve actuators.", 
+            "dur": "1.64", 
+            "start": "376.326"
+        }, 
+        {
+            "text": "And then we have designed\na special valve cover.", 
+            "dur": "3.61", 
+            "start": "377.966"
+        }, 
+        {
+            "text": "Or it&#39;s not really\na valve cover.", 
+            "dur": "1.515", 
+            "start": "381.576"
+        }, 
+        {
+            "text": "It&#39;s more a lid containing\npressurized air channels and", 
+            "dur": "4.885", 
+            "start": "383.091"
+        }, 
+        {
+            "text": "pressurized oil channels\ncoming from", 
+            "dur": "1.84", 
+            "start": "387.976"
+        }, 
+        {
+            "text": "the engine oil side.", 
+            "dur": "2.94", 
+            "start": "389.816"
+        }, 
+        {
+            "text": "You can see the height of\nthis black cover here.", 
+            "dur": "2.25", 
+            "start": "392.756"
+        }, 
+        {
+            "text": "That&#39;s the same height as\nthe standard cylinder", 
+            "dur": "1.84", 
+            "start": "395.006"
+        }, 
+        {
+            "text": "head used to be.", 
+            "dur": "1.21", 
+            "start": "396.846"
+        }, 
+        {
+            "text": "So even when we retrofit it,\nwhen it&#39;s not optimized for", 
+            "dur": "3.8", 
+            "start": "398.056"
+        }, 
+        {
+            "text": "space, it&#39;s anyway lower than\nthe standard cylinder head.", 
+            "dur": "3.405", 
+            "start": "401.856"
+        }, 
+        {
+            "text": "So the engine actually shrinks\nand becomes lighter.", 
+            "dur": "2.515", 
+            "start": "405.261"
+        }, 
+        {
+            "text": "If we would have made a cylinder\nhead from scratch,", 
+            "dur": "2.66", 
+            "start": "407.776"
+        }, 
+        {
+            "text": "instead of retrofitting into an\nexisting cylinder head, it", 
+            "dur": "3.14", 
+            "start": "410.436"
+        }, 
+        {
+            "text": "would also become much narrower\nand even lower.", 
+            "dur": "2.46", 
+            "start": "413.576"
+        }, 
+        {
+            "text": "And this whole section here,\nwhich is a cover for where the", 
+            "dur": "4.45", 
+            "start": "416.036"
+        }, 
+        {
+            "text": "chain drive and for the camshaft\nused to sit, would", 
+            "dur": "2.3", 
+            "start": "420.486"
+        }, 
+        {
+            "text": "disappear completely.", 
+            "dur": "1.19", 
+            "start": "422.786"
+        }, 
+        {
+            "text": "So the engine would also\nbecome a lot shorter.", 
+            "dur": "2.69", 
+            "start": "423.976"
+        }, 
+        {
+            "text": "Basically, when you go from\na camshaft to Cargine Free", 
+            "dur": "3.53", 
+            "start": "426.666"
+        }, 
+        {
+            "text": "Valves, the size of a\nfour-cylinder engine becomes", 
+            "dur": "4.1", 
+            "start": "430.196"
+        }, 
+        {
+            "text": "just a little bit bigger\nthan the size of a", 
+            "dur": "1.8", 
+            "start": "434.296"
+        }, 
+        {
+            "text": "three-cylinder engine.", 
+            "dur": "1.41", 
+            "start": "436.096"
+        }, 
+        {
+            "text": "And then, of course, if you\ncut away one cylinder to", 
+            "dur": "4.47", 
+            "start": "437.506"
+        }, 
+        {
+            "text": "maintain the power and torque\nlevel you used to have in your", 
+            "dur": "3.31", 
+            "start": "441.976"
+        }, 
+        {
+            "text": "four-cylinder engine, then it\nbecomes really much smaller.", 
+            "dur": "3.91", 
+            "start": "445.286"
+        }, 
+        {
+            "text": "So this car here has been\nrunning with Cargine Free", 
+            "dur": "3.6", 
+            "start": "449.196"
+        }, 
+        {
+            "text": "Valve system, winter\nand summer, for the", 
+            "dur": "2.61", 
+            "start": "452.796"
+        }, 
+        {
+            "text": "last 2 and 1/2 years.", 
+            "dur": "1.85", 
+            "start": "455.406"
+        }, 
+        {
+            "text": "We&#39;ve accumulated almost 60,000\nkilometers, without any", 
+            "dur": "4.185", 
+            "start": "457.256"
+        }, 
+        {
+            "text": "failure whatsoever to the\nFree Valve system.", 
+            "dur": "3.695", 
+            "start": "461.441"
+        }, 
+        {
+            "text": "It&#39;s just been upgraded with\nour latest generation,", 
+            "dur": "2.62", 
+            "start": "465.136"
+        }, 
+        {
+            "text": "actuator generation 5, on both\nthe intake an exhaust side of", 
+            "dur": "4.78", 
+            "start": "467.756"
+        }, 
+        {
+            "text": "the engine.", 
+            "dur": "0.565", 
+            "start": "472.536"
+        }, 
+        {
+            "text": "And it&#39;s been tested at the\ntesting institute, called AVL,", 
+            "dur": "4.175", 
+            "start": "473.101"
+        }, 
+        {
+            "text": "with up to 20% improvement in\nfuel efficiency so far.", 
+            "dur": "7.6", 
+            "start": "477.276"
+        }, 
+        {
+            "text": "And that&#39;s just the starting\npoint, I would say.", 
+            "dur": "1.75", 
+            "start": "484.876"
+        }, 
+        {
+            "text": "This is more a test field to\nrun for durability and for", 
+            "dur": "3.65", 
+            "start": "486.626"
+        }, 
+        {
+            "text": "cold starts, even in the winter,\ndown to minus 20", 
+            "dur": "2.74", 
+            "start": "490.276"
+        }, 
+        {
+            "text": "degrees Celsius.", 
+            "dur": "1.04", 
+            "start": "493.016"
+        }, 
+        {
+            "text": "But it&#39;s really exciting.", 
+            "dur": "1.82", 
+            "start": "494.056"
+        }, 
+        {
+            "text": "And it&#39;s, I think, one of the\nfew cars in the world that is", 
+            "dur": "3.909", 
+            "start": "495.876"
+        }, 
+        {
+            "text": "running with no camshaft\nwhatsoever.", 
+            "dur": "3.081", 
+            "start": "499.785"
+        }, 
+        {
+            "text": "When it&#39;s fully optimized, we&#39;re\nexpecting to have 30%", 
+            "dur": "4.85", 
+            "start": "502.866"
+        }, 
+        {
+            "text": "less fuel consumption, 30%\nmore torque, and 30% more", 
+            "dur": "4.33", 
+            "start": "507.716"
+        }, 
+        {
+            "text": "power, and, in an\naverage driving", 
+            "dur": "1.86", 
+            "start": "512.046"
+        }, 
+        {
+            "text": "cycle, 50% less emissions.", 
+            "dur": "3.44", 
+            "start": "513.906"
+        }, 
+        {
+            "text": "And that&#39;s without connecting\nit to the possibility, which", 
+            "dur": "2.899", 
+            "start": "517.346"
+        }, 
+        {
+            "text": "is very interesting, which\nis an air tank.", 
+            "dur": "2.801", 
+            "start": "520.245"
+        }, 
+        {
+            "text": "Given this valve technology, we\ncan actually recoup energy", 
+            "dur": "3.77", 
+            "start": "523.046"
+        }, 
+        {
+            "text": "while engine braking, by using\nthe engine as an air pump,", 
+            "dur": "5.47", 
+            "start": "526.816"
+        }, 
+        {
+            "text": "pumping up a tank with air,\ngetting air pressure there,", 
+            "dur": "3.95", 
+            "start": "532.286"
+        }, 
+        {
+            "text": "and then driving off only on\nthat air, using the engine as", 
+            "dur": "4.6", 
+            "start": "536.236"
+        }, 
+        {
+            "text": "a compressor or, let&#39;s\nsay, an air engine.", 
+            "dur": "3.57", 
+            "start": "540.836"
+        }, 
+        {
+            "text": "That compressed air can also\nbe used for boosting the", 
+            "dur": "3.13", 
+            "start": "544.406"
+        }, 
+        {
+            "text": "engine while using fuel to\nhave a really big, quick", 
+            "dur": "5.85", 
+            "start": "547.536"
+        }, 
+        {
+            "text": "spooling turbo which\nconsumes no energy.", 
+            "dur": "2.98", 
+            "start": "553.386"
+        }, 
+        {
+            "text": "So instead of storing energy\nin the battery and like a", 
+            "dur": "3.35", 
+            "start": "556.366"
+        }, 
+        {
+            "text": "battery, we&#39;re using an\nempty tank of air.", 
+            "dur": "1.98", 
+            "start": "559.716"
+        }, 
+        {
+            "text": "So that&#39;s the next step\nof this technology.", 
+            "dur": "1.96", 
+            "start": "561.696"
+        }, 
+        {
+            "text": "But already, without that, it&#39;s\na huge benefit, compared", 
+            "dur": "2.48", 
+            "start": "563.656"
+        }, 
+        {
+            "text": "to normal camshafts.", 
+            "dur": "2.23", 
+            "start": "566.136"
+        }, 
+        {
+            "text": "This technology is not\nyet in Koenigsegg.", 
+            "dur": "2.65", 
+            "start": "568.366"
+        }, 
+        {
+            "text": "And it&#39;s something, of\ncourse, we might plan", 
+            "dur": "1.73", 
+            "start": "571.016"
+        }, 
+        {
+            "text": "to do for the future.", 
+            "dur": "0.66", 
+            "start": "572.746"
+        }, 
+        {
+            "text": "It will be another three, four\nyears out, before it&#39;s in any", 
+            "dur": "3.76", 
+            "start": "573.406"
+        }, 
+        {
+            "text": "production car.", 
+            "dur": "0.89", 
+            "start": "577.166"
+        }, 
+        {
+            "text": "And hopefully, the Koenigsegg\ncould be one of the first.", 
+            "dur": "2.11", 
+            "start": "578.056"
+        }, 
+        {
+            "text": "[MUSIC PLAYING]", 
+            "dur": "22.645", 
+            "start": "580.166"
+        }
+    ], 
+    "title": "The Future of the Internal Combustion Engine - /Inside Koenigsegg", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04dxw", 
+        "/m/03tpm"
+    ], 
+    "raw_score": 214, 
+    "number_views": 1107848, 
+    "categories": [
+        2
+    ]
+}
