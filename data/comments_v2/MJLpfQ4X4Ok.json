@@ -1,0 +1,453 @@
+{
+    "publish_date": "2014-07-03T00:26:01.000Z", 
+    "score": 0.0006866952789699571, 
+    "video_length": "PT7M20S", 
+    "captions": [
+        {
+            "text": "Vsauce, I&#39;m Jake and in the video game Watch\nDogs you can pretty much hack any piece of", 
+            "dur": "4.81", 
+            "start": "0.48"
+        }, 
+        {
+            "text": "technology from people&#39;s cell phones to ATMs,\nsecurity cameras, and cars, using only a computer", 
+            "dur": "7", 
+            "start": "5.29"
+        }, 
+        {
+            "text": "or even a cell phone. But how realistic is\nthat compared to our world? Is Watch Dogs", 
+            "dur": "4.921", 
+            "start": "12.299"
+        }, 
+        {
+            "text": "Possible?", 
+            "dur": "6.899", 
+            "start": "17.22"
+        }, 
+        {
+            "text": "Security cameras are supposed to be there\nto protect us and can only be seen by those", 
+            "dur": "3.64", 
+            "start": "24.119"
+        }, 
+        {
+            "text": "that have specific access to them. However,\nusing certain search parameters on Google,", 
+            "dur": "4.08", 
+            "start": "27.759"
+        }, 
+        {
+            "text": "you can find hundreds of unsecure camera feeds,\nallowing you to peek in and see things you", 
+            "dur": "4.7", 
+            "start": "31.839"
+        }, 
+        {
+            "text": "normally shouldn&#39;t be able to. These are a\nfew that I was able to find and in some cases,", 
+            "dur": "5.461", 
+            "start": "36.539"
+        }, 
+        {
+            "text": "I was even able to take control of the camera&#39;s\nmovement and focus features. So next time", 
+            "dur": "5.89", 
+            "start": "42"
+        }, 
+        {
+            "text": "you see a security camera following you, it\nmight be someone in the back of the department", 
+            "dur": "4.289", 
+            "start": "47.89"
+        }, 
+        {
+            "text": "store or someone hundreds of miles away. Spooky.", 
+            "dur": "4.77", 
+            "start": "52.179"
+        }, 
+        {
+            "text": "But if there are no cameras around then there\nis no way that you could be visually tracked", 
+            "dur": "3.43", 
+            "start": "56.949"
+        }, 
+        {
+            "text": "or followed. You could slip into the crowd.\nExcept for the fact that at pretty much all", 
+            "dur": "4.341", 
+            "start": "60.379"
+        }, 
+        {
+            "text": "times you are carrying around a microphone,\na camera, a list of everyone you know, a log", 
+            "dur": "3.75", 
+            "start": "64.72"
+        }, 
+        {
+            "text": "of your most sensitive data and it is all\nWiFi enabled with the added bonus of having", 
+            "dur": "4.86", 
+            "start": "68.47"
+        }, 
+        {
+            "text": "GPS and a cell network. Your phone is bursting\nwith data, so much so that it tends to leak", 
+            "dur": "6.9", 
+            "start": "73.33"
+        }, 
+        {
+            "text": "information. Whenever your phone isn&#39;t connected\nto WiFi, it sends out a list of the names", 
+            "dur": "5.03", 
+            "start": "80.23"
+        }, 
+        {
+            "text": "of known networks looking for one of them\nto connect to and once your phone is connected", 
+            "dur": "3.74", 
+            "start": "85.26"
+        }, 
+        {
+            "text": "to what it thinks is a known wireless network,\nthe background services: dropbox, weather,", 
+            "dur": "3.69", 
+            "start": "89"
+        }, 
+        {
+            "text": "messages, facebook start to transmit data.", 
+            "dur": "3.26", 
+            "start": "92.69"
+        }, 
+        {
+            "text": "Security researcher Brendan O&#39;Conner created\na device called F-BOMB that plugs into an", 
+            "dur": "4.05", 
+            "start": "95.95"
+        }, 
+        {
+            "text": "outlet and acts as a passive network. Your\nphone connects to it and immediately the device", 
+            "dur": "4.39", 
+            "start": "100"
+        }, 
+        {
+            "text": "is able to collect information that your phone\nis freely giving out. By plugging F-BOMBs", 
+            "dur": "4.73", 
+            "start": "104.39"
+        }, 
+        {
+            "text": "into multiple location, Brendan created a\nweb that was able to track people&#39;s locations", 
+            "dur": "4.51", 
+            "start": "109.12"
+        }, 
+        {
+            "text": "and what they were doing. Using himself as\na test subject he found that his weather app", 
+            "dur": "4.56", 
+            "start": "113.63"
+        }, 
+        {
+            "text": "would give out his exact longitude and latitude\nand his news reader would transmit his full", 
+            "dur": "4.6", 
+            "start": "118.19"
+        }, 
+        {
+            "text": "name and email address.", 
+            "dur": "2.01", 
+            "start": "122.79"
+        }, 
+        {
+            "text": "Other researchers have used drones to fly\nwireless networks above public places like", 
+            "dur": "4.269", 
+            "start": "124.8"
+        }, 
+        {
+            "text": "parks in order to collect data. And once your\nmobile device is connected to these networks,", 
+            "dur": "4.441", 
+            "start": "129.069"
+        }, 
+        {
+            "text": "you might use the web browser thinking you&#39;re\nlogging into to your bank account when really", 
+            "dur": "4.259", 
+            "start": "133.51"
+        }, 
+        {
+            "text": "a hacker is just displaying a login page that\nlooks identical except that your username", 
+            "dur": "4.05", 
+            "start": "137.769"
+        }, 
+        {
+            "text": "and password go to their machine.", 
+            "dur": "3.06", 
+            "start": "141.819"
+        }, 
+        {
+            "text": "Or if you&#39;re a country&#39;s government, there\nis a product you can purchase to infect a", 
+            "dur": "3.5", 
+            "start": "144.879"
+        }, 
+        {
+            "text": "target&#39;s phone, enabling you to track their\nlocation, listen to them through the microphone", 
+            "dur": "4.991", 
+            "start": "148.379"
+        }, 
+        {
+            "text": "or turn the camera on to snap photos.", 
+            "dur": "2.899", 
+            "start": "153.37"
+        }, 
+        {
+            "text": "As devices become more connected we move closer\nto &quot;The Internet of Things&quot;. It is said that", 
+            "dur": "5.911", 
+            "start": "156.269"
+        }, 
+        {
+            "text": "the first version of the internet was about\ndata being created by people, and the next", 
+            "dur": "4.149", 
+            "start": "162.18"
+        }, 
+        {
+            "text": "version will be data created by things. There\nare wireless washers and dryers, refrigerators,", 
+            "dur": "5.851", 
+            "start": "166.329"
+        }, 
+        {
+            "text": "and bathroom scales. But then there are things\nthat could be deadly like sniper rifles that", 
+            "dur": "4.46", 
+            "start": "172.18"
+        }, 
+        {
+            "text": "can be controlled wirelessly or even pacemakers.", 
+            "dur": "3.739", 
+            "start": "176.64"
+        }, 
+        {
+            "text": "There are over 3 million pacemakers and 1.7\nmillion ICDs (Implantable cardioverter defibrillator)", 
+            "dur": "4.34", 
+            "start": "180.379"
+        }, 
+        {
+            "text": "inside people&#39;s chests, and in 2006 they started\nbecoming wireless - allowing a doctor to monitor", 
+            "dur": "5.121", 
+            "start": "184.719"
+        }, 
+        {
+            "text": "a patient&#39;s heart over the internet. In 2013,\nresearcher Barnaby Jack found a way to hack", 
+            "dur": "3.399", 
+            "start": "189.84"
+        }, 
+        {
+            "text": "them. From 50 feet away, he was able to shut\nthem down entirely, or have them send a high", 
+            "dur": "5.551", 
+            "start": "193.239"
+        }, 
+        {
+            "text": "voltage shock of 830 volts directly to the\nheart. Barnaby was also able to hack insulin", 
+            "dur": "6.14", 
+            "start": "198.79"
+        }, 
+        {
+            "text": "pumps, as long as they were within a 300 foot\nradius, forcing the pumps to inject up to", 
+            "dur": "5.819", 
+            "start": "204.93"
+        }, 
+        {
+            "text": "45 days worth of insulin in one go - a potentially\nlethal amount.", 
+            "dur": "4.96", 
+            "start": "210.749"
+        }, 
+        {
+            "text": "He was also responsible for a hack we&#39;ve all\nprobably dreamed of where he &quot;jackpotted&quot;", 
+            "dur": "4.441", 
+            "start": "215.709"
+        }, 
+        {
+            "text": "multiple ATMs, forcing the machines to spit\nout money. However, a week before he was going", 
+            "dur": "5.309", 
+            "start": "220.15"
+        }, 
+        {
+            "text": "to safely demonstrate his research on pacemakers\nand ICDs, he was found dead from a drug overdose.", 
+            "dur": "6.64", 
+            "start": "225.459"
+        }, 
+        {
+            "text": "Hacking pacemakers and insulin pumps is scary\nbut it only affects the people that have those", 
+            "dur": "4.661", 
+            "start": "232.099"
+        }, 
+        {
+            "text": "devices implanted and can&#39;t disrupt a large\nportion of the population the way hacking", 
+            "dur": "6.089", 
+            "start": "236.76"
+        }, 
+        {
+            "text": "something like...a car can. By attaching something\nlike this small iPhone sized device to a few", 
+            "dur": "5.631", 
+            "start": "242.849"
+        }, 
+        {
+            "text": "wires under the car, you get complete access\nto the vehicle...wirelessly. Researchers have", 
+            "dur": "5.47", 
+            "start": "248.48"
+        }, 
+        {
+            "text": "shown just what is possible like disabling\nthe brakes, turning the steering wheel in", 
+            "dur": "4.16", 
+            "start": "253.95"
+        }, 
+        {
+            "text": "any direction, killing the engine or changing\nthe dash&#39;s display to show you have a full", 
+            "dur": "4.79", 
+            "start": "258.11"
+        }, 
+        {
+            "text": "tank of gas when you don&#39;t. All of this can\nbe done from miles away. There is a great", 
+            "dur": "5.08", 
+            "start": "262.9"
+        }, 
+        {
+            "text": "Motherboard documentary that shows just what\nis possible once you can access to a car&#39;s", 
+            "dur": "4.48", 
+            "start": "267.98"
+        }, 
+        {
+            "text": "CANbus.", 
+            "dur": "0.79", 
+            "start": "272.46"
+        }, 
+        {
+            "text": "The vehicle can even be programmed so that\nwhen you hit a certain speed, different parts", 
+            "dur": "3.79", 
+            "start": "273.25"
+        }, 
+        {
+            "text": "of the car will stop functioning...leaving\nyou trapped. So maybe we should start using", 
+            "dur": "7", 
+            "start": "277.04"
+        }, 
+        {
+            "text": "older technology like this GirlTech Instant\nMessenger. It looks pretty secure and it operates", 
+            "dur": "6.12", 
+            "start": "284.73"
+        }, 
+        {
+            "text": "on the same frequency range as the radios\nused by most law enforcement agencies...and", 
+            "dur": "4.69", 
+            "start": "290.85"
+        }, 
+        {
+            "text": "with a little firmware hack the GirlTech can\njam all of their radio communications.", 
+            "dur": "4.23", 
+            "start": "295.54"
+        }, 
+        {
+            "text": "&quot;Here, I&#39;ll trade you&quot;. Most cell phones have\nan accelerometer in them. It measures the", 
+            "dur": "7", 
+            "start": "299.77"
+        }, 
+        {
+            "text": "force of acceleration and also the angle and\ndirection the phone is being held in. It&#39;s", 
+            "dur": "5.04", 
+            "start": "307.38"
+        }, 
+        {
+            "text": "the reason the screen flips depending on the\nphone&#39;s orientation. A team at Georgia Tech", 
+            "dur": "4.47", 
+            "start": "312.42"
+        }, 
+        {
+            "text": "came up with a technique where they would\nplace a phone on a table next to a computer", 
+            "dur": "4.03", 
+            "start": "316.89"
+        }, 
+        {
+            "text": "keyboard. Once someone would start typing\non the keyboard the phone&#39;s accelerometer", 
+            "dur": "4.03", 
+            "start": "320.92"
+        }, 
+        {
+            "text": "would pick up the vibrations through the table\nand, with a bit of software, was able to fairly", 
+            "dur": "5.43", 
+            "start": "324.95"
+        }, 
+        {
+            "text": "accurately figure out what someone was typing.", 
+            "dur": "4.6", 
+            "start": "330.38"
+        }, 
+        {
+            "text": "All these hacks take a good amount of skill\nand time, but there is a way that&#39;s as easy", 
+            "dur": "5.72", 
+            "start": "334.98"
+        }, 
+        {
+            "text": "as 2+2 = 5.", 
+            "dur": "2.56", 
+            "start": "340.7"
+        }, 
+        {
+            "text": "Social Engineering, it&#39;s a technique where\nyou manipulate people to do things or give", 
+            "dur": "5.75", 
+            "start": "343.26"
+        }, 
+        {
+            "text": "you information they ordinarily wouldn&#39;t.\nKevin Mitnick, one of the most wanted computer", 
+            "dur": "5.02", 
+            "start": "349.01"
+        }, 
+        {
+            "text": "hackers in world before his arrest, was able\nto hack into telephone systems and computer", 
+            "dur": "5.37", 
+            "start": "354.03"
+        }, 
+        {
+            "text": "networks not only because of his amazing skills\nwith a computer, but his amazing skills of", 
+            "dur": "5.2", 
+            "start": "359.4"
+        }, 
+        {
+            "text": "talking on the phone. By saying enough information\nto sound convincing, he could get pretty much", 
+            "dur": "4.51", 
+            "start": "364.6"
+        }, 
+        {
+            "text": "any sensitive data he wanted. In his book\n&quot;Ghost in the Wires&quot; he mentions how &quot;if you", 
+            "dur": "4.43", 
+            "start": "369.11"
+        }, 
+        {
+            "text": "pretend you already have the information and\ngive them something that&#39;s wrong, they&#39;ll", 
+            "dur": "3.65", 
+            "start": "373.54"
+        }, 
+        {
+            "text": "frequently correct you.&quot; For example, a little\nbit ago when I said 2 + 2 = 5 you probably", 
+            "dur": "6.62", 
+            "start": "377.19"
+        }, 
+        {
+            "text": "thought to yourself that I was wrong. You\nmight have even left a comment saying that", 
+            "dur": "2.71", 
+            "start": "383.81"
+        }, 
+        {
+            "text": "I was wrong and that the correct answer was\n2 + 2 = 4. If so, then you&#39;ve been hacked.", 
+            "dur": "5.81", 
+            "start": "386.52"
+        }, 
+        {
+            "text": "By knowingly giving you false information,\nyou willingly gave me the correct one. So", 
+            "dur": "4.79", 
+            "start": "392.33"
+        }, 
+        {
+            "text": "phones, cars, ATMs, security cameras, pacemakers\ncan all be hacked but not easily or seamlessly", 
+            "dur": "6.09", 
+            "start": "397.12"
+        }, 
+        {
+            "text": "as in Watch Dogs...but still the easiest system\nto hack is you...and, as always, thanks for", 
+            "dur": "7", 
+            "start": "403.21"
+        }, 
+        {
+            "text": "watching.", 
+            "dur": "0.25", 
+            "start": "415.64"
+        }
+    ], 
+    "title": "Is Watch Dogs Possible?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m0klzj", 
+        "/m/0j_5wc8"
+    ], 
+    "raw_score": 1152, 
+    "number_views": 1677600, 
+    "categories": [
+        28
+    ]
+}

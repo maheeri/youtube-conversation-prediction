@@ -1,0 +1,694 @@
+{
+    "publish_date": "2013-07-18T14:58:08.000Z", 
+    "score": 0.00026148148874485615, 
+    "video_length": "PT5M24S", 
+    "captions": [
+        {
+            "text": "When we watch a film or a play,", 
+            "dur": "1.754", 
+            "start": "6.104"
+        }, 
+        {
+            "text": "we know that the actors", 
+            "dur": "1.118", 
+            "start": "7.882"
+        }, 
+        {
+            "text": "probably learned\ntheir lines from a script,", 
+            "dur": "2.008", 
+            "start": "9.024"
+        }, 
+        {
+            "text": "which essentially tells them\nwhat to say and when to say it.", 
+            "dur": "3.27", 
+            "start": "11.056"
+        }, 
+        {
+            "text": "A piece of written music\noperates on exactly the same principle.", 
+            "dur": "3.152", 
+            "start": "15.08"
+        }, 
+        {
+            "text": "In a very basic sense,", 
+            "dur": "1.336", 
+            "start": "18.755"
+        }, 
+        {
+            "text": "it tells a performer what to play\nand when to play it.", 
+            "dur": "3.064", 
+            "start": "20.115"
+        }, 
+        {
+            "text": "Aesthetically speaking,\nthere&#39;s a world of difference", 
+            "dur": "2.524", 
+            "start": "23.901"
+        }, 
+        {
+            "text": "between, say, Beethoven and Justin Bieber,", 
+            "dur": "2.93", 
+            "start": "26.449"
+        }, 
+        {
+            "text": "but both artists have used", 
+            "dur": "1.239", 
+            "start": "29.403"
+        }, 
+        {
+            "text": "the same building blocks\nto create their music:", 
+            "dur": "2.482", 
+            "start": "30.666"
+        }, 
+        {
+            "text": "notes.", 
+            "dur": "1.054", 
+            "start": "33.172"
+        }, 
+        {
+            "text": "And although the end result\ncan sound quite complicated,", 
+            "dur": "2.627", 
+            "start": "34.25"
+        }, 
+        {
+            "text": "the logic behind musical notes\nis actually pretty straightforward.", 
+            "dur": "3.514", 
+            "start": "36.901"
+        }, 
+        {
+            "text": "Let&#39;s take a look", 
+            "dur": "1.008", 
+            "start": "40.439"
+        }, 
+        {
+            "text": "at the foundational\nelements to music notation", 
+            "dur": "2.191", 
+            "start": "41.471"
+        }, 
+        {
+            "text": "and how they interact\nto create a work of art.", 
+            "dur": "2.942", 
+            "start": "43.686"
+        }, 
+        {
+            "text": "Music is written on five parallel lines\nthat go across the page.", 
+            "dur": "3.661", 
+            "start": "47.684"
+        }, 
+        {
+            "text": "These five lines are called a staff,", 
+            "dur": "2.079", 
+            "start": "51.822"
+        }, 
+        {
+            "text": "and a staff operates on two axes:", 
+            "dur": "2.269", 
+            "start": "53.925"
+        }, 
+        {
+            "text": "up and down", 
+            "dur": "1.275", 
+            "start": "56.218"
+        }, 
+        {
+            "text": "and left to right.", 
+            "dur": "1.204", 
+            "start": "57.517"
+        }, 
+        {
+            "text": "The up-and-down axis tells the performer", 
+            "dur": "1.921", 
+            "start": "59.258"
+        }, 
+        {
+            "text": "the pitch of the note\nor what note to play,", 
+            "dur": "2.709", 
+            "start": "61.203"
+        }, 
+        {
+            "text": "and the left-to-right axis", 
+            "dur": "1.501", 
+            "start": "63.936"
+        }, 
+        {
+            "text": "tells the performer the rhythm of the note", 
+            "dur": "2.07", 
+            "start": "65.461"
+        }, 
+        {
+            "text": "or when to play it.", 
+            "dur": "1.381", 
+            "start": "67.555"
+        }, 
+        {
+            "text": "Let&#39;s start with pitch.", 
+            "dur": "1.553", 
+            "start": "69.436"
+        }, 
+        {
+            "text": "To help us out,\nwe&#39;re going to use a piano,", 
+            "dur": "2.024", 
+            "start": "71.013"
+        }, 
+        {
+            "text": "but this system works for pretty much\nany instrument you can think of.", 
+            "dur": "3.327", 
+            "start": "73.061"
+        }, 
+        {
+            "text": "In the Western music tradition,", 
+            "dur": "1.619", 
+            "start": "77.186"
+        }, 
+        {
+            "text": "pitches are named after\nthe first seven letters of the alphabet,", 
+            "dur": "3.397", 
+            "start": "78.829"
+        }, 
+        {
+            "text": "A, B, C,", 
+            "dur": "1.443", 
+            "start": "82.25"
+        }, 
+        {
+            "text": "D, E, F, and G.", 
+            "dur": "1.961", 
+            "start": "83.717"
+        }, 
+        {
+            "text": "After that, the cycle repeats itself:", 
+            "dur": "2.149", 
+            "start": "86.446"
+        }, 
+        {
+            "text": "A, B, C, D, E, F, G,", 
+            "dur": "2.015", 
+            "start": "88.619"
+        }, 
+        {
+            "text": "A, B, C, D, E, F, G,", 
+            "dur": "1.334", 
+            "start": "90.658"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.063", 
+            "start": "92.016"
+        }, 
+        {
+            "text": "But how do these pitches get their names?", 
+            "dur": "2.096", 
+            "start": "93.564"
+        }, 
+        {
+            "text": "Well, for example, if you played an F", 
+            "dur": "2.07", 
+            "start": "96.199"
+        }, 
+        {
+            "text": "and then played another F", 
+            "dur": "1.191", 
+            "start": "98.293"
+        }, 
+        {
+            "text": "higher or lower on the piano,", 
+            "dur": "1.684", 
+            "start": "99.508"
+        }, 
+        {
+            "text": "you&#39;d notice that they sound\npretty similar", 
+            "dur": "2.048", 
+            "start": "101.216"
+        }, 
+        {
+            "text": "compared to, say, a B.", 
+            "dur": "1.776", 
+            "start": "103.288"
+        }, 
+        {
+            "text": "Going back to the staff,", 
+            "dur": "1.217", 
+            "start": "105.738"
+        }, 
+        {
+            "text": "every line and every space\nbetween two lines", 
+            "dur": "2.67", 
+            "start": "106.979"
+        }, 
+        {
+            "text": "represents a separate pitch.", 
+            "dur": "1.652", 
+            "start": "109.673"
+        }, 
+        {
+            "text": "If we put a note on one of these lines\nor one of these spaces,", 
+            "dur": "3.056", 
+            "start": "112.051"
+        }, 
+        {
+            "text": "we&#39;re telling a performer\nto play that pitch.", 
+            "dur": "2.527", 
+            "start": "115.131"
+        }, 
+        {
+            "text": "The higher up on the staff\na note is placed,", 
+            "dur": "2.327", 
+            "start": "117.682"
+        }, 
+        {
+            "text": "the higher the pitch.", 
+            "dur": "1.379", 
+            "start": "120.033"
+        }, 
+        {
+            "text": "But there are obviously\nmany, many more pitches", 
+            "dur": "2.477", 
+            "start": "121.436"
+        }, 
+        {
+            "text": "than the nine that these\nlines and spaces gives us.", 
+            "dur": "2.65", 
+            "start": "123.937"
+        }, 
+        {
+            "text": "A grand piano, for example,", 
+            "dur": "1.529", 
+            "start": "126.611"
+        }, 
+        {
+            "text": "can play 88 separate notes.", 
+            "dur": "1.654", 
+            "start": "128.164"
+        }, 
+        {
+            "text": "So how do we condense\n88 notes onto a single staff?", 
+            "dur": "3", 
+            "start": "130.281"
+        }, 
+        {
+            "text": "We use something called a clef,", 
+            "dur": "2.207", 
+            "start": "133.774"
+        }, 
+        {
+            "text": "a weird-looking figure\nplaced at the beginning of the staff,", 
+            "dur": "2.969", 
+            "start": "136.005"
+        }, 
+        {
+            "text": "which acts like a reference point,", 
+            "dur": "1.68", 
+            "start": "138.998"
+        }, 
+        {
+            "text": "telling you that a particular\nline or space", 
+            "dur": "2.102", 
+            "start": "140.702"
+        }, 
+        {
+            "text": "corresponds to a specific note\non your instrument.", 
+            "dur": "2.754", 
+            "start": "142.828"
+        }, 
+        {
+            "text": "If we want to play notes\nthat aren&#39;t on the staff,", 
+            "dur": "2.358", 
+            "start": "145.606"
+        }, 
+        {
+            "text": "we kind of cheat and draw\nextra little lines", 
+            "dur": "2.123", 
+            "start": "147.988"
+        }, 
+        {
+            "text": "called ledger lines", 
+            "dur": "1.219", 
+            "start": "150.135"
+        }, 
+        {
+            "text": "and place the notes on them.", 
+            "dur": "1.698", 
+            "start": "151.378"
+        }, 
+        {
+            "text": "If we have to draw so many ledger lines\nthat it gets confusing,", 
+            "dur": "3.349", 
+            "start": "153.1"
+        }, 
+        {
+            "text": "then we need to change\nto a different clef.", 
+            "dur": "2.275", 
+            "start": "156.473"
+        }, 
+        {
+            "text": "As for telling a performer\nwhen to play the notes,", 
+            "dur": "2.334", 
+            "start": "159.872"
+        }, 
+        {
+            "text": "two main elements control this:", 
+            "dur": "1.871", 
+            "start": "162.23"
+        }, 
+        {
+            "text": "the beat and the rhythm.", 
+            "dur": "1.918", 
+            "start": "164.125"
+        }, 
+        {
+            "text": "The beat of a piece of music is,", 
+            "dur": "1.58", 
+            "start": "166.473"
+        }, 
+        {
+            "text": "by itself, kind of boring.", 
+            "dur": "1.923", 
+            "start": "168.077"
+        }, 
+        {
+            "text": "It sounds like this.", 
+            "dur": "1.689", 
+            "start": "170.024"
+        }, 
+        {
+            "text": "(Ticking)", 
+            "dur": "1.229", 
+            "start": "172.348"
+        }, 
+        {
+            "text": "Notice that it doesn&#39;t change,", 
+            "dur": "1.476", 
+            "start": "174.173"
+        }, 
+        {
+            "text": "it just plugs along quite happily.", 
+            "dur": "2.288", 
+            "start": "175.673"
+        }, 
+        {
+            "text": "It can go slow", 
+            "dur": "1.045", 
+            "start": "177.985"
+        }, 
+        {
+            "text": "or fast", 
+            "dur": "1.079", 
+            "start": "180.546"
+        }, 
+        {
+            "text": "or whatever you like, really.", 
+            "dur": "1.42", 
+            "start": "182.49"
+        }, 
+        {
+            "text": "The point is that just\nlike the second hand on a clock", 
+            "dur": "2.67", 
+            "start": "183.934"
+        }, 
+        {
+            "text": "divides one minute into sixty seconds,", 
+            "dur": "2.544", 
+            "start": "186.628"
+        }, 
+        {
+            "text": "with each second just as long\nas every other second,", 
+            "dur": "2.989", 
+            "start": "189.196"
+        }, 
+        {
+            "text": "the beat divides a piece of music", 
+            "dur": "1.765", 
+            "start": "192.209"
+        }, 
+        {
+            "text": "into little fragments of time\nthat are all the same length:", 
+            "dur": "3.094", 
+            "start": "193.998"
+        }, 
+        {
+            "text": "beats.", 
+            "dur": "1.022", 
+            "start": "197.116"
+        }, 
+        {
+            "text": "With a steady beat as a foundation,", 
+            "dur": "1.724", 
+            "start": "198.826"
+        }, 
+        {
+            "text": "we can add rhythm to our pitches,", 
+            "dur": "1.616", 
+            "start": "200.574"
+        }, 
+        {
+            "text": "and that&#39;s when music\nreally starts to happen.", 
+            "dur": "2.152", 
+            "start": "202.214"
+        }, 
+        {
+            "text": "This is a quarter note.", 
+            "dur": "1.619", 
+            "start": "205.413"
+        }, 
+        {
+            "text": "It&#39;s the most basic unit of rhythm,", 
+            "dur": "1.713", 
+            "start": "207.056"
+        }, 
+        {
+            "text": "and it&#39;s worth one beat.", 
+            "dur": "1.478", 
+            "start": "208.793"
+        }, 
+        {
+            "text": "This is a half note,\nand it&#39;s worth two beats.", 
+            "dur": "2.543", 
+            "start": "210.749"
+        }, 
+        {
+            "text": "This whole note here is worth four beats,", 
+            "dur": "2.097", 
+            "start": "213.316"
+        }, 
+        {
+            "text": "and these little guys are eighth notes,", 
+            "dur": "1.917", 
+            "start": "215.437"
+        }, 
+        {
+            "text": "worth half a beat each.", 
+            "dur": "1.335", 
+            "start": "217.378"
+        }, 
+        {
+            "text": "&quot;Great,&quot; you say, &quot;what does that mean?&quot;", 
+            "dur": "2.42", 
+            "start": "219.409"
+        }, 
+        {
+            "text": "You might have noticed\nthat across the length of a staff,", 
+            "dur": "2.674", 
+            "start": "221.853"
+        }, 
+        {
+            "text": "there are little lines dividing it\ninto small sections.", 
+            "dur": "2.664", 
+            "start": "224.551"
+        }, 
+        {
+            "text": "These are bar lines", 
+            "dur": "1.687", 
+            "start": "227.239"
+        }, 
+        {
+            "text": "and we refer to each section as a bar.", 
+            "dur": "2.405", 
+            "start": "228.95"
+        }, 
+        {
+            "text": "At the beginning of a piece of music,", 
+            "dur": "1.763", 
+            "start": "231.955"
+        }, 
+        {
+            "text": "just after the clef,", 
+            "dur": "1.101", 
+            "start": "233.742"
+        }, 
+        {
+            "text": "is something called the time signature,", 
+            "dur": "2.072", 
+            "start": "234.867"
+        }, 
+        {
+            "text": "which tells a performer\nhow many beats are in each bar.", 
+            "dur": "3.022", 
+            "start": "236.963"
+        }, 
+        {
+            "text": "This says there are two beats in each bar,", 
+            "dur": "2.145", 
+            "start": "240.009"
+        }, 
+        {
+            "text": "this says there are three,", 
+            "dur": "1.322", 
+            "start": "242.178"
+        }, 
+        {
+            "text": "this one four, and so on.", 
+            "dur": "2.048", 
+            "start": "243.524"
+        }, 
+        {
+            "text": "The bottom number tells\nus what kind of note", 
+            "dur": "2.265", 
+            "start": "245.596"
+        }, 
+        {
+            "text": "is to be used as the basic\nunit for the beat.", 
+            "dur": "2.447", 
+            "start": "247.885"
+        }, 
+        {
+            "text": "One corresponds to a whole note,", 
+            "dur": "1.688", 
+            "start": "250.8"
+        }, 
+        {
+            "text": "two to a half note,", 
+            "dur": "1.106", 
+            "start": "252.512"
+        }, 
+        {
+            "text": "four to a quarter note,", 
+            "dur": "1.904", 
+            "start": "253.642"
+        }, 
+        {
+            "text": "and eight to an eighth note, and so on.", 
+            "dur": "1.957", 
+            "start": "255.57"
+        }, 
+        {
+            "text": "So this time signature here", 
+            "dur": "1.347", 
+            "start": "257.958"
+        }, 
+        {
+            "text": "tells us that there are four\nquarter notes in each bar,", 
+            "dur": "2.772", 
+            "start": "259.329"
+        }, 
+        {
+            "text": "one, two, three, four;", 
+            "dur": "1.928", 
+            "start": "262.125"
+        }, 
+        {
+            "text": "one, two, three, four,", 
+            "dur": "1.54", 
+            "start": "264.077"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.056", 
+            "start": "265.641"
+        }, 
+        {
+            "text": "But like I said before,", 
+            "dur": "1.164", 
+            "start": "267.173"
+        }, 
+        {
+            "text": "if we just stick to the beat,", 
+            "dur": "1.439", 
+            "start": "268.361"
+        }, 
+        {
+            "text": "it gets kind of boring,", 
+            "dur": "1.531", 
+            "start": "269.824"
+        }, 
+        {
+            "text": "so we&#39;ll replace some quarter notes\nwith different rhythms.", 
+            "dur": "2.863", 
+            "start": "271.379"
+        }, 
+        {
+            "text": "Notice that even though\nthe number of notes", 
+            "dur": "2", 
+            "start": "274.913"
+        }, 
+        {
+            "text": "in each bar has changed,", 
+            "dur": "1.465", 
+            "start": "276.937"
+        }, 
+        {
+            "text": "the total number of beats\nin each bar hasn&#39;t.", 
+            "dur": "2.572", 
+            "start": "278.426"
+        }, 
+        {
+            "text": "So, what does our musical\ncreation sound like?", 
+            "dur": "3.238", 
+            "start": "282.112"
+        }, 
+        {
+            "text": "(Music)", 
+            "dur": "2.362", 
+            "start": "285.374"
+        }, 
+        {
+            "text": "Eh, sounds okay, but maybe\na bit thin, right?", 
+            "dur": "3.292", 
+            "start": "287.76"
+        }, 
+        {
+            "text": "Let&#39;s add another instrument\nwith its own pitch and rhythm.", 
+            "dur": "2.893", 
+            "start": "291.076"
+        }, 
+        {
+            "text": "Now it&#39;s sounding like music.", 
+            "dur": "2.176", 
+            "start": "294.435"
+        }, 
+        {
+            "text": "Sure, it takes some practice\nto get used to reading it quickly", 
+            "dur": "2.977", 
+            "start": "297.789"
+        }, 
+        {
+            "text": "and playing what we see on our instrument,", 
+            "dur": "2.008", 
+            "start": "300.79"
+        }, 
+        {
+            "text": "but, with a bit of time and patience,", 
+            "dur": "1.762", 
+            "start": "302.822"
+        }, 
+        {
+            "text": "you could be the next Beethoven", 
+            "dur": "1.747", 
+            "start": "304.608"
+        }, 
+        {
+            "text": "or Justin Bieber.", 
+            "dur": "2.105", 
+            "start": "306.379"
+        }
+    ], 
+    "title": "How to read music - Tim Hansen", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04rlf", 
+        "/m/058p1b", 
+        "/m/04181l6"
+    ], 
+    "raw_score": 160, 
+    "number_views": 611898, 
+    "categories": [
+        27
+    ]
+}

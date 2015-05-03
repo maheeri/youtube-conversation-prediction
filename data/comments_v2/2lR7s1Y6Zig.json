@@ -1,0 +1,900 @@
+{
+    "publish_date": "2013-11-12T00:07:57.000Z", 
+    "score": 0.000288697189113436, 
+    "video_length": "PT10M48S", 
+    "captions": [
+        {
+            "text": "Hey, Vsauce. Michael here.", 
+            "dur": "2.54", 
+            "start": "1.069"
+        }, 
+        {
+            "text": "This point of light in the sky is", 
+            "dur": "3.371", 
+            "start": "3.609"
+        }, 
+        {
+            "text": "Earth as seen from the surface of Mars.", 
+            "dur": "3.899", 
+            "start": "6.99"
+        }, 
+        {
+            "text": "And this is Earth as seen from Saturn.", 
+            "dur": "3.741", 
+            "start": "10.889"
+        }, 
+        {
+            "text": "Here&#39;s an image taken only 45,000 kilometres away,", 
+            "dur": "4.149", 
+            "start": "14.63"
+        }, 
+        {
+            "text": "the famous Blue Marble. But what does", 
+            "dur": "3.901", 
+            "start": "18.779"
+        }, 
+        {
+            "text": "Earth really look like?", 
+            "dur": "2.92", 
+            "start": "22.68"
+        }, 
+        {
+            "text": "Well, it depends on how you define &quot;look&quot;.", 
+            "dur": "3.62", 
+            "start": "25.6"
+        }, 
+        {
+            "text": "The word look comes from\nthe old Breton word &quot;lagud&quot;,", 
+            "dur": "3.599", 
+            "start": "29.23"
+        }, 
+        {
+            "text": "mean eye, the human eye.", 
+            "dur": "3.331", 
+            "start": "32.829"
+        }, 
+        {
+            "text": "And that&#39;s part of the problem.\nImages like this are based on light", 
+            "dur": "5.14", 
+            "start": "36.16"
+        }, 
+        {
+            "text": "humans can see. But we don&#39;t see", 
+            "dur": "3.259", 
+            "start": "41.3"
+        }, 
+        {
+            "text": "everything.\nThere&#39;s a fantastic episode of Radiolab that uses", 
+            "dur": "4.351", 
+            "start": "44.559"
+        }, 
+        {
+            "text": "sound to illustrate just how different other creature", 
+            "dur": "3.379", 
+            "start": "48.91"
+        }, 
+        {
+            "text": "visual spaces are from our our own.\nWhen we talk about the way something", 
+            "dur": "4.59", 
+            "start": "52.289"
+        }, 
+        {
+            "text": "physically looks", 
+            "dur": "1.34", 
+            "start": "56.879"
+        }, 
+        {
+            "text": "we are talking about the visual perception of emitted", 
+            "dur": "3.491", 
+            "start": "58.219"
+        }, 
+        {
+            "text": "or reflected electromagnetic radiation.", 
+            "dur": "3.46", 
+            "start": "61.71"
+        }, 
+        {
+            "text": "Specifically, visible light.", 
+            "dur": "2.52", 
+            "start": "65.17"
+        }, 
+        {
+            "text": "Light we perceive as red has a longer wavelength", 
+            "dur": "3.78", 
+            "start": "67.84"
+        }, 
+        {
+            "text": "than blue or violet.\nBut what if I crank the wavelength", 
+            "dur": "3.86", 
+            "start": "71.63"
+        }, 
+        {
+            "text": "even shorter? Does it stop being light?", 
+            "dur": "3.22", 
+            "start": "75.49"
+        }, 
+        {
+            "text": "No, it just becomes light", 
+            "dur": "3.089", 
+            "start": "78.71"
+        }, 
+        {
+            "text": "you can&#39;t see - ultraviolet, X-rays,", 
+            "dur": "3.64", 
+            "start": "81.799"
+        }, 
+        {
+            "text": "gamma rays.\nGoing the other way, you get infrared,", 
+            "dur": "3.68", 
+            "start": "85.439"
+        }, 
+        {
+            "text": "microwaves and finally, radio waves.", 
+            "dur": "3.271", 
+            "start": "89.119"
+        }, 
+        {
+            "text": "In principle, the spectrum of possible", 
+            "dur": "3.119", 
+            "start": "92.39"
+        }, 
+        {
+            "text": "electromagnetic wavelengths is infinite.", 
+            "dur": "3.18", 
+            "start": "95.509"
+        }, 
+        {
+            "text": "But even within the range of wavelengths we observe,", 
+            "dur": "3.201", 
+            "start": "98.689"
+        }, 
+        {
+            "text": "the breadth is breathtaking. If the entire", 
+            "dur": "4.07", 
+            "start": "101.89"
+        }, 
+        {
+            "text": "practical spectrum of wavelengths was laid out", 
+            "dur": "3.07", 
+            "start": "105.96"
+        }, 
+        {
+            "text": "linearly from New York to Los Angeles,\nthe visual portion we see", 
+            "dur": "5.049", 
+            "start": "109.03"
+        }, 
+        {
+            "text": "would only be the size of", 
+            "dur": "3.08", 
+            "start": "114.079"
+        }, 
+        {
+            "text": "100 nanometers. Small enough", 
+            "dur": "3.5", 
+            "start": "117.16"
+        }, 
+        {
+            "text": "to slip through a surgical mask. Point is,", 
+            "dur": "3.6", 
+            "start": "120.67"
+        }, 
+        {
+            "text": "when it comes to what their is to see, our", 
+            "dur": "3.59", 
+            "start": "124.27"
+        }, 
+        {
+            "text": "eyes miss out on lot. For instance,", 
+            "dur": "3.08", 
+            "start": "127.86"
+        }, 
+        {
+            "text": "take a look a remote control.\nMany of  these things communicate with light", 
+            "dur": "4.93", 
+            "start": "130.94"
+        }, 
+        {
+            "text": "of wavelengths we can&#39;t see but mobile phone cameras", 
+            "dur": "4.56", 
+            "start": "135.87"
+        }, 
+        {
+            "text": "can. Try this at home. Push a button on a\nremote control and you won&#39;t see much", 
+            "dur": "5.34", 
+            "start": "140.43"
+        }, 
+        {
+            "text": "but use a mobile phone camera\nto detect wavelengths you can&#39;t see", 
+            "dur": "3.7", 
+            "start": "145.77"
+        }, 
+        {
+            "text": "and have them rendered visible.\nThere&#39;s a whole lot going on", 
+            "dur": "3.21", 
+            "start": "149.47"
+        }, 
+        {
+            "text": "we miss out on. Our night sky is full of", 
+            "dur": "3.61", 
+            "start": "152.68"
+        }, 
+        {
+            "text": "frequencies we can&#39;t see with our eyes alone", 
+            "dur": "3.089", 
+            "start": "156.29"
+        }, 
+        {
+            "text": "but Chromoscope.net allows you to extend", 
+            "dur": "3.58", 
+            "start": "159.379"
+        }, 
+        {
+            "text": "your vision.\nThis is the Milky Way as we see it,", 
+            "dur": "4.011", 
+            "start": "162.959"
+        }, 
+        {
+            "text": "the visible light it gives off. But slide", 
+            "dur": "3", 
+            "start": "166.97"
+        }, 
+        {
+            "text": "to see how it would look if our eyes\nsensed other frequencies.", 
+            "dur": "3.82", 
+            "start": "169.97"
+        }, 
+        {
+            "text": "Of course, we are having to represent\nthese other frequencies", 
+            "dur": "3.729", 
+            "start": "173.79"
+        }, 
+        {
+            "text": "with visible colours because even\nelectromagnetic pretend time", 
+            "dur": "5.061", 
+            "start": "177.519"
+        }, 
+        {
+            "text": "is bounded by our puny limits.", 
+            "dur": "3.129", 
+            "start": "182.58"
+        }, 
+        {
+            "text": "As for Earth, if we only saw infrared\nfrequencies it might look something", 
+            "dur": "5.42", 
+            "start": "185.709"
+        }, 
+        {
+            "text": "like this in our minds.\nUltraviolet and extreme", 
+            "dur": "3.901", 
+            "start": "191.129"
+        }, 
+        {
+            "text": "ultraviolet vision would return\nunrecognizable spheres.", 
+            "dur": "3.819", 
+            "start": "195.03"
+        }, 
+        {
+            "text": "With X-ray vision auroras around the\npoles would shine brightly", 
+            "dur": "4.291", 
+            "start": "198.849"
+        }, 
+        {
+            "text": "and gamma ray vision would give\nEarth a bright edge", 
+            "dur": "3.179", 
+            "start": "203.14"
+        }, 
+        {
+            "text": "from high-energy electromagnetic\nradiation hitting the atmosphere", 
+            "dur": "3.571", 
+            "start": "206.319"
+        }, 
+        {
+            "text": "at a shallow angle.", 
+            "dur": "2.16", 
+            "start": "209.89"
+        }, 
+        {
+            "text": "So, which view is correct? Is there an", 
+            "dur": "4.37", 
+            "start": "212.05"
+        }, 
+        {
+            "text": "absolute true appearance of the Earth?", 
+            "dur": "3.47", 
+            "start": "216.43"
+        }, 
+        {
+            "text": "We haven&#39;t even started yet.", 
+            "dur": "1.56", 
+            "start": "221.36"
+        }, 
+        {
+            "text": "Look back at the Blue Marble.\nWhat&#39;s with the tyranny ", 
+            "dur": "4.02", 
+            "start": "222.93"
+        }, 
+        {
+            "text": "of &quot;north&quot; meaning &quot;up&quot;? Perhaps,", 
+            "dur": "3.42", 
+            "start": "226.95"
+        }, 
+        {
+            "text": "it&#39;s because we often equate &quot;up&quot; with &quot;better&quot;", 
+            "dur": "3.089", 
+            "start": "230.37"
+        }, 
+        {
+            "text": "and many early map makers were from\nNorth of the equator.", 
+            "dur": "4.14", 
+            "start": "233.459"
+        }, 
+        {
+            "text": "But upside-down maps are equally true,", 
+            "dur": "3.331", 
+            "start": "237.599"
+        }, 
+        {
+            "text": "no matter how strange day may seem to us.\nFunny enough,", 
+            "dur": "3.18", 
+            "start": "240.93"
+        }, 
+        {
+            "text": "the famous Blue Marble itself is a\nproduct of North equals", 
+            "dur": "4.17", 
+            "start": "244.11"
+        }, 
+        {
+            "text": "up bias. It didn&#39;t originally look like this.", 
+            "dur": "3.849", 
+            "start": "248.28"
+        }, 
+        {
+            "text": "The crew of Apollo 17 originally took it", 
+            "dur": "3.31", 
+            "start": "252.129"
+        }, 
+        {
+            "text": "like this. NASA rotated it to", 
+            "dur": "3.42", 
+            "start": "255.439"
+        }, 
+        {
+            "text": "fit our traditional idea of up after the fact.", 
+            "dur": "3.761", 
+            "start": "258.859"
+        }, 
+        {
+            "text": "Here&#39;s a visual birth that comes from\nthe US Naval Observatory&#39;s live", 
+            "dur": "4", 
+            "start": "262.62"
+        }, 
+        {
+            "text": "animation of our planet.\nYou can see exactly what parts are", 
+            "dur": "4.15", 
+            "start": "266.62"
+        }, 
+        {
+            "text": "in its shadow at this very moment.\nOther shadows fall", 
+            "dur": "4.119", 
+            "start": "270.77"
+        }, 
+        {
+            "text": "on Earth as well, like the Moon&#39;s shadow.", 
+            "dur": "3.56", 
+            "start": "274.889"
+        }, 
+        {
+            "text": "Last week @BadAstronomer shared this\nimage. The dark smudges on the left is", 
+            "dur": "4.951", 
+            "start": "278.449"
+        }, 
+        {
+            "text": "actually", 
+            "dur": "0.69", 
+            "start": "283.4"
+        }, 
+        {
+            "text": "the Moon&#39;s shadow during a Solar Eclipse", 
+            "dur": "3.609", 
+            "start": "284.09"
+        }, 
+        {
+            "text": "as seen from above Earth.\nThere&#39;s another problem with", 
+            "dur": "4.131", 
+            "start": "287.699"
+        }, 
+        {
+            "text": "the Blue Marble - it&#39;s flat and the Earth", 
+            "dur": "3.48", 
+            "start": "291.83"
+        }, 
+        {
+            "text": "is three-dimensional.\nA  globe is the best way to represent the Earth", 
+            "dur": "4.75", 
+            "start": "295.31"
+        }, 
+        {
+            "text": "but globes are difficult to carry around\nand even when displayed in two", 
+            "dur": "4.66", 
+            "start": "300.06"
+        }, 
+        {
+            "text": "dimensions,", 
+            "dur": "1.12", 
+            "start": "304.72"
+        }, 
+        {
+            "text": "well, you just can&#39;t see everything at once.", 
+            "dur": "3.16", 
+            "start": "305.84"
+        }, 
+        {
+            "text": "A flat map of the Earth is really convenient", 
+            "dur": "3.389", 
+            "start": "309"
+        }, 
+        {
+            "text": "but requires projecting a globe onto something", 
+            "dur": "3.37", 
+            "start": "312.389"
+        }, 
+        {
+            "text": "flat. And a sphere&#39;s surface cannot be\nrepresented on a plane", 
+            "dur": "4.53", 
+            "start": "315.759"
+        }, 
+        {
+            "text": "without distortion.\nThe West Wing famously pointed out", 
+            "dur": "4.121", 
+            "start": "320.289"
+        }, 
+        {
+            "text": "the limitations of flat maps.", 
+            "dur": "2.52", 
+            "start": "324.41"
+        }, 
+        {
+            "text": "There&#39;s no such thing as a perfect flat map of the entire", 
+            "dur": "4.12", 
+            "start": "327.38"
+        }, 
+        {
+            "text": "world. Some maps are useful for some\nthings and other maps for other things", 
+            "dur": "4.88", 
+            "start": "331.5"
+        }, 
+        {
+            "text": "but it is really fun to pick on the Mercator projection,", 
+            "dur": "3.659", 
+            "start": "336.38"
+        }, 
+        {
+            "text": "mainly because it&#39;s so popular and is\neven used by Google Maps,", 
+            "dur": "3.841", 
+            "start": "340.039"
+        }, 
+        {
+            "text": "mainly because it&#39;s so easy to zoom in on.", 
+            "dur": "3.05", 
+            "start": "343.88"
+        }, 
+        {
+            "text": "It preserves shape decently well but suffers", 
+            "dur": "3.88", 
+            "start": "346.93"
+        }, 
+        {
+            "text": "when it comes to area. As I&#39;ve shown before, Africa", 
+            "dur": "3.84", 
+            "start": "350.81"
+        }, 
+        {
+            "text": "is huge. Its area is so large the\nentire contiguous United States could", 
+            "dur": "5.239", 
+            "start": "354.65"
+        }, 
+        {
+            "text": "fit inside of it, along with all of China,", 
+            "dur": "3.261", 
+            "start": "359.889"
+        }, 
+        {
+            "text": "India, Japan and much of Europe.", 
+            "dur": "3.71", 
+            "start": "363.15"
+        }, 
+        {
+            "text": "But on the Mercator projection scale near the poles", 
+            "dur": "3.51", 
+            "start": "366.86"
+        }, 
+        {
+            "text": "is pretty wonky, distorted, which means", 
+            "dur": "3.24", 
+            "start": "370.37"
+        }, 
+        {
+            "text": "Greenland appears to be as large as Africa,", 
+            "dur": "3.45", 
+            "start": "373.61"
+        }, 
+        {
+            "text": "even though in reality it is only 1/14th", 
+            "dur": "4", 
+            "start": "377.06"
+        }, 
+        {
+            "text": "the size. There&#39;s more.", 
+            "dur": "3.44", 
+            "start": "381.06"
+        }, 
+        {
+            "text": "Check out Alaska and Brazil on a\nMercator projection. They appear almost", 
+            "dur": "5.33", 
+            "start": "384.5"
+        }, 
+        {
+            "text": "the same size but in reality Brazil", 
+            "dur": "3.399", 
+            "start": "389.83"
+        }, 
+        {
+            "text": "is nearly five times bigger than Alaska.", 
+            "dur": "3.881", 
+            "start": "393.229"
+        }, 
+        {
+            "text": "Areas near the equator are minimized, whereas", 
+            "dur": "3.35", 
+            "start": "397.11"
+        }, 
+        {
+            "text": "areas closer to the poles are exaggerated.", 
+            "dur": "3.28", 
+            "start": "400.46"
+        }, 
+        {
+            "text": "To have fun with this problem, play the Google Maps", 
+            "dur": "3.51", 
+            "start": "403.74"
+        }, 
+        {
+            "text": "Mercator puzzle. The red pieces are\ncountries projected outside of their", 
+            "dur": "4.65", 
+            "start": "407.25"
+        }, 
+        {
+            "text": "usual", 
+            "dur": "0.63", 
+            "start": "411.9"
+        }, 
+        {
+            "text": "locations. Now, what the heck is this", 
+            "dur": "3.319", 
+            "start": "412.53"
+        }, 
+        {
+            "text": "weird shape? Well, let&#39;s pull it away from\nthe North Pole, where scale is distorted", 
+            "dur": "4.371", 
+            "start": "415.849"
+        }, 
+        {
+            "text": "a lot", 
+            "dur": "0.49", 
+            "start": "420.22"
+        }, 
+        {
+            "text": "and now it&#39;s Australia.", 
+            "dur": "3.32", 
+            "start": "420.71"
+        }, 
+        {
+            "text": "You can see how the math behind map\nprojections distort Earth", 
+            "dur": "3.59", 
+            "start": "424.03"
+        }, 
+        {
+            "text": "by interacting with them on Jason Davies&#39;", 
+            "dur": "3.019", 
+            "start": "427.62"
+        }, 
+        {
+            "text": "brilliant site. Notice how small\nGreenland appears on the Mercator", 
+            "dur": "4.321", 
+            "start": "430.639"
+        }, 
+        {
+            "text": "projection when pulled down to the", 
+            "dur": "2.28", 
+            "start": "434.96"
+        }, 
+        {
+            "text": "equator and how exaggerated it becomes \nwhen moved to the edge.", 
+            "dur": "4.829", 
+            "start": "437.24"
+        }, 
+        {
+            "text": "To be fair, the Mercator projection is great for navigation.", 
+            "dur": "3.171", 
+            "start": "442.069"
+        }, 
+        {
+            "text": "If you want something that is more fair\nwhen it comes to area,", 
+            "dur": "3.679", 
+            "start": "445.24"
+        }, 
+        {
+            "text": "try the Gall\u2013Peters. Here,", 
+            "dur": "3.25", 
+            "start": "448.919"
+        }, 
+        {
+            "text": "landmasses are the right relative size", 
+            "dur": "3.301", 
+            "start": "452.169"
+        }, 
+        {
+            "text": "but shape is sacrificed. Everything looks a bit", 
+            "dur": "3.039", 
+            "start": "455.47"
+        }, 
+        {
+            "text": "too narrow.", 
+            "dur": "2.02", 
+            "start": "458.509"
+        }, 
+        {
+            "text": "Enter the Mollweide. This projection shows", 
+            "dur": "4.04", 
+            "start": "460.84"
+        }, 
+        {
+            "text": "equal areas and is a bit more pleasant shape-wise.", 
+            "dur": "4.18", 
+            "start": "464.889"
+        }, 
+        {
+            "text": "If you interrupt the Mollweide around\nthe oceans, relative area is preserved", 
+            "dur": "4.41", 
+            "start": "469.069"
+        }, 
+        {
+            "text": "and the shape of land masses becomes even more", 
+            "dur": "3.261", 
+            "start": "473.479"
+        }, 
+        {
+            "text": "accurate. When it comes to the shortest\nroute between two places on the surface", 
+            "dur": "4.54", 
+            "start": "476.74"
+        }, 
+        {
+            "text": "of the Earth, Gnomonic projections are really cool.", 
+            "dur": "4.449", 
+            "start": "481.28"
+        }, 
+        {
+            "text": "Every straight line journey taken on\nEarth&#39;s surface is actually part of a great", 
+            "dur": "5.181", 
+            "start": "485.729"
+        }, 
+        {
+            "text": "circle. On Mercator projections actual straight line paths", 
+            "dur": "4.469", 
+            "start": "490.91"
+        }, 
+        {
+            "text": "look curved. But every straight line", 
+            "dur": "3.1", 
+            "start": "495.379"
+        }, 
+        {
+            "text": "on a Gnomonic projection is also a straight line", 
+            "dur": "3.601", 
+            "start": "498.479"
+        }, 
+        {
+            "text": "in real life - the shortest route. If you want", 
+            "dur": "3.369", 
+            "start": "502.08"
+        }, 
+        {
+            "text": "a compromise between shape and area,\nyou might try the pleasant", 
+            "dur": "4.521", 
+            "start": "505.449"
+        }, 
+        {
+            "text": "Winkel tripel, which the\nNational Geographic Society has used for maps it", 
+            "dur": "4.259", 
+            "start": "509.97"
+        }, 
+        {
+            "text": "produces", 
+            "dur": "0.831", 
+            "start": "514.229"
+        }, 
+        {
+            "text": "since 1998. Or a beautiful butterfly map", 
+            "dur": "4.469", 
+            "start": "515.06"
+        }, 
+        {
+            "text": "that could be a ball until it&#39;s\nflattened, say, under a pane", 
+            "dur": "3.731", 
+            "start": "519.529"
+        }, 
+        {
+            "text": "of glass. The Dymaxion map can unfold", 
+            "dur": "3.44", 
+            "start": "523.26"
+        }, 
+        {
+            "text": "to show how nearly connected Earth&#39;s landmasses", 
+            "dur": "3.65", 
+            "start": "526.7"
+        }, 
+        {
+            "text": "are. It&#39;s a great way to visualize human migration", 
+            "dur": "4.22", 
+            "start": "530.35"
+        }, 
+        {
+            "text": "overtime. It&#39;s quite impressive how far and wide", 
+            "dur": "4.04", 
+            "start": "534.57"
+        }, 
+        {
+            "text": "humans have traveled on earth,\nbut it remains a bit of a disappointment", 
+            "dur": "4.45", 
+            "start": "538.61"
+        }, 
+        {
+            "text": "to realize just how narrow our slice", 
+            "dur": "3.12", 
+            "start": "543.06"
+        }, 
+        {
+            "text": "of visual perception really is.", 
+            "dur": "3.23", 
+            "start": "546.18"
+        }, 
+        {
+            "text": "But don&#39;t feel bad.\nThis brings us to the story of", 
+            "dur": "3.08", 
+            "start": "549.41"
+        }, 
+        {
+            "text": "Julian Bayliss.", 
+            "dur": "1.62", 
+            "start": "552.49"
+        }, 
+        {
+            "text": "Yes, hello, is this doctor Julian Bayliss?", 
+            "dur": "2", 
+            "start": "554.36"
+        }, 
+        {
+            "text": "[ON THE PHONE:] Yes, speaking.", 
+            "dur": "1.2", 
+            "start": "556.49"
+        }, 
+        {
+            "text": "Bayliss told me about how\none day, while using Google Earth, he", 
+            "dur": "3.079", 
+            "start": "557.69"
+        }, 
+        {
+            "text": "spotted some dark green vegetation.", 
+            "dur": "2.801", 
+            "start": "560.769"
+        }, 
+        {
+            "text": "It looked like a rain forest.\nAn expedition was scheduled", 
+            "dur": "4.209", 
+            "start": "563.57"
+        }, 
+        {
+            "text": "and it turned out to be just that - a rain forest", 
+            "dur": "3.31", 
+            "start": "567.779"
+        }, 
+        {
+            "text": "we had previously never seen. I asked him more.", 
+            "dur": "3.68", 
+            "start": "571.089"
+        }, 
+        {
+            "text": "So, what have you found there?", 
+            "dur": "1.84", 
+            "start": "574.769"
+        }, 
+        {
+            "text": "[ON THE PHONE:]\nThat day we found about 12 new species", 
+            "dur": "2.831", 
+            "start": "576.609"
+        }, 
+        {
+            "text": "just from Mabu.\nSo we found about 3 snakes, 2 chameleons and", 
+            "dur": "4.47", 
+            "start": "579.44"
+        }, 
+        {
+            "text": "about 4 butterflies, 2 new species of plants", 
+            "dur": "3.539", 
+            "start": "583.91"
+        }, 
+        {
+            "text": "and we&#39;ve only really just been into the\nforest edge. So, I read, read a paper", 
+            "dur": "3.471", 
+            "start": "587.449"
+        }, 
+        {
+            "text": "the other day, a scientific paper.\nThey estimate that there&#39;s maybe 8 million,", 
+            "dur": "3.709", 
+            "start": "590.92"
+        }, 
+        {
+            "text": "8.5 million species in this world\nbut we&#39;ve only actually discovered", 
+            "dur": "4.37", 
+            "start": "594.629"
+        }, 
+        {
+            "text": "1.5 million or between 1.5 and 2 million.", 
+            "dur": "4.12", 
+            "start": "598.999"
+        }, 
+        {
+            "text": "So, we&#39;ve actually only discovered maybe one fist of everything that&#39;s living on this", 
+            "dur": "5.42", 
+            "start": "603.12"
+        }, 
+        {
+            "text": "planet.", 
+            "dur": "0.54", 
+            "start": "608.549"
+        }, 
+        {
+            "text": "Wow, our eyes only see", 
+            "dur": "3.72", 
+            "start": "609.089"
+        }, 
+        {
+            "text": "a tiny fraction of what there is to see.", 
+            "dur": "3.051", 
+            "start": "612.809"
+        }, 
+        {
+            "text": "But within that tiny fraction there are still", 
+            "dur": "3.979", 
+            "start": "615.86"
+        }, 
+        {
+            "text": "an enormous number of things left to find.\nSo keep searching, keep looking.", 
+            "dur": "4.9", 
+            "start": "619.839"
+        }, 
+        {
+            "text": "[ON THE PHONE:]\nAnd as always,", 
+            "dur": "0.8", 
+            "start": "624.74"
+        }, 
+        {
+            "text": "thanks for watching.", 
+            "dur": "1.1", 
+            "start": "625.54"
+        }
+    ], 
+    "title": "What Does Earth Look Like?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m0klzj", 
+        "/m/02j71", 
+        "/m/03b6pb", 
+        "/m/0dn07"
+    ], 
+    "raw_score": 1325, 
+    "number_views": 4589584, 
+    "categories": [
+        27
+    ]
+}

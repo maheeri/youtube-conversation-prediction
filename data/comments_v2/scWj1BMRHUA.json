@@ -1,0 +1,874 @@
+{
+    "publish_date": "2014-05-08T13:37:03.000Z", 
+    "score": 0.0006230788722349431, 
+    "video_length": "PT10M55S", 
+    "captions": [
+        {
+            "text": "Hey, Vsauce. Michael here.", 
+            "dur": "3.14", 
+            "start": "0.19"
+        }, 
+        {
+            "text": "Mimas is one of Saturn&#39;s cutest moons.", 
+            "dur": "4.21", 
+            "start": "3.33"
+        }, 
+        {
+            "text": "Its entire surface area is about the\nsame as", 
+            "dur": "3.101", 
+            "start": "7.549"
+        }, 
+        {
+            "text": "Spain but its giant crater makes it look like the", 
+            "dur": "4.149", 
+            "start": "10.65"
+        }, 
+        {
+            "text": "Death Star. And when NASA made a temperature map", 
+            "dur": "3.82", 
+            "start": "14.799"
+        }, 
+        {
+            "text": "of Mimas, they found that the warmest\nregions, shown here in yellow,", 
+            "dur": "4.25", 
+            "start": "18.619"
+        }, 
+        {
+            "text": "resemble Pac-Man eating the crater", 
+            "dur": "3.41", 
+            "start": "22.869"
+        }, 
+        {
+            "text": "like a dot. I learned about Mimas whilst", 
+            "dur": "3.24", 
+            "start": "26.279"
+        }, 
+        {
+            "text": "surfing the world wide web like a true internaut.", 
+            "dur": "3.421", 
+            "start": "29.519"
+        }, 
+        {
+            "text": "But the Web and the", 
+            "dur": "1.78", 
+            "start": "34.18"
+        }, 
+        {
+            "text": "Internet are different things. The World\nWide Web", 
+            "dur": "3.93", 
+            "start": "35.969"
+        }, 
+        {
+            "text": "and the Internet have names that are\nsimilar shapes but they", 
+            "dur": "4.43", 
+            "start": "39.899"
+        }, 
+        {
+            "text": "catch different things. And, as we will see,", 
+            "dur": "3.55", 
+            "start": "44.329"
+        }, 
+        {
+            "text": "surfing the world wide web is radical", 
+            "dur": "3.391", 
+            "start": "47.879"
+        }, 
+        {
+            "text": "but it&#39;s also apropos. Metaphorically speaking", 
+            "dur": "3.42", 
+            "start": "51.27"
+        }, 
+        {
+            "text": "the web is pretty wet.", 
+            "dur": "3.82", 
+            "start": "54.69"
+        }, 
+        {
+            "text": "Before the web existed, and before the Internet existed,", 
+            "dur": "3.369", 
+            "start": "58.51"
+        }, 
+        {
+            "text": "there were computers but they were big", 
+            "dur": "3.21", 
+            "start": "61.879"
+        }, 
+        {
+            "text": "and lonely. They couldn&#39;t really talk to one another.", 
+            "dur": "3.171", 
+            "start": "65.089"
+        }, 
+        {
+            "text": "I mean, sure, you could connect similar\npieces of hardware that spoke similar", 
+            "dur": "3.84", 
+            "start": "68.26"
+        }, 
+        {
+            "text": "protocols but that was just", 
+            "dur": "1.78", 
+            "start": "72.1"
+        }, 
+        {
+            "text": "a network. To connect disparate global machines", 
+            "dur": "4.559", 
+            "start": "73.88"
+        }, 
+        {
+            "text": "you would need a network of networks.", 
+            "dur": "3.631", 
+            "start": "78.439"
+        }, 
+        {
+            "text": "And in the 1960s a bunch of\nbrilliant minds collaborated on just", 
+            "dur": "4.39", 
+            "start": "82.07"
+        }, 
+        {
+            "text": "such a thing. Now, at the time, the phone\ncompanies weren&#39;t very interested", 
+            "dur": "5.14", 
+            "start": "86.46"
+        }, 
+        {
+            "text": "and because no single institution could\nfoot the entire responsibility", 
+            "dur": "3.839", 
+            "start": "91.6"
+        }, 
+        {
+            "text": "and computing power needed for dedicated lines... Well,", 
+            "dur": "3.601", 
+            "start": "95.439"
+        }, 
+        {
+            "text": "more innovative and efficient methods were used.", 
+            "dur": "3.49", 
+            "start": "99.04"
+        }, 
+        {
+            "text": "A system spanning many nations is international.", 
+            "dur": "4.21", 
+            "start": "102.53"
+        }, 
+        {
+            "text": "So, a system spanning many networks", 
+            "dur": "3.04", 
+            "start": "106.74"
+        }, 
+        {
+            "text": "is an Internetwork. It wouldn&#39;t be until 1974,", 
+            "dur": "5.189", 
+            "start": "109.79"
+        }, 
+        {
+            "text": "in this very document, that the word Internetwork", 
+            "dur": "3.021", 
+            "start": "114.979"
+        }, 
+        {
+            "text": "would be officially shortened to what we\nuse today - Internet.", 
+            "dur": "3.869", 
+            "start": "118"
+        }, 
+        {
+            "text": "On October 29th, 1969,", 
+            "dur": "3.581", 
+            "start": "121.869"
+        }, 
+        {
+            "text": "exactly 100 days after we first", 
+            "dur": "3.13", 
+            "start": "125.45"
+        }, 
+        {
+            "text": "landed on a distant rock across space,", 
+            "dur": "3.15", 
+            "start": "128.58"
+        }, 
+        {
+            "text": "we first landed a letter on a", 
+            "dur": "3.009", 
+            "start": "131.73"
+        }, 
+        {
+            "text": "distant screen across the Internet.\nLeonard Kleinrock and a team at UCLA", 
+            "dur": "5.491", 
+            "start": "134.739"
+        }, 
+        {
+            "text": "decided to send the word", 
+            "dur": "1.7", 
+            "start": "140.23"
+        }, 
+        {
+            "text": "&#39;login&#39; to a different model of computer at Stanford.", 
+            "dur": "3.529", 
+            "start": "141.93"
+        }, 
+        {
+            "text": "They sent the &#39;L&#39; and it arrived. They sent the &#39;O&#39;", 
+            "dur": "4.32", 
+            "start": "145.459"
+        }, 
+        {
+            "text": "and it arrived. And then the system crashed.", 
+            "dur": "3.82", 
+            "start": "149.78"
+        }, 
+        {
+            "text": "But still, the first message sent over an Internet", 
+            "dur": "3.79", 
+            "start": "153.61"
+        }, 
+        {
+            "text": "was a big deal. On a list of\ntechnological achievements it would rank", 
+            "dur": "3.72", 
+            "start": "157.4"
+        }, 
+        {
+            "text": "quite high, even though it was literally", 
+            "dur": "4.18", 
+            "start": "161.12"
+        }, 
+        {
+            "text": "lo... Fast-forward", 
+            "dur": "3.1", 
+            "start": "165.3"
+        }, 
+        {
+            "text": "two decades. CERN is working on a lot of\ndifferent projects with different people", 
+            "dur": "4.71", 
+            "start": "168.4"
+        }, 
+        {
+            "text": "and technologies", 
+            "dur": "1", 
+            "start": "173.11"
+        }, 
+        {
+            "text": "to figure out who or what is doing what...", 
+            "dur": "3", 
+            "start": "174.11"
+        }, 
+        {
+            "text": "You can just look it up on the Internet.\nBut the way information was organized on the internet", 
+            "dur": "5.269", 
+            "start": "177.11"
+        }, 
+        {
+            "text": "was illogical. Based on hierarchies, ", 
+            "dur": "3.75", 
+            "start": "182.379"
+        }, 
+        {
+            "text": "linearly, it was lame. And this annoyed a guy", 
+            "dur": "4.03", 
+            "start": "186.129"
+        }, 
+        {
+            "text": "named Tim Berners-Lee. You see,  you could follow a\ntree for a really long time", 
+            "dur": "4.201", 
+            "start": "190.159"
+        }, 
+        {
+            "text": "only to reach a person or technology\ninvolved in some other project", 
+            "dur": "3.14", 
+            "start": "194.36"
+        }, 
+        {
+            "text": "and for information on that you have to\ngo back to the beginning and start all", 
+            "dur": "3.18", 
+            "start": "197.5"
+        }, 
+        {
+            "text": "over again.", 
+            "dur": "0.9", 
+            "start": "200.68"
+        }, 
+        {
+            "text": "So, in March of 1989, Tim Berners-Lee", 
+            "dur": "3.549", 
+            "start": "201.58"
+        }, 
+        {
+            "text": "wrote a powerful paper simply titled\n&quot;Information management:", 
+            "dur": "4.431", 
+            "start": "205.129"
+        }, 
+        {
+            "text": "A Proposal.&quot; He argued that notes with links,", 
+            "dur": "4.28", 
+            "start": "209.56"
+        }, 
+        {
+            "text": "like references, between them is far more\nuseful than a", 
+            "dur": "3.2", 
+            "start": "213.84"
+        }, 
+        {
+            "text": "fixed hierarchical system. Instead of trees,", 
+            "dur": "3.339", 
+            "start": "217.04"
+        }, 
+        {
+            "text": "Berners-Lee was proposing a web.", 
+            "dur": "3.511", 
+            "start": "220.379"
+        }, 
+        {
+            "text": "Webbed systems that connect documents\nin nonlinear ways already existed.", 
+            "dur": "5.16", 
+            "start": "224.74"
+        }, 
+        {
+            "text": "They were called hypertext.\nBut Tim Berners-Lee", 
+            "dur": "3.759", 
+            "start": "229.9"
+        }, 
+        {
+            "text": "officiated the marriage of hypertext\nwebs and the Internet", 
+            "dur": "4.08", 
+            "start": "233.659"
+        }, 
+        {
+            "text": "to produce a web that was worldwide.\nIt was the vast connected logical and", 
+            "dur": "5.411", 
+            "start": "237.739"
+        }, 
+        {
+            "text": "useful partnership needed to make the\nInternet the most quickly adopted", 
+            "dur": "3.71", 
+            "start": "243.15"
+        }, 
+        {
+            "text": "form of communication in our species&#39; history.", 
+            "dur": "3.099", 
+            "start": "246.86"
+        }, 
+        {
+            "text": "The Internet connects participants,", 
+            "dur": "3.161", 
+            "start": "249.959"
+        }, 
+        {
+            "text": "the web connects information.\nSpecifically", 
+            "dur": "3.899", 
+            "start": "253.12"
+        }, 
+        {
+            "text": "hypertext documents accessed via the Internet.", 
+            "dur": "4.231", 
+            "start": "257.019"
+        }, 
+        {
+            "text": "You can see the computer Tim Berners-Lee\ncreated the world wide web with", 
+            "dur": "4.79", 
+            "start": "261.25"
+        }, 
+        {
+            "text": "in the London Science Museum.\nTwenty-five years ago", 
+            "dur": "3.82", 
+            "start": "266.04"
+        }, 
+        {
+            "text": "if you had unplugged this computer you\nwould have literally shut down", 
+            "dur": "4.87", 
+            "start": "269.87"
+        }, 
+        {
+            "text": "the entire web. The first website", 
+            "dur": "3.54", 
+            "start": "274.74"
+        }, 
+        {
+            "text": "was info.cern.ch. Today it\nprovides a simulator that allows you to", 
+            "dur": "5.53", 
+            "start": "278.28"
+        }, 
+        {
+            "text": "view the web", 
+            "dur": "1.199", 
+            "start": "283.81"
+        }, 
+        {
+            "text": "as it appeared as a baby. We&#39;ve come", 
+            "dur": "3.151", 
+            "start": "285.009"
+        }, 
+        {
+            "text": "a long way since this.\nIf you really want your mind blown,", 
+            "dur": "4.65", 
+            "start": "288.16"
+        }, 
+        {
+            "text": "check out Onesecond[.designly.com] on the web.\nYou can see how many", 
+            "dur": "3.579", 
+            "start": "292.81"
+        }, 
+        {
+            "text": "Facebook likes, Tweets and even e-mails\nare sent every second", 
+            "dur": "3.891", 
+            "start": "296.389"
+        }, 
+        {
+            "text": "and how many have been sent since you\nfirst opened the page.", 
+            "dur": "4.77", 
+            "start": "300.28"
+        }, 
+        {
+            "text": "Isaac Asimov once said that Earth should\nhave been named", 
+            "dur": "3.69", 
+            "start": "305.05"
+        }, 
+        {
+            "text": "ocean because the sea is its dominant", 
+            "dur": "3.39", 
+            "start": "308.74"
+        }, 
+        {
+            "text": "feature. Our oceans are vast", 
+            "dur": "3.379", 
+            "start": "312.13"
+        }, 
+        {
+            "text": "and dangerous and deep and mysterious.\nSo, it&#39;s no mystery that when people needed", 
+            "dur": "4.671", 
+            "start": "315.509"
+        }, 
+        {
+            "text": "a metaphor to describe the Internet", 
+            "dur": "2.23", 
+            "start": "320.18"
+        }, 
+        {
+            "text": "and the seemingly endless and often uncharted", 
+            "dur": "3.68", 
+            "start": "322.41"
+        }, 
+        {
+            "text": "web of hypertext it delivered, they ran for the sea.", 
+            "dur": "4.109", 
+            "start": "326.09"
+        }, 
+        {
+            "text": "We surf the web, navigating", 
+            "dur": "3.111", 
+            "start": "330.199"
+        }, 
+        {
+            "text": "streams of data. There are pirates and\nfloods and phishing.", 
+            "dur": "3.79", 
+            "start": "333.31"
+        }, 
+        {
+            "text": "Even blogs and vlogs have their\nlinguistic origins", 
+            "dur": "3.72", 
+            "start": "337.1"
+        }, 
+        {
+            "text": "in logs - records originally kept by\ncaptains at sea.", 
+            "dur": "4.74", 
+            "start": "340.82"
+        }, 
+        {
+            "text": "Like liquid water, the web is a phenomenal solvent.", 
+            "dur": "3.64", 
+            "start": "345.56"
+        }, 
+        {
+            "text": "It makes material widely accessible and available.", 
+            "dur": "3.88", 
+            "start": "349.21"
+        }, 
+        {
+            "text": "It has been estimated that every web\npage is an average", 
+            "dur": "3.59", 
+            "start": "353.09"
+        }, 
+        {
+            "text": "of only 19 clicks away from every", 
+            "dur": "3.23", 
+            "start": "356.68"
+        }, 
+        {
+            "text": "other web page. Like our oceans,", 
+            "dur": "3.06", 
+            "start": "359.91"
+        }, 
+        {
+            "text": "the web is really just one global", 
+            "dur": "3.4", 
+            "start": "362.97"
+        }, 
+        {
+            "text": "sea. And like our oceans, the web", 
+            "dur": "3.37", 
+            "start": "366.37"
+        }, 
+        {
+            "text": "is an ecosystem we need to be careful to protect.", 
+            "dur": "4.13", 
+            "start": "369.74"
+        }, 
+        {
+            "text": "It is flexible and flowing, and as we are finding out,", 
+            "dur": "4.299", 
+            "start": "373.87"
+        }, 
+        {
+            "text": "the web, like liquid water, is something\nyou can see yourself in.", 
+            "dur": "4.911", 
+            "start": "378.169"
+        }, 
+        {
+            "text": "In the 1990s, Douglas Rushkoff coined the term", 
+            "dur": "3.739", 
+            "start": "383.08"
+        }, 
+        {
+            "text": "screenagers to describe a generation\nthat for the first time ever was growing", 
+            "dur": "4.231", 
+            "start": "386.819"
+        }, 
+        {
+            "text": "up to think that images", 
+            "dur": "1.519", 
+            "start": "391.05"
+        }, 
+        {
+            "text": "on screens weren&#39;t just something to passively stare at,", 
+            "dur": "3.641", 
+            "start": "392.569"
+        }, 
+        {
+            "text": "but, instead, were something to be manipulated.", 
+            "dur": "3.67", 
+            "start": "396.21"
+        }, 
+        {
+            "text": "Well, today it&#39;s even more extreme.", 
+            "dur": "3.09", 
+            "start": "399.88"
+        }, 
+        {
+            "text": "The tools and connectivity, provided by\nthe Web, allow us to think", 
+            "dur": "3.419", 
+            "start": "402.97"
+        }, 
+        {
+            "text": "of images on screens not just as things to manipulate", 
+            "dur": "3.011", 
+            "start": "406.389"
+        }, 
+        {
+            "text": "but as things to project our own identities onto.", 
+            "dur": "4.69", 
+            "start": "409.4"
+        }, 
+        {
+            "text": "Not everyone who does this is a\nprofessional storyteller", 
+            "dur": "4.13", 
+            "start": "414.09"
+        }, 
+        {
+            "text": "or acclaimed poet or coherent.", 
+            "dur": "3.87", 
+            "start": "418.22"
+        }, 
+        {
+            "text": "But, content aside, hyperlinked webs of\nhuman expression are incredibly rich enviroments", 
+            "dur": "6.27", 
+            "start": "422.09"
+        }, 
+        {
+            "text": "and they exercise the brain, more so than books?", 
+            "dur": "4.4", 
+            "start": "428.36"
+        }, 
+        {
+            "text": "Well, for the sake of argument,", 
+            "dur": "2.02", 
+            "start": "433.82"
+        }, 
+        {
+            "text": "let&#39;s read from &quot;Everything Bad is Good for You,&quot;", 
+            "dur": "3.741", 
+            "start": "435.849"
+        }, 
+        {
+            "text": "a book by Steven Johnson. Now, in this passage", 
+            "dur": "3.1", 
+            "start": "439.59"
+        }, 
+        {
+            "text": "he imagines a world in which books were invented", 
+            "dur": "3.319", 
+            "start": "442.69"
+        }, 
+        {
+            "text": "after video games and the World Wide Web.", 
+            "dur": "3.47", 
+            "start": "446.009"
+        }, 
+        {
+            "text": "Kids everywhere are starting to read\nthese new fangled", 
+            "dur": "3.361", 
+            "start": "449.479"
+        }, 
+        {
+            "text": "books and teachers and parents are\nconcerned. He imagines", 
+            "dur": "4.46", 
+            "start": "452.84"
+        }, 
+        {
+            "text": "they might say something like this:", 
+            "dur": "3.23", 
+            "start": "457.3"
+        }, 
+        {
+            "text": "&quot;Perhaps the most dangerous property of these books", 
+            "dur": "3.18", 
+            "start": "460.53"
+        }, 
+        {
+            "text": "is the fact that they follow a fixed linear path.", 
+            "dur": "3.45", 
+            "start": "463.71"
+        }, 
+        {
+            "text": "You can&#39;t control their narratives in\nany fashion. You simply sit back", 
+            "dur": "3.52", 
+            "start": "467.16"
+        }, 
+        {
+            "text": "and have the story dictated to you.", 
+            "dur": "3.22", 
+            "start": "470.68"
+        }, 
+        {
+            "text": "For those of us raised on interactive\nnarratives, this property may seem", 
+            "dur": "4.329", 
+            "start": "473.9"
+        }, 
+        {
+            "text": "astonishing. Why would anyone want to\nembark on an adventure", 
+            "dur": "3.19", 
+            "start": "478.229"
+        }, 
+        {
+            "text": "utterly choreographed by another\nperson?", 
+            "dur": "3.111", 
+            "start": "481.419"
+        }, 
+        {
+            "text": "But today&#39;s generation embarks on such\nadventures", 
+            "dur": "3.389", 
+            "start": "484.53"
+        }, 
+        {
+            "text": "millions of times a day. Reading is not an", 
+            "dur": "3.491", 
+            "start": "487.919"
+        }, 
+        {
+            "text": "active participatory process, it&#39;s a submissive one.", 
+            "dur": "3.9", 
+            "start": "491.41"
+        }, 
+        {
+            "text": "The book readers of the younger\ngeneration are learning", 
+            "dur": "3.079", 
+            "start": "495.31"
+        }, 
+        {
+            "text": "to follow the plot instead of learning to lead.&quot;", 
+            "dur": "4.221", 
+            "start": "498.389"
+        }, 
+        {
+            "text": "Interesting. But you might be thinking, come on,", 
+            "dur": "3.149", 
+            "start": "502.61"
+        }, 
+        {
+            "text": "Michael, you can&#39;t set content aside that easily.", 
+            "dur": "3.321", 
+            "start": "505.759"
+        }, 
+        {
+            "text": "What about all the dumb and superficial\nstuff the web propagates?", 
+            "dur": "3.56", 
+            "start": "509.08"
+        }, 
+        {
+            "text": "I mean, surely a lot of it is just completely\nuseless. We&#39;re humans, after all, we should", 
+            "dur": "4.459", 
+            "start": "512.64"
+        }, 
+        {
+            "text": "be valuing reason. Maybe.", 
+            "dur": "4.919", 
+            "start": "517.1"
+        }, 
+        {
+            "text": "But is that really what makes us special?\nAs Unamuno said,", 
+            "dur": "4.26", 
+            "start": "522.019"
+        }, 
+        {
+            "text": "&quot;more often I have seen a cat reason", 
+            "dur": "3.211", 
+            "start": "526.279"
+        }, 
+        {
+            "text": "than laugh or weep. Perhaps it weeps or laughs", 
+            "dur": "3.26", 
+            "start": "529.49"
+        }, 
+        {
+            "text": "inwardly. But then perhaps, also inwardly,\na crab resolves equations", 
+            "dur": "4.899", 
+            "start": "532.75"
+        }, 
+        {
+            "text": "of the second degree.&quot; What if cheap\nlaughs and sappy poems and gossip and", 
+            "dur": "5.761", 
+            "start": "537.649"
+        }, 
+        {
+            "text": "whining and drama and selfies really are", 
+            "dur": "2.619", 
+            "start": "543.41"
+        }, 
+        {
+            "text": "the most human thing the web has allowed us to do?", 
+            "dur": "4.761", 
+            "start": "546.029"
+        }, 
+        {
+            "text": "That&#39;s deep. But not as deep as the Deep Web,", 
+            "dur": "3.97", 
+            "start": "550.79"
+        }, 
+        {
+            "text": "the hidden web. The part of the web invisible", 
+            "dur": "3.46", 
+            "start": "554.76"
+        }, 
+        {
+            "text": "to search engines. Now, most of this stuff\nis innocuous content hidden behind pay", 
+            "dur": "5.16", 
+            "start": "558.22"
+        }, 
+        {
+            "text": "walls or password protection", 
+            "dur": "1.84", 
+            "start": "563.38"
+        }, 
+        {
+            "text": "or dynamically created web pages. But we haven&#39;t", 
+            "dur": "3.76", 
+            "start": "565.22"
+        }, 
+        {
+            "text": "even indexed this stuff.\nAnd it&#39;s not 1% of the web,", 
+            "dur": "4.02", 
+            "start": "568.98"
+        }, 
+        {
+            "text": "it&#39;s not 10%. It&#39;s 80%", 
+            "dur": "3.35", 
+            "start": "573"
+        }, 
+        {
+            "text": "of the entire World Wide Web.", 
+            "dur": "3.109", 
+            "start": "576.35"
+        }, 
+        {
+            "text": "The web is a deep ocean", 
+            "dur": "3.25", 
+            "start": "579.459"
+        }, 
+        {
+            "text": "and we are frantically making waves in it.\nFor instance, take a look at real time", 
+            "dur": "4.231", 
+            "start": "582.709"
+        }, 
+        {
+            "text": "emoji usage on Twitter and say a few\nwords of encouragement to be", 
+            "dur": "5", 
+            "start": "586.94"
+        }, 
+        {
+            "text": "least popular emoji.\nWe are also exploring the web", 
+            "dur": "4.579", 
+            "start": "591.94"
+        }, 
+        {
+            "text": "frantically. It&#39;s an entirely new\nfrontier. Every single day", 
+            "dur": "4.171", 
+            "start": "596.519"
+        }, 
+        {
+            "text": "Google receives 500 million search queries", 
+            "dur": "3.709", 
+            "start": "600.69"
+        }, 
+        {
+            "text": "it has never been asked before.", 
+            "dur": "4.271", 
+            "start": "604.399"
+        }, 
+        {
+            "text": "Where will all of this exploration lead?", 
+            "dur": "3.609", 
+            "start": "608.67"
+        }, 
+        {
+            "text": "Who knows? But to go back to our metaphor,\nthe very same suits we built to explore", 
+            "dur": "5.341", 
+            "start": "612.279"
+        }, 
+        {
+            "text": "the depths of the ocean", 
+            "dur": "1.98", 
+            "start": "617.62"
+        }, 
+        {
+            "text": "inspired and enabled the suits we would later use", 
+            "dur": "3.31", 
+            "start": "619.6"
+        }, 
+        {
+            "text": "to go beyond Earth. So, keep exploring,", 
+            "dur": "4.299", 
+            "start": "622.91"
+        }, 
+        {
+            "text": "keep surfing.", 
+            "dur": "1.28", 
+            "start": "627.209"
+        }, 
+        {
+            "text": "And as always,", 
+            "dur": "1", 
+            "start": "628.54"
+        }, 
+        {
+            "text": "thanks for watching.", 
+            "dur": "1.66", 
+            "start": "629.54"
+        }
+    ], 
+    "title": "The Web Is Not The Net", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0828v", 
+        "/m/03rlt", 
+        "/m/0m0klzj"
+    ], 
+    "raw_score": 1618, 
+    "number_views": 2596782, 
+    "categories": [
+        28
+    ]
+}

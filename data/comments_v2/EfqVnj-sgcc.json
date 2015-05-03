@@ -1,0 +1,500 @@
+{
+    "publish_date": "2013-04-15T15:05:55.000Z", 
+    "score": 0.0006065267553016152, 
+    "video_length": "PT4M12S", 
+    "captions": [
+        {
+            "text": "This is Zeno of Elea,", 
+            "dur": "1.775", 
+            "start": "15.096"
+        }, 
+        {
+            "text": "an ancient Greek philosopher", 
+            "dur": "1.506", 
+            "start": "16.871"
+        }, 
+        {
+            "text": "famous for inventing a number of paradoxes,", 
+            "dur": "2.665", 
+            "start": "18.377"
+        }, 
+        {
+            "text": "arguments that seem logical,", 
+            "dur": "1.518", 
+            "start": "21.042"
+        }, 
+        {
+            "text": "but whose conclusion is absurd or contradictory.", 
+            "dur": "3.219", 
+            "start": "22.56"
+        }, 
+        {
+            "text": "For more than 2,000 years,", 
+            "dur": "1.404", 
+            "start": "25.779"
+        }, 
+        {
+            "text": "Zeno&#39;s mind-bending riddles have inspired", 
+            "dur": "2.511", 
+            "start": "27.183"
+        }, 
+        {
+            "text": "mathematicians and philosophers", 
+            "dur": "1.616", 
+            "start": "29.694"
+        }, 
+        {
+            "text": "to better understand the nature of infinity.", 
+            "dur": "2.436", 
+            "start": "31.31"
+        }, 
+        {
+            "text": "One of the best known of Zeno&#39;s problems", 
+            "dur": "1.779", 
+            "start": "33.746"
+        }, 
+        {
+            "text": "is called the dichotomy paradox,", 
+            "dur": "2.216", 
+            "start": "35.525"
+        }, 
+        {
+            "text": "which means, &quot;the paradox of cutting in two&quot; in ancient Greek.", 
+            "dur": "3.786", 
+            "start": "37.741"
+        }, 
+        {
+            "text": "It goes something like this:", 
+            "dur": "1.788", 
+            "start": "41.527"
+        }, 
+        {
+            "text": "After a long day of sitting around, thinking,", 
+            "dur": "2.839", 
+            "start": "43.315"
+        }, 
+        {
+            "text": "Zeno decides to walk from his house to the park.", 
+            "dur": "2.796", 
+            "start": "46.154"
+        }, 
+        {
+            "text": "The fresh air clears his mind", 
+            "dur": "1.447", 
+            "start": "48.95"
+        }, 
+        {
+            "text": "and help him think better.", 
+            "dur": "1.523", 
+            "start": "50.397"
+        }, 
+        {
+            "text": "In order to get to the park,", 
+            "dur": "1.155", 
+            "start": "51.92"
+        }, 
+        {
+            "text": "he first has to get half way to the park.", 
+            "dur": "2.353", 
+            "start": "53.075"
+        }, 
+        {
+            "text": "This portion of his journey", 
+            "dur": "1.173", 
+            "start": "55.428"
+        }, 
+        {
+            "text": "takes some finite amount of time.", 
+            "dur": "1.842", 
+            "start": "56.601"
+        }, 
+        {
+            "text": "Once he gets to the halfway point,", 
+            "dur": "2.009", 
+            "start": "58.443"
+        }, 
+        {
+            "text": "he needs to walk half the remaining distance.", 
+            "dur": "2.389", 
+            "start": "60.452"
+        }, 
+        {
+            "text": "Again, this takes a finite amount of time.", 
+            "dur": "3.027", 
+            "start": "62.841"
+        }, 
+        {
+            "text": "Once he gets there, he still needs to walk", 
+            "dur": "2.272", 
+            "start": "65.868"
+        }, 
+        {
+            "text": "half the distance that&#39;s left,", 
+            "dur": "1.742", 
+            "start": "68.14"
+        }, 
+        {
+            "text": "which takes another finite amount of time.", 
+            "dur": "2.489", 
+            "start": "69.882"
+        }, 
+        {
+            "text": "This happens again and again and again.", 
+            "dur": "3.151", 
+            "start": "72.371"
+        }, 
+        {
+            "text": "You can see that we can keep going like this forever,", 
+            "dur": "2.673", 
+            "start": "75.522"
+        }, 
+        {
+            "text": "dividing whatever distance is left", 
+            "dur": "1.662", 
+            "start": "78.195"
+        }, 
+        {
+            "text": "into smaller and smaller pieces,", 
+            "dur": "1.915", 
+            "start": "79.857"
+        }, 
+        {
+            "text": "each of which takes some finite time to traverse.", 
+            "dur": "3.506", 
+            "start": "81.772"
+        }, 
+        {
+            "text": "So, how long does it take Zeno to get to the park?", 
+            "dur": "2.68", 
+            "start": "85.278"
+        }, 
+        {
+            "text": "Well, to find out, you need to add the times", 
+            "dur": "2.359", 
+            "start": "87.958"
+        }, 
+        {
+            "text": "of each of the pieces of the journey.", 
+            "dur": "1.967", 
+            "start": "90.317"
+        }, 
+        {
+            "text": "The problem is, there are infinitely many of these finite-sized pieces.", 
+            "dur": "4.332", 
+            "start": "92.284"
+        }, 
+        {
+            "text": "So, shouldn&#39;t the total time be infinity?", 
+            "dur": "3.134", 
+            "start": "96.616"
+        }, 
+        {
+            "text": "This argument, by the way, is completely general.", 
+            "dur": "2.798", 
+            "start": "99.75"
+        }, 
+        {
+            "text": "It says that traveling from any location to any other location", 
+            "dur": "2.544", 
+            "start": "102.548"
+        }, 
+        {
+            "text": "should take an infinite amount of time.", 
+            "dur": "2.162", 
+            "start": "105.092"
+        }, 
+        {
+            "text": "In other words, it says that all motion is impossible.", 
+            "dur": "3.752", 
+            "start": "107.254"
+        }, 
+        {
+            "text": "This conclusion is clearly absurd,", 
+            "dur": "1.779", 
+            "start": "111.006"
+        }, 
+        {
+            "text": "but where is the flaw in the logic?", 
+            "dur": "1.999", 
+            "start": "112.785"
+        }, 
+        {
+            "text": "To resolve the paradox,", 
+            "dur": "1.182", 
+            "start": "114.784"
+        }, 
+        {
+            "text": "it helps to turn the story into a math problem.", 
+            "dur": "2.765", 
+            "start": "115.966"
+        }, 
+        {
+            "text": "Let&#39;s supposed that Zeno&#39;s house is one mile from the park", 
+            "dur": "2.887", 
+            "start": "118.731"
+        }, 
+        {
+            "text": "and that Zeno walks at one mile per hour.", 
+            "dur": "2.723", 
+            "start": "121.618"
+        }, 
+        {
+            "text": "Common sense tells us that the time for the journey", 
+            "dur": "2.351", 
+            "start": "124.341"
+        }, 
+        {
+            "text": "should be one hour.", 
+            "dur": "1.513", 
+            "start": "126.692"
+        }, 
+        {
+            "text": "But, let&#39;s look at things from Zeno&#39;s point of view", 
+            "dur": "2.662", 
+            "start": "128.205"
+        }, 
+        {
+            "text": "and divide up the journey into pieces.", 
+            "dur": "2.329", 
+            "start": "130.867"
+        }, 
+        {
+            "text": "The first half of the journey takes half an hour,", 
+            "dur": "2.46", 
+            "start": "133.196"
+        }, 
+        {
+            "text": "the next part takes quarter of an hour,", 
+            "dur": "2.126", 
+            "start": "135.656"
+        }, 
+        {
+            "text": "the third part takes an eighth of an hour,", 
+            "dur": "2.282", 
+            "start": "137.782"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "0.905", 
+            "start": "140.064"
+        }, 
+        {
+            "text": "Summing up all these times,", 
+            "dur": "1.297", 
+            "start": "140.969"
+        }, 
+        {
+            "text": "we get a series that looks like this.", 
+            "dur": "2.106", 
+            "start": "142.266"
+        }, 
+        {
+            "text": "&quot;Now&quot;, Zeno might say,", 
+            "dur": "1.252", 
+            "start": "144.372"
+        }, 
+        {
+            "text": "&quot;since there are infinitely many of terms", 
+            "dur": "2.34", 
+            "start": "145.624"
+        }, 
+        {
+            "text": "on the right side of the equation,", 
+            "dur": "1.657", 
+            "start": "147.964"
+        }, 
+        {
+            "text": "and each individual term is finite,", 
+            "dur": "2.262", 
+            "start": "149.621"
+        }, 
+        {
+            "text": "the sum should equal infinity, right?&quot;", 
+            "dur": "2.635", 
+            "start": "151.883"
+        }, 
+        {
+            "text": "This is the problem with Zeno&#39;s argument.", 
+            "dur": "2.152", 
+            "start": "154.518"
+        }, 
+        {
+            "text": "As mathematicians have since realized,", 
+            "dur": "2.185", 
+            "start": "156.67"
+        }, 
+        {
+            "text": "it is possible to add up infinitely many finite-sized terms", 
+            "dur": "3.763", 
+            "start": "158.855"
+        }, 
+        {
+            "text": "and still get a finite answer.", 
+            "dur": "2.196", 
+            "start": "162.618"
+        }, 
+        {
+            "text": "&quot;How?&quot; you ask.", 
+            "dur": "1.175", 
+            "start": "164.814"
+        }, 
+        {
+            "text": "Well, let&#39;s think of it this way.", 
+            "dur": "1.497", 
+            "start": "165.989"
+        }, 
+        {
+            "text": "Let&#39;s start with a square that has area of one meter.", 
+            "dur": "2.904", 
+            "start": "167.486"
+        }, 
+        {
+            "text": "Now let&#39;s chop the square in half,", 
+            "dur": "2.138", 
+            "start": "170.39"
+        }, 
+        {
+            "text": "and then chop the remaining half in half,", 
+            "dur": "2.381", 
+            "start": "172.528"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.263", 
+            "start": "174.909"
+        }, 
+        {
+            "text": "While we&#39;re doing this,", 
+            "dur": "1.067", 
+            "start": "176.172"
+        }, 
+        {
+            "text": "let&#39;s keep track of the areas of the pieces.", 
+            "dur": "3.141", 
+            "start": "177.239"
+        }, 
+        {
+            "text": "The first slice makes two parts,", 
+            "dur": "1.789", 
+            "start": "180.38"
+        }, 
+        {
+            "text": "each with an area of one-half", 
+            "dur": "1.859", 
+            "start": "182.169"
+        }, 
+        {
+            "text": "The next slice divides one of those halves in half,", 
+            "dur": "2.517", 
+            "start": "184.028"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.251", 
+            "start": "186.545"
+        }, 
+        {
+            "text": "But, no matter how many times we slice up the boxes,", 
+            "dur": "2.431", 
+            "start": "187.796"
+        }, 
+        {
+            "text": "the total area is still the sum of the areas of all the pieces.", 
+            "dur": "4.587", 
+            "start": "190.227"
+        }, 
+        {
+            "text": "Now you can see why we choose this particular way", 
+            "dur": "2.628", 
+            "start": "194.814"
+        }, 
+        {
+            "text": "of cutting up the square.", 
+            "dur": "1.529", 
+            "start": "197.442"
+        }, 
+        {
+            "text": "We&#39;ve obtained the same infinite series", 
+            "dur": "1.917", 
+            "start": "198.971"
+        }, 
+        {
+            "text": "as we had for the time of Zeno&#39;s journey.", 
+            "dur": "2.468", 
+            "start": "200.888"
+        }, 
+        {
+            "text": "As we construct more and more blue pieces,", 
+            "dur": "2.435", 
+            "start": "203.356"
+        }, 
+        {
+            "text": "to use the math jargon,", 
+            "dur": "1.523", 
+            "start": "205.791"
+        }, 
+        {
+            "text": "as we take the limit as n tends to infinity,", 
+            "dur": "3.428", 
+            "start": "207.314"
+        }, 
+        {
+            "text": "the entire square becomes covered with blue.", 
+            "dur": "2.614", 
+            "start": "210.742"
+        }, 
+        {
+            "text": "But the area of the square is just one unit,", 
+            "dur": "2.071", 
+            "start": "213.356"
+        }, 
+        {
+            "text": "and so the infinite sum must equal one.", 
+            "dur": "3.273", 
+            "start": "215.427"
+        }, 
+        {
+            "text": "Going back to Zeno&#39;s journey,", 
+            "dur": "1.054", 
+            "start": "218.7"
+        }, 
+        {
+            "text": "we can now see how how the paradox is resolved.", 
+            "dur": "2.616", 
+            "start": "219.754"
+        }, 
+        {
+            "text": "Not only does the infinite series sum to a finite answer,", 
+            "dur": "3.343", 
+            "start": "222.37"
+        }, 
+        {
+            "text": "but that finite answer is the same one", 
+            "dur": "2.032", 
+            "start": "225.713"
+        }, 
+        {
+            "text": "that common sense tells us is true.", 
+            "dur": "2.427", 
+            "start": "227.745"
+        }, 
+        {
+            "text": "Zeno&#39;s journey takes one hour.", 
+            "dur": "2.705", 
+            "start": "230.172"
+        }
+    ], 
+    "title": "What is Zeno's Dichotomy Paradox? - Colm Kelleher", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/089st", 
+        "/m/062_5", 
+        "/m/02gxw0", 
+        "/m/01236p"
+    ], 
+    "raw_score": 138, 
+    "number_views": 227525, 
+    "categories": [
+        27
+    ]
+}

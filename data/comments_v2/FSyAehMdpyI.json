@@ -1,0 +1,875 @@
+{
+    "publish_date": "2013-02-12T01:16:16.000Z", 
+    "score": 0.0003462909422302175, 
+    "video_length": "PT10M12S", 
+    "captions": [
+        {
+            "text": "Hello, I&#39;m Hank Green and I want to teach you chemistry. But please,", 
+            "dur": "3.63", 
+            "start": "0.21"
+        }, 
+        {
+            "text": "do not run away screaming. If you give me five minutes to try to convince you that", 
+            "dur": "3.97", 
+            "start": "3.84"
+        }, 
+        {
+            "text": "chemistry is not torture, but instead", 
+            "dur": "2.329", 
+            "start": "7.81"
+        }, 
+        {
+            "text": "the amazing and beautiful science of stuff. And if you give it a chance", 
+            "dur": "4.061", 
+            "start": "10.139"
+        }, 
+        {
+            "text": "it will not only blow your mind but also give you a deeper understanding of", 
+            "dur": "4.07", 
+            "start": "14.2"
+        }, 
+        {
+            "text": "your world. This is just my opinion here,", 
+            "dur": "2.089", 
+            "start": "18.27"
+        }, 
+        {
+            "text": "but I think that understanding the world leads to greater ability to enjoy the", 
+            "dur": "3.311", 
+            "start": "20.359"
+        }, 
+        {
+            "text": "world and there&#39;s nothing that helps you understand the world better than chemistry.", 
+            "dur": "4.17", 
+            "start": "23.67"
+        }, 
+        {
+            "text": "Chemistry holds the secrets to how life first formed, how cancers are cured, how", 
+            "dur": "4.879", 
+            "start": "27.84"
+        }, 
+        {
+            "text": "iPhones have bigger hard drives than 5 year old laptops", 
+            "dur": "3.581", 
+            "start": "32.719"
+        }, 
+        {
+            "text": "and how life on this planet might just be able to continue thriving,", 
+            "dur": "4.71", 
+            "start": "36.3"
+        }, 
+        {
+            "text": "even ours, if we play our cards right. Chemistry is the science of how three", 
+            "dur": "4.72", 
+            "start": "41.01"
+        }, 
+        {
+            "text": "tiny particles, the proton, the neutron and the electron", 
+            "dur": "3.16", 
+            "start": "45.73"
+        }, 
+        {
+            "text": "came together in trillions of combinations to form,", 
+            "dur": "3.66", 
+            "start": "48.89"
+        }, 
+        {
+            "text": "get this, everything. Now chemistry is a peculiar science, sometimes talked", 
+            "dur": "5.07", 
+            "start": "52.55"
+        }, 
+        {
+            "text": "about as a bridge between the ultra abstract world of particle physics and", 
+            "dur": "3.7", 
+            "start": "57.62"
+        }, 
+        {
+            "text": "the more visible sciences like biology.", 
+            "dur": "2.379", 
+            "start": "61.32"
+        }, 
+        {
+            "text": "But calling chemistry a bridge is like calling Eurasia an island.", 
+            "dur": "4.591", 
+            "start": "63.699"
+        }, 
+        {
+            "text": "Chemistry has it all, mad scientists, world changing revelations, the practical,", 
+            "dur": "5.1", 
+            "start": "68.29"
+        }, 
+        {
+            "text": "the impractical, medicine, bombs, food, beauty, destruction, life and death,", 
+            "dur": "4.67", 
+            "start": "73.39"
+        }, 
+        {
+            "text": "answers to questions you never knew you had.", 
+            "dur": "2.88", 
+            "start": "78.06"
+        }, 
+        {
+            "text": "I love chemistry, and I hope I can give you a glimpse into why.", 
+            "dur": "4.38", 
+            "start": "80.94"
+        }, 
+        {
+            "text": "So today, let&#39;s start out with maybe the biggest idea of all time, and move on", 
+            "dur": "4.72", 
+            "start": "85.32"
+        }, 
+        {
+            "text": "from there: stuff is made from atoms.", 
+            "dur": "2.86", 
+            "start": "90.04"
+        }, 
+        {
+            "text": "[Intro]", 
+            "dur": "11.4", 
+            "start": "92.9"
+        }, 
+        {
+            "text": "I know, you aren&#39;t shocked, you aren&#39;t awed, you might not even be paying attention any more,", 
+            "dur": "5.08", 
+            "start": "104.42"
+        }, 
+        {
+            "text": "but when atomic theory was first proposed, it sounded", 
+            "dur": "3.33", 
+            "start": "109.5"
+        }, 
+        {
+            "text": "pretty crazy. And yes, we call it &#39;Atomic Theory&#39;, using the scientific definition of theory,", 
+            "dur": "5.21", 
+            "start": "112.83"
+        }, 
+        {
+            "text": "which is &quot;a well-tested set of ideas that explains many disparate", 
+            "dur": "3.62", 
+            "start": "118.04"
+        }, 
+        {
+            "text": "observations&quot;, not the colloquial definition of theory, which is", 
+            "dur": "3.39", 
+            "start": "121.66"
+        }, 
+        {
+            "text": "&quot;a guess.&quot; But luckily there&#39;s no-one running around any more saying", 
+            "dur": "3.01", 
+            "start": "125.05"
+        }, 
+        {
+            "text": "&quot;atoms are just a theory.&quot; But it wasn&#39;t that long ago that people were running around", 
+            "dur": "3.26", 
+            "start": "128.06"
+        }, 
+        {
+            "text": "saying that. You wanna know who settled it for good?", 
+            "dur": "2.95", 
+            "start": "131.32"
+        }, 
+        {
+            "text": "Einstein! Atoms had been postulated for a long time by the 20th century, but it", 
+            "dur": "4.89", 
+            "start": "134.27"
+        }, 
+        {
+            "text": "wasn&#39;t until Einstein mathematically proved the existence", 
+            "dur": "3.36", 
+            "start": "139.16"
+        }, 
+        {
+            "text": "of atoms and molecules in 1905 that the matter was truly settled.", 
+            "dur": "4.22", 
+            "start": "142.52"
+        }, 
+        {
+            "text": "And you thought Einstein was all about relativity and E=mc2, he also", 
+            "dur": "3.86", 
+            "start": "146.74"
+        }, 
+        {
+            "text": "proved atoms exist!  Here&#39;s how it happened. In 1827,", 
+            "dur": "4.06", 
+            "start": "150.6"
+        }, 
+        {
+            "text": "a botanist named Robert Brown was looking at pollen grains in water", 
+            "dur": "3.52", 
+            "start": "154.66"
+        }, 
+        {
+            "text": "through a microscope and he noticed", 
+            "dur": "2.03", 
+            "start": "158.18"
+        }, 
+        {
+            "text": "that they jiggled randomly even when there was no movement to cause the jiggling.", 
+            "dur": "4.48", 
+            "start": "160.21"
+        }, 
+        {
+            "text": "It was a mystery for a long time, until 1905 when Einstein theorized that", 
+            "dur": "5.39", 
+            "start": "164.69"
+        }, 
+        {
+            "text": "this phenomenon was caused by as-yet-unproven", 
+            "dur": "2.86", 
+            "start": "170.08"
+        }, 
+        {
+            "text": "atomic particles actually smacking into the grains of pollen.", 
+            "dur": "3.66", 
+            "start": "172.94"
+        }, 
+        {
+            "text": "He wrote up some fancy math, showing that his theory predicted this motion almost perfectly,", 
+            "dur": "5.38", 
+            "start": "176.6"
+        }, 
+        {
+            "text": "and everyone had to concede that yes, tiny", 
+            "dur": "3.161", 
+            "start": "181.989"
+        }, 
+        {
+            "text": "discrete bits of matter were indeed smacking into the pollen,", 
+            "dur": "3.73", 
+            "start": "185.15"
+        }, 
+        {
+            "text": "and thus molecules, and by extension atoms, must exist.", 
+            "dur": "3.859", 
+            "start": "188.88"
+        }, 
+        {
+            "text": "Today, we remember this botanist and his discovery by calling the motion he observed", 
+            "dur": "4.701", 
+            "start": "192.739"
+        }, 
+        {
+            "text": "Brownian motion. It&#39;s kinda crazy that every physical thing you&#39;ve ever", 
+            "dur": "4.019", 
+            "start": "197.44"
+        }, 
+        {
+            "text": "interacted with is made up of little", 
+            "dur": "1.991", 
+            "start": "201.459"
+        }, 
+        {
+            "text": "ball thingies. It started with people wondering what would happen if you just", 
+            "dur": "4.69", 
+            "start": "203.45"
+        }, 
+        {
+            "text": "kept slicing something in half forever.", 
+            "dur": "2.19", 
+            "start": "208.14"
+        }, 
+        {
+            "text": "Eventually, and of course it turns out that there&#39;s no knife sharp enough to do", 
+            "dur": "2.78", 
+            "start": "210.33"
+        }, 
+        {
+            "text": "this, you end up with one,", 
+            "dur": "1.31", 
+            "start": "213.11"
+        }, 
+        {
+            "text": "pure, unbreakable bit of that substance. The word &quot;atom&quot;,", 
+            "dur": "3.52", 
+            "start": "214.42"
+        }, 
+        {
+            "text": "indeed, is from the Greek for &quot;indivisible&quot;, though, of course, as we learned in World War II,", 
+            "dur": "5.16", 
+            "start": "217.94"
+        }, 
+        {
+            "text": "atoms can be broken as well. So all the stuff that we think of as stuff", 
+            "dur": "3.8", 
+            "start": "223.1"
+        }, 
+        {
+            "text": "is made of atoms, tiny discrete particles that have specific properties depending", 
+            "dur": "4.059", 
+            "start": "226.9"
+        }, 
+        {
+            "text": "on the arrangement", 
+            "dur": "0.921", 
+            "start": "230.959"
+        }, 
+        {
+            "text": "of three simple subatomic particles. There&#39;s the proton, heavy and positively", 
+            "dur": "5.5", 
+            "start": "231.88"
+        }, 
+        {
+            "text": "charged, the neutron, about the same size as the proton but neutral,", 
+            "dur": "3.84", 
+            "start": "237.38"
+        }, 
+        {
+            "text": "and the electron, which has the same amount of charge as the proton,", 
+            "dur": "3.47", 
+            "start": "241.22"
+        }, 
+        {
+            "text": "just opposite, and very nearly has no mass at all, about", 
+            "dur": "3.47", 
+            "start": "244.69"
+        }, 
+        {
+            "text": "1800 times less massive than the proton or neutron. Protons and", 
+            "dur": "3.28", 
+            "start": "248.16"
+        }, 
+        {
+            "text": "neutrons hang out in the nucleus, and thus are the nuclear components or nucleons;", 
+            "dur": "4.36", 
+            "start": "251.44"
+        }, 
+        {
+            "text": "electrons hang out around the nucleus and are the parts of the atom that do all", 
+            "dur": "3.619", 
+            "start": "255.8"
+        }, 
+        {
+            "text": "the interesting chemical stuff. But before we get to the chemistry of the", 
+            "dur": "2.741", 
+            "start": "259.419"
+        }, 
+        {
+            "text": "electrons, we first", 
+            "dur": "1.22", 
+            "start": "262.16"
+        }, 
+        {
+            "text": "have got to understand the properties of the nucleus. Okay, this is pretty important,", 
+            "dur": "4.27", 
+            "start": "263.38"
+        }, 
+        {
+            "text": "so pay attention here. The number of protons in an atom", 
+            "dur": "2.78", 
+            "start": "267.65"
+        }, 
+        {
+            "text": "determines what element it is. 79 protons:", 
+            "dur": "3.78", 
+            "start": "270.43"
+        }, 
+        {
+            "text": "always gold. 59 protons: always praseodymium. The number of protons in an element", 
+            "dur": "6.079", 
+            "start": "274.21"
+        }, 
+        {
+            "text": "is its atomic number,", 
+            "dur": "1.221", 
+            "start": "280.289"
+        }, 
+        {
+            "text": "it sits right on top of the box in the periodic table because that is the", 
+            "dur": "2.909", 
+            "start": "281.51"
+        }, 
+        {
+            "text": "element&#39;s defining trait.", 
+            "dur": "1.641", 
+            "start": "284.419"
+        }, 
+        {
+            "text": "So an atom of silver with 47 protons in its nucleus is always an atom of silver.", 
+            "dur": "4.76", 
+            "start": "286.06"
+        }, 
+        {
+            "text": "Depending on what its electrons are doing and what it&#39;s bonded to, it might be", 
+            "dur": "3.3", 
+            "start": "290.82"
+        }, 
+        {
+            "text": "part of a chemical that&#39;s silver-colored or black or blue or shiny or poisonous", 
+            "dur": "4.02", 
+            "start": "294.12"
+        }, 
+        {
+            "text": "or a cure for disease,", 
+            "dur": "1.41", 
+            "start": "298.14"
+        }, 
+        {
+            "text": "but whatever it is, that atom is still silver", 
+            "dur": "3.239", 
+            "start": "299.55"
+        }, 
+        {
+            "text": "and will remain an atom of silver probably forever,", 
+            "dur": "3.071", 
+            "start": "302.789"
+        }, 
+        {
+            "text": "because that core number is very, very difficult to change. Now you might have noticed something", 
+            "dur": "4.309", 
+            "start": "305.86"
+        }, 
+        {
+            "text": "weird about silver here: its chemical symbol, the one or two-letter short code", 
+            "dur": "4.341", 
+            "start": "310.169"
+        }, 
+        {
+            "text": "that tells you what it is,", 
+            "dur": "1.29", 
+            "start": "314.51"
+        }, 
+        {
+            "text": "is Ag, not Si, which is silicon, or", 
+            "dur": "3.429", 
+            "start": "315.8"
+        }, 
+        {
+            "text": "Sv which is perfectly available, but Ag.", 
+            "dur": "3.88", 
+            "start": "319.229"
+        }, 
+        {
+            "text": "Why? To torture you? No.", 
+            "dur": "3.091", 
+            "start": "323.109"
+        }, 
+        {
+            "text": "Silver, of course, because we&#39;ve known about it for a long time, was one of the first", 
+            "dur": "3.03", 
+            "start": "326.21"
+        }, 
+        {
+            "text": "elements added to the periodic table, and back then", 
+            "dur": "2.72", 
+            "start": "329.25"
+        }, 
+        {
+            "text": "it was called &quot;argentum&quot;, Latin for &quot;shiny gray stuff&quot;,", 
+            "dur": "3.83", 
+            "start": "331.97"
+        }, 
+        {
+            "text": "also, the root of the word &quot;Argentina&quot;, where Spanish explorers heard rumors", 
+            "dur": "4.489", 
+            "start": "335.8"
+        }, 
+        {
+            "text": "of mountains made of silver, which of course did not exist.", 
+            "dur": "3.341", 
+            "start": "340.289"
+        }, 
+        {
+            "text": "The name &quot;Argentina&quot;, just like the chemical symbol", 
+            "dur": "3.14", 
+            "start": "343.63"
+        }, 
+        {
+            "text": "&quot;Ag&quot;, stuck, despite neither of them being particularly representative", 
+            "dur": "4.209", 
+            "start": "346.77"
+        }, 
+        {
+            "text": "of reality. Now, back to science.", 
+            "dur": "2.26", 
+            "start": "350.979"
+        }, 
+        {
+            "text": "Nuclei, which is the plural of nucleus, are boring. They&#39;re thousands of times smaller than", 
+            "dur": "4.62", 
+            "start": "353.24"
+        }, 
+        {
+            "text": "the atom as a whole, and they mostly just sit around being exactly the same as", 
+            "dur": "4.26", 
+            "start": "357.87"
+        }, 
+        {
+            "text": "they were when they were first created billions of years ago,", 
+            "dur": "2.96", 
+            "start": "362.13"
+        }, 
+        {
+            "text": "held together by the strongest of the four fundamental forces of physics,", 
+            "dur": "3.579", 
+            "start": "365.09"
+        }, 
+        {
+            "text": "the strong nuclear force. The fact that nuclei are so boring is the very reason they are the", 
+            "dur": "3.951", 
+            "start": "368.669"
+        }, 
+        {
+            "text": "defining characteristic of elements.", 
+            "dur": "1.81", 
+            "start": "372.62"
+        }, 
+        {
+            "text": "While electrons can jump from atom to atom whenever it&#39;s convenient, the number of protons", 
+            "dur": "4.289", 
+            "start": "374.43"
+        }, 
+        {
+            "text": "is almost always extremely stable. So that core of the atom, the nucleus, always", 
+            "dur": "4.341", 
+            "start": "378.719"
+        }, 
+        {
+            "text": "comes out of chemical reactions unscathed.", 
+            "dur": "2.5", 
+            "start": "383.06"
+        }, 
+        {
+            "text": "It&#39;s the bit that we can bump around from reaction to reaction but always", 
+            "dur": "3.2", 
+            "start": "385.56"
+        }, 
+        {
+            "text": "remains pure and behaves the same way as any other atom with that number of protons.", 
+            "dur": "4.64", 
+            "start": "388.76"
+        }, 
+        {
+            "text": "The atomic number is the soul of the atom. It&#39;s what makes", 
+            "dur": "3.271", 
+            "start": "393.409"
+        }, 
+        {
+            "text": "it it. Neutrons are important too, of course, in their own way,", 
+            "dur": "3.919", 
+            "start": "396.68"
+        }, 
+        {
+            "text": "but they don&#39;t change what element an atom is. One of the two keys to all things chemical is", 
+            "dur": "4.86", 
+            "start": "400.6"
+        }, 
+        {
+            "text": "charge, we&#39;ll discuss that in another episode, and since neutrons don&#39;t have any", 
+            "dur": "3.879", 
+            "start": "405.46"
+        }, 
+        {
+            "text": "charge, they mostly don&#39;t change the properties of an atom. But they are,", 
+            "dur": "3.2", 
+            "start": "409.339"
+        }, 
+        {
+            "text": "nonetheless, vital.", 
+            "dur": "1.281", 
+            "start": "412.539"
+        }, 
+        {
+            "text": "We all know that like charges repel each other. Neutrons serve as a kind of buffer", 
+            "dur": "4.13", 
+            "start": "413.82"
+        }, 
+        {
+            "text": "between the protons. You couldn&#39;t pack silver&#39;s 47 protons together in the", 
+            "dur": "3.99", 
+            "start": "417.95"
+        }, 
+        {
+            "text": "nucleus by themselves.", 
+            "dur": "1.44", 
+            "start": "421.94"
+        }, 
+        {
+            "text": "They couldn&#39;t handle it; they&#39;d rip themselves apart. So nuclei only clump", 
+            "dur": "3.589", 
+            "start": "423.38"
+        }, 
+        {
+            "text": "together permanently", 
+            "dur": "1.19", 
+            "start": "426.969"
+        }, 
+        {
+            "text": "when the right number of protons and neutrons get together. Silver", 
+            "dur": "3.481", 
+            "start": "428.159"
+        }, 
+        {
+            "text": "needs about 60 neutrons to space out the 47 protons correctly.", 
+            "dur": "3.94", 
+            "start": "431.64"
+        }, 
+        {
+            "text": "But it doesn&#39;t have to be 60. In fact, silver nuclei are also very stable with 62 neutrons.", 
+            "dur": "5.02", 
+            "start": "435.58"
+        }, 
+        {
+            "text": "61 though, that doesn&#39;t work, and the reasons for that,", 
+            "dur": "3.65", 
+            "start": "440.61"
+        }, 
+        {
+            "text": "I don&#39;t know, you would have to talk to a nuclear physicist. The atomic number of", 
+            "dur": "3.899", 
+            "start": "444.26"
+        }, 
+        {
+            "text": "silver doesn&#39;t change as the number of neutrons changes because the number of", 
+            "dur": "3.421", 
+            "start": "448.159"
+        }, 
+        {
+            "text": "protons stays the same.", 
+            "dur": "1.889", 
+            "start": "451.58"
+        }, 
+        {
+            "text": "But the relative atomic mass does change. Relative atomic mass, which used to be", 
+            "dur": "4.281", 
+            "start": "453.469"
+        }, 
+        {
+            "text": "called atomic weight back when I was in school, is basically the number of", 
+            "dur": "2.94", 
+            "start": "457.75"
+        }, 
+        {
+            "text": "protons plus the number of neutrons", 
+            "dur": "1.82", 
+            "start": "460.69"
+        }, 
+        {
+            "text": "averaged across all the silver on Earth.\nBecause silver has two different stable", 
+            "dur": "4.38", 
+            "start": "462.51"
+        }, 
+        {
+            "text": "isotopes, each with a different number of neutrons,", 
+            "dur": "2.49", 
+            "start": "466.89"
+        }, 
+        {
+            "text": "its relative atomic mass ends up not being a whole number.", 
+            "dur": "3.19", 
+            "start": "469.38"
+        }, 
+        {
+            "text": "About 52% of silver has 60 neutrons and about 48% has 62.", 
+            "dur": "4.839", 
+            "start": "472.57"
+        }, 
+        {
+            "text": "The relative atomic mass, then, ends up being about halfway between 107 and 109, 107.8682. ", 
+            "dur": "7.06", 
+            "start": "477.409"
+        }, 
+        {
+            "text": "You&#39;ll note that I said these two different sorts of silver are called", 
+            "dur": "2.591", 
+            "start": "484.469"
+        }, 
+        {
+            "text": "isotopes, they have different masses but the same chemical properties, and are", 
+            "dur": "4.269", 
+            "start": "487.07"
+        }, 
+        {
+            "text": "the same element and so belong in the same place on the periodic table.", 
+            "dur": "3.721", 
+            "start": "491.339"
+        }, 
+        {
+            "text": "In fact, the word &quot;isotope&quot; means &quot;same place&quot;.", 
+            "dur": "3.58", 
+            "start": "495.06"
+        }, 
+        {
+            "text": "And different isotopes have different mass numbers. The mass number is just the", 
+            "dur": "3.57", 
+            "start": "498.64"
+        }, 
+        {
+            "text": "total number of nucleons in the nucleus,", 
+            "dur": "2.389", 
+            "start": "502.21"
+        }, 
+        {
+            "text": "which is different from atomic mass; it&#39;s simple addition", 
+            "dur": "3.401", 
+            "start": "504.599"
+        }, 
+        {
+            "text": "for a single atom, rather than an average of all the relative atomic masses of all", 
+            "dur": "4.099", 
+            "start": "508"
+        }, 
+        {
+            "text": "the silver atoms on Earth. So silver", 
+            "dur": "2.081", 
+            "start": "512.099"
+        }, 
+        {
+            "text": "has two stable isotopes, one with a mass number of 107,", 
+            "dur": "3.409", 
+            "start": "514.18"
+        }, 
+        {
+            "text": "which we&#39;d call silver-107, and one with a mass number of 109,", 
+            "dur": "3.871", 
+            "start": "517.589"
+        }, 
+        {
+            "text": "silver-109. There&#39;s an easy way to write all this out, of course, to keep your information", 
+            "dur": "3.3", 
+            "start": "521.46"
+        }, 
+        {
+            "text": "straight. The chemical symbol, with the atomic number or number of protons here,", 
+            "dur": "4.36", 
+            "start": "524.76"
+        }, 
+        {
+            "text": "the mass number, or number of protons and neutrons here,", 
+            "dur": "3.29", 
+            "start": "529.12"
+        }, 
+        {
+            "text": "and the charge out here, which tells you by simple addition or subtraction how", 
+            "dur": "4.04", 
+            "start": "532.41"
+        }, 
+        {
+            "text": "many electrons there are. Finally, before we conclude this first episode of Crash", 
+            "dur": "4.24", 
+            "start": "536.45"
+        }, 
+        {
+            "text": "Course Chemistry, and thus,", 
+            "dur": "1.55", 
+            "start": "540.69"
+        }, 
+        {
+            "text": "our discussion of the atomic nucleus, a note on the pronunciation", 
+            "dur": "4.45", 
+            "start": "542.24"
+        }, 
+        {
+            "text": "of &quot;nucleus&quot;. You are welcome to say &quot;nuculus&quot;; it is an accepted pronunciation", 
+            "dur": "4.02", 
+            "start": "546.69"
+        }, 
+        {
+            "text": "of that word, but if you can find it in you,", 
+            "dur": "1.9", 
+            "start": "550.71"
+        }, 
+        {
+            "text": "it&#39;s probably best to switch over to &quot;nucleus&quot;, which is, after all,", 
+            "dur": "3.7", 
+            "start": "552.61"
+        }, 
+        {
+            "text": "how it&#39;s spelled. And that is all for today&#39;s episode of Crash Course Chemistry,", 
+            "dur": "3.5", 
+            "start": "556.31"
+        }, 
+        {
+            "text": "if you were paying attention, you now know:\nMore about atoms than anyone did in 1900,", 
+            "dur": "5.13", 
+            "start": "559.81"
+        }, 
+        {
+            "text": "like that they were finally confirmed when Einstein mathematically defined", 
+            "dur": "2.8", 
+            "start": "564.94"
+        }, 
+        {
+            "text": " Brownian motion; That", 
+            "dur": "1.45", 
+            "start": "567.74"
+        }, 
+        {
+            "text": "elements are chemically pure substances, and the type", 
+            "dur": "3", 
+            "start": "569.19"
+        }, 
+        {
+            "text": "of element an atom is is defined by how many protons it has in its nucleus,", 
+            "dur": "4.91", 
+            "start": "572.19"
+        }, 
+        {
+            "text": "or its atomic number;\nThat neutrons stabilize nuclei for their proton", 
+            "dur": "3.67", 
+            "start": "577.1"
+        }, 
+        {
+            "text": "friends;\nThat different isotopes of the same", 
+            "dur": "2.27", 
+            "start": "580.77"
+        }, 
+        {
+            "text": "element are the reason relative atomic masses are never whole numbers;", 
+            "dur": "3.62", 
+            "start": "583.04"
+        }, 
+        {
+            "text": "and you know that nuclei are the uninteresting, boring bits of the atom,", 
+            "dur": "4.48", 
+            "start": "586.66"
+        }, 
+        {
+            "text": "and the electrons are where all the interesting\nchemical-ly stuff happens. Crash Course", 
+            "dur": "3.97", 
+            "start": "591.14"
+        }, 
+        {
+            "text": "Chemistry is filmed, edited, and directed by", 
+            "dur": "2.08", 
+            "start": "595.11"
+        }, 
+        {
+            "text": "Nick Jenkins, Dr. Heiko Langner is our chemistry consultant,", 
+            "dur": "3.79", 
+            "start": "597.19"
+        }, 
+        {
+            "text": "sound design is done by Michael Aranda, and our graphics team", 
+            "dur": "3.02", 
+            "start": "600.98"
+        }, 
+        {
+            "text": "is Thought Bubble. If you have any questions, comments, or ideas on any of this stuff, we will", 
+            "dur": "3.23", 
+            "start": "604"
+        }, 
+        {
+            "text": "endeavor to answer them in the comments below.", 
+            "dur": "2.14", 
+            "start": "607.23"
+        }, 
+        {
+            "text": "Thank you for watching Crash Course Chemistry.", 
+            "dur": "2.04", 
+            "start": "609.37"
+        }
+    ], 
+    "title": "The Nucleus: Crash Course Chemistry #1", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/01lj9", 
+        "/m/0k3p2y_", 
+        "/m/0ktl", 
+        "/m/0f6n7"
+    ], 
+    "raw_score": 467, 
+    "number_views": 1348577, 
+    "categories": [
+        27
+    ]
+}

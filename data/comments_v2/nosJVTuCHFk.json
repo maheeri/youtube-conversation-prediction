@@ -1,0 +1,884 @@
+{
+    "publish_date": "2014-10-17T22:36:56.000Z", 
+    "score": 0.002252622193021564, 
+    "video_length": "PT11M54S", 
+    "captions": [
+        {
+            "text": "Hi, I&#39;m John Green, this is Crash Course World History, and today we&#39;re going to talk", 
+            "dur": "3.79", 
+            "start": "0.099"
+        }, 
+        {
+            "text": "how history gets written.", 
+            "dur": "1.591", 
+            "start": "3.889"
+        }, 
+        {
+            "text": "&quot;Mr. Green! Mr. Green! I want to write books\nabout history when I grow up.&quot;", 
+            "dur": "2.74", 
+            "start": "5.48"
+        }, 
+        {
+            "text": "Well, we&#39;re not about the process of writing\nhistory today, Me From the Past. Also, you", 
+            "dur": "4", 
+            "start": "8.22"
+        }, 
+        {
+            "text": "are a liar. So you&#39;re never going to be a\nhistory writer because, try as you might,", 
+            "dur": "3.03", 
+            "start": "12.22"
+        }, 
+        {
+            "text": "you can&#39;t stop making things up. Maybe someday,\nif you&#39;re lucky, you&#39;ll write a historical", 
+            "dur": "4.27", 
+            "start": "15.25"
+        }, 
+        {
+            "text": "novel. Although, probably not because, you know,\nit involves research, which you also suck at.", 
+            "dur": "3.4", 
+            "start": "19.52"
+        }, 
+        {
+            "text": "So today we&#39;re going to talk about how historians\nanswer questions and the choices they make", 
+            "dur": "4.31", 
+            "start": "31.72"
+        }, 
+        {
+            "text": "in turning their ideas into books. We like\nto think of history as being the story of", 
+            "dur": "3.879", 
+            "start": "36.03"
+        }, 
+        {
+            "text": "what happens, so there&#39;s no ambiguity or whatever.\nIt&#39;s just, you know, ", 
+            "dur": "3.08", 
+            "start": "39.909"
+        }, 
+        {
+            "text": "in 1776, Columbus sailed the ocean blue.", 
+            "dur": "3.631", 
+            "start": "42.989"
+        }, 
+        {
+            "text": "This is part of our thinking that, like, math\nis fact-based and literature is opinion. So", 
+            "dur": "4.12", 
+            "start": "46.629"
+        }, 
+        {
+            "text": "we imagine history as being, like, over toward\nthe fact-y stuff. But in truth, literature", 
+            "dur": "4.27", 
+            "start": "50.749"
+        }, 
+        {
+            "text": "has a lot of facts in it. There are poems\nthat are objectively good and others that", 
+            "dur": "3.37", 
+            "start": "55.019"
+        }, 
+        {
+            "text": "are objectively bad. And if you&#39;ve ever been\nto a mathematician party and heard mathematician", 
+            "dur": "4.1", 
+            "start": "58.389"
+        }, 
+        {
+            "text": "arguments, you&#39;ll know that math has a lot\nof opinions in it.", 
+            "dur": "2.27", 
+            "start": "62.489"
+        }, 
+        {
+            "text": "What? I go to a lot of math parties. That&#39;s\ncool.", 
+            "dur": "1.771", 
+            "start": "64.759"
+        }, 
+        {
+            "text": "My point is, that that whole fact to opinion\ncontinuum we imagine in academics doesn&#39;t", 
+            "dur": "5.36", 
+            "start": "66.53"
+        }, 
+        {
+            "text": "really make sense. We just need to learn to\nignore that and think instead about how to", 
+            "dur": "3.769", 
+            "start": "71.89"
+        }, 
+        {
+            "text": "examine the world critically.", 
+            "dur": "1.85", 
+            "start": "75.659"
+        }, 
+        {
+            "text": "So today we&#39;re going to examine the ways that\ndifferent historians have tackled a really", 
+            "dur": "2.86", 
+            "start": "77.509"
+        }, 
+        {
+            "text": "problematic issue: The Rise of the West. So\nwhat do &quot;rise&quot; and &quot;west&quot; even mean in that", 
+            "dur": "5.04", 
+            "start": "80.369"
+        }, 
+        {
+            "text": "phrase? Well, let&#39;s go to the Thought Bubble.", 
+            "dur": "1.42", 
+            "start": "85.409"
+        }, 
+        {
+            "text": "So &quot;The West&quot; is a geographical designation,\nkind of. It means, like, Western Europe, North", 
+            "dur": "5.04", 
+            "start": "86.829"
+        }, 
+        {
+            "text": "America, and Australia, which as you can see\nhere are west of Asia? And also east of Asia.", 
+            "dur": "6.031", 
+            "start": "91.869"
+        }, 
+        {
+            "text": "In fact, everything is both east and west\nof everything else because it&#39;s a globe.", 
+            "dur": "3.761", 
+            "start": "97.909"
+        }, 
+        {
+            "text": "But the West is also kind of a culture. It&#39;s\na set of ideas influenced by Judeo-Christian", 
+            "dur": "4.6", 
+            "start": "101.67"
+        }, 
+        {
+            "text": "thought and Greek philosophy, with a little\nEnlightenment rationalism and Adam Smith&#39;s", 
+            "dur": "4.409", 
+            "start": "106.27"
+        }, 
+        {
+            "text": "economics thrown in. Anyway, it&#39;s complicated,\nlike all civilizations that span multiple", 
+            "dur": "4.19", 
+            "start": "110.679"
+        }, 
+        {
+            "text": "continents, but most of you at least have an idea\nin your head when I talk about &quot;The West.&quot;", 
+            "dur": "4.39", 
+            "start": "114.869"
+        }, 
+        {
+            "text": "And then there&#39;s the question of what we mean\nby &quot;rise&quot; when we talk about the Rise of the", 
+            "dur": "4.411", 
+            "start": "119.259"
+        }, 
+        {
+            "text": "West, which leads us back to the philosophical\nquestion of the nature of history itself.", 
+            "dur": "3.79", 
+            "start": "123.67"
+        }, 
+        {
+            "text": "I mean, is history a series of rises and falls,\nlike the story of the Roman Empire, or is", 
+            "dur": "5.43", 
+            "start": "127.46"
+        }, 
+        {
+            "text": "it cyclical, like the Mandate of Heaven narrative\nthat we saw when we looked at early Chinese", 
+            "dur": "4.3", 
+            "start": "132.89"
+        }, 
+        {
+            "text": "history? So you could say, in fact, that the\nphrase itself &quot;The Rise of the West&quot; is a", 
+            "dur": "3.34", 
+            "start": "137.19"
+        }, 
+        {
+            "text": "little bit Western. The whole thing&#39;s a bit\nnebulous.", 
+            "dur": "2.33", 
+            "start": "140.53"
+        }, 
+        {
+            "text": "And that makes it a popular subject for historians\nto tackle because you can hang a lot of ideas", 
+            "dur": "4.33", 
+            "start": "142.86"
+        }, 
+        {
+            "text": "on it. Like, Ian Morris, who teaches at Stanford,\nwrote a book called, &quot;Why the West Rules -- For", 
+            "dur": "4.94", 
+            "start": "147.19"
+        }, 
+        {
+            "text": "Now,&quot; which casts the question in terms of\npolitical, military, and economic dominance.", 
+            "dur": "4.39", 
+            "start": "152.13"
+        }, 
+        {
+            "text": "And Victor Davis Hanson made this idea of\ndominance more explicit in his book on military", 
+            "dur": "3.78", 
+            "start": "156.52"
+        }, 
+        {
+            "text": "history, Carnage and Culture: Landmark Battles\nin the Rise to Western Power, which also offers", 
+            "dur": "4.78", 
+            "start": "160.3"
+        }, 
+        {
+            "text": "a pretty straightforward reason why the West\nbecame so powerful: It won a lot of wars.", 
+            "dur": "3.92", 
+            "start": "165.08"
+        }, 
+        {
+            "text": "Thanks, Thought Bubble.", 
+            "dur": "1.26", 
+            "start": "169"
+        }, 
+        {
+            "text": "Another way to think about this question is\nin terms of, like, success and failure. That&#39;s", 
+            "dur": "3.32", 
+            "start": "170.26"
+        }, 
+        {
+            "text": "how Daron Acemo\u011flu and James Robinson approached\nit in their 2012 book, Why Nations Fail: The", 
+            "dur": "5.75", 
+            "start": "173.59"
+        }, 
+        {
+            "text": "Origins of Power, Prosperity, and Poverty.\nThese guys had two big ideas. First, that", 
+            "dur": "4.03", 
+            "start": "179.34"
+        }, 
+        {
+            "text": "success can be defined by wealth, as well\nas political power. And secondly, that when", 
+            "dur": "4.12", 
+            "start": "183.37"
+        }, 
+        {
+            "text": "we look at successes, we shouldn&#39;t look at\nindividuals, or communities, or continents,", 
+            "dur": "4.09", 
+            "start": "187.49"
+        }, 
+        {
+            "text": "we should look at nation-states.", 
+            "dur": "1.33", 
+            "start": "191.58"
+        }, 
+        {
+            "text": "Now, this book isn&#39;t explicitly about the\nWest, but if you look at the countries that", 
+            "dur": "3.68", 
+            "start": "192.91"
+        }, 
+        {
+            "text": "they&#39;re talking about as successes and failures,\nit seems like they&#39;re talking about kind of", 
+            "dur": "4.38", 
+            "start": "196.59"
+        }, 
+        {
+            "text": "the same thing we are. Their successful nations\nare all in what we think of as &quot;The West,&quot;", 
+            "dur": "4.19", 
+            "start": "200.97"
+        }, 
+        {
+            "text": "with a couple of important exceptions in Japan\nand Southern Africa.", 
+            "dur": "3.09", 
+            "start": "205.16"
+        }, 
+        {
+            "text": "So Acemo\u011flu teaches economics at MIT and\nRobinson teaches government at Harvard, which", 
+            "dur": "4.52", 
+            "start": "208.25"
+        }, 
+        {
+            "text": "is important because they&#39;re not, like, academically\ntrained historians. Some would say that&#39;s", 
+            "dur": "4.16", 
+            "start": "212.77"
+        }, 
+        {
+            "text": "an advantage, but you know who wouldn&#39;t say\nthat? Historians. But anyway, if you&#39;re training", 
+            "dur": "3.55", 
+            "start": "216.93"
+        }, 
+        {
+            "text": "is in economics and government, then you&#39;re\ngoing to see history through the lens of economics", 
+            "dur": "3.85", 
+            "start": "220.48"
+        }, 
+        {
+            "text": "and politics, in the same that if you&#39;re trained\nas accountant you might see history as an", 
+            "dur": "3.92", 
+            "start": "224.33"
+        }, 
+        {
+            "text": "indeterminable series of ledgers to be balanced,\nwhich it kind of is. And if you&#39;re say a novelist", 
+            "dur": "4.53", 
+            "start": "228.25"
+        }, 
+        {
+            "text": "you&#39;ll probably see history as a series of\nnarratives and you&#39;ll insert narrative. Even", 
+            "dur": "3.31", 
+            "start": "232.78"
+        }, 
+        {
+            "text": "when it doesn&#39;t necessarily exist.", 
+            "dur": "1.59", 
+            "start": "236.09"
+        }, 
+        {
+            "text": "How we frame historical questions is extremely\nimportant as is the way we&#39;re trained and", 
+            "dur": "4.96", 
+            "start": "237.68"
+        }, 
+        {
+            "text": "the tools we use to try to seek answers.", 
+            "dur": "2.35", 
+            "start": "242.64"
+        }, 
+        {
+            "text": "So Acemo\u011flu and Robinson focus on institutions\nand claim that a nation is successful when", 
+            "dur": "4.83", 
+            "start": "244.99"
+        }, 
+        {
+            "text": "it&#39;s economic and political institutions are\ninclusive.", 
+            "dur": "2.97", 
+            "start": "249.82"
+        }, 
+        {
+            "text": "This focus on institutions explains a lot\nand it&#39;s very convincing, and it corrects", 
+            "dur": "4.569", 
+            "start": "252.79"
+        }, 
+        {
+            "text": "previous theories. For example, Montesquieu&#39;s\nidea that tropical nations tend to be poorer", 
+            "dur": "4.301", 
+            "start": "257.359"
+        }, 
+        {
+            "text": "either because the people &quot;tended to be lazy\nand to lack inquisitiveness&quot; or because diseases", 
+            "dur": "4.98", 
+            "start": "261.66"
+        }, 
+        {
+            "text": "and poor soil inhibit economic growth. But\naccording to Acemo\u011flu and Robinson the data", 
+            "dur": "4.21", 
+            "start": "266.64"
+        }, 
+        {
+            "text": "just doesn&#39;t support Montesquieu&#39;s conclusions.", 
+            "dur": "2.62", 
+            "start": "270.85"
+        }, 
+        {
+            "text": "Yeah that&#39;s a little prob... Oooh it&#39;s time\nfor the open letter! But first let&#39;s see what&#39;s", 
+            "dur": "3.96", 
+            "start": "273.47"
+        }, 
+        {
+            "text": "in the globe today. Oh! It&#39;s Montesquieu.\nDo you have a first name by the way? Oh, he", 
+            "dur": "3.85", 
+            "start": "277.43"
+        }, 
+        {
+            "text": "does, his full name is Charles-Louis de Secondat,\nBaron de La Br\u00e8de et de Montesquieu, which", 
+            "dur": "4.83", 
+            "start": "281.28"
+        }, 
+        {
+            "text": "explains why we only call him Montesquieu.\nAnyway, an open letter to Montesquieu.", 
+            "dur": "3.89", 
+            "start": "286.11"
+        }, 
+        {
+            "text": "Dear Montesquieu,", 
+            "dur": "0.9", 
+            "start": "290"
+        }, 
+        {
+            "text": "You had so many good ideas, separation of\npowers, that&#39;s a definite winner. You basically", 
+            "dur": "4.79", 
+            "start": "290.91"
+        }, 
+        {
+            "text": "coined the word despotism. That&#39;s a great\nword, I mean before the word despotism, our", 
+            "dur": "4.39", 
+            "start": "295.71"
+        }, 
+        {
+            "text": "only word for that thing was like, government.\nBut this idea that you had that poor people", 
+            "dur": "5.02", 
+            "start": "300.1"
+        }, 
+        {
+            "text": "were doomed to stay poor has proven astonishingly\npowerful, and it&#39;s also entirely wrong. Fortunately,", 
+            "dur": "6.99", 
+            "start": "305.12"
+        }, 
+        {
+            "text": "Montesquieu, most of us have moved on from your\ntheories about poverty, although, just recently.", 
+            "dur": "4.48", 
+            "start": "312.11"
+        }, 
+        {
+            "text": "Best wishes, John Green.", 
+            "dur": "1.63", 
+            "start": "316.59"
+        }, 
+        {
+            "text": "Okay, so let&#39;s talk about these inclusive\ninstitutions that are supposed to be so good", 
+            "dur": "3.47", 
+            "start": "318.22"
+        }, 
+        {
+            "text": "for nations. In economics it&#39;s institutions\nquote &quot;That enforce property rights, create", 
+            "dur": "4.77", 
+            "start": "321.69"
+        }, 
+        {
+            "text": "a level playing field, and encourage investments\nin new technologies and skills.&quot;", 
+            "dur": "4.429", 
+            "start": "326.46"
+        }, 
+        {
+            "text": "In other words, the kind we associate with\nmodern market capitalism, you know, with some", 
+            "dur": "3.75", 
+            "start": "330.889"
+        }, 
+        {
+            "text": "regulations. You know, like in the U.S. we\nhave very open markets, but still Walmart", 
+            "dur": "3.771", 
+            "start": "334.639"
+        }, 
+        {
+            "text": "isn&#39;t allowed to sell black tar heroin. They\nare allowed to sell guns though.", 
+            "dur": "3.97", 
+            "start": "338.41"
+        }, 
+        {
+            "text": "Inclusive political institutions are those\nthat are characterized by pluralism which", 
+            "dur": "3.509", 
+            "start": "342.38"
+        }, 
+        {
+            "text": "means that they include a number of interests\nwith different political perspectives that", 
+            "dur": "3.781", 
+            "start": "345.889"
+        }, 
+        {
+            "text": "can act as checks on executive authority.", 
+            "dur": "2.23", 
+            "start": "349.67"
+        }, 
+        {
+            "text": "So success isn&#39;t just about democracy or &quot;majority\nrule&quot; as we have lately learned in Iraq;", 
+            "dur": "4.58", 
+            "start": "351.9"
+        }, 
+        {
+            "text": "it&#39;s about inclusive pluralism.", 
+            "dur": "1.9", 
+            "start": "356.48"
+        }, 
+        {
+            "text": "So the nations that Acemo\u011flu and Robinson\nsee as successful are the ones with the most", 
+            "dur": "3.85", 
+            "start": "358.38"
+        }, 
+        {
+            "text": "inclusive economies and the most pluralistic\ngovernments.", 
+            "dur": "2.75", 
+            "start": "362.23"
+        }, 
+        {
+            "text": "Now they are able to draw a clear correlation,\nbut it&#39;s a bit harder to say that these particular", 
+            "dur": "4.56", 
+            "start": "364.98"
+        }, 
+        {
+            "text": "institutions caused those nations to become\nsuccessful. This is the nature of correlation;", 
+            "dur": "4.91", 
+            "start": "369.54"
+        }, 
+        {
+            "text": "it&#39;s possible that they could be right that\ninstitutions were necessary for a nation to", 
+            "dur": "3.78", 
+            "start": "374.45"
+        }, 
+        {
+            "text": "become rich and powerful, but there may be\nother institutions that matter as much or", 
+            "dur": "4.25", 
+            "start": "378.23"
+        }, 
+        {
+            "text": "more than the economic and political ones\nthey identify.", 
+            "dur": "2.84", 
+            "start": "382.48"
+        }, 
+        {
+            "text": "Another guy who&#39;s written a lot about this\nstuff is Francis Fukuyama. Fukuyama also believes", 
+            "dur": "3.849", 
+            "start": "385.32"
+        }, 
+        {
+            "text": "that institutions are the key to a nation\nstate&#39;s success, but in his book The Origins", 
+            "dur": "3.921", 
+            "start": "389.169"
+        }, 
+        {
+            "text": "of Political Order he identifies the rule\nof law as the institution that underlies all", 
+            "dur": "5.42", 
+            "start": "393.09"
+        }, 
+        {
+            "text": "success. To Fukuyama, the critical thing is\nthat there be a rule of law that is superior", 
+            "dur": "4.83", 
+            "start": "398.51"
+        }, 
+        {
+            "text": "to rulers who temporarily happen to command\nthe state&#39;s armed forces and bureaucracy.", 
+            "dur": "4.64", 
+            "start": "403.35"
+        }, 
+        {
+            "text": "If no one is more powerful than the law and\nno one can change the law, then inclusive", 
+            "dur": "3.959", 
+            "start": "407.99"
+        }, 
+        {
+            "text": "economic institutions and pluralistic political\nones sort of naturally come forth.", 
+            "dur": "4.491", 
+            "start": "411.949"
+        }, 
+        {
+            "text": "Now, that&#39;s not all that different from what\nAcemo\u011flu and Robinson described but there", 
+            "dur": "3.57", 
+            "start": "416.44"
+        }, 
+        {
+            "text": "is a twist in how Fukuyama gets there. He\nargues that the root of the rule of law in", 
+            "dur": "4.68", 
+            "start": "420.01"
+        }, 
+        {
+            "text": "Europe as the basis for its institutions is\nin religion, specifically the Catholic Church.", 
+            "dur": "4.71", 
+            "start": "424.69"
+        }, 
+        {
+            "text": "For him it was the Catholic Church that established\nthe idea that there was a law that was binding,", 
+            "dur": "4.96", 
+            "start": "429.4"
+        }, 
+        {
+            "text": "even to kings, providing the limits that are\nthe heart of Acemo\u011flu and Robinson&#39;s pluralistic", 
+            "dur": "5.23", 
+            "start": "434.36"
+        }, 
+        {
+            "text": "institutions. And this would push the origins\nof the West&#39;s institutional advantages back", 
+            "dur": "3.19", 
+            "start": "439.59"
+        }, 
+        {
+            "text": "further than the advent of the nation state,\nright, because until recently, religion was", 
+            "dur": "4.83", 
+            "start": "442.78"
+        }, 
+        {
+            "text": "far more important to most people than, you know,\nnation states or capitalistic economic institutions.", 
+            "dur": "5.71", 
+            "start": "447.82"
+        }, 
+        {
+            "text": "Fukuyama, you&#39;ll be surprised to learn, is\na political scientist and classicist by training,", 
+            "dur": "4.24", 
+            "start": "453.54"
+        }, 
+        {
+            "text": "so it&#39;s not that much of a surprise that he\nfinds the roots of the West&#39;s preeminence", 
+            "dur": "4.23", 
+            "start": "457.78"
+        }, 
+        {
+            "text": "in governance and classic religious thought.", 
+            "dur": "2.4", 
+            "start": "462.01"
+        }, 
+        {
+            "text": "Okay, let&#39;s look at one last example of a\ndifferent approach to this historical question.", 
+            "dur": "3.819", 
+            "start": "464.41"
+        }, 
+        {
+            "text": "Uh, that guy Ian Morris, who we talked about\nearlier, he wrote the book &quot;Why the West Rules", 
+            "dur": "3.761", 
+            "start": "468.229"
+        }, 
+        {
+            "text": "-- For Now.&quot; He broke down his arguments into\na mathematical formula based on four dimensions:", 
+            "dur": "5.59", 
+            "start": "471.99"
+        }, 
+        {
+            "text": "energy capture, how much humans have been\nable to use energy beyond their own muscles;", 
+            "dur": "4.48", 
+            "start": "477.58"
+        }, 
+        {
+            "text": "social organization, which he derives by measuring\nthe largest city in a region;", 
+            "dur": "4.18", 
+            "start": "482.06"
+        }, 
+        {
+            "text": "information technology, not just the Internet,\nalso like writing and books;", 
+            "dur": "4.22", 
+            "start": "486.24"
+        }, 
+        {
+            "text": "and war making capacity, which we can learn about\nthrough archaeology and also traditional history.", 
+            "dur": "4.2", 
+            "start": "490.46"
+        }, 
+        {
+            "text": "And then he combines these numbers to develop\na social development index that describes", 
+            "dur": "4.391", 
+            "start": "494.669"
+        }, 
+        {
+            "text": "the West and the East at various points in\nhistory from 14,000 BCE to 2000 CE. Now, Morris", 
+            "dur": "5.94", 
+            "start": "499.06"
+        }, 
+        {
+            "text": "is not an economist or a mathematician; he&#39;s\na classically trained historian, but here", 
+            "dur": "4.38", 
+            "start": "505"
+        }, 
+        {
+            "text": "he is using numbers, not very sophisticatedly\nand, uh, lots of criticism of them, but using", 
+            "dur": "5.529", 
+            "start": "509.38"
+        }, 
+        {
+            "text": "numbers nonetheless. And I think that speaks\nto how data-driven contemporary academics", 
+            "dur": "4.04", 
+            "start": "514.909"
+        }, 
+        {
+            "text": "is. We like things that can be quantified.", 
+            "dur": "1.81", 
+            "start": "518.949"
+        }, 
+        {
+            "text": "I mean, many of you are teenagers taking AP\nWorld History, and at the end of that, you", 
+            "dur": "3.841", 
+            "start": "520.759"
+        }, 
+        {
+            "text": "will take a test that gives you a number between\none and five that tells you how much you know", 
+            "dur": "3.989", 
+            "start": "524.6"
+        }, 
+        {
+            "text": "about world history. My number was two, but\nhopefully yours will be higher, because I", 
+            "dur": "4.25", 
+            "start": "528.589"
+        }, 
+        {
+            "text": "am smarter now than I was then.", 
+            "dur": "1.86", 
+            "start": "532.839"
+        }, 
+        {
+            "text": "Now I do wanna note one other thing, which\nis that you&#39;ve probably noticed that none", 
+            "dur": "2.841", 
+            "start": "534.699"
+        }, 
+        {
+            "text": "of these books question the assumption that\nthe West has been dominant in the world stage", 
+            "dur": "5.19", 
+            "start": "537.54"
+        }, 
+        {
+            "text": "over the last couple centuries. That is also\na question of perspective. Like, from the", 
+            "dur": "3.859", 
+            "start": "542.73"
+        }, 
+        {
+            "text": "perspective of non-human residents of Earth,\nthe West has been a total failure. But there&#39;s", 
+            "dur": "5.62", 
+            "start": "546.589"
+        }, 
+        {
+            "text": "a certain set of data we look at when it comes\nto humans, like uh, GDP, the total size of", 
+            "dur": "5.581", 
+            "start": "552.209"
+        }, 
+        {
+            "text": "a country&#39;s economy; or number of tanks; or\ninnovation indexes; or life expectancy. Through", 
+            "dur": "5.44", 
+            "start": "557.79"
+        }, 
+        {
+            "text": "all of those lenses, the West has come out\non top in the last 200 years. But that leads", 
+            "dur": "4.649", 
+            "start": "563.23"
+        }, 
+        {
+            "text": "us to larger questions about why we measure\ncivilizations and determine winners and losers", 
+            "dur": "4.94", 
+            "start": "567.879"
+        }, 
+        {
+            "text": "in the first place and what that does to our\nthinking.", 
+            "dur": "2.861", 
+            "start": "572.819"
+        }, 
+        {
+            "text": "As Morris points out, one of the problematic\nthings about reducing human social development", 
+            "dur": "4.649", 
+            "start": "575.68"
+        }, 
+        {
+            "text": "to a number is that it can dehumanize individuals.\nNow numbers are a great shorthand and they", 
+            "dur": "4.54", 
+            "start": "580.329"
+        }, 
+        {
+            "text": "can be very useful for comparisons, like,\nI would like to know if my life expectancy", 
+            "dur": "4.14", 
+            "start": "584.869"
+        }, 
+        {
+            "text": "would be longer in the United States or in\nCanada. Stan informs me that life expectancy", 
+            "dur": "3.981", 
+            "start": "589.009"
+        }, 
+        {
+            "text": "is longer in Canada, which doesn&#39;t make any\nsense. I always thought that Canada was America&#39;s", 
+            "dur": "3.779", 
+            "start": "592.99"
+        }, 
+        {
+            "text": "hat. Turns out that we are Canada&#39;s pants.\nAnyway, Stan, we got to move to Canada.", 
+            "dur": "4.891", 
+            "start": "596.769"
+        }, 
+        {
+            "text": "But numbers are always incomplete, and too\noften we mistake what is easily quantifiable", 
+            "dur": "5.039", 
+            "start": "601.66"
+        }, 
+        {
+            "text": "with what is important. Also, when we ask\nthe question about why the West rules or why", 
+            "dur": "4.75", 
+            "start": "606.699"
+        }, 
+        {
+            "text": "Western nations have succeeded, what are we\ngonna to do with the answer? Is it for Westerners", 
+            "dur": "4.5", 
+            "start": "611.449"
+        }, 
+        {
+            "text": "to congratulate ourselves on a job well done,\nor to explain away the astonishing inequality", 
+            "dur": "5.271", 
+            "start": "615.949"
+        }, 
+        {
+            "text": "in the world as being so deeply rooted in the\npast as to make any efforts to fix it futile?", 
+            "dur": "5.44", 
+            "start": "621.22"
+        }, 
+        {
+            "text": "I&#39;d like to think that by understanding what\nhas made the West more successful in certain", 
+            "dur": "3.799", 
+            "start": "626.66"
+        }, 
+        {
+            "text": "ways, we can formulate policies that will\nlead to a general improvement, at least in", 
+            "dur": "4.531", 
+            "start": "630.459"
+        }, 
+        {
+            "text": "those ways, around the world. But what we&#39;ve\ntried to provide here a series of perspectives", 
+            "dur": "3.61", 
+            "start": "634.99"
+        }, 
+        {
+            "text": "on a historical question to emphasize the\nfact that all history has its perspective.", 
+            "dur": "4.909", 
+            "start": "638.6"
+        }, 
+        {
+            "text": "It&#39;s common to use mathematical measures to\nanalyze contemporary world problems and attempt", 
+            "dur": "4.12", 
+            "start": "643.509"
+        }, 
+        {
+            "text": "to find solutions, and that&#39;s a good thing\nin many ways. But when it comes to history", 
+            "dur": "3.76", 
+            "start": "647.629"
+        }, 
+        {
+            "text": "and politics, mathematical formulas also have\ntheir perspective, and we need to remember", 
+            "dur": "4.2", 
+            "start": "651.389"
+        }, 
+        {
+            "text": "that each of those perspectives is necessarily\nbiased to look at some things and not others.", 
+            "dur": "4.97", 
+            "start": "655.589"
+        }, 
+        {
+            "text": "Whether it&#39;s Crash Course or your world history\ntextbook, it&#39;s important to remember that", 
+            "dur": "3.95", 
+            "start": "660.559"
+        }, 
+        {
+            "text": "bias is inherent to the experience of writing\nand telling the story of history.", 
+            "dur": "3.961", 
+            "start": "664.509"
+        }, 
+        {
+            "text": "So when you see a number or a claim of success\nor failure, stop and ask yourself what sorts", 
+            "dur": "4.679", 
+            "start": "668.47"
+        }, 
+        {
+            "text": "of information went into that number or into\nthat conclusion, and just as important, what", 
+            "dur": "4.8", 
+            "start": "673.149"
+        }, 
+        {
+            "text": "might have been ignored or missed? Thanks\nfor watching. I&#39;ll see you next week.", 
+            "dur": "4.14", 
+            "start": "677.949"
+        }, 
+        {
+            "text": "Crash Course is made here in the Chad and\nStacey Emigholz studio with the help of all", 
+            "dur": "4.35", 
+            "start": "682.089"
+        }, 
+        {
+            "text": "of these nice people. It&#39;s also possible because\nof your support through Subbable. Subbable", 
+            "dur": "4.611", 
+            "start": "686.439"
+        }, 
+        {
+            "text": "is a voluntary subscription service that allows\nyou to support Crash Course directly so we", 
+            "dur": "3.829", 
+            "start": "691.05"
+        }, 
+        {
+            "text": "can keep it free for everyone forever, so\nplease check it out. Thank you again for watching,", 
+            "dur": "4.74", 
+            "start": "694.879"
+        }, 
+        {
+            "text": "thanks to all of our Subbable subscribers,\nand as we say in my hometown,", 
+            "dur": "3.02", 
+            "start": "699.62"
+        }, 
+        {
+            "text": "don&#39;t forget to be awesome.", 
+            "dur": "1.22", 
+            "start": "702.64"
+        }
+    ], 
+    "title": "The Rise of the West and Historical Methodology: Crash Course World History #212", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0k3p2y_", 
+        "/m/03g3w", 
+        "/m/0285h6"
+    ], 
+    "raw_score": 1152, 
+    "number_views": 511404, 
+    "categories": [
+        27
+    ]
+}

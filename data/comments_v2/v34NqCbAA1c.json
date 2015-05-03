@@ -1,0 +1,815 @@
+{
+    "publish_date": "2013-03-11T15:03:30.000Z", 
+    "score": 6.277201205222631e-05, 
+    "video_length": "PT5M57S", 
+    "captions": [
+        {
+            "text": "There&#39;s a myth that Grandmasters can see ten,", 
+            "dur": "3.934", 
+            "start": "14.718"
+        }, 
+        {
+            "text": "fifteen,", 
+            "dur": "0.764", 
+            "start": "18.652"
+        }, 
+        {
+            "text": "twenty moves ahead.", 
+            "dur": "1.63", 
+            "start": "19.416"
+        }, 
+        {
+            "text": "And it&#39;s a great myth", 
+            "dur": "1.261", 
+            "start": "21.046"
+        }, 
+        {
+            "text": "because I&#39;m a Grandmaster", 
+            "dur": "1.474", 
+            "start": "22.307"
+        }, 
+        {
+            "text": "and it makes me look like a super freaking genius.", 
+            "dur": "3.974", 
+            "start": "23.781"
+        }, 
+        {
+            "text": "But the truth is,", 
+            "dur": "1.425", 
+            "start": "27.755"
+        }, 
+        {
+            "text": "in just the first four moves", 
+            "dur": "1.304", 
+            "start": "29.18"
+        }, 
+        {
+            "text": "there are 318 billion ways you could play.", 
+            "dur": "5.839", 
+            "start": "30.484"
+        }, 
+        {
+            "text": "Now that would be cool if I could pull that off,", 
+            "dur": "2.44", 
+            "start": "36.323"
+        }, 
+        {
+            "text": "but Grandmasters just can&#39;t, it&#39;s too much.", 
+            "dur": "3.306", 
+            "start": "38.763"
+        }, 
+        {
+            "text": "So we use different techniques to be able to look ahead.", 
+            "dur": "3.229", 
+            "start": "42.069"
+        }, 
+        {
+            "text": "And some of these techniques include", 
+            "dur": "2.037", 
+            "start": "45.298"
+        }, 
+        {
+            "text": "chunking,", 
+            "dur": "0.67", 
+            "start": "47.335"
+        }, 
+        {
+            "text": "which means taking a group, a chess position,", 
+            "dur": "2.496", 
+            "start": "48.005"
+        }, 
+        {
+            "text": "and seeing what possibilities can come just that group;", 
+            "dur": "3.038", 
+            "start": "50.501"
+        }, 
+        {
+            "text": "or pattern recognition,", 
+            "dur": "1.333", 
+            "start": "53.539"
+        }, 
+        {
+            "text": "which is just going over a lot of positions", 
+            "dur": "1.302", 
+            "start": "54.872"
+        }, 
+        {
+            "text": "that look very similiarly", 
+            "dur": "1.267", 
+            "start": "56.174"
+        }, 
+        {
+            "text": "and extrapolating truths from that;", 
+            "dur": "2.138", 
+            "start": "57.441"
+        }, 
+        {
+            "text": "the stepping-stone method,", 
+            "dur": "1.205", 
+            "start": "59.579"
+        }, 
+        {
+            "text": "which is to take a position,", 
+            "dur": "1.872", 
+            "start": "60.784"
+        }, 
+        {
+            "text": "freeze it in your mind,", 
+            "dur": "1.024", 
+            "start": "62.656"
+        }, 
+        {
+            "text": "and go from there to guess the next position.", 
+            "dur": "2.876", 
+            "start": "63.68"
+        }, 
+        {
+            "text": "But one of my favorites", 
+            "dur": "2.107", 
+            "start": "66.556"
+        }, 
+        {
+            "text": "that I love to solve these kind of chess puzzles,", 
+            "dur": "3.223", 
+            "start": "68.663"
+        }, 
+        {
+            "text": "is called retrograde analysis.", 
+            "dur": "2.727", 
+            "start": "71.886"
+        }, 
+        {
+            "text": "And what you do with retrograde analysis", 
+            "dur": "1.628", 
+            "start": "74.613"
+        }, 
+        {
+            "text": "is that in order to look ahead,", 
+            "dur": "1.654", 
+            "start": "76.241"
+        }, 
+        {
+            "text": "it pays to look backwards.", 
+            "dur": "2.887", 
+            "start": "77.895"
+        }, 
+        {
+            "text": "Now, why is this so useful?", 
+            "dur": "2.993", 
+            "start": "80.782"
+        }, 
+        {
+            "text": "Well, in chess, it&#39;s a very complicated case.", 
+            "dur": "3.43", 
+            "start": "83.775"
+        }, 
+        {
+            "text": "You got all these chess pieces,", 
+            "dur": "0.901", 
+            "start": "87.205"
+        }, 
+        {
+            "text": "it&#39;s 32 pieces,", 
+            "dur": "1.107", 
+            "start": "88.106"
+        }, 
+        {
+            "text": "but after 5 moves, the position starts to evolve a little bit.", 
+            "dur": "3.302", 
+            "start": "89.213"
+        }, 
+        {
+            "text": "And the game starts to go on", 
+            "dur": "1.597", 
+            "start": "92.515"
+        }, 
+        {
+            "text": "and you see the chess position get a little simpler,", 
+            "dur": "2.639", 
+            "start": "94.112"
+        }, 
+        {
+            "text": "and a little bit simpler,", 
+            "dur": "1.196", 
+            "start": "96.751"
+        }, 
+        {
+            "text": "and less pieces on the board,", 
+            "dur": "1.753", 
+            "start": "97.947"
+        }, 
+        {
+            "text": "until finally,", 
+            "dur": "1.319", 
+            "start": "99.7"
+        }, 
+        {
+            "text": "in this case, a game that I played in a tournament in Foxwoods,", 
+            "dur": "3.994", 
+            "start": "101.019"
+        }, 
+        {
+            "text": "it gets to something like this.", 
+            "dur": "2.278", 
+            "start": "105.013"
+        }, 
+        {
+            "text": "When great players play,", 
+            "dur": "1.181", 
+            "start": "107.291"
+        }, 
+        {
+            "text": "it often gets to something like this.", 
+            "dur": "1.958", 
+            "start": "108.472"
+        }, 
+        {
+            "text": "You don&#39;t see like some easy, early checkmate.", 
+            "dur": "2.102", 
+            "start": "110.43"
+        }, 
+        {
+            "text": "Grandmasters see through all that stuff.", 
+            "dur": "1.931", 
+            "start": "112.532"
+        }, 
+        {
+            "text": "What you see is some end game,", 
+            "dur": "1.839", 
+            "start": "114.463"
+        }, 
+        {
+            "text": "something really, really simple.", 
+            "dur": "2.128", 
+            "start": "116.302"
+        }, 
+        {
+            "text": "And we like to study things like this,", 
+            "dur": "2.175", 
+            "start": "118.43"
+        }, 
+        {
+            "text": "Grandmasters do,", 
+            "dur": "1.045", 
+            "start": "120.605"
+        }, 
+        {
+            "text": "so that if we get to them,", 
+            "dur": "1.776", 
+            "start": "121.65"
+        }, 
+        {
+            "text": "we know how to play them cold,", 
+            "dur": "1.557", 
+            "start": "123.426"
+        }, 
+        {
+            "text": "but also so that we can steer", 
+            "dur": "2.16", 
+            "start": "124.983"
+        }, 
+        {
+            "text": "in the position that&#39;s in front of us,", 
+            "dur": "1.439", 
+            "start": "127.143"
+        }, 
+        {
+            "text": "the more complex ones you saw earlier,", 
+            "dur": "1.794", 
+            "start": "128.582"
+        }, 
+        {
+            "text": "to something this easy,", 
+            "dur": "1.841", 
+            "start": "130.376"
+        }, 
+        {
+            "text": "something this simple.", 
+            "dur": "1.4", 
+            "start": "132.217"
+        }, 
+        {
+            "text": "So in this way, when you&#39;re dead,", 
+            "dur": "1.975", 
+            "start": "133.617"
+        }, 
+        {
+            "text": "I already knew like ten moves ago", 
+            "dur": "1.763", 
+            "start": "135.592"
+        }, 
+        {
+            "text": "because I knew where we were going.", 
+            "dur": "2.073", 
+            "start": "137.355"
+        }, 
+        {
+            "text": "Now, why is this so effective?", 
+            "dur": "2.432", 
+            "start": "139.428"
+        }, 
+        {
+            "text": "Well, it&#39;s something about the human mind,", 
+            "dur": "2.035", 
+            "start": "141.86"
+        }, 
+        {
+            "text": "the problem with the human mind.", 
+            "dur": "1.411", 
+            "start": "143.895"
+        }, 
+        {
+            "text": "We&#39;re very logical creatures.", 
+            "dur": "1.225", 
+            "start": "145.306"
+        }, 
+        {
+            "text": "So I want you to play along with me a few games.", 
+            "dur": "2.768", 
+            "start": "146.531"
+        }, 
+        {
+            "text": "Take a look at this sentence.", 
+            "dur": "1.878", 
+            "start": "149.299"
+        }, 
+        {
+            "text": "Now most of you reading the sentence", 
+            "dur": "2.258", 
+            "start": "156.115"
+        }, 
+        {
+            "text": "the second time around", 
+            "dur": "1.211", 
+            "start": "158.373"
+        }, 
+        {
+            "text": "will realize that you missed the word &quot;the&quot;", 
+            "dur": "2.135", 
+            "start": "159.584"
+        }, 
+        {
+            "text": "the first time around.", 
+            "dur": "2.036", 
+            "start": "161.719"
+        }, 
+        {
+            "text": "Your mind is very logical,", 
+            "dur": "1.186", 
+            "start": "163.755"
+        }, 
+        {
+            "text": "it proceeds forward,", 
+            "dur": "1.283", 
+            "start": "164.941"
+        }, 
+        {
+            "text": "it just ignores anything that breaks with its logical stream,", 
+            "dur": "3.809", 
+            "start": "166.224"
+        }, 
+        {
+            "text": "and so you don&#39;t see the word &quot;the&quot; the first time,", 
+            "dur": "2.578", 
+            "start": "170.033"
+        }, 
+        {
+            "text": "the second &quot;the,&quot; the first time you read it.", 
+            "dur": "2.423", 
+            "start": "172.611"
+        }, 
+        {
+            "text": "But if you read this sentence backwards,", 
+            "dur": "2.673", 
+            "start": "175.034"
+        }, 
+        {
+            "text": "you would automatically catch it.", 
+            "dur": "1.568", 
+            "start": "177.707"
+        }, 
+        {
+            "text": "You&#39;d go backwards,", 
+            "dur": "0.904", 
+            "start": "179.275"
+        }, 
+        {
+            "text": "and you get to &quot;brain&quot;,", 
+            "dur": "0.891", 
+            "start": "180.179"
+        }, 
+        {
+            "text": "and you get to &quot;the,&quot;", 
+            "dur": "0.498", 
+            "start": "181.07"
+        }, 
+        {
+            "text": "and then you say, &quot;Whoa, there are two &#39;the&#39;s&#39; in the sentence.&quot;", 
+            "dur": "2.293", 
+            "start": "181.568"
+        }, 
+        {
+            "text": "This is a really cool trick for proofreading papers.", 
+            "dur": "3.592", 
+            "start": "183.861"
+        }, 
+        {
+            "text": "You know, you&#39;re writing your paper", 
+            "dur": "0.858", 
+            "start": "187.453"
+        }, 
+        {
+            "text": "and there are these silly mistakes.", 
+            "dur": "1.334", 
+            "start": "188.311"
+        }, 
+        {
+            "text": "Why are these mistakes in my paper?", 
+            "dur": "1.535", 
+            "start": "189.645"
+        }, 
+        {
+            "text": "You read it backwards, you&#39;ll catch all of them.", 
+            "dur": "2.933", 
+            "start": "191.18"
+        }, 
+        {
+            "text": "Alright, let&#39;s go on to this problem, an interesting problem.", 
+            "dur": "3.524", 
+            "start": "194.113"
+        }, 
+        {
+            "text": "&quot;Bacteria that double every 24 hours", 
+            "dur": "2.729", 
+            "start": "197.637"
+        }, 
+        {
+            "text": "fill a lake it has infested after precisely 60 days.", 
+            "dur": "4.945", 
+            "start": "200.366"
+        }, 
+        {
+            "text": "On what day was the lake half-full?&quot;", 
+            "dur": "3.088", 
+            "start": "205.311"
+        }, 
+        {
+            "text": "Now, a lot of people had seen this problem", 
+            "dur": "1.6", 
+            "start": "210.184"
+        }, 
+        {
+            "text": "and they&#39;d think, &quot;30, like, you know, you split it in half.&quot;", 
+            "dur": "3.415", 
+            "start": "211.784"
+        }, 
+        {
+            "text": "Well, that&#39;s not the right answer.", 
+            "dur": "1.437", 
+            "start": "215.199"
+        }, 
+        {
+            "text": "And, also, people might want a calculator.", 
+            "dur": "3.341", 
+            "start": "216.636"
+        }, 
+        {
+            "text": "It&#39;s too big, it&#39;s math, it&#39;s boring,", 
+            "dur": "1.496", 
+            "start": "219.977"
+        }, 
+        {
+            "text": "I don&#39;t want to do that either.", 
+            "dur": "1.784", 
+            "start": "221.473"
+        }, 
+        {
+            "text": "But, if you do that problem backwards,", 
+            "dur": "1.186", 
+            "start": "223.257"
+        }, 
+        {
+            "text": "you get the answer right away.", 
+            "dur": "1.335", 
+            "start": "224.443"
+        }, 
+        {
+            "text": "What&#39;s the answer?", 
+            "dur": "1.81", 
+            "start": "225.778"
+        }, 
+        {
+            "text": "59, obviously.", 
+            "dur": "1.104", 
+            "start": "227.588"
+        }, 
+        {
+            "text": "You start at the end, you go backwards,", 
+            "dur": "1.876", 
+            "start": "228.692"
+        }, 
+        {
+            "text": "it&#39;s like, &quot;Oh yeah, it&#39;s half-full, the answer is 59.&quot;", 
+            "dur": "3.393", 
+            "start": "230.568"
+        }, 
+        {
+            "text": "Here&#39;s another puzzle, a little bit more complicated.", 
+            "dur": "1.971", 
+            "start": "233.961"
+        }, 
+        {
+            "text": "You have six numbers, 1 through 6.", 
+            "dur": "2.689", 
+            "start": "235.932"
+        }, 
+        {
+            "text": "The cards are face-down.", 
+            "dur": "1.449", 
+            "start": "238.621"
+        }, 
+        {
+            "text": "You and I are going to pick a card.", 
+            "dur": "1.667", 
+            "start": "240.07"
+        }, 
+        {
+            "text": "You pick a card and you look at it", 
+            "dur": "1.404", 
+            "start": "241.737"
+        }, 
+        {
+            "text": "and it says the number 2.", 
+            "dur": "1.894", 
+            "start": "243.141"
+        }, 
+        {
+            "text": "I look at my card,", 
+            "dur": "1.318", 
+            "start": "245.035"
+        }, 
+        {
+            "text": "I think about it for a minute", 
+            "dur": "0.989", 
+            "start": "246.353"
+        }, 
+        {
+            "text": "and I say, &quot;I want to trade.&quot;", 
+            "dur": "2.239", 
+            "start": "247.342"
+        }, 
+        {
+            "text": "The reason I want to trade,", 
+            "dur": "1.028", 
+            "start": "249.581"
+        }, 
+        {
+            "text": "we&#39;re going to trade to see", 
+            "dur": "0.618", 
+            "start": "250.609"
+        }, 
+        {
+            "text": "who has the highest number at the end.", 
+            "dur": "2.629", 
+            "start": "251.227"
+        }, 
+        {
+            "text": "Do you trade with me?", 
+            "dur": "1.953", 
+            "start": "253.856"
+        }, 
+        {
+            "text": "Most people say, &quot;Of course, I got a 2, 2 sucks!", 
+            "dur": "3.561", 
+            "start": "257.516"
+        }, 
+        {
+            "text": "There are four numbers higher,", 
+            "dur": "1.455", 
+            "start": "261.077"
+        }, 
+        {
+            "text": "probability says I&#39;m going to do better.&quot;", 
+            "dur": "2.531", 
+            "start": "262.532"
+        }, 
+        {
+            "text": "Wrong answer, you&#39;re playing a Grandmaster.", 
+            "dur": "3.161", 
+            "start": "265.063"
+        }, 
+        {
+            "text": "You start from the back and you work it out.", 
+            "dur": "1.607", 
+            "start": "268.224"
+        }, 
+        {
+            "text": "If I had the number 6, would I offer to trade?", 
+            "dur": "2.439", 
+            "start": "269.831"
+        }, 
+        {
+            "text": "Of course not, I&#39;m not dumb.", 
+            "dur": "1.704", 
+            "start": "272.27"
+        }, 
+        {
+            "text": "What about the number 5?", 
+            "dur": "1.267", 
+            "start": "273.974"
+        }, 
+        {
+            "text": "Probably not either,", 
+            "dur": "0.654", 
+            "start": "275.241"
+        }, 
+        {
+            "text": "because you&#39;re not going to say yes if you have a 6.", 
+            "dur": "2.157", 
+            "start": "275.895"
+        }, 
+        {
+            "text": "Well, if 5 is not going to trade and 6 is not going to trade,", 
+            "dur": "2.539", 
+            "start": "278.052"
+        }, 
+        {
+            "text": "4 is going to be like,", 
+            "dur": "1.225", 
+            "start": "280.591"
+        }, 
+        {
+            "text": "&quot;I&#39;m not trading either because 5&#39;s and 6&#39;s don&#39;t trade.&quot;", 
+            "dur": "2.902", 
+            "start": "281.816"
+        }, 
+        {
+            "text": "So you see what happens as we work backwards.", 
+            "dur": "1.543", 
+            "start": "284.718"
+        }, 
+        {
+            "text": "3 is going to realize 4, 5, and 6 - they don&#39;t trade,", 
+            "dur": "2.896", 
+            "start": "286.261"
+        }, 
+        {
+            "text": "so the offer is definitely a 1", 
+            "dur": "2", 
+            "start": "289.157"
+        }, 
+        {
+            "text": "and all of you who said yes,", 
+            "dur": "1.135", 
+            "start": "291.157"
+        }, 
+        {
+            "text": "thanks for your money.", 
+            "dur": "2.228", 
+            "start": "292.292"
+        }, 
+        {
+            "text": "So, this retrograde analysis is used in different places.", 
+            "dur": "4.014", 
+            "start": "295.92"
+        }, 
+        {
+            "text": "It&#39;s used to prove intoxications hours after an alleged DUI", 
+            "dur": "4.771", 
+            "start": "299.934"
+        }, 
+        {
+            "text": "by Pennsylvania police officers,", 
+            "dur": "2.154", 
+            "start": "304.705"
+        }, 
+        {
+            "text": "which is kind of cool.", 
+            "dur": "1.351", 
+            "start": "306.859"
+        }, 
+        {
+            "text": "Well, it means don&#39;t drink and drive.", 
+            "dur": "2.16", 
+            "start": "308.21"
+        }, 
+        {
+            "text": "The use of retro-analysis is used in", 
+            "dur": "1.405", 
+            "start": "310.37"
+        }, 
+        {
+            "text": "law,", 
+            "dur": "0.337", 
+            "start": "311.775"
+        }, 
+        {
+            "text": "science,", 
+            "dur": "0.341", 
+            "start": "312.112"
+        }, 
+        {
+            "text": "medicine,", 
+            "dur": "0.459", 
+            "start": "312.453"
+        }, 
+        {
+            "text": "insurance,", 
+            "dur": "0.531", 
+            "start": "312.912"
+        }, 
+        {
+            "text": "stock market,", 
+            "dur": "1.101", 
+            "start": "313.443"
+        }, 
+        {
+            "text": "politics,", 
+            "dur": "0.693", 
+            "start": "314.544"
+        }, 
+        {
+            "text": "career planning.", 
+            "dur": "1.273", 
+            "start": "315.237"
+        }, 
+        {
+            "text": "But I find its use to be a more interesting place,", 
+            "dur": "2.736", 
+            "start": "316.51"
+        }, 
+        {
+            "text": "maybe one of the most interesting uses is in", 
+            "dur": "2.818", 
+            "start": "319.246"
+        }, 
+        {
+            "text": "this movie, which I know a lot of you know,", 
+            "dur": "1.923", 
+            "start": "322.064"
+        }, 
+        {
+            "text": "&lt;i&gt;The Curious Case of Benjamin Button&lt;/i&gt;,", 
+            "dur": "2.307", 
+            "start": "323.987"
+        }, 
+        {
+            "text": "where Brad Pitt plays a guy", 
+            "dur": "1.968", 
+            "start": "326.294"
+        }, 
+        {
+            "text": "who&#39;s living his life backwards.", 
+            "dur": "2.549", 
+            "start": "328.262"
+        }, 
+        {
+            "text": "And what this movie makes me think of", 
+            "dur": "1.911", 
+            "start": "330.811"
+        }, 
+        {
+            "text": "is that great quote that,", 
+            "dur": "2.226", 
+            "start": "332.722"
+        }, 
+        {
+            "text": "well, that quote you often hear from people who are older,", 
+            "dur": "2.757", 
+            "start": "334.948"
+        }, 
+        {
+            "text": "that youth is wasted on the young.", 
+            "dur": "3.911", 
+            "start": "337.705"
+        }, 
+        {
+            "text": "Well, if you can see the end game,", 
+            "dur": "3.464", 
+            "start": "341.616"
+        }, 
+        {
+            "text": "your youth will not be wasted on you.", 
+            "dur": "2.468", 
+            "start": "345.08"
+        }, 
+        {
+            "text": "Thank you very much.", 
+            "dur": "1.335", 
+            "start": "347.548"
+        }
+    ], 
+    "title": "Working backward to solve problems - Maurice Ashley", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/015dm7", 
+        "/m/053w_z", 
+        "/m/058p1b", 
+        "/m/04181l6"
+    ], 
+    "raw_score": 9, 
+    "number_views": 143376, 
+    "categories": [
+        27
+    ]
+}

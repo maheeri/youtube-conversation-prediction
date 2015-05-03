@@ -1,0 +1,1017 @@
+{
+    "publish_date": "2013-04-16T15:05:43.000Z", 
+    "score": 0.00013592923315000315, 
+    "video_length": "PT9M45S", 
+    "captions": [
+        {
+            "text": "Nameste.", 
+            "dur": "1.299", 
+            "start": "15.078"
+        }, 
+        {
+            "text": "I&#39;m from India,", 
+            "dur": "1.185", 
+            "start": "16.377"
+        }, 
+        {
+            "text": "and India is one of the oldest civilizations in the world.", 
+            "dur": "4.19", 
+            "start": "17.562"
+        }, 
+        {
+            "text": "It has contributed to the world", 
+            "dur": "1.524", 
+            "start": "21.752"
+        }, 
+        {
+            "text": "concepts such as yoga,", 
+            "dur": "2.18", 
+            "start": "23.276"
+        }, 
+        {
+            "text": "ayurveda,", 
+            "dur": "1.201", 
+            "start": "25.456"
+        }, 
+        {
+            "text": "spicy chicken tikka,", 
+            "dur": "3.568", 
+            "start": "26.657"
+        }, 
+        {
+            "text": "and Vedic math.", 
+            "dur": "1.932", 
+            "start": "30.225"
+        }, 
+        {
+            "text": "Vedic math is one of the world&#39;s easiest", 
+            "dur": "2.848", 
+            "start": "32.157"
+        }, 
+        {
+            "text": "and simplest way to do math.", 
+            "dur": "2.496", 
+            "start": "35.005"
+        }, 
+        {
+            "text": "We are going to combine together", 
+            "dur": "1.351", 
+            "start": "37.501"
+        }, 
+        {
+            "text": "and do some number crunching today.", 
+            "dur": "2.159", 
+            "start": "38.852"
+        }, 
+        {
+            "text": "So what we are going to first do is multiply by 11.", 
+            "dur": "3.827", 
+            "start": "41.011"
+        }, 
+        {
+            "text": "We&#39;re going to do it together,", 
+            "dur": "1.726", 
+            "start": "44.838"
+        }, 
+        {
+            "text": "so if you blink, you&#39;re going to miss it.", 
+            "dur": "2.347", 
+            "start": "46.564"
+        }, 
+        {
+            "text": "So just watch it, OK.", 
+            "dur": "2.866", 
+            "start": "48.911"
+        }, 
+        {
+            "text": "So we&#39;re going to do 32 times 11, OK.", 
+            "dur": "3.183", 
+            "start": "51.777"
+        }, 
+        {
+            "text": "So we split 3, and we split 2,", 
+            "dur": "2.061", 
+            "start": "54.96"
+        }, 
+        {
+            "text": "and we add 3 and 2 and paste it on top,", 
+            "dur": "2.802", 
+            "start": "57.021"
+        }, 
+        {
+            "text": "and we get the answer as 352.", 
+            "dur": "4.025", 
+            "start": "59.823"
+        }, 
+        {
+            "text": "That&#39;s it.", 
+            "dur": "1.756", 
+            "start": "69.54"
+        }, 
+        {
+            "text": "Let&#39;s try another sum.", 
+            "dur": "1.277", 
+            "start": "71.296"
+        }, 
+        {
+            "text": "45 times 11.", 
+            "dur": "2.323", 
+            "start": "72.573"
+        }, 
+        {
+            "text": "Let&#39;s hear it.", 
+            "dur": "1.462", 
+            "start": "74.896"
+        }, 
+        {
+            "text": "Exactly, that&#39;s 495.", 
+            "dur": "4.218", 
+            "start": "76.358"
+        }, 
+        {
+            "text": "And 75 times 11.", 
+            "dur": "3.367", 
+            "start": "80.576"
+        }, 
+        {
+            "text": "So it gives you 7,125,", 
+            "dur": "2.546", 
+            "start": "85.636"
+        }, 
+        {
+            "text": "1 gets carried over and it becomes 825.", 
+            "dur": "5.182", 
+            "start": "88.182"
+        }, 
+        {
+            "text": "That&#39;s how simple it is.", 
+            "dur": "3.108", 
+            "start": "95.18"
+        }, 
+        {
+            "text": "OK, this is the principle behind it", 
+            "dur": "2.903", 
+            "start": "98.288"
+        }, 
+        {
+            "text": "where a is the coefficient.", 
+            "dur": "4.737", 
+            "start": "101.191"
+        }, 
+        {
+            "text": "Let&#39;s move on.", 
+            "dur": "1.773", 
+            "start": "105.928"
+        }, 
+        {
+            "text": "OK, now what we&#39;re going to do is the base method.", 
+            "dur": "4.177", 
+            "start": "110.535"
+        }, 
+        {
+            "text": "OK, this is used to multiply numbers", 
+            "dur": "2.874", 
+            "start": "114.712"
+        }, 
+        {
+            "text": "very close to the powers of 10,", 
+            "dur": "2.085", 
+            "start": "117.586"
+        }, 
+        {
+            "text": "like 10, 100, 1,000, and so on.", 
+            "dur": "2.883", 
+            "start": "119.671"
+        }, 
+        {
+            "text": "So we have a sum here, say 99 times 97.", 
+            "dur": "3.937", 
+            "start": "122.554"
+        }, 
+        {
+            "text": "OK, now tell me, is 99 more than 100 or less than 100?", 
+            "dur": "5.607", 
+            "start": "126.491"
+        }, 
+        {
+            "text": "Less by how much?", 
+            "dur": "2.133", 
+            "start": "132.098"
+        }, 
+        {
+            "text": "So we write minus 01.", 
+            "dur": "4.146", 
+            "start": "134.231"
+        }, 
+        {
+            "text": "And 97 is less than 100 by how much?", 
+            "dur": "3.682", 
+            "start": "138.377"
+        }, 
+        {
+            "text": "So we write minus 03.", 
+            "dur": "1.803", 
+            "start": "142.059"
+        }, 
+        {
+            "text": "So what we&#39;re going to do is", 
+            "dur": "1.751", 
+            "start": "143.862"
+        }, 
+        {
+            "text": "we&#39;re going to cross subtract", 
+            "dur": "1.652", 
+            "start": "145.613"
+        }, 
+        {
+            "text": "and get the first part of the answer, like this.", 
+            "dur": "3.761", 
+            "start": "147.265"
+        }, 
+        {
+            "text": "We&#39;re going to do cross subtraction.", 
+            "dur": "1.908", 
+            "start": "151.026"
+        }, 
+        {
+            "text": "97 minus 01 would give us", 
+            "dur": "3.885", 
+            "start": "152.934"
+        }, 
+        {
+            "text": "96.", 
+            "dur": "1.015", 
+            "start": "156.819"
+        }, 
+        {
+            "text": "and we multiply 03 times 01 vertically,", 
+            "dur": "4.399", 
+            "start": "157.834"
+        }, 
+        {
+            "text": "and we get an answer of 03.", 
+            "dur": "4.149", 
+            "start": "162.233"
+        }, 
+        {
+            "text": "Let&#39;s check another sum.", 
+            "dur": "1.14", 
+            "start": "166.382"
+        }, 
+        {
+            "text": "Try and do it yourselves.", 
+            "dur": "2.369", 
+            "start": "167.522"
+        }, 
+        {
+            "text": "We got 98, which is,", 
+            "dur": "4.165", 
+            "start": "169.891"
+        }, 
+        {
+            "text": "is it more than a 100, less than 100?", 
+            "dur": "2.47", 
+            "start": "174.056"
+        }, 
+        {
+            "text": "By how much?", 
+            "dur": "1.317", 
+            "start": "176.526"
+        }, 
+        {
+            "text": "And 97 is 3.", 
+            "dur": "2.452", 
+            "start": "177.843"
+        }, 
+        {
+            "text": "So we got 98,", 
+            "dur": "1.382", 
+            "start": "180.295"
+        }, 
+        {
+            "text": "we go crosswise,", 
+            "dur": "1.417", 
+            "start": "181.677"
+        }, 
+        {
+            "text": "we got 98 minus 3,", 
+            "dur": "1.905", 
+            "start": "183.094"
+        }, 
+        {
+            "text": "or we can do 97 minus 2,", 
+            "dur": "1.7", 
+            "start": "184.999"
+        }, 
+        {
+            "text": "they&#39;ll all give you the same answer.", 
+            "dur": "2.404", 
+            "start": "186.699"
+        }, 
+        {
+            "text": "So that would give us 95.", 
+            "dur": "3.005", 
+            "start": "189.103"
+        }, 
+        {
+            "text": "And the second part would be", 
+            "dur": "2.449", 
+            "start": "192.108"
+        }, 
+        {
+            "text": "06.", 
+            "dur": "1.546", 
+            "start": "194.557"
+        }, 
+        {
+            "text": "So that&#39;s our answer.", 
+            "dur": "2.3", 
+            "start": "196.103"
+        }, 
+        {
+            "text": "OK, let&#39;s take a bigger number.", 
+            "dur": "2.366", 
+            "start": "200.65"
+        }, 
+        {
+            "text": "Let&#39;s try this one.", 
+            "dur": "1.167", 
+            "start": "203.016"
+        }, 
+        {
+            "text": "Here the base is 1,000.", 
+            "dur": "2.911", 
+            "start": "204.183"
+        }, 
+        {
+            "text": "So we got -004,", 
+            "dur": "3.907", 
+            "start": "207.094"
+        }, 
+        {
+            "text": "and 997 would be", 
+            "dur": "2.827", 
+            "start": "211.001"
+        }, 
+        {
+            "text": "-003.", 
+            "dur": "1.286", 
+            "start": "213.828"
+        }, 
+        {
+            "text": "We go crosswise like this,", 
+            "dur": "2.716", 
+            "start": "215.114"
+        }, 
+        {
+            "text": "and we get 996 minus 003 would give us", 
+            "dur": "3.957", 
+            "start": "217.83"
+        }, 
+        {
+            "text": "993,", 
+            "dur": "1.225", 
+            "start": "222.91"
+        }, 
+        {
+            "text": "and 004 times 003 would give us", 
+            "dur": "3.475", 
+            "start": "224.135"
+        }, 
+        {
+            "text": "012.", 
+            "dur": "1.28", 
+            "start": "227.61"
+        }, 
+        {
+            "text": "And that&#39;s our answer.", 
+            "dur": "2.412", 
+            "start": "228.89"
+        }, 
+        {
+            "text": "Thank you.", 
+            "dur": "1.231", 
+            "start": "238.738"
+        }, 
+        {
+            "text": "14 times 12.", 
+            "dur": "2.046", 
+            "start": "239.969"
+        }, 
+        {
+            "text": "OK, here the base is 10.", 
+            "dur": "2.726", 
+            "start": "242.015"
+        }, 
+        {
+            "text": "OK, so is 14 more than 10 or less than 10?", 
+            "dur": "4.37", 
+            "start": "244.741"
+        }, 
+        {
+            "text": "More, so we got plus 4,", 
+            "dur": "2.536", 
+            "start": "249.111"
+        }, 
+        {
+            "text": "and 12, we got plus 2.", 
+            "dur": "2.967", 
+            "start": "251.647"
+        }, 
+        {
+            "text": "Again, we apply the same rule,", 
+            "dur": "1.746", 
+            "start": "254.614"
+        }, 
+        {
+            "text": "so we do 12 plus 4,", 
+            "dur": "2.099", 
+            "start": "256.36"
+        }, 
+        {
+            "text": "which gives us 16, like this.", 
+            "dur": "4.161", 
+            "start": "258.459"
+        }, 
+        {
+            "text": "And we multiply 2 and 4, that gives us 8.", 
+            "dur": "4.865", 
+            "start": "262.62"
+        }, 
+        {
+            "text": "So now, all of us here,", 
+            "dur": "2.189", 
+            "start": "267.485"
+        }, 
+        {
+            "text": "we&#39;re going to do mental squaring, OK.", 
+            "dur": "2.834", 
+            "start": "269.674"
+        }, 
+        {
+            "text": "Everybody is going to participate here,", 
+            "dur": "2.058", 
+            "start": "272.508"
+        }, 
+        {
+            "text": "and we&#39;re going to do squares of numbers", 
+            "dur": "2.245", 
+            "start": "274.566"
+        }, 
+        {
+            "text": "more than 100 mentally right now.", 
+            "dur": "2.967", 
+            "start": "276.811"
+        }, 
+        {
+            "text": "So we got 101,", 
+            "dur": "1.258", 
+            "start": "279.778"
+        }, 
+        {
+            "text": "OK, now visualize on the board,", 
+            "dur": "2.07", 
+            "start": "281.036"
+        }, 
+        {
+            "text": "what&#39;s going to be on the right hand side.", 
+            "dur": "2.763", 
+            "start": "283.106"
+        }, 
+        {
+            "text": "Plus 01, so we got that.", 
+            "dur": "4.716", 
+            "start": "287.266"
+        }, 
+        {
+            "text": "OK, now we add plus sides, right?", 
+            "dur": "2.466", 
+            "start": "291.982"
+        }, 
+        {
+            "text": "Yes? No?", 
+            "dur": "1.511", 
+            "start": "294.448"
+        }, 
+        {
+            "text": "So we got 101 plus 01,", 
+            "dur": "2.63", 
+            "start": "295.959"
+        }, 
+        {
+            "text": "that would give us", 
+            "dur": "2.152", 
+            "start": "298.589"
+        }, 
+        {
+            "text": "102,", 
+            "dur": "1.491", 
+            "start": "300.741"
+        }, 
+        {
+            "text": "and, see here, like this.", 
+            "dur": "5.802", 
+            "start": "302.232"
+        }, 
+        {
+            "text": "And 01 is getting squared, right?", 
+            "dur": "2.44", 
+            "start": "308.034"
+        }, 
+        {
+            "text": "So that would give us", 
+            "dur": "1.239", 
+            "start": "310.474"
+        }, 
+        {
+            "text": "01, and that&#39;s your answer.", 
+            "dur": "4.104", 
+            "start": "311.713"
+        }, 
+        {
+            "text": "Try the next one.", 
+            "dur": "1.493", 
+            "start": "315.817"
+        }, 
+        {
+            "text": "Let&#39;s try 102 squared.", 
+            "dur": "2.846", 
+            "start": "320.447"
+        }, 
+        {
+            "text": "Let&#39;s try, everybody.", 
+            "dur": "1.574", 
+            "start": "325.069"
+        }, 
+        {
+            "text": "So 100,", 
+            "dur": "1.281", 
+            "start": "326.643"
+        }, 
+        {
+            "text": "so 102 would be", 
+            "dur": "2.081", 
+            "start": "329.785"
+        }, 
+        {
+            "text": "10404.", 
+            "dur": "2.31", 
+            "start": "331.866"
+        }, 
+        {
+            "text": "OK, now the next one, try it everybody together.", 
+            "dur": "3.347", 
+            "start": "334.176"
+        }, 
+        {
+            "text": "I&#39;ll give you 5 seconds.", 
+            "dur": "2.427", 
+            "start": "337.523"
+        }, 
+        {
+            "text": "OK, let&#39;s say it together, let&#39;s say it together, OK.", 
+            "dur": "3.646", 
+            "start": "341.963"
+        }, 
+        {
+            "text": "[10609]", 
+            "dur": "3.027", 
+            "start": "345.609"
+        }, 
+        {
+            "text": "10609 and that&#39;s the answer.", 
+            "dur": "3.118", 
+            "start": "348.636"
+        }, 
+        {
+            "text": "Woo!", 
+            "dur": "0.994", 
+            "start": "352.291"
+        }, 
+        {
+            "text": "104 squared, how much would that be?", 
+            "dur": "3.975", 
+            "start": "355.423"
+        }, 
+        {
+            "text": "Calculate it, 5 seconds.", 
+            "dur": "2.931", 
+            "start": "359.398"
+        }, 
+        {
+            "text": "Come on, girls in the back.", 
+            "dur": "3.688", 
+            "start": "362.329"
+        }, 
+        {
+            "text": "OK, so the answer would be", 
+            "dur": "2.125", 
+            "start": "367.001"
+        }, 
+        {
+            "text": "10816.", 
+            "dur": "3.981", 
+            "start": "369.126"
+        }, 
+        {
+            "text": "OK, let&#39;s do the next one: 105 squared.", 
+            "dur": "3.562", 
+            "start": "373.107"
+        }, 
+        {
+            "text": "Oh, no, no, no, no,", 
+            "dur": "1.385", 
+            "start": "380.699"
+        }, 
+        {
+            "text": "we&#39;re going to try over, we&#39;re going to try over, OK?", 
+            "dur": "2.835", 
+            "start": "382.084"
+        }, 
+        {
+            "text": "OK. I&#39;ll give you 5 seconds, just think about it.", 
+            "dur": "4.772", 
+            "start": "384.919"
+        }, 
+        {
+            "text": "OK, now we&#39;re going to go, OK?", 
+            "dur": "1.909", 
+            "start": "389.691"
+        }, 
+        {
+            "text": "11025.", 
+            "dur": "4.331", 
+            "start": "391.6"
+        }, 
+        {
+            "text": "OK, let&#39;s going to do the next one, 106 squared.", 
+            "dur": "2.796", 
+            "start": "395.931"
+        }, 
+        {
+            "text": "Try it, come one, everybody, it&#39;s simple and easy.", 
+            "dur": "2.77", 
+            "start": "398.727"
+        }, 
+        {
+            "text": "[11236]", 
+            "dur": "3.134", 
+            "start": "401.497"
+        }, 
+        {
+            "text": "OK, let&#39;s do it one more time.", 
+            "dur": "1.582", 
+            "start": "404.631"
+        }, 
+        {
+            "text": "11236.", 
+            "dur": "4.485", 
+            "start": "406.213"
+        }, 
+        {
+            "text": "Now 107, think, hold on, don&#39;t say anything out loud,", 
+            "dur": "2.841", 
+            "start": "410.698"
+        }, 
+        {
+            "text": "just think mentally,", 
+            "dur": "2.234", 
+            "start": "413.539"
+        }, 
+        {
+            "text": "107 squared.", 
+            "dur": "1.802", 
+            "start": "415.773"
+        }, 
+        {
+            "text": "OK, now let&#39;s say it out loud.", 
+            "dur": "2.08", 
+            "start": "418.898"
+        }, 
+        {
+            "text": "11449.", 
+            "dur": "4.569", 
+            "start": "420.978"
+        }, 
+        {
+            "text": "And 108 squared.", 
+            "dur": "2.478", 
+            "start": "425.547"
+        }, 
+        {
+            "text": "[11664]", 
+            "dur": "4.371", 
+            "start": "428.025"
+        }, 
+        {
+            "text": "Fantastic, give yourself a round of applause, come on!", 
+            "dur": "2.88", 
+            "start": "432.396"
+        }, 
+        {
+            "text": "And this is the principle behind this,", 
+            "dur": "3.128", 
+            "start": "440.337"
+        }, 
+        {
+            "text": "where a and b are the excesses", 
+            "dur": "2.036", 
+            "start": "443.465"
+        }, 
+        {
+            "text": "or the deficiency from the base.", 
+            "dur": "3.894", 
+            "start": "445.501"
+        }, 
+        {
+            "text": "I&#39;m going to teach you", 
+            "dur": "1.024", 
+            "start": "449.395"
+        }, 
+        {
+            "text": "in Vedic math, there are 16 sutras,", 
+            "dur": "2.39", 
+            "start": "450.419"
+        }, 
+        {
+            "text": "or word formulas, OK.", 
+            "dur": "2.903", 
+            "start": "452.809"
+        }, 
+        {
+            "text": "They are very visual", 
+            "dur": "1.268", 
+            "start": "455.712"
+        }, 
+        {
+            "text": "and one of them is called, &quot;vertically and crosswise,&quot;", 
+            "dur": "3.736", 
+            "start": "456.98"
+        }, 
+        {
+            "text": "through which you can multiply any number", 
+            "dur": "2.487", 
+            "start": "460.716"
+        }, 
+        {
+            "text": "by any number in a single line.", 
+            "dur": "2.663", 
+            "start": "463.203"
+        }, 
+        {
+            "text": "So I&#39;m going to do a two-digit by a two-digit multiplication.", 
+            "dur": "4.337", 
+            "start": "465.866"
+        }, 
+        {
+            "text": "Let&#39;s do this.", 
+            "dur": "1.11", 
+            "start": "470.203"
+        }, 
+        {
+            "text": "So we got 31 times 12.", 
+            "dur": "2.866", 
+            "start": "471.313"
+        }, 
+        {
+            "text": "OK, so we&#39;re going to apply", 
+            "dur": "1.51", 
+            "start": "474.179"
+        }, 
+        {
+            "text": "the vertically and crosswise sutra.", 
+            "dur": "3.695", 
+            "start": "475.689"
+        }, 
+        {
+            "text": "So we&#39;re going to do like this:", 
+            "dur": "3.371", 
+            "start": "479.384"
+        }, 
+        {
+            "text": "vertically, and then we&#39;re going to go crosswise,", 
+            "dur": "3.374", 
+            "start": "482.755"
+        }, 
+        {
+            "text": "and then we&#39;re going to do vertical again.", 
+            "dur": "3.636", 
+            "start": "486.129"
+        }, 
+        {
+            "text": "So, 2 times 1 gives us", 
+            "dur": "2.34", 
+            "start": "489.765"
+        }, 
+        {
+            "text": "[2],", 
+            "dur": "1.452", 
+            "start": "492.105"
+        }, 
+        {
+            "text": "2 times 3 gives us", 
+            "dur": "1.528", 
+            "start": "493.557"
+        }, 
+        {
+            "text": "[6],", 
+            "dur": "1.491", 
+            "start": "495.085"
+        }, 
+        {
+            "text": "and 1 times 1 gives us", 
+            "dur": "1.145", 
+            "start": "496.576"
+        }, 
+        {
+            "text": "[1].", 
+            "dur": "1.07", 
+            "start": "497.721"
+        }, 
+        {
+            "text": "6 plus 1,", 
+            "dur": "0.741", 
+            "start": "498.791"
+        }, 
+        {
+            "text": "[7].", 
+            "dur": "0.919", 
+            "start": "499.532"
+        }, 
+        {
+            "text": "1 times 3 gives us", 
+            "dur": "1.662", 
+            "start": "502.005"
+        }, 
+        {
+            "text": "[3].", 
+            "dur": "1.543", 
+            "start": "503.667"
+        }, 
+        {
+            "text": "And that&#39;s it, and that&#39;s our answer.", 
+            "dur": "2.906", 
+            "start": "505.21"
+        }, 
+        {
+            "text": "No more tedious calculations,", 
+            "dur": "2.967", 
+            "start": "516.315"
+        }, 
+        {
+            "text": "no more going through the rough work,", 
+            "dur": "2.172", 
+            "start": "519.282"
+        }, 
+        {
+            "text": "it&#39;s simple in one line.", 
+            "dur": "2.465", 
+            "start": "521.454"
+        }, 
+        {
+            "text": "I want to show you a sum again,", 
+            "dur": "1.984", 
+            "start": "525.289"
+        }, 
+        {
+            "text": "this time with carry-overs.", 
+            "dur": "1.689", 
+            "start": "527.273"
+        }, 
+        {
+            "text": "The same formula, all of us here can do this, OK.", 
+            "dur": "4.201", 
+            "start": "528.962"
+        }, 
+        {
+            "text": "Same formula.", 
+            "dur": "1.236", 
+            "start": "533.163"
+        }, 
+        {
+            "text": "So let&#39;s get started.", 
+            "dur": "1.37", 
+            "start": "534.399"
+        }, 
+        {
+            "text": "4 times 2 gives us", 
+            "dur": "1.32", 
+            "start": "535.769"
+        }, 
+        {
+            "text": "[8].", 
+            "dur": "1.903", 
+            "start": "537.089"
+        }, 
+        {
+            "text": "OK, now we go crosswise like this,", 
+            "dur": "3.032", 
+            "start": "538.992"
+        }, 
+        {
+            "text": "so we&#39;re going to multiply 4 times 1,", 
+            "dur": "2.214", 
+            "start": "542.024"
+        }, 
+        {
+            "text": "[4],", 
+            "dur": "1.135", 
+            "start": "544.238"
+        }, 
+        {
+            "text": "and 3 times 2,", 
+            "dur": "1.068", 
+            "start": "545.373"
+        }, 
+        {
+            "text": "[6]", 
+            "dur": "1.005", 
+            "start": "546.441"
+        }, 
+        {
+            "text": "4 plus 6 gives us", 
+            "dur": "1.197", 
+            "start": "547.446"
+        }, 
+        {
+            "text": "[10].", 
+            "dur": "0.668", 
+            "start": "548.643"
+        }, 
+        {
+            "text": "So we put down 0, carry the 1.", 
+            "dur": "2.302", 
+            "start": "549.311"
+        }, 
+        {
+            "text": "And 3 times 1 gives us", 
+            "dur": "1.473", 
+            "start": "551.613"
+        }, 
+        {
+            "text": "[3],", 
+            "dur": "0.976", 
+            "start": "553.086"
+        }, 
+        {
+            "text": "plus 1,", 
+            "dur": "0.83", 
+            "start": "554.062"
+        }, 
+        {
+            "text": "[4].", 
+            "dur": "0.795", 
+            "start": "554.892"
+        }, 
+        {
+            "text": "Exactly, that&#39;s our answer, 408.", 
+            "dur": "3.227", 
+            "start": "555.687"
+        }, 
+        {
+            "text": "OK, thank you for being such a participative audience,", 
+            "dur": "3.491", 
+            "start": "558.914"
+        }, 
+        {
+            "text": "and we had a great time number crunching.", 
+            "dur": "2.159", 
+            "start": "562.405"
+        }, 
+        {
+            "text": "Now I want to end with a question:", 
+            "dur": "2.427", 
+            "start": "564.564"
+        }, 
+        {
+            "text": "whether you&#39;d like math to be dull or boring,", 
+            "dur": "4.013", 
+            "start": "566.991"
+        }, 
+        {
+            "text": "or fun and interesting?", 
+            "dur": "1.868", 
+            "start": "571.004"
+        }, 
+        {
+            "text": "The choice is yours.", 
+            "dur": "1.634", 
+            "start": "572.872"
+        }
+    ], 
+    "title": "The magic of Vedic math - Gaurav Tekriwal", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02qw0m", 
+        "/m/04rjg", 
+        "/m/0584b5", 
+        "/m/04181l6", 
+        "/m/060qzf", 
+        "/m/058p1b"
+    ], 
+    "raw_score": 52, 
+    "number_views": 382552, 
+    "categories": [
+        27
+    ]
+}

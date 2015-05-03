@@ -1,0 +1,272 @@
+{
+    "publish_date": "2014-12-02T06:13:26.000Z", 
+    "score": 0.00010833347357083957, 
+    "video_length": "PT4M5S", 
+    "captions": [
+        {
+            "text": "I got an electronic kit just in time for my\nbirthday, so in this project let\u2019s open", 
+            "dur": "3.83", 
+            "start": "0.19"
+        }, 
+        {
+            "text": "it up and explore some of the things we can\ndo with LittleBits", 
+            "dur": "2.96", 
+            "start": "4.02"
+        }, 
+        {
+            "text": "To start this project, I\u2019m using the CloudBit\nstarter kit, and the LittleBits space kit.", 
+            "dur": "4.22", 
+            "start": "15.059"
+        }, 
+        {
+            "text": "Opening it up, you can see all kinds of sensors,\nswitches and motors, including this little", 
+            "dur": "4.04", 
+            "start": "19.28"
+        }, 
+        {
+            "text": "power module, that hooks to a USB cable or\na 9 volt battery for power. Each little module", 
+            "dur": "5.42", 
+            "start": "23.32"
+        }, 
+        {
+            "text": "has magnets built into the ends so you can\u2019t\nconnect them the wrong way. Instead, they", 
+            "dur": "4.15", 
+            "start": "28.74"
+        }, 
+        {
+            "text": "click themselves into position for you, making\nsimple circuit building a snap.", 
+            "dur": "4.46", 
+            "start": "32.89"
+        }, 
+        {
+            "text": "Now if we connect an LED to the end of the\nbutton module, you can see in less than 5", 
+            "dur": "3.759", 
+            "start": "37.35"
+        }, 
+        {
+            "text": "seconds we\u2019ve made a flashlight, that works\neach time we press the button.", 
+            "dur": "3.121", 
+            "start": "41.109"
+        }, 
+        {
+            "text": "If we switch out the button with the sound\ntrigger module, we can turn on the light with", 
+            "dur": "3.789", 
+            "start": "44.23"
+        }, 
+        {
+            "text": "a snap or a clap.", 
+            "dur": "1.54", 
+            "start": "48.019"
+        }, 
+        {
+            "text": "Alright, let\u2019s take this to the next level\nwith the CloudBit module. This little piece", 
+            "dur": "4.01", 
+            "start": "49.559"
+        }, 
+        {
+            "text": "snaps just about anything to the internet,\nand you\u2019ll see how it works in just a second.", 
+            "dur": "3.44", 
+            "start": "53.569"
+        }, 
+        {
+            "text": "Now if we bring in a remote trigger and this\nowl puppet I found laying in the kids play", 
+            "dur": "3.789", 
+            "start": "57.78"
+        }, 
+        {
+            "text": "room, we can build a secret circuit to monitor\nthe kids.", 
+            "dur": "3.321", 
+            "start": "61.569"
+        }, 
+        {
+            "text": "First off, let\u2019s cut a small hole in the\nfeathers of the puppet, just big enough to", 
+            "dur": "2.62", 
+            "start": "64.89"
+        }, 
+        {
+            "text": "expose the sensor.", 
+            "dur": "1.87", 
+            "start": "67.51"
+        }, 
+        {
+            "text": "This little device is going to let us know\nwhen someone\u2019s using a remote control. So", 
+            "dur": "3.52", 
+            "start": "69.38"
+        }, 
+        {
+            "text": "let\u2019s snap some wires to either side of\nthe sensor, then snap it to the CloudBit module,", 
+            "dur": "4.36", 
+            "start": "72.9"
+        }, 
+        {
+            "text": "making this circuit wifi compatible.", 
+            "dur": "2.49", 
+            "start": "77.26"
+        }, 
+        {
+            "text": "I chose to snap my circuit to a mounting board\nfor convenience, and added a little bit of", 
+            "dur": "3.75", 
+            "start": "79.75"
+        }, 
+        {
+            "text": "duct tape, to keep the 9 volt battery beside\nthe circuit.", 
+            "dur": "2.48", 
+            "start": "83.5"
+        }, 
+        {
+            "text": "Our remote detector circuit is complete, and\nnow all we need to do is hide it. You can", 
+            "dur": "4.36", 
+            "start": "86.71"
+        }, 
+        {
+            "text": "see the sensor hides pretty well in the forehead,\nand to get it all working, all we\u2019ll need", 
+            "dur": "3.57", 
+            "start": "91.07"
+        }, 
+        {
+            "text": "to do is throw the power switch.", 
+            "dur": "1.84", 
+            "start": "94.64"
+        }, 
+        {
+            "text": "Alright, let\u2019s go ahead and tuck everything\ninside the puppet so it\u2019s snug and secure,", 
+            "dur": "4.36", 
+            "start": "96.48"
+        }, 
+        {
+            "text": "and completely concealed.", 
+            "dur": "1.86", 
+            "start": "100.84"
+        }, 
+        {
+            "text": "Now I set this one beside the TV in our kids\nplayroom because our kids are in the habit", 
+            "dur": "3.79", 
+            "start": "102.7"
+        }, 
+        {
+            "text": "of sneaking up to watch TV after we\u2019ve all\ngone to bed. The difference now is that when", 
+            "dur": "3.76", 
+            "start": "106.49"
+        }, 
+        {
+            "text": "they press any button on the remote, the sensor\nin the puppet triggers the circuit, and sends", 
+            "dur": "3.89", 
+            "start": "110.25"
+        }, 
+        {
+            "text": "a text message to my phone, letting us know\nthat some little body is watching TV.", 
+            "dur": "4.41", 
+            "start": "114.14"
+        }, 
+        {
+            "text": "I also found these could be used to detect\na thief. I made this circuit, in less than", 
+            "dur": "4.66", 
+            "start": "118.55"
+        }, 
+        {
+            "text": "10 seconds, by replacing the remote sensor\nwith a light sensor and an LED. When the light", 
+            "dur": "4.71", 
+            "start": "123.21"
+        }, 
+        {
+            "text": "sensor is covered, you can see the circuit\ngoes into standby mode, but reactivates when", 
+            "dur": "4.03", 
+            "start": "127.92"
+        }, 
+        {
+            "text": "light hits it again.", 
+            "dur": "1.44", 
+            "start": "131.95"
+        }, 
+        {
+            "text": "I tried taping this inside my safe, along\nwith a little note for any would-be intruder,", 
+            "dur": "3.55", 
+            "start": "133.39"
+        }, 
+        {
+            "text": "and if you watch carefully, you can see that\nwhen the door closes, the LED shuts off and", 
+            "dur": "4.57", 
+            "start": "136.94"
+        }, 
+        {
+            "text": "the circuit switches to standby.", 
+            "dur": "2.09", 
+            "start": "141.51"
+        }, 
+        {
+            "text": "Now if anyone gets inside it lights up, scaring\naway a potential thief, and sending an alert", 
+            "dur": "4.79", 
+            "start": "143.6"
+        }, 
+        {
+            "text": "that someone just opened your safe.", 
+            "dur": "1.54", 
+            "start": "148.39"
+        }, 
+        {
+            "text": "Now there are over a million circuit combinations\nthat you could make with these snap together", 
+            "dur": "3.66", 
+            "start": "151.12"
+        }, 
+        {
+            "text": "circuits, and for one final project, I tried\nconnecting a LittleBits AC switch inline with", 
+            "dur": "4.6", 
+            "start": "154.78"
+        }, 
+        {
+            "text": "a small space heater. The circuit uses an\ninfrared transmitter to activate the switch,", 
+            "dur": "4.49", 
+            "start": "159.38"
+        }, 
+        {
+            "text": "which can be done remotely by setting a few\nsimple commands on www.ifttt.com. So now instead", 
+            "dur": "4.82", 
+            "start": "163.87"
+        }, 
+        {
+            "text": "of heating an empty house all day, simply\nsend a text message on your way home from", 
+            "dur": "3.629", 
+            "start": "168.69"
+        }, 
+        {
+            "text": "work, to turn on the heater. This way you\u2019ll\nsave energy, and and still come home, to a", 
+            "dur": "4.211", 
+            "start": "172.319"
+        }, 
+        {
+            "text": "nice warm room.", 
+            "dur": "1.9", 
+            "start": "176.53"
+        }, 
+        {
+            "text": "Well there are a few projects I tried with\na LittleBits electronics kit, to solve some", 
+            "dur": "3.73", 
+            "start": "178.43"
+        }, 
+        {
+            "text": "everyday challenges, and learn more about\nelectronics in the process. Well that\u2019s", 
+            "dur": "4.01", 
+            "start": "182.16"
+        }, 
+        {
+            "text": "it for now. If you liked this project, perhaps\nyou\u2019ll like some of my others. Check them", 
+            "dur": "3.63", 
+            "start": "186.17"
+        }, 
+        {
+            "text": "out at www.thekingofrandom.com", 
+            "dur": "2.18", 
+            "start": "189.8"
+        }
+    ], 
+    "title": "Electronics Projects, with LittleBits", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02mrp"
+    ], 
+    "raw_score": 103, 
+    "number_views": 950768, 
+    "categories": [
+        28
+    ]
+}
