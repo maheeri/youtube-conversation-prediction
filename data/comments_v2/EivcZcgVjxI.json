@@ -1,0 +1,402 @@
+{
+    "publish_date": "2013-05-23T15:02:56.000Z", 
+    "score": 8.660825300868951e-05, 
+    "video_length": "PT6M51S", 
+    "captions": [
+        {
+            "text": "This looks like a deck of cards, it feels\nlike a deck of cards, and it even handles", 
+            "dur": "4.38", 
+            "start": "8.36"
+        }, 
+        {
+            "text": "like a deck of cards. But this little gadget\nhas a very shocking secret. In this project,", 
+            "dur": "5.44", 
+            "start": "12.74"
+        }, 
+        {
+            "text": "you&#39;ll see how Stuart Edge, was able to give\nthese lucky ladies, an electrifying first", 
+            "dur": "4.36", 
+            "start": "18.18"
+        }, 
+        {
+            "text": "kiss.", 
+            "dur": "1.32", 
+            "start": "22.54"
+        }, 
+        {
+            "text": "For this project, we&#39;re turning a cheap disposable\ncamera, into an electric shocker that&#39;s been", 
+            "dur": "4.731", 
+            "start": "39.629"
+        }, 
+        {
+            "text": "disguised as an innocent looking deck of cards.\nYour audience will have no idea there&#39;s over", 
+            "dur": "4.7", 
+            "start": "44.36"
+        }, 
+        {
+            "text": "300 volts of electricity pumping through it.\nThe secret is in this modified shocker circuit", 
+            "dur": "5.58", 
+            "start": "49.06"
+        }, 
+        {
+            "text": "hiding just under the surface. It&#39;s powered\nby a single AAA battery, and has a dial for", 
+            "dur": "5.04", 
+            "start": "54.64"
+        }, 
+        {
+            "text": "cranking up the voltage. Taking a couple of\ncards from the stack reveals the hidden electrodes,", 
+            "dur": "5.21", 
+            "start": "59.68"
+        }, 
+        {
+            "text": "and you can see they&#39;re charged with nearly\n330 volts DC. If both of the pads are touched,", 
+            "dur": "5.829", 
+            "start": "64.89"
+        }, 
+        {
+            "text": "it shoots out a wicked jolt of electricity.\nYou might get a better idea of how this feels,", 
+            "dur": "4.591", 
+            "start": "70.719"
+        }, 
+        {
+            "text": "if we use the device to charge a capacitor\nand touch some metal.", 
+            "dur": "3.34", 
+            "start": "75.31"
+        }, 
+        {
+            "text": "Of course, in the kissing trick,\nthe power is significantly less, but still", 
+            "dur": "3.7", 
+            "start": "82.68"
+        }, 
+        {
+            "text": "high enough, to feel the magic. Ok, to make\nthis gadget, Stuart gave me a fresh deck of", 
+            "dur": "4.78", 
+            "start": "86.38"
+        }, 
+        {
+            "text": "cards, and some spares from his other kissing\npranks. I also picked up this disposable camera", 
+            "dur": "5.52", 
+            "start": "91.16"
+        }, 
+        {
+            "text": "from the photo center of a local drug store.\nThis one was used, and in their recycling", 
+            "dur": "4.82", 
+            "start": "96.68"
+        }, 
+        {
+            "text": "bin along with hundreds of others, so I got\nit for free. If you want to find the exact", 
+            "dur": "4.6", 
+            "start": "101.5"
+        }, 
+        {
+            "text": "same style, just look for this model number\nprinted on the casing. Alright, let&#39;s get", 
+            "dur": "4.519", 
+            "start": "106.1"
+        }, 
+        {
+            "text": "inside this thing by breaking the front panel\noff, and this should expose the circuit board.", 
+            "dur": "5.04", 
+            "start": "110.619"
+        }, 
+        {
+            "text": "Now there&#39;s a good chance you&#39;ll get shocked\nif you try this bare handed, but releasing", 
+            "dur": "3.381", 
+            "start": "115.659"
+        }, 
+        {
+            "text": "the board is as simple as pushing the plastic\ncatch to the side, and pulling upward. This", 
+            "dur": "4.75", 
+            "start": "119.04"
+        }, 
+        {
+            "text": "is the circuit that drives the camera flash.\nThe various components are powered with a", 
+            "dur": "4.86", 
+            "start": "123.79"
+        }, 
+        {
+            "text": "AA battery and work together to charge this\n330 volt capacitor, which you can see stores", 
+            "dur": "5.45", 
+            "start": "128.65"
+        }, 
+        {
+            "text": "a pretty nasty shock. Now we could use this by\nitself, but it&#39;s way too big to hide in a", 
+            "dur": "4.879", 
+            "start": "134.11"
+        }, 
+        {
+            "text": "deck of cards. To do that, we&#39;ll have to reverse\nengineer the schematics, and shrink it down", 
+            "dur": "4.991", 
+            "start": "138.989"
+        }, 
+        {
+            "text": "a lot. We can use something like a desoldering\niron to remove the 5 components we&#39;ll need,", 
+            "dur": "4.729", 
+            "start": "143.98"
+        }, 
+        {
+            "text": "and I&#39;ve switched out the AA battery with\na smaller AAA battery to work with this schematic.", 
+            "dur": "5.591", 
+            "start": "148.709"
+        }, 
+        {
+            "text": "Now this is the tricky part. We don&#39;t have\nroom for bulky wires, so we&#39;ll need to solder", 
+            "dur": "4.34", 
+            "start": "154.3"
+        }, 
+        {
+            "text": "everything directly to the pins on the transformer.", 
+            "dur": "2.989", 
+            "start": "158.64"
+        }, 
+        {
+            "text": "In a way that keeps the components in line,", 
+            "dur": "1.591", 
+            "start": "161.629"
+        }, 
+        {
+            "text": "while maintaining a low profile.\nFor convenience in changing out the batteries,", 
+            "dur": "4.32", 
+            "start": "163.22"
+        }, 
+        {
+            "text": "let&#39;s incorporate a AAA battery holder. I&#39;m\nalso adding a 1Mega Ohm tuning potentiometer,", 
+            "dur": "5.76", 
+            "start": "167.54"
+        }, 
+        {
+            "text": "so we&#39;ll be able to adjust the intensity of\nthe electric shock. This pot has 3 legs, but", 
+            "dur": "4.88", 
+            "start": "173.3"
+        }, 
+        {
+            "text": "we only need 2, so let&#39;s trim the one on the\nright. Ok, it&#39;s time to add some wire, and", 
+            "dur": "5.12", 
+            "start": "178.18"
+        }, 
+        {
+            "text": "I scavenged this thin cable from some scrap\nelectronics We&#39;ll just need to strip the ends,", 
+            "dur": "5.48", 
+            "start": "183.3"
+        }, 
+        {
+            "text": "and solder them in place. This is a good time\nto connect the potentiometer just behind the", 
+            "dur": "4.69", 
+            "start": "188.78"
+        }, 
+        {
+            "text": "diode, so the dial is flush with the top.\nNow let&#39;s solder the shocker circuit to the", 
+            "dur": "3.89", 
+            "start": "193.47"
+        }, 
+        {
+            "text": "battery holder so we end up with one wire\nthat attaches to battery positive, and an", 
+            "dur": "4.57", 
+            "start": "197.36"
+        }, 
+        {
+            "text": "additional wire that attaches to battery negative,\nand then continues on out. The circuitry here", 
+            "dur": "5.139", 
+            "start": "201.93"
+        }, 
+        {
+            "text": "is streamlined and looking good, but it&#39;s\nvery fragile, so I&#39;ve wrapped a bit of paper", 
+            "dur": "4.711", 
+            "start": "207.069"
+        }, 
+        {
+            "text": "around the edges to make a form, for adding\ncopious amounts of hot-glue. I&#39;m hoping this will seep", 
+            "dur": "5.14", 
+            "start": "211.78"
+        }, 
+        {
+            "text": "down into the gaps, and give the shocker circuit\nmore durability. That will need to cool for", 
+            "dur": "4.459", 
+            "start": "216.92"
+        }, 
+        {
+            "text": "about 5 minutes, then we can peel off the\npaper, and add a little more glue to any parts", 
+            "dur": "4.47", 
+            "start": "221.379"
+        }, 
+        {
+            "text": "that got missed. To finish it up, I gave it\na new paper jacket, and a bit of black ink.", 
+            "dur": "5.451", 
+            "start": "225.849"
+        }, 
+        {
+            "text": "Well that completes the shocker circuit, so\nnow it&#39;s time to rig the deck. I&#39;m thinking", 
+            "dur": "4.579", 
+            "start": "231.3"
+        }, 
+        {
+            "text": "the best place to conceal the shocker will\nbe near the back, and it looks like it could", 
+            "dur": "3.731", 
+            "start": "235.879"
+        }, 
+        {
+            "text": "be be a tight fit, but it should work. These\ncomponents, are shorter than the deick and", 
+            "dur": "4.439", 
+            "start": "239.61"
+        }, 
+        {
+            "text": "stand about 40 cards high. That means there\nare 12 cards here that won&#39;t need any modification,", 
+            "dur": "5.58", 
+            "start": "244.049"
+        }, 
+        {
+            "text": "but these other ones, are gonna need to\nbe cut. Since there are so many cards to cut,", 
+            "dur": "4.011", 
+            "start": "249.629"
+        }, 
+        {
+            "text": "I made this plastic template to use as a cutting guide.\nHolding the card firmly in place, we can use", 
+            "dur": "5.379", 
+            "start": "253.64"
+        }, 
+        {
+            "text": "something like a razor, or this hobby knife\nto make the cuts. I&#39;ve also done this with", 
+            "dur": "4.851", 
+            "start": "259.019"
+        }, 
+        {
+            "text": "scissors, but it&#39;s harder, and the result\nisn&#39;t as clean. Alright, we&#39;ve got 40 cards", 
+            "dur": "4.799", 
+            "start": "263.87"
+        }, 
+        {
+            "text": "modified, and a quick alignment on the edges,\nshows that the containment area is fairly", 
+            "dur": "4.24", 
+            "start": "268.669"
+        }, 
+        {
+            "text": "uniform. Now we&#39;ll need to grab a new card,\nand mark where the circuit is gonna sit.", 
+            "dur": "5.201", 
+            "start": "272.909"
+        }, 
+        {
+            "text": "I&#39;ve cut a 1/4&quot; hole because we need some\nstealthy electrodes, that will be smooth and", 
+            "dur": "4.419", 
+            "start": "278.11"
+        }, 
+        {
+            "text": "lie flat so they can&#39;t be detected. I&#39;ll be\nusing this piece of conductive foil tape,", 
+            "dur": "4.61", 
+            "start": "282.529"
+        }, 
+        {
+            "text": "that you could get at the hardware store.\nYou can see here how the tape gets folded", 
+            "dur": "3.8", 
+            "start": "287.139"
+        }, 
+        {
+            "text": "inside the card, and once in position, it\ncan be trimmed, and smoothed out with a firm", 
+            "dur": "4.31", 
+            "start": "290.939"
+        }, 
+        {
+            "text": "piece of plastic, like a credit card, or a\nhotel room key. The other electrodes gets", 
+            "dur": "4.88", 
+            "start": "295.249"
+        }, 
+        {
+            "text": "added on the opposite side, making sure there&#39;s\na good gap between the two, and the finished", 
+            "dur": "4.49", 
+            "start": "300.129"
+        }, 
+        {
+            "text": "base should look like this. The last 3 steps,\nare to trim up the wires so they&#39;re held in", 
+            "dur": "5.431", 
+            "start": "304.619"
+        }, 
+        {
+            "text": "firm contact with the conductive metal tape,\nadd a bit of hot glue to the underside of", 
+            "dur": "4.399", 
+            "start": "310.05"
+        }, 
+        {
+            "text": "the unit, and reinforce the connections to\nensure they won&#39;t pull apart. Now the circuit", 
+            "dur": "5.36", 
+            "start": "314.449"
+        }, 
+        {
+            "text": "is ready for operation, and when a battery\nis inserted, this will deliver a continuous", 
+            "dur": "4.371", 
+            "start": "319.809"
+        }, 
+        {
+            "text": "electric shock to anyone that makes contact\nwith the metal tape. The modified cards turned", 
+            "dur": "4.87", 
+            "start": "324.18"
+        }, 
+        {
+            "text": "out to be a perfect fit, and since nothing\nis glued in place, they can move freely, to", 
+            "dur": "4.139", 
+            "start": "329.05"
+        }, 
+        {
+            "text": "give the illusion that it&#39;s just a normal\ndeck. Now, if you&#39;re concerned about accidentally", 
+            "dur": "4.021", 
+            "start": "333.189"
+        }, 
+        {
+            "text": "shocking yourself, you can reduce the risk\nby placing a card or two over the shocker", 
+            "dur": "4.379", 
+            "start": "337.21"
+        }, 
+        {
+            "text": "pads. The remaining cards stack on top, and\nour modification is complete. What&#39;s really", 
+            "dur": "5.63", 
+            "start": "341.589"
+        }, 
+        {
+            "text": "cool about this, is it even fits back in the\noriginal packaging. But just for fun, Stuart", 
+            "dur": "4.73", 
+            "start": "347.219"
+        }, 
+        {
+            "text": "picked up a little nicer carrying case. This\ngives the trick a slightly more professional", 
+            "dur": "4.7", 
+            "start": "351.949"
+        }, 
+        {
+            "text": "look, and makes it 100% ready, for his &quot;electric\nshock kissing prank&quot;.", 
+            "dur": "4.16", 
+            "start": "356.649"
+        }, 
+        {
+            "text": "To get the sparks flying, you can see Stuart holds one end of the shocker\npad, and uses his magic trick as a decoy,", 
+            "dur": "5.819", 
+            "start": "361.28"
+        }, 
+        {
+            "text": "to get his volunteer to hold the other side.\nThe circuit will complete when they touch,", 
+            "dur": "4.511", 
+            "start": "367.099"
+        }, 
+        {
+            "text": "and if the touch happens to be a kiss .. they\nfeel the magic.", 
+            "dur": "3.98", 
+            "start": "371.61"
+        }, 
+        {
+            "text": "Well there you have it. Now you know how to convert a simple deck of cards,\ninto a stealthy secret shocker. If you like", 
+            "dur": "6.6", 
+            "start": "376.44"
+        }, 
+        {
+            "text": "this project, perhaps you&#39;ll like some of\nmy others. Check them out at www.thekingofrandom.com", 
+            "dur": "4.649", 
+            "start": "383.05"
+        }
+    ], 
+    "title": "The Electric Deck of Cards", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05rj2"
+    ], 
+    "raw_score": 160, 
+    "number_views": 1847399, 
+    "categories": [
+        28
+    ]
+}

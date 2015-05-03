@@ -1,0 +1,663 @@
+{
+    "publish_date": "2013-12-09T16:08:16.000Z", 
+    "score": 0.0006673976259713019, 
+    "video_length": "PT5M5S", 
+    "captions": [
+        {
+            "text": "You&#39;ve probably heard of the human genome,", 
+            "dur": "2.076", 
+            "start": "6.704"
+        }, 
+        {
+            "text": "the huge collection of genes", 
+            "dur": "1.613", 
+            "start": "8.78"
+        }, 
+        {
+            "text": "inside each and every one of your cells.", 
+            "dur": "3.397", 
+            "start": "10.393"
+        }, 
+        {
+            "text": "You probably also know", 
+            "dur": "0.454", 
+            "start": "13.79"
+        }, 
+        {
+            "text": "that we&#39;ve sequenced the human genome,", 
+            "dur": "2.583", 
+            "start": "14.244"
+        }, 
+        {
+            "text": "but what does that actually mean?", 
+            "dur": "2.166", 
+            "start": "16.827"
+        }, 
+        {
+            "text": "How do you sequence someone&#39;s genome?", 
+            "dur": "3.166", 
+            "start": "18.993"
+        }, 
+        {
+            "text": "Let&#39;s back up a bit.", 
+            "dur": "1.636", 
+            "start": "22.159"
+        }, 
+        {
+            "text": "What is a genome?", 
+            "dur": "1.667", 
+            "start": "23.795"
+        }, 
+        {
+            "text": "Well, a genome is all the genes plus some extra", 
+            "dur": "5.058", 
+            "start": "25.462"
+        }, 
+        {
+            "text": "that make up an organism.", 
+            "dur": "2.064", 
+            "start": "30.52"
+        }, 
+        {
+            "text": "Genes are made up of DNA,", 
+            "dur": "1.998", 
+            "start": "32.584"
+        }, 
+        {
+            "text": "and DNA is made up of long, paired strands", 
+            "dur": "3.096", 
+            "start": "34.582"
+        }, 
+        {
+            "text": "of A&#39;s,", 
+            "dur": "1.236", 
+            "start": "37.678"
+        }, 
+        {
+            "text": "T&#39;s,", 
+            "dur": "1.17", 
+            "start": "38.914"
+        }, 
+        {
+            "text": "C&#39;s,", 
+            "dur": "1.886", 
+            "start": "40.084"
+        }, 
+        {
+            "text": "and G&#39;s.", 
+            "dur": "0.862", 
+            "start": "41.97"
+        }, 
+        {
+            "text": "Your genome is the code", 
+            "dur": "1.518", 
+            "start": "42.832"
+        }, 
+        {
+            "text": "that your cells use to know how to behave.", 
+            "dur": "3.512", 
+            "start": "44.35"
+        }, 
+        {
+            "text": "Cells interacting together make tissues.", 
+            "dur": "3.453", 
+            "start": "47.862"
+        }, 
+        {
+            "text": "Tissues cooperating with each other make organs.", 
+            "dur": "3.132", 
+            "start": "51.315"
+        }, 
+        {
+            "text": "Organs cooperating with each other", 
+            "dur": "1.964", 
+            "start": "54.447"
+        }, 
+        {
+            "text": "make an organism,", 
+            "dur": "1.499", 
+            "start": "56.411"
+        }, 
+        {
+            "text": "you!", 
+            "dur": "1.328", 
+            "start": "57.91"
+        }, 
+        {
+            "text": "So, you are who you are", 
+            "dur": "2.76", 
+            "start": "59.238"
+        }, 
+        {
+            "text": "in large part because of your genome.", 
+            "dur": "2.623", 
+            "start": "61.998"
+        }, 
+        {
+            "text": "The first human genome", 
+            "dur": "1.427", 
+            "start": "64.621"
+        }, 
+        {
+            "text": "was sequenced ten years ago", 
+            "dur": "2.112", 
+            "start": "66.048"
+        }, 
+        {
+            "text": "and was no easy task.", 
+            "dur": "1.836", 
+            "start": "68.16"
+        }, 
+        {
+            "text": "It took two decades to complete,", 
+            "dur": "2.913", 
+            "start": "69.996"
+        }, 
+        {
+            "text": "required the effort of hundreds of scientists", 
+            "dur": "2.767", 
+            "start": "72.909"
+        }, 
+        {
+            "text": "across dozens of countries,", 
+            "dur": "1.565", 
+            "start": "75.676"
+        }, 
+        {
+            "text": "and cost over three billion dollars.", 
+            "dur": "3.233", 
+            "start": "77.241"
+        }, 
+        {
+            "text": "But some day very soon,", 
+            "dur": "1.658", 
+            "start": "80.474"
+        }, 
+        {
+            "text": "it will be possible to know the sequence of letters", 
+            "dur": "2.186", 
+            "start": "82.132"
+        }, 
+        {
+            "text": "that make up your own personal genome", 
+            "dur": "2.422", 
+            "start": "84.318"
+        }, 
+        {
+            "text": "all in a matter of minutes", 
+            "dur": "1.753", 
+            "start": "86.74"
+        }, 
+        {
+            "text": "and for less than the cost", 
+            "dur": "1.328", 
+            "start": "88.493"
+        }, 
+        {
+            "text": "of a pretty nice birthday present.", 
+            "dur": "2.61", 
+            "start": "89.821"
+        }, 
+        {
+            "text": "How is that possible?", 
+            "dur": "1.892", 
+            "start": "92.431"
+        }, 
+        {
+            "text": "Let&#39;s take a closer look.", 
+            "dur": "2", 
+            "start": "94.323"
+        }, 
+        {
+            "text": "Knowing the sequence of the billions of letters", 
+            "dur": "2.583", 
+            "start": "96.323"
+        }, 
+        {
+            "text": "that make up your genome", 
+            "dur": "1.476", 
+            "start": "98.906"
+        }, 
+        {
+            "text": "is the goal of genome sequencing.", 
+            "dur": "2.526", 
+            "start": "100.382"
+        }, 
+        {
+            "text": "A genome is both really, really big", 
+            "dur": "3.541", 
+            "start": "102.908"
+        }, 
+        {
+            "text": "and very, very small.", 
+            "dur": "2.953", 
+            "start": "106.449"
+        }, 
+        {
+            "text": "The individual letters of DNA,", 
+            "dur": "2.19", 
+            "start": "109.402"
+        }, 
+        {
+            "text": "the A&#39;s, T&#39;s, G&#39;s, and C&#39;s,", 
+            "dur": "3.185", 
+            "start": "111.592"
+        }, 
+        {
+            "text": "are only eight or ten atoms wide,", 
+            "dur": "2.99", 
+            "start": "114.777"
+        }, 
+        {
+            "text": "and they&#39;re all packed together into a clump,", 
+            "dur": "3.54", 
+            "start": "117.767"
+        }, 
+        {
+            "text": "like a ball of yarn.", 
+            "dur": "1.741", 
+            "start": "121.307"
+        }, 
+        {
+            "text": "So, to get all that information", 
+            "dur": "2.107", 
+            "start": "123.048"
+        }, 
+        {
+            "text": "out of that tiny space,", 
+            "dur": "2.252", 
+            "start": "125.155"
+        }, 
+        {
+            "text": "scientists first have to break", 
+            "dur": "1.586", 
+            "start": "127.407"
+        }, 
+        {
+            "text": "the long string of DNA down into smaller pieces.", 
+            "dur": "5.061", 
+            "start": "128.993"
+        }, 
+        {
+            "text": "Each of these pieces is then separated in space", 
+            "dur": "2.996", 
+            "start": "134.054"
+        }, 
+        {
+            "text": "and sequenced individually,", 
+            "dur": "1.858", 
+            "start": "137.05"
+        }, 
+        {
+            "text": "but how?", 
+            "dur": "1.428", 
+            "start": "138.908"
+        }, 
+        {
+            "text": "It&#39;s helpful to remember", 
+            "dur": "1.159", 
+            "start": "140.336"
+        }, 
+        {
+            "text": "that DNA binds to other DNA", 
+            "dur": "2.753", 
+            "start": "141.495"
+        }, 
+        {
+            "text": "if the sequences are the exact opposite of each other.", 
+            "dur": "3.749", 
+            "start": "144.248"
+        }, 
+        {
+            "text": "A&#39;s bind to T&#39;s,", 
+            "dur": "1.81", 
+            "start": "147.997"
+        }, 
+        {
+            "text": "and T&#39;s bind to A&#39;s.", 
+            "dur": "2.581", 
+            "start": "149.807"
+        }, 
+        {
+            "text": "G&#39;s bind to C&#39;s,", 
+            "dur": "1.829", 
+            "start": "152.388"
+        }, 
+        {
+            "text": "and C&#39;s to G&#39;s.", 
+            "dur": "2.376", 
+            "start": "154.217"
+        }, 
+        {
+            "text": "If the A-T-G-C sequence of two pieces of DNA", 
+            "dur": "4.007", 
+            "start": "156.593"
+        }, 
+        {
+            "text": "are exact opposites,", 
+            "dur": "2.08", 
+            "start": "160.6"
+        }, 
+        {
+            "text": "they stick together.", 
+            "dur": "1.003", 
+            "start": "162.68"
+        }, 
+        {
+            "text": "Because the genome pieces", 
+            "dur": "1.725", 
+            "start": "163.683"
+        }, 
+        {
+            "text": "are so very small,", 
+            "dur": "1.78", 
+            "start": "165.408"
+        }, 
+        {
+            "text": "we need some way to increase", 
+            "dur": "1.625", 
+            "start": "167.188"
+        }, 
+        {
+            "text": "the signal we can detect", 
+            "dur": "1.613", 
+            "start": "168.813"
+        }, 
+        {
+            "text": "from each of the individual letters.", 
+            "dur": "2.277", 
+            "start": "170.426"
+        }, 
+        {
+            "text": "In the most common method,", 
+            "dur": "1.49", 
+            "start": "172.703"
+        }, 
+        {
+            "text": "scientists use enzymes to make thousands of copies", 
+            "dur": "2.996", 
+            "start": "174.193"
+        }, 
+        {
+            "text": "of each genome piece.", 
+            "dur": "2.187", 
+            "start": "177.189"
+        }, 
+        {
+            "text": "So, we now have thousands of replicas", 
+            "dur": "2.458", 
+            "start": "179.376"
+        }, 
+        {
+            "text": "of each of the genome pieces,", 
+            "dur": "2.092", 
+            "start": "181.834"
+        }, 
+        {
+            "text": "all with the same sequence", 
+            "dur": "1.627", 
+            "start": "183.926"
+        }, 
+        {
+            "text": "of A&#39;s, T&#39;s, G&#39;s, and C&#39;s.", 
+            "dur": "4.187", 
+            "start": "185.553"
+        }, 
+        {
+            "text": "But we have to read them all somehow.", 
+            "dur": "2.618", 
+            "start": "189.74"
+        }, 
+        {
+            "text": "To do this, we need to make", 
+            "dur": "1.756", 
+            "start": "192.358"
+        }, 
+        {
+            "text": "a batch of special letters,", 
+            "dur": "1.846", 
+            "start": "194.114"
+        }, 
+        {
+            "text": "each with a distinct color.", 
+            "dur": "2.002", 
+            "start": "195.96"
+        }, 
+        {
+            "text": "A mixture of these special colored letters and enzymes", 
+            "dur": "2.885", 
+            "start": "197.962"
+        }, 
+        {
+            "text": "are then added to the genome", 
+            "dur": "1.442", 
+            "start": "200.847"
+        }, 
+        {
+            "text": "we&#39;re trying to read.", 
+            "dur": "1.636", 
+            "start": "202.289"
+        }, 
+        {
+            "text": "At each spot on the genome,", 
+            "dur": "1.63", 
+            "start": "203.925"
+        }, 
+        {
+            "text": "one of the special letters", 
+            "dur": "1.318", 
+            "start": "205.555"
+        }, 
+        {
+            "text": "binds to its opposite letter,", 
+            "dur": "1.934", 
+            "start": "206.873"
+        }, 
+        {
+            "text": "so we now have a double-stranded piece of DNA", 
+            "dur": "3.202", 
+            "start": "208.807"
+        }, 
+        {
+            "text": "with a colorful spot at each letter.", 
+            "dur": "2.585", 
+            "start": "212.009"
+        }, 
+        {
+            "text": "Scientists then take pictures", 
+            "dur": "1.796", 
+            "start": "214.594"
+        }, 
+        {
+            "text": "of each snippet of genome.", 
+            "dur": "2.375", 
+            "start": "216.39"
+        }, 
+        {
+            "text": "Seeing the order of the colors", 
+            "dur": "1.584", 
+            "start": "218.765"
+        }, 
+        {
+            "text": "allows us to read the sequence.", 
+            "dur": "3.25", 
+            "start": "220.349"
+        }, 
+        {
+            "text": "The sequences of each", 
+            "dur": "1.415", 
+            "start": "223.599"
+        }, 
+        {
+            "text": "of these millions of pieces of DNA", 
+            "dur": "2.23", 
+            "start": "225.014"
+        }, 
+        {
+            "text": "are stitched together using computer programs", 
+            "dur": "2.117", 
+            "start": "227.244"
+        }, 
+        {
+            "text": "to create a complete sequence of the entire genome.", 
+            "dur": "3.507", 
+            "start": "229.361"
+        }, 
+        {
+            "text": "This isn&#39;t the only way", 
+            "dur": "1.058", 
+            "start": "232.868"
+        }, 
+        {
+            "text": "to read the letter sequences of pieces of DNA,", 
+            "dur": "2.601", 
+            "start": "233.926"
+        }, 
+        {
+            "text": "but it&#39;s one of the most common.", 
+            "dur": "1.762", 
+            "start": "236.527"
+        }, 
+        {
+            "text": "Of course, just reading the letters in the genome", 
+            "dur": "2.708", 
+            "start": "238.289"
+        }, 
+        {
+            "text": "doesn&#39;t tell us much.", 
+            "dur": "1.633", 
+            "start": "240.997"
+        }, 
+        {
+            "text": "It&#39;s kind of like looking through a book", 
+            "dur": "1.998", 
+            "start": "242.63"
+        }, 
+        {
+            "text": "written in a language you don&#39;t speak.", 
+            "dur": "2.548", 
+            "start": "244.628"
+        }, 
+        {
+            "text": "You can recognize all the letters", 
+            "dur": "1.708", 
+            "start": "247.176"
+        }, 
+        {
+            "text": "but still have no idea what&#39;s going on.", 
+            "dur": "2.663", 
+            "start": "248.884"
+        }, 
+        {
+            "text": "So, the next step is to decipher", 
+            "dur": "2.055", 
+            "start": "251.547"
+        }, 
+        {
+            "text": "what the sequence means,", 
+            "dur": "1.859", 
+            "start": "253.602"
+        }, 
+        {
+            "text": "how your genome and my genome are different.", 
+            "dur": "3.261", 
+            "start": "255.461"
+        }, 
+        {
+            "text": "Interpreting the genes of the genome", 
+            "dur": "1.917", 
+            "start": "258.722"
+        }, 
+        {
+            "text": "is the part scientists are still working on.", 
+            "dur": "2.816", 
+            "start": "260.639"
+        }, 
+        {
+            "text": "While not every difference is consequential,", 
+            "dur": "2.666", 
+            "start": "263.455"
+        }, 
+        {
+            "text": "the sum of these differences", 
+            "dur": "1.558", 
+            "start": "266.121"
+        }, 
+        {
+            "text": "is responsible for differences", 
+            "dur": "1.538", 
+            "start": "267.679"
+        }, 
+        {
+            "text": "in how we look,", 
+            "dur": "1.213", 
+            "start": "269.217"
+        }, 
+        {
+            "text": "what we like,", 
+            "dur": "1.001", 
+            "start": "270.43"
+        }, 
+        {
+            "text": "how we act,", 
+            "dur": "1.192", 
+            "start": "271.431"
+        }, 
+        {
+            "text": "and even how likely we are to get sick", 
+            "dur": "2.221", 
+            "start": "272.623"
+        }, 
+        {
+            "text": "or respond to specific medicines.", 
+            "dur": "2.465", 
+            "start": "274.844"
+        }, 
+        {
+            "text": "Better understanding of how disparities", 
+            "dur": "1.668", 
+            "start": "277.309"
+        }, 
+        {
+            "text": "between our genomes", 
+            "dur": "1.233", 
+            "start": "278.977"
+        }, 
+        {
+            "text": "account for these differences", 
+            "dur": "1.599", 
+            "start": "280.21"
+        }, 
+        {
+            "text": "is sure to change the way we think", 
+            "dur": "1.965", 
+            "start": "281.809"
+        }, 
+        {
+            "text": "not only about how doctors treat their patients,", 
+            "dur": "2.766", 
+            "start": "283.774"
+        }, 
+        {
+            "text": "but also how we treat each other.", 
+            "dur": "2.583", 
+            "start": "286.54"
+        }
+    ], 
+    "title": "How to sequence the human genome - Mark J. Kiel", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/037_b", 
+        "/m/0d8gg5", 
+        "/m/05mqxfy", 
+        "/m/0bsdc", 
+        "/m/01wzqd", 
+        "/m/04c45l", 
+        "/m/0dgw9r"
+    ], 
+    "raw_score": 84, 
+    "number_views": 125862, 
+    "categories": [
+        27
+    ]
+}

@@ -1,0 +1,538 @@
+{
+    "publish_date": "2014-10-22T12:21:06.000Z", 
+    "score": 0.0009528029396969021, 
+    "video_length": "PT7M11S", 
+    "captions": [
+        {
+            "text": "Queen Lion is looking to make the elections\nin her animal kingdom more fair. Currently", 
+            "dur": "3.601", 
+            "start": "0.459"
+        }, 
+        {
+            "text": "she divides her citizens into ranges each\nof which selects one representative to go", 
+            "dur": "3.87", 
+            "start": "4.06"
+        }, 
+        {
+            "text": "to the jungle council which makes laws for\nthe kingdom.", 
+            "dur": "2.879", 
+            "start": "7.93"
+        }, 
+        {
+            "text": "But her citizens are unhappy, and it&#39;s easy\nto see why: the council is full of monkeys.", 
+            "dur": "4.901", 
+            "start": "10.809"
+        }, 
+        {
+            "text": "Of course some of her citizens are monkeys,\nbut not all of them. This council doesn&#39;t", 
+            "dur": "4.049", 
+            "start": "15.71"
+        }, 
+        {
+            "text": "fairly represent her kingdom.", 
+            "dur": "1.871", 
+            "start": "19.759"
+        }, 
+        {
+            "text": "Queen lion visits one of the ranges to find\nout what&#39;s wrong and how to fix it.", 
+            "dur": "3.849", 
+            "start": "21.63"
+        }, 
+        {
+            "text": "In this range there five monkeys, four tigers,\nthree owls, two lynx and one buffalo. One", 
+            "dur": "5.18", 
+            "start": "25.479"
+        }, 
+        {
+            "text": "of each runs for representative and all citizens\nvote for their own species.", 
+            "dur": "4.211", 
+            "start": "30.659"
+        }, 
+        {
+            "text": "The election rule is that the candidate with\nthe most votes wins, which is the monkey.", 
+            "dur": "4.04", 
+            "start": "34.87"
+        }, 
+        {
+            "text": "But it&#39;s a pretty unsatisfying result considering\nthat 2/3rds of citizens in this range *aren&#39;t*", 
+            "dur": "5.05", 
+            "start": "38.91"
+        }, 
+        {
+            "text": "monkeys and wouldn&#39;t vote for monkeys.", 
+            "dur": "1.789", 
+            "start": "43.96"
+        }, 
+        {
+            "text": "This is the same across all the ranges of\nthe kingdom, the monkeys have more votes than", 
+            "dur": "4.691", 
+            "start": "45.749"
+        }, 
+        {
+            "text": "anybody else, so they win all the elections,\neven though they are a minority of the total", 
+            "dur": "4.969", 
+            "start": "50.44"
+        }, 
+        {
+            "text": "population. Closer inspection reveals that\nthe independent advisors hired to draw the", 
+            "dur": "3.97", 
+            "start": "55.409"
+        }, 
+        {
+            "text": "range boundaries in the first place weren&#39;t\nas independent as they first appeared.", 
+            "dur": "4.3", 
+            "start": "59.379"
+        }, 
+        {
+            "text": "The result is unhappy citizens who don&#39;t trust\nthe jungle council to make the fairest laws", 
+            "dur": "3.951", 
+            "start": "63.679"
+        }, 
+        {
+            "text": "for all, quite rightly.", 
+            "dur": "1.69", 
+            "start": "67.63"
+        }, 
+        {
+            "text": "Now Queen lion wants to maximize the number\nof citizens happy with the election results.", 
+            "dur": "4.2", 
+            "start": "69.32"
+        }, 
+        {
+            "text": "One way to do that is to abolish the ranges\nand use a proportional system... ...But her", 
+            "dur": "3.94", 
+            "start": "73.52"
+        }, 
+        {
+            "text": "citizens *want* local representatives.", 
+            "dur": "2.38", 
+            "start": "77.46"
+        }, 
+        {
+            "text": "So Queen lion needs a system that both make\nher citizens happier by having a more representative", 
+            "dur": "4.27", 
+            "start": "79.84"
+        }, 
+        {
+            "text": "council while keeping local elections in place.", 
+            "dur": "3.32", 
+            "start": "84.11"
+        }, 
+        {
+            "text": "After doing a little research she finds out\nhow: Single Transferable Vote.", 
+            "dur": "3.91", 
+            "start": "87.43"
+        }, 
+        {
+            "text": "The big change with STV is that ranges send\nmore than one representative, which may seem", 
+            "dur": "5.09", 
+            "start": "91.34"
+        }, 
+        {
+            "text": "weird, but queen lion decides to test it out:\nshe takes three ranges which used to each", 
+            "dur": "4.16", 
+            "start": "96.43"
+        }, 
+        {
+            "text": "send one representative and combines them\ninto one bigger range that will send three.", 
+            "dur": "4.739", 
+            "start": "100.59"
+        }, 
+        {
+            "text": "On election day citizens go to the polls and\nthe results in this new range are just the", 
+            "dur": "4.521", 
+            "start": "105.329"
+        }, 
+        {
+            "text": "same as they were in the old ranges: 34% for\nMonkey, 33% for Owl and 33% for Lynx.", 
+            "dur": "3.49", 
+            "start": "109.85"
+        }, 
+        {
+            "text": "But this isn&#39;t most votes wins: with STV to\nfigure out the winners take the total votes", 
+            "dur": "3.139", 
+            "start": "113.34"
+        }, 
+        {
+            "text": "and divide by the number of representatives\nneeded, in this case 3 which gives 33% as", 
+            "dur": "5.911", 
+            "start": "116.479"
+        }, 
+        {
+            "text": "the amount a candidates needs to win.", 
+            "dur": "2.149", 
+            "start": "122.39"
+        }, 
+        {
+            "text": "So *all three* candidates go to the council\n-- which accurately represents the citizens", 
+            "dur": "4.251", 
+            "start": "124.539"
+        }, 
+        {
+            "text": "in the range.", 
+            "dur": "1.04", 
+            "start": "128.79"
+        }, 
+        {
+            "text": "Whereas under the old system each range would\nhave sent a monkey. Leaving 2/3rd of the citizens", 
+            "dur": "5.08", 
+            "start": "129.83"
+        }, 
+        {
+            "text": "without representation. A bigger range with\nmore representatives allows the range to be", 
+            "dur": "4.42", 
+            "start": "134.91"
+        }, 
+        {
+            "text": "more proportional.", 
+            "dur": "1.25", 
+            "start": "139.33"
+        }, 
+        {
+            "text": "This test turned out well, but it was also\nas simple as could be -- now Queen Lion wants", 
+            "dur": "4.25", 
+            "start": "140.58"
+        }, 
+        {
+            "text": "to see what happens in a race where not everyone\nis a winner.", 
+            "dur": "3.06", 
+            "start": "144.83"
+        }, 
+        {
+            "text": "The next big range she tests has five candidates\nrunning for office: Gorilla, Tasier, Monkey,", 
+            "dur": "4.95", 
+            "start": "147.89"
+        }, 
+        {
+            "text": "Tiger, and Lynx, three of which can be representatives.", 
+            "dur": "3.44", 
+            "start": "152.84"
+        }, 
+        {
+            "text": "Election day comes and goes, and here are\nthe results of citizens first choices:", 
+            "dur": "4.3", 
+            "start": "156.28"
+        }, 
+        {
+            "text": "Tasier gets 5%\nGorilla gets 28%", 
+            "dur": "2.92", 
+            "start": "160.58"
+        }, 
+        {
+            "text": "Monkey gets 33%\nTiger gets 21%", 
+            "dur": "2.81", 
+            "start": "163.5"
+        }, 
+        {
+            "text": "Lynx gets 13%", 
+            "dur": "1.42", 
+            "start": "166.31"
+        }, 
+        {
+            "text": "As before, a candidate needs 33% to win. Monkey\nhas that as so is immediately selected as", 
+            "dur": "5.33", 
+            "start": "167.73"
+        }, 
+        {
+            "text": "one of the three representatives.", 
+            "dur": "2.01", 
+            "start": "173.06"
+        }, 
+        {
+            "text": "But no one else reached the winning 33% so\nhow are the other two representatives selected?", 
+            "dur": "4.76", 
+            "start": "175.07"
+        }, 
+        {
+            "text": "Step one: get rid of the biggest loser. Sorry\ntasier -- you really had no chance at all.", 
+            "dur": "4.4", 
+            "start": "179.83"
+        }, 
+        {
+            "text": "Now, when the citizens voted, they could have\njust put an X next to the candidate they liked", 
+            "dur": "3.74", 
+            "start": "184.23"
+        }, 
+        {
+            "text": "most but with STV they can also rank their\nfavorite candidates. This is important because", 
+            "dur": "5.39", 
+            "start": "187.97"
+        }, 
+        {
+            "text": "it shows how the election would have turned\nout if one of the candidates hadn&#39;t run.", 
+            "dur": "4.67", 
+            "start": "193.36"
+        }, 
+        {
+            "text": "Tiny and Worried Tasiers would have voted\nfor the big calm gorilla without tasier in", 
+            "dur": "4.69", 
+            "start": "198.03"
+        }, 
+        {
+            "text": "the race. So if their candidate can&#39;t win,\nthey want their votes to go to Gorilla instead.", 
+            "dur": "5.33", 
+            "start": "202.72"
+        }, 
+        {
+            "text": "This pushes gorilla up to 33% and he become\nthe next representative.", 
+            "dur": "4.32", 
+            "start": "208.05"
+        }, 
+        {
+            "text": "Ranking allows citizens to support their favorite\ncandidate without worry -- there&#39;s no point", 
+            "dur": "3.85", 
+            "start": "212.37"
+        }, 
+        {
+            "text": "in strategizing about how everyone else is\ngoing to vote. The system works to maximize", 
+            "dur": "4.14", 
+            "start": "216.22"
+        }, 
+        {
+            "text": "voter happiness with the result.", 
+            "dur": "1.93", 
+            "start": "220.36"
+        }, 
+        {
+            "text": "Back to the range: there&#39;s still one representative\nto select, so the next biggest loser is Lynx.", 
+            "dur": "4.3", 
+            "start": "222.29"
+        }, 
+        {
+            "text": "His voters don&#39;t like simians, but they do\nthink tiger&#39;s interests are similar to theirs", 
+            "dur": "3.58", 
+            "start": "226.59"
+        }, 
+        {
+            "text": "and so if Lynx can&#39;t win they want him to\nhave their votes. Tiger gets reaches 33% and", 
+            "dur": "4.7", 
+            "start": "230.17"
+        }, 
+        {
+            "text": "becomes the third and final representative.", 
+            "dur": "2.39", 
+            "start": "234.87"
+        }, 
+        {
+            "text": "The election result looks pretty good especially\nconsidering citizens first *and* second choices.", 
+            "dur": "4.75", 
+            "start": "237.26"
+        }, 
+        {
+            "text": "Now more citizens have a local representative\nthey can feel comfortable approaching, whereas", 
+            "dur": "4.56", 
+            "start": "242.01"
+        }, 
+        {
+            "text": "using the old system, everybody gets a monkey.", 
+            "dur": "2.91", 
+            "start": "246.57"
+        }, 
+        {
+            "text": "Lastly queen lion wants know what happens\nin a range with just two political parties.", 
+            "dur": "4.03", 
+            "start": "249.48"
+        }, 
+        {
+            "text": "Under the most-votes-wins systems, multiple\ncandidates from the same party would be a", 
+            "dur": "3.569", 
+            "start": "253.51"
+        }, 
+        {
+            "text": "disaster: they&#39;d split their voters and hand\nthe win to their opposition.", 
+            "dur": "3.821", 
+            "start": "257.079"
+        }, 
+        {
+            "text": "Queen lion makes one last test range with\n2/3rd tigers and 1/3 gorillas that as before,", 
+            "dur": "5.34", 
+            "start": "260.9"
+        }, 
+        {
+            "text": "needs three representatives.", 
+            "dur": "1.769", 
+            "start": "266.24"
+        }, 
+        {
+            "text": "Because with STV citizens rank their candidates\nthere can be more than one candidate running", 
+            "dur": "5.46", 
+            "start": "268.009"
+        }, 
+        {
+            "text": "at the same time without any problems.", 
+            "dur": "2.891", 
+            "start": "273.469"
+        }, 
+        {
+            "text": "The tigers run two candidates as do the gorillas.", 
+            "dur": "3.779", 
+            "start": "276.36"
+        }, 
+        {
+            "text": "White tiger becomes the first representative,\nbut what happens next? While tiger seems to", 
+            "dur": "7", 
+            "start": "280.139"
+        }, 
+        {
+            "text": "be the biggest loser, it&#39;s also obvious that\nhe would have gotten way more votes if white", 
+            "dur": "3.799", 
+            "start": "295.43"
+        }, 
+        {
+            "text": "tiger wasn&#39;t in the race. If a candidate has\nmore votes than they need, like white tiger", 
+            "dur": "4.99", 
+            "start": "299.229"
+        }, 
+        {
+            "text": "does, the first step is to give the extra\nvotes to their second choice. This gets tiger", 
+            "dur": "5.091", 
+            "start": "304.219"
+        }, 
+        {
+            "text": "to 33% and he becomes the next representative.", 
+            "dur": "3.379", 
+            "start": "309.31"
+        }, 
+        {
+            "text": "If that seems strange, there are two things\nto consider:", 
+            "dur": "2.171", 
+            "start": "312.689"
+        }, 
+        {
+            "text": "1) If instead the extra votes were ignored,\nand tiger eliminated then the gorillas would", 
+            "dur": "3.75", 
+            "start": "314.86"
+        }, 
+        {
+            "text": "get the remaining two wins, which would obviously\nnot be represent the range.", 
+            "dur": "4.48", 
+            "start": "318.61"
+        }, 
+        {
+            "text": "2) Ignoring these &#39;extra&#39; votes is punishing\ncitizens who backed the popular candidate,", 
+            "dur": "4.65", 
+            "start": "323.09"
+        }, 
+        {
+            "text": "which makes voters start thinking about how\neveryone else will vote, rather than what", 
+            "dur": "5.12", 
+            "start": "327.74"
+        }, 
+        {
+            "text": "they really want. If a candidate gets extra\nvotes in the first place it also means that", 
+            "dur": "5.2", 
+            "start": "332.86"
+        }, 
+        {
+            "text": "those who voted for him are a big section\nof the population and thus fairly should get", 
+            "dur": "4.609", 
+            "start": "338.06"
+        }, 
+        {
+            "text": "more representation.", 
+            "dur": "1.83", 
+            "start": "342.669"
+        }, 
+        {
+            "text": "Right: after the extra votes go to tiger,\nthe election finishes as before: Silverback", 
+            "dur": "4.41", 
+            "start": "344.499"
+        }, 
+        {
+            "text": "came in last, is eliminated and his voters&#39;\nsecond choice is the younger candidate so", 
+            "dur": "4.06", 
+            "start": "348.909"
+        }, 
+        {
+            "text": "gorilla gets in. And the results are fair.", 
+            "dur": "2.81", 
+            "start": "352.969"
+        }, 
+        {
+            "text": "Queen Lion has now seen STV work. Whether\na range has one party or lots the process", 
+            "dur": "4.72", 
+            "start": "355.779"
+        }, 
+        {
+            "text": "is still the same:", 
+            "dur": "1.7", 
+            "start": "360.499"
+        }, 
+        {
+            "text": "1. Citizens rank their favorite candidates.\n2. Any candidate above the threshold wins", 
+            "dur": "4.43", 
+            "start": "362.199"
+        }, 
+        {
+            "text": "immediately,\n3. &#39;Extra&#39; votes go to their next choice.", 
+            "dur": "2.87", 
+            "start": "366.629"
+        }, 
+        {
+            "text": "4. If no winner, last place is eliminated,\nand the votes to go their next choice.", 
+            "dur": "4.181", 
+            "start": "369.499"
+        }, 
+        {
+            "text": "5. Repeat until all the winners are found.", 
+            "dur": "2.919", 
+            "start": "373.68"
+        }, 
+        {
+            "text": "This whole this process is designed to maximize\nthe number of citizens who are happy with", 
+            "dur": "4.06", 
+            "start": "376.599"
+        }, 
+        {
+            "text": "the result.", 
+            "dur": "0.51", 
+            "start": "380.659"
+        }, 
+        {
+            "text": "This process gives STV has many advantages\nover the old, most-votes-wins system:", 
+            "dur": "4.701", 
+            "start": "381.169"
+        }, 
+        {
+            "text": "1. Citizens can honestly vote for their favorite\ncandidate without worrying about what everyone", 
+            "dur": "3.759", 
+            "start": "385.87"
+        }, 
+        {
+            "text": "else is going to do.\n2. It&#39;s more proportional. So monkeying with", 
+            "dur": "3.03", 
+            "start": "389.629"
+        }, 
+        {
+            "text": "the borders matters less.\n3. Almost all citizens will have a local representative", 
+            "dur": "4.72", 
+            "start": "392.659"
+        }, 
+        {
+            "text": "they actually voted for.", 
+            "dur": "1.81", 
+            "start": "397.379"
+        }, 
+        {
+            "text": "In the end Queen lion decides to switch the\ncouncil&#39;s elections to Single Transferable", 
+            "dur": "3.78", 
+            "start": "399.189"
+        }, 
+        {
+            "text": "Vote to make a better jungle council for all.", 
+            "dur": "2.68", 
+            "start": "402.969"
+        }
+    ], 
+    "title": "Politics in the Animal Kingdom: Single Transferable Vote", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0kvhjr3", 
+        "/m/02p0sgp"
+    ], 
+    "raw_score": 858, 
+    "number_views": 900501, 
+    "categories": [
+        27
+    ]
+}

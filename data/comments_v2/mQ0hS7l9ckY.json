@@ -1,0 +1,873 @@
+{
+    "publish_date": "2014-02-14T00:00:20.000Z", 
+    "score": 0.0003544979684003133, 
+    "video_length": "PT11M35S", 
+    "captions": [
+        {
+            "text": "Hey, Vsauce. Michael here. I am", 
+            "dur": "3.339", 
+            "start": "7.22"
+        }, 
+        {
+            "text": "distorted. The pixels you are watching have been", 
+            "dur": "3.401", 
+            "start": "10.559"
+        }, 
+        {
+            "text": "time displaced. They&#39;ve been mapped onto a gradient", 
+            "dur": "4.22", 
+            "start": "13.96"
+        }, 
+        {
+            "text": "and the darker the region they&#39;re mapped to,\nthe further behind", 
+            "dur": "3.599", 
+            "start": "18.18"
+        }, 
+        {
+            "text": "they lag. The effect is really fun but it&#39;s certainly", 
+            "dur": "3.811", 
+            "start": "21.779"
+        }, 
+        {
+            "text": "not realistic. Or is it?", 
+            "dur": "3", 
+            "start": "25.59"
+        }, 
+        {
+            "text": "Many, many popular digital cameras suffer\nfrom lag induced distortion,", 
+            "dur": "4.59", 
+            "start": "31.23"
+        }, 
+        {
+            "text": "like what you just saw, though much,", 
+            "dur": "3.2", 
+            "start": "35.82"
+        }, 
+        {
+            "text": "much more subtle. Usually completely", 
+            "dur": "3.44", 
+            "start": "39.02"
+        }, 
+        {
+            "text": "unnoticeable. It&#39;s called a rolling shutter.", 
+            "dur": "3.25", 
+            "start": "42.46"
+        }, 
+        {
+            "text": "Instead of snapping a full exposure at once", 
+            "dur": "3.08", 
+            "start": "45.71"
+        }, 
+        {
+            "text": "they quickly scan strips of each frame. It&#39;s", 
+            "dur": "3.409", 
+            "start": "48.79"
+        }, 
+        {
+            "text": "usually undetectable. But when the\nsubject changes faster than the camera", 
+            "dur": "4.511", 
+            "start": "52.199"
+        }, 
+        {
+            "text": "scans,", 
+            "dur": "0.84", 
+            "start": "56.71"
+        }, 
+        {
+            "text": "you get the famous geloey wobbly rolling \nshutter effect. Really fast", 
+            "dur": "5.66", 
+            "start": "57.55"
+        }, 
+        {
+            "text": "things, like vibrating guitar strings and\nairplane propellers,", 
+            "dur": "3.59", 
+            "start": "63.21"
+        }, 
+        {
+            "text": "are famous victims, but people can be too.\nLuke Mandel submitted this photo", 
+            "dur": "4.91", 
+            "start": "66.8"
+        }, 
+        {
+            "text": "to Boing Boing[.net]. His camera scans left to\nright and, in this instance,", 
+            "dur": "4.909", 
+            "start": "71.71"
+        }, 
+        {
+            "text": "managed to capture a blink, eyes closed", 
+            "dur": "3.591", 
+            "start": "76.619"
+        }, 
+        {
+            "text": "when the scan began and then open in the\nreflection scanned a fraction", 
+            "dur": "4.96", 
+            "start": "80.21"
+        }, 
+        {
+            "text": "of a second later.\nBut the rolling shutter effect", 
+            "dur": "3.57", 
+            "start": "85.17"
+        }, 
+        {
+            "text": "is not just a neat curiosity. It represents", 
+            "dur": "3.96", 
+            "start": "88.74"
+        }, 
+        {
+            "text": "a fundamental and inescapable distortion that", 
+            "dur": "3.43", 
+            "start": "92.7"
+        }, 
+        {
+            "text": "affects everything we see. Rolling shutter", 
+            "dur": "3.58", 
+            "start": "96.13"
+        }, 
+        {
+            "text": "or not. First things first, let&#39;s talk about distortions.", 
+            "dur": "4.409", 
+            "start": "99.71"
+        }, 
+        {
+            "text": "A hallucination is a distortion of reality", 
+            "dur": "3.29", 
+            "start": "104.119"
+        }, 
+        {
+            "text": "when there is no apparent stimulus. If you are merely", 
+            "dur": "3.981", 
+            "start": "107.409"
+        }, 
+        {
+            "text": "misinterpreting an actual stimulus, that is an illusion.", 
+            "dur": "4.31", 
+            "start": "111.39"
+        }, 
+        {
+            "text": "But some distortions occur before our sense organs", 
+            "dur": "4.209", 
+            "start": "115.7"
+        }, 
+        {
+            "text": "and minds get in the way. They are called", 
+            "dur": "3.271", 
+            "start": "119.909"
+        }, 
+        {
+            "text": "optical phenomena. They are not the\nresult of sensation or perception gone wrong.", 
+            "dur": "5.16", 
+            "start": "123.18"
+        }, 
+        {
+            "text": "Instead, optical phenomena are distortions\ncaused by the mere properties of light", 
+            "dur": "5.32", 
+            "start": "128.34"
+        }, 
+        {
+            "text": "and matter", 
+            "dur": "0.84", 
+            "start": "133.66"
+        }, 
+        {
+            "text": "in and of themselves. If you look up at the sky", 
+            "dur": "3.47", 
+            "start": "134.5"
+        }, 
+        {
+            "text": "and see a giant vivid drinking gourd,", 
+            "dur": "3.67", 
+            "start": "137.97"
+        }, 
+        {
+            "text": "you are hallucinating. But if you see a flat", 
+            "dur": "3.26", 
+            "start": "141.64"
+        }, 
+        {
+            "text": "two-dimensional connect-the-dots\nBig Dipper, you are seeing", 
+            "dur": "4.1", 
+            "start": "144.9"
+        }, 
+        {
+            "text": "an illusion. It&#39;s an illusion because those dots merely", 
+            "dur": "3.29", 
+            "start": "149"
+        }, 
+        {
+            "text": "appear to be on the same plain, like\nholes poked in the dark roof of the sky.", 
+            "dur": "5.22", 
+            "start": "152.29"
+        }, 
+        {
+            "text": "In reality, those dots are stars", 
+            "dur": "3.099", 
+            "start": "157.51"
+        }, 
+        {
+            "text": "lightyears apart from one another in three dimensions.", 
+            "dur": "4.121", 
+            "start": "160.609"
+        }, 
+        {
+            "text": "As Celestron&#39;s brilliant free real-time\n3D visualization of space", 
+            "dur": "4.11", 
+            "start": "164.73"
+        }, 
+        {
+            "text": "shows, from different perspectives, besides our own,", 
+            "dur": "3.6", 
+            "start": "168.84"
+        }, 
+        {
+            "text": "they look a lot less like a dipper or plough.", 
+            "dur": "3.97", 
+            "start": "172.44"
+        }, 
+        {
+            "text": "In fact, all constellations and asterisms", 
+            "dur": "3.25", 
+            "start": "176.41"
+        }, 
+        {
+            "text": "are geocentric illusions. From a wider perspective", 
+            "dur": "3.99", 
+            "start": "179.66"
+        }, 
+        {
+            "text": "their outlines point inward,", 
+            "dur": "3.08", 
+            "start": "183.65"
+        }, 
+        {
+            "text": "to the single lowly point in space", 
+            "dur": "3.06", 
+            "start": "186.73"
+        }, 
+        {
+            "text": "that gave them their names. But you can&#39;t blame us.", 
+            "dur": "3.77", 
+            "start": "189.79"
+        }, 
+        {
+            "text": "I mean, Earth is the only perspective any\nhuman has ever had.", 
+            "dur": "4.84", 
+            "start": "193.56"
+        }, 
+        {
+            "text": "And even Voyager 1,\nthe most distant man-made object,", 
+            "dur": "3.78", 
+            "start": "198.42"
+        }, 
+        {
+            "text": "is still not even close to being far\nenough away for the constellations to look", 
+            "dur": "3.851", 
+            "start": "202.209"
+        }, 
+        {
+            "text": "even remotely different than they do here on Earth.", 
+            "dur": "3.7", 
+            "start": "206.06"
+        }, 
+        {
+            "text": "It&#39;s also not our fault, our eyes&#39; and brains&#39;", 
+            "dur": "3.81", 
+            "start": "209.76"
+        }, 
+        {
+            "text": "fault, that distant, distant stars weren&#39;t included", 
+            "dur": "3.539", 
+            "start": "213.57"
+        }, 
+        {
+            "text": "in our early cosmic connect-the-dot game.", 
+            "dur": "3.701", 
+            "start": "217.109"
+        }, 
+        {
+            "text": "Sure, our eyesight could be better,", 
+            "dur": "3.269", 
+            "start": "220.81"
+        }, 
+        {
+            "text": "but optical phenomena are also to blame.", 
+            "dur": "3.051", 
+            "start": "224.079"
+        }, 
+        {
+            "text": "If it weren&#39;t for red shifting and the\ninverse square law and light extinction,", 
+            "dur": "5.22", 
+            "start": "227.13"
+        }, 
+        {
+            "text": "distant things could be seen in all their glory.", 
+            "dur": "3.25", 
+            "start": "232.35"
+        }, 
+        {
+            "text": "The night sky would look phenomenal. Many structures", 
+            "dur": "4.22", 
+            "start": "235.6"
+        }, 
+        {
+            "text": "up there are huge. They&#39;re just", 
+            "dur": "3.33", 
+            "start": "239.82"
+        }, 
+        {
+            "text": "too dim for their hugeness to be appreciated.", 
+            "dur": "3.7", 
+            "start": "243.15"
+        }, 
+        {
+            "text": "When we see Hubble Telescope images of\ndistant objects, like the Helix Nebula,", 
+            "dur": "5.02", 
+            "start": "246.85"
+        }, 
+        {
+            "text": "it&#39;s easy to think that, without a telescope to zoom in,", 
+            "dur": "3.64", 
+            "start": "251.87"
+        }, 
+        {
+            "text": "the object must just be a tiny point in the sky.", 
+            "dur": "3.78", 
+            "start": "255.51"
+        }, 
+        {
+            "text": "But in reality, even though the Helix Nebula is", 
+            "dur": "4.129", 
+            "start": "259.29"
+        }, 
+        {
+            "text": "700 light years away, it&#39;s", 
+            "dur": "3.261", 
+            "start": "263.419"
+        }, 
+        {
+            "text": "3 lightyears across. If we could make the Helix Nebula", 
+            "dur": "4.48", 
+            "start": "266.68"
+        }, 
+        {
+            "text": "less dim, if our eyes could take a", 
+            "dur": "3.18", 
+            "start": "271.16"
+        }, 
+        {
+            "text": "really long exposure of it,\nwe would see the Helix Nebula", 
+            "dur": "3.389", 
+            "start": "274.34"
+        }, 
+        {
+            "text": "as it really is - nearly 70% the apparent diameter", 
+            "dur": "5.111", 
+            "start": "277.729"
+        }, 
+        {
+            "text": "of our Moon. This is a serious picture.\nThat is how large", 
+            "dur": "4.54", 
+            "start": "282.84"
+        }, 
+        {
+            "text": "the Helix Nebula would appear in the\nnight sky from Earth", 
+            "dur": "3.42", 
+            "start": "287.38"
+        }, 
+        {
+            "text": "if it just wasn&#39;t so dim. Our Moon is", 
+            "dur": "3.56", 
+            "start": "290.8"
+        }, 
+        {
+            "text": "tiny in the sky, by the way. It&#39;s easy to\nthink of the moon as this huge", 
+            "dur": "4.84", 
+            "start": "294.36"
+        }, 
+        {
+            "text": "baseball-sized thing up there in the sky,\nbut that&#39;s an illusion.", 
+            "dur": "3.71", 
+            "start": "299.2"
+        }, 
+        {
+            "text": "Try this the next time you see the\nMoon. Grab a sheet of notebook paper", 
+            "dur": "4.05", 
+            "start": "302.91"
+        }, 
+        {
+            "text": "and you will notice that the angular\ndiameter of the Moon", 
+            "dur": "3.34", 
+            "start": "306.96"
+        }, 
+        {
+            "text": "is the same size as a hole punched in a\nsheet of notebook paper held", 
+            "dur": "4.54", 
+            "start": "310.3"
+        }, 
+        {
+            "text": "in arms-length away. Seriously, try it\nsometime. It shows just how", 
+            "dur": "5.04", 
+            "start": "314.84"
+        }, 
+        {
+            "text": "cute and tiny our little moon is.\nThe Orion Nebula", 
+            "dur": "3.74", 
+            "start": "319.88"
+        }, 
+        {
+            "text": "would appear even larger, if we saw all of its light.", 
+            "dur": "3.48", 
+            "start": "323.62"
+        }, 
+        {
+            "text": "And the Andromeda Galaxy? Just", 
+            "dur": "3.08", 
+            "start": "327.1"
+        }, 
+        {
+            "text": "a smudge in the sky to our eyes. But if our\neyes were better at collecting", 
+            "dur": "4.79", 
+            "start": "330.18"
+        }, 
+        {
+            "text": "dim light, we would see Andromeda&#39;s true extent", 
+            "dur": "3.45", 
+            "start": "334.97"
+        }, 
+        {
+            "text": "in our sky. Of course, our", 
+            "dur": "3.27", 
+            "start": "338.42"
+        }, 
+        {
+            "text": "night sky doesn&#39;t look like that. Distant objects", 
+            "dur": "3.03", 
+            "start": "341.69"
+        }, 
+        {
+            "text": "are dimmer, that&#39;s a bummer. But light still\nwins when it comes to speed.", 
+            "dur": "4.8", 
+            "start": "344.72"
+        }, 
+        {
+            "text": "Light travels at the fastest speed.\nIn fact, in a vacuum, light travels", 
+            "dur": "5.8", 
+            "start": "349.52"
+        }, 
+        {
+            "text": "300,000 kilometres a second.", 
+            "dur": "2.64", 
+            "start": "355.33"
+        }, 
+        {
+            "text": "That&#39;s fast.", 
+            "dur": "0.86", 
+            "start": "358.54"
+        }, 
+        {
+            "text": "But not really. I mean, not compared to how far apart", 
+            "dur": "3.56", 
+            "start": "361.07"
+        }, 
+        {
+            "text": "things are in the universe. Sydney, Australia", 
+            "dur": "3.57", 
+            "start": "364.63"
+        }, 
+        {
+            "text": "is 1/14th of a light second away from London.", 
+            "dur": "4.08", 
+            "start": "368.2"
+        }, 
+        {
+            "text": "But the Andromeda Galaxy is", 
+            "dur": "1.64", 
+            "start": "372.28"
+        }, 
+        {
+            "text": "2,500,000 light years away from London.", 
+            "dur": "4.62", 
+            "start": "373.92"
+        }, 
+        {
+            "text": "To put that in perspective let&#39;s take a\nlight speed journey from London", 
+            "dur": "4.28", 
+            "start": "378.55"
+        }, 
+        {
+            "text": "to Sydney. It would look like this... Ready?", 
+            "dur": "2.98", 
+            "start": "382.83"
+        }, 
+        {
+            "text": "Three, two, one, go!", 
+            "dur": "3.74", 
+            "start": "385.81"
+        }, 
+        {
+            "text": "Nice! Alright, alright. Here&#39;s the Andromeda Galaxy.", 
+            "dur": "4.38", 
+            "start": "390.85"
+        }, 
+        {
+            "text": "Okay, now, relativistic effects aside,\nlet&#39;s take a look at what it would look", 
+            "dur": "5.29", 
+            "start": "395.23"
+        }, 
+        {
+            "text": "like to travel toward the Andromeda Galaxy", 
+            "dur": "2.66", 
+            "start": "400.52"
+        }, 
+        {
+            "text": "at the speed of light. Are you ready? Alright.", 
+            "dur": "2.84", 
+            "start": "403.18"
+        }, 
+        {
+            "text": "Three, two, one, go!", 
+            "dur": "4.52", 
+            "start": "406.02"
+        }, 
+        {
+            "text": "Yeah. I mean, seriously, it&#39;s", 
+            "dur": "3.08", 
+            "start": "414.36"
+        }, 
+        {
+            "text": "pretty lame. Even at the speed of light,", 
+            "dur": "3.9", 
+            "start": "417.45"
+        }, 
+        {
+            "text": "the fastest speed possible, a year from now", 
+            "dur": "3.88", 
+            "start": "421.35"
+        }, 
+        {
+            "text": "we won&#39;t even be a millionth of the way there.", 
+            "dur": "3.77", 
+            "start": "425.23"
+        }, 
+        {
+            "text": "That&#39;s how far away", 
+            "dur": "2.32", 
+            "start": "429"
+        }, 
+        {
+            "text": "Andromeda is. It&#39;s almost sad", 
+            "dur": "3.65", 
+            "start": "431.33"
+        }, 
+        {
+            "text": "in a way. But this brings us back to\nthe rolling shutter effect.", 
+            "dur": "5.31", 
+            "start": "434.98"
+        }, 
+        {
+            "text": "The Andromeda Galaxy is huge. It&#39;s more\nthan a hundred thousand light years across", 
+            "dur": "5.67", 
+            "start": "440.29"
+        }, 
+        {
+            "text": "and our view of it is tilted.", 
+            "dur": "3.63", 
+            "start": "445.96"
+        }, 
+        {
+            "text": "Which means that, on the plain we view it in,\nlight from the back", 
+            "dur": "4.23", 
+            "start": "449.59"
+        }, 
+        {
+            "text": "represents what Andromeda looked like\nthousands and thousands of years before", 
+            "dur": "5.42", 
+            "start": "453.82"
+        }, 
+        {
+            "text": "what light from the front represents.", 
+            "dur": "3.09", 
+            "start": "459.24"
+        }, 
+        {
+            "text": "Changes in its appearance reach us \nsooner from the front", 
+            "dur": "3.36", 
+            "start": "462.33"
+        }, 
+        {
+            "text": "than from the back. Andromeda is rotating,\nspinning at hundreds of kilometers per", 
+            "dur": "4.58", 
+            "start": "465.69"
+        }, 
+        {
+            "text": "second in some places.", 
+            "dur": "1.64", 
+            "start": "470.27"
+        }, 
+        {
+            "text": "Now, a lag between light coming from near", 
+            "dur": "3.76", 
+            "start": "471.91"
+        }, 
+        {
+            "text": "and far points on a spinning object, results", 
+            "dur": "3.21", 
+            "start": "475.67"
+        }, 
+        {
+            "text": "in a skewed image. The rolling shutter\neffect on a cosmic scale", 
+            "dur": "4.81", 
+            "start": "478.88"
+        }, 
+        {
+            "text": "applied to, say, a chessboard, seeing the front", 
+            "dur": "3.01", 
+            "start": "483.69"
+        }, 
+        {
+            "text": "ahead of the back is pretty trippy and dramatic.", 
+            "dur": "3.71", 
+            "start": "486.7"
+        }, 
+        {
+            "text": "So, does that mean we see", 
+            "dur": "2.52", 
+            "start": "491.26"
+        }, 
+        {
+            "text": "wobbly, funhouse mirror, rolling\nshutter effect versions of Andromeda", 
+            "dur": "4.41", 
+            "start": "493.79"
+        }, 
+        {
+            "text": "and other distant galaxies? Well, technically", 
+            "dur": "3.47", 
+            "start": "498.2"
+        }, 
+        {
+            "text": "yeah, but the distortion is negligible. It may as well be", 
+            "dur": "4.99", 
+            "start": "501.67"
+        }, 
+        {
+            "text": "ignored. Why? Well,", 
+            "dur": "3.36", 
+            "start": "506.66"
+        }, 
+        {
+            "text": "the speeds used in these visualizations are not", 
+            "dur": "3.65", 
+            "start": "510.02"
+        }, 
+        {
+            "text": "to scale. On average, yes, matter within galaxies", 
+            "dur": "4.58", 
+            "start": "513.67"
+        }, 
+        {
+            "text": "orbits the galactic center at hundreds\nof kilometers per second", 
+            "dur": "3.45", 
+            "start": "518.25"
+        }, 
+        {
+            "text": "but galaxies are so huge it takes them", 
+            "dur": "3.86", 
+            "start": "521.7"
+        }, 
+        {
+            "text": "hundreds of millions of years to complete just one", 
+            "dur": "3.65", 
+            "start": "525.56"
+        }, 
+        {
+            "text": "rotation. In other words, the lag between light", 
+            "dur": "4.53", 
+            "start": "529.21"
+        }, 
+        {
+            "text": "reaching you from near and far points on a galaxy,", 
+            "dur": "3.26", 
+            "start": "533.74"
+        }, 
+        {
+            "text": "is nothing compared to how much time it takes", 
+            "dur": "3.29", 
+            "start": "537"
+        }, 
+        {
+            "text": "matter in the galaxy to travel that same distance.", 
+            "dur": "3.57", 
+            "start": "540.29"
+        }, 
+        {
+            "text": "In the case of Andromeda, if you insisted", 
+            "dur": "3.13", 
+            "start": "543.86"
+        }, 
+        {
+            "text": "on seeing Andromeda as it really is,", 
+            "dur": "3.39", 
+            "start": "546.99"
+        }, 
+        {
+            "text": "that is, corrected for any lag caused by\nthe fact that the speed of light is", 
+            "dur": "5.18", 
+            "start": "550.38"
+        }, 
+        {
+            "text": "finite, the most extreme points on the Galaxy", 
+            "dur": "3.24", 
+            "start": "555.56"
+        }, 
+        {
+            "text": "would only need to be adjusted by about a 10,000th of", 
+            "dur": "4.24", 
+            "start": "558.8"
+        }, 
+        {
+            "text": "the width of any image. In this case, less than a pixel.", 
+            "dur": "3.38", 
+            "start": "563.04"
+        }, 
+        {
+            "text": "So, it&#39;s not a big deal. But it&#39;s not a nothing deal.", 
+            "dur": "4.38", 
+            "start": "566.42"
+        }, 
+        {
+            "text": "It&#39;s real. In fact, everything we look at is,", 
+            "dur": "3.73", 
+            "start": "570.8"
+        }, 
+        {
+            "text": "in some way, distorted by the fact that the speed of light", 
+            "dur": "3.14", 
+            "start": "574.53"
+        }, 
+        {
+            "text": "is finite. Your own feet are about", 
+            "dur": "3.08", 
+            "start": "577.67"
+        }, 
+        {
+            "text": "5 to 6 light nano seconds away from your\neyes, which means when you look at your feet", 
+            "dur": "6.39", 
+            "start": "580.75"
+        }, 
+        {
+            "text": "you are seeing where they were 5 to 6", 
+            "dur": "3.81", 
+            "start": "587.14"
+        }, 
+        {
+            "text": "nano seconds ago. 5 to 6 nanoseconds in the past.", 
+            "dur": "4.28", 
+            "start": "590.95"
+        }, 
+        {
+            "text": "Of course, a delay that brief is pretty\nmuch undetectable", 
+            "dur": "3.02", 
+            "start": "595.23"
+        }, 
+        {
+            "text": "but it is calculate-able. If it makes you feel", 
+            "dur": "3.63", 
+            "start": "598.25"
+        }, 
+        {
+            "text": "a little sad to know that even with the sharpest mind", 
+            "dur": "3.34", 
+            "start": "601.88"
+        }, 
+        {
+            "text": "or the best instruments, appearances still depend on", 
+            "dur": "4.33", 
+            "start": "605.22"
+        }, 
+        {
+            "text": "where you are. That optical phenomena insure", 
+            "dur": "3.59", 
+            "start": "609.55"
+        }, 
+        {
+            "text": "appearances are always relative(?) Don&#39;t feel bad.", 
+            "dur": "4.54", 
+            "start": "613.14"
+        }, 
+        {
+            "text": "We call the people closest to us our relatives.", 
+            "dur": "3.99", 
+            "start": "617.68"
+        }, 
+        {
+            "text": "We&#39;re really just a family, a big family", 
+            "dur": "3.4", 
+            "start": "621.67"
+        }, 
+        {
+            "text": "of reference frames that,\nlike a family, don&#39;t always agree", 
+            "dur": "3.41", 
+            "start": "625.07"
+        }, 
+        {
+            "text": "but do have plenty of cool things to look at.", 
+            "dur": "3.09", 
+            "start": "628.48"
+        }, 
+        {
+            "text": "I&#39;d like to thank my editor, Guy, for help with the", 
+            "dur": "3.92", 
+            "start": "631.57"
+        }, 
+        {
+            "text": "rolling shutter effect in this video.", 
+            "dur": "2.44", 
+            "start": "635.49"
+        }, 
+        {
+            "text": "And I&#39;d like to thank you, because, as always", 
+            "dur": "2.56", 
+            "start": "651.889"
+        }, 
+        {
+            "text": "thanks for watching.", 
+            "dur": "2.62", 
+            "start": "654.449"
+        }, 
+        {
+            "text": "Oh, here&#39;s something cool.", 
+            "dur": "1.04", 
+            "start": "681.97"
+        }, 
+        {
+            "text": "I will be at YouTube Fan Fest with HP", 
+            "dur": "3.03", 
+            "start": "683.01"
+        }, 
+        {
+            "text": "in India very very soon. Check the\ndescription for more info. If you can", 
+            "dur": "3.54", 
+            "start": "686.04"
+        }, 
+        {
+            "text": "make it,", 
+            "dur": "0.49", 
+            "start": "689.58"
+        }, 
+        {
+            "text": "I hope to see you there.", 
+            "dur": "0.95", 
+            "start": "690.07"
+        }
+    ], 
+    "title": "DISTORTIONS", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m0klzj", 
+        "/m/0b7t0"
+    ], 
+    "raw_score": 1271, 
+    "number_views": 3585352, 
+    "categories": [
+        28
+    ]
+}

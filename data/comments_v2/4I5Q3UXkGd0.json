@@ -1,0 +1,738 @@
+{
+    "publish_date": "2014-03-10T23:45:45.000Z", 
+    "score": 0.0004056725100770778, 
+    "video_length": "PT9M44S", 
+    "captions": [
+        {
+            "text": "Hey, Vsauce. Michael here.", 
+            "dur": "1.66", 
+            "start": "3.639"
+        }, 
+        {
+            "text": "I am at the White House, in America&#39;s capital,", 
+            "dur": "2.619", 
+            "start": "5.3"
+        }, 
+        {
+            "text": "Washington, D.C. America makes a lot of\nfeature films every year - ", 
+            "dur": "3.631", 
+            "start": "7.919"
+        }, 
+        {
+            "text": "Hollywood. But they don&#39;t make the most\nfeature films every year. Nigeria makes more.", 
+            "dur": "5.399", 
+            "start": "11.55"
+        }, 
+        {
+            "text": "But the country that makes the most\nfilms every single year is", 
+            "dur": "3.541", 
+            "start": "16.949"
+        }, 
+        {
+            "text": "India. Every two years, the country", 
+            "dur": "3.01", 
+            "start": "20.49"
+        }, 
+        {
+            "text": "of India fills up enough film with unique\nfeature films", 
+            "dur": "3.74", 
+            "start": "23.5"
+        }, 
+        {
+            "text": "that stretch all the way from this city,\nMumbai, to where I live,", 
+            "dur": "3.32", 
+            "start": "27.24"
+        }, 
+        {
+            "text": "in London. That&#39;s double what Hollywood\nproduces in two years.", 
+            "dur": "3.78", 
+            "start": "30.56"
+        }, 
+        {
+            "text": "That is a lot of movies, but is", 
+            "dur": "3.539", 
+            "start": "34.34"
+        }, 
+        {
+            "text": "real-life a movie? I&#39;ve discussed the frame\nrate of the human eye before but how", 
+            "dur": "5.479", 
+            "start": "37.9"
+        }, 
+        {
+            "text": "does the resolution", 
+            "dur": "1.141", 
+            "start": "43.379"
+        }, 
+        {
+            "text": "of the human eye compare to a camera or screen?", 
+            "dur": "3.48", 
+            "start": "44.52"
+        }, 
+        {
+            "text": "VHS, LaserDisc, DVD,", 
+            "dur": "3.489", 
+            "start": "48"
+        }, 
+        {
+            "text": "Blu-ray, IMAX. Numbers like these are\npixel dimensions. When multiplied", 
+            "dur": "6.261", 
+            "start": "51.489"
+        }, 
+        {
+            "text": "they tell us the total number of picture\nelements an image is made up of.", 
+            "dur": "4.05", 
+            "start": "57.75"
+        }, 
+        {
+            "text": "A figure often used to describe digital\ncameras. It might sound like", 
+            "dur": "4.23", 
+            "start": "61.8"
+        }, 
+        {
+            "text": "more is better, but to be sure numbers\nlike 1920 by 1080", 
+            "dur": "6.04", 
+            "start": "66.03"
+        }, 
+        {
+            "text": "are not resolutions per se.\nMore pixels is only part", 
+            "dur": "4.26", 
+            "start": "72.07"
+        }, 
+        {
+            "text": "of the equation. Resolution is about distinguishing", 
+            "dur": "3.3", 
+            "start": "76.33"
+        }, 
+        {
+            "text": "fine details and that depends on a lot of other factors.", 
+            "dur": "3.68", 
+            "start": "79.63"
+        }, 
+        {
+            "text": "For instance, the amount of light, the\nsize of the sensors,", 
+            "dur": "3.52", 
+            "start": "83.31"
+        }, 
+        {
+            "text": "what the millions of pixels are actually\nencoding and", 
+            "dur": "3.329", 
+            "start": "86.83"
+        }, 
+        {
+            "text": "how close the subject is. I mean, up close", 
+            "dur": "3.441", 
+            "start": "90.159"
+        }, 
+        {
+            "text": "Salvador Dali&#39;s painting of his wife\nlooking at the Mediterranean can be", 
+            "dur": "3.14", 
+            "start": "93.6"
+        }, 
+        {
+            "text": "resolved into boxes. But from a far,", 
+            "dur": "2.839", 
+            "start": "96.74"
+        }, 
+        {
+            "text": "well, it&#39;s Abraham Lincoln. For crying out\nloud, on a small enough screen", 
+            "dur": "4.61", 
+            "start": "99.579"
+        }, 
+        {
+            "text": "from far enough away, low and high,\nso-called resolutions on screens, aren&#39;t", 
+            "dur": "4.911", 
+            "start": "104.189"
+        }, 
+        {
+            "text": "even resolved differently", 
+            "dur": "1.339", 
+            "start": "109.1"
+        }, 
+        {
+            "text": "from one another by your eye.", 
+            "dur": "2.68", 
+            "start": "110.439"
+        }, 
+        {
+            "text": "How different nearby pixels are from one\nanother also matters. This is called", 
+            "dur": "3.94", 
+            "start": "113.12"
+        }, 
+        {
+            "text": "spatial resolution.", 
+            "dur": "1.47", 
+            "start": "117.06"
+        }, 
+        {
+            "text": "For instance, if I go out-of-focus", 
+            "dur": "3.06", 
+            "start": "118.53"
+        }, 
+        {
+            "text": "the number of pixels in the video frame\nstays the same but you can&#39;t resolve as much", 
+            "dur": "4.79", 
+            "start": "121.59"
+        }, 
+        {
+            "text": "detail. Now, with all this in mind we can still", 
+            "dur": "3.4", 
+            "start": "126.38"
+        }, 
+        {
+            "text": "compare human vision to a digital image,\nby asking a better question.", 
+            "dur": "3.849", 
+            "start": "129.78"
+        }, 
+        {
+            "text": "Assuming everything else is optimal, how\nmany pixels would you need to make an", 
+            "dur": "4.241", 
+            "start": "133.629"
+        }, 
+        {
+            "text": "image on a screen large enough to fill\nyour entire field of view", 
+            "dur": "3.78", 
+            "start": "137.87"
+        }, 
+        {
+            "text": "look like real life, without any\ndetectable", 
+            "dur": "3.21", 
+            "start": "141.65"
+        }, 
+        {
+            "text": "pixelation? Now we are getting somewhere.", 
+            "dur": "3.7", 
+            "start": "144.86"
+        }, 
+        {
+            "text": "Kind of. The analogy is still crudy", 
+            "dur": "4.42", 
+            "start": "148.56"
+        }, 
+        {
+            "text": "because a camera snaps an entire frame\nat once, whereas", 
+            "dur": "3.57", 
+            "start": "152.98"
+        }, 
+        {
+            "text": "our eyes move around. The brain amalgamates", 
+            "dur": "3.35", 
+            "start": "156.55"
+        }, 
+        {
+            "text": "their constant stream of information\ninto what we call vision -", 
+            "dur": "3.44", 
+            "start": "159.9"
+        }, 
+        {
+            "text": "sight. In fact, the image created by the\neyeball alone during a single glance", 
+            "dur": "4.72", 
+            "start": "163.34"
+        }, 
+        {
+            "text": "would hardly even be acceptable on a\nbroken TV screen. We think", 
+            "dur": "6.209", 
+            "start": "168.06"
+        }, 
+        {
+            "text": "our eyes create images like this picture\nGuy took of me with a camera.", 
+            "dur": "4.061", 
+            "start": "174.269"
+        }, 
+        {
+            "text": "But for one thing, unlike a camera,\nyou&#39;ve got some stuff", 
+            "dur": "4.25", 
+            "start": "178.33"
+        }, 
+        {
+            "text": "in the way. For instance, you are always", 
+            "dur": "3.47", 
+            "start": "182.58"
+        }, 
+        {
+            "text": "looking at your own nose, and maybe even\nglasses,", 
+            "dur": "3.74", 
+            "start": "186.05"
+        }, 
+        {
+            "text": "if you have them. Luckily, our brains\nprocess those stimuli out because they", 
+            "dur": "4.52", 
+            "start": "189.79"
+        }, 
+        {
+            "text": "don&#39;t matter", 
+            "dur": "0.849", 
+            "start": "194.31"
+        }, 
+        {
+            "text": "and they don&#39;t change. But thinking those are\nthe only difference", 
+            "dur": "4.151", 
+            "start": "195.159"
+        }, 
+        {
+            "text": "is a pitfall, literally,", 
+            "dur": "3.62", 
+            "start": "199.31"
+        }, 
+        {
+            "text": "latinly. The fovea gets its name from the Latin for", 
+            "dur": "4.25", 
+            "start": "202.93"
+        }, 
+        {
+            "text": "&#39;pitfall&#39;. The fovea is the pit on your\nretina that receives light from the", 
+            "dur": "4.199", 
+            "start": "207.18"
+        }, 
+        {
+            "text": "central two degrees", 
+            "dur": "1.25", 
+            "start": "211.379"
+        }, 
+        {
+            "text": "of your field of view, about the area\ncovered by both your thumbs", 
+            "dur": "3.321", 
+            "start": "212.629"
+        }, 
+        {
+            "text": "when held at arms length away. Optimal\ncolour vision and 20/20 acuity are", 
+            "dur": "4.7", 
+            "start": "215.95"
+        }, 
+        {
+            "text": "only possible within that little area.\nWhen it comes to these limitations XKCD[.com]", 
+            "dur": "5.91", 
+            "start": "220.65"
+        }, 
+        {
+            "text": "has a brilliant illustration.", 
+            "dur": "1.78", 
+            "start": "226.56"
+        }, 
+        {
+            "text": "It points out other problems, like blind spots - literal blank spaces", 
+            "dur": "4.06", 
+            "start": "228.34"
+        }, 
+        {
+            "text": "in our vision where the optic nerve meets\nup with the retina", 
+            "dur": "3.001", 
+            "start": "232.409"
+        }, 
+        {
+            "text": "and no visual information is received. If you bought", 
+            "dur": "3.51", 
+            "start": "235.41"
+        }, 
+        {
+            "text": "a camera that did this, you would return it.", 
+            "dur": "3.039", 
+            "start": "238.92"
+        }, 
+        {
+            "text": "You can find your own blind spot by closing", 
+            "dur": "3.03", 
+            "start": "241.959"
+        }, 
+        {
+            "text": "your right eye, fixating your left eye\non a point in front of you,", 
+            "dur": "3.83", 
+            "start": "244.989"
+        }, 
+        {
+            "text": "extending your left thumb and then moving it", 
+            "dur": "3.051", 
+            "start": "248.819"
+        }, 
+        {
+            "text": "left-of-center slightly slowly carefully\nuntil", 
+            "dur": "3.949", 
+            "start": "251.87"
+        }, 
+        {
+            "text": "it&#39;s not there anymore. Crazy(!)\nBut, of course,", 
+            "dur": "3.73", 
+            "start": "255.819"
+        }, 
+        {
+            "text": "we don&#39;t see the world horribly, like\nthis, because our eyes are constantly moving,", 
+            "dur": "4.96", 
+            "start": "259.549"
+        }, 
+        {
+            "text": "dragging foveal resolution wherever we need it.", 
+            "dur": "3.11", 
+            "start": "264.51"
+        }, 
+        {
+            "text": "And our brains&#39; complex visual system fills in details,", 
+            "dur": "4.29", 
+            "start": "267.62"
+        }, 
+        {
+            "text": "merges images from both eyes and makes a\nlot of gueses. What we actually see", 
+            "dur": "4.93", 
+            "start": "271.91"
+        }, 
+        {
+            "text": "is a processed image.\nNot computer-generated imagery, but,", 
+            "dur": "4.22", 
+            "start": "276.84"
+        }, 
+        {
+            "text": "well, meat-generated imagery.\nThe neon color spreading illusion", 
+            "dur": "4.82", 
+            "start": "281.06"
+        }, 
+        {
+            "text": "is a great way to demonstrate this\ndifference. There is no", 
+            "dur": "3.99", 
+            "start": "285.88"
+        }, 
+        {
+            "text": "blue circle in this picture. The white here", 
+            "dur": "3.34", 
+            "start": "289.87"
+        }, 
+        {
+            "text": "is the same as the white here. A camera", 
+            "dur": "3.4", 
+            "start": "293.21"
+        }, 
+        {
+            "text": "isn&#39;t fooled, a screen isn&#39;t fooled, only", 
+            "dur": "3.059", 
+            "start": "296.61"
+        }, 
+        {
+            "text": "you and the fleeting gumbo of\ningredients you call perception", 
+            "dur": "4.201", 
+            "start": "299.669"
+        }, 
+        {
+            "text": "is fooled. Our vision", 
+            "dur": "3.21", 
+            "start": "303.87"
+        }, 
+        {
+            "text": "is not analogous to a camera. But our\nreformulated question can still be", 
+            "dur": "5.97", 
+            "start": "307.08"
+        }, 
+        {
+            "text": "answered because human anatomy allows us\nto resolve, to differentiate certain", 
+            "dur": "5.2", 
+            "start": "313.05"
+        }, 
+        {
+            "text": "angular distances. Famously, Roger N .Clark", 
+            "dur": "3.52", 
+            "start": "318.25"
+        }, 
+        {
+            "text": "used a figure of 0.59 arcminutes\nas the resolution of the human eye to calculate,", 
+            "dur": "5.13", 
+            "start": "321.77"
+        }, 
+        {
+            "text": "based on the size of our total field of\nview,", 
+            "dur": "3.11", 
+            "start": "326.9"
+        }, 
+        {
+            "text": "how many of these distinct elements\ncould fit inside of it.", 
+            "dur": "4.17", 
+            "start": "330.01"
+        }, 
+        {
+            "text": "The result was an approximation of\nexactly what we want to know:", 
+            "dur": "3.46", 
+            "start": "334.18"
+        }, 
+        {
+            "text": "how many individual picture elements -\npixels - our vision can appreciate.", 
+            "dur": "5.269", 
+            "start": "337.64"
+        }, 
+        {
+            "text": "His answer? 576 megapixels.", 
+            "dur": "5.071", 
+            "start": "342.909"
+        }, 
+        {
+            "text": "That many pixels, packed\ninside a screen large enough to fill", 
+            "dur": "3.84", 
+            "start": "347.98"
+        }, 
+        {
+            "text": "your entire field of view, regardless of proximity,", 
+            "dur": "3.18", 
+            "start": "351.83"
+        }, 
+        {
+            "text": "would be close enough to be undetectable\nby the average", 
+            "dur": "3.23", 
+            "start": "355.01"
+        }, 
+        {
+            "text": "human eye. But we should factor in the fovea,", 
+            "dur": "3.89", 
+            "start": "358.24"
+        }, 
+        {
+            "text": "because Clark&#39;s calculation assumes\noptimal acuity everywhere, it allows the", 
+            "dur": "4", 
+            "start": "362.13"
+        }, 
+        {
+            "text": "eye to move around.", 
+            "dur": "1.349", 
+            "start": "366.13"
+        }, 
+        {
+            "text": "But a single glance is more analogous to\na camera snap, and, as it turns out,", 
+            "dur": "6", 
+            "start": "367.479"
+        }, 
+        {
+            "text": "only about 7 megapixels,\npacked into the two degrees of", 
+            "dur": "4", 
+            "start": "373.479"
+        }, 
+        {
+            "text": "optimal acuity the fovea covers during a fixed stare,", 
+            "dur": "3.151", 
+            "start": "377.479"
+        }, 
+        {
+            "text": "are needed to be rendered undetectable.\nIt&#39;s been roughly estimated that the", 
+            "dur": "4.57", 
+            "start": "380.63"
+        }, 
+        {
+            "text": "rest of your field of view would only need about", 
+            "dur": "2.279", 
+            "start": "385.2"
+        }, 
+        {
+            "text": "1 megapixel more information. Now that might\nsound low but keep in mind that there", 
+            "dur": "5.24", 
+            "start": "387.479"
+        }, 
+        {
+            "text": "are plenty of modern technologies that\nalready use pixel densities", 
+            "dur": "3.57", 
+            "start": "392.719"
+        }, 
+        {
+            "text": "better than we can differentiate.\nAs Bad Astronomer deftly showed,", 
+            "dur": "4.921", 
+            "start": "396.289"
+        }, 
+        {
+            "text": "Apple&#39;s Retina Displays truly do\ncontain pixels at a density", 
+            "dur": "4.06", 
+            "start": "401.21"
+        }, 
+        {
+            "text": "average eyesight can&#39;t differentiate from typical", 
+            "dur": "3.199", 
+            "start": "405.27"
+        }, 
+        {
+            "text": "reading distances. But the fact that\nthere are screen sizes and pixel", 
+            "dur": "4.541", 
+            "start": "408.469"
+        }, 
+        {
+            "text": "densities that can fool the human eye", 
+            "dur": "1.86", 
+            "start": "413.01"
+        }, 
+        {
+            "text": "is not a sign that we see in", 
+            "dur": "3.13", 
+            "start": "414.87"
+        }, 
+        {
+            "text": "any kind of megapixelly way. Human vision just", 
+            "dur": "3.82", 
+            "start": "418"
+        }, 
+        {
+            "text": "isn&#39;t that digital. I mean, sure, like a\ncamera sensor we only have a finite", 
+            "dur": "5.529", 
+            "start": "421.82"
+        }, 
+        {
+            "text": "and discrete number of cells in our retina.", 
+            "dur": "3.091", 
+            "start": "427.349"
+        }, 
+        {
+            "text": "But the brain adjusts our initial\nsensations into a final perception", 
+            "dur": "4.229", 
+            "start": "430.44"
+        }, 
+        {
+            "text": "that is a wishy-washy top-down processed blob", 
+            "dur": "3.49", 
+            "start": "434.669"
+        }, 
+        {
+            "text": "of experience. It&#39;s not made of pixels", 
+            "dur": "3.421", 
+            "start": "438.159"
+        }, 
+        {
+            "text": "and furthermore, unlike a camera, it&#39;s not\nsaved in memory with veracity like a", 
+            "dur": "4.8", 
+            "start": "441.58"
+        }, 
+        {
+            "text": "digital camera file.", 
+            "dur": "1.44", 
+            "start": "446.38"
+        }, 
+        {
+            "text": "Absolutely no evidence has ever been\nfound for the existence of a truly", 
+            "dur": "4.779", 
+            "start": "447.82"
+        }, 
+        {
+            "text": "photographic memory. And what&#39;s even\ncooler is that not only do we not", 
+            "dur": "4.63", 
+            "start": "452.599"
+        }, 
+        {
+            "text": "visually resolve the real world, like a movie camera,", 
+            "dur": "3", 
+            "start": "457.229"
+        }, 
+        {
+            "text": "we also don&#39;t narratively resolve\nconflict and drama in our lives", 
+            "dur": "5.37", 
+            "start": "460.229"
+        }, 
+        {
+            "text": "like most movie scripts. The point of\nall of this, what I&#39;m getting at,", 
+            "dur": "4.41", 
+            "start": "465.599"
+        }, 
+        {
+            "text": "is an idea. An idea that initially drew me to this question.", 
+            "dur": "3.69", 
+            "start": "470.009"
+        }, 
+        {
+            "text": "We play roles in the movie of life,", 
+            "dur": "3.03", 
+            "start": "473.699"
+        }, 
+        {
+            "text": "but it&#39;s a special kind of movie.\nCinematic victories and struggles are often", 
+            "dur": "5.06", 
+            "start": "476.729"
+        }, 
+        {
+            "text": "discrete, resolved, like pixels, with\nunbelievably perfect beginnings and endings,", 
+            "dur": "5.231", 
+            "start": "481.789"
+        }, 
+        {
+            "text": "whereas the real world is all about ear resolution.", 
+            "dur": "4.76", 
+            "start": "487.02"
+        }, 
+        {
+            "text": "I like how Jack Angstreich put it in &#39;Cinemania&#39;.", 
+            "dur": "3.52", 
+            "start": "491.78"
+        }, 
+        {
+            "text": "In a movie, a character can make a\ndecision and then walk away from the camera", 
+            "dur": "4.399", 
+            "start": "495.3"
+        }, 
+        {
+            "text": "across the street and have the credits\nroll, freezing life in a perfect happily ever after.", 
+            "dur": "5.96", 
+            "start": "499.699"
+        }, 
+        {
+            "text": "But in the real world, after you cross\nthe street,", 
+            "dur": "4.1", 
+            "start": "506.62"
+        }, 
+        {
+            "text": "you have to go home. The world goes on.", 
+            "dur": "3.6", 
+            "start": "512.099"
+        }, 
+        {
+            "text": "Life doesn&#39;t appear in any particular pixel resolution", 
+            "dur": "4.22", 
+            "start": "515.699"
+        }, 
+        {
+            "text": "or narrative resolution. Things are", 
+            "dur": "3.17", 
+            "start": "519.919"
+        }, 
+        {
+            "text": "continuous. The world was running before\nyou came around and it will continue running", 
+            "dur": "4.73", 
+            "start": "523.089"
+        }, 
+        {
+            "text": "after you are gone. Your life is a plot\nonly in so far as it begins", 
+            "dur": "4.52", 
+            "start": "527.819"
+        }, 
+        {
+            "text": "and ends and occurs in medias res.", 
+            "dur": "3.351", 
+            "start": "532.339"
+        }, 
+        {
+            "text": "Damerish opens illustration for\nCharles McGrath&#39;s endings", 
+            "dur": "3.05", 
+            "start": "535.69"
+        }, 
+        {
+            "text": "without endings says it perfectly. In life, there rarely is", 
+            "dur": "4.39", 
+            "start": "538.75"
+        }, 
+        {
+            "text": "the end. There is only", 
+            "dur": "2.3", 
+            "start": "543.14"
+        }, 
+        {
+            "text": "the and.", 
+            "dur": "1.5", 
+            "start": "545.449"
+        }, 
+        {
+            "text": "And as always,", 
+            "dur": "1.18", 
+            "start": "546.949"
+        }, 
+        {
+            "text": "thanks for watching.", 
+            "dur": "1.36", 
+            "start": "548.129"
+        }
+    ], 
+    "title": "What Is The Resolution Of The Eye?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/014sv8", 
+        "/m/0m0klzj"
+    ], 
+    "raw_score": 2068, 
+    "number_views": 5097708, 
+    "categories": [
+        28
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "publish_date": "2014-11-15T00:24:44.000Z", 
+    "score": 0.0007319229424947058, 
+    "video_length": "PT4M48S", 
+    "captions": [
+        {
+            "text": "[Intro]", 
+            "dur": "1.42", 
+            "start": "1.16"
+        }, 
+        {
+            "text": "It shouldn&#39;t surprise you to hear that I think\nscience and the internet go fantastic together.", 
+            "dur": "7", 
+            "start": "2.58"
+        }, 
+        {
+            "text": "I mean, most of the time. Yeah, once a year\nor so, the internet tries to convince us that", 
+            "dur": "4.38", 
+            "start": "16.12"
+        }, 
+        {
+            "text": "the Yellowstone Supervolcano is going to explode\njust because some bison are running down a", 
+            "dur": "3.769", 
+            "start": "20.5"
+        }, 
+        {
+            "text": "road or something, and it did convince some\npeople that the world was gonna end in 2012,", 
+            "dur": "4.461", 
+            "start": "24.269"
+        }, 
+        {
+            "text": "but the internet is also why you have me.\nAnd it turns out that this thing that we are", 
+            "dur": "3.36", 
+            "start": "28.73"
+        }, 
+        {
+            "text": "using here together is surprisingly good at\nmonitoring the health of our species.", 
+            "dur": "4.52", 
+            "start": "32.09"
+        }, 
+        {
+            "text": "According to new research published this week,\npublic health officials have been able to", 
+            "dur": "3.94", 
+            "start": "36.61"
+        }, 
+        {
+            "text": "accurately track and even predict the spread\nof diseases by studying how often those diseases", 
+            "dur": "5.48", 
+            "start": "40.55"
+        }, 
+        {
+            "text": "have been looked up on Wikipedia. Scientists\nat Los Alamos National Laboratory were able", 
+            "dur": "4.349", 
+            "start": "46.03"
+        }, 
+        {
+            "text": "to successfully monitor influenza outbreaks\nin the United States, Poland, Japan, and Thailand,", 
+            "dur": "5.381", 
+            "start": "50.379"
+        }, 
+        {
+            "text": "as well as Dengue Fever in Brazil by monitoring\nthe number of views received by pages related", 
+            "dur": "4.709", 
+            "start": "55.76"
+        }, 
+        {
+            "text": "to those diseases. The team was also able\nto forecast half of the outbreaks they studied", 
+            "dur": "4.731", 
+            "start": "60.469"
+        }, 
+        {
+            "text": "at least 28 days in advance. The results suggest\nthat people start researching the diseases", 
+            "dur": "4.44", 
+            "start": "65.2"
+        }, 
+        {
+            "text": "online when they, or people they know, begin\nto show symptoms, but before they get medical", 
+            "dur": "5.05", 
+            "start": "69.64"
+        }, 
+        {
+            "text": "attention. Scientists were able to track Wikipedia\nsearches, thanks to the site&#39;s open source", 
+            "dur": "3.61", 
+            "start": "74.69"
+        }, 
+        {
+            "text": "access logs. These logs show how many times\na page is view an hour and in what language.", 
+            "dur": "5.39", 
+            "start": "78.3"
+        }, 
+        {
+            "text": "So, for example, since the majority of people\nwho speak Thai live in Thailand, scientists", 
+            "dur": "4.14", 
+            "start": "83.69"
+        }, 
+        {
+            "text": "could monitor the access log for the Thai\npage for influenza and get a sense of the", 
+            "dur": "5.08", 
+            "start": "87.83"
+        }, 
+        {
+            "text": "disease&#39;s prevalence there. They also monitored\npages having to do with specific symptoms,", 
+            "dur": "3.67", 
+            "start": "92.91"
+        }, 
+        {
+            "text": "like chills, fever, and headache. Then, they\naggregated all of this data into a computer", 
+            "dur": "4.21", 
+            "start": "96.58"
+        }, 
+        {
+            "text": "model and compared it with the actual weekly\nreports of seven diseases in nine countries.", 
+            "dur": "4.71", 
+            "start": "100.79"
+        }, 
+        {
+            "text": "Their method worked particularly well in countries\nthat spoke a single language that wasn&#39;t spoken", 
+            "dur": "4.46", 
+            "start": "105.5"
+        }, 
+        {
+            "text": "in other countries, like Thailand or Poland,\nbut it also worked well in tracking influenza", 
+            "dur": "4.35", 
+            "start": "109.96"
+        }, 
+        {
+            "text": "in the US and Dengue Fever in Brazil, which\nsurprised the scientists, because those countries", 
+            "dur": "4.63", 
+            "start": "114.31"
+        }, 
+        {
+            "text": "use two of the most commonly spoken languages,\nEnglish and Portuguese. They think that their", 
+            "dur": "3.94", 
+            "start": "118.94"
+        }, 
+        {
+            "text": "predictions still worked because the US dominates\nthe English speaking internet landscape, while", 
+            "dur": "4.4", 
+            "start": "122.88"
+        }, 
+        {
+            "text": "Brazil is the only Portuguese speaking country\nthat has Dengue. As you can probably guess,", 
+            "dur": "4.1", 
+            "start": "127.28"
+        }, 
+        {
+            "text": "we are still a long way from the internet\nbeing able to predict our next public health", 
+            "dur": "3.12", 
+            "start": "131.38"
+        }, 
+        {
+            "text": "crisis for us. Not only are there problems\nwith using language as a proxy for nationality,", 
+            "dur": "4.81", 
+            "start": "134.5"
+        }, 
+        {
+            "text": "but more importantly, the model can only track\npeople who have internet access, and by some", 
+            "dur": "4.46", 
+            "start": "139.31"
+        }, 
+        {
+            "text": "estimates, that&#39;s only about 35% of the world&#39;s\npopulation. Plus, the monitoring only worked", 
+            "dur": "3.52", 
+            "start": "143.77"
+        }, 
+        {
+            "text": "for diseases that develop quickly and tend\nto appear in seasonal cycles. So while it", 
+            "dur": "4.26", 
+            "start": "147.29"
+        }, 
+        {
+            "text": "was effective at tracking influenza and Dengue,\nit was of no help in forecasting rates of", 
+            "dur": "3.9", 
+            "start": "151.55"
+        }, 
+        {
+            "text": "Tuberculosis or HIV infections. Still, the\nstudy is yet another step toward harnessing", 
+            "dur": "4.47", 
+            "start": "155.45"
+        }, 
+        {
+            "text": "the power of the internet for the aims of\nscience, and it&#39;s always good to see those", 
+            "dur": "4.26", 
+            "start": "159.92"
+        }, 
+        {
+            "text": "two gettin&#39; along.", 
+            "dur": "1.02", 
+            "start": "164.18"
+        }, 
+        {
+            "text": "Alright, now, if you&#39;re like us, few things\nthrill you more than finding really old dead", 
+            "dur": "4.11", 
+            "start": "165.2"
+        }, 
+        {
+            "text": "things, especially if they&#39;re frozen. And\nif that&#39;s the case, you were probably as excited", 
+            "dur": "3.74", 
+            "start": "169.31"
+        }, 
+        {
+            "text": "as we were when the news came about the Yukagir\nMummy, the most complete, naturally preserved", 
+            "dur": "4.98", 
+            "start": "173.05"
+        }, 
+        {
+            "text": "bison ever found. First discovered in 2011\nin the permafrost of Eastern Siberia, the", 
+            "dur": "5.4", 
+            "start": "178.03"
+        }, 
+        {
+            "text": "mummy is a 9000 year old Steppe Bison, a species\nthat became extinct at the end of the last", 
+            "dur": "5.2", 
+            "start": "183.43"
+        }, 
+        {
+            "text": "Ice Age. Its organs are almost fully preserved\nand include a heart and stomach, lungs, intestines,", 
+            "dur": "5.91", 
+            "start": "188.63"
+        }, 
+        {
+            "text": "and a brain. He still has fur and a tail and\neven the tips of his little ears. An autopsy", 
+            "dur": "5.15", 
+            "start": "194.54"
+        }, 
+        {
+            "text": "performed by Russian researchers showed that\nthe bison died when he was about four years", 
+            "dur": "4.48", 
+            "start": "199.69"
+        }, 
+        {
+            "text": "old, and that he had very low body fat, suggesting\nhe may have starved to death. But Yukagir", 
+            "dur": "4.399", 
+            "start": "204.17"
+        }, 
+        {
+            "text": "is not the first bison mummy scientists have\ndiscovered.", 
+            "dur": "2.791", 
+            "start": "208.569"
+        }, 
+        {
+            "text": "There are actually four of them, including\na 36,000 year old specimen unearthed by Alaskan", 
+            "dur": "4.98", 
+            "start": "211.36"
+        }, 
+        {
+            "text": "gold miners during the 1970s. But all of these\nmummies were either scavenged by animals or", 
+            "dur": "4.97", 
+            "start": "216.34"
+        }, 
+        {
+            "text": "partly destroyed by the freezing and thawing.\nBut Yukagir wasn&#39;t, so the data that we&#39;ll", 
+            "dur": "4.54", 
+            "start": "221.31"
+        }, 
+        {
+            "text": "glean from him will help us better understand\nall kinds of things about the long-gone Steppe", 
+            "dur": "4.7", 
+            "start": "225.85"
+        }, 
+        {
+            "text": "Bison, from what they ate, to what parasites\nthey carried, to where they roamed. And yes,", 
+            "dur": "4.88", 
+            "start": "230.55"
+        }, 
+        {
+            "text": "I know you&#39;re wondering, so I&#39;ll tell you\nthat researchers have gotten fragments of", 
+            "dur": "3.779", 
+            "start": "235.43"
+        }, 
+        {
+            "text": "DNA from the bison&#39;s hair, which will help\nclarify how Steppe Bison are related to modern-day", 
+            "dur": "4.721", 
+            "start": "239.209"
+        }, 
+        {
+            "text": "bison and cattle. But in case you&#39;re having\ndreams of riding a Steppe Bison in some futuristic", 
+            "dur": "4.65", 
+            "start": "243.93"
+        }, 
+        {
+            "text": "Pleistocene theme park, there are no plans\nto use that DNA to bring the Steppe Bison", 
+            "dur": "4.62", 
+            "start": "248.58"
+        }, 
+        {
+            "text": "back through a process known as resurrection\nbiology, or de-extinction.", 
+            "dur": "4.58", 
+            "start": "253.2"
+        }, 
+        {
+            "text": "So I&#39;m sorry to burst that particular bubble,\nbut thank you for joining me here on SciShow", 
+            "dur": "4.84", 
+            "start": "257.78"
+        }, 
+        {
+            "text": "News. If you want to help us share science\nwith the world, which we couldn&#39;t do without", 
+            "dur": "3.81", 
+            "start": "262.62"
+        }, 
+        {
+            "text": "support from people like you, you can become\na supporting subscriber at Subbable.com/SciShow,", 
+            "dur": "5.14", 
+            "start": "266.43"
+        }, 
+        {
+            "text": "and if you just want to keep getting smarter\nwith us, you can go to YouTube.com/SciShow", 
+            "dur": "3.9", 
+            "start": "271.57"
+        }, 
+        {
+            "text": "and subscribe.", 
+            "dur": "7", 
+            "start": "275.47"
+        }
+    ], 
+    "title": "Arctic Bison Mummy!", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0yq3q1b", 
+        "/m/01gm6", 
+        "/m/07kcclw"
+    ], 
+    "raw_score": 178, 
+    "number_views": 243195, 
+    "categories": [
+        27
+    ]
+}
