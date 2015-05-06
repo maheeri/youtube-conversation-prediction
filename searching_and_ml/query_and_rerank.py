@@ -156,7 +156,10 @@ def rerank_search_results(model, search_results):
         
 	return sorted(videos_with_score, key=itemgetter(1), reverse=True)
 	
+def get_classifer():
+    return joblib.load('./trained_models/dummy.pkl')
+
 if __name__ == "__main__":
-	os.chdir(r'C:\Users\Maheer\Dropbox\Cornell Course Materials\Spring 2015\CS 4300\youtube-caption-prediction')
-	dummy = joblib.load(r'trained_models\dummy.pkl')
+	# os.chdir(r'C:\Users\Maheer\Dropbox\Cornell Course Materials\Spring 2015\CS 4300\youtube-caption-prediction')
+	dummy = joblib.load('.././trained_models/dummy.pkl')
 	print(rerank_search_results(dummy, query_search("soup")))

@@ -29,16 +29,8 @@ $(document).ready(function () {
 
     var frequency_list = [{"text":"study","size":40},{"text":"motion","size":15},{"text":"forces","size":10}, {"text":"things","size":10},{"text":"force","size":5},{"text":"ad","size":5},{"text":"energy","size":85},{"text":"living","size":5},{"text":"nonliving","size":5},{"text":"laws","size":15},{"text":"speed","size":45},{"text":"velocity","size":30},{"text":"define","size":5},{"text":"constraints","size":5},{"text":"universe","size":10},{"text":"physics","size":120},{"text":"describing","size":5},{"text":"matter","size":90},{"text":"physics-the","size":5},{"text":"world","size":10},{"text":"works","size":10},{"text":"science","size":70},{"text":"interactions","size":30},{"text":"studies","size":5},{"text":"properties","size":45},{"text":"nature","size":40},{"text":"branch","size":30},{"text":"concerned","size":25},{"text":"source","size":40},{"text":"google","size":10},{"text":"defintions","size":5},{"text":"two","size":15},{"text":"grouped","size":15},{"text":"traditional","size":15},{"text":"fields","size":15}];
 
-
-    d3.layout.cloud().size([400, 400])
-            .words(frequency_list)
-            .rotate(0)
-            .fontSize(function(d) { return d.size; })
-            .on("end", draw_words)
-            .start();
-
     function draw_words(words) {
-      var svg = d3.select('#stats').append('svg')
+      var svg = d3.select('#word_cloud').append('svg')
             .attr('height', 400)
             .attr('width', 400)
           .append('g')
@@ -60,10 +52,94 @@ $(document).ready(function () {
               return d.text;
             })
     }
-
-    // draw_words(frequency_list);
-
 });
+
+function render_wordcloud(words) {
+    d3.layout.cloud().size([400, 400])
+            .words(words)
+            .rotate(0)
+            .fontSize(function(d) { return d.size; })
+            .on("end", draw_words)
+            .start();
+}
+
+function render_results(scores, thumbnails, descriptions, titles, urls) {
+  var result = '';
+
+  for (var x = 0; x < scores.length; x++) {
+    result += '<div class="row bottom-margin video">' +
+                  '<div class="col-md-2">' + 
+                      'Rank' +
+                      '<div class="rank">' + (x + 1).toString() + '</div>' +
+                  '</div>' +
+                  '<div class="col-md-2">' +
+                      'Score' +
+                      '<div class="score"><span> + ' + scores[x] + '</span></div>' +
+                  '</div>' +
+                  '<div class="col-md-5">' +
+                    '<a target="_blank" href="https://www.youtube.com/watch?v=' + urls[x] + '">' +
+                      '<img class="thumbnail"' + 'src="' + thumbnails[x] + '"/>' +
+                    '</a>' +
+                  '</div>' + 
+                  '<div class="col-md-3 left-text">' + 
+                    titles[x] + '<br/><br/>' + descriptions[x] + 
+                  '</div>' +
+              '</div>';
+  }
+
+  $('#left').html(result);
+  
+  $(document).ready(function () {
+    $('.video').hover(
+      function() {
+        if ($(this).hasClass('selected')) {
+          return;
+        }
+        else {        
+          $(this).css('color', '#F8F8F8');
+        }
+      }, 
+      function () {
+        if ($(this).hasClass('selected')) {
+          return;
+        }
+        else {
+          $(this).css('color', '#ddcccc');
+        }
+      }
+    );
+    
+    $('.video').click(
+      function() {
+        $('.selected').css('color', '#ddcccc');
+        $('.selected').stop().animate({backgroundColor:'#cd201f'}, 400);
+        $('.selected').removeClass('selected');
+
+        $(this).addClass('selected');
+        $(this).stop().animate({backgroundColor:'#F8F8F8'}, 400);
+        $(this).css('color', '#383838');
+        // $("#stats").html("Selected");
+      }
+    )
+
+    $('.thumbnail').hover(
+      function() {
+        $(this).css('opacity', '0.9');
+      },
+      function () {
+        $(this).css('opacity', '1');
+      }
+    );
+  })
+
+  $(function(){
+      $(window).resize(function(){
+          var rankHeight = $('.rank').height();
+          var scoreHeight = rankHeight/2;
+          $('.score').css('height',scoreHeight + 'px');
+      }).resize();    
+  });
+}
 
 // ----------------- Event handlers -----------------
 
@@ -71,17 +147,39 @@ $(document).ready(function () {
 $(function() {
   $('#query_form').bind('submit', function() {
       console.log($('input[name="input"]').val());
+      document.getElementById('loading').style.display='block';
       $.getJSON('./find_videos', {
         query: $('input[name="input"]').val(),
       }, function(data) {
-        $("#stats").text(data.result);
+        document.getElementById('loading').style.display='none';
+        console.log(data.result);
+        render_results(data.scores, data.thumbnails, data.descriptions, data.titles, data.urls);
       });
-      console.log(":(");
       return false;
   });
 });
 
 // ------------------------ Styling ------------------------
+
+$(function() {
+  $('#splashform').bind('submit', function() {
+      console.log($('input[name="splash-input"]').val());
+      document.getElementById('nav').style.display='none';
+      // document.getElementById('loading').style.display='block';
+      document.getElementById('preloader').style.display='block';
+      $.getJSON('./find_videos', {
+        query: $('input[name="splash-input"]').val(),
+      }, function(data) {
+        console.log(data.result);
+        document.getElementById('splashpage').style.display='none';
+        // document.getElementById('loading').style.display='none';
+        document.getElementById('nav').style.display='block';
+        render_results(data.scores, data.thumbnails, data.descriptions, data.titles, data.urls);
+      });
+      return false;
+  });
+});
+
 
 
 $(document).ready(function () {
@@ -116,6 +214,15 @@ $(document).ready(function () {
       // $("#stats").html("Selected");
     }
   )
+
+  $('.thumbnail').hover(
+    function() {
+      $(this).css('opacity', '0.9');
+    },
+    function () {
+      $(this).css('opacity', '1');
+    }
+  );
 })
 
 $(function(){
@@ -124,4 +231,15 @@ $(function(){
         var scoreHeight = rankHeight/2;
         $('.score').css('height',scoreHeight + 'px');
     }).resize();    
+});
+
+function show(shown, hidden) {
+    document.getElementById(shown).style.display='block';
+    document.getElementById(hidden).style.display='none';
+    return false;
+}
+
+$(window).load(function() {
+  document.getElementById('splashpage').style.display='block';
+  document.getElementById('nav').style.display='none';
 });

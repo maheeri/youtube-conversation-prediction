@@ -28,9 +28,8 @@ from sklearn.externals import joblib
 
 """Generates the captions and comments list for each video"""
 def generate_captions_and_comments():
-	os.chdir(r'C:\Users\Maheer\Dropbox\Cornell Course Materials\Spring 2015\CS 4300\youtube-caption-prediction\data')
 	
-	with open('big_data_approx.json') as json_file:   
+	with open('./data/big_data_approx.json') as json_file:   
 		video_data = json.load(json_file)
 		
 	video_num_comments, video_captions = np.array([ (video_datum["score"], video_datum["captions"]) 

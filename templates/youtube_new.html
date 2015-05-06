@@ -45,7 +45,7 @@
                 <form id='query_form'>
                     <input name='input' id="nav_input" class="query_input_field" type="text" placeholder="Query">
                     <button id="nav_submit" type="submit" class="submit_button">Search</button>
-                <form>
+                </form>
                 </div>
 
             </div>
@@ -117,9 +117,30 @@
         </div>
         <div class="col-md-5" id="right">
             <div id="stats">
-                <!-- Select for Stats -->
+                <div id='stat_text'></div>
+                <div id='selection'></div>
+                <div id='word_cloud'></div>
             </div>
         </div>
+    </div>
+</div>
+
+<div id='splashpage'>
+    <div class="splash-center">
+        <div id="content">
+            <img id="splash-logo" src="{{ url_for('static', filename='images/logo.png') }}"/>
+            <form id='splashform'>
+                <input name='splash-input' id="nav_input" class="query_input_field" type="text" placeholder="Query">
+                <button id="nav_submit" type="submit" class="submit_button">Search</button>
+            </form>
+            <img id='preloader' src=" {{ url_for('static', filename='images/preloader.GIF') }}"/>
+        </div>
+    </div>
+</div>
+
+<div id='loading'>
+    <div class="loading-center">
+        <img src=" {{ url_for('static', filename='images/preloader.GIF') }}"/>
     </div>
 </div>
 
