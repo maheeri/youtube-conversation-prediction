@@ -21,6 +21,7 @@ from sklearn.cross_validation import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 from sklearn.dummy import DummyRegressor
+from sklearn.svm import SVR
 
 from sklearn.metrics import mean_absolute_error
 
@@ -91,7 +92,9 @@ if __name__ == "__main__":
 	X_train = tfv.transform(train_test_split[2])
 	X_test  = tfv.transform(train_test_split[3])
 	
-	dummy = DummyRegressor(strategy="median")
-	dummy.fit(X_train, train_test_split[0])
+	svm_regression_classifier = SVR()
+	svm_regression_classifier.fit(X_train, Y_train)
+	#dummy = DummyRegressor(strategy="median")
+	#dummy.fit(X_train, train_test_split[0])
 	#Y_pred_med = dummy.predict(X_test)
 	#joblib.dump(dummy, 'dummy.pkl')
