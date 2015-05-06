@@ -20,42 +20,53 @@ $(function() {
 
 // ------------------------ Functions ------------------------
 
-// function find_videos(input, reuslt_pane) {
-//   $.ajax({
-//     type: 'POST',
-//     url: '/find_videos',
-//     data: {query: input},
-//   }).done(function(data) {
-//     console.log(data);
-//     $spinner.hide(500);
-//     if(data) {
-//       display_results(input, reuslt_pane); //fix
-//     } else {
-//       console.log('Invalid response');
-//     }
-//   }).fail(function(error, status) {
-//     alert(error.responseText + ' ' + status);
-//   });
-// }
+$(document).ready(function () {
 
-// function display_results(input, reuslt_pane) {
-//   var results = data['results']
+    var fill = d3.scale.category20();
+    var color = d3.scale.linear()
+            .domain([0,1,2,3,4,5,6,10,15,20,100])
+            .range(["#ddd", "#ccc", "#bbb", "#aaa", "#999", "#888", "#777", "#666", "#555", "#444", "#333", "#222"]);
 
-//   $results.html('');
-//   for(var video in results) {
-//     var vidID   = video[vid_id]
-//     var title   = video[vid_title]
-//     var realCom = video[vid_real_com]
-//     var predCom = video[vid_pred]
+    var frequency_list = [{"text":"study","size":40},{"text":"motion","size":15},{"text":"forces","size":10}, {"text":"things","size":10},{"text":"force","size":5},{"text":"ad","size":5},{"text":"energy","size":85},{"text":"living","size":5},{"text":"nonliving","size":5},{"text":"laws","size":15},{"text":"speed","size":45},{"text":"velocity","size":30},{"text":"define","size":5},{"text":"constraints","size":5},{"text":"universe","size":10},{"text":"physics","size":120},{"text":"describing","size":5},{"text":"matter","size":90},{"text":"physics-the","size":5},{"text":"world","size":10},{"text":"works","size":10},{"text":"science","size":70},{"text":"interactions","size":30},{"text":"studies","size":5},{"text":"properties","size":45},{"text":"nature","size":40},{"text":"branch","size":30},{"text":"concerned","size":25},{"text":"source","size":40},{"text":"google","size":10},{"text":"defintions","size":5},{"text":"two","size":15},{"text":"grouped","size":15},{"text":"traditional","size":15},{"text":"fields","size":15}];
 
 
-//     var test_str = '<div class="result"> <b>'+title+'</b><br> <a href="https://www.youtube.com/watch?v="'+vidID+'">Link</a> <table> <tr> <td>Conversationality Score: </td> <td>&nbsp;</td> <td>'+predCom+'</td> </tr> <tr> <td>Real Score: </td> <td>&nbsp;</td> <td>'+realCom+'</td> </tr> </table> </div> <br>';
-//     var $entry = $('').html(test_str);
+    d3.layout.cloud().size([400, 400])
+            .words(frequency_list)
+            .rotate(0)
+            .fontSize(function(d) { return d.size; })
+            .on("end", draw_words)
+            .start();
 
-//     reuslt_pane.append($entry);
-// }
+    function draw_words(words) {
+      var svg = d3.select('#stats').append('svg')
+            .attr('height', 400)
+            .attr('width', 400)
+          .append('g')
+            .attr('transform', 'translate(200, 200)')  
+          .selectAll('words')
+            .data(words)
+          .enter().append('text')
+            .style('font-size', function (d) {
+              return d.size + 'px';
+            })      
+            .style('fill', function (d) {
+              return '#F8F8F8';
+            })
+            .attr('text-anchor', 'middle')
+            .attr('transform', function (d) {
+              return 'translate(' + [d.x, d.y] + ')'; 
+            })
+            .text(function (d) {
+              return d.text;
+            })
+    }
+
+    // draw_words(frequency_list);
+
+});
 
 // ----------------- Event handlers -----------------
+
 
 $(function() {
   $('#query_form').bind('submit', function() {
@@ -102,8 +113,15 @@ $(document).ready(function () {
       $(this).addClass('selected');
       $(this).stop().animate({backgroundColor:'#F8F8F8'}, 400);
       $(this).css('color', '#383838');
-      $("#stats").html("Selected");
+      // $("#stats").html("Selected");
     }
-  );
+  )
 })
 
+$(function(){
+    $(window).resize(function(){
+        var rankHeight = $('.rank').height();
+        var scoreHeight = rankHeight/2;
+        $('.score').css('height',scoreHeight + 'px');
+    }).resize();    
+});
