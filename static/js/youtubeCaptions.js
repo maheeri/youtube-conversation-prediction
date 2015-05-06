@@ -76,7 +76,7 @@ function render_results(scores, thumbnails, descriptions, titles, urls) {
                       '<div class="score"><span> + ' + scores[x] + '</span></div>' +
                   '</div>' +
                   '<div class="col-md-5">' +
-                    '<a target="_blank" href="https://www.youtube.com/watch?v=' + urls[x] + '">' +
+                    '<a class="link" target="_blank" href="https://www.youtube.com/watch?v=' + urls[x] + '">' +
                       '<img class="thumbnail"' + 'src="' + thumbnails[x] + '"/>' +
                     '</a>' +
                   '</div>' + 
@@ -134,7 +134,7 @@ function render_results(scores, thumbnails, descriptions, titles, urls) {
       }
     )
 
-    $('.thumbnail').hover(
+    $('.link').hover(
       function() {
         $(this).css('opacity', '0.9');
       },
@@ -142,7 +142,16 @@ function render_results(scores, thumbnails, descriptions, titles, urls) {
         $(this).css('opacity', '1');
       }
     );
+
+    $('.link').click( function () {
+      var url = $(this).attr('href');
+      console.log(url)
+      window.open(url, '_blank');
+    });
+
+
   })
+
 
   $(function(){
       $(window).resize(function(){
@@ -190,64 +199,6 @@ $(function() {
   });
 });
 
-
-
-$(document).ready(function () {
-  $('.video').hover(
-    function() {
-      if ($(this).hasClass('selected')) {
-        return;
-      }
-      else {        
-        $(this).css('color', '#F8F8F8');
-      }
-    }, 
-    function () {
-      if ($(this).hasClass('selected')) {
-        return;
-      }
-      else {
-        $(this).css('color', '#ddcccc');
-      }
-    }
-  );
-  
- $('.video').click(
-      function() {
-        $('.selected').css('color', '#ddcccc');
-        $('.selected').stop().animate({backgroundColor:'#cd201f'}, 400);
-        $('.selected').removeClass('selected');
-
-        $(this).addClass('selected');
-        $(this).stop().animate({backgroundColor:'#F8F8F8'}, 400);
-        $(this).css('color', '#383838');
-    
-        // Get information
-        document.getElementById('loading-info').style.display='block';
-        $.getJSON('./get_info', {
-          video: $(this).attr('id'),
-        }, function(data) {
-          document.getElementById('loading-info').style.display='none';
-          render_wordcloud(data.words);
-          var id = $(this).attr('id');
-          var string = '<a href="https://www.youtube.com/watch?v=' + id + 
-                       '"><img src="{{ url_for("static", filename="./images/play.jpg" }}"/></a>';
-          $('#play').html(string);
-        });
-
-        return false;      
-      }
-    )
-
-  $('.thumbnail').hover(
-    function() {
-      $(this).css('opacity', '0.9');
-    },
-    function () {
-      $(this).css('opacity', '1');
-    }
-  );
-})
 
 $(function(){
     $(window).resize(function(){
