@@ -32,12 +32,14 @@ YOUTUBE_API_VERSION = "v3"
 youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
 
 """Returns the top ten search results for the query in the form 
-   {video_id:{"thumbnail":thumbnail_url, "title":video title}}"""
+   {video_id:{"thumbnail":thumbnail_url, "title":video title, 
+   "description":description, "categoryId":category_id}}"""
 
 def query_search(query):
     search_request = youtube.search().list(part="snippet", q=query, maxResults=10, videoCaption="closedCaption", type="video")
     
     search_response = search_request.execute()
+    
     
     search_results = {}
     for search_result in search_response["items"]:
@@ -45,7 +47,10 @@ def query_search(query):
         thumbnail = search_result["snippet"]["thumbnails"]["default"]["url"]
         title = search_result["snippet"]["title"]
         description = search_result["snippet"]["description"]
-        search_results[video_id] = {"thumbnail":thumbnail, "title":title, "description":description}
+        # Need the video response to get the cateogry id for ranking
+        video_response = youtube.videos().list(id=video_id, part='snippet').execute()
+        category_id = video_response["items"][0]["snippet"]["categoryId"]
+        search_results[video_id] = {"thumbnail":thumbnail, "title":title, "description":description, "categoryId":category_id}
     
     return search_results
 	
@@ -145,7 +150,7 @@ return a list with the video in ascending order of conversationality
 score. The final list consists tuple of the form (video_info dictionary, score)."""
 
 def rerank_search_results(model, search_results):
-	tfv = vectorize_on_training_set()
+	tfv = joblib.load(r'trained_models/tfv.pkl')
 	videos_with_score = [] # contain tuples of video dictionaries and their conversationality score
 	for video_id, video_info in search_results.iteritems():
 		flattened_transcript = get_flattened_transcript(video_id)
@@ -157,9 +162,9 @@ def rerank_search_results(model, search_results):
 	return sorted(videos_with_score, key=itemgetter(1), reverse=True)
 	
 def get_classifer():
-    return joblib.load('./trained_models/dummy.pkl')
+    return joblib.load('./trained_models/svr.pkl')
 
 if __name__ == "__main__":
-	# os.chdir(r'C:\Users\Maheer\Dropbox\Cornell Course Materials\Spring 2015\CS 4300\youtube-caption-prediction')
-	dummy = joblib.load('.././trained_models/dummy.pkl')
-	print(rerank_search_results(dummy, query_search("soup")))
+	os.chdir(r'C:\Users\Maheer\Dropbox\Cornell Course Materials\Spring 2015\CS 4300\youtube-caption-prediction')
+	svr = joblib.load('trained_models/svr.pkl')
+	print(rerank_search_results(svr, query_search("soup")))
