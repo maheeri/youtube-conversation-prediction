@@ -56,71 +56,16 @@
 
 <div class="container-fluid centered-text">
     <div class="row">
-        <div class="col-md-7" id="left">
-            <!-- CHANGE TO GET INPUT -->
-                <div class="row bottom-margin video">
-                    <div class="col-md-2">
-                        Rank
-                        <div class='rank'>1</div>
-                    </div>
-                    <div class="col-md-2">
-                        Score 
-                        <div class='score'><span>20.5</span></div>
-                    </div>
-                    <div class="col-md-5"><img class="thumbnail" src="https://i.ytimg.com/vi/AJtDXIazrMo/mqdefault.jpg"/></div>
-                    <div class="col-md-3 left-text">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                    </div>
-                </div>
-                <div class="row bottom-margin video">
-                    <div class="col-md-2">
-                        Rank
-                        <div class='rank'>2</div>
-                    </div>                    
-                    <div class="col-md-2">
-                        Score
-                        <div class='score'><span>20.5</span></div>
-                    </div>
-                    <div class="col-md-5"><img class="thumbnail" src="https://i.ytimg.com/vi/-CmadmM5cOk/mqdefault.jpg"/></div>
-                    <div class="col-md-3 left-text">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                    </div>
-                </div>
-                <div class="row bottom-margin video">
-                    <div class="col-md-2">
-                        Rank
-                        <div class='rank'>3</div>
-                    </div>                    
-                    <div class="col-md-2">
-                        Score
-                        <div class='score'><span>20.5</span></div>
-                    </div>
-                    <div class="col-md-5"><img class="thumbnail" src="https://i.ytimg.com/vi/AJtDXIazrMo/mqdefault.jpg"/></div>
-                    <div class="col-md-3 left-text">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                    </div>
-                </div>
-                <div class="row bottom-margin video">
-                    <div class="col-md-2">
-                        Rank
-                        <div class='rank'>4</div>
-                    </div>                    
-                    <div class="col-md-2">
-                        Score
-                        <div class='score'><span>20.5</span></div>
-                    </div>
-                    <div class="col-md-5"><img class="thumbnail" src="https://i.ytimg.com/vi/AJtDXIazrMo/mqdefault.jpg"/></div>
-                    <div class="col-md-3 left-text">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                    </div>
-                </div>
-        </div>
+        <div class="col-md-7" id="left"></div>
         <div class="col-md-5" id="right">
-            <div id="stats">
-                <div id='stat_text'></div>
-                <div id='selection'></div>
-                <div id='word_cloud'></div>
+            <div id='loading-info'>
+                <div class="loading-center">
+                    <img src=" {{ url_for('static', filename='images/preloader.GIF') }}"/>
+                </div>
             </div>
+            <div id="stats">
+            </div>
+            <div id='play'></div>
         </div>
     </div>
 </div>

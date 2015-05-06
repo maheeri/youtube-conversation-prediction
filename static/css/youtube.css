@@ -44,7 +44,7 @@ html, body {
 	float: right;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	width: 50%;
+	width: 42%;
 }
 
 #nav_input {
@@ -116,7 +116,7 @@ td {
 }
 
 .navbar-header {
-	width: 50%;
+	width: 58%;
 	text-align: center;
 }
 
@@ -133,4 +133,111 @@ td {
 
 .selected {
 	background-color: #F8F8F8;
+}
+
+.rank {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 7em;
+	text-align: center;
+	width: 100%;
+	vertical-align: bottom;
+}
+
+.score {
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	top: 50%;
+}
+
+span {
+	width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.centered-text {
+	text-align: center;
+}
+
+.left-text {
+	text-align: left;
+}
+
+#splashpage {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: white;
+	display: none;
+}
+
+.splash-center{
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right:0;
+	height: 400px;
+	width: 400px;
+}
+
+#splash-logo {
+	height: auto;
+	width: 400px;
+	text-align: center;
+	margin: auto;
+}
+
+#splashform {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: auto;
+	width: 400px;
+}
+
+#loading {
+	opacity: .5;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: white;
+	display: none;
+}
+
+#preloader {
+	height: 100px;
+	width: 100px;
+	margin: auto;
+	text-align: center;
+	display: none;
+}
+
+.loading-center {
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right:0;
+	height: 128px;
+	width: 128px;
+}
+
+#loading-info {
+	position: absolute;
+	opacity: .5;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	background-color: white;
+	display: none;
+}
+
+a {
+	z-index: 100;
 }

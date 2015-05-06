@@ -11,7 +11,7 @@ import json
 app = Flask(__name__)
 
 CLASSIFIER = get_classifer()
-
+tfv = vectorize_on_training_set() 
 
 @app.route('/')
 def main():
@@ -20,7 +20,7 @@ def main():
 @app.route('/find_videos')
 def ajax_find_videos():
   query = request.args.get('query')
-  query_results = rerank_search_results(CLASSIFIER, query_search(query))
+  query_results = rerank_search_results(CLASSIFIER, query_search(query), tfv)
 
   scores = []
   thumbnails = []
@@ -40,6 +40,16 @@ def ajax_find_videos():
       titles.append(video_details[key]['title'])
 
   return jsonify(result=query, scores=scores, thumbnails=thumbnails, descriptions=descriptions, titles=titles, urls=urls)
+
+@app.route('/get_info')
+def ajax_find_details():
+  video = request.args.get('video')
+  words = get_wordcloud(video)
+  print(video)
+
+
+  return jsonify(words=words)
+
 
 if __name__ == '__main__':
   app.debug = True
