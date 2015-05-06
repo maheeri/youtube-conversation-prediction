@@ -18,6 +18,9 @@ import nltk
 import urllib3
 from operator import itemgetter
 
+from sklearn.externals import joblib
+
+from train_model import vectorize_on_training_set
 
 # Key and version data 
 DEVELOPER_KEY = "AIzaSyBEuuLWPO0AJIIp7TVGIB1uM_mNiNkMVbw"
@@ -142,12 +145,18 @@ return a list with the video in ascending order of conversationality
 score. The final list consists tuple of the form (video_info dictionary, score)."""
 
 def rerank_search_results(model, search_results):
-    videos_with_score = [] # contain tuples of video dictionaries and their conversationality score
-    for video_id, video_info in search_results.iteritems():
-        flattened_transcript = get_flattened_transcript(video_id)
-        if flattened_transcript is not None: 
-            vectorized_captions = tfv.transform([flattened_transcript]) # using previous vectorizer
-            conversationality_score = model.predict(vectorized_captions)
-            videos_with_score.append(({video_id : video_info}, conversationality_score[0]))
+	tfv = vectorize_on_training_set()
+	videos_with_score = [] # contain tuples of video dictionaries and their conversationality score
+	for video_id, video_info in search_results.iteritems():
+		flattened_transcript = get_flattened_transcript(video_id)
+		if flattened_transcript is not None: 
+			vectorized_captions = tfv.transform([flattened_transcript]) # using previous vectorizer
+			conversationality_score = model.predict(vectorized_captions)
+			videos_with_score.append(({video_id : video_info}, conversationality_score[0]))
         
-    return sorted(videos_with_score, key=itemgetter(1), reverse=True)
+	return sorted(videos_with_score, key=itemgetter(1), reverse=True)
+	
+if __name__ == "__main__":
+	os.chdir(r'C:\Users\Maheer\Dropbox\Cornell Course Materials\Spring 2015\CS 4300\youtube-caption-prediction')
+	dummy = joblib.load(r'trained_models\dummy.pkl')
+	print(rerank_search_results(dummy, query_search("soup")))
