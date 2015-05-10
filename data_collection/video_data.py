@@ -146,7 +146,11 @@ def get_comments(vid_id, data=None, next_page_tok=None):
 					new_comment = format_comment(comment) 
 					data.append(new_comment)
 		next_page_tok = api_results["nextPageToken"] if "nextPageToken" in api_results else ''
-#type = 'aprox', 'comments', 'threads'
+		next_page_tok = '' if next_page_tok is None else next_page_tok #condition for while loop sanity
+		return data
+
+
+
 def get_video_data(vid_id, categories_list, method_type='aprox'):
 	""" Gets all the relevant data for a video """
 	video_info_list = youtube.videos().list(
@@ -204,19 +208,19 @@ def process_inv_idx(inv_idx, path=None, cautious=True):
 
 
 
-def try_forever():
+def try_forever(eval_string):
 	try:
-		process_inv_idx(videoIds_inv_idx, path="comments_v2/", cautious=True)
+		eval(eval_string)
 	except:
-		try_forever()
+		try_forever(eval_string)
 
 
 if __name__ == "__main__":
 	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
-	input_json_filename = 'video_ids_v9.json'
+	input_json_filename = 'video_ids_v9_p1_1.json'
 	videoIds_inv_idx = json.load(open(input_json_filename))
-	# try_forever()
-	process_inv_idx(videoIds_inv_idx, path="raw_comments/", cautious=True)
+	eval_string = 'process_inv_idx(videoIds_inv_idx, path="raw_comments_v2/", cautious=True)'
+	try_forever(eval_string)
 
 	# with open('video_ids_v5_pruned_pruned_data.json', 'w') as datafile:
 	# 	json.dump(videos_data, datafile, indent = 4, ensure_ascii=True)
