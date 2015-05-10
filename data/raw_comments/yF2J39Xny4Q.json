@@ -1,0 +1,758 @@
+{
+    "publish_date": "2012-09-07T12:33:55.000Z", 
+    "video_length": "PT6M16S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: They wanted to find\nout the number of moves", 
+            "dur": "3.03", 
+            "start": "0.4"
+        }, 
+        {
+            "text": "it would take to solve the most\ndifficult combination.", 
+            "dur": "4.1", 
+            "start": "3.43"
+        }, 
+        {
+            "text": "And this number would be\ncalled God&#39;s number.", 
+            "dur": "2.21", 
+            "start": "7.53"
+        }, 
+        {
+            "text": "If you have perfect knowledge of\nhow to do the Rubik&#39;s cube,", 
+            "dur": "4.18", 
+            "start": "9.74"
+        }, 
+        {
+            "text": "you would be able to solve the\nmost difficult position in its", 
+            "dur": "4.44", 
+            "start": "13.92"
+        }, 
+        {
+            "text": "perfect, most efficient\nalgorithm.", 
+            "dur": "2.23", 
+            "start": "18.36"
+        }, 
+        {
+            "text": "MATT PARKER: Obviously if you\nget a solved cube and you", 
+            "dur": "3.158", 
+            "start": "23.592"
+        }, 
+        {
+            "text": "twist one bit, you&#39;ve just\ngot to twist it back.", 
+            "dur": "2.06", 
+            "start": "26.75"
+        }, 
+        {
+            "text": "So it could be one, or it could\nbe two twists, or it", 
+            "dur": "2.07", 
+            "start": "28.81"
+        }, 
+        {
+            "text": "could be five or so on.", 
+            "dur": "1.54", 
+            "start": "30.88"
+        }, 
+        {
+            "text": "But what&#39;s the most you&#39;re\ngoing to need?", 
+            "dur": "1.36", 
+            "start": "32.42"
+        }, 
+        {
+            "text": "It turns out, for a long\ntime we didn&#39;t know.", 
+            "dur": "3.774", 
+            "start": "33.78"
+        }, 
+        {
+            "text": "JAMES GRIME: So they knew that\nthe number of combinations for", 
+            "dur": "3.026", 
+            "start": "37.554"
+        }, 
+        {
+            "text": "the Rubik&#39;s cube was\nthis huge number.", 
+            "dur": "1.655", 
+            "start": "40.58"
+        }, 
+        {
+            "text": "It was 43 quintillion.", 
+            "dur": "2.085", 
+            "start": "42.235"
+        }, 
+        {
+            "text": "And if you turn a piece 17\ntimes, if you do 17 moves, the", 
+            "dur": "5.66", 
+            "start": "44.32"
+        }, 
+        {
+            "text": "number of combinations you can\nreach is less than this", 
+            "dur": "3.16", 
+            "start": "49.98"
+        }, 
+        {
+            "text": "massive number, 43\nquintillion.", 
+            "dur": "2.47", 
+            "start": "53.14"
+        }, 
+        {
+            "text": "So if you want to be able to\nsolve all combinations, it&#39;s", 
+            "dur": "4.14", 
+            "start": "55.61"
+        }, 
+        {
+            "text": "definitely more than 17 because\nthere&#39;s so many you", 
+            "dur": "1.985", 
+            "start": "59.75"
+        }, 
+        {
+            "text": "can&#39;t even reach.", 
+            "dur": "1.225", 
+            "start": "61.735"
+        }, 
+        {
+            "text": "And they managed to work out\nthat there was less than 30.", 
+            "dur": "3.67", 
+            "start": "62.96"
+        }, 
+        {
+            "text": "And over the years, they started\nto whittle this down,", 
+            "dur": "3.09", 
+            "start": "66.63"
+        }, 
+        {
+            "text": "closer and closer.", 
+            "dur": "2.472", 
+            "start": "69.72"
+        }, 
+        {
+            "text": "TONY JIANG: As you can tell, I&#39;m\nnot really fast, but I&#39;m", 
+            "dur": "4.008", 
+            "start": "72.192"
+        }, 
+        {
+            "text": "not too slow, either.", 
+            "dur": "2", 
+            "start": "76.2"
+        }, 
+        {
+            "text": "MATT PARKER: It was 2010 was\nthe first time we actually", 
+            "dur": "3.58", 
+            "start": "78.2"
+        }, 
+        {
+            "text": "knew for sure no matter how much\nyou scramble up a Rubik&#39;s", 
+            "dur": "3.72", 
+            "start": "81.78"
+        }, 
+        {
+            "text": "cube, you can solve it in\n20 or fewer twists.", 
+            "dur": "4.29", 
+            "start": "85.5"
+        }, 
+        {
+            "text": "It&#39;s often called\nGod&#39;s number.", 
+            "dur": "1.86", 
+            "start": "89.79"
+        }, 
+        {
+            "text": "It&#39;s called God&#39;s number because\nyou have to be some", 
+            "dur": "2.65", 
+            "start": "91.65"
+        }, 
+        {
+            "text": "kind of omniscient being to\nwork out those 20 moves.", 
+            "dur": "5.25", 
+            "start": "94.3"
+        }, 
+        {
+            "text": "It&#39;s so difficult to calculate\nwhat those moves are.", 
+            "dur": "3.02", 
+            "start": "99.55"
+        }, 
+        {
+            "text": "KATIE STECKLES: I couldn&#39;t look\nat a cube and say, oh I", 
+            "dur": "2.62", 
+            "start": "102.57"
+        }, 
+        {
+            "text": "need to do these 12\nmoves or whatever.", 
+            "dur": "2.5", 
+            "start": "105.19"
+        }, 
+        {
+            "text": "But there are people who can.", 
+            "dur": "1.62", 
+            "start": "107.69"
+        }, 
+        {
+            "text": "So they do Rubik&#39;s cube\nsolving competitions.", 
+            "dur": "2.53", 
+            "start": "109.31"
+        }, 
+        {
+            "text": "And they have, obviously, speed\nchallenges to see who", 
+            "dur": "2.7", 
+            "start": "111.84"
+        }, 
+        {
+            "text": "can solve it the fastest.", 
+            "dur": "1.36", 
+            "start": "114.54"
+        }, 
+        {
+            "text": "But one of the other things that\nthey do is a efficient", 
+            "dur": "3.34", 
+            "start": "115.9"
+        }, 
+        {
+            "text": "solve competition.", 
+            "dur": "2", 
+            "start": "119.24"
+        }, 
+        {
+            "text": "And the competition there is\nlook at a Rubik&#39;s cube and", 
+            "dur": "2.94", 
+            "start": "121.24"
+        }, 
+        {
+            "text": "then just write down a list of\nmoves that will solve it.", 
+            "dur": "2.84", 
+            "start": "124.18"
+        }, 
+        {
+            "text": "The world record for\nthat is 23 moves.", 
+            "dur": "2.66", 
+            "start": "127.02"
+        }, 
+        {
+            "text": "And obviously that was\nfor a particular", 
+            "dur": "1.83", 
+            "start": "129.68"
+        }, 
+        {
+            "text": "scramble of the cube.", 
+            "dur": "0.86", 
+            "start": "131.51"
+        }, 
+        {
+            "text": "And it may have been that the\nactual, most efficient way to", 
+            "dur": "2.3", 
+            "start": "132.37"
+        }, 
+        {
+            "text": "solve that was fewer than 20.", 
+            "dur": "2.11", 
+            "start": "134.67"
+        }, 
+        {
+            "text": "But a human can look at it and\nactually write down a list of", 
+            "dur": "2.52", 
+            "start": "136.78"
+        }, 
+        {
+            "text": "23, which I think is probably\nmore impressive than people", 
+            "dur": "3.02", 
+            "start": "139.3"
+        }, 
+        {
+            "text": "who can solve it\nreally quickly.", 
+            "dur": "1.05", 
+            "start": "142.32"
+        }, 
+        {
+            "text": "MATT PARKER: You might think,\nwell how do we know?", 
+            "dur": "1.71", 
+            "start": "143.37"
+        }, 
+        {
+            "text": "How do we know that?", 
+            "dur": "1.425", 
+            "start": "145.08"
+        }, 
+        {
+            "text": "Did we just check all 43.25\nbillion billion different ways", 
+            "dur": "4.385", 
+            "start": "146.505"
+        }, 
+        {
+            "text": "of solving it?", 
+            "dur": "0.66", 
+            "start": "150.89"
+        }, 
+        {
+            "text": "And we effectively did that.", 
+            "dur": "4.28", 
+            "start": "151.55"
+        }, 
+        {
+            "text": "JAMES GRIME: A move, by the\nway, is a quarter turn, or", 
+            "dur": "5", 
+            "start": "155.83"
+        }, 
+        {
+            "text": "quarter turn the other\nway, or half turn.", 
+            "dur": "3.36", 
+            "start": "160.83"
+        }, 
+        {
+            "text": "That counts.", 
+            "dur": "0.44", 
+            "start": "164.19"
+        }, 
+        {
+            "text": "So anything that you move\ncounts as a move.", 
+            "dur": "3.49", 
+            "start": "164.63"
+        }, 
+        {
+            "text": "All right, so a quarter turn,\na quarter turn, or a half", 
+            "dur": "2.49", 
+            "start": "168.12"
+        }, 
+        {
+            "text": "turn, those all counts as one.", 
+            "dur": "3.544", 
+            "start": "170.61"
+        }, 
+        {
+            "text": "MATT PARKER: So guys got the\nRubik&#39;s cube and they try to", 
+            "dur": "3.329", 
+            "start": "174.154"
+        }, 
+        {
+            "text": "look at all the possible\ncombinations.", 
+            "dur": "1.587", 
+            "start": "177.483"
+        }, 
+        {
+            "text": "And they realized that actually\nyou don&#39;t have to", 
+            "dur": "2.25", 
+            "start": "179.07"
+        }, 
+        {
+            "text": "check all of them, because some\nof them are the same.", 
+            "dur": "1.89", 
+            "start": "181.32"
+        }, 
+        {
+            "text": "And so they used arguments\nfrom symmetry, saying, in", 
+            "dur": "2.87", 
+            "start": "183.21"
+        }, 
+        {
+            "text": "fact, being mixed up this way is\nactually the same as being", 
+            "dur": "2.62", 
+            "start": "186.08"
+        }, 
+        {
+            "text": "mixed up that way.", 
+            "dur": "0.88", 
+            "start": "188.7"
+        }, 
+        {
+            "text": "It&#39;s the same way to solve\nit and so on and so on.", 
+            "dur": "2.82", 
+            "start": "189.58"
+        }, 
+        {
+            "text": "And so they managed to whittle\ndown the number of ones they", 
+            "dur": "3.84", 
+            "start": "192.4"
+        }, 
+        {
+            "text": "have to check.", 
+            "dur": "0.78", 
+            "start": "196.24"
+        }, 
+        {
+            "text": "And this is one of those\nwonderful things where you do", 
+            "dur": "1.63", 
+            "start": "197.02"
+        }, 
+        {
+            "text": "a proof by exhaustion.", 
+            "dur": "1.035", 
+            "start": "198.65"
+        }, 
+        {
+            "text": "JAMES GRIME: They found a\nvery difficult position.", 
+            "dur": "3.855", 
+            "start": "199.685"
+        }, 
+        {
+            "text": "It was called the superflip.", 
+            "dur": "2.18", 
+            "start": "203.54"
+        }, 
+        {
+            "text": "Now the superflip is essentially\ncompletely solved", 
+            "dur": "4.51", 
+            "start": "205.72"
+        }, 
+        {
+            "text": "except each edge position\nwas flipped over.", 
+            "dur": "4.84", 
+            "start": "210.23"
+        }, 
+        {
+            "text": "Now that would be a very\ndifficult position to solve.", 
+            "dur": "4.58", 
+            "start": "215.07"
+        }, 
+        {
+            "text": "They realized that you could\nsolve that position, the", 
+            "dur": "2.57", 
+            "start": "219.65"
+        }, 
+        {
+            "text": "superflip, in 20 moves.", 
+            "dur": "3.72", 
+            "start": "222.22"
+        }, 
+        {
+            "text": "And they proved that you\ncouldn&#39;t do it in anything", 
+            "dur": "2.11", 
+            "start": "225.94"
+        }, 
+        {
+            "text": "less than 20 moves.", 
+            "dur": "1.72", 
+            "start": "228.05"
+        }, 
+        {
+            "text": "So you couldn&#39;t do it in\n19 or 18, nothing less.", 
+            "dur": "2.98", 
+            "start": "229.77"
+        }, 
+        {
+            "text": "So 20 moves.", 
+            "dur": "1.18", 
+            "start": "232.75"
+        }, 
+        {
+            "text": "So they thought, great.", 
+            "dur": "1.4", 
+            "start": "233.93"
+        }, 
+        {
+            "text": "Maybe 20 is God&#39;s number.", 
+            "dur": "1.9", 
+            "start": "235.33"
+        }, 
+        {
+            "text": "MATT PARKER: And to do a proof\nby exhaustion, you have to do", 
+            "dur": "1.8", 
+            "start": "237.23"
+        }, 
+        {
+            "text": "two things.", 
+            "dur": "0.68", 
+            "start": "239.03"
+        }, 
+        {
+            "text": "You&#39;ve got to first of all\nreduce the number of cases you", 
+            "dur": "2.99", 
+            "start": "239.71"
+        }, 
+        {
+            "text": "need to check as much\nas you can.", 
+            "dur": "1.72", 
+            "start": "242.7"
+        }, 
+        {
+            "text": "Secondly, you&#39;ve got\nto get very clever", 
+            "dur": "2.37", 
+            "start": "244.42"
+        }, 
+        {
+            "text": "ways of checking them.", 
+            "dur": "1.29", 
+            "start": "246.79"
+        }, 
+        {
+            "text": "And so they got better and\nbetter computer programs and", 
+            "dur": "3.12", 
+            "start": "248.08"
+        }, 
+        {
+            "text": "also more and more powerful\ncomputers.", 
+            "dur": "2.8", 
+            "start": "251.2"
+        }, 
+        {
+            "text": "So they just crossed.", 
+            "dur": "2.26", 
+            "start": "254"
+        }, 
+        {
+            "text": "So they had reduced the number\nof cases far enough.", 
+            "dur": "2.069", 
+            "start": "256.26"
+        }, 
+        {
+            "text": "They had a fast enough computer\nwith a smart enough", 
+            "dur": "2.081", 
+            "start": "258.329"
+        }, 
+        {
+            "text": "program to check that many.", 
+            "dur": "1.56", 
+            "start": "260.41"
+        }, 
+        {
+            "text": "And they could run it.", 
+            "dur": "2.47", 
+            "start": "261.97"
+        }, 
+        {
+            "text": "I&#39;ve been to the place where\nthey actually did the", 
+            "dur": "2.89", 
+            "start": "264.44"
+        }, 
+        {
+            "text": "computation.", 
+            "dur": "0.9", 
+            "start": "267.33"
+        }, 
+        {
+            "text": "It was at the Google\nheadquarters in San Francisco,", 
+            "dur": "2.63", 
+            "start": "268.23"
+        }, 
+        {
+            "text": "just outside San Francisco.", 
+            "dur": "2.24", 
+            "start": "270.86"
+        }, 
+        {
+            "text": "And Google, because it&#39;s run\nby benevolent nerds, let", 
+            "dur": "4.55", 
+            "start": "273.1"
+        }, 
+        {
+            "text": "people use their mind bogglingly\npowerful computer.", 
+            "dur": "3.93", 
+            "start": "277.65"
+        }, 
+        {
+            "text": "The amount of computer power\nthat Google has is phenomenal.", 
+            "dur": "2.79", 
+            "start": "281.58"
+        }, 
+        {
+            "text": "They don&#39;t use it all\nof it all the time.", 
+            "dur": "1.28", 
+            "start": "284.37"
+        }, 
+        {
+            "text": "And so if you come up with an\ninteresting enough reason,", 
+            "dur": "2.74", 
+            "start": "285.65"
+        }, 
+        {
+            "text": "they will let you come and\nplay around on their", 
+            "dur": "2.59", 
+            "start": "288.39"
+        }, 
+        {
+            "text": "incredible computer\nprocessing power.", 
+            "dur": "3.3", 
+            "start": "290.98"
+        }, 
+        {
+            "text": "You&#39;ve got prove that your\ncode&#39;s not going to", 
+            "dur": "1.67", 
+            "start": "294.28"
+        }, 
+        {
+            "text": "run amok, et cetera.", 
+            "dur": "1.39", 
+            "start": "295.95"
+        }, 
+        {
+            "text": "And that&#39;s what these\nguys did.", 
+            "dur": "0.93", 
+            "start": "297.34"
+        }, 
+        {
+            "text": "They had their code\nthat checked the", 
+            "dur": "2.48", 
+            "start": "298.27"
+        }, 
+        {
+            "text": "reduced number of cases.", 
+            "dur": "1.15", 
+            "start": "300.75"
+        }, 
+        {
+            "text": "They ran it on the\nGoogle servers.", 
+            "dur": "1.4", 
+            "start": "301.9"
+        }, 
+        {
+            "text": "And they did.", 
+            "dur": "0.81", 
+            "start": "303.3"
+        }, 
+        {
+            "text": "They exhaustively checked.", 
+            "dur": "1.11", 
+            "start": "304.11"
+        }, 
+        {
+            "text": "And we know now, for a fact--", 
+            "dur": "1.55", 
+            "start": "305.22"
+        }, 
+        {
+            "text": "JAMES GRIME: --that God&#39;s\nnumber is 20.", 
+            "dur": "2.03", 
+            "start": "306.77"
+        }, 
+        {
+            "text": "Every Rubik&#39;s puzzle can be\nsolved in 20 or fewer moves.", 
+            "dur": "6.856", 
+            "start": "308.8"
+        }, 
+        {
+            "text": "MATT PARKER: I&#39;m actually\ninvolved at the moment in a", 
+            "dur": "2.934", 
+            "start": "315.656"
+        }, 
+        {
+            "text": "attempt to set the world record\nfor the most people", 
+            "dur": "2.44", 
+            "start": "318.59"
+        }, 
+        {
+            "text": "solving a Rubik&#39;s cube\nsimultaneously.", 
+            "dur": "2.79", 
+            "start": "321.03"
+        }, 
+        {
+            "text": "So we&#39;re going to try and get\n2000 school students into the", 
+            "dur": "3.88", 
+            "start": "323.82"
+        }, 
+        {
+            "text": "O2 venue in London.", 
+            "dur": "2.32", 
+            "start": "327.7"
+        }, 
+        {
+            "text": "And we&#39;re going to try and break\nthe simultaneous solving", 
+            "dur": "2.59", 
+            "start": "330.02"
+        }, 
+        {
+            "text": "world record.", 
+            "dur": "0.98", 
+            "start": "332.61"
+        }, 
+        {
+            "text": "And it&#39;s for a charity.", 
+            "dur": "1.13", 
+            "start": "333.59"
+        }, 
+        {
+            "text": "So the DePaul charity\nhas organized this.", 
+            "dur": "2.34", 
+            "start": "334.72"
+        }, 
+        {
+            "text": "Rubik&#39;s is sponsoring it.", 
+            "dur": "2.01", 
+            "start": "337.06"
+        }, 
+        {
+            "text": "And any school in the\nUK can enter.", 
+            "dur": "2.04", 
+            "start": "339.07"
+        }, 
+        {
+            "text": "It&#39;s on the 21st of November.", 
+            "dur": "1.765", 
+            "start": "341.11"
+        }, 
+        {
+            "text": "So if you go to the\nDePaul website--", 
+            "dur": "1.875", 
+            "start": "342.875"
+        }, 
+        {
+            "text": "Or I imagine, this\nis the internet.", 
+            "dur": "1.75", 
+            "start": "344.75"
+        }, 
+        {
+            "text": "We can probably hyperlink this\ninformation beneath the video.", 
+            "dur": "3.15", 
+            "start": "346.5"
+        }, 
+        {
+            "text": "Schools can get involved.", 
+            "dur": "1.76", 
+            "start": "349.65"
+        }, 
+        {
+            "text": "I&#39;m involved.", 
+            "dur": "0.575", 
+            "start": "351.41"
+        }, 
+        {
+            "text": "It&#39;s the charity I do\ncharity work for.", 
+            "dur": "3.295", 
+            "start": "351.985"
+        }, 
+        {
+            "text": "It&#39;s to stop young people from\nbecoming homeless, which I", 
+            "dur": "2.53", 
+            "start": "355.28"
+        }, 
+        {
+            "text": "think is fair enough.", 
+            "dur": "2.66", 
+            "start": "357.81"
+        }, 
+        {
+            "text": "I&#39;m hosting the event.", 
+            "dur": "0.94", 
+            "start": "360.47"
+        }, 
+        {
+            "text": "So I&#39;ll be there on the 21st\nwandering around talking about", 
+            "dur": "2.77", 
+            "start": "361.41"
+        }, 
+        {
+            "text": "math and how wonderful it is.", 
+            "dur": "1.74", 
+            "start": "364.18"
+        }, 
+        {
+            "text": "And I&#39;m developing resources.", 
+            "dur": "2.63", 
+            "start": "365.92"
+        }, 
+        {
+            "text": "So I&#39;ve developed videos and\nworksheets for teachers to use", 
+            "dur": "4.34", 
+            "start": "368.55"
+        }, 
+        {
+            "text": "to teach students how to\nsolve the Rubik&#39;s cube.", 
+            "dur": "3.84", 
+            "start": "372.89"
+        }
+    ], 
+    "title": "God's Number and Rubik's Cube - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0d18bc", 
+        "/m/0h0b5", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 551436, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

@@ -1,0 +1,897 @@
+{
+    "publish_date": "2013-06-08T10:27:05.000Z", 
+    "video_length": "PT7M36S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: Today, we&#39;re going\nto talk about one of the", 
+            "dur": "1.7", 
+            "start": "0.49"
+        }, 
+        {
+            "text": "questions that we get sent in a\nlot at Numberphile, and the", 
+            "dur": "4.37", 
+            "start": "2.19"
+        }, 
+        {
+            "text": "question is-- well, Brady,\nwhat&#39;s the question?", 
+            "dur": "3", 
+            "start": "6.56"
+        }, 
+        {
+            "text": "BRADY HARAN: The question is,\nwhy does 0 factorial equal 1?", 
+            "dur": "4.98", 
+            "start": "9.56"
+        }, 
+        {
+            "text": "JAMES GRIME: Right.", 
+            "dur": "0.34", 
+            "start": "14.54"
+        }, 
+        {
+            "text": "Why does 0 factorial equal 1?", 
+            "dur": "2.33", 
+            "start": "14.88"
+        }, 
+        {
+            "text": "So let&#39;s start off with a\nquick recap of what a", 
+            "dur": "2.69", 
+            "start": "17.21"
+        }, 
+        {
+            "text": "factorial is.", 
+            "dur": "1.05", 
+            "start": "19.9"
+        }, 
+        {
+            "text": "For our whole number, let&#39;s\npick a number n--", 
+            "dur": "2.702", 
+            "start": "20.95"
+        }, 
+        {
+            "text": "n factorial, which is written\nlike that. n with an", 
+            "dur": "2.648", 
+            "start": "23.652"
+        }, 
+        {
+            "text": "exclamation mark.", 
+            "dur": "1.82", 
+            "start": "26.3"
+        }, 
+        {
+            "text": "This is equal to.", 
+            "dur": "1.55", 
+            "start": "28.12"
+        }, 
+        {
+            "text": "You multiply all the\nwhole numbers less", 
+            "dur": "2.67", 
+            "start": "29.67"
+        }, 
+        {
+            "text": "than or equal to n.", 
+            "dur": "1.99", 
+            "start": "32.34"
+        }, 
+        {
+            "text": "It&#39;s n multiplied by n minus\n1 multiplied by n minus 2", 
+            "dur": "5.88", 
+            "start": "34.33"
+        }, 
+        {
+            "text": "multiplied by--", 
+            "dur": "1.16", 
+            "start": "40.21"
+        }, 
+        {
+            "text": "and you keep going down,\nand you&#39;ll go down to 3", 
+            "dur": "2.41", 
+            "start": "41.37"
+        }, 
+        {
+            "text": "times 2 times 1.", 
+            "dur": "2.19", 
+            "start": "43.78"
+        }, 
+        {
+            "text": "Quick example.", 
+            "dur": "1", 
+            "start": "45.97"
+        }, 
+        {
+            "text": "Let&#39;s do 5 factorial.", 
+            "dur": "1.26", 
+            "start": "46.97"
+        }, 
+        {
+            "text": "5 times 4 times 3\ntimes 2 times 1.", 
+            "dur": "4.43", 
+            "start": "48.23"
+        }, 
+        {
+            "text": "And you do that.", 
+            "dur": "0.71", 
+            "start": "52.66"
+        }, 
+        {
+            "text": "It&#39;s 120.", 
+            "dur": "1.52", 
+            "start": "53.37"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "0.56", 
+            "start": "54.89"
+        }, 
+        {
+            "text": "The question we&#39;ve been asked\nis what is 0 factorial.", 
+            "dur": "2.6", 
+            "start": "55.45"
+        }, 
+        {
+            "text": "So the way you can answer this--\none of the ways you can", 
+            "dur": "2.61", 
+            "start": "58.05"
+        }, 
+        {
+            "text": "answer this is to complete\nthe pattern.", 
+            "dur": "2.52", 
+            "start": "60.66"
+        }, 
+        {
+            "text": "Let&#39;s complete the pattern.", 
+            "dur": "1.02", 
+            "start": "63.18"
+        }, 
+        {
+            "text": "This pattern in particular,\n4 factorial, is equal to 5", 
+            "dur": "4.11", 
+            "start": "64.2"
+        }, 
+        {
+            "text": "factorial divided by 5.", 
+            "dur": "2.13", 
+            "start": "68.31"
+        }, 
+        {
+            "text": "If you can see that, if I take 5\nfactorial here and divide by", 
+            "dur": "3.84", 
+            "start": "70.44"
+        }, 
+        {
+            "text": "5, that means I can knock\noff that 5, and you", 
+            "dur": "3.51", 
+            "start": "74.28"
+        }, 
+        {
+            "text": "end up with 4 factorial.", 
+            "dur": "2.04", 
+            "start": "77.79"
+        }, 
+        {
+            "text": "So 5 factorial divided\nby 5, or 120 divided", 
+            "dur": "3.46", 
+            "start": "79.83"
+        }, 
+        {
+            "text": "by 5, that&#39;s 24.", 
+            "dur": "2.13", 
+            "start": "83.29"
+        }, 
+        {
+            "text": "That&#39;s 4 factorial.", 
+            "dur": "1.25", 
+            "start": "85.42"
+        }, 
+        {
+            "text": "3 factorial is going to be\n4 factorial divided by 4.", 
+            "dur": "4.7", 
+            "start": "86.67"
+        }, 
+        {
+            "text": "That&#39;s 24 divided by 4.", 
+            "dur": "3.44", 
+            "start": "91.37"
+        }, 
+        {
+            "text": "That&#39;s 6.", 
+            "dur": "0.98", 
+            "start": "94.81"
+        }, 
+        {
+            "text": "That&#39;s the answer\nto 3 factorial.", 
+            "dur": "1.48", 
+            "start": "95.79"
+        }, 
+        {
+            "text": "2 factorial, 3 factorial divided\nby 3, 6, which we&#39;ve", 
+            "dur": "3.91", 
+            "start": "97.27"
+        }, 
+        {
+            "text": "just worked out, divided\nby 3, equals 2.", 
+            "dur": "3.55", 
+            "start": "101.18"
+        }, 
+        {
+            "text": "1 factorial.", 
+            "dur": "2.07", 
+            "start": "104.73"
+        }, 
+        {
+            "text": "Do it again.", 
+            "dur": "1.09", 
+            "start": "106.8"
+        }, 
+        {
+            "text": "It&#39;s 2 factorial divided by 2.", 
+            "dur": "3.39", 
+            "start": "107.89"
+        }, 
+        {
+            "text": "2 factorial is 2 divided by 2.", 
+            "dur": "2.77", 
+            "start": "111.28"
+        }, 
+        {
+            "text": "We&#39;ve got 2 divided by 2.", 
+            "dur": "2.08", 
+            "start": "114.05"
+        }, 
+        {
+            "text": "That&#39;s equal to 1.", 
+            "dur": "1.65", 
+            "start": "116.13"
+        }, 
+        {
+            "text": "Now this is where it&#39;s\ngetting exciting.", 
+            "dur": "1.37", 
+            "start": "117.78"
+        }, 
+        {
+            "text": "Do you feel the anticipation?", 
+            "dur": "1.73", 
+            "start": "119.15"
+        }, 
+        {
+            "text": "So 0 factorial.", 
+            "dur": "1.6", 
+            "start": "120.88"
+        }, 
+        {
+            "text": "We&#39;re going to complete\nthe pattern.", 
+            "dur": "2.4", 
+            "start": "122.48"
+        }, 
+        {
+            "text": "0 factorial is 1 factorial\ndivided by 1.", 
+            "dur": "6.46", 
+            "start": "124.88"
+        }, 
+        {
+            "text": "1 factorial is 1.", 
+            "dur": "2.38", 
+            "start": "131.34"
+        }, 
+        {
+            "text": "It&#39;s 1 divided by 1, and\nthat is equal to 1.", 
+            "dur": "4.35", 
+            "start": "133.72"
+        }, 
+        {
+            "text": "So 0 factorial is equal to 1.", 
+            "dur": "3.36", 
+            "start": "138.07"
+        }, 
+        {
+            "text": "You complete the pattern.", 
+            "dur": "0.92", 
+            "start": "141.43"
+        }, 
+        {
+            "text": "BRADY HARAN: Who says the\npattern has to be complete?", 
+            "dur": "2.19", 
+            "start": "142.35"
+        }, 
+        {
+            "text": "Where&#39;s that rule come from?", 
+            "dur": "2.45", 
+            "start": "144.54"
+        }, 
+        {
+            "text": "JAMES GRIME: I guess it doesn&#39;t\nnecessarily have to be", 
+            "dur": "3.98", 
+            "start": "146.99"
+        }, 
+        {
+            "text": "a pattern that completes.", 
+            "dur": "0.85", 
+            "start": "150.97"
+        }, 
+        {
+            "text": "It is a pattern that\ncompetes, though.", 
+            "dur": "1.53", 
+            "start": "151.82"
+        }, 
+        {
+            "text": "Let me try another way\nto explain it.", 
+            "dur": "2.94", 
+            "start": "153.35"
+        }, 
+        {
+            "text": "BRADY HARAN: Let me continue\nthe pattern first.", 
+            "dur": "1.81", 
+            "start": "156.29"
+        }, 
+        {
+            "text": "Does that mean negative 1\nfactorial would be next in", 
+            "dur": "3.25", 
+            "start": "158.1"
+        }, 
+        {
+            "text": "that sequence?", 
+            "dur": "1.25", 
+            "start": "161.35"
+        }, 
+        {
+            "text": "JAMES GRIME: Let&#39;s\nsee what happens.", 
+            "dur": "0.765", 
+            "start": "162.6"
+        }, 
+        {
+            "text": "I&#39;m not sure what&#39;s\ngoing to happen.", 
+            "dur": "1.175", 
+            "start": "163.365"
+        }, 
+        {
+            "text": "Let&#39;s try.", 
+            "dur": "0.81", 
+            "start": "164.54"
+        }, 
+        {
+            "text": "Minus 1 factorial.", 
+            "dur": "2.11", 
+            "start": "165.35"
+        }, 
+        {
+            "text": "So what shall I get?", 
+            "dur": "0.76", 
+            "start": "167.46"
+        }, 
+        {
+            "text": "0 factorial divided by 0.", 
+            "dur": "3.81", 
+            "start": "168.22"
+        }, 
+        {
+            "text": "1 divided by 0.", 
+            "dur": "1.905", 
+            "start": "172.03"
+        }, 
+        {
+            "text": "BRADY HARAN: Oh, divided by 0.", 
+            "dur": "2.275", 
+            "start": "173.935"
+        }, 
+        {
+            "text": "JAMES GRIME: You&#39;ve broken\nmaths, Brady.", 
+            "dur": "1.3", 
+            "start": "176.21"
+        }, 
+        {
+            "text": "Stop that.", 
+            "dur": "0.76", 
+            "start": "177.51"
+        }, 
+        {
+            "text": "Another way to explain what\n0 factorial might be.", 
+            "dur": "4.34", 
+            "start": "178.27"
+        }, 
+        {
+            "text": "n factorial is the number\nof ways you", 
+            "dur": "2.085", 
+            "start": "182.61"
+        }, 
+        {
+            "text": "can arrange n objects.", 
+            "dur": "2.395", 
+            "start": "184.695"
+        }, 
+        {
+            "text": "Let me just try to show\nyou what I mean.", 
+            "dur": "1.5", 
+            "start": "187.09"
+        }, 
+        {
+            "text": "Let&#39;s get some objects.", 
+            "dur": "0.95", 
+            "start": "188.59"
+        }, 
+        {
+            "text": "I&#39;ll get the wallet out.", 
+            "dur": "1.87", 
+            "start": "189.54"
+        }, 
+        {
+            "text": "I&#39;ll get some coins out.", 
+            "dur": "2.86", 
+            "start": "191.41"
+        }, 
+        {
+            "text": "See?", 
+            "dur": "0.47", 
+            "start": "194.27"
+        }, 
+        {
+            "text": "Who says mathematicians don&#39;t\nmake a lot of money?", 
+            "dur": "2.06", 
+            "start": "194.74"
+        }, 
+        {
+            "text": "There&#39;s literally 50p here.", 
+            "dur": "3.42", 
+            "start": "196.8"
+        }, 
+        {
+            "text": "Let&#39;s pick a silver\none and a 5p one.", 
+            "dur": "4.19", 
+            "start": "200.22"
+        }, 
+        {
+            "text": "Three objects here, and how many\nways are there to arrange", 
+            "dur": "4.35", 
+            "start": "204.41"
+        }, 
+        {
+            "text": "three objects?", 
+            "dur": "1.18", 
+            "start": "208.76"
+        }, 
+        {
+            "text": "There&#39;s six ways to do it.", 
+            "dur": "1.2", 
+            "start": "209.94"
+        }, 
+        {
+            "text": "It&#39;s 3 factorial.", 
+            "dur": "1.1", 
+            "start": "211.14"
+        }, 
+        {
+            "text": "Let&#39;s just check them.", 
+            "dur": "1.12", 
+            "start": "212.24"
+        }, 
+        {
+            "text": "That&#39;s one, that&#39;s two, or we\ncould have this one here--", 
+            "dur": "5.26", 
+            "start": "213.36"
+        }, 
+        {
+            "text": "that&#39;s three, that&#39;s four.", 
+            "dur": "3.56", 
+            "start": "218.62"
+        }, 
+        {
+            "text": "Or we could have--", 
+            "dur": "1.84", 
+            "start": "222.18"
+        }, 
+        {
+            "text": "I think it was that one we\ndidn&#39;t have at the front.", 
+            "dur": "1.64", 
+            "start": "224.02"
+        }, 
+        {
+            "text": "So that would be five and six.", 
+            "dur": "3.715", 
+            "start": "225.66"
+        }, 
+        {
+            "text": "If we take one away, we\nhave now two objects.", 
+            "dur": "4.295", 
+            "start": "229.375"
+        }, 
+        {
+            "text": "How many ways are there to\narrange two objects?", 
+            "dur": "1.62", 
+            "start": "233.67"
+        }, 
+        {
+            "text": "That&#39;s one, that&#39;s two.", 
+            "dur": "3.75", 
+            "start": "235.29"
+        }, 
+        {
+            "text": "Take one away.", 
+            "dur": "1.75", 
+            "start": "239.04"
+        }, 
+        {
+            "text": "How many ways are there\nto arrange one object?", 
+            "dur": "3.19", 
+            "start": "240.79"
+        }, 
+        {
+            "text": "There it is.", 
+            "dur": "0.43", 
+            "start": "243.98"
+        }, 
+        {
+            "text": "There&#39;s one way to do it.", 
+            "dur": "1.66", 
+            "start": "244.41"
+        }, 
+        {
+            "text": "One way to arrange one object.", 
+            "dur": "1.39", 
+            "start": "246.07"
+        }, 
+        {
+            "text": "Now we&#39;re going to take\nthe last coin away.", 
+            "dur": "3", 
+            "start": "247.46"
+        }, 
+        {
+            "text": "This is where it gets a\nlittle philosophical.", 
+            "dur": "3.59", 
+            "start": "250.46"
+        }, 
+        {
+            "text": "We have zero objects.", 
+            "dur": "2.279", 
+            "start": "254.05"
+        }, 
+        {
+            "text": "How many ways are there to\narrange zero objects?", 
+            "dur": "3.51", 
+            "start": "256.329"
+        }, 
+        {
+            "text": "There&#39;s one way to do it.", 
+            "dur": "2.291", 
+            "start": "259.839"
+        }, 
+        {
+            "text": "There it is.", 
+            "dur": "1.084", 
+            "start": "262.13"
+        }, 
+        {
+            "text": "Do you want to see\nme do it again?", 
+            "dur": "2.161", 
+            "start": "263.214"
+        }, 
+        {
+            "text": "There it is.", 
+            "dur": "2.625", 
+            "start": "265.375"
+        }, 
+        {
+            "text": "Slightly philosophical, but\nwe say there is one way to", 
+            "dur": "3.68", 
+            "start": "268"
+        }, 
+        {
+            "text": "arrange zero objects.", 
+            "dur": "1.41", 
+            "start": "271.68"
+        }, 
+        {
+            "text": "So again, the pattern holds.", 
+            "dur": "1.63", 
+            "start": "273.09"
+        }, 
+        {
+            "text": "0 factorial equals 1.", 
+            "dur": "3.36", 
+            "start": "274.72"
+        }, 
+        {
+            "text": "Just to continue the idea just a\nlittle bit further, if we&#39;re", 
+            "dur": "3.86", 
+            "start": "278.08"
+        }, 
+        {
+            "text": "talking about factorials, let&#39;s\ntry and graph them.", 
+            "dur": "3.15", 
+            "start": "281.94"
+        }, 
+        {
+            "text": "So let&#39;s say let&#39;s have one,\ntwo, three, four, five.", 
+            "dur": "4.14", 
+            "start": "285.09"
+        }, 
+        {
+            "text": "1 factorial is 1, so\nif you call that 1.", 
+            "dur": "3.87", 
+            "start": "289.23"
+        }, 
+        {
+            "text": "2 factorial is 2, so somewhere\nabout here.", 
+            "dur": "3.95", 
+            "start": "293.1"
+        }, 
+        {
+            "text": "3 factorial is 6.", 
+            "dur": "2.682", 
+            "start": "297.05"
+        }, 
+        {
+            "text": "I don&#39;t know.", 
+            "dur": "0.758", 
+            "start": "299.732"
+        }, 
+        {
+            "text": "Somewhere like this.", 
+            "dur": "1.27", 
+            "start": "300.49"
+        }, 
+        {
+            "text": "4 factorial is 24, so that&#39;s\ngoing to be actually quite", 
+            "dur": "5.11", 
+            "start": "301.76"
+        }, 
+        {
+            "text": "high up here.", 
+            "dur": "1.67", 
+            "start": "306.87"
+        }, 
+        {
+            "text": "And then 5 factorial is\ngoing quite high.", 
+            "dur": "2.21", 
+            "start": "308.54"
+        }, 
+        {
+            "text": "If we join these together,\nI&#39;ve also said that 0", 
+            "dur": "3.03", 
+            "start": "310.75"
+        }, 
+        {
+            "text": "factorial is 1, so I reckon\nthis is the graph.", 
+            "dur": "4.81", 
+            "start": "313.78"
+        }, 
+        {
+            "text": "So in theory, we should be\nable to get values for in", 
+            "dur": "4.22", 
+            "start": "318.59"
+        }, 
+        {
+            "text": "between, like, say, the\nnumber 1 and 1/2.", 
+            "dur": "3.73", 
+            "start": "322.81"
+        }, 
+        {
+            "text": "1 and 1/2 factorial.", 
+            "dur": "0.865", 
+            "start": "326.54"
+        }, 
+        {
+            "text": "What is 1 and 1/2 factorial?", 
+            "dur": "1.745", 
+            "start": "327.405"
+        }, 
+        {
+            "text": "So mathematicians\nhave done that.", 
+            "dur": "1.34", 
+            "start": "329.15"
+        }, 
+        {
+            "text": "They generalize the idea.", 
+            "dur": "1.87", 
+            "start": "330.49"
+        }, 
+        {
+            "text": "And there is the idea of\n1 and 1/2 factorial.", 
+            "dur": "3.97", 
+            "start": "332.36"
+        }, 
+        {
+            "text": "We call it gamma.", 
+            "dur": "2.42", 
+            "start": "336.33"
+        }, 
+        {
+            "text": "That&#39;s the Greek letter gamma.", 
+            "dur": "1.86", 
+            "start": "338.75"
+        }, 
+        {
+            "text": "We call it gamma of.", 
+            "dur": "1.71", 
+            "start": "340.61"
+        }, 
+        {
+            "text": "And the way we write it--", 
+            "dur": "2.08", 
+            "start": "342.32"
+        }, 
+        {
+            "text": "actually, now this is getting\na bit more sophisticated.", 
+            "dur": "2.41", 
+            "start": "344.4"
+        }, 
+        {
+            "text": "We say gamma of n is equal to\nthe integral between 0 and", 
+            "dur": "4.73", 
+            "start": "346.81"
+        }, 
+        {
+            "text": "infinity of--", 
+            "dur": "2.62", 
+            "start": "351.54"
+        }, 
+        {
+            "text": "let&#39;s pick something--", 
+            "dur": "0.95", 
+            "start": "354.16"
+        }, 
+        {
+            "text": "t to the power n minus 1,\nmultiplied by e to the power", 
+            "dur": "6.32", 
+            "start": "355.11"
+        }, 
+        {
+            "text": "minus n dn.", 
+            "dur": "4.46", 
+            "start": "361.43"
+        }, 
+        {
+            "text": "Some people won&#39;t be\nfamiliar with that.", 
+            "dur": "1.49", 
+            "start": "365.89"
+        }, 
+        {
+            "text": "Some of you will be familiar\nwith that.", 
+            "dur": "1.95", 
+            "start": "367.38"
+        }, 
+        {
+            "text": "Some of you won&#39;t be.", 
+            "dur": "1.01", 
+            "start": "369.33"
+        }, 
+        {
+            "text": "It&#39;s a much more complicated\nmathematical idea, but this", 
+            "dur": "4.49", 
+            "start": "370.34"
+        }, 
+        {
+            "text": "would agree with\nthe factorials.", 
+            "dur": "3.26", 
+            "start": "374.83"
+        }, 
+        {
+            "text": "But it gives you in between\nvalues as well.", 
+            "dur": "2.67", 
+            "start": "378.09"
+        }, 
+        {
+            "text": "It plots this line.", 
+            "dur": "2.1", 
+            "start": "380.76"
+        }, 
+        {
+            "text": "There is something\nI do need to say.", 
+            "dur": "1.99", 
+            "start": "382.86"
+        }, 
+        {
+            "text": "It&#39;s slightly unexpected, but if\nwe take a value for a whole", 
+            "dur": "6.16", 
+            "start": "384.85"
+        }, 
+        {
+            "text": "number, gamma of n, and n is\nwhole, this actually gives you", 
+            "dur": "4.17", 
+            "start": "391.01"
+        }, 
+        {
+            "text": "n minus 1 factorial, so\nbe careful of that.", 
+            "dur": "3.79", 
+            "start": "395.18"
+        }, 
+        {
+            "text": "That might catch you out.", 
+            "dur": "1.63", 
+            "start": "398.97"
+        }, 
+        {
+            "text": "Bit of a pain, that.", 
+            "dur": "1.46", 
+            "start": "400.6"
+        }, 
+        {
+            "text": "So what&#39;s the point of having a\nfunction that will give you", 
+            "dur": "3.67", 
+            "start": "402.06"
+        }, 
+        {
+            "text": "factorials in between whole\nnumbers when you can&#39;t arrange", 
+            "dur": "4.81", 
+            "start": "405.73"
+        }, 
+        {
+            "text": "1 and 1/2 objects?", 
+            "dur": "1.53", 
+            "start": "410.54"
+        }, 
+        {
+            "text": "So it&#39;s a generalization, and\nit turns out to be quite", 
+            "dur": "3.91", 
+            "start": "412.07"
+        }, 
+        {
+            "text": "useful in many things.", 
+            "dur": "1.32", 
+            "start": "415.98"
+        }, 
+        {
+            "text": "Particularly, I&#39;m thinking\nof probability.", 
+            "dur": "2.92", 
+            "start": "417.3"
+        }, 
+        {
+            "text": "You can use them in formulas\nthat you find in probability", 
+            "dur": "5.47", 
+            "start": "420.22"
+        }, 
+        {
+            "text": "where you&#39;re thinking about\ncontinuous time instead of", 
+            "dur": "2.99", 
+            "start": "425.69"
+        }, 
+        {
+            "text": "just arranging objects in\ndiscreet probability.", 
+            "dur": "3.8", 
+            "start": "428.68"
+        }, 
+        {
+            "text": "You&#39;re now starting to think\nabout continuous events.", 
+            "dur": "2.94", 
+            "start": "432.48"
+        }, 
+        {
+            "text": "Time is the best example.", 
+            "dur": "2.32", 
+            "start": "435.42"
+        }, 
+        {
+            "text": "Then you start to generalize the\nideas, and therefore you", 
+            "dur": "3.48", 
+            "start": "437.74"
+        }, 
+        {
+            "text": "need a generalized factorial.", 
+            "dur": "2.19", 
+            "start": "441.22"
+        }, 
+        {
+            "text": "BRADY HARAN: 9, 6, and 3.", 
+            "dur": "7.98", 
+            "start": "446.14"
+        }, 
+        {
+            "text": "20.", 
+            "dur": "0.53", 
+            "start": "454.12"
+        }, 
+        {
+            "text": "44.", 
+            "dur": "1.55", 
+            "start": "454.65"
+        }
+    ], 
+    "title": "Zero Factorial - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02w2m", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 1074704, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

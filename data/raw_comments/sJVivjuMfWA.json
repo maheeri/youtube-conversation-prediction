@@ -1,0 +1,643 @@
+{
+    "publish_date": "2012-03-12T21:10:06.000Z", 
+    "video_length": "PT6M28S", 
+    "captions": [
+        {
+            "text": "TONY PADILLA: We&#39;re going to\ndo Buffon&#39;s needle trick.", 
+            "dur": "2.76", 
+            "start": "0.52"
+        }, 
+        {
+            "text": "So this is named after Georges\nLouie Leclerc, and this is a", 
+            "dur": "3.55", 
+            "start": "3.28"
+        }, 
+        {
+            "text": "method that he proposed\nfor working out pi.", 
+            "dur": "4.506", 
+            "start": "6.83"
+        }, 
+        {
+            "text": "So basically he proposed that\nyou would chuck a bunch of", 
+            "dur": "3.564", 
+            "start": "11.336"
+        }, 
+        {
+            "text": "needles just randomly\non a floor.", 
+            "dur": "3.52", 
+            "start": "14.9"
+        }, 
+        {
+            "text": "You can work out pi\nfrom that, yeah.", 
+            "dur": "1.88", 
+            "start": "18.42"
+        }, 
+        {
+            "text": "BRADY HARAN: Go on, then.", 
+            "dur": "0.52", 
+            "start": "20.3"
+        }, 
+        {
+            "text": "TONY PADILLA: Due to\nthe random nature.", 
+            "dur": "0.86", 
+            "start": "20.82"
+        }, 
+        {
+            "text": "So anyway, we haven&#39;t got\nneedles, and we&#39;re not going", 
+            "dur": "1.61", 
+            "start": "21.68"
+        }, 
+        {
+            "text": "to do it on a floor.", 
+            "dur": "0.74", 
+            "start": "23.29"
+        }, 
+        {
+            "text": "We&#39;re going to do it on\none of Brady&#39;s lovely", 
+            "dur": "2.35", 
+            "start": "24.03"
+        }, 
+        {
+            "text": "brown pieces of paper.", 
+            "dur": "1.29", 
+            "start": "26.38"
+        }, 
+        {
+            "text": "And we&#39;re going to use matches\ninstead, because we&#39;re cheap.", 
+            "dur": "2.48", 
+            "start": "27.67"
+        }, 
+        {
+            "text": "So what we want is we want to\ndraw some lines on this.", 
+            "dur": "3.47", 
+            "start": "30.15"
+        }, 
+        {
+            "text": "So there&#39;s one line.", 
+            "dur": "1.07", 
+            "start": "33.62"
+        }, 
+        {
+            "text": "And what we want is we want the\ngaps between lines to be", 
+            "dur": "4.02", 
+            "start": "34.69"
+        }, 
+        {
+            "text": "two matches long.", 
+            "dur": "2.7", 
+            "start": "38.71"
+        }, 
+        {
+            "text": "This is all very approximate.", 
+            "dur": "1.25", 
+            "start": "41.41"
+        }, 
+        {
+            "text": "What we&#39;re going to do is we&#39;re\ngoing to chuck a bunch", 
+            "dur": "1.8", 
+            "start": "51.47"
+        }, 
+        {
+            "text": "of matches on this board.", 
+            "dur": "3.5", 
+            "start": "53.27"
+        }, 
+        {
+            "text": "So I&#39;ll just chuck the first\ntwo completely randomly.", 
+            "dur": "3.27", 
+            "start": "56.77"
+        }, 
+        {
+            "text": "We need a lot of matches\nfor this.", 
+            "dur": "1.82", 
+            "start": "60.04"
+        }, 
+        {
+            "text": "If I counted these right,\nwe should have 163.", 
+            "dur": "3.28", 
+            "start": "61.86"
+        }, 
+        {
+            "text": "Let&#39;s just spread them out.", 
+            "dur": "1.25", 
+            "start": "65.14"
+        }, 
+        {
+            "text": "So hopefully, there should\nbe 163 matches randomly", 
+            "dur": "3.55", 
+            "start": "70.77"
+        }, 
+        {
+            "text": "distributed around this board.", 
+            "dur": "3.41", 
+            "start": "74.32"
+        }, 
+        {
+            "text": "Now, this is what I&#39;ve gotta do\nnow, is I&#39;m going to count", 
+            "dur": "2.13", 
+            "start": "77.73"
+        }, 
+        {
+            "text": "how many matches cross a line.", 
+            "dur": "2.28", 
+            "start": "79.86"
+        }, 
+        {
+            "text": "OK, so I reckon that one does.", 
+            "dur": "1.51", 
+            "start": "82.14"
+        }, 
+        {
+            "text": "So you count, Brady,\nthat was 1, 2, 3.", 
+            "dur": "2.964", 
+            "start": "83.65"
+        }, 
+        {
+            "text": "5, 6, 11, 12.", 
+            "dur": "4.606", 
+            "start": "86.614"
+        }, 
+        {
+            "text": "13, 14, 51, and I\nthink that&#39;s it.", 
+            "dur": "6.21", 
+            "start": "91.22"
+        }, 
+        {
+            "text": "52.", 
+            "dur": "1.45", 
+            "start": "97.43"
+        }, 
+        {
+            "text": "52 matches that cross\nthe lines.", 
+            "dur": "1.26", 
+            "start": "98.88"
+        }, 
+        {
+            "text": "There&#39;s 163 in total.", 
+            "dur": "1.75", 
+            "start": "100.14"
+        }, 
+        {
+            "text": "Now, let&#39;s see.", 
+            "dur": "1.59", 
+            "start": "101.89"
+        }, 
+        {
+            "text": "Let&#39;s do the following\ncalculation.", 
+            "dur": "1.96", 
+            "start": "103.48"
+        }, 
+        {
+            "text": "So 163 divided by 52\nis equal to 3.13.", 
+            "dur": "5.9", 
+            "start": "105.44"
+        }, 
+        {
+            "text": "And that&#39;s not bad.", 
+            "dur": "1.06", 
+            "start": "111.34"
+        }, 
+        {
+            "text": "That&#39;s not bad, I&#39;m quite\nhappy with that.", 
+            "dur": "1.616", 
+            "start": "112.4"
+        }, 
+        {
+            "text": "BRADY HARAN: That&#39;s\nvery close.", 
+            "dur": "0.694", 
+            "start": "114.016"
+        }, 
+        {
+            "text": "TONY PADILLA: Yeah, yeah.", 
+            "dur": "2.14", 
+            "start": "114.71"
+        }, 
+        {
+            "text": "So pi is 3.141.", 
+            "dur": "2.82", 
+            "start": "116.85"
+        }, 
+        {
+            "text": "So this is not bad.", 
+            "dur": "2.5", 
+            "start": "119.67"
+        }, 
+        {
+            "text": "OK, so why isn&#39;t it perfect?", 
+            "dur": "1.89", 
+            "start": "122.17"
+        }, 
+        {
+            "text": "Because this is not a\nvery large sample.", 
+            "dur": "3.93", 
+            "start": "124.06"
+        }, 
+        {
+            "text": "Viewers could have a little\ngo themselves.", 
+            "dur": "1.76", 
+            "start": "127.99"
+        }, 
+        {
+            "text": "Just literally play\nthe same game.", 
+            "dur": "1.69", 
+            "start": "129.75"
+        }, 
+        {
+            "text": "If you&#39;ve got more matches,\nthat&#39;s better.", 
+            "dur": "1.65", 
+            "start": "131.44"
+        }, 
+        {
+            "text": "You&#39;ll get a better accuracy.", 
+            "dur": "2.82", 
+            "start": "133.09"
+        }, 
+        {
+            "text": "There was a mathematician\ncalled Lazarine.", 
+            "dur": "3.4", 
+            "start": "135.91"
+        }, 
+        {
+            "text": "He used over 3,000 needles, and\nhe actually managed to get", 
+            "dur": "7.36", 
+            "start": "139.31"
+        }, 
+        {
+            "text": "pi accurate to I think it was\nabout six decimal places.", 
+            "dur": "3.12", 
+            "start": "146.67"
+        }, 
+        {
+            "text": "What we&#39;re seeing here is\nsomething is akin to a Monte", 
+            "dur": "2.5", 
+            "start": "149.79"
+        }, 
+        {
+            "text": "Carlo simulation.", 
+            "dur": "1.405", 
+            "start": "152.29"
+        }, 
+        {
+            "text": "That&#39;s what it&#39;s called.", 
+            "dur": "1.035", 
+            "start": "153.695"
+        }, 
+        {
+            "text": "You basically take\na random sample.", 
+            "dur": "1.77", 
+            "start": "154.73"
+        }, 
+        {
+            "text": "The reason you get pie out of\nthis is it&#39;s all to do with", 
+            "dur": "2.705", 
+            "start": "156.5"
+        }, 
+        {
+            "text": "the angle that the match takes\nas playing some role here.", 
+            "dur": "4.915", 
+            "start": "159.205"
+        }, 
+        {
+            "text": "And of course if you&#39;re working\nin radians, if you go", 
+            "dur": "2.55", 
+            "start": "164.12"
+        }, 
+        {
+            "text": "through a full 360 degrees,\nwell, in radians that&#39;s 2 pi.", 
+            "dur": "5.13", 
+            "start": "166.67"
+        }, 
+        {
+            "text": "OK, so that&#39;s where pi&#39;s coming\ninto this game, and", 
+            "dur": "2.19", 
+            "start": "171.8"
+        }, 
+        {
+            "text": "that&#39;s why you can get pi\nout of this sort of", 
+            "dur": "2.63", 
+            "start": "173.99"
+        }, 
+        {
+            "text": "setup, because the angle.", 
+            "dur": "3.43", 
+            "start": "176.62"
+        }, 
+        {
+            "text": "So we&#39;re going to try and\nexplain the maths of it now.", 
+            "dur": "1.75", 
+            "start": "180.05"
+        }, 
+        {
+            "text": "Let me say, imagine that the\nlength of the match is l, and", 
+            "dur": "5.63", 
+            "start": "181.8"
+        }, 
+        {
+            "text": "that means that the distance\nhere is 2l.", 
+            "dur": "4.31", 
+            "start": "187.43"
+        }, 
+        {
+            "text": "There&#39;s a few things that\nplay a role here.", 
+            "dur": "1.89", 
+            "start": "191.74"
+        }, 
+        {
+            "text": "There&#39;s the position of the\ncenter of the match, which", 
+            "dur": "4.17", 
+            "start": "193.63"
+        }, 
+        {
+            "text": "I&#39;ll call there.", 
+            "dur": "1.11", 
+            "start": "197.8"
+        }, 
+        {
+            "text": "We&#39;ll say that&#39;s a distance\nx from here.", 
+            "dur": "2.79", 
+            "start": "198.91"
+        }, 
+        {
+            "text": "And then the other thing that\nwe&#39;re interested in is the", 
+            "dur": "1.7", 
+            "start": "201.7"
+        }, 
+        {
+            "text": "angle the match is making.", 
+            "dur": "2.5", 
+            "start": "203.4"
+        }, 
+        {
+            "text": "So let&#39;s just draw it,\nI guess, like so.", 
+            "dur": "5.93", 
+            "start": "205.9"
+        }, 
+        {
+            "text": "We&#39;re interested in\nthat angle beta.", 
+            "dur": "2.92", 
+            "start": "211.83"
+        }, 
+        {
+            "text": "Assuming everything&#39;s\ncompletely random.", 
+            "dur": "1.26", 
+            "start": "214.75"
+        }, 
+        {
+            "text": "how do we measure the\nprobability of where the", 
+            "dur": "1.77", 
+            "start": "219.95"
+        }, 
+        {
+            "text": "center of the match is?", 
+            "dur": "1.42", 
+            "start": "221.72"
+        }, 
+        {
+            "text": "Well, the probability density\nof the center of the match,", 
+            "dur": "3.155", 
+            "start": "223.14"
+        }, 
+        {
+            "text": "which is position x, is just\ngiven by essentially 1/l.", 
+            "dur": "5.065", 
+            "start": "226.295"
+        }, 
+        {
+            "text": "The other thing that we&#39;re\ninterested in is", 
+            "dur": "1.185", 
+            "start": "231.36"
+        }, 
+        {
+            "text": "the angle it makes.", 
+            "dur": "1.535", 
+            "start": "232.545"
+        }, 
+        {
+            "text": "So this is sort of a measure\nof the probability of the", 
+            "dur": "1.86", 
+            "start": "234.08"
+        }, 
+        {
+            "text": "angle it&#39;s making.", 
+            "dur": "1.26", 
+            "start": "235.94"
+        }, 
+        {
+            "text": "And basically, the angles that\nwe&#39;re interested in are", 
+            "dur": "1.98", 
+            "start": "237.2"
+        }, 
+        {
+            "text": "somewhere between 0 and pi/2\nwhich is of course 90 degrees.", 
+            "dur": "4.985", 
+            "start": "239.18"
+        }, 
+        {
+            "text": "This is where the\npi&#39;s coming in.", 
+            "dur": "2.035", 
+            "start": "244.165"
+        }, 
+        {
+            "text": "Now, if we want to work out\nessentially the probability", 
+            "dur": "5.21", 
+            "start": "246.2"
+        }, 
+        {
+            "text": "for the match to cross the\nline, what we do is", 
+            "dur": "2.98", 
+            "start": "251.41"
+        }, 
+        {
+            "text": "we take these two.", 
+            "dur": "1.53", 
+            "start": "254.39"
+        }, 
+        {
+            "text": "We have to do an integration.", 
+            "dur": "1.82", 
+            "start": "255.92"
+        }, 
+        {
+            "text": "OK, now there&#39;s an important\npoint here.", 
+            "dur": "1.37", 
+            "start": "257.74"
+        }, 
+        {
+            "text": "What&#39;s the condition for the\nmatch to cross the line?", 
+            "dur": "2.75", 
+            "start": "259.11"
+        }, 
+        {
+            "text": "Well, the condition for the\nmatch to cross the line is", 
+            "dur": "2.69", 
+            "start": "261.86"
+        }, 
+        {
+            "text": "that x should be less\nthan l/2 sine theta.", 
+            "dur": "3.86", 
+            "start": "264.55"
+        }, 
+        {
+            "text": "So that means when we do the x\nintegration, we go between 0", 
+            "dur": "3.29", 
+            "start": "268.41"
+        }, 
+        {
+            "text": "and l/2 sine theta.", 
+            "dur": "2.92", 
+            "start": "271.7"
+        }, 
+        {
+            "text": "OK, and of course when we do the\ntheta integration, we&#39;re", 
+            "dur": "2.637", 
+            "start": "274.62"
+        }, 
+        {
+            "text": "going between 0 and pi by 2.", 
+            "dur": "2.953", 
+            "start": "277.257"
+        }, 
+        {
+            "text": "So we do it, theta equals 0,\nthis is pi/2, 2 over l pi.", 
+            "dur": "3.94", 
+            "start": "280.21"
+        }, 
+        {
+            "text": "2 over l pi.", 
+            "dur": "0.74", 
+            "start": "288.07"
+        }, 
+        {
+            "text": "When we do the x integration, we\nget an l over 2 sine theta.", 
+            "dur": "4.45", 
+            "start": "288.81"
+        }, 
+        {
+            "text": "And then we integrate sine theta\nbetween 0 and pi by 2.", 
+            "dur": "5.95", 
+            "start": "293.26"
+        }, 
+        {
+            "text": "That gives me 1, and I&#39;ve\ngot the 1/pi there, so", 
+            "dur": "2.77", 
+            "start": "299.21"
+        }, 
+        {
+            "text": "the answer is 1/pi.", 
+            "dur": "2.37", 
+            "start": "301.98"
+        }, 
+        {
+            "text": "This tells me the probability\nthat you&#39;re going to cross the", 
+            "dur": "2.95", 
+            "start": "304.35"
+        }, 
+        {
+            "text": "line, right?", 
+            "dur": "0.57", 
+            "start": "307.3"
+        }, 
+        {
+            "text": "So if I&#39;ve got n matches, and\nI want to work out how many", 
+            "dur": "3.8", 
+            "start": "307.87"
+        }, 
+        {
+            "text": "cross, let me call them--\nso this is the n total.", 
+            "dur": "4.59", 
+            "start": "311.67"
+        }, 
+        {
+            "text": "And I want to work out\nhow many cross.", 
+            "dur": "2.36", 
+            "start": "316.26"
+        }, 
+        {
+            "text": "Then I just multiply\nand total that.", 
+            "dur": "2.23", 
+            "start": "318.62"
+        }, 
+        {
+            "text": "1/pi.", 
+            "dur": "1.77", 
+            "start": "320.85"
+        }, 
+        {
+            "text": "So n total is 163.", 
+            "dur": "4.78", 
+            "start": "322.62"
+        }, 
+        {
+            "text": "And n crossing was 52, I think\nwe got, didn&#39;t we?", 
+            "dur": "6.53", 
+            "start": "327.4"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "1.27", 
+            "start": "333.93"
+        }, 
+        {
+            "text": "So what you see from that\nif we&#39;ve got 163/pi.", 
+            "dur": "4.272", 
+            "start": "335.2"
+        }, 
+        {
+            "text": "Let&#39;s put an approximate\nsign in there.", 
+            "dur": "1.968", 
+            "start": "339.472"
+        }, 
+        {
+            "text": "Approximately 52, or if you\nlike, what we actually saw was", 
+            "dur": "3.13", 
+            "start": "341.44"
+        }, 
+        {
+            "text": "that pi, just rearrange\nthis equation, so", 
+            "dur": "2.81", 
+            "start": "344.57"
+        }, 
+        {
+            "text": "approximately 163/52.", 
+            "dur": "4.88", 
+            "start": "347.38"
+        }, 
+        {
+            "text": "Yeah, I&#39;m happy with that.", 
+            "dur": "1.12", 
+            "start": "352.26"
+        }, 
+        {
+            "text": "Yeah, yeah.", 
+            "dur": "0.24", 
+            "start": "353.38"
+        }, 
+        {
+            "text": "That&#39;s good.", 
+            "dur": "0.39", 
+            "start": "353.62"
+        }, 
+        {
+            "text": "So that&#39;s how it works.", 
+            "dur": "0.96", 
+            "start": "354.01"
+        }, 
+        {
+            "text": "That&#39;s the theory behind it.", 
+            "dur": "1.25", 
+            "start": "354.97"
+        }
+    ], 
+    "title": "Pi and Buffon's Matches - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0317mv", 
+        "/m/0vb40_n", 
+        "/m/05wjw"
+    ], 
+    "number_views": 347105, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

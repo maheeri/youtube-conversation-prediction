@@ -1,0 +1,637 @@
+{
+    "publish_date": "2013-05-13T12:00:41.000Z", 
+    "video_length": "PT5M59S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: Well, we&#39;re going\nto talk about illegal numbers.", 
+            "dur": "2.25", 
+            "start": "0.29"
+        }, 
+        {
+            "text": "And when I heard that there\nwere these things, illegal", 
+            "dur": "2.72", 
+            "start": "2.54"
+        }, 
+        {
+            "text": "numbers, that some numbers were\nillegal, I was shocked", 
+            "dur": "3.96", 
+            "start": "5.26"
+        }, 
+        {
+            "text": "and surprised as well.", 
+            "dur": "2.91", 
+            "start": "9.22"
+        }, 
+        {
+            "text": "Today, in the modern world,\nnumbers are used as keys to", 
+            "dur": "4.42", 
+            "start": "12.13"
+        }, 
+        {
+            "text": "encrypt secret information.", 
+            "dur": "2.1", 
+            "start": "16.55"
+        }, 
+        {
+            "text": "They&#39;re used to encrypt or\nprotect DVDs as well, so that", 
+            "dur": "4.14", 
+            "start": "18.65"
+        }, 
+        {
+            "text": "you can&#39;t illegally copy\nfilms off a DVD.", 
+            "dur": "3.3", 
+            "start": "22.79"
+        }, 
+        {
+            "text": "You need to protect\nthose keys.", 
+            "dur": "1.63", 
+            "start": "26.09"
+        }, 
+        {
+            "text": "So if you distribute those\nsecret keys, those secret", 
+            "dur": "2.9", 
+            "start": "27.72"
+        }, 
+        {
+            "text": "numbers, this is\na real problem.", 
+            "dur": "3.4", 
+            "start": "30.62"
+        }, 
+        {
+            "text": "And some people are claiming\nthat it would be illegal to", 
+            "dur": "3.3", 
+            "start": "34.02"
+        }, 
+        {
+            "text": "distribute those numbers.", 
+            "dur": "2.14", 
+            "start": "37.32"
+        }, 
+        {
+            "text": "And so it&#39;s the number itself\nthat becomes illegal.", 
+            "dur": "3.69", 
+            "start": "39.46"
+        }, 
+        {
+            "text": "And there are some other\nproblems as well because you", 
+            "dur": "2.86", 
+            "start": "43.15"
+        }, 
+        {
+            "text": "can consider a digital\nphotograph or a computer", 
+            "dur": "2.82", 
+            "start": "46.01"
+        }, 
+        {
+            "text": "program as simply as a string\nof binary digits.", 
+            "dur": "2.91", 
+            "start": "48.83"
+        }, 
+        {
+            "text": "And then a string of binary\ndigits is a number.", 
+            "dur": "3.58", 
+            "start": "51.74"
+        }, 
+        {
+            "text": "So there is a number\nfor a photograph", 
+            "dur": "2.84", 
+            "start": "55.32"
+        }, 
+        {
+            "text": "or a computer program.", 
+            "dur": "1.62", 
+            "start": "58.16"
+        }, 
+        {
+            "text": "So if you distribute the number,\nyou could sort of work", 
+            "dur": "3.412", 
+            "start": "59.78"
+        }, 
+        {
+            "text": "out the original computer\nprogram or the image.", 
+            "dur": "3.113", 
+            "start": "63.192"
+        }, 
+        {
+            "text": "And if that&#39;s an illegal\ncomputer program that&#39;s", 
+            "dur": "2.595", 
+            "start": "66.305"
+        }, 
+        {
+            "text": "hacking data, then does the\nnumber become illegal itself?", 
+            "dur": "6.31", 
+            "start": "68.9"
+        }, 
+        {
+            "text": "To show you the problem, I\nthought, I don&#39;t want to write", 
+            "dur": "2.73", 
+            "start": "75.21"
+        }, 
+        {
+            "text": "down any illegal numbers\nin this video.", 
+            "dur": "1.78", 
+            "start": "77.94"
+        }, 
+        {
+            "text": "So I thought I&#39;d come up\nwith my own example.", 
+            "dur": "2.92", 
+            "start": "79.72"
+        }, 
+        {
+            "text": "So imagine if we decide\nto trademark the name", 
+            "dur": "3.44", 
+            "start": "82.64"
+        }, 
+        {
+            "text": "Numberphile.", 
+            "dur": "0.96", 
+            "start": "86.08"
+        }, 
+        {
+            "text": "So we&#39;re going to write down\nNumberphile first of all.", 
+            "dur": "2.27", 
+            "start": "87.04"
+        }, 
+        {
+            "text": "I&#39;m going to use capital letters\nbecause I like the", 
+            "dur": "2.18", 
+            "start": "89.31"
+        }, 
+        {
+            "text": "number we got at\nthe end better.", 
+            "dur": "1.38", 
+            "start": "91.49"
+        }, 
+        {
+            "text": "So I&#39;m going to use capital\nletters for Numberphile.", 
+            "dur": "2.67", 
+            "start": "92.87"
+        }, 
+        {
+            "text": "I&#39;ve written out the\nword Numberphile.", 
+            "dur": "2.46", 
+            "start": "95.54"
+        }, 
+        {
+            "text": "Now, each character in ASCII has\na binary representation.", 
+            "dur": "4.81", 
+            "start": "98"
+        }, 
+        {
+            "text": "So let&#39;s do that.", 
+            "dur": "0.8", 
+            "start": "102.81"
+        }, 
+        {
+            "text": "So for the capital\nN, 01001110.", 
+            "dur": "5.73", 
+            "start": "103.61"
+        }, 
+        {
+            "text": "And now I can do it up\nfor the U as well.", 
+            "dur": "1.83", 
+            "start": "109.34"
+        }, 
+        {
+            "text": "But I&#39;d better get them right.", 
+            "dur": "2.05", 
+            "start": "111.17"
+        }, 
+        {
+            "text": "You know they&#39;ll notice.", 
+            "dur": "1.635", 
+            "start": "113.22"
+        }, 
+        {
+            "text": "The H, 0101.", 
+            "dur": "4.315", 
+            "start": "114.855"
+        }, 
+        {
+            "text": "Whoo.", 
+            "dur": "0.8", 
+            "start": "119.17"
+        }, 
+        {
+            "text": "So that&#39;s Numberphile written\nas a binary string.", 
+            "dur": "3.3", 
+            "start": "119.97"
+        }, 
+        {
+            "text": "So if we joined all that\ntogether, that&#39;s just one big", 
+            "dur": "2.64", 
+            "start": "123.27"
+        }, 
+        {
+            "text": "binary number.", 
+            "dur": "1.77", 
+            "start": "125.91"
+        }, 
+        {
+            "text": "Do you want to know what\nthat number is?", 
+            "dur": "1.91", 
+            "start": "127.68"
+        }, 
+        {
+            "text": "So that number in\ndecimal is 94--", 
+            "dur": "3.88", 
+            "start": "129.59"
+        }, 
+        {
+            "text": "040--", 
+            "dur": "1.41", 
+            "start": "133.47"
+        }, 
+        {
+            "text": "177.", 
+            "dur": "2.68", 
+            "start": "134.88"
+        }, 
+        {
+            "text": "So this is Numberphile\nwritten as a number,", 
+            "dur": "4.54", 
+            "start": "137.56"
+        }, 
+        {
+            "text": "the Numberphile number.", 
+            "dur": "1.82", 
+            "start": "142.1"
+        }, 
+        {
+            "text": "And if I catch any of you\ndistributing this number about", 
+            "dur": "3.81", 
+            "start": "143.92"
+        }, 
+        {
+            "text": "on the internet, right, you&#39;re\ninfringing our trademark, OK?", 
+            "dur": "5.1", 
+            "start": "147.73"
+        }, 
+        {
+            "text": "Don&#39;t let me catch\nyou doing that.", 
+            "dur": "2.01", 
+            "start": "152.83"
+        }, 
+        {
+            "text": "There is a serious problem.", 
+            "dur": "1.23", 
+            "start": "154.84"
+        }, 
+        {
+            "text": "So I&#39;m a mathematician,\nnot a lawyer.", 
+            "dur": "1.74", 
+            "start": "156.07"
+        }, 
+        {
+            "text": "I can&#39;t talk about the full\nimplications of this.", 
+            "dur": "3.28", 
+            "start": "157.81"
+        }, 
+        {
+            "text": "I&#39;m hoping that I am giving\nyou the extreme case, a", 
+            "dur": "3.72", 
+            "start": "161.09"
+        }, 
+        {
+            "text": "simplified extreme case.", 
+            "dur": "1.82", 
+            "start": "164.81"
+        }, 
+        {
+            "text": "But at the very least, this is\nwhat we&#39;re trying to avoid,", 
+            "dur": "2.77", 
+            "start": "166.63"
+        }, 
+        {
+            "text": "that numbers themselves\nbecome illegal.", 
+            "dur": "2.93", 
+            "start": "169.4"
+        }, 
+        {
+            "text": "That&#39;s what we&#39;re trying to\navoid because the implications", 
+            "dur": "3.4", 
+            "start": "172.33"
+        }, 
+        {
+            "text": "of it are bizarre.", 
+            "dur": "1.77", 
+            "start": "175.73"
+        }, 
+        {
+            "text": "So you can&#39;t distribute\nthese illegal numbers.", 
+            "dur": "3.08", 
+            "start": "177.5"
+        }, 
+        {
+            "text": "But then can you distribute\nthe number minus 1?", 
+            "dur": "3.83", 
+            "start": "180.58"
+        }, 
+        {
+            "text": "Or if I write down a list of\nnumbers where some of them are", 
+            "dur": "3.02", 
+            "start": "184.41"
+        }, 
+        {
+            "text": "illegal, am I allowed to\ndistribute that list?", 
+            "dur": "3.95", 
+            "start": "187.43"
+        }, 
+        {
+            "text": "I hope that it&#39;s distributing\nthe number and the intent to", 
+            "dur": "5.24", 
+            "start": "191.38"
+        }, 
+        {
+            "text": "infringe copyright.", 
+            "dur": "1.21", 
+            "start": "196.62"
+        }, 
+        {
+            "text": "But the extreme case is what\nwe&#39;re trying to avoid.", 
+            "dur": "3.99", 
+            "start": "197.83"
+        }, 
+        {
+            "text": "It has become a problem.", 
+            "dur": "1.65", 
+            "start": "201.82"
+        }, 
+        {
+            "text": "In recent years, there have been\na couple of cases where", 
+            "dur": "3.56", 
+            "start": "203.47"
+        }, 
+        {
+            "text": "people like Sony have sued\npeople for distributing their", 
+            "dur": "5.16", 
+            "start": "207.03"
+        }, 
+        {
+            "text": "secret encryption keys for\ntheir PlayStation 3.", 
+            "dur": "3.51", 
+            "start": "212.19"
+        }, 
+        {
+            "text": "And the Motion Picture\nAssociation of America have", 
+            "dur": "5.09", 
+            "start": "215.7"
+        }, 
+        {
+            "text": "forced people to remove posts\nthat were encryption keys for", 
+            "dur": "3.92", 
+            "start": "220.79"
+        }, 
+        {
+            "text": "their DVDs, which people were\nusing to illegally copy DVDs.", 
+            "dur": "5.69", 
+            "start": "224.71"
+        }, 
+        {
+            "text": "This annoyed the internet.", 
+            "dur": "1.95", 
+            "start": "230.4"
+        }, 
+        {
+            "text": "Ah, the internet-- this\nannoyed them.", 
+            "dur": "2.35", 
+            "start": "232.35"
+        }, 
+        {
+            "text": "So then they started to\ntaunt these people.", 
+            "dur": "3.15", 
+            "start": "234.7"
+        }, 
+        {
+            "text": "So what they started\nto do next is they", 
+            "dur": "1.58", 
+            "start": "237.85"
+        }, 
+        {
+            "text": "would take these numbers.", 
+            "dur": "1.53", 
+            "start": "239.43"
+        }, 
+        {
+            "text": "And to taunt, they would then\nturn these numbers into", 
+            "dur": "2.95", 
+            "start": "240.96"
+        }, 
+        {
+            "text": "hexadecimal.", 
+            "dur": "1.59", 
+            "start": "243.91"
+        }, 
+        {
+            "text": "And hexadecimal defines\ncolors as well.", 
+            "dur": "3.66", 
+            "start": "245.5"
+        }, 
+        {
+            "text": "So then they become\nillegal colors.", 
+            "dur": "2.02", 
+            "start": "249.16"
+        }, 
+        {
+            "text": "If I do this for Numberphile--", 
+            "dur": "1.39", 
+            "start": "251.18"
+        }, 
+        {
+            "text": "I&#39;ve worked this out already.", 
+            "dur": "1.75", 
+            "start": "252.57"
+        }, 
+        {
+            "text": "This number, which is 94\nseptillion and something, if I", 
+            "dur": "6.5", 
+            "start": "254.32"
+        }, 
+        {
+            "text": "write it in hexadecimal--", 
+            "dur": "1.89", 
+            "start": "260.82"
+        }, 
+        {
+            "text": "5D--", 
+            "dur": "1.25", 
+            "start": "262.71"
+        }, 
+        {
+            "text": "4, 2--", 
+            "dur": "0.47", 
+            "start": "266.97"
+        }, 
+        {
+            "text": "42, 4, 5--", 
+            "dur": "3.17", 
+            "start": "267.44"
+        }, 
+        {
+            "text": "so this is the Numberphile\nnumber written as hexadecimal.", 
+            "dur": "3.98", 
+            "start": "270.61"
+        }, 
+        {
+            "text": "Now, these groups here\ndefine a color.", 
+            "dur": "3.41", 
+            "start": "274.59"
+        }, 
+        {
+            "text": "Each of those groups define a\ncolor, and then we&#39;ve got a", 
+            "dur": "2.39", 
+            "start": "278"
+        }, 
+        {
+            "text": "little bit extra.", 
+            "dur": "1.45", 
+            "start": "280.39"
+        }, 
+        {
+            "text": "So what you can do then is you\ncan make something like this.", 
+            "dur": "4.13", 
+            "start": "281.84"
+        }, 
+        {
+            "text": "So these are the three colors\ndefined by the Numberphile", 
+            "dur": "4.69", 
+            "start": "285.97"
+        }, 
+        {
+            "text": "number plus that little\nextra bit.", 
+            "dur": "2.95", 
+            "start": "290.66"
+        }, 
+        {
+            "text": "And then if you start posting\nthis around on internet", 
+            "dur": "3.9", 
+            "start": "293.61"
+        }, 
+        {
+            "text": "forums, again, you&#39;ll be\ninfringing our trademark, and", 
+            "dur": "4.04", 
+            "start": "297.51"
+        }, 
+        {
+            "text": "we&#39;ll be round to come\nround your house.", 
+            "dur": "2.86", 
+            "start": "301.55"
+        }, 
+        {
+            "text": "And we&#39;re going to stamp on\nall your favorite toys.", 
+            "dur": "2.46", 
+            "start": "304.41"
+        }, 
+        {
+            "text": "So I don&#39;t want to catch\nany of you doing that.", 
+            "dur": "4.24", 
+            "start": "306.87"
+        }, 
+        {
+            "text": "BRADY HARAN: So here are some\nof those taunting protests", 
+            "dur": "3.44", 
+            "start": "311.11"
+        }, 
+        {
+            "text": "that James referred\nto in the video.", 
+            "dur": "2.4", 
+            "start": "314.55"
+        }, 
+        {
+            "text": "These are colored flags based\non the DVD and PlayStation", 
+            "dur": "4.35", 
+            "start": "316.95"
+        }, 
+        {
+            "text": "encoding numbers.", 
+            "dur": "1.2", 
+            "start": "321.3"
+        }, 
+        {
+            "text": "Of course, another issue we\ndidn&#39;t touch on this video", 
+            "dur": "2.24", 
+            "start": "322.5"
+        }, 
+        {
+            "text": "surrounds copyrighting\nof numbers like pi.", 
+            "dur": "2.34", 
+            "start": "324.74"
+        }, 
+        {
+            "text": "And there&#39;s a lot of stories\ninvolving that, too.", 
+            "dur": "2.53", 
+            "start": "327.08"
+        }, 
+        {
+            "text": "Maybe we&#39;ll talk about\nthat another time.", 
+            "dur": "2.18", 
+            "start": "329.61"
+        }, 
+        {
+            "text": "A quick thanks to James Clewett,\nwho actually turned", 
+            "dur": "2.85", 
+            "start": "331.79"
+        }, 
+        {
+            "text": "the Mona Lisa into zeros\nand ones for me.", 
+            "dur": "2.96", 
+            "start": "334.64"
+        }, 
+        {
+            "text": "And if you&#39;d like to read more\nabout that, I&#39;ll put a link in", 
+            "dur": "2.79", 
+            "start": "337.6"
+        }, 
+        {
+            "text": "the video description.", 
+            "dur": "1.73", 
+            "start": "340.39"
+        }, 
+        {
+            "text": "And lastly, because we&#39;re a\nlot more relaxed about our", 
+            "dur": "2.575", 
+            "start": "342.12"
+        }, 
+        {
+            "text": "illegal numbers here at\nNumberphile, James Grime and I", 
+            "dur": "2.725", 
+            "start": "344.695"
+        }, 
+        {
+            "text": "have put that piece of paper\nused in the video on eBay in", 
+            "dur": "3.19", 
+            "start": "347.42"
+        }, 
+        {
+            "text": "case anyone wants to get\ntheir hands on it.", 
+            "dur": "1.89", 
+            "start": "350.61"
+        }, 
+        {
+            "text": "Again, links in the\nvideo description.", 
+            "dur": "2.83", 
+            "start": "352.5"
+        }, 
+        {
+            "text": "Thanks for watching.", 
+            "dur": "1.13", 
+            "start": "355.33"
+        }, 
+        {
+            "text": "And we&#39;ll be back with\nmore videos soon.", 
+            "dur": "1.25", 
+            "start": "356.46"
+        }
+    ], 
+    "title": "Illegal Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02qjsn_", 
+        "/m/05fwb"
+    ], 
+    "number_views": 1459793, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

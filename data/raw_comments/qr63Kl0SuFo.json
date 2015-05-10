@@ -1,0 +1,242 @@
+{
+    "publish_date": "2014-09-14T20:00:03.000Z", 
+    "video_length": "PT3M50S", 
+    "captions": [
+        {
+            "text": "Wireless charging seems so great, I plug this\nthingy in and then set this other thingy on", 
+            "dur": "4.111", 
+            "start": "0.179"
+        }, 
+        {
+            "text": "it\u2026 BAM power! But how the heck does electricity\nget from the wall into my phone?", 
+            "dur": "7", 
+            "start": "4.29"
+        }, 
+        {
+            "text": "Hello everyone! Trace here for DNews, thanks\nfor stopping by! You&#39;re probably watching", 
+            "dur": "7", 
+            "start": "12.47"
+        }, 
+        {
+            "text": "this show via a device that has a battery.\nLaptops, mobile phones, toothbrushes, though\u2026", 
+            "dur": "5.51", 
+            "start": "20.72"
+        }, 
+        {
+            "text": "not this new watch everyone&#39;s talking about\nfor some reason\u2026 All these things need charging", 
+            "dur": "4.719", 
+            "start": "26.23"
+        }, 
+        {
+            "text": "and for the moment we&#39;re still using cords\nand plugs for this\u2026 Inductive charging isn&#39;t", 
+            "dur": "6.141", 
+            "start": "30.949"
+        }, 
+        {
+            "text": "new, it&#39;s been used since the early 1990s\nin electric toothbrushes, and for surgically", 
+            "dur": "4.27", 
+            "start": "37.09"
+        }, 
+        {
+            "text": "implanted devices like artificial hearts.\nYou&#39;ve even heard of this in pop culture!", 
+            "dur": "3.859", 
+            "start": "41.36"
+        }, 
+        {
+            "text": "In the late 1800s, Tesla was allegedly able\nto power light bulbs with no wires, and claimed", 
+            "dur": "5.491", 
+            "start": "45.219"
+        }, 
+        {
+            "text": "to be able to transmit power from one location\nto another with no wires\u2026", 
+            "dur": "6.74", 
+            "start": "50.71"
+        }, 
+        {
+            "text": "To make it work relies on simple physics.\nIf you ever wrapped a coil of wire around", 
+            "dur": "3.769", 
+            "start": "57.45"
+        }, 
+        {
+            "text": "a nail and attached a battery, then you know\nthe electricity in the battery runs through", 
+            "dur": "5.641", 
+            "start": "61.219"
+        }, 
+        {
+            "text": "the wire creating an electromagnetic field,\nor flux. Do it at home, it&#39;s fun and you can", 
+            "dur": "4.48", 
+            "start": "66.86"
+        }, 
+        {
+            "text": "use it to pick up paperclips or whatever.", 
+            "dur": "1.6", 
+            "start": "71.34"
+        }, 
+        {
+            "text": "With that same principle, a coil of wire\u2026\nmagnet\u2026 battery\u2026 you can make it go the", 
+            "dur": "3.77", 
+            "start": "72.94"
+        }, 
+        {
+            "text": "other way too. Spin a magnet in the coil and\nyou&#39;ll GENERATE electricity by taking that", 
+            "dur": "4.97", 
+            "start": "76.71"
+        }, 
+        {
+            "text": "magnetic flux and moving it through that coil\nto create electricity.", 
+            "dur": "4.29", 
+            "start": "81.68"
+        }, 
+        {
+            "text": "The battery creates a stable electromagnet\nbecause it&#39;s direct current, it&#39;s going one", 
+            "dur": "3.66", 
+            "start": "85.97"
+        }, 
+        {
+            "text": "way. The power from your walls is alternating\ncurrent, changes direction 60 times a second", 
+            "dur": "5.61", 
+            "start": "89.63"
+        }, 
+        {
+            "text": "-- or cycles at 60 hertz -- so the electrons\nare moving back and forth -- remember that", 
+            "dur": "4.68", 
+            "start": "95.24"
+        }, 
+        {
+            "text": "because that&#39;s the key to the charging.", 
+            "dur": "2.809", 
+            "start": "99.92"
+        }, 
+        {
+            "text": "Wireless inductive charging gets its name\nfrom that magnetic field interaction, called", 
+            "dur": "4.1", 
+            "start": "102.729"
+        }, 
+        {
+            "text": "induction. Inside of the charging pad, and\nthe inductive charging device are tiny coils", 
+            "dur": "5.121", 
+            "start": "106.829"
+        }, 
+        {
+            "text": "of wire. The pad, being plugged into the wall,\nis fully powered -- and the power is cycling.", 
+            "dur": "6.809", 
+            "start": "111.95"
+        }, 
+        {
+            "text": "When the other coils come within a short distance\ntheir flux will interact with the flux in", 
+            "dur": "4.57", 
+            "start": "118.759"
+        }, 
+        {
+            "text": "the device, move the electrons around and\ncharge the battery.", 
+            "dur": "3.97", 
+            "start": "123.329"
+        }, 
+        {
+            "text": "Chances are, the number of cycles per second\nisn&#39;t going to be 60 hertz, but like, 5 or", 
+            "dur": "4.7", 
+            "start": "127.299"
+        }, 
+        {
+            "text": "10, so it doesn&#39;t mess up other things in\nyour house. Your WiFi network cycles at 2.4", 
+            "dur": "5.16", 
+            "start": "131.999"
+        }, 
+        {
+            "text": "gigahertz or 2.4 billion cycles per second,\nso it&#39;s DEFINITELY not going to mess THAT", 
+            "dur": "5.071", 
+            "start": "137.159"
+        }, 
+        {
+            "text": "up, but with all the radio waves flying around,\nyou can&#39;t be too careful.", 
+            "dur": "3.659", 
+            "start": "142.23"
+        }, 
+        {
+            "text": "If it&#39;s that easy, you&#39;d think it would be\neverywhere, but the problem is efficiency.", 
+            "dur": "5.07", 
+            "start": "145.889"
+        }, 
+        {
+            "text": "You waste a lot of power filling up two coils\nand letting them talk to each other. It&#39;s", 
+            "dur": "5.42", 
+            "start": "150.959"
+        }, 
+        {
+            "text": "SO much better to just plug right in.", 
+            "dur": "2.461", 
+            "start": "156.379"
+        }, 
+        {
+            "text": "The future of wireless charging is unclear.\nIt seems like a great idea, but it&#39;s still", 
+            "dur": "4.7", 
+            "start": "158.84"
+        }, 
+        {
+            "text": "going to be a short-distance system for a\nwhile. In 2006, MIT found if you match the", 
+            "dur": "5.459", 
+            "start": "163.54"
+        }, 
+        {
+            "text": "frequencies of the devices, you can make the\npower go a few METERS -- so if you were in", 
+            "dur": "4.81", 
+            "start": "168.999"
+        }, 
+        {
+            "text": "your living room, and a charger was there\n-- your phone would charge right in your pocket\u2026", 
+            "dur": "4.231", 
+            "start": "173.809"
+        }, 
+        {
+            "text": "They&#39;re working on marketing the technology\nnow, but it&#39;s still not everywhere\u2026", 
+            "dur": "4.799", 
+            "start": "178.04"
+        }, 
+        {
+            "text": "Mr. Tesla, we&#39;re getting there, man.", 
+            "dur": "2.04", 
+            "start": "182.839"
+        }, 
+        {
+            "text": "Speaking of awesome innovations - how about\nones that make flying a little less suckier?", 
+            "dur": "4.67", 
+            "start": "184.879"
+        }, 
+        {
+            "text": "That happens to be the focus of discussion\non THIS episode of Anyhoo, hosted by my friend", 
+            "dur": "3.84", 
+            "start": "189.549"
+        }, 
+        {
+            "text": "Catie Wayne. Check it out!", 
+            "dur": "7", 
+            "start": "193.389"
+        }, 
+        {
+            "text": "Back to wireless charging - what would you\nwant to power wirelessly? I&#39;d love to beam", 
+            "dur": "5.83", 
+            "start": "211.909"
+        }, 
+        {
+            "text": "power to my TV! Then I could put it anywhere!\nDown with cables! Leave your comments down", 
+            "dur": "5.81", 
+            "start": "217.739"
+        }, 
+        {
+            "text": "below, Please subscribe and thanks for watching!", 
+            "dur": "3.33", 
+            "start": "223.549"
+        }
+    ], 
+    "title": "How Does Wireless Charging Work?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0g23r2", 
+        "/m/019dhf"
+    ], 
+    "number_views": 241478, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

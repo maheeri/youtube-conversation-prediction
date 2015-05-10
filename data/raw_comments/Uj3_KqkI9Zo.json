@@ -1,0 +1,692 @@
+{
+    "publish_date": "2014-01-16T17:26:19.000Z", 
+    "video_length": "PT6M", 
+    "captions": [
+        {
+            "text": "In the 1920&#39;s,", 
+            "dur": "1.16", 
+            "start": "6.531"
+        }, 
+        {
+            "text": "the German mathematician David Hilbert", 
+            "dur": "2.469", 
+            "start": "7.715"
+        }, 
+        {
+            "text": "devised a famous thought experiment", 
+            "dur": "2.229", 
+            "start": "10.208"
+        }, 
+        {
+            "text": "to show us just how hard it is", 
+            "dur": "1.73", 
+            "start": "12.461"
+        }, 
+        {
+            "text": "to wrap our minds\naround the concept of infinity.", 
+            "dur": "3.45", 
+            "start": "14.215"
+        }, 
+        {
+            "text": "Imagine a hotel with an infinite\nnumber of rooms", 
+            "dur": "3.306", 
+            "start": "18.353"
+        }, 
+        {
+            "text": "and a very hardworking night manager.", 
+            "dur": "2.305", 
+            "start": "21.683"
+        }, 
+        {
+            "text": "One night, the Infinite Hotel\nis completely full,", 
+            "dur": "2.995", 
+            "start": "24.528"
+        }, 
+        {
+            "text": "totally booked up\nwith an infinite number of guests.", 
+            "dur": "3.456", 
+            "start": "27.547"
+        }, 
+        {
+            "text": "A man walks into the hotel\nand asks for a room.", 
+            "dur": "3.134", 
+            "start": "31.027"
+        }, 
+        {
+            "text": "Rather than turn him down,", 
+            "dur": "1.259", 
+            "start": "34.185"
+        }, 
+        {
+            "text": "the night manager decides\nto make room for him.", 
+            "dur": "2.439", 
+            "start": "35.468"
+        }, 
+        {
+            "text": "How?", 
+            "dur": "1.016", 
+            "start": "37.931"
+        }, 
+        {
+            "text": "Easy, he asks the guest in room number 1", 
+            "dur": "2.664", 
+            "start": "38.971"
+        }, 
+        {
+            "text": "to move to room 2,", 
+            "dur": "2.052", 
+            "start": "41.659"
+        }, 
+        {
+            "text": "the guest in room 2 to move to room 3,", 
+            "dur": "2.321", 
+            "start": "43.735"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.058", 
+            "start": "46.08"
+        }, 
+        {
+            "text": "Every guest moves from room number &quot;n&quot;", 
+            "dur": "2.389", 
+            "start": "47.449"
+        }, 
+        {
+            "text": "to room number &quot;n+1&quot;.", 
+            "dur": "2.317", 
+            "start": "49.862"
+        }, 
+        {
+            "text": "Since there are an infinite\nnumber of rooms,", 
+            "dur": "2.091", 
+            "start": "52.721"
+        }, 
+        {
+            "text": "there is a new room\nfor each existing guest.", 
+            "dur": "2.173", 
+            "start": "54.836"
+        }, 
+        {
+            "text": "This leaves room 1 open\nfor the new customer.", 
+            "dur": "2.347", 
+            "start": "57.413"
+        }, 
+        {
+            "text": "The process can be repeated", 
+            "dur": "1.286", 
+            "start": "59.784"
+        }, 
+        {
+            "text": "for any finite number of new guests.", 
+            "dur": "2.417", 
+            "start": "61.094"
+        }, 
+        {
+            "text": "If, say, a tour bus unloads\n40 new people looking for rooms,", 
+            "dur": "3.994", 
+            "start": "63.535"
+        }, 
+        {
+            "text": "then every existing guest just moves", 
+            "dur": "2.089", 
+            "start": "67.553"
+        }, 
+        {
+            "text": "from room number &quot;n&quot;", 
+            "dur": "1.314", 
+            "start": "69.666"
+        }, 
+        {
+            "text": "to room number &quot;n+40&quot;,", 
+            "dur": "2.634", 
+            "start": "71.004"
+        }, 
+        {
+            "text": "thus, opening up the first 40 rooms.", 
+            "dur": "2.538", 
+            "start": "73.662"
+        }, 
+        {
+            "text": "But now an infinitely large bus", 
+            "dur": "2.014", 
+            "start": "77.157"
+        }, 
+        {
+            "text": "with a countedly infinite\nnumber of passengers", 
+            "dur": "2.549", 
+            "start": "79.195"
+        }, 
+        {
+            "text": "pulls up to rent rooms.", 
+            "dur": "1.905", 
+            "start": "81.768"
+        }, 
+        {
+            "text": "Countedly infinite is the key.", 
+            "dur": "1.989", 
+            "start": "83.697"
+        }, 
+        {
+            "text": "Now, the infinite bus\nof infinite passengers", 
+            "dur": "2.366", 
+            "start": "86.164"
+        }, 
+        {
+            "text": "perplexes the night manager at first,", 
+            "dur": "1.964", 
+            "start": "88.554"
+        }, 
+        {
+            "text": "but he realizes there&#39;s a way", 
+            "dur": "1.468", 
+            "start": "90.542"
+        }, 
+        {
+            "text": "to place each new person.", 
+            "dur": "1.315", 
+            "start": "92.034"
+        }, 
+        {
+            "text": "He asks the guest in room 1\nto move to room 2.", 
+            "dur": "3.018", 
+            "start": "93.373"
+        }, 
+        {
+            "text": "He then asks the guest in room 2", 
+            "dur": "2.112", 
+            "start": "96.415"
+        }, 
+        {
+            "text": "to move to room 4,", 
+            "dur": "1.884", 
+            "start": "98.551"
+        }, 
+        {
+            "text": "the guest in room 3 to move to room 6,", 
+            "dur": "2.35", 
+            "start": "100.459"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.272", 
+            "start": "102.833"
+        }, 
+        {
+            "text": "Each current guest moves\nfrom room number &quot;n&quot;", 
+            "dur": "3.184", 
+            "start": "104.129"
+        }, 
+        {
+            "text": "to room number &quot;2n&quot; --", 
+            "dur": "1.692", 
+            "start": "107.337"
+        }, 
+        {
+            "text": "filling up only the infinite\neven-numbered rooms.", 
+            "dur": "3.253", 
+            "start": "110.807"
+        }, 
+        {
+            "text": "By doing this, he has now emptied", 
+            "dur": "1.845", 
+            "start": "114.084"
+        }, 
+        {
+            "text": "all of the infinitely many\nodd-numbered rooms,", 
+            "dur": "2.914", 
+            "start": "115.953"
+        }, 
+        {
+            "text": "which are then taken by the people\nfiling off the infinite bus.", 
+            "dur": "3.615", 
+            "start": "118.891"
+        }, 
+        {
+            "text": "Everyone&#39;s happy and the hotel&#39;s business\nis booming more than ever.", 
+            "dur": "3.633", 
+            "start": "123.242"
+        }, 
+        {
+            "text": "Well, actually, it is booming\nexactly the same amount as ever,", 
+            "dur": "3.517", 
+            "start": "126.899"
+        }, 
+        {
+            "text": "banking an infinite number\nof dollars a night.", 
+            "dur": "2.483", 
+            "start": "130.44"
+        }, 
+        {
+            "text": "Word spreads about this incredible hotel.", 
+            "dur": "2.279", 
+            "start": "134.076"
+        }, 
+        {
+            "text": "People pour in from far and wide.", 
+            "dur": "2.165", 
+            "start": "136.379"
+        }, 
+        {
+            "text": "One night, the unthinkable happens.", 
+            "dur": "2.274", 
+            "start": "138.568"
+        }, 
+        {
+            "text": "The night manager looks outside", 
+            "dur": "2.541", 
+            "start": "140.866"
+        }, 
+        {
+            "text": "and sees an infinite line\nof infinitely large buses,", 
+            "dur": "4.086", 
+            "start": "143.431"
+        }, 
+        {
+            "text": "each with a countedly infinite\nnumber of passengers.", 
+            "dur": "2.788", 
+            "start": "147.541"
+        }, 
+        {
+            "text": "What can he do?", 
+            "dur": "1.033", 
+            "start": "150.353"
+        }, 
+        {
+            "text": "If he cannot find rooms for them,\nthe hotel will lose out", 
+            "dur": "2.797", 
+            "start": "151.41"
+        }, 
+        {
+            "text": "on an infinite amount of money,", 
+            "dur": "1.727", 
+            "start": "154.231"
+        }, 
+        {
+            "text": "and he will surely lose his job.", 
+            "dur": "1.973", 
+            "start": "155.982"
+        }, 
+        {
+            "text": "Luckily, he remembers\nthat around the year 300 B.C.E.,", 
+            "dur": "3.811", 
+            "start": "157.979"
+        }, 
+        {
+            "text": "Euclid proved that there\nis an infinite quantity", 
+            "dur": "2.912", 
+            "start": "161.814"
+        }, 
+        {
+            "text": "of prime numbers.", 
+            "dur": "1.884", 
+            "start": "164.75"
+        }, 
+        {
+            "text": "So, to accomplish this\nseemingly impossible task", 
+            "dur": "2.288", 
+            "start": "167.372"
+        }, 
+        {
+            "text": "of finding infinite beds\nfor infinite buses", 
+            "dur": "2.601", 
+            "start": "169.684"
+        }, 
+        {
+            "text": "of infinite weary travelers,", 
+            "dur": "1.982", 
+            "start": "172.309"
+        }, 
+        {
+            "text": "the night manager assigns\nevery current guest", 
+            "dur": "2.867", 
+            "start": "174.315"
+        }, 
+        {
+            "text": "to the first prime number, 2,", 
+            "dur": "1.836", 
+            "start": "177.206"
+        }, 
+        {
+            "text": "raised to the power\nof their current room number.", 
+            "dur": "2.801", 
+            "start": "179.066"
+        }, 
+        {
+            "text": "So, the current occupant of room number 7", 
+            "dur": "2.644", 
+            "start": "181.891"
+        }, 
+        {
+            "text": "goes to room number 2^7,", 
+            "dur": "2.982", 
+            "start": "184.559"
+        }, 
+        {
+            "text": "which is room 128.", 
+            "dur": "1.696", 
+            "start": "187.565"
+        }, 
+        {
+            "text": "The night manager then takes the people\non the first of the infinite buses", 
+            "dur": "3.521", 
+            "start": "190.236"
+        }, 
+        {
+            "text": "and assigns them to the room number", 
+            "dur": "2.025", 
+            "start": "193.781"
+        }, 
+        {
+            "text": "of the next prime, 3,", 
+            "dur": "2.461", 
+            "start": "195.83"
+        }, 
+        {
+            "text": "raised to the power of their seat\nnumber on the bus.", 
+            "dur": "3.413", 
+            "start": "198.315"
+        }, 
+        {
+            "text": "So, the person in seat\nnumber 7 on the first bus", 
+            "dur": "3.507", 
+            "start": "201.752"
+        }, 
+        {
+            "text": "goes to room number 3^7", 
+            "dur": "3.077", 
+            "start": "205.283"
+        }, 
+        {
+            "text": "or room number 2,187.", 
+            "dur": "3.226", 
+            "start": "208.384"
+        }, 
+        {
+            "text": "This continues for all of the first bus.", 
+            "dur": "2.435", 
+            "start": "211.634"
+        }, 
+        {
+            "text": "The passengers on the second bus", 
+            "dur": "1.648", 
+            "start": "214.093"
+        }, 
+        {
+            "text": "are assigned powers of the next prime, 5.", 
+            "dur": "3.645", 
+            "start": "215.765"
+        }, 
+        {
+            "text": "The following bus, powers of 7.", 
+            "dur": "2.059", 
+            "start": "219.434"
+        }, 
+        {
+            "text": "Each bus follows:", 
+            "dur": "1.404", 
+            "start": "221.517"
+        }, 
+        {
+            "text": "powers of 11, powers of 13,", 
+            "dur": "1.801", 
+            "start": "222.945"
+        }, 
+        {
+            "text": "powers of 17, etc.", 
+            "dur": "2.029", 
+            "start": "224.77"
+        }, 
+        {
+            "text": "Since each of these numbers", 
+            "dur": "1.359", 
+            "start": "227.37"
+        }, 
+        {
+            "text": "only has 1 and the natural number powers", 
+            "dur": "2.215", 
+            "start": "228.753"
+        }, 
+        {
+            "text": "of their prime number base as factors,", 
+            "dur": "2.221", 
+            "start": "230.992"
+        }, 
+        {
+            "text": "there are no overlapping room numbers.", 
+            "dur": "2.149", 
+            "start": "233.237"
+        }, 
+        {
+            "text": "All the buses&#39; passengers\nfan out into rooms", 
+            "dur": "2.929", 
+            "start": "235.41"
+        }, 
+        {
+            "text": "using unique room-assignment schemes", 
+            "dur": "2.483", 
+            "start": "238.363"
+        }, 
+        {
+            "text": "based on unique prime numbers.", 
+            "dur": "2.616", 
+            "start": "240.87"
+        }, 
+        {
+            "text": "In this way, the night\nmanager can accommodate", 
+            "dur": "2.191", 
+            "start": "243.51"
+        }, 
+        {
+            "text": "every passenger on every bus.", 
+            "dur": "2.121", 
+            "start": "245.725"
+        }, 
+        {
+            "text": "Although, there will be\nmany rooms that go unfilled,", 
+            "dur": "3.194", 
+            "start": "247.87"
+        }, 
+        {
+            "text": "like room 6,", 
+            "dur": "1.268", 
+            "start": "251.088"
+        }, 
+        {
+            "text": "since 6 is not a power\nof any prime number.", 
+            "dur": "2.715", 
+            "start": "252.38"
+        }, 
+        {
+            "text": "Luckily, his bosses\nweren&#39;t very good in math,", 
+            "dur": "2.393", 
+            "start": "255.119"
+        }, 
+        {
+            "text": "so his job is safe.", 
+            "dur": "1.339", 
+            "start": "257.536"
+        }, 
+        {
+            "text": "The night manager&#39;s strategies\nare only possible", 
+            "dur": "2.5", 
+            "start": "259.507"
+        }, 
+        {
+            "text": "because while the Infinite Hotel\nis certainly a logistical nightmare,", 
+            "dur": "4.593", 
+            "start": "262.031"
+        }, 
+        {
+            "text": "it only deals with the lowest\nlevel of infinity,", 
+            "dur": "3.309", 
+            "start": "266.648"
+        }, 
+        {
+            "text": "mainly, the countable infinity\nof the natural numbers,", 
+            "dur": "3.532", 
+            "start": "269.981"
+        }, 
+        {
+            "text": "1, 2, 3, 4, and so on.", 
+            "dur": "3.057", 
+            "start": "273.537"
+        }, 
+        {
+            "text": "Georg Cantor called this level\nof infinity aleph-zero.", 
+            "dur": "3.895", 
+            "start": "276.618"
+        }, 
+        {
+            "text": "We use natural numbers\nfor the room numbers", 
+            "dur": "2.097", 
+            "start": "280.945"
+        }, 
+        {
+            "text": "as well as the seat numbers on the buses.", 
+            "dur": "2.122", 
+            "start": "283.066"
+        }, 
+        {
+            "text": "If we were dealing\nwith higher orders of infinity,", 
+            "dur": "2.339", 
+            "start": "285.913"
+        }, 
+        {
+            "text": "such as that of the real numbers,", 
+            "dur": "1.572", 
+            "start": "288.276"
+        }, 
+        {
+            "text": "these structured strategies\nwould no longer be possible", 
+            "dur": "2.972", 
+            "start": "289.872"
+        }, 
+        {
+            "text": "as we have no way\nto systematically include every number.", 
+            "dur": "3.537", 
+            "start": "292.868"
+        }, 
+        {
+            "text": "The Real Number Infinite Hotel", 
+            "dur": "1.801", 
+            "start": "297.002"
+        }, 
+        {
+            "text": "has negative number rooms in the basement,", 
+            "dur": "2.078", 
+            "start": "298.827"
+        }, 
+        {
+            "text": "fractional rooms,", 
+            "dur": "1.435", 
+            "start": "300.929"
+        }, 
+        {
+            "text": "so the guy in room 1/2 always suspects", 
+            "dur": "2.096", 
+            "start": "302.388"
+        }, 
+        {
+            "text": "he has less room than the guy in room 1.", 
+            "dur": "2.673", 
+            "start": "304.508"
+        }, 
+        {
+            "text": "Square root rooms, like room radical 2,", 
+            "dur": "3.103", 
+            "start": "307.205"
+        }, 
+        {
+            "text": "and room pi,", 
+            "dur": "1.106", 
+            "start": "310.332"
+        }, 
+        {
+            "text": "where the guests expect free dessert.", 
+            "dur": "2.863", 
+            "start": "311.462"
+        }, 
+        {
+            "text": "What self-respecting night manager\nwould ever want to work there", 
+            "dur": "3.025", 
+            "start": "314.349"
+        }, 
+        {
+            "text": "even for an infinite salary?", 
+            "dur": "1.607", 
+            "start": "317.398"
+        }, 
+        {
+            "text": "But over at Hilbert&#39;s Infinite Hotel,", 
+            "dur": "1.889", 
+            "start": "319.029"
+        }, 
+        {
+            "text": "where there&#39;s never any vacancy", 
+            "dur": "1.478", 
+            "start": "320.942"
+        }, 
+        {
+            "text": "and always room for more,", 
+            "dur": "1.56", 
+            "start": "322.444"
+        }, 
+        {
+            "text": "the scenarios faced by the ever-diligent", 
+            "dur": "2.898", 
+            "start": "324.028"
+        }, 
+        {
+            "text": "and maybe too hospitable night manager", 
+            "dur": "1.81", 
+            "start": "326.95"
+        }, 
+        {
+            "text": "serve to remind us of just how hard it is", 
+            "dur": "2.706", 
+            "start": "328.784"
+        }, 
+        {
+            "text": "for our relatively finite minds", 
+            "dur": "2.391", 
+            "start": "331.514"
+        }, 
+        {
+            "text": "to grasp a concept as large as infinity.", 
+            "dur": "2.838", 
+            "start": "333.929"
+        }, 
+        {
+            "text": "Maybe you can help tackle these problems", 
+            "dur": "1.951", 
+            "start": "337.132"
+        }, 
+        {
+            "text": "after a good night&#39;s sleep.", 
+            "dur": "1.296", 
+            "start": "339.107"
+        }, 
+        {
+            "text": "But honestly, we might need you", 
+            "dur": "1.849", 
+            "start": "340.427"
+        }, 
+        {
+            "text": "to change rooms at 2 a.m.", 
+            "dur": "2.401", 
+            "start": "342.3"
+        }
+    ], 
+    "title": "The Infinite Hotel Paradox - Jeff Dekofsky", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/09fc5", 
+        "/m/03zl7"
+    ], 
+    "number_views": 685101, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

@@ -1,0 +1,1790 @@
+{
+    "publish_date": "2013-06-12T12:55:12.000Z", 
+    "video_length": "PT13M41S", 
+    "captions": [
+        {
+            "text": "SIMON PAMPENA: It&#39;s\nmind blowing.", 
+            "dur": "2", 
+            "start": "0.47"
+        }, 
+        {
+            "text": "I learned this when I was\nat uni, the existence of", 
+            "dur": "3", 
+            "start": "2.47"
+        }, 
+        {
+            "text": "transcendental numbers.", 
+            "dur": "1.54", 
+            "start": "5.47"
+        }, 
+        {
+            "text": "And the name was a\nselling point.", 
+            "dur": "1.67", 
+            "start": "7.01"
+        }, 
+        {
+            "text": "Because I was like,\ntranscendental.", 
+            "dur": "1.05", 
+            "start": "8.68"
+        }, 
+        {
+            "text": "You know, it&#39;s a time when\nyou&#39;re really interested in,", 
+            "dur": "3.14", 
+            "start": "9.73"
+        }, 
+        {
+            "text": "like, out of body experiences\nand whatnot.", 
+            "dur": "2.53", 
+            "start": "12.87"
+        }, 
+        {
+            "text": "But the idea that mathematicians\ngave this name", 
+            "dur": "3.57", 
+            "start": "15.4"
+        }, 
+        {
+            "text": "to numbers, numbers, these\nare numbers that", 
+            "dur": "3.13", 
+            "start": "18.97"
+        }, 
+        {
+            "text": "you&#39;re familiar with.", 
+            "dur": "0.74", 
+            "start": "22.1"
+        }, 
+        {
+            "text": "Like pi, you can write down\nas a decimal expansion.", 
+            "dur": "3.68", 
+            "start": "22.84"
+        }, 
+        {
+            "text": "You&#39;ll never get it right, but\nit&#39;s just a number that you&#39;re", 
+            "dur": "2.55", 
+            "start": "26.52"
+        }, 
+        {
+            "text": "familiar with.", 
+            "dur": "1.06", 
+            "start": "29.07"
+        }, 
+        {
+            "text": "Has this property that we\njust didn&#39;t know about.", 
+            "dur": "3.1", 
+            "start": "30.13"
+        }, 
+        {
+            "text": "OK, we&#39;re going to play a game,\nand we&#39;re going to try", 
+            "dur": "1.62", 
+            "start": "33.23"
+        }, 
+        {
+            "text": "and understand transcendental\nnumbers with this game.", 
+            "dur": "3.75", 
+            "start": "34.85"
+        }, 
+        {
+            "text": "The game is reducing\ndown numbers to 0.", 
+            "dur": "3.55", 
+            "start": "38.6"
+        }, 
+        {
+            "text": "That&#39;s what you want to do.", 
+            "dur": "0.98", 
+            "start": "42.15"
+        }, 
+        {
+            "text": "So the rules are you can only\nuse whole numbers to do it,", 
+            "dur": "3.57", 
+            "start": "43.13"
+        }, 
+        {
+            "text": "and you can add, take, multiply,\nand put the whole", 
+            "dur": "5.27", 
+            "start": "46.7"
+        }, 
+        {
+            "text": "thing to any power you like,\nbut it has to be a whole", 
+            "dur": "2.09", 
+            "start": "51.97"
+        }, 
+        {
+            "text": "number power.", 
+            "dur": "0.96", 
+            "start": "54.06"
+        }, 
+        {
+            "text": "OK, so let&#39;s play the game.", 
+            "dur": "1.13", 
+            "start": "55.02"
+        }, 
+        {
+            "text": "OK, so do you have a\nfavorite number?", 
+            "dur": "2.613", 
+            "start": "56.15"
+        }, 
+        {
+            "text": "BRADY HARAN: Well, I\nlike the number 10.", 
+            "dur": "1.737", 
+            "start": "58.763"
+        }, 
+        {
+            "text": "SIMON PAMPENA: 10?", 
+            "dur": "0.49", 
+            "start": "60.5"
+        }, 
+        {
+            "text": "BRADY HARAN: Yeah, but that\nseems like quite an easy one.", 
+            "dur": "1.07", 
+            "start": "60.99"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Sure.", 
+            "dur": "0.56", 
+            "start": "62.06"
+        }, 
+        {
+            "text": "That&#39;s fine.", 
+            "dur": "0.69", 
+            "start": "62.62"
+        }, 
+        {
+            "text": "You mean 10 in base 10?", 
+            "dur": "1.709", 
+            "start": "63.31"
+        }, 
+        {
+            "text": "BRADY HARAN: 10 in base 10.", 
+            "dur": "0.791", 
+            "start": "65.019"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Yeah, OK.", 
+            "dur": "0.45", 
+            "start": "65.81"
+        }, 
+        {
+            "text": "So 10 in base 10.", 
+            "dur": "0.97", 
+            "start": "66.26"
+        }, 
+        {
+            "text": "OK, here we go.", 
+            "dur": "0.65", 
+            "start": "67.23"
+        }, 
+        {
+            "text": "Let&#39;s start the game.", 
+            "dur": "0.83", 
+            "start": "67.88"
+        }, 
+        {
+            "text": "So we want to get this down to\n0, so the first thing we could", 
+            "dur": "2.82", 
+            "start": "68.71"
+        }, 
+        {
+            "text": "do is multiply it by 0.", 
+            "dur": "3.16", 
+            "start": "71.53"
+        }, 
+        {
+            "text": "But that you can do with any\nnumber, because any number", 
+            "dur": "2.76", 
+            "start": "74.69"
+        }, 
+        {
+            "text": "times 0 is--", 
+            "dur": "1.5", 
+            "start": "77.45"
+        }, 
+        {
+            "text": "BRADY HARAN: 0.", 
+            "dur": "1.13", 
+            "start": "78.95"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Bingo.", 
+            "dur": "0.55", 
+            "start": "80.08"
+        }, 
+        {
+            "text": "You can do that, but that&#39;s\nnot very interesting.", 
+            "dur": "2.13", 
+            "start": "80.63"
+        }, 
+        {
+            "text": "But what is interesting is that\nif we try and use these", 
+            "dur": "3.03", 
+            "start": "82.76"
+        }, 
+        {
+            "text": "rules, we can go, OK, what\nhappens if I take", 
+            "dur": "2.89", 
+            "start": "85.79"
+        }, 
+        {
+            "text": "away 10 from this?", 
+            "dur": "2.81", 
+            "start": "88.68"
+        }, 
+        {
+            "text": "We&#39;re done.", 
+            "dur": "1.53", 
+            "start": "91.49"
+        }, 
+        {
+            "text": "So there you go.", 
+            "dur": "0.8", 
+            "start": "93.02"
+        }, 
+        {
+            "text": "So that sounds kind of trivial,\nbut it&#39;s a really", 
+            "dur": "3", 
+            "start": "93.82"
+        }, 
+        {
+            "text": "good start.", 
+            "dur": "1.25", 
+            "start": "96.82"
+        }, 
+        {
+            "text": "So we used a whole number,\nand we used the take.", 
+            "dur": "1.54", 
+            "start": "98.07"
+        }, 
+        {
+            "text": "What about something else?", 
+            "dur": "1", 
+            "start": "99.61"
+        }, 
+        {
+            "text": "How about 3/4?", 
+            "dur": "2.52", 
+            "start": "100.61"
+        }, 
+        {
+            "text": "First of all, let&#39;s\nmultiply it by 4.", 
+            "dur": "3.25", 
+            "start": "103.13"
+        }, 
+        {
+            "text": "OK, so these things\nwill cancel.", 
+            "dur": "1.41", 
+            "start": "106.38"
+        }, 
+        {
+            "text": "You get 3.", 
+            "dur": "0.95", 
+            "start": "107.79"
+        }, 
+        {
+            "text": "Now we can take away\n3, we&#39;ll get 0.", 
+            "dur": "3.38", 
+            "start": "108.74"
+        }, 
+        {
+            "text": "Excellent.", 
+            "dur": "0.8", 
+            "start": "112.12"
+        }, 
+        {
+            "text": "But what about something\ncrazier?", 
+            "dur": "1.56", 
+            "start": "112.92"
+        }, 
+        {
+            "text": "What about like a really\ncrazy number?", 
+            "dur": "1.74", 
+            "start": "114.48"
+        }, 
+        {
+            "text": "What about like, the\nsquare root of 2?", 
+            "dur": "3.6", 
+            "start": "116.22"
+        }, 
+        {
+            "text": "I think you guys know about\nthe square of 2.", 
+            "dur": "1.89", 
+            "start": "119.82"
+        }, 
+        {
+            "text": "BRADY HARAN: Yes, we do.", 
+            "dur": "0.57", 
+            "start": "121.71"
+        }, 
+        {
+            "text": "That&#39;s irrational, isn&#39;t it?", 
+            "dur": "1.28", 
+            "start": "122.28"
+        }, 
+        {
+            "text": "SIMON PAMPENA: It&#39;s an\nirrational number, and", 
+            "dur": "1.32", 
+            "start": "123.56"
+        }, 
+        {
+            "text": "irrational means it can&#39;t be\nexpressed as a fraction.", 
+            "dur": "2.87", 
+            "start": "124.88"
+        }, 
+        {
+            "text": "So the square root of 2 is kind\nof a very strange number,", 
+            "dur": "3.02", 
+            "start": "127.75"
+        }, 
+        {
+            "text": "and so this little thing here,\nI often say this little thing", 
+            "dur": "3.83", 
+            "start": "130.77"
+        }, 
+        {
+            "text": "here is like a little\nsentence.", 
+            "dur": "0.895", 
+            "start": "134.6"
+        }, 
+        {
+            "text": "It says, what number multiplied\nby itself gives you", 
+            "dur": "2.895", 
+            "start": "135.495"
+        }, 
+        {
+            "text": "this number?", 
+            "dur": "0.495", 
+            "start": "138.39"
+        }, 
+        {
+            "text": "That&#39;s the way I think of\nthe square root sign.", 
+            "dur": "2.625", 
+            "start": "138.885"
+        }, 
+        {
+            "text": "So I don&#39;t know what number\nmultiplied by itself gives me", 
+            "dur": "2.89", 
+            "start": "141.51"
+        }, 
+        {
+            "text": "2, but that doesn&#39;t matter.", 
+            "dur": "1.6", 
+            "start": "144.4"
+        }, 
+        {
+            "text": "Now, what we&#39;ll do is\nto try and get this", 
+            "dur": "1.85", 
+            "start": "146"
+        }, 
+        {
+            "text": "one down to 0, OK?", 
+            "dur": "2.11", 
+            "start": "147.85"
+        }, 
+        {
+            "text": "First of all, we&#39;ll have to--", 
+            "dur": "1.51", 
+            "start": "149.96"
+        }, 
+        {
+            "text": "BRADY HARAN: OK, that, I\nreckon I can do that.", 
+            "dur": "1.16", 
+            "start": "151.47"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Well, tell me.", 
+            "dur": "0.12", 
+            "start": "152.63"
+        }, 
+        {
+            "text": "BRADY HARAN: I reckon if we\nraise that to a power--", 
+            "dur": "4.03", 
+            "start": "152.75"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Yep.", 
+            "dur": "0.51", 
+            "start": "156.78"
+        }, 
+        {
+            "text": "What power?", 
+            "dur": "0.74", 
+            "start": "157.29"
+        }, 
+        {
+            "text": "BRADY HARAN: Let&#39;s raise\nit to the power of 2?", 
+            "dur": "2.88", 
+            "start": "158.03"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Correct,\nso that&#39;s", 
+            "dur": "0.75", 
+            "start": "160.91"
+        }, 
+        {
+            "text": "multiplying it by itself.", 
+            "dur": "1.24", 
+            "start": "161.66"
+        }, 
+        {
+            "text": "And then what do you\nget in the middle?", 
+            "dur": "2.678", 
+            "start": "162.9"
+        }, 
+        {
+            "text": "BRADY HARAN: You&#39;re going\nto get 2, I&#39;d bet.", 
+            "dur": "1.382", 
+            "start": "165.578"
+        }, 
+        {
+            "text": "SIMON PAMPENA: That&#39;s right.", 
+            "dur": "0.47", 
+            "start": "166.96"
+        }, 
+        {
+            "text": "So now you&#39;ve got 2 in there,\nso what are you going to do?", 
+            "dur": "1.79", 
+            "start": "167.43"
+        }, 
+        {
+            "text": "BRADY HARAN: Subtract 2.", 
+            "dur": "0.81", 
+            "start": "169.22"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Yes!", 
+            "dur": "0.81", 
+            "start": "170.03"
+        }, 
+        {
+            "text": "So look at that.", 
+            "dur": "0.56", 
+            "start": "170.84"
+        }, 
+        {
+            "text": "So you&#39;ve just taken an\nirrational number, and with", 
+            "dur": "2.95", 
+            "start": "171.4"
+        }, 
+        {
+            "text": "this game you&#39;ve brought\nit down to 0.", 
+            "dur": "1.52", 
+            "start": "174.35"
+        }, 
+        {
+            "text": "How about the square\nroot of negative 1?", 
+            "dur": "4.14", 
+            "start": "175.87"
+        }, 
+        {
+            "text": "We&#39;ve gone from numbers that\nyou know and love to", 
+            "dur": "3.01", 
+            "start": "180.01"
+        }, 
+        {
+            "text": "fractions, OK, to irrational.", 
+            "dur": "3.07", 
+            "start": "183.02"
+        }, 
+        {
+            "text": "This is irrational numbers.", 
+            "dur": "1.19", 
+            "start": "186.09"
+        }, 
+        {
+            "text": "Now we&#39;ve gone into what they\ncall complex, or some people", 
+            "dur": "3.25", 
+            "start": "187.28"
+        }, 
+        {
+            "text": "call imaginary, which is\na terrible name for it.", 
+            "dur": "2.9", 
+            "start": "190.53"
+        }, 
+        {
+            "text": "OK, so what can you do to\nthis one here to try and", 
+            "dur": "1.96", 
+            "start": "193.43"
+        }, 
+        {
+            "text": "get it down to 0?", 
+            "dur": "0.9", 
+            "start": "195.39"
+        }, 
+        {
+            "text": "BRADY HARAN: Well, I&#39;m just\ngoing to square it and add 1.", 
+            "dur": "2.615", 
+            "start": "196.29"
+        }, 
+        {
+            "text": "SIMON PAMPENA: There you go.", 
+            "dur": "1.235", 
+            "start": "198.905"
+        }, 
+        {
+            "text": "No flies on you, mate.", 
+            "dur": "1.73", 
+            "start": "200.14"
+        }, 
+        {
+            "text": "So there you go.", 
+            "dur": "0.6", 
+            "start": "201.87"
+        }, 
+        {
+            "text": "So we&#39;ve been able to play this\ngame with three or four", 
+            "dur": "3.99", 
+            "start": "202.47"
+        }, 
+        {
+            "text": "very different types of numbers,\nquite special.", 
+            "dur": "2.63", 
+            "start": "206.46"
+        }, 
+        {
+            "text": "But what about something else?", 
+            "dur": "1.08", 
+            "start": "209.09"
+        }, 
+        {
+            "text": "What about the square root of\n2 plus the square root of 3?", 
+            "dur": "4.56", 
+            "start": "210.17"
+        }, 
+        {
+            "text": "What can you do with that?", 
+            "dur": "1.78", 
+            "start": "214.73"
+        }, 
+        {
+            "text": "So, let&#39;s see.", 
+            "dur": "0.97", 
+            "start": "216.51"
+        }, 
+        {
+            "text": "The square root of 2 plus\nthe square root of 3.", 
+            "dur": "2.47", 
+            "start": "217.48"
+        }, 
+        {
+            "text": "Now we&#39;re gonna square it.", 
+            "dur": "1.95", 
+            "start": "219.95"
+        }, 
+        {
+            "text": "OK, so this is a little bit\nof high school maths.", 
+            "dur": "2.73", 
+            "start": "221.9"
+        }, 
+        {
+            "text": "2 plus 2 times this by this,\nwhich is 2 the square root of", 
+            "dur": "4.51", 
+            "start": "224.63"
+        }, 
+        {
+            "text": "2 times square root of\n3 plus this squared.", 
+            "dur": "2.87", 
+            "start": "229.14"
+        }, 
+        {
+            "text": "So that&#39;s 3.", 
+            "dur": "0.85", 
+            "start": "232.01"
+        }, 
+        {
+            "text": "So this reduces down to 5 plus\n2 by the square root of 2 by", 
+            "dur": "3.58", 
+            "start": "232.86"
+        }, 
+        {
+            "text": "the square root of 3.", 
+            "dur": "1.13", 
+            "start": "236.44"
+        }, 
+        {
+            "text": "OK, so this is what\nwe&#39;ve done.", 
+            "dur": "1.46", 
+            "start": "237.57"
+        }, 
+        {
+            "text": "We&#39;ve done that there, but\nlook what&#39;s popped out.", 
+            "dur": "2.8", 
+            "start": "239.03"
+        }, 
+        {
+            "text": "A number that we can use,\na whole number.", 
+            "dur": "1.61", 
+            "start": "241.83"
+        }, 
+        {
+            "text": "So what we&#39;ll do is on this\nside, we&#39;ll go 5 plus 2 by the", 
+            "dur": "3.05", 
+            "start": "243.44"
+        }, 
+        {
+            "text": "square root of 2 by the square\nroot of 3, and now", 
+            "dur": "1.67", 
+            "start": "246.49"
+        }, 
+        {
+            "text": "we&#39;ll take away 5.", 
+            "dur": "1.81", 
+            "start": "248.16"
+        }, 
+        {
+            "text": "So we&#39;ll end up getting 2 by\nthe square root of 2 by the", 
+            "dur": "2.68", 
+            "start": "249.97"
+        }, 
+        {
+            "text": "square root of 3.", 
+            "dur": "0.82", 
+            "start": "252.65"
+        }, 
+        {
+            "text": "And this is good, because\nthere&#39;s no", 
+            "dur": "2.09", 
+            "start": "253.47"
+        }, 
+        {
+            "text": "plus sign in the middle.", 
+            "dur": "1.5", 
+            "start": "255.56"
+        }, 
+        {
+            "text": "What can we do next?", 
+            "dur": "1.019", 
+            "start": "257.06"
+        }, 
+        {
+            "text": "Well, we&#39;re going to\nsquare all of that.", 
+            "dur": "2.26", 
+            "start": "258.079"
+        }, 
+        {
+            "text": "So 2 squared is 4, and the\nsquare root of 2 squared is 2.", 
+            "dur": "5.061", 
+            "start": "260.339"
+        }, 
+        {
+            "text": "And the square root\nof 3 squared is 3.", 
+            "dur": "3.19", 
+            "start": "265.4"
+        }, 
+        {
+            "text": "OK, so that dot is another\nway of saying times.", 
+            "dur": "2.45", 
+            "start": "268.59"
+        }, 
+        {
+            "text": "And so that one is 2/8,\ntwo 4&#39;s are eight,", 
+            "dur": "2.62", 
+            "start": "271.04"
+        }, 
+        {
+            "text": "eight 3&#39;s 24, done.", 
+            "dur": "2.32", 
+            "start": "273.66"
+        }, 
+        {
+            "text": "So if we go 24, take 24,\nboom, we get down to 0.", 
+            "dur": "5.03", 
+            "start": "275.98"
+        }, 
+        {
+            "text": "What I wanted to show you, the\nreason why I wanted to show", 
+            "dur": "1.64", 
+            "start": "281.01"
+        }, 
+        {
+            "text": "you this is because all these\ndifferent numbers look very", 
+            "dur": "2.12", 
+            "start": "282.65"
+        }, 
+        {
+            "text": "complicated, unrelated,\nbut let me show you.", 
+            "dur": "3.11", 
+            "start": "284.77"
+        }, 
+        {
+            "text": "Now, let&#39;s replace all the\nnumbers we put in with x.", 
+            "dur": "3.462", 
+            "start": "287.88"
+        }, 
+        {
+            "text": "x take 10 is 0, 4x take 3 is\n0, x squared take 2 is 0, x", 
+            "dur": "8.368", 
+            "start": "291.342"
+        }, 
+        {
+            "text": "squared plus 1 is 0, and this\none is x squared take 5, all", 
+            "dur": "4.98", 
+            "start": "299.71"
+        }, 
+        {
+            "text": "squared, take 24 equals\n0, which if we", 
+            "dur": "3.66", 
+            "start": "304.69"
+        }, 
+        {
+            "text": "expand out, so look.", 
+            "dur": "2.87", 
+            "start": "308.35"
+        }, 
+        {
+            "text": "These all look like\nalgebra problems.", 
+            "dur": "4.12", 
+            "start": "311.22"
+        }, 
+        {
+            "text": "So what we did was in our game,\nwe picked numbers, and", 
+            "dur": "3.02", 
+            "start": "315.34"
+        }, 
+        {
+            "text": "we tried to get them to 0.", 
+            "dur": "1.02", 
+            "start": "318.36"
+        }, 
+        {
+            "text": "But the opposite could have been\nhere, let&#39;s solve for x.", 
+            "dur": "4.71", 
+            "start": "319.38"
+        }, 
+        {
+            "text": "Now, this is the stuff that\nyou get taught in school.", 
+            "dur": "2.42", 
+            "start": "324.09"
+        }, 
+        {
+            "text": "This is algebra, and it so\nhappens that the family that", 
+            "dur": "4.87", 
+            "start": "326.51"
+        }, 
+        {
+            "text": "all these numbers belong to,\neven the square root of", 
+            "dur": "3", 
+            "start": "331.38"
+        }, 
+        {
+            "text": "negative 1, is algebraic\nnumbers.", 
+            "dur": "3.81", 
+            "start": "334.38"
+        }, 
+        {
+            "text": "So we&#39;ve actually found a home\nfor some of the biggest stars", 
+            "dur": "3.73", 
+            "start": "338.19"
+        }, 
+        {
+            "text": "of maths, the numbers that have\ncaused huge problems and", 
+            "dur": "3.39", 
+            "start": "341.92"
+        }, 
+        {
+            "text": "schisms, what is the square\nroot of negative 1?", 
+            "dur": "2.29", 
+            "start": "345.31"
+        }, 
+        {
+            "text": "Square root of 2 from\nthe ancient times,", 
+            "dur": "2.07", 
+            "start": "347.6"
+        }, 
+        {
+            "text": "the Pythagorean times.", 
+            "dur": "1.21", 
+            "start": "349.67"
+        }, 
+        {
+            "text": "People died because\nof this number.", 
+            "dur": "2.19", 
+            "start": "350.88"
+        }, 
+        {
+            "text": "But somehow we&#39;ve found a family\nfor these numbers,", 
+            "dur": "2.72", 
+            "start": "353.07"
+        }, 
+        {
+            "text": "algebraic numbers.", 
+            "dur": "1.36", 
+            "start": "355.79"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "1.04", 
+            "start": "357.15"
+        }, 
+        {
+            "text": "So next, we&#39;re going to need\nanother sheet of paper.", 
+            "dur": "3.5", 
+            "start": "358.19"
+        }, 
+        {
+            "text": "We&#39;ve chosen some numbers.", 
+            "dur": "2.08", 
+            "start": "361.69"
+        }, 
+        {
+            "text": "What about a special number?", 
+            "dur": "1.93", 
+            "start": "363.77"
+        }, 
+        {
+            "text": "What about e?", 
+            "dur": "2.14", 
+            "start": "365.7"
+        }, 
+        {
+            "text": "Now this number here--", 
+            "dur": "1.68", 
+            "start": "367.84"
+        }, 
+        {
+            "text": "if you&#39;re not familiar with\nit-- this number is a", 
+            "dur": "2.25", 
+            "start": "369.52"
+        }, 
+        {
+            "text": "fantastic number for maths.", 
+            "dur": "1.8", 
+            "start": "371.77"
+        }, 
+        {
+            "text": "And what it is is that if it&#39;s a\nfunction, a function of e to", 
+            "dur": "4.073", 
+            "start": "373.57"
+        }, 
+        {
+            "text": "the x, e to any number that\nyou raise it to, OK?", 
+            "dur": "3.297", 
+            "start": "377.643"
+        }, 
+        {
+            "text": "On the graph, when you graph\nit like so, the y value is", 
+            "dur": "4.85", 
+            "start": "380.94"
+        }, 
+        {
+            "text": "also at the slope of the\ntangent at that point.", 
+            "dur": "2.61", 
+            "start": "385.79"
+        }, 
+        {
+            "text": "So it&#39;s really, really important\nto natural growth.", 
+            "dur": "2.19", 
+            "start": "388.4"
+        }, 
+        {
+            "text": "It&#39;s like a really\nfantastic number.", 
+            "dur": "1.66", 
+            "start": "390.59"
+        }, 
+        {
+            "text": "It means a lot to life, really,\nbut it&#39;s actually a", 
+            "dur": "2.21", 
+            "start": "392.25"
+        }, 
+        {
+            "text": "super crazy number.", 
+            "dur": "1.54", 
+            "start": "394.46"
+        }, 
+        {
+            "text": "Super, super crazy.", 
+            "dur": "1.65", 
+            "start": "396"
+        }, 
+        {
+            "text": "One of the expressions I can\nshow you for it is actually an", 
+            "dur": "2.94", 
+            "start": "397.65"
+        }, 
+        {
+            "text": "infinite sum.", 
+            "dur": "0.9", 
+            "start": "400.59"
+        }, 
+        {
+            "text": "So I&#39;m going to blow you away.", 
+            "dur": "1.67", 
+            "start": "401.49"
+        }, 
+        {
+            "text": "It&#39;s 1 plus 1 on 1 plus 1 on 2\nplus 1 on 6 plus 1 on 20--", 
+            "dur": "9.21", 
+            "start": "403.16"
+        }, 
+        {
+            "text": "anyway, it keeps going\nforever and ever.", 
+            "dur": "1.35", 
+            "start": "412.37"
+        }, 
+        {
+            "text": "But can we play the game\nwith this number?", 
+            "dur": "2.26", 
+            "start": "413.72"
+        }, 
+        {
+            "text": "Can we bring this number\ndown to 0 using the", 
+            "dur": "3.52", 
+            "start": "415.98"
+        }, 
+        {
+            "text": "rules of our game?", 
+            "dur": "1.72", 
+            "start": "419.5"
+        }, 
+        {
+            "text": "BRADY HARAN: Can we do\nit with algebra?", 
+            "dur": "1.33", 
+            "start": "421.22"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Can we\ndo it with algebra?", 
+            "dur": "1.58", 
+            "start": "422.55"
+        }, 
+        {
+            "text": "That&#39;s right.", 
+            "dur": "0.27", 
+            "start": "424.13"
+        }, 
+        {
+            "text": "BRADY HARAN: All right.", 
+            "dur": "1.34", 
+            "start": "424.4"
+        }, 
+        {
+            "text": "Can we?", 
+            "dur": "0.72", 
+            "start": "425.74"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Well, for ages\nand ages and ages, e&#39;s been", 
+            "dur": "2.61", 
+            "start": "426.46"
+        }, 
+        {
+            "text": "around for about 400 years.", 
+            "dur": "1.42", 
+            "start": "429.07"
+        }, 
+        {
+            "text": "Nobody really knew.", 
+            "dur": "1", 
+            "start": "430.49"
+        }, 
+        {
+            "text": "I mean, this number\nis really, really", 
+            "dur": "1.38", 
+            "start": "431.49"
+        }, 
+        {
+            "text": "important, and no one knew.", 
+            "dur": "2.04", 
+            "start": "432.87"
+        }, 
+        {
+            "text": "It so happens, we can&#39;t.", 
+            "dur": "2.58", 
+            "start": "434.91"
+        }, 
+        {
+            "text": "BRADY HARAN: It can&#39;t be done.", 
+            "dur": "1.32", 
+            "start": "437.49"
+        }, 
+        {
+            "text": "SIMON PAMPENA: It can&#39;t be done,\nand I&#39;ll show you why.", 
+            "dur": "2.15", 
+            "start": "438.81"
+        }, 
+        {
+            "text": "Well, I&#39;ll kind of try and show\nyou why, because it&#39;s", 
+            "dur": "1.77", 
+            "start": "440.96"
+        }, 
+        {
+            "text": "actually really tricky.", 
+            "dur": "1.445", 
+            "start": "442.73"
+        }, 
+        {
+            "text": "But it was a guy called Charles\nHermite, and he", 
+            "dur": "4.245", 
+            "start": "444.175"
+        }, 
+        {
+            "text": "basically showed--", 
+            "dur": "1.17", 
+            "start": "448.42"
+        }, 
+        {
+            "text": "right, so I&#39;m going to use these\nsymbols here, because I", 
+            "dur": "2.31", 
+            "start": "449.59"
+        }, 
+        {
+            "text": "don&#39;t know what the\nformula will be.", 
+            "dur": "2.49", 
+            "start": "451.9"
+        }, 
+        {
+            "text": "He basically showed if you try\nand play the game, right,", 
+            "dur": "2.75", 
+            "start": "454.39"
+        }, 
+        {
+            "text": "bringing e to any power that\nyou want, whole power and", 
+            "dur": "3.38", 
+            "start": "457.14"
+        }, 
+        {
+            "text": "timesing it by any\nwhole number.", 
+            "dur": "1.87", 
+            "start": "460.52"
+        }, 
+        {
+            "text": "So if you claim that there does\nexist some bit of algebra", 
+            "dur": "4.31", 
+            "start": "462.39"
+        }, 
+        {
+            "text": "that you can bring it down to 0,\nhe showed that you&#39;ll lead", 
+            "dur": "2.71", 
+            "start": "466.7"
+        }, 
+        {
+            "text": "to a contradiction.", 
+            "dur": "0.93", 
+            "start": "469.41"
+        }, 
+        {
+            "text": "Basically, he showed that there\nwas a number, a whole", 
+            "dur": "3.22", 
+            "start": "470.34"
+        }, 
+        {
+            "text": "number that existed\nbetween 0 and 1.", 
+            "dur": "2.12", 
+            "start": "473.56"
+        }, 
+        {
+            "text": "Obviously, there&#39;s not.", 
+            "dur": "2.74", 
+            "start": "475.68"
+        }, 
+        {
+            "text": "Obviously, there&#39;s not.", 
+            "dur": "1.12", 
+            "start": "478.42"
+        }, 
+        {
+            "text": "But this is what you do in\nmaths, is that if you want to", 
+            "dur": "2.95", 
+            "start": "479.54"
+        }, 
+        {
+            "text": "show you something is\nimpossible, you kind of assume", 
+            "dur": "4.39", 
+            "start": "482.49"
+        }, 
+        {
+            "text": "that it&#39;s true, and then you\nshow that it creates a", 
+            "dur": "2.37", 
+            "start": "486.88"
+        }, 
+        {
+            "text": "contradiction.", 
+            "dur": "1.38", 
+            "start": "489.25"
+        }, 
+        {
+            "text": "So this is amazing.", 
+            "dur": "1.1", 
+            "start": "490.63"
+        }, 
+        {
+            "text": "So this is what Hermite\ndiscovered, and this is", 
+            "dur": "3.11", 
+            "start": "491.73"
+        }, 
+        {
+            "text": "really, really a fantastic--", 
+            "dur": "1.58", 
+            "start": "494.84"
+        }, 
+        {
+            "text": "I mean, everyone should be\nexcited by this, because e is", 
+            "dur": "4.93", 
+            "start": "496.42"
+        }, 
+        {
+            "text": "not algebraic.", 
+            "dur": "2.74", 
+            "start": "501.35"
+        }, 
+        {
+            "text": "So what number is it?", 
+            "dur": "2.09", 
+            "start": "504.09"
+        }, 
+        {
+            "text": "Well, it somehow transcends what\nwe&#39;re capable of doing.", 
+            "dur": "2.87", 
+            "start": "506.18"
+        }, 
+        {
+            "text": "The thing with algebra is that&#39;s\nhow we build numbers.", 
+            "dur": "2.83", 
+            "start": "509.05"
+        }, 
+        {
+            "text": "Like, that&#39;s our world is\nbuilt with algebra.", 
+            "dur": "2.789", 
+            "start": "511.88"
+        }, 
+        {
+            "text": "Like, any number that you kind\nof deal with in your everyday", 
+            "dur": "3.481", 
+            "start": "514.669"
+        }, 
+        {
+            "text": "life has a lot to\ndo with algebra.", 
+            "dur": "1.665", 
+            "start": "518.15"
+        }, 
+        {
+            "text": "You&#39;re just adding, taking,\ndividing, things to the power,", 
+            "dur": "3.655", 
+            "start": "519.815"
+        }, 
+        {
+            "text": "but e is not.", 
+            "dur": "1.29", 
+            "start": "523.47"
+        }, 
+        {
+            "text": "So it somehow transcends\nmaths.", 
+            "dur": "2.63", 
+            "start": "524.76"
+        }, 
+        {
+            "text": "So that&#39;s what they called\nit. e is transcendental.", 
+            "dur": "3.27", 
+            "start": "527.39"
+        }, 
+        {
+            "text": "It&#39;s actually [INAUDIBLE]", 
+            "dur": "1.67", 
+            "start": "535.68"
+        }, 
+        {
+            "text": "show you other than e.", 
+            "dur": "1.08", 
+            "start": "537.35"
+        }, 
+        {
+            "text": "You know why, is because--", 
+            "dur": "1.97", 
+            "start": "538.43"
+        }, 
+        {
+            "text": "well, this is the interesting\nthing.", 
+            "dur": "1.88", 
+            "start": "540.4"
+        }, 
+        {
+            "text": "e wasn&#39;t the first\ntranscendental number.", 
+            "dur": "2.8", 
+            "start": "542.28"
+        }, 
+        {
+            "text": "They discovered a transcendental\nnumber,", 
+            "dur": "1.93", 
+            "start": "545.08"
+        }, 
+        {
+            "text": "Liouville, I think his\nname is, discovered a", 
+            "dur": "2.68", 
+            "start": "547.01"
+        }, 
+        {
+            "text": "transcendental number quite a\nlong way before this, 30 years", 
+            "dur": "4.62", 
+            "start": "549.69"
+        }, 
+        {
+            "text": "before this.", 
+            "dur": "1.02", 
+            "start": "554.31"
+        }, 
+        {
+            "text": "But it was like, through\nconstruction.", 
+            "dur": "1.43", 
+            "start": "555.33"
+        }, 
+        {
+            "text": "So he was actually trying to\nfind a number based on the", 
+            "dur": "2.51", 
+            "start": "556.76"
+        }, 
+        {
+            "text": "rules of the game\nthat didn&#39;t fit.", 
+            "dur": "2.31", 
+            "start": "559.27"
+        }, 
+        {
+            "text": "What&#39;s special is that e was\nalready, it&#39;s already a", 
+            "dur": "2.75", 
+            "start": "561.58"
+        }, 
+        {
+            "text": "superstar of maths, e.", 
+            "dur": "1.605", 
+            "start": "564.33"
+        }, 
+        {
+            "text": "Like, people knew about it.", 
+            "dur": "1.545", 
+            "start": "565.935"
+        }, 
+        {
+            "text": "So this was an extra piece\nof information.", 
+            "dur": "2.93", 
+            "start": "567.48"
+        }, 
+        {
+            "text": "But then people asked\nthis question.", 
+            "dur": "2.135", 
+            "start": "570.41"
+        }, 
+        {
+            "text": "What about pi?", 
+            "dur": "1.085", 
+            "start": "572.545"
+        }, 
+        {
+            "text": "BRADY HARAN: Superstar.", 
+            "dur": "1.19", 
+            "start": "573.63"
+        }, 
+        {
+            "text": "SIMON PAMPENA: The superstar.", 
+            "dur": "1.28", 
+            "start": "574.82"
+        }, 
+        {
+            "text": "This is the superstar of math.", 
+            "dur": "1.85", 
+            "start": "576.1"
+        }, 
+        {
+            "text": "2,000 years old.", 
+            "dur": "1.66", 
+            "start": "577.95"
+        }, 
+        {
+            "text": "What is pi?", 
+            "dur": "0.97", 
+            "start": "579.61"
+        }, 
+        {
+            "text": "Is pi algebraic or\ntranscendental?", 
+            "dur": "2.37", 
+            "start": "580.58"
+        }, 
+        {
+            "text": "So you&#39;ve got to imagine\nas a mathematician,", 
+            "dur": "2.14", 
+            "start": "582.95"
+        }, 
+        {
+            "text": "OK, you love pi.", 
+            "dur": "1.67", 
+            "start": "585.09"
+        }, 
+        {
+            "text": "Like, it comes with\nthe territory.", 
+            "dur": "1.5", 
+            "start": "586.76"
+        }, 
+        {
+            "text": "You cannot not like pi.", 
+            "dur": "2.77", 
+            "start": "588.26"
+        }, 
+        {
+            "text": "So this is the thing, is that\nyou could actually add to the", 
+            "dur": "2.23", 
+            "start": "591.03"
+        }, 
+        {
+            "text": "knowledge of pi.", 
+            "dur": "1.42", 
+            "start": "593.26"
+        }, 
+        {
+            "text": "You could add something new,\nwhich is incredible.", 
+            "dur": "2.82", 
+            "start": "594.68"
+        }, 
+        {
+            "text": "I mean, I would die a happy\nman if I could do that.", 
+            "dur": "3.49", 
+            "start": "597.5"
+        }, 
+        {
+            "text": "So this question came\nup, what is pi?", 
+            "dur": "2.18", 
+            "start": "600.99"
+        }, 
+        {
+            "text": "Is it algebraic or\ntranscendental?", 
+            "dur": "1.78", 
+            "start": "603.17"
+        }, 
+        {
+            "text": "And so it was about, probably\n1880s that a guy called", 
+            "dur": "4.83", 
+            "start": "604.95"
+        }, 
+        {
+            "text": "Lindemann actually came\nup with the answer.", 
+            "dur": "2.63", 
+            "start": "609.78"
+        }, 
+        {
+            "text": "He showed, and again, this is\na very tricky thing that he", 
+            "dur": "2.66", 
+            "start": "612.41"
+        }, 
+        {
+            "text": "showed, he showed e raised to\nany algebraic number is", 
+            "dur": "6.23", 
+            "start": "615.07"
+        }, 
+        {
+            "text": "transcendental.", 
+            "dur": "1.1", 
+            "start": "621.3"
+        }, 
+        {
+            "text": "So for example, e to the 1, e.", 
+            "dur": "2.69", 
+            "start": "622.4"
+        }, 
+        {
+            "text": "That&#39;s a good thing, because\ne should be transcendental,", 
+            "dur": "2.44", 
+            "start": "625.09"
+        }, 
+        {
+            "text": "because it&#39;s already\nbeen proven.", 
+            "dur": "1.51", 
+            "start": "627.53"
+        }, 
+        {
+            "text": "Because 1 is algebraic.", 
+            "dur": "1.54", 
+            "start": "629.04"
+        }, 
+        {
+            "text": "Your favorite number,\nBrady, e to the 10.", 
+            "dur": "2.73", 
+            "start": "630.58"
+        }, 
+        {
+            "text": "That&#39;s transcendental, right?", 
+            "dur": "1.96", 
+            "start": "633.31"
+        }, 
+        {
+            "text": "e to the square root\nof 2, e to the i.", 
+            "dur": "2.76", 
+            "start": "635.27"
+        }, 
+        {
+            "text": "Right?", 
+            "dur": "1.5", 
+            "start": "638.03"
+        }, 
+        {
+            "text": "What about pi?", 
+            "dur": "2.87", 
+            "start": "639.53"
+        }, 
+        {
+            "text": "So how could you use this fact\nhere, e to the a, so a is any", 
+            "dur": "3.69", 
+            "start": "642.4"
+        }, 
+        {
+            "text": "algebraic number, is\ntranscendental?", 
+            "dur": "1.04", 
+            "start": "646.09"
+        }, 
+        {
+            "text": "How can you use that fact\nto show that pi is", 
+            "dur": "2.54", 
+            "start": "647.13"
+        }, 
+        {
+            "text": "transcendental?", 
+            "dur": "0.62", 
+            "start": "649.67"
+        }, 
+        {
+            "text": "OK, so this is the thing.", 
+            "dur": "1.66", 
+            "start": "650.29"
+        }, 
+        {
+            "text": "Again, it&#39;s a proof\nby contradiction.", 
+            "dur": "2.77", 
+            "start": "651.95"
+        }, 
+        {
+            "text": "So, this is what he did.", 
+            "dur": "2.35", 
+            "start": "654.72"
+        }, 
+        {
+            "text": "He said, let&#39;s assume\npi is algebraic.", 
+            "dur": "4.55", 
+            "start": "657.07"
+        }, 
+        {
+            "text": "So pi is algebraic.", 
+            "dur": "0.75", 
+            "start": "661.62"
+        }, 
+        {
+            "text": "That means there&#39;s\na formula for it.", 
+            "dur": "1.81", 
+            "start": "662.37"
+        }, 
+        {
+            "text": "OK, what&#39;s that formula?", 
+            "dur": "1.65", 
+            "start": "664.18"
+        }, 
+        {
+            "text": "Who knows?", 
+            "dur": "1.4", 
+            "start": "665.83"
+        }, 
+        {
+            "text": "Because it doesn&#39;t exist.", 
+            "dur": "1.31", 
+            "start": "667.23"
+        }, 
+        {
+            "text": "But as an example, if you&#39;re\nan engineer, you&#39;d say, oh,", 
+            "dur": "2.52", 
+            "start": "668.54"
+        }, 
+        {
+            "text": "yeah, pi, 22 on 7.", 
+            "dur": "1.73", 
+            "start": "671.06"
+        }, 
+        {
+            "text": "All right?", 
+            "dur": "0.85", 
+            "start": "672.79"
+        }, 
+        {
+            "text": "OK, cool.", 
+            "dur": "0.73", 
+            "start": "673.64"
+        }, 
+        {
+            "text": "So that means pi times\n7 take 22 equals 0.", 
+            "dur": "5.65", 
+            "start": "674.37"
+        }, 
+        {
+            "text": "Right?", 
+            "dur": "0.76", 
+            "start": "680.02"
+        }, 
+        {
+            "text": "As an example.", 
+            "dur": "0.69", 
+            "start": "680.78"
+        }, 
+        {
+            "text": "That&#39;s not true, by the way.", 
+            "dur": "1.31", 
+            "start": "681.47"
+        }, 
+        {
+            "text": "There&#39;s no way I&#39;m claiming\nthat to be true.", 
+            "dur": "1.39", 
+            "start": "682.78"
+        }, 
+        {
+            "text": "Don&#39;t you dare cut it and say\nSimon thinks that&#39;s true.", 
+            "dur": "2.12", 
+            "start": "684.17"
+        }, 
+        {
+            "text": "It&#39;s not true.", 
+            "dur": "0.5", 
+            "start": "686.29"
+        }, 
+        {
+            "text": "Pi, 22 on 7.", 
+            "dur": "1.35", 
+            "start": "686.79"
+        }, 
+        {
+            "text": "Pi, 22 on 7.", 
+            "dur": "1.62", 
+            "start": "688.14"
+        }, 
+        {
+            "text": "I know pi to quite a few decimal\nplaces, and that&#39;s", 
+            "dur": "2.06", 
+            "start": "689.76"
+        }, 
+        {
+            "text": "obviously not true.", 
+            "dur": "0.9", 
+            "start": "691.82"
+        }, 
+        {
+            "text": "And an actual fact, just so I\ncan tell you, another really", 
+            "dur": "3.02", 
+            "start": "692.72"
+        }, 
+        {
+            "text": "nice approximation of pi\nis the cube root of 31.", 
+            "dur": "4.28", 
+            "start": "695.74"
+        }, 
+        {
+            "text": "It&#39;s actually pretty close.", 
+            "dur": "1.11", 
+            "start": "700.02"
+        }, 
+        {
+            "text": "So that could be another\nformula.", 
+            "dur": "2.55", 
+            "start": "701.13"
+        }, 
+        {
+            "text": "So that means if we cube\nthat and take away", 
+            "dur": "2.76", 
+            "start": "703.68"
+        }, 
+        {
+            "text": "31, that equals 0.", 
+            "dur": "3.01", 
+            "start": "706.44"
+        }, 
+        {
+            "text": "OK, so we&#39;ve got like these\nphony equations.", 
+            "dur": "2.68", 
+            "start": "709.45"
+        }, 
+        {
+            "text": "This is the big kicker.", 
+            "dur": "1.54", 
+            "start": "712.13"
+        }, 
+        {
+            "text": "This is the big kicker.", 
+            "dur": "1.7", 
+            "start": "713.67"
+        }, 
+        {
+            "text": "We&#39;re going to use another\nsuperstar equation, OK?", 
+            "dur": "5.06", 
+            "start": "715.37"
+        }, 
+        {
+            "text": "e to the i pi equals\nnegative 1.", 
+            "dur": "4.22", 
+            "start": "720.43"
+        }, 
+        {
+            "text": "So this is Euler&#39;s identity.", 
+            "dur": "3.17", 
+            "start": "724.65"
+        }, 
+        {
+            "text": "It&#39;s a famous one, isn&#39;t it?", 
+            "dur": "1.55", 
+            "start": "727.82"
+        }, 
+        {
+            "text": "But look at it.", 
+            "dur": "0.66", 
+            "start": "729.37"
+        }, 
+        {
+            "text": "Look what it says. e raised\nto the i pi is negative 1.", 
+            "dur": "5.1", 
+            "start": "730.03"
+        }, 
+        {
+            "text": "Now, i pi, OK, if we assume pi\nis algebraic, that means i pi", 
+            "dur": "5.8", 
+            "start": "735.13"
+        }, 
+        {
+            "text": "must be algebraic.", 
+            "dur": "1.65", 
+            "start": "740.93"
+        }, 
+        {
+            "text": "So e to an algebraic number\nhas to be transcendental.", 
+            "dur": "3.95", 
+            "start": "742.58"
+        }, 
+        {
+            "text": "But is negative 1\ntranscendental?", 
+            "dur": "3.31", 
+            "start": "746.53"
+        }, 
+        {
+            "text": "It&#39;s not, because we can\nplay the game, and we", 
+            "dur": "1.68", 
+            "start": "749.84"
+        }, 
+        {
+            "text": "can get it to 0.", 
+            "dur": "1.72", 
+            "start": "751.52"
+        }, 
+        {
+            "text": "So by using another increase\npiece of maths in your", 
+            "dur": "5.1", 
+            "start": "753.24"
+        }, 
+        {
+            "text": "formula, imagine this is like\nyou&#39;re making a film, like", 
+            "dur": "2.55", 
+            "start": "758.34"
+        }, 
+        {
+            "text": "you&#39;re doing a maths film, and\nyou&#39;ve just got the biggest", 
+            "dur": "2.35", 
+            "start": "760.89"
+        }, 
+        {
+            "text": "Hollywood star in the world\nto start in it.", 
+            "dur": "3.1", 
+            "start": "763.24"
+        }, 
+        {
+            "text": "In your proof.", 
+            "dur": "1.1", 
+            "start": "766.34"
+        }, 
+        {
+            "text": "Starring in your proof.", 
+            "dur": "1.51", 
+            "start": "767.44"
+        }, 
+        {
+            "text": "So this here, e to the\ni pi is negative 1.", 
+            "dur": "2.39", 
+            "start": "768.95"
+        }, 
+        {
+            "text": "If indeed this was algebraic,\nthis would have to be", 
+            "dur": "3.22", 
+            "start": "771.34"
+        }, 
+        {
+            "text": "transcendental, so that means\ni pi cannot be algebraic.", 
+            "dur": "6.71", 
+            "start": "774.56"
+        }, 
+        {
+            "text": "And who&#39;s the culprit?", 
+            "dur": "1", 
+            "start": "781.27"
+        }, 
+        {
+            "text": "Well, it&#39;s not the square\nroot of negative 1.", 
+            "dur": "2.58", 
+            "start": "782.27"
+        }, 
+        {
+            "text": "It&#39;s pi.", 
+            "dur": "1.13", 
+            "start": "784.85"
+        }, 
+        {
+            "text": "So pi cannot be algebraic,\nwhich means pi must be", 
+            "dur": "6.89", 
+            "start": "785.98"
+        }, 
+        {
+            "text": "transcendental.", 
+            "dur": "1.25", 
+            "start": "792.87"
+        }, 
+        {
+            "text": "So there&#39;s something really\ntricky going on, and that&#39;s", 
+            "dur": "4.25", 
+            "start": "799.85"
+        }, 
+        {
+            "text": "why I like it.", 
+            "dur": "0.72", 
+            "start": "804.1"
+        }, 
+        {
+            "text": "Because the tricky stuff\nis where all the", 
+            "dur": "2.34", 
+            "start": "804.82"
+        }, 
+        {
+            "text": "awesome maths is.", 
+            "dur": "1.2", 
+            "start": "807.16"
+        }, 
+        {
+            "text": "In maths, perfection\nis important.", 
+            "dur": "2.65", 
+            "start": "808.36"
+        }, 
+        {
+            "text": "But then, anyone who\nuses maths--", 
+            "dur": "2.21", 
+            "start": "811.01"
+        }, 
+        {
+            "text": "for physics or chemistry, or\nwhatever you want to do--", 
+            "dur": "3.34", 
+            "start": "813.22"
+        }, 
+        {
+            "text": "then they can kind of\nuse approximations.", 
+            "dur": "1.82", 
+            "start": "816.56"
+        }, 
+        {
+            "text": "I&#39;m not interested in\napproximations.", 
+            "dur": "1.25", 
+            "start": "818.38"
+        }
+    ], 
+    "title": "Transcendental Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/07gh6", 
+        "/m/05fwb", 
+        "/m/02mj0", 
+        "/m/04rjg", 
+        "/m/05dkb"
+    ], 
+    "number_views": 444210, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

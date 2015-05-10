@@ -1,0 +1,817 @@
+{
+    "publish_date": "2012-08-06T16:09:58.000Z", 
+    "video_length": "PT7M13S", 
+    "captions": [
+        {
+            "text": "When I was in fourth grade,\nmy teacher said to us one day:", 
+            "dur": "2.723", 
+            "start": "13.999"
+        }, 
+        {
+            "text": "&quot;There are as many even numbers\nas there are numbers.&quot;", 
+            "dur": "2.529", 
+            "start": "16.746"
+        }, 
+        {
+            "text": "&quot;Really?&quot;, I thought.", 
+            "dur": "1.353", 
+            "start": "19.745"
+        }, 
+        {
+            "text": "Well, yeah, there are\ninfinitely many of both,", 
+            "dur": "2.336", 
+            "start": "21.122"
+        }, 
+        {
+            "text": "so I suppose there are\nthe same number of them.", 
+            "dur": "2.396", 
+            "start": "23.482"
+        }, 
+        {
+            "text": "But even numbers are only part\nof the whole numbers,", 
+            "dur": "3.031", 
+            "start": "25.902"
+        }, 
+        {
+            "text": "all the odd numbers are left over,", 
+            "dur": "1.627", 
+            "start": "28.957"
+        }, 
+        {
+            "text": "so there&#39;s got to be more whole numbers\nthan even numbers, right?", 
+            "dur": "3.049", 
+            "start": "30.608"
+        }, 
+        {
+            "text": "To see what my teacher was getting at,", 
+            "dur": "1.848", 
+            "start": "33.681"
+        }, 
+        {
+            "text": "let&#39;s first think about what it means\nfor two sets to be the same size.", 
+            "dur": "3.508", 
+            "start": "35.553"
+        }, 
+        {
+            "text": "What do I mean when I say\nI have the same number of fingers", 
+            "dur": "2.8", 
+            "start": "39.085"
+        }, 
+        {
+            "text": "on my right hand as I do on left hand?", 
+            "dur": "2.448", 
+            "start": "41.909"
+        }, 
+        {
+            "text": "Of course, I have five fingers on each,\nbut it&#39;s actually simpler than that.", 
+            "dur": "3.634", 
+            "start": "44.381"
+        }, 
+        {
+            "text": "I don&#39;t have to count, I only need to see\nthat I can match them up, one to one.", 
+            "dur": "4.451", 
+            "start": "48.039"
+        }, 
+        {
+            "text": "In fact, we think that some ancient people", 
+            "dur": "2.106", 
+            "start": "52.514"
+        }, 
+        {
+            "text": "who spoke languages that didn&#39;t have words\nfor numbers greater than three", 
+            "dur": "3.443", 
+            "start": "54.644"
+        }, 
+        {
+            "text": "used this sort of magic.", 
+            "dur": "1.372", 
+            "start": "58.111"
+        }, 
+        {
+            "text": "For instance, if you let\nyour sheep out of a pen to graze,", 
+            "dur": "2.726", 
+            "start": "59.507"
+        }, 
+        {
+            "text": "you can keep track of how many went out\nby setting aside a stone for each one,", 
+            "dur": "3.681", 
+            "start": "62.257"
+        }, 
+        {
+            "text": "and putting those stones back\none by one when the sheep return,", 
+            "dur": "3.13", 
+            "start": "65.962"
+        }, 
+        {
+            "text": "so you know if any are missing\nwithout really counting.", 
+            "dur": "2.793", 
+            "start": "69.116"
+        }, 
+        {
+            "text": "As another example of matching being\nmore fundamental than counting,", 
+            "dur": "3.239", 
+            "start": "71.933"
+        }, 
+        {
+            "text": "if I&#39;m speaking to a packed auditorium,", 
+            "dur": "2.143", 
+            "start": "75.196"
+        }, 
+        {
+            "text": "where every seat is taken\nand no one is standing,", 
+            "dur": "2.304", 
+            "start": "77.363"
+        }, 
+        {
+            "text": "I know that there are the same number\nof chairs as people in the audience,", 
+            "dur": "3.53", 
+            "start": "79.691"
+        }, 
+        {
+            "text": "even though I don&#39;t know\nhow many there are of either.", 
+            "dur": "2.526", 
+            "start": "83.245"
+        }, 
+        {
+            "text": "So, what we really mean when we say\nthat two sets are the same size", 
+            "dur": "3.143", 
+            "start": "85.795"
+        }, 
+        {
+            "text": "is that the elements in those sets", 
+            "dur": "1.728", 
+            "start": "88.962"
+        }, 
+        {
+            "text": "can be matched up one by one in some way.", 
+            "dur": "2.229", 
+            "start": "90.714"
+        }, 
+        {
+            "text": "My fourth grade teacher showed us", 
+            "dur": "1.667", 
+            "start": "92.967"
+        }, 
+        {
+            "text": "the whole numbers laid out in a row,\nand below each we have its double.", 
+            "dur": "3.341", 
+            "start": "94.658"
+        }, 
+        {
+            "text": "As you can see, the bottom row\ncontains all the even numbers,", 
+            "dur": "2.869", 
+            "start": "98.023"
+        }, 
+        {
+            "text": "and we have a one-to-one match.", 
+            "dur": "1.541", 
+            "start": "100.916"
+        }, 
+        {
+            "text": "That is, there are as many\neven numbers as there are numbers.", 
+            "dur": "2.905", 
+            "start": "102.481"
+        }, 
+        {
+            "text": "But what still bothers us is our distress", 
+            "dur": "2.29", 
+            "start": "105.41"
+        }, 
+        {
+            "text": "over the fact that even numbers\nseem to be only part of the whole numbers.", 
+            "dur": "3.479", 
+            "start": "107.724"
+        }, 
+        {
+            "text": "But does this convince you", 
+            "dur": "1.454", 
+            "start": "111.227"
+        }, 
+        {
+            "text": "that I don&#39;t have\nthe same number of fingers", 
+            "dur": "2.175", 
+            "start": "112.705"
+        }, 
+        {
+            "text": "on my right hand as I do on my left?", 
+            "dur": "1.726", 
+            "start": "114.904"
+        }, 
+        {
+            "text": "Of course not.", 
+            "dur": "1.015", 
+            "start": "116.654"
+        }, 
+        {
+            "text": "It doesn&#39;t matter if you try to match", 
+            "dur": "1.843", 
+            "start": "117.693"
+        }, 
+        {
+            "text": "the elements in some way\nand it doesn&#39;t work,", 
+            "dur": "2.169", 
+            "start": "119.56"
+        }, 
+        {
+            "text": "that doesn&#39;t convince us of anything.", 
+            "dur": "1.762", 
+            "start": "121.753"
+        }, 
+        {
+            "text": "If you can find one way", 
+            "dur": "1.191", 
+            "start": "123.539"
+        }, 
+        {
+            "text": "in which the elements\nof two sets do match up,", 
+            "dur": "2.224", 
+            "start": "124.754"
+        }, 
+        {
+            "text": "then we say those two sets have\nthe same number of elements.", 
+            "dur": "2.893", 
+            "start": "127.002"
+        }, 
+        {
+            "text": "Can you make a list of all the fractions?", 
+            "dur": "2.015", 
+            "start": "130.472"
+        }, 
+        {
+            "text": "This might be hard,\nthere are a lot of fractions!", 
+            "dur": "2.659", 
+            "start": "132.511"
+        }, 
+        {
+            "text": "And it&#39;s not obvious what to put first,", 
+            "dur": "1.877", 
+            "start": "135.194"
+        }, 
+        {
+            "text": "or how to be sure\nall of them are on the list.", 
+            "dur": "2.143", 
+            "start": "137.095"
+        }, 
+        {
+            "text": "Nevertheless, there is a very clever way", 
+            "dur": "2.656", 
+            "start": "139.262"
+        }, 
+        {
+            "text": "that we can make a list\nof all the fractions.", 
+            "dur": "2.173", 
+            "start": "141.942"
+        }, 
+        {
+            "text": "This was first done by Georg Cantor,\nin the late eighteen hundreds.", 
+            "dur": "3.846", 
+            "start": "144.139"
+        }, 
+        {
+            "text": "First, we put all\nthe fractions into a grid.", 
+            "dur": "3.008", 
+            "start": "148.009"
+        }, 
+        {
+            "text": "They&#39;re all there.", 
+            "dur": "1.09", 
+            "start": "151.041"
+        }, 
+        {
+            "text": "For instance, you can find, say, 117/243,", 
+            "dur": "3.757", 
+            "start": "152.155"
+        }, 
+        {
+            "text": "in the 117th row and 223rd column.", 
+            "dur": "3.06", 
+            "start": "155.936"
+        }, 
+        {
+            "text": "Now we make a list out of this", 
+            "dur": "1.801", 
+            "start": "159.02"
+        }, 
+        {
+            "text": "by starting at the upper left\nand sweeping back and forth diagonally,", 
+            "dur": "3.4", 
+            "start": "160.845"
+        }, 
+        {
+            "text": "skipping over any fraction, like 2/2,", 
+            "dur": "2.327", 
+            "start": "164.269"
+        }, 
+        {
+            "text": "that represents the same number\nas one the we&#39;ve already picked.", 
+            "dur": "3.039", 
+            "start": "166.62"
+        }, 
+        {
+            "text": "We get a list of all the fractions,", 
+            "dur": "1.878", 
+            "start": "169.683"
+        }, 
+        {
+            "text": "which means we&#39;ve created\na one-to-one match", 
+            "dur": "2.113", 
+            "start": "171.585"
+        }, 
+        {
+            "text": "between the whole numbers\nand the fractions,", 
+            "dur": "2.078", 
+            "start": "173.722"
+        }, 
+        {
+            "text": "despite the fact that we thought\nmaybe there ought to be more fractions.", 
+            "dur": "3.381", 
+            "start": "175.818"
+        }, 
+        {
+            "text": "OK, here&#39;s where it gets\nreally interesting.", 
+            "dur": "2.107", 
+            "start": "179.223"
+        }, 
+        {
+            "text": "You may know that not all real numbers", 
+            "dur": "1.965", 
+            "start": "181.354"
+        }, 
+        {
+            "text": "-- that is, not all the numbers\non a number line -- are fractions.", 
+            "dur": "3.148", 
+            "start": "183.343"
+        }, 
+        {
+            "text": "The square root\nof two and pi, for instance.", 
+            "dur": "2.147", 
+            "start": "186.515"
+        }, 
+        {
+            "text": "Any number like this is called irrational.", 
+            "dur": "2.427", 
+            "start": "188.686"
+        }, 
+        {
+            "text": "Not because it&#39;s crazy, or anything,", 
+            "dur": "1.927", 
+            "start": "191.137"
+        }, 
+        {
+            "text": "but because the fractions are\nratios of whole numbers,", 
+            "dur": "3.014", 
+            "start": "193.088"
+        }, 
+        {
+            "text": "and so are called rationals;", 
+            "dur": "1.467", 
+            "start": "196.126"
+        }, 
+        {
+            "text": "meaning the rest are\nnon-rational, that is, irrational.", 
+            "dur": "3.211", 
+            "start": "197.617"
+        }, 
+        {
+            "text": "Irrationals are represented\nby infinite, non-repeating decimals.", 
+            "dur": "3.842", 
+            "start": "200.852"
+        }, 
+        {
+            "text": "So, can we make a one-to-one match", 
+            "dur": "2.135", 
+            "start": "204.718"
+        }, 
+        {
+            "text": "between the whole numbers\nand the set of all the decimals,", 
+            "dur": "2.729", 
+            "start": "206.877"
+        }, 
+        {
+            "text": "both the rationals and the irrationals?", 
+            "dur": "1.888", 
+            "start": "209.63"
+        }, 
+        {
+            "text": "That is, can we make\na list of all the decimal numbers?", 
+            "dur": "2.572", 
+            "start": "211.542"
+        }, 
+        {
+            "text": "Candor showed that you can&#39;t.", 
+            "dur": "2.05", 
+            "start": "214.138"
+        }, 
+        {
+            "text": "Not merely that we don&#39;t know how,\nbut that it can&#39;t be done.", 
+            "dur": "3.297", 
+            "start": "216.212"
+        }, 
+        {
+            "text": "Look, suppose you claim you have made\na list of all the decimals.", 
+            "dur": "3.855", 
+            "start": "220.045"
+        }, 
+        {
+            "text": "I&#39;m going to show you\nthat you didn&#39;t succeed,", 
+            "dur": "2.218", 
+            "start": "223.924"
+        }, 
+        {
+            "text": "by producing a decimal\nthat is not on your list.", 
+            "dur": "2.286", 
+            "start": "226.166"
+        }, 
+        {
+            "text": "I&#39;ll construct my decimal\none place at a time.", 
+            "dur": "2.319", 
+            "start": "228.476"
+        }, 
+        {
+            "text": "For the first decimal place of my number,", 
+            "dur": "2.325", 
+            "start": "230.819"
+        }, 
+        {
+            "text": "I&#39;ll look at the first decimal place\nof your first number.", 
+            "dur": "2.762", 
+            "start": "233.168"
+        }, 
+        {
+            "text": "If it&#39;s a one, I&#39;ll make mine a two;", 
+            "dur": "2.454", 
+            "start": "235.954"
+        }, 
+        {
+            "text": "otherwise I&#39;ll make mine a one.", 
+            "dur": "1.956", 
+            "start": "238.432"
+        }, 
+        {
+            "text": "For the second place of my number,", 
+            "dur": "2.108", 
+            "start": "240.412"
+        }, 
+        {
+            "text": "I&#39;ll look at the second place\nof your second number.", 
+            "dur": "2.477", 
+            "start": "242.544"
+        }, 
+        {
+            "text": "Again, if yours is a one,\nI&#39;ll make mine a two,", 
+            "dur": "2.515", 
+            "start": "245.045"
+        }, 
+        {
+            "text": "and otherwise I&#39;ll make mine a one.", 
+            "dur": "2.31", 
+            "start": "247.584"
+        }, 
+        {
+            "text": "See how this is going?", 
+            "dur": "1.303", 
+            "start": "249.918"
+        }, 
+        {
+            "text": "The decimal I&#39;ve produced\ncan&#39;t be on your list.", 
+            "dur": "2.975", 
+            "start": "251.245"
+        }, 
+        {
+            "text": "Why? Could it be, say, your 143rd number?", 
+            "dur": "3.287", 
+            "start": "254.244"
+        }, 
+        {
+            "text": "No, because the 143rd place of my decimal", 
+            "dur": "3.158", 
+            "start": "257.555"
+        }, 
+        {
+            "text": "is different from the 143rd place\nof your 143rd number.", 
+            "dur": "3.637", 
+            "start": "260.737"
+        }, 
+        {
+            "text": "I made it that way.", 
+            "dur": "1.567", 
+            "start": "264.398"
+        }, 
+        {
+            "text": "Your list is incomplete.", 
+            "dur": "1.477", 
+            "start": "265.989"
+        }, 
+        {
+            "text": "It doesn&#39;t contain my decimal number.", 
+            "dur": "1.994", 
+            "start": "267.49"
+        }, 
+        {
+            "text": "And, no matter what list you give me,\nI can do the same thing,", 
+            "dur": "2.905", 
+            "start": "269.508"
+        }, 
+        {
+            "text": "and produce a decimal\nthat&#39;s not on that list.", 
+            "dur": "2.213", 
+            "start": "272.437"
+        }, 
+        {
+            "text": "So we&#39;re faced with this\nastounding conclusion:", 
+            "dur": "2.521", 
+            "start": "274.674"
+        }, 
+        {
+            "text": "The decimal numbers\ncannot be put on a list.", 
+            "dur": "2.865", 
+            "start": "277.219"
+        }, 
+        {
+            "text": "They represent a bigger infinity\nthat the infinity of whole numbers.", 
+            "dur": "3.918", 
+            "start": "280.108"
+        }, 
+        {
+            "text": "So, even though we&#39;re familiar\nwith only a few irrationals,", 
+            "dur": "2.762", 
+            "start": "284.05"
+        }, 
+        {
+            "text": "like square root of two and pi,", 
+            "dur": "1.781", 
+            "start": "286.836"
+        }, 
+        {
+            "text": "the infinity of irrationals", 
+            "dur": "1.493", 
+            "start": "288.641"
+        }, 
+        {
+            "text": "is actually greater\nthan the infinity of fractions.", 
+            "dur": "2.436", 
+            "start": "290.158"
+        }, 
+        {
+            "text": "Someone once said that the rationals", 
+            "dur": "1.769", 
+            "start": "292.618"
+        }, 
+        {
+            "text": "-- the fractions -- are\nlike the stars in the night sky.", 
+            "dur": "2.924", 
+            "start": "294.411"
+        }, 
+        {
+            "text": "The irrationals are like the blackness.", 
+            "dur": "3.121", 
+            "start": "297.998"
+        }, 
+        {
+            "text": "Cantor also showed that,\nfor any infinite set,", 
+            "dur": "2.521", 
+            "start": "301.143"
+        }, 
+        {
+            "text": "forming a new set made of\nall the subsets of the original set", 
+            "dur": "3.406", 
+            "start": "303.688"
+        }, 
+        {
+            "text": "represents a bigger infinity\nthan that original set.", 
+            "dur": "3.268", 
+            "start": "307.118"
+        }, 
+        {
+            "text": "This means that,\nonce you have one infinity,", 
+            "dur": "2.049", 
+            "start": "310.41"
+        }, 
+        {
+            "text": "you can always make a bigger one", 
+            "dur": "1.558", 
+            "start": "312.483"
+        }, 
+        {
+            "text": "by making the set of all subsets\nof that first set.", 
+            "dur": "2.901", 
+            "start": "314.065"
+        }, 
+        {
+            "text": "And then an even bigger one", 
+            "dur": "1.416", 
+            "start": "316.99"
+        }, 
+        {
+            "text": "by making the set\nof all the subsets of that one.", 
+            "dur": "2.309", 
+            "start": "318.43"
+        }, 
+        {
+            "text": "And so on.", 
+            "dur": "1.226", 
+            "start": "320.763"
+        }, 
+        {
+            "text": "And so, there are an infinite number\nof infinities of different sizes.", 
+            "dur": "3.588", 
+            "start": "322.013"
+        }, 
+        {
+            "text": "If these ideas make you\nuncomfortable, you are not alone.", 
+            "dur": "3.465", 
+            "start": "325.625"
+        }, 
+        {
+            "text": "Some of the greatest\nmathematicians of Cantor&#39;s day", 
+            "dur": "2.391", 
+            "start": "329.114"
+        }, 
+        {
+            "text": "were very upset with this stuff.", 
+            "dur": "1.524", 
+            "start": "331.529"
+        }, 
+        {
+            "text": "They tried to make this different\ninfinities irrelevant,", 
+            "dur": "2.62", 
+            "start": "333.077"
+        }, 
+        {
+            "text": "to make mathematics work\nwithout them somehow.", 
+            "dur": "2.292", 
+            "start": "335.721"
+        }, 
+        {
+            "text": "Cantor was even vilified personally,", 
+            "dur": "2.033", 
+            "start": "338.037"
+        }, 
+        {
+            "text": "and it got so bad for him\nthat he suffered severe depression,", 
+            "dur": "2.905", 
+            "start": "340.094"
+        }, 
+        {
+            "text": "and spent the last half of his life\nin and out of mental institutions.", 
+            "dur": "3.286", 
+            "start": "343.023"
+        }, 
+        {
+            "text": "But eventually, his ideas won out.", 
+            "dur": "2.329", 
+            "start": "346.333"
+        }, 
+        {
+            "text": "Today, they&#39;re considered\nfundamental and magnificent.", 
+            "dur": "2.958", 
+            "start": "348.686"
+        }, 
+        {
+            "text": "All research mathematicians\naccept these ideas,", 
+            "dur": "2.577", 
+            "start": "351.668"
+        }, 
+        {
+            "text": "every college math major learns them,", 
+            "dur": "1.795", 
+            "start": "354.269"
+        }, 
+        {
+            "text": "and I&#39;ve explained them\nto you in a few minutes.", 
+            "dur": "2.239", 
+            "start": "356.088"
+        }, 
+        {
+            "text": "Some day, perhaps,\nthey&#39;ll be common knowledge.", 
+            "dur": "2.493", 
+            "start": "358.351"
+        }, 
+        {
+            "text": "There&#39;s more.", 
+            "dur": "1.174", 
+            "start": "360.868"
+        }, 
+        {
+            "text": "We just pointed out\nthat the set of decimal numbers", 
+            "dur": "2.43", 
+            "start": "362.066"
+        }, 
+        {
+            "text": "-- that is, the real numbers --\nis a bigger infinity", 
+            "dur": "2.45", 
+            "start": "364.52"
+        }, 
+        {
+            "text": "than the set of whole numbers.", 
+            "dur": "1.435", 
+            "start": "366.994"
+        }, 
+        {
+            "text": "Candor wondered\nwhether there are infinities", 
+            "dur": "2.057", 
+            "start": "368.453"
+        }, 
+        {
+            "text": "of different sizes\nbetween these two infinities.", 
+            "dur": "2.26", 
+            "start": "370.534"
+        }, 
+        {
+            "text": "He didn&#39;t believe there were,\nbut couldn&#39;t prove it.", 
+            "dur": "2.497", 
+            "start": "372.818"
+        }, 
+        {
+            "text": "Candor&#39;s conjecture became known\nas the continuum hypothesis.", 
+            "dur": "2.911", 
+            "start": "375.339"
+        }, 
+        {
+            "text": "In 1900, the great\nmathematician David Hilbert", 
+            "dur": "2.457", 
+            "start": "379.402"
+        }, 
+        {
+            "text": "listed the continuum hypothesis", 
+            "dur": "1.751", 
+            "start": "381.883"
+        }, 
+        {
+            "text": "as the most important\nunsolved problem in mathematics.", 
+            "dur": "2.759", 
+            "start": "383.658"
+        }, 
+        {
+            "text": "The 20th century saw\na resolution of this problem,", 
+            "dur": "2.813", 
+            "start": "386.441"
+        }, 
+        {
+            "text": "but in a completely unexpected,\nparadigm-shattering way.", 
+            "dur": "2.958", 
+            "start": "389.278"
+        }, 
+        {
+            "text": "In the 1920s, Kurt G\u00f6del showed", 
+            "dur": "1.957", 
+            "start": "392.942"
+        }, 
+        {
+            "text": "that you can never prove\nthat the continuum hypothesis is false.", 
+            "dur": "3", 
+            "start": "394.923"
+        }, 
+        {
+            "text": "Then, in the 1960s, Paul J. Cohen showed", 
+            "dur": "3.056", 
+            "start": "397.947"
+        }, 
+        {
+            "text": "that you can never prove\nthat the continuum hypothesis is true.", 
+            "dur": "3", 
+            "start": "401.027"
+        }, 
+        {
+            "text": "Taken together, these results mean", 
+            "dur": "2.149", 
+            "start": "404.051"
+        }, 
+        {
+            "text": "that there are unanswerable\nquestions in mathematics.", 
+            "dur": "2.524", 
+            "start": "406.224"
+        }, 
+        {
+            "text": "A very stunning conclusion.", 
+            "dur": "1.514", 
+            "start": "408.772"
+        }, 
+        {
+            "text": "Mathematics is rightly considered\nthe pinnacle of human reasoning,", 
+            "dur": "3.125", 
+            "start": "410.31"
+        }, 
+        {
+            "text": "but we now know that even mathematics\nhas its limitations.", 
+            "dur": "3.109", 
+            "start": "413.459"
+        }, 
+        {
+            "text": "Still, mathematics has some truly\namazing things for us to think about.", 
+            "dur": "3.715", 
+            "start": "417.094"
+        }
+    ], 
+    "title": "How big is infinity? - Dennis Wildfogel", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/03zl7", 
+        "/m/036ks"
+    ], 
+    "number_views": 909804, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

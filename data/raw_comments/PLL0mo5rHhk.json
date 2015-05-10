@@ -1,0 +1,748 @@
+{
+    "publish_date": "2012-01-09T12:13:17.000Z", 
+    "video_length": "PT6M35S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: OK, so today\nwe&#39;re going to", 
+            "dur": "1.38", 
+            "start": "0.15"
+        }, 
+        {
+            "text": "talk Mersenne numbers.", 
+            "dur": "2.29", 
+            "start": "1.53"
+        }, 
+        {
+            "text": "So we have to pick one of our\nMersenne numbers to exemplify", 
+            "dur": "5.26", 
+            "start": "3.82"
+        }, 
+        {
+            "text": "the category.", 
+            "dur": "0.82", 
+            "start": "9.08"
+        }, 
+        {
+            "text": "Now, Brady always makes me do\nthis, so I&#39;ve decided to pick", 
+            "dur": "5.32", 
+            "start": "9.9"
+        }, 
+        {
+            "text": "31, because by the time\nyou watch this", 
+            "dur": "2.44", 
+            "start": "15.22"
+        }, 
+        {
+            "text": "video, I will be 31.", 
+            "dur": "2.67", 
+            "start": "17.66"
+        }, 
+        {
+            "text": "So it&#39;s a nice personal\nnumber for me.", 
+            "dur": "1.76", 
+            "start": "20.33"
+        }, 
+        {
+            "text": "So 31 is our example of\na Mersenne prime.", 
+            "dur": "5.61", 
+            "start": "22.09"
+        }, 
+        {
+            "text": "So a Mersenne prime is a prime\nnumber to begin with like 31.", 
+            "dur": "5.1", 
+            "start": "30.81"
+        }, 
+        {
+            "text": "31 is a prime number.", 
+            "dur": "1.89", 
+            "start": "35.91"
+        }, 
+        {
+            "text": "A prime number is, as you\nprobably know, a number that", 
+            "dur": "3.39", 
+            "start": "37.8"
+        }, 
+        {
+            "text": "can only be divided\nby 1 and itself.", 
+            "dur": "3.93", 
+            "start": "41.19"
+        }, 
+        {
+            "text": "The first few prime numbers\nare 2, 3, 5, 7.", 
+            "dur": "5.38", 
+            "start": "45.12"
+        }, 
+        {
+            "text": "31 is a prime number, but it&#39;s a\nspecial type of prime number", 
+            "dur": "3.65", 
+            "start": "50.5"
+        }, 
+        {
+            "text": "because it&#39;s one less\nthan a power of 2.", 
+            "dur": "4.58", 
+            "start": "54.15"
+        }, 
+        {
+            "text": "What are the powers of 2?", 
+            "dur": "1.78", 
+            "start": "58.73"
+        }, 
+        {
+            "text": "Well, you&#39;ve got 2.", 
+            "dur": "1.404", 
+            "start": "60.51"
+        }, 
+        {
+            "text": "You&#39;ve got 4.", 
+            "dur": "2.196", 
+            "start": "61.914"
+        }, 
+        {
+            "text": "You&#39;ve got 8, 16,\n32, and so on.", 
+            "dur": "4.98", 
+            "start": "64.11"
+        }, 
+        {
+            "text": "OK, so that&#39;s just 2 times 2\ntimes 2 times 2 times 2.", 
+            "dur": "3.64", 
+            "start": "69.09"
+        }, 
+        {
+            "text": "That&#39;s the sort of thing.", 
+            "dur": "1.34", 
+            "start": "72.73"
+        }, 
+        {
+            "text": "None of these are prime numbers,\nbut let&#39;s have a look", 
+            "dur": "1.75", 
+            "start": "74.07"
+        }, 
+        {
+            "text": "at one less.", 
+            "dur": "1.25", 
+            "start": "75.82"
+        }, 
+        {
+            "text": "Well, 1.", 
+            "dur": "2.61", 
+            "start": "77.07"
+        }, 
+        {
+            "text": "Now, if I&#39;m honest, we\ndon&#39;t say 1 is prime.", 
+            "dur": "3.26", 
+            "start": "79.68"
+        }, 
+        {
+            "text": "There&#39;s a special\nreason for that.", 
+            "dur": "1.67", 
+            "start": "82.94"
+        }, 
+        {
+            "text": "But let&#39;s have a look\nat the others.", 
+            "dur": "1.37", 
+            "start": "84.61"
+        }, 
+        {
+            "text": "3 is a prime number, and it&#39;s\none less than a power of 2, so", 
+            "dur": "3.94", 
+            "start": "85.98"
+        }, 
+        {
+            "text": "that counts as a\nMersenne prime.", 
+            "dur": "2.34", 
+            "start": "89.92"
+        }, 
+        {
+            "text": "7 is a prime number, and it&#39;s\none less than a power of 2.", 
+            "dur": "3.81", 
+            "start": "92.26"
+        }, 
+        {
+            "text": "Fantastic.", 
+            "dur": "1.27", 
+            "start": "96.07"
+        }, 
+        {
+            "text": "15.", 
+            "dur": "1.05", 
+            "start": "97.34"
+        }, 
+        {
+            "text": "Now that&#39;s not a prime number,\nso that does not count.", 
+            "dur": "4.55", 
+            "start": "98.39"
+        }, 
+        {
+            "text": "And 31, there you go,\nthat was our example", 
+            "dur": "3.15", 
+            "start": "102.94"
+        }, 
+        {
+            "text": "of a Mersenne prime.", 
+            "dur": "1.76", 
+            "start": "106.09"
+        }, 
+        {
+            "text": "Now, there aren&#39;t many of\nthese Mersenne primes.", 
+            "dur": "2.81", 
+            "start": "107.85"
+        }, 
+        {
+            "text": "In fact, there&#39;s only\n47 Mersenne primes.", 
+            "dur": "4.93", 
+            "start": "110.66"
+        }, 
+        {
+            "text": "Now, they start off\nas 3, 7, 31.", 
+            "dur": "4.964", 
+            "start": "115.59"
+        }, 
+        {
+            "text": "The next one after\nthat is 127.", 
+            "dur": "2.906", 
+            "start": "120.554"
+        }, 
+        {
+            "text": "So let&#39;s have a look\nat the next couple.", 
+            "dur": "2.4", 
+            "start": "123.46"
+        }, 
+        {
+            "text": "Powers of 2--", 
+            "dur": "0.69", 
+            "start": "125.86"
+        }, 
+        {
+            "text": "64, 128, and, well, this is\n63, and that&#39;s not prime.", 
+            "dur": "8.79", 
+            "start": "126.55"
+        }, 
+        {
+            "text": "But this is 127.", 
+            "dur": "1.47", 
+            "start": "135.34"
+        }, 
+        {
+            "text": "That is prime, so it&#39;s one\nof our Mersenne primes.", 
+            "dur": "3.95", 
+            "start": "136.81"
+        }, 
+        {
+            "text": "They&#39;re called Mersenne primes\nbecause they&#39;re named after a", 
+            "dur": "2.24", 
+            "start": "140.76"
+        }, 
+        {
+            "text": "French mathematician called\nMarin Mersenne, who was a", 
+            "dur": "3.09", 
+            "start": "143"
+        }, 
+        {
+            "text": "monk, a mathematician, and\na musician, and a fan of", 
+            "dur": "2.88", 
+            "start": "146.09"
+        }, 
+        {
+            "text": "alliteration.", 
+            "dur": "1.4", 
+            "start": "148.97"
+        }, 
+        {
+            "text": "His favorite cartoon\nwas Mighty Mouse.", 
+            "dur": "2.06", 
+            "start": "150.37"
+        }, 
+        {
+            "text": "His favorite film was Mad Max.", 
+            "dur": "1.45", 
+            "start": "152.43"
+        }, 
+        {
+            "text": "So he was in contact with a lot\nof other mathematicians", 
+            "dur": "3.88", 
+            "start": "153.88"
+        }, 
+        {
+            "text": "around the world.", 
+            "dur": "1.42", 
+            "start": "157.76"
+        }, 
+        {
+            "text": "And he was trying to make a list\nof this special type of", 
+            "dur": "4.05", 
+            "start": "159.18"
+        }, 
+        {
+            "text": "prime number, and that&#39;s why\nthey&#39;re named after him.", 
+            "dur": "2.27", 
+            "start": "163.23"
+        }, 
+        {
+            "text": "MALE SPEAKER: What are\nthey used for?", 
+            "dur": "0.74", 
+            "start": "165.5"
+        }, 
+        {
+            "text": "Are they used by\ncode breakers?", 
+            "dur": "2.48", 
+            "start": "166.24"
+        }, 
+        {
+            "text": "Are they used to make\nbetter iPads?", 
+            "dur": "2.55", 
+            "start": "168.72"
+        }, 
+        {
+            "text": "Or are they just a game for\nsmart mathematicians like you?", 
+            "dur": "4.07", 
+            "start": "171.27"
+        }, 
+        {
+            "text": "JAMES GRIME: Well, prime numbers\nare obviously very", 
+            "dur": "2.61", 
+            "start": "175.34"
+        }, 
+        {
+            "text": "useful to mathematicians.", 
+            "dur": "1.28", 
+            "start": "177.95"
+        }, 
+        {
+            "text": "They&#39;re famous, and they&#39;re\nfamous for a reason.", 
+            "dur": "2.34", 
+            "start": "179.23"
+        }, 
+        {
+            "text": "Mersenne primes are a special\ntypes of prime number.", 
+            "dur": "3.19", 
+            "start": "181.57"
+        }, 
+        {
+            "text": "Something very special about\nMersenne primes, they are", 
+            "dur": "3.61", 
+            "start": "184.76"
+        }, 
+        {
+            "text": "related to the perfect\nnumbers.", 
+            "dur": "2.51", 
+            "start": "188.37"
+        }, 
+        {
+            "text": "We&#39;ve talked about perfect\nnumbers before.", 
+            "dur": "2.04", 
+            "start": "190.88"
+        }, 
+        {
+            "text": "They were 6, 28, 496, 8,128.", 
+            "dur": "4.93", 
+            "start": "192.92"
+        }, 
+        {
+            "text": "They were known by the\nAncient Greeks.", 
+            "dur": "2.85", 
+            "start": "197.85"
+        }, 
+        {
+            "text": "They were given this idea that\nthey were perfect, unique.", 
+            "dur": "3.21", 
+            "start": "200.7"
+        }, 
+        {
+            "text": "Mersenne primes and the perfect\nnumbers are two sides", 
+            "dur": "2.39", 
+            "start": "203.91"
+        }, 
+        {
+            "text": "of the same coin.", 
+            "dur": "1.3", 
+            "start": "206.3"
+        }, 
+        {
+            "text": "Let me show you why.", 
+            "dur": "1.33", 
+            "start": "207.6"
+        }, 
+        {
+            "text": "If I pick a Mersenne prime,\nlet&#39;s call it M", 
+            "dur": "4.36", 
+            "start": "208.93"
+        }, 
+        {
+            "text": "for Mersenne prime.", 
+            "dur": "1.28", 
+            "start": "213.29"
+        }, 
+        {
+            "text": "OK, so M is our Mersenne\nprime.", 
+            "dur": "3.46", 
+            "start": "214.57"
+        }, 
+        {
+            "text": "Times it by M plus 1, divide by\n2, and that will give you a", 
+            "dur": "5.33", 
+            "start": "218.03"
+        }, 
+        {
+            "text": "perfect number.", 
+            "dur": "1.06", 
+            "start": "223.36"
+        }, 
+        {
+            "text": "Let me show you.", 
+            "dur": "0.95", 
+            "start": "224.42"
+        }, 
+        {
+            "text": "3 times 4 divide by 2.", 
+            "dur": "5.01", 
+            "start": "225.37"
+        }, 
+        {
+            "text": "That&#39;s 12 divided by 2.", 
+            "dur": "1.4", 
+            "start": "230.38"
+        }, 
+        {
+            "text": "That&#39;s 6.", 
+            "dur": "1.15", 
+            "start": "231.78"
+        }, 
+        {
+            "text": "That was the first\nperfect number.", 
+            "dur": "2.662", 
+            "start": "232.93"
+        }, 
+        {
+            "text": "OK, let&#39;s try the next one--", 
+            "dur": "1.308", 
+            "start": "235.592"
+        }, 
+        {
+            "text": "7.", 
+            "dur": "1.68", 
+            "start": "236.9"
+        }, 
+        {
+            "text": "7 times 8, divide by 2.", 
+            "dur": "3.854", 
+            "start": "238.58"
+        }, 
+        {
+            "text": "That&#39;s 56 divide by 2.", 
+            "dur": "2.846", 
+            "start": "242.434"
+        }, 
+        {
+            "text": "That&#39;s 28.", 
+            "dur": "0.82", 
+            "start": "245.28"
+        }, 
+        {
+            "text": "That&#39;s the second\nperfect number.", 
+            "dur": "1.838", 
+            "start": "246.1"
+        }, 
+        {
+            "text": "31?", 
+            "dur": "1.792", 
+            "start": "247.938"
+        }, 
+        {
+            "text": "Same thing.", 
+            "dur": "0.62", 
+            "start": "249.73"
+        }, 
+        {
+            "text": "31 times 32, divide by 2, and\nthat will give you the third", 
+            "dur": "5.989", 
+            "start": "250.35"
+        }, 
+        {
+            "text": "perfect number--", 
+            "dur": "1.043", 
+            "start": "256.339"
+        }, 
+        {
+            "text": "496.", 
+            "dur": "2.548", 
+            "start": "257.382"
+        }, 
+        {
+            "text": "And let&#39;s try 127.", 
+            "dur": "2.38", 
+            "start": "259.93"
+        }, 
+        {
+            "text": "127 times 128.", 
+            "dur": "2.812", 
+            "start": "262.31"
+        }, 
+        {
+            "text": "And half it, it&#39;s 8,128.", 
+            "dur": "5.488", 
+            "start": "265.122"
+        }, 
+        {
+            "text": "Two sides of the same coin.", 
+            "dur": "1.27", 
+            "start": "270.61"
+        }, 
+        {
+            "text": "Right, so you can help to find\nthe next Mersenne prime.", 
+            "dur": "3.68", 
+            "start": "271.88"
+        }, 
+        {
+            "text": "It&#39;s called The Great Internet\nMersenne Prime Search.", 
+            "dur": "4.22", 
+            "start": "275.56"
+        }, 
+        {
+            "text": "A great website with an\nunfortunate acronym.", 
+            "dur": "2.57", 
+            "start": "279.78"
+        }, 
+        {
+            "text": "It&#39;s at mersenne.org, and\nyou can try it yourself.", 
+            "dur": "3.74", 
+            "start": "282.35"
+        }, 
+        {
+            "text": "Download the program.", 
+            "dur": "1.05", 
+            "start": "286.09"
+        }, 
+        {
+            "text": "It uses collaborative computer\npower to find the next", 
+            "dur": "4.32", 
+            "start": "287.14"
+        }, 
+        {
+            "text": "Mersenne prime.", 
+            "dur": "1.24", 
+            "start": "291.46"
+        }, 
+        {
+            "text": "MALE SPEAKER: Why?", 
+            "dur": "0.21", 
+            "start": "292.7"
+        }, 
+        {
+            "text": "Why should I do that?", 
+            "dur": "1.05", 
+            "start": "292.91"
+        }, 
+        {
+            "text": "Why should anyone do that?", 
+            "dur": "1.45", 
+            "start": "293.96"
+        }, 
+        {
+            "text": "JAMES GRIME: For the glory.", 
+            "dur": "1.7", 
+            "start": "295.41"
+        }, 
+        {
+            "text": "For the glory.", 
+            "dur": "1", 
+            "start": "297.11"
+        }, 
+        {
+            "text": "Because mathematicians will\nthank you for it.", 
+            "dur": "3.25", 
+            "start": "298.11"
+        }, 
+        {
+            "text": "Like the perfect numbers,\nwe don&#39;t know if there&#39;s", 
+            "dur": "1.86", 
+            "start": "301.36"
+        }, 
+        {
+            "text": "infinitely many perfect\nnumbers.", 
+            "dur": "2", 
+            "start": "303.22"
+        }, 
+        {
+            "text": "We don&#39;t know if there are\ninfinitely many Mersenne", 
+            "dur": "2.91", 
+            "start": "305.22"
+        }, 
+        {
+            "text": "primes or not.", 
+            "dur": "1.58", 
+            "start": "308.13"
+        }, 
+        {
+            "text": "So that&#39;s another open question,\nsomething that", 
+            "dur": "3.56", 
+            "start": "309.71"
+        }, 
+        {
+            "text": "maybe, hey, you could\nwork out.", 
+            "dur": "1.99", 
+            "start": "313.27"
+        }, 
+        {
+            "text": "MALE SPEAKER: What&#39;s it going\nto take to work that out?", 
+            "dur": "2.2", 
+            "start": "315.26"
+        }, 
+        {
+            "text": "How will that question\never be answered?", 
+            "dur": "3.13", 
+            "start": "317.46"
+        }, 
+        {
+            "text": "JAMES GRIME: It&#39;s not\ngoing to be easy.", 
+            "dur": "0.97", 
+            "start": "320.59"
+        }, 
+        {
+            "text": "It&#39;s not going to be obvious.", 
+            "dur": "2.11", 
+            "start": "321.56"
+        }, 
+        {
+            "text": "It&#39;s going to take a different\nway of looking at things,", 
+            "dur": "4.31", 
+            "start": "323.67"
+        }, 
+        {
+            "text": "coming at it from a different\nangle, something that other", 
+            "dur": "2.83", 
+            "start": "327.98"
+        }, 
+        {
+            "text": "people haven&#39;t tried yet.", 
+            "dur": "1.5", 
+            "start": "330.81"
+        }, 
+        {
+            "text": "Maybe not your usual school\nmath, but something else.", 
+            "dur": "3.98", 
+            "start": "332.31"
+        }, 
+        {
+            "text": "Whatever it is, something\nwe haven&#39;t tried yet.", 
+            "dur": "2.38", 
+            "start": "336.29"
+        }, 
+        {
+            "text": "MALE SPEAKER: The man or woman\nwho does that, what will it", 
+            "dur": "2.78", 
+            "start": "338.67"
+        }, 
+        {
+            "text": "mean for them?", 
+            "dur": "0.49", 
+            "start": "341.45"
+        }, 
+        {
+            "text": "If a man or a woman\ncomes up with that", 
+            "dur": "1.99", 
+            "start": "341.94"
+        }, 
+        {
+            "text": "proof, what will happen?", 
+            "dur": "2.09", 
+            "start": "343.93"
+        }, 
+        {
+            "text": "JAMES GRIME: If you do you come\nup with that proof, you", 
+            "dur": "2.05", 
+            "start": "346.02"
+        }, 
+        {
+            "text": "will have glory thrust\nupon you.", 
+            "dur": "3.45", 
+            "start": "348.07"
+        }, 
+        {
+            "text": "You will be famous for coming\nup with such a proof,", 
+            "dur": "2.93", 
+            "start": "351.52"
+        }, 
+        {
+            "text": "something that has eluded\nmathematicians", 
+            "dur": "2.9", 
+            "start": "354.45"
+        }, 
+        {
+            "text": "for hundreds of years.", 
+            "dur": "2.63", 
+            "start": "357.35"
+        }, 
+        {
+            "text": "MALE SPEAKER: Is it something\nyou can have a hunch about?", 
+            "dur": "1.83", 
+            "start": "359.98"
+        }, 
+        {
+            "text": "JAMES GRIME: Yeah, I think\ntechnically we would have to", 
+            "dur": "2.26", 
+            "start": "361.81"
+        }, 
+        {
+            "text": "be Mersenne prime agnostic, but\nit&#39;s definitely something", 
+            "dur": "3.69", 
+            "start": "364.07"
+        }, 
+        {
+            "text": "you have a hunch for.", 
+            "dur": "0.92", 
+            "start": "367.76"
+        }, 
+        {
+            "text": "Mathematics is done that way.", 
+            "dur": "1.78", 
+            "start": "368.68"
+        }, 
+        {
+            "text": "People think mathematics is a\ndry subject, that is logical.", 
+            "dur": "3.6", 
+            "start": "370.46"
+        }, 
+        {
+            "text": "But people have intuition.", 
+            "dur": "1.8", 
+            "start": "374.06"
+        }, 
+        {
+            "text": "They have to pursue\ntheir intuition.", 
+            "dur": "2.94", 
+            "start": "375.86"
+        }, 
+        {
+            "text": "So if you ask me, I would say\nyeah, infinite number of", 
+            "dur": "4.17", 
+            "start": "378.8"
+        }, 
+        {
+            "text": "Mersenne primes?", 
+            "dur": "0.61", 
+            "start": "382.97"
+        }, 
+        {
+            "text": "Yeah, I would think so.", 
+            "dur": "1.93", 
+            "start": "383.58"
+        }, 
+        {
+            "text": "I might be wrong.", 
+            "dur": "1.25", 
+            "start": "385.51"
+        }
+    ], 
+    "title": "31 and Mersenne Primes - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04s4c", 
+        "/m/05x5j", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 178932, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

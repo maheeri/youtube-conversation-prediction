@@ -1,0 +1,185 @@
+{
+    "publish_date": "2014-02-06T10:23:31.000Z", 
+    "video_length": "PT3M43S", 
+    "captions": [
+        {
+            "text": "&gt;&gt; DR GRIME: In 2002 mathematicians\npublished a new method to test for primes", 
+            "dur": "6.25", 
+            "start": "0.35"
+        }, 
+        {
+            "text": "and finally they found a fast way that was\n100%. This is now one of the latest things.", 
+            "dur": "10.831", 
+            "start": "6.669"
+        }, 
+        {
+            "text": "So this is called that AKS test. And it&#39;s\npretty much a very similar idea to what we", 
+            "dur": "6.83", 
+            "start": "17.59"
+        }, 
+        {
+            "text": "did with the Fermat Little Theorem. It&#39;s very\nsimilar to that. And the test is, that if", 
+            "dur": "6.52", 
+            "start": "24.42"
+        }, 
+        {
+            "text": "you&#39;ve got a number p and we are going to\ndo this. We&#39;re going to take (x - 1)", 
+            "dur": "7", 
+            "start": "30.94"
+        }, 
+        {
+            "text": "to the power p and then we&#39;re going to \nsubtract (x^p - 1). Alright.", 
+            "dur": "5.91", 
+            "start": "39.199"
+        }, 
+        {
+            "text": "So it&#39;s a polynomial, I&#39;ll show you an example\nin a second. If all coefficients are divisible", 
+            "dur": "6.59", 
+            "start": "45.109"
+        }, 
+        {
+            "text": "by p then p is prime. And if they&#39;re not it&#39;s\ncomposite. it&#39;s 100% this test. I&#39;ll show", 
+            "dur": "6.34", 
+            "start": "51.699"
+        }, 
+        {
+            "text": "you an example. let&#39;s take (x - 1)\u00b3.\nYeah, let&#39;s do that. (x - 1)\u00b3.", 
+            "dur": "6.651", 
+            "start": "58.039"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: So 3 is the number we&#39;re testing?", 
+            "dur": "1.67", 
+            "start": "64.69"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Yeah, 3 is the number we&#39;re testing.\nWe know it&#39;s a prime don&#39;t we? But we&#39;re going", 
+            "dur": "3.619", 
+            "start": "66.36"
+        }, 
+        {
+            "text": "to test it. We&#39;re going to take (x - 1)\u00b3\nand so that&#39;s, to make it explicit,", 
+            "dur": "7", 
+            "start": "69.979"
+        }, 
+        {
+            "text": "(x - 1) by (x - 1) by (x - 1). OK. Multiply\nthis out, you get a polynomial called", 
+            "dur": "7.23", 
+            "start": "77.07"
+        }, 
+        {
+            "text": "x\u00b3 - 3x\u00b2 + 3x - 1. That&#39;s what you get.\nNow you&#39;re subtracting the x\u00b3,", 
+            "dur": "10.9", 
+            "start": "84.3"
+        }, 
+        {
+            "text": "I&#39;m told- I&#39;m told to that and you&#39;re, what&#39;s\nthat, adding on the 1. So these, these dissapear.", 
+            "dur": "6.269", 
+            "start": "95.21"
+        }, 
+        {
+            "text": "This says these numbers are divisible by 3.\nIf it is divisible by 3, 3 is the number we&#39;re", 
+            "dur": "6", 
+            "start": "101.5"
+        }, 
+        {
+            "text": "testing, then it is a prime. If it&#39;s not divisible\nby 3, it is not a prime. And that&#39;s our 100%", 
+            "dur": "7.5", 
+            "start": "107.5"
+        }, 
+        {
+            "text": "test. So this was really important, this was\nhuge news when they published this. 2002 they", 
+            "dur": "7.47", 
+            "start": "115.02"
+        }, 
+        {
+            "text": "published it and it was huge news because\nit was a fast test as well. Or it could be", 
+            "dur": "6.92", 
+            "start": "122.49"
+        }, 
+        {
+            "text": "made in to a fast test. There&#39;s a little thing\nthey do just to make it a bit faster because", 
+            "dur": "4.77", 
+            "start": "129.41"
+        }, 
+        {
+            "text": "it does get quite difficult, these polynomials\nget quite nasty. Just to make it a little", 
+            "dur": "6.01", 
+            "start": "134.18"
+        }, 
+        {
+            "text": "bit faster what they did is (x - a)^p  minus (x^p - a), so &#39;a&#39;", 
+            "dur": "7", 
+            "start": "140.19"
+        }, 
+        {
+            "text": "is a number like we had before. And they said\nthis was equal to p lots of something plus,", 
+            "dur": "7", 
+            "start": "148.38"
+        }, 
+        {
+            "text": "there you go, a little (x^r - 1) multiplied\nby something. So that&#39;s not quite the same,", 
+            "dur": "7", 
+            "start": "157.17"
+        }, 
+        {
+            "text": "that&#39;s a little bit different, this was actually\nfaster to work with, it makes a faster calculation.", 
+            "dur": "4.7", 
+            "start": "165.34"
+        }, 
+        {
+            "text": "And for this version you need to test a few\ncandidates for &#39;a&#39; here. You test a few.", 
+            "dur": "6.9", 
+            "start": "170.04"
+        }, 
+        {
+            "text": "And if it passes that test then you can determine\nthat p, which is what we&#39;re trying to work", 
+            "dur": "5.25", 
+            "start": "177.54"
+        }, 
+        {
+            "text": "out. Try and work that out, you can find it&#39;s\nprime or not.", 
+            "dur": "4.26", 
+            "start": "182.89"
+        }, 
+        {
+            "text": "Mathematics is done all day, you know, every\nday. New mathematics is coming out all the", 
+            "dur": "4.12", 
+            "start": "187.15"
+        }, 
+        {
+            "text": "time. And only, well I say recently, 12 years\nago they finally solved the problem.", 
+            "dur": "7.73", 
+            "start": "191.27"
+        }, 
+        {
+            "text": "It is still faster to do a Fermat test. it&#39;s still\nfaster to do this, but this is not outrageously", 
+            "dur": "8.9", 
+            "start": "199"
+        }, 
+        {
+            "text": "slow anymore. This doesn&#39;t take us to the\nend of the universe anymore. So we can actually", 
+            "dur": "4.33", 
+            "start": "207.9"
+        }, 
+        {
+            "text": "run this test. It&#39;s slower than the Fermat\ntest, but 100% true.", 
+            "dur": "7", 
+            "start": "212.23"
+        }
+    ], 
+    "title": "Fool-Proof Test for Primes - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05x5j", 
+        "/m/024dz6", 
+        "/m/0vb40_n", 
+        "/m/01932y", 
+        "/m/05fwb"
+    ], 
+    "number_views": 308843, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}
