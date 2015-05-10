@@ -1,0 +1,718 @@
+{
+    "publish_date": "2010-11-28T02:49:57.000Z", 
+    "video_length": "PT4M25S", 
+    "captions": [
+        {
+            "text": "So you&#39;re me and\nyou&#39;re in math class,", 
+            "dur": "1.583", 
+            "start": "0.107"
+        }, 
+        {
+            "text": "and you&#39;re learning\nabout graph theory.", 
+            "dur": "1.28", 
+            "start": "1.69"
+        }, 
+        {
+            "text": "A subject too interesting to be\nincluded in most grade school", 
+            "dur": "2.14", 
+            "start": "2.97"
+        }, 
+        {
+            "text": "curricula, so maybe you&#39;re\nin some special program,", 
+            "dur": "1.73", 
+            "start": "5.11"
+        }, 
+        {
+            "text": "or maybe you&#39;re in\ncollege and somehow", 
+            "dur": "1.3", 
+            "start": "6.84"
+        }, 
+        {
+            "text": "not scarred for life by your\ngrade school math teachers.", 
+            "dur": "2.24", 
+            "start": "8.14"
+        }, 
+        {
+            "text": "I&#39;m not sure why you&#39;re\nnot paying attention,", 
+            "dur": "1.155", 
+            "start": "10.38"
+        }, 
+        {
+            "text": "but maybe you have an\nincompetent teacher,", 
+            "dur": "1.365", 
+            "start": "11.535"
+        }, 
+        {
+            "text": "and it&#39;s too heartbreaking\nto watch him butcher what", 
+            "dur": "1.545", 
+            "start": "12.9"
+        }, 
+        {
+            "text": "could have been such a\nfun subject full of snakes", 
+            "dur": "2.041", 
+            "start": "14.445"
+        }, 
+        {
+            "text": "and balloons.", 
+            "dur": "0.604", 
+            "start": "16.486"
+        }, 
+        {
+            "text": "Snakes aren&#39;t really all that\nrelevant to the mathematics", 
+            "dur": "1.87", 
+            "start": "17.09"
+        }, 
+        {
+            "text": "here, but being able to draw\nthem will be useful later.", 
+            "dur": "1.9", 
+            "start": "18.96"
+        }, 
+        {
+            "text": "So you should probably\nstart practicing now.", 
+            "dur": "2.05", 
+            "start": "20.86"
+        }, 
+        {
+            "text": "I&#39;ve got a family of\nthree related doodle games", 
+            "dur": "1.67", 
+            "start": "22.91"
+        }, 
+        {
+            "text": "to show you, all stemming\nfrom drawing squiggles", 
+            "dur": "1.999", 
+            "start": "24.58"
+        }, 
+        {
+            "text": "all over the page.", 
+            "dur": "0.781", 
+            "start": "26.579"
+        }, 
+        {
+            "text": "The first one goes like this.", 
+            "dur": "1.399", 
+            "start": "27.36"
+        }, 
+        {
+            "text": "Draw a squiggle.", 
+            "dur": "0.666", 
+            "start": "28.759"
+        }, 
+        {
+            "text": "A closed curve that\nends where it begins.", 
+            "dur": "1.675", 
+            "start": "29.425"
+        }, 
+        {
+            "text": "The only real rule\nhere is to make", 
+            "dur": "1.416", 
+            "start": "31.1"
+        }, 
+        {
+            "text": "sure all the crossings\nare distinct.", 
+            "dur": "2.064", 
+            "start": "32.516"
+        }, 
+        {
+            "text": "Next, make it start weaving.", 
+            "dur": "1.32", 
+            "start": "34.58"
+        }, 
+        {
+            "text": "Follow the curve around, and at\neach crossing, alternate going", 
+            "dur": "2.24", 
+            "start": "35.9"
+        }, 
+        {
+            "text": "under and over until you&#39;ve\nassigned all the crossing.", 
+            "dur": "2.25", 
+            "start": "38.14"
+        }, 
+        {
+            "text": "Then put on the finishing\ntouches, and voila.", 
+            "dur": "2.05", 
+            "start": "40.39"
+        }, 
+        {
+            "text": "You try it again, adding\na little artistic flair", 
+            "dur": "1.533", 
+            "start": "42.44"
+        }, 
+        {
+            "text": "to the lines.", 
+            "dur": "0.541", 
+            "start": "43.973"
+        }, 
+        {
+            "text": "The cool part is that\nthe meeting always", 
+            "dur": "1.796", 
+            "start": "44.514"
+        }, 
+        {
+            "text": "works out perfectly.", 
+            "dur": "0.874", 
+            "start": "46.31"
+        }, 
+        {
+            "text": "When you&#39;re going around\nalternating over and under,", 
+            "dur": "2.166", 
+            "start": "47.184"
+        }, 
+        {
+            "text": "and get to a crossing\nyou&#39;ve already assigned,", 
+            "dur": "1.916", 
+            "start": "49.35"
+        }, 
+        {
+            "text": "it will always be the right one.", 
+            "dur": "1.439", 
+            "start": "51.266"
+        }, 
+        {
+            "text": "This is very interesting, and\nwe&#39;ll get back to it later.", 
+            "dur": "2.375", 
+            "start": "52.705"
+        }, 
+        {
+            "text": "But first I&#39;d like to\npoint out two things.", 
+            "dur": "2.161", 
+            "start": "55.08"
+        }, 
+        {
+            "text": "One is that this works for\nany number of closed curves", 
+            "dur": "2.249", 
+            "start": "57.241"
+        }, 
+        {
+            "text": "on the plane, so go ahead\nand link stuff up or make", 
+            "dur": "2.55", 
+            "start": "59.49"
+        }, 
+        {
+            "text": "a weaving out of\ntwo colors of yarn.", 
+            "dur": "2.08", 
+            "start": "62.04"
+        }, 
+        {
+            "text": "The other is that\nthis doodle also", 
+            "dur": "1.43", 
+            "start": "64.12"
+        }, 
+        {
+            "text": "works for snakes on a plane,\nas long as you keep the head", 
+            "dur": "2.665", 
+            "start": "65.55"
+        }, 
+        {
+            "text": "and tail on the outside or\non the same inside face,", 
+            "dur": "2.125", 
+            "start": "68.215"
+        }, 
+        {
+            "text": "because mathematically it&#39;s\nthe same as if they linked up.", 
+            "dur": "2.25", 
+            "start": "70.34"
+        }, 
+        {
+            "text": "Or just actually link\nup the head and tail,", 
+            "dur": "1.83", 
+            "start": "72.59"
+        }, 
+        {
+            "text": "into an Ouroboros.", 
+            "dur": "1.29", 
+            "start": "74.42"
+        }, 
+        {
+            "text": "For example, here&#39;s\nthree Ouroborii", 
+            "dur": "1.495", 
+            "start": "75.71"
+        }, 
+        {
+            "text": "in a configuration known as\nthe Borromean Rings, which", 
+            "dur": "2.675", 
+            "start": "77.205"
+        }, 
+        {
+            "text": "has the neat property that\nno two snakes are actually", 
+            "dur": "2.7", 
+            "start": "79.88"
+        }, 
+        {
+            "text": "linked with each other.", 
+            "dur": "1.33", 
+            "start": "82.58"
+        }, 
+        {
+            "text": "Also, because I\nlike naming things,", 
+            "dur": "1.484", 
+            "start": "83.91"
+        }, 
+        {
+            "text": "this design shall henceforth\nbe known as the Ouroborromean", 
+            "dur": "2.416", 
+            "start": "85.394"
+        }, 
+        {
+            "text": "Rings.", 
+            "dur": "1.38", 
+            "start": "87.81"
+        }, 
+        {
+            "text": "But you are me,\nafter all, so you&#39;re", 
+            "dur": "1.501", 
+            "start": "89.19"
+        }, 
+        {
+            "text": "finding a lot to think\nabout, even with just drawing", 
+            "dur": "2.165", 
+            "start": "90.691"
+        }, 
+        {
+            "text": "one line that isn&#39;t a snake.", 
+            "dur": "1.274", 
+            "start": "92.856"
+        }, 
+        {
+            "text": "Such as what kind of\nknot are you drawing?", 
+            "dur": "1.75", 
+            "start": "94.13"
+        }, 
+        {
+            "text": "And can you classify them?", 
+            "dur": "1.229", 
+            "start": "95.88"
+        }, 
+        {
+            "text": "For example, these three\nknots all have five crossings,", 
+            "dur": "2.291", 
+            "start": "97.109"
+        }, 
+        {
+            "text": "but two are essentially the\nsame knot, and one is different.", 
+            "dur": "2.844", 
+            "start": "99.4"
+        }, 
+        {
+            "text": "Knot theory questions\nare actually", 
+            "dur": "1.416", 
+            "start": "102.244"
+        }, 
+        {
+            "text": "really difficult\nand interesting,", 
+            "dur": "1.38", 
+            "start": "103.66"
+        }, 
+        {
+            "text": "but you&#39;re going to have\nlook that one up yourself.", 
+            "dur": "1.895", 
+            "start": "105.04"
+        }, 
+        {
+            "text": "Oh, and you should also\nlearn how to draw rope,", 
+            "dur": "1.515", 
+            "start": "106.935"
+        }, 
+        {
+            "text": "because it&#39;s an integral\npart of knot theory.", 
+            "dur": "2.209", 
+            "start": "108.45"
+        }, 
+        {
+            "text": "So integral in fact,\nthat if you draw", 
+            "dur": "1.541", 
+            "start": "110.659"
+        }, 
+        {
+            "text": "a bunch of integral\nsigns in a row--", 
+            "dur": "1.5", 
+            "start": "112.2"
+        }, 
+        {
+            "text": "a sight which is often quite\ndaunting to a mathematician--", 
+            "dur": "2.64", 
+            "start": "113.7"
+        }, 
+        {
+            "text": "you can just shade\nit in, and tada.", 
+            "dur": "2.12", 
+            "start": "116.34"
+        }, 
+        {
+            "text": "But being able to draw\nsnakes is also super useful,", 
+            "dur": "2.666", 
+            "start": "118.46"
+        }, 
+        {
+            "text": "especially as this\ndoodle game is", 
+            "dur": "1.374", 
+            "start": "121.126"
+        }, 
+        {
+            "text": "excellent for producing\nDark Mark tattoo designs.", 
+            "dur": "2.65", 
+            "start": "122.5"
+        }, 
+        {
+            "text": "Also, this doodle game can be\ncombined with the stars doodle", 
+            "dur": "2.5", 
+            "start": "125.15"
+        }, 
+        {
+            "text": "game.", 
+            "dur": "0.5", 
+            "start": "127.65"
+        }, 
+        {
+            "text": "For example, if this\npentagram gets knighted,", 
+            "dur": "2.01", 
+            "start": "128.15"
+        }, 
+        {
+            "text": "it will henceforth be\nknown as Sir Pentagram.", 
+            "dur": "3.43", 
+            "start": "130.16"
+        }, 
+        {
+            "text": "Also notice that this snakes\nis a five twist Mobius", 
+            "dur": "2.24", 
+            "start": "133.59"
+        }, 
+        {
+            "text": "strip, so you could also\ncall it a Mobiaborros,", 
+            "dur": "2.08", 
+            "start": "135.83"
+        }, 
+        {
+            "text": "but we&#39;ll get back to\none sidedness later.", 
+            "dur": "1.865", 
+            "start": "137.91"
+        }, 
+        {
+            "text": "Or if you want to draw\nsomething super complicated,", 
+            "dur": "2.125", 
+            "start": "139.775"
+        }, 
+        {
+            "text": "like the eighth square star,\ncombining snakes and stars", 
+            "dur": "2.98", 
+            "start": "141.9"
+        }, 
+        {
+            "text": "is a great technique\nfor that to.", 
+            "dur": "1.99", 
+            "start": "144.88"
+        }, 
+        {
+            "text": "Here is a boa that\nate eight eight-gons.", 
+            "dur": "2.795", 
+            "start": "146.87"
+        }, 
+        {
+            "text": "The creativity that\nyour mind is forced", 
+            "dur": "1.625", 
+            "start": "149.665"
+        }, 
+        {
+            "text": "into during these boring classes\nis both a gift and a burden,", 
+            "dur": "3.225", 
+            "start": "151.29"
+        }, 
+        {
+            "text": "but here&#39;s a few authentic\ndoodles using these techniques", 
+            "dur": "2.375", 
+            "start": "154.515"
+        }, 
+        {
+            "text": "that I did when I\nwas in college, just", 
+            "dur": "1.583", 
+            "start": "156.89"
+        }, 
+        {
+            "text": "to show you that I&#39;m\nnot making all this up.", 
+            "dur": "1.897", 
+            "start": "158.473"
+        }, 
+        {
+            "text": "These are from a freshman\nmusic history class,", 
+            "dur": "1.58", 
+            "start": "160.37"
+        }, 
+        {
+            "text": "because I happen to be able\nto find this notebook--", 
+            "dur": "1.71", 
+            "start": "161.95"
+        }, 
+        {
+            "text": "but this is a doodle I\nactually did most often", 
+            "dur": "1.916", 
+            "start": "163.66"
+        }, 
+        {
+            "text": "during my ninth grade\nItalian class-- language", 
+            "dur": "2.024", 
+            "start": "165.576"
+        }, 
+        {
+            "text": "being another subject\nusually taught", 
+            "dur": "1.8", 
+            "start": "167.6"
+        }, 
+        {
+            "text": "by unfathomably stupid methods.", 
+            "dur": "2.032", 
+            "start": "169.4"
+        }, 
+        {
+            "text": "For example, these snakes are\nhaving trouble communicating,", 
+            "dur": "2.458", 
+            "start": "171.432"
+        }, 
+        {
+            "text": "because one speaks\nin parseltongue,", 
+            "dur": "1.458", 
+            "start": "173.89"
+        }, 
+        {
+            "text": "and the other speaks in Python.", 
+            "dur": "1.468", 
+            "start": "175.348"
+        }, 
+        {
+            "text": "And their language classes,\nmuch like math classes,", 
+            "dur": "2.124", 
+            "start": "176.816"
+        }, 
+        {
+            "text": "focus too much on memorization,\nand not enough on immersion.", 
+            "dur": "2.617", 
+            "start": "178.94"
+        }, 
+        {
+            "text": "But just pretend\nyou&#39;re in math class,", 
+            "dur": "1.583", 
+            "start": "181.557"
+        }, 
+        {
+            "text": "learning about graph theory,\nso I can draw the parallels.", 
+            "dur": "2.497", 
+            "start": "183.14"
+        }, 
+        {
+            "text": "Because here&#39;s the\nsecond doodle game,", 
+            "dur": "1.583", 
+            "start": "185.637"
+        }, 
+        {
+            "text": "which is very much\nmathematically related.", 
+            "dur": "2.095", 
+            "start": "187.22"
+        }, 
+        {
+            "text": "Draw a squiggle\nall over the page", 
+            "dur": "1.375", 
+            "start": "189.315"
+        }, 
+        {
+            "text": "and make sure it closes up.", 
+            "dur": "1.8", 
+            "start": "190.69"
+        }, 
+        {
+            "text": "Pick an outside section\nand color it in.", 
+            "dur": "1.774", 
+            "start": "192.49"
+        }, 
+        {
+            "text": "Now you want to\nalternate coloring", 
+            "dur": "1.416", 
+            "start": "194.264"
+        }, 
+        {
+            "text": "so that no two faces of\nthe same color touch.", 
+            "dur": "2.77", 
+            "start": "195.68"
+        }, 
+        {
+            "text": "Curiously enough, much\nlike the weaving game,", 
+            "dur": "2.45", 
+            "start": "198.45"
+        }, 
+        {
+            "text": "this game also always\nmathematically works out.", 
+            "dur": "2.902", 
+            "start": "200.9"
+        }, 
+        {
+            "text": "It also works really well\nif you make the lines", 
+            "dur": "1.958", 
+            "start": "203.802"
+        }, 
+        {
+            "text": "spiky instead of a smooth curve.", 
+            "dur": "1.5", 
+            "start": "205.76"
+        }, 
+        {
+            "text": "And once again, it works\nwith multiple lines too.", 
+            "dur": "1.85", 
+            "start": "207.26"
+        }, 
+        {
+            "text": "It probably has something to\ndo with the two-colorability", 
+            "dur": "2.02", 
+            "start": "209.11"
+        }, 
+        {
+            "text": "of graphs of even\ndegree, which might even", 
+            "dur": "1.41", 
+            "start": "211.13"
+        }, 
+        {
+            "text": "be what your teacher\nis trying to teach you", 
+            "dur": "1.19", 
+            "start": "212.54"
+        }, 
+        {
+            "text": "at this very moment, for\nall you&#39;re paying attention.", 
+            "dur": "2.11", 
+            "start": "213.73"
+        }, 
+        {
+            "text": "But maybe you can chat with\nhim after class about snakes", 
+            "dur": "1.7", 
+            "start": "215.84"
+        }, 
+        {
+            "text": "and he&#39;ll explain it to\nyou, because I&#39;d rather", 
+            "dur": "1.4", 
+            "start": "217.54"
+        }, 
+        {
+            "text": "move on to the next doodle game.", 
+            "dur": "1.54", 
+            "start": "218.94"
+        }, 
+        {
+            "text": "This is a combination\nof the last two.", 
+            "dur": "1.625", 
+            "start": "220.48"
+        }, 
+        {
+            "text": "Step one, draw a\nsmooth, closed curve.", 
+            "dur": "2.275", 
+            "start": "222.105"
+        }, 
+        {
+            "text": "Step two assign\novers and unders.", 
+            "dur": "2.03", 
+            "start": "224.38"
+        }, 
+        {
+            "text": "Step three, shade\nin every other face.", 
+            "dur": "1.86", 
+            "start": "226.41"
+        }, 
+        {
+            "text": "After that, it takes a\nlittle artistic finesse", 
+            "dur": "1.916", 
+            "start": "228.27"
+        }, 
+        {
+            "text": "to get the shading\nright, but you end up", 
+            "dur": "1.764", 
+            "start": "230.186"
+        }, 
+        {
+            "text": "with some sort of\nreally neat surface.", 
+            "dur": "1.78", 
+            "start": "231.95"
+        }, 
+        {
+            "text": "For example, this one has\nonly one edge and one side.", 
+            "dur": "2.886", 
+            "start": "233.73"
+        }, 
+        {
+            "text": "But if you&#39;re\ninterested in this,", 
+            "dur": "1.374", 
+            "start": "236.616"
+        }, 
+        {
+            "text": "you should really be talking\nto your resident topology", 
+            "dur": "2.249", 
+            "start": "237.99"
+        }, 
+        {
+            "text": "professor, and not me.", 
+            "dur": "1.122", 
+            "start": "240.239"
+        }, 
+        {
+            "text": "But here&#39;s the thing, if someone\nasked you five minutes ago,", 
+            "dur": "2.499", 
+            "start": "241.361"
+        }, 
+        {
+            "text": "what tangled up snakes,\ndemented checkerboards,", 
+            "dur": "1.958", 
+            "start": "243.86"
+        }, 
+        {
+            "text": "and crazy, twisty\nsurfaces have in common,", 
+            "dur": "1.992", 
+            "start": "245.818"
+        }, 
+        {
+            "text": "what would you have answered?", 
+            "dur": "1.45", 
+            "start": "247.81"
+        }, 
+        {
+            "text": "This is why I love mathematics.", 
+            "dur": "1.984", 
+            "start": "249.26"
+        }, 
+        {
+            "text": "The moment when you realize\nthat something seemingly", 
+            "dur": "2.166", 
+            "start": "251.244"
+        }, 
+        {
+            "text": "arbitrary and confusing is\nactually part of something.", 
+            "dur": "3.196", 
+            "start": "253.41"
+        }, 
+        {
+            "text": "It&#39;s better than the\ncleverest possible", 
+            "dur": "1.624", 
+            "start": "256.606"
+        }, 
+        {
+            "text": "ending to any crime\nshow or mystery novel,", 
+            "dur": "1.749", 
+            "start": "258.23"
+        }, 
+        {
+            "text": "because that&#39;s\nonly the beginning.", 
+            "dur": "1.831", 
+            "start": "259.979"
+        }, 
+        {
+            "text": "Anyway, have fun with that.", 
+            "dur": "2.396", 
+            "start": "261.81"
+        }
+    ], 
+    "title": "Doodling in Math Class: Snakes + Graphs", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/04rjg", 
+        "/m/0mfx0", 
+        "/m/01w3mm"
+    ], 
+    "number_views": 1897569, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

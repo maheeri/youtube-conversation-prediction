@@ -1,0 +1,363 @@
+{
+    "publish_date": "2012-07-30T18:02:26.000Z", 
+    "video_length": "PT3M1S", 
+    "captions": [
+        {
+            "text": "So we&#39;re going to do something\nthat looks really complicated,", 
+            "dur": "4.78", 
+            "start": "0.28"
+        }, 
+        {
+            "text": "something actually, if you talk\nabout maths, you go, oh,", 
+            "dur": "2.06", 
+            "start": "5.06"
+        }, 
+        {
+            "text": "no that looks horrific.", 
+            "dur": "1.59", 
+            "start": "7.12"
+        }, 
+        {
+            "text": "And then we&#39;ll see how it\nturns out, all right?", 
+            "dur": "2.454", 
+            "start": "8.71"
+        }, 
+        {
+            "text": "[MUSIC PLAYING]", 
+            "dur": "11.106", 
+            "start": "11.164"
+        }, 
+        {
+            "text": "Yes.", 
+            "dur": "0.76", 
+            "start": "22.27"
+        }, 
+        {
+            "text": "We&#39;ve done it.", 
+            "dur": "1.06", 
+            "start": "23.03"
+        }, 
+        {
+            "text": "That is probably the most\nhorrific equation we&#39;ve ever", 
+            "dur": "5.64", 
+            "start": "24.09"
+        }, 
+        {
+            "text": "done on Numberphile.", 
+            "dur": "1.96", 
+            "start": "29.73"
+        }, 
+        {
+            "text": "But what does it mean?", 
+            "dur": "1.39", 
+            "start": "31.69"
+        }, 
+        {
+            "text": "Well, let&#39;s try this out.", 
+            "dur": "1.36", 
+            "start": "33.08"
+        }, 
+        {
+            "text": "We&#39;re going to plot it, right?", 
+            "dur": "1.07", 
+            "start": "34.44"
+        }, 
+        {
+            "text": "We&#39;re going to draw a graph\nin my computer here.", 
+            "dur": "3.12", 
+            "start": "35.51"
+        }, 
+        {
+            "text": "And now, I&#39;m going to\ndraw the graph.", 
+            "dur": "1.78", 
+            "start": "38.63"
+        }, 
+        {
+            "text": "And it should be-- let me make\nthat bigger for you-- it&#39;s the", 
+            "dur": "3.03", 
+            "start": "40.41"
+        }, 
+        {
+            "text": "equation Batman deserves, but\nnot one he needs right now.", 
+            "dur": "4.2", 
+            "start": "43.44"
+        }, 
+        {
+            "text": "Again, that is the\nBatman curve.", 
+            "dur": "2.01", 
+            "start": "47.64"
+        }, 
+        {
+            "text": "It was famous when it went\nviral last year.", 
+            "dur": "4.09", 
+            "start": "49.65"
+        }, 
+        {
+            "text": "A high school teacher designed\nthis curve, this equation, so", 
+            "dur": "4.88", 
+            "start": "53.74"
+        }, 
+        {
+            "text": "that it would draw\nthe Batman logo.", 
+            "dur": "2.19", 
+            "start": "58.62"
+        }, 
+        {
+            "text": "And he made it quite cleverly\nout of different curves and", 
+            "dur": "3.47", 
+            "start": "60.81"
+        }, 
+        {
+            "text": "straight lines.", 
+            "dur": "1.42", 
+            "start": "64.28"
+        }, 
+        {
+            "text": "Can I show you how he did it?", 
+            "dur": "1.06", 
+            "start": "65.7"
+        }, 
+        {
+            "text": "So here we&#39;ve got some things\nthat you may be familiar with.", 
+            "dur": "3.73", 
+            "start": "66.76"
+        }, 
+        {
+            "text": "Straight lines are quite\neasy to draw.", 
+            "dur": "3.26", 
+            "start": "70.49"
+        }, 
+        {
+            "text": "What he did, though,\nis we don&#39;t want", 
+            "dur": "2.51", 
+            "start": "73.75"
+        }, 
+        {
+            "text": "a circle for Batman.", 
+            "dur": "1.84", 
+            "start": "76.26"
+        }, 
+        {
+            "text": "We want an ellipse.", 
+            "dur": "1.53", 
+            "start": "78.1"
+        }, 
+        {
+            "text": "Has a slightly different\nequation, so", 
+            "dur": "1.58", 
+            "start": "79.63"
+        }, 
+        {
+            "text": "it looks like that.", 
+            "dur": "1.44", 
+            "start": "81.21"
+        }, 
+        {
+            "text": "Now, he turned this into\nhis Batman wings.", 
+            "dur": "3.57", 
+            "start": "82.65"
+        }, 
+        {
+            "text": "Obviously, we don&#39;t want\nthe whole thing.", 
+            "dur": "3.35", 
+            "start": "86.22"
+        }, 
+        {
+            "text": "That&#39;s not what the\ncurve looked like.", 
+            "dur": "2.04", 
+            "start": "89.57"
+        }, 
+        {
+            "text": "He actually just used\nthese two ends.", 
+            "dur": "2.03", 
+            "start": "91.61"
+        }, 
+        {
+            "text": "He found a way to multiply his\nequation, and the effect was", 
+            "dur": "6.57", 
+            "start": "93.64"
+        }, 
+        {
+            "text": "it hides some of the curve.", 
+            "dur": "2.51", 
+            "start": "100.21"
+        }, 
+        {
+            "text": "What happens here in this bit\nthat&#39;s missing, this becomes a", 
+            "dur": "4.16", 
+            "start": "102.72"
+        }, 
+        {
+            "text": "complex number, imaginary\nnumber, which means", 
+            "dur": "2.26", 
+            "start": "106.88"
+        }, 
+        {
+            "text": "you can&#39;t draw it.", 
+            "dur": "0.6", 
+            "start": "109.14"
+        }, 
+        {
+            "text": "And that&#39;s what he did.", 
+            "dur": "1.02", 
+            "start": "109.74"
+        }, 
+        {
+            "text": "He just carried on doing that.", 
+            "dur": "0.96", 
+            "start": "110.76"
+        }, 
+        {
+            "text": "He just used curves and\nstraight lines.", 
+            "dur": "2.73", 
+            "start": "111.72"
+        }, 
+        {
+            "text": "And let me show you what they\nlook like to make his Batman.", 
+            "dur": "4.39", 
+            "start": "114.45"
+        }, 
+        {
+            "text": "Now, he used six curves.", 
+            "dur": "1.92", 
+            "start": "118.84"
+        }, 
+        {
+            "text": "Let&#39;s have a look at them.", 
+            "dur": "0.83", 
+            "start": "120.76"
+        }, 
+        {
+            "text": "So he used the ellipse.", 
+            "dur": "2.7", 
+            "start": "121.59"
+        }, 
+        {
+            "text": "And, oh, this is quite clever.", 
+            "dur": "1.29", 
+            "start": "124.29"
+        }, 
+        {
+            "text": "This is the bottom of\nthe Batman symbol.", 
+            "dur": "3.07", 
+            "start": "125.58"
+        }, 
+        {
+            "text": "And these straight lines and\nthese ones are going to form", 
+            "dur": "2.73", 
+            "start": "128.65"
+        }, 
+        {
+            "text": "his ears, very pointy\nones there.", 
+            "dur": "2.29", 
+            "start": "131.38"
+        }, 
+        {
+            "text": "And then, there you go,\nsome more curves.", 
+            "dur": "1.585", 
+            "start": "133.67"
+        }, 
+        {
+            "text": "That finishes off the picture.", 
+            "dur": "1.365", 
+            "start": "135.255"
+        }, 
+        {
+            "text": "You put it all together, and\nthat&#39;s what you get.", 
+            "dur": "3.92", 
+            "start": "136.62"
+        }, 
+        {
+            "text": "That&#39;s the Batman.", 
+            "dur": "0.88", 
+            "start": "140.54"
+        }, 
+        {
+            "text": "So he hid parts of it using\nimaginary numbers, yeah, using", 
+            "dur": "4.38", 
+            "start": "141.42"
+        }, 
+        {
+            "text": "square roots, which would turn\nsome numbers that he doesn&#39;t", 
+            "dur": "3.58", 
+            "start": "145.8"
+        }, 
+        {
+            "text": "want to find into imaginary\nnumbers.", 
+            "dur": "2.14", 
+            "start": "149.38"
+        }, 
+        {
+            "text": "It was a very clever way.", 
+            "dur": "1.43", 
+            "start": "151.52"
+        }, 
+        {
+            "text": "He used the same curves, but\nnow you can see he&#39;s hidden", 
+            "dur": "2.21", 
+            "start": "152.95"
+        }, 
+        {
+            "text": "some parts of it.", 
+            "dur": "1.7", 
+            "start": "155.16"
+        }, 
+        {
+            "text": "You put those together, and\nyou put them together by", 
+            "dur": "2.03", 
+            "start": "156.86"
+        }, 
+        {
+            "text": "multiplying.", 
+            "dur": "1.58", 
+            "start": "158.89"
+        }, 
+        {
+            "text": "So he put it together.", 
+            "dur": "1.27", 
+            "start": "160.47"
+        }, 
+        {
+            "text": "He multiplied these equations\ntogether.", 
+            "dur": "2.77", 
+            "start": "161.74"
+        }, 
+        {
+            "text": "What do you get?", 
+            "dur": "0.75", 
+            "start": "164.51"
+        }, 
+        {
+            "text": "The Batman curve.", 
+            "dur": "1.9", 
+            "start": "165.26"
+        }, 
+        {
+            "text": "It went viral last year, but I\nwanted to do it, because I&#39;m", 
+            "dur": "4.21", 
+            "start": "167.16"
+        }, 
+        {
+            "text": "very much looking forward to\nthe Dark Knight coming out,", 
+            "dur": "3.01", 
+            "start": "171.37"
+        }, 
+        {
+            "text": "Dark Knight Rises.", 
+            "dur": "1.25", 
+            "start": "174.38"
+        }
+    ], 
+    "title": "Batman Equation - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0vb40_n", 
+        "/m/0vb43ff", 
+        "/m/02jnw"
+    ], 
+    "number_views": 543253, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

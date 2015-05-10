@@ -1,0 +1,1067 @@
+{
+    "publish_date": "2013-01-20T18:11:52.000Z", 
+    "video_length": "PT9M14S", 
+    "captions": [
+        {
+            "text": "STEVE MOULD: This is\nBenford&#39;s Law.", 
+            "dur": "1.36", 
+            "start": "0.43"
+        }, 
+        {
+            "text": "And it&#39;s about numbers, but it&#39;s\nabout the leading digit.", 
+            "dur": "3.62", 
+            "start": "1.79"
+        }, 
+        {
+            "text": "For example, you could look at\nthe populations of all the", 
+            "dur": "4.13", 
+            "start": "5.41"
+        }, 
+        {
+            "text": "countries in the world and\nlook at the leading", 
+            "dur": "2.38", 
+            "start": "9.54"
+        }, 
+        {
+            "text": "digits of all those.", 
+            "dur": "0.87", 
+            "start": "11.92"
+        }, 
+        {
+            "text": "So for example, if it was 1,269,\nthen the leading digit", 
+            "dur": "4.44", 
+            "start": "12.79"
+        }, 
+        {
+            "text": "in that case is the one.", 
+            "dur": "3.09", 
+            "start": "17.23"
+        }, 
+        {
+            "text": "Benford&#39;s Law works on a\ndistribution of numbers if", 
+            "dur": "3.92", 
+            "start": "20.32"
+        }, 
+        {
+            "text": "that distribution spans quite\na few orders of magnitude.", 
+            "dur": "5.44", 
+            "start": "24.24"
+        }, 
+        {
+            "text": "And the brilliant thing about\npopulations of countries is", 
+            "dur": "3.04", 
+            "start": "29.68"
+        }, 
+        {
+            "text": "that it actually goes from\ntens up to billions.", 
+            "dur": "2.5", 
+            "start": "32.72"
+        }, 
+        {
+            "text": "If you were to think about\nthat, OK, what are the", 
+            "dur": "3.59", 
+            "start": "35.22"
+        }, 
+        {
+            "text": "distribution of leading\ndigits.", 
+            "dur": "1.75", 
+            "start": "38.81"
+        }, 
+        {
+            "text": "So some of the populations will\nstart with the one, some", 
+            "dur": "4.21", 
+            "start": "40.56"
+        }, 
+        {
+            "text": "will start with two, three,\nfour, five, six,", 
+            "dur": "1.3", 
+            "start": "44.77"
+        }, 
+        {
+            "text": "seven, eight, or nine.", 
+            "dur": "1.56", 
+            "start": "46.07"
+        }, 
+        {
+            "text": "And so there are nine possible\nleading digits.", 
+            "dur": "2.4", 
+            "start": "47.63"
+        }, 
+        {
+            "text": "And you might imagine that each\none of those possible", 
+            "dur": "3.17", 
+            "start": "50.03"
+        }, 
+        {
+            "text": "leading digits are equally\nlikely to appear.", 
+            "dur": "2.23", 
+            "start": "53.2"
+        }, 
+        {
+            "text": "So that&#39;s one in nine--", 
+            "dur": "1.78", 
+            "start": "55.43"
+        }, 
+        {
+            "text": "11%.", 
+            "dur": "0.8", 
+            "start": "57.21"
+        }, 
+        {
+            "text": "And if I was to plot that on a\ngraph, you might expect that", 
+            "dur": "2.84", 
+            "start": "58.01"
+        }, 
+        {
+            "text": "to fluctuate around 11%.", 
+            "dur": "4.4", 
+            "start": "60.85"
+        }, 
+        {
+            "text": "So it&#39;s going to go like that.", 
+            "dur": "1.74", 
+            "start": "65.25"
+        }, 
+        {
+            "text": "So what actually happens is\nthat a third of the time,", 
+            "dur": "3.92", 
+            "start": "66.99"
+        }, 
+        {
+            "text": "that&#39;s up here.", 
+            "dur": "2.66", 
+            "start": "70.91"
+        }, 
+        {
+            "text": "A third of the time the\nnumber you choose will", 
+            "dur": "4.89", 
+            "start": "73.57"
+        }, 
+        {
+            "text": "start with a one.", 
+            "dur": "2.05", 
+            "start": "78.46"
+        }, 
+        {
+            "text": "And it will hardly ever\nstart with a nine.", 
+            "dur": "1.77", 
+            "start": "80.51"
+        }, 
+        {
+            "text": "So nine is down here--", 
+            "dur": "1.82", 
+            "start": "82.28"
+        }, 
+        {
+            "text": "tiny number.", 
+            "dur": "0.72", 
+            "start": "84.1"
+        }, 
+        {
+            "text": "And then you get this\nbrilliant curve that", 
+            "dur": "1.88", 
+            "start": "84.82"
+        }, 
+        {
+            "text": "goes up like that.", 
+            "dur": "2.655", 
+            "start": "86.7"
+        }, 
+        {
+            "text": "Isn&#39;t that crazy?", 
+            "dur": "1.475", 
+            "start": "89.355"
+        }, 
+        {
+            "text": "BRADY HARAN: I know you talk\nabout this sometimes in talks", 
+            "dur": "2.13", 
+            "start": "90.83"
+        }, 
+        {
+            "text": "and things you do.", 
+            "dur": "0.92", 
+            "start": "92.96"
+        }, 
+        {
+            "text": "What&#39;s the reaction to\nthat normally when", 
+            "dur": "1.49", 
+            "start": "93.88"
+        }, 
+        {
+            "text": "you tell people this?", 
+            "dur": "1.02", 
+            "start": "95.37"
+        }, 
+        {
+            "text": "STEVE MOULD: The reaction?", 
+            "dur": "0.72", 
+            "start": "96.39"
+        }, 
+        {
+            "text": "The noise is sort\nof like this--", 
+            "dur": "1.82", 
+            "start": "97.11"
+        }, 
+        {
+            "text": "ohh.", 
+            "dur": "2.57", 
+            "start": "98.93"
+        }, 
+        {
+            "text": "And there&#39;s a certain\namount of disbelief", 
+            "dur": "1.25", 
+            "start": "101.5"
+        }, 
+        {
+            "text": "sometimes as well.", 
+            "dur": "0.95", 
+            "start": "102.75"
+        }, 
+        {
+            "text": "And the way we do it actually\nin the show is that we get", 
+            "dur": "3.67", 
+            "start": "103.7"
+        }, 
+        {
+            "text": "people to tweet numbers to us.", 
+            "dur": "2.99", 
+            "start": "107.37"
+        }, 
+        {
+            "text": "So we&#39;re collecting numbers, and\nI try to give them ideas.", 
+            "dur": "3.71", 
+            "start": "110.36"
+        }, 
+        {
+            "text": "So maybe like, take the distance\nfrom the venue to", 
+            "dur": "4.11", 
+            "start": "114.07"
+        }, 
+        {
+            "text": "where they live and convert that\ninto some strange units.", 
+            "dur": "2.69", 
+            "start": "118.18"
+        }, 
+        {
+            "text": "Or something like that.", 
+            "dur": "0.86", 
+            "start": "120.87"
+        }, 
+        {
+            "text": "The interesting thing is, like I\nwas saying, it works so long", 
+            "dur": "3.52", 
+            "start": "121.73"
+        }, 
+        {
+            "text": "as the distribution you&#39;re\nchoosing from spans loads of", 
+            "dur": "5.03", 
+            "start": "125.25"
+        }, 
+        {
+            "text": "orders of magnitude.", 
+            "dur": "1.08", 
+            "start": "130.28"
+        }, 
+        {
+            "text": "But if you&#39;re picking numbers\nfrom lots of different", 
+            "dur": "3.68", 
+            "start": "131.36"
+        }, 
+        {
+            "text": "distributions, the individual\ndistributions don&#39;t have to", 
+            "dur": "3.16", 
+            "start": "135.04"
+        }, 
+        {
+            "text": "span lots of orders\nof magnitude.", 
+            "dur": "2.76", 
+            "start": "138.2"
+        }, 
+        {
+            "text": "The meta-distribution of\nindividual things picked from", 
+            "dur": "3.14", 
+            "start": "140.96"
+        }, 
+        {
+            "text": "different distributions follows\nBenford&#39;s Law anyway.", 
+            "dur": "3.41", 
+            "start": "144.1"
+        }, 
+        {
+            "text": "So it works brilliantly well.", 
+            "dur": "2.28", 
+            "start": "147.51"
+        }, 
+        {
+            "text": "BRADY HARAN: What clump\nof numbers will", 
+            "dur": "1.96", 
+            "start": "149.79"
+        }, 
+        {
+            "text": "this not work for?", 
+            "dur": "2.02", 
+            "start": "151.75"
+        }, 
+        {
+            "text": "STEVE MOULD: Human\nheight in meters.", 
+            "dur": "2.2", 
+            "start": "153.77"
+        }, 
+        {
+            "text": "So humans are between one\nmeter and three meters.", 
+            "dur": "5.41", 
+            "start": "155.97"
+        }, 
+        {
+            "text": "So it doesn&#39;t work for that.", 
+            "dur": "1.75", 
+            "start": "161.38"
+        }, 
+        {
+            "text": "You get a massive load\naround there.", 
+            "dur": "2.24", 
+            "start": "163.13"
+        }, 
+        {
+            "text": "And no one&#39;s nine meters tall.", 
+            "dur": "1.81", 
+            "start": "165.37"
+        }, 
+        {
+            "text": "Anything that has that short\ndistribution, it", 
+            "dur": "3.23", 
+            "start": "167.18"
+        }, 
+        {
+            "text": "doesn&#39;t work for.", 
+            "dur": "1.87", 
+            "start": "170.41"
+        }, 
+        {
+            "text": "But it does work for several\ndistributions put together", 
+            "dur": "3.86", 
+            "start": "172.28"
+        }, 
+        {
+            "text": "that don&#39;t necessarily\nindividually follow the rule.", 
+            "dur": "3.26", 
+            "start": "176.14"
+        }, 
+        {
+            "text": "So I did it for populations.", 
+            "dur": "1.87", 
+            "start": "179.4"
+        }, 
+        {
+            "text": "I did it for areas of countries", 
+            "dur": "2.07", 
+            "start": "181.27"
+        }, 
+        {
+            "text": "in kilometers squared.", 
+            "dur": "1.24", 
+            "start": "183.34"
+        }, 
+        {
+            "text": "If you take one number and\nconvert it to loads of", 
+            "dur": "3.87", 
+            "start": "184.58"
+        }, 
+        {
+            "text": "different units, that\nwill tend to follow", 
+            "dur": "2.36", 
+            "start": "188.45"
+        }, 
+        {
+            "text": "Benford&#39;s Law as well.", 
+            "dur": "0.82", 
+            "start": "190.81"
+        }, 
+        {
+            "text": "You can do it for the\nFinancial Times.", 
+            "dur": "2.04", 
+            "start": "191.63"
+        }, 
+        {
+            "text": "Look at all the numbers\non the front cover of", 
+            "dur": "1.71", 
+            "start": "193.67"
+        }, 
+        {
+            "text": "the Financial Times.", 
+            "dur": "0.36", 
+            "start": "195.38"
+        }, 
+        {
+            "text": "They will tend to follow\nBenford&#39;s Law as well.", 
+            "dur": "2.06", 
+            "start": "195.74"
+        }, 
+        {
+            "text": "BRADY HARAN: Just a quick\ninterjection--", 
+            "dur": "1.42", 
+            "start": "197.8"
+        }, 
+        {
+            "text": "you can also apply this to the\nnumber of times you watch", 
+            "dur": "2.87", 
+            "start": "199.22"
+        }, 
+        {
+            "text": "Numberphile videos or leave\ncomments underneath.", 
+            "dur": "3.48", 
+            "start": "202.09"
+        }, 
+        {
+            "text": "More information at the\nend of the video.", 
+            "dur": "2", 
+            "start": "205.57"
+        }, 
+        {
+            "text": "STEVE MOULD: So the explanation\nis to do with", 
+            "dur": "3.06", 
+            "start": "207.57"
+        }, 
+        {
+            "text": "scale invariance, which\nI&#39;m just getting", 
+            "dur": "2.91", 
+            "start": "210.63"
+        }, 
+        {
+            "text": "my head around now.", 
+            "dur": "0.86", 
+            "start": "213.54"
+        }, 
+        {
+            "text": "But there are a couple\nof intuitive ways of", 
+            "dur": "2.37", 
+            "start": "214.4"
+        }, 
+        {
+            "text": "understanding it.", 
+            "dur": "1.03", 
+            "start": "216.77"
+        }, 
+        {
+            "text": "One of them is to use the\nidea of a raffle.", 
+            "dur": "3.09", 
+            "start": "217.8"
+        }, 
+        {
+            "text": "To begin with, it&#39;s a\nvery small raffle.", 
+            "dur": "2.77", 
+            "start": "220.89"
+        }, 
+        {
+            "text": "So there are only two tickets\nin this raffle.", 
+            "dur": "3.73", 
+            "start": "223.66"
+        }, 
+        {
+            "text": "What are the chances of the\nwinning ticket in this raffle", 
+            "dur": "2.65", 
+            "start": "227.39"
+        }, 
+        {
+            "text": "having a leading digit of one?", 
+            "dur": "1.42", 
+            "start": "230.04"
+        }, 
+        {
+            "text": "Well, that&#39;s this one.", 
+            "dur": "0.79", 
+            "start": "231.46"
+        }, 
+        {
+            "text": "So it&#39;s one in two.", 
+            "dur": "0.94", 
+            "start": "232.25"
+        }, 
+        {
+            "text": "It&#39;s 50%.", 
+            "dur": "1.44", 
+            "start": "233.19"
+        }, 
+        {
+            "text": "But then if you increase the\nsize of the raffle, so there", 
+            "dur": "3.705", 
+            "start": "234.63"
+        }, 
+        {
+            "text": "are now three tickets in the\nraffle, the chance now are one", 
+            "dur": "3.735", 
+            "start": "238.335"
+        }, 
+        {
+            "text": "in three or about 33%.", 
+            "dur": "1.28", 
+            "start": "242.07"
+        }, 
+        {
+            "text": "If you add a fourth ticket, then\nthe probability of the", 
+            "dur": "2.604", 
+            "start": "243.35"
+        }, 
+        {
+            "text": "leading digit of the winning\nticket being a one is now 25%,", 
+            "dur": "4.116", 
+            "start": "245.954"
+        }, 
+        {
+            "text": "and then 20%, and so on and so\non until you have a raffle", 
+            "dur": "4.73", 
+            "start": "250.07"
+        }, 
+        {
+            "text": "with nine tickets in it.", 
+            "dur": "3.24", 
+            "start": "254.8"
+        }, 
+        {
+            "text": "And then the probability of the\nwinning ticket having a", 
+            "dur": "2.074", 
+            "start": "258.04"
+        }, 
+        {
+            "text": "leading digit of one\nis one in nine.", 
+            "dur": "1.986", 
+            "start": "260.114"
+        }, 
+        {
+            "text": "It&#39;s 11%, which was the\nintuitive thing", 
+            "dur": "2.94", 
+            "start": "262.1"
+        }, 
+        {
+            "text": "that you might think.", 
+            "dur": "1.09", 
+            "start": "265.04"
+        }, 
+        {
+            "text": "But then you add your\ntenth ticket.", 
+            "dur": "2.38", 
+            "start": "266.13"
+        }, 
+        {
+            "text": "And now there are two tickets\nthat start with a one.", 
+            "dur": "3.1", 
+            "start": "268.51"
+        }, 
+        {
+            "text": "So now the probability\nis 2 in 10 or 1 in 5.", 
+            "dur": "2.79", 
+            "start": "271.61"
+        }, 
+        {
+            "text": "So it would go back up to 20%.", 
+            "dur": "1.58", 
+            "start": "274.4"
+        }, 
+        {
+            "text": "The probability will go up, and\nup, and up as you add more", 
+            "dur": "3.32", 
+            "start": "275.98"
+        }, 
+        {
+            "text": "tickets that start with a one.", 
+            "dur": "3.48", 
+            "start": "279.3"
+        }, 
+        {
+            "text": "And once you have a raffle with\n19 tickets in it, you&#39;re", 
+            "dur": "3.29", 
+            "start": "282.78"
+        }, 
+        {
+            "text": "up to something like 58%.", 
+            "dur": "1.37", 
+            "start": "286.07"
+        }, 
+        {
+            "text": "And then you add the\n20th ticket.", 
+            "dur": "1.82", 
+            "start": "287.44"
+        }, 
+        {
+            "text": "And so the probability\ngoes down again.", 
+            "dur": "1.81", 
+            "start": "289.26"
+        }, 
+        {
+            "text": "So the probability of the\nwinning ticket having a", 
+            "dur": "2.67", 
+            "start": "291.07"
+        }, 
+        {
+            "text": "leading digit of one will go\ndown, and down, and down", 
+            "dur": "2.4", 
+            "start": "293.74"
+        }, 
+        {
+            "text": "through the 20s.", 
+            "dur": "0.89", 
+            "start": "296.14"
+        }, 
+        {
+            "text": "It will go down through the\n40s, down through the 50s,", 
+            "dur": "2.52", 
+            "start": "297.03"
+        }, 
+        {
+            "text": "60s, 70s, 80s, 90s, until you\nadd the hundredth ticket.", 
+            "dur": "5.83", 
+            "start": "299.55"
+        }, 
+        {
+            "text": "And then the probability will\nstart to go up again.", 
+            "dur": "1.24", 
+            "start": "305.38"
+        }, 
+        {
+            "text": "And then the probability will go\nup, and up, and up, all the", 
+            "dur": "1.75", 
+            "start": "306.62"
+        }, 
+        {
+            "text": "way through the 100s.", 
+            "dur": "1.58", 
+            "start": "308.37"
+        }, 
+        {
+            "text": "And then you get to the 200s,\nand it goes down, and down,", 
+            "dur": "2.77", 
+            "start": "309.95"
+        }, 
+        {
+            "text": "and down through all the 200s,\n300s, 400s, 500s, 600s, 700s,", 
+            "dur": "2.99", 
+            "start": "312.72"
+        }, 
+        {
+            "text": "800s, 900s.", 
+            "dur": "3.29", 
+            "start": "315.71"
+        }, 
+        {
+            "text": "And you&#39;ll be back to\n11% again then.", 
+            "dur": "4.2", 
+            "start": "319"
+        }, 
+        {
+            "text": "Then you add the thousandth\nticket.", 
+            "dur": "1.71", 
+            "start": "323.2"
+        }, 
+        {
+            "text": "And the probability will\nstart to go up again.", 
+            "dur": "1.22", 
+            "start": "324.91"
+        }, 
+        {
+            "text": "So the probability goes up,\nand up, and up through the", 
+            "dur": "1.802", 
+            "start": "326.13"
+        }, 
+        {
+            "text": "thousands and then down through\nthe 2000s, 3000s,", 
+            "dur": "3.078", 
+            "start": "327.932"
+        }, 
+        {
+            "text": "blah, blah, blah.", 
+            "dur": "1.15", 
+            "start": "331.01"
+        }, 
+        {
+            "text": "And then you get to 10,000\nand it goes up.", 
+            "dur": "2.1", 
+            "start": "332.16"
+        }, 
+        {
+            "text": "And so basically the probability\nof the winning", 
+            "dur": "2.82", 
+            "start": "334.26"
+        }, 
+        {
+            "text": "ticket having any digit of one\nfluctuates as the size of the", 
+            "dur": "2.88", 
+            "start": "337.08"
+        }, 
+        {
+            "text": "raffle increases.", 
+            "dur": "1.55", 
+            "start": "339.96"
+        }, 
+        {
+            "text": "And so this is a log scale of\nthe raffle increasing in size.", 
+            "dur": "4.28", 
+            "start": "341.51"
+        }, 
+        {
+            "text": "So you might have a 10, 100,\n1,000, 10,000, and so on.", 
+            "dur": "7.53", 
+            "start": "345.79"
+        }, 
+        {
+            "text": "And then this is the probability\nhere of having a", 
+            "dur": "2.404", 
+            "start": "353.32"
+        }, 
+        {
+            "text": "leading digit of one.", 
+            "dur": "1.25", 
+            "start": "355.724"
+        }, 
+        {
+            "text": "It goes like that.", 
+            "dur": "1.09", 
+            "start": "363.39"
+        }, 
+        {
+            "text": "What Frank Benford realized was\nthat if you pick a number", 
+            "dur": "4.18", 
+            "start": "364.48"
+        }, 
+        {
+            "text": "from a distribution that spans\nloads of orders of magnitude,", 
+            "dur": "3.42", 
+            "start": "368.66"
+        }, 
+        {
+            "text": "or if you pick a number from\nthe world and you don&#39;t", 
+            "dur": "5.29", 
+            "start": "372.08"
+        }, 
+        {
+            "text": "necessarily know what the\ndistribution is in advance,", 
+            "dur": "3.53", 
+            "start": "377.37"
+        }, 
+        {
+            "text": "then it&#39;s like picking a ticket\nfrom a raffle when you", 
+            "dur": "2.86", 
+            "start": "380.9"
+        }, 
+        {
+            "text": "don&#39;t know the size\nof the raffle.", 
+            "dur": "0.99", 
+            "start": "383.76"
+        }, 
+        {
+            "text": "So you have to take the average\nof this wiggly line,", 
+            "dur": "2.39", 
+            "start": "384.75"
+        }, 
+        {
+            "text": "which is what he did.", 
+            "dur": "0.78", 
+            "start": "387.14"
+        }, 
+        {
+            "text": "So that&#39;s the average there.", 
+            "dur": "1.13", 
+            "start": "387.92"
+        }, 
+        {
+            "text": "And it&#39;s around 30%.", 
+            "dur": "1.61", 
+            "start": "389.05"
+        }, 
+        {
+            "text": "There&#39;s a formula for it, which\nis the probability of", 
+            "dur": "3.72", 
+            "start": "390.66"
+        }, 
+        {
+            "text": "picking a number with a\nparticular leading digit of d", 
+            "dur": "4.08", 
+            "start": "394.38"
+        }, 
+        {
+            "text": "is equal to log to base 10\nof 1 plus 1/d, like that.", 
+            "dur": "9.4", 
+            "start": "398.46"
+        }, 
+        {
+            "text": "And so that&#39;s how you do it.", 
+            "dur": "2.2", 
+            "start": "407.86"
+        }, 
+        {
+            "text": "And if you plug one into\nthere, then it&#39;s", 
+            "dur": "2.62", 
+            "start": "410.06"
+        }, 
+        {
+            "text": "log base 10 of two.", 
+            "dur": "1.02", 
+            "start": "412.68"
+        }, 
+        {
+            "text": "And it ends up being\nabout 30%.", 
+            "dur": "2.47", 
+            "start": "413.7"
+        }, 
+        {
+            "text": "The beauty is that you can\ndo it in any base.", 
+            "dur": "4", 
+            "start": "416.17"
+        }, 
+        {
+            "text": "So this doesn&#39;t have\nto be base 10.", 
+            "dur": "2.18", 
+            "start": "420.17"
+        }, 
+        {
+            "text": "It could be base five, base 16,\nwhatever you want to do.", 
+            "dur": "3.4", 
+            "start": "422.35"
+        }, 
+        {
+            "text": "You can apply Benford&#39;s Law\nto different bases.", 
+            "dur": "2.95", 
+            "start": "425.75"
+        }, 
+        {
+            "text": "This is a formula that a\nforensic accountant would use", 
+            "dur": "4.71", 
+            "start": "428.7"
+        }, 
+        {
+            "text": "as a tax formula of something\nlike that.", 
+            "dur": "1.59", 
+            "start": "433.41"
+        }, 
+        {
+            "text": "If you&#39;re making up numbers in\nyour accounts and the numbers", 
+            "dur": "2.92", 
+            "start": "435"
+        }, 
+        {
+            "text": "you make up don&#39;t follow\nBenford&#39;s Law, then that&#39;s a", 
+            "dur": "2.17", 
+            "start": "437.92"
+        }, 
+        {
+            "text": "clue that you might\nbe cheating.", 
+            "dur": "1.47", 
+            "start": "440.09"
+        }, 
+        {
+            "text": "So this is a formula you need to\nremember if you&#39;re going to", 
+            "dur": "3.545", 
+            "start": "441.56"
+        }, 
+        {
+            "text": "cheat on your tax return.", 
+            "dur": "1.155", 
+            "start": "445.105"
+        }, 
+        {
+            "text": "BRADY HARAN: A lot of things\nthat mathematically inclined", 
+            "dur": "2.77", 
+            "start": "446.26"
+        }, 
+        {
+            "text": "people like yourself tell me\nwhen I hear about them seem", 
+            "dur": "3.34", 
+            "start": "449.03"
+        }, 
+        {
+            "text": "counter-intuitive.", 
+            "dur": "1.09", 
+            "start": "452.37"
+        }, 
+        {
+            "text": "And then you cleverly explain\nwhy it works the way it works.", 
+            "dur": "2.82", 
+            "start": "453.46"
+        }, 
+        {
+            "text": "This is one of the few things\nthat when I&#39;ve heard about it,", 
+            "dur": "2.72", 
+            "start": "456.28"
+        }, 
+        {
+            "text": "this just seems logical to me.", 
+            "dur": "1.6", 
+            "start": "459"
+        }, 
+        {
+            "text": "When someone says one will come\nup more often, to me that", 
+            "dur": "3.79", 
+            "start": "460.6"
+        }, 
+        {
+            "text": "just seems like, of course\nthat would happen.", 
+            "dur": "1.72", 
+            "start": "464.39"
+        }, 
+        {
+            "text": "STEVE MOULD: Yes.", 
+            "dur": "0.25", 
+            "start": "466.11"
+        }, 
+        {
+            "text": "Funny isn&#39;t it?", 
+            "dur": "2.81", 
+            "start": "466.36"
+        }, 
+        {
+            "text": "Some people are like you.", 
+            "dur": "1.58", 
+            "start": "469.17"
+        }, 
+        {
+            "text": "I would say you&#39;re in the\nminority of people that go,", 
+            "dur": "2.48", 
+            "start": "470.75"
+        }, 
+        {
+            "text": "well, yeah.", 
+            "dur": "0.62", 
+            "start": "473.23"
+        }, 
+        {
+            "text": "And I wonder if there is another\nintuitive way of", 
+            "dur": "3.25", 
+            "start": "473.85"
+        }, 
+        {
+            "text": "looking at it that you&#39;ve tapped\ninto, which is that if", 
+            "dur": "2.92", 
+            "start": "477.1"
+        }, 
+        {
+            "text": "you imagine something like\nthe NASDAQ index or", 
+            "dur": "3.65", 
+            "start": "480.02"
+        }, 
+        {
+            "text": "something like that--", 
+            "dur": "1.99", 
+            "start": "483.67"
+        }, 
+        {
+            "text": "and I don&#39;t know what the NASDAQ\nindex is size-wise--", 
+            "dur": "3.17", 
+            "start": "485.66"
+        }, 
+        {
+            "text": "but imagine that the NASDAQ\nindex is at 1,000.", 
+            "dur": "5.65", 
+            "start": "488.83"
+        }, 
+        {
+            "text": "To change that to 2,000, you&#39;d\nhave to double it.", 
+            "dur": "4.23", 
+            "start": "494.48"
+        }, 
+        {
+            "text": "So the NASDAQ index would have\nto increase by 100% to get", 
+            "dur": "4.25", 
+            "start": "498.71"
+        }, 
+        {
+            "text": "from something that starts with\na one to something that", 
+            "dur": "2.5", 
+            "start": "502.96"
+        }, 
+        {
+            "text": "starts with a two.", 
+            "dur": "0.505", 
+            "start": "505.46"
+        }, 
+        {
+            "text": "So that&#39;s quite a big change.", 
+            "dur": "1.955", 
+            "start": "505.965"
+        }, 
+        {
+            "text": "But if the NASDAQ index was\non 9,000 and you wanted to", 
+            "dur": "5.48", 
+            "start": "507.92"
+        }, 
+        {
+            "text": "increase it to 10,000, then\nthat&#39;s an 11% increase.", 
+            "dur": "5.769", 
+            "start": "513.4"
+        }, 
+        {
+            "text": "So it&#39;s hardly anything.", 
+            "dur": "1.411", 
+            "start": "519.169"
+        }, 
+        {
+            "text": "So basically, you don&#39;t really\nhang around the nines.", 
+            "dur": "3.87", 
+            "start": "520.58"
+        }, 
+        {
+            "text": "As things are growing and\nshrinking, you don&#39;t hang", 
+            "dur": "1.89", 
+            "start": "524.45"
+        }, 
+        {
+            "text": "around, whereas you do\nhang around the ones.", 
+            "dur": "1.67", 
+            "start": "526.34"
+        }, 
+        {
+            "text": "And maybe that&#39;s intuitive\nto you.", 
+            "dur": "2.04", 
+            "start": "528.01"
+        }, 
+        {
+            "text": "So you&#39;re like, yeah\nobviously.", 
+            "dur": "1.33", 
+            "start": "530.05"
+        }, 
+        {
+            "text": "BRADY HARAN: If you&#39;d like to\nsee even more about Benford&#39;s", 
+            "dur": "2.02", 
+            "start": "534.44"
+        }, 
+        {
+            "text": "Law, we&#39;ve done a bit of a\nstatistical analysis to find", 
+            "dur": "3.52", 
+            "start": "536.46"
+        }, 
+        {
+            "text": "out whether or not your viewing\nhabits and the number", 
+            "dur": "2.66", 
+            "start": "539.98"
+        }, 
+        {
+            "text": "of times you comment on\nNumberphile videos is", 
+            "dur": "3.64", 
+            "start": "542.64"
+        }, 
+        {
+            "text": "following the Benford curve.", 
+            "dur": "2.19", 
+            "start": "546.28"
+        }, 
+        {
+            "text": "The link is below this video\nor here on the screen.", 
+            "dur": "3.07", 
+            "start": "548.47"
+        }, 
+        {
+            "text": "So why don&#39;t you check it out?", 
+            "dur": "1.25", 
+            "start": "551.54"
+        }
+    ], 
+    "title": "Number 1 and Benford's Law - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/095vj", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 337501, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

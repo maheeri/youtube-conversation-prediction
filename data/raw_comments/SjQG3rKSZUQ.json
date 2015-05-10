@@ -1,0 +1,883 @@
+{
+    "publish_date": "2009-08-27T20:55:26.000Z", 
+    "video_length": "PT9M56S", 
+    "captions": [
+        {
+            "text": "We know what a chemical equation\nis and we&#39;ve learned", 
+            "dur": "2.88", 
+            "start": "0.49"
+        }, 
+        {
+            "text": "how to balance it.", 
+            "dur": "1.16", 
+            "start": "3.37"
+        }, 
+        {
+            "text": "Now, we&#39;re ready to learn\nabout stoichiometry.", 
+            "dur": "2.81", 
+            "start": "4.53"
+        }, 
+        {
+            "text": "And this is an ultra fancy word\nthat often makes people", 
+            "dur": "4.98", 
+            "start": "7.34"
+        }, 
+        {
+            "text": "think it&#39;s difficult.", 
+            "dur": "1.53", 
+            "start": "12.32"
+        }, 
+        {
+            "text": "But it&#39;s really just the study\nor the calculation of the", 
+            "dur": "4.79", 
+            "start": "13.85"
+        }, 
+        {
+            "text": "relationships between\nthe different", 
+            "dur": "1.67", 
+            "start": "18.64"
+        }, 
+        {
+            "text": "molecules in a reaction.", 
+            "dur": "1.22", 
+            "start": "20.31"
+        }, 
+        {
+            "text": "This is the actual definition\nthat Wikipedia gives,", 
+            "dur": "2.83", 
+            "start": "21.53"
+        }, 
+        {
+            "text": "stoichiometry is the calculation\nof quantitative,", 
+            "dur": "2.43", 
+            "start": "24.36"
+        }, 
+        {
+            "text": "or measurable, relationships\nof the", 
+            "dur": "2", 
+            "start": "26.79"
+        }, 
+        {
+            "text": "reactants and the products.", 
+            "dur": "1.97", 
+            "start": "28.79"
+        }, 
+        {
+            "text": "And you&#39;re going to see in\nchemistry, sometimes people", 
+            "dur": "2.22", 
+            "start": "30.76"
+        }, 
+        {
+            "text": "use the word reagents.", 
+            "dur": "1.58", 
+            "start": "32.98"
+        }, 
+        {
+            "text": "For most of our purposes you can\nuse the word reagents and", 
+            "dur": "6.32", 
+            "start": "34.56"
+        }, 
+        {
+            "text": "reactants interchangeably.", 
+            "dur": "1.29", 
+            "start": "40.88"
+        }, 
+        {
+            "text": "They&#39;re both the reactants\nin a reaction.", 
+            "dur": "2.17", 
+            "start": "42.17"
+        }, 
+        {
+            "text": "The reagents are sometimes for\nspecial types of reactions", 
+            "dur": "2.49", 
+            "start": "44.34"
+        }, 
+        {
+            "text": "where you want to throw a\nreagent in and see if", 
+            "dur": "2.48", 
+            "start": "46.83"
+        }, 
+        {
+            "text": "something happens.", 
+            "dur": "0.76", 
+            "start": "49.31"
+        }, 
+        {
+            "text": "And see if your belief about\nthat substance is true or", 
+            "dur": "2.91", 
+            "start": "50.07"
+        }, 
+        {
+            "text": "things like that.", 
+            "dur": "0.64", 
+            "start": "52.98"
+        }, 
+        {
+            "text": "But for our purposes\na reagent and", 
+            "dur": "1.48", 
+            "start": "53.62"
+        }, 
+        {
+            "text": "reactant is the same thing.", 
+            "dur": "1.69", 
+            "start": "55.1"
+        }, 
+        {
+            "text": "So it&#39;s a relationship between\nthe reactants and the products", 
+            "dur": "2.6", 
+            "start": "56.79"
+        }, 
+        {
+            "text": "in a balanced chemical\nequation.", 
+            "dur": "1.66", 
+            "start": "59.39"
+        }, 
+        {
+            "text": "So if we&#39;re given an unbalanced\none, we know how to", 
+            "dur": "1.62", 
+            "start": "61.05"
+        }, 
+        {
+            "text": "get to the balanced point.", 
+            "dur": "1.065", 
+            "start": "62.67"
+        }, 
+        {
+            "text": "A balanced chemical equation.", 
+            "dur": "1.675", 
+            "start": "63.735"
+        }, 
+        {
+            "text": "So let&#39;s do some\nstoichiometry.", 
+            "dur": "2.79", 
+            "start": "65.41"
+        }, 
+        {
+            "text": "Just so we get practice\nbalancing equations, I&#39;m", 
+            "dur": "1.94", 
+            "start": "70.72"
+        }, 
+        {
+            "text": "always going to start with\nunbalanced equations.", 
+            "dur": "2.2", 
+            "start": "72.66"
+        }, 
+        {
+            "text": "Let&#39;s say we have iron\nthree oxide.", 
+            "dur": "2.623", 
+            "start": "74.86"
+        }, 
+        {
+            "text": "Two iron atoms with three\noxygen atoms.", 
+            "dur": "5.02", 
+            "start": "81.57"
+        }, 
+        {
+            "text": "Plus aluminum, Al.", 
+            "dur": "3.59", 
+            "start": "86.59"
+        }, 
+        {
+            "text": "And it yields Al2\nO3 plus iron.", 
+            "dur": "9.89", 
+            "start": "90.18"
+        }, 
+        {
+            "text": "So remember when we&#39;re doing\nstoichiometry first of all, we", 
+            "dur": "2.13", 
+            "start": "100.07"
+        }, 
+        {
+            "text": "want to deal with balanced\nequations.", 
+            "dur": "1.34", 
+            "start": "102.2"
+        }, 
+        {
+            "text": "A lot of stoichiometry problems\nwill give you a", 
+            "dur": "1.71", 
+            "start": "103.54"
+        }, 
+        {
+            "text": "balanced equation.", 
+            "dur": "0.78", 
+            "start": "105.25"
+        }, 
+        {
+            "text": "But I think it&#39;s good practice\nto actually balance the", 
+            "dur": "2.06", 
+            "start": "106.03"
+        }, 
+        {
+            "text": "equations ourselves.", 
+            "dur": "0.735", 
+            "start": "108.09"
+        }, 
+        {
+            "text": "So let&#39;s try to balance\nthis one.", 
+            "dur": "2.145", 
+            "start": "108.825"
+        }, 
+        {
+            "text": "We have two iron atoms here\nin this iron three oxide.", 
+            "dur": "4.27", 
+            "start": "110.97"
+        }, 
+        {
+            "text": "How many iron atoms do we have\non the right hand side?", 
+            "dur": "2.51", 
+            "start": "115.24"
+        }, 
+        {
+            "text": "We only have one.", 
+            "dur": "0.82", 
+            "start": "117.75"
+        }, 
+        {
+            "text": "So let&#39;s multiply this\nby 2 right here.", 
+            "dur": "4.86", 
+            "start": "118.57"
+        }, 
+        {
+            "text": "All right, oxygen, we have\nthree on this side.", 
+            "dur": "3.49", 
+            "start": "123.43"
+        }, 
+        {
+            "text": "We have three oxygens\non that side.", 
+            "dur": "2.559", 
+            "start": "126.92"
+        }, 
+        {
+            "text": "That looks good.", 
+            "dur": "1.261", 
+            "start": "129.479"
+        }, 
+        {
+            "text": "Aluminum, on the left hand\nside we only have", 
+            "dur": "1.74", 
+            "start": "130.74"
+        }, 
+        {
+            "text": "one aluminum atom.", 
+            "dur": "1.76", 
+            "start": "132.48"
+        }, 
+        {
+            "text": "On the right hand side we have\ntwo aluminum atoms. So we have", 
+            "dur": "2.3", 
+            "start": "134.24"
+        }, 
+        {
+            "text": "to put a 2 here.", 
+            "dur": "2.16", 
+            "start": "136.54"
+        }, 
+        {
+            "text": "And we have balanced\nthis equation.", 
+            "dur": "2.56", 
+            "start": "138.7"
+        }, 
+        {
+            "text": "So now we&#39;re ready to do\nsome stoichiometry.", 
+            "dur": "1.41", 
+            "start": "141.26"
+        }, 
+        {
+            "text": "There&#39;s not just one type of\nstoichiometry problem, but", 
+            "dur": "2", 
+            "start": "148.45"
+        }, 
+        {
+            "text": "they&#39;re all along the lines of,\nif I give you x grams of", 
+            "dur": "3.1", 
+            "start": "150.45"
+        }, 
+        {
+            "text": "this how many grams of aluminum\ndo I need to make", 
+            "dur": "2.7", 
+            "start": "153.55"
+        }, 
+        {
+            "text": "this reaction happen?", 
+            "dur": "1.07", 
+            "start": "156.25"
+        }, 
+        {
+            "text": "Or if I give you y grams of this\nmolecule and z grams of", 
+            "dur": "5.16", 
+            "start": "157.32"
+        }, 
+        {
+            "text": "this molecule which one&#39;s\ngoing to run out first?", 
+            "dur": "2.2", 
+            "start": "162.48"
+        }, 
+        {
+            "text": "That&#39;s all stoichiometry.", 
+            "dur": "0.93", 
+            "start": "164.68"
+        }, 
+        {
+            "text": "And we&#39;ll actually do those\nexact two types of problems in", 
+            "dur": "2.85", 
+            "start": "165.61"
+        }, 
+        {
+            "text": "this video.", 
+            "dur": "1.22", 
+            "start": "168.46"
+        }, 
+        {
+            "text": "So let&#39;s say that we were given\n85 grams of the iron", 
+            "dur": "10.33", 
+            "start": "169.68"
+        }, 
+        {
+            "text": "three oxide.", 
+            "dur": "1.25", 
+            "start": "180.01"
+        }, 
+        {
+            "text": "So my question to you\nis how many grams of", 
+            "dur": "3.36", 
+            "start": "183.76"
+        }, 
+        {
+            "text": "aluminum do we need?", 
+            "dur": "1.25", 
+            "start": "187.12"
+        }, 
+        {
+            "text": "Well you look at the equation,\nyou immediately", 
+            "dur": "2.05", 
+            "start": "191.75"
+        }, 
+        {
+            "text": "see the mole ratio.", 
+            "dur": "1.35", 
+            "start": "193.8"
+        }, 
+        {
+            "text": "So for every mole of this, so\nfor every one atom we use of", 
+            "dur": "6.04", 
+            "start": "195.15"
+        }, 
+        {
+            "text": "iron three oxide we need\ntwo aluminums.", 
+            "dur": "4.65", 
+            "start": "201.19"
+        }, 
+        {
+            "text": "So what we need to do is figure\nout how many moles of", 
+            "dur": "3.55", 
+            "start": "205.84"
+        }, 
+        {
+            "text": "this molecule there are in 85\ngrams. And then we need to", 
+            "dur": "4.03", 
+            "start": "209.39"
+        }, 
+        {
+            "text": "have twice as many moles\nof aluminum.", 
+            "dur": "2.51", 
+            "start": "213.42"
+        }, 
+        {
+            "text": "Because for every mole of the\niron three oxide, we have two", 
+            "dur": "2.98", 
+            "start": "215.93"
+        }, 
+        {
+            "text": "moles of aluminum.", 
+            "dur": "0.89", 
+            "start": "218.91"
+        }, 
+        {
+            "text": "And we&#39;re just looking at the\ncoefficients, we&#39;re just", 
+            "dur": "1.95", 
+            "start": "219.8"
+        }, 
+        {
+            "text": "looking at the numbers.", 
+            "dur": "1.1", 
+            "start": "221.75"
+        }, 
+        {
+            "text": "One molecule of iron three\noxide combines with two", 
+            "dur": "4.06", 
+            "start": "222.85"
+        }, 
+        {
+            "text": "molecule of aluminum to make\nthis reaction happen.", 
+            "dur": "2.84", 
+            "start": "226.91"
+        }, 
+        {
+            "text": "So lets first figure out how\nmany moles 85 grams are.", 
+            "dur": "4.63", 
+            "start": "229.75"
+        }, 
+        {
+            "text": "So what&#39;s the atomic mass\nor the mass number", 
+            "dur": "4.24", 
+            "start": "234.38"
+        }, 
+        {
+            "text": "of this entire molecule?", 
+            "dur": "1.59", 
+            "start": "238.62"
+        }, 
+        {
+            "text": "Let me do it down here.", 
+            "dur": "2.41", 
+            "start": "240.21"
+        }, 
+        {
+            "text": "So we have two irons\nand three oxygens.", 
+            "dur": "5.81", 
+            "start": "242.62"
+        }, 
+        {
+            "text": "So let me go down and figure out\nthe atomic masses of iron", 
+            "dur": "5.79", 
+            "start": "248.43"
+        }, 
+        {
+            "text": "and oxygen.", 
+            "dur": "1.39", 
+            "start": "254.22"
+        }, 
+        {
+            "text": "So iron is right here, 55.85.", 
+            "dur": "4.479", 
+            "start": "255.61"
+        }, 
+        {
+            "text": "I think it&#39;s fair enough\nto round to 56.", 
+            "dur": "3.331", 
+            "start": "260.089"
+        }, 
+        {
+            "text": "Let&#39;s say we&#39;re dealing with\nthe version of iron, the", 
+            "dur": "2.35", 
+            "start": "263.42"
+        }, 
+        {
+            "text": "isotope of iron, that\nhas 30 neutrons.", 
+            "dur": "3.12", 
+            "start": "265.77"
+        }, 
+        {
+            "text": "So it has an atomic\nmass number of 56.", 
+            "dur": "4.1", 
+            "start": "268.89"
+        }, 
+        {
+            "text": "So iron has 56 atomic\nmass number.", 
+            "dur": "2.82", 
+            "start": "272.99"
+        }, 
+        {
+            "text": "And then oxygen, we already\nknow, is 16.", 
+            "dur": "4.69", 
+            "start": "275.81"
+        }, 
+        {
+            "text": "Iron was 56.", 
+            "dur": "6.74", 
+            "start": "280.5"
+        }, 
+        {
+            "text": "This mass is going to be 2\ntimes 56 plus 3 times 16.", 
+            "dur": "9.07", 
+            "start": "287.24"
+        }, 
+        {
+            "text": "We can do that in our heads.", 
+            "dur": "1.15", 
+            "start": "296.31"
+        }, 
+        {
+            "text": "But this isn&#39;t a math\nvideo, so I&#39;ll get", 
+            "dur": "1.72", 
+            "start": "297.46"
+        }, 
+        {
+            "text": "the calculator out.", 
+            "dur": "1.25", 
+            "start": "299.18"
+        }, 
+        {
+            "text": "2 times 56 plus 3 times\n16 is equal to 160.", 
+            "dur": "10.07", 
+            "start": "306.69"
+        }, 
+        {
+            "text": "Is that right?", 
+            "dur": "0.36", 
+            "start": "316.76"
+        }, 
+        {
+            "text": "That&#39;s 48 plus 112,\nright, 160.", 
+            "dur": "3.84", 
+            "start": "317.12"
+        }, 
+        {
+            "text": "So one molecule of iron three\noxide is going to be 160", 
+            "dur": "8.49", 
+            "start": "320.96"
+        }, 
+        {
+            "text": "atomic mass units.", 
+            "dur": "2.96", 
+            "start": "329.45"
+        }, 
+        {
+            "text": "So one mole or 6.02 times 10\nto the 23 molecules of iron", 
+            "dur": "9.21", 
+            "start": "332.41"
+        }, 
+        {
+            "text": "oxide is going to have\na mass of 160 grams.", 
+            "dur": "14.18", 
+            "start": "341.62"
+        }, 
+        {
+            "text": "So in our reaction we said we&#39;re\nstarting off with 85", 
+            "dur": "3.02", 
+            "start": "355.8"
+        }, 
+        {
+            "text": "grams of iron oxide.", 
+            "dur": "1.69", 
+            "start": "358.82"
+        }, 
+        {
+            "text": "How many moles is that?", 
+            "dur": "1.5", 
+            "start": "360.51"
+        }, 
+        {
+            "text": "Well 85 grams of iron\nthree oxide is equal", 
+            "dur": "6.42", 
+            "start": "362.01"
+        }, 
+        {
+            "text": "to 85 over 160 moles.", 
+            "dur": "5.08", 
+            "start": "368.43"
+        }, 
+        {
+            "text": "So that&#39;s equal to, 85 divided\nby 160 equals 0.53125.", 
+            "dur": "7.73", 
+            "start": "373.51"
+        }, 
+        {
+            "text": "Equals 0.53 moles.", 
+            "dur": "3.96", 
+            "start": "381.24"
+        }, 
+        {
+            "text": "So everything we&#39;ve done so far\nin this green and light", 
+            "dur": "2.53", 
+            "start": "385.2"
+        }, 
+        {
+            "text": "blue, we figured out how\nmany moles 85 grams of", 
+            "dur": "3.68", 
+            "start": "387.73"
+        }, 
+        {
+            "text": "iron three oxide is.", 
+            "dur": "3.12", 
+            "start": "391.41"
+        }, 
+        {
+            "text": "And we figured out\nit&#39;s 0.53 moles.", 
+            "dur": "1.78", 
+            "start": "394.53"
+        }, 
+        {
+            "text": "Because a full mole would\nhave been 160 grams. But", 
+            "dur": "2.01", 
+            "start": "396.31"
+        }, 
+        {
+            "text": "we only have 85.", 
+            "dur": "1.36", 
+            "start": "398.32"
+        }, 
+        {
+            "text": "So it&#39;s point 0.53 moles.", 
+            "dur": "1.86", 
+            "start": "399.68"
+        }, 
+        {
+            "text": "And we know from this balanced\nequation, that for every mole", 
+            "dur": "3.35", 
+            "start": "401.54"
+        }, 
+        {
+            "text": "of iron three oxide we\nhave, we need to have", 
+            "dur": "1.89", 
+            "start": "404.89"
+        }, 
+        {
+            "text": "two moles of aluminum.", 
+            "dur": "1.32", 
+            "start": "406.78"
+        }, 
+        {
+            "text": "So if we have 0.53 moles of the\niron molecule, iron three", 
+            "dur": "6.24", 
+            "start": "408.1"
+        }, 
+        {
+            "text": "oxide, then we&#39;re going to need\ntwice as many aluminum.", 
+            "dur": "4.2", 
+            "start": "414.34"
+        }, 
+        {
+            "text": "So we&#39;re going to need 1.06\nmoles of aluminum.", 
+            "dur": "8", 
+            "start": "418.54"
+        }, 
+        {
+            "text": "I just took 0.53 times 2.", 
+            "dur": "2.6", 
+            "start": "426.54"
+        }, 
+        {
+            "text": "Because the ratio is 1:2.", 
+            "dur": "2.37", 
+            "start": "429.14"
+        }, 
+        {
+            "text": "For every molecule of this, we\nneed two molecules of that.", 
+            "dur": "2.64", 
+            "start": "431.51"
+        }, 
+        {
+            "text": "So for every mole of this, we\nneed two moles of this.", 
+            "dur": "2.66", 
+            "start": "434.15"
+        }, 
+        {
+            "text": "If we have 0.53 moles, you\nmultiply that by 2, and you", 
+            "dur": "3.4", 
+            "start": "436.81"
+        }, 
+        {
+            "text": "have 1.06 moles of aluminum.", 
+            "dur": "3.15", 
+            "start": "440.21"
+        }, 
+        {
+            "text": "All right, so we just have to\nfigure out how many grams is a", 
+            "dur": "2.97", 
+            "start": "443.36"
+        }, 
+        {
+            "text": "mole of aluminum and then\nmultiply that times 1.06 and", 
+            "dur": "2.91", 
+            "start": "446.33"
+        }, 
+        {
+            "text": "we&#39;re done.", 
+            "dur": "1.04", 
+            "start": "449.24"
+        }, 
+        {
+            "text": "So aluminum, or aluminium as\nsome of our friends across the", 
+            "dur": "6.4", 
+            "start": "450.28"
+        }, 
+        {
+            "text": "pond might say.", 
+            "dur": "2.02", 
+            "start": "456.68"
+        }, 
+        {
+            "text": "Aluminium, actually\nI enjoy that more.", 
+            "dur": "2.7", 
+            "start": "458.7"
+        }, 
+        {
+            "text": "Aluminium has the atomic\nweight or the", 
+            "dur": "5.67", 
+            "start": "461.4"
+        }, 
+        {
+            "text": "weighted average is 26.98.", 
+            "dur": "1.73", 
+            "start": "467.07"
+        }, 
+        {
+            "text": "But let&#39;s just say that the\naluminium that we&#39;re dealing", 
+            "dur": "2.62", 
+            "start": "468.8"
+        }, 
+        {
+            "text": "with has a mass of 27\natomic mass units.", 
+            "dur": "3.7", 
+            "start": "471.42"
+        }, 
+        {
+            "text": "So one aluminum is 27\natomic mass units.", 
+            "dur": "6.65", 
+            "start": "478"
+        }, 
+        {
+            "text": "So one mole of aluminium is\ngoing to be 27 grams. Or 6.02", 
+            "dur": "7.91", 
+            "start": "484.65"
+        }, 
+        {
+            "text": "times 10 to 23 aluminium atoms\nis going to be 27 grams. So if", 
+            "dur": "5.735", 
+            "start": "492.56"
+        }, 
+        {
+            "text": "we need 1.06 moles, how many\nis that going to be?", 
+            "dur": "3.675", 
+            "start": "498.295"
+        }, 
+        {
+            "text": "So 1.06 moles of aluminium is\nequal to 1.06 times 27 grams.", 
+            "dur": "9.84", 
+            "start": "501.97"
+        }, 
+        {
+            "text": "And what is that?", 
+            "dur": "1.25", 
+            "start": "511.81"
+        }, 
+        {
+            "text": "1.06 times 27.", 
+            "dur": "5.88", 
+            "start": "515.21"
+        }, 
+        {
+            "text": "Equals 28.62.", 
+            "dur": "1.719", 
+            "start": "521.09"
+        }, 
+        {
+            "text": "So we need 28.62 grams of\naluminium, I won&#39;t write the", 
+            "dur": "8.521", 
+            "start": "522.809"
+        }, 
+        {
+            "text": "whole thing there, in order to\nessentially use up our 85", 
+            "dur": "5.23", 
+            "start": "531.33"
+        }, 
+        {
+            "text": "grams of the iron three oxide.", 
+            "dur": "2.16", 
+            "start": "536.56"
+        }, 
+        {
+            "text": "And if we had more than 28.62\ngrams of aluminium, then", 
+            "dur": "5.85", 
+            "start": "538.72"
+        }, 
+        {
+            "text": "they&#39;ll be left over after\nthis reaction happens.", 
+            "dur": "3.03", 
+            "start": "544.57"
+        }, 
+        {
+            "text": "Assuming we keep mixing it\nnicely and the whole reaction", 
+            "dur": "3.06", 
+            "start": "547.6"
+        }, 
+        {
+            "text": "happens all the way.", 
+            "dur": "0.88", 
+            "start": "550.66"
+        }, 
+        {
+            "text": "And we&#39;ll talk more about\nthat in the future.", 
+            "dur": "4.27", 
+            "start": "551.54"
+        }, 
+        {
+            "text": "And in that situation where we\nhave more than 28.63 grams of", 
+            "dur": "4.14", 
+            "start": "555.81"
+        }, 
+        {
+            "text": "aluminium, then this molecule\nwill be the limiting reagent.", 
+            "dur": "4.67", 
+            "start": "559.95"
+        }, 
+        {
+            "text": "Because we had more than enough\nof this, so this is", 
+            "dur": "3.09", 
+            "start": "564.62"
+        }, 
+        {
+            "text": "what&#39;s going to limit\nthe amount of this", 
+            "dur": "3.39", 
+            "start": "567.71"
+        }, 
+        {
+            "text": "process from happening.", 
+            "dur": "0.99", 
+            "start": "571.1"
+        }, 
+        {
+            "text": "If we have less than 28.63 grams\nof, I&#39;ll start saying", 
+            "dur": "4.68", 
+            "start": "572.09"
+        }, 
+        {
+            "text": "aluminum, then the aluminum will\nbe the limiting reagent,", 
+            "dur": "3.49", 
+            "start": "576.77"
+        }, 
+        {
+            "text": "because then we wouldn&#39;t be able\nto use all the 85 grams", 
+            "dur": "3.24", 
+            "start": "580.26"
+        }, 
+        {
+            "text": "of our iron molecule, or our\niron three oxide molecule.", 
+            "dur": "4.11", 
+            "start": "583.5"
+        }, 
+        {
+            "text": "Anyway, I don&#39;t want to confuse\nyou in the end with", 
+            "dur": "2.265", 
+            "start": "587.61"
+        }, 
+        {
+            "text": "that limiting reagents.", 
+            "dur": "0.765", 
+            "start": "589.875"
+        }, 
+        {
+            "text": "In the next video, we&#39;ll do\na whole problem devoted to", 
+            "dur": "2.76", 
+            "start": "590.64"
+        }, 
+        {
+            "text": "limiting reagents.", 
+            "dur": "1.63", 
+            "start": "593.4"
+        }
+    ], 
+    "title": "Stoichiometry", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/072_3", 
+        "/m/01lj9", 
+        "/m/09gjnl2"
+    ], 
+    "number_views": 885008, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

@@ -80,8 +80,8 @@ def valid_constraints(video_id):
 videos that will be returned for this category if possible (if that many are available, 
 otherwise write the max possible). Returns a list of video_ids for the cateogry id for videos
 that have closed captions"""
-def category_video_search(category_id, num_required):
-	# Call the search.list method to retrieve results matching the specified
+def category_video_search(category_id, num_required, check_constr=True):
+	# Call the search.list method to retrieve results 
 	# query term.
 	search_request = youtube.search().list(
 		part="id",
@@ -89,10 +89,10 @@ def category_video_search(category_id, num_required):
 		type="video",
 		videoCaption="closedCaption",
 		relevanceLanguage ="en",
-		publishedAfter="2013-01-01T00:00:00Z",
-		publishedBefore="2015-01-01T00:00:00Z",
 		videoCategoryId=category_id
 	) # topicId (play with this?)
+	# publishedAfter="2013-01-01T00:00:00Z",
+	# publishedBefore="2015-01-01T00:00:00Z",
 	 
 	search_response = search_request.execute()
 
@@ -118,9 +118,11 @@ def category_video_search(category_id, num_required):
 			num_videos_searched = num_videos_searched + 1
 			if num_videos_searched >= total_results: # Looked through all results
 				return video_id_list
-			if valid_constraints(search_result["id"]["videoId"]):
+			#set bool
+			constr_bool = valid_constraints(search_result["id"]["videoId"]) if check_constr else True
+			if constr_bool:
 				if (num_videos_retrieved < num_required):
-					num_videos_retrieved = num_videos_retrieved + 1
+					num_videos_retrieved += 1
 					video_id_list.append(search_result["id"]["videoId"])
 				else: # Have reached the required limit
 					return video_id_list
@@ -134,20 +136,19 @@ def category_video_search(category_id, num_required):
 """Returns a dictionary where the keys are the video ids and the values are the 
 categories it belongs to (inverted index style) Each list has videos_per_category
 number of video_ids"""
-def populate_all_category_searches(videos_per_category):
+def populate_all_category_searches(videos_per_category, check_constr=True):
 	category_id_to_name_dict = create_category_id_dict() # maps category ids to names
 	
 	video_id_cat_dict = defaultdict(list)
 	
-	for idx,category_id in enumerate(category_id_to_name_dict):
-		print "% complete: ", (idx/len(category_id_to_name_dict) * 1.0)
-		for vid_id in category_video_search(category_id, videos_per_category):
+	for category_id in category_id_to_name_dict:
+		for vid_id in category_video_search(category_id, videos_per_category, check_constr):
 			video_id_cat_dict[vid_id].append(category_id)
 
 	return video_id_cat_dict
 
 if __name__ == "__main__":
 	os.chdir(os.path.join(os.pardir, 'data'))
-	video_id_cat_dict = populate_all_category_searches(2000)
+	video_id_cat_dict = populate_all_category_searches(500000000, check_constr=False)
 	print "total results: ", len(video_id_cat_dict)
-	json_dump(video_id_cat_dict, "video_ids_v6")	
+	json_dump(video_id_cat_dict, "video_ids_v9")	

@@ -1,0 +1,1034 @@
+{
+    "publish_date": "2012-12-09T11:58:36.000Z", 
+    "video_length": "PT9M22S", 
+    "captions": [
+        {
+            "text": "DR. JAMES GRIME: So I&#39;ve got a\nvery big number to show you", 
+            "dur": "2.43", 
+            "start": "0.67"
+        }, 
+        {
+            "text": "today used by NatWest Bank so\nthat you can send them your", 
+            "dur": "4.43", 
+            "start": "3.1"
+        }, 
+        {
+            "text": "secret bank details.", 
+            "dur": "1.49", 
+            "start": "7.53"
+        }, 
+        {
+            "text": "It starts 2 3 4 5\n3 6 7 6 2 8--", 
+            "dur": "7.33", 
+            "start": "9.02"
+        }, 
+        {
+            "text": "[MULTIPLE CLIPS OF\nNUMBERS BEING", 
+            "dur": "0.13", 
+            "start": "16.35"
+        }, 
+        {
+            "text": "COUNTED AT THE SAME TIME]", 
+            "dur": "1.25", 
+            "start": "16.48"
+        }, 
+        {
+            "text": "--7.", 
+            "dur": "1.2", 
+            "start": "28.42"
+        }, 
+        {
+            "text": "Did you get that, or do you\nwant me to repeat it?", 
+            "dur": "2.03", 
+            "start": "29.62"
+        }, 
+        {
+            "text": "So this number that\nwe are reading out", 
+            "dur": "2.65", 
+            "start": "34.76"
+        }, 
+        {
+            "text": "is 617 digits long.", 
+            "dur": "3.82", 
+            "start": "37.41"
+        }, 
+        {
+            "text": "All banks have similar numbers\nwhen you want to send them", 
+            "dur": "2.77", 
+            "start": "41.23"
+        }, 
+        {
+            "text": "your credit card details.", 
+            "dur": "1.55", 
+            "start": "44"
+        }, 
+        {
+            "text": "This is not a secret number.", 
+            "dur": "1.9", 
+            "start": "45.55"
+        }, 
+        {
+            "text": "In fact, your computer will\ndownload this number when it", 
+            "dur": "3.37", 
+            "start": "47.45"
+        }, 
+        {
+            "text": "wants to send your credit\ncard details.", 
+            "dur": "2.46", 
+            "start": "50.82"
+        }, 
+        {
+            "text": "It&#39;s there to find.", 
+            "dur": "1.16", 
+            "start": "53.28"
+        }, 
+        {
+            "text": "This is public.", 
+            "dur": "0.97", 
+            "start": "54.44"
+        }, 
+        {
+            "text": "So this code that they use on\nthe internet is called RSA.", 
+            "dur": "4.04", 
+            "start": "55.41"
+        }, 
+        {
+            "text": "It&#39;s named after the three\npeople who came up with it,", 
+            "dur": "3.53", 
+            "start": "59.45"
+        }, 
+        {
+            "text": "who were Rivest, Shamir,\nAdleman.", 
+            "dur": "2.304", 
+            "start": "62.98"
+        }, 
+        {
+            "text": "Should I show you\nhow it works?", 
+            "dur": "1.786", 
+            "start": "65.284"
+        }, 
+        {
+            "text": "BRADY HARAN: Please.", 
+            "dur": "0.413", 
+            "start": "67.07"
+        }, 
+        {
+            "text": "DR. JAMES GRIME: All right.", 
+            "dur": "0.827", 
+            "start": "67.483"
+        }, 
+        {
+            "text": "Imagine if you had a secret\nthat you wanted", 
+            "dur": "2.36", 
+            "start": "68.31"
+        }, 
+        {
+            "text": "to send to the bank.", 
+            "dur": "2.04", 
+            "start": "70.67"
+        }, 
+        {
+            "text": "So the bank provides you with\na box, and it provides you", 
+            "dur": "3.11", 
+            "start": "72.71"
+        }, 
+        {
+            "text": "with a key to lock the box.", 
+            "dur": "1.75", 
+            "start": "75.82"
+        }, 
+        {
+            "text": "So you can put your secret\ninside and you can lock it,", 
+            "dur": "2.74", 
+            "start": "77.57"
+        }, 
+        {
+            "text": "and then you can send the\nsecret to the bank.", 
+            "dur": "1.97", 
+            "start": "80.31"
+        }, 
+        {
+            "text": "That&#39;s good, isn&#39;t it?", 
+            "dur": "1.54", 
+            "start": "82.28"
+        }, 
+        {
+            "text": "But the problem is that the bank\nis giving everyone one of", 
+            "dur": "3.8", 
+            "start": "83.82"
+        }, 
+        {
+            "text": "these boxes and a key that goes\nwith it, and that means", 
+            "dur": "3.77", 
+            "start": "87.62"
+        }, 
+        {
+            "text": "that, well, one person could\nsteal someone else&#39;s box and", 
+            "dur": "5.1", 
+            "start": "91.39"
+        }, 
+        {
+            "text": "use the key to unlock it\nand read their secrets.", 
+            "dur": "3.6", 
+            "start": "96.49"
+        }, 
+        {
+            "text": "That would be terrible.", 
+            "dur": "0.84", 
+            "start": "100.09"
+        }, 
+        {
+            "text": "We can&#39;t do that.", 
+            "dur": "1.35", 
+            "start": "100.93"
+        }, 
+        {
+            "text": "So what the banks do, same sort\nof idea but instead of", 
+            "dur": "3.33", 
+            "start": "102.28"
+        }, 
+        {
+            "text": "giving out keys, they\ngive out padlocks.", 
+            "dur": "2.95", 
+            "start": "105.61"
+        }, 
+        {
+            "text": "So they give everyone a box.", 
+            "dur": "2.23", 
+            "start": "108.56"
+        }, 
+        {
+            "text": "You&#39;ve got a secret.", 
+            "dur": "0.68", 
+            "start": "110.79"
+        }, 
+        {
+            "text": "Put it inside the box.", 
+            "dur": "1.67", 
+            "start": "111.47"
+        }, 
+        {
+            "text": "Lock it not with a key\nbut with a padlock.", 
+            "dur": "2.48", 
+            "start": "113.14"
+        }, 
+        {
+            "text": "It goes click.", 
+            "dur": "1.12", 
+            "start": "115.62"
+        }, 
+        {
+            "text": "It&#39;s snapped shut.", 
+            "dur": "1.64", 
+            "start": "116.74"
+        }, 
+        {
+            "text": "Once it&#39;s locked and snapped\nshut, you don&#39;t have the", 
+            "dur": "3.26", 
+            "start": "118.38"
+        }, 
+        {
+            "text": "padlock key, so you\ncan&#39;t reverse it.", 
+            "dur": "2.42", 
+            "start": "121.64"
+        }, 
+        {
+            "text": "You can&#39;t open it up.", 
+            "dur": "1.66", 
+            "start": "124.06"
+        }, 
+        {
+            "text": "So if someone steals your\nbox, they don&#39;t", 
+            "dur": "2.37", 
+            "start": "125.72"
+        }, 
+        {
+            "text": "have the key either.", 
+            "dur": "1.18", 
+            "start": "128.09"
+        }, 
+        {
+            "text": "They&#39;ve got padlock, but\nthey don&#39;t have the", 
+            "dur": "2.23", 
+            "start": "129.27"
+        }, 
+        {
+            "text": "key to open the padlock.", 
+            "dur": "1.68", 
+            "start": "131.5"
+        }, 
+        {
+            "text": "The only person that does\nis the bank themselves.", 
+            "dur": "3.31", 
+            "start": "133.18"
+        }, 
+        {
+            "text": "And it&#39;s a way to send secret\nmessages without having to", 
+            "dur": "2.79", 
+            "start": "136.49"
+        }, 
+        {
+            "text": "send out the keys.", 
+            "dur": "1.21", 
+            "start": "139.28"
+        }, 
+        {
+            "text": "It&#39;s easy to lock the\ncode, but it&#39;s hard", 
+            "dur": "3.13", 
+            "start": "140.49"
+        }, 
+        {
+            "text": "to unlock the code.", 
+            "dur": "1.655", 
+            "start": "143.62"
+        }, 
+        {
+            "text": "First of all, I have to explain\nthis with the smallest", 
+            "dur": "2.395", 
+            "start": "145.275"
+        }, 
+        {
+            "text": "example I can, and then I&#39;ll\nshow you why we use that", 
+            "dur": "2.35", 
+            "start": "147.67"
+        }, 
+        {
+            "text": "massive number.", 
+            "dur": "0.92", 
+            "start": "150.02"
+        }, 
+        {
+            "text": "Let&#39;s say you&#39;re the bank and\nyou give out two numbers.", 
+            "dur": "3.31", 
+            "start": "150.94"
+        }, 
+        {
+            "text": "They&#39;re public, so everyone\ncan know them.", 
+            "dur": "2", 
+            "start": "154.25"
+        }, 
+        {
+            "text": "They&#39;re not secret numbers.", 
+            "dur": "0.98", 
+            "start": "156.25"
+        }, 
+        {
+            "text": "I&#39;m going to choose the number\n3 and the number 10.", 
+            "dur": "3.13", 
+            "start": "157.23"
+        }, 
+        {
+            "text": "The bank also has\na secret number.", 
+            "dur": "2.59", 
+            "start": "160.36"
+        }, 
+        {
+            "text": "The bank secret number,\nfor now, you don&#39;t", 
+            "dur": "3.07", 
+            "start": "162.95"
+        }, 
+        {
+            "text": "know what it is.", 
+            "dur": "0.49", 
+            "start": "166.02"
+        }, 
+        {
+            "text": "No one knows what it is.", 
+            "dur": "0.87", 
+            "start": "166.51"
+        }, 
+        {
+            "text": "Only the bank knows what\nthat secret number is.", 
+            "dur": "2.18", 
+            "start": "167.38"
+        }, 
+        {
+            "text": "I had a very bad breakfast this\nmorning, so I&#39;m going to", 
+            "dur": "2.11", 
+            "start": "169.56"
+        }, 
+        {
+            "text": "send the message BAD CHEF.", 
+            "dur": "2.18", 
+            "start": "171.67"
+        }, 
+        {
+            "text": "The first thing you do if you\nhave a message like that is to", 
+            "dur": "2.91", 
+            "start": "173.85"
+        }, 
+        {
+            "text": "turn the letters into numbers.", 
+            "dur": "1.875", 
+            "start": "176.76"
+        }, 
+        {
+            "text": "That&#39;s quite simple.", 
+            "dur": "1.095", 
+            "start": "178.635"
+        }, 
+        {
+            "text": "A is 1, B is 2, and Z is 26.", 
+            "dur": "2.85", 
+            "start": "179.73"
+        }, 
+        {
+            "text": "Simple stuff.", 
+            "dur": "0.67", 
+            "start": "182.58"
+        }, 
+        {
+            "text": "C is 3, D is 4.", 
+            "dur": "2.41", 
+            "start": "183.25"
+        }, 
+        {
+            "text": "Now I&#39;m going to turn it into\na code, and I&#39;m going to use", 
+            "dur": "2.64", 
+            "start": "185.66"
+        }, 
+        {
+            "text": "the number 3.", 
+            "dur": "1.6", 
+            "start": "188.3"
+        }, 
+        {
+            "text": "Now there are some codes that\nwould just add 3, or there are", 
+            "dur": "4.25", 
+            "start": "189.9"
+        }, 
+        {
+            "text": "some codes that would\nmultiply by 3.", 
+            "dur": "2.16", 
+            "start": "194.15"
+        }, 
+        {
+            "text": "What we&#39;re going to do is raise\nto the power 3, so we&#39;re", 
+            "dur": "2.54", 
+            "start": "196.31"
+        }, 
+        {
+            "text": "going to cube these\nnumbers here.", 
+            "dur": "2.02", 
+            "start": "198.85"
+        }, 
+        {
+            "text": "Let&#39;s do that.", 
+            "dur": "0.57", 
+            "start": "200.87"
+        }, 
+        {
+            "text": "So I get 2 cubed, which is 8.", 
+            "dur": "2.92", 
+            "start": "201.44"
+        }, 
+        {
+            "text": "1 cubed, which is 1.", 
+            "dur": "1.72", 
+            "start": "204.36"
+        }, 
+        {
+            "text": "5 cubed is 125.", 
+            "dur": "2.81", 
+            "start": "206.08"
+        }, 
+        {
+            "text": "And 6 cubed, 216.", 
+            "dur": "3.62", 
+            "start": "208.89"
+        }, 
+        {
+            "text": "The final step is to use the\nsecond number, the number 10.", 
+            "dur": "4.33", 
+            "start": "212.51"
+        }, 
+        {
+            "text": "I&#39;m going to divide by\n10, and I&#39;m going", 
+            "dur": "2.47", 
+            "start": "216.84"
+        }, 
+        {
+            "text": "to look at the remainder.", 
+            "dur": "1.32", 
+            "start": "219.31"
+        }, 
+        {
+            "text": "So if I take something like 512,\nwhen I divide by 10, it", 
+            "dur": "5.75", 
+            "start": "220.63"
+        }, 
+        {
+            "text": "would be 51 10&#39;s\nand 2 leftover.", 
+            "dur": "3.665", 
+            "start": "226.38"
+        }, 
+        {
+            "text": "So that&#39;s just 2.", 
+            "dur": "1.055", 
+            "start": "230.045"
+        }, 
+        {
+            "text": "5 here, 1 and 4.", 
+            "dur": "2.58", 
+            "start": "231.1"
+        }, 
+        {
+            "text": "And that&#39;s your code.", 
+            "dur": "1.01", 
+            "start": "233.68"
+        }, 
+        {
+            "text": "And that&#39;s what you\nwould send.", 
+            "dur": "1.38", 
+            "start": "234.69"
+        }, 
+        {
+            "text": "The bank, or the person who is\ngoing to decode this message,", 
+            "dur": "3.48", 
+            "start": "236.07"
+        }, 
+        {
+            "text": "has a secret number.", 
+            "dur": "1.88", 
+            "start": "239.55"
+        }, 
+        {
+            "text": "Now the secret number in this\nexample is going to be 3.", 
+            "dur": "6.75", 
+            "start": "241.43"
+        }, 
+        {
+            "text": "There&#39;s a formula to work\nout the secret number.", 
+            "dur": "2.14", 
+            "start": "248.18"
+        }, 
+        {
+            "text": "I&#39;m going to gloss over that for\na second, but I&#39;m going to", 
+            "dur": "2.27", 
+            "start": "250.32"
+        }, 
+        {
+            "text": "show you what to do next\nto decode the message.", 
+            "dur": "2.23", 
+            "start": "252.59"
+        }, 
+        {
+            "text": "This is my code.", 
+            "dur": "0.77", 
+            "start": "254.82"
+        }, 
+        {
+            "text": "I&#39;ll write it out again.", 
+            "dur": "1.119", 
+            "start": "255.59"
+        }, 
+        {
+            "text": "I&#39;m going to do the same\nthing I did before.", 
+            "dur": "2.25", 
+            "start": "256.709"
+        }, 
+        {
+            "text": "This time I&#39;m going to\nuse my secret number.", 
+            "dur": "2.551", 
+            "start": "258.959"
+        }, 
+        {
+            "text": "It doesn&#39;t have to be the same\nas 3, but it just happens to", 
+            "dur": "2.67", 
+            "start": "261.51"
+        }, 
+        {
+            "text": "be the same as the\n3 we used before.", 
+            "dur": "2.18", 
+            "start": "264.18"
+        }, 
+        {
+            "text": "But nevermind, it doesn&#39;t\nhave to be.", 
+            "dur": "1.93", 
+            "start": "266.36"
+        }, 
+        {
+            "text": "But I&#39;m going to cube again.", 
+            "dur": "2.36", 
+            "start": "268.29"
+        }, 
+        {
+            "text": "So I cube these numbers.", 
+            "dur": "1.63", 
+            "start": "270.65"
+        }, 
+        {
+            "text": "We do like we did before.", 
+            "dur": "1.66", 
+            "start": "272.28"
+        }, 
+        {
+            "text": "We divide by 10, and\nfind the remainder.", 
+            "dur": "3.15", 
+            "start": "273.94"
+        }, 
+        {
+            "text": "And then the decoder will turn\nthat into letters, which is B,", 
+            "dur": "4.11", 
+            "start": "277.09"
+        }, 
+        {
+            "text": "and he gets the message\nback again, BAD CHEF.", 
+            "dur": "2.95", 
+            "start": "281.2"
+        }, 
+        {
+            "text": "Now that&#39;s just a taste\nof how it works.", 
+            "dur": "2.2", 
+            "start": "284.15"
+        }, 
+        {
+            "text": "That&#39;s the process that your\ncomputer does every time you", 
+            "dur": "2.94", 
+            "start": "286.35"
+        }, 
+        {
+            "text": "buy something on\nAmazon or eBay.", 
+            "dur": "2.58", 
+            "start": "289.29"
+        }, 
+        {
+            "text": "One of the important numbers\nin this code was this 10.", 
+            "dur": "3.77", 
+            "start": "291.87"
+        }, 
+        {
+            "text": "Now this 10 was made\nby multiplying two", 
+            "dur": "3.08", 
+            "start": "295.64"
+        }, 
+        {
+            "text": "prime numbers together--", 
+            "dur": "1.18", 
+            "start": "298.72"
+        }, 
+        {
+            "text": "2 times 5 are prime numbers.", 
+            "dur": "2.87", 
+            "start": "299.9"
+        }, 
+        {
+            "text": "Multiply them together\nand you get 10.", 
+            "dur": "2.62", 
+            "start": "302.77"
+        }, 
+        {
+            "text": "Now that massive number that I\nshowed you that NatWest uses", 
+            "dur": "3.31", 
+            "start": "305.39"
+        }, 
+        {
+            "text": "is the same idea.", 
+            "dur": "1.26", 
+            "start": "308.7"
+        }, 
+        {
+            "text": "It&#39;s two massive prime numbers\nmultiplied together.", 
+            "dur": "4.39", 
+            "start": "309.96"
+        }, 
+        {
+            "text": "That&#39;s what it is.", 
+            "dur": "1.19", 
+            "start": "314.35"
+        }, 
+        {
+            "text": "If you want work out the decode\nkey, the secret key,", 
+            "dur": "3.68", 
+            "start": "315.54"
+        }, 
+        {
+            "text": "you need to know the original\nprime numbers.", 
+            "dur": "3", 
+            "start": "319.22"
+        }, 
+        {
+            "text": "Now the only way a spy, someone\nwho wants to break the", 
+            "dur": "3.12", 
+            "start": "322.22"
+        }, 
+        {
+            "text": "code, could work out the\noriginal prime numbers is to", 
+            "dur": "3.38", 
+            "start": "325.34"
+        }, 
+        {
+            "text": "take that massive number and\nfactorize it-- turn it back,", 
+            "dur": "4.05", 
+            "start": "328.72"
+        }, 
+        {
+            "text": "break it up into the original\ntwo prime numbers.", 
+            "dur": "3.4", 
+            "start": "332.77"
+        }, 
+        {
+            "text": "This is really hard.", 
+            "dur": "1.79", 
+            "start": "336.17"
+        }, 
+        {
+            "text": "So hard that it&#39;s impractical\nto break with modern", 
+            "dur": "3.03", 
+            "start": "337.96"
+        }, 
+        {
+            "text": "technology.", 
+            "dur": "0.67", 
+            "start": "340.99"
+        }, 
+        {
+            "text": "The massive number I showed you\nwas a 2,048-bit number.", 
+            "dur": "8.37", 
+            "start": "341.66"
+        }, 
+        {
+            "text": "That means it&#39;s about 2\nto the power 2,048.", 
+            "dur": "5.23", 
+            "start": "350.03"
+        }, 
+        {
+            "text": "Now about a decade ago,\nwe did manage to", 
+            "dur": "3.85", 
+            "start": "355.26"
+        }, 
+        {
+            "text": "break 512-bit numbers.", 
+            "dur": "3.83", 
+            "start": "359.11"
+        }, 
+        {
+            "text": "We were able to take that number\nand factorize it into", 
+            "dur": "2.48", 
+            "start": "362.94"
+        }, 
+        {
+            "text": "its original primes.", 
+            "dur": "2.1", 
+            "start": "365.42"
+        }, 
+        {
+            "text": "A few years ago, a team of\nacademics managed to break the", 
+            "dur": "3.02", 
+            "start": "367.52"
+        }, 
+        {
+            "text": "768-bit number.", 
+            "dur": "3.59", 
+            "start": "370.54"
+        }, 
+        {
+            "text": "It took this team of academics\nwith all their resources two", 
+            "dur": "2.83", 
+            "start": "374.13"
+        }, 
+        {
+            "text": "years to break at 768-bit key.", 
+            "dur": "4.51", 
+            "start": "376.96"
+        }, 
+        {
+            "text": "And they said that to break\nwhat we use now, which is", 
+            "dur": "5.22", 
+            "start": "381.47"
+        }, 
+        {
+            "text": "about 1,024, would take\nthousands of times longer.", 
+            "dur": "5", 
+            "start": "386.69"
+        }, 
+        {
+            "text": "But given the speed of\ntechnology, they reckon that", 
+            "dur": "4.93", 
+            "start": "391.69"
+        }, 
+        {
+            "text": "this sort of code, 1,024-bit,\ncould be broken within a few", 
+            "dur": "5.83", 
+            "start": "396.62"
+        }, 
+        {
+            "text": "years, they said.", 
+            "dur": "1.47", 
+            "start": "402.45"
+        }, 
+        {
+            "text": "They said that a\nfew years ago.", 
+            "dur": "2.39", 
+            "start": "403.92"
+        }, 
+        {
+            "text": "So this should now start\nto be replaced.", 
+            "dur": "3.71", 
+            "start": "406.31"
+        }, 
+        {
+            "text": "Gmail still uses this, but\nthis should be replaced.", 
+            "dur": "4.28", 
+            "start": "410.02"
+        }, 
+        {
+            "text": "And as you can see, NatWest\nhave done that.", 
+            "dur": "1.96", 
+            "start": "414.3"
+        }, 
+        {
+            "text": "All the banks have done that.", 
+            "dur": "1.43", 
+            "start": "416.26"
+        }, 
+        {
+            "text": "They are now using 2,048-bit\nnumber, which again would take", 
+            "dur": "4.77", 
+            "start": "417.69"
+        }, 
+        {
+            "text": "computers--", 
+            "dur": "1.175", 
+            "start": "422.46"
+        }, 
+        {
+            "text": "and I mean even with\na proper attack--", 
+            "dur": "3.935", 
+            "start": "423.635"
+        }, 
+        {
+            "text": "big computers, it would still\ntake them thousands of years", 
+            "dur": "3.52", 
+            "start": "427.57"
+        }, 
+        {
+            "text": "to factorize that number into\nits original prime number.", 
+            "dur": "3.71", 
+            "start": "431.09"
+        }, 
+        {
+            "text": "Now hidden in the details for\nthis code is a mathematical", 
+            "dur": "4.29", 
+            "start": "434.8"
+        }, 
+        {
+            "text": "fact that was worked out\nin the 17th century", 
+            "dur": "3.09", 
+            "start": "439.09"
+        }, 
+        {
+            "text": "by Pierre de Fermat.", 
+            "dur": "2.06", 
+            "start": "442.18"
+        }, 
+        {
+            "text": "He&#39;s famous for Fermat&#39;s\nLast Theorem.", 
+            "dur": "2.3", 
+            "start": "444.24"
+        }, 
+        {
+            "text": "Well, this was Fermat&#39;s\nLittle Theorem.", 
+            "dur": "2.16", 
+            "start": "446.54"
+        }, 
+        {
+            "text": "If I take a number,\na whole number, an", 
+            "dur": "2.37", 
+            "start": "448.7"
+        }, 
+        {
+            "text": "integer, any number--", 
+            "dur": "1.64", 
+            "start": "451.07"
+        }, 
+        {
+            "text": "call it x.", 
+            "dur": "1.5", 
+            "start": "452.71"
+        }, 
+        {
+            "text": "I&#39;m going to raise\nit to a power.", 
+            "dur": "1.84", 
+            "start": "454.21"
+        }, 
+        {
+            "text": "And it&#39;s going to be a prime\nnumber, so p for prime.", 
+            "dur": "3.195", 
+            "start": "456.05"
+        }, 
+        {
+            "text": "I&#39;m going to raise it to a\npower, and I&#39;m going to", 
+            "dur": "2.355", 
+            "start": "459.245"
+        }, 
+        {
+            "text": "takeaway x.", 
+            "dur": "1.85", 
+            "start": "461.6"
+        }, 
+        {
+            "text": "This is a multiple of\np, the prime number.", 
+            "dur": "5.96", 
+            "start": "463.45"
+        }, 
+        {
+            "text": "Let me do an example.", 
+            "dur": "1.37", 
+            "start": "469.41"
+        }, 
+        {
+            "text": "What I mean is if you took a\nnumber like 4, and then I took", 
+            "dur": "3.8", 
+            "start": "470.78"
+        }, 
+        {
+            "text": "a prime number like 5, and then\nI takeaway 4, I would get", 
+            "dur": "4.79", 
+            "start": "474.58"
+        }, 
+        {
+            "text": "4 to the power 5,\nwhich is 1,024,", 
+            "dur": "4.32", 
+            "start": "479.37"
+        }, 
+        {
+            "text": "takeaway 4, which is 1,020.", 
+            "dur": "4.15", 
+            "start": "483.69"
+        }, 
+        {
+            "text": "And that is a multiple of 5, but\nthat would be guaranteed.", 
+            "dur": "3.71", 
+            "start": "487.84"
+        }, 
+        {
+            "text": "You&#39;re guaranteed to have\na multiple of 5.", 
+            "dur": "2.06", 
+            "start": "491.55"
+        }, 
+        {
+            "text": "Now you can imagine that in the\n17th century when Fermat", 
+            "dur": "3.48", 
+            "start": "493.61"
+        }, 
+        {
+            "text": "came up with this factor, people\nsaid, well, very nice", 
+            "dur": "2.53", 
+            "start": "497.09"
+        }, 
+        {
+            "text": "mathematical fact, but that&#39;s\npretty useless.", 
+            "dur": "2.7", 
+            "start": "499.62"
+        }, 
+        {
+            "text": "What use are you going\nto have for that?", 
+            "dur": "2.02", 
+            "start": "502.32"
+        }, 
+        {
+            "text": "And then suddenly the internet\ncomes along, and it&#39;s", 
+            "dur": "2.75", 
+            "start": "504.34"
+        }, 
+        {
+            "text": "massively useful.", 
+            "dur": "1.57", 
+            "start": "507.09"
+        }, 
+        {
+            "text": "In fact, our whole modern world\ndepends on this fact.", 
+            "dur": "5.889", 
+            "start": "508.66"
+        }, 
+        {
+            "text": "So to use this code, the public\nkey has two numbers.", 
+            "dur": "3.341", 
+            "start": "514.549"
+        }, 
+        {
+            "text": "I&#39;ve shown you the massively\nlong one that NatWest uses.", 
+            "dur": "3.759", 
+            "start": "517.89"
+        }, 
+        {
+            "text": "The other number that we need,\nwhich is the power that you", 
+            "dur": "3.731", 
+            "start": "521.649"
+        }, 
+        {
+            "text": "have to raise, that\nis not as big.", 
+            "dur": "2.86", 
+            "start": "525.38"
+        }, 
+        {
+            "text": "That is 65,537.", 
+            "dur": "4.42", 
+            "start": "528.24"
+        }, 
+        {
+            "text": "Quite a big number.", 
+            "dur": "0.89", 
+            "start": "532.66"
+        }, 
+        {
+            "text": "When you compare it to the\nsecond number, it&#39;s small.", 
+            "dur": "6.14", 
+            "start": "533.55"
+        }, 
+        {
+            "text": "BRADY HARAN: If you&#39;re in the\nmood for even more about banks", 
+            "dur": "1.95", 
+            "start": "539.69"
+        }, 
+        {
+            "text": "and really big numbers, then\ncheck out my latest video from", 
+            "dur": "3.38", 
+            "start": "541.64"
+        }, 
+        {
+            "text": "the Chemistry Channel Periodic\nVideos, where we&#39;ve been", 
+            "dur": "3.14", 
+            "start": "545.02"
+        }, 
+        {
+            "text": "inside the Bank of England gold\nbullion vault, where they", 
+            "dur": "3.28", 
+            "start": "548.16"
+        }, 
+        {
+            "text": "have a couple hundred\nbillion pounds worth", 
+            "dur": "2.92", 
+            "start": "551.44"
+        }, 
+        {
+            "text": "of gold lying around.", 
+            "dur": "1.4", 
+            "start": "554.36"
+        }, 
+        {
+            "text": "That&#39;s not something\nyou see every day.", 
+            "dur": "2.47", 
+            "start": "555.76"
+        }, 
+        {
+            "text": "The link is here on the screen\nand below the video.", 
+            "dur": "2.56", 
+            "start": "558.23"
+        }
+    ], 
+    "title": "Encryption and HUGE numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02spk", 
+        "/m/06bmz", 
+        "/m/0vb40_n", 
+        "/m/05x5j"
+    ], 
+    "number_views": 509800, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

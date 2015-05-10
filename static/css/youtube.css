@@ -125,7 +125,6 @@ td {
 	color: #F8F8F8;
 	position: relative;
 	top: 50%;
-	transform: translateY(-50%);
 	margin: auto;
 	text-align: center;
 	font-weight: 300;

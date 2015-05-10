@@ -1,0 +1,930 @@
+{
+    "publish_date": "2012-03-26T22:33:52.000Z", 
+    "video_length": "PT10M18S", 
+    "captions": [
+        {
+            "text": "So, I have this brother, John. You may have\nheard of him.", 
+            "dur": "2.399", 
+            "start": "0.12"
+        }, 
+        {
+            "text": "JOHN: Hi there!", 
+            "dur": "0.7", 
+            "start": "2.519"
+        }, 
+        {
+            "text": "HANK: As it happens, John and I have the exact\nsame parents.", 
+            "dur": "3.461", 
+            "start": "3.219"
+        }, 
+        {
+            "text": "JOHN: Yes, Mom and Dad Green.", 
+            "dur": "1.48", 
+            "start": "6.68"
+        }, 
+        {
+            "text": "HANK: And since we have the same parents,\nit&#39;s to be expected", 
+            "dur": "3.08", 
+            "start": "8.16"
+        }, 
+        {
+            "text": "that John and I would have similar physical\ncharacteristics", 
+            "dur": "2.8", 
+            "start": "11.24"
+        }, 
+        {
+            "text": "because the source of our DNA is exactly the\nsame.", 
+            "dur": "3.06", 
+            "start": "14.04"
+        }, 
+        {
+            "text": "JOHN: Hank and I share some genes, but nobody\nknew anything about chromosomes or DNA until", 
+            "dur": "4.52", 
+            "start": "17.1"
+        }, 
+        {
+            "text": "the middle of the 20th century. And people\nhave been noticing that brothers tend to look", 
+            "dur": "3.61", 
+            "start": "21.62"
+        }, 
+        {
+            "text": "alike since like, people started noticing\nstuff or whatever.", 
+            "dur": "4.09", 
+            "start": "25.23"
+        }, 
+        {
+            "text": "HANK: That was very scientific, John.", 
+            "dur": "1.43", 
+            "start": "29.32"
+        }, 
+        {
+            "text": "JOHN: I will remind you that I am doing you a favor.", 
+            "dur": "7", 
+            "start": "30.75"
+        }, 
+        {
+            "text": "Heredity: it&#39;s basically just the passing\non of genetic traits from parents to offspring.", 
+            "dur": "4.02", 
+            "start": "43.969"
+        }, 
+        {
+            "text": "Like John said, the study of heredity is ancient,\nalthough the first ideas about how the goods", 
+            "dur": "3.85", 
+            "start": "47.989"
+        }, 
+        {
+            "text": "are passed on from parents to kids\nwere really really really really really really", 
+            "dur": "3.32", 
+            "start": "51.839"
+        }, 
+        {
+            "text": "wrong.", 
+            "dur": "0.371", 
+            "start": "55.159"
+        }, 
+        {
+            "text": "For instance, the concept that people were\nworking with for nearly 2,000 years came from", 
+            "dur": "4.189", 
+            "start": "55.53"
+        }, 
+        {
+            "text": "Aristotle, who suggested that:\nWe&#39;re each a mixture of our parents&#39; traits,", 
+            "dur": "4.02", 
+            "start": "59.719"
+        }, 
+        {
+            "text": "with the father kind of supplying the life\nforce to the new human and the mother", 
+            "dur": "3.991", 
+            "start": "63.739"
+        }, 
+        {
+            "text": "supplying the building blocks to put it all\ntogether.", 
+            "dur": "2.41", 
+            "start": "67.73"
+        }, 
+        {
+            "text": "Aristotle also thought that semen was like\nhighly-purified", 
+            "dur": "3.51", 
+            "start": "70.14"
+        }, 
+        {
+            "text": "menstrual blood, which is why we still refer\nto &quot;bloodlines&quot; when", 
+            "dur": "3.57", 
+            "start": "73.65"
+        }, 
+        {
+            "text": "we&#39;re talking about heredity.", 
+            "dur": "1.01", 
+            "start": "77.22"
+        }, 
+        {
+            "text": "Anyway, since nobody had a better idea, and\nsince nobody", 
+            "dur": "3.08", 
+            "start": "78.23"
+        }, 
+        {
+            "text": "really wanted to tangle with Aristotle, for\nhundreds of years", 
+            "dur": "2.41", 
+            "start": "81.31"
+        }, 
+        {
+            "text": "everybody just assumed that our parents&#39;\ntraits just sort of", 
+            "dur": "2.41", 
+            "start": "83.72"
+        }, 
+        {
+            "text": "blended together in us:", 
+            "dur": "1.6", 
+            "start": "86.13"
+        }, 
+        {
+            "text": "like if a black squirrel and a white squirrel\nfell in love and decided to start a family", 
+            "dur": "3.7", 
+            "start": "87.73"
+        }, 
+        {
+            "text": "together, their offspring would be gray.", 
+            "dur": "1.79", 
+            "start": "91.43"
+        }, 
+        {
+            "text": "The first person to really start studying\nand thinking about", 
+            "dur": "2.19", 
+            "start": "93.22"
+        }, 
+        {
+            "text": "heredity in a modern way was this Austrian\nmonk named Gregor Mendel", 
+            "dur": "3.08", 
+            "start": "95.41"
+        }, 
+        {
+            "text": "and Mendel demonstrated that inheritance followed particular patterns.", 
+            "dur": "3.38", 
+            "start": "98.82"
+        }, 
+        {
+            "text": " In the mid-1800s, Mendel spent sort\nof an unhealthy amount of time grubbing around", 
+            "dur": "4.51", 
+            "start": "102.2"
+        }, 
+        {
+            "text": "in his garden with a bunch of pea plants,\nand through a series of experiments, crossing", 
+            "dur": "3.2", 
+            "start": "106.71"
+        }, 
+        {
+            "text": "the pea plants and seeing which traits got\npassed on and which didn&#39;t--he came up with", 
+            "dur": "3.57", 
+            "start": "109.91"
+        }, 
+        {
+            "text": "a framework for understanding how traits actually\nget passed from one generation to another.", 
+            "dur": "4.48", 
+            "start": "113.48"
+        }, 
+        {
+            "text": "So, to talk about Classical Genetics, which\nincludes Mendel&#39;s", 
+            "dur": "2.52", 
+            "start": "117.96"
+        }, 
+        {
+            "text": "ideas about how traits get passed along from\nparents to children,", 
+            "dur": "2.64", 
+            "start": "120.48"
+        }, 
+        {
+            "text": "we kind of have to simplify the crap out of\ngenetics. I hope you don&#39;t mind.", 
+            "dur": "3.81", 
+            "start": "123.12"
+        }, 
+        {
+            "text": "So we&#39;ve all got chromosomes, which are\nthe form that our DNA", 
+            "dur": "3.479", 
+            "start": "126.93"
+        }, 
+        {
+            "text": "takes in order to get passed on from parent\nto child.", 
+            "dur": "3.181", 
+            "start": "130.409"
+        }, 
+        {
+            "text": "Human cells have 23 pairs of chromosomes.\nNow a gene is a", 
+            "dur": "3.42", 
+            "start": "133.59"
+        }, 
+        {
+            "text": "section of DNA in a specific location on a\nchromosome that", 
+            "dur": "2.649", 
+            "start": "137.01"
+        }, 
+        {
+            "text": "contains information that determines a trait.", 
+            "dur": "2.821", 
+            "start": "139.659"
+        }, 
+        {
+            "text": "Of course, the vast majority of the time,\na physical trait is a", 
+            "dur": "2.569", 
+            "start": "142.48"
+        }, 
+        {
+            "text": "reflection of a bunch of different genes working\ntogether, which makes this all very confusing,", 
+            "dur": "4.52", 
+            "start": "145.049"
+        }, 
+        {
+            "text": "and when this happens it&#39;s called a polygenic\ntrait.", 
+            "dur": "3.15", 
+            "start": "149.569"
+        }, 
+        {
+            "text": "Polygenic: many genes.", 
+            "dur": "1.83", 
+            "start": "152.719"
+        }, 
+        {
+            "text": "And then again, sometimes a single gene can\ninfluence how", 
+            "dur": "1.91", 
+            "start": "154.549"
+        }, 
+        {
+            "text": "multiple traits are going to be expressed;\nthese genes are called pleiotropic.", 
+            "dur": "2.86", 
+            "start": "156.459"
+        }, 
+        {
+            "text": "However, some", 
+            "dur": "1.229", 
+            "start": "159.93"
+        }, 
+        {
+            "text": "very few, but some", 
+            "dur": "1.55", 
+            "start": "161.159"
+        }, 
+        {
+            "text": "single traits are decided by a single gene.\nLike the", 
+            "dur": "2.941", 
+            "start": "162.709"
+        }, 
+        {
+            "text": "color of pea flowers for example, which is\nwhat Mendel studied when he discovered all", 
+            "dur": "4.27", 
+            "start": "165.65"
+        }, 
+        {
+            "text": "of this stuff, and when that happens,\nin Mendel&#39;s honor, we call it a", 
+            "dur": "2.989", 
+            "start": "169.92"
+        }, 
+        {
+            "text": "Mendelian trait.", 
+            "dur": "0.72", 
+            "start": "172.909"
+        }, 
+        {
+            "text": "There are a couple of examples of Mendelian\ntraits in humans, one of them being the relative", 
+            "dur": "3.711", 
+            "start": "173.629"
+        }, 
+        {
+            "text": "wetness or dryness of your ear wax.", 
+            "dur": "2.099", 
+            "start": "177.34"
+        }, 
+        {
+            "text": "So, there is just one gene that determines\nthe consistency of your", 
+            "dur": "2.86", 
+            "start": "179.439"
+        }, 
+        {
+            "text": "earwax, and that gene is located at the very\nsame spot on each", 
+            "dur": "3.461", 
+            "start": "182.299"
+        }, 
+        {
+            "text": "person&#39;s chromosome.", 
+            "dur": "1.679", 
+            "start": "185.76"
+        }, 
+        {
+            "text": "Right here! Chromosome 16.", 
+            "dur": "1.89", 
+            "start": "187.439"
+        }, 
+        {
+            "text": "However, there&#39;s one version of this gene,\nor allele, that says the", 
+            "dur": "3.33", 
+            "start": "189.329"
+        }, 
+        {
+            "text": "wax is going to be wet, and there&#39;s another\nallele that says the wax is going to be dry.", 
+            "dur": "3.94", 
+            "start": "192.659"
+        }, 
+        {
+            "text": "You may be asking yourself what the difference\nis between these two things and I&#39;m glad you", 
+            "dur": "3.43", 
+            "start": "196.599"
+        }, 
+        {
+            "text": "asked because we actually know the answer\nto that question.", 
+            "dur": "2.391", 
+            "start": "200.029"
+        }, 
+        {
+            "text": "Among the many amino acids that make up this\nparticular", 
+            "dur": "2", 
+            "start": "202.42"
+        }, 
+        {
+            "text": "gene sequence, there is one exact slot where\nthey&#39;re different. If", 
+            "dur": "4.289", 
+            "start": "204.42"
+        }, 
+        {
+            "text": "the amino acid is glycine in that slot, you&#39;re\ngonna have wet ear wax. But if it&#39;s arginine,", 
+            "dur": "4.93", 
+            "start": "208.709"
+        }, 
+        {
+            "text": "it&#39;s dry.", 
+            "dur": "0.86", 
+            "start": "213.639"
+        }, 
+        {
+            "text": "Now comes the question of how you get what\nyou get from your", 
+            "dur": "2.96", 
+            "start": "214.499"
+        }, 
+        {
+            "text": "parents. In most animals, basically any cell\nin the body that isn&#39;t a sperm or an egg -- these", 
+            "dur": "5.18", 
+            "start": "217.459"
+        }, 
+        {
+            "text": "are called somatic cells -- are diploid,\nmeaning there are two sets of chromosomes,", 
+            "dur": "4.951", 
+            "start": "222.639"
+        }, 
+        {
+            "text": "one inherited from\neach of your parents. So you get one earwax-determining", 
+            "dur": "4.019", 
+            "start": "227.59"
+        }, 
+        {
+            "text": "allele from your mom and one from your dad.", 
+            "dur": "2.69", 
+            "start": "231.609"
+        }, 
+        {
+            "text": "I should mention that the reason for this\nis that gametes, or sex cells--Senor Sperm", 
+            "dur": "5.16", 
+            "start": "234.299"
+        }, 
+        {
+            "text": "and Madame Egg--are haploid cells, meaning\nthey only have one set of chromosomes.", 
+            "dur": "4.48", 
+            "start": "239.459"
+        }, 
+        {
+            "text": "Again, for emphasis, non-sex cells are called\nsomatic cells and they are diploid. Sex cells", 
+            "dur": "4.5", 
+            "start": "243.939"
+        }, 
+        {
+            "text": "are gametes and they are haploid.", 
+            "dur": "1.991", 
+            "start": "248.439"
+        }, 
+        {
+            "text": "This makes a lot of sense because a sperm\nor an egg has a very specific motivation:", 
+            "dur": "5.179", 
+            "start": "250.43"
+        }, 
+        {
+            "text": "they&#39;re seriously hoping to score, and if\nthey do, they plan to join with a complementary", 
+            "dur": "5.011", 
+            "start": "255.609"
+        }, 
+        {
+            "text": "haploid cell that has the other pair of chromosomes\nthey&#39;re going to need to make a new human,", 
+            "dur": "4.49", 
+            "start": "260.62"
+        }, 
+        {
+            "text": "or buffalo or squid or whatever.", 
+            "dur": "1.36", 
+            "start": "265.11"
+        }, 
+        {
+            "text": "Also, just so you know, some plants have polyploid\ncells, which means they have more than two", 
+            "dur": "4.949", 
+            "start": "266.47"
+        }, 
+        {
+            "text": "sets of chromosomes in each\ncell, which isn&#39;t better or anything--it&#39;s", 
+            "dur": "3.21", 
+            "start": "271.419"
+        }, 
+        {
+            "text": "just how they do. But\nanyway, the point of all that is that we inherit", 
+            "dur": "2.421", 
+            "start": "274.629"
+        }, 
+        {
+            "text": "one version of the\nearwax gene from each of our parents.", 
+            "dur": "3.329", 
+            "start": "277.05"
+        }, 
+        {
+            "text": "So, back to earwax!", 
+            "dur": "1.531", 
+            "start": "280.379"
+        }, 
+        {
+            "text": "So, let&#39;s just say your mom gives you a\nwet earwax allele and your", 
+            "dur": "2.53", 
+            "start": "281.91"
+        }, 
+        {
+            "text": "dad gives you a dry earwax allele.", 
+            "dur": "1.9", 
+            "start": "284.44"
+        }, 
+        {
+            "text": "Good Lord, your dad has horribly ugly ears!", 
+            "dur": "3.19", 
+            "start": "286.34"
+        }, 
+        {
+            "text": "Anyway, since your parents have two alleles,\neach for one gene inherited from each of their", 
+            "dur": "4.949", 
+            "start": "289.53"
+        }, 
+        {
+            "text": "parents, the one passed along to you is entirely\nrandom.", 
+            "dur": "2.56", 
+            "start": "294.479"
+        }, 
+        {
+            "text": "So, a lot of what Mendel discovered is that\nwhen there are two", 
+            "dur": "3.5", 
+            "start": "297.039"
+        }, 
+        {
+            "text": "alleles that decide the outcome of a specific\ntrait, one of these", 
+            "dur": "3.551", 
+            "start": "300.539"
+        }, 
+        {
+            "text": "alleles could be dominant and the other one\nrecessive.", 
+            "dur": "3.4", 
+            "start": "304.09"
+        }, 
+        {
+            "text": "Dominance is the relationship between alleles\nin which one allele", 
+            "dur": "2.829", 
+            "start": "307.49"
+        }, 
+        {
+            "text": "masks or totally suppresses the expression\nof another allele.", 
+            "dur": "3.431", 
+            "start": "310.319"
+        }, 
+        {
+            "text": "So, back to earwax, because I know we all\nlove talking about it so much.", 
+            "dur": "3.539", 
+            "start": "313.75"
+        }, 
+        {
+            "text": "It turns out that Mom&#39;s wet earwax allele\nis dominant, which is why she gets a BIG W,", 
+            "dur": "4.331", 
+            "start": "317.289"
+        }, 
+        {
+            "text": "and Dad&#39;s dry earwax allele is recessive,\nwhich is why he has to be a little w.", 
+            "dur": "4.96", 
+            "start": "321.62"
+        }, 
+        {
+            "text": "JOHN: Go, Mom!", 
+            "dur": "0.88", 
+            "start": "326.58"
+        }, 
+        {
+            "text": "HANK: Oh, you&#39;re back!", 
+            "dur": "1.169", 
+            "start": "327.46"
+        }, 
+        {
+            "text": "JOHN: Yeah! You sound surprised.", 
+            "dur": "1.47", 
+            "start": "328.629"
+        }, 
+        {
+            "text": "HANK: Anyway, Mom&#39;s allele is dominant,\nand that settles it, right--", 
+            "dur": "3.231", 
+            "start": "330.099"
+        }, 
+        {
+            "text": "we&#39;re gonna have wet earwax?", 
+            "dur": "1.38", 
+            "start": "333.33"
+        }, 
+        {
+            "text": "JOHN: Uh, something about the way that you\nsaid that tells", 
+            "dur": "2.079", 
+            "start": "334.71"
+        }, 
+        {
+            "text": "me it&#39;s not that easy.", 
+            "dur": "1.171", 
+            "start": "336.789"
+        }, 
+        {
+            "text": "HANK: Aw, you are so much smarter than you\nlook. It is indeed not that easy.", 
+            "dur": "4.179", 
+            "start": "337.96"
+        }, 
+        {
+            "text": "So, just because an allele is recessive doesn&#39;t\nmean it&#39;s", 
+            "dur": "2.27", 
+            "start": "342.139"
+        }, 
+        {
+            "text": "less common in all your genetic material than\nthe dominant allele.", 
+            "dur": "3.341", 
+            "start": "344.409"
+        }, 
+        {
+            "text": "Which leads us to the assumption, the CORRECT\nassumption, that there&#39;s something else going on here.", 
+            "dur": "4.96", 
+            "start": "347.75"
+        }, 
+        {
+            "text": "JOHN: I&#39;m definitely getting that vibe from\nyou.", 
+            "dur": "1.62", 
+            "start": "353.24"
+        }, 
+        {
+            "text": "HANK: So, it has to do with Mom and Dad&#39;s\nparents. Because", 
+            "dur": "1.839", 
+            "start": "354.86"
+        }, 
+        {
+            "text": "everybody inherits two alleles from their\nparents. Mom got one from Nanny and one from", 
+            "dur": "4.041", 
+            "start": "356.699"
+        }, 
+        {
+            "text": "Paw Paw. And let&#39;s just say Mom got a little\nw from Nanny and a big W allele from Paw Paw.", 
+            "dur": "5.019", 
+            "start": "360.74"
+        }, 
+        {
+            "text": "That means Mom&#39;s genotype, or genetic makeup\nwhen it comes to that single trait, is heterozygous,", 
+            "dur": "6.041", 
+            "start": "365.759"
+        }, 
+        {
+            "text": "which means she inherited two different versions\nof the same gene from each of her parents.", 
+            "dur": "4.66", 
+            "start": "371.8"
+        }, 
+        {
+            "text": "Dad, on the other hand is a homozygote.", 
+            "dur": "2.09", 
+            "start": "376.46"
+        }, 
+        {
+            "text": "JOHN: Let me guess, that means that he had\ntwo of the", 
+            "dur": "1.53", 
+            "start": "378.55"
+        }, 
+        {
+            "text": "same allele, either a little w or a Big W\nallele inherited from both Grandma and Grandpa.", 
+            "dur": "5.38", 
+            "start": "380.08"
+        }, 
+        {
+            "text": "HANK: Right! And in order for this to all\nwork out the way that I want it to, let&#39;s", 
+            "dur": "3.769", 
+            "start": "385.46"
+        }, 
+        {
+            "text": "just say that both Grandma and Grandpa would\nhave passed little w&#39;s down to Dad, making", 
+            "dur": "4.391", 
+            "start": "389.229"
+        }, 
+        {
+            "text": "his genotype homozygous recessive for this\ngene.", 
+            "dur": "3.53", 
+            "start": "393.62"
+        }, 
+        {
+            "text": "JOHN: Okay, so I&#39;m keeping score in my head\nright now. And", 
+            "dur": "2.15", 
+            "start": "397.15"
+        }, 
+        {
+            "text": "according to my brain, Mom is a Big W, little\nw and Dad is a little w, little w.", 
+            "dur": "3.75", 
+            "start": "399.3"
+        }, 
+        {
+            "text": "HANK: And now we&#39;re going to figure out\nwhat our earwax phenotype is. And phenotype", 
+            "dur": "5.019", 
+            "start": "403.61"
+        }, 
+        {
+            "text": "is what&#39;s\nexpressed physically, or in this case, what", 
+            "dur": "2.641", 
+            "start": "408.629"
+        }, 
+        {
+            "text": "you&#39;d see if you looked\ninto our ears.", 
+            "dur": "1.859", 
+            "start": "411.27"
+        }, 
+        {
+            "text": "JOHN: Alright, so are we gonna do a Punnett\nSquare or", 
+            "dur": "2.171", 
+            "start": "413.129"
+        }, 
+        {
+            "text": "anything? This is why I do history, if we&#39;re\ngoing to do Punnett Squares, I&#39;m leaving!", 
+            "dur": "2.79", 
+            "start": "415.3"
+        }, 
+        {
+            "text": "HANK: But I was just going to start to talk\nabout people again. So Reginald C. Punnett,", 
+            "dur": "4.349", 
+            "start": "418.09"
+        }, 
+        {
+            "text": "who was a total Gregor Mendel\nfanboy, invented the Punnett Square as a way", 
+            "dur": "3.94", 
+            "start": "422.439"
+        }, 
+        {
+            "text": "to diagram the\noutcome of a particular cross breeding experiment.", 
+            "dur": "3.451", 
+            "start": "426.379"
+        }, 
+        {
+            "text": "A really simple one looks like this:", 
+            "dur": "2.089", 
+            "start": "429.83"
+        }, 
+        {
+            "text": "So, let&#39;s put Mom on the side here and give\nher a Big W and a", 
+            "dur": "2.5", 
+            "start": "431.919"
+        }, 
+        {
+            "text": "little w. And let&#39;s put Dad on the top,\nand he gets two little w&#39;s.", 
+            "dur": "2.941", 
+            "start": "434.419"
+        }, 
+        {
+            "text": "So if you fill this in, it looks like there&#39;s\na 50/50 chance that any child of this mating", 
+            "dur": "3.709", 
+            "start": "437.36"
+        }, 
+        {
+            "text": "will be homozygous or heterozygous.", 
+            "dur": "2.231", 
+            "start": "441.069"
+        }, 
+        {
+            "text": "And as for our phenotype, it shakes out the\nsame way: John and I both have a 50% chance", 
+            "dur": "3.859", 
+            "start": "443.3"
+        }, 
+        {
+            "text": "of having wet ear\nwax and a 50% chance of having dry ear wax.", 
+            "dur": "3.91", 
+            "start": "447.159"
+        }, 
+        {
+            "text": "So I just had to go and call John, because\nnow he&#39;s not participating", 
+            "dur": "3.741", 
+            "start": "451.069"
+        }, 
+        {
+            "text": "because he doesn&#39;t like Punnett Sauares, and\nit turns out, that he has wet ear wax. I also", 
+            "dur": "4.94", 
+            "start": "454.81"
+        }, 
+        {
+            "text": "have wet ear wax. Which, you know, is not\nthat unlikely, considering that our parents", 
+            "dur": "5.11", 
+            "start": "459.75"
+        }, 
+        {
+            "text": "were homozygous and heterozygous.", 
+            "dur": "1.839", 
+            "start": "464.86"
+        }, 
+        {
+            "text": "This may explain the odor of our bathroom\ngrowing up because it turns out there&#39;s a", 
+            "dur": "4.641", 
+            "start": "466.699"
+        }, 
+        {
+            "text": "correlation between wet ear wax and body odor,\nbecause ear wax and armpit sweat are produced", 
+            "dur": "5.47", 
+            "start": "471.34"
+        }, 
+        {
+            "text": "by the same type of gland.", 
+            "dur": "1.68", 
+            "start": "476.81"
+        }, 
+        {
+            "text": "Because this one gene has an effect on multiple\ntraits or phenotypes, it&#39;s an example of a", 
+            "dur": "3.889", 
+            "start": "478.49"
+        }, 
+        {
+            "text": "pleiotropic gene, because the gene affects\nhow wet your ear wax is, and how much you stink.", 
+            "dur": "4.271", 
+            "start": "482.379"
+        }, 
+        {
+            "text": "One more thing you might find interesting:\nsex-linked inheritance.", 
+            "dur": "2.589", 
+            "start": "487.08"
+        }, 
+        {
+            "text": "So we&#39;ve got 23 chromosomes:\n22 pairs are", 
+            "dur": "3.451", 
+            "start": "489.669"
+        }, 
+        {
+            "text": "autosomes, or non-sex chromosomes, and 1 pair\nthe 23rd pair,", 
+            "dur": "4.49", 
+            "start": "493.12"
+        }, 
+        {
+            "text": "to be exact--is a sex chromosome. At that\n23rd pair, women have two full length chromosomes,", 
+            "dur": "5.72", 
+            "start": "497.61"
+        }, 
+        {
+            "text": "or &quot;XX,&quot; and men have one X chromosome\n(that they inherited from their Mom) and this", 
+            "dur": "4.459", 
+            "start": "503.33"
+        }, 
+        {
+            "text": "one little, short, puny, shriveled chromosome\nthat we call &quot;Y,&quot; which is why men are &quot;XY.&quot;", 
+            "dur": "6.48", 
+            "start": "507.789"
+        }, 
+        {
+            "text": "So, certain genetic traits are linked to a\nperson&#39;s sex and are", 
+            "dur": "2.99", 
+            "start": "514.5"
+        }, 
+        {
+            "text": "passed on through the sex chromosomes. Since\ndudes don&#39;t have", 
+            "dur": "2.849", 
+            "start": "517.49"
+        }, 
+        {
+            "text": "two full chromosomes on pair 23, there may\nbe recessive alleles", 
+            "dur": "3.07", 
+            "start": "520.339"
+        }, 
+        {
+            "text": "on the X that they inherited from their mom\nthat will get expressed,", 
+            "dur": "4.071", 
+            "start": "523.409"
+        }, 
+        {
+            "text": "since there&#39;s not any information on the\nY chromosome to provide", 
+            "dur": "2.479", 
+            "start": "527.48"
+        }, 
+        {
+            "text": "the possibility for a dominant allele counteracting\nthat specific trait.", 
+            "dur": "3.901", 
+            "start": "529.959"
+        }, 
+        {
+            "text": "Take, for instance, balding. Women rarely\ngo bald in their youth", 
+            "dur": "3.08", 
+            "start": "533.86"
+        }, 
+        {
+            "text": "like some men do because it is caused by a\nrecessive allele", 
+            "dur": "3.13", 
+            "start": "536.94"
+        }, 
+        {
+            "text": "located in a gene on the X chromosome. So\nit&#39;s rare that women", 
+            "dur": "3.66", 
+            "start": "540.07"
+        }, 
+        {
+            "text": "get 2 recessive alleles. But men need just\none recessive allele", 
+            "dur": "3.94", 
+            "start": "543.73"
+        }, 
+        {
+            "text": "and, Doh! Baldy bald!", 
+            "dur": "1.57", 
+            "start": "547.67"
+        }, 
+        {
+            "text": "And that allele is on their X chromosome,\nwhich they got from", 
+            "dur": "3.37", 
+            "start": "549.24"
+        }, 
+        {
+            "text": "Mom. But was Mom bald? Probably not. And where did Mom get", 
+            "dur": "3.43", 
+            "start": "552.61"
+        }, 
+        {
+            "text": "that allele on her X chromosome? Either from\nher Dad or her Mom.", 
+            "dur": "3.82", 
+            "start": "556.04"
+        }, 
+        {
+            "text": "So if you&#39;re bald, you can go ahead and blame\nit on your", 
+            "dur": "2.36", 
+            "start": "559.86"
+        }, 
+        {
+            "text": "maternal grandmother, or your maternal-maternal great-grandfather", 
+            "dur": "2.869", 
+            "start": "562.22"
+        }, 
+        {
+            "text": "or your maternal-maternal-maternal\ngreat-great grandfather", 
+            "dur": "3.37", 
+            "start": "565.089"
+        }, 
+        {
+            "text": "who probably went bald before he was 30.", 
+            "dur": "2.159", 
+            "start": "569.48"
+        }, 
+        {
+            "text": "So, Genetics, you guys. Resistance is futile.", 
+            "dur": "2.961", 
+            "start": "571.639"
+        }, 
+        {
+            "text": "Thanks to my brother John for sharing his\npersonal genetic", 
+            "dur": "2.78", 
+            "start": "574.6"
+        }, 
+        {
+            "text": "information with us, and also his face and\nvoice and all that stuff. That was very nice.", 
+            "dur": "5.22", 
+            "start": "577.38"
+        }, 
+        {
+            "text": "Think of us next time you swab out your ears!\nActually they say that you really shouldn&#39;t", 
+            "dur": "4.56", 
+            "start": "582.6"
+        }, 
+        {
+            "text": "do that because we have earwax for a reason,\nand you might poke your brain or something.", 
+            "dur": "5.179", 
+            "start": "587.16"
+        }, 
+        {
+            "text": "Okay, that&#39;s the last time I&#39;m mentioning\nearwax.", 
+            "dur": "3.141", 
+            "start": "592.339"
+        }, 
+        {
+            "text": "Review! Click on any of these things to go\nback to that section of the video. If you", 
+            "dur": "3.72", 
+            "start": "595.48"
+        }, 
+        {
+            "text": "have any questions, please ask them in the\ncomments.", 
+            "dur": "2.52", 
+            "start": "599.2"
+        }
+    ], 
+    "title": "Heredity: Crash Course Biology #9", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/03hmm", 
+        "/m/0k3p2y_", 
+        "/m/01540", 
+        "/m/036_2", 
+        "/m/04ym9"
+    ], 
+    "number_views": 765093, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

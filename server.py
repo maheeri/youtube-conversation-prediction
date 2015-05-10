@@ -11,7 +11,7 @@ import json
 app = Flask(__name__)
 
 CLASSIFIER = get_classifer()
-tfv = vectorize_on_training_set() 
+tfv = get_tfv() 
 
 @app.route('/')
 def main():

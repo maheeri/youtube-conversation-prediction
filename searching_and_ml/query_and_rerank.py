@@ -186,7 +186,10 @@ def rerank_search_results(model, search_results, tfv):
 	return sorted(videos_with_score, key=itemgetter(1), reverse=True)
 	
 def get_classifer():
-	return joblib.load('./trained_models/dummy.pkl')
+    return joblib.load('./trained_models/svr.pkl')
+
+def get_tfv():
+    return joblib.load('./trained_models/tfv.pkl')
 
 def get_wordcloud(vid_id):
 	transcript = re.sub("&#39;", "", get_flattened_transcript(vid_id))

@@ -1,0 +1,737 @@
+{
+    "publish_date": "2011-03-14T08:03:02.000Z", 
+    "video_length": "PT5M17S", 
+    "captions": [
+        {
+            "text": "Let&#39;s say you&#39;re me, and\nyou&#39;re in math class.", 
+            "dur": "1.66", 
+            "start": "0.2"
+        }, 
+        {
+            "text": "And you&#39;re supposed to\nbe learning trigonometry,", 
+            "dur": "1.64", 
+            "start": "1.86"
+        }, 
+        {
+            "text": "but you&#39;re having\ntrouble paying attention", 
+            "dur": "1.25", 
+            "start": "3.5"
+        }, 
+        {
+            "text": "because it&#39;s boring and stupid.", 
+            "dur": "1.7", 
+            "start": "4.75"
+        }, 
+        {
+            "text": "This is not your fault.", 
+            "dur": "1.142", 
+            "start": "6.45"
+        }, 
+        {
+            "text": "It&#39;s not even your\nteacher&#39;s fault.", 
+            "dur": "1.458", 
+            "start": "7.592"
+        }, 
+        {
+            "text": "It&#39;s pi&#39;s fault,\nbecause pi is wrong.", 
+            "dur": "3.324", 
+            "start": "9.05"
+        }, 
+        {
+            "text": "I don&#39;t mean that\npi is incorrect.", 
+            "dur": "1.416", 
+            "start": "12.374"
+        }, 
+        {
+            "text": "The ratio of a circle&#39;s\ndiameter to its circumference", 
+            "dur": "2.208", 
+            "start": "13.79"
+        }, 
+        {
+            "text": "is still 3.14 and so on.", 
+            "dur": "1.602", 
+            "start": "15.998"
+        }, 
+        {
+            "text": "I mean that pi, as a concept,\nis a terrible mistake that", 
+            "dur": "3.44", 
+            "start": "17.6"
+        }, 
+        {
+            "text": "has gone uncorrected\nfor thousands of years.", 
+            "dur": "2.53", 
+            "start": "21.04"
+        }, 
+        {
+            "text": "The problem of pi and\nPi Day is the same", 
+            "dur": "1.98", 
+            "start": "23.57"
+        }, 
+        {
+            "text": "as the problem with\nColumbus and Columbus Day.", 
+            "dur": "2.284", 
+            "start": "25.55"
+        }, 
+        {
+            "text": "Sure, Christopher Columbus was a\nreal person who did some stuff.", 
+            "dur": "2.666", 
+            "start": "27.834"
+        }, 
+        {
+            "text": "But everything you learn\nabout him in school", 
+            "dur": "1.833", 
+            "start": "30.5"
+        }, 
+        {
+            "text": "is warped and overemphasized.", 
+            "dur": "1.947", 
+            "start": "32.333"
+        }, 
+        {
+            "text": "He didn&#39;t discover America.", 
+            "dur": "1.58", 
+            "start": "34.28"
+        }, 
+        {
+            "text": "He didn&#39;t discover\nthe world was round.", 
+            "dur": "1.69", 
+            "start": "35.86"
+        }, 
+        {
+            "text": "And he was a bit of a jerk.", 
+            "dur": "1.56", 
+            "start": "37.55"
+        }, 
+        {
+            "text": "So why do we celebrate\nColumbus Day?", 
+            "dur": "2.05", 
+            "start": "39.11"
+        }, 
+        {
+            "text": "Same with pi.", 
+            "dur": "0.685", 
+            "start": "41.16"
+        }, 
+        {
+            "text": "You learned in school that pi\nis the all-important circle", 
+            "dur": "2.375", 
+            "start": "41.845"
+        }, 
+        {
+            "text": "constant, and had to memorize\na whole bunch of equations", 
+            "dur": "2.333", 
+            "start": "44.22"
+        }, 
+        {
+            "text": "involving it because\nthat&#39;s the way it&#39;s", 
+            "dur": "1.967", 
+            "start": "46.553"
+        }, 
+        {
+            "text": "been taught for\na very long time.", 
+            "dur": "2.08", 
+            "start": "48.52"
+        }, 
+        {
+            "text": "If you found any of these\nequations confusing,", 
+            "dur": "2.25", 
+            "start": "50.6"
+        }, 
+        {
+            "text": "it&#39;s not your fault.", 
+            "dur": "1.26", 
+            "start": "52.85"
+        }, 
+        {
+            "text": "It&#39;s just that pi is wrong.", 
+            "dur": "1.55", 
+            "start": "54.11"
+        }, 
+        {
+            "text": "Let me show you what I mean.", 
+            "dur": "1.39", 
+            "start": "55.66"
+        }, 
+        {
+            "text": "Radians.", 
+            "dur": "0.637", 
+            "start": "57.05"
+        }, 
+        {
+            "text": "Good system for measuring angles\nwhen it comes to mathematics.", 
+            "dur": "2.583", 
+            "start": "57.687"
+        }, 
+        {
+            "text": "It should make sense.", 
+            "dur": "1.04", 
+            "start": "60.27"
+        }, 
+        {
+            "text": "But it doesn&#39;t, because\npi messes it up.", 
+            "dur": "2.52", 
+            "start": "61.31"
+        }, 
+        {
+            "text": "For example, how\nmuch pie is this?", 
+            "dur": "2.25", 
+            "start": "63.83"
+        }, 
+        {
+            "text": "You might think this\nshould be one pie.", 
+            "dur": "2.54", 
+            "start": "66.08"
+        }, 
+        {
+            "text": "But it&#39;s not.", 
+            "dur": "1.09", 
+            "start": "68.62"
+        }, 
+        {
+            "text": "The full 360 degrees\nof pi is actually 2 pi.", 
+            "dur": "3.99", 
+            "start": "69.71"
+        }, 
+        {
+            "text": "What?", 
+            "dur": "0.67", 
+            "start": "73.7"
+        }, 
+        {
+            "text": "Say I ask you how much pie you\nwant, and you say pi over 8.", 
+            "dur": "2.88", 
+            "start": "74.37"
+        }, 
+        {
+            "text": "You&#39;d think this should\nbe an eighth of a pie.", 
+            "dur": "1.93", 
+            "start": "77.25"
+        }, 
+        {
+            "text": "But it&#39;s not.", 
+            "dur": "0.8", 
+            "start": "79.18"
+        }, 
+        {
+            "text": "It&#39;s a sixteenth of a pie.", 
+            "dur": "1.43", 
+            "start": "79.98"
+        }, 
+        {
+            "text": "That&#39;s confusing.", 
+            "dur": "1.88", 
+            "start": "81.41"
+        }, 
+        {
+            "text": "You may thinking, come on, Vi!", 
+            "dur": "1.759", 
+            "start": "83.29"
+        }, 
+        {
+            "text": "It&#39;s a simple conversion.", 
+            "dur": "1.041", 
+            "start": "85.049"
+        }, 
+        {
+            "text": "All you have to\ndo is divide by 2.", 
+            "dur": "1.94", 
+            "start": "86.09"
+        }, 
+        {
+            "text": "Or multiply by 2, if\nyou&#39;re going the other way.", 
+            "dur": "2.13", 
+            "start": "88.03"
+        }, 
+        {
+            "text": "So you just have to make sure\nyou pay attention to which way", 
+            "dur": "3.11", 
+            "start": "90.16"
+        }, 
+        {
+            "text": "you&#39;re--", 
+            "dur": "0.611", 
+            "start": "93.27"
+        }, 
+        {
+            "text": "No.", 
+            "dur": "0.499", 
+            "start": "93.881"
+        }, 
+        {
+            "text": "You&#39;re making excuses for pi.", 
+            "dur": "1.77", 
+            "start": "94.38"
+        }, 
+        {
+            "text": "Mathematics should be as elegant\nand beautiful as possible.", 
+            "dur": "3.134", 
+            "start": "96.15"
+        }, 
+        {
+            "text": "When you complicate\nsomething that", 
+            "dur": "1.416", 
+            "start": "99.284"
+        }, 
+        {
+            "text": "should be as simple as one pi\nequals one pi by adding all", 
+            "dur": "4.19", 
+            "start": "100.7"
+        }, 
+        {
+            "text": "these conversions, something\ngets lost in translation.", 
+            "dur": "3.78", 
+            "start": "104.89"
+        }, 
+        {
+            "text": "But Vi, you ask.", 
+            "dur": "1.42", 
+            "start": "108.67"
+        }, 
+        {
+            "text": "Is there a better way?", 
+            "dur": "1.394", 
+            "start": "110.09"
+        }, 
+        {
+            "text": "Well, for this\nparticular example,", 
+            "dur": "1.416", 
+            "start": "111.484"
+        }, 
+        {
+            "text": "there&#39;s an easy\nanswer for what you&#39;d", 
+            "dur": "1.541", 
+            "start": "112.9"
+        }, 
+        {
+            "text": "have to do to make a pie\nbe 1 pi instead of 2 pi.", 
+            "dur": "2.779", 
+            "start": "114.441"
+        }, 
+        {
+            "text": "You could redefine pi\nto be 2 pi or 6.28.", 
+            "dur": "3.99", 
+            "start": "117.22"
+        }, 
+        {
+            "text": "And so on.", 
+            "dur": "0.86", 
+            "start": "121.21"
+        }, 
+        {
+            "text": "But I don&#39;t want to\nredefine pi because that", 
+            "dur": "2.489", 
+            "start": "122.07"
+        }, 
+        {
+            "text": "would be confusing.", 
+            "dur": "0.791", 
+            "start": "124.559"
+        }, 
+        {
+            "text": "So let&#39;s use a different letter.", 
+            "dur": "1.23", 
+            "start": "125.35"
+        }, 
+        {
+            "text": "Tau.", 
+            "dur": "0.5", 
+            "start": "126.58"
+        }, 
+        {
+            "text": "Because tau looks\nkind of like pi.", 
+            "dur": "2.35", 
+            "start": "127.08"
+        }, 
+        {
+            "text": "A full circle would be 1 tau.", 
+            "dur": "1.43", 
+            "start": "129.43"
+        }, 
+        {
+            "text": "A half circle would be\nhalf tau, or tau over 2.", 
+            "dur": "2.93", 
+            "start": "130.86"
+        }, 
+        {
+            "text": "And if you want 1/16 of this\npie, you want tau over 16.", 
+            "dur": "5.05", 
+            "start": "133.79"
+        }, 
+        {
+            "text": "That would be simple.", 
+            "dur": "1.89", 
+            "start": "138.84"
+        }, 
+        {
+            "text": "But Vi, you say, that\nseems rather arbitrary.", 
+            "dur": "2.64", 
+            "start": "140.73"
+        }, 
+        {
+            "text": "Sure, tau makes\nradians easier, but it", 
+            "dur": "1.809", 
+            "start": "143.37"
+        }, 
+        {
+            "text": "would be annoying to have to\nconvert between tau and pi", 
+            "dur": "2.291", 
+            "start": "145.179"
+        }, 
+        {
+            "text": "every time you want\nto work in radians.", 
+            "dur": "2.28", 
+            "start": "147.47"
+        }, 
+        {
+            "text": "True.", 
+            "dur": "1.04", 
+            "start": "149.75"
+        }, 
+        {
+            "text": "But the way of mathematics\nis to make stuff", 
+            "dur": "1.23", 
+            "start": "150.79"
+        }, 
+        {
+            "text": "up and see what happens.", 
+            "dur": "0.999", 
+            "start": "152.02"
+        }, 
+        {
+            "text": "So let&#39;s see what happens if\nwe use tau in other equations.", 
+            "dur": "2.631", 
+            "start": "153.019"
+        }, 
+        {
+            "text": "Math classes make you\nmemorize stuff like this,", 
+            "dur": "2.7", 
+            "start": "155.65"
+        }, 
+        {
+            "text": "so that you can draw\ngraphs like this.", 
+            "dur": "2.38", 
+            "start": "158.35"
+        }, 
+        {
+            "text": "I mean, sure you could derive\nthese values every time.", 
+            "dur": "2.4", 
+            "start": "160.73"
+        }, 
+        {
+            "text": "But you don&#39;t, because it&#39;s\neasier to just memorize it.", 
+            "dur": "2.38", 
+            "start": "163.13"
+        }, 
+        {
+            "text": "Or use your calculator, because\npi and radians are confusing.", 
+            "dur": "4.11", 
+            "start": "165.51"
+        }, 
+        {
+            "text": "This appalling notation\nmakes us forget", 
+            "dur": "1.92", 
+            "start": "169.62"
+        }, 
+        {
+            "text": "what the sine wave\nactually represents,", 
+            "dur": "2.117", 
+            "start": "171.54"
+        }, 
+        {
+            "text": "which is how high this point\nis when you&#39;ve gone however", 
+            "dur": "2.333", 
+            "start": "173.657"
+        }, 
+        {
+            "text": "far around this unit circle.", 
+            "dur": "1.89", 
+            "start": "175.99"
+        }, 
+        {
+            "text": "When your radians are\nnotated horrifically,", 
+            "dur": "2.01", 
+            "start": "177.88"
+        }, 
+        {
+            "text": "all of trigonometry\nbecomes ugly.", 
+            "dur": "2.74", 
+            "start": "179.89"
+        }, 
+        {
+            "text": "But it doesn&#39;t have\nto be this way.", 
+            "dur": "2.23", 
+            "start": "182.63"
+        }, 
+        {
+            "text": "What if we used tau?", 
+            "dur": "1.49", 
+            "start": "184.86"
+        }, 
+        {
+            "text": "Let&#39;s make a sine wave\nstarting with tau at 0.", 
+            "dur": "3.11", 
+            "start": "186.35"
+        }, 
+        {
+            "text": "The height of sine\ntau is also 0.", 
+            "dur": "2.17", 
+            "start": "189.46"
+        }, 
+        {
+            "text": "At tau over 4, we&#39;ve\ngone a quarter of the way", 
+            "dur": "2.12", 
+            "start": "191.63"
+        }, 
+        {
+            "text": "around the circle.", 
+            "dur": "0.75", 
+            "start": "193.75"
+        }, 
+        {
+            "text": "The height, or y\nvalue of this point,", 
+            "dur": "2.18", 
+            "start": "194.5"
+        }, 
+        {
+            "text": "is so obviously 1\nwhen you don&#39;t have", 
+            "dur": "2.29", 
+            "start": "196.68"
+        }, 
+        {
+            "text": "to do the extra step of the\nin-your-head conversion of pi", 
+            "dur": "2.78", 
+            "start": "198.97"
+        }, 
+        {
+            "text": "over 2 is actually a\nquarter of a circle.", 
+            "dur": "2.42", 
+            "start": "201.75"
+        }, 
+        {
+            "text": "Tau over 2, half a\ncircle around, back at 0.", 
+            "dur": "3.52", 
+            "start": "204.17"
+        }, 
+        {
+            "text": "3/4 tau, 3/4 of the\nway around, negative 1.", 
+            "dur": "2.665", 
+            "start": "207.69"
+        }, 
+        {
+            "text": "A full turn brings us all\nthe way back to 0 and bam.", 
+            "dur": "3.525", 
+            "start": "210.355"
+        }, 
+        {
+            "text": "That just makes sense.", 
+            "dur": "1.56", 
+            "start": "213.88"
+        }, 
+        {
+            "text": "Why?", 
+            "dur": "0.64", 
+            "start": "215.44"
+        }, 
+        {
+            "text": "Because we don&#39;t make\ncircles using a diameter.", 
+            "dur": "2.33", 
+            "start": "216.08"
+        }, 
+        {
+            "text": "We make circles using a radius.", 
+            "dur": "2.03", 
+            "start": "218.41"
+        }, 
+        {
+            "text": "The length of the radius\nis the fundamental thing", 
+            "dur": "2.45", 
+            "start": "220.44"
+        }, 
+        {
+            "text": "that determines the\ncircumference of a circle.", 
+            "dur": "2.71", 
+            "start": "222.89"
+        }, 
+        {
+            "text": "So why would we\ndefine this circle", 
+            "dur": "1.93", 
+            "start": "225.6"
+        }, 
+        {
+            "text": "constant as a ratio of the\ndiameter to the circumference?", 
+            "dur": "3.06", 
+            "start": "227.53"
+        }, 
+        {
+            "text": "Defining it by the ratio of\nthe radius to the circumference", 
+            "dur": "3.36", 
+            "start": "230.59"
+        }, 
+        {
+            "text": "makes much more sense.", 
+            "dur": "1.32", 
+            "start": "233.95"
+        }, 
+        {
+            "text": "And that&#39;s how you\nget our lovely tau.", 
+            "dur": "2.087", 
+            "start": "235.27"
+        }, 
+        {
+            "text": "There&#39;s a boatload of important\nequations and identities", 
+            "dur": "2.333", 
+            "start": "237.357"
+        }, 
+        {
+            "text": "where 2 pi shows up,\nwhich could and should", 
+            "dur": "2.16", 
+            "start": "239.69"
+        }, 
+        {
+            "text": "be simplified to tau.", 
+            "dur": "1.48", 
+            "start": "241.85"
+        }, 
+        {
+            "text": "But Vi, you say, what\nabout e to the i pi?", 
+            "dur": "2.87", 
+            "start": "243.33"
+        }, 
+        {
+            "text": "Are you really suggesting\nwe ruin it by making it e", 
+            "dur": "2.91", 
+            "start": "246.2"
+        }, 
+        {
+            "text": "to the i tau over 2\nequals negative 1?", 
+            "dur": "3.22", 
+            "start": "249.11"
+        }, 
+        {
+            "text": "To which I respond,\nwho do you think I am?", 
+            "dur": "1.83", 
+            "start": "252.33"
+        }, 
+        {
+            "text": "I would never suggest\ndoing something so ghastly", 
+            "dur": "2.66", 
+            "start": "254.16"
+        }, 
+        {
+            "text": "is killing Euler&#39;s identity.", 
+            "dur": "1.723", 
+            "start": "256.82"
+        }, 
+        {
+            "text": "Which, by the way, comes\nfrom Euler&#39;s formula,", 
+            "dur": "1.916", 
+            "start": "258.543"
+        }, 
+        {
+            "text": "which is e to the i theta equals\ncosine theta plus i sine theta.", 
+            "dur": "4.371", 
+            "start": "260.459"
+        }, 
+        {
+            "text": "Let replace theta with tau.", 
+            "dur": "2.34", 
+            "start": "264.83"
+        }, 
+        {
+            "text": "It&#39;s easy to remember\nthat the sine, or y value,", 
+            "dur": "2.91", 
+            "start": "267.17"
+        }, 
+        {
+            "text": "of a full tau turn of\na unit circle is 0.", 
+            "dur": "2.62", 
+            "start": "270.08"
+        }, 
+        {
+            "text": "So this is all 0.", 
+            "dur": "1.9", 
+            "start": "272.7"
+        }, 
+        {
+            "text": "Cosine of a full turn is\nthe x value, which is 1.", 
+            "dur": "3.26", 
+            "start": "274.6"
+        }, 
+        {
+            "text": "So check this out.", 
+            "dur": "1.12", 
+            "start": "277.86"
+        }, 
+        {
+            "text": "E to the i tau equals 1.", 
+            "dur": "2.44", 
+            "start": "278.98"
+        }, 
+        {
+            "text": "What now?", 
+            "dur": "1.584", 
+            "start": "281.42"
+        }, 
+        {
+            "text": "If you&#39;re still\nnot convinced, I&#39;d", 
+            "dur": "1.416", 
+            "start": "283.004"
+        }, 
+        {
+            "text": "recommend reading The Tau\nManifesto by Michael Hartl, who", 
+            "dur": "2.47", 
+            "start": "284.42"
+        }, 
+        {
+            "text": "does a pretty thorough\njob addressing", 
+            "dur": "1.82", 
+            "start": "286.89"
+        }, 
+        {
+            "text": "every possible\ncomplaint at tauday.com.", 
+            "dur": "2.13", 
+            "start": "288.71"
+        }, 
+        {
+            "text": "If you still want to\ncelebrate Pi Day, that&#39;s fine.", 
+            "dur": "3.04", 
+            "start": "290.84"
+        }, 
+        {
+            "text": "You can have your\npie and eat it.", 
+            "dur": "2.23", 
+            "start": "293.88"
+        }, 
+        {
+            "text": "But I hope you&#39;ll all\njoin me on June 28,", 
+            "dur": "2.37", 
+            "start": "296.11"
+        }, 
+        {
+            "text": "because I&#39;ll be making\ntau and eating two.", 
+            "dur": "2.91", 
+            "start": "298.48"
+        }, 
+        {
+            "text": "I&#39;ve got pie here, and\nI&#39;ve got pie there.", 
+            "dur": "2.55", 
+            "start": "311.97"
+        }, 
+        {
+            "text": "I&#39;m pie winning.", 
+            "dur": "2.01", 
+            "start": "314.52"
+        }
+    ], 
+    "title": "Pi Is (still) Wrong.", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/05wjw", 
+        "/m/04rjg"
+    ], 
+    "number_views": 1928742, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

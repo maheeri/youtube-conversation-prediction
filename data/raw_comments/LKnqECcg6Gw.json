@@ -1,0 +1,278 @@
+{
+    "publish_date": "2015-03-20T19:32:14.000Z", 
+    "video_length": "PT4M14S", 
+    "captions": [
+        {
+            "text": "If you put a colorful image into photoshop\nor instagram and blur it, you\u2019ll see a weird,", 
+            "dur": "4.631", 
+            "start": "1.359"
+        }, 
+        {
+            "text": "dark boundary between adjacent bright colors.\nYuk! In the real world, out of focus colors", 
+            "dur": "5.299", 
+            "start": "5.99"
+        }, 
+        {
+            "text": "blend smoothly, going from red to yellow to\ngreen \u2013 not red to brown to green!", 
+            "dur": "5.58", 
+            "start": "11.289"
+        }, 
+        {
+            "text": "This color blending problem isn\u2019t limited\nto digital photo blurring, either \u2013\u00a0pretty", 
+            "dur": "3.991", 
+            "start": "16.869"
+        }, 
+        {
+            "text": "much any time a computer blurs an image or\ntries to use transparent edges, you\u2019ll see", 
+            "dur": "4.5", 
+            "start": "20.86"
+        }, 
+        {
+            "text": "the same hideous sludge.", 
+            "dur": "1.49", 
+            "start": "25.36"
+        }, 
+        {
+            "text": "There\u2019s a very simple explanation for this\nugliness \u2013\u00a0and a simple way to fix it.", 
+            "dur": "4.86", 
+            "start": "26.85"
+        }, 
+        {
+            "text": "It all starts with how we perceive brightness.", 
+            "dur": "2.9", 
+            "start": "31.71"
+        }, 
+        {
+            "text": "Human vision, like our hearing, works on a\nrelative, roughly logarithmic scale: this", 
+            "dur": "4.58", 
+            "start": "34.61"
+        }, 
+        {
+            "text": "means that flipping from one light to two\nchanges the percieved brightness a TON more", 
+            "dur": "4.26", 
+            "start": "39.19"
+        }, 
+        {
+            "text": "than going from a hundred and one to a hundred\nand two, despite adding the same physical", 
+            "dur": "4.05", 
+            "start": "43.45"
+        }, 
+        {
+            "text": "amount of light. Our eyes and brains are simply\nbetter at detecting small differences in the", 
+            "dur": "4.03", 
+            "start": "47.5"
+        }, 
+        {
+            "text": "absolute brightness of dark scenes, and bad\nat detecting the same differences in bright", 
+            "dur": "4.49", 
+            "start": "51.53"
+        }, 
+        {
+            "text": "scenes.", 
+            "dur": "1.09", 
+            "start": "56.02"
+        }, 
+        {
+            "text": "Computers and digital image sensors, on the\nother hand, detect brightness purely based", 
+            "dur": "3.74", 
+            "start": "57.11"
+        }, 
+        {
+            "text": "on the number of photons hitting a photodetector\n\u2013 so additional photons register the same", 
+            "dur": "4.4", 
+            "start": "60.85"
+        }, 
+        {
+            "text": "increase in brightness regardless of the surrounding\nscene.", 
+            "dur": "3.159", 
+            "start": "65.25"
+        }, 
+        {
+            "text": "When a digital image is stored, the computer\nrecords a brightness value for each colors", 
+            "dur": "3.831", 
+            "start": "68.409"
+        }, 
+        {
+            "text": "\u2013 red, green and blue \u2013 at each point\nof the image. Typically, zero represents zero", 
+            "dur": "4.48", 
+            "start": "72.24"
+        }, 
+        {
+            "text": "brightness and one represents 100 percent\nbrightness. So 0.5 is half as bright as 1,", 
+            "dur": "5.75", 
+            "start": "76.72"
+        }, 
+        {
+            "text": "right? NOPE. This color might LOOK like it\u2019s\nhalfway between black and white, but that\u2019s", 
+            "dur": "4.31", 
+            "start": "82.47"
+        }, 
+        {
+            "text": "because of our logarithmic vision \u2013 in terms\nof absolute physical brightness, it\u2019s only", 
+            "dur": "4.04", 
+            "start": "86.78"
+        }, 
+        {
+            "text": "one fifth as many photons as white. Even more\ncrazy, an image value of 0.25 has just one", 
+            "dur": "5.67", 
+            "start": "90.82"
+        }, 
+        {
+            "text": "twentieth the photons of white!", 
+            "dur": "2.32", 
+            "start": "96.49"
+        }, 
+        {
+            "text": "Digital imaging has a good reason for being\ndesigned in this darker-than-the-numbers-suggest", 
+            "dur": "4.01", 
+            "start": "98.81"
+        }, 
+        {
+            "text": "way: remember, human vision is better at detecting\nsmall differences in the brightness of dark", 
+            "dur": "4.7", 
+            "start": "102.82"
+        }, 
+        {
+            "text": "scenes, which software engineers took advantage\nof as a way of saving disk space in the early", 
+            "dur": "4.389", 
+            "start": "107.52"
+        }, 
+        {
+            "text": "days of digital imaging.", 
+            "dur": "1.731", 
+            "start": "111.909"
+        }, 
+        {
+            "text": "The trick is simple: when a digital camera\ncaptures an image, instead of storing the", 
+            "dur": "4.26", 
+            "start": "113.64"
+        }, 
+        {
+            "text": "brightness values it gives, store their square\nroots \u2013 this samples the gradations of dark", 
+            "dur": "4.37", 
+            "start": "117.9"
+        }, 
+        {
+            "text": "colors with more data points and bright colors\nwith fewer data points, roughly imitating", 
+            "dur": "4.459", 
+            "start": "122.27"
+        }, 
+        {
+            "text": "the characteristics of human vision. When\nyou need to display the image on a monitor,", 
+            "dur": "3.901", 
+            "start": "126.729"
+        }, 
+        {
+            "text": "just square the brightness back to present\nthe colors properly.", 
+            "dur": "2.99", 
+            "start": "130.63"
+        }, 
+        {
+            "text": "This is all well and good \u2013 until you decide\nto modify the image file. Blurring, for example,", 
+            "dur": "4.589", 
+            "start": "133.62"
+        }, 
+        {
+            "text": "is achieved by replacing each pixel with an\naverage of the colors of nearby pixels. Simple", 
+            "dur": "4.471", 
+            "start": "138.209"
+        }, 
+        {
+            "text": "enough. But depending on whether you take\nthe average before or after the square-rooting", 
+            "dur": "4.6", 
+            "start": "142.68"
+        }, 
+        {
+            "text": "gives different results!! And unfortunately,\nthe vast majority of computer software does", 
+            "dur": "5.02", 
+            "start": "147.28"
+        }, 
+        {
+            "text": "this incorrectly.", 
+            "dur": "0.99", 
+            "start": "152.3"
+        }, 
+        {
+            "text": "Like, if you want to blur a red and green\nboundary, you\u2019d expect the middle to be", 
+            "dur": "3.68", 
+            "start": "153.29"
+        }, 
+        {
+            "text": "half red and half green. And most computers\nattempt that by lazily averaging the brightness", 
+            "dur": "5.11", 
+            "start": "156.97"
+        }, 
+        {
+            "text": "values of the image FILE, forgetting that\nthe actual brightness values were square-rooted", 
+            "dur": "4.28", 
+            "start": "162.08"
+        }, 
+        {
+            "text": "by the camera for better data storage! So\nthe average ends up being too dark, precisely", 
+            "dur": "4.61", 
+            "start": "166.36"
+        }, 
+        {
+            "text": "because an average of two square roots is\nalways less than the square root of an average.", 
+            "dur": "3.89", 
+            "start": "170.97"
+        }, 
+        {
+            "text": "To correctly blend the red and green and avoid\nthe ugly dark sludge, the computer SHOULD", 
+            "dur": "4.51", 
+            "start": "174.86"
+        }, 
+        {
+            "text": "have first squared each of the brightnesses\nto undo the camera\u2019s square rooting, then", 
+            "dur": "4.53", 
+            "start": "179.37"
+        }, 
+        {
+            "text": "averaged them, and then squared-rooted it\nback \u2013 look how much nicer it is!!", 
+            "dur": "5.059", 
+            "start": "183.9"
+        }, 
+        {
+            "text": "Unfortunately, the vast majority of software,\nranging from iOS to instagram to the standard", 
+            "dur": "5.191", 
+            "start": "188.959"
+        }, 
+        {
+            "text": "settings in Adobe Photoshop, takes the lazy,\nugly, and wrong approach to image brightness.", 
+            "dur": "5.44", 
+            "start": "194.15"
+        }, 
+        {
+            "text": "And while there are advanced settings in photoshop\nand other professional graphics software that", 
+            "dur": "4.09", 
+            "start": "199.59"
+        }, 
+        {
+            "text": "let you use the mathematically and physically\ncorrect blending, shouldn\u2019t beauty just", 
+            "dur": "3.85", 
+            "start": "203.68"
+        }, 
+        {
+            "text": "be ", 
+            "dur": "7", 
+            "start": "207.53"
+        }, 
+        {
+            "text": "the default?", 
+            "dur": "7", 
+            "start": "225.7"
+        }
+    ], 
+    "title": "Computer Color is Broken", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m08c9y", 
+        "/m/01sdr", 
+        "/m/05qjt"
+    ], 
+    "number_views": 938247, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

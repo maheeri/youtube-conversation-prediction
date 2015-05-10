@@ -1,0 +1,950 @@
+{
+    "publish_date": "2013-07-09T14:48:17.000Z", 
+    "video_length": "PT9M6S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: One of the reasons\nwe&#39;re fascinated by", 
+            "dur": "1.2", 
+            "start": "0.66"
+        }, 
+        {
+            "text": "primes is that they are quite\nweird in the way they behave.", 
+            "dur": "3.69", 
+            "start": "1.86"
+        }, 
+        {
+            "text": "On one hand, they kind\nof feel random.", 
+            "dur": "4.63", 
+            "start": "5.55"
+        }, 
+        {
+            "text": "They are turning up all\nover the place.", 
+            "dur": "1.58", 
+            "start": "10.18"
+        }, 
+        {
+            "text": "Sometimes you have these long\ngaps between primes.", 
+            "dur": "2.98", 
+            "start": "11.76"
+        }, 
+        {
+            "text": "And then suddenly-- like buses,\nyou get a couple of", 
+            "dur": "2.84", 
+            "start": "14.74"
+        }, 
+        {
+            "text": "primes turn up at once.", 
+            "dur": "1.48", 
+            "start": "17.58"
+        }, 
+        {
+            "text": "On the other hand, there are\nthings that we can predict", 
+            "dur": "3.63", 
+            "start": "19.06"
+        }, 
+        {
+            "text": "about primes and when they&#39;re\ngoing to turn up, which is", 
+            "dur": "3.55", 
+            "start": "22.69"
+        }, 
+        {
+            "text": "slightly unexpected that\nyou can do that.", 
+            "dur": "1.79", 
+            "start": "26.24"
+        }, 
+        {
+            "text": "They&#39;re not completely random.", 
+            "dur": "2.56", 
+            "start": "28.03"
+        }, 
+        {
+            "text": "One of the first things I want\nto show you, then, is a nice", 
+            "dur": "2.85", 
+            "start": "30.59"
+        }, 
+        {
+            "text": "easy thing.", 
+            "dur": "0.59", 
+            "start": "33.44"
+        }, 
+        {
+            "text": "So everyone can do\nthis at home.", 
+            "dur": "1.13", 
+            "start": "34.03"
+        }, 
+        {
+            "text": "We&#39;re going to write the numbers\nin a square spiral.", 
+            "dur": "3.36", 
+            "start": "35.16"
+        }, 
+        {
+            "text": "Start with 1 in the middle.", 
+            "dur": "1.64", 
+            "start": "38.52"
+        }, 
+        {
+            "text": "Then you write 2.", 
+            "dur": "1.59", 
+            "start": "40.16"
+        }, 
+        {
+            "text": "But you go around it--", 
+            "dur": "2.36", 
+            "start": "41.75"
+        }, 
+        {
+            "text": "4, 5, 6, 7, 8-- do you see\nthe pattern, then?", 
+            "dur": "5.99", 
+            "start": "44.11"
+        }, 
+        {
+            "text": "It&#39;s a square spiral.", 
+            "dur": "2.51", 
+            "start": "50.1"
+        }, 
+        {
+            "text": "12, 13, 14, 15--", 
+            "dur": "3.5", 
+            "start": "52.61"
+        }, 
+        {
+            "text": "it&#39;s called an Ulam spiral--", 
+            "dur": "2.53", 
+            "start": "56.11"
+        }, 
+        {
+            "text": "Stanislaw Ulam, he was a\nPolish mathematician.", 
+            "dur": "3.76", 
+            "start": "58.64"
+        }, 
+        {
+            "text": "And he left Poland just\nbefore World War II,", 
+            "dur": "4.84", 
+            "start": "62.4"
+        }, 
+        {
+            "text": "and he went to America.", 
+            "dur": "1.53", 
+            "start": "67.24"
+        }, 
+        {
+            "text": "And he worked on the\nManhattan Project.", 
+            "dur": "1.76", 
+            "start": "68.77"
+        }, 
+        {
+            "text": "After World War II, he\nwent into academia.", 
+            "dur": "3.16", 
+            "start": "70.53"
+        }, 
+        {
+            "text": "The story of this spiral is,\nhe sat in a very boring", 
+            "dur": "3.99", 
+            "start": "73.69"
+        }, 
+        {
+            "text": "lecture in academia.", 
+            "dur": "1.93", 
+            "start": "77.68"
+        }, 
+        {
+            "text": "It was in 1963.", 
+            "dur": "2.17", 
+            "start": "79.61"
+        }, 
+        {
+            "text": "And so he&#39;s obviously a fan\nof Vi Hart or someone.", 
+            "dur": "3.8", 
+            "start": "81.78"
+        }, 
+        {
+            "text": "He sat there doodling during\nthis boring lecture.", 
+            "dur": "3.29", 
+            "start": "85.58"
+        }, 
+        {
+            "text": "And he&#39;s writing out\nthe numbers.", 
+            "dur": "1.27", 
+            "start": "88.87"
+        }, 
+        {
+            "text": "Let&#39;s see, 30, 31, 32.", 
+            "dur": "3.4", 
+            "start": "90.14"
+        }, 
+        {
+            "text": "The next thing he\ndid was start to", 
+            "dur": "1.38", 
+            "start": "93.54"
+        }, 
+        {
+            "text": "circle the prime numbers.", 
+            "dur": "1.72", 
+            "start": "94.92"
+        }, 
+        {
+            "text": "So let&#39;s do that.", 
+            "dur": "1.63", 
+            "start": "96.64"
+        }, 
+        {
+            "text": "2 is a prime, and then 3, and\nthen 5, and 7, and 11, 13, not", 
+            "dur": "10.97", 
+            "start": "98.27"
+        }, 
+        {
+            "text": "40, 41, 43, is prime,\nand so on.", 
+            "dur": "4.35", 
+            "start": "109.24"
+        }, 
+        {
+            "text": "And he noticed, and maybe you\ncan see, these stripes, the", 
+            "dur": "3.74", 
+            "start": "113.59"
+        }, 
+        {
+            "text": "prime numbers seem to be lining\nup on diagonal lines.", 
+            "dur": "5.73", 
+            "start": "117.33"
+        }, 
+        {
+            "text": "And if you do this larger, if\nyou do more and more numbers,", 
+            "dur": "3.68", 
+            "start": "123.06"
+        }, 
+        {
+            "text": "and you write them out\nin a spiral, that", 
+            "dur": "2.049", 
+            "start": "126.74"
+        }, 
+        {
+            "text": "tends to be the case.", 
+            "dur": "1.551", 
+            "start": "128.789"
+        }, 
+        {
+            "text": "I&#39;ve got one here.", 
+            "dur": "0.92", 
+            "start": "130.34"
+        }, 
+        {
+            "text": "This is a big Ulam spiral.", 
+            "dur": "3.25", 
+            "start": "131.26"
+        }, 
+        {
+            "text": "I think this is something\nhuge.", 
+            "dur": "1.056", 
+            "start": "134.51"
+        }, 
+        {
+            "text": "I think this is like\n200 by 200.", 
+            "dur": "3.094", 
+            "start": "135.566"
+        }, 
+        {
+            "text": "And so there&#39;s 40,000 numbers\nor something here.", 
+            "dur": "2.57", 
+            "start": "138.66"
+        }, 
+        {
+            "text": "Can you see, though, can\nyou see the stripes?", 
+            "dur": "2.24", 
+            "start": "141.23"
+        }, 
+        {
+            "text": "There&#39;s definitely some\nstripes here,", 
+            "dur": "4.57", 
+            "start": "143.47"
+        }, 
+        {
+            "text": "these diagonal lines.", 
+            "dur": "1.03", 
+            "start": "148.04"
+        }, 
+        {
+            "text": "So prime numbers seem to be\nlying on diagonal lines.", 
+            "dur": "3.625", 
+            "start": "149.07"
+        }, 
+        {
+            "text": "Or to put it another way, some\ndiagonal lines have lots of", 
+            "dur": "3.245", 
+            "start": "152.695"
+        }, 
+        {
+            "text": "primes, and some diagonal\nlines don&#39;t", 
+            "dur": "3.71", 
+            "start": "155.94"
+        }, 
+        {
+            "text": "have lots of primes.", 
+            "dur": "1.78", 
+            "start": "159.65"
+        }, 
+        {
+            "text": "So you can see the stripes\nstart to form.", 
+            "dur": "2.87", 
+            "start": "161.43"
+        }, 
+        {
+            "text": "BRADY HARAN: Are they\ncontinuous stripes?", 
+            "dur": "1.46", 
+            "start": "164.3"
+        }, 
+        {
+            "text": "They look a bit broken\nup to me.", 
+            "dur": "1.44", 
+            "start": "165.76"
+        }, 
+        {
+            "text": "JAMES GRIME: Yeah, they are\nnot continuous stripes.", 
+            "dur": "1.58", 
+            "start": "167.2"
+        }, 
+        {
+            "text": "But they have more than average\nnumber of primes.", 
+            "dur": "3.85", 
+            "start": "168.78"
+        }, 
+        {
+            "text": "So these stripes might be a good\nplace to look for more", 
+            "dur": "4.618", 
+            "start": "172.63"
+        }, 
+        {
+            "text": "primes, bigger primes,\nnew primes.", 
+            "dur": "2.062", 
+            "start": "177.248"
+        }, 
+        {
+            "text": "One thing people might say is,\noh, we&#39;re just seeing patterns", 
+            "dur": "4.52", 
+            "start": "179.31"
+        }, 
+        {
+            "text": "in randomness.", 
+            "dur": "1.67", 
+            "start": "183.83"
+        }, 
+        {
+            "text": "Those aren&#39;t really\nstripes at all.", 
+            "dur": "2.58", 
+            "start": "185.5"
+        }, 
+        {
+            "text": "It&#39;s just the human brain.", 
+            "dur": "1.36", 
+            "start": "188.08"
+        }, 
+        {
+            "text": "See, if you compare it\nwith randomness--", 
+            "dur": "2.7", 
+            "start": "189.44"
+        }, 
+        {
+            "text": "this, the same size, these\nare random numbers.", 
+            "dur": "4.156", 
+            "start": "192.14"
+        }, 
+        {
+            "text": "And you can see, it&#39;s pretty\nmuch white noise.", 
+            "dur": "3.204", 
+            "start": "196.296"
+        }, 
+        {
+            "text": "I can&#39;t really see any\npattern in this.", 
+            "dur": "2.61", 
+            "start": "199.5"
+        }, 
+        {
+            "text": "You can see that\nthat is random.", 
+            "dur": "2.08", 
+            "start": "202.11"
+        }, 
+        {
+            "text": "And you can see that that\nis something more", 
+            "dur": "3.16", 
+            "start": "204.19"
+        }, 
+        {
+            "text": "than just being random.", 
+            "dur": "1.58", 
+            "start": "207.35"
+        }, 
+        {
+            "text": "BRADY HARAN: These ginormous\nprimes that get found, are", 
+            "dur": "3.1", 
+            "start": "208.93"
+        }, 
+        {
+            "text": "they found on diagonals?", 
+            "dur": "1.32", 
+            "start": "212.03"
+        }, 
+        {
+            "text": "Like this largest prime known,\nwas that on diagonal?", 
+            "dur": "3.12", 
+            "start": "213.35"
+        }, 
+        {
+            "text": "JAMES GRIME: The largest prime\nknown was a Mersenne prime,", 
+            "dur": "3.71", 
+            "start": "216.47"
+        }, 
+        {
+            "text": "which is of the type 2 to\nthe power n minus 1.", 
+            "dur": "3.74", 
+            "start": "220.18"
+        }, 
+        {
+            "text": "It&#39;s one less than a power of 2,\nwhich is a way to look for", 
+            "dur": "4.72", 
+            "start": "223.92"
+        }, 
+        {
+            "text": "large primes.", 
+            "dur": "0.75", 
+            "start": "228.64"
+        }, 
+        {
+            "text": "It&#39;s computationally kind\nof easier to do.", 
+            "dur": "4.19", 
+            "start": "229.39"
+        }, 
+        {
+            "text": "Perhaps it&#39;s not the most\nfruitful way because they are", 
+            "dur": "2.19", 
+            "start": "236.71"
+        }, 
+        {
+            "text": "quite rare, Mersenne primes.", 
+            "dur": "3.57", 
+            "start": "238.9"
+        }, 
+        {
+            "text": "This might be another way to\ndo it because this stripe", 
+            "dur": "5.57", 
+            "start": "242.47"
+        }, 
+        {
+            "text": "here, this diagonal,\nhas an equation.", 
+            "dur": "2.58", 
+            "start": "248.04"
+        }, 
+        {
+            "text": "This equation is for this one\nhere, this half line, which", 
+            "dur": "4.8", 
+            "start": "250.62"
+        }, 
+        {
+            "text": "means it starts at three and\ngoes off to infinity.", 
+            "dur": "3.019", 
+            "start": "255.42"
+        }, 
+        {
+            "text": "The equation for that is 4x\nsquared minus 2x plus 1.", 
+            "dur": "9.541", 
+            "start": "258.439"
+        }, 
+        {
+            "text": "Let me just try it.", 
+            "dur": "0.85", 
+            "start": "267.98"
+        }, 
+        {
+            "text": "Let&#39;s do the first one here.", 
+            "dur": "1.59", 
+            "start": "268.83"
+        }, 
+        {
+            "text": "So if x is equal to\n1, yeah, that&#39;s 3.", 
+            "dur": "3.18", 
+            "start": "270.42"
+        }, 
+        {
+            "text": "If we tried the next one here,\nx equals 2, it&#39;s 13.", 
+            "dur": "4", 
+            "start": "273.6"
+        }, 
+        {
+            "text": "And this one here, that&#39;s 31.", 
+            "dur": "2.68", 
+            "start": "277.6"
+        }, 
+        {
+            "text": "And well, best do one more, just\nto show you what comes", 
+            "dur": "4.64", 
+            "start": "280.28"
+        }, 
+        {
+            "text": "next, 56 plus 57--", 
+            "dur": "4.63", 
+            "start": "284.92"
+        }, 
+        {
+            "text": "is that a prime number, Brady?", 
+            "dur": "1.59", 
+            "start": "289.55"
+        }, 
+        {
+            "text": "BRADY HARAN: 57 is not\na prime number.", 
+            "dur": "2.932", 
+            "start": "291.14"
+        }, 
+        {
+            "text": "JAMES GRIME: It&#39;s not\na prime number.", 
+            "dur": "0.908", 
+            "start": "294.072"
+        }, 
+        {
+            "text": "So the next one isn&#39;t a prime\nnumber, but 57 would be the", 
+            "dur": "3.3", 
+            "start": "294.98"
+        }, 
+        {
+            "text": "next number on that line.", 
+            "dur": "1.81", 
+            "start": "298.28"
+        }, 
+        {
+            "text": "BRADY HARAN: So that&#39;s one of\nthe breaks in our dotted line?", 
+            "dur": "1.51", 
+            "start": "300.09"
+        }, 
+        {
+            "text": "JAMES GRIME: Yeah, so all these\nlines, the, in fact,", 
+            "dur": "2.51", 
+            "start": "301.6"
+        }, 
+        {
+            "text": "horizontal lines, vertical\nlines, and diagonal lines,", 
+            "dur": "2.11", 
+            "start": "304.11"
+        }, 
+        {
+            "text": "they are all like this.", 
+            "dur": "1.61", 
+            "start": "306.22"
+        }, 
+        {
+            "text": "All the quadratic equations\nare like that.", 
+            "dur": "4.2", 
+            "start": "307.83"
+        }, 
+        {
+            "text": "So what we&#39;re saying is, some\nquadratic equations have more", 
+            "dur": "3.95", 
+            "start": "312.03"
+        }, 
+        {
+            "text": "primes on them than others.", 
+            "dur": "2.91", 
+            "start": "315.98"
+        }, 
+        {
+            "text": "And that&#39;s the conjecture,\nactually.", 
+            "dur": "3.25", 
+            "start": "318.89"
+        }, 
+        {
+            "text": "That hasn&#39;t been proved.", 
+            "dur": "1.26", 
+            "start": "322.14"
+        }, 
+        {
+            "text": "But that is the conjecture.", 
+            "dur": "2.29", 
+            "start": "323.4"
+        }, 
+        {
+            "text": "It seems to be the case.", 
+            "dur": "1", 
+            "start": "325.69"
+        }, 
+        {
+            "text": "So there are lines here that\nhave seven times as many", 
+            "dur": "4.91", 
+            "start": "326.69"
+        }, 
+        {
+            "text": "primes as other lines.", 
+            "dur": "2.57", 
+            "start": "331.6"
+        }, 
+        {
+            "text": "And the best we&#39;ve found is a\ndiagonal line that has 12", 
+            "dur": "4.76", 
+            "start": "334.17"
+        }, 
+        {
+            "text": "times as many primes\nas the average.", 
+            "dur": "3.96", 
+            "start": "338.93"
+        }, 
+        {
+            "text": "BRADY HARAN: Cool, has\nthat line got a name?", 
+            "dur": "2.86", 
+            "start": "342.89"
+        }, 
+        {
+            "text": "JAMES GRIME: I can write\nit out for you.", 
+            "dur": "1.058", 
+            "start": "345.75"
+        }, 
+        {
+            "text": "I think I had it somewhere.", 
+            "dur": "1.022", 
+            "start": "346.808"
+        }, 
+        {
+            "text": "BRADY HARAN: Yeah, I&#39;d love\nto know what that line is.", 
+            "dur": "2.082", 
+            "start": "347.83"
+        }, 
+        {
+            "text": "The golden line.", 
+            "dur": "1.522", 
+            "start": "349.912"
+        }, 
+        {
+            "text": "JAMES GRIME: This golden line\nthat Brady has now decided to", 
+            "dur": "2.806", 
+            "start": "351.434"
+        }, 
+        {
+            "text": "call it, it&#39;s a quadratic\nequation.", 
+            "dur": "3.26", 
+            "start": "354.24"
+        }, 
+        {
+            "text": "It starts off quite\nsimply again.", 
+            "dur": "2.27", 
+            "start": "357.5"
+        }, 
+        {
+            "text": "But the number you add\non is not plus one.", 
+            "dur": "2.13", 
+            "start": "359.77"
+        }, 
+        {
+            "text": "It&#39;s plus something huge.", 
+            "dur": "1.99", 
+            "start": "361.9"
+        }, 
+        {
+            "text": "This square spiral is called\nUlam&#39;s spiral.", 
+            "dur": "2.2", 
+            "start": "363.89"
+        }, 
+        {
+            "text": "But there&#39;s one that\nI like even more.", 
+            "dur": "2.67", 
+            "start": "366.09"
+        }, 
+        {
+            "text": "It&#39;s called a Sack&#39;s spiral.", 
+            "dur": "2.47", 
+            "start": "368.76"
+        }, 
+        {
+            "text": "And it works like this.", 
+            "dur": "1.09", 
+            "start": "371.23"
+        }, 
+        {
+            "text": "You write the square\nnumber in a line.", 
+            "dur": "3.62", 
+            "start": "372.32"
+        }, 
+        {
+            "text": "The square numbers are 1, 4,\nyeah, that is 2 squared, 3", 
+            "dur": "4.45", 
+            "start": "375.94"
+        }, 
+        {
+            "text": "squared is 9, 16,\n25, and so on.", 
+            "dur": "4.38", 
+            "start": "380.39"
+        }, 
+        {
+            "text": "So you write the square\nnumbers in a line.", 
+            "dur": "2.56", 
+            "start": "384.77"
+        }, 
+        {
+            "text": "Then I connect them with what\nis called an Archimedean", 
+            "dur": "4.84", 
+            "start": "387.33"
+        }, 
+        {
+            "text": "spiral like that.", 
+            "dur": "4.01", 
+            "start": "392.17"
+        }, 
+        {
+            "text": "And then I would the other\nnumbers on that spiral and", 
+            "dur": "3.41", 
+            "start": "402.7"
+        }, 
+        {
+            "text": "evenly space it.", 
+            "dur": "0.99", 
+            "start": "406.11"
+        }, 
+        {
+            "text": "So it goes 1, 2, 3,\n4, 5, 6, 7, 8, 9.", 
+            "dur": "7.95", 
+            "start": "407.1"
+        }, 
+        {
+            "text": "And if you mark off the primes\nfor that, I&#39;ve got this", 
+            "dur": "3.46", 
+            "start": "415.05"
+        }, 
+        {
+            "text": "already sorted out for you, this\nis the picture you get.", 
+            "dur": "6.1", 
+            "start": "418.51"
+        }, 
+        {
+            "text": "And you can see the relations,\nyou can see the pattern, even", 
+            "dur": "3.2", 
+            "start": "424.61"
+        }, 
+        {
+            "text": "more strikingly, I think.", 
+            "dur": "1.76", 
+            "start": "427.81"
+        }, 
+        {
+            "text": "Look at these curves.", 
+            "dur": "1.15", 
+            "start": "429.57"
+        }, 
+        {
+            "text": "These are the primes.", 
+            "dur": "1.425", 
+            "start": "430.72"
+        }, 
+        {
+            "text": "BRADY HARAN: And obviously,\nyou&#39;ll never get a prime along", 
+            "dur": "1.725", 
+            "start": "432.145"
+        }, 
+        {
+            "text": "there because those\nare the squares.", 
+            "dur": "1.4", 
+            "start": "433.87"
+        }, 
+        {
+            "text": "JAMES GRIME: Those are your\nsquares, that big gap there is", 
+            "dur": "2.14", 
+            "start": "435.27"
+        }, 
+        {
+            "text": "the squares.", 
+            "dur": "1.14", 
+            "start": "437.41"
+        }, 
+        {
+            "text": "So it looks like we have\nformulas, equations--", 
+            "dur": "5.46", 
+            "start": "438.55"
+        }, 
+        {
+            "text": "some formulas, anyway, that have\nmore primes than others.", 
+            "dur": "1.99", 
+            "start": "444.01"
+        }, 
+        {
+            "text": "So if we can understand these\nformulas that contain these", 
+            "dur": "6.54", 
+            "start": "446"
+        }, 
+        {
+            "text": "rich number of primes, then it\nwould help us solve important", 
+            "dur": "6.88", 
+            "start": "452.54"
+        }, 
+        {
+            "text": "conjectures in mathematics\nsuch as the Goldbach", 
+            "dur": "3.23", 
+            "start": "459.42"
+        }, 
+        {
+            "text": "conjecture and the twin\nprime conjecture.", 
+            "dur": "2.9", 
+            "start": "462.65"
+        }, 
+        {
+            "text": "So prime numbers are not as\nrandom as you might think of.", 
+            "dur": "6.79", 
+            "start": "465.55"
+        }, 
+        {
+            "text": "There are equations to help\nus find prime numbers.", 
+            "dur": "4.62", 
+            "start": "472.34"
+        }, 
+        {
+            "text": "And now I want to show you some\nequations that help you", 
+            "dur": "4.04", 
+            "start": "476.96"
+        }, 
+        {
+            "text": "find prime numbers.", 
+            "dur": "2.63", 
+            "start": "481"
+        }, 
+        {
+            "text": "BRADY HARAN: So we&#39;ll have more\nabout ways to search for", 
+            "dur": "1.91", 
+            "start": "483.63"
+        }, 
+        {
+            "text": "prime numbers coming really soon\nfrom this interview with", 
+            "dur": "2.67", 
+            "start": "485.54"
+        }, 
+        {
+            "text": "James Grime--", 
+            "dur": "1.49", 
+            "start": "488.21"
+        }, 
+        {
+            "text": "unless you&#39;re watching this in\nthe future, in which case this", 
+            "dur": "3.88", 
+            "start": "489.7"
+        }, 
+        {
+            "text": "stuff might already\nbe on YouTube.", 
+            "dur": "1.98", 
+            "start": "493.58"
+        }, 
+        {
+            "text": "But you get the idea.", 
+            "dur": "1.87", 
+            "start": "495.56"
+        }, 
+        {
+            "text": "But, I have a bit of a\nconfession to make.", 
+            "dur": "2.72", 
+            "start": "497.43"
+        }, 
+        {
+            "text": "I&#39;ve actually recorded some\nstuff about the spirals and", 
+            "dur": "2.76", 
+            "start": "500.15"
+        }, 
+        {
+            "text": "prime numbers before--", 
+            "dur": "1.46", 
+            "start": "502.91"
+        }, 
+        {
+            "text": "not with James Grime, but\nwith James Clewett.", 
+            "dur": "3.37", 
+            "start": "504.37"
+        }, 
+        {
+            "text": "And I kind of half forgot about\nit and never got around", 
+            "dur": "2.92", 
+            "start": "507.74"
+        }, 
+        {
+            "text": "to editing it.", 
+            "dur": "0.73", 
+            "start": "510.66"
+        }, 
+        {
+            "text": "This was, like, a year\nand a half ago.", 
+            "dur": "2.039", 
+            "start": "511.39"
+        }, 
+        {
+            "text": "I went back and had a look,\nand it was actually really", 
+            "dur": "2.201", 
+            "start": "513.429"
+        }, 
+        {
+            "text": "interesting.", 
+            "dur": "0.86", 
+            "start": "515.63"
+        }, 
+        {
+            "text": "So I&#39;ve turned that into\na video as well.", 
+            "dur": "2.63", 
+            "start": "516.49"
+        }, 
+        {
+            "text": "Now you can wait for that turn\nup in your subscriptions, in", 
+            "dur": "2.91", 
+            "start": "519.12"
+        }, 
+        {
+            "text": "the next few days, or if you\ncan&#39;t wait, you can go and", 
+            "dur": "3.59", 
+            "start": "522.03"
+        }, 
+        {
+            "text": "have a look at it now.", 
+            "dur": "1.01", 
+            "start": "525.62"
+        }, 
+        {
+            "text": "I&#39;ve made the links available.", 
+            "dur": "1.35", 
+            "start": "526.63"
+        }, 
+        {
+            "text": "The video&#39;s already up, so\ngo ahead and have a look.", 
+            "dur": "2.92", 
+            "start": "527.98"
+        }, 
+        {
+            "text": "Thanks for watching.", 
+            "dur": "1.27", 
+            "start": "530.9"
+        }, 
+        {
+            "text": "Plenty more videos, both of\nstuff I&#39;ve recorded, some of", 
+            "dur": "3.776", 
+            "start": "532.17"
+        }, 
+        {
+            "text": "it quite a while ago, it turns\nout, and stuff we&#39;ve", 
+            "dur": "3.214", 
+            "start": "535.946"
+        }, 
+        {
+            "text": "still got to record.", 
+            "dur": "1.09", 
+            "start": "539.16"
+        }, 
+        {
+            "text": "Really exciting stuff coming\nsoon on &quot;Numberphile,&quot; so make", 
+            "dur": "3.07", 
+            "start": "540.25"
+        }, 
+        {
+            "text": "sure you&#39;ve subscribed.", 
+            "dur": "1.25", 
+            "start": "543.32"
+        }
+    ], 
+    "title": "Prime Spirals - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05x5j", 
+        "/m/0gn_f", 
+        "/m/0hqg7", 
+        "/m/0c5yf", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 442131, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

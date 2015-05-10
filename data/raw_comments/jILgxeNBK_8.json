@@ -1,0 +1,421 @@
+{
+    "publish_date": "2012-10-01T15:00:07.000Z", 
+    "video_length": "PT4M7S", 
+    "captions": [
+        {
+            "text": "Why are gas stations always built\nright next to other gas stations?", 
+            "dur": "3.977", 
+            "start": "15.108"
+        }, 
+        {
+            "text": "Why can I drive for a mile\nwithout finding a coffee shop", 
+            "dur": "2.706", 
+            "start": "19.109"
+        }, 
+        {
+            "text": "and then stumble\nacross three on the same corner?", 
+            "dur": "2.304", 
+            "start": "21.839"
+        }, 
+        {
+            "text": "Why do grocery stores,\nauto repair shops and restaurants", 
+            "dur": "2.884", 
+            "start": "24.167"
+        }, 
+        {
+            "text": "always seem to exist in groups", 
+            "dur": "1.643", 
+            "start": "27.075"
+        }, 
+        {
+            "text": "instead of being spread evenly\nthroughout a community?", 
+            "dur": "3.159", 
+            "start": "28.742"
+        }, 
+        {
+            "text": "While there are several factors", 
+            "dur": "1.531", 
+            "start": "31.925"
+        }, 
+        {
+            "text": "that might go into deciding\nwhere to place your business,", 
+            "dur": "2.684", 
+            "start": "33.48"
+        }, 
+        {
+            "text": "clusters of similar companies can\nbe explained by a very simple story", 
+            "dur": "3.608", 
+            "start": "36.188"
+        }, 
+        {
+            "text": "called Hotelling&#39;s Model\nof Spatial Competition.", 
+            "dur": "2.472", 
+            "start": "39.82"
+        }, 
+        {
+            "text": "Imagine that you sell\nice cream at the beach.", 
+            "dur": "2.096", 
+            "start": "43.121"
+        }, 
+        {
+            "text": "Your beach is one mile long\nand you have no competition.", 
+            "dur": "2.81", 
+            "start": "45.241"
+        }, 
+        {
+            "text": "Where would you place your cart\nin order to sell the most product?", 
+            "dur": "3.194", 
+            "start": "48.075"
+        }, 
+        {
+            "text": "In the middle.", 
+            "dur": "1.075", 
+            "start": "51.293"
+        }, 
+        {
+            "text": "The one-half-mile walk may\nbe too far for some people", 
+            "dur": "3.026", 
+            "start": "52.392"
+        }, 
+        {
+            "text": "at each end of the beach,", 
+            "dur": "1.299", 
+            "start": "55.442"
+        }, 
+        {
+            "text": "but your cart serves\nas many people as possible.", 
+            "dur": "3.005", 
+            "start": "56.765"
+        }, 
+        {
+            "text": "One day you show up at work", 
+            "dur": "1.324", 
+            "start": "59.794"
+        }, 
+        {
+            "text": "just as your cousin Teddy\nis arriving at the beach", 
+            "dur": "2.38", 
+            "start": "61.142"
+        }, 
+        {
+            "text": "with his own ice cream cart.", 
+            "dur": "1.354", 
+            "start": "63.546"
+        }, 
+        {
+            "text": "In fact, he&#39;s selling", 
+            "dur": "1.392", 
+            "start": "64.925"
+        }, 
+        {
+            "text": "exactly the same type\nof ice cream as you are.", 
+            "dur": "2.175", 
+            "start": "66.341"
+        }, 
+        {
+            "text": "You agree that you will split\nthe beach in half.", 
+            "dur": "2.253", 
+            "start": "68.54"
+        }, 
+        {
+            "text": "In order to ensure that customers\ndon&#39;t have to walk too far", 
+            "dur": "2.817", 
+            "start": "70.817"
+        }, 
+        {
+            "text": "you set up your cart a quarter mile\nsouth of the beach center,", 
+            "dur": "2.914", 
+            "start": "73.658"
+        }, 
+        {
+            "text": "right in the middle of your territory.", 
+            "dur": "1.816", 
+            "start": "76.596"
+        }, 
+        {
+            "text": "Teddy sets up a quarter mile\nnorth of the center,", 
+            "dur": "2.315", 
+            "start": "78.436"
+        }, 
+        {
+            "text": "in the middle of Teddy territory.", 
+            "dur": "1.993", 
+            "start": "80.775"
+        }, 
+        {
+            "text": "With this agreement, everyone south\nof you buys ice cream from you.", 
+            "dur": "3.143", 
+            "start": "82.792"
+        }, 
+        {
+            "text": "Everyone north of Teddy buys from him,\nand the 50% of beachgoers in between", 
+            "dur": "3.53", 
+            "start": "85.959"
+        }, 
+        {
+            "text": "walk to the closest cart.", 
+            "dur": "1.659", 
+            "start": "89.513"
+        }, 
+        {
+            "text": "No one walks\nmore than a quarter of a mile,", 
+            "dur": "2.555", 
+            "start": "91.196"
+        }, 
+        {
+            "text": "and both vendors sell\nto half of the beachgoers.", 
+            "dur": "2.878", 
+            "start": "93.775"
+        }, 
+        {
+            "text": "Game theorists consider\nthis a socially optimal solution.", 
+            "dur": "4.159", 
+            "start": "96.677"
+        }, 
+        {
+            "text": "It minimizes the maximum number\nof steps any visitor must take", 
+            "dur": "3.492", 
+            "start": "100.86"
+        }, 
+        {
+            "text": "in order to reach an ice cream cart.", 
+            "dur": "1.976", 
+            "start": "104.376"
+        }, 
+        {
+            "text": "The next day, when you arrive at work,", 
+            "dur": "1.859", 
+            "start": "106.376"
+        }, 
+        {
+            "text": "Teddy has set up his cart\nin the middle of the beach.", 
+            "dur": "2.775", 
+            "start": "108.259"
+        }, 
+        {
+            "text": "You return to your location\na quarter mile south of center", 
+            "dur": "3.243", 
+            "start": "111.058"
+        }, 
+        {
+            "text": "and get the 25% of customers\nto the south of you.", 
+            "dur": "2.744", 
+            "start": "114.325"
+        }, 
+        {
+            "text": "Teddy still gets all of the customers\nnorth in Teddy territory,", 
+            "dur": "3.542", 
+            "start": "117.093"
+        }, 
+        {
+            "text": "but now you split the 25% of people\nin between the two carts.", 
+            "dur": "4.043", 
+            "start": "120.659"
+        }, 
+        {
+            "text": "Day three of the ice cream wars,\nyou get to the beach early,", 
+            "dur": "2.858", 
+            "start": "124.726"
+        }, 
+        {
+            "text": "and set up right in the center\nof Teddy territory,", 
+            "dur": "2.559", 
+            "start": "127.608"
+        }, 
+        {
+            "text": "assuming you&#39;ll serve\nthe 75% of beachgoers to your south,", 
+            "dur": "3.441", 
+            "start": "130.191"
+        }, 
+        {
+            "text": "leaving your cousin to sell\nto the 25% of customers to the north.", 
+            "dur": "3.37", 
+            "start": "133.656"
+        }, 
+        {
+            "text": "When Teddy arrives,\nhe sets up just south of you", 
+            "dur": "3.47", 
+            "start": "137.05"
+        }, 
+        {
+            "text": "stealing all of the southerly customers,", 
+            "dur": "1.907", 
+            "start": "140.544"
+        }, 
+        {
+            "text": "and leaving you with a small group\nof people to the north.", 
+            "dur": "2.784", 
+            "start": "142.475"
+        }, 
+        {
+            "text": "Not to be outdone, you move 10 paces\nsouth of Teddy to regain your customers.", 
+            "dur": "4.053", 
+            "start": "145.283"
+        }, 
+        {
+            "text": "When you take a mid-day break,\nTeddy shuffles 10 paces south of you,", 
+            "dur": "3.476", 
+            "start": "149.36"
+        }, 
+        {
+            "text": "and again, steals back all the customers\nto the far end of the beach.", 
+            "dur": "3.675", 
+            "start": "152.86"
+        }, 
+        {
+            "text": "Throughout the course of the day,", 
+            "dur": "1.575", 
+            "start": "156.559"
+        }, 
+        {
+            "text": "both of you continue\nto periodically move south", 
+            "dur": "2.259", 
+            "start": "158.158"
+        }, 
+        {
+            "text": "towards the bulk of the ice cream buyers,", 
+            "dur": "2.395", 
+            "start": "160.441"
+        }, 
+        {
+            "text": "until both of you eventually end up\nat the center of the beach,", 
+            "dur": "3", 
+            "start": "162.86"
+        }, 
+        {
+            "text": "back to back, each serving 50%\nof the ice-cream-hungry beachgoers.", 
+            "dur": "3.835", 
+            "start": "165.884"
+        }, 
+        {
+            "text": "At this point, you\nand your competitive cousin", 
+            "dur": "2.192", 
+            "start": "169.743"
+        }, 
+        {
+            "text": "have reached what game theorists\ncall a Nash Equilibrium -", 
+            "dur": "2.992", 
+            "start": "171.959"
+        }, 
+        {
+            "text": "the point where neither of you\ncan improve your position", 
+            "dur": "2.799", 
+            "start": "174.975"
+        }, 
+        {
+            "text": "by deviating from your current strategy.", 
+            "dur": "2.139", 
+            "start": "177.798"
+        }, 
+        {
+            "text": "Your original strategy,", 
+            "dur": "1.437", 
+            "start": "179.961"
+        }, 
+        {
+            "text": "where you were each a quarter mile\nfrom the middle of the beach,", 
+            "dur": "3.024", 
+            "start": "181.422"
+        }, 
+        {
+            "text": "didn&#39;t last, because it wasn&#39;t\na Nash Equilibrium.", 
+            "dur": "2.616", 
+            "start": "184.47"
+        }, 
+        {
+            "text": "Either of you could move your cart\ntowards the other to sell more ice cream.", 
+            "dur": "3.826", 
+            "start": "187.11"
+        }, 
+        {
+            "text": "With both of you now\nin the center of the beach,", 
+            "dur": "2.286", 
+            "start": "190.96"
+        }, 
+        {
+            "text": "you can&#39;t reposition your cart\ncloser to your furthest customers", 
+            "dur": "3.632", 
+            "start": "193.27"
+        }, 
+        {
+            "text": "without making your current\ncustomers worse off.", 
+            "dur": "2.286", 
+            "start": "196.926"
+        }, 
+        {
+            "text": "However, you no longer have\na socially optimal solution,", 
+            "dur": "3.332", 
+            "start": "199.236"
+        }, 
+        {
+            "text": "since customers at either end of the beach", 
+            "dur": "2", 
+            "start": "202.592"
+        }, 
+        {
+            "text": "have to walk further than necessary\nto get a sweet treat.", 
+            "dur": "2.986", 
+            "start": "204.616"
+        }, 
+        {
+            "text": "Think about all the fast food chains,", 
+            "dur": "1.944", 
+            "start": "207.626"
+        }, 
+        {
+            "text": "clothing boutiques,\nor mobile phone kiosks at the mall.", 
+            "dur": "2.677", 
+            "start": "209.594"
+        }, 
+        {
+            "text": "Customers may be better served", 
+            "dur": "1.584", 
+            "start": "212.295"
+        }, 
+        {
+            "text": "by distributing services\nthroughout a community,", 
+            "dur": "2.261", 
+            "start": "213.903"
+        }, 
+        {
+            "text": "but this leaves businesses vulnerable\nto aggressive competition.", 
+            "dur": "3.332", 
+            "start": "216.188"
+        }, 
+        {
+            "text": "In the real world, customers come\nfrom more than one direction,", 
+            "dur": "3.242", 
+            "start": "219.544"
+        }, 
+        {
+            "text": "and businesses are free to compete\nwith marketing strategies,", 
+            "dur": "2.905", 
+            "start": "222.81"
+        }, 
+        {
+            "text": "by differentiating their product line,\nand with price cuts,", 
+            "dur": "2.762", 
+            "start": "225.739"
+        }, 
+        {
+            "text": "but at the heart of their strategy,", 
+            "dur": "1.727", 
+            "start": "228.525"
+        }, 
+        {
+            "text": "companies like to keep their competition\nas close as possible.", 
+            "dur": "3.345", 
+            "start": "230.276"
+        }
+    ], 
+    "title": "Why do competitors open their stores next to one another? - Jac de Haan", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0cb6s"
+    ], 
+    "number_views": 717743, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

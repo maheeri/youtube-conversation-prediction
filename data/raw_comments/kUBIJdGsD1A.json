@@ -1,0 +1,412 @@
+{
+    "publish_date": "2012-05-28T13:33:53.000Z", 
+    "video_length": "PT3M20S", 
+    "captions": [
+        {
+            "text": "OK, so today we&#39;ve got a little", 
+            "dur": "1.53", 
+            "start": "0.33"
+        }, 
+        {
+            "text": "mathematical nugget for you.", 
+            "dur": "1.38", 
+            "start": "1.86"
+        }, 
+        {
+            "text": "I&#39;m going to talk about\n10 factorial.", 
+            "dur": "3.58", 
+            "start": "3.24"
+        }, 
+        {
+            "text": "So 10 factorial is what you\nget when you multiply the", 
+            "dur": "3.5", 
+            "start": "6.82"
+        }, 
+        {
+            "text": "numbers 10 times 9\ntimes 8 times 7--", 
+            "dur": "5.66", 
+            "start": "10.32"
+        }, 
+        {
+            "text": "and you go all the way down,\ntimes 2, times 1.", 
+            "dur": "4.07", 
+            "start": "15.98"
+        }, 
+        {
+            "text": "How big is 10 factorial?", 
+            "dur": "2.07", 
+            "start": "20.05"
+        }, 
+        {
+            "text": "On your calculator you will find\na little bottom with an", 
+            "dur": "2.43", 
+            "start": "22.12"
+        }, 
+        {
+            "text": "exclamation mark after it.", 
+            "dur": "1.62", 
+            "start": "24.55"
+        }, 
+        {
+            "text": "There we go.", 
+            "dur": "0.44", 
+            "start": "26.17"
+        }, 
+        {
+            "text": "That is how big 10\nfactorial is.", 
+            "dur": "2.59", 
+            "start": "26.61"
+        }, 
+        {
+            "text": "Let&#39;s write this down.", 
+            "dur": "2.67", 
+            "start": "29.2"
+        }, 
+        {
+            "text": "3,628,800.", 
+            "dur": "4.64", 
+            "start": "31.87"
+        }, 
+        {
+            "text": "Now what I want to talk about\nis 10 factorial seconds.", 
+            "dur": "3.57", 
+            "start": "36.51"
+        }, 
+        {
+            "text": "Now, how long is 10\nfactorial seconds?", 
+            "dur": "2.7", 
+            "start": "40.08"
+        }, 
+        {
+            "text": "All right, so 3,628,800\nseconds.", 
+            "dur": "3.75", 
+            "start": "42.78"
+        }, 
+        {
+            "text": "How long is that?", 
+            "dur": "1.08", 
+            "start": "46.53"
+        }, 
+        {
+            "text": "Well, it turns out to be\nexactly six weeks.", 
+            "dur": "4.86", 
+            "start": "47.61"
+        }, 
+        {
+            "text": "Let me show you.", 
+            "dur": "0.56", 
+            "start": "52.47"
+        }, 
+        {
+            "text": "We&#39;ve got 10 factorial\nseconds, so how", 
+            "dur": "2.08", 
+            "start": "53.03"
+        }, 
+        {
+            "text": "many minutes is that?", 
+            "dur": "1.21", 
+            "start": "55.11"
+        }, 
+        {
+            "text": "There are 60 seconds in\na minute, so I&#39;m going", 
+            "dur": "2.39", 
+            "start": "56.32"
+        }, 
+        {
+            "text": "to divide by 60.", 
+            "dur": "1.09", 
+            "start": "58.71"
+        }, 
+        {
+            "text": "60 is 10 times 3 times 2.", 
+            "dur": "3.58", 
+            "start": "59.8"
+        }, 
+        {
+            "text": "That&#39;s the way I&#39;m\ngoing to do it.", 
+            "dur": "1.81", 
+            "start": "63.38"
+        }, 
+        {
+            "text": "So I&#39;m going to divide by 60.", 
+            "dur": "1.57", 
+            "start": "65.19"
+        }, 
+        {
+            "text": "I can just cancel out\n10 and 3 and 2.", 
+            "dur": "4.3", 
+            "start": "66.76"
+        }, 
+        {
+            "text": "That&#39;s a way to divide by 60.", 
+            "dur": "1.53", 
+            "start": "71.06"
+        }, 
+        {
+            "text": "I might as well cancel out the\n1 as well, while I&#39;m at it.", 
+            "dur": "3.6", 
+            "start": "72.59"
+        }, 
+        {
+            "text": "How many hours is that?", 
+            "dur": "1.17", 
+            "start": "76.19"
+        }, 
+        {
+            "text": "I&#39;m going to divide\nby 60 again.", 
+            "dur": "1.83", 
+            "start": "77.36"
+        }, 
+        {
+            "text": "Another way to write 60\nis 5 times 4 times 3.", 
+            "dur": "5.03", 
+            "start": "79.19"
+        }, 
+        {
+            "text": "That also equals 60.", 
+            "dur": "1.42", 
+            "start": "84.22"
+        }, 
+        {
+            "text": "I&#39;m going to cancel out\nthe 5 and the 4.", 
+            "dur": "2.55", 
+            "start": "85.64"
+        }, 
+        {
+            "text": "And I want to cancel 3.", 
+            "dur": "1.84", 
+            "start": "88.19"
+        }, 
+        {
+            "text": "I don&#39;t have it.", 
+            "dur": "1.26", 
+            "start": "90.03"
+        }, 
+        {
+            "text": "I&#39;m going to take the\n9, divide by 3.", 
+            "dur": "2.58", 
+            "start": "91.29"
+        }, 
+        {
+            "text": "So that now becomes\na 3 instead.", 
+            "dur": "2.34", 
+            "start": "93.87"
+        }, 
+        {
+            "text": "This is how many minutes\nwe&#39;ve got.", 
+            "dur": "1.97", 
+            "start": "96.21"
+        }, 
+        {
+            "text": "How many hours is that?", 
+            "dur": "1.19", 
+            "start": "98.18"
+        }, 
+        {
+            "text": "I want to divide by 24.", 
+            "dur": "1.63", 
+            "start": "99.37"
+        }, 
+        {
+            "text": "24 is 8 times 3.", 
+            "dur": "2.07", 
+            "start": "101"
+        }, 
+        {
+            "text": "Divide by 8, and that\nnow disappears.", 
+            "dur": "2.69", 
+            "start": "103.07"
+        }, 
+        {
+            "text": "Fantastic.", 
+            "dur": "0.59", 
+            "start": "105.76"
+        }, 
+        {
+            "text": "24 is gone.", 
+            "dur": "1.25", 
+            "start": "106.35"
+        }, 
+        {
+            "text": "So this is how many\nhours it is.", 
+            "dur": "1.76", 
+            "start": "107.6"
+        }, 
+        {
+            "text": "How many weeks is that?", 
+            "dur": "1.06", 
+            "start": "109.36"
+        }, 
+        {
+            "text": "There are seven days\nin a week.", 
+            "dur": "1.39", 
+            "start": "110.42"
+        }, 
+        {
+            "text": "I want to divide by 7.", 
+            "dur": "1.72", 
+            "start": "111.81"
+        }, 
+        {
+            "text": "That&#39;s how many weeks it is.", 
+            "dur": "1.06", 
+            "start": "113.53"
+        }, 
+        {
+            "text": "How many weeks is it?", 
+            "dur": "1.51", 
+            "start": "114.59"
+        }, 
+        {
+            "text": "What&#39;s left?", 
+            "dur": "1.73", 
+            "start": "116.1"
+        }, 
+        {
+            "text": "Six.", 
+            "dur": "1.42", 
+            "start": "117.83"
+        }, 
+        {
+            "text": "There are exactly six weeks\nfor 10 factorial seconds.", 
+            "dur": "4.8", 
+            "start": "119.25"
+        }, 
+        {
+            "text": "Exactly.", 
+            "dur": "1.15", 
+            "start": "124.05"
+        }, 
+        {
+            "text": "So if you&#39;re at school, and if\nyou&#39;re looking forward to your", 
+            "dur": "3.18", 
+            "start": "125.2"
+        }, 
+        {
+            "text": "six weeks holiday, and oh, it\ndoesn&#39;t seem like long enough,", 
+            "dur": "2.7", 
+            "start": "128.38"
+        }, 
+        {
+            "text": "well, perhaps you might like\nto think of it as your 10", 
+            "dur": "2.477", 
+            "start": "131.08"
+        }, 
+        {
+            "text": "factorial second holiday.", 
+            "dur": "1.883", 
+            "start": "133.557"
+        }, 
+        {
+            "text": "So let&#39;s try this from\nthe other direction.", 
+            "dur": "3.24", 
+            "start": "135.44"
+        }, 
+        {
+            "text": "So how many seconds are\nthere in six weeks?", 
+            "dur": "3", 
+            "start": "138.68"
+        }, 
+        {
+            "text": "So we&#39;ve got six weeks.", 
+            "dur": "1.69", 
+            "start": "141.68"
+        }, 
+        {
+            "text": "How many days is that?", 
+            "dur": "1.05", 
+            "start": "143.37"
+        }, 
+        {
+            "text": "How many days are there\nin six weeks?", 
+            "dur": "1.57", 
+            "start": "144.42"
+        }, 
+        {
+            "text": "We&#39;re going to times by 7.", 
+            "dur": "1.53", 
+            "start": "145.99"
+        }, 
+        {
+            "text": "Seven days a week.", 
+            "dur": "1.37", 
+            "start": "147.52"
+        }, 
+        {
+            "text": "How many hours is that?", 
+            "dur": "1.41", 
+            "start": "148.89"
+        }, 
+        {
+            "text": "24 hours in a day.", 
+            "dur": "1.75", 
+            "start": "150.3"
+        }, 
+        {
+            "text": "So we&#39;re going to times by 24.", 
+            "dur": "1.97", 
+            "start": "152.05"
+        }, 
+        {
+            "text": "How many minutes is that?", 
+            "dur": "2.21", 
+            "start": "154.02"
+        }, 
+        {
+            "text": "Well, let&#39;s times by 60.", 
+            "dur": "1.9", 
+            "start": "156.23"
+        }, 
+        {
+            "text": "60 minutes in an hour, and then\ntimes by 60 again because", 
+            "dur": "3.87", 
+            "start": "158.13"
+        }, 
+        {
+            "text": "there&#39;s 60 seconds\nin a minute.", 
+            "dur": "2.24", 
+            "start": "162"
+        }, 
+        {
+            "text": "This is how many seconds\nyou get in six weeks.", 
+            "dur": "3.82", 
+            "start": "164.24"
+        }, 
+        {
+            "text": "Now we get our calculator.", 
+            "dur": "1.44", 
+            "start": "168.06"
+        }, 
+        {
+            "text": "Let&#39;s see if we do get what\nI said it was going to be.", 
+            "dur": "3.61", 
+            "start": "169.5"
+        }, 
+        {
+            "text": "6 weeks times 7 days times 24\nhours times 60 minutes times", 
+            "dur": "8.72", 
+            "start": "173.11"
+        }, 
+        {
+            "text": "60 seconds is exactly\nwhat I said before.", 
+            "dur": "3.83", 
+            "start": "181.83"
+        }, 
+        {
+            "text": "3,628,800, or to put it another\nway, 10 factorial.", 
+            "dur": "6.23", 
+            "start": "185.66"
+        }
+    ], 
+    "title": "10! - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0vb40_n", 
+        "/m/02w2m"
+    ], 
+    "number_views": 253833, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

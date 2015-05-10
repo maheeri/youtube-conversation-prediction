@@ -1,0 +1,583 @@
+{
+    "publish_date": "2012-02-03T15:31:43.000Z", 
+    "video_length": "PT5M22S", 
+    "captions": [
+        {
+            "text": "BRADY HARAN: We did a video.", 
+            "dur": "1.71", 
+            "start": "0.36"
+        }, 
+        {
+            "text": "I&#39;d done it some time ago\nabout Mersenne primes.", 
+            "dur": "2.78", 
+            "start": "2.07"
+        }, 
+        {
+            "text": "And offhandedly, just\noff the cuff, I said", 
+            "dur": "3.37", 
+            "start": "4.85"
+        }, 
+        {
+            "text": "that 1 wasn&#39;t a prime.", 
+            "dur": "3.82", 
+            "start": "8.22"
+        }, 
+        {
+            "text": "Now, if I&#39;m honest, we\ndon&#39;t say 1 is prime.", 
+            "dur": "2.46", 
+            "start": "12.04"
+        }, 
+        {
+            "text": "There&#39;s a special\nreason for that.", 
+            "dur": "1.42", 
+            "start": "14.5"
+        }, 
+        {
+            "text": "And we noticed that some people\nin the comments said,", 
+            "dur": "2.6", 
+            "start": "15.92"
+        }, 
+        {
+            "text": "well, I think I&#39;ve heard of this\nbefore, but why is that?", 
+            "dur": "3.53", 
+            "start": "18.52"
+        }, 
+        {
+            "text": "Why isn&#39;t 1 a prime?", 
+            "dur": "3.53", 
+            "start": "22.05"
+        }, 
+        {
+            "text": "So what is a prime number?", 
+            "dur": "1.03", 
+            "start": "25.58"
+        }, 
+        {
+            "text": "Let&#39;s think of the definition.", 
+            "dur": "1.36", 
+            "start": "26.61"
+        }, 
+        {
+            "text": "You probably know\nthe definition.", 
+            "dur": "1.56", 
+            "start": "27.97"
+        }, 
+        {
+            "text": "A prime number is a number that\ncan only be divided by 1", 
+            "dur": "4.9", 
+            "start": "29.53"
+        }, 
+        {
+            "text": "and itself.", 
+            "dur": "1.12", 
+            "start": "34.43"
+        }, 
+        {
+            "text": "So the prime numbers are\n2, 3, 5, 7, 11, 13.", 
+            "dur": "5.93", 
+            "start": "35.55"
+        }, 
+        {
+            "text": "You know these numbers.", 
+            "dur": "1.41", 
+            "start": "41.48"
+        }, 
+        {
+            "text": "So it sounds like 1 should\nbe a prime number, right?", 
+            "dur": "3.8", 
+            "start": "42.89"
+        }, 
+        {
+            "text": "It fits the definition\nof the prime number.", 
+            "dur": "3.38", 
+            "start": "46.69"
+        }, 
+        {
+            "text": "You can divide by 1, and\nyou can divide by", 
+            "dur": "1.86", 
+            "start": "50.07"
+        }, 
+        {
+            "text": "itself, which is 1.", 
+            "dur": "1.51", 
+            "start": "51.93"
+        }, 
+        {
+            "text": "And historically, it was\nconsidered a prime number.", 
+            "dur": "3.98", 
+            "start": "53.44"
+        }, 
+        {
+            "text": "So if you&#39;re thinking, hmm, it\nsounds like it should be.", 
+            "dur": "2.33", 
+            "start": "57.42"
+        }, 
+        {
+            "text": "Well, that&#39;s what they\nused to think.", 
+            "dur": "1.64", 
+            "start": "59.75"
+        }, 
+        {
+            "text": "That&#39;s what mathematicians\nused to think as well.", 
+            "dur": "2.1", 
+            "start": "61.39"
+        }, 
+        {
+            "text": "But in the end, they\nhad to exclude it", 
+            "dur": "3.77", 
+            "start": "63.49"
+        }, 
+        {
+            "text": "from the prime numbers.", 
+            "dur": "1.33", 
+            "start": "67.26"
+        }, 
+        {
+            "text": "Oh poor old 1, 1 is the\nloneliest number, the", 
+            "dur": "2.99", 
+            "start": "68.59"
+        }, 
+        {
+            "text": "loneliest number\nyou&#39;ll ever do.", 
+            "dur": "1.81", 
+            "start": "71.58"
+        }, 
+        {
+            "text": "So it&#39;s excluded for a reason.", 
+            "dur": "2.03", 
+            "start": "73.39"
+        }, 
+        {
+            "text": "There&#39;s a really important\ntheorem in mathematics.", 
+            "dur": "3.53", 
+            "start": "75.42"
+        }, 
+        {
+            "text": "It&#39;s called the Fundamental\nTheorem of Arithmetic.", 
+            "dur": "4.5", 
+            "start": "78.95"
+        }, 
+        {
+            "text": "Now, it says that every positive\nwhole number can be", 
+            "dur": "3.87", 
+            "start": "83.45"
+        }, 
+        {
+            "text": "written as a product by\nmultiplying prime numbers.", 
+            "dur": "4.46", 
+            "start": "87.32"
+        }, 
+        {
+            "text": "So here it is.", 
+            "dur": "0.77", 
+            "start": "91.78"
+        }, 
+        {
+            "text": "I didn&#39;t want to write it\nout, so here it is.", 
+            "dur": "2.25", 
+            "start": "92.55"
+        }, 
+        {
+            "text": "Every positive whole number, or\ninteger, if you like, can", 
+            "dur": "4.32", 
+            "start": "94.8"
+        }, 
+        {
+            "text": "be written as a unique\nproduct of primes.", 
+            "dur": "4.39", 
+            "start": "99.12"
+        }, 
+        {
+            "text": "So you can tell this is an\nimportant theorem because it", 
+            "dur": "3.02", 
+            "start": "103.51"
+        }, 
+        {
+            "text": "has a name.", 
+            "dur": "1.08", 
+            "start": "106.53"
+        }, 
+        {
+            "text": "And you can tell it&#39;s a very\nimportant theorem because it", 
+            "dur": "2.54", 
+            "start": "107.61"
+        }, 
+        {
+            "text": "has a pompous name.", 
+            "dur": "1.18", 
+            "start": "110.15"
+        }, 
+        {
+            "text": "So what this means is prime\nnumbers are our atoms, like", 
+            "dur": "4.34", 
+            "start": "111.33"
+        }, 
+        {
+            "text": "atoms in chemistry.", 
+            "dur": "1.38", 
+            "start": "115.67"
+        }, 
+        {
+            "text": "They can be used to make other\nnumbers by multiplying these", 
+            "dur": "4.55", 
+            "start": "117.05"
+        }, 
+        {
+            "text": "primes together.", 
+            "dur": "1.5", 
+            "start": "121.6"
+        }, 
+        {
+            "text": "So for example, 15\nis 3 times 5.", 
+            "dur": "6.016", 
+            "start": "123.1"
+        }, 
+        {
+            "text": "3 and 5 are prime.", 
+            "dur": "1.734", 
+            "start": "129.116"
+        }, 
+        {
+            "text": "And you can make 15 from\nmultiplying primes together.", 
+            "dur": "4.12", 
+            "start": "130.85"
+        }, 
+        {
+            "text": "But there&#39;s a very important\nword here in this theorem.", 
+            "dur": "3.75", 
+            "start": "134.97"
+        }, 
+        {
+            "text": "Look at this word, unique.", 
+            "dur": "3.72", 
+            "start": "138.72"
+        }, 
+        {
+            "text": "Now that&#39;s not just there\nfor decoration.", 
+            "dur": "2.58", 
+            "start": "142.44"
+        }, 
+        {
+            "text": "Every word is important,\nunique.", 
+            "dur": "2.47", 
+            "start": "145.02"
+        }, 
+        {
+            "text": "It has to be a unique product.", 
+            "dur": "1.34", 
+            "start": "147.49"
+        }, 
+        {
+            "text": "There&#39;s only one way to do it.", 
+            "dur": "1.84", 
+            "start": "148.83"
+        }, 
+        {
+            "text": "Now we know, of course, that\n15 is also 5 times 3.", 
+            "dur": "5.38", 
+            "start": "150.67"
+        }, 
+        {
+            "text": "We don&#39;t mind that,\nthat&#39;s allowed.", 
+            "dur": "1.56", 
+            "start": "156.05"
+        }, 
+        {
+            "text": "We don&#39;t mind that.", 
+            "dur": "1.15", 
+            "start": "157.61"
+        }, 
+        {
+            "text": "What we don&#39;t like is that\n15 is 1 times 3 times 5.", 
+            "dur": "7.22", 
+            "start": "158.76"
+        }, 
+        {
+            "text": "Not only that, but it&#39;s also\n1 times 1 times 3 times 5.", 
+            "dur": "5.62", 
+            "start": "165.98"
+        }, 
+        {
+            "text": "And it&#39;s 1 times 1 times 1 times\n3 times 5, and so on.", 
+            "dur": "4.26", 
+            "start": "171.6"
+        }, 
+        {
+            "text": "If 1 was a prime, then we\nwouldn&#39;t have a unique way of", 
+            "dur": "5.42", 
+            "start": "175.86"
+        }, 
+        {
+            "text": "writing 15 as a product\nof prime numbers.", 
+            "dur": "5.01", 
+            "start": "181.28"
+        }, 
+        {
+            "text": "So what this meant was, when\nthey used to think it was", 
+            "dur": "3.66", 
+            "start": "186.29"
+        }, 
+        {
+            "text": "prime, they had to keep", 
+            "dur": "1.54", 
+            "start": "189.95"
+        }, 
+        {
+            "text": "excluding 1 from your theorems.", 
+            "dur": "2.64", 
+            "start": "191.49"
+        }, 
+        {
+            "text": "You would have to keep saying,\ntake all the prime numbers,", 
+            "dur": "2.62", 
+            "start": "194.13"
+        }, 
+        {
+            "text": "except for 1.", 
+            "dur": "1.67", 
+            "start": "196.75"
+        }, 
+        {
+            "text": "And we just got tired\nof doing that.", 
+            "dur": "2.14", 
+            "start": "198.42"
+        }, 
+        {
+            "text": "So we just decided to exclude 1\nfrom our definition of prime", 
+            "dur": "4.64", 
+            "start": "200.56"
+        }, 
+        {
+            "text": "to begin with.", 
+            "dur": "0.64", 
+            "start": "205.2"
+        }, 
+        {
+            "text": "So 1 isn&#39;t a prime number.", 
+            "dur": "2.22", 
+            "start": "205.84"
+        }, 
+        {
+            "text": "It isn&#39;t considered a composite\nnumber, where you", 
+            "dur": "3.45", 
+            "start": "208.06"
+        }, 
+        {
+            "text": "make the other numbers\nfrom primes.", 
+            "dur": "2.59", 
+            "start": "211.51"
+        }, 
+        {
+            "text": "No, it has a category all of\nits own, where it sits, all", 
+            "dur": "4.39", 
+            "start": "214.1"
+        }, 
+        {
+            "text": "lonely by itself.", 
+            "dur": "1.45", 
+            "start": "218.49"
+        }, 
+        {
+            "text": "MALE SPEAKER: But why does\nthis mean 1&#39;s not prime?", 
+            "dur": "1.78", 
+            "start": "219.94"
+        }, 
+        {
+            "text": "Maybe it&#39;s just a\nstupid theorem.", 
+            "dur": "1.74", 
+            "start": "221.72"
+        }, 
+        {
+            "text": "Maybe the theorem&#39;s no good.", 
+            "dur": "2.08", 
+            "start": "223.46"
+        }, 
+        {
+            "text": "Why does the theorem\nbeat number 1 out?", 
+            "dur": "2.96", 
+            "start": "225.54"
+        }, 
+        {
+            "text": "BRADY HARAN: We have a choice.", 
+            "dur": "0.66", 
+            "start": "228.5"
+        }, 
+        {
+            "text": "We have a choice to include\nit in that category", 
+            "dur": "2.31", 
+            "start": "229.16"
+        }, 
+        {
+            "text": "if we wanted to.", 
+            "dur": "2.52", 
+            "start": "231.47"
+        }, 
+        {
+            "text": "Prime&#39;s just a word, it&#39;s\njust a category.", 
+            "dur": "2.23", 
+            "start": "233.99"
+        }, 
+        {
+            "text": "And it&#39;s more useful for us to\nsay, take this list, which is", 
+            "dur": "4.93", 
+            "start": "236.22"
+        }, 
+        {
+            "text": "the list of all the primes.", 
+            "dur": "1.51", 
+            "start": "241.15"
+        }, 
+        {
+            "text": "And it doesn&#39;t have 1 on it.", 
+            "dur": "1.39", 
+            "start": "242.66"
+        }, 
+        {
+            "text": "It&#39;s more useful to say,\ntake this list.", 
+            "dur": "2.42", 
+            "start": "244.05"
+        }, 
+        {
+            "text": "And that list is 2, 3, 5,\n7, 11, blah, blah, blah.", 
+            "dur": "5.55", 
+            "start": "246.47"
+        }, 
+        {
+            "text": "MALE SPEAKER: Looking at that\ntheorem, doesn&#39;t that mean", 
+            "dur": "2.91", 
+            "start": "252.02"
+        }, 
+        {
+            "text": "that 1 isn&#39;t a whole number\nbecause 1, surely 1 can&#39;t be", 
+            "dur": "4.613", 
+            "start": "254.93"
+        }, 
+        {
+            "text": "made as a unique product\nof primes?", 
+            "dur": "1.666", 
+            "start": "259.543"
+        }, 
+        {
+            "text": "BRADY HARAN: OK.", 
+            "dur": "0.241", 
+            "start": "261.209"
+        }, 
+        {
+            "text": "Well, let&#39;s have a look.", 
+            "dur": "1.69", 
+            "start": "261.45"
+        }, 
+        {
+            "text": "Let&#39;s take--", 
+            "dur": "1.085", 
+            "start": "263.14"
+        }, 
+        {
+            "text": "I&#39;ll start with 16.", 
+            "dur": "2.855", 
+            "start": "264.225"
+        }, 
+        {
+            "text": "16 is a product of primes\nbecause it&#39;s 2 times 2", 
+            "dur": "3.53", 
+            "start": "267.08"
+        }, 
+        {
+            "text": "times 2 times 2.", 
+            "dur": "1.66", 
+            "start": "270.61"
+        }, 
+        {
+            "text": "It&#39;s four primes.", 
+            "dur": "2.23", 
+            "start": "272.27"
+        }, 
+        {
+            "text": "8 is a product of primes.", 
+            "dur": "2.48", 
+            "start": "274.5"
+        }, 
+        {
+            "text": "It&#39;s 2 times 2 times 2.", 
+            "dur": "2.22", 
+            "start": "276.98"
+        }, 
+        {
+            "text": "So I&#39;ve just divided\nby 2 there.", 
+            "dur": "1.99", 
+            "start": "279.2"
+        }, 
+        {
+            "text": "4 is a product of two primes.", 
+            "dur": "3.97", 
+            "start": "281.19"
+        }, 
+        {
+            "text": "The number 2, the prime number\n2, is a product of just one", 
+            "dur": "3.9", 
+            "start": "285.16"
+        }, 
+        {
+            "text": "prime number.", 
+            "dur": "1.65", 
+            "start": "289.06"
+        }, 
+        {
+            "text": "And then if I divide by 2 again,\nI get 1, which is the", 
+            "dur": "4.12", 
+            "start": "290.71"
+        }, 
+        {
+            "text": "product of zero prime numbers.", 
+            "dur": "2.94", 
+            "start": "294.83"
+        }, 
+        {
+            "text": "It&#39;s called an empty product.", 
+            "dur": "2.59", 
+            "start": "297.77"
+        }, 
+        {
+            "text": "So we&#39;ve got a product of 4\nprimes, 3 primes, 2 primes,", 
+            "dur": "4.48", 
+            "start": "300.36"
+        }, 
+        {
+            "text": "continue the pattern, 1\nprime, and 0 primes.", 
+            "dur": "5.13", 
+            "start": "304.84"
+        }, 
+        {
+            "text": "It&#39;s 1, and it&#39;s not 0.", 
+            "dur": "1.58", 
+            "start": "309.97"
+        }, 
+        {
+            "text": "It&#39;s 1, it&#39;s called\nan empty product.", 
+            "dur": "1.84", 
+            "start": "311.55"
+        }, 
+        {
+            "text": "Oh, that won&#39;t be it\nfor the number 1.", 
+            "dur": "1.57", 
+            "start": "316.16"
+        }, 
+        {
+            "text": "We&#39;ll be hearing from the number\n1 again soon, I&#39;m sure.", 
+            "dur": "3.07", 
+            "start": "317.73"
+        }
+    ], 
+    "title": "1 and Prime Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05x5j", 
+        "/m/0vb40_n", 
+        "/m/05fwb"
+    ], 
+    "number_views": 719604, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

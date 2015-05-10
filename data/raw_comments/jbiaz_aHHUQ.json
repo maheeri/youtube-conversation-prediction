@@ -1,0 +1,398 @@
+{
+    "publish_date": "2014-02-03T12:02:26.000Z", 
+    "video_length": "PT7M9S", 
+    "captions": [
+        {
+            "text": "&gt;&gt; DR GRIME: Let&#39;s have a look at one of these tests\nthat they have, that they apply to see", 
+            "dur": "4.291", 
+            "start": "0.299"
+        }, 
+        {
+            "text": "if a number is prime or not. Well we&#39;re going\nto use a fact I have mentioned before when talking", 
+            "dur": "5.28", 
+            "start": "4.59"
+        }, 
+        {
+            "text": "about primes and we&#39;re going to use Fermat&#39;s\nLittle Theorem. It&#39;s a theorem about prime", 
+            "dur": "5.29", 
+            "start": "9.87"
+        }, 
+        {
+            "text": "numbers and what it says is that if you have\na number which I&#39;ll call &#39;a&#39; and I&#39;m going", 
+            "dur": "4.64", 
+            "start": "15.16"
+        }, 
+        {
+            "text": "to raise it to a power &#39;prime number&#39; so that&#39;s\ncalled &#39;p prime&#39;, and I subtract the original", 
+            "dur": "7", 
+            "start": "19.8"
+        }, 
+        {
+            "text": "number then I say that this is divisible by\np. There you go.", 
+            "dur": "5.611", 
+            "start": "26.939"
+        }, 
+        {
+            "text": "So if a number is prime that&#39;s always true\nfor whatever number &#39;a&#39; you pick. So, let&#39;s", 
+            "dur": "6.169", 
+            "start": "32.55"
+        }, 
+        {
+            "text": "do an example of this, let&#39;s pick a prime.\nWe know 5 is a prime, is it? Isn&#39;t it? Yeah, OK.", 
+            "dur": "4.281", 
+            "start": "38.719"
+        }, 
+        {
+            "text": "So 5 is a prime, so let&#39;s use that and we&#39;ll\npick, well, let&#39;s see. 1\u2075, that&#39;s going to be easy.", 
+            "dur": "7.3", 
+            "start": "43"
+        }, 
+        {
+            "text": "1\u2075 - 1 = 0. Is it divisible by 5? Yes, we say 0 is divisible by 5.", 
+            "dur": "8.821", 
+            "start": "50.379"
+        }, 
+        {
+            "text": "What about 2? 2\u2075 - 2 to get 30.", 
+            "dur": "5.27", 
+            "start": "59.23"
+        }, 
+        {
+            "text": "Hey, and that&#39;s divisible by 5 as well. Let&#39;s just finish it off.", 
+            "dur": "4.85", 
+            "start": "64.5"
+        }, 
+        {
+            "text": "3\u2075 - 3, that&#39;s 240 so these\nare all divisible by 5.", 
+            "dur": "6.58", 
+            "start": "69.35"
+        }, 
+        {
+            "text": "4\u2075 - 4, divisible by 5 again.", 
+            "dur": "3.65", 
+            "start": "75.93"
+        }, 
+        {
+            "text": "What about 5? Yeah, well I think this one&#39;s\na bit more obvious, so that&#39;s divisible by", 
+            "dur": "4.38", 
+            "start": "79.58"
+        }, 
+        {
+            "text": "5 too. And that&#39;s always going to be true\nif the number is prime. And this is what Fermat", 
+            "dur": "5.23", 
+            "start": "83.96"
+        }, 
+        {
+            "text": "proved in the 17th century, this is absolutely\ntrue for all primes.", 
+            "dur": "4.62", 
+            "start": "89.19"
+        }, 
+        {
+            "text": "Let&#39;s try another number, I&#39;ll try another\nnumber with you.", 
+            "dur": "2.29", 
+            "start": "93.81"
+        }, 
+        {
+            "text": "I&#39;m going to try the number 341. Does that pass my test?", 
+            "dur": "5.6", 
+            "start": "96.1"
+        }, 
+        {
+            "text": "2\u00b3\u2074\u00b9 - 2. That&#39;s my test.\nNow that&#39;s going to be a really large number.", 
+            "dur": "6.8", 
+            "start": "101.7"
+        }, 
+        {
+            "text": "Computers can have methods that make this\neasier so that&#39;s going to be a really large", 
+            "dur": "3.71", 
+            "start": "108.5"
+        }, 
+        {
+            "text": "number. I&#39;m not going to write that down.\nHuge number, but I can tell you now that this", 
+            "dur": "3.7", 
+            "start": "112.21"
+        }, 
+        {
+            "text": "number is divisible by the number we&#39;re testing.\nIt was 341. Thumbs up. Yeah, great.", 
+            "dur": "5.59", 
+            "start": "115.91"
+        }, 
+        {
+            "text": "So it&#39;s passed the test.", 
+            "dur": "3.55", 
+            "start": "121.5"
+        }, 
+        {
+            "text": "Let&#39;s try another one, let&#39;s try another test.\nDo it with 3 then.", 
+            "dur": "4.45", 
+            "start": "125.05"
+        }, 
+        {
+            "text": "If we do this, 3\u00b3\u2074\u00b9 - 3. Is this divisible?", 
+            "dur": "6.8", 
+            "start": "129.5"
+        }, 
+        {
+            "text": "And this is where it fails the test. So this one is not divisible.", 
+            "dur": "5.7", 
+            "start": "136.3"
+        }, 
+        {
+            "text": "Now, if it&#39;s not divisible that tells me it&#39;s a composite number.", 
+            "dur": "5", 
+            "start": "142"
+        }, 
+        {
+            "text": "There only needs to be one exception, it&#39;s very easy to fail this test.", 
+            "dur": "4", 
+            "start": "147"
+        }, 
+        {
+            "text": "The more you pass, the more evidence you are,\nthat you are a prime and if you fail at all", 
+            "dur": "6.2", 
+            "start": "151"
+        }, 
+        {
+            "text": "then you are a composite number. Only\ncomposite numbers fail. If you have a composite", 
+            "dur": "5.7", 
+            "start": "157.2"
+        }, 
+        {
+            "text": "number and it passes the test here, this number 2\nin this case is called a Fermat liar.", 
+            "dur": "7.1", 
+            "start": "162.9"
+        }, 
+        {
+            "text": "Ooooh, it&#39;s not really prime, it&#39;s lying. It tells\nme it&#39;s prime and it&#39;s not. Naughty!", 
+            "dur": "7.9", 
+            "start": "170"
+        }, 
+        {
+            "text": "This number here 3, which actually shows that\nit was composite after all, is called a Fermat witness.", 
+            "dur": "7", 
+            "start": "177.9"
+        }, 
+        {
+            "text": "The innocent bystander. He goes in\nto a witness protection program in case 2", 
+            "dur": "6.201", 
+            "start": "185.069"
+        }, 
+        {
+            "text": "comes and chases after him, yeah.", 
+            "dur": "2.01", 
+            "start": "191.27"
+        }, 
+        {
+            "text": "Brady, you ask a good question though.\nWhat would happen if there was a number that was", 
+            "dur": "5.46", 
+            "start": "193.28"
+        }, 
+        {
+            "text": "composite that passed every test up to the\nsize of the number. Is it possible? Yes it is.", 
+            "dur": "9.96", 
+            "start": "198.74"
+        }, 
+        {
+            "text": "There are numbers that will pass this\ntest for every test you apply.", 
+            "dur": "6.32", 
+            "start": "208.77"
+        }, 
+        {
+            "text": "Those are called Carmichael numbers, they have a name.\nThe first Carmichael number is 561.", 
+            "dur": "8.21", 
+            "start": "215.09"
+        }, 
+        {
+            "text": "So what that means is 2\u2075\u2076\u00b9 - 2 is divisible.  3\u2075\u2076\u00b9 - 3, that passes the test.", 
+            "dur": "8.58", 
+            "start": "223.42"
+        }, 
+        {
+            "text": "So does 4. And all the way down to 560 to\nthe power 561 and it passes the test each time.", 
+            "dur": "8.36", 
+            "start": "232.04"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Must be prime!", 
+            "dur": "1.44", 
+            "start": "240.48"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Must be prime! Must be prime!  Unfortunately, it&#39;s not.", 
+            "dur": "4.08", 
+            "start": "241.92"
+        }, 
+        {
+            "text": "561 is equal to 3 by 11 by 17.", 
+            "dur": "6.7", 
+            "start": "246"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Those are cool numbers.", 
+            "dur": "1.42", 
+            "start": "252.7"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Those are really cool numbers\nand there infinitely many Carmichael numbers.", 
+            "dur": "5.299", 
+            "start": "254.12"
+        }, 
+        {
+            "text": "The third Carmichael Number is mathematician&#39;s favourite 1729. Nice.", 
+            "dur": "7.781", 
+            "start": "259.519"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Lovely.", 
+            "dur": "1", 
+            "start": "267.3"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Lovely. Now, what do you reckon Brady?", 
+            "dur": "3.7", 
+            "start": "268.3"
+        }, 
+        {
+            "text": "Do you think this is a good test, or not?", 
+            "dur": "4", 
+            "start": "272"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Well, until you told me about Carmichael\nnumbers I thought it was a good test. Now", 
+            "dur": "4.96", 
+            "start": "276"
+        }, 
+        {
+            "text": "I think it&#39;s almost useless if you&#39;re looking\nfor perfection. Well it is useless.", 
+            "dur": "5.599", 
+            "start": "280.96"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Yeah, well, it&#39;s not perfect.\nYou&#39;re absolutely right. So, if you checked", 
+            "dur": "4.76", 
+            "start": "286.559"
+        }, 
+        {
+            "text": "all numbers less than 25 billion, the number\nof numbers that would fail the test if you", 
+            "dur": "7", 
+            "start": "291.319"
+        }, 
+        {
+            "text": "used &#39;a&#39; was 2, alright? If &#39;a&#39; was 2. The number of numbers that fail that particular version", 
+            "dur": "7.97", 
+            "start": "298.43"
+        }, 
+        {
+            "text": "of that test is 2183 out of 25 billion. That&#39;s\njust using 2. So only a small fraction fail", 
+            "dur": "10.931", 
+            "start": "306.469"
+        }, 
+        {
+            "text": "this test, or give you things that you don&#39;t\nwant. Tell you that you have a prime when", 
+            "dur": "4.09", 
+            "start": "317.71"
+        }, 
+        {
+            "text": "you don&#39;t have a prime. And you can apply\nother numbers anyway, so to pass this test", 
+            "dur": "6.289", 
+            "start": "321.8"
+        }, 
+        {
+            "text": "is actually quite a high bar.", 
+            "dur": "0.771", 
+            "start": "328.089"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: So it is a good test.", 
+            "dur": "1.219", 
+            "start": "328.86"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: So, it&#39;s a fairly, yeah. It&#39;s\na fairly good test. Now there are other tests", 
+            "dur": "4.56", 
+            "start": "330.079"
+        }, 
+        {
+            "text": "though, there are better tests that use pretty\nmuch the same idea. Almost exactly the same", 
+            "dur": "4.08", 
+            "start": "334.639"
+        }, 
+        {
+            "text": "idea so if you understood that you&#39;ll\nunderstand the other tests as well.", 
+            "dur": "3.281", 
+            "start": "338.719"
+        }, 
+        {
+            "text": "There&#39;s one called the Baillie-PSW test, pretty much uses\nthe same idea as that. Actually uses two tests", 
+            "dur": "7.469", 
+            "start": "342"
+        }, 
+        {
+            "text": "in conjunction so you have to pass them both.\nYes, if you pass that test you&#39;re probably", 
+            "dur": "4.6", 
+            "start": "349.469"
+        }, 
+        {
+            "text": "a prime. In fact, they have found no counter\nexamples. So anything that passes the test", 
+            "dur": "7.631", 
+            "start": "354.069"
+        }, 
+        {
+            "text": "so far has actually been a prime. There&#39;s\nbeen no sneaky composite numbers. No counter", 
+            "dur": "6.38", 
+            "start": "361.779"
+        }, 
+        {
+            "text": "example to it. And they&#39;ve checked large numbers\nfor this. If you do find a counter example,", 
+            "dur": "7", 
+            "start": "368.159"
+        }, 
+        {
+            "text": "if you find a cheeky composite number that\npasses the test, the authors originally offered", 
+            "dur": "5.56", 
+            "start": "375.409"
+        }, 
+        {
+            "text": "a prize. You could win $30. $30 could be yours.\nNow don&#39;t worry, since then the amount of", 
+            "dur": "10.031", 
+            "start": "380.969"
+        }, 
+        {
+            "text": "the prize, it&#39;s gone up since then. You can\nnow win over $600. $620 in fact. Think of that.", 
+            "dur": "7.8", 
+            "start": "391"
+        }, 
+        {
+            "text": "Think of that. Think what you could\ndo with that money. Ooh, you could buy yourself", 
+            "dur": "4.66", 
+            "start": "398.8"
+        }, 
+        {
+            "text": "a choc ice every day. Every day for a year.\nTwice on Sundays.", 
+            "dur": "4.719", 
+            "start": "403.46"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: In 2002, they published, or mathematicians\npublished a new method to test for primes", 
+            "dur": "9.121", 
+            "start": "408.179"
+        }, 
+        {
+            "text": "and finally they found a fast way that was\n100%. This is now one of the latest things.", 
+            "dur": "11.681", 
+            "start": "417.319"
+        }
+    ], 
+    "title": "Liar Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0f06m", 
+        "/m/0vb40_n", 
+        "/m/05fwb"
+    ], 
+    "number_views": 370122, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

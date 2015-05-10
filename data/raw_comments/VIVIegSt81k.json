@@ -1,0 +1,547 @@
+{
+    "publish_date": "2012-10-01T07:30:08.000Z", 
+    "video_length": "PT4M8S", 
+    "captions": [
+        {
+            "text": "So say you just moved from England to the US", 
+            "dur": "2.165", 
+            "start": "0.008"
+        }, 
+        {
+            "text": "and you&#39;ve got your old school supplies from England", 
+            "dur": "1.763", 
+            "start": "2.173"
+        }, 
+        {
+            "text": "and your new school supplies from the US", 
+            "dur": "2.019", 
+            "start": "3.936"
+        }, 
+        {
+            "text": "and it&#39;s your first day of school and you get to class", 
+            "dur": "1.548", 
+            "start": "5.955"
+        }, 
+        {
+            "text": "and find that your new American paper doesn&#39;t fit in your", 
+            "dur": "2.662", 
+            "start": "7.503"
+        }, 
+        {
+            "text": "old English binder.", 
+            "dur": "1.99", 
+            "start": "10.165"
+        }, 
+        {
+            "text": "The paper is too wide, and hangs out.", 
+            "dur": "2.409", 
+            "start": "12.155"
+        }, 
+        {
+            "text": "So you cut off the extra and end up with all these strips of paper.", 
+            "dur": "3.442", 
+            "start": "14.625"
+        }, 
+        {
+            "text": "And to keep yourself amused during your math class", 
+            "dur": "2.344", 
+            "start": "18.067"
+        }, 
+        {
+            "text": "you start playing with them.", 
+            "dur": "1.512", 
+            "start": "20.411"
+        }, 
+        {
+            "text": "And by you, I mean", 
+            "dur": "1.16", 
+            "start": "21.923"
+        }, 
+        {
+            "text": "Arthur H. Stone in 1939.", 
+            "dur": "1.918", 
+            "start": "23.083"
+        }, 
+        {
+            "text": "Anyway, there&#39;s lots of cool things", 
+            "dur": "1.79", 
+            "start": "25.001"
+        }, 
+        {
+            "text": "you can do with a strip of paper. You can fold it into shapes.", 
+            "dur": "2.182", 
+            "start": "26.791"
+        }, 
+        {
+            "text": "And more shapes.", 
+            "dur": "1.407", 
+            "start": "28.973"
+        }, 
+        {
+            "text": "Maybe spiral it around snugly like this.", 
+            "dur": "1.87", 
+            "start": "30.38"
+        }, 
+        {
+            "text": "Maybe make it into a square.", 
+            "dur": "1.82", 
+            "start": "32.25"
+        }, 
+        {
+            "text": "Maybe wrap it into a hexagon with", 
+            "dur": "2.053", 
+            "start": "34.07"
+        }, 
+        {
+            "text": "a nice symmetric sort of cycle to the flappy parts.", 
+            "dur": "2.877", 
+            "start": "36.123"
+        }, 
+        {
+            "text": "In fact, there&#39;s enough space here to keep wrapping the strip,", 
+            "dur": "2.728", 
+            "start": "39"
+        }, 
+        {
+            "text": "and then your hexagon is pretty stable.", 
+            "dur": "1.036", 
+            "start": "41.728"
+        }, 
+        {
+            "text": "And you&#39;re like, &quot;I don&#39;t know, hexagons aren&#39;t too exciting,", 
+            "dur": "1.035", 
+            "start": "42.764"
+        }, 
+        {
+            "text": "but I guess it has symmetry or something.&quot;", 
+            "dur": "2.708", 
+            "start": "43.799"
+        }, 
+        {
+            "text": "Maybe you could kinda fold it", 
+            "dur": "4.462", 
+            "start": "46.507"
+        }, 
+        {
+            "text": "so the flappy parts are down and the unflappy parts are up.", 
+            "dur": "1.551", 
+            "start": "50.969"
+        }, 
+        {
+            "text": "That&#39;s symmetric, and it collapses down into these three triangles,", 
+            "dur": "1.552", 
+            "start": "52.52"
+        }, 
+        {
+            "text": "which collapse down into one triangle, and collapsible hexagons are,", 
+            "dur": "3.601", 
+            "start": "54.072"
+        }, 
+        {
+            "text": "you suppose, cool enough to at least amuse you a little bit during your class.", 
+            "dur": "4.002", 
+            "start": "57.673"
+        }, 
+        {
+            "text": "And then, since hexagons have six-way symmetry,", 
+            "dur": "2.661", 
+            "start": "61.675"
+        }, 
+        {
+            "text": "you decide to try this three-way fold the other way,", 
+            "dur": "1.99", 
+            "start": "64.336"
+        }, 
+        {
+            "text": "with flappy parts up, and are collapsing it down", 
+            "dur": "2.9", 
+            "start": "66.326"
+        }, 
+        {
+            "text": "when suddenly the inside of your hexagon decides to open right up.", 
+            "dur": "1.709", 
+            "start": "69.288"
+        }, 
+        {
+            "text": "What? You close it back up and undo it.", 
+            "dur": "4.079", 
+            "start": "70.997"
+        }, 
+        {
+            "text": "Everything seems the same as before,", 
+            "dur": "1.515", 
+            "start": "75.122"
+        }, 
+        {
+            "text": "the center is not open-uppable.", 
+            "dur": "1.64", 
+            "start": "76.637"
+        }, 
+        {
+            "text": "But when you fold it that way again,", 
+            "dur": "1.988", 
+            "start": "78.277"
+        }, 
+        {
+            "text": "it, like, flips inside-out. Weird.", 
+            "dur": "2.298", 
+            "start": "80.265"
+        }, 
+        {
+            "text": "This time, instead of going backwards,", 
+            "dur": "2.471", 
+            "start": "82.578"
+        }, 
+        {
+            "text": "you try doing it again. And again. And again. And again.", 
+            "dur": "2.352", 
+            "start": "85.049"
+        }, 
+        {
+            "text": "And you want to make one that&#39;s a little less messy,", 
+            "dur": "2.199", 
+            "start": "87.401"
+        }, 
+        {
+            "text": "so you try again with another strip and tape it nicely", 
+            "dur": "2.244", 
+            "start": "89.6"
+        }, 
+        {
+            "text": "into a twisty-foldy loop. You decide", 
+            "dur": "2.204", 
+            "start": "91.844"
+        }, 
+        {
+            "text": "that it would be cool to color the sides,", 
+            "dur": "1.982", 
+            "start": "94.048"
+        }, 
+        {
+            "text": "so you get out a highlighter and make one yellow.", 
+            "dur": "1.764", 
+            "start": "96.03"
+        }, 
+        {
+            "text": "Now you can flip from yellow side to white side.", 
+            "dur": "1.781", 
+            "start": "97.794"
+        }, 
+        {
+            "text": "Yellow side, white side, yellow side, white side", 
+            "dur": "2.492", 
+            "start": "99.575"
+        }, 
+        {
+            "text": "Hmm. White side? What? Where did the yellow side go?", 
+            "dur": "3.409", 
+            "start": "102.067"
+        }, 
+        {
+            "text": "So you go back, and this time you color the white side green,", 
+            "dur": "2.267", 
+            "start": "105.476"
+        }, 
+        {
+            "text": "and find that your paper has three sides.", 
+            "dur": "2.356", 
+            "start": "107.743"
+        }, 
+        {
+            "text": "Yellow, white, and green.", 
+            "dur": "1.762", 
+            "start": "110.099"
+        }, 
+        {
+            "text": "Now this thing is definitely cool.", 
+            "dur": "1.334", 
+            "start": "111.861"
+        }, 
+        {
+            "text": "Therefore, you need to name it.", 
+            "dur": "1.574", 
+            "start": "113.195"
+        }, 
+        {
+            "text": "And since it&#39;s shaped like a hexagon and you flex it", 
+            "dur": "1.765", 
+            "start": "114.769"
+        }, 
+        {
+            "text": "and flex rhymes with hex, hexaflexagon it is.", 
+            "dur": "3.714", 
+            "start": "116.534"
+        }, 
+        {
+            "text": "That night, you can&#39;t sleep because you keep thinking", 
+            "dur": "1.97", 
+            "start": "120.248"
+        }, 
+        {
+            "text": "about hexaflexagons.", 
+            "dur": "1.049", 
+            "start": "122.218"
+        }, 
+        {
+            "text": "And the next day, as soon as you get to your math class", 
+            "dur": "2.137", 
+            "start": "123.267"
+        }, 
+        {
+            "text": "you pull out your paper strips.", 
+            "dur": "1.877", 
+            "start": "125.404"
+        }, 
+        {
+            "text": "You had made this sort of spirally folded paper", 
+            "dur": "2.553", 
+            "start": "127.281"
+        }, 
+        {
+            "text": "that folds into again, the shape of a piece of paper,", 
+            "dur": "2.082", 
+            "start": "129.834"
+        }, 
+        {
+            "text": "and you decide to take that", 
+            "dur": "1.587", 
+            "start": "131.916"
+        }, 
+        {
+            "text": "And use it like a strip of paper to make a hexaflexagon.", 
+            "dur": "3.008", 
+            "start": "133.503"
+        }, 
+        {
+            "text": "Which would totally work, but it feels sturdier", 
+            "dur": "2.36", 
+            "start": "136.511"
+        }, 
+        {
+            "text": "with the extra paper.", 
+            "dur": "2.244", 
+            "start": "138.871"
+        }, 
+        {
+            "text": "And you color the three sides and are like,", 
+            "dur": "1.559", 
+            "start": "141.115"
+        }, 
+        {
+            "text": "Orange, yellow, pink.", 
+            "dur": "2.81", 
+            "start": "142.674"
+        }, 
+        {
+            "text": "And you&#39;re sort of trying to pay attention to class.", 
+            "dur": "2.362", 
+            "start": "145.484"
+        }, 
+        {
+            "text": "Math, yeah. Orange, yellow, pink.", 
+            "dur": "0.739", 
+            "start": "147.846"
+        }, 
+        {
+            "text": "Orange, yellow, white? Wait a second.", 
+            "dur": "3.046", 
+            "start": "148.585"
+        }, 
+        {
+            "text": "Okay, so you color that one green.", 
+            "dur": "1.78", 
+            "start": "151.631"
+        }, 
+        {
+            "text": "And now it&#39;s orange, yellow, green. Orange, yellow, green.", 
+            "dur": "2.024", 
+            "start": "153.411"
+        }, 
+        {
+            "text": "Who knows where the pink side went?", 
+            "dur": "1.651", 
+            "start": "155.435"
+        }, 
+        {
+            "text": "Oh, there it is. Now it&#39;s back to orange, yellow, pink.", 
+            "dur": "1.796", 
+            "start": "157.086"
+        }, 
+        {
+            "text": "Orange, yellow, pink. Hmm. Blue.", 
+            "dur": "2.88", 
+            "start": "158.882"
+        }, 
+        {
+            "text": "Yellow, pink, blue. Yellow, pink, blue. Yellow, pink, huh.", 
+            "dur": "4.841", 
+            "start": "161.762"
+        }, 
+        {
+            "text": "With the old flexagon, you could only flex it one way,", 
+            "dur": "2.659", 
+            "start": "166.603"
+        }, 
+        {
+            "text": "flappy way up.", 
+            "dur": "1.457", 
+            "start": "169.262"
+        }, 
+        {
+            "text": "But now there&#39;s more flaps. So maybe you can fold it both ways.", 
+            "dur": "2.194", 
+            "start": "170.719"
+        }, 
+        {
+            "text": "Yes, one goes from pink to blue,", 
+            "dur": "2.663", 
+            "start": "172.913"
+        }, 
+        {
+            "text": "but the other, from pink to orange.", 
+            "dur": "2.357", 
+            "start": "175.576"
+        }, 
+        {
+            "text": "And now, one way goes from orange to yellow,", 
+            "dur": "2.572", 
+            "start": "177.933"
+        }, 
+        {
+            "text": "but the other way goes from orange to...neon yellow.", 
+            "dur": "3.641", 
+            "start": "180.505"
+        }, 
+        {
+            "text": "During lunch you want to show this off", 
+            "dur": "1.633", 
+            "start": "184.146"
+        }, 
+        {
+            "text": "to one of your new friends, Bryant Tuckerman.", 
+            "dur": "2.137", 
+            "start": "185.779"
+        }, 
+        {
+            "text": "You start with the original, simple, three-faced hexaflexagon,", 
+            "dur": "3.74", 
+            "start": "187.916"
+        }, 
+        {
+            "text": "which you call the trihexaflexagon.", 
+            "dur": "2.002", 
+            "start": "191.656"
+        }, 
+        {
+            "text": "And he&#39;s like, whoa!", 
+            "dur": "1.533", 
+            "start": "193.658"
+        }, 
+        {
+            "text": "and wants to learn how to make one.", 
+            "dur": "1.748", 
+            "start": "195.191"
+        }, 
+        {
+            "text": "And you&#39;re like, it&#39;s easy! Just start with a paper strip,", 
+            "dur": "2.557", 
+            "start": "196.939"
+        }, 
+        {
+            "text": "fold it into equilateral triangles,", 
+            "dur": "1.775", 
+            "start": "199.496"
+        }, 
+        {
+            "text": "and you&#39;ll need nine of them, and you fold them around", 
+            "dur": "1.847", 
+            "start": "201.271"
+        }, 
+        {
+            "text": "into this cycle and make sure it&#39;s all symmetric.", 
+            "dur": "2.479", 
+            "start": "203.118"
+        }, 
+        {
+            "text": "The flat parts are diamonds, and if they&#39;re not,", 
+            "dur": "2.235", 
+            "start": "205.597"
+        }, 
+        {
+            "text": "then you&#39;re doing it wrong.", 
+            "dur": "1.43", 
+            "start": "207.832"
+        }, 
+        {
+            "text": "And then you just tape the first triangle to the last", 
+            "dur": "1.985", 
+            "start": "209.262"
+        }, 
+        {
+            "text": "along the edge, and you&#39;re good.", 
+            "dur": "1.687", 
+            "start": "211.247"
+        }, 
+        {
+            "text": "But Tuckerman doesn&#39;t have tape.", 
+            "dur": "2.211", 
+            "start": "212.934"
+        }, 
+        {
+            "text": "After all, it was invented only 10 years ago.", 
+            "dur": "2.039", 
+            "start": "215.145"
+        }, 
+        {
+            "text": "So he cuts out ten triangles instead of nine,", 
+            "dur": "3.196", 
+            "start": "217.184"
+        }, 
+        {
+            "text": "and then glues the first to the last.", 
+            "dur": "1.757", 
+            "start": "220.38"
+        }, 
+        {
+            "text": "Then you show him how to flex it by pinching around a", 
+            "dur": "2.827", 
+            "start": "222.137"
+        }, 
+        {
+            "text": "flappy part and pushing in on the opposite side to make it", 
+            "dur": "2.1", 
+            "start": "224.964"
+        }, 
+        {
+            "text": "flat and trianglly, and then opening from the center.", 
+            "dur": "2.819", 
+            "start": "227.064"
+        }, 
+        {
+            "text": "You decide to start a flexagon commitee together", 
+            "dur": "2.046", 
+            "start": "229.883"
+        }, 
+        {
+            "text": "to explore the mysteries of flexagation.", 
+            "dur": "3.176", 
+            "start": "231.929"
+        }, 
+        {
+            "text": "But that will have to wait until next time.", 
+            "dur": "2.866", 
+            "start": "235.105"
+        }
+    ], 
+    "title": "Hexaflexagons", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/0p6yx", 
+        "/m/0gkxg0l"
+    ], 
+    "number_views": 6097343, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

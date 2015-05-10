@@ -1,0 +1,688 @@
+{
+    "publish_date": "2012-10-12T10:41:24.000Z", 
+    "video_length": "PT6M44S", 
+    "captions": [
+        {
+            "text": "A proof has been announced of a\nunsolved, so far, conjecture", 
+            "dur": "4.96", 
+            "start": "0.36"
+        }, 
+        {
+            "text": "called the abc Conjecture.", 
+            "dur": "2.4", 
+            "start": "5.32"
+        }, 
+        {
+            "text": "If this proof is right, then\nit&#39;s going to be news on the", 
+            "dur": "3.86", 
+            "start": "7.72"
+        }, 
+        {
+            "text": "scale of Fermat&#39;s last theorem\nwas in the &#39;90s, which was", 
+            "dur": "3.88", 
+            "start": "11.58"
+        }, 
+        {
+            "text": "this big unsolved problem.", 
+            "dur": "1.64", 
+            "start": "15.46"
+        }, 
+        {
+            "text": "And was this huge event.", 
+            "dur": "1.4", 
+            "start": "17.1"
+        }, 
+        {
+            "text": "So it&#39;s really exciting.", 
+            "dur": "2.07", 
+            "start": "18.5"
+        }, 
+        {
+            "text": "We don&#39;t know if this proof is\nright yet, so a Japanese", 
+            "dur": "4.09", 
+            "start": "20.57"
+        }, 
+        {
+            "text": "mathematician called Mochizuki\nhas released these papers, and", 
+            "dur": "4.61", 
+            "start": "24.66"
+        }, 
+        {
+            "text": "altogether, it&#39;s\n500 pages long.", 
+            "dur": "3.04", 
+            "start": "29.27"
+        }, 
+        {
+            "text": "He&#39;s been working on this\nfor a very long time.", 
+            "dur": "3.39", 
+            "start": "32.31"
+        }, 
+        {
+            "text": "He&#39;s come up with his own theory\nof maths-- a whole new", 
+            "dur": "3.36", 
+            "start": "35.7"
+        }, 
+        {
+            "text": "body of maths--", 
+            "dur": "1.81", 
+            "start": "39.06"
+        }, 
+        {
+            "text": "and he&#39;s called it\ninteruniversal geometry.", 
+            "dur": "3.48", 
+            "start": "40.87"
+        }, 
+        {
+            "text": "I know nothing about that.", 
+            "dur": "1.63", 
+            "start": "44.35"
+        }, 
+        {
+            "text": "Very few people do.", 
+            "dur": "1.85", 
+            "start": "45.98"
+        }, 
+        {
+            "text": "Even the experts don&#39;t know much\nabout this at the moment.", 
+            "dur": "3.27", 
+            "start": "47.83"
+        }, 
+        {
+            "text": "So it&#39;s going to take a very\nlong time to make sure if the", 
+            "dur": "3.7", 
+            "start": "51.1"
+        }, 
+        {
+            "text": "proof is right, because they&#39;re\ngoing to have to learn", 
+            "dur": "2.51", 
+            "start": "54.8"
+        }, 
+        {
+            "text": "this whole new theory\nof mathematics.", 
+            "dur": "3.91", 
+            "start": "57.31"
+        }, 
+        {
+            "text": "So the abc Conjecture involves\nthe most simple formula you", 
+            "dur": "3.95", 
+            "start": "61.22"
+        }, 
+        {
+            "text": "can think of.", 
+            "dur": "0.97", 
+            "start": "65.17"
+        }, 
+        {
+            "text": "It&#39;s this--", 
+            "dur": "1.19", 
+            "start": "66.14"
+        }, 
+        {
+            "text": "a plus b equals c.", 
+            "dur": "3.78", 
+            "start": "67.33"
+        }, 
+        {
+            "text": "It doesn&#39;t get much\neasier than that.", 
+            "dur": "2.02", 
+            "start": "71.11"
+        }, 
+        {
+            "text": "And that&#39;s where it gets\nits name from.", 
+            "dur": "1.88", 
+            "start": "73.13"
+        }, 
+        {
+            "text": "The rules are, these are whole\nnumbers, and they don&#39;t share", 
+            "dur": "4.64", 
+            "start": "75.01"
+        }, 
+        {
+            "text": "any factors.", 
+            "dur": "1.305", 
+            "start": "79.65"
+        }, 
+        {
+            "text": "So that means if I can divide\na by 2, then I&#39;m not allowed", 
+            "dur": "4.205", 
+            "start": "80.955"
+        }, 
+        {
+            "text": "to divide b by 2.", 
+            "dur": "1.81", 
+            "start": "85.16"
+        }, 
+        {
+            "text": "Or if I could divide a by 3,\nthen b is not allowed to be", 
+            "dur": "4.38", 
+            "start": "86.97"
+        }, 
+        {
+            "text": "divisible by three.", 
+            "dur": "0.97", 
+            "start": "91.35"
+        }, 
+        {
+            "text": "They&#39;re not allowed to share\nany factors like that.", 
+            "dur": "2.69", 
+            "start": "92.32"
+        }, 
+        {
+            "text": "All right, let&#39;s try an\nexample that works.", 
+            "dur": "2.09", 
+            "start": "95.01"
+        }, 
+        {
+            "text": "1,024 plus 81 equals 1,105.", 
+            "dur": "9.03", 
+            "start": "97.1"
+        }, 
+        {
+            "text": "Right, now let&#39;s just check they\ndon&#39;t share any factors.", 
+            "dur": "3.59", 
+            "start": "106.13"
+        }, 
+        {
+            "text": "In fact, I&#39;ve picked\nthese on purpose.", 
+            "dur": "1.56", 
+            "start": "109.72"
+        }, 
+        {
+            "text": "This one is 2 to the power of\n10, and this one is 3 to the", 
+            "dur": "6.81", 
+            "start": "111.28"
+        }, 
+        {
+            "text": "power of 4.", 
+            "dur": "1.74", 
+            "start": "118.09"
+        }, 
+        {
+            "text": "So they don&#39;t share\nany factors there.", 
+            "dur": "2.46", 
+            "start": "119.83"
+        }, 
+        {
+            "text": "Oh, and this one, I&#39;ll do the\nsame, is 5 times 13 times 17.", 
+            "dur": "7.999", 
+            "start": "122.29"
+        }, 
+        {
+            "text": "Now, this is what I want\nyou to notice.", 
+            "dur": "2.711", 
+            "start": "130.289"
+        }, 
+        {
+            "text": "On the left hand side, you&#39;ve\ngot lots of prime numbers.", 
+            "dur": "3.61", 
+            "start": "133"
+        }, 
+        {
+            "text": "We&#39;ve got all 10 of them over\nhere, and another four.", 
+            "dur": "2.87", 
+            "start": "136.61"
+        }, 
+        {
+            "text": "Loads of them over here.", 
+            "dur": "1.44", 
+            "start": "139.48"
+        }, 
+        {
+            "text": "On the right hand side, you only\nhave three, and this is", 
+            "dur": "3.13", 
+            "start": "140.92"
+        }, 
+        {
+            "text": "what you tend to see\nmost of the time.", 
+            "dur": "2.15", 
+            "start": "144.05"
+        }, 
+        {
+            "text": "This is what&#39;s normal.", 
+            "dur": "1.37", 
+            "start": "146.2"
+        }, 
+        {
+            "text": "If you get lots of primes on the\nleft, you only get a few", 
+            "dur": "3.36", 
+            "start": "147.57"
+        }, 
+        {
+            "text": "on the right hand side.", 
+            "dur": "0.89", 
+            "start": "150.93"
+        }, 
+        {
+            "text": "So this is what the conjecture\nis about.", 
+            "dur": "2.41", 
+            "start": "151.82"
+        }, 
+        {
+            "text": "I want to show you one where\nit doesn&#39;t work.", 
+            "dur": "2.38", 
+            "start": "154.23"
+        }, 
+        {
+            "text": "3 plus 125.", 
+            "dur": "4.26", 
+            "start": "156.61"
+        }, 
+        {
+            "text": "That&#39;s equal to 128.", 
+            "dur": "2.66", 
+            "start": "160.87"
+        }, 
+        {
+            "text": "Let&#39;s just check they don&#39;t\nshare any factors then-- well,", 
+            "dur": "2.42", 
+            "start": "163.53"
+        }, 
+        {
+            "text": "that&#39;s 3, this is 5 cubed,\nand this, 128, is 2", 
+            "dur": "7.43", 
+            "start": "165.95"
+        }, 
+        {
+            "text": "the power of 7.", 
+            "dur": "1.69", 
+            "start": "173.38"
+        }, 
+        {
+            "text": "Now, this one is not like the\nfirst one I showed you.", 
+            "dur": "3.71", 
+            "start": "175.07"
+        }, 
+        {
+            "text": "You&#39;ve only got a few primes\non the left, but we&#39;ve got", 
+            "dur": "2.71", 
+            "start": "178.78"
+        }, 
+        {
+            "text": "loads more on a right.", 
+            "dur": "1.39", 
+            "start": "181.49"
+        }, 
+        {
+            "text": "So you&#39;ve got more on the right\nthan you do on the left.", 
+            "dur": "1.92", 
+            "start": "182.88"
+        }, 
+        {
+            "text": "That&#39;s unusual.", 
+            "dur": "0.83", 
+            "start": "184.8"
+        }, 
+        {
+            "text": "That&#39;s weird.", 
+            "dur": "0.77", 
+            "start": "185.63"
+        }, 
+        {
+            "text": "So rather than not working, like\nI said earlier, it&#39;s the", 
+            "dur": "2.77", 
+            "start": "186.4"
+        }, 
+        {
+            "text": "unusual example.", 
+            "dur": "1.85", 
+            "start": "189.17"
+        }, 
+        {
+            "text": "These don&#39;t happen so often.", 
+            "dur": "2.19", 
+            "start": "191.02"
+        }, 
+        {
+            "text": "So the technical way to\nsay this is this.", 
+            "dur": "3.88", 
+            "start": "193.21"
+        }, 
+        {
+            "text": "Times those primes together.", 
+            "dur": "2.69", 
+            "start": "197.09"
+        }, 
+        {
+            "text": "So I&#39;m going to do that.", 
+            "dur": "0.68", 
+            "start": "199.78"
+        }, 
+        {
+            "text": "So 2 times 3 times 5 times\n13 times 17, and", 
+            "dur": "5.04", 
+            "start": "200.46"
+        }, 
+        {
+            "text": "that equals to 13,260.", 
+            "dur": "4.42", 
+            "start": "205.5"
+        }, 
+        {
+            "text": "It&#39;s a big number, and it&#39;s\nbigger than the right hand", 
+            "dur": "3.63", 
+            "start": "209.92"
+        }, 
+        {
+            "text": "side, which was this.", 
+            "dur": "2.27", 
+            "start": "213.55"
+        }, 
+        {
+            "text": "That&#39;s what normally happens.", 
+            "dur": "1.6", 
+            "start": "215.82"
+        }, 
+        {
+            "text": "OK, so if you do this, you\nget a bigger number.", 
+            "dur": "4.26", 
+            "start": "217.42"
+        }, 
+        {
+            "text": "I&#39;m going to show you this one\nthat I said was unusual.", 
+            "dur": "2.33", 
+            "start": "221.68"
+        }, 
+        {
+            "text": "If we do the same thing--", 
+            "dur": "2.24", 
+            "start": "224.01"
+        }, 
+        {
+            "text": "3 times 5 times 2, that&#39;s\nequal to 30, and that&#39;s", 
+            "dur": "5.88", 
+            "start": "226.25"
+        }, 
+        {
+            "text": "smaller than 128.", 
+            "dur": "3.04", 
+            "start": "232.13"
+        }, 
+        {
+            "text": "So that&#39;s the difference.", 
+            "dur": "1.68", 
+            "start": "235.17"
+        }, 
+        {
+            "text": "So this is unusual.", 
+            "dur": "1.25", 
+            "start": "236.85"
+        }, 
+        {
+            "text": "This is much smaller than\nthe right hand side.", 
+            "dur": "2.64", 
+            "start": "238.1"
+        }, 
+        {
+            "text": "This number, when you multiply\nthe primes together, is called", 
+            "dur": "3.4", 
+            "start": "240.74"
+        }, 
+        {
+            "text": "the radical of ABC.", 
+            "dur": "2.04", 
+            "start": "244.14"
+        }, 
+        {
+            "text": "It&#39;s called the radical because\nit is [INAUDIBLE].", 
+            "dur": "1.89", 
+            "start": "246.18"
+        }, 
+        {
+            "text": "The abc Conjecture\nis the radical--", 
+            "dur": "4.48", 
+            "start": "248.07"
+        }, 
+        {
+            "text": "which I told you how to work\nout, that&#39;s this--", 
+            "dur": "2.47", 
+            "start": "252.55"
+        }, 
+        {
+            "text": "the radical of abc is bigger\nthan the right hand side.", 
+            "dur": "5.55", 
+            "start": "255.02"
+        }, 
+        {
+            "text": "I said that was c.", 
+            "dur": "1.199", 
+            "start": "260.57"
+        }, 
+        {
+            "text": "That&#39;s what you get normally.", 
+            "dur": "1.591", 
+            "start": "261.769"
+        }, 
+        {
+            "text": "In fact, the conjecture\nis more than that.", 
+            "dur": "2.75", 
+            "start": "263.36"
+        }, 
+        {
+            "text": "It talks about the powers\nof that, too.", 
+            "dur": "2.83", 
+            "start": "266.11"
+        }, 
+        {
+            "text": "But there are exceptions, and\nthese are the exceptions.", 
+            "dur": "4.2", 
+            "start": "268.94"
+        }, 
+        {
+            "text": "When k equals 1-- that&#39;s\nthe power is 1--", 
+            "dur": "2.68", 
+            "start": "273.14"
+        }, 
+        {
+            "text": "there are infinitely many\nexceptions just like the one", 
+            "dur": "7.5", 
+            "start": "275.82"
+        }, 
+        {
+            "text": "I&#39;ve just shown you there.", 
+            "dur": "1.43", 
+            "start": "283.32"
+        }, 
+        {
+            "text": "Infinitely many, even though I\nsaid these were the rare ones,", 
+            "dur": "3.4", 
+            "start": "284.75"
+        }, 
+        {
+            "text": "the unusual ones, there are\ninfinitely many of them.", 
+            "dur": "3.16", 
+            "start": "288.15"
+        }, 
+        {
+            "text": "But if you take a power bigger\nthan 1, even if it&#39;s only a", 
+            "dur": "4.99", 
+            "start": "291.31"
+        }, 
+        {
+            "text": "little bit bigger, even if it&#39;s\nlike a power of 1.00001--", 
+            "dur": "8.05", 
+            "start": "296.3"
+        }, 
+        {
+            "text": "tiny, tiny little bit bigger--", 
+            "dur": "2.46", 
+            "start": "304.35"
+        }, 
+        {
+            "text": "if it&#39;s bigger than 1, then\nyou get finitely many", 
+            "dur": "7.305", 
+            "start": "306.81"
+        }, 
+        {
+            "text": "exceptions.", 
+            "dur": "2.975", 
+            "start": "314.115"
+        }, 
+        {
+            "text": "And this is a little bit\nsurprising, because, yes, if", 
+            "dur": "4.14", 
+            "start": "317.09"
+        }, 
+        {
+            "text": "it&#39;s just a little bit bigger\nthan 1, you get finitely many", 
+            "dur": "3", 
+            "start": "321.23"
+        }, 
+        {
+            "text": "exceptions.", 
+            "dur": "0.71", 
+            "start": "324.23"
+        }, 
+        {
+            "text": "You could count them off.", 
+            "dur": "1.53", 
+            "start": "324.94"
+        }, 
+        {
+            "text": "You could write them down.", 
+            "dur": "1.46", 
+            "start": "326.47"
+        }, 
+        {
+            "text": "You could say, here are all the\nexceptions for this power.", 
+            "dur": "3.69", 
+            "start": "327.93"
+        }, 
+        {
+            "text": "And that&#39;s unusual.", 
+            "dur": "2.1", 
+            "start": "331.62"
+        }, 
+        {
+            "text": "That&#39;s unexpected.", 
+            "dur": "1.4", 
+            "start": "333.72"
+        }, 
+        {
+            "text": "Now, this is the conjecture.", 
+            "dur": "2.1", 
+            "start": "335.12"
+        }, 
+        {
+            "text": "It&#39;s very abstract.", 
+            "dur": "1.55", 
+            "start": "337.22"
+        }, 
+        {
+            "text": "It&#39;s very pure.", 
+            "dur": "1.43", 
+            "start": "338.77"
+        }, 
+        {
+            "text": "This was made in the &#39;80s,\nthis conjecture.", 
+            "dur": "3.61", 
+            "start": "340.2"
+        }, 
+        {
+            "text": "But if this can be proven, what\nit&#39;s going to do is it&#39;s", 
+            "dur": "4.71", 
+            "start": "343.81"
+        }, 
+        {
+            "text": "going to prove a whole bunch\nof other stuff at a stroke.", 
+            "dur": "3.98", 
+            "start": "348.52"
+        }, 
+        {
+            "text": "And that&#39;s why it&#39;s big news.", 
+            "dur": "1.56", 
+            "start": "352.5"
+        }, 
+        {
+            "text": "Originally, they thought that\nFermat&#39;s last theorem, which I", 
+            "dur": "3.87", 
+            "start": "354.06"
+        }, 
+        {
+            "text": "talked about being solved in\nthe &#39;90s, they thought this", 
+            "dur": "3.86", 
+            "start": "357.93"
+        }, 
+        {
+            "text": "was the way to solve it.", 
+            "dur": "2.44", 
+            "start": "361.79"
+        }, 
+        {
+            "text": "Because there is a way that, if\nyou can solve this, you can", 
+            "dur": "3.79", 
+            "start": "364.23"
+        }, 
+        {
+            "text": "solve a version of Fermat&#39;s\nlast theorem.", 
+            "dur": "2.75", 
+            "start": "368.02"
+        }, 
+        {
+            "text": "It didn&#39;t turn out that way,\nbecause Fermat&#39;s last theorem", 
+            "dur": "2.76", 
+            "start": "370.77"
+        }, 
+        {
+            "text": "was solved first.", 
+            "dur": "1.7", 
+            "start": "373.53"
+        }, 
+        {
+            "text": "I heard of it, I think, before\nit went around the nerdy", 
+            "dur": "3.82", 
+            "start": "375.23"
+        }, 
+        {
+            "text": "blogs, and I thought, well,\nwe could talk about it on", 
+            "dur": "2.97", 
+            "start": "379.05"
+        }, 
+        {
+            "text": "Numberphile.", 
+            "dur": "0.47", 
+            "start": "382.02"
+        }, 
+        {
+            "text": "But then, it&#39;s still not been\nchecked, so maybe we shouldn&#39;t", 
+            "dur": "4.06", 
+            "start": "382.49"
+        }, 
+        {
+            "text": "talk about it on Numberphile.", 
+            "dur": "1.59", 
+            "start": "386.55"
+        }, 
+        {
+            "text": "But then when all the blocks\nstarted going mad about it, I", 
+            "dur": "3.43", 
+            "start": "388.14"
+        }, 
+        {
+            "text": "thought someone might ask us.", 
+            "dur": "2.37", 
+            "start": "391.57"
+        }, 
+        {
+            "text": "I mean, that&#39;s how you probe\nextra dimensions.", 
+            "dur": "2.85", 
+            "start": "398.45"
+        }, 
+        {
+            "text": "That&#39;s how you probe\nthe very small.", 
+            "dur": "1.89", 
+            "start": "401.3"
+        }
+    ], 
+    "title": "abc Conjecture - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/01v2b", 
+        "/m/04rjg", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 443817, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

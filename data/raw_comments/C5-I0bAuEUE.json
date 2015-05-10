@@ -1,0 +1,247 @@
+{
+    "publish_date": "2014-12-08T16:53:06.000Z", 
+    "video_length": "PT3M59S", 
+    "captions": [
+        {
+            "text": "Ok, so you remember the setup: 100 people\nhave had marked dollar bills put randomly", 
+            "dur": "4.31", 
+            "start": "1.38"
+        }, 
+        {
+            "text": "into 100 boxes, and every person, one at a\ntime, gets to look in fifty of the boxes,", 
+            "dur": "4.6", 
+            "start": "5.69"
+        }, 
+        {
+            "text": "and you all collectively win only if every\nsingle person finds their own bill. $100 dollar", 
+            "dur": "4.389", 
+            "start": "10.29"
+        }, 
+        {
+            "text": "payout to each of you if you win, nothing\nif you lose. In the last video I asked whether", 
+            "dur": "4.44", 
+            "start": "14.679"
+        }, 
+        {
+            "text": "or not you should take the bet.", 
+            "dur": "1.56", 
+            "start": "19.119"
+        }, 
+        {
+            "text": "Did you make the right choice?", 
+            "dur": "1.041", 
+            "start": "20.679"
+        }, 
+        {
+            "text": "I mean, clearly, if all 100 of you gamblers\njust choose 50 boxes at random when you go", 
+            "dur": "4.279", 
+            "start": "21.72"
+        }, 
+        {
+            "text": "into the room, the likelihood of each of you\nfinding your bill is one half, so the probability", 
+            "dur": "4.28", 
+            "start": "25.999"
+        }, 
+        {
+            "text": "of ALL of you finding your bills and winning\nthe whole game is one half times one half", 
+            "dur": "3.871", 
+            "start": "30.279"
+        }, 
+        {
+            "text": "times one half\u2026 a hundred times. And one\nhalf to the power of 100 is about 0.0000000000000000000000000000008.", 
+            "dur": "7", 
+            "start": "34.15"
+        }, 
+        {
+            "text": "Basically zero. You&#39;re more likely to roll\n9 one-roll yahtzees in a row - and then pick", 
+            "dur": "4.8", 
+            "start": "46.87"
+        }, 
+        {
+            "text": "the king of hearts at random out of a deck\nof cards.", 
+            "dur": "2.48", 
+            "start": "51.67"
+        }, 
+        {
+            "text": "You could do a little better by trying to\ncorrelate which boxes you pick - like, if", 
+            "dur": "3.47", 
+            "start": "54.15"
+        }, 
+        {
+            "text": "there were only two people and two boxes,\nthey should each pick different boxes, because", 
+            "dur": "3.69", 
+            "start": "57.62"
+        }, 
+        {
+            "text": "if they pick the same box only one of them\ncan possibly find their own bill, and they&#39;ll", 
+            "dur": "3.58", 
+            "start": "61.31"
+        }, 
+        {
+            "text": "automatically lose. But this kind of strategy\nonly improves your odds a tiny little bit,", 
+            "dur": "5.46", 
+            "start": "64.89"
+        }, 
+        {
+            "text": "and it has less benefit the more people there\nare.", 
+            "dur": "2.79", 
+            "start": "70.35"
+        }, 
+        {
+            "text": "However, despite all this, it turns out that\nthere&#39;s a strategy that results in you gamblers", 
+            "dur": "5.42", 
+            "start": "73.14"
+        }, 
+        {
+            "text": "winning over 30% of the time! This strategy\nis SO GOOD that you&#39;re more likely to win", 
+            "dur": "5.29", 
+            "start": "78.56"
+        }, 
+        {
+            "text": "using it than if just TWO people out of a\nhundred picked randomly, since one half times", 
+            "dur": "4.269", 
+            "start": "83.85"
+        }, 
+        {
+            "text": "one half is twenty-five percent.", 
+            "dur": "1.81", 
+            "start": "88.119"
+        }, 
+        {
+            "text": "What we\u2019ve forgotten is that you can obtain\ninformation FROM the boxes themselves, because", 
+            "dur": "6.96", 
+            "start": "89.929"
+        }, 
+        {
+            "text": "the room is exactly the same each time. The\nfirst box will always have the same-numbered", 
+            "dur": "4.32", 
+            "start": "96.889"
+        }, 
+        {
+            "text": "dollar in it, and so will the second box,\nthe third, the fifty-seventh, etc.", 
+            "dur": "4.12", 
+            "start": "101.209"
+        }, 
+        {
+            "text": "All you have to do is use the dollar in one\nbox to tell you which box to go to next. This", 
+            "dur": "4.2", 
+            "start": "105.329"
+        }, 
+        {
+            "text": "might not seem like a great advantage, but\nit&#39;s HUGE.", 
+            "dur": "3.16", 
+            "start": "109.529"
+        }, 
+        {
+            "text": "The trick is to start with the box that corresponds\nto your number. Your dollar probably isn&#39;t", 
+            "dur": "4.52", 
+            "start": "112.689"
+        }, 
+        {
+            "text": "IN that box, but the bills inside will take\nyou on a random path through the boxes, a", 
+            "dur": "3.97", 
+            "start": "117.209"
+        }, 
+        {
+            "text": "scavenger hunt where each box tells you where\nto go next.", 
+            "dur": "3.17", 
+            "start": "121.179"
+        }, 
+        {
+            "text": "You can think of this as linking up boxes\nin chains, connecting them based on the bills", 
+            "dur": "4.33", 
+            "start": "124.349"
+        }, 
+        {
+            "text": "inside.", 
+            "dur": "1.201", 
+            "start": "128.679"
+        }, 
+        {
+            "text": "Any random arrangement of the boxes results\nin a different set of chains, some long, some", 
+            "dur": "5.6", 
+            "start": "129.88"
+        }, 
+        {
+            "text": "small. Short chains are ones like &quot;box 30\nsays go to box 82, box 82 says go to box 5,", 
+            "dur": "6.25", 
+            "start": "135.48"
+        }, 
+        {
+            "text": "5 says go to 30.&quot; That&#39;s a chain of link 3.\nLong chains link up more boxes before circling", 
+            "dur": "5.25", 
+            "start": "141.73"
+        }, 
+        {
+            "text": "back - and the LONGEST possible chain links\nup all 100 boxes. But each chain ALWAYS circles", 
+            "dur": "7", 
+            "start": "146.98"
+        }, 
+        {
+            "text": "back, since there are finite boxes.", 
+            "dur": "1.85", 
+            "start": "156.79"
+        }, 
+        {
+            "text": "And of course, if you end up back where you\nstarted within 50 boxes, you&#39;ve won, because", 
+            "dur": "4.42", 
+            "start": "158.64"
+        }, 
+        {
+            "text": "that means the previous box had a dollar bill\nthat told you to go your starting point, and", 
+            "dur": "3.81", 
+            "start": "163.06"
+        }, 
+        {
+            "text": "you started on your number, so the previous\nbox&#39;s dollar bill was YOURS!", 
+            "dur": "3.88", 
+            "start": "166.87"
+        }, 
+        {
+            "text": "And that&#39;s why this strategy is so good - because\nwhen the boxes are randomly arranged, about", 
+            "dur": "4.47", 
+            "start": "170.75"
+        }, 
+        {
+            "text": "30% of the time there will be NO chains connecting\nmore than 50 boxes, so not only will you win,", 
+            "dur": "5.51", 
+            "start": "175.22"
+        }, 
+        {
+            "text": "but so will everyone else - as long as they\u2019re\nfollowing the same strategy!", 
+            "dur": "7", 
+            "start": "180.73"
+        }, 
+        {
+            "text": "The magic of this solution isn&#39;t that it&#39;s\nbetter odds for any single individual to find", 
+            "dur": "4.05", 
+            "start": "197.32"
+        }, 
+        {
+            "text": "their dollar (it isn&#39;t) - it&#39;s that all of\nthe successes and failures are forced to happen", 
+            "dur": "4.42", 
+            "start": "201.37"
+        }, 
+        {
+            "text": "together - everyone wins together, everyone\nloses together - your fates are linked by", 
+            "dur": "4.72", 
+            "start": "205.79"
+        }, 
+        {
+            "text": "using the numbers inside the boxes to guide\nyou along invisible chains\u2026 towards victory.", 
+            "dur": "7", 
+            "start": "210.51"
+        }
+    ], 
+    "title": "Solution to The Impossible Bet", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m08c9y", 
+        "/m/05qjt"
+    ], 
+    "number_views": 1116094, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}
