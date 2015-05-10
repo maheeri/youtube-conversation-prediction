@@ -1,0 +1,968 @@
+{
+    "publish_date": "2014-07-31T23:28:42.000Z", 
+    "video_length": "PT10M37S", 
+    "captions": [
+        {
+            "text": "Hi, I&#39;m John Green, this is Crash Course World History,", 
+            "dur": "2.9", 
+            "start": "0"
+        }, 
+        {
+            "text": "and today we&#39;re going to respond to your many requests and talk about a controversial subject:", 
+            "dur": "4.26", 
+            "start": "2.9"
+        }, 
+        {
+            "text": "War.", 
+            "dur": "1.2", 
+            "start": "7.16"
+        }, 
+        {
+            "text": "So here at Crash Course we&#39;re really not that into the history of war,", 
+            "dur": "2.8", 
+            "start": "8.36"
+        }, 
+        {
+            "text": "partly because we feel it&#39;s been discussed well elsewhere", 
+            "dur": "2.7", 
+            "start": "11.16"
+        }, 
+        {
+            "text": "and partly because we haven&#39;t really figured out a way to tackle it.", 
+            "dur": "2.48", 
+            "start": "13.86"
+        }, 
+        {
+            "text": "Mr. Green! Mr. Green! Nonononono, that&#39;s all history is:", 
+            "dur": "2.84", 
+            "start": "16.34"
+        }, 
+        {
+            "text": "It&#39;s a series of wars.", 
+            "dur": "1.3", 
+            "start": "19.18"
+        }, 
+        {
+            "text": "Well, me-from-the-past, I can certainly see why you would think that,", 
+            "dur": "2.88", 
+            "start": "20.48"
+        }, 
+        {
+            "text": "because that&#39;s how many history classes are organized.", 
+            "dur": "2.22", 
+            "start": "23.36"
+        }, 
+        {
+            "text": "But, in fact, I don&#39;t think that history is primarily about war.", 
+            "dur": "3.56", 
+            "start": "25.58"
+        }, 
+        {
+            "text": "But, I mean, humans find all kinds of ways to die,", 
+            "dur": "2.34", 
+            "start": "29.14"
+        }, 
+        {
+            "text": "like, you could teach a whole Crash Course World History on smallpox.", 
+            "dur": "2.86", 
+            "start": "31.48"
+        }, 
+        {
+            "text": "In fact, we kind of did that last week.", 
+            "dur": "1.54", 
+            "start": "34.34"
+        }, 
+        {
+            "text": "Ultimately, I find cooperation and trade more interesting", 
+            "dur": "3.42", 
+            "start": "35.88"
+        }, 
+        {
+            "text": "than the violent and destructive aspects of world history", 
+            "dur": "2.42", 
+            "start": "39.3"
+        }, 
+        {
+            "text": "because I think they probably, ultimately, matter more.", 
+            "dur": "2.66", 
+            "start": "41.72"
+        }, 
+        {
+            "text": "But I do have to admit that war is a pretty big deal in world history.", 
+            "dur": "4.6", 
+            "start": "44.38"
+        }, 
+        {
+            "text": "So we better spend some time talking about it, at least in the abstract.", 
+            "dur": "3.68", 
+            "start": "48.98"
+        }, 
+        {
+            "text": "[Intro]", 
+            "dur": "6.98", 
+            "start": "52.66"
+        }, 
+        {
+            "text": " So today we&#39;re gonna focus on the question of why people fight.", 
+            "dur": "3.58", 
+            "start": "60.86"
+        }, 
+        {
+            "text": "And, more specifically, why human beings go to war.", 
+            "dur": "2.72", 
+            "start": "64.44"
+        }, 
+        {
+            "text": "Like, to put it in another way, we&#39;re going to look at", 
+            "dur": "1.9", 
+            "start": "67.16"
+        }, 
+        {
+            "text": "whether making war is part of &quot;human nature&quot;.", 
+            "dur": "3.44", 
+            "start": "69.06"
+        }, 
+        {
+            "text": "This gets into some nit-picky &quot;How many angels can you fit on the head of a pin?&quot; questions about nature,", 
+            "dur": "4.32", 
+            "start": "72.5"
+        }, 
+        {
+            "text": "but we&#39;re just gonna put those aside for now.", 
+            "dur": "1.68", 
+            "start": "76.82"
+        }, 
+        {
+            "text": "So are human being hard-wired to fight and kill each other?", 
+            "dur": "3.28", 
+            "start": "78.5"
+        }, 
+        {
+            "text": "Well that&#39;s a question that philosophers have been asking for a long time.", 
+            "dur": "3.52", 
+            "start": "81.78"
+        }, 
+        {
+            "text": "Like, Nietzsche summed it up this way:", 
+            "dur": "1.94", 
+            "start": "85.3"
+        }, 
+        {
+            "text": "&quot;I am by nature war-like. To attack is among my instincts.&quot;", 
+            "dur": "4.54", 
+            "start": "87.24"
+        }, 
+        {
+            "text": "But he was Nietzsche.  He had a number of instincts that I&#39;m pretty sure were not universal.", 
+            "dur": "3.78", 
+            "start": "91.78"
+        }, 
+        {
+            "text": "Anyway, that attitude might explain why Nietzsche is", 
+            "dur": "2.12", 
+            "start": "95.56"
+        }, 
+        {
+            "text": "so popular among the group most likely to go to war: Young men.", 
+            "dur": "3.7", 
+            "start": "97.68"
+        }, 
+        {
+            "text": "Now among slightly less scary philosophers,", 
+            "dur": "2.26", 
+            "start": "101.38"
+        }, 
+        {
+            "text": "the question of humans&#39; war-like nature is often described as", 
+            "dur": "3.08", 
+            "start": "103.64"
+        }, 
+        {
+            "text": "a debate between Hobbes, who saw humans as war-like and violent,", 
+            "dur": "3.9", 
+            "start": "106.72"
+        }, 
+        {
+            "text": "and Rousseau, who thought that humanity was naturally peaceful until civilization came along.", 
+            "dur": "4.78", 
+            "start": "110.62"
+        }, 
+        {
+            "text": "And we&#39;ve heard echoes of this debate throughout our study of world history.", 
+            "dur": "2.52", 
+            "start": "115.4"
+        }, 
+        {
+            "text": "Like, were we better off as foragers, when we had way more time for scoodlypooping?", 
+            "dur": "4", 
+            "start": "117.92"
+        }, 
+        {
+            "text": "Stupid civilization, always ruining everything. Let&#39;s go to the thought bubble.", 
+            "dur": "3.5", 
+            "start": "121.92"
+        }, 
+        {
+            "text": "So was Hobbes right that life in the so-called &quot;state of nature&quot; was nasty, brutish and short,", 
+            "dur": "4.22", 
+            "start": "125.42"
+        }, 
+        {
+            "text": "or was Rousseau right that it was amazing?", 
+            "dur": "2.6", 
+            "start": "129.64"
+        }, 
+        {
+            "text": "Well, without a time machine which would settle a lot of vexing historical questions", 
+            "dur": "3.28", 
+            "start": "132.24"
+        }, 
+        {
+            "text": "and would also allow me to go back and fix my terrible, terrible mistakes at the eighth grade cotillion,", 
+            "dur": "4.18", 
+            "start": "135.52"
+        }, 
+        {
+            "text": "our best guide to what people were like in the &quot;state of nature&quot; comes from anthropology.", 
+            "dur": "4.34", 
+            "start": "139.7"
+        }, 
+        {
+            "text": "Making guesses about the very distant past based on observations of modern hunter-gatherers", 
+            "dur": "4.82", 
+            "start": "144.04"
+        }, 
+        {
+            "text": "is extremely problematic, but it&#39;s the best we have to go on.", 
+            "dur": "3.22", 
+            "start": "148.86"
+        }, 
+        {
+            "text": "Well, that and archaeology.", 
+            "dur": "1.36", 
+            "start": "152.08"
+        }, 
+        {
+            "text": "So, what do anthropologists tell us?", 
+            "dur": "1.34", 
+            "start": "153.44"
+        }, 
+        {
+            "text": "Well, it doesn&#39;t look so good for Rousseau.", 
+            "dur": "2", 
+            "start": "154.78"
+        }, 
+        {
+            "text": "Many anthropologists suggest that in pre-civilization social orders, things were pretty violent.", 
+            "dur": "5.36", 
+            "start": "156.78"
+        }, 
+        {
+            "text": "In Australia, for example, killing and fighting was among the main causes of mortality,", 
+            "dur": "4.4", 
+            "start": "162.14"
+        }, 
+        {
+            "text": "and archaeology has revealed evidence of warfare going back thousands of years.", 
+            "dur": "4.62", 
+            "start": "166.54"
+        }, 
+        {
+            "text": "Now, some of these anthropological conclusions are controversial,", 
+            "dur": "2.46", 
+            "start": "171.16"
+        }, 
+        {
+            "text": "but when combined with cave paintings and fossils of humans", 
+            "dur": "2.9", 
+            "start": "173.62"
+        }, 
+        {
+            "text": "who pretty obviously were killed by other humans,", 
+            "dur": "2.54", 
+            "start": "176.52"
+        }, 
+        {
+            "text": "it seems clear that we&#39;ve been killing each other for what historians like to call &quot;a long-ass-time&quot;.", 
+            "dur": "5.32", 
+            "start": "179.06"
+        }, 
+        {
+            "text": "So Hobbes seems to be right that life in the &quot;state of nature&quot; was probably violent and brief.", 
+            "dur": "4.24", 
+            "start": "184.38"
+        }, 
+        {
+            "text": "But was it war?", 
+            "dur": "1.42", 
+            "start": "188.62"
+        }, 
+        {
+            "text": "Again, anthropologists can give us some guidance here.", 
+            "dur": "2.58", 
+            "start": "190.04"
+        }, 
+        {
+            "text": "Some studies have reported relatively large-scale group confrontations similar to battles,", 
+            "dur": "4.3", 
+            "start": "192.62"
+        }, 
+        {
+            "text": "but these tend to be largely symbolic, and they often don&#39;t result in much killing.", 
+            "dur": "4.04", 
+            "start": "196.92"
+        }, 
+        {
+            "text": "Most of the actual violence that hunter-gatherers commit against each other takes place during raids,", 
+            "dur": "5.1", 
+            "start": "200.96"
+        }, 
+        {
+            "text": "in which one group sneaks up upon another and attacks.", 
+            "dur": "2.9", 
+            "start": "206.06"
+        }, 
+        {
+            "text": "So in the end there may be like a very violent middle path", 
+            "dur": "2.9", 
+            "start": "208.96"
+        }, 
+        {
+            "text": "between the individual killings and like, Cain v. Abel,", 
+            "dur": "3.22", 
+            "start": "211.86"
+        }, 
+        {
+            "text": "and the modern wars that we see today.", 
+            "dur": "2", 
+            "start": "215.08"
+        }, 
+        {
+            "text": "But why are we seemingly so hard-wired toward violence?", 
+            "dur": "2.44", 
+            "start": "217.08"
+        }, 
+        {
+            "text": "Well, it might be evolution.", 
+            "dur": "1.66", 
+            "start": "219.52"
+        }, 
+        {
+            "text": "Thanks, thought bubble.", 
+            "dur": "0.64", 
+            "start": "221.18"
+        }, 
+        {
+            "text": "So, I wanna be really clear about something.", 
+            "dur": "2.14", 
+            "start": "221.82"
+        }, 
+        {
+            "text": "We may have aggression &quot;in our genes&quot;, but you can&#39;t kill people!", 
+            "dur": "3.66", 
+            "start": "223.96"
+        }, 
+        {
+            "text": "And also, you don&#39;t have to.", 
+            "dur": "2", 
+            "start": "227.62"
+        }, 
+        {
+            "text": "Many of us - most of us, in fact - make it all the way through life without killing a single person.", 
+            "dur": "5.4", 
+            "start": "229.62"
+        }, 
+        {
+            "text": "So I think it&#39;s going too far to say that our genes have, like, made us into stone-cold killers,", 
+            "dur": "5.06", 
+            "start": "235.02"
+        }, 
+        {
+            "text": "but it is possible that aggression is an innate trait in humans.", 
+            "dur": "4.1", 
+            "start": "240.08"
+        }, 
+        {
+            "text": "And under the right conditions, maybe it finds its expression in violence and war.", 
+            "dur": "4.28", 
+            "start": "244.18"
+        }, 
+        {
+            "text": "Now, we should all be very skeptical about", 
+            "dur": "2.26", 
+            "start": "248.46"
+        }, 
+        {
+            "text": "applying evolutionary biology to cultural characteristics like warlike behavior,", 
+            "dur": "3.62", 
+            "start": "250.72"
+        }, 
+        {
+            "text": "because Darwin&#39;s ideas have been misused to explain all sorts of unpleasant things.", 
+            "dur": "4.6", 
+            "start": "254.34"
+        }, 
+        {
+            "text": "Especially in nineteenth-century concepts about race.", 
+            "dur": "3.02", 
+            "start": "258.94"
+        }, 
+        {
+            "text": "You know, if you&#39;re in a structurally privileged position in the social order, it&#39;s easy enough to be like, ", 
+            "dur": "4.36", 
+            "start": "261.96"
+        }, 
+        {
+            "text": "&quot;Huh, I wonder how I got here.", 
+            "dur": "1.86", 
+            "start": "266.32"
+        }, 
+        {
+            "text": "Probably natural selection.&quot;", 
+            "dur": "1.46", 
+            "start": "268.18"
+        }, 
+        {
+            "text": "When in fact, you know, slavery was not a function of biology;", 
+            "dur": "3.38", 
+            "start": "269.64"
+        }, 
+        {
+            "text": "it was a function of oppression.", 
+            "dur": "1.52", 
+            "start": "273.02"
+        }, 
+        {
+            "text": "And another reason we should be aware", 
+            "dur": "1.26", 
+            "start": "274.54"
+        }, 
+        {
+            "text": "is that we often refer to cultures &quot;evolving&quot; very quickly", 
+            "dur": "3.48", 
+            "start": "275.8"
+        }, 
+        {
+            "text": "like often in a generation,", 
+            "dur": "1.82", 
+            "start": "279.28"
+        }, 
+        {
+            "text": "but biological evolution takes a lot longer.", 
+            "dur": "3.16", 
+            "start": "281.1"
+        }, 
+        {
+            "text": "That said, there are a few ways that evolutionary imperatives could contribute to a warlike human nature.", 
+            "dur": "5.24", 
+            "start": "284.26"
+        }, 
+        {
+            "text": "We&#39;ll start with the idea that it is a biological imperative to pass on genetic traits to successive generations.", 
+            "dur": "6.6", 
+            "start": "289.5"
+        }, 
+        {
+            "text": "Because our close relatives and kin contain the most genetic material in common,", 
+            "dur": "4.3", 
+            "start": "296.1"
+        }, 
+        {
+            "text": "we naturally want to protect them and ensure the continued survival of our genes.", 
+            "dur": "4.52", 
+            "start": "300.4"
+        }, 
+        {
+            "text": "So we might be expected to fight in order to protect members of our kin group.", 
+            "dur": "4.42", 
+            "start": "304.92"
+        }, 
+        {
+            "text": "But then again, trying to protect your family from harm is somewhat different from killing other people&#39;s families.", 
+            "dur": "5.48", 
+            "start": "309.34"
+        }, 
+        {
+            "text": "Well, here&#39;s where it&#39;s helpful to remember that for the vast majority of human history,", 
+            "dur": "4.12", 
+            "start": "314.82"
+        }, 
+        {
+            "text": "war consisted of raiding.", 
+            "dur": "2", 
+            "start": "318.94"
+        }, 
+        {
+            "text": "It was about taking stuff from other people&#39;s kin group so that your kin group could have that stuff.", 
+            "dur": "5.38", 
+            "start": "320.94"
+        }, 
+        {
+            "text": "For 99% of human history, that&#39;s how we fought.", 
+            "dur": "3.82", 
+            "start": "326.32"
+        }, 
+        {
+            "text": "Not as organized states warring with each other.", 
+            "dur": "2.78", 
+            "start": "330.14"
+        }, 
+        {
+            "text": "So let&#39;s stop even thinking about, like, groups of humans or even individual humans", 
+            "dur": "3.86", 
+            "start": "332.92"
+        }, 
+        {
+            "text": "and think for a second about genes.", 
+            "dur": "2.16", 
+            "start": "336.78"
+        }, 
+        {
+            "text": "Insofar as genes want anything, they want to go on.", 
+            "dur": "3.38", 
+            "start": "338.94"
+        }, 
+        {
+            "text": "Life wishes to continue.", 
+            "dur": "1.72", 
+            "start": "342.32"
+        }, 
+        {
+            "text": "And for those human genes to go on, they needed humans to go on,", 
+            "dur": "3.14", 
+            "start": "344.04"
+        }, 
+        {
+            "text": "and for that, we need two resources:", 
+            "dur": "2.36", 
+            "start": "347.18"
+        }, 
+        {
+            "text": "Food and sex.", 
+            "dur": "1.44", 
+            "start": "349.54"
+        }, 
+        {
+            "text": "Both of which could be quite scarce", 
+            "dur": "1.82", 
+            "start": "350.98"
+        }, 
+        {
+            "text": "in the many millennia before we settled down into agricultural-based societies.", 
+            "dur": "3.74", 
+            "start": "352.8"
+        }, 
+        {
+            "text": "It occurs to me they are also quite scarce in most American high schools", 
+            "dur": "3.36", 
+            "start": "356.54"
+        }, 
+        {
+            "text": "unless you consider cheetos food.", 
+            "dur": "1.74", 
+            "start": "359.9"
+        }, 
+        {
+            "text": "So you can easily see how the competition for these two resources could become violent.", 
+            "dur": "4.16", 
+            "start": "361.64"
+        }, 
+        {
+            "text": "It might provide an evolutionary explanation for war.", 
+            "dur": "2.42", 
+            "start": "365.8"
+        }, 
+        {
+            "text": "Like, skill in fighting meant more access to food in the form of better hunting grounds.", 
+            "dur": "4.36", 
+            "start": "368.22"
+        }, 
+        {
+            "text": "It also meant more food, because you were better at fighting the food, too.", 
+            "dur": "3.78", 
+            "start": "372.58"
+        }, 
+        {
+            "text": "And there&#39;s a more horrifying aspect to this as well,", 
+            "dur": "2.42", 
+            "start": "376.36"
+        }, 
+        {
+            "text": "which is that in many of these raids, women were the principal goal.", 
+            "dur": "3.58", 
+            "start": "378.78"
+        }, 
+        {
+            "text": "They were to be acquired.", 
+            "dur": "1.82", 
+            "start": "382.36"
+        }, 
+        {
+            "text": "Also, as we know from the Odyssey, fighting has a tendency to breed more fighting.", 
+            "dur": "4.76", 
+            "start": "384.18"
+        }, 
+        {
+            "text": "Like, you kill my friend, it makes it more likely that I&#39;m going to kill you.", 
+            "dur": "4.22", 
+            "start": "388.94"
+        }, 
+        {
+            "text": "I&#39;m not going to kill you, but seriously, don&#39;t kill any of my friends.", 
+            "dur": "2.22", 
+            "start": "393.16"
+        }, 
+        {
+            "text": "We see a bit of this phenomenon in a description of", 
+            "dur": "1.92", 
+            "start": "395.38"
+        }, 
+        {
+            "text": "intertribal warfare among North American Plains Indians.", 
+            "dur": "2.92", 
+            "start": "397.3"
+        }, 
+        {
+            "text": "&quot;In an atmosphere charged with intertribal distrust,", 
+            "dur": "2.78", 
+            "start": "400.22"
+        }, 
+        {
+            "text": "even an imaged slight by an outsider could lead to retaliation against other members of his tribe...", 
+            "dur": "5.64", 
+            "start": "403"
+        }, 
+        {
+            "text": "It was much easier to start a war than to end one.&quot;", 
+            "dur": "3.5", 
+            "start": "408.64"
+        }, 
+        {
+            "text": "And as you may have noticed, that&#39;s still true today.", 
+            "dur": "2.46", 
+            "start": "412.14"
+        }, 
+        {
+            "text": "But okay, if war was a response to scarce resources, why do we have wars now?", 
+            "dur": "4.68", 
+            "start": "414.6"
+        }, 
+        {
+            "text": "Resources are relatively easy to acquire.", 
+            "dur": "2.48", 
+            "start": "419.28"
+        }, 
+        {
+            "text": "Well, that&#39;s a complicated question,", 
+            "dur": "1.4", 
+            "start": "421.76"
+        }, 
+        {
+            "text": "and we&#39;re going to talk next week about how war may actually have contributed to civilization", 
+            "dur": "4.16", 
+            "start": "423.16"
+        }, 
+        {
+            "text": "and proven socially useful by helping us create kingdoms and states.", 
+            "dur": "3.84", 
+            "start": "427.32"
+        }, 
+        {
+            "text": "But another way to examine the question of why we fight", 
+            "dur": "3.12", 
+            "start": "431.16"
+        }, 
+        {
+            "text": "is to examine what soldiers have said about why they fight.", 
+            "dur": "3.12", 
+            "start": "434.28"
+        }, 
+        {
+            "text": "So here&#39;s one such voice, although I wanna be clear that there are millions of them.", 
+            "dur": "3.78", 
+            "start": "437.4"
+        }, 
+        {
+            "text": "Karl Marlantes was a Marine lieutenant in Vietnam who wrote about his experience", 
+            "dur": "3.98", 
+            "start": "441.18"
+        }, 
+        {
+            "text": "in the novel &quot;Matterhorn&quot; and a memoir called &quot;What It Is Like to Go to War&quot;.", 
+            "dur": "3.46", 
+            "start": "445.16"
+        }, 
+        {
+            "text": "That book includes a number of uncomfortable revelations", 
+            "dur": "3.5", 
+            "start": "448.62"
+        }, 
+        {
+            "text": "about the way soldiers often think and feel about war.", 
+            "dur": "3.74", 
+            "start": "452.12"
+        }, 
+        {
+            "text": "For one thing, Marlantes tells us that soldiers achieve a sense of transcendence through fighting,", 
+            "dur": "4.56", 
+            "start": "455.86"
+        }, 
+        {
+            "text": "by becoming part of something bigger than themselves.", 
+            "dur": "2.44", 
+            "start": "460.42"
+        }, 
+        {
+            "text": "Also, he says:", 
+            "dur": "1.22", 
+            "start": "462.86"
+        }, 
+        {
+            "text": "&quot;There is a deep savage joy in destruction,", 
+            "dur": "2.94", 
+            "start": "464.08"
+        }, 
+        {
+            "text": "a joy that goes beyond ego enhancement.&quot;", 
+            "dur": "3.02", 
+            "start": "467.02"
+        }, 
+        {
+            "text": "Now, today&#39;s soldiers rarely fight for food or mates, but they do fight for each other.", 
+            "dur": "4.5", 
+            "start": "470.04"
+        }, 
+        {
+            "text": "And not wanting to let your comrades down, feeling loyal to the group,", 
+            "dur": "3.68", 
+            "start": "474.54"
+        }, 
+        {
+            "text": "those are powerful motivators.", 
+            "dur": "1.42", 
+            "start": "478.22"
+        }, 
+        {
+            "text": "More viscerally, fighting is exciting to humans.", 
+            "dur": "2.9", 
+            "start": "479.64"
+        }, 
+        {
+            "text": "It gets the adrenaline pumping.", 
+            "dur": "1.36", 
+            "start": "482.54"
+        }, 
+        {
+            "text": "According to Marlantes, &quot;Combat is the crack cocaine of all excitement highs.&quot;", 
+            "dur": "4.6", 
+            "start": "483.9"
+        }, 
+        {
+            "text": "Neither of those things sound at all fun to me, but I guess we&#39;re all wired differently.", 
+            "dur": "4.16", 
+            "start": "488.5"
+        }, 
+        {
+            "text": "So what do we do with the fact that for many of us, there is joy and power in killing?", 
+            "dur": "4.4", 
+            "start": "492.66"
+        }, 
+        {
+            "text": "How do we respond when a former pilot tells us, as he whispered to Marlantes,", 
+            "dur": "4.42", 
+            "start": "497.06"
+        }, 
+        {
+            "text": "that he enjoyed napalming the enemy, saying: &quot;I loved it. I lit up the entire valley.&quot;", 
+            "dur": "5.14", 
+            "start": "501.48"
+        }, 
+        {
+            "text": "How do we respond to Marlantes&#39;s revelation that during Vietnam, he", 
+            "dur": "3.7", 
+            "start": "506.62"
+        }, 
+        {
+            "text": "&quot;ran toward the fighting with the same excitement, trembling and thrill as a lover rushing to the beloved&quot;?", 
+            "dur": "6.06", 
+            "start": "510.32"
+        }, 
+        {
+            "text": "Well, I think Marlantes reminds us that despite our biology,", 
+            "dur": "3.28", 
+            "start": "516.38"
+        }, 
+        {
+            "text": "soldiers, just like the rest of us, have free will.", 
+            "dur": "3.22", 
+            "start": "519.66"
+        }, 
+        {
+            "text": "They make choices.", 
+            "dur": "1.42", 
+            "start": "522.88"
+        }, 
+        {
+            "text": "Marlantes also notes: &quot;Choosing sides is the fundamental first choice that a warrior makes...", 
+            "dur": "6.1", 
+            "start": "524.3"
+        }, 
+        {
+            "text": "The second fundamental choice of the warrior is to be willing to use violence to protect someone", 
+            "dur": "5.02", 
+            "start": "530.4"
+        }, 
+        {
+            "text": "against intended or implied violence.&quot;", 
+            "dur": "2.18", 
+            "start": "535.42"
+        }, 
+        {
+            "text": "Now, for many humans over millennia, that choice hasn&#39;t been much of a choice.", 
+            "dur": "3.62", 
+            "start": "537.6"
+        }, 
+        {
+            "text": "You fight for your kin group.", 
+            "dur": "1.44", 
+            "start": "541.22"
+        }, 
+        {
+            "text": "But in at least many parts of the world today, that choice is a choice.", 
+            "dur": "3.88", 
+            "start": "542.66"
+        }, 
+        {
+            "text": "Now, it may be that these uncomfortable revelations help to explain", 
+            "dur": "3.22", 
+            "start": "546.54"
+        }, 
+        {
+            "text": "why we might want to search for a biological or evolutionary explanation for why humans go to war.", 
+            "dur": "5.94", 
+            "start": "549.76"
+        }, 
+        {
+            "text": "Maybe that&#39;s preferable to the idea that humans just take pleasure in the activity of fighting", 
+            "dur": "5.4", 
+            "start": "555.7"
+        }, 
+        {
+            "text": "and pursue it merely for its own sake.", 
+            "dur": "2.16", 
+            "start": "561.1"
+        }, 
+        {
+            "text": "But just as there&#39;s a danger in celebrating warfare and its transcendence,", 
+            "dur": "3.96", 
+            "start": "563.26"
+        }, 
+        {
+            "text": "we need to be careful of explaining war merely as an outgrowth of evolutionary necessities", 
+            "dur": "4.72", 
+            "start": "567.22"
+        }, 
+        {
+            "text": "because such explanations can lead to a fatalistic conclusion that war is inevitable.", 
+            "dur": "4.66", 
+            "start": "571.94"
+        }, 
+        {
+            "text": "But it&#39;s not. The cycle of violence that you see in the Odyssey", 
+            "dur": "3.42", 
+            "start": "576.6"
+        }, 
+        {
+            "text": "gets broken all the time in human history.", 
+            "dur": "2.46", 
+            "start": "580.02"
+        }, 
+        {
+            "text": "And yes, it is much harder to end a war than it is to start one,", 
+            "dur": "3.28", 
+            "start": "582.48"
+        }, 
+        {
+            "text": "but it is not impossible.", 
+            "dur": "1.76", 
+            "start": "585.76"
+        }, 
+        {
+            "text": "When we get carried away by biological explanations,", 
+            "dur": "2.36", 
+            "start": "587.52"
+        }, 
+        {
+            "text": "we forget that while humans may not have evolved all that much in the past one thousand years,", 
+            "dur": "4.24", 
+            "start": "589.88"
+        }, 
+        {
+            "text": "our institutions have.", 
+            "dur": "1.48", 
+            "start": "594.12"
+        }, 
+        {
+            "text": "And that&#39;s happened because of human choices", 
+            "dur": "2.48", 
+            "start": "595.6"
+        }, 
+        {
+            "text": "that go far beyond the desire for food or the need to reproduce.", 
+            "dur": "4.5", 
+            "start": "598.08"
+        }, 
+        {
+            "text": "Thanks for watching. I&#39;ll see you next week.", 
+            "dur": "2.08", 
+            "start": "602.58"
+        }, 
+        {
+            "text": "Crash Course is produced here in the Chad and Stacey Emigholz Studio in Indianapolis", 
+            "dur": "4.92", 
+            "start": "604.66"
+        }, 
+        {
+            "text": "and is made possible with the help of all of these nice people,", 
+            "dur": "2.98", 
+            "start": "609.58"
+        }, 
+        {
+            "text": "and with your help through Subbable.com", 
+            "dur": "2.44", 
+            "start": "612.56"
+        }, 
+        {
+            "text": "Subbable is a voluntary subscription service that allows you to support Crash Course directly,", 
+            "dur": "3.72", 
+            "start": "615"
+        }, 
+        {
+            "text": "so we can keep making these educational videos free, for everyone, forever.", 
+            "dur": "4.52", 
+            "start": "618.72"
+        }, 
+        {
+            "text": "Thanks to all of our Subbable subscribers, thanks to you for watching,", 
+            "dur": "2.7", 
+            "start": "623.24"
+        }, 
+        {
+            "text": "and as we say in my hometown: Don&#39;t forget to be awesome.", 
+            "dur": "2.94", 
+            "start": "625.94"
+        }
+    ], 
+    "title": "War & Human Nature: Crash Course World History 204", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0k3p2y_", 
+        "/m/0285h6", 
+        "/m/03g3w"
+    ], 
+    "number_views": 788225, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

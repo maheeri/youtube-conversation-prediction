@@ -1,0 +1,427 @@
+{
+    "publish_date": "2013-01-08T16:27:12.000Z", 
+    "video_length": "PT3M44S", 
+    "captions": [
+        {
+            "text": "You might have heard that light is a kind of wave", 
+            "dur": "2.119", 
+            "start": "15.33"
+        }, 
+        {
+            "text": "and that the color of an object", 
+            "dur": "1.498", 
+            "start": "17.449"
+        }, 
+        {
+            "text": "is related to the frequency of light waves it reflects.", 
+            "dur": "3.186", 
+            "start": "18.947"
+        }, 
+        {
+            "text": "High-frequency light waves look violet,", 
+            "dur": "2.083", 
+            "start": "22.133"
+        }, 
+        {
+            "text": "low-frequency light waves look red,", 
+            "dur": "1.803", 
+            "start": "24.216"
+        }, 
+        {
+            "text": "and in-between frequencies look yellow,", 
+            "dur": "1.912", 
+            "start": "26.019"
+        }, 
+        {
+            "text": "green,", 
+            "dur": "0.452", 
+            "start": "27.931"
+        }, 
+        {
+            "text": "orange,", 
+            "dur": "0.637", 
+            "start": "28.383"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.642", 
+            "start": "29.02"
+        }, 
+        {
+            "text": "You might call this idea physical color", 
+            "dur": "2.326", 
+            "start": "30.662"
+        }, 
+        {
+            "text": "because it says that color is a physical property of light itself.", 
+            "dur": "3.689", 
+            "start": "32.988"
+        }, 
+        {
+            "text": "It&#39;s not dependent on human perception.", 
+            "dur": "2.408", 
+            "start": "36.677"
+        }, 
+        {
+            "text": "And, while this isn&#39;t wrong,", 
+            "dur": "2.16", 
+            "start": "39.085"
+        }, 
+        {
+            "text": "it isn&#39;t quite the whole story either.", 
+            "dur": "2.503", 
+            "start": "41.245"
+        }, 
+        {
+            "text": "For instance, you might have seen this picture before.", 
+            "dur": "3.574", 
+            "start": "43.748"
+        }, 
+        {
+            "text": "As you can see, the region where the red and green lights overlap is yellow.", 
+            "dur": "4.459", 
+            "start": "47.322"
+        }, 
+        {
+            "text": "When you think about it, this is pretty weird.", 
+            "dur": "2.375", 
+            "start": "51.781"
+        }, 
+        {
+            "text": "Because light is a wave, two different frequencies", 
+            "dur": "2.577", 
+            "start": "54.156"
+        }, 
+        {
+            "text": "shouldn&#39;t interact with each other at all,", 
+            "dur": "2.162", 
+            "start": "56.733"
+        }, 
+        {
+            "text": "they should just co-exist", 
+            "dur": "1.317", 
+            "start": "58.895"
+        }, 
+        {
+            "text": "like singers singing in harmony.", 
+            "dur": "2.256", 
+            "start": "60.212"
+        }, 
+        {
+            "text": "So, in this yellow looking region,", 
+            "dur": "2.033", 
+            "start": "62.468"
+        }, 
+        {
+            "text": "two different kinds of light waves are present:", 
+            "dur": "2.871", 
+            "start": "64.501"
+        }, 
+        {
+            "text": "one with a red frequency,", 
+            "dur": "1.535", 
+            "start": "67.372"
+        }, 
+        {
+            "text": "and one with a green frequency.", 
+            "dur": "1.76", 
+            "start": "68.907"
+        }, 
+        {
+            "text": "There is no yellow light present at all.", 
+            "dur": "2.455", 
+            "start": "70.667"
+        }, 
+        {
+            "text": "So, how come this region,", 
+            "dur": "1.351", 
+            "start": "73.122"
+        }, 
+        {
+            "text": "where the red and green lights mix,", 
+            "dur": "2.147", 
+            "start": "74.473"
+        }, 
+        {
+            "text": "looks yellow to us?", 
+            "dur": "1.922", 
+            "start": "76.62"
+        }, 
+        {
+            "text": "To understand this, you have to understand a little bit about biology,", 
+            "dur": "3.512", 
+            "start": "78.542"
+        }, 
+        {
+            "text": "in particular, about how humans see color.", 
+            "dur": "3.077", 
+            "start": "82.054"
+        }, 
+        {
+            "text": "Light perception happens in a paper-thin layer of cells,", 
+            "dur": "3.332", 
+            "start": "85.131"
+        }, 
+        {
+            "text": "called the retina,", 
+            "dur": "0.959", 
+            "start": "88.463"
+        }, 
+        {
+            "text": "that covers the back of your eyeball.", 
+            "dur": "2.25", 
+            "start": "89.422"
+        }, 
+        {
+            "text": "In the retina, there are two different types of light-detecting cells:", 
+            "dur": "3.86", 
+            "start": "91.672"
+        }, 
+        {
+            "text": "rods and cones.", 
+            "dur": "2.323", 
+            "start": "95.532"
+        }, 
+        {
+            "text": "The rods are used for seeing in low-light conditions,", 
+            "dur": "2.582", 
+            "start": "97.855"
+        }, 
+        {
+            "text": "and there is only one kind of those.", 
+            "dur": "2.243", 
+            "start": "100.437"
+        }, 
+        {
+            "text": "The cones, however, are a different story.", 
+            "dur": "2.992", 
+            "start": "102.68"
+        }, 
+        {
+            "text": "There three kinds of cone cells that roughly correspond", 
+            "dur": "2.312", 
+            "start": "105.672"
+        }, 
+        {
+            "text": "to the colors red,", 
+            "dur": "1.354", 
+            "start": "107.984"
+        }, 
+        {
+            "text": "green,", 
+            "dur": "0.486", 
+            "start": "109.338"
+        }, 
+        {
+            "text": "and blue.", 
+            "dur": "1.494", 
+            "start": "109.824"
+        }, 
+        {
+            "text": "When you see a color,", 
+            "dur": "1.616", 
+            "start": "111.318"
+        }, 
+        {
+            "text": "each cone sends its own distinct signal to your brain.", 
+            "dur": "3.824", 
+            "start": "112.934"
+        }, 
+        {
+            "text": "For example, suppose that yellow light,", 
+            "dur": "2.227", 
+            "start": "116.758"
+        }, 
+        {
+            "text": "that is real yellow light, with a yellow frequency,", 
+            "dur": "2.563", 
+            "start": "118.985"
+        }, 
+        {
+            "text": "is shining on your eye.", 
+            "dur": "1.607", 
+            "start": "121.548"
+        }, 
+        {
+            "text": "You don&#39;t have a cone specifically for detecting yellow,", 
+            "dur": "2.897", 
+            "start": "123.155"
+        }, 
+        {
+            "text": "but yellow is kind of close to green", 
+            "dur": "2.036", 
+            "start": "126.052"
+        }, 
+        {
+            "text": "and also kind of close to red,", 
+            "dur": "1.465", 
+            "start": "128.088"
+        }, 
+        {
+            "text": "so both the red and green cones get activated,", 
+            "dur": "2.599", 
+            "start": "129.553"
+        }, 
+        {
+            "text": "and each sends a signal to your brain saying so.", 
+            "dur": "4.027", 
+            "start": "132.152"
+        }, 
+        {
+            "text": "Of course, there is another way to activate", 
+            "dur": "1.966", 
+            "start": "136.179"
+        }, 
+        {
+            "text": "the red cones and the green cones simultaneously:", 
+            "dur": "2.997", 
+            "start": "138.145"
+        }, 
+        {
+            "text": "if both red light and green light are present at the same time.", 
+            "dur": "3.6", 
+            "start": "141.142"
+        }, 
+        {
+            "text": "The point is, your brain receives the same signal,", 
+            "dur": "3.378", 
+            "start": "144.742"
+        }, 
+        {
+            "text": "regardless of whether you see light that has the yellow frequency", 
+            "dur": "3.522", 
+            "start": "148.12"
+        }, 
+        {
+            "text": "or light that is a mixture of the green and red frequencies.", 
+            "dur": "3.547", 
+            "start": "151.642"
+        }, 
+        {
+            "text": "That&#39;s why, for light, red plus green equals yellow.", 
+            "dur": "4.139", 
+            "start": "155.189"
+        }, 
+        {
+            "text": "And, how come you can&#39;t detect colors when it&#39;s dark?", 
+            "dur": "3.453", 
+            "start": "159.328"
+        }, 
+        {
+            "text": "Well, the rod cells in your retina take over", 
+            "dur": "2.579", 
+            "start": "162.781"
+        }, 
+        {
+            "text": "in low-light conditions.", 
+            "dur": "1.627", 
+            "start": "165.36"
+        }, 
+        {
+            "text": "You only have one kind of rod cell,", 
+            "dur": "2.002", 
+            "start": "166.987"
+        }, 
+        {
+            "text": "and so there is one type of signal", 
+            "dur": "1.987", 
+            "start": "168.989"
+        }, 
+        {
+            "text": "that can get sent to your brain:", 
+            "dur": "1.622", 
+            "start": "170.976"
+        }, 
+        {
+            "text": "light or no light.", 
+            "dur": "1.993", 
+            "start": "172.598"
+        }, 
+        {
+            "text": "Having only one kind of light detector", 
+            "dur": "2.468", 
+            "start": "174.591"
+        }, 
+        {
+            "text": "doesn&#39;t leave any room for seeing color.", 
+            "dur": "2.654", 
+            "start": "177.059"
+        }, 
+        {
+            "text": "There are infinitely many different physical colors,", 
+            "dur": "2.409", 
+            "start": "179.713"
+        }, 
+        {
+            "text": "but, because we only have three kinds of cones,", 
+            "dur": "2.708", 
+            "start": "182.122"
+        }, 
+        {
+            "text": "the brain can be tricked into thinking it&#39;s seeing any color", 
+            "dur": "2.914", 
+            "start": "184.83"
+        }, 
+        {
+            "text": "by carefully adding together the right combination", 
+            "dur": "3.069", 
+            "start": "187.744"
+        }, 
+        {
+            "text": "of just three colors:", 
+            "dur": "1.606", 
+            "start": "190.813"
+        }, 
+        {
+            "text": "red, green, and blue.", 
+            "dur": "1.646", 
+            "start": "192.419"
+        }, 
+        {
+            "text": "This property of human vision is really useful in the real world.", 
+            "dur": "3.724", 
+            "start": "194.065"
+        }, 
+        {
+            "text": "For example, TV manufacturing.", 
+            "dur": "2.29", 
+            "start": "197.789"
+        }, 
+        {
+            "text": "Instead of having to put infinitely many colors in your TV set", 
+            "dur": "3.077", 
+            "start": "200.079"
+        }, 
+        {
+            "text": "to simulate the real world,", 
+            "dur": "1.444", 
+            "start": "203.156"
+        }, 
+        {
+            "text": "TV manufacturers only have to put three:", 
+            "dur": "2.554", 
+            "start": "204.6"
+        }, 
+        {
+            "text": "red, green, and blue,", 
+            "dur": "2.137", 
+            "start": "207.154"
+        }, 
+        {
+            "text": "which is lucky for them, really.", 
+            "dur": "2.323", 
+            "start": "209.291"
+        }
+    ], 
+    "title": "How we see color - Colm Kelleher", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/01sdr", 
+        "/m/01s337"
+    ], 
+    "number_views": 159892, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

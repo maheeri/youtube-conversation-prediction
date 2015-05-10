@@ -1,0 +1,179 @@
+{
+    "publish_date": "2012-03-29T21:16:46.000Z", 
+    "video_length": "PT2M11S", 
+    "captions": [
+        {
+            "text": "In mid 1905, Albert Einstein derived what\nis now the most famous equation in the world:", 
+            "dur": "4.81", 
+            "start": "0.21"
+        }, 
+        {
+            "text": "E equals M C squared. But he didn&#39;t just write\nthis down out of the blue \u2013 it followed", 
+            "dur": "4.07", 
+            "start": "5.02"
+        }, 
+        {
+            "text": "directly from his paper on special relativity\nthat we talked about in last week&#39;s video\u2026", 
+            "dur": "3.82", 
+            "start": "9.09"
+        }, 
+        {
+            "text": "and here&#39;s how he did it:", 
+            "dur": "1.359", 
+            "start": "12.91"
+        }, 
+        {
+            "text": "Suppose you&#39;re watching a cat float freely\nin empty space, when suddenly it emits a flash", 
+            "dur": "4.07", 
+            "start": "14.269"
+        }, 
+        {
+            "text": "of light in all directions. The light carries\naway some energy, we&#39;ll call it &quot;E&quot;, so by", 
+            "dur": "4.27", 
+            "start": "18.339"
+        }, 
+        {
+            "text": "conservation of energy the cat must have lost\nenergy E\u2026 but since the light was emitted", 
+            "dur": "4.26", 
+            "start": "22.609"
+        }, 
+        {
+            "text": "symmetrically in all directions, it won&#39;t\nhave changed the cat&#39;s velocity. So where", 
+            "dur": "3.77", 
+            "start": "26.869"
+        }, 
+        {
+            "text": "did the energy for the light come from?", 
+            "dur": "2.03", 
+            "start": "30.639"
+        }, 
+        {
+            "text": "Never mind that now\u2026 let&#39;s imagine you get\nbored and zoom off in a spaceship in the middle", 
+            "dur": "3.1", 
+            "start": "32.669"
+        }, 
+        {
+            "text": "of the experiment. But from your new perspective,\nyou&#39;re sitting still in your spaceship and", 
+            "dur": "3.86", 
+            "start": "35.769"
+        }, 
+        {
+            "text": "the cat is the one moving past outside the\nwindow! Therefore you&#39;ll calculate that the", 
+            "dur": "3.64", 
+            "start": "39.629"
+        }, 
+        {
+            "text": "cat has some kinetic energy, that is, energy\nof motion\u2026 and when you see the cat emit", 
+            "dur": "3.68", 
+            "start": "43.269"
+        }, 
+        {
+            "text": "the flash of light, you&#39;ll again measure that\nits energy decreases by the energy of the", 
+            "dur": "3.441", 
+            "start": "46.949"
+        }, 
+        {
+            "text": "light.", 
+            "dur": "0.789", 
+            "start": "50.39"
+        }, 
+        {
+            "text": "Except now that you&#39;re moving, special relativity\ntells us that time passes at different rates", 
+            "dur": "3.991", 
+            "start": "51.179"
+        }, 
+        {
+            "text": "for you and the cat, so you&#39;ll measure a different\nvalue for the frequency, and thus energy of", 
+            "dur": "4.25", 
+            "start": "55.17"
+        }, 
+        {
+            "text": "the flash of light. This is the relativistic\ndoppler effect, and for our purposes, it amounts", 
+            "dur": "4.439", 
+            "start": "59.42"
+        }, 
+        {
+            "text": "to multiplying the energy of the light by\none plus your velocity squared divided by", 
+            "dur": "3.861", 
+            "start": "63.859"
+        }, 
+        {
+            "text": "twice the speed of light squared.", 
+            "dur": "1.39", 
+            "start": "67.72"
+        }, 
+        {
+            "text": "So to recap, if you take off at velocity v,\nyou&#39;ll see the cat gain some kinetic energy", 
+            "dur": "4.88", 
+            "start": "69.11"
+        }, 
+        {
+            "text": "KE1, then at the flash you&#39;ll see the cat&#39;s\nenergy decrease by E times one plus v squared", 
+            "dur": "4.169", 
+            "start": "73.99"
+        }, 
+        {
+            "text": "over two c squared. On the other hand, if\nyou wait, you&#39;ll see the cat&#39;s energy decrease", 
+            "dur": "4.14", 
+            "start": "78.159"
+        }, 
+        {
+            "text": "by E, and now when you take off you&#39;ll see\nit gain kinetic energy KE2.", 
+            "dur": "4.53", 
+            "start": "82.299"
+        }, 
+        {
+            "text": "But this is silly! You never touch or otherwise\ninfluence the cat in either case, so you should", 
+            "dur": "4.101", 
+            "start": "86.829"
+        }, 
+        {
+            "text": "get the same total energy at the end\u2026 Rearranging,\nwe see that the kinetic energy before and", 
+            "dur": "4.609", 
+            "start": "90.93"
+        }, 
+        {
+            "text": "after the flash must be different! And the\nkinetic energy of an object is one-half of", 
+            "dur": "3.961", 
+            "start": "95.539"
+        }, 
+        {
+            "text": "its mass times velocity squared, but we know\nthat the velocity was the same in both cases\u2026", 
+            "dur": "4.469", 
+            "start": "99.5"
+        }, 
+        {
+            "text": "so in order to account for the difference,\nthe cat&#39;s mass must change when it emits the", 
+            "dur": "3.311", 
+            "start": "103.969"
+        }, 
+        {
+            "text": "flash of light!", 
+            "dur": "1.06", 
+            "start": "107.28"
+        }, 
+        {
+            "text": "Now if we cancel things out, you can see that\nthe change in mass of the cat must be equal", 
+            "dur": "3.55", 
+            "start": "108.34"
+        }, 
+        {
+            "text": "to the energy divided by c squared \u2013 or,\nas you&#39;ve heard before, E equals M C squared!", 
+            "dur": "7", 
+            "start": "111.89"
+        }
+    ], 
+    "title": "Einstein's Proof of E=mc\u00b2", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/026m7j", 
+        "/m/0jcx", 
+        "/m/0m08c9y", 
+        "/m/05qjt"
+    ], 
+    "number_views": 2211880, 
+    "categories": [
+        28
+    ], 
+    "comments": null
+}

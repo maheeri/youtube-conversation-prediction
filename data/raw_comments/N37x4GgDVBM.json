@@ -1,0 +1,1643 @@
+{
+    "publish_date": "2014-04-04T18:15:18.000Z", 
+    "video_length": "PT17M43S", 
+    "captions": [
+        {
+            "text": "Thank you very much.", 
+            "dur": "0.974", 
+            "start": "12.536"
+        }, 
+        {
+            "text": "So, yes, I&#39;m Hannah Fry,\nI am a mathematician,\n", 
+            "dur": "2.574", 
+            "start": "13.51"
+        }, 
+        {
+            "text": "and today I want to talk to you\nabout the mathematics of love.", 
+            "dur": "4.319", 
+            "start": "16.084"
+        }, 
+        {
+            "text": "Now, I think that we can all agree", 
+            "dur": "1.74", 
+            "start": "20.941"
+        }, 
+        {
+            "text": "that mathematicians\nare famously excellent at finding love.", 
+            "dur": "4.417", 
+            "start": "22.681"
+        }, 
+        {
+            "text": "But it&#39;s not just\nbecause of our dashing personalities,", 
+            "dur": "3.448", 
+            "start": "27.597"
+        }, 
+        {
+            "text": "superior conversational skills\nand excellent pencil cases.", 
+            "dur": "4.057", 
+            "start": "31.045"
+        }, 
+        {
+            "text": "It&#39;s also because we&#39;ve actually done\nan awful lot of work into the maths", 
+            "dur": "4.526", 
+            "start": "35.544"
+        }, 
+        {
+            "text": "of how to find the perfect partner.", 
+            "dur": "2.392", 
+            "start": "40.07"
+        }, 
+        {
+            "text": "Now, in my favorite paper\non the subject, which is entitled,", 
+            "dur": "3.413", 
+            "start": "42.462"
+        }, 
+        {
+            "text": "&quot;Why I Don&#39;t Have a Girlfriend&quot; -\n(Laughter) -", 
+            "dur": "3.496", 
+            "start": "45.875"
+        }, 
+        {
+            "text": "Peter Backus tries to rate\nhis chances of finding love.", 
+            "dur": "3.72", 
+            "start": "49.371"
+        }, 
+        {
+            "text": "Now, Peter&#39;s not a very greedy man.", 
+            "dur": "2.366", 
+            "start": "53.091"
+        }, 
+        {
+            "text": "Of all of the available women in the U.K.,", 
+            "dur": "2.085", 
+            "start": "55.457"
+        }, 
+        {
+            "text": "all Peter&#39;s looking for\nis somebody who lives near him,", 
+            "dur": "3.413", 
+            "start": "57.542"
+        }, 
+        {
+            "text": "somebody in the right age range,", 
+            "dur": "1.901", 
+            "start": "60.955"
+        }, 
+        {
+            "text": "somebody with a university degree,", 
+            "dur": "2.624", 
+            "start": "62.856"
+        }, 
+        {
+            "text": "somebody he&#39;s likely to get on well with,", 
+            "dur": "2.369", 
+            "start": "65.935"
+        }, 
+        {
+            "text": "somebody who&#39;s likely to be attractive,", 
+            "dur": "2.136", 
+            "start": "68.304"
+        }, 
+        {
+            "text": "somebody who&#39;s likely\nto find him attractive.", 
+            "dur": "2.398", 
+            "start": "70.44"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.603", 
+            "start": "72.838"
+        }, 
+        {
+            "text": "And comes up with an estimate\nof 26 women in the whole of the UK.", 
+            "dur": "4.111", 
+            "start": "76.128"
+        }, 
+        {
+            "text": "It&#39;s not looking very good, is it Peter?", 
+            "dur": "2.161", 
+            "start": "81.441"
+        }, 
+        {
+            "text": "Now, just to put that into perspective,", 
+            "dur": "2.517", 
+            "start": "83.602"
+        }, 
+        {
+            "text": "that&#39;s about 400 times fewer\nthan the best estimates", 
+            "dur": "3.325", 
+            "start": "86.119"
+        }, 
+        {
+            "text": "of how many intelligent\nextraterrestrial life forms there are.", 
+            "dur": "3.355", 
+            "start": "89.444"
+        }, 
+        {
+            "text": "And it also gives Peter\na 1 in 285,000 chance", 
+            "dur": "4.237", 
+            "start": "93.439"
+        }, 
+        {
+            "text": "of bumping into any one\nof these special ladies", 
+            "dur": "2.86", 
+            "start": "97.676"
+        }, 
+        {
+            "text": "on a given night out.", 
+            "dur": "1.595", 
+            "start": "100.536"
+        }, 
+        {
+            "text": "I&#39;d like to think\nthat&#39;s why mathematicians", 
+            "dur": "2.04", 
+            "start": "102.131"
+        }, 
+        {
+            "text": "don&#39;t really bother\ngoing on nights out anymore.", 
+            "dur": "2.744", 
+            "start": "104.171"
+        }, 
+        {
+            "text": "The thing is that I personally", 
+            "dur": "1.832", 
+            "start": "107.332"
+        }, 
+        {
+            "text": "don&#39;t subscribe\nto such a pessimistic view.", 
+            "dur": "2.589", 
+            "start": "109.164"
+        }, 
+        {
+            "text": "Because I know,\njust as well as all of you do,", 
+            "dur": "2.589", 
+            "start": "111.753"
+        }, 
+        {
+            "text": "that love doesn&#39;t really work like that.", 
+            "dur": "2.372", 
+            "start": "114.342"
+        }, 
+        {
+            "text": "Human emotion isn&#39;t neatly ordered\nand rational and easily predictable.", 
+            "dur": "4.59", 
+            "start": "116.714"
+        }, 
+        {
+            "text": "But I also know that that doesn&#39;t mean", 
+            "dur": "2.529", 
+            "start": "121.872"
+        }, 
+        {
+            "text": "that mathematics hasn&#39;t got something\nthat it can offer us", 
+            "dur": "3.084", 
+            "start": "124.401"
+        }, 
+        {
+            "text": "because, love, as with most of life,\nis full of patterns", 
+            "dur": "3.478", 
+            "start": "127.488"
+        }, 
+        {
+            "text": "and mathematics is, ultimately,\nall about the study of patterns.", 
+            "dur": "4.076", 
+            "start": "130.966"
+        }, 
+        {
+            "text": "Patterns from predicting the weather\nto the fluctuations in the stock market,", 
+            "dur": "4.176", 
+            "start": "135.749"
+        }, 
+        {
+            "text": "to the movement of the planets\nor the growth of cities.", 
+            "dur": "3.305", 
+            "start": "139.925"
+        }, 
+        {
+            "text": "And if we&#39;re being honest,\nnone of those things", 
+            "dur": "2.554", 
+            "start": "143.23"
+        }, 
+        {
+            "text": "are exactly neatly ordered\nand easily predictable, either.", 
+            "dur": "3.716", 
+            "start": "145.784"
+        }, 
+        {
+            "text": "Because I believe that mathematics\nis so powerful that it has the potential", 
+            "dur": "5.147", 
+            "start": "149.5"
+        }, 
+        {
+            "text": "to offer us a new way of looking\nat almost anything.", 
+            "dur": "3.443", 
+            "start": "154.658"
+        }, 
+        {
+            "text": "Even something as mysterious as love.", 
+            "dur": "3.086", 
+            "start": "158.101"
+        }, 
+        {
+            "text": "And so, to try to persuade you", 
+            "dur": "2.055", 
+            "start": "161.47"
+        }, 
+        {
+            "text": "of how totally amazing, excellent\nand relevant mathematics is,", 
+            "dur": "4.511", 
+            "start": "163.525"
+        }, 
+        {
+            "text": "I want to give you my top three\nmathematically verifiable tips for love.", 
+            "dur": "5.79", 
+            "start": "168.036"
+        }, 
+        {
+            "text": "Okay, so Top Tip #1:", 
+            "dur": "1.948", 
+            "start": "177.29"
+        }, 
+        {
+            "text": "How to win at online dating.", 
+            "dur": "2.323", 
+            "start": "181.488"
+        }, 
+        {
+            "text": "So my favorite online dating website\nis OkCupid,", 
+            "dur": "3.303", 
+            "start": "186.29"
+        }, 
+        {
+            "text": "not least because it was started\nby a group of mathematicians.", 
+            "dur": "3.631", 
+            "start": "189.593"
+        }, 
+        {
+            "text": "Now, because they&#39;re mathematicians,", 
+            "dur": "2.065", 
+            "start": "193.224"
+        }, 
+        {
+            "text": "they have been collecting data", 
+            "dur": "1.434", 
+            "start": "195.289"
+        }, 
+        {
+            "text": "on everybody who uses their site\nfor almost a decade.", 
+            "dur": "3.214", 
+            "start": "196.723"
+        }, 
+        {
+            "text": "And they&#39;ve been trying\nto search for patterns", 
+            "dur": "2.181", 
+            "start": "199.937"
+        }, 
+        {
+            "text": "in the way that we talk about ourselves", 
+            "dur": "1.922", 
+            "start": "202.118"
+        }, 
+        {
+            "text": "and the way that we interact\nwith each other", 
+            "dur": "2.062", 
+            "start": "204.04"
+        }, 
+        {
+            "text": "on an online dating website.", 
+            "dur": "1.436", 
+            "start": "206.102"
+        }, 
+        {
+            "text": "And they&#39;ve come up with some\nseriously interesting findings.", 
+            "dur": "2.91", 
+            "start": "207.538"
+        }, 
+        {
+            "text": "But my particular favorite", 
+            "dur": "1.688", 
+            "start": "210.448"
+        }, 
+        {
+            "text": "is that it turns out\nthat on an online dating website,", 
+            "dur": "3.135", 
+            "start": "212.136"
+        }, 
+        {
+            "text": "how attractive you are\ndoes not dictate how popular you are,", 
+            "dur": "5.209", 
+            "start": "215.271"
+        }, 
+        {
+            "text": "and actually, having people think\nthat you&#39;re ugly", 
+            "dur": "3.518", 
+            "start": "220.825"
+        }, 
+        {
+            "text": "can work to your advantage.", 
+            "dur": "2.46", 
+            "start": "224.343"
+        }, 
+        {
+            "text": "Let me show you how this works.", 
+            "dur": "1.678", 
+            "start": "228.22"
+        }, 
+        {
+            "text": "In a thankfully voluntary\nsection of OkCupid,", 
+            "dur": "3.805", 
+            "start": "229.898"
+        }, 
+        {
+            "text": "you are allowed to rate\nhow attractive you think people are", 
+            "dur": "3.343", 
+            "start": "234.124"
+        }, 
+        {
+            "text": "on a scale between 1 and 5.", 
+            "dur": "1.69", 
+            "start": "237.467"
+        }, 
+        {
+            "text": "Now, if we compare this score,\nthe average score,", 
+            "dur": "3.744", 
+            "start": "239.157"
+        }, 
+        {
+            "text": "to how many messages\na selection of people receive,", 
+            "dur": "2.885", 
+            "start": "242.901"
+        }, 
+        {
+            "text": "you can begin to get a sense", 
+            "dur": "1.66", 
+            "start": "245.786"
+        }, 
+        {
+            "text": "of how attractiveness links to popularity\non an online dating website.", 
+            "dur": "3.898", 
+            "start": "247.446"
+        }, 
+        {
+            "text": "This is the graph that the OkCupid guy\nshave come up with.", 
+            "dur": "3.816", 
+            "start": "251.344"
+        }, 
+        {
+            "text": "And the important thing to notice\nis that it&#39;s not totally true", 
+            "dur": "3.678", 
+            "start": "255.16"
+        }, 
+        {
+            "text": "that the more attractive you are,\nthe more messages you get.", 
+            "dur": "3.022", 
+            "start": "258.838"
+        }, 
+        {
+            "text": "OK, there&#39;s maybe a bit of a trend there,", 
+            "dur": "2.617", 
+            "start": "261.86"
+        }, 
+        {
+            "text": "but it&#39;s got an R squared\nof absolutely naff all, let&#39;s be honest.", 
+            "dur": "3.152", 
+            "start": "264.477"
+        }, 
+        {
+            "text": "But the question arises then\nof what is it about people up here", 
+            "dur": "4.131", 
+            "start": "267.653"
+        }, 
+        {
+            "text": "who are so much more popular\nthan people down here,", 
+            "dur": "3.745", 
+            "start": "272.108"
+        }, 
+        {
+            "text": "even though they have the same\nscore of attractiveness?", 
+            "dur": "2.861", 
+            "start": "276.305"
+        }, 
+        {
+            "text": "And the reason why is that it&#39;s not just\nstraight forward looks that are important.", 
+            "dur": "3.955", 
+            "start": "279.166"
+        }, 
+        {
+            "text": "So let me try to illustrate\ntheir findings with an example.", 
+            "dur": "2.801", 
+            "start": "283.121"
+        }, 
+        {
+            "text": "So if you take someone like\nPortia de Rossi, for example,", 
+            "dur": "3.74", 
+            "start": "285.922"
+        }, 
+        {
+            "text": "everybody agrees that Portia de Rossi\nis a very beautiful woman.", 
+            "dur": "3.757", 
+            "start": "290.042"
+        }, 
+        {
+            "text": "Nobody thinks that she&#39;s ugly,\nbut she&#39;s not a supermodel, either.", 
+            "dur": "3.598", 
+            "start": "294.957"
+        }, 
+        {
+            "text": "If you compare Portia de Rossi\nto someone like Sarah Jessica Parker,", 
+            "dur": "4.258", 
+            "start": "298.555"
+        }, 
+        {
+            "text": "now, a lot of people,\nmyself included, I should say,", 
+            "dur": "2.806", 
+            "start": "305.43"
+        }, 
+        {
+            "text": "think that Sarah Jessica Parker\nis seriously fabulous", 
+            "dur": "4.003", 
+            "start": "308.236"
+        }, 
+        {
+            "text": "and possibly one\nof the most beautiful creatures", 
+            "dur": "2.351", 
+            "start": "312.959"
+        }, 
+        {
+            "text": "to have ever have walked\non the face of the Earth.", 
+            "dur": "2.895", 
+            "start": "315.31"
+        }, 
+        {
+            "text": "But some other people,\ni.e., most of the Internet,", 
+            "dur": "3.789", 
+            "start": "318.205"
+        }, 
+        {
+            "text": "seem to think that she looks\na bit like a horse. (Laughter)", 
+            "dur": "3.941", 
+            "start": "324.822"
+        }, 
+        {
+            "text": "Now, I think that if you ask people\nhow attractive they thought", 
+            "dur": "3.828", 
+            "start": "330.142"
+        }, 
+        {
+            "text": "Sarah Jessica Parker\nor Portia de Rossi were,", 
+            "dur": "2.229", 
+            "start": "333.97"
+        }, 
+        {
+            "text": "and you ask them to give them\na score between 1 and 5,", 
+            "dur": "2.647", 
+            "start": "336.199"
+        }, 
+        {
+            "text": "I reckon that they&#39;d average out\nto have roughly the same score.", 
+            "dur": "3.153", 
+            "start": "338.846"
+        }, 
+        {
+            "text": "But the way that people would vote\nwould be very different.", 
+            "dur": "2.781", 
+            "start": "341.999"
+        }, 
+        {
+            "text": "So Portia&#39;s scores would\nall be clustered around the 4", 
+            "dur": "2.59", 
+            "start": "344.78"
+        }, 
+        {
+            "text": "because everybody agrees\nthat she&#39;s very beautiful,", 
+            "dur": "2.397", 
+            "start": "347.37"
+        }, 
+        {
+            "text": "whereas Sarah Jessica Parker\ncompletely divides opinion.", 
+            "dur": "2.67", 
+            "start": "349.767"
+        }, 
+        {
+            "text": "There&#39;d be a huge spread in her scores.", 
+            "dur": "2.2", 
+            "start": "352.437"
+        }, 
+        {
+            "text": "And actually it&#39;s this spread that counts.", 
+            "dur": "2.422", 
+            "start": "354.637"
+        }, 
+        {
+            "text": "It&#39;s this spread\nthat makes you more popular", 
+            "dur": "2.366", 
+            "start": "357.059"
+        }, 
+        {
+            "text": "on an online Internet dating website.", 
+            "dur": "2.292", 
+            "start": "359.425"
+        }, 
+        {
+            "text": "So what that means then", 
+            "dur": "1.586", 
+            "start": "361.717"
+        }, 
+        {
+            "text": "is that if some people\nthink that you&#39;re attractive,", 
+            "dur": "2.455", 
+            "start": "363.303"
+        }, 
+        {
+            "text": "you&#39;re actually better off", 
+            "dur": "1.764", 
+            "start": "365.758"
+        }, 
+        {
+            "text": "having some other people think\nthat you&#39;re a massive minger.", 
+            "dur": "3.94", 
+            "start": "367.522"
+        }, 
+        {
+            "text": "That&#39;s much better\nthan everybody just thinking", 
+            "dur": "2.405", 
+            "start": "372.353"
+        }, 
+        {
+            "text": "that you&#39;re the cute girl next door.", 
+            "dur": "2.307", 
+            "start": "374.758"
+        }, 
+        {
+            "text": "Now, I think this begins\nmakes a bit more sense", 
+            "dur": "2.215", 
+            "start": "377.065"
+        }, 
+        {
+            "text": "when you think in terms of the people\nwho are sending these messages.", 
+            "dur": "3.321", 
+            "start": "379.28"
+        }, 
+        {
+            "text": "So let&#39;s say that you think\nsomebody&#39;s attractive,", 
+            "dur": "2.331", 
+            "start": "382.601"
+        }, 
+        {
+            "text": "but you suspect that other people\nwon&#39;t necessarily be that interested.", 
+            "dur": "3.704", 
+            "start": "384.932"
+        }, 
+        {
+            "text": "That means there&#39;s\nless competition for you", 
+            "dur": "2.648", 
+            "start": "388.636"
+        }, 
+        {
+            "text": "and it&#39;s an extra incentive\nfor you to get in touch.", 
+            "dur": "2.858", 
+            "start": "391.284"
+        }, 
+        {
+            "text": "Whereas compare that to\nif you think somebody is attractive", 
+            "dur": "2.827", 
+            "start": "394.142"
+        }, 
+        {
+            "text": "but you suspect that everybody\nis going to think they&#39;re attractive.", 
+            "dur": "3.218", 
+            "start": "396.969"
+        }, 
+        {
+            "text": "Well, why would you bother\nhumiliating yourself, let&#39;s be honest?", 
+            "dur": "3.378", 
+            "start": "400.187"
+        }, 
+        {
+            "text": "Here&#39;s where the really\ninteresting part comes.", 
+            "dur": "2.216", 
+            "start": "403.848"
+        }, 
+        {
+            "text": "Because when people choose the pictures\nthat they use on an online dating website,", 
+            "dur": "3.89", 
+            "start": "406.064"
+        }, 
+        {
+            "text": "they often try to minimize the things", 
+            "dur": "2.492", 
+            "start": "409.954"
+        }, 
+        {
+            "text": "that they think some people\nwill find unattractive.", 
+            "dur": "3.13", 
+            "start": "412.446"
+        }, 
+        {
+            "text": "The classic example is people who are,\nperhaps, a little bit overweight", 
+            "dur": "3.762", 
+            "start": "415.576"
+        }, 
+        {
+            "text": "deliberately choosing\na very cropped photo,", 
+            "dur": "2.794", 
+            "start": "420.152"
+        }, 
+        {
+            "text": "or bald men, for example,", 
+            "dur": "2.058", 
+            "start": "424.874"
+        }, 
+        {
+            "text": "deliberately choosing pictures\nwhere they&#39;re wearing hats.", 
+            "dur": "2.841", 
+            "start": "426.932"
+        }, 
+        {
+            "text": "But actually this is the opposite\nof what you should do", 
+            "dur": "2.585", 
+            "start": "429.773"
+        }, 
+        {
+            "text": "if you want to be successful.", 
+            "dur": "1.516", 
+            "start": "432.358"
+        }, 
+        {
+            "text": "You should really, instead, play up to\nwhatever it is that makes you different,", 
+            "dur": "3.966", 
+            "start": "433.874"
+        }, 
+        {
+            "text": "even if you think that some people\nwill find it unattractive.", 
+            "dur": "4.316", 
+            "start": "437.84"
+        }, 
+        {
+            "text": "Because the people who fancy you\nare just going to fancy you anyway,", 
+            "dur": "3.24", 
+            "start": "442.156"
+        }, 
+        {
+            "text": "and the unimportant losers who don&#39;t,\nwell, they only play up to your advantage.", 
+            "dur": "4.569", 
+            "start": "445.396"
+        }, 
+        {
+            "text": "Okay, Top Tip #2:\nHow to pick the perfect partner.", 
+            "dur": "3.436", 
+            "start": "450.867"
+        }, 
+        {
+            "text": "So let&#39;s imagine then\nthat you&#39;re a roaring success", 
+            "dur": "3.004", 
+            "start": "454.346"
+        }, 
+        {
+            "text": "on the dating scene.", 
+            "dur": "1.786", 
+            "start": "457.35"
+        }, 
+        {
+            "text": "But the question arises of how do you then\nconvert that success", 
+            "dur": "4.358", 
+            "start": "459.136"
+        }, 
+        {
+            "text": "into longer-term happiness\nand in particular,", 
+            "dur": "3.011", 
+            "start": "464.299"
+        }, 
+        {
+            "text": "how do you decide\nwhen is the right time to settle down?", 
+            "dur": "3.892", 
+            "start": "467.31"
+        }, 
+        {
+            "text": "Now generally,\nit&#39;s not advisable to just cash in", 
+            "dur": "3.178", 
+            "start": "471.202"
+        }, 
+        {
+            "text": "and marry the first person\nwho comes along", 
+            "dur": "1.96", 
+            "start": "474.38"
+        }, 
+        {
+            "text": "and shows you any interest at all.", 
+            "dur": "2.116", 
+            "start": "476.34"
+        }, 
+        {
+            "text": "But, equally, you don&#39;t really\nwant to leave it too long", 
+            "dur": "3.063", 
+            "start": "478.456"
+        }, 
+        {
+            "text": "if you want to maximize your chance\nof long-term happiness.", 
+            "dur": "3.321", 
+            "start": "481.519"
+        }, 
+        {
+            "text": "As my favorite author,\nJane Austen, puts it,", 
+            "dur": "3.598", 
+            "start": "484.84"
+        }, 
+        {
+            "text": "&quot;An unmarried woman of seven and twenty", 
+            "dur": "2.362", 
+            "start": "488.438"
+        }, 
+        {
+            "text": "can never hope to feel or inspire\naffection again.&quot;", 
+            "dur": "3.328", 
+            "start": "490.8"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.997", 
+            "start": "494.128"
+        }, 
+        {
+            "text": "Thanks a lot, Jane.\nWhat do you know about love?", 
+            "dur": "2.89", 
+            "start": "496.971"
+        }, 
+        {
+            "text": "So the question is then,", 
+            "dur": "1.499", 
+            "start": "501.336"
+        }, 
+        {
+            "text": "how do you know when\nis the right time to settle down", 
+            "dur": "2.494", 
+            "start": "502.835"
+        }, 
+        {
+            "text": "given all the people\nthat you can date in your lifetime?", 
+            "dur": "2.711", 
+            "start": "505.329"
+        }, 
+        {
+            "text": "Thankfully, there&#39;s a rather delicious bit\nof mathematics that we can use", 
+            "dur": "3.447", 
+            "start": "508.04"
+        }, 
+        {
+            "text": "to help us out here, called\noptimal stopping theory.", 
+            "dur": "2.502", 
+            "start": "511.487"
+        }, 
+        {
+            "text": "So let&#39;s imagine then,", 
+            "dur": "1.536", 
+            "start": "514.044"
+        }, 
+        {
+            "text": "that you start dating when you&#39;re 15", 
+            "dur": "2.407", 
+            "start": "515.58"
+        }, 
+        {
+            "text": "and ideally, you&#39;d like to be married\nby the time that you&#39;re 35.", 
+            "dur": "3.691", 
+            "start": "517.987"
+        }, 
+        {
+            "text": "And there&#39;s a number of people", 
+            "dur": "1.67", 
+            "start": "522.106"
+        }, 
+        {
+            "text": "that you could potentially\ndate across your lifetime,", 
+            "dur": "2.783", 
+            "start": "523.776"
+        }, 
+        {
+            "text": "and they&#39;ll be at varying levels\nof goodness.", 
+            "dur": "3.283", 
+            "start": "526.559"
+        }, 
+        {
+            "text": "Now the rules are that once you cash in\nand get married,", 
+            "dur": "3.484", 
+            "start": "529.842"
+        }, 
+        {
+            "text": "you can&#39;t look ahead to see\nwhat you could have had,", 
+            "dur": "2.917", 
+            "start": "533.326"
+        }, 
+        {
+            "text": "and equally, you can&#39;t go back\nand change your mind.", 
+            "dur": "2.485", 
+            "start": "536.243"
+        }, 
+        {
+            "text": "In my experience at least,", 
+            "dur": "1.447", 
+            "start": "538.728"
+        }, 
+        {
+            "text": "I find that typically people don&#39;t\nmuch like being recalled", 
+            "dur": "2.859", 
+            "start": "540.175"
+        }, 
+        {
+            "text": "years after being passed up\nfor somebody else, or that&#39;s just me.", 
+            "dur": "4.966", 
+            "start": "543.034"
+        }, 
+        {
+            "text": "So the math says then\nthat what you should do", 
+            "dur": "2.437", 
+            "start": "548.799"
+        }, 
+        {
+            "text": "in the first 37 percent\nof your dating window,", 
+            "dur": "3.229", 
+            "start": "551.236"
+        }, 
+        {
+            "text": "you should just reject everybody\nas serious marriage potential.", 
+            "dur": "3.893", 
+            "start": "554.465"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.246", 
+            "start": "558.358"
+        }, 
+        {
+            "text": "And then, you should pick\nthe next person that comes along", 
+            "dur": "3.497", 
+            "start": "560.604"
+        }, 
+        {
+            "text": "that is better than everybody\nthat you&#39;ve seen before.", 
+            "dur": "3.121", 
+            "start": "564.101"
+        }, 
+        {
+            "text": "So here&#39;s the example.", 
+            "dur": "1.667", 
+            "start": "567.222"
+        }, 
+        {
+            "text": "Now if you do this, it can be\nmathematically proven, in fact,", 
+            "dur": "4.436", 
+            "start": "568.889"
+        }, 
+        {
+            "text": "that this is the best possible way", 
+            "dur": "2.553", 
+            "start": "573.851"
+        }, 
+        {
+            "text": "of maximizing your chances\nof finding the perfect partner.", 
+            "dur": "3.738", 
+            "start": "576.404"
+        }, 
+        {
+            "text": "Now unfortunately, I have to tell you that\nthis method does come with some risks.", 
+            "dur": "4.338", 
+            "start": "580.77"
+        }, 
+        {
+            "text": "For instance,\nimagine if your perfect partner", 
+            "dur": "3.165", 
+            "start": "586.062"
+        }, 
+        {
+            "text": "appeared during your first 37 percent.", 
+            "dur": "2.464", 
+            "start": "590.382"
+        }, 
+        {
+            "text": "Now, unfortunately,\nyou&#39;d have to reject them.", 
+            "dur": "2.821", 
+            "start": "593.403"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.791", 
+            "start": "596.224"
+        }, 
+        {
+            "text": "Now, if you&#39;re following the maths,", 
+            "dur": "1.98", 
+            "start": "599.865"
+        }, 
+        {
+            "text": "I&#39;m afraid no one else comes along", 
+            "dur": "1.713", 
+            "start": "601.845"
+        }, 
+        {
+            "text": "that&#39;s better than anyone\nyou&#39;ve seen before,", 
+            "dur": "2.136", 
+            "start": "603.558"
+        }, 
+        {
+            "text": "so you have to go on\nrejecting everyone and die alone.", 
+            "dur": "3.782", 
+            "start": "605.694"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.616", 
+            "start": "609.476"
+        }, 
+        {
+            "text": "Probably surrounded by cats\nnibbling at your remains.", 
+            "dur": "4.26", 
+            "start": "612.092"
+        }, 
+        {
+            "text": "Okay, another risk is,\nlet&#39;s imagine, instead,", 
+            "dur": "4.189", 
+            "start": "617.069"
+        }, 
+        {
+            "text": "that the first people that you dated\nin your first 37 percent", 
+            "dur": "3.25", 
+            "start": "621.258"
+        }, 
+        {
+            "text": "are just incredibly dull,\nboring, terrible people.", 
+            "dur": "3.367", 
+            "start": "624.508"
+        }, 
+        {
+            "text": "Now, that&#39;s okay,\nbecause you&#39;re in your rejection phase -", 
+            "dur": "3.188", 
+            "start": "628.569"
+        }, 
+        {
+            "text": "that&#39;s okay,\nbecause you&#39;re in your rejection phase,", 
+            "dur": "2.971", 
+            "start": "632.847"
+        }, 
+        {
+            "text": "so thats fine, you can reject them.", 
+            "dur": "2.234", 
+            "start": "635.818"
+        }, 
+        {
+            "text": "But then imagine, the next person\nto come along", 
+            "dur": "2.857", 
+            "start": "638.642"
+        }, 
+        {
+            "text": "is just marginally less boring,\ndull and terrible", 
+            "dur": "3.112", 
+            "start": "641.499"
+        }, 
+        {
+            "text": "than everybody that you&#39;ve seen before.", 
+            "dur": "2.339", 
+            "start": "646.069"
+        }, 
+        {
+            "text": "Now, if you are following the maths,\nI&#39;m afraid you have to marry them", 
+            "dur": "3.832", 
+            "start": "648.408"
+        }, 
+        {
+            "text": "and end up in a relationship\nwhich is, frankly, suboptimal.", 
+            "dur": "3.481", 
+            "start": "652.24"
+        }, 
+        {
+            "text": "Sorry about that.", 
+            "dur": "1.211", 
+            "start": "656.03"
+        }, 
+        {
+            "text": "But I do think that there&#39;s\nan opportunity here", 
+            "dur": "2.262", 
+            "start": "657.241"
+        }, 
+        {
+            "text": "for Hallmark to cash in on\nand really cater for this market.", 
+            "dur": "2.878", 
+            "start": "659.503"
+        }, 
+        {
+            "text": "A Valentine&#39;s Day card like this.\n(Laughter)", 
+            "dur": "2.466", 
+            "start": "662.381"
+        }, 
+        {
+            "text": "&quot;My darling husband,\nyou are marginally less terrible", 
+            "dur": "3.609", 
+            "start": "664.847"
+        }, 
+        {
+            "text": "than the first 37 percent\nof people I dated.&quot;", 
+            "dur": "2.872", 
+            "start": "668.456"
+        }, 
+        {
+            "text": "It&#39;s actually more romantic\nthan I normally manage.", 
+            "dur": "2.748", 
+            "start": "673.258"
+        }, 
+        {
+            "text": "Okay, so this method doesn&#39;t give you\na 100 percent success rate,", 
+            "dur": "4.2", 
+            "start": "676.92"
+        }, 
+        {
+            "text": "but there&#39;s no other possible\nstrategy that can do any better.", 
+            "dur": "3.796", 
+            "start": "681.304"
+        }, 
+        {
+            "text": "And actually, in the wild,\nthere are certain types", 
+            "dur": "2.724", 
+            "start": "685.1"
+        }, 
+        {
+            "text": "of fish which follow\nand employ this exact strategy.", 
+            "dur": "3.217", 
+            "start": "687.824"
+        }, 
+        {
+            "text": "So they reject every possible suitor\nthat turns up", 
+            "dur": "2.455", 
+            "start": "691.041"
+        }, 
+        {
+            "text": "in the first 37 percent\nof the mating season,", 
+            "dur": "3.129", 
+            "start": "693.496"
+        }, 
+        {
+            "text": "and then they pick the next fish\nthat comes along after that window", 
+            "dur": "3.593", 
+            "start": "696.625"
+        }, 
+        {
+            "text": "that&#39;s, I don&#39;t know, bigger and burlier", 
+            "dur": "2.303", 
+            "start": "700.218"
+        }, 
+        {
+            "text": "than all of the fish\nthat they&#39;ve seen before.", 
+            "dur": "2.689", 
+            "start": "702.521"
+        }, 
+        {
+            "text": "I also think that subconsciously,\nhumans, we do sort of do this anyway.", 
+            "dur": "4.705", 
+            "start": "705.21"
+        }, 
+        {
+            "text": "We give ourselves a little bit of time\nto play the field,", 
+            "dur": "3.029", 
+            "start": "709.915"
+        }, 
+        {
+            "text": "get a feel for the marketplace\nor whatever when we&#39;re young.", 
+            "dur": "3.471", 
+            "start": "712.944"
+        }, 
+        {
+            "text": "And then we only start looking seriously\nat potential marriage candidates", 
+            "dur": "4.881", 
+            "start": "716.415"
+        }, 
+        {
+            "text": "once we hit our mid-to-late 20s.", 
+            "dur": "2.029", 
+            "start": "721.296"
+        }, 
+        {
+            "text": "I think this is conclusive proof,\nif ever it were needed,", 
+            "dur": "3.333", 
+            "start": "723.325"
+        }, 
+        {
+            "text": "that everybody&#39;s brains are prewired\nto be just a little bit mathematical.", 
+            "dur": "3.942", 
+            "start": "726.658"
+        }, 
+        {
+            "text": "Okay, so that was Top Tip #2.", 
+            "dur": "2.083", 
+            "start": "730.886"
+        }, 
+        {
+            "text": "Now, Top Tip #3: How to avoid divorce.", 
+            "dur": "3.282", 
+            "start": "732.969"
+        }, 
+        {
+            "text": "Okay, so let&#39;s imagine then\nthat you picked your perfect partner", 
+            "dur": "3.052", 
+            "start": "737.713"
+        }, 
+        {
+            "text": "and you&#39;re settling into\na lifelong relationship with them.", 
+            "dur": "3.185", 
+            "start": "740.765"
+        }, 
+        {
+            "text": "Now, I like to think that everybody\nwould ideally like to avoid divorce,", 
+            "dur": "3.754", 
+            "start": "744.841"
+        }, 
+        {
+            "text": "apart from, I don&#39;t know,\nPiers Morgan&#39;s wife, maybe?", 
+            "dur": "3.624", 
+            "start": "748.595"
+        }, 
+        {
+            "text": "But it&#39;s a sad fact of modern life", 
+            "dur": "2.174", 
+            "start": "754.904"
+        }, 
+        {
+            "text": "that 1 in 2 marriages\nin the States ends in divorce,", 
+            "dur": "3.344", 
+            "start": "757.078"
+        }, 
+        {
+            "text": "with the rest of the world\nnot being far behind.", 
+            "dur": "3.349", 
+            "start": "760.422"
+        }, 
+        {
+            "text": "Now, you can be forgiven, perhaps", 
+            "dur": "2.02", 
+            "start": "763.989"
+        }, 
+        {
+            "text": "for thinking that the arguments\nthat precede a marital breakup", 
+            "dur": "3.661", 
+            "start": "766.009"
+        }, 
+        {
+            "text": "are not an ideal candidate\nfor mathematical investigation.", 
+            "dur": "3.766", 
+            "start": "769.67"
+        }, 
+        {
+            "text": "For one thing, it&#39;s very hard to know", 
+            "dur": "1.814", 
+            "start": "773.436"
+        }, 
+        {
+            "text": "what you should be measuring\nor what you should be quantifying.", 
+            "dur": "3.198", 
+            "start": "775.25"
+        }, 
+        {
+            "text": "But this didn&#39;t stop a psychologist,\nJohn Gottman, who did exactly that.", 
+            "dur": "5.709", 
+            "start": "778.448"
+        }, 
+        {
+            "text": "Gottman observed hundreds of couples\nhaving a conversation", 
+            "dur": "4.848", 
+            "start": "784.711"
+        }, 
+        {
+            "text": "and recorded, well,\neverything you can think of.", 
+            "dur": "2.762", 
+            "start": "789.676"
+        }, 
+        {
+            "text": "So he recorded what was said\nin the conversation,", 
+            "dur": "2.412", 
+            "start": "792.438"
+        }, 
+        {
+            "text": "he recorded their skin conductivity,", 
+            "dur": "2.339", 
+            "start": "794.85"
+        }, 
+        {
+            "text": "he recorded their facial expressions,", 
+            "dur": "1.845", 
+            "start": "797.189"
+        }, 
+        {
+            "text": "their heart rates, their blood pressure,", 
+            "dur": "1.989", 
+            "start": "799.034"
+        }, 
+        {
+            "text": "basically everything apart from whether\nor not the wife was actually always right,", 
+            "dur": "4.773", 
+            "start": "801.023"
+        }, 
+        {
+            "text": "which incidentally she totally is.", 
+            "dur": "2.329", 
+            "start": "807.257"
+        }, 
+        {
+            "text": "But what Gottman and his team found", 
+            "dur": "2.531", 
+            "start": "810.608"
+        }, 
+        {
+            "text": "was that one of the most important\npredictors", 
+            "dur": "3.012", 
+            "start": "813.139"
+        }, 
+        {
+            "text": "for whether or not a couple\nis going to get divorced", 
+            "dur": "2.467", 
+            "start": "816.151"
+        }, 
+        {
+            "text": "was how positive or negative each partner\nwas being in the conversation.", 
+            "dur": "4.428", 
+            "start": "818.618"
+        }, 
+        {
+            "text": "Now, couples that were very low-risk", 
+            "dur": "2.386", 
+            "start": "823.727"
+        }, 
+        {
+            "text": "scored a lot more positive points\non Gottman&#39;s scale than negative.", 
+            "dur": "4.07", 
+            "start": "826.113"
+        }, 
+        {
+            "text": "Whereas bad relationships,", 
+            "dur": "2.284", 
+            "start": "830.183"
+        }, 
+        {
+            "text": "by which I mean, probably\ngoing to get divorced,", 
+            "dur": "3.028", 
+            "start": "832.467"
+        }, 
+        {
+            "text": "they found themselves\ngetting into a spiral of negativity.", 
+            "dur": "4.528", 
+            "start": "835.495"
+        }, 
+        {
+            "text": "Now just by using these very simple ideas,", 
+            "dur": "2.129", 
+            "start": "840.74"
+        }, 
+        {
+            "text": "Gottman and his group were able to predict", 
+            "dur": "2.564", 
+            "start": "842.869"
+        }, 
+        {
+            "text": "whether a given couple\nwas going to get divorced", 
+            "dur": "2.715", 
+            "start": "845.433"
+        }, 
+        {
+            "text": "with a 90 percent accuracy.", 
+            "dur": "2.536", 
+            "start": "848.148"
+        }, 
+        {
+            "text": "But it wasn&#39;t until he teamed up\nwith a mathematician, James Murray,", 
+            "dur": "3.388", 
+            "start": "851.137"
+        }, 
+        {
+            "text": "that they really started to understand", 
+            "dur": "2.003", 
+            "start": "854.525"
+        }, 
+        {
+            "text": "what causes these negativity spirals\nand how they occur.", 
+            "dur": "4.052", 
+            "start": "856.528"
+        }, 
+        {
+            "text": "And the results that they found", 
+            "dur": "1.922", 
+            "start": "860.58"
+        }, 
+        {
+            "text": "I think are just incredibly\nimpressively simple and interesting.", 
+            "dur": "3.698", 
+            "start": "862.502"
+        }, 
+        {
+            "text": "So here they are.", 
+            "dur": "1.284", 
+            "start": "868.267"
+        }, 
+        {
+            "text": "I think that should be fairly clear.", 
+            "dur": "2.121", 
+            "start": "873.359"
+        }, 
+        {
+            "text": "So these equations, they predict how\nthe wife or husband is going to respond", 
+            "dur": "5.573", 
+            "start": "876.898"
+        }, 
+        {
+            "text": "in their next turn of the conversation,", 
+            "dur": "1.896", 
+            "start": "883.396"
+        }, 
+        {
+            "text": "how positive or negative\nthey&#39;re going to be.", 
+            "dur": "2.144", 
+            "start": "885.292"
+        }, 
+        {
+            "text": "And these equations, they depend on", 
+            "dur": "1.698", 
+            "start": "887.436"
+        }, 
+        {
+            "text": "the mood of the person\nwhen they&#39;re on their own,", 
+            "dur": "2.355", 
+            "start": "889.134"
+        }, 
+        {
+            "text": "the mood of the person when\nthey&#39;re with their partner,", 
+            "dur": "2.547", 
+            "start": "891.489"
+        }, 
+        {
+            "text": "but most importantly, they depend on", 
+            "dur": "1.879", 
+            "start": "894.036"
+        }, 
+        {
+            "text": "how much the husband and wife\ninfluence one another.", 
+            "dur": "2.699", 
+            "start": "895.915"
+        }, 
+        {
+            "text": "Now, I think it&#39;s important\nto point out at this stage,", 
+            "dur": "2.625", 
+            "start": "899.191"
+        }, 
+        {
+            "text": "that these exact equations\nhave also been shown", 
+            "dur": "3.393", 
+            "start": "901.816"
+        }, 
+        {
+            "text": "to be perfectly able at describing", 
+            "dur": "2.786", 
+            "start": "905.209"
+        }, 
+        {
+            "text": "what happens between two countries\nin an arms race.", 
+            "dur": "3.307", 
+            "start": "907.995"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.585", 
+            "start": "911.983"
+        }, 
+        {
+            "text": "So that - an arguing couple\nspiraling into negativity", 
+            "dur": "3.803", 
+            "start": "915.605"
+        }, 
+        {
+            "text": "and teetering on the brink of divorce -", 
+            "dur": "2.07", 
+            "start": "919.408"
+        }, 
+        {
+            "text": "is actually mathematically equivalent\nto the beginning of a nuclear war.", 
+            "dur": "4.111", 
+            "start": "921.478"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.229", 
+            "start": "925.589"
+        }, 
+        {
+            "text": "But the really important term\nin this equation", 
+            "dur": "2.213", 
+            "start": "928.456"
+        }, 
+        {
+            "text": "is the influence that people\nhave on one another,", 
+            "dur": "2.481", 
+            "start": "930.669"
+        }, 
+        {
+            "text": "and in particular, something called\nthe negativity threshold.", 
+            "dur": "3.158", 
+            "start": "933.15"
+        }, 
+        {
+            "text": "Now, the negativity threshold,", 
+            "dur": "1.861", 
+            "start": "936.308"
+        }, 
+        {
+            "text": "you can think of as\nhow annoying the husband can be", 
+            "dur": "4.511", 
+            "start": "938.169"
+        }, 
+        {
+            "text": "before the wife starts to get\nreally pissed off, and vice versa.", 
+            "dur": "4.078", 
+            "start": "942.68"
+        }, 
+        {
+            "text": "Now, I always thought that good marriages\nwere about compromise and understanding", 
+            "dur": "4.367", 
+            "start": "947.285"
+        }, 
+        {
+            "text": "and allowing the person\nto have the space to be themselves.", 
+            "dur": "2.935", 
+            "start": "951.652"
+        }, 
+        {
+            "text": "So I would have thought that perhaps\nthe most successful relationships", 
+            "dur": "3.305", 
+            "start": "954.587"
+        }, 
+        {
+            "text": "were ones where there was\na really high negativity threshold.", 
+            "dur": "3.048", 
+            "start": "957.892"
+        }, 
+        {
+            "text": "Where couples let things go", 
+            "dur": "1.941", 
+            "start": "960.94"
+        }, 
+        {
+            "text": "and only brought things up\nif they really were a big deal.", 
+            "dur": "2.963", 
+            "start": "962.881"
+        }, 
+        {
+            "text": "But actually, the mathematics\nand subsequent findings by the team", 
+            "dur": "4.216", 
+            "start": "965.844"
+        }, 
+        {
+            "text": "have shown the exact opposite is true.", 
+            "dur": "2.763", 
+            "start": "970.06"
+        }, 
+        {
+            "text": "The best couples,\nor the most successful couples,", 
+            "dur": "2.554", 
+            "start": "972.823"
+        }, 
+        {
+            "text": "are the ones with\na really low negativity threshold.", 
+            "dur": "3.177", 
+            "start": "975.377"
+        }, 
+        {
+            "text": "These are the couples that don&#39;t let\nanything go unnoticed", 
+            "dur": "4.215", 
+            "start": "978.554"
+        }, 
+        {
+            "text": "and allow each other\nsome room to complain.", 
+            "dur": "2.941", 
+            "start": "982.769"
+        }, 
+        {
+            "text": "These are the couples that are continually\ntrying to repair their own relationship,", 
+            "dur": "5.225", 
+            "start": "985.71"
+        }, 
+        {
+            "text": "that have a much more positive\noutlook on their marriage.", 
+            "dur": "2.943", 
+            "start": "990.935"
+        }, 
+        {
+            "text": "Couples that don&#39;t let things go", 
+            "dur": "1.95", 
+            "start": "993.878"
+        }, 
+        {
+            "text": "and couples that don&#39;t let trivial things\nend up being a really big deal.", 
+            "dur": "4.907", 
+            "start": "995.828"
+        }, 
+        {
+            "text": "Now of course, it takes bit more\nthan just a low negativity threshold", 
+            "dur": "5.167", 
+            "start": "1001.402"
+        }, 
+        {
+            "text": "and not compromising to have\na successful relationship.", 
+            "dur": "4.063", 
+            "start": "1006.569"
+        }, 
+        {
+            "text": "But I think that it&#39;s quite interesting", 
+            "dur": "3.117", 
+            "start": "1010.874"
+        }, 
+        {
+            "text": "to know that there is really\nmathematical evidence", 
+            "dur": "2.376", 
+            "start": "1013.991"
+        }, 
+        {
+            "text": "to say that you should never\nlet the sun go down on your anger.", 
+            "dur": "3.275", 
+            "start": "1016.367"
+        }, 
+        {
+            "text": "So those are my top three tips", 
+            "dur": "2.03", 
+            "start": "1019.642"
+        }, 
+        {
+            "text": "of how maths can help you\nwith love and relationships.", 
+            "dur": "3.041", 
+            "start": "1021.672"
+        }, 
+        {
+            "text": "But I hope\nthat aside from their use as tips,", 
+            "dur": "2.312", 
+            "start": "1024.713"
+        }, 
+        {
+            "text": "they also give you a little bit of insight\ninto the power of mathematics.", 
+            "dur": "4.165", 
+            "start": "1027.025"
+        }, 
+        {
+            "text": "Because for me, equations and symbols\naren&#39;t just a thing.", 
+            "dur": "4.324", 
+            "start": "1031.19"
+        }, 
+        {
+            "text": "They&#39;re a voice that speaks out\nabout the incredible richness of nature", 
+            "dur": "4.564", 
+            "start": "1035.785"
+        }, 
+        {
+            "text": "and the startling simplicity", 
+            "dur": "2.148", 
+            "start": "1040.349"
+        }, 
+        {
+            "text": "in the patterns that twist and turn\nand warp and evolve all around us,", 
+            "dur": "4.673", 
+            "start": "1042.497"
+        }, 
+        {
+            "text": "from how the world works to how we behave.", 
+            "dur": "2.47", 
+            "start": "1047.17"
+        }, 
+        {
+            "text": "So I hope that perhaps,\nfor just a couple of you,", 
+            "dur": "2.308", 
+            "start": "1049.64"
+        }, 
+        {
+            "text": "a little bit of insight into\nthe mathematics of love", 
+            "dur": "2.443", 
+            "start": "1051.948"
+        }, 
+        {
+            "text": "can persuade you to have a little bit\nmore love for mathematics.", 
+            "dur": "3.281", 
+            "start": "1054.391"
+        }, 
+        {
+            "text": "Thank you.", 
+            "dur": "1.123", 
+            "start": "1057.672"
+        }, 
+        {
+            "text": "(Applause)", 
+            "dur": "1.926", 
+            "start": "1058.795"
+        }
+    ], 
+    "title": "The mathematics of love | Hannah Fry | TEDxBinghamtonUniversity", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/058p1b", 
+        "/m/04rjg", 
+        "/m/04181l6"
+    ], 
+    "number_views": 179248, 
+    "categories": [
+        29
+    ], 
+    "comments": null
+}

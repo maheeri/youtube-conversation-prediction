@@ -1,0 +1,587 @@
+{
+    "publish_date": "2015-02-26T16:00:01.000Z", 
+    "video_length": "PT7M47S", 
+    "captions": [
+        {
+            "text": "- I&#39;m actually gonna use my arm so I can high-five\nso many people, 106.", 
+            "dur": "7", 
+            "start": "0.14"
+        }, 
+        {
+            "text": "- You&#39;re gonna high-five 106 people?", 
+            "dur": "2.16", 
+            "start": "8.36"
+        }, 
+        {
+            "text": "- Yeah.", 
+            "dur": "0.34", 
+            "start": "10.52"
+        }, 
+        {
+            "text": "- Aren&#39;t you gonna get tired?", 
+            "dur": "1.74", 
+            "start": "10.86"
+        }, 
+        {
+            "text": "- No, because my robo-arm&#39;s going to do all\nthe work.", 
+            "dur": "3.459", 
+            "start": "12.6"
+        }, 
+        {
+            "text": "- Alex was born without a fully formed arm.\nA condition that affects around 1,500 babies", 
+            "dur": "4.29", 
+            "start": "16.059"
+        }, 
+        {
+            "text": "born in the U.S. every year. I&#39;m here to see\nhim get fitted with a new arm. We have come", 
+            "dur": "5.92", 
+            "start": "20.349"
+        }, 
+        {
+            "text": "a long way in the development of prosthetic\nlimbs. You might think of the earliest prosthetic", 
+            "dur": "5.83", 
+            "start": "26.269"
+        }, 
+        {
+            "text": "as maybe a peg-leg for a sailor, but it actually\ndates back much further than that. In fact,", 
+            "dur": "5.401", 
+            "start": "32.099"
+        }, 
+        {
+            "text": "over 3,000 years ago to Ancient Egypt. The\nthought was that our lives have a finite length,", 
+            "dur": "5.559", 
+            "start": "37.5"
+        }, 
+        {
+            "text": "but that the after-life is eternal. And according\nto the theology of Osiris, the body needed", 
+            "dur": "5.381", 
+            "start": "43.059"
+        }, 
+        {
+            "text": "to be complete, because the soul would leave\nthe body, in theory, and every night, come", 
+            "dur": "5.279", 
+            "start": "48.44"
+        }, 
+        {
+            "text": "back to replenish its energy in the body.\nAnd it was so important that that body be", 
+            "dur": "4.381", 
+            "start": "53.719"
+        }, 
+        {
+            "text": "full. And so there are many instances of prosthetic\nnoses, ears, toes, and limbs, which were used", 
+            "dur": "7", 
+            "start": "58.1"
+        }, 
+        {
+            "text": "in Ancient Egypt to ensure that the body was\ncomplete. But a lot of those prosthetics weren&#39;t", 
+            "dur": "5.159", 
+            "start": "66.39"
+        }, 
+        {
+            "text": "actually functional. So prosthetics developed\nfrom simply being aesthetic aids to actually", 
+            "dur": "5.621", 
+            "start": "71.549"
+        }, 
+        {
+            "text": "becoming functional. Globally, there are an\nestimated 3 million people living without", 
+            "dur": "5.83", 
+            "start": "77.17"
+        }, 
+        {
+            "text": "an upper limb. Over the last 10 to 20 years,\nwe&#39;ve seen remarkable advancement in the development", 
+            "dur": "4.899", 
+            "start": "83"
+        }, 
+        {
+            "text": "of bionic limbs. The problem with these prostheses,\nis they typically cost on the order of $20,000", 
+            "dur": "5.32", 
+            "start": "87.899"
+        }, 
+        {
+            "text": "to $100,000. Now, here at UCF, they&#39;re building\nan arm which can be used and manufactured", 
+            "dur": "7", 
+            "start": "93.219"
+        }, 
+        {
+            "text": "for much, much cheaper, like 1% of that cost.\nHow did you get inspired to design an arm", 
+            "dur": "6.94", 
+            "start": "100.31"
+        }, 
+        {
+            "text": "for children?", 
+            "dur": "1.13", 
+            "start": "107.25"
+        }, 
+        {
+            "text": "- I was on my way to work, and I was listening\nto the radio, and there was an interview with", 
+            "dur": "5.919", 
+            "start": "108.38"
+        }, 
+        {
+            "text": "the person who developed the first 3D-printed\nhand. And I went into my research lab and", 
+            "dur": "4.801", 
+            "start": "114.299"
+        }, 
+        {
+            "text": "I said I have to be a part of this, what can\nI do to help? And then we had Alex&#39;s parents", 
+            "dur": "5.479", 
+            "start": "119.1"
+        }, 
+        {
+            "text": "contact us directly saying, &quot;Can you build\nour son an arm?&quot;", 
+            "dur": "3.06", 
+            "start": "124.579"
+        }, 
+        {
+            "text": "- The arm itself is completely 3D-printed\nand so are the joints between the fingers.", 
+            "dur": "5.041", 
+            "start": "127.639"
+        }, 
+        {
+            "text": "So there&#39;s a cable which runs down the length\nof each finger and back into the hand. They", 
+            "dur": "4.79", 
+            "start": "132.68"
+        }, 
+        {
+            "text": "would normally be connected up to this servo\nmotor, here. Now the idea is to trigger this", 
+            "dur": "4.09", 
+            "start": "137.47"
+        }, 
+        {
+            "text": "motor via the arm of the person who&#39;s wearing\nit. So they would wear three electrodes on", 
+            "dur": "5.509", 
+            "start": "141.56"
+        }, 
+        {
+            "text": "their upper arm. When the person wearing the\narm squeezes their muscle, there&#39;s a little", 
+            "dur": "4.25", 
+            "start": "147.069"
+        }, 
+        {
+            "text": "electrical pulse, which triggers this motor\nto pull in 180 degrees. One pulse will close", 
+            "dur": "6.301", 
+            "start": "151.319"
+        }, 
+        {
+            "text": "the hand, like this, and then another pulse\nwill relax it, so it opens back up.", 
+            "dur": "5.25", 
+            "start": "157.62"
+        }, 
+        {
+            "text": "- Our arm provides a level of self-confidence\nto the children. Whenever they&#39;re going to", 
+            "dur": "3.39", 
+            "start": "162.87"
+        }, 
+        {
+            "text": "school there&#39;s questions asked, like &quot;what\nhappened to your arm? Did you get bit by a", 
+            "dur": "2.869", 
+            "start": "166.26"
+        }, 
+        {
+            "text": "shark or run over by a car or something?&quot;\nAfter we gave them the arm it quickly changed", 
+            "dur": "3.701", 
+            "start": "169.129"
+        }, 
+        {
+            "text": "to &quot;whoa, that&#39;s a cool arm! How does it work?\nWhere did you get it?&quot;", 
+            "dur": "2.989", 
+            "start": "172.83"
+        }, 
+        {
+            "text": "- I like to do stuff with my arm. Like, pick\nup stuff, hold my paper when I&#39;m drawin&#39; I", 
+            "dur": "6.261", 
+            "start": "175.819"
+        }, 
+        {
+            "text": "actually bring it to school so I can actually\ndo other stuff.", 
+            "dur": "4.27", 
+            "start": "182.08"
+        }, 
+        {
+            "text": "- 3D printing is relatively new technology\nbut it provides us a low-cost solution to", 
+            "dur": "5.389", 
+            "start": "186.35"
+        }, 
+        {
+            "text": "be able to create things so we can print something\nout and say, it doesn&#39;t work, and just redesign", 
+            "dur": "3.871", 
+            "start": "191.739"
+        }, 
+        {
+            "text": "it and print it out again the next day. We\nproduce our arm for just about $300 now, whereas", 
+            "dur": "3.879", 
+            "start": "195.61"
+        }, 
+        {
+            "text": "some of the prosthetics on the market can\ngo upwards of $40,000. Insurance companies", 
+            "dur": "4", 
+            "start": "199.489"
+        }, 
+        {
+            "text": "typically don&#39;t want to pay for it for kids\nbecause every six months, they&#39;re going to", 
+            "dur": "3.271", 
+            "start": "203.489"
+        }, 
+        {
+            "text": "have to replace it as the kid grows. But this\nallows us to be able to reproduce an arm for", 
+            "dur": "4.63", 
+            "start": "206.76"
+        }, 
+        {
+            "text": "about maybe $100 and just print out a new\none.", 
+            "dur": "2.35", 
+            "start": "211.39"
+        }, 
+        {
+            "text": "- How important is the aesthetic design, the\nartistic design of the arm?", 
+            "dur": "3.559", 
+            "start": "213.74"
+        }, 
+        {
+            "text": "- We thought kids just wanted to blend in,\nto feel normal, but we found it&#39;s much more", 
+            "dur": "4.061", 
+            "start": "217.299"
+        }, 
+        {
+            "text": "about personal identity and expression.", 
+            "dur": "1.98", 
+            "start": "221.36"
+        }, 
+        {
+            "text": "- We want to make sure the kid is expressing\nhimself, or herself, with the arm. Self expression", 
+            "dur": "4.25", 
+            "start": "223.34"
+        }, 
+        {
+            "text": "for a kid is very important.", 
+            "dur": "1.249", 
+            "start": "227.59"
+        }, 
+        {
+            "text": "- We have one sleeve right here. This one\nis actually themed around the Disney movie", 
+            "dur": "3.26", 
+            "start": "228.839"
+        }, 
+        {
+            "text": "Tangled, we provided this for a little girl\nnamed Madeline.", 
+            "dur": "2.051", 
+            "start": "232.099"
+        }, 
+        {
+            "text": "- The design is so simple that it is easy\nto print out on location and put together", 
+            "dur": "4.399", 
+            "start": "234.15"
+        }, 
+        {
+            "text": "even with very little technical knowledge.\nAnd also the functionality of the design,", 
+            "dur": "4.02", 
+            "start": "238.549"
+        }, 
+        {
+            "text": "with only three electrodes actuating the one\nservo, make it so that people can learn to", 
+            "dur": "4.76", 
+            "start": "242.569"
+        }, 
+        {
+            "text": "use it very quickly. And that, I think, is\nwhat makes it so powerful.", 
+            "dur": "3.351", 
+            "start": "247.329"
+        }, 
+        {
+            "text": "- Think I&#39;ll have any luck there? 50/50?", 
+            "dur": "2.62", 
+            "start": "250.68"
+        }, 
+        {
+            "text": "- 50/50. Alright!", 
+            "dur": "1.09", 
+            "start": "253.3"
+        }, 
+        {
+            "text": "- Look at that, I can give it to you.", 
+            "dur": "4.93", 
+            "start": "254.39"
+        }, 
+        {
+            "text": "- Yup.", 
+            "dur": "0.55", 
+            "start": "259.32"
+        }, 
+        {
+            "text": "- I&#39;m really excited right now about trying\nit out, and how to do summersaults, and do", 
+            "dur": "5.68", 
+            "start": "259.87"
+        }, 
+        {
+            "text": "some things I&#39;ve never done before. I want\nto play video games with it and hug with two", 
+            "dur": "5.38", 
+            "start": "265.55"
+        }, 
+        {
+            "text": "hands.", 
+            "dur": "0.25", 
+            "start": "270.93"
+        }, 
+        {
+            "text": "- How have you been able to crack this problem\nthat other people haven&#39;t before?", 
+            "dur": "4.85", 
+            "start": "271.01"
+        }, 
+        {
+            "text": "- We have an incredible team of very diverse\nbackgrounds. And so bringing all of our common", 
+            "dur": "5.86", 
+            "start": "275.86"
+        }, 
+        {
+            "text": "experience together, we were able to find\nthis type of solution. Our main base is in", 
+            "dur": "4.67", 
+            "start": "281.72"
+        }, 
+        {
+            "text": "Orlando, Florida at the University of Central\nFlorida. We have our designers in California,", 
+            "dur": "5.83", 
+            "start": "286.39"
+        }, 
+        {
+            "text": "I&#39;m here in Germany, and everywhere in between,\nwe have people trying to help us and support", 
+            "dur": "5.4", 
+            "start": "292.22"
+        }, 
+        {
+            "text": "our project. Although it&#39;s challenging, we&#39;re\nmaking it work.", 
+            "dur": "2.02", 
+            "start": "297.62"
+        }, 
+        {
+            "text": "- A lot of our communication comes through\nMicrosoft OneNote, and we use this product", 
+            "dur": "4.86", 
+            "start": "299.64"
+        }, 
+        {
+            "text": "to be able to share information through each\nother, specifically since Albert is in Germany", 
+            "dur": "3.94", 
+            "start": "304.5"
+        }, 
+        {
+            "text": "so that&#39;s a whole ocean away.", 
+            "dur": "1.51", 
+            "start": "308.44"
+        }, 
+        {
+            "text": "- [Albert] I think the best part of OneNote\nis that you can edit it from anywhere in the", 
+            "dur": "2.85", 
+            "start": "309.95"
+        }, 
+        {
+            "text": "world and have it simultaneously update anyone\nelse on the project. So being able to get", 
+            "dur": "4.8", 
+            "start": "312.8"
+        }, 
+        {
+            "text": "updates from my team and see the progress\nthey&#39;re making, enables me to help do my job", 
+            "dur": "3.82", 
+            "start": "317.6"
+        }, 
+        {
+            "text": "here in Germany.", 
+            "dur": "1.1", 
+            "start": "321.42"
+        }, 
+        {
+            "text": "- What is the Collective Project?", 
+            "dur": "1.369", 
+            "start": "322.52"
+        }, 
+        {
+            "text": "- Microsoft is looking for students who are\nwanting to impact their community with great", 
+            "dur": "4.511", 
+            "start": "323.889"
+        }, 
+        {
+            "text": "ideas. And they&#39;re looking to rally their\ncommunities and the world around them to help", 
+            "dur": "4.45", 
+            "start": "328.4"
+        }, 
+        {
+            "text": "bring it to life.", 
+            "dur": "0.91", 
+            "start": "332.85"
+        }, 
+        {
+            "text": "- Our biggest needs right now is one, we need\nfunding. We need more donations to be able", 
+            "dur": "5.02", 
+            "start": "333.76"
+        }, 
+        {
+            "text": "to make this a reality and make these children&#39;s\ndreams come true.", 
+            "dur": "3.46", 
+            "start": "338.78"
+        }, 
+        {
+            "text": "- You want to provide free arms to every kid\nwho needs one.", 
+            "dur": "2.94", 
+            "start": "342.24"
+        }, 
+        {
+            "text": "- Absolutely, we don&#39;t feel like people should\nprofit from a child without an arm.", 
+            "dur": "2.66", 
+            "start": "345.18"
+        }, 
+        {
+            "text": "- We&#39;re hoping for people that jump on board\nand help develop arms for their local area,", 
+            "dur": "4.9", 
+            "start": "347.84"
+        }, 
+        {
+            "text": "if they want to help with design, they&#39;re\nmore than welcome to join our project and", 
+            "dur": "3.99", 
+            "start": "352.74"
+        }, 
+        {
+            "text": "be designing arms. They can be printing our\narms, and helping fit them for their local", 
+            "dur": "5.1", 
+            "start": "356.73"
+        }, 
+        {
+            "text": "community, or they can just send us advice\non how to best tailor these for the future.", 
+            "dur": "4.66", 
+            "start": "361.83"
+        }, 
+        {
+            "text": "We can use all the help we can get.", 
+            "dur": "1.7", 
+            "start": "366.49"
+        }, 
+        {
+            "text": "- Where do you want to see the Limbitless\nArm go?", 
+            "dur": "2.81", 
+            "start": "368.19"
+        }, 
+        {
+            "text": "- My hope for the future is to be able to\nincrease the functionality of the arm to encompass", 
+            "dur": "4.22", 
+            "start": "371"
+        }, 
+        {
+            "text": "maybe an elbow or even an upper limb socket.\nAnd then be able to produce this on a larger", 
+            "dur": "6.68", 
+            "start": "375.22"
+        }, 
+        {
+            "text": "scale for as many children in the world who\nneed it.", 
+            "dur": "2.88", 
+            "start": "381.9"
+        }, 
+        {
+            "text": "- As each child comes to us, we really understand\nand appreciate the need for the readily adaptable,", 
+            "dur": "5.6", 
+            "start": "384.78"
+        }, 
+        {
+            "text": "readily deployable solution to each individual\nand unique biology.", 
+            "dur": "4.71", 
+            "start": "390.38"
+        }, 
+        {
+            "text": "- We&#39;re trying to get an elbow going for Alex\nso he has not only hand movement but he can", 
+            "dur": "6.31", 
+            "start": "395.09"
+        }, 
+        {
+            "text": "also move the elbow as well. To overcome that\nwe have to make this also bigger to be able", 
+            "dur": "4.61", 
+            "start": "401.4"
+        }, 
+        {
+            "text": "to put another servo in there. We like ideas.\nNot just, this is our way this is how it has", 
+            "dur": "5.54", 
+            "start": "406.01"
+        }, 
+        {
+            "text": "to be. Anything&#39;s possible. We like to broaden\nour field as well.", 
+            "dur": "4.4", 
+            "start": "411.55"
+        }, 
+        {
+            "text": "- I think we&#39;re just at the beginning of something\nreally great and I hope that with a little", 
+            "dur": "4.01", 
+            "start": "415.95"
+        }, 
+        {
+            "text": "bit of help we&#39;re going to be able to take\nthis to the UN and UNICEF and really impact", 
+            "dur": "3.44", 
+            "start": "419.96"
+        }, 
+        {
+            "text": "children all over the world.", 
+            "dur": "1.44", 
+            "start": "423.4"
+        }, 
+        {
+            "text": "- Thank you guys for making this big project\nfor me.", 
+            "dur": "3.21", 
+            "start": "424.84"
+        }, 
+        {
+            "text": "- That&#39;s fantastic, thank you so much for\nchatting with me.", 
+            "dur": "2.79", 
+            "start": "428.05"
+        }, 
+        {
+            "text": "- Thank you!", 
+            "dur": "1.14", 
+            "start": "430.84"
+        }, 
+        {
+            "text": "- Ah, haha, you&#39;re very welcome. This video\nwas supported by Microsoft OneNote. In their", 
+            "dur": "5.47", 
+            "start": "431.98"
+        }, 
+        {
+            "text": "Collective Project, they have identified student\ngroups around the country who are working", 
+            "dur": "4.8", 
+            "start": "437.45"
+        }, 
+        {
+            "text": "together, using their software in order to\nchange the world. And the whole point of the", 
+            "dur": "4.11", 
+            "start": "442.25"
+        }, 
+        {
+            "text": "Collective Project is to bring people together\nand you can get involved as well by clicking", 
+            "dur": "3.98", 
+            "start": "446.36"
+        }, 
+        {
+            "text": "on the link in the description, you could\nhelp by providing new designs for arms, by", 
+            "dur": "4.53", 
+            "start": "450.34"
+        }, 
+        {
+            "text": "helping with software or even 3D printing\nin your own community. And that will help", 
+            "dur": "4.43", 
+            "start": "454.87"
+        }, 
+        {
+            "text": "get more of these arms out to the kids who\nneed them. So, I really want you to get involved,", 
+            "dur": "4.83", 
+            "start": "459.3"
+        }, 
+        {
+            "text": "check out the link in the description.", 
+            "dur": "1.59", 
+            "start": "464.13"
+        }
+    ], 
+    "title": "An Affordable 3D-Printed Arm", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04rk8g", 
+        "/m/0c5mq"
+    ], 
+    "number_views": 792493, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

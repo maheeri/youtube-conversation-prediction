@@ -1,0 +1,883 @@
+{
+    "publish_date": "2012-01-21T02:23:51.000Z", 
+    "video_length": "PT6M7S", 
+    "captions": [
+        {
+            "text": "So say you&#39;re me and\nyou&#39;re in math class", 
+            "dur": "1.58", 
+            "start": "0.1"
+        }, 
+        {
+            "text": "and you&#39;re trying to\nignore the teacher", 
+            "dur": "1.3", 
+            "start": "1.68"
+        }, 
+        {
+            "text": "and doodle Fibonacci\nspirals, while simultaneously", 
+            "dur": "2.24", 
+            "start": "2.98"
+        }, 
+        {
+            "text": "trying to fend off\nthe local greenery.", 
+            "dur": "1.59", 
+            "start": "5.22"
+        }, 
+        {
+            "text": "Only, you become\ninterested in something", 
+            "dur": "1.47", 
+            "start": "6.81"
+        }, 
+        {
+            "text": "that the teacher\nsays by accident,", 
+            "dur": "1.416", 
+            "start": "8.28"
+        }, 
+        {
+            "text": "and so you draw too many\nsquares to start with.", 
+            "dur": "2.018", 
+            "start": "9.696"
+        }, 
+        {
+            "text": "So you cross some out,\nbut cross out too many,", 
+            "dur": "1.916", 
+            "start": "11.714"
+        }, 
+        {
+            "text": "and then the teacher\ngets back on track,", 
+            "dur": "1.44", 
+            "start": "13.63"
+        }, 
+        {
+            "text": "and the moment is over.", 
+            "dur": "1.059", 
+            "start": "15.07"
+        }, 
+        {
+            "text": "So oh well, might\nas well try and just", 
+            "dur": "1.583", 
+            "start": "16.129"
+        }, 
+        {
+            "text": "do the spiral from here.", 
+            "dur": "1.728", 
+            "start": "17.712"
+        }, 
+        {
+            "text": "So you make a three\nby three square.", 
+            "dur": "1.71", 
+            "start": "19.44"
+        }, 
+        {
+            "text": "And here&#39;s a four by four, and\nthen seven, and then 11 This", 
+            "dur": "3.317", 
+            "start": "21.15"
+        }, 
+        {
+            "text": "works because then you&#39;ve\ngot a spiral of squares.", 
+            "dur": "2.083", 
+            "start": "24.467"
+        }, 
+        {
+            "text": "So you write down the\nnumbers, 1, 3, 4, 7, 11, 18.", 
+            "dur": "3.2", 
+            "start": "26.55"
+        }, 
+        {
+            "text": "It&#39;s kind of like the Fibonacci\nseries, because 1 plus 3 is 4,", 
+            "dur": "3.8", 
+            "start": "29.75"
+        }, 
+        {
+            "text": "3 plus 4 is 7, and so on.", 
+            "dur": "1.69", 
+            "start": "33.55"
+        }, 
+        {
+            "text": "Or maybe it starts at 2 plus\n1, or negative 1 plus 2.", 
+            "dur": "3.46", 
+            "start": "35.24"
+        }, 
+        {
+            "text": "Either way, it&#39;s a\nperfectly good series.", 
+            "dur": "2.08", 
+            "start": "38.7"
+        }, 
+        {
+            "text": "And it&#39;s got another similarity\nwith the Fibonacci series.", 
+            "dur": "3.21", 
+            "start": "40.78"
+        }, 
+        {
+            "text": "The ratios of consecutive\nnumbers also approach Phi.", 
+            "dur": "3.35", 
+            "start": "43.99"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "0.5", 
+            "start": "47.34"
+        }, 
+        {
+            "text": "So, a lot of plants have\nFibonacci numbers of spirals,", 
+            "dur": "2.41", 
+            "start": "47.84"
+        }, 
+        {
+            "text": "but to understand\nhow they do it,", 
+            "dur": "1.62", 
+            "start": "50.25"
+        }, 
+        {
+            "text": "we can learn from\nthe exceptions.", 
+            "dur": "1.91", 
+            "start": "51.87"
+        }, 
+        {
+            "text": "This pine cone that has\nseven spirals one way,", 
+            "dur": "2.06", 
+            "start": "53.78"
+        }, 
+        {
+            "text": "and eleven the other, might\nbe showing Lucas numbers.", 
+            "dur": "2.46", 
+            "start": "55.84"
+        }, 
+        {
+            "text": "And since Fibonacci numbers\nand Lucas numbers are related,", 
+            "dur": "2.56", 
+            "start": "58.3"
+        }, 
+        {
+            "text": "maybe that explains it.", 
+            "dur": "1.56", 
+            "start": "60.86"
+        }, 
+        {
+            "text": "One theory was that plants\nget Fibonacci numbers", 
+            "dur": "2.539", 
+            "start": "62.42"
+        }, 
+        {
+            "text": "by always growing new parts\na Phi-th of a circle around.", 
+            "dur": "3.721", 
+            "start": "64.959"
+        }, 
+        {
+            "text": "What angle would\ngive Lucas numbers?", 
+            "dur": "2.136", 
+            "start": "68.68"
+        }, 
+        {
+            "text": "In this pine cone, each\nnew pine cone-y thing", 
+            "dur": "1.874", 
+            "start": "70.816"
+        }, 
+        {
+            "text": "is about 100 degrees\naround from the last.", 
+            "dur": "2.51", 
+            "start": "72.69"
+        }, 
+        {
+            "text": "We&#39;re going to need\na Lucas angle-a-tron.", 
+            "dur": "2.08", 
+            "start": "75.2"
+        }, 
+        {
+            "text": "It&#39;s easy to get a 90\ndegree angle-a-tron,", 
+            "dur": "2.13", 
+            "start": "77.28"
+        }, 
+        {
+            "text": "and if I take a third\nof a third of that,", 
+            "dur": "2.18", 
+            "start": "79.41"
+        }, 
+        {
+            "text": "that&#39;s a ninth of 90, which\nis another 10 degrees.", 
+            "dur": "2.47", 
+            "start": "81.59"
+        }, 
+        {
+            "text": "There.", 
+            "dur": "0.862", 
+            "start": "84.06"
+        }, 
+        {
+            "text": "Now you can use it to\nget spiral patterns", 
+            "dur": "1.708", 
+            "start": "84.922"
+        }, 
+        {
+            "text": "like what you see on\nthe Lucas number plants.", 
+            "dur": "2.17", 
+            "start": "86.63"
+        }, 
+        {
+            "text": "It&#39;s an easy way to\ngrow Lucas spirals,", 
+            "dur": "1.88", 
+            "start": "88.8"
+        }, 
+        {
+            "text": "if plants have an\ninternal angle-a-tron.", 
+            "dur": "1.87", 
+            "start": "90.68"
+        }, 
+        {
+            "text": "Thing is, 100 is\npretty far from 137.5.", 
+            "dur": "3.27", 
+            "start": "92.55"
+        }, 
+        {
+            "text": "If plants were somehow\nmeasuring angle,", 
+            "dur": "1.91", 
+            "start": "95.82"
+        }, 
+        {
+            "text": "you&#39;d think the\nanomalous ones would", 
+            "dur": "1.62", 
+            "start": "97.73"
+        }, 
+        {
+            "text": "show angles close to\na Phi-th of a circle.", 
+            "dur": "2.75", 
+            "start": "99.35"
+        }, 
+        {
+            "text": "Not jump all the way to 100.", 
+            "dur": "2.33", 
+            "start": "102.1"
+        }, 
+        {
+            "text": "Maybe I&#39;d believe different\nspecies use different angles,", 
+            "dur": "2.62", 
+            "start": "104.43"
+        }, 
+        {
+            "text": "but two pine cones\nfrom the same tree?", 
+            "dur": "1.72", 
+            "start": "107.05"
+        }, 
+        {
+            "text": "Two spirals on the\nsame cauliflower?", 
+            "dur": "2.3", 
+            "start": "108.77"
+        }, 
+        {
+            "text": "And that&#39;s not the\nonly exception.", 
+            "dur": "1.69", 
+            "start": "111.07"
+        }, 
+        {
+            "text": "A lot of plants don&#39;t\ngrow spirally at all.", 
+            "dur": "1.85", 
+            "start": "112.76"
+        }, 
+        {
+            "text": "Like this thing.", 
+            "dur": "0.88", 
+            "start": "114.61"
+        }, 
+        {
+            "text": "With leaves growing\nopposite from each other.", 
+            "dur": "2.03", 
+            "start": "115.49"
+        }, 
+        {
+            "text": "And some plants have\nalternating leaves,", 
+            "dur": "1.666", 
+            "start": "117.52"
+        }, 
+        {
+            "text": "180 degrees from\neach other, which", 
+            "dur": "1.734", 
+            "start": "119.186"
+        }, 
+        {
+            "text": "is far from both Phi\nand Lucas angles.", 
+            "dur": "2.132", 
+            "start": "120.92"
+        }, 
+        {
+            "text": "And you could say that these\ndon&#39;t count because they", 
+            "dur": "2.208", 
+            "start": "123.052"
+        }, 
+        {
+            "text": "have a fundamentally\ndifferent growth pattern,", 
+            "dur": "1.79", 
+            "start": "125.26"
+        }, 
+        {
+            "text": "and are in a different\nclass of plant or something,", 
+            "dur": "1.83", 
+            "start": "127.05"
+        }, 
+        {
+            "text": "but wouldn&#39;t it be\neven better if there", 
+            "dur": "1.77", 
+            "start": "128.88"
+        }, 
+        {
+            "text": "were one simple reason\nfor all of these things?", 
+            "dur": "2.65", 
+            "start": "130.65"
+        }, 
+        {
+            "text": "These variations are a good\nclue that maybe these plants get", 
+            "dur": "2.9", 
+            "start": "133.3"
+        }, 
+        {
+            "text": "this angle, and\nFibonacci numbers,", 
+            "dur": "2.31", 
+            "start": "136.2"
+        }, 
+        {
+            "text": "as a consequence of some other\nprocess and not just because it", 
+            "dur": "3.21", 
+            "start": "138.51"
+        }, 
+        {
+            "text": "mathematically optimizes\nsunlight exposure if the sun is", 
+            "dur": "2.364", 
+            "start": "141.72"
+        }, 
+        {
+            "text": "right overhead, which\nit pretty much never is,", 
+            "dur": "1.916", 
+            "start": "144.084"
+        }, 
+        {
+            "text": "and if the plan are\nperfectly facing straight up,", 
+            "dur": "1.66", 
+            "start": "146"
+        }, 
+        {
+            "text": "which they aren&#39;t.", 
+            "dur": "1.05", 
+            "start": "147.66"
+        }, 
+        {
+            "text": "So how do they do it?", 
+            "dur": "1.072", 
+            "start": "148.71"
+        }, 
+        {
+            "text": "Well, you could\ntry observing them.", 
+            "dur": "1.458", 
+            "start": "149.782"
+        }, 
+        {
+            "text": "That would be like science.", 
+            "dur": "1.37", 
+            "start": "151.24"
+        }, 
+        {
+            "text": "If you zoom in on the tip of\na plant, the growing part,", 
+            "dur": "2.42", 
+            "start": "152.61"
+        }, 
+        {
+            "text": "there&#39;s this part\ncalled the meristem.", 
+            "dur": "2.14", 
+            "start": "155.03"
+        }, 
+        {
+            "text": "That&#39;s where new\nplant bits form.", 
+            "dur": "2.08", 
+            "start": "157.17"
+        }, 
+        {
+            "text": "The biggest plant bits\nwhere the first to form off", 
+            "dur": "2.616", 
+            "start": "159.25"
+        }, 
+        {
+            "text": "the meristem, and the little\nones around the center", 
+            "dur": "2.124", 
+            "start": "161.866"
+        }, 
+        {
+            "text": "are newer.", 
+            "dur": "0.76", 
+            "start": "163.99"
+        }, 
+        {
+            "text": "As the plants grow, they get\npushed away from the meristem,", 
+            "dur": "3.31", 
+            "start": "164.75"
+        }, 
+        {
+            "text": "but they all started there.", 
+            "dur": "1.61", 
+            "start": "168.06"
+        }, 
+        {
+            "text": "The important part is\nthat a science observer", 
+            "dur": "2.6", 
+            "start": "169.67"
+        }, 
+        {
+            "text": "would see the plant\nbits pushing away,", 
+            "dur": "1.83", 
+            "start": "172.27"
+        }, 
+        {
+            "text": "not just from the meristem,\nbut from each other.", 
+            "dur": "2.64", 
+            "start": "174.1"
+        }, 
+        {
+            "text": "A couple physicists\nonce tried this thing", 
+            "dur": "1.98", 
+            "start": "176.74"
+        }, 
+        {
+            "text": "where they dropped drops\nof a magnetized liquid", 
+            "dur": "2.26", 
+            "start": "178.72"
+        }, 
+        {
+            "text": "in a dish of oil.", 
+            "dur": "1.54", 
+            "start": "180.98"
+        }, 
+        {
+            "text": "The drops repelled each\nother, kind of like plant bits", 
+            "dur": "2.28", 
+            "start": "182.52"
+        }, 
+        {
+            "text": "do, and were attracted\nto the edge of the dish,", 
+            "dur": "1.958", 
+            "start": "184.8"
+        }, 
+        {
+            "text": "just like how plant bits\nmove away from the center.", 
+            "dur": "2.221", 
+            "start": "186.758"
+        }, 
+        {
+            "text": "The first couple jobs would\nhead in opposite directions", 
+            "dur": "2.291", 
+            "start": "188.979"
+        }, 
+        {
+            "text": "from each other, but then the\nthird was repelled by both,", 
+            "dur": "3.02", 
+            "start": "191.27"
+        }, 
+        {
+            "text": "but pushed farther by the\nmore recent, and closer, drop.", 
+            "dur": "3.62", 
+            "start": "194.29"
+        }, 
+        {
+            "text": "It, and each new\ndrop, would set off", 
+            "dur": "1.74", 
+            "start": "197.91"
+        }, 
+        {
+            "text": "at a Phi angle relative\nto the drop before,", 
+            "dur": "2.8", 
+            "start": "199.65"
+        }, 
+        {
+            "text": "and the drops ended up forming\nFibonacci numbers spirals.", 
+            "dur": "3.02", 
+            "start": "202.45"
+        }, 
+        {
+            "text": "So all a plant would\nneed to do to get", 
+            "dur": "1.62", 
+            "start": "205.47"
+        }, 
+        {
+            "text": "Fibonacci numbers\nspirals is figure out", 
+            "dur": "1.5", 
+            "start": "207.09"
+        }, 
+        {
+            "text": "how to make the plant\nbits repel each other.", 
+            "dur": "1.86", 
+            "start": "208.59"
+        }, 
+        {
+            "text": "We don&#39;t know all the details,\nbut here&#39;s what we do know.", 
+            "dur": "2.416", 
+            "start": "210.45"
+        }, 
+        {
+            "text": "There&#39;s a hormone that\ntells plant bits to grow.", 
+            "dur": "2.204", 
+            "start": "212.866"
+        }, 
+        {
+            "text": "A plant bit might use up\nthe hormone around it,", 
+            "dur": "1.959", 
+            "start": "215.07"
+        }, 
+        {
+            "text": "but there&#39;s more\nfurther away, so it&#39;ll", 
+            "dur": "1.624", 
+            "start": "217.029"
+        }, 
+        {
+            "text": "grow in that direction.", 
+            "dur": "1.147", 
+            "start": "218.653"
+        }, 
+        {
+            "text": "That makes plant bits\nmove out from the meristem", 
+            "dur": "2.28", 
+            "start": "219.8"
+        }, 
+        {
+            "text": "after they form.", 
+            "dur": "1.31", 
+            "start": "222.08"
+        }, 
+        {
+            "text": "Meanwhile, the meristem\nkeeps forming new plant bits,", 
+            "dur": "2.262", 
+            "start": "223.39"
+        }, 
+        {
+            "text": "and they&#39;re going\nto grow in places", 
+            "dur": "1.458", 
+            "start": "225.652"
+        }, 
+        {
+            "text": "that aren&#39;t too\ncrowded, because that&#39;s", 
+            "dur": "2", 
+            "start": "227.11"
+        }, 
+        {
+            "text": "where there&#39;s the\nmost growth hormone.", 
+            "dur": "2.02", 
+            "start": "229.11"
+        }, 
+        {
+            "text": "This leads them to\nmove further out", 
+            "dur": "1.62", 
+            "start": "231.13"
+        }, 
+        {
+            "text": "into the space left by the\nother outward moving plant bits.", 
+            "dur": "3.032", 
+            "start": "232.75"
+        }, 
+        {
+            "text": "And once everything gets\nlocked into a pattern,", 
+            "dur": "1.958", 
+            "start": "235.782"
+        }, 
+        {
+            "text": "it&#39;s hard to get out of it.", 
+            "dur": "0.91", 
+            "start": "237.74"
+        }, 
+        {
+            "text": "Because there&#39;s no\nway for this plant", 
+            "dur": "1.61", 
+            "start": "238.65"
+        }, 
+        {
+            "text": "bit to wander off\nunless there were", 
+            "dur": "1.81", 
+            "start": "240.26"
+        }, 
+        {
+            "text": "an empty space with a\ntrail of plant hormone", 
+            "dur": "1.89", 
+            "start": "242.07"
+        }, 
+        {
+            "text": "to lead it out of its spot.", 
+            "dur": "1.397", 
+            "start": "243.96"
+        }, 
+        {
+            "text": "But if there were, all\nthe nearer plant bits", 
+            "dur": "1.833", 
+            "start": "245.357"
+        }, 
+        {
+            "text": "would use up the hormone\ngrow to fill in the space.", 
+            "dur": "2.84", 
+            "start": "247.19"
+        }, 
+        {
+            "text": "Mathematicians and programmers\nmade their own simulations,", 
+            "dur": "2.499", 
+            "start": "250.03"
+        }, 
+        {
+            "text": "and found the same thing.", 
+            "dur": "1.041", 
+            "start": "252.529"
+        }, 
+        {
+            "text": "The best way to fit new\nthings in with the most space,", 
+            "dur": "2.293", 
+            "start": "253.57"
+        }, 
+        {
+            "text": "has them pop up at that angle,\nnot because the plant knows", 
+            "dur": "2.416", 
+            "start": "255.863"
+        }, 
+        {
+            "text": "about the angle,\nbut because that&#39;s", 
+            "dur": "1.471", 
+            "start": "258.279"
+        }, 
+        {
+            "text": "where the most\nhormone has built up.", 
+            "dur": "1.72", 
+            "start": "259.75"
+        }, 
+        {
+            "text": "Once it gets started, it&#39;s\na self perpetuating cycle.", 
+            "dur": "2.75", 
+            "start": "261.47"
+        }, 
+        {
+            "text": "All these flower\nbits are doing is", 
+            "dur": "1.48", 
+            "start": "264.22"
+        }, 
+        {
+            "text": "growing where there&#39;s\nthe most room for them.", 
+            "dur": "1.874", 
+            "start": "265.7"
+        }, 
+        {
+            "text": "The rest happens\nauto-mathically.", 
+            "dur": "2.086", 
+            "start": "267.574"
+        }, 
+        {
+            "text": "It&#39;s not weird that all these\nplants show Fibonacci numbers.", 
+            "dur": "2.87", 
+            "start": "269.66"
+        }, 
+        {
+            "text": "It would be weird\nif they didn&#39;t.", 
+            "dur": "1.86", 
+            "start": "272.53"
+        }, 
+        {
+            "text": "It had to be this way.", 
+            "dur": "2.22", 
+            "start": "274.39"
+        }, 
+        {
+            "text": "The best thing\nabout that theory is", 
+            "dur": "1.64", 
+            "start": "276.61"
+        }, 
+        {
+            "text": "that it explains why Lucas\npine cones would happen.", 
+            "dur": "2.126", 
+            "start": "278.25"
+        }, 
+        {
+            "text": "If something goes\na bit differently", 
+            "dur": "1.457", 
+            "start": "280.376"
+        }, 
+        {
+            "text": "in the very beginning,\nthe meristem", 
+            "dur": "1.657", 
+            "start": "281.833"
+        }, 
+        {
+            "text": "will settle into a different,\nbut stable, pattern", 
+            "dur": "2.81", 
+            "start": "283.49"
+        }, 
+        {
+            "text": "of where there&#39;s the most\nroom to add new plant bits.", 
+            "dur": "2.54", 
+            "start": "286.3"
+        }, 
+        {
+            "text": "That is 100 degrees away.", 
+            "dur": "1.8", 
+            "start": "288.84"
+        }, 
+        {
+            "text": "It even explains\nalternating leaf patterns.", 
+            "dur": "1.892", 
+            "start": "290.64"
+        }, 
+        {
+            "text": "If the leaves are\nfar enough apart,", 
+            "dur": "1.458", 
+            "start": "292.532"
+        }, 
+        {
+            "text": "relative to how much\ngrowth hormone they like,", 
+            "dur": "2.27", 
+            "start": "293.99"
+        }, 
+        {
+            "text": "that these leaves don&#39;t\nhave any repelling", 
+            "dur": "2.05", 
+            "start": "296.26"
+        }, 
+        {
+            "text": "force with each other, then\nall this leaf cares about", 
+            "dur": "2.8", 
+            "start": "298.31"
+        }, 
+        {
+            "text": "is being farthest away from\nthe two above and below", 
+            "dur": "2.69", 
+            "start": "301.11"
+        }, 
+        {
+            "text": "it, which makes 180\ndegrees optimal.", 
+            "dur": "2.41", 
+            "start": "303.8"
+        }, 
+        {
+            "text": "And when leaves\ngrow in pairs that", 
+            "dur": "1.64", 
+            "start": "306.21"
+        }, 
+        {
+            "text": "are opposite each other,\nthe answer of where there&#39;s", 
+            "dur": "2.38", 
+            "start": "307.85"
+        }, 
+        {
+            "text": "the most room for\nboth of those leaves,", 
+            "dur": "1.91", 
+            "start": "310.23"
+        }, 
+        {
+            "text": "is at 90 degrees from\nthe one below it.", 
+            "dur": "2.247", 
+            "start": "312.14"
+        }, 
+        {
+            "text": "And if you look hard,\nyou can discover", 
+            "dur": "1.583", 
+            "start": "314.387"
+        }, 
+        {
+            "text": "even more unusual patterns.", 
+            "dur": "1.617", 
+            "start": "315.97"
+        }, 
+        {
+            "text": "The dots on the neck\nof this whatever-it-is,", 
+            "dur": "1.833", 
+            "start": "317.587"
+        }, 
+        {
+            "text": "come in spirals of 14 and\n22, which maybe is like", 
+            "dur": "2.62", 
+            "start": "319.42"
+        }, 
+        {
+            "text": "double the Lucas numbers.", 
+            "dur": "1.09", 
+            "start": "322.04"
+        }, 
+        {
+            "text": "And this pine cone has 6 and\n10, double Fibonacci numbers.", 
+            "dur": "3.36", 
+            "start": "323.13"
+        }, 
+        {
+            "text": "So how is a pineapple\nlike a pine cone?", 
+            "dur": "2.14", 
+            "start": "326.49"
+        }, 
+        {
+            "text": "What do daisies and Brussels\nsprouts have in common?", 
+            "dur": "2.93", 
+            "start": "328.63"
+        }, 
+        {
+            "text": "It&#39;s not the numbers they\nshow, it&#39;s how they grow.", 
+            "dur": "2.79", 
+            "start": "331.56"
+        }, 
+        {
+            "text": "This pattern is not just\nuseful, not just beautiful,", 
+            "dur": "2.95", 
+            "start": "334.35"
+        }, 
+        {
+            "text": "it&#39;s inevitable.", 
+            "dur": "1.44", 
+            "start": "337.3"
+        }, 
+        {
+            "text": "This is why science and\nmathematics are so much fun.", 
+            "dur": "3.18", 
+            "start": "338.74"
+        }, 
+        {
+            "text": "You discover things that seem\nimpossible to be true, and then", 
+            "dur": "2.96", 
+            "start": "341.92"
+        }, 
+        {
+            "text": "get to figure out why it&#39;s\nimpossible for them not to be.", 
+            "dur": "3.102", 
+            "start": "344.88"
+        }, 
+        {
+            "text": "To get this far in our\nunderstanding of these things,", 
+            "dur": "2.208", 
+            "start": "347.982"
+        }, 
+        {
+            "text": "it took the combined effort\nof mathematicians, physicists,", 
+            "dur": "2.57", 
+            "start": "350.19"
+        }, 
+        {
+            "text": "botanists, and biochemists.", 
+            "dur": "1.13", 
+            "start": "352.76"
+        }, 
+        {
+            "text": "And we&#39;ve certainly\nlearned a lot.", 
+            "dur": "1.46", 
+            "start": "353.89"
+        }, 
+        {
+            "text": "But there&#39;s much more\nto be discovered.", 
+            "dur": "1.41", 
+            "start": "355.35"
+        }, 
+        {
+            "text": "Maybe if you keep\ndoodling in math class,", 
+            "dur": "1.81", 
+            "start": "356.76"
+        }, 
+        {
+            "text": "you can help figure it out.", 
+            "dur": "2.24", 
+            "start": "358.57"
+        }
+    ], 
+    "title": "Doodling in Math: Spirals, Fibonacci, and Being a Plant [Part 3 of 3]", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/02ygw", 
+        "/m/04rjg", 
+        "/m/0gn_f"
+    ], 
+    "number_views": 970739, 
+    "categories": [
+        27
+    ], 
+    "comments": null
+}

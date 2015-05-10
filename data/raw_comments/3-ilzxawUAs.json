@@ -1,0 +1,209 @@
+{
+    "publish_date": "2011-12-31T16:06:14.000Z", 
+    "video_length": "PT4M32S", 
+    "captions": [
+        {
+            "text": "Our test car has a speedometer,", 
+            "dur": "2.4", 
+            "start": "5.2"
+        }, 
+        {
+            "text": "An RPM gauge,", 
+            "dur": "2.2", 
+            "start": "7.8"
+        }, 
+        {
+            "text": "And an engine that explodes at 200 RPM.", 
+            "dur": "3.4", 
+            "start": "10.2"
+        }, 
+        {
+            "text": "Let\u2019s push it to its limits\u2026 ", 
+            "dur": "3", 
+            "start": "13.8"
+        }, 
+        {
+            "text": "It reached the maximal speed of 16 km/h in 8 seconds.", 
+            "dur": "5", 
+            "start": "27.75"
+        }, 
+        {
+            "text": "Let\u2019s study our engine.", 
+            "dur": "2.1", 
+            "start": "39"
+        }, 
+        {
+            "text": "The gear attached to it exerts a certain amount of force.", 
+            "dur": "4.625", 
+            "start": "41.375"
+        }, 
+        {
+            "text": "This force can lift 20 kg\u2026", 
+            "dur": "3", 
+            "start": "48.1"
+        }, 
+        {
+            "text": "But not 40 kg.", 
+            "dur": "3", 
+            "start": "53.1"
+        }, 
+        {
+            "text": "A visualization trick will help us choose the right gears.", 
+            "dur": "4.5", 
+            "start": "69"
+        }, 
+        {
+            "text": "This orange flare represents energy.", 
+            "dur": "4", 
+            "start": "74.5"
+        }, 
+        {
+            "text": "To be more precise, let\u2019s mark the distance our force crosses in one second, ", 
+            "dur": "5.4", 
+            "start": "79"
+        }, 
+        {
+            "text": "And multiply this by its magnitude. ", 
+            "dur": "3.9", 
+            "start": "84.6"
+        }, 
+        {
+            "text": "This is our engine\u2019s power: the amount of energy it unleashes every second.", 
+            "dur": "6.17", 
+            "start": "89.33"
+        }, 
+        {
+            "text": "At this RPM the power is about 40 watts.", 
+            "dur": "5.525", 
+            "start": "95.875"
+        }, 
+        {
+            "text": "Power is transmitted from gear to gear.", 
+            "dur": "4.1", 
+            "start": "103.5"
+        }, 
+        {
+            "text": "Assuming no friction, all 40 watts reach the last gear,", 
+            "dur": "4.2", 
+            "start": "107.8"
+        }, 
+        {
+            "text": "and it exerts the same amount of force.", 
+            "dur": "2.8", 
+            "start": "112.2"
+        }, 
+        {
+            "text": "In this arrangement of gears, the last gear\u2019s teeth are moving slower.", 
+            "dur": "5", 
+            "start": "117.2"
+        }, 
+        {
+            "text": "Since energy cannot disappear,", 
+            "dur": "1.9", 
+            "start": "122.4"
+        }, 
+        {
+            "text": "our 40 watts will now produce a double amount of force.", 
+            "dur": "5", 
+            "start": "124.5"
+        }, 
+        {
+            "text": "A gear ratio of 2:1 creates this effect.", 
+            "dur": "3.8", 
+            "start": "129.7"
+        }, 
+        {
+            "text": "In our car, the engine\u2019s power is transmitted to the back wheels.", 
+            "dur": "4.34", 
+            "start": "139.66"
+        }, 
+        {
+            "text": "Each wheel gets half of it.", 
+            "dur": "3", 
+            "start": "144.33"
+        }, 
+        {
+            "text": "The force exerted by the wheels accelerates the car.", 
+            "dur": "4.67", 
+            "start": "147.83"
+        }, 
+        {
+            "text": "Our new car has a 2:1 gear ratio in its gearbox, ", 
+            "dur": "4.07", 
+            "start": "154.33"
+        }, 
+        {
+            "text": "doubling its acceleration.", 
+            "dur": "3", 
+            "start": "158.5"
+        }, 
+        {
+            "text": "Let\u2019s compare the cars.", 
+            "dur": "2.54", 
+            "start": "162.66"
+        }, 
+        {
+            "text": "We\u2019ll visualize power,", 
+            "dur": "1.6", 
+            "start": "165.4"
+        }, 
+        {
+            "text": "but this time show the amount of energy produced every 0.1 second.", 
+            "dur": "4.84", 
+            "start": "167.16"
+        }, 
+        {
+            "text": "This is now 400 watts.", 
+            "dur": "3.166", 
+            "start": "172.5"
+        }, 
+        {
+            "text": "That\u2019s better acceleration, but worse maximal speed.", 
+            "dur": "3.9", 
+            "start": "184.1"
+        }, 
+        {
+            "text": "We can rearrange the gears to get the reverse effect...", 
+            "dur": "4.6", 
+            "start": "189.5"
+        }, 
+        {
+            "text": "... less force - more speed.", 
+            "dur": "3", 
+            "start": "194.33"
+        }, 
+        {
+            "text": "Our final car has a gear stick.", 
+            "dur": "2.3", 
+            "start": "200"
+        }, 
+        {
+            "text": "Allowing the driver to switch between low gear, as in the second car\u2026", 
+            "dur": "4.5", 
+            "start": "202.5"
+        }, 
+        {
+            "text": "Medium gear, as in the first car\u2026", 
+            "dur": "3", 
+            "start": "208"
+        }, 
+        {
+            "text": "And the new high gear.", 
+            "dur": "4", 
+            "start": "212.66"
+        }
+    ], 
+    "title": "Cars: engine power and transmission - 3D animation", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02w3_t", 
+        "/m/0k4j", 
+        "/m/02mk9", 
+        "/m/061ln"
+    ], 
+    "number_views": 214950, 
+    "categories": [
+        2
+    ], 
+    "comments": null
+}

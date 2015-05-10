@@ -1,0 +1,476 @@
+{
+    "publish_date": "2012-07-27T00:00:36.000Z", 
+    "video_length": "PT9M10S", 
+    "captions": [
+        {
+            "text": "bjbjLULU Episode 37: Game Show Theory Hello\nInternet. Welcome to Game Theory, or should", 
+            "dur": "2.85", 
+            "start": "19.98"
+        }, 
+        {
+            "text": "I say Game Show Theory. Because gaming isn\nt just limited to consoles and controllers,", 
+            "dur": "5.56", 
+            "start": "22.83"
+        }, 
+        {
+            "text": "and while, yes, it may be interesting to know\nthat Jynx isn t racist, chances are it won", 
+            "dur": "4.88", 
+            "start": "28.39"
+        }, 
+        {
+            "text": "t help you win A BRAND NEW CAR! So this week,\nwe re entering a world of fabulous prizes", 
+            "dur": "7", 
+            "start": "33.27"
+        }, 
+        {
+            "text": "and gaudy suits, a world of Bobs, from Barker\nto Eubanks, with more Rods and Winks and Dicks", 
+            "dur": "6.03", 
+            "start": "53.25"
+        }, 
+        {
+            "text": "than you can shake a skinny microphone at.\nSo start pricing up your turtle wax and Rice-a-Roni,", 
+            "dur": "5.27", 
+            "start": "59.28"
+        }, 
+        {
+            "text": "Joe Millionaires, because this week I m teaching\nyou how to Press Your Luck without becoming", 
+            "dur": "5.28", 
+            "start": "64.55"
+        }, 
+        {
+            "text": "the Weakest Link. In other words, how knowing\nsimple probability can help you win fabulous", 
+            "dur": "6.789", 
+            "start": "69.83"
+        }, 
+        {
+            "text": "prizes on daytime television. In a few weeks,\nI ll be appearing in the studio audience of", 
+            "dur": "5.42", 
+            "start": "76.619"
+        }, 
+        {
+            "text": "Let s Make a Deal, a classic game show from\nthe 1960s that was revived in 2009 when the", 
+            "dur": "5.67", 
+            "start": "82.039"
+        }, 
+        {
+            "text": "entertainment industry officially ran out\nof creativity. Now, I won t know if I m actually", 
+            "dur": "4.69", 
+            "start": "87.709"
+        }, 
+        {
+            "text": "going to be a contestant until I get there,\nbut it pays to come in prepared. Oh, and if", 
+            "dur": "4.42", 
+            "start": "92.399"
+        }, 
+        {
+            "text": "you re wondering why people are dressed like\nChef Boyardee, remember that this is TV, so", 
+            "dur": "4.311", 
+            "start": "96.819"
+        }, 
+        {
+            "text": "if they re going to give you something, gosh\ndarn it they ve got to humiliate you in front", 
+            "dur": "5.969", 
+            "start": "101.13"
+        }, 
+        {
+            "text": "of millions of people watching from home first!\nSo, if you ve never seen the show before,", 
+            "dur": "4.8", 
+            "start": "107.099"
+        }, 
+        {
+            "text": "the premise is that the host walks around\nthe studio audience giving away prizes: money,", 
+            "dur": "5.03", 
+            "start": "111.899"
+        }, 
+        {
+            "text": "mystery boxes, whatever, and then offers contestants\nthe choice to either keep what they have or", 
+            "dur": "5.11", 
+            "start": "116.929"
+        }, 
+        {
+            "text": "trade it for something hidden behind a curtain.\nOne tends to be a nice prize, while the other", 
+            "dur": "5.36", 
+            "start": "122.039"
+        }, 
+        {
+            "text": "is an ostrich, an adult male in an oversized\ncrib, or some other creature you don t really", 
+            "dur": "3.14", 
+            "start": "127.399"
+        }, 
+        {
+            "text": "want to keep in your back yard. These joke\nprizes are called Zonks. At the end of the", 
+            "dur": "4.31", 
+            "start": "130.539"
+        }, 
+        {
+            "text": "game, the top winners are presented with three\ndoors. Hidden behind one is the big prize", 
+            "dur": "4.36", 
+            "start": "134.849"
+        }, 
+        {
+            "text": "of the day, while the other two hide more\nZonks. So, let s assume I go to the show and", 
+            "dur": "4.61", 
+            "start": "139.209"
+        }, 
+        {
+            "text": "get to select one of the three final doors.\nBehind one is a brand new puce-green kitchen", 
+            "dur": "4.521", 
+            "start": "143.819"
+        }, 
+        {
+            "text": "set straight out of the Johnson-era while\nbehind the other two are donkeys or some other", 
+            "dur": "4.7", 
+            "start": "148.34"
+        }, 
+        {
+            "text": "beast of burden. I choose a door, say door\n1, at which point the host opens one of the", 
+            "dur": "5.309", 
+            "start": "153.04"
+        }, 
+        {
+            "text": "doors I didn t pick to reveal a donkey. He\nthen says that I can change my door if I want", 
+            "dur": "5.631", 
+            "start": "158.349"
+        }, 
+        {
+            "text": "to. Assuming I want a vomit-colored kitchen\nset, should I switch or stay? Does it even", 
+            "dur": "6.22", 
+            "start": "163.98"
+        }, 
+        {
+            "text": "make a difference? It seems like it shouldn\nt matter, right? With only two doors left,", 
+            "dur": "4.149", 
+            "start": "170.2"
+        }, 
+        {
+            "text": "my odds seem to be 50-50, one door hiding\na hideous Frigidair and the other holding", 
+            "dur": "4.691", 
+            "start": "174.349"
+        }, 
+        {
+            "text": "my future pet burro, Bruce. But think again.\nAt the beginning of the game, I had a 1/3", 
+            "dur": "6.039", 
+            "start": "179.04"
+        }, 
+        {
+            "text": "chance of choosing correctly and a 2/3 chance\nof choosing a Zonk, at which point the host", 
+            "dur": "5.24", 
+            "start": "185.079"
+        }, 
+        {
+            "text": "always opens a door with a donkey. If I chose\nthe car initially and then switch, well I", 
+            "dur": "6.68", 
+            "start": "190.319"
+        }, 
+        {
+            "text": "get my ass handed to me, literally. But if\nI chose a donkey in the first round and then", 
+            "dur": "4.681", 
+            "start": "196.999"
+        }, 
+        {
+            "text": "switch, I m guaranteed to win, since the other\ndonkey has already been revealed. Thus, with", 
+            "dur": "5.709", 
+            "start": "201.68"
+        }, 
+        {
+            "text": "my first choice, I m hoping to choose a donkey.\nSince my odds of choosing a donkey at the", 
+            "dur": "5.86", 
+            "start": "207.389"
+        }, 
+        {
+            "text": "beginning of the game was 2/3, by switching,\nI now have a 2/3 chance of walking home with", 
+            "dur": "5.151", 
+            "start": "213.249"
+        }, 
+        {
+            "text": "a refrigerator that ll make the EPA tremble\nin fear. In other words, choosing to switch", 
+            "dur": "7", 
+            "start": "218.4"
+        }, 
+        {
+            "text": "always maximizes your chance of winning. If\nyou re still confused, think about it with", 
+            "dur": "4.92", 
+            "start": "225.62"
+        }, 
+        {
+            "text": "100 doors: 99 donkeys and one kitchen set.\nYou pick a door. Obviously, you have a 1/100", 
+            "dur": "7", 
+            "start": "230.54"
+        }, 
+        {
+            "text": "chance of choosing correctly, which isn t\nvery likely. But then the host, who knows", 
+            "dur": "5.179", 
+            "start": "238.26"
+        }, 
+        {
+            "text": "exactly where the prize is, opens 98 doors\nwith donkeys before offering you the chance", 
+            "dur": "5.541", 
+            "start": "243.439"
+        }, 
+        {
+            "text": "to switch. The odds that the kitchen set is\nbehind your door is still 1/100, but because", 
+            "dur": "6.03", 
+            "start": "248.98"
+        }, 
+        {
+            "text": "the host knowingly cut down the field to one\nother specially-selected door, the odds are", 
+            "dur": "5.83", 
+            "start": "255.01"
+        }, 
+        {
+            "text": "99/100 that by switching, you ll win. It may\nseem like sticking with your door is the right", 
+            "dur": "6.03", 
+            "start": "260.84"
+        }, 
+        {
+            "text": "choice, especially now that you re so close\nto winning, but in actuality, you re no closer", 
+            "dur": "4.46", 
+            "start": "266.87"
+        }, 
+        {
+            "text": "than when you originally started. This situation\nis actually a famous probability problem named", 
+            "dur": "5.74", 
+            "start": "271.33"
+        }, 
+        {
+            "text": "the Monty Hall Problem, named after Let s\nMake a Deal s first and most famous host,", 
+            "dur": "4.99", 
+            "start": "277.07"
+        }, 
+        {
+            "text": "which leaves me with just one more question:\nHow was this color ever in fashion? The 60s", 
+            "dur": "7", 
+            "start": "282.06"
+        }, 
+        {
+            "text": "were a weird time, my friends. But no game\nshow marathon would be complete without a", 
+            "dur": "6.81", 
+            "start": "291.92"
+        }, 
+        {
+            "text": "trip to the granddaddy of daytime gamery,\nthe highlight of every elementary student", 
+            "dur": "5.5", 
+            "start": "298.73"
+        }, 
+        {
+            "text": "s sickday, the Price is Right, specifically,\nthe game that everyone loves to see PLINKO!", 
+            "dur": "7", 
+            "start": "304.23"
+        }, 
+        {
+            "text": "102 pegs, 5 chips, $50,000 on the line. Drop\na chip, win the amount of the slot it lands", 
+            "dur": "7", 
+            "start": "311.29"
+        }, 
+        {
+            "text": "in. Elegant, addicting, and impossible as\nfu**. You see, the game has been a part of", 
+            "dur": "5.39", 
+            "start": "326.94"
+        }, 
+        {
+            "text": "the show since 1983, and yet, for as many\ntimes as it s been played, no one has ever", 
+            "dur": "5.78", 
+            "start": "332.33"
+        }, 
+        {
+            "text": "earned the maximum prize. How could they considering\nit s a game where you randomly drop tokens", 
+            "dur": "5.24", 
+            "start": "338.11"
+        }, 
+        {
+            "text": "down a pachinko board? So is there any way\nto have the odds be ever in your favor? OF", 
+            "dur": "5.62", 
+            "start": "343.35"
+        }, 
+        {
+            "text": "COURSE, but only with the help of the sixth,\nand sadly forgotten Planeteer, Math! (Earth,", 
+            "dur": "0.52", 
+            "start": "348.97"
+        }, 
+        {
+            "text": "fire, wind, water, heart) MATH! Oh come on,\nit s no just as lame as Heart power! Here", 
+            "dur": "0.37", 
+            "start": "349.49"
+        }, 
+        {
+            "text": "s a diagram of the board. Though there are\na total of 102 pegs on the board, a chip will", 
+            "dur": "4.01", 
+            "start": "349.86"
+        }, 
+        {
+            "text": "only hit twelve on its way to the bottom.\nAssuming that at each peg, the chip is equally", 
+            "dur": "5.41", 
+            "start": "353.87"
+        }, 
+        {
+            "text": "likely to go either left or right, where should\na contestant drop their chip to have the best", 
+            "dur": "5.13", 
+            "start": "359.28"
+        }, 
+        {
+            "text": "chance of landing in $10,000? Let s start\nwith slot 5, right in the middle and directly", 
+            "dur": "5.6", 
+            "start": "364.41"
+        }, 
+        {
+            "text": "above the $10,000 space. If the chip is going\nto earn us the most money, it ll need to travel", 
+            "dur": "5.34", 
+            "start": "370.01"
+        }, 
+        {
+            "text": "left six times and right six times, in no\nparticular order. To figure out the probability", 
+            "dur": "5.41", 
+            "start": "375.35"
+        }, 
+        {
+            "text": "of this happening, we can use what s known\nas the binomial distribution. This is the", 
+            "dur": "4.63", 
+            "start": "380.76"
+        }, 
+        {
+            "text": "formula, which is one of those intimidating\nmath formulas that aren t so bad if you work", 
+            "dur": "4.51", 
+            "start": "385.39"
+        }, 
+        {
+            "text": "through them slowly. This top number represents\nthe number of trials, or in our case 12 for", 
+            "dur": "7", 
+            "start": "389.9"
+        }, 
+        {
+            "text": "the number of pegs our chip will hit. This\nbottom number is the number of times we need", 
+            "dur": "3.81", 
+            "start": "400.05"
+        }, 
+        {
+            "text": "it to go left. Since we re assuming the chip\nhas an equal likelihood of going left or right,", 
+            "dur": "5.5", 
+            "start": "403.86"
+        }, 
+        {
+            "text": "the probability is for each, which goes here\nand here. And finally, this is how many times", 
+            "dur": "6.59", 
+            "start": "409.36"
+        }, 
+        {
+            "text": "we want it to go left, and this is how many\ntimes we want it to go right. Through some", 
+            "dur": "3.97", 
+            "start": "415.95"
+        }, 
+        {
+            "text": "boring calculations, we find that the probability\nof it landing in the middle if dropped in", 
+            "dur": "4.39", 
+            "start": "419.92"
+        }, 
+        {
+            "text": "the middle is about 22.56%, or about 1/5 of\nthe time. Not bad, but can we do better? Take", 
+            "dur": "7", 
+            "start": "424.31"
+        }, 
+        {
+            "text": "a look at what happens if you try dropping\nit in either slot 4. We would need it to go", 
+            "dur": "4.31", 
+            "start": "431.96"
+        }, 
+        {
+            "text": "left five times and right seven. Plugging\nit into our equation gives us about 19.34%,", 
+            "dur": "6", 
+            "start": "436.27"
+        }, 
+        {
+            "text": "so significantly less. Slot six would be the\nsame since the board is symmetrical. And the", 
+            "dur": "6.1", 
+            "start": "442.27"
+        }, 
+        {
+            "text": "odds continue to decrease as we move away\nfrom the center. In short, the Plinko board", 
+            "dur": "4.78", 
+            "start": "448.37"
+        }, 
+        {
+            "text": "is a type of normal distribution, or bell\ncurve, where more things wind up towards the", 
+            "dur": "5", 
+            "start": "453.15"
+        }, 
+        {
+            "text": "center than either extreme. So, our best strategy\nis to drop it into the center slot. That said,", 
+            "dur": "6.5", 
+            "start": "458.15"
+        }, 
+        {
+            "text": "what are the odds we walk away with the grand\nprize of $50,000? When determining the odds", 
+            "dur": "5.38", 
+            "start": "464.65"
+        }, 
+        {
+            "text": "of multiple events all happening at the same\ntime, you multiply their probabilities of", 
+            "dur": "4.87", 
+            "start": "470.03"
+        }, 
+        {
+            "text": "happening together. Thus, getting all 5 chips\ninto the $10,000 slot means 22.56 to the fifth", 
+            "dur": "7", 
+            "start": "474.9"
+        }, 
+        {
+            "text": "power or .0584%. It s no wonder no one has\never officially won the game! With odds that", 
+            "dur": "7", 
+            "start": "483.8"
+        }, 
+        {
+            "text": "low, you re more likely to see Michael Bay\ndirect an Oscar-winning art film. So, today", 
+            "dur": "5.69", 
+            "start": "493.68"
+        }, 
+        {
+            "text": "s episode may not guarantee you a win, but\nthe next time you re in an audience and told", 
+            "dur": "4.55", 
+            "start": "499.37"
+        }, 
+        {
+            "text": "to Come on down, remember your math, loyal\ntheorists, and you may just be lucky enough", 
+            "dur": "5.35", 
+            "start": "503.92"
+        }, 
+        {
+            "text": "to go home with a grill shaped like a large\ngreen egg. Now if you ll excuse me, I have", 
+            "dur": "4.61", 
+            "start": "509.27"
+        }, 
+        {
+            "text": "a strange urge to go spay and neuter my cat.\nBut hey, that s just a theory. A game show", 
+            "dur": "6.06", 
+            "start": "513.88"
+        }, 
+        {
+            "text": "theory. Thanks for watching! h}p* h}p* gd?d\nh&#39;u- Episode 37: Game Show Theory Matthew", 
+            "dur": "7", 
+            "start": "519.94"
+        }, 
+        {
+            "text": "Normal.dot Matthew Microsoft Office Word Hewlett-Packard\nEpisode 37: Game Show Theory Title Microsoft", 
+            "dur": "7", 
+            "start": "532.199"
+        }, 
+        {
+            "text": "Office Word Document MSWordDoc Word.Document.8", 
+            "dur": "4.671", 
+            "start": "544.329"
+        }
+    ], 
+    "title": "Game Theory: Monty Hall, Plinko, and Probability", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/034f0", 
+        "/m/0fl60_", 
+        "/m/05qhc", 
+        "/m/07kk5", 
+        "/m/03bt1gh", 
+        "/m/01mw1"
+    ], 
+    "number_views": 1060898, 
+    "categories": [
+        20
+    ], 
+    "comments": null
+}
