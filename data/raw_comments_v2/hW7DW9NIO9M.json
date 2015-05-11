@@ -1,0 +1,960 @@
+{
+    "publish_date": "2012-03-29T21:16:46.000Z", 
+    "video_length": "PT2M11S", 
+    "captions": [
+        {
+            "text": "In mid 1905, Albert Einstein derived what\nis now the most famous equation in the world:", 
+            "dur": "4.81", 
+            "start": "0.21"
+        }, 
+        {
+            "text": "E equals M C squared. But he didn&#39;t just write\nthis down out of the blue \u2013 it followed", 
+            "dur": "4.07", 
+            "start": "5.02"
+        }, 
+        {
+            "text": "directly from his paper on special relativity\nthat we talked about in last week&#39;s video\u2026", 
+            "dur": "3.82", 
+            "start": "9.09"
+        }, 
+        {
+            "text": "and here&#39;s how he did it:", 
+            "dur": "1.359", 
+            "start": "12.91"
+        }, 
+        {
+            "text": "Suppose you&#39;re watching a cat float freely\nin empty space, when suddenly it emits a flash", 
+            "dur": "4.07", 
+            "start": "14.269"
+        }, 
+        {
+            "text": "of light in all directions. The light carries\naway some energy, we&#39;ll call it &quot;E&quot;, so by", 
+            "dur": "4.27", 
+            "start": "18.339"
+        }, 
+        {
+            "text": "conservation of energy the cat must have lost\nenergy E\u2026 but since the light was emitted", 
+            "dur": "4.26", 
+            "start": "22.609"
+        }, 
+        {
+            "text": "symmetrically in all directions, it won&#39;t\nhave changed the cat&#39;s velocity. So where", 
+            "dur": "3.77", 
+            "start": "26.869"
+        }, 
+        {
+            "text": "did the energy for the light come from?", 
+            "dur": "2.03", 
+            "start": "30.639"
+        }, 
+        {
+            "text": "Never mind that now\u2026 let&#39;s imagine you get\nbored and zoom off in a spaceship in the middle", 
+            "dur": "3.1", 
+            "start": "32.669"
+        }, 
+        {
+            "text": "of the experiment. But from your new perspective,\nyou&#39;re sitting still in your spaceship and", 
+            "dur": "3.86", 
+            "start": "35.769"
+        }, 
+        {
+            "text": "the cat is the one moving past outside the\nwindow! Therefore you&#39;ll calculate that the", 
+            "dur": "3.64", 
+            "start": "39.629"
+        }, 
+        {
+            "text": "cat has some kinetic energy, that is, energy\nof motion\u2026 and when you see the cat emit", 
+            "dur": "3.68", 
+            "start": "43.269"
+        }, 
+        {
+            "text": "the flash of light, you&#39;ll again measure that\nits energy decreases by the energy of the", 
+            "dur": "3.441", 
+            "start": "46.949"
+        }, 
+        {
+            "text": "light.", 
+            "dur": "0.789", 
+            "start": "50.39"
+        }, 
+        {
+            "text": "Except now that you&#39;re moving, special relativity\ntells us that time passes at different rates", 
+            "dur": "3.991", 
+            "start": "51.179"
+        }, 
+        {
+            "text": "for you and the cat, so you&#39;ll measure a different\nvalue for the frequency, and thus energy of", 
+            "dur": "4.25", 
+            "start": "55.17"
+        }, 
+        {
+            "text": "the flash of light. This is the relativistic\ndoppler effect, and for our purposes, it amounts", 
+            "dur": "4.439", 
+            "start": "59.42"
+        }, 
+        {
+            "text": "to multiplying the energy of the light by\none plus your velocity squared divided by", 
+            "dur": "3.861", 
+            "start": "63.859"
+        }, 
+        {
+            "text": "twice the speed of light squared.", 
+            "dur": "1.39", 
+            "start": "67.72"
+        }, 
+        {
+            "text": "So to recap, if you take off at velocity v,\nyou&#39;ll see the cat gain some kinetic energy", 
+            "dur": "4.88", 
+            "start": "69.11"
+        }, 
+        {
+            "text": "KE1, then at the flash you&#39;ll see the cat&#39;s\nenergy decrease by E times one plus v squared", 
+            "dur": "4.169", 
+            "start": "73.99"
+        }, 
+        {
+            "text": "over two c squared. On the other hand, if\nyou wait, you&#39;ll see the cat&#39;s energy decrease", 
+            "dur": "4.14", 
+            "start": "78.159"
+        }, 
+        {
+            "text": "by E, and now when you take off you&#39;ll see\nit gain kinetic energy KE2.", 
+            "dur": "4.53", 
+            "start": "82.299"
+        }, 
+        {
+            "text": "But this is silly! You never touch or otherwise\ninfluence the cat in either case, so you should", 
+            "dur": "4.101", 
+            "start": "86.829"
+        }, 
+        {
+            "text": "get the same total energy at the end\u2026 Rearranging,\nwe see that the kinetic energy before and", 
+            "dur": "4.609", 
+            "start": "90.93"
+        }, 
+        {
+            "text": "after the flash must be different! And the\nkinetic energy of an object is one-half of", 
+            "dur": "3.961", 
+            "start": "95.539"
+        }, 
+        {
+            "text": "its mass times velocity squared, but we know\nthat the velocity was the same in both cases\u2026", 
+            "dur": "4.469", 
+            "start": "99.5"
+        }, 
+        {
+            "text": "so in order to account for the difference,\nthe cat&#39;s mass must change when it emits the", 
+            "dur": "3.311", 
+            "start": "103.969"
+        }, 
+        {
+            "text": "flash of light!", 
+            "dur": "1.06", 
+            "start": "107.28"
+        }, 
+        {
+            "text": "Now if we cancel things out, you can see that\nthe change in mass of the cat must be equal", 
+            "dur": "3.55", 
+            "start": "108.34"
+        }, 
+        {
+            "text": "to the energy divided by c squared \u2013 or,\nas you&#39;ve heard before, E equals M C squared!", 
+            "dur": "7", 
+            "start": "111.89"
+        }
+    ], 
+    "title": "Einstein's Proof of E=mc\u00b2", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/026m7j", 
+        "/m/0jcx", 
+        "/m/0m08c9y", 
+        "/m/05qjt"
+    ], 
+    "number_views": 2213516, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-09T23:09:15.189Z", 
+            "text": "WTF MAN???\ufeff", 
+            "author": "sentinelx4"
+        }, 
+        {
+            "date": "2015-05-09T20:50:03.355Z", 
+            "text": "WTF didn't understand anything.\ufeff", 
+            "author": "Nishant Gupta"
+        }, 
+        {
+            "date": "2015-05-06T04:03:37.395Z", 
+            "text": "Lol, youtube search comedian eddie griffin disproves einstein's theory for \na simple yet funny explanation. Think mothafuckaz, it ain't illegal yet.\ufeff", 
+            "author": "Hassan Amiri"
+        }, 
+        {
+            "date": "2015-05-04T15:45:36.829Z", 
+            "text": "it's toooooooooo quick !!!\ufeff", 
+            "author": "SeBa"
+        }, 
+        {
+            "date": "2015-05-04T13:10:26.479Z", 
+            "text": "this video is pointless and so does einstein, i actually created the \nuniverse and humane being . u are all alien\ufeff", 
+            "author": "chang man"
+        }, 
+        {
+            "date": "2015-05-04T06:07:45.000Z", 
+            "text": "Albert proved his Idol Newton wrong 250 years later & someone else will do \nit to Einstein & so forth. Numbers are a waste of time & absolutely proved \none thing & that's you are all wrong.\nI can solve this mystery of the universe in a mere 5 words.\nMother Mary=Jesus=God=Infinity. Case solved. \nPhysics people put your pencils down & put away your black boards & go read \nyour Bible.\nE=mc2=Infinity\ufeff", 
+            "author": "gmellias"
+        }, 
+        {
+            "date": "2015-05-08T00:53:15.000Z", 
+            "text": "what ever you say Inbred. I only use the computer cause it's available. The \nworld survived perfectly well long b4 the computer was invented. You \nworship it like it's a fuckin God. I can go without it, how about you dick \nbreath. At least i have a real name you fake fucker. Computers & physicists \nhavent improved the world at all, if anything it's only made it worse. Grow \nup & stop sucking on your mammas cock. By the way your mamma swallows & so \ndoes your dad, Thomas Dickless Jefferson", 
+            "author": "gmellias"
+        }, 
+        {
+            "date": "2015-05-07T20:58:31.128Z", 
+            "text": "+gmellias You're an idiot. If physicists \"put their pencils down\" you \nwouldn't have anything today including the computer your using.", 
+            "author": "Thomas Jefferson"
+        }, 
+        {
+            "date": "2015-05-02T23:02:17.870Z", 
+            "text": "Einstein is awesome!\ufeff", 
+            "author": "Collin Lamb"
+        }, 
+        {
+            "date": "2015-04-29T20:16:38.884Z", 
+            "text": "So C stands for cat? Amazing!\ufeff", 
+            "author": "Stefan Kr\u00fcger"
+        }, 
+        {
+            "date": "2015-04-29T16:17:03.859Z", 
+            "text": "", 
+            "author": "Priyank Pithadia"
+        }, 
+        {
+            "date": "2015-04-28T04:22:18.299Z", 
+            "text": "Smarty! did u explain how C came into picture very first time in your video\ufeff", 
+            "author": "Himanshu Kumar"
+        }, 
+        {
+            "date": "2015-04-28T02:46:00.633Z", 
+            "text": "Damn.\ufeff", 
+            "author": "Aayush Patel"
+        }, 
+        {
+            "date": "2015-04-24T20:21:07.203Z", 
+            "text": "ill leave it to the expert\ufeff", 
+            "author": "Green Apple"
+        }, 
+        {
+            "date": "2015-04-23T22:52:49.646Z", 
+            "text": "The french translations, in opposition to the content, are really bad. ...\ufeff", 
+            "author": "The real truth master"
+        }, 
+        {
+            "date": "2015-04-23T16:16:12.014Z", 
+            "text": "Ummmmm so E=mc\u00b2 ?\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\nAllahu Akbarrrrrrrrr \n*BOOOOOOOOOOOOM*\ufeff", 
+            "author": "WowDude"
+        }, 
+        {
+            "date": "2015-04-23T08:56:31.164Z", 
+            "text": "is this your proof of e=mc2 or Einstein's proof of e=mc2? Because i learned \nthat einstein's proof included a photon in a box.\ufeff", 
+            "author": "Tom Do"
+        }, 
+        {
+            "date": "2015-04-21T20:53:14.019Z", 
+            "text": "I'm rubbish at science how did I get here \ud83d\ude10 oh yeh I subscribed \ud83d\ude0f\ufeff", 
+            "author": "Molly"
+        }, 
+        {
+            "date": "2015-04-21T03:53:59.475Z", 
+            "text": "there is a problem with this equation. E is in units of energy, m is in \nunits of mass, c is in units of speed. These are incompatible, e.g. if use \nkilograms for mass, mph for speed, which unit should we use for energy?\ufeff", 
+            "author": "Adrian Roblox"
+        }, 
+        {
+            "date": "2015-04-19T21:53:02.493Z", 
+            "text": "is then energy equal to change in mass do to relativity times speed of \nlight\ufeff", 
+            "author": "Marko Milosevic"
+        }, 
+        {
+            "date": "2015-04-19T21:53:38.624Z", 
+            "text": "+Marko Milosevic speed of light squared", 
+            "author": "Marko Milosevic"
+        }, 
+        {
+            "date": "2015-04-19T18:27:21.690Z", 
+            "text": "\"Never mind that now\"\n\nSee: Quantum physics and around 10 years of study.\ufeff", 
+            "author": "phuturephunk"
+        }, 
+        {
+            "date": "2015-04-16T18:09:54.917Z", 
+            "text": "I hope I will understand this one day.\ufeff", 
+            "author": "BurnIn Hell"
+        }, 
+        {
+            "date": "2015-04-15T17:38:17.048Z", 
+            "text": "QUESTION:\nwhat if m in E=mc\u00b2 i s 0 ? that basically means we have E= 0xc\u00b2 which would \nmake the c\u00b2  0 too as we multiplyed it with 0 and therefore nothing without \nm can have energy, which is totally stupid and oi nkow i made a few \nmistakes and now i need you to tell me what is wrong. thy\ufeff", 
+            "author": "Liam Vance"
+        }, 
+        {
+            "date": "2015-04-20T18:54:34.395Z", 
+            "text": "thanks", 
+            "author": "Liam Vance"
+        }, 
+        {
+            "date": "2015-04-20T04:45:47.074Z", 
+            "text": "+Liam Vance It's dE = dm c\u00b2, which means the change in energy is the change \nin mass times the speed of light squared.", 
+            "author": "Derek Leung"
+        }, 
+        {
+            "date": "2015-04-15T08:29:07.670Z", 
+            "text": "THANK YOU!\ufeff", 
+            "author": "kjzsbtby"
+        }, 
+        {
+            "date": "2015-04-15T05:56:34.800Z", 
+            "text": "Before the vid: i thought e=mc squared was minecraft squared after the vid: \nin my brain: cat.light.wtf.\ufeff", 
+            "author": "king of banterandlolz"
+        }, 
+        {
+            "date": "2015-04-15T03:06:11.135Z", 
+            "text": "", 
+            "author": "Bolat Toktassynov"
+        }, 
+        {
+            "date": "2015-04-14T18:09:31.712Z", 
+            "text": "I believe the cat analogy is flawed. This is not some particle just \nfloating in space, this is a living thing so asking where did the energy \ncome from is like asking where did we get the energy to get up I. The \nmorning if we stayed still all night while sleeping.\ufeff", 
+            "author": "Jose Cervantes"
+        }, 
+        {
+            "date": "2015-04-12T20:24:02.940Z", 
+            "text": "Speak English it is to hard to understand what you are saying please\ufeff", 
+            "author": "Maria Neri"
+        }, 
+        {
+            "date": "2015-04-12T08:14:35.036Z", 
+            "text": "*What is this **\"The Truth Contest\"** ?*\ufeff", 
+            "author": "Melissa Ross"
+        }, 
+        {
+            "date": "2015-04-13T12:42:43.520Z", 
+            "text": "+Melissa Ross It's a website that shows the motherfucking truth of life. \nSee it for yourself.", 
+            "author": "Amabel Romney"
+        }, 
+        {
+            "date": "2015-04-11T20:56:21.823Z", 
+            "text": "e=mc2 that's nice, it says matter and energy are the same thing, now finish \nthe work.\ufeff", 
+            "author": "Tom Murry"
+        }, 
+        {
+            "date": "2015-04-11T02:25:09.968Z", 
+            "text": "\"Everything should be made as simple as possible, but not one bit simpler.\" \n-Albert Einstein. For a simple explanation of the ultimate truth, go to \nTruthContest : c0m and open ~The Present.~\ufeff", 
+            "author": "Aaron Wes"
+        }, 
+        {
+            "date": "2015-04-10T19:15:39.435Z", 
+            "text": "I don't get why this equation is considered genius. It's literally the \neasiest thing in the world if you think of it. (If you understand the basic \nfundamentals of math)\ufeff", 
+            "author": "Miss Cakelyn"
+        }, 
+        {
+            "date": "2015-04-30T19:09:52.983Z", 
+            "text": "+LeconsdAnalyse If anyone else who reads these comments knows how to give a \nbetter answer then they should, by all means, step in and do so.", 
+            "author": "LeconsdAnalyse"
+        }, 
+        {
+            "date": "2015-04-14T18:11:36.935Z", 
+            "text": "+Miss Cakelyn Yes, of course. And, Einstein was the lucky one to discover \nit :)", 
+            "author": "LeconsdAnalyse"
+        }, 
+        {
+            "date": "2015-04-14T17:43:47.915Z", 
+            "text": "+LeconsdAnalyse\nIt still could've been pure luck.", 
+            "author": "Miss Cakelyn"
+        }, 
+        {
+            "date": "2015-04-14T17:27:57.862Z", 
+            "text": "+Miss Cakelyn That's true. However, Einstein's assumptions have been *verified \nexperimentally*, in many and various ways. \nAt present, over a hundred years later, still no experiment has ever been \ndevised that disproved Einstein's theories.", 
+            "author": "LeconsdAnalyse"
+        }, 
+        {
+            "date": "2015-04-14T16:49:13.959Z", 
+            "text": "+LeconsdAnalyse\nStill though, It's just an assumption. Everyone can make assumptions.", 
+            "author": "Miss Cakelyn"
+        }, 
+        {
+            "date": "2015-04-14T16:32:40.268Z", 
+            "text": "+Miss Cakelyn You're welcome. Yes, i understand what you're saying. The \nequation itself is a very simple algebraic equation. But the equation \nitself is *not* what makes Einstein genius. Einstein made the *original* \nassumption that the 3D world we live in is actually a 3D embedding in a 4D \nworld he called \"spacetime\". For example, what you see in the screen of \nyour computer is a 2D embedding in a (apparent) 3D world. \n\nE=m\u2080c\u00b2, as simple as it is, follows from this \"spacetime\" setting. Although \nit can be \"derived\" in numerous ways that often obscure this important \npoint.", 
+            "author": "LeconsdAnalyse"
+        }, 
+        {
+            "date": "2015-04-14T12:58:09.448Z", 
+            "text": "+LeconsdAnalyse\nOkay, thank you. But the thing I still don't understand is also why It's \nconsidered genius when so many people know how it works. If everyone knows \nit and can explain it then how can it be considered complex or genius? I \ncan do 1 + 1, almost everyone can do it, and almost everyone can explain it \nand that's not considered genius is it?", 
+            "author": "Miss Cakelyn"
+        }, 
+        {
+            "date": "2015-05-01T21:09:31.000Z", 
+            "text": "+Miss Cakelyn Good question.\n\nBefore there was Special Relativity a free (of external fields) mass \nparticle (conservative system) moving with speed v (v/c<<1) had mechanical \nenergy, E=\u00bdm\u2080v\u00b2 -*(a)*. Where m\u2080 is the rest mass of the particle.\nThen came SR and the equation E=mc\u00b2=m\u2080c\u00b2/\u221a(1 - v\u00b2/c\u00b2) -*(b)*, for a free \nmass particle moving with relativistic speed v (v/c~1). \n\nNext we need the following Taylor series (which in this case is also an \nasymptotic series), 1/\u221a(1\u00b1x\u00b2) = 1\u2213\u00bdx\u00b2+(1\u00b73)/(2\u00b74)x\u2074\u2213..., (|x|<1). \nUsing the minus case, substituting x=v/c, and keeping only the *first two \nterms*, we get from *(b)*: E~m\u2080c\u00b2 + \u00bdm\u2080v\u00b2 -*(c)* (when v/c<<1). \n\nNotice that *(c)* has an extra term compared to *(a)* and when v=0, E=m\u2080c\u00b2. \nThis is the equation that appears in the clip above, and the reason why it \nis \"genius\". Namely, Einstein's theory of Special Relativity predicts an *additional \nenergy* (m\u2080c\u00b2) present even when v=0, and first proven experimentally by \nthe Cockcroft-Walton experiment \nhttp://www.aip.org/history/mod/fission/fission1/02.html", 
+            "author": "LeconsdAnalyse"
+        }, 
+        {
+            "date": "2015-04-09T20:09:17.045Z", 
+            "text": "so einstein proved e=mc2 by using a flying-through-space cat ?? \ufeff", 
+            "author": "Marios SONY"
+        }, 
+        {
+            "date": "2015-04-09T17:41:36.661Z", 
+            "text": "WTF\ufeff", 
+            "author": "OMEGA OYUNDA"
+        }, 
+        {
+            "date": "2015-04-09T10:25:31.133Z", 
+            "text": "You lost me at radioactive cat. I caught up a little at rocketship but the \nyou lost me when you went back to the radioactive cat. What was the point \nof the cat?!\ufeff", 
+            "author": "Greg. Sym."
+        }, 
+        {
+            "date": "2015-04-08T18:44:55.976Z", 
+            "text": "And here I thought the formula was Energy=mass times the speed of light \nsquared.\ufeff", 
+            "author": "iMurphy"
+        }, 
+        {
+            "date": "2015-04-07T22:17:40.777Z", 
+            "text": "Great videos! \nHow is the term E (1+v2/2c2) arrived at? I haven't found it on any list of \nrelativistic equations.\ufeff", 
+            "author": "Abdullah Moosa"
+        }, 
+        {
+            "date": "2015-04-03T23:03:50.663Z", 
+            "text": "Cat flash light rocketship and something about time \ud83d\ude02\ud83d\ude02\ufeff", 
+            "author": "Jewles cat"
+        }, 
+        {
+            "date": "2015-04-03T07:40:23.919Z", 
+            "text": "Write about chaos theory\ufeff", 
+            "author": "Xdxd Xdxd"
+        }, 
+        {
+            "date": "2015-04-01T20:11:54.196Z", 
+            "text": "Why a fucking cat would emit light? I know what you're trying to do but is \nreally confusing when you add some unrealistic shit like that. You're not \nexplaining anything easy to understand, asshole.\ufeff", 
+            "author": "ElSotanoGamer"
+        }, 
+        {
+            "date": "2015-03-30T04:48:11.759Z", 
+            "text": "........ What\ufeff", 
+            "author": "Michael Wozniak"
+        }, 
+        {
+            "date": "2015-03-29T01:20:36.836Z", 
+            "text": "in special relativity, Einstein borrowed Lorentz transformation from \nLorentz to  discuss length contraction. He ran into difficulty on \nderivation of force. And did not derive this equation, E=mc2, at all.\ufeff", 
+            "author": "larrybardo"
+        }, 
+        {
+            "date": "2015-03-27T20:29:40.000Z", 
+            "text": "I really don't understand what the point in these videos is? Convoluted \nphysics problems explained ridiculously quickly? If people actually want to \nabsorb all of the information, i.e. take notes, then why can't you just \nslow the fuck down? That said, the content is all fascinating, just \nfrustrating from the perspective of someone who isn't an expert in physics, \ntherefore wanting to learn via platforms such as this.\ufeff", 
+            "author": "Benny H"
+        }, 
+        {
+            "date": "2015-03-25T08:29:34.075Z", 
+            "text": "Simply Wow!\ufeff", 
+            "author": "rakshith k setty"
+        }, 
+        {
+            "date": "2015-03-27T17:31:40.589Z", 
+            "text": "Oh bhai!\n:)", 
+            "author": "Waqar Sarguroh"
+        }, 
+        {
+            "date": "2015-03-24T19:55:04.748Z", 
+            "text": "um... sorry I lost you...\ufeff", 
+            "author": "hillyjoshua"
+        }, 
+        {
+            "date": "2015-03-20T16:30:49.658Z", 
+            "text": "OH I get it! Einstein had a cat ^2 that he kept in outer space that emitted \nenergy! ENERGY =  MASS OF CAT'S - _- this is why people are religious and \nstupid.\ufeff", 
+            "author": "MP three"
+        }, 
+        {
+            "date": "2015-03-20T15:43:16.158Z", 
+            "text": "LOL\ufeff", 
+            "author": "Ida Jones"
+        }, 
+        {
+            "date": "2015-03-18T19:53:48.482Z", 
+            "text": "holy shit... why wasn't i shown this in school... NO ONE EVER EXPLAINED \nTHIS TO ME YOU DID IT IN 2 MINUTS WTF <3\ufeff", 
+            "author": "Ryan Druckman"
+        }, 
+        {
+            "date": "2015-03-18T17:46:59.838Z", 
+            "text": "So its all about cats.. always cats..\ufeff", 
+            "author": "AMARENDRA MISHRA"
+        }, 
+        {
+            "date": "2015-03-17T22:05:44.089Z", 
+            "text": "DONT TALK THAT FUCKING FAST\ufeff", 
+            "author": "Goatboy"
+        }, 
+        {
+            "date": "2015-04-09T02:47:59.118Z", 
+            "text": "minute physics", 
+            "author": "pixelforce"
+        }, 
+        {
+            "date": "2015-03-16T17:11:07.625Z", 
+            "text": "Einstein's Proof of E=mc\u00b2: https://youtu.be/hW7DW9NIO9M\ufeff", 
+            "author": "RM VISALAKSHE"
+        }, 
+        {
+            "date": "2015-03-16T17:03:03.819Z", 
+            "text": "Wow! I totally understood that! That's the best explanation I have heard. \nExtra applause for the radio kitty.\ufeff", 
+            "author": "David \u201cThe centaur\u201d Jerome"
+        }, 
+        {
+            "date": "2015-03-14T01:26:21.078Z", 
+            "text": "That is such an fluentel vedio now I get it enstine theroy is very \nequvilent to many different laws energy velocity kinetic energy potential \nenergy it all make sense \ufeff", 
+            "author": "William Ayim"
+        }, 
+        {
+            "date": "2015-03-13T05:43:52.945Z", 
+            "text": "My theory of Evolution is that Darwin was adopted.\ufeff", 
+            "author": "Parker Townsend"
+        }, 
+        {
+            "date": "2015-03-13T02:34:12.206Z", 
+            "text": "Einstein: Just one of his thought experiments could illuminate centuries of \nconfusion.  He had so many other insights through these imaginative forays. \n There has been no mind quite like his since.\ufeff", 
+            "author": "Anthony Edwards"
+        }, 
+        {
+            "date": "2015-03-12T18:32:17.855Z", 
+            "text": "so..... there's a cat floating in space somewhere?\ufeff", 
+            "author": "Rusty Blade"
+        }, 
+        {
+            "date": "2015-03-11T06:01:39.050Z", 
+            "text": "Yes\ufeff", 
+            "author": "Kyle Hargan"
+        }, 
+        {
+            "date": "2015-03-11T01:36:30.903Z", 
+            "text": "Correct me if I'm wrong but that's just an approximation for the Doppler \nshift. The real equation is \u221a(1-v^2/c^2) which can be expanded using an \ninfinite series. But the equation is also just an approximation so I guess \nit works out.\ufeff", 
+            "author": "Nameless Paladin"
+        }, 
+        {
+            "date": "2015-03-08T08:07:58.358Z", 
+            "text": "Nice subtitle ! Iam reading indonesian subtitle :D\ufeff", 
+            "author": "adam muharam"
+        }, 
+        {
+            "date": "2015-03-07T18:46:50.301Z", 
+            "text": "Lol\ufeff", 
+            "author": "shawnplaysminecrafthd"
+        }, 
+        {
+            "date": "2015-03-07T13:30:15.709Z", 
+            "text": "+MinutePhysics got a question. \nI wanna be an engineer and love math and physics and I use to be good at \nboth. Few months ago I came to UK for studying, and cause of language \nproblem now both of them is getting tough, and I don't know how to deal \nwith it? \ufeff", 
+            "author": "AZR 1011"
+        }, 
+        {
+            "date": "2015-03-03T16:54:50.387Z", 
+            "text": "Having read Einstein's paper a long time ago, I recall that his explanation \nwas a lot easier to follow, and it didn't need to introduce silly objects \nlike spaceships or a cat.  Nice attempt, but I think your derivation is too \nfast, doesn't explain the fundamental concepts enough, and has superfluous \nelements on top.  Redo it at once.\ufeff", 
+            "author": "goomba008"
+        }, 
+        {
+            "date": "2015-04-02T07:05:50.992Z", 
+            "text": "+goomba008 You have not learned from my last message at all. You may be too \nold to learn. Let me try again. Physicist A agrees with Physicist B on B's \npaper. A has to agree with all idea and equation in that paper. A has to be \nable to derive all equations in that paper in order to claim A understands \nall idea. Do you agree with Einstein's paper?", 
+            "author": "larrybardo"
+        }, 
+        {
+            "date": "2015-04-01T04:31:57.618Z", 
+            "text": "+larrybardo I'm not working on anything.  That equation is and was back \nthen evident.  There is nothing to even derive.  The explanation in the \nfirst paragraph is more than enough to justify it.  As I said, the only \npart that may have been tricky was the Lorentz transformation and it was \nalready known and evident to anyone whom this paper was written for.  At \nthis point I'm not sure if you're pulling my chain or just nitpicking.  But \nin the latter case, know that even when I was a first year physics student \nand we had to read this paper, nobody stumbled on that equation.  That \ntells you something.", 
+            "author": "goomba008"
+        }, 
+        {
+            "date": "2015-04-01T04:21:23.564Z", 
+            "text": "+goomba008 Still working on the derivation? Not a simple Lorentz equation \nas you thought? ", 
+            "author": "larrybardo"
+        }, 
+        {
+            "date": "2015-03-31T05:42:35.452Z", 
+            "text": "+goomba008 All equations in physics paper need to be derived unless it is a \nknown physics law. Apparently you have not written any paper for a long \nwhile. Perhaps you should derive this equation on behalf of Einstein if \nthis is such a simple Lorentz equation. He could not. Can you?", 
+            "author": "larrybardo"
+        }, 
+        {
+            "date": "2015-03-30T02:41:20.867Z", 
+            "text": "+larrybardo It would have been nice of you to actually post the equation. \n So I checked the paper and the first equation has a simple Lorentz \ntransformation in it so I'm assuming that's what you mean. Again, I'm just \nfeeding your laziness here.  Now, disregarding the fact that Lorentz \nhimself derived it (duh), Einstein did so too previously the same year \n(1905) in his paper \"On the Electrodynamics of moving bodies\".  If Einstein \nwas alive today he'd smack you the head.", 
+            "author": "goomba008"
+        }, 
+        {
+            "date": "2015-03-30T01:44:33.281Z", 
+            "text": "+goomba008 Apparently you did not read his paper carefully enough. Tell me \nhow Einstein derive the first equation in this paper. Did he derive the \nfirst equation at all?", 
+            "author": "larrybardo"
+        }, 
+        {
+            "date": "2015-03-29T02:00:04.237Z", 
+            "text": "+larrybardo Actually, you're full of shit.  Einstein's paper \"Does the \ninertia of a body depend upon its energy content?\" (translated from the \noriginal German version that appeared in Annalen der Physik in 1905) \ncontains a clear derivation that if a body gives off energy E as radiation, \nits mass diminishes by E/c^2.  Can't be clearer than that.  Now explain \nyourself.", 
+            "author": "goomba008"
+        }, 
+        {
+            "date": "2015-03-29T01:17:58.164Z", 
+            "text": "+goomba008 actually, Einstein never derived this equation. His only attempt \nto derive this equation in 1935 failed badly.", 
+            "author": "larrybardo"
+        }, 
+        {
+            "date": "2015-03-28T17:45:44.911Z", 
+            "text": "ye u are", 
+            "author": "yanxtar"
+        }, 
+        {
+            "date": "2015-03-28T17:41:51.679Z", 
+            "text": "+yanxtar Obvious troll is obvious.", 
+            "author": "Kazuto Kirigaya"
+        }, 
+        {
+            "date": "2015-03-28T09:19:02.546Z", 
+            "text": "+Alfredo Rodriguez Obama is just a hologram and 9/11 was the best broadway \nshow imo can't believe so man<y people tought it was real LLOOOOLOol", 
+            "author": "yanxtar"
+        }, 
+        {
+            "date": "2015-03-28T00:52:28.921Z", 
+            "text": "+yanxtar Get rekt", 
+            "author": "Alfredo Rodriguez"
+        }, 
+        {
+            "date": "2015-03-21T11:50:22.000Z", 
+            "text": "+yanxtar Um, I was just startled at the randomness of your comment you \nmoron. And by the way, I'm not a liberal so stop jumping to conclusions you \ndipshit.", 
+            "author": "Kazuto Kirigaya"
+        }, 
+        {
+            "date": "2015-03-21T11:35:17.118Z", 
+            "text": "+Kazuto Kirigaya Oh so I'm not allowed an opinion? Censorship? You're going \nto try and strip me from my right to freedom of speech?? This pretentious \nliberal crap you cunts say, \"You're allowed to do or say whatever you want, \nas long as it conforms to my idea of what a person should do or say\". The \nhypocrisy.", 
+            "author": "yanxtar"
+        }, 
+        {
+            "date": "2015-03-21T05:25:25.190Z", 
+            "text": "+yanxtar What in the hell?", 
+            "author": "Kazuto Kirigaya"
+        }, 
+        {
+            "date": "2015-03-09T01:56:51.751Z", 
+            "text": "+Leopold +goomba008 Well, to be honest here, Leopold, we should just put \nour weapons aside and consider the fact that niggers belong in cages in \nAfrika, and they shouldn't be allowed out unless they survive some sort of \nyearly Hunger Games tournament - and even then, it should be up to the \n(caucasian) viewers at home whether he should even be allowed a prize \nticket for a 1 week trip to civilization, they should be able to text to \nthe TV show YES or NO. That's just my opinion - I think it's valid because \nit solves a lot of the global warming issues we've been having without \nhaving to sacrifice comfort.", 
+            "author": "yanxtar"
+        }, 
+        {
+            "date": "2015-03-07T01:57:39.131Z", 
+            "text": "Your comment is superfluous. Shut up at once.", 
+            "author": "Leopold"
+        }, 
+        {
+            "date": "2015-03-01T13:36:31.157Z", 
+            "text": "Have u heard of bose Einstein theory?\ufeff", 
+            "author": "aritra sarkar"
+        }, 
+        {
+            "date": "2015-03-01T08:05:07.870Z", 
+            "text": "WHAT THE F******K.. HAVE ANYONE UNDERSTOOD... \n\n- via YtPak(.com)\ufeff", 
+            "author": "Rahza Ila Oidnahc"
+        }, 
+        {
+            "date": "2015-02-27T22:05:43.541Z", 
+            "text": "so what is the main question of this....... i need an answer for a project\ufeff", 
+            "author": "rebecca reed"
+        }, 
+        {
+            "date": "2015-02-27T20:14:59.607Z", 
+            "text": "Lol\ufeff", 
+            "author": "Gautam krishna"
+        }, 
+        {
+            "date": "2015-02-27T02:45:48.056Z", 
+            "text": "all wrong .dude you fucking fucked up doppler theory\ufeff", 
+            "author": "asaf sami"
+        }, 
+        {
+            "date": "2015-02-25T14:29:07.257Z", 
+            "text": "Can anyone explain the rearranging about  -E+KE2=KE1-E(1+V2/2c2)\ufeff", 
+            "author": "sovanreach ouk"
+        }, 
+        {
+            "date": "2015-02-24T23:20:04.222Z", 
+            "text": "I lost the 3 brain cells I have\ufeff", 
+            "author": "Adam Morgan"
+        }, 
+        {
+            "date": "2015-02-24T01:53:22.181Z", 
+            "text": "Einstein proved E = mc2 with a cat?!?!?!?\ufeff", 
+            "author": "Ryan Banh"
+        }, 
+        {
+            "date": "2015-02-22T10:21:45.018Z", 
+            "text": "Very fascinating.\ufeff", 
+            "author": "HaydenHatTrick"
+        }, 
+        {
+            "date": "2015-02-22T07:34:47.000Z", 
+            "text": "Poorly presented and flawed explanation. They try to be cute and state that \n\u201cyou get bored and zoom off in your spaceship in the middle of the (cat) \nexperiment.\u201d They draw a spaceship clearly flying AWAY from the cat (Lowest \norder Doppler term would then be (1 \u2013 v/c)). Next they state there is a \nrelativistic Doppler shift of 1 + 0.5*v^2/c^2/2 (What happened to the (1 \u2013 \nv/c) term when you are moving AWAY from the cat?) \n\nLater on, if you look carefully, you will see that they now show the \nspaceship shooting PAST the cat at the exact moment the light is emitted \n(NOT moving away from the cat as previously shown). They needlessly \nconfused the poor viewer with a sloppy explanation/setup of Einstein\u2019s \nthought experiment. \n\nThey need to spend less time on being cute in their explanation and more \ntime being unambiguous in the physical set up of the derivation. \ufeff", 
+            "author": "James Mark"
+        }, 
+        {
+            "date": "2015-03-08T06:40:41.000Z", 
+            "text": "The \"Doppler\" effect is a theory, with quite a bit of evidence to indicate \nit is just more pseudo-science. The real *mistake* is contained in E=MC\u00b2 \nwhen those same pseudo-scientists claim Black Holes exist, which is \nforbidden in Special Relativity, unless you think anything can be an \ninfinite point mass by ignoring SR. The other stupid claim is Ric=Ric\u03bc\u03bd=0 \nestablishes a space/time continuum by removing material sources from \nG\u03bc\u03bd=-\u03baT\u03bc\u03bd and then saying that the \"fabric\" is outside the material source! \nCircular arguments are the meat for pseudo-science in today's \"physics\" - \ntake the body out and then back in to save gravity as a petty god ...", 
+            "author": "tongmaa"
+        }, 
+        {
+            "date": "2015-02-24T01:39:26.000Z", 
+            "text": "+LeconsdAnalyse Yes, he sounds like a nice guy, but that's beside the \npoint. One does not make it as simple as possible by talking to the \naudience like they are children and then drawing pictures that improperly \nset the stage for the derivation. Perhaps, I'm wrong about this, but I \nbelieve the derivation is based on someone moving past the cat just as it \nis emitting light. The earlier (first) drawing shows the spaceship moving \nAWAY from the cat. \n\nReplacing the cat with Winnie the Pooh and raising the voice of the \nnarrator to a higher pitch would not make the video easier to understand, \neven though it might be more entertaining to some. On the other hand, \ncarefully scrutinizing the description and drawings before posting would \nhave helped a great deal. The reason that I\u2019m being hard on someone just \ntrying to explain physics is that I wasted a lot of time trying to figure \nthings out and feeling stupid the entire time. \n\nOver two million hits. That is terrific for any kind of video, but \nespecially so for educational/science videos. On the other hand, imagine if \neach of those 2 million had to spend an extra 5 minutes (It took me at \nleast twice as long as that, but I'm not very smart) to understand the \nderivation because the crucial initial drawing showed the wrong geometry \nfor the observer in the spacecraft. That's a hell of a lot of wasted man \nhours!", 
+            "author": "James Mark"
+        }, 
+        {
+            "date": "2015-02-21T18:54:45.320Z", 
+            "text": "That's interesting... the way my book worked this out was by deriving the \nlorentz transformations and then simply working from there to get \nrelativistic force and finally energy through its definition (integral of \nforce with respect to distance over which it's applied). Also... \nrelativistic kinetic energy is (gamma - 1)mc^2... (1/2)mv^2 is only \nsupposed to work at low speeds. But if you're at a speed high enough to \nconsider the relativistic doppler effect... I feel like some physics might \nbe getting mixed up here. But, I don't know; I'm tired and I'd have to \nthink about that some more.\ufeff", 
+            "author": "Aidan Davis"
+        }, 
+        {
+            "date": "2015-02-18T02:08:21.210Z", 
+            "text": "At least, write subtittle about what you say dude\ufeff", 
+            "author": "Kira Nichi"
+        }, 
+        {
+            "date": "2015-02-18T02:06:55.864Z", 
+            "text": "", 
+            "author": "Kira Nichi"
+        }, 
+        {
+            "date": "2015-02-18T02:06:46.314Z", 
+            "text": "At least, write the subtitle about what you say there ... \ufeff", 
+            "author": "Kira Nichi"
+        }, 
+        {
+            "date": "2015-02-17T09:25:03.817Z", 
+            "text": "", 
+            "author": "Maitreya Deepankar"
+        }, 
+        {
+            "date": "2015-02-16T21:09:39.492Z", 
+            "text": "Who else started drooling half way through. \ufeff", 
+            "author": "Merrick Means"
+        }, 
+        {
+            "date": "2015-02-15T13:05:46.525Z", 
+            "text": "", 
+            "author": "M Kotek"
+        }, 
+        {
+            "date": "2015-02-12T20:12:44.470Z", 
+            "text": "", 
+            "author": "mohafor16"
+        }, 
+        {
+            "date": "2015-02-12T00:00:36.496Z", 
+            "text": "Why does mass increase the faster you go?\ufeff", 
+            "author": "Chris Fox"
+        }, 
+        {
+            "date": "2015-04-01T20:55:42.753Z", 
+            "text": "+Chris Fox Because you add energy to increase it's speed. Energy = mass, so \nyou're adding mass.", 
+            "author": "Stuart Hull"
+        }, 
+        {
+            "date": "2015-02-08T13:43:37.648Z", 
+            "text": "I've never understood why they write mc^2 and not (delta m)c^2 or m2-m1, \nconsidering it's about the difference in both masses\ufeff", 
+            "author": "Maran Nebbeling"
+        }, 
+        {
+            "date": "2015-03-06T09:34:11.139Z", 
+            "text": "because in E=MC^2\nE is stated as the energy equivalent of mass M.\nThat's how the equation works and that's same as the difference in mass. \nBut this is worth simplified. ", 
+            "author": "Aravind Sanjeev"
+        }, 
+        {
+            "date": "2015-02-25T17:25:54.620Z", 
+            "text": "because it applies to the whole energy stored in mass as well", 
+            "author": "FFeri"
+        }, 
+        {
+            "date": "2015-02-07T23:54:36.859Z", 
+            "text": "I love cats\ufeff", 
+            "author": "Milo\u0161_bass"
+        }, 
+        {
+            "date": "2015-02-06T07:58:30.519Z", 
+            "text": "Yeah! I think I got it... wait...       cats don't emit light!!\n\nConclusion - Einstein was wrong!\ufeff", 
+            "author": "mraccident"
+        }, 
+        {
+            "date": "2015-02-05T20:27:38.257Z", 
+            "text": "instructions were unclear... got my cat's penis stuck in a shoe\ufeff", 
+            "author": "johgr gard"
+        }, 
+        {
+            "date": "2015-02-05T03:57:02.700Z", 
+            "text": "I would like to see a video about the Doppler effect equation you did.\ufeff", 
+            "author": "Denilson Martinez"
+        }, 
+        {
+            "date": "2015-02-03T19:09:25.172Z", 
+            "text": "Bro, you lost me at space ship. I gotta watch again.\ufeff", 
+            "author": "Alberto Pena"
+        }, 
+        {
+            "date": "2015-02-02T02:31:06.136Z", 
+            "text": "I got to admit your smart.\ufeff", 
+            "author": "Worthless Baton"
+        }, 
+        {
+            "date": "2015-02-01T21:30:38.469Z", 
+            "text": "E=MC2 tells you how much force or energy is released from a given amount of \nmass or solid matter when the atoms split. page 72 of the Present\n\nGoogle *TRUTH CONTEST* if you seek truth.\ufeff", 
+            "author": "Martha Nate"
+        }, 
+        {
+            "date": "2015-02-22T10:21:15.427Z", 
+            "text": "^This one missed the point", 
+            "author": "HaydenHatTrick"
+        }, 
+        {
+            "date": "2015-02-01T09:09:16.280Z", 
+            "text": "", 
+            "author": "Ioanna Michalou"
+        }, 
+        {
+            "date": "2015-01-30T22:56:55.862Z", 
+            "text": "DUBLEM PARA PORTUGUES PFV\ufeff", 
+            "author": "Arthur Gomez"
+        }, 
+        {
+            "date": "2015-01-27T15:20:57.526Z", 
+            "text": "Can't follow simply because you talk too fast.\ufeff", 
+            "author": "fej fish"
+        }, 
+        {
+            "date": "2015-01-26T23:55:11.498Z", 
+            "text": "do anyone vote much explained video than this???\ufeff", 
+            "author": "Suraj Rimal"
+        }, 
+        {
+            "date": "2015-01-26T06:32:03.508Z", 
+            "text": "The cat can't live in outer space without a space suit . \nhehe. \ufeff", 
+            "author": "Aditya Sankar"
+        }, 
+        {
+            "date": "2015-01-23T05:44:06.482Z", 
+            "text": "But what if the cat is Schr\u00f6dinger's cat?\ufeff", 
+            "author": "Maniac12G"
+        }, 
+        {
+            "date": "2015-04-12T23:08:01.186Z", 
+            "text": "+Maniac12G It is Schr\u00f6dinger's cat. But it's also simultaneously not \nSchr\u00f6dinger's cat.", 
+            "author": "multimagictutorials"
+        }, 
+        {
+            "date": "2015-03-27T04:21:05.119Z", 
+            "text": "+skunkFU25\n*immediately attemps to think of a way to continue...*\n*can't*\n*twitches*", 
+            "author": "jacketsj: the guy with a long name that will wipe you off the earth because I eat children"
+        }, 
+        {
+            "date": "2015-03-27T03:29:06.038Z", 
+            "text": "+jacketsj: the guy with a long name that will wipe you off the earth \nbecause I eat children dude.....stop.....", 
+            "author": "skunkFU25"
+        }, 
+        {
+            "date": "2015-03-27T02:32:15.991Z", 
+            "text": "+skunkFU25\nhold on, that was a *pun*, not a joke. Edit for my comment: *really bad \njoke that relies on taking a previous **pun** seriously*", 
+            "author": "jacketsj: the guy with a long name that will wipe you off the earth because I eat children"
+        }, 
+        {
+            "date": "2015-03-27T01:13:22.038Z", 
+            "text": "+jacketsj: the guy with a long name that will wipe you off the earth \nbecause I eat children whatever you say man......whatever", 
+            "author": "skunkFU25"
+        }, 
+        {
+            "date": "2015-03-26T23:08:16.094Z", 
+            "text": "+skunkFU25\n*really bad joke that relies taking a previous joke seriously* was the \nfirst result", 
+            "author": "jacketsj: the guy with a long name that will wipe you off the earth because I eat children"
+        }, 
+        {
+            "date": "2015-03-26T21:20:41.769Z", 
+            "text": "+jacketsj: the guy with a long name that will wipe you off the earth \nbecause I eat children google *joke*", 
+            "author": "skunkFU25"
+        }, 
+        {
+            "date": "2015-03-26T21:15:05.684Z", 
+            "text": "The cat can be either alive or dead when it's moving, I don't see how this \nchanges anything.", 
+            "author": "jacketsj: the guy with a long name that will wipe you off the earth because I eat children"
+        }, 
+        {
+            "date": "2015-02-25T23:20:52.609Z", 
+            "text": "Mind=blown", 
+            "author": "skunkFU25"
+        }, 
+        {
+            "date": "2015-01-23T00:04:15.165Z", 
+            "text": "what?\ufeff", 
+            "author": "kenndal felix"
+        }, 
+        {
+            "date": "2015-01-22T23:03:46.633Z", 
+            "text": "I'll act like I didn't see this \nhow's with me :3\ufeff", 
+            "author": "Al-hamid channel"
+        }, 
+        {
+            "date": "2015-01-22T06:57:17.392Z", 
+            "text": "This is the equation of the sun not energy\ufeff", 
+            "author": "Michael NADROJ"
+        }, 
+        {
+            "date": "2015-01-20T05:00:32.914Z", 
+            "text": "Holy shit!!! COMPLEX\ufeff", 
+            "author": "Kathryn Gorham"
+        }, 
+        {
+            "date": "2015-01-19T22:50:33.717Z", 
+            "text": "Watch this video if you ever wanted to know how Einstein proved his most \nfamous equation\ufeff", 
+            "author": "Luka Kawashima"
+        }, 
+        {
+            "date": "2015-01-19T23:03:59.457Z", 
+            "text": "+Vihan Bhargava Obviously", 
+            "author": "Luka Kawashima"
+        }, 
+        {
+            "date": "2015-01-19T22:55:16.936Z", 
+            "text": "Whats e=mc2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\njk", 
+            "author": "Vihan Bhargava"
+        }, 
+        {
+            "date": "2015-01-19T21:48:36.544Z", 
+            "text": "I used dis in class like a aposloute boss\ufeff", 
+            "author": "This Crazy Gamer"
+        }, 
+        {
+            "date": "2015-04-09T14:54:35.791Z", 
+            "text": "yah ", 
+            "author": "This Crazy Gamer"
+        }, 
+        {
+            "date": "2015-04-08T22:51:06.864Z", 
+            "text": "aposloute", 
+            "author": "Richard Tracy"
+        }, 
+        {
+            "date": "2015-02-07T17:48:40.373Z", 
+            "text": ":D", 
+            "author": "This Crazy Gamer"
+        }, 
+        {
+            "date": "2015-02-07T17:24:42.591Z", 
+            "text": "+TheDoctorWhoBoss :P", 
+            "author": "Shlovaski"
+        }, 
+        {
+            "date": "2015-02-07T10:14:48.966Z", 
+            "text": "shut up ", 
+            "author": "This Crazy Gamer"
+        }, 
+        {
+            "date": "2015-02-07T17:24:29.000Z", 
+            "text": "ur profile pic is my reaction to this comment.", 
+            "author": "Shlovaski"
+        }, 
+        {
+            "date": "2015-01-17T18:37:07.575Z", 
+            "text": "Reece burns,\ufeff", 
+            "author": "ERB"
+        }
+    ]
+}

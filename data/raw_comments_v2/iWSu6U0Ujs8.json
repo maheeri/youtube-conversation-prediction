@@ -1,0 +1,805 @@
+{
+    "publish_date": "2015-01-22T18:26:52.000Z", 
+    "video_length": "PT3M19S", 
+    "captions": [
+        {
+            "text": "Physics, at its most basic, is just a description\nof the motion of the stuff in our universe.", 
+            "dur": "4.43", 
+            "start": "1.11"
+        }, 
+        {
+            "text": "\u201cThis planet goes this way, that rocket\ngoes that way\u201d \u2013 except that some \u2013 in", 
+            "dur": "4.29", 
+            "start": "5.54"
+        }, 
+        {
+            "text": "fact, many \u2013 objects move without moving.\nOr, more precisely, they move without going", 
+            "dur": "4.86", 
+            "start": "9.83"
+        }, 
+        {
+            "text": "anywhere.", 
+            "dur": "0.489", 
+            "start": "14.69"
+        }, 
+        {
+            "text": "I\u2019m talking objects that spin, revolve,\nrotate, pirouette, orbit, circle, gyrate,", 
+            "dur": "4.871", 
+            "start": "15.179"
+        }, 
+        {
+            "text": "whirl, twirl, cartwheel, and so on. Like a\nplanet around a star, an electron in an atom,", 
+            "dur": "4.57", 
+            "start": "20.05"
+        }, 
+        {
+            "text": "or even our solar system going around the\ngravitational center of the milky way: from", 
+            "dur": "3.85", 
+            "start": "24.62"
+        }, 
+        {
+            "text": "up close they\u2019re certainly moving, but in\nthe grand scheme of things, that motion doesn\u2019t", 
+            "dur": "4.51", 
+            "start": "28.47"
+        }, 
+        {
+            "text": "take them anywhere.", 
+            "dur": "0.91", 
+            "start": "32.98"
+        }, 
+        {
+            "text": "We can still talk about it, though: just like\n\u201cmomentum\u201d is a concept that describes", 
+            "dur": "3.52", 
+            "start": "33.89"
+        }, 
+        {
+            "text": "how much oomph an object has when it moves\nin a straight line, \u201cangular momentum\u201d", 
+            "dur": "3.75", 
+            "start": "37.41"
+        }, 
+        {
+            "text": "is a way to account for how much oomph objects\nhave when they\u2019re going in circles \u2013 figuratively,", 
+            "dur": "4.64", 
+            "start": "41.16"
+        }, 
+        {
+            "text": "or literally.", 
+            "dur": "0.93", 
+            "start": "45.8"
+        }, 
+        {
+            "text": "And angular momentum is simple, in theory:\npick a point, any point. Pretend your object", 
+            "dur": "4.63", 
+            "start": "46.73"
+        }, 
+        {
+            "text": "is moving in a circle around that point. Figure\nout how fast the object is moving along the", 
+            "dur": "4.11", 
+            "start": "51.36"
+        }, 
+        {
+            "text": "circle (never mind that it probably isn\u2019t\nmoving exactly along the circle, and that", 
+            "dur": "3.32", 
+            "start": "55.47"
+        }, 
+        {
+            "text": "the circle might have to change size over\ntime to follow the object), then multiply", 
+            "dur": "3.71", 
+            "start": "58.79"
+        }, 
+        {
+            "text": "that speed times the size of the circle and\nthe object\u2019s mass, and there you have it:", 
+            "dur": "4.08", 
+            "start": "62.5"
+        }, 
+        {
+            "text": "angular momentum.", 
+            "dur": "0.85", 
+            "start": "66.58"
+        }, 
+        {
+            "text": "For example, a 2 kilogram 60 cm-diameter bicycle\nwheel going 20 km per hour would have an angular", 
+            "dur": "6.2", 
+            "start": "67.43"
+        }, 
+        {
+            "text": "momentum of about 7 kilogram meters squared\nper second.", 
+            "dur": "4.919", 
+            "start": "73.63"
+        }, 
+        {
+            "text": "The reason we care about angular momentum\nis that if you take a bunch of objects that", 
+            "dur": "3.341", 
+            "start": "78.549"
+        }, 
+        {
+            "text": "are interacting electromagnetically or gravitationally\nor whatever, and add up all of their angular", 
+            "dur": "4.11", 
+            "start": "81.89"
+        }, 
+        {
+            "text": "momenta into one number, then that total value\nwon\u2019t change over time (unless some other", 
+            "dur": "4.939", 
+            "start": "86"
+        }, 
+        {
+            "text": "objects from outside come in and mess things\nup).", 
+            "dur": "2.36", 
+            "start": "90.939"
+        }, 
+        {
+            "text": "So earth, which is 150 million kilometers\nfrom the sun, orbits at 30 km/s and has a", 
+            "dur": "5.231", 
+            "start": "93.299"
+        }, 
+        {
+            "text": "mass of 6*10^24 kilograms, has an angular\nmomentum of 2.7 * 10^40 kilogram meters squared", 
+            "dur": "6.49", 
+            "start": "98.53"
+        }, 
+        {
+            "text": "per second. That\u2019s four thousand quintillion\nquintillion bicycle wheels! And this angular", 
+            "dur": "4.919", 
+            "start": "105.02"
+        }, 
+        {
+            "text": "momentum stays roughly constant over the course\nof the earth\u2019s orbit year in and year out.", 
+            "dur": "4.871", 
+            "start": "109.939"
+        }, 
+        {
+            "text": "But what\u2019s amazing is that even if the sun\nand the rest of the solar system were to suddenly", 
+            "dur": "3.489", 
+            "start": "114.81"
+        }, 
+        {
+            "text": "disappear, the earth would STILL have that\nsame angular momentum about the point where", 
+            "dur": "3.971", 
+            "start": "118.299"
+        }, 
+        {
+            "text": "the sun WAS.\u00a0Without the sun\u2019s gravity,\nthe earth would of course now move in a straight", 
+            "dur": "4.4", 
+            "start": "122.27"
+        }, 
+        {
+            "text": "line, requiring an ever-larger imaginary circle\nas it got farther from the point where the", 
+            "dur": "4", 
+            "start": "126.67"
+        }, 
+        {
+            "text": "sun used to be. But as the earth continued\nthrough space, its 30km/s velocity would also", 
+            "dur": "5.42", 
+            "start": "130.67"
+        }, 
+        {
+            "text": "point less and less along the circle, so when\nyou calculated the angular momentum, the decrease", 
+            "dur": "4.89", 
+            "start": "136.09"
+        }, 
+        {
+            "text": "in velocity would exactly cancel out the increase\nin the size of the circle, and you\u2019d always", 
+            "dur": "4.24", 
+            "start": "140.98"
+        }, 
+        {
+            "text": "get the same answer. 2.7 * 10^40 kilogram\nmeters squared per second.", 
+            "dur": "4.7", 
+            "start": "145.22"
+        }, 
+        {
+            "text": "So even when nothing is rotating at all, angular\nmomentum is still conserved. And that\u2019s", 
+            "dur": "4.17", 
+            "start": "149.92"
+        }, 
+        {
+            "text": "the beauty of a law of physics \u2013\u00a0it works\neven when you try to break it!", 
+            "dur": "7", 
+            "start": "154.09"
+        }
+    ], 
+    "title": "What IS Angular Momentum?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/011mb", 
+        "/m/0m08c9y", 
+        "/m/0545k", 
+        "/m/05qjt"
+    ], 
+    "number_views": 705055, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-08T21:39:54.325Z", 
+            "text": "When you calculated the angular momentum of the bike wheel, weren't you \nsupposed to use the radius of the wheel and not the diameter?\ufeff", 
+            "author": "Miguel Gonzalez"
+        }, 
+        {
+            "date": "2015-05-05T10:41:15.468Z", 
+            "text": "physics : it's just werk\ufeff", 
+            "author": "Jean Panachay"
+        }, 
+        {
+            "date": "2015-05-02T18:42:45.334Z", 
+            "text": "At around 1:10, isn't there a calculation error, he says that the Angular \nmomentum = mass*velocity*radius but in the example he multiplied with the \ndiameter (2*radius) instead of the radius ?\ufeff", 
+            "author": "Kjartan M\u00e1sson"
+        }, 
+        {
+            "date": "2015-05-02T11:40:46.318Z", 
+            "text": "Why its an L?\ufeff", 
+            "author": "Aditya Mishra"
+        }, 
+        {
+            "date": "2015-04-29T15:36:29.871Z", 
+            "text": ":D\ufeff", 
+            "author": "JustmeKasie"
+        }, 
+        {
+            "date": "2015-04-23T18:26:33.108Z", 
+            "text": "Sooo..why is it \"L\"?\ufeff", 
+            "author": "Kamil Saitov"
+        }, 
+        {
+            "date": "2015-04-23T17:49:02.500Z", 
+            "text": "Who dislikes these beautiful videos?\ufeff", 
+            "author": "BenKenobi"
+        }, 
+        {
+            "date": "2015-04-23T14:40:48.493Z", 
+            "text": "1:06 Why is it an \"L\"? :) \ufeff", 
+            "author": "ToLyanSter"
+        }, 
+        {
+            "date": "2015-04-23T13:44:41.803Z", 
+            "text": "\u4e2d\u6587\u7ffb\u8bd1\u8005\u4f60\u7ed9\u6211\u51fa\u6765\u6211\u4fdd\u8bc1\u4e0d\u6253\u6b7b\u4f60\ufeff", 
+            "author": "\u5b59\u9882"
+        }, 
+        {
+            "date": "2015-04-21T17:49:48.249Z", 
+            "text": "so when does the earth stop or does the earth go slowlier forever?\ufeff", 
+            "author": "troy k"
+        }, 
+        {
+            "date": "2015-04-13T08:01:44.275Z", 
+            "text": "You said angular momentum is tan v * radius * mass but when you do your \ncalculations you use diameter so what's going on \ufeff", 
+            "author": "msmgamers"
+        }, 
+        {
+            "date": "2015-04-12T22:26:05.981Z", 
+            "text": "MINDFUCKED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ufeff", 
+            "author": "Blade Z"
+        }, 
+        {
+            "date": "2015-04-12T13:15:11.956Z", 
+            "text": "You said to multiply by the radius, but you multiplied by the diameter in \nthe bicycle example. Thank you for the video though! \ufeff", 
+            "author": "Sasha Moore"
+        }, 
+        {
+            "date": "2015-04-10T04:44:45.927Z", 
+            "text": "I would think it would be more useful to have the individual variables than \nto have the constant proportion between them. Is it really used so often it \ncan't just be recalculated?\ufeff", 
+            "author": "Tim S"
+        }, 
+        {
+            "date": "2015-04-08T21:43:16.514Z", 
+            "text": ".\ufeff", 
+            "author": "Nusair Haq"
+        }, 
+        {
+            "date": "2015-04-08T15:21:35.615Z", 
+            "text": "L comes from the \"right hand rule\" of vector cross products r x p=L. Since \nr and p are in the x-y plane, they are perpendicular to each other and form \nan \"L\" shape\ufeff", 
+            "author": "Itsiwhatitsi"
+        }, 
+        {
+            "date": "2015-04-07T13:01:03.432Z", 
+            "text": "Where the hell was this video 2 years ago when I was still at school?\ufeff", 
+            "author": "MineKynoMine"
+        }, 
+        {
+            "date": "2015-04-07T08:42:32.601Z", 
+            "text": "Wait, hold up, he uses paper! I always thought it was a whiteboard. \ufeff", 
+            "author": "Jonathan Melena"
+        }, 
+        {
+            "date": "2015-04-02T08:36:15.772Z", 
+            "text": "How is the velocity decreasing?\ufeff", 
+            "author": "Payton Holmes"
+        }, 
+        {
+            "date": "2015-04-02T04:34:57.194Z", 
+            "text": "Thank you! I finally get it, it's funny because I was trying to watch the \nsame concept from a physics professor at MIT, lol but that didn't go so \ngreat! \ufeff", 
+            "author": "Camila Cruz"
+        }, 
+        {
+            "date": "2015-03-31T03:11:19.676Z", 
+            "text": "I really wish you made this video when i was in AP physics....\ufeff", 
+            "author": "Andy Lee"
+        }, 
+        {
+            "date": "2015-03-28T23:07:16.352Z", 
+            "text": "I had no idea what angular momentum was before, but I watched this video \nand now I don't even know what a circle is. \ufeff", 
+            "author": "katinka k"
+        }, 
+        {
+            "date": "2015-03-28T00:24:12.256Z", 
+            "text": "I'm an engineering student and these videos actually really help!!\ufeff", 
+            "author": "Scott Small"
+        }, 
+        {
+            "date": "2015-03-26T16:12:16.453Z", 
+            "text": "What is the logo of minutephysics supposed to mean? To me it looks like a \ngrave, like, R.I.P. Physics! Is it just me? I think I'm probably looking at \nsomething obvious, and now I feel dumb.\ufeff", 
+            "author": "Sci e. nce Curiosity"
+        }, 
+        {
+            "date": "2015-03-26T16:00:44.519Z", 
+            "text": "Why is it \"L\"?\ufeff", 
+            "author": "Greg Bowler"
+        }, 
+        {
+            "date": "2015-03-25T18:52:06.232Z", 
+            "text": "Why do Americans use a decimal instead of a multiplication sign (x) ?\ufeff", 
+            "author": "UnderscoreZeroLP"
+        }, 
+        {
+            "date": "2015-05-06T01:45:19.357Z", 
+            "text": "+UnderscoreZeroLP Because in algebra, X is a variable and it would be \nreally hard to look at with all those X's. An example of the hard way, X \nx X = X^2. An example of the easy way, X * X = X^2. Simpler, yeah?", 
+            "author": "hellbreaker6666"
+        }, 
+        {
+            "date": "2015-05-03T22:01:03.857Z", 
+            "text": "+UnderscoreZeroLP It's not really a decimal, more of a floating period.", 
+            "author": "TreeOfMusic"
+        }, 
+        {
+            "date": "2015-04-19T17:17:01.970Z", 
+            "text": "Because \".\" Is a scalar product and \"\u00d7\" or \"^\" is a vector product. In \nadvanced Physics and Mathematics it's important to make this distinction. \nThe \"\u00d7\" is used in formulae like the torque formula (\u03c4 = F \u00d7 d) since you \nare multiplying two perpendicular vector quantities to get a third vector \nperpendicular to both of them (the direction of the torque is defined by \nthe right-hand \"cork-screw\" or \"grip\" rule)", 
+            "author": "atrumluminarium"
+        }, 
+        {
+            "date": "2015-04-08T15:16:03.094Z", 
+            "text": "In Spain we use the \u2022.\nWhen we are kids we use the x.", 
+            "author": "Pablo Garc\u00eda B\u00e9ltran"
+        }, 
+        {
+            "date": "2015-05-06T02:50:30.000Z", 
+            "text": "Generally you use neither one for basic multiplication, they would just be \nput together with parentheses separating them. The X denotes vector cross \nproducts and the dot scalar dot products.", 
+            "author": "Phoenix"
+        }, 
+        {
+            "date": "2015-03-31T20:17:16.444Z", 
+            "text": "+Potatoez Minez Well, I study industrial engineering, if any of my fellow \nstudents wrote an asterisk instead of a decimal, we would all burst into \nlaughter, I personnally use a decimal and all the people surrounding me do \nso, the asterisk is just a basic symbol to explain multiplication to \nchildren, if you have to daily deal with mathematical symbols and numbers \nit's much more practical to use a decimal, that's what I've been doing for \nyears, I don't know about other countries, but right here that's how it is. ", 
+            "author": "kawtharfromdz"
+        }, 
+        {
+            "date": "2015-03-31T17:59:18.091Z", 
+            "text": "+kawtharfromdz Dude, most countries on the world use asterisks.", 
+            "author": "Potatoez Minez"
+        }, 
+        {
+            "date": "2015-03-29T02:26:15.987Z", 
+            "text": "Are you serious ? I live in Algeria, which has nothing to do with usa \neither culturally or geographically, we stopped using that multiplication \nsign by the end of middle school, it's just much more practical to \nmanipulate numbers and variables this way, a x can easily be confused with \nthe name of a variable, it sounds totally ridiculous to write the \nmultiplication sign especiallu if you're specialising in a technical field \n(like me).", 
+            "author": "kawtharfromdz"
+        }, 
+        {
+            "date": "2015-03-28T15:17:57.796Z", 
+            "text": "+James Loftus I was going to mention that, but asterisks would probably \ntake too long to draw IRL.", 
+            "author": "UnderscoreZeroLP"
+        }, 
+        {
+            "date": "2015-03-28T05:59:06.487Z", 
+            "text": "+UnderscoreZeroLP We often use an asterisk when typing.", 
+            "author": "James Loftus"
+        }, 
+        {
+            "date": "2015-03-27T18:24:14.130Z", 
+            "text": "+James Loftus I understand. There should be a completely different symbol \nthough :P", 
+            "author": "UnderscoreZeroLP"
+        }, 
+        {
+            "date": "2015-03-27T18:14:05.157Z", 
+            "text": "+UnderscoreZeroLP It's far more difficult to distinguish in handwriting, \nthough. This is just a way to insure minimal errors occur.", 
+            "author": "James Loftus"
+        }, 
+        {
+            "date": "2015-03-27T18:07:31.346Z", 
+            "text": "+James Loftus But only when in italics like this *x* and the x for \nmultiplication floats above the line the text rests on.", 
+            "author": "UnderscoreZeroLP"
+        }, 
+        {
+            "date": "2015-03-27T17:56:42.408Z", 
+            "text": "Because X is commonly used to denote a variable.", 
+            "author": "James Loftus"
+        }, 
+        {
+            "date": "2015-03-25T06:57:06.686Z", 
+            "text": "Not that it matters in the grand scheme of things but you used the diameter \ninstead if the radius of the wheel to calculate L, as well as assumed that \nthe mass is all distributed at that radius.\ufeff", 
+            "author": "Alvaro Zamora"
+        }, 
+        {
+            "date": "2015-03-24T23:48:11.052Z", 
+            "text": "Beautiful pirouettes & electron clouds  \ud83d\udcaf\ufeff", 
+            "author": "Lao Tzu"
+        }, 
+        {
+            "date": "2015-03-24T03:23:16.520Z", 
+            "text": "but arent you also moving while you're not moving?\ufeff", 
+            "author": "Jeru Kim"
+        }, 
+        {
+            "date": "2015-03-24T01:28:53.669Z", 
+            "text": "More like angular kiwis.\ufeff", 
+            "author": "sirawesome hat"
+        }, 
+        {
+            "date": "2015-03-23T10:34:43.690Z", 
+            "text": "I don't even know what your saying if you talk so fast \ufeff", 
+            "author": "Muhammad Syauqi Luvaniesky"
+        }, 
+        {
+            "date": "2015-03-22T10:31:29.167Z", 
+            "text": "This video brought to you by Crayola.\ufeff", 
+            "author": "Weber588 o-o"
+        }, 
+        {
+            "date": "2015-03-22T01:50:10.453Z", 
+            "text": "I thought I would like these - but I'm 0 for 2 on liking explanations of \nthings I'm not already familiar with - I'm not a really stupid guy - but \nthe pace and the sudden leaps are of no help to my understanding - bye \nguys.\ufeff", 
+            "author": "Tom Wells"
+        }, 
+        {
+            "date": "2015-03-22T00:11:54.078Z", 
+            "text": "Does the bycicle wheel not have a radius of 0.3m ?\ufeff", 
+            "author": "xXisildursheirXx"
+        }, 
+        {
+            "date": "2015-03-21T01:18:01.084Z", 
+            "text": "Why it's an \"L\"?\ufeff", 
+            "author": "Eric Hernandez"
+        }, 
+        {
+            "date": "2015-03-20T05:40:56.986Z", 
+            "text": "so angular momentum is just torque times speed?\ufeff", 
+            "author": "martinshoosterman"
+        }, 
+        {
+            "date": "2015-03-27T01:36:19.254Z", 
+            "text": "No. The change in angular momentum is the net torque multiplied by time.", 
+            "author": "After6urner"
+        }, 
+        {
+            "date": "2015-03-20T05:39:33.490Z", 
+            "text": "Now explain moment of inertia, GO!\ufeff", 
+            "author": "itsFisch"
+        }, 
+        {
+            "date": "2015-03-20T01:10:20.302Z", 
+            "text": "Did anyone notice the mistake in the bicycle example? Diameter of .6 was \nused instead of radius of .3.\ufeff", 
+            "author": "Amandeep Singh"
+        }, 
+        {
+            "date": "2015-03-19T21:11:05.069Z", 
+            "text": "hi! can you do a video on how fast do we travel through space? taking into \nconsideration not only earth's going around the sun but also sun's velocity \naround milky way and milky way's speed through space? and can you compare \nthis to the speed of sound and light?\ufeff", 
+            "author": "Simon Burda"
+        }, 
+        {
+            "date": "2015-03-19T16:33:36.682Z", 
+            "text": "Post something!\ufeff", 
+            "author": "cyber ericsson"
+        }, 
+        {
+            "date": "2015-03-19T16:29:13.559Z", 
+            "text": "Why is it a L?\ufeff", 
+            "author": "cyber ericsson"
+        }, 
+        {
+            "date": "2015-03-19T15:16:22.719Z", 
+            "text": "What IS Angular Momentum?: https://youtu.be/iWSu6U0Ujs8\ufeff", 
+            "author": "sam H"
+        }, 
+        {
+            "date": "2015-03-19T08:31:23.714Z", 
+            "text": "Pls make a video on Aurora Borealis\ufeff", 
+            "author": "Ganesh Goutham"
+        }, 
+        {
+            "date": "2015-03-18T22:51:02.054Z", 
+            "text": "Make more\ufeff", 
+            "author": "Cardin Bui"
+        }, 
+        {
+            "date": "2015-03-18T00:00:18.946Z", 
+            "text": "But why is it an L?\ufeff", 
+            "author": "Lucas Tucker"
+        }, 
+        {
+            "date": "2015-03-17T15:23:48.909Z", 
+            "text": "It works even if you try to break it... \ufeff", 
+            "author": "notebook123ish"
+        }, 
+        {
+            "date": "2015-03-16T19:31:35.980Z", 
+            "text": "Make a video about the Turbulence Flow\ufeff", 
+            "author": "Jon S"
+        }, 
+        {
+            "date": "2015-03-16T00:54:18.465Z", 
+            "text": "+MinutePhysics (or anyone else who has the answer) As far as velocity is \nconcerned, why would the earth's velocity decrease as a result of the lack \nof the sun's influence? On one hand, I think of newton's second law of \ninertia which describes moving bodies as moving at constant velocities, \nunless acted on by an unbalanced force. In this case, wouldn't an \nunbalanced force be something outside the designated system, thus altering \nthe angular momentum? Conversely, Kepler's law describes the velocity of a \nplanet as a function of the distance the planet is to the sun, but in the \nabsence of the sun's influence, wouldn't this not be applicable? I haven't \ndealt with angular momentum yet in my Physics class so I don't fully \nunderstand it.  \ufeff", 
+            "author": "Tim Wroge"
+        }, 
+        {
+            "date": "2015-03-15T19:29:34.718Z", 
+            "text": "Hey Henry Reich!! I was hoping to see if you could do a video on the \ninfamous Higgs Boson, what it is and why it's so important if it's a light \nor heavy particle.\ufeff", 
+            "author": "Diego Lazo"
+        }, 
+        {
+            "date": "2015-03-15T18:28:42.459Z", 
+            "text": "Since you're a physicist can you please decrease you velocity over videos ? \n \ufeff", 
+            "author": "layes Dante"
+        }, 
+        {
+            "date": "2015-03-13T22:24:53.268Z", 
+            "text": "\"And that's the beauty of a law of Physics. It works even when you try to \nbreak it. \"\ufeff", 
+            "author": "Milan Nedic"
+        }, 
+        {
+            "date": "2015-03-13T19:31:39.985Z", 
+            "text": "rest in peace minute physics? why no more videos?\ufeff", 
+            "author": "ars hulk"
+        }, 
+        {
+            "date": "2015-03-13T06:12:26.442Z", 
+            "text": "Henry !! A month has passed, we want ur new video !!\ufeff", 
+            "author": "Khalid mohi-u-din"
+        }, 
+        {
+            "date": "2015-03-13T03:38:11.381Z", 
+            "text": "What is angular motion?  Angular motion is a thing that cannot be explained \nto a layman audience in three minutes.  That's pretty much all I got out of \nthis.\ufeff", 
+            "author": "Samcwic"
+        }, 
+        {
+            "date": "2015-03-12T21:16:46.953Z", 
+            "text": "You talk quite fast \ufeff", 
+            "author": "HyperNovaMC"
+        }, 
+        {
+            "date": "2015-03-12T17:48:35.545Z", 
+            "text": "All we learn in highschool is Newtonian physics we barely touch upon \nspecial relativity my teacher says to wait until university. If I take \nsenior physics in university will I be behind on what I should know?\ufeff", 
+            "author": "Brayden Razavi"
+        }, 
+        {
+            "date": "2015-03-12T16:17:27.287Z", 
+            "text": "Will you please do a video on mirrors? Like how mirrors can make your \nreflection appear skinnier (something exploited by department stores \nthroughout the world)? And how two-way mirrors work and how to tell if you \nare being observed through one? \ufeff", 
+            "author": "maremacd"
+        }, 
+        {
+            "date": "2015-03-12T07:42:31.730Z", 
+            "text": "Unsubscribed... Too many adds..\ufeff", 
+            "author": "76u u56"
+        }, 
+        {
+            "date": "2015-03-12T00:55:03.176Z", 
+            "text": "why is it L?\ufeff", 
+            "author": "Aeddon Irwin"
+        }, 
+        {
+            "date": "2015-03-12T00:43:44.863Z", 
+            "text": "What IS Angular Momentum?: https://youtu.be/iWSu6U0Ujs8\ufeff", 
+            "author": "Alexandre de Oliveira Penna"
+        }, 
+        {
+            "date": "2015-03-11T09:59:35.010Z", 
+            "text": "i wish i could understand this\ufeff", 
+            "author": "Ryan Jee"
+        }, 
+        {
+            "date": "2015-03-11T01:10:10.514Z", 
+            "text": "Correct me if I'm wrong but doesn't the sun also have an angular momentum? \nThe east isn't exactly rotating about the sun. Both the sun and the earth \nare rotating about the centre of mass of the earth-sun system (which just \nso happens to be within the surface of the sun). But in this case the sum \nof the angular momentum of the earth and the sun should be a constant and \nwon't change over time. But the individual values of L can and should \nchange because the orbit is elliptical.\ufeff", 
+            "author": "Nameless Paladin"
+        }, 
+        {
+            "date": "2015-03-10T23:22:48.725Z", 
+            "text": "hang on, just let me take a MINUTE to PHYSICS\ufeff", 
+            "author": "CravingAura"
+        }, 
+        {
+            "date": "2015-03-10T21:24:06.892Z", 
+            "text": "Hi, can you maybe do a video about what would happen if we truly didn't \nmove at all? Because we are moving with earth and even if we wouldn't we \nwould move with the universe expanding. But my question is what would \nhappen if we completely stop moving? Because if you travel or move at 99% \nof light speed time is very slow for you and you could travel millions of \nyears without aging one in our world. So i thought if we would stand truly \nstill, would we die immediately because time runs so fast?\ufeff", 
+            "author": "Josh eyy"
+        }, 
+        {
+            "date": "2015-03-10T13:37:00.863Z", 
+            "text": "Help me someone please, I'm shit at maths and I need to find this out. I \nhave an exam in law coming up. The last question is always an essay \nquestion. out of 5 possible essays, only 3 come up on the paper. And you \npick which one out the three on the paper and you write it.\n\nIn class we are told to learn three out of the 5 possible essays and \nmemorize them because at least one of the ones we learn will defiantly come \nup. (Since there is 5 possible essay questions and 3 come up on the \npaper)....But it's impossible for me to learn 3 because I have a shit \nmemory and the essays are long. So if I learn two what are the chances of \nat least one of these essays coming up on the exam. I only need one of the \nones I learn to come up on the paper. is it a high probability or not. I \nhope this has been clear. Thanks\n\ufeff", 
+            "author": "amarjit singh"
+        }, 
+        {
+            "date": "2015-03-10T09:46:26.535Z", 
+            "text": "Not a fan of this guys vocal fry\ufeff", 
+            "author": "ben sharkey"
+        }, 
+        {
+            "date": "2015-03-10T00:25:56.299Z", 
+            "text": "Brilliant!\ufeff", 
+            "author": "Eduardo Guifarro"
+        }, 
+        {
+            "date": "2015-03-09T09:42:50.854Z", 
+            "text": "I think he got the momentum of the bicycle tire wrong, multiplied by 0.6 \n(diameter) instead of 0.6 / 2 = 0.3 (radius). \ufeff", 
+            "author": "Ellis Rennie"
+        }, 
+        {
+            "date": "2015-03-08T15:04:49.944Z", 
+            "text": "I really love his art style!\ufeff", 
+            "author": "The Gamer Bro"
+        }, 
+        {
+            "date": "2015-03-07T23:19:58.882Z", 
+            "text": "This dude is going 100mph . Like seriously he spits numbers faster then a \nmachine gun shoots bullets\ufeff", 
+            "author": "Dalton Peters"
+        }, 
+        {
+            "date": "2015-03-07T14:23:28.990Z", 
+            "text": "Can u make a video on torque? And y does angular momentum and torque go \nperpendicular to the radius and force.... I mean if that was the case, \nsince every moving body has angular momentum, wouldn't cars just go off \ntrack on a straight road?\ufeff", 
+            "author": "AB Devilliers"
+        }, 
+        {
+            "date": "2015-03-07T13:25:12.290Z", 
+            "text": "+Henry Reich got a question.\nI wanna be an engineer and love math and physics and I use to be good at \nboth. \nSome month's ago I came to UK for studying, cause of language problem now \nboth of them getting tough and I don't know how to deal with them? \n\ufeff", 
+            "author": "AZR 1011"
+        }, 
+        {
+            "date": "2015-03-06T23:25:06.756Z", 
+            "text": "", 
+            "author": "Chris O"
+        }, 
+        {
+            "date": "2015-03-06T23:23:29.664Z", 
+            "text": "Make another video already! :(\ufeff", 
+            "author": "Consumable Sandvich"
+        }, 
+        {
+            "date": "2015-03-05T00:45:35.979Z", 
+            "text": "i luv this channel!!!!!!\npls update faster though\ufeff", 
+            "author": "Jinyoung Kim"
+        }, 
+        {
+            "date": "2015-03-05T00:26:57.755Z", 
+            "text": "I've realised that your videos are more for people who already understand \nthe subject of the video and this helps clarify small questions, rather \nthan someone who has little to no knowledge. I felt lile twista was \nlecturing me ;_;\ufeff", 
+            "author": "Andre D"
+        }, 
+        {
+            "date": "2015-03-04T23:00:37.673Z", 
+            "text": "Can I ask why momentum is a p, in the first place? \ufeff", 
+            "author": "YakYetiBurg"
+        }, 
+        {
+            "date": "2015-03-04T16:09:32.824Z", 
+            "text": "THIS IS FALSE. GOD CREATED THE HEAVENS AND THE EARTH IN 7 DAYS AND THIS IS \nEVIL\ufeff", 
+            "author": "Randolf Rafaol"
+        }, 
+        {
+            "date": "2015-03-04T00:06:05.532Z", 
+            "text": "No more videos?\ufeff", 
+            "author": "Tony5005"
+        }, 
+        {
+            "date": "2015-03-03T20:12:32.257Z", 
+            "text": "minutephysics can you explain about monopoles in addition to magnetism?\ufeff", 
+            "author": "Alliasa PettyPanCake"
+        }, 
+        {
+            "date": "2015-03-03T19:49:13.410Z", 
+            "text": "Why is it an \"L\"?\ufeff", 
+            "author": "john macdonald"
+        }, 
+        {
+            "date": "2015-03-03T15:51:55.397Z", 
+            "text": "Doesn't that formula work only when the mass is distributed at r \nradius?...because I learnt it L=i*w where w is angular velocity and the i \nis the moment of inertia which depends on the object and the axis of \nrotation\ufeff", 
+            "author": "Eusebiu Sutu"
+        }, 
+        {
+            "date": "2015-03-03T14:25:46.032Z", 
+            "text": "u guys dead???\ufeff", 
+            "author": "ma name"
+        }, 
+        {
+            "date": "2015-03-03T12:58:35.138Z", 
+            "text": "But why would the velocity decrease in space.It disobeys  Newtion's 1st law \nof motion :/ .\ufeff", 
+            "author": "Naymul Hulk"
+        }, 
+        {
+            "date": "2015-03-03T15:34:21.652Z", 
+            "text": "+Naymul Hulk It doesn't...the formula uses the tangential velocity not the \nlinear velocity which decreases as the object moves further and further away", 
+            "author": "Eusebiu Sutu"
+        }, 
+        {
+            "date": "2015-03-02T18:11:28.616Z", 
+            "text": "\"Don't ask me why it's an L\"\nWhy is it an L?\ufeff", 
+            "author": "raumaan kidwai"
+        }, 
+        {
+            "date": "2015-03-02T01:29:31.883Z", 
+            "text": "DUDE pls upload more vids, I'm hungry for more physics!\ufeff", 
+            "author": "Peron Meas"
+        }, 
+        {
+            "date": "2015-03-01T16:57:40.567Z", 
+            "text": "Oomph...? That's one weird word...\ufeff", 
+            "author": "CrazyRabbitKGe"
+        }, 
+        {
+            "date": "2015-03-01T03:15:24.973Z", 
+            "text": "Lolly cows so video\ufeff", 
+            "author": "Jerry LOLs"
+        }, 
+        {
+            "date": "2015-02-28T20:01:18.924Z", 
+            "text": "He should totally explain why dress appears differently to others. \ufeff", 
+            "author": "adrianne hines"
+        }, 
+        {
+            "date": "2015-03-01T16:19:53.230Z", 
+            "text": "Go watch asapscience they made pne about it", 
+            "author": "Dexterity l Edm Music"
+        }, 
+        {
+            "date": "2015-02-28T16:41:33.091Z", 
+            "text": "Love Minute Physics! But never commented to say so until now. You're a big \ninspiration for my channel.\ufeff", 
+            "author": "CityLove"
+        }, 
+        {
+            "date": "2015-02-28T01:16:22.549Z", 
+            "text": "I came here to ask about the dress. Is it white and gold, or blue and \nblack? I know it has something to do with biology or physics. So either \nanswer here, or in \"MinuteEarth\". \ufeff", 
+            "author": "MultiTrace22"
+        }, 
+        {
+            "date": "2015-02-27T05:44:07.671Z", 
+            "text": "Thanks Henry. I understand Angular momentum now!\n\"That's the beauty of a law of physics.: It works. Even when you try to \nbreak it\"\ufeff", 
+            "author": "cjheaford"
+        }, 
+        {
+            "date": "2015-02-26T20:07:21.861Z", 
+            "text": "3:19 He multiplied by diameter not radius so the answer hecgave is wrong. \nShould be half that since radius = diameter/2\ufeff", 
+            "author": "Ahmed Ali"
+        }, 
+        {
+            "date": "2015-03-01T18:08:55.807Z", 
+            "text": "i fell for it", 
+            "author": "Onam King"
+        }, 
+        {
+            "date": "2015-02-25T17:05:41.614Z", 
+            "text": "Every time I watch this video, I realize something, \" I still don't know \nenough to know that I won't know what he is talking about after the \nvideo\". \ufeff", 
+            "author": "Ionic woodsman"
+        }, 
+        {
+            "date": "2015-02-25T14:03:47.000Z", 
+            "text": "Henry Can you explain the Relativistic Doppler effect?\ufeff", 
+            "author": "sovanreach ouk"
+        }, 
+        {
+            "date": "2015-02-25T12:11:50.587Z", 
+            "text": "(Reads the title)\nPfft, I don't know.\n(Watches Vsauce instead)\ufeff", 
+            "author": "84updown"
+        }, 
+        {
+            "date": "2015-02-24T13:14:46.511Z", 
+            "text": "What's L?\ufeff", 
+            "author": "Kristers Zemitis"
+        }, 
+        {
+            "date": "2015-02-24T02:56:52.245Z", 
+            "text": "This fag never posts it's been over a month, he doesn't deserve the amount \nof subscribers that he has because he show no effort for making YouTube \nvideos \ufeff", 
+            "author": "Franco Dal"
+        }, 
+        {
+            "date": "2015-02-23T22:40:59.647Z", 
+            "text": "Hello everyone I was wondering if anyone could help me with something just \ngo to my channel and view the video if you know what it is please tell me. \nThank you.\ufeff", 
+            "author": "Thrush Viral"
+        }, 
+        {
+            "date": "2015-02-23T19:57:44.000Z", 
+            "text": "2:22\nWhy is the old radius divided by the new radius and then multiplied by the \nsame new radius?\ufeff", 
+            "author": "Miranda N"
+        }
+    ]
+}

@@ -1,0 +1,1310 @@
+{
+    "publish_date": "2013-04-23T14:00:16.000Z", 
+    "video_length": "PT7M6S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: So recently, we had\nbig maths news, didn&#39;t we?", 
+            "dur": "2.4", 
+            "start": "0.3"
+        }, 
+        {
+            "text": "We had that new prime number\nthat was found.", 
+            "dur": "2.4", 
+            "start": "2.7"
+        }, 
+        {
+            "text": "And it was the biggest prime\nnumber ever found.", 
+            "dur": "3.27", 
+            "start": "5.1"
+        }, 
+        {
+            "text": "And it was big news.", 
+            "dur": "1.4", 
+            "start": "8.37"
+        }, 
+        {
+            "text": "And we were all quite\nexcited about it.", 
+            "dur": "1.73", 
+            "start": "9.77"
+        }, 
+        {
+            "text": "It was lots of fun.", 
+            "dur": "1.2", 
+            "start": "11.5"
+        }, 
+        {
+            "text": "But it got me thinking about one\nof the classic proofs in", 
+            "dur": "4.68", 
+            "start": "12.7"
+        }, 
+        {
+            "text": "mathematics, and that is the\nproof that there are", 
+            "dur": "2.58", 
+            "start": "17.38"
+        }, 
+        {
+            "text": "infinitely many primes.", 
+            "dur": "1.66", 
+            "start": "19.96"
+        }, 
+        {
+            "text": "So even though we found this\nhuge, 17-million-digit prime", 
+            "dur": "4.28", 
+            "start": "21.62"
+        }, 
+        {
+            "text": "number, it is still not the\nbiggest prime number of all.", 
+            "dur": "4.19", 
+            "start": "25.9"
+        }, 
+        {
+            "text": "Because there&#39;s infinitely\nmany of them.", 
+            "dur": "2.5", 
+            "start": "30.09"
+        }, 
+        {
+            "text": "So shall we do this\nclassic proof?", 
+            "dur": "4.6", 
+            "start": "32.59"
+        }, 
+        {
+            "text": "So I&#39;ll say before I start that\nmany of you may have seen", 
+            "dur": "3.28", 
+            "start": "37.19"
+        }, 
+        {
+            "text": "this proof before.", 
+            "dur": "0.97", 
+            "start": "40.47"
+        }, 
+        {
+            "text": "It goes way back.", 
+            "dur": "1.47", 
+            "start": "41.44"
+        }, 
+        {
+            "text": "But for those who haven&#39;t seen\nit before, this is what", 
+            "dur": "2.74", 
+            "start": "42.91"
+        }, 
+        {
+            "text": "mathematicians consider an\nelegant and a beautiful proof.", 
+            "dur": "3.98", 
+            "start": "45.65"
+        }, 
+        {
+            "text": "So we&#39;re going to prove\ninfinitely many primes.", 
+            "dur": "2.53", 
+            "start": "49.63"
+        }, 
+        {
+            "text": "To do that, first of\nall, we&#39;re going", 
+            "dur": "2.08", 
+            "start": "52.16"
+        }, 
+        {
+            "text": "to assume the opposite.", 
+            "dur": "1.89", 
+            "start": "54.24"
+        }, 
+        {
+            "text": "So I&#39;m going to say there are\nfinitely many primes.", 
+            "dur": "2.85", 
+            "start": "56.13"
+        }, 
+        {
+            "text": "So if there&#39;s finitely many of\nthem, we can write a list.", 
+            "dur": "3.18", 
+            "start": "58.98"
+        }, 
+        {
+            "text": "And let&#39;s do that.", 
+            "dur": "1.07", 
+            "start": "62.16"
+        }, 
+        {
+            "text": "And I&#39;m going to call\nthem prime 1.", 
+            "dur": "1.994", 
+            "start": "63.23"
+        }, 
+        {
+            "text": "Don&#39;t know what it is\nparticularly, but let&#39;s call", 
+            "dur": "2.276", 
+            "start": "65.224"
+        }, 
+        {
+            "text": "it prime 1.", 
+            "dur": "0.9", 
+            "start": "67.5"
+        }, 
+        {
+            "text": "Prime 2, prime 3, and I&#39;ll just\ngo on until I get to the", 
+            "dur": "5.71", 
+            "start": "68.4"
+        }, 
+        {
+            "text": "last one, which I&#39;ll\ncall prime n.", 
+            "dur": "3.95", 
+            "start": "74.11"
+        }, 
+        {
+            "text": "The point I want to make,\nthough, is that this is a", 
+            "dur": "2.28", 
+            "start": "78.06"
+        }, 
+        {
+            "text": "complete list.", 
+            "dur": "1.03", 
+            "start": "80.34"
+        }, 
+        {
+            "text": "So that&#39;s important.", 
+            "dur": "1.38", 
+            "start": "81.37"
+        }, 
+        {
+            "text": "OK, the next thing\nI&#39;m going to do--", 
+            "dur": "2.55", 
+            "start": "82.75"
+        }, 
+        {
+            "text": "I&#39;m going to make\na new number.", 
+            "dur": "1.39", 
+            "start": "85.3"
+        }, 
+        {
+            "text": "It&#39;s a whole number.", 
+            "dur": "0.96", 
+            "start": "86.69"
+        }, 
+        {
+            "text": "I&#39;m going to call it Q. So let&#39;s\ncall it Q. And to make", 
+            "dur": "4.63", 
+            "start": "87.65"
+        }, 
+        {
+            "text": "this number, I&#39;m going to\nmultiply all these together--", 
+            "dur": "2.72", 
+            "start": "92.28"
+        }, 
+        {
+            "text": "prime 1 times prime 2 times\nprime 3, all the way up to the", 
+            "dur": "6.11", 
+            "start": "95"
+        }, 
+        {
+            "text": "last one there, prime n.", 
+            "dur": "2.18", 
+            "start": "101.11"
+        }, 
+        {
+            "text": "So there&#39;ll be only one way to\nwrite Q. As a product of", 
+            "dur": "4.62", 
+            "start": "103.29"
+        }, 
+        {
+            "text": "primes, it&#39;s a unique\nexpression.", 
+            "dur": "3.5", 
+            "start": "107.91"
+        }, 
+        {
+            "text": "So there&#39;s only one way\nyou can write Q.", 
+            "dur": "3.01", 
+            "start": "111.41"
+        }, 
+        {
+            "text": "And then I&#39;m going to add 1.", 
+            "dur": "2.91", 
+            "start": "114.42"
+        }, 
+        {
+            "text": "Q is either prime,\nor it&#39;s not.", 
+            "dur": "2.62", 
+            "start": "117.33"
+        }, 
+        {
+            "text": "That&#39;s the only options\nit has.", 
+            "dur": "2.28", 
+            "start": "119.95"
+        }, 
+        {
+            "text": "If Q is prime, then it&#39;s a new\nprime that&#39;s not on this list.", 
+            "dur": "4.02", 
+            "start": "122.23"
+        }, 
+        {
+            "text": "That&#39;s bad.", 
+            "dur": "0.95", 
+            "start": "126.25"
+        }, 
+        {
+            "text": "So hopefully, it&#39;s\nnot a prime.", 
+            "dur": "2.41", 
+            "start": "127.2"
+        }, 
+        {
+            "text": "If it&#39;s not a prime, then it\nis made up from primes by", 
+            "dur": "3.85", 
+            "start": "129.61"
+        }, 
+        {
+            "text": "multiplying primes together.", 
+            "dur": "2.16", 
+            "start": "133.46"
+        }, 
+        {
+            "text": "Now, those prime factors of\nQ will divide Q exactly.", 
+            "dur": "4.93", 
+            "start": "135.62"
+        }, 
+        {
+            "text": "And here&#39;s the problem--", 
+            "dur": "1.96", 
+            "start": "140.55"
+        }, 
+        {
+            "text": "none of these primes on my\nlist divide Q exactly.", 
+            "dur": "3.91", 
+            "start": "142.51"
+        }, 
+        {
+            "text": "They&#39;ll divide this number\nperfectly, but", 
+            "dur": "3.3", 
+            "start": "146.42"
+        }, 
+        {
+            "text": "not this plus 1 number.", 
+            "dur": "1.9", 
+            "start": "149.72"
+        }, 
+        {
+            "text": "You&#39;ll always have\n1 left over.", 
+            "dur": "2.2", 
+            "start": "151.62"
+        }, 
+        {
+            "text": "So the prime factors are\nnot on this list.", 
+            "dur": "4.28", 
+            "start": "153.82"
+        }, 
+        {
+            "text": "So this list is not complete.", 
+            "dur": "2.91", 
+            "start": "158.1"
+        }, 
+        {
+            "text": "I said if there&#39;s finitely many\nof them, I can have a", 
+            "dur": "2.54", 
+            "start": "161.01"
+        }, 
+        {
+            "text": "complete list.", 
+            "dur": "1.28", 
+            "start": "163.55"
+        }, 
+        {
+            "text": "You cannot.", 
+            "dur": "1.15", 
+            "start": "164.83"
+        }, 
+        {
+            "text": "And that&#39;s the proof\nthat there are", 
+            "dur": "1.31", 
+            "start": "165.98"
+        }, 
+        {
+            "text": "infinitely many primes.", 
+            "dur": "2.02", 
+            "start": "167.29"
+        }, 
+        {
+            "text": "So the definition of a prime\nis that it&#39;s the building", 
+            "dur": "2.4", 
+            "start": "169.31"
+        }, 
+        {
+            "text": "blocks of other numbers.", 
+            "dur": "2.02", 
+            "start": "171.71"
+        }, 
+        {
+            "text": "So all other whole numbers\nare made by", 
+            "dur": "1.96", 
+            "start": "173.73"
+        }, 
+        {
+            "text": "multiplying primes together.", 
+            "dur": "1.81", 
+            "start": "175.69"
+        }, 
+        {
+            "text": "So Q is a whole number,\nand it is made by", 
+            "dur": "3.13", 
+            "start": "177.5"
+        }, 
+        {
+            "text": "multiplying primes together.", 
+            "dur": "2.11", 
+            "start": "180.63"
+        }, 
+        {
+            "text": "And in this case, the problem\nis none of the primes on my", 
+            "dur": "3.83", 
+            "start": "182.74"
+        }, 
+        {
+            "text": "list do that trick.", 
+            "dur": "1.895", 
+            "start": "186.57"
+        }, 
+        {
+            "text": "They don&#39;t divide the\nnumber exactly.", 
+            "dur": "2.825", 
+            "start": "188.465"
+        }, 
+        {
+            "text": "So there&#39;s primes missing.", 
+            "dur": "1.23", 
+            "start": "191.29"
+        }, 
+        {
+            "text": "What I&#39;ve got here is a copy\nof a book called &quot;Euclid&#39;s", 
+            "dur": "4.39", 
+            "start": "192.52"
+        }, 
+        {
+            "text": "Elements.&quot; And this is a\ntextbook written by a Greek", 
+            "dur": "3.81", 
+            "start": "196.91"
+        }, 
+        {
+            "text": "mathematician called Euclid.", 
+            "dur": "2.07", 
+            "start": "200.72"
+        }, 
+        {
+            "text": "Now, Euclid lived in 300 BC.", 
+            "dur": "2.83", 
+            "start": "202.79"
+        }, 
+        {
+            "text": "So this textbook is\n2,300 years old.", 
+            "dur": "4.3", 
+            "start": "205.62"
+        }, 
+        {
+            "text": "It&#39;s never been out of print.", 
+            "dur": "1.92", 
+            "start": "209.92"
+        }, 
+        {
+            "text": "And it&#39;s second only to the\nBible in that respect.", 
+            "dur": "3.25", 
+            "start": "211.84"
+        }, 
+        {
+            "text": "It&#39;s one of the most important\nbooks in mathematics.", 
+            "dur": "3.46", 
+            "start": "215.09"
+        }, 
+        {
+            "text": "It&#39;s one of the most important\nbooks in human history.", 
+            "dur": "3.07", 
+            "start": "218.55"
+        }, 
+        {
+            "text": "And the proof that there\nare infinitely many", 
+            "dur": "2.31", 
+            "start": "221.62"
+        }, 
+        {
+            "text": "primes is in here.", 
+            "dur": "1.86", 
+            "start": "223.93"
+        }, 
+        {
+            "text": "And I checked it out earlier.", 
+            "dur": "2.49", 
+            "start": "225.79"
+        }, 
+        {
+            "text": "It was on page 227, which is\nBook Nine, Proposition 20.", 
+            "dur": "6.3", 
+            "start": "228.28"
+        }, 
+        {
+            "text": "And it is right there, the\nproof that there are", 
+            "dur": "3.02", 
+            "start": "234.58"
+        }, 
+        {
+            "text": "infinitely many primes.", 
+            "dur": "1.85", 
+            "start": "237.6"
+        }, 
+        {
+            "text": "There&#39;s a couple of differences\nfrom this proof to", 
+            "dur": "2.455", 
+            "start": "239.45"
+        }, 
+        {
+            "text": "what I did.", 
+            "dur": "1.535", 
+            "start": "241.905"
+        }, 
+        {
+            "text": "One difference is my proof there\nwas something called a", 
+            "dur": "3.62", 
+            "start": "243.44"
+        }, 
+        {
+            "text": "proof by contradiction.", 
+            "dur": "1.76", 
+            "start": "247.06"
+        }, 
+        {
+            "text": "It&#39;s something that\nmathematicians do a lot.", 
+            "dur": "1.87", 
+            "start": "248.82"
+        }, 
+        {
+            "text": "It&#39;s really useful.", 
+            "dur": "1.51", 
+            "start": "250.69"
+        }, 
+        {
+            "text": "What Euclid did was slightly\ndifferent.", 
+            "dur": "3.55", 
+            "start": "252.2"
+        }, 
+        {
+            "text": "He assumed that there was\na list of primes.", 
+            "dur": "3.589", 
+            "start": "255.75"
+        }, 
+        {
+            "text": "And he said, but you can\nkeep adding to it.", 
+            "dur": "2.461", 
+            "start": "259.339"
+        }, 
+        {
+            "text": "So you can never complete\nthe list, which is the", 
+            "dur": "1.93", 
+            "start": "261.8"
+        }, 
+        {
+            "text": "same sort of idea.", 
+            "dur": "1.98", 
+            "start": "263.73"
+        }, 
+        {
+            "text": "The other difference is that\nthis book was written in the", 
+            "dur": "3.54", 
+            "start": "265.71"
+        }, 
+        {
+            "text": "days before algebra.", 
+            "dur": "2.1", 
+            "start": "269.25"
+        }, 
+        {
+            "text": "So he didn&#39;t have algebra\nto use like I did.", 
+            "dur": "3.4", 
+            "start": "271.35"
+        }, 
+        {
+            "text": "So all his proofs are using\nstraight lines and circles.", 
+            "dur": "5.34", 
+            "start": "274.75"
+        }, 
+        {
+            "text": "So it looks quite different, but\nit&#39;s actually quite easy", 
+            "dur": "3.74", 
+            "start": "280.09"
+        }, 
+        {
+            "text": "to translate into\nmodern terms.", 
+            "dur": "2.85", 
+            "start": "283.83"
+        }, 
+        {
+            "text": "You see, mathematics is\nthe search for truth.", 
+            "dur": "3.61", 
+            "start": "286.68"
+        }, 
+        {
+            "text": "And this book is as true today\nas it was 2,300 years ago.", 
+            "dur": "5.45", 
+            "start": "290.29"
+        }, 
+        {
+            "text": "We know a prime number can\nonly be divided by 1 and", 
+            "dur": "2.77", 
+            "start": "295.74"
+        }, 
+        {
+            "text": "itself, by no other factors, so\nhow did Euclid define it?", 
+            "dur": "4.82", 
+            "start": "298.51"
+        }, 
+        {
+            "text": "It&#39;s actually in here.", 
+            "dur": "1.35", 
+            "start": "303.33"
+        }, 
+        {
+            "text": "I was quite excited\nwhen I found this.", 
+            "dur": "2.34", 
+            "start": "304.68"
+        }, 
+        {
+            "text": "So let&#39;s have a look.", 
+            "dur": "1.34", 
+            "start": "307.02"
+        }, 
+        {
+            "text": "In Definitions--", 
+            "dur": "1.33", 
+            "start": "308.36"
+        }, 
+        {
+            "text": "look here-- at the\nbeginning of Book", 
+            "dur": "1.31", 
+            "start": "309.69"
+        }, 
+        {
+            "text": "Seven, he defines terms.", 
+            "dur": "1.95", 
+            "start": "311"
+        }, 
+        {
+            "text": "Look at that.", 
+            "dur": "1.07", 
+            "start": "312.95"
+        }, 
+        {
+            "text": "&quot;A prime number is that which is\nmeasured by a unit alone.&quot;", 
+            "dur": "5.02", 
+            "start": "314.02"
+        }, 
+        {
+            "text": "So only units fit into\nthe prime number.", 
+            "dur": "3.89", 
+            "start": "319.04"
+        }, 
+        {
+            "text": "It was all measured with lines,\nso a line with length a", 
+            "dur": "5.01", 
+            "start": "322.93"
+        }, 
+        {
+            "text": "prime can only fit\nunits into it.", 
+            "dur": "3.02", 
+            "start": "327.94"
+        }, 
+        {
+            "text": "You can&#39;t fit 2&#39;s and 3&#39;s and\nother lengths into it.", 
+            "dur": "4.78", 
+            "start": "330.96"
+        }, 
+        {
+            "text": "So if we had something that\nwas prime length--", 
+            "dur": "2.91", 
+            "start": "335.74"
+        }, 
+        {
+            "text": "let&#39;s make it 7.", 
+            "dur": "2.63", 
+            "start": "338.65"
+        }, 
+        {
+            "text": "There we go--", 
+            "dur": "1.41", 
+            "start": "341.28"
+        }, 
+        {
+            "text": "then you can fit 1&#39;s into it--", 
+            "dur": "3.73", 
+            "start": "342.69"
+        }, 
+        {
+            "text": "2, 3, 4, 5, 6, 7.", 
+            "dur": "6.46", 
+            "start": "346.42"
+        }, 
+        {
+            "text": "But you wouldn&#39;t be able\nto fit 2&#39;s into it.", 
+            "dur": "2.2", 
+            "start": "352.88"
+        }, 
+        {
+            "text": "So here&#39;s a 2.", 
+            "dur": "1.67", 
+            "start": "355.08"
+        }, 
+        {
+            "text": "And that would not fit\ninto my length 7.", 
+            "dur": "6.52", 
+            "start": "356.75"
+        }, 
+        {
+            "text": "Or if I tried 4&#39;s or 3&#39;s, it\nwouldn&#39;t fit into my length 7.", 
+            "dur": "5.04", 
+            "start": "363.27"
+        }, 
+        {
+            "text": "So a prime length would only fit\nunits into it and itself.", 
+            "dur": "5.01", 
+            "start": "368.31"
+        }, 
+        {
+            "text": "And that&#39;s the definition\nof primes we have today.", 
+            "dur": "2.63", 
+            "start": "373.32"
+        }, 
+        {
+            "text": "BRADY HARAN: So what does that\nmean for that new prime number", 
+            "dur": "2.74", 
+            "start": "375.95"
+        }, 
+        {
+            "text": "that was found?", 
+            "dur": "1.78", 
+            "start": "378.69"
+        }, 
+        {
+            "text": "It&#39;s just--", 
+            "dur": "0.76", 
+            "start": "380.47"
+        }, 
+        {
+            "text": "JAMES GRIME: It&#39;s tiny.", 
+            "dur": "0.62", 
+            "start": "381.23"
+        }, 
+        {
+            "text": "That new prime number, 17\nmillion digits long?", 
+            "dur": "2.83", 
+            "start": "381.85"
+        }, 
+        {
+            "text": "Tiny.", 
+            "dur": "0.54", 
+            "start": "384.68"
+        }, 
+        {
+            "text": "Nothing.", 
+            "dur": "0.45", 
+            "start": "385.22"
+        }, 
+        {
+            "text": "Insignificant.", 
+            "dur": "1.09", 
+            "start": "385.67"
+        }, 
+        {
+            "text": "To the whole infinity of prime\nnumbers, it is small fry.", 
+            "dur": "4.04", 
+            "start": "386.76"
+        }, 
+        {
+            "text": "BRADY HARAN: My understanding\nis that prime numbers become", 
+            "dur": "1.53", 
+            "start": "390.8"
+        }, 
+        {
+            "text": "less frequent the\nhigher you go.", 
+            "dur": "2.31", 
+            "start": "392.33"
+        }, 
+        {
+            "text": "Their density becomes lower.", 
+            "dur": "2.645", 
+            "start": "394.64"
+        }, 
+        {
+            "text": "Does that mean the next prime\nnumber is likely to be a long", 
+            "dur": "3.315", 
+            "start": "397.285"
+        }, 
+        {
+            "text": "way away from those\n17 million digits?", 
+            "dur": "2.74", 
+            "start": "400.6"
+        }, 
+        {
+            "text": "JAMES GRIME: They become\nmore spaced out.", 
+            "dur": "1.58", 
+            "start": "403.34"
+        }, 
+        {
+            "text": "You are right about that.", 
+            "dur": "1.39", 
+            "start": "404.92"
+        }, 
+        {
+            "text": "And there&#39;s--", 
+            "dur": "1.04", 
+            "start": "406.31"
+        }, 
+        {
+            "text": "we&#39;re getting into other\nthings here.", 
+            "dur": "2.29", 
+            "start": "407.35"
+        }, 
+        {
+            "text": "But there are some fantastic\ntheories, or theorems, about", 
+            "dur": "4.17", 
+            "start": "409.64"
+        }, 
+        {
+            "text": "how the prime numbers are spaced\nout, the density of", 
+            "dur": "3.55", 
+            "start": "413.81"
+        }, 
+        {
+            "text": "prime numbers.", 
+            "dur": "1.5", 
+            "start": "417.36"
+        }, 
+        {
+            "text": "But we are slipping into\nother realms there.", 
+            "dur": "2.64", 
+            "start": "418.86"
+        }, 
+        {
+            "text": "BRADY HARAN: Sounds like\nanother video.", 
+            "dur": "1.32", 
+            "start": "421.5"
+        }, 
+        {
+            "text": "JAMES GRIME: It does sound\nlike another video.", 
+            "dur": "1.33", 
+            "start": "422.82"
+        }, 
+        {
+            "text": "It&#39;ll be a good one, as well.", 
+            "dur": "1.25", 
+            "start": "424.15"
+        }
+    ], 
+    "title": "Infinite Primes - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05x5j", 
+        "/m/03zl7", 
+        "/m/0vb40_n", 
+        "/m/05fwb"
+    ], 
+    "number_views": 287473, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-12T21:01:13.096Z", 
+            "text": "I'm wondering, if there are infinitly many primes, how is it possible to \nsay that the average gap between each prime is about: ln(251000) (as James \nexplainned in an other video).\ufeff", 
+            "author": "William Gingras"
+        }, 
+        {
+            "date": "2015-04-11T01:31:21.217Z", 
+            "text": "Make a video on 1^infinity please!\ufeff", 
+            "author": "sam disum"
+        }, 
+        {
+            "date": "2015-03-21T21:39:02.280Z", 
+            "text": "Can you have negative primes?\ufeff", 
+            "author": "Paul Donovan"
+        }, 
+        {
+            "date": "2015-02-10T00:28:46.756Z", 
+            "text": "+K\u00e9vin Moutoussamy\n>I have a question for Dr. James Grime : is the infinite prime ? <\n\u221e is not technically a number.\ufeff", 
+            "author": "Agimaso Schandir"
+        }, 
+        {
+            "date": "2015-01-13T22:22:08.858Z", 
+            "text": "New discoveries: Zhang (UNH, 2014) discovered that twin prime pairs must \nnever be more than 70,000,000 apart.  Tao, et al. (group: \"Polymath\") \ndiscovered that this distance must never be more than 246.\nThe above claim that they will always become \"more spaced out\" may be true, \nbut they will get closer to only ever being 246 apart.\ufeff", 
+            "author": "andrewxc1335"
+        }, 
+        {
+            "date": "2015-01-22T13:12:55.451Z", 
+            "text": "\"Twin primes\" specifically refer to primes that are 2 apart.  Like 3 and 5, \nfor instance.\n\nWhat Zhang and Tao have done is not show that primes are always within a \ncertain distance of each other.  Rather, they have showed that there are \ninfinitely many pairs of primes which are distance 246 (or less) apart. \n Just because there are infinitely many does not mean that all primes \nbehave this way.\n\nThe claim that primes get more spaced out is definitely true.  In fact, the \ngaps between primes can be arbitrarily large.  For any integer n, the list \nn!+2, n!+3, ..., n!+n is a string of composite numbers (n!+k is divisible \nby k, if k is less than or equal to n).  This string is of length n-1.  So, \nfor any positive integer n, we know there is a prime gap of at least length \nn-1.  And they do tend to spread themselves out as numbers get larger (but \nof course there are always primes that aren't very far apart too!).  It \njust shows how seemingly sporadically primes show up.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2014-12-27T12:13:26.858Z", 
+            "text": "I have a question for Dr. James Grime : is the infinite prime ? \ufeff", 
+            "author": "K\u00e9vin Moutoussamy"
+        }, 
+        {
+            "date": "2014-12-15T02:16:25.850Z", 
+            "text": "what about a googleplex+1... id think that was a prime number\ufeff", 
+            "author": "F3nCERX"
+        }, 
+        {
+            "date": "2014-12-02T21:03:24.000Z", 
+            "text": "Biggest prime is infinite!\ufeff", 
+            "author": "DanMejerwall"
+        }, 
+        {
+            "date": "2014-11-10T14:55:43.501Z", 
+            "text": "I'm confused. Why did he add 1?\ufeff", 
+            "author": "BallerDan53"
+        }, 
+        {
+            "date": "2014-11-05T03:26:33.844Z", 
+            "text": "Just got that version of the Elements\ufeff", 
+            "author": "Sky Fox"
+        }, 
+        {
+            "date": "2014-09-24T06:13:42.817Z", 
+            "text": "Random question... How do people know that Pi will never end? We know it \nhasn't ended even after a ridiculous amount of digits, but how is that \nproof that it never ends? Or do people just assume?\ufeff", 
+            "author": "Eric Lin"
+        }, 
+        {
+            "date": "2014-09-02T17:28:19.013Z", 
+            "text": "Never mind the Math, where can I get the brown paper roll?\ufeff", 
+            "author": "Gwilym ap Iorwerth"
+        }, 
+        {
+            "date": "2014-07-26T18:14:42.962Z", 
+            "text": "\"That which is measured by *an* unit alone\"?? Guess this is numberphile, \nnot grammarphile.\ufeff", 
+            "author": "Evan Kairuz"
+        }, 
+        {
+            "date": "2014-04-28T13:02:33.000Z", 
+            "text": "its not truly infinite till its measured inversely infinite too\ufeff", 
+            "author": "Colin Stein"
+        }, 
+        {
+            "date": "2014-04-27T02:42:18.533Z", 
+            "text": "amazing proof :)\ufeff", 
+            "author": "Thingie5"
+        }, 
+        {
+            "date": "2014-03-27T11:12:43.782Z", 
+            "text": "Euclid's proof, that there is an infinite number of prime numbers, is \nsaying that \"you can always add another to it, because it is infinite\" he \nhad a cyclic proof?\n\nthat's like me saying the universe is infinite, because if you traveled to \nthe edge of our known universe, you can keep going.\ufeff", 
+            "author": "Ryan Holden (MRcellSynap)"
+        }, 
+        {
+            "date": "2014-03-15T07:25:28.745Z", 
+            "text": "Such fun videos\ufeff", 
+            "author": "John McLaughlin"
+        }, 
+        {
+            "date": "2014-02-28T00:55:31.261Z", 
+            "text": "\"An\" unit? Your judging this off a guy who says \"an\" unit? It's supposed to \nbe \"a\" unit.\ufeff", 
+            "author": "Arun Singhal"
+        }, 
+        {
+            "date": "2014-02-26T03:49:53.211Z", 
+            "text": "As true today as it was then? What about the parallel postulate?\ufeff", 
+            "author": "GoldenKingStudio"
+        }, 
+        {
+            "date": "2014-02-17T13:57:40.635Z", 
+            "text": "@TrueXufox\nThat's not what he said though. He said that Q may be prime or may not be \nprime.\nAlso, Q is not divisible by any of the numbers you multiplied together. So \nQ is either made up of primes not on your list or prime itself. But you \nassumed that you multiplied all primes together. So you didn't multiply all \nprimes together. Assuming finite primes leads to a paradox, therefore there \nare infinite primes.\ufeff", 
+            "author": "AlcaldeEste"
+        }, 
+        {
+            "date": "2014-02-15T21:08:10.937Z", 
+            "text": "I have that copy of Euclid's elements\ufeff", 
+            "author": "NathanLucas5"
+        }, 
+        {
+            "date": "2014-02-03T17:23:41.516Z", 
+            "text": "Silly actually but the Euclids version of lines to describe prime numbers \nmade my coin slip through, now I understand prime numbers completely. Every \nother explanation is just confusing.\n\nThanks!\ufeff", 
+            "author": "MrAffeman"
+        }, 
+        {
+            "date": "2014-01-15T19:30:25.249Z", 
+            "text": "This videos are SO GREAT\ufeff", 
+            "author": "Juan Diego Serrano Soto"
+        }, 
+        {
+            "date": "2013-11-10T12:34:09.745Z", 
+            "text": "F there are an infinate amout of nu.mbers how can there be an infinate \namount of prime numbers? Not all numbers are prime. So .... infinate \nnumbers - infinate primes = 0 nonprimes. But infinite primes plus infinate \nnon primes = 2infinate numbers. So in actuality there are infinaty plus \ninfanity numbers. And people say infanity plus infanity is cheeting when \ntring to come up with the biggest number. LOL\ufeff", 
+            "author": "amanda cabrera"
+        }, 
+        {
+            "date": "2013-11-10T12:34:08.791Z", 
+            "text": "F there are an infinate amout of nu.mbers how can there be an infinate \namount of prime numbers? Not all numbers are prime. So .... infinate \nnumbers - infinate primes = 0 nonprimes. But infinite primes plus infinate \nnon primes = 2infinate numbers. So in actuality there are infinaty plus \ninfanity numbers. And people say infanity plus infanity is cheeting when \ntring to come up with the biggest number. LOL\ufeff", 
+            "author": "amanda cabrera"
+        }, 
+        {
+            "date": "2013-11-05T20:12:14.208Z", 
+            "text": "Infinite numbers = infinite primes. The \"distance\" between the primes do \nnot matter if its an infinite amount of didgits to take off. Sorry for my \nbad english.", 
+            "author": "Matti lituingen"
+        }, 
+        {
+            "date": "2013-11-02T09:54:08.159Z", 
+            "text": "I think, you've made the wrong conclusion. There's said in the video, that \nyou won't get numbers, that are prime factors of the new number and already \nin the FINITE list of prime numbers. So there is no 59 or 509 in your list \n{2, 3, 5, 7, 11, 13} and you can't get 30031 multiplying together prime \nnumbers from your list ONLY.", 
+            "author": "TheGrihabor"
+        }, 
+        {
+            "date": "2013-10-31T12:08:08.106Z", 
+            "text": "If the density of prime numbers decreases as the 'value' of the primes \nincreases and there is seemingly an infinite number of primes then won't \nthe spacing between 2 theoretical primes (not defined) also be infinite and \ntherefore limited? If you accept that the primes will continue on \nindefinitely then you must also assume that the spacing between primes will \nincrease indefinitely and thus there will be an infinite value (summed) of \nspacing that suggest impossible infinite gaps between them.", 
+            "author": "David Baker"
+        }, 
+        {
+            "date": "2013-10-30T00:50:45.882Z", 
+            "text": "yes, if you say there is just a finite amount of primes you could multiply \nALL of them and add 1 to get a new prime, but because there are infinite \nprimes it is imposible to multiply ALL prims", 
+            "author": "DammalleNamenweg"
+        }, 
+        {
+            "date": "2013-10-30T00:45:54.318Z", 
+            "text": "math with youtube-text sucks :-p", 
+            "author": "DammalleNamenweg"
+        }, 
+        {
+            "date": "2013-10-30T00:42:18.653Z", 
+            "text": "assume sqrt(2)=n/m, because you know you can write n and m like \n(p1*p2*...*pn) with all p are prime-numbers you can say sqrt(2)= \n(p11*p12*...)/(p21*p22...) -> you can say sqrt(2)= n`/m` with n`and m` \nhaving no equal prims in them -> 2=n`^2/m`^2 -> 2m`^2 =n`^2 -> m\u00b4^2=n`^2/2; \nbecause we know m\u00b4^2 is a natural numer n\u00b4^2/2 has to be aswell, so n`has \nto have 2 as prim-number in it-> n\u00b4=2*(p1*p2*....)-> \nm\u00b4^2=((2*p1*p2*...)^2)/2 ->m\u00b4^2=2*(p1*p2*....) -> m` and n`have 2 as \nprim-number-> error ", 
+            "author": "DammalleNamenweg"
+        }, 
+        {
+            "date": "2013-10-29T20:02:36.044Z", 
+            "text": "It is explained in the video... But it's a number that can only be wholly \ndivided by one or itself. Dividing it by any other number results in a \nfraction, rather than a whole number.", 
+            "author": "luke timothy"
+        }, 
+        {
+            "date": "2013-10-27T17:49:50.809Z", 
+            "text": "when you multiply primes together and add 1, you can either get a whole new \nprime number not on the list of primes(which is why you need to assume that \nthe list is complet), or you get a number which is not prime. The fact you \ngot a non-prime nmber does`nt contrast the idea of the video. Also, to do \nwhat was done in the video requires you to multiply the entire series, \nwhich is impossible. hope i helped", 
+            "author": "Jonathan Ganor"
+        }, 
+        {
+            "date": "2013-10-26T15:03:18.612Z", 
+            "text": "Just leave, leave now.", 
+            "author": "Robert Kilburn"
+        }, 
+        {
+            "date": "2013-10-26T04:53:03.221Z", 
+            "text": "whats a prime number?", 
+            "author": "Daniel Braaten"
+        }, 
+        {
+            "date": "2013-10-25T20:54:33.885Z", 
+            "text": "Despite the \"increasing spacing\" between larger and larger primes, the Twin \nPrime Conjecture is still unsolved.", 
+            "author": "otonanoC"
+        }, 
+        {
+            "date": "2013-10-20T18:43:46.451Z", 
+            "text": "But that's not guaranteed to produce a prime.", 
+            "author": "2ndOfficerCHL"
+        }, 
+        {
+            "date": "2013-10-15T05:25:37.237Z", 
+            "text": "1:57 Why add 1? He doesn't explain why.", 
+            "author": "mcclendon6251"
+        }, 
+        {
+            "date": "2013-10-05T13:30:48.189Z", 
+            "text": "watch?v=5sKah3pJnHI They have one already. It's actually one of their older \nvideos.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2013-10-05T08:13:54.941Z", 
+            "text": "Can you do a video on why root 2 is irrational using that p^2 =2q^2 My \nlecturer tried to explain it but didn't do it very well. I figured you \nwould show it the best", 
+            "author": "JustBronagh"
+        }, 
+        {
+            "date": "2013-10-05T05:49:24.351Z", 
+            "text": "Okay I get it. So you prove Q+1 is not a composite number. But if it is not \na composite number, it is a prime number ( correct me if that is wrong ). \nAnd if you can formulate a way calculate a prime by substituting a number \nfor n in the formula, then don't you have a way to calculate a definite \nvalue for any prime number that has all previous primes as its prime \nfactorials + 1 ? So ( p1 * p2 * p3 ..* pn ) +1 = prime. where n=14, \n304250263527211 is prime. Is it true?", 
+            "author": "Paul V"
+        }, 
+        {
+            "date": "2013-10-04T02:39:15.870Z", 
+            "text": "thank you so much! was stuck on this for homework!", 
+            "author": "SaucyNinja007"
+        }, 
+        {
+            "date": "2013-09-24T13:41:44.590Z", 
+            "text": "are you the voice of the gecko. just kidding", 
+            "author": "Junk Mail"
+        }, 
+        {
+            "date": "2013-09-24T07:24:24.829Z", 
+            "text": "My friend bought four packets of cookies. He said he chose four as it is a \nround number. I thought 0 was a round number...", 
+            "author": "resonance2001"
+        }, 
+        {
+            "date": "2013-09-21T13:44:32.321Z", 
+            "text": "Infinite Primes - Numberphile\ufeff", 
+            "author": "Naveen Sharma"
+        }, 
+        {
+            "date": "2013-09-20T14:57:07.200Z", 
+            "text": "Some history complements maths. ;)\n\"Mathematics is the search of truth.\" is a nice quote.\ufeff", 
+            "author": "Carlos Ayala"
+        }, 
+        {
+            "date": "2013-09-16T19:53:31.224Z", 
+            "text": "Infinity is not a number; it is an idea.", 
+            "author": "dengel3587"
+        }, 
+        {
+            "date": "2013-09-07T14:02:58.087Z", 
+            "text": "Well, that's not valid because the primes you are multiplying are supposed \nto be a list of \"every prime\". basically the result you get is a number \nthat doesn't divide in any of the numbers in the list. If your list \ncontains \"all the primes\", then the result will be a new prime, and if not, \nit will divide into new primes. (either way you'll get a new prime, in your \ncase i'ts 11 and 19 ;)", 
+            "author": "9ilad"
+        }, 
+        {
+            "date": "2013-09-05T17:03:41.611Z", 
+            "text": "Or, rather, doesn't work, I should say. I'm sorry if that last sentence \nseems confusing.", 
+            "author": "maniakkid25"
+        }, 
+        {
+            "date": "2013-09-05T17:03:05.265Z", 
+            "text": "Because then you get a new number, and 1 is the only number that is not \ndivisible by ANY primes (well, and still be able to get a whole number). \nI'm not a mathematician, so I don't know if you could do this by \nsubtracting one - but, I doubt it, and its trivial to show why: 2*3*5*7 is \n210. Subtract one, get 209. This is actually divisible by 11 and 19. \nAlthough, I do believe this is the smallest example that this works.", 
+            "author": "maniakkid25"
+        }, 
+        {
+            "date": "2013-09-04T03:39:34.137Z", 
+            "text": "Why add the number 1? I am so confused! ", 
+            "author": "Damon Salvatore"
+        }, 
+        {
+            "date": "2013-09-03T05:07:22.720Z", 
+            "text": "at 3:07 the +1 should have a trollface", 
+            "author": "ROLNIKxPL"
+        }, 
+        {
+            "date": "2013-09-01T13:36:23.216Z", 
+            "text": "But infinity is a prime number.", 
+            "author": "Nigel Yong"
+        }, 
+        {
+            "date": "2013-08-31T20:54:14.748Z", 
+            "text": "Yes, probably an error.", 
+            "author": "GReaperEx"
+        }, 
+        {
+            "date": "2013-08-21T19:14:43.425Z", 
+            "text": "Google \"brown paper numberphile\" and yo ull see why.", 
+            "author": "Seiji Yawata"
+        }, 
+        {
+            "date": "2013-08-20T12:17:22.100Z", 
+            "text": "Is it meant to be \"An unit...\" or is that a typo?", 
+            "author": "MrChipToby"
+        }, 
+        {
+            "date": "2013-08-19T17:37:45.935Z", 
+            "text": "Hmmmm.. slightly better, I guess.", 
+            "author": "MomoTheBellyDancer"
+        }, 
+        {
+            "date": "2013-08-19T06:53:16.313Z", 
+            "text": "How about one of those fire pens and a tablet of wood then?", 
+            "author": "bbdude95"
+        }, 
+        {
+            "date": "2013-08-18T09:32:03.881Z", 
+            "text": "Whiteboards are for wusses.", 
+            "author": "MomoTheBellyDancer"
+        }, 
+        {
+            "date": "2013-08-17T14:15:49.091Z", 
+            "text": "+1 is a bitch.", 
+            "author": "Clovis3321"
+        }, 
+        {
+            "date": "2013-08-16T23:42:11.534Z", 
+            "text": "Have you thought about using a whiteboard?", 
+            "author": "bbdude95"
+        }, 
+        {
+            "date": "2013-08-14T17:36:09.812Z", 
+            "text": "2: Prime numbers are used basically for cryptography", 
+            "author": "gersonmania"
+        }, 
+        {
+            "date": "2013-08-14T13:55:01.365Z", 
+            "text": "2 questions: 1: what happens to prime numbers in different bases? 2 what is \nthe use of prime numbers? ", 
+            "author": "Gar"
+        }, 
+        {
+            "date": "2013-08-14T11:40:08.498Z", 
+            "text": "Can't you read? I said that 2 is excluded from this rule", 
+            "author": "Tomislav Petkovi\u0107"
+        }, 
+        {
+            "date": "2013-08-13T18:11:43.938Z", 
+            "text": "Yes, all prime numbers squared give 1 as remainder divided by 8. Proof is \nsimple: Every prime could be written as 4n+1 or 4n+3 because it is not \ndivisible by 4, and 4n+2 is obviously even number, therefore not prime. \n(note this works with all primes but 2, (2*2)%8=4 ). when you square those \ntwo you get: 16n^2+8n+1 and 16n^2+24n+9 which you can separate as \n8*(2n^2+n) +1 and 8*(2n^2+3n+1) +1, so remainder must be 1 :)", 
+            "author": "Tomislav Petkovi\u0107"
+        }, 
+        {
+            "date": "2013-08-13T02:41:51.303Z", 
+            "text": "All odd numbers have that property. In fact, ([(2n+1)^2]-1)/8 is not only \nalways an integer, it's the nth triangular number. (4n^2 + 4n + 1 - 1) / 8 \n= [n(n+1)]/2 BOOM.", 
+            "author": "jesusthroughmary"
+        }, 
+        {
+            "date": "2013-08-12T13:46:00.443Z", 
+            "text": "Ok sorry I messed up in terms of logic... PRIME numbers, when squared and \nthen divided by 8 will leave a remainder of 1. Good? :)", 
+            "author": "yellow13ace"
+        }, 
+        {
+            "date": "2013-08-12T04:59:47.749Z", 
+            "text": "\"since there is now proof\" - Euclid's proof is 2,500 years old.", 
+            "author": "jesusthroughmary"
+        }, 
+        {
+            "date": "2013-08-12T04:59:03.922Z", 
+            "text": "So 9 is prime, then. Brilliant!", 
+            "author": "jesusthroughmary"
+        }, 
+        {
+            "date": "2013-08-12T03:29:18.090Z", 
+            "text": "Hey numberphile, here's something interesting about primes: You can check \nif a number is prime (except for 2) by squaring it and dividing by 8. If \nthe remainder is 1, then the number is prime. ( X.125 on a calculator)", 
+            "author": "yellow13ace"
+        }, 
+        {
+            "date": "2013-08-09T16:03:31.335Z", 
+            "text": "I hate primes...except for the prime number 2. I like that one, but other \nthan that, the rest are...8-)...too ODD for me...YEAAAAHHHHHHHHH!!!!", 
+            "author": "pieopolis2424"
+        }, 
+        {
+            "date": "2013-08-08T21:32:10.269Z", 
+            "text": "I'm surprised they haven't used this technique to look for primes.", 
+            "author": "E1craZ4life"
+        }, 
+        {
+            "date": "2013-08-07T06:01:28.728Z", 
+            "text": "It doesn't even have to be an interval; that's how the proof is intended to \nwork, in essence. You have a handful of arbitrary primes, take their \nproduct plus one, and because it isn't divisible by anything in that \nhandful (through the omitted divisibility argument), nothing in its prime \ndecomposition is going to be part of that original handful. Therefore there \nare more primes than that handful.", 
+            "author": "Vulcapyro"
+        }, 
+        {
+            "date": "2013-08-04T23:34:02.073Z", 
+            "text": "Fun fact about this proof: 2 * 3 + 1 = 7, a prime 2 * 3 * 5 + 1 = 31, a \nprime 2 * 3 * 5 * 7 * 11 * 13 + 1 = 30031 = 59 * 509 The product of all \nprime numbers in the interval [a,b] plus one will result in either a prime \nnumber that does not belong to that interval or a composite number whose \nprime factors do not belong to that interval.", 
+            "author": "Daniel Rogness"
+        }, 
+        {
+            "date": "2013-08-04T21:44:16.919Z", 
+            "text": "the definition is still right if you say, that not only prime numbers CAN \nonly be constructed by using units or the number itself (different to 1), \nbut also that it MUST be able to be built by units and the number itself. \npi can't be constructed with units so it's no prime number", 
+            "author": "Joel Costa"
+        }, 
+        {
+            "date": "2013-08-04T05:05:57.296Z", 
+            "text": "That's my point: despite beginning with the letter M, \"an\" is used because \nit begins with a vowel sound.", 
+            "author": "DialaceStarvy"
+        }, 
+        {
+            "date": "2013-08-03T15:54:30.085Z", 
+            "text": "it is pronounced ' an emp3 player'", 
+            "author": "marley gibson"
+        }, 
+        {
+            "date": "2013-08-01T20:01:52.776Z", 
+            "text": "Actually, \"an\" seems to strictly go by vowel sound rather than actual \nvowels: a university, an hour, an MP3 player.", 
+            "author": "DialaceStarvy"
+        }, 
+        {
+            "date": "2013-08-01T18:56:04.089Z", 
+            "text": "Whoa, hold it. The Greeks didn't even know that irrational numbers exist, \nlet alone transcendental.", 
+            "author": "Chris Kimmel"
+        }, 
+        {
+            "date": "2013-08-01T18:11:26.313Z", 
+            "text": "Sorry to talk linguistics on a math video, but I just noticed that James \nsays \"a unit\" while the book says \"an unit\". Strictly going by the rules \n\"an unit\" is correct, but it sounds wrong when you say it aloud. I suppose \nit sounds like \"yoonit\", which doesn't start with a vowel sound.", 
+            "author": "Alexander Roderick"
+        }, 
+        {
+            "date": "2013-08-01T17:10:08.028Z", 
+            "text": "What kind of new information does each new prime number offer? Why look for \nthe next one?", 
+            "author": "Joel Laguna"
+        }, 
+        {
+            "date": "2013-08-01T16:04:44.806Z", 
+            "text": "Is it just me or did he split up that 7 line really well?", 
+            "author": "Alex Gheorghiu"
+        }, 
+        {
+            "date": "2013-08-01T04:27:24.389Z", 
+            "text": "I got it now. :-)", 
+            "author": "yu stu"
+        }, 
+        {
+            "date": "2013-07-31T05:20:31.879Z", 
+            "text": "Oh, you're right! Thank you for that. So I guess the reason you can't \nsquare the circle in Euclidean geometry is because pi can't be a unit.", 
+            "author": "marktrade88"
+        }, 
+        {
+            "date": "2013-07-30T19:53:17.897Z", 
+            "text": "Here are definitions 1 and 2: 1. An unit is that by virtue of which each of \nthe things that exist is called one. 2. A number is a multitude composed of \nunits. So basically he only thought of natural numbers.", 
+            "author": "TaiFerret"
+        }, 
+        {
+            "date": "2013-07-28T08:48:59.993Z", 
+            "text": "Hmm, so according to Euclid's definition any transcendental number like pi \nor e is prime. Hmm, well no because 2pi is transcendental but divisible by \n2, so. But of course a segment of length pi can't be constructed otherwise \nyou could square the circle, but what if you were drawing lines segments \nand just accidentally hit on it, I mean isn't that possible? And wouldn't \nit be a unit alone? Oh jeez I need a drink.", 
+            "author": "marktrade88"
+        }, 
+        {
+            "date": "2013-07-27T18:06:34.106Z", 
+            "text": "Who did?", 
+            "author": "anticorncob6"
+        }, 
+        {
+            "date": "2013-07-27T15:30:02.973Z", 
+            "text": "\"I was following until he added 1 to Q\u2026\" I think the fundamental confusion \nwith the explanation is that James defines Q as the product of all primes, \nand at that time states that either Q is prime or it is not -- when he \nshould have stated that any such product clearly can not be prime. Then he \nadds 1 to Q and STILL calls it Q. ", 
+            "author": "Blackmark52"
+        }, 
+        {
+            "date": "2013-07-27T07:43:42.006Z", 
+            "text": "The way you stated Euclid's proof made it sound kind of lame. Maybe you \nshould say a bit more about how he tackled the question in terms of \ngeometry.", 
+            "author": "DucksDeLucks"
+        }, 
+        {
+            "date": "2013-07-26T13:55:58.905Z", 
+            "text": "I don't know if this would count as a formal proof, but it sounds pretty \nsolid to me.", 
+            "author": "Volbla"
+        }, 
+        {
+            "date": "2013-07-26T13:54:54.162Z", 
+            "text": "I was interested in that as well, but the article on proofwiki. com was \nsadly not very helpful. It doesn't seem that complicated though after i \nthought about it. If you have a number A, either it can be evenly divided \nby some other number, or it can not. If it's the latter it is a prime and \nwe're done. If it's the former we can write it as B*C instead. Then we can \nplay the exact same game with these numbers until we eventually end up with \nonly prime factors which can't be divided any further.", 
+            "author": "Volbla"
+        }, 
+        {
+            "date": "2013-07-26T04:13:53.896Z", 
+            "text": "I hope no one gets confused when I say ALL numbers :/ ( I wasn't talking \nabout transcendental, irrational numbers and such ) ", 
+            "author": "Deuce1042"
+        }, 
+        {
+            "date": "2013-07-26T04:03:06.635Z", 
+            "text": "To clear up what I said Q being a number must be able to be rewritten as a \nproduct of prime numbers, in short, the primes listed cant do that because \nthere will always be a remainder of one. Keep in mind that Q is a number \ngreater than the largest prime that's on his list because its made up of \nmultiplying all of his primes and adding one. ", 
+            "author": "Deuce1042"
+        }, 
+        {
+            "date": "2013-07-26T03:59:18.148Z", 
+            "text": "There for there is always a remainder of 1, meaning there has to be a prime \nnumber which divides Q (or N +1 ) evenly that is not on that list because \nALL numbers can be written as a product of prime numbers. Hence, you cannot \nlist the number of prime numbers because that leads to this contradiction \nthus there are infinitely many of them. ", 
+            "author": "Deuce1042"
+        }, 
+        {
+            "date": "2013-07-26T03:57:34.227Z", 
+            "text": "Because if Q is not prime, then it must be composed as a product of the \nprime numbers he listed. Meaning those prime numbers divide Q evenly. Call \nthe list he made \"N\", so N +1 / P where P is a prime must equal a whole \nnumber. For that to be true N/P must be a whole number (which it will be) \nand 1/P must be a whole as well as fractions with common denominators split \n(Which is nonsense, a number greater than one will not yield a whole number \nand one is not prime) ", 
+            "author": "Deuce1042"
+        }, 
+        {
+            "date": "2013-07-26T03:37:40.457Z", 
+            "text": "they already have one", 
+            "author": "Ben David"
+        }, 
+        {
+            "date": "2013-07-25T15:05:35.167Z", 
+            "text": "It seems as if a lot of proofs are based on the fundamental theorem of \narithmetic. Could you make a video that proves the fundamental theorem of \narithmetic? I'd be very interested in that :)", 
+            "author": "xXSelastiosXx"
+        }, 
+        {
+            "date": "2013-07-25T14:34:23.589Z", 
+            "text": "It makes Q indivisible by any of the primes you've listed because they all \nleave a remainder of 1, which contradicts the fundamental theorem of \narithmetic. Therefore, there must be an infinite number of primes.", 
+            "author": "DialaceStarvy"
+        }, 
+        {
+            "date": "2013-07-25T12:04:13.594Z", 
+            "text": "Yeah that also confused me aswell. I thought about it and I think i got it. \nSo, Q is a sum of 1 and multiplication of all primes (let's call it P). \nNow, to prove that it's prime or not we have to see if it's divisible by \nany number. Q=P+1. If we divide Q with P, we get Q/P=(P+1)/P=1+1/P which is \nnot a whole number,therefore it's not divisible by P. And if we try to \ndivide with any other number, we can't because P is only divisible by P and \n1 is only divisible by 1.", 
+            "author": "RokoThEMaster"
+        }, 
+        {
+            "date": "2013-07-25T05:32:54.460Z", 
+            "text": "I was following until he added 1 to Q. I don't understand how adding 1 to Q \nproves there is infinite number of primes. ", 
+            "author": "yu stu"
+        }
+    ]
+}

@@ -1,0 +1,702 @@
+{
+    "publish_date": "2011-08-12T16:11:46.000Z", 
+    "video_length": "PT3M24S", 
+    "captions": [
+        {
+            "text": "BEHIND-THE-SCENES: VISUAL AND AUDIO DESIGN", 
+            "dur": "2", 
+            "start": "9"
+        }, 
+        {
+            "text": "The Dominion map looks fantastic. ", 
+            "dur": "1.5", 
+            "start": "13"
+        }, 
+        {
+            "text": "It\u2019s by far and away the best map we\u2019ve ever made. ", 
+            "dur": "2", 
+            "start": "15"
+        }, 
+        {
+            "text": "The entire map feels alive; things are moving. All the capture points are totally differentiated from each other.", 
+            "dur": "5.5", 
+            "start": "17.5"
+        }, 
+        {
+            "text": "It\u2019s not mirrored like Summoner\u2019s Rift and Twisted Treeline.", 
+            "dur": "1.5", 
+            "start": "23.5"
+        }, 
+        {
+            "text": "The look and feel is really trying to create this world that\u2019s alive. ", 
+            "dur": "6", 
+            "start": "28"
+        }, 
+        {
+            "text": "A lot of the capture points will have landmarks. And each of those landmarks will be in some way slowly moving or animating. ", 
+            "dur": "7", 
+            "start": "34.5"
+        }, 
+        {
+            "text": "For instance, some of the lifts in one of the capture points are going to slowly bring up these minerals and crystals,", 
+            "dur": "7", 
+            "start": "42"
+        }, 
+        {
+            "text": "and you got the Windmill slowly churning with all its gears and the magic driving it.", 
+            "dur": "3.5", 
+            "start": "49.5"
+        }, 
+        {
+            "text": "We\u2019re trying to create kind of a story within a story.", 
+            "dur": "2.5", 
+            "start": "53.5"
+        }, 
+        {
+            "text": "Pretty much create some kind of production line of these crystals being processed and then turned into a usable source of magic. ", 
+            "dur": "8.5", 
+            "start": "56.5"
+        }, 
+        {
+            "text": "Here we have the new map and what I\u2019m doing is going through and populating some of these islands you see in here and lighting them. ", 
+            "dur": "7", 
+            "start": "66"
+        }, 
+        {
+            "text": "And you can adjust the intensity, the radius, and slide them around and you get real time lighting anywhere you want to go.", 
+            "dur": "6", 
+            "start": "73.5"
+        }, 
+        {
+            "text": "We have a lot of particles that we are going to be placing that add more life too. For instance,  ", 
+            "dur": "4", 
+            "start": "80"
+        }, 
+        {
+            "text": "we also have torches and ground fog and things like that; so a lot of things moving around. ", 
+            "dur": "5.5", 
+            "start": "84.5"
+        }, 
+        {
+            "text": "The audio team really saw it as a big opportunity to take the music in League of Legends to the next level. ", 
+            "dur": "4.5", 
+            "start": "90.5"
+        }, 
+        {
+            "text": "We wanted to keep it in that fantasy vein that really fits, but we want to have an edge to it.", 
+            "dur": "4.5", 
+            "start": "95.5"
+        }, 
+        {
+            "text": "We looked at the map and we kind of thought of elements that we could bring in from the world around", 
+            "dur": "2", 
+            "start": "101"
+        }, 
+        {
+            "text": "that you would actually hear, and bring it into the music. ", 
+            "dur": "3", 
+            "start": "103"
+        }, 
+        {
+            "text": "So, when the music is playing you\u2019ll actually hear anvil hits and all these different kind of things that really brings the map to life. ", 
+            "dur": "5.5", 
+            "start": "106.5"
+        }, 
+        {
+            "text": "We set up an interactive music system so that the music actually responds to the current status of the game. ", 
+            "dur": "4.5", 
+            "start": "113.5"
+        }, 
+        {
+            "text": "It reacts to what\u2019s going on between the two teams. ", 
+            "dur": "1.5", 
+            "start": "118.5"
+        }, 
+        {
+            "text": "As the teams get closer and closer to victory, the music gets more and more epic and intense ", 
+            "dur": "4.5", 
+            "start": "120.5"
+        }, 
+        {
+            "text": "as we kind of build to this final climactic battle. ", 
+            "dur": "1.5", 
+            "start": "125.5"
+        }, 
+        {
+            "text": "I think that the first time players hear the music in Dominion they\u2019re going to be incredibly excited ", 
+            "dur": "3", 
+            "start": "142"
+        }, 
+        {
+            "text": "because it\u2019s a whole new, big, epic experience of League of Legends that we haven\u2019t been able to deliver before. ", 
+            "dur": "4.5", 
+            "start": "145.5"
+        }, 
+        {
+            "text": "Things look fantastic.  But we also really maintained the style that we love and that our players love.", 
+            "dur": "6", 
+            "start": "151"
+        }, 
+        {
+            "text": "It\u2019s a massive update.  It\u2019s really innovative.  It\u2019s extremely fun.  ", 
+            "dur": "3.5", 
+            "start": "158"
+        }, 
+        {
+            "text": "It\u2019s very fast paced.  ", 
+            "dur": "1", 
+            "start": "162"
+        }, 
+        {
+            "text": "Every strategic capture point is totally different.  ", 
+            "dur": "1.5", 
+            "start": "163.5"
+        }, 
+        {
+            "text": "The background art in the environment is done at a much higher level than we have done before.  ", 
+            "dur": "4.5", 
+            "start": "165.5"
+        }, 
+        {
+            "text": "It has a lot of great detail that enhances the experience, but doesn\u2019t detract from the gameplay.", 
+            "dur": "4", 
+            "start": "171"
+        }, 
+        {
+            "text": "I think our players are going to love it.", 
+            "dur": "0.5", 
+            "start": "175.5"
+        }, 
+        {
+            "text": "CAPTURE", 
+            "dur": "1", 
+            "start": "176.5"
+        }, 
+        {
+            "text": "DEFEND", 
+            "dur": "1", 
+            "start": "180"
+        }, 
+        {
+            "text": "DOMINATE", 
+            "dur": "1", 
+            "start": "183"
+        }, 
+        {
+            "text": "JOIN THE LEAGUE AT SIGNUP.LEAGUEOFLEGENDS.COM", 
+            "dur": "3.5", 
+            "start": "191"
+        }
+    ], 
+    "title": "League of Legends: Dominion - Art & Sound Behind the Scenes", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04n3w2r"
+    ], 
+    "number_views": 855957, 
+    "categories": [
+        20
+    ], 
+    "comments": [
+        {
+            "date": "2014-11-30T18:46:28.468Z", 
+            "text": "Wow last days were so nc\ufeff", 
+            "author": "Waleed Albahri"
+        }, 
+        {
+            "date": "2014-10-06T22:44:01.718Z", 
+            "text": "2:24 Nikasaur!\ufeff", 
+            "author": "booyaka3"
+        }, 
+        {
+            "date": "2013-06-29T01:14:36.566Z", 
+            "text": "Graphics is acceptable. But the gameplay is great, and the music is \nawesome! If you want graphics then go play FPS.", 
+            "author": "Reheapification"
+        }, 
+        {
+            "date": "2013-05-20T03:54:14.156Z", 
+            "text": "nothing relaxing about this mode. I almost have a heart attack each time I \nplay this nerve-wrecking game-mode.", 
+            "author": "BathroomTile"
+        }, 
+        {
+            "date": "2013-04-11T00:04:32.642Z", 
+            "text": "2:25 Nika. You're welcome", 
+            "author": "pcd6music"
+        }, 
+        {
+            "date": "2013-04-07T03:19:21.297Z", 
+            "text": "how come the graphics looks different at 2:44", 
+            "author": "HELLO"
+        }, 
+        {
+            "date": "2013-03-18T19:58:29.408Z", 
+            "text": "Wow the music from dominion is extremly epic -.- what about summoner rift? \nis a bit depressive u.u I wanna hear epic music at classic mode too u.u", 
+            "author": "Keiktsu"
+        }, 
+        {
+            "date": "2013-03-10T02:02:14.981Z", 
+            "text": "they should update the summoner rift graphical appear more like this", 
+            "author": "Austin Agli"
+        }, 
+        {
+            "date": "2013-03-05T17:53:33.302Z", 
+            "text": "@thdalailgan The middle of it*", 
+            "author": "thdalailgan"
+        }, 
+        {
+            "date": "2013-03-05T17:53:07.279Z", 
+            "text": "They were supposed to make a map with like a giant dog in he middle of it \nthat is like baron,the spider dragon ect", 
+            "author": "thdalailgan"
+        }, 
+        {
+            "date": "2013-02-13T12:12:42.409Z", 
+            "text": "I actually like this map most cause I can play lol before school and only \nnoobs play so I can own", 
+            "author": "Fran Grubisic"
+        }, 
+        {
+            "date": "2013-01-17T13:09:36.244Z", 
+            "text": "I LOVE THIS GAME,", 
+            "author": "Pan Michal"
+        }, 
+        {
+            "date": "2013-01-06T14:42:59.632Z", 
+            "text": "yeah i think the same:) ", 
+            "author": "Green Droger"
+        }, 
+        {
+            "date": "2012-12-23T18:34:06.516Z", 
+            "text": "/watch?v=r-YjLB4VGx8", 
+            "author": "purple haze"
+        }, 
+        {
+            "date": "2012-12-11T06:27:11.078Z", 
+            "text": " But you are forgetting THIS IS FREE !! you can't value something that is \nfree .As the only thing you would be wasting is time which i don't think \nmatters to you if you came just to hate on this. ", 
+            "author": "joemar121"
+        }, 
+        {
+            "date": "2012-12-06T07:44:37.608Z", 
+            "text": "riot plz new music to summoners rift", 
+            "author": "elHUmanRevolution"
+        }, 
+        {
+            "date": "2012-09-22T13:10:59.083Z", 
+            "text": "i dont see why so many ppl hate this game :( i think its a great game to \nplay to relax or to try out new champs XD the art and music are also \namazing, although we have less time to appreciate the visuals than we \nshould in-game T_T", 
+            "author": "milczypiotr"
+        }, 
+        {
+            "date": "2012-09-17T07:51:59.797Z", 
+            "text": "the art of dominion was great and creative no question! but like diablo 3 \nthis sadly fails beacuse the player will never have time to enjoy the map \nand its suronding due to the stress of the game itself", 
+            "author": "void735"
+        }, 
+        {
+            "date": "2012-09-11T09:55:02.531Z", 
+            "text": "Still like Twisted Treeline better, but at least they tried to do something \ndifferent.", 
+            "author": "Meshric"
+        }, 
+        {
+            "date": "2012-08-24T01:07:26.791Z", 
+            "text": "Skype has button called \"End call\"", 
+            "author": "Hrvoje \u010cani\u0107"
+        }, 
+        {
+            "date": "2012-08-20T00:42:45.320Z", 
+            "text": "It's a fucking shame all this detail is put in a level where everyone is \nlike \"OMG! RUSH HERE!\" \"OMG!HURRY TO GO THERE!\"... None even looks at the \n\"slowly moving\" windmill... They are hurrying to stack the ghost and rune \nspeed buff to reach the point before the enemy rammus does... I once made a \n1v0 game in the map just to go around exploring the area and watching the \nanimations... Amazing job. Too amazing for such a fast type of gameplay...", 
+            "author": "\u0f3c \u3064\u25d5\u03c9\u25d5 \u0f3d\u3064 WOW"
+        }, 
+        {
+            "date": "2012-08-20T00:39:32.601Z", 
+            "text": "So having your gf on skype moaning to you about playing games and ignoring \nher and complaining all the time is more relaxing than the dominion \nsoundtrack? O.O", 
+            "author": "\u0f3c \u3064\u25d5\u03c9\u25d5 \u0f3d\u3064 WOW"
+        }, 
+        {
+            "date": "2012-08-19T23:52:19.492Z", 
+            "text": "I prefer listening my music than listening of blades, screams, battle \neffects... Same thing with game music. And mostly I'm in skype call so I \ndon't need noises in the background. There are people who like game \nsoundtracks and there are people who don't. it's not relaxing for me so I \ndon't need it", 
+            "author": "Hrvoje \u010cani\u0107"
+        }, 
+        {
+            "date": "2012-08-15T19:24:48.571Z", 
+            "text": "Even if thats true, I still recommend giving it a decent try at least, as \nif you at least give it a decent chance, then you may end up taking a \nliking to the music than if you had just ignored it to begin with.", 
+            "author": "Seth Vint"
+        }, 
+        {
+            "date": "2012-08-15T00:20:36.064Z", 
+            "text": "I don't regret nothing", 
+            "author": "Hrvoje \u010cani\u0107"
+        }, 
+        {
+            "date": "2012-07-31T23:35:03.390Z", 
+            "text": "Graphics are only part of a game. The graphics dont matter if the gameplay \nitself is bad. Music is also important too, as allot of people will say the \nmusic can either make or break a game.", 
+            "author": "Seth Vint"
+        }, 
+        {
+            "date": "2012-07-31T23:08:12.805Z", 
+            "text": "Well then your missing out on allot. The music is often what makes or \nbreaks a game, and if you ignore the music, then thats just one \npart/element of the game your missing out on.", 
+            "author": "Seth Vint"
+        }, 
+        {
+            "date": "2012-05-29T06:06:16.583Z", 
+            "text": "can we have more of that? i'm sure people would love how their favourite \ngame is created", 
+            "author": "Averkios Karalis"
+        }, 
+        {
+            "date": "2012-02-02T10:46:54.024Z", 
+            "text": "Hoorah for the bots in dom", 
+            "author": "RykoDimSim"
+        }, 
+        {
+            "date": "2012-02-01T17:14:37.571Z", 
+            "text": "It's true.The music is all about how you've played.And it gives you both \nterror or satisfaction.For example,when my team wins,the music at those \nlast minutes(which could be just enough for a match to turn around which is \nanother epic part of the game),gives me a major burst of \"at your face \nblue/purple guys\" feeling.When we are losing though it's like \"Quickly get \nthat point...Faster.OH GOD someone mute this!\"...lol", 
+            "author": "\u0f3c \u3064\u25d5\u03c9\u25d5 \u0f3d\u3064 WOW"
+        }, 
+        {
+            "date": "2012-02-01T17:08:10.052Z", 
+            "text": "@Ryko154 Buy a new computer then.It's not THEIR fault if you can't load \nit...", 
+            "author": "\u0f3c \u3064\u25d5\u03c9\u25d5 \u0f3d\u3064 WOW"
+        }, 
+        {
+            "date": "2012-02-01T07:11:46.800Z", 
+            "text": "I had high hopes for dominion but it just gives me alot of lag", 
+            "author": "RykoDimSim"
+        }, 
+        {
+            "date": "2012-01-29T14:46:47.127Z", 
+            "text": "Really Ganking Mordekaiser? Trolol", 
+            "author": "FreakzorTgR"
+        }, 
+        {
+            "date": "2012-01-25T16:30:25.810Z", 
+            "text": ":O 1:20 Teemo editor ", 
+            "author": "hleepymanzilla"
+        }, 
+        {
+            "date": "2011-11-23T14:43:15.356Z", 
+            "text": "Story within a story : Inception!", 
+            "author": "NeOzInDaHouse"
+        }, 
+        {
+            "date": "2011-11-10T22:04:15.633Z", 
+            "text": "@legogez11 lrn to english", 
+            "author": "Nasst"
+        }, 
+        {
+            "date": "2011-11-08T09:06:17.012Z", 
+            "text": "When is this Gonna be in GarenaLoL officaly?", 
+            "author": "Yagami Light"
+        }, 
+        {
+            "date": "2011-11-08T00:07:22.087Z", 
+            "text": "@legogez11 learn to spell right dumbshit", 
+            "author": "reload95"
+        }, 
+        {
+            "date": "2011-10-19T16:05:45.043Z", 
+            "text": "somonres rift is beter :P", 
+            "author": "legogez11"
+        }, 
+        {
+            "date": "2011-10-15T14:31:24.254Z", 
+            "text": "They could of gone even farther with dominion by making the points do \nsomething epic. If you cap certain points, you get a special supply. This \nsupply could be used for power moves. For example, health drops, nukes, or \neven summoning baron to eat people.", 
+            "author": "SlayerCast"
+        }, 
+        {
+            "date": "2011-10-14T04:06:11.227Z", 
+            "text": "doesn't attract the player? i got killed 10 times because i thought the \nwind mill would do something!", 
+            "author": "EmoticonsOnly"
+        }, 
+        {
+            "date": "2011-10-06T17:01:41.356Z", 
+            "text": "@Jautizan ask ur mum ", 
+            "author": "Gitonfr"
+        }, 
+        {
+            "date": "2011-10-05T20:46:24.414Z", 
+            "text": "@silentlysmart All i said was u were wrong when implying LoL is NOT free to \nplay. And it seems you know. So i dont get your point here ^^", 
+            "author": "Smuglator"
+        }, 
+        {
+            "date": "2011-10-02T11:34:04.640Z", 
+            "text": "See riot now this is good now here is what i think u should also do cuz \nremeber u have fire ice people like ashe well why dont u make like a ice \nand fire map after that you chould make like a gravyard or a village then \nnext you should go a little retro and make a swamp and a medevil map you \nshould give this game a little bit of each and for the fun of it to bee \ncool make a heven vs hell one sade has hell other is all light with clouds. \nthat will make this game so much money ", 
+            "author": "joeynuma"
+        }, 
+        {
+            "date": "2011-09-27T20:42:14.583Z", 
+            "text": "well sorry pals but i don't play with sound on so I don't care for music", 
+            "author": "Hrvoje \u010cani\u0107"
+        }, 
+        {
+            "date": "2011-09-25T10:01:05.161Z", 
+            "text": "Dose some one know what programs they are using?? xD ", 
+            "author": "Jautizan"
+        }, 
+        {
+            "date": "2011-09-25T09:55:41.170Z", 
+            "text": "I hope that you can fix a new graphic arts on the champions for that \nshoulde been real awsom to the new dominion.. i have test it and that i \nmiss is new champion art. ", 
+            "author": "Jautizan"
+        }, 
+        {
+            "date": "2011-09-24T21:36:07.519Z", 
+            "text": "I tried the map and its awesome!!! and btw the music in this video was epic \n:D i cant wait until the patch comes :D", 
+            "author": "Takis Mp"
+        }, 
+        {
+            "date": "2011-09-23T04:58:04.264Z", 
+            "text": "2:22 MAGMA CHAMBER???????", 
+            "author": "doomfireproductions"
+        }, 
+        {
+            "date": "2011-09-22T22:30:13.277Z", 
+            "text": "@istickthat it's not RTS, it's a Mobagame, but I see what you mean.", 
+            "author": "Maxarcc"
+        }, 
+        {
+            "date": "2011-09-22T19:40:02.191Z", 
+            "text": "This gave me goosebumps......", 
+            "author": "Sionnix14"
+        }, 
+        {
+            "date": "2011-09-22T15:33:44.491Z", 
+            "text": "@istickthat i never said, that they got the same genre", 
+            "author": "ToSchueny"
+        }, 
+        {
+            "date": "2011-09-21T23:08:09.423Z", 
+            "text": "CAN SOMEBODY PLS TELL ME WHEN THIS MAP IS RELEASED ", 
+            "author": "Cee-Jay Brigadier"
+        }, 
+        {
+            "date": "2011-09-21T16:34:08.566Z", 
+            "text": "i want to play it!!!!!!!!!!!!!!!!!!!!!!!", 
+            "author": "James Fork"
+        }, 
+        {
+            "date": "2011-09-19T23:16:14.915Z", 
+            "text": "Which software/s do you use to make the map and animate it?", 
+            "author": "bensas42"
+        }, 
+        {
+            "date": "2011-09-19T19:02:48.293Z", 
+            "text": "wow, everything moves thats so incredible O.o lol is such a bad game there \nare so many noobs in the league of legends -.- pls play a game like wow, \nwhich deserves it to get played", 
+            "author": "ToSchueny"
+        }, 
+        {
+            "date": "2011-09-17T05:43:54.471Z", 
+            "text": "Why is everyone complaining about the map selection? DotA managed to keep \nthousands of players interested even though it was a single map and was a \nmod of warcraft 3, rather than its own game.", 
+            "author": "treasy"
+        }, 
+        {
+            "date": "2011-09-17T02:19:20.774Z", 
+            "text": "2:25 so cute... ", 
+            "author": "marcoswillianl"
+        }, 
+        {
+            "date": "2011-09-15T16:51:52.106Z", 
+            "text": "when do you guys even release the map!!!!? we are so bored in the game many \ngamers have left cuase its so boring maps!!! release it for fuck sake!!!", 
+            "author": "TomS"
+        }, 
+        {
+            "date": "2011-09-14T23:52:18.522Z", 
+            "text": "RELEASE IT FFS", 
+            "author": "Alexander T."
+        }, 
+        {
+            "date": "2011-09-14T23:16:38.567Z", 
+            "text": "I can guarantee that once Dominion comes out it'll be a 4 hour queue wait \n-_- lol", 
+            "author": "kwproductions"
+        }, 
+        {
+            "date": "2011-09-14T04:36:04.255Z", 
+            "text": "@ipwndazombie I know right? We played 2 maps for the longest of time, \npromised a 3rd... Never saw it. I think we deserve it.", 
+            "author": "BlakOpzDragon"
+        }, 
+        {
+            "date": "2011-09-12T13:42:05.308Z", 
+            "text": "When Dominion finally comes out, can you please give to all of your players \n5 riot points for each normal victory they have ? ", 
+            "author": "ipwndazombie"
+        }, 
+        {
+            "date": "2011-09-12T03:45:27.864Z", 
+            "text": "Finally Epic PvP is coming :D", 
+            "author": "Alfredo Albaladejo"
+        }, 
+        {
+            "date": "2011-09-11T16:51:01.103Z", 
+            "text": "About time -.-", 
+            "author": "MovieGuru45"
+        }, 
+        {
+            "date": "2011-09-10T19:11:57.224Z", 
+            "text": "Sorry, but not everyone has a godly computer with epic graphics cards >_>", 
+            "author": "AEAnimeProductions"
+        }, 
+        {
+            "date": "2011-09-10T18:16:29.385Z", 
+            "text": "whe does this come out!?!", 
+            "author": "Khalid Mohamed"
+        }, 
+        {
+            "date": "2011-09-10T15:27:30.978Z", 
+            "text": "2011 dec: Dominion is comming be ready for the patch! 2012 jan: Dominion is \ncomming be ready for the patch! 2020 dec : Dominion is comming be ready for \nthe new patch! 2900 jan: Dominion isnt comming bucz we die..............", 
+            "author": "ali aldaamsah"
+        }, 
+        {
+            "date": "2011-09-09T13:31:09.848Z", 
+            "text": "@xxBlackpspxx 2, 3 if you include magma chamber which was never released", 
+            "author": "Mew core"
+        }, 
+        {
+            "date": "2011-09-09T11:06:12.277Z", 
+            "text": "When I play a game with good stats LOL tells me : Waiting for stats When I \nplay a bad game with bad stats I can see my stats. I hate it.", 
+            "author": "cforcheyenne"
+        }, 
+        {
+            "date": "2011-09-09T10:42:12.028Z", 
+            "text": "when is going to be ready to play it ????", 
+            "author": "Blizli"
+        }, 
+        {
+            "date": "2011-09-08T19:39:43.614Z", 
+            "text": "when are it comming out!?", 
+            "author": "xTraiEx"
+        }, 
+        {
+            "date": "2011-09-08T14:02:51.897Z", 
+            "text": "@39Johhny Are you sure Sherlock? I thought they made 20 or something for lol", 
+            "author": "xxBlackpspxx"
+        }, 
+        {
+            "date": "2011-09-07T14:49:02.038Z", 
+            "text": "WHEN WILL DOMINION COME OUT?! SO MUCH LIES", 
+            "author": "greendayy7"
+        }, 
+        {
+            "date": "2011-09-06T13:16:50.588Z", 
+            "text": "i have 1 suggestion: MAKE MORE THAN ONE SONG AS A BCKGRND MUSIC", 
+            "author": "WolfHead0207"
+        }, 
+        {
+            "date": "2011-09-06T00:47:44.985Z", 
+            "text": "@Bahumonto i actully ROFLED so hard it was the hardest laugh i ever had \nthis month!!", 
+            "author": "happybro999"
+        }, 
+        {
+            "date": "2011-09-05T23:34:52.070Z", 
+            "text": "2:25 look at it all dayyyyyyyyyyyy son. NIkasofine>Nikasaur", 
+            "author": "anokajdm53"
+        }, 
+        {
+            "date": "2011-09-05T23:07:13.750Z", 
+            "text": "@lusanju09 yes, a prime example of the typical LoL player", 
+            "author": "Bahumonto"
+        }, 
+        {
+            "date": "2011-09-04T14:17:16.484Z", 
+            "text": "0:53 \"We're trying to create kind of a story within a story\" Storyception", 
+            "author": "xnerothefoxx"
+        }, 
+        {
+            "date": "2011-09-03T23:40:28.423Z", 
+            "text": "@krakken46 lol what? XD", 
+            "author": "StuffForFun2"
+        }, 
+        {
+            "date": "2011-09-03T19:43:56.429Z", 
+            "text": "What is the song?", 
+            "author": "nyxyny"
+        }, 
+        {
+            "date": "2011-09-02T01:41:31.897Z", 
+            "text": "@bloodi01 you should play more........", 
+            "author": "ToPixas"
+        }, 
+        {
+            "date": "2011-09-02T01:40:51.302Z", 
+            "text": "Sound design sounds very VERY interesting!", 
+            "author": "ToPixas"
+        }, 
+        {
+            "date": "2011-09-01T15:39:25.263Z", 
+            "text": "Agree with some people here, You guys may have loads of awesome background \nfeatures like.. moving things.. But, you need to think of the people with \nslow pc.. :/", 
+            "author": "PixelDesignHD"
+        }, 
+        {
+            "date": "2011-09-01T02:55:15.286Z", 
+            "text": "wait what..league of legends has a story? ?? no it doesn't....", 
+            "author": "nikhil rao"
+        }, 
+        {
+            "date": "2011-08-31T16:31:19.594Z", 
+            "text": "what is the name of the program you use for the animations? i think i use \nthe same :P", 
+            "author": "Hero0fhellaS"
+        }, 
+        {
+            "date": "2011-08-31T01:49:21.034Z", 
+            "text": "@stavros1996 Mid-September, maybe September's end", 
+            "author": "StrokaTurbo"
+        }, 
+        {
+            "date": "2011-08-30T19:03:48.815Z", 
+            "text": "im kinda scared that my pc cant handle it", 
+            "author": "vgfdsnjklgbetnjs;ah"
+        }, 
+        {
+            "date": "2011-08-30T18:20:13.924Z", 
+            "text": "Release it!!!!!!!!", 
+            "author": "Skorndar"
+        }, 
+        {
+            "date": "2011-08-30T16:53:10.276Z", 
+            "text": "I admit your programers and Graphical enginers are awesome...but your game \nsystemdesigners suck...the heroes and there skills and mechanics are boring \nand are all alike.", 
+            "author": "bloodi01"
+        }, 
+        {
+            "date": "2011-08-30T14:25:36.472Z", 
+            "text": "I thought people who are saying that LOL is a crap are exaggerating but I \nguess not. ", 
+            "author": "cyberrevdarkcri"
+        }, 
+        {
+            "date": "2011-08-30T11:24:16.963Z", 
+            "text": "1:34 Catlyn HP bar bug, Riot you put that in and didnt even notice xD PLs \nthumbs up so ppl can see this.", 
+            "author": "cyg nius"
+        }, 
+        {
+            "date": "2011-08-29T18:22:40.665Z", 
+            "text": "DUDE REPLY PLEASE WHEN IS THE RELEASE? ", 
+            "author": "david carlo Fermo"
+        }, 
+        {
+            "date": "2011-08-28T20:05:03.427Z", 
+            "text": "@xxBlackpspxx some of them are the brains behind dota....", 
+            "author": "Ang3lScar"
+        }, 
+        {
+            "date": "2011-08-28T19:18:59.942Z", 
+            "text": "\"Story within a story...\" I see what you did there Leo!", 
+            "author": "Lucasvanlaer"
+        }, 
+        {
+            "date": "2011-08-28T16:10:20.895Z", 
+            "text": "if u havent dont 20 trailers of this map and the same people talk about the \nsame stuff. over and over again.. Make it work and realease! ", 
+            "author": "Blindaord"
+        }, 
+        {
+            "date": "2011-08-28T15:20:24.295Z", 
+            "text": "Riot, when i finish my game it always says waiting for stats.. it doesnt \nchange, fix it -.-'", 
+            "author": "Naturligtmineral"
+        }, 
+        {
+            "date": "2011-08-27T17:52:34.222Z", 
+            "text": "I'm studying in Informatics and these kind of behind the scenes video give \nme chills.. That's really what I want to do in my life..!", 
+            "author": "William Pichon-Roy"
+        }, 
+        {
+            "date": "2011-08-27T10:14:30.790Z", 
+            "text": "Quien sabe cuando saldr\u00e1 el nuevo mapa?", 
+            "author": "cannibalmarilyn666"
+        }, 
+        {
+            "date": "2011-08-27T06:32:26.299Z", 
+            "text": "@MrQZWarrior BWOOOOOOH! XD", 
+            "author": "Delavonboy12"
+        }
+    ]
+}

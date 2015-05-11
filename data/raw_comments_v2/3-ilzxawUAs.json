@@ -1,0 +1,590 @@
+{
+    "publish_date": "2011-12-31T16:06:14.000Z", 
+    "video_length": "PT4M32S", 
+    "captions": [
+        {
+            "text": "Our test car has a speedometer,", 
+            "dur": "2.4", 
+            "start": "5.2"
+        }, 
+        {
+            "text": "An RPM gauge,", 
+            "dur": "2.2", 
+            "start": "7.8"
+        }, 
+        {
+            "text": "And an engine that explodes at 200 RPM.", 
+            "dur": "3.4", 
+            "start": "10.2"
+        }, 
+        {
+            "text": "Let\u2019s push it to its limits\u2026 ", 
+            "dur": "3", 
+            "start": "13.8"
+        }, 
+        {
+            "text": "It reached the maximal speed of 16 km/h in 8 seconds.", 
+            "dur": "5", 
+            "start": "27.75"
+        }, 
+        {
+            "text": "Let\u2019s study our engine.", 
+            "dur": "2.1", 
+            "start": "39"
+        }, 
+        {
+            "text": "The gear attached to it exerts a certain amount of force.", 
+            "dur": "4.625", 
+            "start": "41.375"
+        }, 
+        {
+            "text": "This force can lift 20 kg\u2026", 
+            "dur": "3", 
+            "start": "48.1"
+        }, 
+        {
+            "text": "But not 40 kg.", 
+            "dur": "3", 
+            "start": "53.1"
+        }, 
+        {
+            "text": "A visualization trick will help us choose the right gears.", 
+            "dur": "4.5", 
+            "start": "69"
+        }, 
+        {
+            "text": "This orange flare represents energy.", 
+            "dur": "4", 
+            "start": "74.5"
+        }, 
+        {
+            "text": "To be more precise, let\u2019s mark the distance our force crosses in one second, ", 
+            "dur": "5.4", 
+            "start": "79"
+        }, 
+        {
+            "text": "And multiply this by its magnitude. ", 
+            "dur": "3.9", 
+            "start": "84.6"
+        }, 
+        {
+            "text": "This is our engine\u2019s power: the amount of energy it unleashes every second.", 
+            "dur": "6.17", 
+            "start": "89.33"
+        }, 
+        {
+            "text": "At this RPM the power is about 40 watts.", 
+            "dur": "5.525", 
+            "start": "95.875"
+        }, 
+        {
+            "text": "Power is transmitted from gear to gear.", 
+            "dur": "4.1", 
+            "start": "103.5"
+        }, 
+        {
+            "text": "Assuming no friction, all 40 watts reach the last gear,", 
+            "dur": "4.2", 
+            "start": "107.8"
+        }, 
+        {
+            "text": "and it exerts the same amount of force.", 
+            "dur": "2.8", 
+            "start": "112.2"
+        }, 
+        {
+            "text": "In this arrangement of gears, the last gear\u2019s teeth are moving slower.", 
+            "dur": "5", 
+            "start": "117.2"
+        }, 
+        {
+            "text": "Since energy cannot disappear,", 
+            "dur": "1.9", 
+            "start": "122.4"
+        }, 
+        {
+            "text": "our 40 watts will now produce a double amount of force.", 
+            "dur": "5", 
+            "start": "124.5"
+        }, 
+        {
+            "text": "A gear ratio of 2:1 creates this effect.", 
+            "dur": "3.8", 
+            "start": "129.7"
+        }, 
+        {
+            "text": "In our car, the engine\u2019s power is transmitted to the back wheels.", 
+            "dur": "4.34", 
+            "start": "139.66"
+        }, 
+        {
+            "text": "Each wheel gets half of it.", 
+            "dur": "3", 
+            "start": "144.33"
+        }, 
+        {
+            "text": "The force exerted by the wheels accelerates the car.", 
+            "dur": "4.67", 
+            "start": "147.83"
+        }, 
+        {
+            "text": "Our new car has a 2:1 gear ratio in its gearbox, ", 
+            "dur": "4.07", 
+            "start": "154.33"
+        }, 
+        {
+            "text": "doubling its acceleration.", 
+            "dur": "3", 
+            "start": "158.5"
+        }, 
+        {
+            "text": "Let\u2019s compare the cars.", 
+            "dur": "2.54", 
+            "start": "162.66"
+        }, 
+        {
+            "text": "We\u2019ll visualize power,", 
+            "dur": "1.6", 
+            "start": "165.4"
+        }, 
+        {
+            "text": "but this time show the amount of energy produced every 0.1 second.", 
+            "dur": "4.84", 
+            "start": "167.16"
+        }, 
+        {
+            "text": "This is now 400 watts.", 
+            "dur": "3.166", 
+            "start": "172.5"
+        }, 
+        {
+            "text": "That\u2019s better acceleration, but worse maximal speed.", 
+            "dur": "3.9", 
+            "start": "184.1"
+        }, 
+        {
+            "text": "We can rearrange the gears to get the reverse effect...", 
+            "dur": "4.6", 
+            "start": "189.5"
+        }, 
+        {
+            "text": "... less force - more speed.", 
+            "dur": "3", 
+            "start": "194.33"
+        }, 
+        {
+            "text": "Our final car has a gear stick.", 
+            "dur": "2.3", 
+            "start": "200"
+        }, 
+        {
+            "text": "Allowing the driver to switch between low gear, as in the second car\u2026", 
+            "dur": "4.5", 
+            "start": "202.5"
+        }, 
+        {
+            "text": "Medium gear, as in the first car\u2026", 
+            "dur": "3", 
+            "start": "208"
+        }, 
+        {
+            "text": "And the new high gear.", 
+            "dur": "4", 
+            "start": "212.66"
+        }
+    ], 
+    "title": "Cars: engine power and transmission - 3D animation", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02w3_t", 
+        "/m/0k4j", 
+        "/m/02mk9", 
+        "/m/061ln"
+    ], 
+    "number_views": 215221, 
+    "categories": [
+        2
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-23T21:39:59.191Z", 
+            "text": "I know nothing of physics and yet I enjoyed this video. I learned something \nnew today.\ufeff", 
+            "author": "Igor Hawkingz"
+        }, 
+        {
+            "date": "2015-04-17T08:55:42.484Z", 
+            "text": "Where is the differential in the car ??\ufeff", 
+            "author": "Gv sai Sasank"
+        }, 
+        {
+            "date": "2015-04-17T08:58:49.337Z", 
+            "text": "+Gv sai Sasank The video focuses on the concept of power, and the role of \nthe gearbox. So the simple car models in the video have no differntial.", 
+            "author": "udiprod"
+        }, 
+        {
+            "date": "2015-04-13T09:18:41.337Z", 
+            "text": "Very informative!\ufeff", 
+            "author": "Jomy Jose"
+        }, 
+        {
+            "date": "2015-03-23T17:35:43.334Z", 
+            "text": "Very informative! Thank you! I never new how gears work or why we have \nthem.\ufeff", 
+            "author": "Severan Mal"
+        }, 
+        {
+            "date": "2015-03-20T04:45:50.183Z", 
+            "text": "So wrong, same power reaches same speed, nothing to do with gears\ufeff", 
+            "author": "Tiffany Lee"
+        }, 
+        {
+            "date": "2015-03-02T03:49:21.012Z", 
+            "text": "Thanks for making this great little video.\ufeff", 
+            "author": "The Oscar Report"
+        }, 
+        {
+            "date": "2015-02-24T12:19:59.084Z", 
+            "text": "Gears..........\ufeff", 
+            "author": "menander erudhayaraj"
+        }, 
+        {
+            "date": "2015-02-22T00:07:36.692Z", 
+            "text": "awesome!\ufeff", 
+            "author": "Kivid93"
+        }, 
+        {
+            "date": "2015-02-17T00:21:32.010Z", 
+            "text": "Cars: engine power and transmission - 3D animation: \nhttp://youtu.be/3-ilzxawUAs\ufeff", 
+            "author": "Luis Elias"
+        }, 
+        {
+            "date": "2015-02-16T02:38:29.246Z", 
+            "text": "quality\ufeff", 
+            "author": "Mark atthyfeetmyGod"
+        }, 
+        {
+            "date": "2015-02-08T20:47:22.000Z", 
+            "text": "4:04 That priceless look on Driver 3's face as his engine explodes...\ufeff", 
+            "author": "Ken C"
+        }, 
+        {
+            "date": "2015-01-08T15:49:55.217Z", 
+            "text": "Love the video :)\ufeff", 
+            "author": "CARLOSINTERSIOASOCIA"
+        }, 
+        {
+            "date": "2015-01-07T00:05:08.477Z", 
+            "text": "excellent video\ufeff", 
+            "author": "Furjiply"
+        }, 
+        {
+            "date": "2014-12-12T16:24:52.425Z", 
+            "text": "\uc640...\uc528\ubc1c \uc9c4\uc9dc \ub300\ubc15\uc774\ub2e4...\ndamn this is awesome\ufeff", 
+            "author": "Wanseok Yang"
+        }, 
+        {
+            "date": "2014-12-09T15:16:47.831Z", 
+            "text": "very good explanation of torque\ufeff", 
+            "author": "Er Mander"
+        }, 
+        {
+            "date": "2014-12-06T17:35:14.495Z", 
+            "text": "i like the crash test dummies.\n\nand it's a great thing how computers can be used to illustrate things like \nvectors as arrows and integrals as areas. people of previous generations \nhad to use pen/paper and static visualisations of these concepts with just \ntheir imagination.\n\nwhat software did you use to create this animation?\ufeff", 
+            "author": "bibbly bobbly"
+        }, 
+        {
+            "date": "2014-12-06T21:11:18.416Z", 
+            "text": "Thanks! I'm using Autodesk Maya.", 
+            "author": "udiprod"
+        }, 
+        {
+            "date": "2014-11-27T11:45:45.019Z", 
+            "text": "nice...one\ufeff", 
+            "author": "Abhishek Gajare"
+        }, 
+        {
+            "date": "2014-10-18T08:33:00.934Z", 
+            "text": "", 
+            "author": "sanjeet bhatt"
+        }, 
+        {
+            "date": "2014-09-23T06:53:09.256Z", 
+            "text": "Really good explanation! Thanks\ufeff", 
+            "author": "Keanen Ferns"
+        }, 
+        {
+            "date": "2014-09-08T23:25:10.993Z", 
+            "text": "I thought I searched how a car engines work not a lecture on quantum \nentanglement and Rocket propulsion 101...\ufeff", 
+            "author": "ZUIDOVICIOUS69"
+        }, 
+        {
+            "date": "2014-08-30T06:49:49.905Z", 
+            "text": "", 
+            "author": "surya mech"
+        }, 
+        {
+            "date": "2014-08-11T18:25:03.436Z", 
+            "text": "NIce to understand\ufeff", 
+            "author": "srinath mech"
+        }, 
+        {
+            "date": "2014-08-01T17:59:45.105Z", 
+            "text": "Fucking stupid\ufeff", 
+            "author": "Oscar Esquivias"
+        }, 
+        {
+            "date": "2014-07-13T12:33:55.125Z", 
+            "text": "This is very informative, Thank you :D\ufeff", 
+            "author": "ahmedp800"
+        }, 
+        {
+            "date": "2014-06-07T16:23:54.080Z", 
+            "text": "very nice\ufeff", 
+            "author": "Dilip Suthar"
+        }, 
+        {
+            "date": "2014-06-06T14:46:25.724Z", 
+            "text": "Awesome video\ufeff", 
+            "author": "jmacdady771"
+        }, 
+        {
+            "date": "2014-06-05T23:36:17.999Z", 
+            "text": "im so fucking lost hahahaa\ufeff", 
+            "author": "El Chaarawy"
+        }, 
+        {
+            "date": "2014-07-29T10:39:58.253Z", 
+            "text": "Energy can be seen as a product of force and distance, hence the graphs of \nforce (red arrow) and distance (white arrow) resulting in a shaded region \nrepresenting energy, the product, or area, of force and distance. Power is \nthe ratio of energy to time, and when the gears are connected to each \nother, they transfer the same amount of energy to each other over time. The \npower that one gear has will be the same as any other in the chain.\n\nSince energy cannot be created or destroyed, changing one of the factors of \nthat energy will not affect the overall energy being put out over time. At \nany given point in time, the energy that the first gear spends is the same \nas that of the last in the chain. This means that when one factor is \nlacking, the other factor will simply compensate. This is a very simple way \nof saying that if we found a way to connect the gears and add one that *slows \none of the gears down* so that the overall *distance* that the gear sweeps \nout over time is reduced, it will produce a greater *force,* since energy \nis just the product of energy and force.", 
+            "author": "Dooby \u201cGiddy Hornd\u00fcber\u201d McFoosen"
+        }, 
+        {
+            "date": "2014-05-31T01:15:45.257Z", 
+            "text": "hahahah this is fun! now try it with 1.6 100hp engine 5speed :p\ufeff", 
+            "author": "\u0193\u2113\u028b\u0475\u0269\u0107\u0127\u30c4"
+        }, 
+        {
+            "date": "2014-05-25T19:38:39.734Z", 
+            "text": "Maximal?\ufeff", 
+            "author": "Alex Martin"
+        }, 
+        {
+            "date": "2014-07-29T10:41:48.295Z", 
+            "text": "Look it up. It's a word.", 
+            "author": "Dooby \u201cGiddy Hornd\u00fcber\u201d McFoosen"
+        }, 
+        {
+            "date": "2014-05-20T04:18:44.373Z", 
+            "text": "guys, i dont understand at 1:04, why it doesnt elevate, it seems the last \ngear are smaller?\ufeff", 
+            "author": "npataya"
+        }, 
+        {
+            "date": "2014-05-21T14:22:15.581Z", 
+            "text": "+npataya There are tons of formulas related to this, since there are tons \nof concepts involved: forces, energy, velocity, radial velocity, radius, \ntorque. You can see for example here: \nhttp://en.wikipedia.org/wiki/Gear_train, though it's not easy reading.\n\nThe video tries to avoid many of the complexities, and focus on one \nproperty, and one formula:\nIf a gear's tooth is travelling distance X1 and exerting force F1, then it \ngenerates energy E=F1 X1. \nIf the car (or weight, or whatever is moving in the end), is moving a \ndifferent distance X2, then it experiences a different force F2. Because of \nenergy conservation we know that F2 X2 = F1 X1,\nOr F2 = F1 X1 / X2.\n\nSo if you add some gears that cause a distance of X1 in the engine source \ngear to be translated to smaller distance in the final car wheels, say \nX2=X1/2, then the original force F1 is doubled.", 
+            "author": "udiprod"
+        }, 
+        {
+            "date": "2014-05-20T12:09:05.177Z", 
+            "text": "do you have  formulas to relate all of this?", 
+            "author": "npataya"
+        }, 
+        {
+            "date": "2014-05-20T12:07:57.094Z", 
+            "text": "thanx man, really appreciate it.. :)", 
+            "author": "npataya"
+        }, 
+        {
+            "date": "2014-05-20T08:57:42.861Z", 
+            "text": "If there's just a bunch of gears connected in a row, they don't help. When \nthe first gear  (the one attached to the engine) tooth moves one \ncentimeter, it pushes the next gear's tooth by one centimeter, which pushes \nthe next gear's tooth by one centimeter, which eventually should lift the \nweight by one centimeter. So it's just the same as connecting the first \ngear directly.\n\nYou can see at 1:47, where the distance each tooth covers is tracked by a \nvisual aid, that they're all covering the same distance. \n\nAt 2:00 there's a different arrangement, where for each centimeter the \nfirst gear's tooth is moving, the last gear's tooth is moving only 1/2 a \ncentimeter. This allows the same amount of energy to produce a double \namount of force.", 
+            "author": "udiprod"
+        }, 
+        {
+            "date": "2014-04-13T10:30:52.426Z", 
+            "text": "good work dude\nkeep going.....\ufeff", 
+            "author": "Vishnu Suresh"
+        }, 
+        {
+            "date": "2014-04-13T02:07:34.850Z", 
+            "text": "#enginepower #transmission #cartoon \ufeff", 
+            "author": "Slender Dragon"
+        }, 
+        {
+            "date": "2014-04-08T17:29:14.169Z", 
+            "text": "I like how the dude says that \"your max speed is going to be lower\" instead \nof saying \"your engine is fucking up\" xD\ufeff", 
+            "author": "khyoman"
+        }, 
+        {
+            "date": "2014-03-27T01:30:38.257Z", 
+            "text": "", 
+            "author": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03cc\u03c2"
+        }, 
+        {
+            "date": "2014-03-02T07:33:08.253Z", 
+            "text": "Perfect visualization...keep rocking :)\ufeff", 
+            "author": "saleem shaik"
+        }, 
+        {
+            "date": "2014-02-23T07:46:23.336Z", 
+            "text": "awsm vedio\ufeff", 
+            "author": "Hirdesh Richhariya"
+        }, 
+        {
+            "date": "2014-02-13T15:34:12.489Z", 
+            "text": "This is fucking brilliant.\ufeff", 
+            "author": "galesx95"
+        }, 
+        {
+            "date": "2014-01-11T20:24:27.341Z", 
+            "text": "That is amazing... \ufeff", 
+            "author": "\u202b\u0645\u062d\u0645\u062f \u0642\u0627\u0633\u0645\u202c\u200e"
+        }, 
+        {
+            "date": "2013-09-06T17:21:27.704Z", 
+            "text": "Great video, explains ratios perfectly", 
+            "author": "Kamil"
+        }, 
+        {
+            "date": "2013-09-03T17:15:04.293Z", 
+            "text": "0:57 best part", 
+            "author": "mlke"
+        }, 
+        {
+            "date": "2013-08-23T16:02:33.244Z", 
+            "text": "", 
+            "author": "love guru"
+        }, 
+        {
+            "date": "2013-08-11T22:06:58.935Z", 
+            "text": "This was just... amazing", 
+            "author": "Der Trollierer"
+        }, 
+        {
+            "date": "2013-07-20T03:48:42.530Z", 
+            "text": "AMAZING!!!!!!!! Thanks!", 
+            "author": "Thiago Matos"
+        }, 
+        {
+            "date": "2013-07-16T15:16:49.969Z", 
+            "text": "An amazing video(nice, clear and accurate animation with amazing sound \neffect) that explains basics of engine power and transmission. Please \ninclude a Torque Converter in your upcoming video as found in Youtube with \ntitle \"basic principals of a torque converter\" by Kevin Dumond. \nwatch?v=QOjHd45kecA ", 
+            "author": "Ravi Chandran"
+        }, 
+        {
+            "date": "2013-06-29T09:37:45.280Z", 
+            "text": "nice job.. superb explanation", 
+            "author": "Ashok Raju"
+        }, 
+        {
+            "date": "2013-05-22T01:49:51.063Z", 
+            "text": "Amazing :D", 
+            "author": "fckdahlloff"
+        }, 
+        {
+            "date": "2013-04-28T21:36:28.023Z", 
+            "text": "I've been always wanting\ufeff to understand what exactly is horsepower, I know \nwhat torque is, it is the measurement of twisting force. But how can you \nexplain horsepower in a plain simple way?? ", 
+            "author": "prandomable"
+        }, 
+        {
+            "date": "2013-03-08T20:57:38.995Z", 
+            "text": "wow this makes me want to study animation even more now", 
+            "author": "raiderboy012"
+        }, 
+        {
+            "date": "2013-03-07T11:39:33.270Z", 
+            "text": "Omg.. this is better than 10 pages of reading...", 
+            "author": "hoon lee"
+        }, 
+        {
+            "date": "2013-01-25T17:36:06.272Z", 
+            "text": "", 
+            "author": "vinaykanth dudam"
+        }, 
+        {
+            "date": "2012-12-20T12:49:18.229Z", 
+            "text": "Animation is very good. I a also interested in gear design. I have made \ndifferent type of cam follower gear that can increase energy efficiency. \nYou can find it at my youtube channel.", 
+            "author": "MyJigarpatel"
+        }, 
+        {
+            "date": "2012-09-28T08:11:39.617Z", 
+            "text": "", 
+            "author": "Miao Tian"
+        }, 
+        {
+            "date": "2012-07-11T07:08:35.539Z", 
+            "text": "Thanks! No, currently I don't have anything on clutches. Usually I focus on \nthe scientific aspects of things, rather than particular machinery. I'll\ufeff \ntake a look at it though.", 
+            "author": "udiprod"
+        }, 
+        {
+            "date": "2012-07-11T06:26:41.464Z", 
+            "text": "Nice vid. Do you have any on clutch / clutch control?", 
+            "author": "bawenang"
+        }, 
+        {
+            "date": "2012-06-28T08:46:31.634Z", 
+            "text": "your videos are so inspiring:D", 
+            "author": "andy4tek"
+        }, 
+        {
+            "date": "2012-06-22T15:16:17.004Z", 
+            "text": "amazing video....MAKE MORE!!!!!!!!!!", 
+            "author": "Maddog969"
+        }, 
+        {
+            "date": "2012-05-22T05:10:35.636Z", 
+            "text": "Too good. The best video on this topic so far.. You should make more such \nvideos.. I would be more than happy if I get to see a 4 stroke engine's \nvideo.. Thanks again for uploading.", 
+            "author": "Anish Ranade"
+        }, 
+        {
+            "date": "2012-04-04T19:22:41.547Z", 
+            "text": "Thanks :) I'm using Autodesk Maya.", 
+            "author": "udiprod"
+        }, 
+        {
+            "date": "2012-04-04T19:02:52.152Z", 
+            "text": "Very Well made. Videos transmit the concept efficiently, and the animations \nare truly fitting their purpose. What software do you use to make the \nvideos?", 
+            "author": "Aldoux i"
+        }, 
+        {
+            "date": "2012-03-27T08:58:28.702Z", 
+            "text": "easy to understand ", 
+            "author": "haqsialvi"
+        }, 
+        {
+            "date": "2012-02-25T19:54:56.422Z", 
+            "text": "thats very good video to understand...... thnx to upload such a good video ", 
+            "author": "Babar Ameen Khan"
+        }, 
+        {
+            "date": "2012-02-14T02:50:05.928Z", 
+            "text": "Thanks for the upload!", 
+            "author": "Liverynew1"
+        }, 
+        {
+            "date": "2012-02-08T23:20:56.484Z", 
+            "text": "@udiprod can you please one for transmission. please ", 
+            "author": "Nemod"
+        }, 
+        {
+            "date": "2012-02-08T11:05:21.531Z", 
+            "text": "@Ndkiller Thanks. In which aspect of the engine are you interested in? ", 
+            "author": "udiprod"
+        }, 
+        {
+            "date": "2012-02-07T15:47:31.033Z", 
+            "text": "Thanks , makes logic. can you do one on the engine?", 
+            "author": "Nemod"
+        }, 
+        {
+            "date": "2012-01-06T08:26:16.598Z", 
+            "text": "+udi aharoni just released a new video explaining the concepts of power and \ntransmission.\ufeff", 
+            "author": "Boaz Brickner"
+        }, 
+        {
+            "date": "2012-01-04T13:50:26.569Z", 
+            "text": "+udi aharoni just released a new video explaining the concepts of power and \ntransmission.\ufeff", 
+            "author": "udi aharoni"
+        }, 
+        {
+            "date": "2012-01-04T13:38:05.571Z", 
+            "text": "+udi aharoni just released a new video explaining the concepts of power and \ntransmission.\ufeff", 
+            "author": "Aviad Tsherniak"
+        }
+    ]
+}

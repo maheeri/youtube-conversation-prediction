@@ -1,0 +1,1103 @@
+{
+    "publish_date": "2015-02-26T16:00:01.000Z", 
+    "video_length": "PT7M47S", 
+    "captions": [
+        {
+            "text": "- I&#39;m actually gonna use my arm so I can high-five\nso many people, 106.", 
+            "dur": "7", 
+            "start": "0.14"
+        }, 
+        {
+            "text": "- You&#39;re gonna high-five 106 people?", 
+            "dur": "2.16", 
+            "start": "8.36"
+        }, 
+        {
+            "text": "- Yeah.", 
+            "dur": "0.34", 
+            "start": "10.52"
+        }, 
+        {
+            "text": "- Aren&#39;t you gonna get tired?", 
+            "dur": "1.74", 
+            "start": "10.86"
+        }, 
+        {
+            "text": "- No, because my robo-arm&#39;s going to do all\nthe work.", 
+            "dur": "3.459", 
+            "start": "12.6"
+        }, 
+        {
+            "text": "- Alex was born without a fully formed arm.\nA condition that affects around 1,500 babies", 
+            "dur": "4.29", 
+            "start": "16.059"
+        }, 
+        {
+            "text": "born in the U.S. every year. I&#39;m here to see\nhim get fitted with a new arm. We have come", 
+            "dur": "5.92", 
+            "start": "20.349"
+        }, 
+        {
+            "text": "a long way in the development of prosthetic\nlimbs. You might think of the earliest prosthetic", 
+            "dur": "5.83", 
+            "start": "26.269"
+        }, 
+        {
+            "text": "as maybe a peg-leg for a sailor, but it actually\ndates back much further than that. In fact,", 
+            "dur": "5.401", 
+            "start": "32.099"
+        }, 
+        {
+            "text": "over 3,000 years ago to Ancient Egypt. The\nthought was that our lives have a finite length,", 
+            "dur": "5.559", 
+            "start": "37.5"
+        }, 
+        {
+            "text": "but that the after-life is eternal. And according\nto the theology of Osiris, the body needed", 
+            "dur": "5.381", 
+            "start": "43.059"
+        }, 
+        {
+            "text": "to be complete, because the soul would leave\nthe body, in theory, and every night, come", 
+            "dur": "5.279", 
+            "start": "48.44"
+        }, 
+        {
+            "text": "back to replenish its energy in the body.\nAnd it was so important that that body be", 
+            "dur": "4.381", 
+            "start": "53.719"
+        }, 
+        {
+            "text": "full. And so there are many instances of prosthetic\nnoses, ears, toes, and limbs, which were used", 
+            "dur": "7", 
+            "start": "58.1"
+        }, 
+        {
+            "text": "in Ancient Egypt to ensure that the body was\ncomplete. But a lot of those prosthetics weren&#39;t", 
+            "dur": "5.159", 
+            "start": "66.39"
+        }, 
+        {
+            "text": "actually functional. So prosthetics developed\nfrom simply being aesthetic aids to actually", 
+            "dur": "5.621", 
+            "start": "71.549"
+        }, 
+        {
+            "text": "becoming functional. Globally, there are an\nestimated 3 million people living without", 
+            "dur": "5.83", 
+            "start": "77.17"
+        }, 
+        {
+            "text": "an upper limb. Over the last 10 to 20 years,\nwe&#39;ve seen remarkable advancement in the development", 
+            "dur": "4.899", 
+            "start": "83"
+        }, 
+        {
+            "text": "of bionic limbs. The problem with these prostheses,\nis they typically cost on the order of $20,000", 
+            "dur": "5.32", 
+            "start": "87.899"
+        }, 
+        {
+            "text": "to $100,000. Now, here at UCF, they&#39;re building\nan arm which can be used and manufactured", 
+            "dur": "7", 
+            "start": "93.219"
+        }, 
+        {
+            "text": "for much, much cheaper, like 1% of that cost.\nHow did you get inspired to design an arm", 
+            "dur": "6.94", 
+            "start": "100.31"
+        }, 
+        {
+            "text": "for children?", 
+            "dur": "1.13", 
+            "start": "107.25"
+        }, 
+        {
+            "text": "- I was on my way to work, and I was listening\nto the radio, and there was an interview with", 
+            "dur": "5.919", 
+            "start": "108.38"
+        }, 
+        {
+            "text": "the person who developed the first 3D-printed\nhand. And I went into my research lab and", 
+            "dur": "4.801", 
+            "start": "114.299"
+        }, 
+        {
+            "text": "I said I have to be a part of this, what can\nI do to help? And then we had Alex&#39;s parents", 
+            "dur": "5.479", 
+            "start": "119.1"
+        }, 
+        {
+            "text": "contact us directly saying, &quot;Can you build\nour son an arm?&quot;", 
+            "dur": "3.06", 
+            "start": "124.579"
+        }, 
+        {
+            "text": "- The arm itself is completely 3D-printed\nand so are the joints between the fingers.", 
+            "dur": "5.041", 
+            "start": "127.639"
+        }, 
+        {
+            "text": "So there&#39;s a cable which runs down the length\nof each finger and back into the hand. They", 
+            "dur": "4.79", 
+            "start": "132.68"
+        }, 
+        {
+            "text": "would normally be connected up to this servo\nmotor, here. Now the idea is to trigger this", 
+            "dur": "4.09", 
+            "start": "137.47"
+        }, 
+        {
+            "text": "motor via the arm of the person who&#39;s wearing\nit. So they would wear three electrodes on", 
+            "dur": "5.509", 
+            "start": "141.56"
+        }, 
+        {
+            "text": "their upper arm. When the person wearing the\narm squeezes their muscle, there&#39;s a little", 
+            "dur": "4.25", 
+            "start": "147.069"
+        }, 
+        {
+            "text": "electrical pulse, which triggers this motor\nto pull in 180 degrees. One pulse will close", 
+            "dur": "6.301", 
+            "start": "151.319"
+        }, 
+        {
+            "text": "the hand, like this, and then another pulse\nwill relax it, so it opens back up.", 
+            "dur": "5.25", 
+            "start": "157.62"
+        }, 
+        {
+            "text": "- Our arm provides a level of self-confidence\nto the children. Whenever they&#39;re going to", 
+            "dur": "3.39", 
+            "start": "162.87"
+        }, 
+        {
+            "text": "school there&#39;s questions asked, like &quot;what\nhappened to your arm? Did you get bit by a", 
+            "dur": "2.869", 
+            "start": "166.26"
+        }, 
+        {
+            "text": "shark or run over by a car or something?&quot;\nAfter we gave them the arm it quickly changed", 
+            "dur": "3.701", 
+            "start": "169.129"
+        }, 
+        {
+            "text": "to &quot;whoa, that&#39;s a cool arm! How does it work?\nWhere did you get it?&quot;", 
+            "dur": "2.989", 
+            "start": "172.83"
+        }, 
+        {
+            "text": "- I like to do stuff with my arm. Like, pick\nup stuff, hold my paper when I&#39;m drawin&#39; I", 
+            "dur": "6.261", 
+            "start": "175.819"
+        }, 
+        {
+            "text": "actually bring it to school so I can actually\ndo other stuff.", 
+            "dur": "4.27", 
+            "start": "182.08"
+        }, 
+        {
+            "text": "- 3D printing is relatively new technology\nbut it provides us a low-cost solution to", 
+            "dur": "5.389", 
+            "start": "186.35"
+        }, 
+        {
+            "text": "be able to create things so we can print something\nout and say, it doesn&#39;t work, and just redesign", 
+            "dur": "3.871", 
+            "start": "191.739"
+        }, 
+        {
+            "text": "it and print it out again the next day. We\nproduce our arm for just about $300 now, whereas", 
+            "dur": "3.879", 
+            "start": "195.61"
+        }, 
+        {
+            "text": "some of the prosthetics on the market can\ngo upwards of $40,000. Insurance companies", 
+            "dur": "4", 
+            "start": "199.489"
+        }, 
+        {
+            "text": "typically don&#39;t want to pay for it for kids\nbecause every six months, they&#39;re going to", 
+            "dur": "3.271", 
+            "start": "203.489"
+        }, 
+        {
+            "text": "have to replace it as the kid grows. But this\nallows us to be able to reproduce an arm for", 
+            "dur": "4.63", 
+            "start": "206.76"
+        }, 
+        {
+            "text": "about maybe $100 and just print out a new\none.", 
+            "dur": "2.35", 
+            "start": "211.39"
+        }, 
+        {
+            "text": "- How important is the aesthetic design, the\nartistic design of the arm?", 
+            "dur": "3.559", 
+            "start": "213.74"
+        }, 
+        {
+            "text": "- We thought kids just wanted to blend in,\nto feel normal, but we found it&#39;s much more", 
+            "dur": "4.061", 
+            "start": "217.299"
+        }, 
+        {
+            "text": "about personal identity and expression.", 
+            "dur": "1.98", 
+            "start": "221.36"
+        }, 
+        {
+            "text": "- We want to make sure the kid is expressing\nhimself, or herself, with the arm. Self expression", 
+            "dur": "4.25", 
+            "start": "223.34"
+        }, 
+        {
+            "text": "for a kid is very important.", 
+            "dur": "1.249", 
+            "start": "227.59"
+        }, 
+        {
+            "text": "- We have one sleeve right here. This one\nis actually themed around the Disney movie", 
+            "dur": "3.26", 
+            "start": "228.839"
+        }, 
+        {
+            "text": "Tangled, we provided this for a little girl\nnamed Madeline.", 
+            "dur": "2.051", 
+            "start": "232.099"
+        }, 
+        {
+            "text": "- The design is so simple that it is easy\nto print out on location and put together", 
+            "dur": "4.399", 
+            "start": "234.15"
+        }, 
+        {
+            "text": "even with very little technical knowledge.\nAnd also the functionality of the design,", 
+            "dur": "4.02", 
+            "start": "238.549"
+        }, 
+        {
+            "text": "with only three electrodes actuating the one\nservo, make it so that people can learn to", 
+            "dur": "4.76", 
+            "start": "242.569"
+        }, 
+        {
+            "text": "use it very quickly. And that, I think, is\nwhat makes it so powerful.", 
+            "dur": "3.351", 
+            "start": "247.329"
+        }, 
+        {
+            "text": "- Think I&#39;ll have any luck there? 50/50?", 
+            "dur": "2.62", 
+            "start": "250.68"
+        }, 
+        {
+            "text": "- 50/50. Alright!", 
+            "dur": "1.09", 
+            "start": "253.3"
+        }, 
+        {
+            "text": "- Look at that, I can give it to you.", 
+            "dur": "4.93", 
+            "start": "254.39"
+        }, 
+        {
+            "text": "- Yup.", 
+            "dur": "0.55", 
+            "start": "259.32"
+        }, 
+        {
+            "text": "- I&#39;m really excited right now about trying\nit out, and how to do summersaults, and do", 
+            "dur": "5.68", 
+            "start": "259.87"
+        }, 
+        {
+            "text": "some things I&#39;ve never done before. I want\nto play video games with it and hug with two", 
+            "dur": "5.38", 
+            "start": "265.55"
+        }, 
+        {
+            "text": "hands.", 
+            "dur": "0.25", 
+            "start": "270.93"
+        }, 
+        {
+            "text": "- How have you been able to crack this problem\nthat other people haven&#39;t before?", 
+            "dur": "4.85", 
+            "start": "271.01"
+        }, 
+        {
+            "text": "- We have an incredible team of very diverse\nbackgrounds. And so bringing all of our common", 
+            "dur": "5.86", 
+            "start": "275.86"
+        }, 
+        {
+            "text": "experience together, we were able to find\nthis type of solution. Our main base is in", 
+            "dur": "4.67", 
+            "start": "281.72"
+        }, 
+        {
+            "text": "Orlando, Florida at the University of Central\nFlorida. We have our designers in California,", 
+            "dur": "5.83", 
+            "start": "286.39"
+        }, 
+        {
+            "text": "I&#39;m here in Germany, and everywhere in between,\nwe have people trying to help us and support", 
+            "dur": "5.4", 
+            "start": "292.22"
+        }, 
+        {
+            "text": "our project. Although it&#39;s challenging, we&#39;re\nmaking it work.", 
+            "dur": "2.02", 
+            "start": "297.62"
+        }, 
+        {
+            "text": "- A lot of our communication comes through\nMicrosoft OneNote, and we use this product", 
+            "dur": "4.86", 
+            "start": "299.64"
+        }, 
+        {
+            "text": "to be able to share information through each\nother, specifically since Albert is in Germany", 
+            "dur": "3.94", 
+            "start": "304.5"
+        }, 
+        {
+            "text": "so that&#39;s a whole ocean away.", 
+            "dur": "1.51", 
+            "start": "308.44"
+        }, 
+        {
+            "text": "- [Albert] I think the best part of OneNote\nis that you can edit it from anywhere in the", 
+            "dur": "2.85", 
+            "start": "309.95"
+        }, 
+        {
+            "text": "world and have it simultaneously update anyone\nelse on the project. So being able to get", 
+            "dur": "4.8", 
+            "start": "312.8"
+        }, 
+        {
+            "text": "updates from my team and see the progress\nthey&#39;re making, enables me to help do my job", 
+            "dur": "3.82", 
+            "start": "317.6"
+        }, 
+        {
+            "text": "here in Germany.", 
+            "dur": "1.1", 
+            "start": "321.42"
+        }, 
+        {
+            "text": "- What is the Collective Project?", 
+            "dur": "1.369", 
+            "start": "322.52"
+        }, 
+        {
+            "text": "- Microsoft is looking for students who are\nwanting to impact their community with great", 
+            "dur": "4.511", 
+            "start": "323.889"
+        }, 
+        {
+            "text": "ideas. And they&#39;re looking to rally their\ncommunities and the world around them to help", 
+            "dur": "4.45", 
+            "start": "328.4"
+        }, 
+        {
+            "text": "bring it to life.", 
+            "dur": "0.91", 
+            "start": "332.85"
+        }, 
+        {
+            "text": "- Our biggest needs right now is one, we need\nfunding. We need more donations to be able", 
+            "dur": "5.02", 
+            "start": "333.76"
+        }, 
+        {
+            "text": "to make this a reality and make these children&#39;s\ndreams come true.", 
+            "dur": "3.46", 
+            "start": "338.78"
+        }, 
+        {
+            "text": "- You want to provide free arms to every kid\nwho needs one.", 
+            "dur": "2.94", 
+            "start": "342.24"
+        }, 
+        {
+            "text": "- Absolutely, we don&#39;t feel like people should\nprofit from a child without an arm.", 
+            "dur": "2.66", 
+            "start": "345.18"
+        }, 
+        {
+            "text": "- We&#39;re hoping for people that jump on board\nand help develop arms for their local area,", 
+            "dur": "4.9", 
+            "start": "347.84"
+        }, 
+        {
+            "text": "if they want to help with design, they&#39;re\nmore than welcome to join our project and", 
+            "dur": "3.99", 
+            "start": "352.74"
+        }, 
+        {
+            "text": "be designing arms. They can be printing our\narms, and helping fit them for their local", 
+            "dur": "5.1", 
+            "start": "356.73"
+        }, 
+        {
+            "text": "community, or they can just send us advice\non how to best tailor these for the future.", 
+            "dur": "4.66", 
+            "start": "361.83"
+        }, 
+        {
+            "text": "We can use all the help we can get.", 
+            "dur": "1.7", 
+            "start": "366.49"
+        }, 
+        {
+            "text": "- Where do you want to see the Limbitless\nArm go?", 
+            "dur": "2.81", 
+            "start": "368.19"
+        }, 
+        {
+            "text": "- My hope for the future is to be able to\nincrease the functionality of the arm to encompass", 
+            "dur": "4.22", 
+            "start": "371"
+        }, 
+        {
+            "text": "maybe an elbow or even an upper limb socket.\nAnd then be able to produce this on a larger", 
+            "dur": "6.68", 
+            "start": "375.22"
+        }, 
+        {
+            "text": "scale for as many children in the world who\nneed it.", 
+            "dur": "2.88", 
+            "start": "381.9"
+        }, 
+        {
+            "text": "- As each child comes to us, we really understand\nand appreciate the need for the readily adaptable,", 
+            "dur": "5.6", 
+            "start": "384.78"
+        }, 
+        {
+            "text": "readily deployable solution to each individual\nand unique biology.", 
+            "dur": "4.71", 
+            "start": "390.38"
+        }, 
+        {
+            "text": "- We&#39;re trying to get an elbow going for Alex\nso he has not only hand movement but he can", 
+            "dur": "6.31", 
+            "start": "395.09"
+        }, 
+        {
+            "text": "also move the elbow as well. To overcome that\nwe have to make this also bigger to be able", 
+            "dur": "4.61", 
+            "start": "401.4"
+        }, 
+        {
+            "text": "to put another servo in there. We like ideas.\nNot just, this is our way this is how it has", 
+            "dur": "5.54", 
+            "start": "406.01"
+        }, 
+        {
+            "text": "to be. Anything&#39;s possible. We like to broaden\nour field as well.", 
+            "dur": "4.4", 
+            "start": "411.55"
+        }, 
+        {
+            "text": "- I think we&#39;re just at the beginning of something\nreally great and I hope that with a little", 
+            "dur": "4.01", 
+            "start": "415.95"
+        }, 
+        {
+            "text": "bit of help we&#39;re going to be able to take\nthis to the UN and UNICEF and really impact", 
+            "dur": "3.44", 
+            "start": "419.96"
+        }, 
+        {
+            "text": "children all over the world.", 
+            "dur": "1.44", 
+            "start": "423.4"
+        }, 
+        {
+            "text": "- Thank you guys for making this big project\nfor me.", 
+            "dur": "3.21", 
+            "start": "424.84"
+        }, 
+        {
+            "text": "- That&#39;s fantastic, thank you so much for\nchatting with me.", 
+            "dur": "2.79", 
+            "start": "428.05"
+        }, 
+        {
+            "text": "- Thank you!", 
+            "dur": "1.14", 
+            "start": "430.84"
+        }, 
+        {
+            "text": "- Ah, haha, you&#39;re very welcome. This video\nwas supported by Microsoft OneNote. In their", 
+            "dur": "5.47", 
+            "start": "431.98"
+        }, 
+        {
+            "text": "Collective Project, they have identified student\ngroups around the country who are working", 
+            "dur": "4.8", 
+            "start": "437.45"
+        }, 
+        {
+            "text": "together, using their software in order to\nchange the world. And the whole point of the", 
+            "dur": "4.11", 
+            "start": "442.25"
+        }, 
+        {
+            "text": "Collective Project is to bring people together\nand you can get involved as well by clicking", 
+            "dur": "3.98", 
+            "start": "446.36"
+        }, 
+        {
+            "text": "on the link in the description, you could\nhelp by providing new designs for arms, by", 
+            "dur": "4.53", 
+            "start": "450.34"
+        }, 
+        {
+            "text": "helping with software or even 3D printing\nin your own community. And that will help", 
+            "dur": "4.43", 
+            "start": "454.87"
+        }, 
+        {
+            "text": "get more of these arms out to the kids who\nneed them. So, I really want you to get involved,", 
+            "dur": "4.83", 
+            "start": "459.3"
+        }, 
+        {
+            "text": "check out the link in the description.", 
+            "dur": "1.59", 
+            "start": "464.13"
+        }
+    ], 
+    "title": "An Affordable 3D-Printed Arm", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04rk8g", 
+        "/m/0c5mq"
+    ], 
+    "number_views": 793208, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T11:24:31.249Z", 
+            "text": "This is really nice, I love it.\nThat's why I'm learning design, people always forget about those people \nwith disabilities.\nWhen a developper puts a photo on website and a person with viewing \nproblems hears \"picture of a shark\" they don't think about that this person \nmight never have seen a shark.\nThat's why I spend at least half of my time when coding to make it easier \nto understand and use for people with these disabilities.\nI don't care if it takes twice the time, if I was the one visiting the \nwebsite I would like to know that sort of things.\n(Putting alt tags describing pictures, making the font easily readable for \nelders, making  the ui easy enough for a child to understand, not putting \nflashing colors for epilepsy,...) \nThat's what makes a good design. A design that WORKS for everyone.\nNot a graphically pleasing website for some.\ufeff", 
+            "author": "Lemon Chief"
+        }, 
+        {
+            "date": "2015-05-10T05:38:13.723Z", 
+            "text": "", 
+            "author": "jidhan nair"
+        }, 
+        {
+            "date": "2015-05-09T22:41:31.026Z", 
+            "text": "this made me think of how the arm works... what if you could monitor the \nnerve impulses closer so that you could make the servo have various \noutputs? Maybe a shorter pulse could close 3 fingers and a longer pulse \ncould close the whole hand and so on, the limiting factors for this are the \ninformation the sensor gets from the nerve and the size of the servo's if \nboth could be improved the hand could do way more.... i love this project, \nmakes me want to be an engineer!\ufeff", 
+            "author": "Toamastar15"
+        }, 
+        {
+            "date": "2015-05-06T20:36:46.483Z", 
+            "text": "christians be like \"that's so unnatural. god made you without an arm to be \nwithout an arm. it's an abomination. you're going to hell.\"\ufeff", 
+            "author": "GoT FAN"
+        }, 
+        {
+            "date": "2015-05-06T14:02:23.374Z", 
+            "text": "#PillolediScienza: il futuro della #Bio-#Robotica potrebbero essere le \nstampanti 3D. Vediamo come hanno aiutato Alex\ufeff", 
+            "author": "Scuola Superiore di Catania"
+        }, 
+        {
+            "date": "2015-05-06T03:28:59.705Z", 
+            "text": "This is awesome. #ForOurKids  #ForTheFuture\ufeff", 
+            "author": "Jim Chan"
+        }, 
+        {
+            "date": "2015-05-05T18:55:59.740Z", 
+            "text": "If they're working with Microsoft, why don't they donate the money? It \nwould be a great PR move, and they have enough money. M$ shouldn't be \nprofiting from a child's disability.\ufeff", 
+            "author": "Brandon Craft"
+        }, 
+        {
+            "date": "2015-05-04T23:40:19.589Z", 
+            "text": "Why would anyone dislike this video?\ufeff", 
+            "author": "Daniel Martin"
+        }, 
+        {
+            "date": "2015-05-02T14:46:00.821Z", 
+            "text": "What's up with this product placement for Microsoft? Boo.\ufeff", 
+            "author": "Oscar"
+        }, 
+        {
+            "date": "2015-05-02T05:57:39.866Z", 
+            "text": "Robert Downey Jr. has given a Iron man Bionic arm to this kid.\ufeff", 
+            "author": "TheAlkaloid"
+        }, 
+        {
+            "date": "2015-05-01T06:54:24.793Z", 
+            "text": "they could just get an arm from a kid that died.\ufeff", 
+            "author": "D3fALtZz Th3 G0d"
+        }, 
+        {
+            "date": "2015-04-29T10:21:13.135Z", 
+            "text": "*insert Youtube comment about selling out*\n\n(Seriously, you people need to stop freaking out and be charitable)\ufeff", 
+            "author": "KathTea Katastrophy - Corsetiere & Model"
+        }, 
+        {
+            "date": "2015-04-28T16:48:08.506Z", 
+            "text": "well that had me start crying at work faith in humanity restored\ufeff", 
+            "author": "Chas Phyle"
+        }, 
+        {
+            "date": "2015-04-28T04:30:55.560Z", 
+            "text": "This is nice an affordable 3D-printed arm\n\nI saw this video today, you where a cross the street from my work :(\ufeff", 
+            "author": "moubat86"
+        }, 
+        {
+            "date": "2015-04-27T20:08:04.875Z", 
+            "text": "I've seen a few vids about Albert and his team, and the work they are doing \nto make prosthetics more easily available to the kids that need them, and \nI've literally been moved to tears by what they are doing.  \n\nAlbert and co., keep doing what you are doing. You are all amazing.  Best \nwishes x\ufeff", 
+            "author": "Katherine Cavill"
+        }, 
+        {
+            "date": "2015-04-26T16:30:00.765Z", 
+            "text": "4:25 \"Be able to hug with two hands\". :(\ufeff", 
+            "author": "gagomand"
+        }, 
+        {
+            "date": "2015-04-25T10:46:19.992Z", 
+            "text": "Couldn't the military use an EMP on soldiers that have those? Well if they \ndo, they might not allow people with robotic limbs\ufeff", 
+            "author": "NozzaDaClown"
+        }, 
+        {
+            "date": "2015-04-23T17:11:13.382Z", 
+            "text": "NEIN?\ufeff", 
+            "author": "Minzkraut"
+        }, 
+        {
+            "date": "2015-04-22T12:00:39.899Z", 
+            "text": "Changing a chair into anything you eant\ufeff", 
+            "author": "Caleb Lunt"
+        }, 
+        {
+            "date": "2015-04-22T11:57:29.473Z", 
+            "text": "Could you change a atomic structure of a physical object to become what you \nwant it to. By a computer or smartphone without using a 3rd printer\ufeff", 
+            "author": "Caleb Lunt"
+        }, 
+        {
+            "date": "2015-04-22T11:42:58.864Z", 
+            "text": "I'd have liked to see more of the kids using their arms. The footage which \nwas show seemed to show a clumsy, out of proportion prosthesis. However, I \nthink it is a step in the right direction.\ufeff", 
+            "author": "tasmedic"
+        }, 
+        {
+            "date": "2015-04-20T20:08:18.765Z", 
+            "text": "Be advanced*\ufeff", 
+            "author": "KillerX4ssassin9 99"
+        }, 
+        {
+            "date": "2015-04-20T20:07:38.117Z", 
+            "text": "Soon its ganna beadvanced waefare 3d printing\ufeff", 
+            "author": "KillerX4ssassin9 99"
+        }, 
+        {
+            "date": "2015-04-20T05:05:31.279Z", 
+            "text": "Check out this video on YouTube:\ufeff", 
+            "author": "Angel Rivera"
+        }, 
+        {
+            "date": "2015-04-20T01:36:54.437Z", 
+            "text": "3d printing is the future\ufeff", 
+            "author": "Fat Cat Sammy"
+        }, 
+        {
+            "date": "2015-04-19T19:08:14.008Z", 
+            "text": "All people that disliked this need to lose their arm and see how it feels\ufeff", 
+            "author": "SirTrsten"
+        }, 
+        {
+            "date": "2015-04-18T11:34:06.834Z", 
+            "text": "..but then hackers will find a way to control these arms, and use them to \ndo something bad, because you know, some people are jerks...\ufeff", 
+            "author": "Haker's Gaming Channel"
+        }, 
+        {
+            "date": "2015-04-18T07:57:47.623Z", 
+            "text": "Ooh look it's an advert too...good project but microsoft suck\ufeff", 
+            "author": "robleake"
+        }, 
+        {
+            "date": "2015-04-17T07:20:07.423Z", 
+            "text": "Shameless one note plug. Still cool video.\ufeff", 
+            "author": "Awhiteguy"
+        }, 
+        {
+            "date": "2015-04-17T04:29:49.522Z", 
+            "text": "5:45 This is an absolutely ridicules concept. And I'm saying this as a \nperson who grew up as an amputee. Why has profit become such a taboo thing? \nThere are large segments of our economy that exist to profit from the \nmisfeature of others. Amputees need prosthetic devices that fit and \nfunction well. To make these requires a great deal of skill and training. I \nunderstand that people need to maker a living.\ufeff", 
+            "author": "Eric Taylor"
+        }, 
+        {
+            "date": "2015-04-16T14:25:40.439Z", 
+            "text": "Watch this video on 0.5 speed\ufeff", 
+            "author": "\u2605 Cuddlepuff \u2605"
+        }, 
+        {
+            "date": "2015-04-16T12:43:59.107Z", 
+            "text": "\nGreat video, \nThis should be translated into different languages so that more people can \nhelp :) \ufeff", 
+            "author": "Person101"
+        }, 
+        {
+            "date": "2015-04-15T23:03:35.523Z", 
+            "text": "I don't understand why people dislike this honestly\ufeff", 
+            "author": "SlagMaster Coon"
+        }, 
+        {
+            "date": "2015-04-15T03:11:10.610Z", 
+            "text": "That Alex kid was the same guy who got an iron man arm replica from Robert \nDowney Jr...\ufeff", 
+            "author": "Deneisha Dennis"
+        }, 
+        {
+            "date": "2015-04-14T18:31:55.146Z", 
+            "text": "Stratasys dimension 768 bst\ufeff", 
+            "author": "iCloud Henshaw"
+        }, 
+        {
+            "date": "2015-04-14T06:49:02.837Z", 
+            "text": "\"We don't feel like people should profit from a child without an arm.\"\n\ngreat initiative :)\ufeff", 
+            "author": "Sajeeb Ahmed"
+        }, 
+        {
+            "date": "2015-04-13T01:52:07.730Z", 
+            "text": "I couldn't watch 5:03-5:22 since I have AdBlock.\ufeff", 
+            "author": "Rodrigo Castellon"
+        }, 
+        {
+            "date": "2015-04-12T22:42:54.289Z", 
+            "text": "\"...I want to hug with two hands.\" Wow, that was beatifull!\ufeff", 
+            "author": "TheHenrikAT"
+        }, 
+        {
+            "date": "2015-04-11T21:26:13.817Z", 
+            "text": "Subscribed!\ufeff", 
+            "author": "oOcitizenOo"
+        }, 
+        {
+            "date": "2015-04-11T14:08:06.660Z", 
+            "text": "", 
+            "author": "Lord Ensker"
+        }, 
+        {
+            "date": "2015-04-10T00:40:01.822Z", 
+            "text": "You guys are awesome!!!!\ufeff", 
+            "author": "Arias"
+        }, 
+        {
+            "date": "2015-04-08T00:24:53.871Z", 
+            "text": "388 people must only have one 1 leg...\ufeff", 
+            "author": "Just a Cheeto"
+        }, 
+        {
+            "date": "2015-04-08T00:19:37.775Z", 
+            "text": "my interest changed as soon as i saw those chairs\ufeff", 
+            "author": "Just a Cheeto"
+        }, 
+        {
+            "date": "2015-04-07T21:09:13.342Z", 
+            "text": "I'm not sure but this guy could get much more money for his concept and his \nidea, which many people do, this guy is good guy and only price is price \nfor manufacturing that's my guess on why it is cheap. And in my opinion \nthis is very good thing and i love that people can get something like this. \n(Sorry for my English)\ufeff", 
+            "author": "Miljan Petrovic"
+        }, 
+        {
+            "date": "2015-04-07T20:35:29.992Z", 
+            "text": "Wait.. RDJ gave that kid a Iron Man arm right?\ufeff", 
+            "author": "izze38"
+        }, 
+        {
+            "date": "2015-04-06T17:57:05.285Z", 
+            "text": "When this goes commercial I'm going to buy myself two extra arms so I don't \nhave to pause to eat.\ufeff", 
+            "author": "Disinf3ctant"
+        }, 
+        {
+            "date": "2015-04-06T17:27:53.449Z", 
+            "text": "This is amazing\ufeff", 
+            "author": "TheSourAppleProject"
+        }, 
+        {
+            "date": "2015-04-05T14:58:12.572Z", 
+            "text": "I thought he got the iron man arm?\ufeff", 
+            "author": "Green206"
+        }, 
+        {
+            "date": "2015-04-04T16:27:40.887Z", 
+            "text": "Folks, income has to come from somewhere, and as nice as the Audible \nsponsorship was, there's only so many people you can refer, ya know?\n\nI love these videos and I'm totally cool with any sort of sponsorship. \nPlus, at least it's transparent :)\ufeff", 
+            "author": "EssThree"
+        }, 
+        {
+            "date": "2015-04-04T12:35:00.877Z", 
+            "text": "this like is for the robotic arms \ufeff", 
+            "author": "YoBarett"
+        }, 
+        {
+            "date": "2015-04-04T00:54:58.190Z", 
+            "text": "Can I attach this to my penis?\ufeff", 
+            "author": "Miku is 10/10"
+        }, 
+        {
+            "date": "2015-04-03T16:18:40.042Z", 
+            "text": "SKYPE\u2122\ufeff", 
+            "author": "Andr\u00e1s Fogarasi"
+        }, 
+        {
+            "date": "2015-04-01T23:40:33.301Z", 
+            "text": "Endless possibilities. Awesome.\ufeff", 
+            "author": "K10 Official"
+        }, 
+        {
+            "date": "2015-04-01T21:04:37.594Z", 
+            "text": "I really want one of these\ufeff", 
+            "author": "OneHandedWarrior | The One-Handed PvPer"
+        }, 
+        {
+            "date": "2015-04-23T02:16:34.394Z", 
+            "text": "DUUUDEEE, retroo, remember me from your old server? Cvaldes? Miss the crap \nout of you", 
+            "author": "Tuxedo Lizard"
+        }, 
+        {
+            "date": "2015-04-20T00:26:19.489Z", 
+            "text": "Do you really only have one hams or is this some kind of sick joke?", 
+            "author": "Thomas Stein"
+        }, 
+        {
+            "date": "2015-04-06T19:35:51.207Z", 
+            "text": "+OneHandedWarrior | The One-Handed PvPer well you do have one hand so you \nshould have it!", 
+            "author": "Ant Lail"
+        }, 
+        {
+            "date": "2015-04-01T17:07:03.247Z", 
+            "text": "Anybody that is mad about an ad, go fund the project with your own money \nbefore posting your \"this is bad because of ads\" crap. I bet 99% of you \ndon't donate even 1 penny a year, but are so entitled to talk badly about \nan ad that is helping to make this happen and help kids you don't help \nyourself.\ufeff", 
+            "author": "thaevilgenius"
+        }, 
+        {
+            "date": "2015-04-01T12:39:45.015Z", 
+            "text": "can i has death robot now?\ufeff", 
+            "author": "sjipsdew"
+        }, 
+        {
+            "date": "2015-03-30T23:33:27.558Z", 
+            "text": "May God bless Alex\ufeff", 
+            "author": "Caleb Harris"
+        }, 
+        {
+            "date": "2015-03-30T17:25:36.772Z", 
+            "text": "", 
+            "author": "Amit Kumar"
+        }, 
+        {
+            "date": "2015-03-29T19:41:10.247Z", 
+            "text": "So... When will automail catch on?\ufeff", 
+            "author": "Phazonviper"
+        }, 
+        {
+            "date": "2015-03-29T01:28:08.897Z", 
+            "text": "Check out the book, \"Not Impossible The Art and Joy of Doing What Couldn't \nBe Done\" for another great story about 3D printed arms.\ufeff", 
+            "author": "Michael Enquist"
+        }, 
+        {
+            "date": "2015-03-28T05:27:36.825Z", 
+            "text": "Re funding; Sounds like MS is already involved. Mr Gates is certainly \ncapable of funding sub $500 prosthetics for children. Definitely a worthy \ncause. Let's all try to help.\ufeff", 
+            "author": "ThePrivateJoker"
+        }, 
+        {
+            "date": "2015-03-28T02:25:32.439Z", 
+            "text": "Aww , so sa......Oh nope, it's product placement for Windows.\ufeff", 
+            "author": "David Noreika"
+        }, 
+        {
+            "date": "2015-03-28T01:25:41.609Z", 
+            "text": "Parab\u00e9ns, excelente forma de apresentar novas ideias e vis\u00f5es. Continue \napresentando mas programas assim.\nCongratulations, great way to introduce new ideas and visions. Continue \npresenting but such programs.\ufeff", 
+            "author": "lineuve santos"
+        }, 
+        {
+            "date": "2015-03-27T22:29:36.731Z", 
+            "text": "For the FMA fans, here's the start of Auto Mail\ufeff", 
+            "author": "Quint Hubbard"
+        }, 
+        {
+            "date": "2015-03-27T13:39:40.786Z", 
+            "text": "As an aspiring biomedical engineer, this video puts me on hype mode\ufeff", 
+            "author": "Zataka Zan"
+        }, 
+        {
+            "date": "2015-03-27T11:05:09.538Z", 
+            "text": "This warms my heart :)\ufeff", 
+            "author": "theninjas150"
+        }, 
+        {
+            "date": "2015-03-27T00:42:22.052Z", 
+            "text": "\"We don't feel like people should profit from a child without an arm\". \ufeff", 
+            "author": "ValariusXT"
+        }, 
+        {
+            "date": "2015-03-25T09:18:45.332Z", 
+            "text": "+7Risen7Phoenix7 \ufeff", 
+            "author": "PockASqueeno"
+        }, 
+        {
+            "date": "2015-03-25T08:07:41.210Z", 
+            "text": "There's nothing wrong with profit. Even off of kids with no arms. Profit \nincentives will drive more people to spend more time on solving the problem \nwhich will produce better solutions.\ufeff", 
+            "author": "Jacob Burrell (Jake)"
+        }, 
+        {
+            "date": "2015-03-25T04:16:49.951Z", 
+            "text": "I think the product placement was very tasteful. if people want quality \nvideos on youtube like this one, it has to be monetized somehow. keep up \nthe good work! \ufeff", 
+            "author": "Dirks 2.0"
+        }, 
+        {
+            "date": "2015-03-25T01:59:15.394Z", 
+            "text": "This is the reason I love the scientific spirit: it's all about \ncollaboration and union within the species and with nature. If only we \ndidn't live in a world where progress was limited by money (or a lack of \nit). But in some ways, that makes the endeavour all the more commendable \nand inspiring. Thanks for this :)\ufeff", 
+            "author": "Umamah Yusufi"
+        }, 
+        {
+            "date": "2015-03-25T01:07:12.683Z", 
+            "text": "\"We don't think that anyone should profit off a kid who is missing an arm.\" \nThat quote right there restored a little hope in humanity. It is amazing \nwhat can be accomplished when people stop being so damn greedy.\ufeff", 
+            "author": "DanTheSasquatch"
+        }, 
+        {
+            "date": "2015-03-24T20:51:43.053Z", 
+            "text": "I have Faith in Humanity. \ufeff", 
+            "author": "Truthseeker182"
+        }, 
+        {
+            "date": "2015-03-24T00:39:38.000Z", 
+            "text": "7:20 \"this video was sponsored by Microsoft.\"\n\n-_-\n\nOF COURSE IT WAS!! They spent like 45 seconds just talking about how great \nMicrosoft was.\ufeff", 
+            "author": "pollytheparrot46"
+        }, 
+        {
+            "date": "2015-03-23T17:35:55.922Z", 
+            "text": "Some people develop 3D printed guns while others produce 3D printed \nprosthetics.\nI know which contribution to the world I'd be happiest to make.\ufeff", 
+            "author": "TheUnswatableMidge"
+        }, 
+        {
+            "date": "2015-03-23T14:54:42.995Z", 
+            "text": "Who else wants to see Wyatt get to play those video games?\ufeff", 
+            "author": "YomTheSupreme"
+        }, 
+        {
+            "date": "2015-03-23T13:52:09.699Z", 
+            "text": "\"We don't feel like people should profit from a child without an arm.\" \nYeah, it would be awful for someone helping children to also benefit from \nit. Smh.\ufeff", 
+            "author": "True Valor"
+        }, 
+        {
+            "date": "2015-03-23T09:26:12.516Z", 
+            "text": "", 
+            "author": "Fernando Jos\u00e9 Lobato Gozza"
+        }, 
+        {
+            "date": "2015-03-23T01:22:37.026Z", 
+            "text": "", 
+            "author": "Nicholas \u201cLB\u201d Braden"
+        }, 
+        {
+            "date": "2015-03-23T02:11:06.364Z", 
+            "text": "cool!", 
+            "author": "Scott Braden"
+        }, 
+        {
+            "date": "2015-03-22T21:16:03.000Z", 
+            "text": "It's sad to think that the leading cause of the high cost of artificial \nlimbs is probably just lack of demand. I sincerely doubt that it costs any \nportion of 20-100k to make them (excluding R&D, which I'd have a really \nhard time believing adds 10s of thousands of dollars to the cost of the \nindividual units). As a result, lots of low-income people are stuck without \nor have to use really shitty cheap ones. It also annoys me how little \neffort seems to go into aesthetics, for a product that costs a significant \nportion of the average US income. Hopefully this technology will solve some \nof that...\ufeff", 
+            "author": "statikreg"
+        }, 
+        {
+            "date": "2015-03-22T16:23:31.148Z", 
+            "text": "Veritasium is the kindest youtuber ever. Too bad he doesnt reply to \ncomments;(\ufeff", 
+            "author": "Jakub Wasilewski"
+        }, 
+        {
+            "date": "2015-03-22T15:05:03.057Z", 
+            "text": "I doubt that ancient Egypt kept the body whole .... because, they, too, \nmutilated men by cutting their foreskines off :/ (what a double standers)\ufeff", 
+            "author": "Tender Heart"
+        }, 
+        {
+            "date": "2015-03-22T13:35:14.997Z", 
+            "text": "Welp, I cant donate myself so I guess I'm helping already by giving views \nto this video and the ad (?)\ufeff", 
+            "author": "Efr\u00e9n Alonso"
+        }, 
+        {
+            "date": "2015-03-22T06:12:33.185Z", 
+            "text": "I know a team of 3 students from ASU who did the same thing last year... \nIt's amazing what technology enables us to create \ufeff", 
+            "author": "IizUname"
+        }, 
+        {
+            "date": "2015-03-21T22:20:19.070Z", 
+            "text": "\"I don't feel like people should profit from a child that doesn't have an \narm.\" dem words don made mi cry.\ufeff", 
+            "author": "Zackery Olson"
+        }, 
+        {
+            "date": "2015-03-21T21:14:08.794Z", 
+            "text": "Go Knights! \ufeff", 
+            "author": "Alexis San Javier"
+        }, 
+        {
+            "date": "2015-03-21T15:59:39.256Z", 
+            "text": "ABSOLUTELY ARMAZING!\ufeff", 
+            "author": "jermaine thomas"
+        }, 
+        {
+            "date": "2015-03-21T15:59:03.336Z", 
+            "text": "FANTASIC!\ufeff", 
+            "author": "jermaine thomas"
+        }, 
+        {
+            "date": "2015-03-21T08:21:51.207Z", 
+            "text": "That kid recently got an Iron Man arm with a light in it. He even got it \nfrom Robert Downey Jr. AWESOME right?\ufeff", 
+            "author": "Michiel Berghuis (Michiel666)"
+        }, 
+        {
+            "date": "2015-03-20T16:51:55.106Z", 
+            "text": "Such a sweetly done video! &lt;3", 
+            "author": "Terri Jones"
+        }, 
+        {
+            "date": "2015-03-20T16:42:53.322Z", 
+            "text": "*\"Little did the Students at UCF know, that one of these children would one \nday succeed in 3D-printing a perfect replica of a Cthulhu arm and came to \nbe known as... uh... Doctor-Professor Cthulhu-arm-Man, who shortly after \nconquered the entire World!\"*\n\nJokes aside, this idea is absolutely wonderful and almost makes me sad that \nI'm not missing any limbs *(no, I'm not going to go lose one deliberately, \npeople),* so I could custom design and print cool-looking limbs, haha.\nHow sturdy is the material? Probably decent, but I'd probably still use the \nprint as a mould and pimp it out with carbon- or kevlar fibreglass and \nresin. Surely bumping the cost a bit, but still nowhere near the $20k-100k\ufeff", 
+            "author": "Daniel Renard"
+        }, 
+        {
+            "date": "2015-03-20T15:45:10.410Z", 
+            "text": "An Affordable 3D-Printed Arm for kids in need. This is great work | YouTube\ufeff", 
+            "author": "Jennifer Foehner Wells"
+        }, 
+        {
+            "date": "2015-03-20T06:31:48.771Z", 
+            "text": "I use Google drive for share projects. But in general this video was cool I \nguess. I would have liked it if they could have been more upfront with this \nbeing an ad.\ufeff", 
+            "author": "evilgato95"
+        }, 
+        {
+            "date": "2015-03-20T05:28:14.491Z", 
+            "text": "I watched the whole video just to see the boy high five everyone, but I \ndidn't get to D'x\ufeff", 
+            "author": "GameSlave360"
+        }, 
+        {
+            "date": "2015-03-20T04:38:46.464Z", 
+            "text": "An Affordable 3D-Printed Arm: https://youtu.be/AcLh-aSUdx0\ufeff", 
+            "author": "Remy H."
+        }, 
+        {
+            "date": "2015-03-19T23:59:07.916Z", 
+            "text": "why would leave such a negative rating on something this intuitive an \namazing?\ufeff", 
+            "author": "Niko Pap"
+        }, 
+        {
+            "date": "2015-03-19T23:13:51.925Z", 
+            "text": "An Affordable 3D-Printed Arm\ufeff", 
+            "author": "Luis Cordoba Jr."
+        }, 
+        {
+            "date": "2015-03-19T00:35:09.831Z", 
+            "text": "\"This video was supported by Microsoft OneNote.\" Yeah, I kinda noticed that \nin the middle, there. Not quite as subtle as you were maybe aiming for. \nEspecially when a couple of seconds later, the guy says that it would be \nwrong to profit from a disabled child...\ufeff", 
+            "author": "beeble2003"
+        }, 
+        {
+            "date": "2015-03-22T23:41:10.592Z", 
+            "text": "You do realise that they aren't going to profit. It was intended to try and \nget donations to support this cause", 
+            "author": "RMNDK4life"
+        }
+    ]
+}

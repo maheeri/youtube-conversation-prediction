@@ -1,0 +1,695 @@
+{
+    "publish_date": "2012-04-04T16:00:12.000Z", 
+    "video_length": "PT1M48S", 
+    "captions": [
+        {
+            "text": "\u80b2\u3063\u305f\u74b0\u5883\u306f100\uff05\u30af\u30ea\u30b9\u30c1\u30e3\u30f3\u3060\u3063\u305f\u308f", 
+            "dur": "4.5", 
+            "start": "9"
+        }, 
+        {
+            "text": "\u30b1\u30a4\u30c6\u30a3\u306f\u6559\u4f1a\u3067\u521d\u3081\u3066\u30ae\u30bf\u30fc\u3092\u624b\u306b\u3057\u305f", 
+            "dur": "2.7", 
+            "start": "15.3"
+        }, 
+        {
+            "text": "\u5c11\u3057\u3060\u3051\u30ae\u30bf\u30fc\u304c\u5f3e\u3051\u308b\u306e", 
+            "dur": "3", 
+            "start": "19.8"
+        }, 
+        {
+            "text": "\u697d\u8b5c\u306f\u3044\u3089\u306a\u3044 \u982d\u306e\u4e2d\u306b\u3042\u308b\u304b\u3089 \u3044\u3084 \u5fc3\u306e\u4e2d\u306b", 
+            "dur": "3", 
+            "start": "23.5"
+        }, 
+        {
+            "text": "\u79c1\u306e\u66f2\u306f \u79c1\u305d\u306e\u3082\u306e", 
+            "dur": "3.5", 
+            "start": "30"
+        }, 
+        {
+            "text": "\u7b11\u3063\u305f\u4e8b \u6ce3\u3044\u305f\u4e8b \u307e\u308b\u3067\u65e5\u8a18\u307f\u305f\u3044\u306a\u3082\u306e", 
+            "dur": "3.1", 
+            "start": "33.5"
+        }, 
+        {
+            "text": "\u30b1\u30a4\u30c6\u30a3\u306f \u5ba2\u5e2d\u306e\u3059\u3079\u3066\u306e\u5973\u306e\u5b50\u306e\u6c17\u6301\u3061\u3092\u5206\u304b\u3063\u3066\u308b\u306e", 
+            "dur": "5", 
+            "start": "37.2"
+        }, 
+        {
+            "text": "\u6ce3\u304b\u306a\u3044\u3067\uff01", 
+            "dur": "1", 
+            "start": "42.3"
+        }, 
+        {
+            "text": "\u3053\u306e\u5b50\u306f \u3042\u306a\u305f\u3068\u7d50\u5a5a\u3057\u305f\u3044\u3063\u3066", 
+            "dur": "1.3", 
+            "start": "43.4"
+        }, 
+        {
+            "text": "\u79c1\u3068\u7d50\u5a5a\u3059\u308b\uff1f", 
+            "dur": "2", 
+            "start": "44.8"
+        }, 
+        {
+            "text": "\u30e9\u30a4\u30f4\u306e\u76ee\u7684\u306f \u307f\u3093\u306a\u3092\u7b11\u9854\u306b\u3059\u308b\u3053\u3068", 
+            "dur": "3.2", 
+            "start": "57.4"
+        }, 
+        {
+            "text": "\u305d\u308c\u3060\u3051", 
+            "dur": "0.7", 
+            "start": "60.6"
+        }, 
+        {
+            "text": "\uff08\u30b1\u30a4\u30c6\u30a3\u306e\u4e16\u754c\u306b \u8db3\u3092\u8e0f\u307f\u5165\u308c\u3088\u3046\uff09", 
+            "dur": "2", 
+            "start": "61.3"
+        }, 
+        {
+            "text": "\u5931\u6557\u3082\u3057\u3066\u304d\u305f\u3051\u3069  \u5f8c\u6094\u306f\u306a\u3044\u308f", 
+            "dur": "3.7", 
+            "start": "63.3"
+        }, 
+        {
+            "text": "\uff08\u30b1\u30a4\u30c6\u30a3\u3068\u3068\u3082\u306b \u65c5\u306b\u51fa\u3088\u3046\uff09", 
+            "dur": "1.8", 
+            "start": "67"
+        }, 
+        {
+            "text": "\u5922\u304c\u73fe\u5b9f\u3078\u3068\u5909\u308f\u3063\u305f\u306e", 
+            "dur": "2.2", 
+            "start": "68.8"
+        }, 
+        {
+            "text": "\uff08\u30b1\u30a4\u30c6\u30a3\u306e\u5168\u3066\u3092 \u4f53\u9a13\u3057\u3088\u3046\uff09", 
+            "dur": "1.1", 
+            "start": "71"
+        }, 
+        {
+            "text": "\u521d\u3081\u3066\u4f1a\u3063\u305f\u6642 \u5f7c\u5973\u306f\u3053\u3046\u8a00\u3063\u3066\u305f\n\u300c\u6210\u529f\u3059\u308b\u307e\u3067\u8ae6\u3081\u306a\u3044\u300d\u3063\u3066", 
+            "dur": "2.9", 
+            "start": "72.1"
+        }, 
+        {
+            "text": "\u3053\u3093\u306a\u306b\u98a8\u5909\u308a\u306a\u79c1\u3092\u3000\u4fe1\u3058\u3066\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\uff01", 
+            "dur": "2.7", 
+            "start": "75.3"
+        }, 
+        {
+            "text": "\u6bce\u6669 \u305f\u304f\u3055\u3093\u306e\u4eba\u306b\u521d\u3081\u3066\u51fa\u4f1a\u3046", 
+            "dur": "2.5", 
+            "start": "82"
+        }, 
+        {
+            "text": "\u305d\u306e\u3053\u3068\u3092\u3044\u3064\u3082\u611f\u8b1d\u3057\u3066\u308b\u308f", 
+            "dur": "2.5", 
+            "start": "84.5"
+        }, 
+        {
+            "text": "\u5922\u304c\u3042\u308b\u306a\u3089 \u898b\u7d9a\u3051\u3066 \u304b\u306a\u3048\u306a\u3044\u3068\u306d\uff01", 
+            "dur": "4.3", 
+            "start": "88"
+        }, 
+        {
+            "text": "\u3046\u3093 \u3044\u3044\u611f\u3058\u306d", 
+            "dur": "1", 
+            "start": "100.3"
+        }, 
+        {
+            "text": "\u3044\u3088\u3044\u3088\u5287\u5834\u516c\u958b", 
+            "dur": "5.9", 
+            "start": "101.3"
+        }
+    ], 
+    "title": "Katy Perry - Part Of Me Theatrical Trailer", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/01tw9gn", 
+        "/m/03y82t6", 
+        "/m/0khrfm6", 
+        "/m/0j627xf"
+    ], 
+    "number_views": 4063166, 
+    "categories": [
+        10
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-06T22:57:21.182Z", 
+            "text": "made me cry\ufeff", 
+            "author": "hannah thegamergirl"
+        }, 
+        {
+            "date": "2015-05-01T15:49:05.948Z", 
+            "text": "Porque a mi \n\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude22\ud83d\ude2d\ud83d\ude22\ud83d\ude2d\ud83d\ude22\ud83d\ude2d\ud83d\ude22\ud83d\ude2d\ud83d\ude22\ud83d\ude2d\ud83d\ude22\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2a\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ud83d\udca3\ufeff", 
+            "author": "Fabi F\u00e9lix"
+        }, 
+        {
+            "date": "2015-04-28T19:03:04.510Z", 
+            "text": "We like you\ufeff", 
+            "author": "Lizon Miah"
+        }, 
+        {
+            "date": "2015-04-27T19:41:38.000Z", 
+            "text": "porque estan diosa esta chica 22 de setiembre llega ya!!!! voy a su \nconcierto estoy super contenta \ufeff", 
+            "author": "Luuh Hudson Stylinson"
+        }, 
+        {
+            "date": "2015-04-20T21:03:52.130Z", 
+            "text": "Ya la vi!\ufeff", 
+            "author": "Ximena Guerra"
+        }, 
+        {
+            "date": "2015-03-28T20:24:38.188Z", 
+            "text": "ya viene a mi pa\u00eds con su prismatic world tour ...  I cant wait  \ufeff", 
+            "author": "Victor Gutierrez"
+        }, 
+        {
+            "date": "2015-03-14T23:09:29.458Z", 
+            "text": "I love this movie so much. Just in case you didnt know, hmmm oh yeah there \nmaking a Prismatic World Tour Movie!! \ufeff", 
+            "author": "Crystal London"
+        }, 
+        {
+            "date": "2015-03-08T02:43:13.758Z", 
+            "text": "Ilove you\n\ufeff", 
+            "author": "Bong Bumanglag"
+        }, 
+        {
+            "date": "2015-02-27T22:42:41.411Z", 
+            "text": "I've just seen it on TV, and it made me love Katy even morr. She is soo \namazing and she just makes everything to make her fans happy no matter the \nstruggle she's going through. She went through hard times yet still she \nfaked the smile on the stage so no one had the doubts and enjoyed the \nconcert. She is amazing in so many ways, I can't even write everything. \nWhen I grow up, I'd love to be like her. She is a legend with a talent. \nSimply said.\ufeff", 
+            "author": "iHolyFux x"
+        }, 
+        {
+            "date": "2015-02-15T11:08:11.525Z", 
+            "text": "Why the hell do u have a movie UR not dead?\ufeff", 
+            "author": "Laki Leaupepe"
+        }, 
+        {
+            "date": "2015-02-12T18:42:51.261Z", 
+            "text": "Me soprendio la pel\u00edcula de Katy perry y no quise que se acabara \ufeff", 
+            "author": "Daniel 170"
+        }, 
+        {
+            "date": "2015-02-05T00:00:04.011Z", 
+            "text": "Eu amoo a katy!!\ufeff", 
+            "author": "Play GamesXD"
+        }, 
+        {
+            "date": "2015-01-29T21:33:32.700Z", 
+            "text": "Oh my godd, I saw this in theatresss!! ;D\ufeff", 
+            "author": "Flower Kitty"
+        }, 
+        {
+            "date": "2015-01-25T06:59:42.862Z", 
+            "text": "oh my gosh im proud to be katycat no matter what people said im a katycat \nboy! and they just jealous!!!! love you katy perry\ufeff", 
+            "author": "Adyatma Piero"
+        }, 
+        {
+            "date": "2015-01-21T15:11:21.501Z", 
+            "text": "is this really a movie :<\ufeff", 
+            "author": "Joyjenn Pasague"
+        }, 
+        {
+            "date": "2015-01-16T04:51:31.774Z", 
+            "text": "I know *Katy Perry* made the movie 2 years ago I winder when she is making \nmore\ufeff", 
+            "author": "Michelle Quarles"
+        }, 
+        {
+            "date": "2015-02-25T18:24:17.837Z", 
+            "text": "she is tbh", 
+            "author": "Luis Rodriguez"
+        }, 
+        {
+            "date": "2015-01-13T02:53:12.051Z", 
+            "text": "I love it\u2665_\u2665 I love you so much\u2661\u2665\u2661\u2665\u2661\u2665\u2661\u2665\u2661\u2665\ufeff", 
+            "author": "Katy's Cats"
+        }, 
+        {
+            "date": "2015-01-04T00:34:52.205Z", 
+            "text": "Seeing her grow like that is something I'll treasure forever\ud83d\udc97 I cried so \nmuch at this and being able to experience the tour in real life was \namazing\ud83d\udcaa 2008 and still going strong \ufeff", 
+            "author": "lauza Mcmahon"
+        }, 
+        {
+            "date": "2014-12-31T23:00:56.274Z", 
+            "text": "i love katy perry :) :) :) :) :) :)\ufeff", 
+            "author": "Larissa Silva"
+        }, 
+        {
+            "date": "2014-12-26T20:05:56.265Z", 
+            "text": "I Love you \ufeff", 
+            "author": "Jlkatycat"
+        }, 
+        {
+            "date": "2014-12-14T15:22:26.764Z", 
+            "text": "Katylove\ufeff", 
+            "author": "Paulilovers De corazon"
+        }, 
+        {
+            "date": "2014-12-14T15:22:18.736Z", 
+            "text": "Jaja\ufeff", 
+            "author": "Paulilovers De corazon"
+        }, 
+        {
+            "date": "2014-12-06T05:49:35.504Z", 
+            "text": "She is my idol and Katy thanks your my inspiration I love you soooooo much \nyou are the best\u2764\ufe0f\ud83d\ude4c Your Katycat forever\ufeff", 
+            "author": "ANGIESGENIAL"
+        }, 
+        {
+            "date": "2014-12-04T17:20:06.435Z", 
+            "text": "Ja te\u017c kocham katy perry\ufeff", 
+            "author": "Julia Bogda\u0144ska"
+        }, 
+        {
+            "date": "2014-11-30T18:41:40.289Z", 
+            "text": "\u2605\ufeff", 
+            "author": "Thiago queiroz"
+        }, 
+        {
+            "date": "2014-11-29T01:02:51.458Z", 
+            "text": "WE LOVE U SO MUCH \u2665\u2665\u2665\ufeff", 
+            "author": "Valentina Ignacia"
+        }, 
+        {
+            "date": "2014-11-09T12:26:22.800Z", 
+            "text": "", 
+            "author": "\u0e2d\u0e31\u0e08\u0e19\u0e34\u0e14\u0e32 \u0e19\u0e32\u0e28\u0e34\u0e23\u0e34"
+        }, 
+        {
+            "date": "2014-11-07T13:25:00.241Z", 
+            "text": "We believed in your weirdness Katy! \u2764\u2764\u2764 I love you so much, haters are shit \nso shut up \ud83d\ude1d\ufeff", 
+            "author": "Kenneth Ledesma"
+        }, 
+        {
+            "date": "2014-11-06T23:06:05.621Z", 
+            "text": "me encata ya vi la pelicula completa busquenla en. Nexfli\ufeff", 
+            "author": "Jaly Garcia"
+        }, 
+        {
+            "date": "2014-12-21T20:38:57.815Z", 
+            "text": "En netflix, todavia no esta", 
+            "author": "Mariiel Murillo"
+        }, 
+        {
+            "date": "2014-11-02T01:47:51.402Z", 
+            "text": "Yo quiero ver la pelicula completa no un trailler pero esta excelente\ufeff", 
+            "author": "Kiara 04"
+        }, 
+        {
+            "date": "2014-10-29T11:55:39.955Z", 
+            "text": "1:37 :D oh my god I love you Katy!! \u2665\u2665\ufeff", 
+            "author": "Doty strawberry"
+        }, 
+        {
+            "date": "2014-09-30T09:02:11.573Z", 
+            "text": "I LOVE YOU KATY!!! :\ufeff", 
+            "author": "Ley Waters"
+        }, 
+        {
+            "date": "2014-09-07T01:45:19.180Z", 
+            "text": "Katy Perry more than an artist, is my idol, my love for her, he goes \nfurther than any alien feeling, too idolize and my love for her will never \ndie ... Katy Perry love forever!\nKatycats\u2764 :))\ufeff", 
+            "author": "Garc\u00eda Daniel"
+        }, 
+        {
+            "date": "2014-09-06T18:24:20.431Z", 
+            "text": "I can't believe she's not the person I thought she was\ufeff", 
+            "author": "SizzleMajesty131"
+        }, 
+        {
+            "date": "2014-11-01T05:29:44.526Z", 
+            "text": "You can always watch this movie on *AllMoviesWatch. com*", 
+            "author": "Darrian"
+        }, 
+        {
+            "date": "2014-09-09T15:48:17.528Z", 
+            "text": "Why do you said that?", 
+            "author": "Lierni Apaolaza"
+        }, 
+        {
+            "date": "2014-08-13T11:52:09.446Z", 
+            "text": ":D\ufeff", 
+            "author": "Willow \u201cStacy\u201d Harp"
+        }, 
+        {
+            "date": "2014-08-05T14:45:24.455Z", 
+            "text": "all i can say is... warrior!!!\ufeff", 
+            "author": "an\u017ee Stropnik"
+        }, 
+        {
+            "date": "2014-08-02T18:34:08.334Z", 
+            "text": "je tadore\ufeff", 
+            "author": "Denis Ovsepian"
+        }, 
+        {
+            "date": "2014-07-31T05:11:15.975Z", 
+            "text": "Now to me werid is not stupid werid is ok, and Katy Perry proved it. I love \nu katy!!\ufeff", 
+            "author": "Annika Lallani"
+        }, 
+        {
+            "date": "2014-07-30T23:35:43.021Z", 
+            "text": "BEST MOVIE!! Felt like I knew Katy! Cried a lot! And we love you Katy! Your \ntours are the best!! I had the best night of my life at your concert!! \ufeff", 
+            "author": "Caroline Holt"
+        }, 
+        {
+            "date": "2014-07-09T21:27:46.198Z", 
+            "text": "Her tagline is Be Yourself and You can be Anything?.......Shes been in the \nMatrix for too long\ufeff", 
+            "author": "Kamen Rider"
+        }, 
+        {
+            "date": "2014-07-03T02:25:01.898Z", 
+            "text": "", 
+            "author": "Lakale Coleman"
+        }, 
+        {
+            "date": "2014-07-02T20:45:42.827Z", 
+            "text": "linda <33333333333\ufeff", 
+            "author": "Stephanie gomes"
+        }, 
+        {
+            "date": "2014-06-23T11:30:25.429Z", 
+            "text": "Katy es una adicta a las pastillas\ufeff", 
+            "author": "Kalifornian Figther"
+        }, 
+        {
+            "date": "2014-09-29T22:37:36.392Z", 
+            "text": "no no lo es", 
+            "author": "Regina Curina"
+        }, 
+        {
+            "date": "2014-06-12T17:11:29.172Z", 
+            "text": "Love her all songs and I love her so much that my big brother is annoy!\ufeff", 
+            "author": "andrea sanchez"
+        }, 
+        {
+            "date": "2014-06-07T19:06:11.939Z", 
+            "text": "I fucking love her \ufeff", 
+            "author": "Laura Grier"
+        }, 
+        {
+            "date": "2014-05-30T23:10:34.584Z", 
+            "text": "Bueno la victoria es de ustedes y de lo que m\u00e1s quiero peque\u00f1os floreros \nque sufren como un cordero sin defessas inocente es.porque yo siento \ndolores al viento gracias\ufeff", 
+            "author": "Samuel Torres"
+        }, 
+        {
+            "date": "2014-05-27T04:06:17.583Z", 
+            "text": "love kety parry\ufeff", 
+            "author": "Tr\u1ea7n B\u1ea3o"
+        }, 
+        {
+            "date": "2014-05-26T03:31:47.796Z", 
+            "text": "Luv u katy perry\ufeff", 
+            "author": "Emma  Alvarez"
+        }, 
+        {
+            "date": "2014-05-26T02:25:12.154Z", 
+            "text": "I gotta see this\ufeff", 
+            "author": "Emma  Alvarez"
+        }, 
+        {
+            "date": "2014-05-22T18:13:00.956Z", 
+            "text": "I hate Katy perry\ufeff", 
+            "author": "Shelley Thompson"
+        }, 
+        {
+            "date": "2014-11-04T19:47:30.624Z", 
+            "text": "Seen it while I was scrolling down the comments :) KatyCat forever ", 
+            "author": "Harry Bond"
+        }, 
+        {
+            "date": "2014-10-22T14:20:02.307Z", 
+            "text": "then why the helll u r here....................................", 
+            "author": "Iipm Iche"
+        }, 
+        {
+            "date": "2014-07-25T22:43:20.184Z", 
+            "text": "Why are you here then? #AttentionSeeker   #Troll  ", 
+            "author": "Harry Bond"
+        }, 
+        {
+            "date": "2014-05-17T00:52:18.309Z", 
+            "text": "90% of these scenes did not make the final cut!\ufeff", 
+            "author": "avpz"
+        }, 
+        {
+            "date": "2014-05-14T05:01:46.396Z", 
+            "text": "hfi ufum u  yhf\ufeff", 
+            "author": "Probably real video blogger\"\""
+        }, 
+        {
+            "date": "2014-05-11T08:13:25.375Z", 
+            "text": "So inspiring :)\ufeff", 
+            "author": "Miluiel (Singer, songwriter, & creator.) :D"
+        }, 
+        {
+            "date": "2014-05-05T23:57:17.000Z", 
+            "text": "I only said one thing.. You did it. What others think of me who cares. I've \nbeen pushed into this. hrhmsinsin\u00b7pushed me into this. Do you know this \nclown? He wants free money. I tried to get rid of him. Give me 3 days. He's \nyour RAT!. Set up honey!\ufeff", 
+            "author": "museken"
+        }, 
+        {
+            "date": "2014-05-03T19:15:32.956Z", 
+            "text": " \u0432 \u043a\u043e\u043d\u0446\u0435 \u043f\u0440\u0438\u043a\u043e\u043b\u044b\u043d\u043e\ufeff", 
+            "author": "Zebra alex"
+        }, 
+        {
+            "date": "2014-04-27T03:13:08.510Z", 
+            "text": "I cried in this movie, I love it\ufeff", 
+            "author": "p3roa"
+        }, 
+        {
+            "date": "2014-03-17T19:02:47.538Z", 
+            "text": "and if you do part of me 2 *-* ....... could something like this is how i \ndo 3D i love you katy <3 \ufeff", 
+            "author": "jose eduardo cruz priego"
+        }, 
+        {
+            "date": "2014-08-28T07:51:35.947Z", 
+            "text": "That'd be cool", 
+            "author": "Leiah C"
+        }, 
+        {
+            "date": "2014-03-16T22:32:52.415Z", 
+            "text": "OMFG KATY I LOVE YOU SO MUCH AHHHHHGY I WAS GONNN A SEE U IN CONCERT BUTI \nCOULDNT\ufeff", 
+            "author": "Fetching Daisies"
+        }, 
+        {
+            "date": "2014-03-05T11:40:38.781Z", 
+            "text": "Love this moviee\ufeff", 
+            "author": "Cherrie Jimmy"
+        }, 
+        {
+            "date": "2014-03-05T01:01:36.024Z", 
+            "text": "This is why I say it's ok to be weird. Because Katy Perry proved that it is \nok\n\ufeff", 
+            "author": "Mia Taylor"
+        }, 
+        {
+            "date": "2014-02-28T05:15:37.341Z", 
+            "text": "I love you katy perry\ufeff", 
+            "author": "Daysi Perez"
+        }, 
+        {
+            "date": "2014-02-27T15:02:32.632Z", 
+            "text": "Thank you so much in believing in my weirdness!\ufeff", 
+            "author": "Myrna-Paula Corval\u00e1n V\u00e1squez"
+        }, 
+        {
+            "date": "2014-02-21T01:48:21.106Z", 
+            "text": "met Katy Perry at her premiere for part of me :D\ufeff", 
+            "author": "Carla Harper"
+        }, 
+        {
+            "date": "2014-02-19T21:25:51.323Z", 
+            "text": "We love you Katy!!!\ufeff", 
+            "author": "Katherine Pierce"
+        }, 
+        {
+            "date": "2014-05-16T01:35:46.627Z", 
+            "text": "Me encanta", 
+            "author": "Enrique Artilleria"
+        }, 
+        {
+            "date": "2014-02-02T22:48:20.215Z", 
+            "text": "I LOVE YOU KATY\ufeff", 
+            "author": "Tony Torua"
+        }, 
+        {
+            "date": "2014-02-02T21:33:03.771Z", 
+            "text": "YO NO LA PUDE IR AL VR\ufeff", 
+            "author": "KATY CATS"
+        }, 
+        {
+            "date": "2014-01-08T22:10:21.874Z", 
+            "text": "I love your song wide awake \n\n\n\n<3\ufeff", 
+            "author": "shahzad ali"
+        }, 
+        {
+            "date": "2014-01-05T03:25:07.634Z", 
+            "text": "excelente\ufeff", 
+            "author": "BRYAN THE BEST"
+        }, 
+        {
+            "date": "2013-12-30T03:07:34.892Z", 
+            "text": "Katy Plis come to Guatemala We ADORE, WANT & LOVE U\ufeff", 
+            "author": "Sebas M.R."
+        }, 
+        {
+            "date": "2013-12-29T21:04:24.207Z", 
+            "text": "", 
+            "author": "alllissa's  community channel"
+        }, 
+        {
+            "date": "2013-12-27T02:37:01.611Z", 
+            "text": "", 
+            "author": "Alexis Fonseca"
+        }, 
+        {
+            "date": "2013-12-25T16:33:33.882Z", 
+            "text": "Awesome\ufeff", 
+            "author": "Tosha Wright"
+        }, 
+        {
+            "date": "2013-12-24T19:32:30.062Z", 
+            "text": ",c\ufeff", 
+            "author": "yoloyodo12"
+        }, 
+        {
+            "date": "2013-12-24T05:32:54.384Z", 
+            "text": "141\ufeff", 
+            "author": "Deshana Inda-Rosa"
+        }, 
+        {
+            "date": "2013-12-24T03:56:11.047Z", 
+            "text": "I watched the movie, its amazing! Even the trailer is so, so, so.....ugh, i \nhave no words!\ufeff", 
+            "author": "Aabha Deshpande"
+        }, 
+        {
+            "date": "2013-12-23T12:24:54.022Z", 
+            "text": "I want to see this movie so bad \ufeff", 
+            "author": "Bradly Owen"
+        }, 
+        {
+            "date": "2013-12-23T01:21:39.615Z", 
+            "text": "Cool\n\n\n\ufeff", 
+            "author": "Zikerria Bryant"
+        }, 
+        {
+            "date": "2013-12-08T12:47:22.717Z", 
+            "text": "why your concert and you don't come Taiwan QQ\ufeff", 
+            "author": "\u6d2a\u73ee\u7444"
+        }, 
+        {
+            "date": "2013-12-07T04:15:03.910Z", 
+            "text": "Is she blonde???\ufeff", 
+            "author": "Hsiang Jung Chou"
+        }, 
+        {
+            "date": "2013-12-17T18:53:22.035Z", 
+            "text": "yes she would be", 
+            "author": "Drake Twain"
+        }, 
+        {
+            "date": "2013-11-26T23:24:29.325Z", 
+            "text": "Oscar if u don't like it then don't comment, Katy's an inspiring person and \nI'm proud to be a super katycat I've been a katy cat for years from the \nbeginning and I love her\ufeff", 
+            "author": "georgia bull"
+        }, 
+        {
+            "date": "2013-11-25T21:28:51.143Z", 
+            "text": "this movie is boring\ufeff", 
+            "author": "Oscar Victor"
+        }, 
+        {
+            "date": "2013-11-24T01:45:59.890Z", 
+            "text": "\u263b/\u263b/\u263b/\u263b/\n\u2582\u2584\u2585 /\u258c /\u258c /\u258c /\u258c \u2588\u2588\u2585\u2583\u2582 World War lll has begun! Help Bob in the war\nI\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588] against Google+! Copy & Paste\n\u25e5\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25e4\nYouTube is not lost, together we can change it!\nJOIN THE REVOLUTION NOW\ufeff", 
+            "author": "Crystal Ong"
+        }, 
+        {
+            "date": "2013-11-21T19:09:50.119Z", 
+            "text": "\"thank you for believing in my weirdness\" <3\ufeff", 
+            "author": "Stefan Alexandrescu"
+        }, 
+        {
+            "date": "2013-11-05T04:35:45.482Z", 
+            "text": "I luv u katty pls come to singapore!!XD", 
+            "author": "Megan Lim"
+        }, 
+        {
+            "date": "2013-11-04T22:25:16.627Z", 
+            "text": "I love this movie", 
+            "author": "tristan cloyd"
+        }, 
+        {
+            "date": "2013-11-04T14:59:14.273Z", 
+            "text": "hayyyy katy....you are very inspiring to JUNAYLA she's is a new artist from \nindonesia please check this out DETeGTvAI9U", 
+            "author": "Joyboy"
+        }, 
+        {
+            "date": "2013-10-28T15:32:37.019Z", 
+            "text": "Come to israel! We love you!!!", 
+            "author": "Smadar Contini"
+        }, 
+        {
+            "date": "2013-10-25T10:34:40.139Z", 
+            "text": "is there any cam ver for this theatrical?", 
+            "author": "tronghailoveit"
+        }, 
+        {
+            "date": "2013-10-22T16:49:46.883Z", 
+            "text": "La la la", 
+            "author": "seplop"
+        }, 
+        {
+            "date": "2013-10-22T02:00:14.299Z", 
+            "text": "Katy is so inspiring\u2665 love her voice and talent", 
+            "author": "Javier Anaya"
+        }, 
+        {
+            "date": "2013-10-20T21:45:31.052Z", 
+            "text": "i love katy she\"s so funny,beautiful and cool i love her", 
+            "author": "its carlizzlee"
+        }, 
+        {
+            "date": "2013-10-20T21:32:54.217Z", 
+            "text": "http://youtu.be/K16NvLCk2CY\ufeff", 
+            "author": "Martial Dethier"
+        }, 
+        {
+            "date": "2013-10-19T01:25:53.473Z", 
+            "text": "I love all of Katy Perry songs", 
+            "author": "punky11687"
+        }, 
+        {
+            "date": "2013-10-13T13:52:18.767Z", 
+            "text": "Es fabuloso wou katy perry era guera", 
+            "author": "Juanjose Garcia Ortiz"
+        }, 
+        {
+            "date": "2013-10-10T16:22:09.758Z", 
+            "text": "I am Turkish but I I'd love to get pink tickets. ", 
+            "author": "Ahmet Kara"
+        }, 
+        {
+            "date": "2013-10-04T16:13:41.812Z", 
+            "text": "", 
+            "author": "cleber alves"
+        }, 
+        {
+            "date": "2013-09-29T20:12:20.677Z", 
+            "text": "This movie isn't available on YT, isn't it?", 
+            "author": "fabb4i2"
+        }, 
+        {
+            "date": "2013-09-24T13:10:11.620Z", 
+            "text": "Katy is a fun, beautiful, funny, and what I have on her favorite is her \nbeautiful voice.", 
+            "author": "David Lee"
+        }, 
+        {
+            "date": "2013-09-22T23:15:08.827Z", 
+            "text": "i watched the movie shes so beautiful and sexy!!!! I love u Katy perry ^_^ ", 
+            "author": "John - JCMCGamer"
+        }, 
+        {
+            "date": "2013-09-22T22:04:26.732Z", 
+            "text": "She's awesome", 
+            "author": "McKenna Evans"
+        }
+    ]
+}

@@ -1,0 +1,1589 @@
+{
+    "publish_date": "2012-01-21T02:23:51.000Z", 
+    "video_length": "PT6M7S", 
+    "captions": [
+        {
+            "text": "So say you&#39;re me and\nyou&#39;re in math class", 
+            "dur": "1.58", 
+            "start": "0.1"
+        }, 
+        {
+            "text": "and you&#39;re trying to\nignore the teacher", 
+            "dur": "1.3", 
+            "start": "1.68"
+        }, 
+        {
+            "text": "and doodle Fibonacci\nspirals, while simultaneously", 
+            "dur": "2.24", 
+            "start": "2.98"
+        }, 
+        {
+            "text": "trying to fend off\nthe local greenery.", 
+            "dur": "1.59", 
+            "start": "5.22"
+        }, 
+        {
+            "text": "Only, you become\ninterested in something", 
+            "dur": "1.47", 
+            "start": "6.81"
+        }, 
+        {
+            "text": "that the teacher\nsays by accident,", 
+            "dur": "1.416", 
+            "start": "8.28"
+        }, 
+        {
+            "text": "and so you draw too many\nsquares to start with.", 
+            "dur": "2.018", 
+            "start": "9.696"
+        }, 
+        {
+            "text": "So you cross some out,\nbut cross out too many,", 
+            "dur": "1.916", 
+            "start": "11.714"
+        }, 
+        {
+            "text": "and then the teacher\ngets back on track,", 
+            "dur": "1.44", 
+            "start": "13.63"
+        }, 
+        {
+            "text": "and the moment is over.", 
+            "dur": "1.059", 
+            "start": "15.07"
+        }, 
+        {
+            "text": "So oh well, might\nas well try and just", 
+            "dur": "1.583", 
+            "start": "16.129"
+        }, 
+        {
+            "text": "do the spiral from here.", 
+            "dur": "1.728", 
+            "start": "17.712"
+        }, 
+        {
+            "text": "So you make a three\nby three square.", 
+            "dur": "1.71", 
+            "start": "19.44"
+        }, 
+        {
+            "text": "And here&#39;s a four by four, and\nthen seven, and then 11 This", 
+            "dur": "3.317", 
+            "start": "21.15"
+        }, 
+        {
+            "text": "works because then you&#39;ve\ngot a spiral of squares.", 
+            "dur": "2.083", 
+            "start": "24.467"
+        }, 
+        {
+            "text": "So you write down the\nnumbers, 1, 3, 4, 7, 11, 18.", 
+            "dur": "3.2", 
+            "start": "26.55"
+        }, 
+        {
+            "text": "It&#39;s kind of like the Fibonacci\nseries, because 1 plus 3 is 4,", 
+            "dur": "3.8", 
+            "start": "29.75"
+        }, 
+        {
+            "text": "3 plus 4 is 7, and so on.", 
+            "dur": "1.69", 
+            "start": "33.55"
+        }, 
+        {
+            "text": "Or maybe it starts at 2 plus\n1, or negative 1 plus 2.", 
+            "dur": "3.46", 
+            "start": "35.24"
+        }, 
+        {
+            "text": "Either way, it&#39;s a\nperfectly good series.", 
+            "dur": "2.08", 
+            "start": "38.7"
+        }, 
+        {
+            "text": "And it&#39;s got another similarity\nwith the Fibonacci series.", 
+            "dur": "3.21", 
+            "start": "40.78"
+        }, 
+        {
+            "text": "The ratios of consecutive\nnumbers also approach Phi.", 
+            "dur": "3.35", 
+            "start": "43.99"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "0.5", 
+            "start": "47.34"
+        }, 
+        {
+            "text": "So, a lot of plants have\nFibonacci numbers of spirals,", 
+            "dur": "2.41", 
+            "start": "47.84"
+        }, 
+        {
+            "text": "but to understand\nhow they do it,", 
+            "dur": "1.62", 
+            "start": "50.25"
+        }, 
+        {
+            "text": "we can learn from\nthe exceptions.", 
+            "dur": "1.91", 
+            "start": "51.87"
+        }, 
+        {
+            "text": "This pine cone that has\nseven spirals one way,", 
+            "dur": "2.06", 
+            "start": "53.78"
+        }, 
+        {
+            "text": "and eleven the other, might\nbe showing Lucas numbers.", 
+            "dur": "2.46", 
+            "start": "55.84"
+        }, 
+        {
+            "text": "And since Fibonacci numbers\nand Lucas numbers are related,", 
+            "dur": "2.56", 
+            "start": "58.3"
+        }, 
+        {
+            "text": "maybe that explains it.", 
+            "dur": "1.56", 
+            "start": "60.86"
+        }, 
+        {
+            "text": "One theory was that plants\nget Fibonacci numbers", 
+            "dur": "2.539", 
+            "start": "62.42"
+        }, 
+        {
+            "text": "by always growing new parts\na Phi-th of a circle around.", 
+            "dur": "3.721", 
+            "start": "64.959"
+        }, 
+        {
+            "text": "What angle would\ngive Lucas numbers?", 
+            "dur": "2.136", 
+            "start": "68.68"
+        }, 
+        {
+            "text": "In this pine cone, each\nnew pine cone-y thing", 
+            "dur": "1.874", 
+            "start": "70.816"
+        }, 
+        {
+            "text": "is about 100 degrees\naround from the last.", 
+            "dur": "2.51", 
+            "start": "72.69"
+        }, 
+        {
+            "text": "We&#39;re going to need\na Lucas angle-a-tron.", 
+            "dur": "2.08", 
+            "start": "75.2"
+        }, 
+        {
+            "text": "It&#39;s easy to get a 90\ndegree angle-a-tron,", 
+            "dur": "2.13", 
+            "start": "77.28"
+        }, 
+        {
+            "text": "and if I take a third\nof a third of that,", 
+            "dur": "2.18", 
+            "start": "79.41"
+        }, 
+        {
+            "text": "that&#39;s a ninth of 90, which\nis another 10 degrees.", 
+            "dur": "2.47", 
+            "start": "81.59"
+        }, 
+        {
+            "text": "There.", 
+            "dur": "0.862", 
+            "start": "84.06"
+        }, 
+        {
+            "text": "Now you can use it to\nget spiral patterns", 
+            "dur": "1.708", 
+            "start": "84.922"
+        }, 
+        {
+            "text": "like what you see on\nthe Lucas number plants.", 
+            "dur": "2.17", 
+            "start": "86.63"
+        }, 
+        {
+            "text": "It&#39;s an easy way to\ngrow Lucas spirals,", 
+            "dur": "1.88", 
+            "start": "88.8"
+        }, 
+        {
+            "text": "if plants have an\ninternal angle-a-tron.", 
+            "dur": "1.87", 
+            "start": "90.68"
+        }, 
+        {
+            "text": "Thing is, 100 is\npretty far from 137.5.", 
+            "dur": "3.27", 
+            "start": "92.55"
+        }, 
+        {
+            "text": "If plants were somehow\nmeasuring angle,", 
+            "dur": "1.91", 
+            "start": "95.82"
+        }, 
+        {
+            "text": "you&#39;d think the\nanomalous ones would", 
+            "dur": "1.62", 
+            "start": "97.73"
+        }, 
+        {
+            "text": "show angles close to\na Phi-th of a circle.", 
+            "dur": "2.75", 
+            "start": "99.35"
+        }, 
+        {
+            "text": "Not jump all the way to 100.", 
+            "dur": "2.33", 
+            "start": "102.1"
+        }, 
+        {
+            "text": "Maybe I&#39;d believe different\nspecies use different angles,", 
+            "dur": "2.62", 
+            "start": "104.43"
+        }, 
+        {
+            "text": "but two pine cones\nfrom the same tree?", 
+            "dur": "1.72", 
+            "start": "107.05"
+        }, 
+        {
+            "text": "Two spirals on the\nsame cauliflower?", 
+            "dur": "2.3", 
+            "start": "108.77"
+        }, 
+        {
+            "text": "And that&#39;s not the\nonly exception.", 
+            "dur": "1.69", 
+            "start": "111.07"
+        }, 
+        {
+            "text": "A lot of plants don&#39;t\ngrow spirally at all.", 
+            "dur": "1.85", 
+            "start": "112.76"
+        }, 
+        {
+            "text": "Like this thing.", 
+            "dur": "0.88", 
+            "start": "114.61"
+        }, 
+        {
+            "text": "With leaves growing\nopposite from each other.", 
+            "dur": "2.03", 
+            "start": "115.49"
+        }, 
+        {
+            "text": "And some plants have\nalternating leaves,", 
+            "dur": "1.666", 
+            "start": "117.52"
+        }, 
+        {
+            "text": "180 degrees from\neach other, which", 
+            "dur": "1.734", 
+            "start": "119.186"
+        }, 
+        {
+            "text": "is far from both Phi\nand Lucas angles.", 
+            "dur": "2.132", 
+            "start": "120.92"
+        }, 
+        {
+            "text": "And you could say that these\ndon&#39;t count because they", 
+            "dur": "2.208", 
+            "start": "123.052"
+        }, 
+        {
+            "text": "have a fundamentally\ndifferent growth pattern,", 
+            "dur": "1.79", 
+            "start": "125.26"
+        }, 
+        {
+            "text": "and are in a different\nclass of plant or something,", 
+            "dur": "1.83", 
+            "start": "127.05"
+        }, 
+        {
+            "text": "but wouldn&#39;t it be\neven better if there", 
+            "dur": "1.77", 
+            "start": "128.88"
+        }, 
+        {
+            "text": "were one simple reason\nfor all of these things?", 
+            "dur": "2.65", 
+            "start": "130.65"
+        }, 
+        {
+            "text": "These variations are a good\nclue that maybe these plants get", 
+            "dur": "2.9", 
+            "start": "133.3"
+        }, 
+        {
+            "text": "this angle, and\nFibonacci numbers,", 
+            "dur": "2.31", 
+            "start": "136.2"
+        }, 
+        {
+            "text": "as a consequence of some other\nprocess and not just because it", 
+            "dur": "3.21", 
+            "start": "138.51"
+        }, 
+        {
+            "text": "mathematically optimizes\nsunlight exposure if the sun is", 
+            "dur": "2.364", 
+            "start": "141.72"
+        }, 
+        {
+            "text": "right overhead, which\nit pretty much never is,", 
+            "dur": "1.916", 
+            "start": "144.084"
+        }, 
+        {
+            "text": "and if the plan are\nperfectly facing straight up,", 
+            "dur": "1.66", 
+            "start": "146"
+        }, 
+        {
+            "text": "which they aren&#39;t.", 
+            "dur": "1.05", 
+            "start": "147.66"
+        }, 
+        {
+            "text": "So how do they do it?", 
+            "dur": "1.072", 
+            "start": "148.71"
+        }, 
+        {
+            "text": "Well, you could\ntry observing them.", 
+            "dur": "1.458", 
+            "start": "149.782"
+        }, 
+        {
+            "text": "That would be like science.", 
+            "dur": "1.37", 
+            "start": "151.24"
+        }, 
+        {
+            "text": "If you zoom in on the tip of\na plant, the growing part,", 
+            "dur": "2.42", 
+            "start": "152.61"
+        }, 
+        {
+            "text": "there&#39;s this part\ncalled the meristem.", 
+            "dur": "2.14", 
+            "start": "155.03"
+        }, 
+        {
+            "text": "That&#39;s where new\nplant bits form.", 
+            "dur": "2.08", 
+            "start": "157.17"
+        }, 
+        {
+            "text": "The biggest plant bits\nwhere the first to form off", 
+            "dur": "2.616", 
+            "start": "159.25"
+        }, 
+        {
+            "text": "the meristem, and the little\nones around the center", 
+            "dur": "2.124", 
+            "start": "161.866"
+        }, 
+        {
+            "text": "are newer.", 
+            "dur": "0.76", 
+            "start": "163.99"
+        }, 
+        {
+            "text": "As the plants grow, they get\npushed away from the meristem,", 
+            "dur": "3.31", 
+            "start": "164.75"
+        }, 
+        {
+            "text": "but they all started there.", 
+            "dur": "1.61", 
+            "start": "168.06"
+        }, 
+        {
+            "text": "The important part is\nthat a science observer", 
+            "dur": "2.6", 
+            "start": "169.67"
+        }, 
+        {
+            "text": "would see the plant\nbits pushing away,", 
+            "dur": "1.83", 
+            "start": "172.27"
+        }, 
+        {
+            "text": "not just from the meristem,\nbut from each other.", 
+            "dur": "2.64", 
+            "start": "174.1"
+        }, 
+        {
+            "text": "A couple physicists\nonce tried this thing", 
+            "dur": "1.98", 
+            "start": "176.74"
+        }, 
+        {
+            "text": "where they dropped drops\nof a magnetized liquid", 
+            "dur": "2.26", 
+            "start": "178.72"
+        }, 
+        {
+            "text": "in a dish of oil.", 
+            "dur": "1.54", 
+            "start": "180.98"
+        }, 
+        {
+            "text": "The drops repelled each\nother, kind of like plant bits", 
+            "dur": "2.28", 
+            "start": "182.52"
+        }, 
+        {
+            "text": "do, and were attracted\nto the edge of the dish,", 
+            "dur": "1.958", 
+            "start": "184.8"
+        }, 
+        {
+            "text": "just like how plant bits\nmove away from the center.", 
+            "dur": "2.221", 
+            "start": "186.758"
+        }, 
+        {
+            "text": "The first couple jobs would\nhead in opposite directions", 
+            "dur": "2.291", 
+            "start": "188.979"
+        }, 
+        {
+            "text": "from each other, but then the\nthird was repelled by both,", 
+            "dur": "3.02", 
+            "start": "191.27"
+        }, 
+        {
+            "text": "but pushed farther by the\nmore recent, and closer, drop.", 
+            "dur": "3.62", 
+            "start": "194.29"
+        }, 
+        {
+            "text": "It, and each new\ndrop, would set off", 
+            "dur": "1.74", 
+            "start": "197.91"
+        }, 
+        {
+            "text": "at a Phi angle relative\nto the drop before,", 
+            "dur": "2.8", 
+            "start": "199.65"
+        }, 
+        {
+            "text": "and the drops ended up forming\nFibonacci numbers spirals.", 
+            "dur": "3.02", 
+            "start": "202.45"
+        }, 
+        {
+            "text": "So all a plant would\nneed to do to get", 
+            "dur": "1.62", 
+            "start": "205.47"
+        }, 
+        {
+            "text": "Fibonacci numbers\nspirals is figure out", 
+            "dur": "1.5", 
+            "start": "207.09"
+        }, 
+        {
+            "text": "how to make the plant\nbits repel each other.", 
+            "dur": "1.86", 
+            "start": "208.59"
+        }, 
+        {
+            "text": "We don&#39;t know all the details,\nbut here&#39;s what we do know.", 
+            "dur": "2.416", 
+            "start": "210.45"
+        }, 
+        {
+            "text": "There&#39;s a hormone that\ntells plant bits to grow.", 
+            "dur": "2.204", 
+            "start": "212.866"
+        }, 
+        {
+            "text": "A plant bit might use up\nthe hormone around it,", 
+            "dur": "1.959", 
+            "start": "215.07"
+        }, 
+        {
+            "text": "but there&#39;s more\nfurther away, so it&#39;ll", 
+            "dur": "1.624", 
+            "start": "217.029"
+        }, 
+        {
+            "text": "grow in that direction.", 
+            "dur": "1.147", 
+            "start": "218.653"
+        }, 
+        {
+            "text": "That makes plant bits\nmove out from the meristem", 
+            "dur": "2.28", 
+            "start": "219.8"
+        }, 
+        {
+            "text": "after they form.", 
+            "dur": "1.31", 
+            "start": "222.08"
+        }, 
+        {
+            "text": "Meanwhile, the meristem\nkeeps forming new plant bits,", 
+            "dur": "2.262", 
+            "start": "223.39"
+        }, 
+        {
+            "text": "and they&#39;re going\nto grow in places", 
+            "dur": "1.458", 
+            "start": "225.652"
+        }, 
+        {
+            "text": "that aren&#39;t too\ncrowded, because that&#39;s", 
+            "dur": "2", 
+            "start": "227.11"
+        }, 
+        {
+            "text": "where there&#39;s the\nmost growth hormone.", 
+            "dur": "2.02", 
+            "start": "229.11"
+        }, 
+        {
+            "text": "This leads them to\nmove further out", 
+            "dur": "1.62", 
+            "start": "231.13"
+        }, 
+        {
+            "text": "into the space left by the\nother outward moving plant bits.", 
+            "dur": "3.032", 
+            "start": "232.75"
+        }, 
+        {
+            "text": "And once everything gets\nlocked into a pattern,", 
+            "dur": "1.958", 
+            "start": "235.782"
+        }, 
+        {
+            "text": "it&#39;s hard to get out of it.", 
+            "dur": "0.91", 
+            "start": "237.74"
+        }, 
+        {
+            "text": "Because there&#39;s no\nway for this plant", 
+            "dur": "1.61", 
+            "start": "238.65"
+        }, 
+        {
+            "text": "bit to wander off\nunless there were", 
+            "dur": "1.81", 
+            "start": "240.26"
+        }, 
+        {
+            "text": "an empty space with a\ntrail of plant hormone", 
+            "dur": "1.89", 
+            "start": "242.07"
+        }, 
+        {
+            "text": "to lead it out of its spot.", 
+            "dur": "1.397", 
+            "start": "243.96"
+        }, 
+        {
+            "text": "But if there were, all\nthe nearer plant bits", 
+            "dur": "1.833", 
+            "start": "245.357"
+        }, 
+        {
+            "text": "would use up the hormone\ngrow to fill in the space.", 
+            "dur": "2.84", 
+            "start": "247.19"
+        }, 
+        {
+            "text": "Mathematicians and programmers\nmade their own simulations,", 
+            "dur": "2.499", 
+            "start": "250.03"
+        }, 
+        {
+            "text": "and found the same thing.", 
+            "dur": "1.041", 
+            "start": "252.529"
+        }, 
+        {
+            "text": "The best way to fit new\nthings in with the most space,", 
+            "dur": "2.293", 
+            "start": "253.57"
+        }, 
+        {
+            "text": "has them pop up at that angle,\nnot because the plant knows", 
+            "dur": "2.416", 
+            "start": "255.863"
+        }, 
+        {
+            "text": "about the angle,\nbut because that&#39;s", 
+            "dur": "1.471", 
+            "start": "258.279"
+        }, 
+        {
+            "text": "where the most\nhormone has built up.", 
+            "dur": "1.72", 
+            "start": "259.75"
+        }, 
+        {
+            "text": "Once it gets started, it&#39;s\na self perpetuating cycle.", 
+            "dur": "2.75", 
+            "start": "261.47"
+        }, 
+        {
+            "text": "All these flower\nbits are doing is", 
+            "dur": "1.48", 
+            "start": "264.22"
+        }, 
+        {
+            "text": "growing where there&#39;s\nthe most room for them.", 
+            "dur": "1.874", 
+            "start": "265.7"
+        }, 
+        {
+            "text": "The rest happens\nauto-mathically.", 
+            "dur": "2.086", 
+            "start": "267.574"
+        }, 
+        {
+            "text": "It&#39;s not weird that all these\nplants show Fibonacci numbers.", 
+            "dur": "2.87", 
+            "start": "269.66"
+        }, 
+        {
+            "text": "It would be weird\nif they didn&#39;t.", 
+            "dur": "1.86", 
+            "start": "272.53"
+        }, 
+        {
+            "text": "It had to be this way.", 
+            "dur": "2.22", 
+            "start": "274.39"
+        }, 
+        {
+            "text": "The best thing\nabout that theory is", 
+            "dur": "1.64", 
+            "start": "276.61"
+        }, 
+        {
+            "text": "that it explains why Lucas\npine cones would happen.", 
+            "dur": "2.126", 
+            "start": "278.25"
+        }, 
+        {
+            "text": "If something goes\na bit differently", 
+            "dur": "1.457", 
+            "start": "280.376"
+        }, 
+        {
+            "text": "in the very beginning,\nthe meristem", 
+            "dur": "1.657", 
+            "start": "281.833"
+        }, 
+        {
+            "text": "will settle into a different,\nbut stable, pattern", 
+            "dur": "2.81", 
+            "start": "283.49"
+        }, 
+        {
+            "text": "of where there&#39;s the most\nroom to add new plant bits.", 
+            "dur": "2.54", 
+            "start": "286.3"
+        }, 
+        {
+            "text": "That is 100 degrees away.", 
+            "dur": "1.8", 
+            "start": "288.84"
+        }, 
+        {
+            "text": "It even explains\nalternating leaf patterns.", 
+            "dur": "1.892", 
+            "start": "290.64"
+        }, 
+        {
+            "text": "If the leaves are\nfar enough apart,", 
+            "dur": "1.458", 
+            "start": "292.532"
+        }, 
+        {
+            "text": "relative to how much\ngrowth hormone they like,", 
+            "dur": "2.27", 
+            "start": "293.99"
+        }, 
+        {
+            "text": "that these leaves don&#39;t\nhave any repelling", 
+            "dur": "2.05", 
+            "start": "296.26"
+        }, 
+        {
+            "text": "force with each other, then\nall this leaf cares about", 
+            "dur": "2.8", 
+            "start": "298.31"
+        }, 
+        {
+            "text": "is being farthest away from\nthe two above and below", 
+            "dur": "2.69", 
+            "start": "301.11"
+        }, 
+        {
+            "text": "it, which makes 180\ndegrees optimal.", 
+            "dur": "2.41", 
+            "start": "303.8"
+        }, 
+        {
+            "text": "And when leaves\ngrow in pairs that", 
+            "dur": "1.64", 
+            "start": "306.21"
+        }, 
+        {
+            "text": "are opposite each other,\nthe answer of where there&#39;s", 
+            "dur": "2.38", 
+            "start": "307.85"
+        }, 
+        {
+            "text": "the most room for\nboth of those leaves,", 
+            "dur": "1.91", 
+            "start": "310.23"
+        }, 
+        {
+            "text": "is at 90 degrees from\nthe one below it.", 
+            "dur": "2.247", 
+            "start": "312.14"
+        }, 
+        {
+            "text": "And if you look hard,\nyou can discover", 
+            "dur": "1.583", 
+            "start": "314.387"
+        }, 
+        {
+            "text": "even more unusual patterns.", 
+            "dur": "1.617", 
+            "start": "315.97"
+        }, 
+        {
+            "text": "The dots on the neck\nof this whatever-it-is,", 
+            "dur": "1.833", 
+            "start": "317.587"
+        }, 
+        {
+            "text": "come in spirals of 14 and\n22, which maybe is like", 
+            "dur": "2.62", 
+            "start": "319.42"
+        }, 
+        {
+            "text": "double the Lucas numbers.", 
+            "dur": "1.09", 
+            "start": "322.04"
+        }, 
+        {
+            "text": "And this pine cone has 6 and\n10, double Fibonacci numbers.", 
+            "dur": "3.36", 
+            "start": "323.13"
+        }, 
+        {
+            "text": "So how is a pineapple\nlike a pine cone?", 
+            "dur": "2.14", 
+            "start": "326.49"
+        }, 
+        {
+            "text": "What do daisies and Brussels\nsprouts have in common?", 
+            "dur": "2.93", 
+            "start": "328.63"
+        }, 
+        {
+            "text": "It&#39;s not the numbers they\nshow, it&#39;s how they grow.", 
+            "dur": "2.79", 
+            "start": "331.56"
+        }, 
+        {
+            "text": "This pattern is not just\nuseful, not just beautiful,", 
+            "dur": "2.95", 
+            "start": "334.35"
+        }, 
+        {
+            "text": "it&#39;s inevitable.", 
+            "dur": "1.44", 
+            "start": "337.3"
+        }, 
+        {
+            "text": "This is why science and\nmathematics are so much fun.", 
+            "dur": "3.18", 
+            "start": "338.74"
+        }, 
+        {
+            "text": "You discover things that seem\nimpossible to be true, and then", 
+            "dur": "2.96", 
+            "start": "341.92"
+        }, 
+        {
+            "text": "get to figure out why it&#39;s\nimpossible for them not to be.", 
+            "dur": "3.102", 
+            "start": "344.88"
+        }, 
+        {
+            "text": "To get this far in our\nunderstanding of these things,", 
+            "dur": "2.208", 
+            "start": "347.982"
+        }, 
+        {
+            "text": "it took the combined effort\nof mathematicians, physicists,", 
+            "dur": "2.57", 
+            "start": "350.19"
+        }, 
+        {
+            "text": "botanists, and biochemists.", 
+            "dur": "1.13", 
+            "start": "352.76"
+        }, 
+        {
+            "text": "And we&#39;ve certainly\nlearned a lot.", 
+            "dur": "1.46", 
+            "start": "353.89"
+        }, 
+        {
+            "text": "But there&#39;s much more\nto be discovered.", 
+            "dur": "1.41", 
+            "start": "355.35"
+        }, 
+        {
+            "text": "Maybe if you keep\ndoodling in math class,", 
+            "dur": "1.81", 
+            "start": "356.76"
+        }, 
+        {
+            "text": "you can help figure it out.", 
+            "dur": "2.24", 
+            "start": "358.57"
+        }
+    ], 
+    "title": "Doodling in Math: Spirals, Fibonacci, and Being a Plant [Part 3 of 3]", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/02ygw", 
+        "/m/04rjg", 
+        "/m/0gn_f"
+    ], 
+    "number_views": 971362, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T22:36:39.358Z", 
+            "text": "I have had several people try to explain how the sequence ties in with \nnature.  This is the first time I've actually understood it. I think I have \nhighschool and college notebooks around somewhere, and now I want to check \nmy doodles.  Thank you for putting this together and sharing it.\ufeff", 
+            "author": "Christina Lakatos"
+        }, 
+        {
+            "date": "2015-05-08T04:36:58.884Z", 
+            "text": "Shut up\ufeff", 
+            "author": "James Recchia"
+        }, 
+        {
+            "date": "2015-04-19T12:19:42.664Z", 
+            "text": "illuminati confirmed\ufeff", 
+            "author": "Jack Nicholls"
+        }, 
+        {
+            "date": "2015-04-09T21:59:58.424Z", 
+            "text": "You're amazing! These videos are super entertaining and incredibly \neducationally enticing!!!\ufeff", 
+            "author": "Amy Ross"
+        }, 
+        {
+            "date": "2015-04-05T19:52:43.867Z", 
+            "text": "1337\ufeff", 
+            "author": "Javier De Leon"
+        }, 
+        {
+            "date": "2015-03-25T13:50:44.000Z", 
+            "text": "The rest happens autoMATHichlly 04:26 :))\ufeff", 
+            "author": "iotuella"
+        }, 
+        {
+            "date": "2015-03-24T10:02:43.431Z", 
+            "text": "I hope they become a scientist or mathematics person or something that'll \nhelp our would with smart idk what I'm saying I guess I just hope they're \nhappy :))\ufeff", 
+            "author": "Grace Styles"
+        }, 
+        {
+            "date": "2015-03-23T19:56:06.574Z", 
+            "text": "you are a brilliant teacher \ufeff", 
+            "author": "Daniel Pothier"
+        }, 
+        {
+            "date": "2015-03-19T18:13:49.507Z", 
+            "text": "your videos leave me speechless\ufeff", 
+            "author": "phoenixsong38"
+        }, 
+        {
+            "date": "2015-03-16T22:59:17.408Z", 
+            "text": "Wow! really great videos. I enjoyed them (and followed along relatively \neasily)\ufeff", 
+            "author": "Edgar von Trotha"
+        }, 
+        {
+            "date": "2015-03-16T02:00:30.087Z", 
+            "text": "I want that notebook. All of the notebooks shown in this 3part series. \ufeff", 
+            "author": "Nicotinamida Adenina Dinucle\u00f3tido"
+        }, 
+        {
+            "date": "2015-04-13T12:58:41.680Z", 
+            "text": "Ikr", 
+            "author": "Linus Cheok"
+        }, 
+        {
+            "date": "2015-04-01T20:34:31.651Z", 
+            "text": "+Jessilin Lugo Exactly!", 
+            "author": "Nicotinamida Adenina Dinucle\u00f3tido"
+        }, 
+        {
+            "date": "2015-04-01T07:49:25.813Z", 
+            "text": "if she sold these as books i would buy them ", 
+            "author": "Jessilin Lugo"
+        }, 
+        {
+            "date": "2015-03-09T13:02:47.813Z", 
+            "text": "nice.now...i have to go back and LIKE all three parts. /cheers\ufeff", 
+            "author": "IWANTAWORLD"
+        }, 
+        {
+            "date": "2015-03-15T17:54:35.084Z", 
+            "text": "oh, you have the creepiest and most awesome userpic i've seen today (okay, \nmay be this year).", 
+            "author": "Yuriy Chizhov"
+        }, 
+        {
+            "date": "2015-03-02T23:48:26.228Z", 
+            "text": "I really love all your videos! I like how you combined math, science, and \nart all in one video. I never knew that plants grew at angles and it's cool \nto see that nature isn't completely random. It has inspired me to pay more \nattention to details in the future. :) \ufeff", 
+            "author": "Taran Estad"
+        }, 
+        {
+            "date": "2015-02-28T18:56:26.972Z", 
+            "text": "Schizophrenia\ufeff", 
+            "author": "SveinHighway420JesusSwag"
+        }, 
+        {
+            "date": "2015-02-25T22:23:12.458Z", 
+            "text": "My teacher shows my class These videos \ufeff", 
+            "author": "Cadence huizar"
+        }, 
+        {
+            "date": "2015-02-16T22:58:00.265Z", 
+            "text": "confusing\ufeff", 
+            "author": "Crazy Crafter"
+        }, 
+        {
+            "date": "2015-02-05T00:03:06.120Z", 
+            "text": "Thanks for this. You have that wonderful combination of artist and \nmathematician. I'm an artist/scientist for a long time and create programs \nthat bring many disciplines together too. Hope you make more thought stream \nvideos.\ufeff", 
+            "author": "gentlemarj"
+        }, 
+        {
+            "date": "2015-02-04T23:12:39.768Z", 
+            "text": "0:52 xD\n\nAnd THE GOOGLY EYES :OOOOO\ufeff", 
+            "author": "AnimalsRule53789 AJ"
+        }, 
+        {
+            "date": "2015-01-29T08:08:15.551Z", 
+            "text": "what got me here was a video about the prove of the existence of \ngod Fibonacci theory seems some how to be the finger print of god cus even \nhumans sizes are rule by that pattern also the planet has that pattern and \nis located in Mecca a City in Saudi Arabia call the house of god even \ngalaxy's has that pattern \ni do believe on the creator regardless but what do you guys think i wish to \nhear ppl thoughts on this matter please comment with decency and respect \ufeff", 
+            "author": "mundoworld3D"
+        }, 
+        {
+            "date": "2015-05-02T08:17:40.011Z", 
+            "text": "Give us the link to that god proof video", 
+            "author": "Tatiana Kearns"
+        }, 
+        {
+            "date": "2015-01-24T04:46:39.222Z", 
+            "text": "THIS IS SO COOL LOL LIKE HE SAID TAKE A BREATH LOL WAY TOO FAST LOL :3\ufeff", 
+            "author": "Jaala Legrone"
+        }, 
+        {
+            "date": "2015-01-21T19:45:38.234Z", 
+            "text": "You are an amazing teacher.\ufeff", 
+            "author": "apoetrune"
+        }, 
+        {
+            "date": "2015-01-18T23:03:53.013Z", 
+            "text": "Thank you for that wonderful lesson in Terms of Content and presentation! I \nthink ill doodle around in maths\nmuch more now :)\ufeff", 
+            "author": "Frank Borchers"
+        }, 
+        {
+            "date": "2015-01-18T01:48:22.658Z", 
+            "text": "Do you watch the show called TOUCH?? it had the Fibonacci sequence in it.. \nAnd it's really interesting and addicting to watch.. In on Netflix.. 2 \nseasons.. Very very very good show\ufeff", 
+            "author": "Wolfy"
+        }, 
+        {
+            "date": "2015-04-17T12:19:51.168Z", 
+            "text": "+Koya C yes I know. But the show is very interesting.", 
+            "author": "Wolfy"
+        }, 
+        {
+            "date": "2015-04-16T21:10:00.245Z", 
+            "text": "Pssh big deal, everything's got the Fibonacci sequence in it.", 
+            "author": "Koya C"
+        }, 
+        {
+            "date": "2015-01-11T01:53:43.426Z", 
+            "text": ":) wow, thank you! So much fun and awesomeness ^_^! \ufeff", 
+            "author": "Anne Rousseau"
+        }, 
+        {
+            "date": "2015-01-03T03:27:54.087Z", 
+            "text": "amazing lectures~~~ \ufeff", 
+            "author": "Junjie Li"
+        }, 
+        {
+            "date": "2014-12-28T09:57:12.064Z", 
+            "text": "I think it's hilarious that she has to keep pushing the plants away, like \nthey are taking over ;))) love the videos! Inspiring!!\ufeff", 
+            "author": "Loren Wade"
+        }, 
+        {
+            "date": "2014-12-23T14:55:42.374Z", 
+            "text": "", 
+            "author": "Tumurbaatar Gyagar"
+        }, 
+        {
+            "date": "2014-12-23T14:53:31.720Z", 
+            "text": "", 
+            "author": "Tumurbaatar G"
+        }, 
+        {
+            "date": "2014-12-23T02:24:10.627Z", 
+            "text": "Thank you~ <3\ufeff", 
+            "author": "Shelby Z"
+        }, 
+        {
+            "date": "2014-12-20T22:59:16.718Z", 
+            "text": "Clues abound regarding the \"logic\" of nature...\ufeff", 
+            "author": "Allison Van Eck"
+        }, 
+        {
+            "date": "2014-12-21T14:58:46.075Z", 
+            "text": "Nice...", 
+            "author": "Eldon Ruhl"
+        }, 
+        {
+            "date": "2014-12-20T22:19:59.000Z", 
+            "text": "Thank you so much! So entertaining and fun to watch! Praise the Creator :) \ufeff", 
+            "author": "imlabella"
+        }, 
+        {
+            "date": "2014-12-09T18:55:59.254Z", 
+            "text": "What an awesome job. Congratulations and thank you!!! \ufeff", 
+            "author": "Pablo Merodio"
+        }, 
+        {
+            "date": "2014-12-03T22:56:02.475Z", 
+            "text": "I am Groot\ufeff", 
+            "author": "T Olive"
+        }, 
+        {
+            "date": "2015-04-16T18:31:37.845Z", 
+            "text": "+T Olive No you're not.", 
+            "author": "Dangit_Bobby"
+        }, 
+        {
+            "date": "2015-01-16T09:31:46.956Z", 
+            "text": "+Timo J But... but.... T.T\n\nHe does say \"we are groot\" before \"dying\"... D:\n\n(or did I misheard it?)", 
+            "author": "Matheus Adorni Dardenne"
+        }, 
+        {
+            "date": "2015-01-13T23:07:15.991Z", 
+            "text": "+Matheus Adorni Dardenne :| IMPOSTER", 
+            "author": "Timo J"
+        }, 
+        {
+            "date": "2015-01-04T09:38:52.351Z", 
+            "text": "We are Groot", 
+            "author": "Matheus Adorni Dardenne"
+        }, 
+        {
+            "date": "2014-11-19T04:48:22.780Z", 
+            "text": "SO MANY EYES OF GOOGLES!! (LOL GOOGLY EYES)\ufeff", 
+            "author": "Five Nights at Freddy's Gamer"
+        }, 
+        {
+            "date": "2014-11-15T14:09:01.000Z", 
+            "text": "You're amazing! Really like your passion!\nMarry me =))\ufeff", 
+            "author": "Simon Inkin"
+        }, 
+        {
+            "date": "2014-11-05T22:29:32.969Z", 
+            "text": "this much effort... you deserve more ad revenue for sure!\ufeff", 
+            "author": "ArAcHnId777"
+        }, 
+        {
+            "date": "2014-11-05T09:33:57.896Z", 
+            "text": "", 
+            "author": "TheCosmicPenguin // Raad Chowdhury"
+        }, 
+        {
+            "date": "2014-10-14T18:17:56.735Z", 
+            "text": "The cone with a long shape looks more like a spruce cone than a pine cone.\ufeff", 
+            "author": "patu8010"
+        }, 
+        {
+            "date": "2014-10-12T23:05:20.583Z", 
+            "text": "Fantastic\ufeff", 
+            "author": "Raul Luna"
+        }, 
+        {
+            "date": "2014-10-11T22:35:54.124Z", 
+            "text": "Doodling in Math: Spirals, Fibonacci, and Being a Plant [Part 3 of 3]\n\nhttp://youtu.be/14-NdQwKz9w\ufeff", 
+            "author": "John McCannon (Digital Tectum)"
+        }, 
+        {
+            "date": "2014-10-11T22:34:43.413Z", 
+            "text": "Doodling in Math: Spirals, Fibonacci, and Being a Plant [Part 3 of 3]\n\nhttp://youtu.be/14-NdQwKz9w\ufeff", 
+            "author": "Digital Tectum Photography"
+        }, 
+        {
+            "date": "2014-10-03T17:13:05.581Z", 
+            "text": "cia tiems kurie galvoja kad:\nzmonese, radiotechnikoje(pc ir t.t.), masinose, ir gamtoje kas nors kitaip:\nDoodling in Math: Spirals, Fibonacci, and Being a Plant [Part 3 of 3]\nkas tas kuris \"versle svarbu prisitiakyti cia ir dabar prie susiklosciusios \nsistuacijos?\" \nant kokios fibos pasnekovas sukasi :) nes ir is\"blogos nuotaikos\" \n(krentantcios rinkos galima uzdirbti \"zodziu\") bet ar tie zodziai itakos \nmano rinka i + ar i - :)\ufeff", 
+            "author": "Mindaugas \u017dvirblis"
+        }, 
+        {
+            "date": "2014-10-03T17:16:07.175Z", 
+            "text": "turetu but svarbu zaidimu kurejams. kad zaidimai neuzpyp:) skaiciuojant \nformules ir kokio dydzio sraige(skill) per kiek laiko uzaugs ir kiek ju \nreikia ir kiek kainuoja uzaugint kad butu sotus :)", 
+            "author": "Mindaugas \u017dvirblis"
+        }, 
+        {
+            "date": "2014-09-29T19:07:44.598Z", 
+            "text": "I love your style of explaining. Please never stop, this is hilarious ans \namazing!\ufeff", 
+            "author": "MaskedVFX"
+        }, 
+        {
+            "date": "2014-09-24T04:39:43.705Z", 
+            "text": "Finnaly i get closure on this\nIve been contemplating the mishaps in plants following of fibbonacci since \ni was 5 or 6 and my grandfather taught me about the sequence \ufeff", 
+            "author": "Jimmy MCKINNON"
+        }, 
+        {
+            "date": "2014-09-18T07:17:05.134Z", 
+            "text": "You are amazing! Thanks for opening my mind to a new wonder!\ufeff", 
+            "author": "Zombielolcats"
+        }, 
+        {
+            "date": "2014-09-12T20:22:42.714Z", 
+            "text": "", 
+            "author": "Sarah Jones"
+        }, 
+        {
+            "date": "2014-09-06T06:11:17.295Z", 
+            "text": "she said the pattern of how plants grow is inevitable\ufeff", 
+            "author": "rainbow loom girl"
+        }, 
+        {
+            "date": "2014-09-05T23:04:39.630Z", 
+            "text": "Oh my gosh XD 5:38 XD\ufeff", 
+            "author": "Hatsune Miku"
+        }, 
+        {
+            "date": "2014-09-03T04:29:46.425Z", 
+            "text": "Slugcats!!!!!!\ufeff", 
+            "author": "Ashley W"
+        }, 
+        {
+            "date": "2014-08-31T17:50:19.400Z", 
+            "text": "But aren't animals are full of Fibonacci too? The length of our finger \nbones relative to one another seem to be at the \u03d5 ratio, the average height \nof our belly buttons compared to our average overall height, as Leonardo Da \nVinci pointed out. Dragon fly wingspan compared to length. Sea shells are a \ncommon example. And how can all of us different life forms be full of \u03d5 and \nstill look so different. I don't think I look like a pineapple. But maybe \nI'm just not vain enough to take credit were it's due.\ufeff", 
+            "author": "Sneaky Lemur"
+        }, 
+        {
+            "date": "2014-08-30T23:59:08.717Z", 
+            "text": "Thank you for this 3 part series! It only goes to show that there is \nnothing random at all, that there is clearly a design and a set of laws and \ncodes that God has placed into His creations. Where there are clear \ndesigns, plans and methods that so many different things follow, it's only \nevidence that there IS a Designer, a Planner, a Creator. Thank you!\ufeff", 
+            "author": "Keitaro Kobe"
+        }, 
+        {
+            "date": "2014-12-10T03:23:07.819Z", 
+            "text": "+Paul Chi\n\nThat entire comment was based on fallacies: the argument from personal \nexperience is a fallacy, as is the argument from commons sense.", 
+            "author": "Mitchell Davis"
+        }, 
+        {
+            "date": "2014-12-10T00:58:23.452Z", 
+            "text": "+Paul Chi I forget about timezones, it's 5 for me.\nBut to that point, I think it's amatter of us having different philosophies \non life. I see things as existing more on their own (although not \ncompletely independently) and you more in terms of relationships to other \nthings, both of which are fine outlooks. Back to my earlier point, \npostulation. G'night Paul.", 
+            "author": "Tr\u00f6gg\u00e2\u00e7om C\u00e0ct\u00fcs"
+        }, 
+        {
+            "date": "2014-12-10T00:40:52.721Z", 
+            "text": "You are quite charming. I don't mind you calling me simple. I simply don't \nthink that you can validly say of yourself, 'I'm me' and 'no relation to \nanyone or anything else'. That doesn't make any sense at all and can't \npossibly be true. You are always a son; its not a social construct, its \nbiological, etc. Chat later... gotta go to bed ! ", 
+            "author": "Paul Chi"
+        }, 
+        {
+            "date": "2014-12-09T23:35:13.764Z", 
+            "text": "+Paul Chi Postulation again. If you asked me who I am, I'd say I'm me. No \nrelation to anyone or anything else, unless you pester me to give yous such \nanswers. I see these relationships as social constructs that we use to \nmodel the world around us, physical or otherwise, so as to better \nunderstand it. It may sound like I'm calling you simple, or stupid, or \ngenerally like I'm being condescending, and while that may very well be \ntrue that it's the message I'm conveying, that's not my intent. (wow that \nwas a long disclaimer)\n\nTL;DR I find relations like that to be arbitrary and human-drawn. I also \nhate taxonomy for the same reason.", 
+            "author": "Tr\u00f6gg\u00e2\u00e7om C\u00e0ct\u00fcs"
+        }, 
+        {
+            "date": "2014-12-09T23:23:57.294Z", 
+            "text": "You make some great points, like perhaps \"everything is sentient and we \ndon't recognize it...\". I think perhaps that people opposed vehemently to \nthe God notion have issues with their fathers !!\nI actually believe that the God argument is the reasonable one because its \nbased on common sense. The fact that when I ask you who you are, and you \nsay I'm a father or a mother or a daughter or a son or a sister or a \nbrother (alll relationahl terms) indicates to me that we live in a \nrelational universe; that its how the universe works. In fact, this is your \nreality, not numbers or theories about the origin of the universe, but \nfacts about the key relatioships that shape who you are. There isn't a \ncoherent scientific explanation of the universe and everything. You are \nbetter off starting from your own experience. ", 
+            "author": "Paul Chi"
+        }, 
+        {
+            "date": "2014-12-09T22:32:58.217Z", 
+            "text": "+Tr\u00f6gg\u00e2\u00e7om C\u00e0ct\u00fcs\n\nIf you were better informed, you wouldn't need to make up statistics in \norder to dismiss a reasonable discussion with a simple and clear conclusion \n(simple and clear if one employs reason): there is absolutely no evidence \nfor any god.", 
+            "author": "Mitchell Davis"
+        }, 
+        {
+            "date": "2014-12-09T22:30:54.288Z", 
+            "text": "Also, 99.9 to 100% of the atheistic/theistic argument boils down to \npostulation, so arguing about it is kind of pointless, at least for \nnon-philosophers.", 
+            "author": "Tr\u00f6gg\u00e2\u00e7om C\u00e0ct\u00fcs"
+        }, 
+        {
+            "date": "2014-12-09T22:29:38.857Z", 
+            "text": "+Paul Chi That's a good question that I won't even pretend to try and \nanswer in a text box. I've given a lot of thought to where sentience came \nfrom, and I still don't have an answer. But to your point about intent, I \nsee no reason why anything we see now needed intention to be created. I \nthink people see creation in nature not because it was created, but because \nwe create to replicate nature and therefore, nature looks created. Much \nlike some people, typically in reference to television or related, say that \nX is a shameless ripoff of Y, when Y was created so as to be like X. They \nwere exposed more to Y first, so they think X was meant to be like Y, even \nthough X came first and y was inspired by X. If this makes any sense. So \nI'm not sure of any other beings, physical or otherwise, capable of intent \nor longing or anything else you listed, but I see no solid reason \npersonally as to why they must. Perhaps we simply haven't found them yet, \nor everything is sentient and we don't recognize it because it's so \ndifferent from our own sentience. I don't pretend to understand, but those \nare my uneducated guesses.", 
+            "author": "Tr\u00f6gg\u00e2\u00e7om C\u00e0ct\u00fcs"
+        }, 
+        {
+            "date": "2014-12-09T22:27:59.104Z", 
+            "text": "+Paul Chi\n\n\" the designed purposeful world, \"\n\nThe universe is structured, *not designed.*\n\nTo conflate the two is blatant dishonesty.\n\n\"Randomness or God\"\n\nAgain, blatantly dishonest: you've knowingly constructed a false dichotomy.\n\n\" I find everywhere evidence of INTENTION.\"\n\nLiar. If you do, you can prove it; you can't, so you do not.\n\nBy definition one cannot determine that a thing is designed if there is no \nnatural state to compare with, as design is determined by contrasting \nnature with what has been knowingly designed. To claim that there is some \nsort of design to the universe, you have to first abandoned reason.", 
+            "author": "Mitchell Davis"
+        }, 
+        {
+            "date": "2014-12-09T22:18:59.427Z", 
+            "text": "Cool. I don't believe in hell beyond the one our species seems to be good \nat creating on this planet.\nI'm with you on the \"patterns/beauty in nature means God\" argument is \nunconvincing. \nBut the notion that INTENTION only applies to human creation; most of what \ncan be seen in our environment; the designed purposeful world, and not to \nanything else in the universe; not to the vastly more impressive creation \nthat contextualises our own works... that doesn't make any sense to me. \nNothing comes into being without passion, longing, desire, energy, \ndirection, force, will, INTENT. Its a bit much to suppose that only humans \nhave these qualities. We are part of nature. Why would we possess qualities \nthat were not found universally?", 
+            "author": "Paul Chi"
+        }, 
+        {
+            "date": "2014-12-09T21:59:35.000Z", 
+            "text": "I find the \"patterns/beauty in nature means God\"* argument unconvincing, \nmainly because we (as a species) developed in the world and got used to the \npatterns we saw in the world. When we see a field as pretty and paint it, \nit's not evidence of God being at work (to my eyes), it's just \ndemonstrating that we've grown to see beauty as what we see in nature. \nNature isn't beautiful, beauty is nature.\n\n*this is a simplification of what most people say, including yourself\n\nEdit: I should add, thank you for not being rude about it and saying \"JESUS \nCHRIST IS LORD AND YOU MUST ACCEPT HIM OR BURN IN HELL FOREVER\" like most \npeople talking about religion on the internet seem to.", 
+            "author": "Tr\u00f6gg\u00e2\u00e7om C\u00e0ct\u00fcs"
+        }, 
+        {
+            "date": "2014-12-09T13:23:18.437Z", 
+            "text": "Intriguing; the cause of everything; Randomness or God; unknowable \nopposition; a ridiculous choice. I find everywhere evidence of INTENTION. \nBig R and Big G don't fit. ", 
+            "author": "Paul Chi"
+        }, 
+        {
+            "date": "2014-11-24T22:54:06.452Z", 
+            "text": "+Sean Hill \"God or no God, math is cool :)\"  I want that written on my \ntombstone. Smiley included. ", 
+            "author": "Becca Rucker"
+        }, 
+        {
+            "date": "2014-11-23T20:28:57.409Z", 
+            "text": "+pacer547 Yep, it's all confirmation bias! Same for any side, though, that \nattempts to make conclusions beyond what we can really understand. At \nleast, that's how I see it. But God or no God, math is cool :)", 
+            "author": "Sean Hill"
+        }, 
+        {
+            "date": "2014-11-22T17:24:23.831Z", 
+            "text": "Sheesh! \nPattern = God.\nNo pattern = God", 
+            "author": "pacer547"
+        }, 
+        {
+            "date": "2014-11-14T01:13:16.666Z", 
+            "text": "+Keitaro Kobe I don't respect your beliefs at all in fact I'll actively \ncriticize anyone's beliefs. ", 
+            "author": "Steven R."
+        }, 
+        {
+            "date": "2014-11-13T10:12:12.239Z", 
+            "text": "well you got 16 replies including mine so id call you a too-obvious troll \nbut id be wrong", 
+            "author": "Derbert M'Chingstape"
+        }, 
+        {
+            "date": "2014-11-05T22:35:42.532Z", 
+            "text": "+Sean Hill the world is coming to an end for sure now :( those three ruined \nit for the rest of us with their \"niceness\" :p", 
+            "author": "ArAcHnId777"
+        }, 
+        {
+            "date": "2014-11-04T19:03:09.000Z", 
+            "text": "+Keitaro Kobe \n\nYou are conflating structure with design, and whether or not you're doing \nthat intentionally, that is dishonest. If you want to claim that evolution \nproves god, then you have to provide evidence instead of just making the \ndeclaration.\n\nFurthermore, opinions are not inherently worthy of respect. In science, \nideas are afforded \"respect\" based upon the evidence. Respecting all \nopinions means throwing science out the window.\n\nPeople deserve respect; ideas do not.", 
+            "author": "Mitchell Davis"
+        }, 
+        {
+            "date": "2014-10-23T22:05:15.191Z", 
+            "text": "+Ekkehard Ehrenstein I like your POV, really. ", 
+            "author": "Bernat Gene"
+        }, 
+        {
+            "date": "2014-08-30T01:39:40.219Z", 
+            "text": "is this how we get fibonacci broccoli?\ufeff", 
+            "author": "Bruce Kramer"
+        }, 
+        {
+            "date": "2014-08-26T09:31:32.380Z", 
+            "text": "i dont understand all you say, just a little (i am not an english) but i \nlike your work on the explanation of the videos  your drawings and your \nvoice\ufeff", 
+            "author": "Facundo Orlando"
+        }, 
+        {
+            "date": "2014-08-13T18:52:46.225Z", 
+            "text": "Will you date me?\ufeff", 
+            "author": "Jasper Amdahl"
+        }, 
+        {
+            "date": "2014-08-13T18:52:37.726Z", 
+            "text": "AWESOME!\ufeff", 
+            "author": "Jasper Amdahl"
+        }, 
+        {
+            "date": "2014-08-08T05:21:02.000Z", 
+            "text": "Way too fast. Take a breath. Sometimes there's great value in occasional \nsilence. :)\ufeff", 
+            "author": "Kieran Short"
+        }, 
+        {
+            "date": "2014-09-24T14:57:55.342Z", 
+            "text": "I think she explained it well, I followed it ok :s", 
+            "author": "TheNeurofluxation"
+        }, 
+        {
+            "date": "2014-08-08T05:39:32.770Z", 
+            "text": "That's great! Maths is beautiful ", 
+            "author": "Dave Wheeler"
+        }, 
+        {
+            "date": "2014-08-07T08:21:59.310Z", 
+            "text": "very interesting, Im a trader and I use fibonacci in my trading, its \namazing how these numbers are in everything, even in the price chart, \ufeff", 
+            "author": "netineither"
+        }, 
+        {
+            "date": "2014-09-09T22:43:29.000Z", 
+            "text": "+FernieCanto yes it is wierd wonderful and a bit scary at the same time, it \nalmost seems like everything is pre-determined and everything happends in \nthe line of those numbers, some traders say that, naah, just because most \ntraders are using those levels, it makes them a self fulfilling prophesy, \nbut that is wrong, because we can clearly see the numbers are in everything \nelse, so who is making everything else self fulfilling? who is self \nfulfilling the leaves of a a rose? or a tornado? the universe? who is self \nfulfilling that?  the numbers are there, there is no denying in it. they \nare definitely of intelligent origin, maybe it's Gods blueprint ? :) this \nis a powerful tool when trading.", 
+            "author": "netineither"
+        }, 
+        {
+            "date": "2014-09-09T15:53:57.687Z", 
+            "text": "+Piriya Sambandaraksa\nThat's amazing. Trading and economics always looked complicated to the \npoint of witchcraft to me, so seeing that Fibonacci is involved with it is \nbreathtaking.", 
+            "author": "Fernie Canto"
+        }, 
+        {
+            "date": "2014-09-01T03:14:03.591Z", 
+            "text": "+Piriya Sambandaraksa i'm very interested to learn, can u recommend me some \nvideos?? plz", 
+            "author": "yao shen"
+        }, 
+        {
+            "date": "2014-08-30T23:59:08.000Z", 
+            "text": "+yao shen You can just search for fibonacci on youtube, half of them will \nbe about trading.\nSince market sentiments are natural (greed and fear and such) market \nmovements grows in fibonacci order, back and forth. the phi and the order \nitself (used in elliot's wave) can very accurately predicts or rules off \npossibility in the market. \n\nPS, I teach architecture and trading, so, there, it's beautiful where my \ntwo sides of life meets! :) in the fibonacci", 
+            "author": "Piriya Sambandaraksa"
+        }, 
+        {
+            "date": "2014-08-17T05:49:13.025Z", 
+            "text": "fibonacci in trading? can you upload a video and explain it please?", 
+            "author": "yao shen"
+        }, 
+        {
+            "date": "2014-08-06T18:08:56.535Z", 
+            "text": "awesome videos i love them\ufeff", 
+            "author": "I77AGIC"
+        }, 
+        {
+            "date": "2014-08-04T03:45:34.799Z", 
+            "text": "the thing you found on the side of the road is a magnolia tree seed pod\ufeff", 
+            "author": "Vance Henize"
+        }, 
+        {
+            "date": "2014-07-31T20:08:14.014Z", 
+            "text": "This was incredibly fascinating.  I think I stared slack-jawed at the \ncomputer for the entire 6 minutes.   Thanks to +Victoria Mixon for posting \nabout this! \ufeff", 
+            "author": "J. A. Andrews"
+        }, 
+        {
+            "date": "2014-07-31T07:39:30.587Z", 
+            "text": "So awesome.\ufeff", 
+            "author": "Zeradin"
+        }, 
+        {
+            "date": "2014-07-31T04:01:51.850Z", 
+            "text": "i want to marry the person who made this video \ufeff", 
+            "author": "Tiffani Colwell"
+        }, 
+        {
+            "date": "2014-07-26T04:57:28.621Z", 
+            "text": "great videos, and I hope you continue following your curiosities and quest \nfor knowledge!\ufeff", 
+            "author": "Tyler Kurlas"
+        }, 
+        {
+            "date": "2014-07-17T11:12:13.138Z", 
+            "text": "i wonder how many googly eyes she uses in a week\ufeff", 
+            "author": "Mahliza Manglapus"
+        }, 
+        {
+            "date": "2014-07-12T14:10:31.495Z", 
+            "text": "Doodle dna and stem cells\ufeff", 
+            "author": "Sandro Fortini"
+        }, 
+        {
+            "date": "2014-07-11T23:59:59.044Z", 
+            "text": "                          the stuff in this video---> ~~woosh~~\n                                                     \n                                                     (o v o) <---my head \ufeff", 
+            "author": "Nick Sammartino"
+        }, 
+        {
+            "date": "2014-07-11T09:59:28.042Z", 
+            "text": "Wow!! I just learned so much... What an excellent channel you have! Thank \nyou for sharing and I subscribed!\ufeff", 
+            "author": "Cherilyn Spann"
+        }, 
+        {
+            "date": "2014-07-08T08:24:48.122Z", 
+            "text": "I loved the whole 3 part series, you should make one about the awesomness \nof the Golden Ratio\ufeff", 
+            "author": "Door Man"
+        }, 
+        {
+            "date": "2014-07-05T13:23:32.778Z", 
+            "text": "i don't get it at all, but your just really good at drawing\ufeff", 
+            "author": "Allison Pierro"
+        }, 
+        {
+            "date": "2014-07-03T15:24:13.795Z", 
+            "text": "Thank you Vi Hart :) \nI used to think that Fibonacci numbers were just a bore back in primary \nschool, but now it seems so much fun! Thank you for making math fun :D\ufeff", 
+            "author": "Jasmine Lui"
+        }, 
+        {
+            "date": "2014-07-01T10:52:40.217Z", 
+            "text": "is she in MIT?\ufeff", 
+            "author": "substitute101"
+        }, 
+        {
+            "date": "2014-06-29T02:00:34.738Z", 
+            "text": "I love you.\ufeff", 
+            "author": "simon sheldon"
+        }, 
+        {
+            "date": "2014-06-24T22:11:25.154Z", 
+            "text": "All complexity in the universe is ultimately like this - a necessary \nconsequence of the confluence of a few simple rules.\ufeff", 
+            "author": "AndroidDoctorr"
+        }, 
+        {
+            "date": "2014-06-22T22:37:41.450Z", 
+            "text": "u make math look cool, omg, that was awesome!! congrats!!\ufeff", 
+            "author": "cozzniehaus"
+        }, 
+        {
+            "date": "2014-06-18T23:40:17.321Z", 
+            "text": "this was so involved it made me want to do my home work\n:|\ufeff", 
+            "author": "Mackenzie Robbins"
+        }, 
+        {
+            "date": "2014-06-14T15:47:23.762Z", 
+            "text": "Hooray for Fibonacci!!!\ufeff", 
+            "author": "Shakil Rafi"
+        }, 
+        {
+            "date": "2014-06-11T15:45:54.100Z", 
+            "text": "the plant you did not know the name of is a crassula, they come from my \nhome country, South Africa\ufeff", 
+            "author": "Ryan Duncan"
+        }, 
+        {
+            "date": "2015-02-27T00:12:41.000Z", 
+            "text": "5:18  Do you mean this one? Sorry, but it is not a Crassula, it is the \ninner part of a Magnolia Grandiflora's flower, its seedpod. It is where, \nafter the flower dies, the little red fruits of the Magnolia are stored and \neventually pop out of it. ", 
+            "author": "Alejandro Larrea"
+        }, 
+        {
+            "date": "2014-06-13T18:22:08.086Z", 
+            "text": "cool i had never heard of that plant before ", 
+            "author": "Kristian Pagan"
+        }, 
+        {
+            "date": "2014-06-09T21:37:40.939Z", 
+            "text": "beautiful.\ufeff", 
+            "author": "eduo123"
+        }, 
+        {
+            "date": "2014-06-06T16:32:22.713Z", 
+            "text": "Vi Hart.. you're amazing!!! Thank you very much.\ufeff", 
+            "author": "Jeremy Watt"
+        }, 
+        {
+            "date": "2014-06-05T16:50:57.761Z", 
+            "text": "i feel slow\ufeff", 
+            "author": "Slinkybeaver PR"
+        }, 
+        {
+            "date": "2014-06-02T09:01:36.392Z", 
+            "text": "Mathematically mainlining the secrets of the universe.  I'm so happy to \nknow that my soon to be born daughter will have a world class math \nteacher.  Thank you Vi Hart.\ufeff", 
+            "author": "Patrick Meath"
+        }, 
+        {
+            "date": "2014-06-01T02:58:30.875Z", 
+            "text": "Right, do you know how many years I've been seeing this stuff without \nknowing the why of it?  Because it leaves Nature with room to work.  Always \nroom for one more.  It may seem self-evident now, but I find solace in \nknowing it took more than one bright person or discipline to put all this \ntogether.  I'd like to thank you personally for artfully explaining this to \nme.  I can honestly say, \"I get it,\" now, thanks to you.  So, how did you \nget a shorter attention span than me, anyway?\ufeff", 
+            "author": "avaratatat"
+        }, 
+        {
+            "date": "2014-05-23T03:50:39.185Z", 
+            "text": "Ha!!! \"Math-omatically!!\"\n\nYou rock!!\ufeff", 
+            "author": "jerryskid2011"
+        }, 
+        {
+            "date": "2014-05-21T01:03:02.420Z", 
+            "text": "These videos are Awesome! My 7-year-old loved them. Part 3 was a bit much \nfor him but he'll get there. Thanks!\ufeff", 
+            "author": "Scott Evans"
+        }, 
+        {
+            "date": "2014-05-14T20:38:44.245Z", 
+            "text": "This was brilliantly done!\n\nSo perhaps a little food for thought:  I happened across an article dated \nfrom 2010 that noticed Phi on the quantum level.  Here's the article, if \nyou're curious:  \nhttp://www.sciencedaily.com/releases/2010/01/100107143909.htm\n\nThis caused me to ponder something I heard Sir Martin Rees say in a lecture \nI watched on YouTube (paraphrased), \"Quantum physics and General Relativity \ndo not affect each other, but if you wound the clock back to the point of \nthe singularity, where the universe was tiny, then quantum physics would \naffect the large.\"\n\nIt's just an idea, and by no means a theory, but perhaps we see this \npattern because, on the quantum level, it was fundamental to how everything \nstarted...?  Hmm...\ufeff", 
+            "author": "JerkStoleMyName"
+        }, 
+        {
+            "date": "2014-05-12T03:29:26.486Z", 
+            "text": "I'm guessing she will be going to MIT\ufeff", 
+            "author": "Jacob Parker-Meyer"
+        }, 
+        {
+            "date": "2014-05-10T22:56:58.133Z", 
+            "text": "both of the cones you identified as \"whatever this thing is\" are from \nmagnolia trees\ufeff", 
+            "author": "Brian Clare"
+        }, 
+        {
+            "date": "2014-05-10T03:06:24.526Z", 
+            "text": "Finished whole 3 parts. You are awesome and thanks for sources, gonna check \nit a bit more :)\ufeff", 
+            "author": "Michal D"
+        }, 
+        {
+            "date": "2014-05-06T19:31:40.115Z", 
+            "text": "Vi Hart,\nI found out about your posts on the Wolfram Community. I have a post there \nabout a logarithmic spiral. I believe it can determine Prime numbers. My \napproach is geometric then algebra. It is simple, but I believe it works. I \nhave tried to make a video, but I lack speaking skills. Maybe it is \nsomething you would like to look at. \nhttp://community.wolfram.com/groups/-/m/t/143526?p_p_auth=1fWV5jc4\ufeff", 
+            "author": "ConstructorsCorner"
+        }, 
+        {
+            "date": "2014-05-03T00:59:48.880Z", 
+            "text": "come be my math teacher please? lol\ufeff", 
+            "author": "billie w"
+        }, 
+        {
+            "date": "2014-04-24T22:03:00.580Z", 
+            "text": "Wow... I just found you... you're awesome!!\ufeff", 
+            "author": "Randi Rain"
+        }, 
+        {
+            "date": "2014-04-18T08:13:17.811Z", 
+            "text": "", 
+            "author": "Tomas Nosetti"
+        }, 
+        {
+            "date": "2014-04-17T23:56:20.030Z", 
+            "text": "Hey! Lucas is my name!\ufeff", 
+            "author": "unecomedy13"
+        }, 
+        {
+            "date": "2014-04-15T03:35:13.604Z", 
+            "text": "Sad that school education ignores these fun and interesting facts and focus \non solid work.\nI wonder will schools change.\nI wonder will they realize that they eliminated the proportion of facts \nthat would make students get interested into school education.\ufeff", 
+            "author": "WerewolfHudson"
+        }, 
+        {
+            "date": "2014-04-14T20:32:18.085Z", 
+            "text": "you're great. thank you\ufeff", 
+            "author": "M\u0101rti\u0146\u0161 D\u016bka"
+        }, 
+        {
+            "date": "2014-04-05T21:38:27.809Z", 
+            "text": "Understood it, BUT MADE MY BRAIN EXPLODE WITH HER FAST TALKING!\ufeff", 
+            "author": "Explosion Plays"
+        }, 
+        {
+            "date": "2014-04-05T13:17:38.587Z", 
+            "text": "You should become a teacher or at least something in education! C:\ufeff", 
+            "author": "Nirgilis"
+        }, 
+        {
+            "date": "2014-04-05T12:52:13.883Z", 
+            "text": "1980\ufeff", 
+            "author": "Alex Koukas"
+        }, 
+        {
+            "date": "2014-04-05T12:51:22.496Z", 
+            "text": "1337\ufeff", 
+            "author": "Alex Koukas"
+        }
+    ]
+}

@@ -1,0 +1,2684 @@
+{
+    "publish_date": "2012-12-14T18:38:38.000Z", 
+    "video_length": "PT11M12S", 
+    "captions": [
+        {
+            "text": "STEVE MOULD: I&#39;m Steve Mould.", 
+            "dur": "1.424", 
+            "start": "3.276"
+        }, 
+        {
+            "text": "And I think we should stop using\npi and start using tau.", 
+            "dur": "3.96", 
+            "start": "4.7"
+        }, 
+        {
+            "text": "MATT PARKER: And I&#39;m\nMatt Parker.", 
+            "dur": "1.32", 
+            "start": "8.66"
+        }, 
+        {
+            "text": "And I think Steve said\nsomething ridiculous.", 
+            "dur": "2.64", 
+            "start": "9.98"
+        }, 
+        {
+            "text": "I think pi is fantastic.", 
+            "dur": "1.53", 
+            "start": "12.62"
+        }, 
+        {
+            "text": "It&#39;s wonderful.", 
+            "dur": "0.56", 
+            "start": "14.15"
+        }, 
+        {
+            "text": "And even if this was an equal\nrace, we would&#39;ve been using", 
+            "dur": "4.08", 
+            "start": "14.71"
+        }, 
+        {
+            "text": "both of them.", 
+            "dur": "0.34", 
+            "start": "18.79"
+        }, 
+        {
+            "text": "Or even if tau had been\nestablished first, I&#39;m still", 
+            "dur": "2.6", 
+            "start": "19.13"
+        }, 
+        {
+            "text": "pretty pro-pi.", 
+            "dur": "0.7", 
+            "start": "21.73"
+        }, 
+        {
+            "text": "STEVE MOULD: Wow, that&#39;s\nquite a claim.", 
+            "dur": "1.46", 
+            "start": "22.43"
+        }, 
+        {
+            "text": "MATT PARKER: Yes, there&#39;s\n[INAUDIBLE].", 
+            "dur": "0.7", 
+            "start": "23.89"
+        }, 
+        {
+            "text": "STEVE MOULD: So let&#39;s\ntalk about this.", 
+            "dur": "0.86", 
+            "start": "24.59"
+        }, 
+        {
+            "text": "So pi is the circle constant.", 
+            "dur": "2.586", 
+            "start": "25.45"
+        }, 
+        {
+            "text": "It&#39;s the constant that\ndefines a circle.", 
+            "dur": "2.524", 
+            "start": "28.036"
+        }, 
+        {
+            "text": "And the argument is--", 
+            "dur": "0.69", 
+            "start": "30.56"
+        }, 
+        {
+            "text": "MATT PARKER: We&#39;re\nagreed so far.", 
+            "dur": "1.4", 
+            "start": "31.25"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.13", 
+            "start": "32.65"
+        }, 
+        {
+            "text": "STEVE MOULD: Let&#39;s think of a\nreasonable definition of what", 
+            "dur": "1.675", 
+            "start": "32.78"
+        }, 
+        {
+            "text": "a circle is.", 
+            "dur": "1.525", 
+            "start": "34.455"
+        }, 
+        {
+            "text": "The classic is all points\nequidistant", 
+            "dur": "2.74", 
+            "start": "35.98"
+        }, 
+        {
+            "text": "from a single point.", 
+            "dur": "1.75", 
+            "start": "38.72"
+        }, 
+        {
+            "text": "That distance is the radius.", 
+            "dur": "1.72", 
+            "start": "40.47"
+        }, 
+        {
+            "text": "And if you&#39;re ever doing maths\nusing circles, you talk about", 
+            "dur": "4.97", 
+            "start": "42.19"
+        }, 
+        {
+            "text": "the radius.", 
+            "dur": "0.58", 
+            "start": "47.16"
+        }, 
+        {
+            "text": "All your equations about circles\ntalk about the radius.", 
+            "dur": "3.925", 
+            "start": "47.74"
+        }, 
+        {
+            "text": "Unless you&#39;re an engineer,\nyou use diameter.", 
+            "dur": "1.935", 
+            "start": "51.665"
+        }, 
+        {
+            "text": "But as a mathematician,\nyou use the radius.", 
+            "dur": "3.37", 
+            "start": "53.6"
+        }, 
+        {
+            "text": "The circle constant should\nsurely be defined in terms of", 
+            "dur": "2.93", 
+            "start": "56.97"
+        }, 
+        {
+            "text": "the radius.", 
+            "dur": "0.335", 
+            "start": "59.9"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.255", 
+            "start": "60.235"
+        }, 
+        {
+            "text": "STEVE MOULD: But it isn&#39;t pi--", 
+            "dur": "1.69", 
+            "start": "60.49"
+        }, 
+        {
+            "text": "is the circumference\ndivided by the", 
+            "dur": "3.05", 
+            "start": "62.18"
+        }, 
+        {
+            "text": "diameter, which is crazy.", 
+            "dur": "2.02", 
+            "start": "65.23"
+        }, 
+        {
+            "text": "So the circle constant should\nbe the circumference divided", 
+            "dur": "2.64", 
+            "start": "67.25"
+        }, 
+        {
+            "text": "by the radius.", 
+            "dur": "0.95", 
+            "start": "69.89"
+        }, 
+        {
+            "text": "When you do that, you\nget 2 times pi.", 
+            "dur": "1.92", 
+            "start": "70.84"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.32", 
+            "start": "72.76"
+        }, 
+        {
+            "text": "STEVE MOULD: And so we&#39;re not\nsaying let&#39;s redefine pi and", 
+            "dur": "2.57", 
+            "start": "73.08"
+        }, 
+        {
+            "text": "call it 6.28.", 
+            "dur": "4.22", 
+            "start": "75.65"
+        }, 
+        {
+            "text": "But instead--", 
+            "dur": "0.69", 
+            "start": "79.87"
+        }, 
+        {
+            "text": "MATT PARKER: Wow.", 
+            "dur": "0.26", 
+            "start": "80.56"
+        }, 
+        {
+            "text": "STEVE MOULD: --we&#39;re saying--", 
+            "dur": "0.46", 
+            "start": "80.82"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.54", 
+            "start": "81.28"
+        }, 
+        {
+            "text": "STEVE MOULD: Shut up.", 
+            "dur": "0.89", 
+            "start": "81.82"
+        }, 
+        {
+            "text": "Instead, we&#39;re saying that&#39;s\ngoing to be confusing, so", 
+            "dur": "2.585", 
+            "start": "82.71"
+        }, 
+        {
+            "text": "let&#39;s invent a new constant.", 
+            "dur": "0.535", 
+            "start": "85.295"
+        }, 
+        {
+            "text": "And we&#39;ll call it tau.", 
+            "dur": "0.765", 
+            "start": "85.83"
+        }, 
+        {
+            "text": "MATT PARKER: To be honest, one\nof the points was quite nice,", 
+            "dur": "2.335", 
+            "start": "86.595"
+        }, 
+        {
+            "text": "which is that if you&#39;re an\nengineer, you use pi.", 
+            "dur": "4.29", 
+            "start": "88.93"
+        }, 
+        {
+            "text": "And in fact, historically, we&#39;ve\nused pi because when you", 
+            "dur": "2.4", 
+            "start": "93.22"
+        }, 
+        {
+            "text": "measure a circle, the only\ndirect measurement you can", 
+            "dur": "3.89", 
+            "start": "95.62"
+        }, 
+        {
+            "text": "make is of the diameter.", 
+            "dur": "0.95", 
+            "start": "99.51"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.33", 
+            "start": "100.46"
+        }, 
+        {
+            "text": "MATT PARKER: And so that&#39;s why\nhistorically we&#39;ve done that.", 
+            "dur": "2.53", 
+            "start": "100.79"
+        }, 
+        {
+            "text": "And to this day in precision\nengineering we do that.", 
+            "dur": "2.16", 
+            "start": "103.32"
+        }, 
+        {
+            "text": "And yes, you can do some\nvery nice maths with", 
+            "dur": "3.53", 
+            "start": "105.48"
+        }, 
+        {
+            "text": "the radius in a circle.", 
+            "dur": "1.29", 
+            "start": "109.01"
+        }, 
+        {
+            "text": "But the only thing\nyou can directly", 
+            "dur": "1.43", 
+            "start": "110.3"
+        }, 
+        {
+            "text": "measure is the diameter.", 
+            "dur": "1.26", 
+            "start": "111.73"
+        }, 
+        {
+            "text": "So that&#39;s why we&#39;ve used pi.", 
+            "dur": "2.08", 
+            "start": "112.99"
+        }, 
+        {
+            "text": "People say, oh, but we have\nto put 2 pi into lots of", 
+            "dur": "4.06", 
+            "start": "115.07"
+        }, 
+        {
+            "text": "equations, and then\nblah, blah, blah.", 
+            "dur": "1.1", 
+            "start": "119.13"
+        }, 
+        {
+            "text": "It&#39;s always 2 pi.", 
+            "dur": "1.05", 
+            "start": "120.23"
+        }, 
+        {
+            "text": "Why don&#39;t we just\nuse tau instead?", 
+            "dur": "0.99", 
+            "start": "121.28"
+        }, 
+        {
+            "text": "There are as many fantastic\nequations out there which use", 
+            "dur": "4.63", 
+            "start": "122.27"
+        }, 
+        {
+            "text": "just the single pi.", 
+            "dur": "0.89", 
+            "start": "126.9"
+        }, 
+        {
+            "text": "And there&#39;s no reason\nto bring in 2 pi.", 
+            "dur": "1.864", 
+            "start": "127.79"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.426", 
+            "start": "129.654"
+        }, 
+        {
+            "text": "MATT PARKER: And so I see\nSteve is holding a pen.", 
+            "dur": "1.7", 
+            "start": "130.08"
+        }, 
+        {
+            "text": "But I have brought my own.", 
+            "dur": "0.95", 
+            "start": "131.78"
+        }, 
+        {
+            "text": "STEVE MOULD: [CHUCKLING].", 
+            "dur": "0.86", 
+            "start": "132.73"
+        }, 
+        {
+            "text": "MATT PARKER: So everyone&#39;s\nclassic is the e to the i pi", 
+            "dur": "3.93", 
+            "start": "133.59"
+        }, 
+        {
+            "text": "job, where e to the i\npi plus 1 equals 0.", 
+            "dur": "4.72", 
+            "start": "137.52"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.365", 
+            "start": "142.24"
+        }, 
+        {
+            "text": "MATT PARKER: And that is\nusing a solitary pi", 
+            "dur": "2.675", 
+            "start": "142.605"
+        }, 
+        {
+            "text": "out the front there.", 
+            "dur": "0.82", 
+            "start": "145.28"
+        }, 
+        {
+            "text": "And if you want to go\nwild, things like", 
+            "dur": "1.97", 
+            "start": "146.1"
+        }, 
+        {
+            "text": "the area of a torus--", 
+            "dur": "3.27", 
+            "start": "148.07"
+        }, 
+        {
+            "text": "this is a nice one-- that\nequals pi squared--", 
+            "dur": "2.83", 
+            "start": "151.34"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.3", 
+            "start": "154.17"
+        }, 
+        {
+            "text": "MATT PARKER: --outside the major\nradius squared minus the", 
+            "dur": "2.73", 
+            "start": "154.47"
+        }, 
+        {
+            "text": "minor radius squared.", 
+            "dur": "1.23", 
+            "start": "157.2"
+        }, 
+        {
+            "text": "So I&#39;m still doing things\nin terms of", 
+            "dur": "2.61", 
+            "start": "158.43"
+        }, 
+        {
+            "text": "radiuses or radii or whatever.", 
+            "dur": "1.91", 
+            "start": "161.04"
+        }, 
+        {
+            "text": "But the pi squared--\nthat&#39;s lovely.", 
+            "dur": "1.665", 
+            "start": "162.95"
+        }, 
+        {
+            "text": "What-- you want 4?", 
+            "dur": "2.03", 
+            "start": "164.615"
+        }, 
+        {
+            "text": "I mean, how you are going to--", 
+            "dur": "0.915", 
+            "start": "166.645"
+        }, 
+        {
+            "text": "STEVE MOULD: Yeah, I want--", 
+            "dur": "0.46", 
+            "start": "167.56"
+        }, 
+        {
+            "text": "MATT PARKER: Tau squared on 4?", 
+            "dur": "0.69", 
+            "start": "168.02"
+        }, 
+        {
+            "text": "STEVE MOULD: What-- yeah,\nabsolutely-- tau squared on 4.", 
+            "dur": "1.58", 
+            "start": "168.71"
+        }, 
+        {
+            "text": "And I&#39;ll explain why.", 
+            "dur": "1.11", 
+            "start": "170.29"
+        }, 
+        {
+            "text": "And this is important.", 
+            "dur": "1.26", 
+            "start": "171.4"
+        }, 
+        {
+            "text": "OK, let&#39;s just say that Matt has\ncherry-picked a couple of", 
+            "dur": "3.663", 
+            "start": "172.66"
+        }, 
+        {
+            "text": "nice equations there.", 
+            "dur": "0.687", 
+            "start": "176.323"
+        }, 
+        {
+            "text": "Two things I&#39;d say-- let&#39;s look\nat, for example, the area", 
+            "dur": "3.61", 
+            "start": "177.01"
+        }, 
+        {
+            "text": "of a circle.", 
+            "dur": "1.08", 
+            "start": "180.62"
+        }, 
+        {
+            "text": "So we&#39;re looking at the\narea pi r squared.", 
+            "dur": "3.29", 
+            "start": "181.7"
+        }, 
+        {
+            "text": "MATT PARKER: That&#39;s\njust lovely.", 
+            "dur": "0.36", 
+            "start": "184.99"
+        }, 
+        {
+            "text": "Look at that.", 
+            "dur": "0.39", 
+            "start": "185.35"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.396", 
+            "start": "185.74"
+        }, 
+        {
+            "text": "STEVE MOULD: Yeah, OK-- but\nhere&#39;s the problem.", 
+            "dur": "2.384", 
+            "start": "186.136"
+        }, 
+        {
+            "text": "Here&#39;s the problem.", 
+            "dur": "0.69", 
+            "start": "188.52"
+        }, 
+        {
+            "text": "If we reframe that in\ntau, that would", 
+            "dur": "3.42", 
+            "start": "189.21"
+        }, 
+        {
+            "text": "be tau by 2 r squared.", 
+            "dur": "4.43", 
+            "start": "192.63"
+        }, 
+        {
+            "text": "And you think, OK, that&#39;s\nless beautiful.", 
+            "dur": "2.07", 
+            "start": "197.06"
+        }, 
+        {
+            "text": "But this tells us something\nimportant.", 
+            "dur": "2.685", 
+            "start": "199.13"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.325", 
+            "start": "201.815"
+        }, 
+        {
+            "text": "STEVE MOULD: This tells\nus something.", 
+            "dur": "1.81", 
+            "start": "202.14"
+        }, 
+        {
+            "text": "This is information that you&#39;re\nobscuring by using pi.", 
+            "dur": "4.15", 
+            "start": "203.95"
+        }, 
+        {
+            "text": "Because you can derive\nthe area--", 
+            "dur": "1.76", 
+            "start": "208.1"
+        }, 
+        {
+            "text": "MATT PARKER: By simplifying\nyour--", 
+            "dur": "1", 
+            "start": "209.86"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.4", 
+            "start": "210.86"
+        }, 
+        {
+            "text": "STEVE MOULD: No, listen.", 
+            "dur": "0.32", 
+            "start": "211.26"
+        }, 
+        {
+            "text": "You can derive the area of\na circle by integrating.", 
+            "dur": "3.13", 
+            "start": "211.58"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.43", 
+            "start": "214.71"
+        }, 
+        {
+            "text": "STEVE MOULD: So you say, OK,\nhere&#39;s our full circle.", 
+            "dur": "1.87", 
+            "start": "215.14"
+        }, 
+        {
+            "text": "Let&#39;s look at the area of this\nlittle strip where the width", 
+            "dur": "4.32", 
+            "start": "217.01"
+        }, 
+        {
+            "text": "of it is delta r.", 
+            "dur": "2.74", 
+            "start": "221.33"
+        }, 
+        {
+            "text": "And this is r going up.", 
+            "dur": "2.19", 
+            "start": "224.07"
+        }, 
+        {
+            "text": "And so this is full\nr or whatever.", 
+            "dur": "2.07", 
+            "start": "226.26"
+        }, 
+        {
+            "text": "So you integrate.", 
+            "dur": "1.45", 
+            "start": "228.33"
+        }, 
+        {
+            "text": "The area of this is pi r dr.", 
+            "dur": "6.218", 
+            "start": "229.78"
+        }, 
+        {
+            "text": "MATT PARKER: Tau.", 
+            "dur": "1.344", 
+            "start": "235.998"
+        }, 
+        {
+            "text": "STEVE MOULD: No, but--", 
+            "dur": "1.278", 
+            "start": "237.342"
+        }, 
+        {
+            "text": "sorry, tau, yeah, actually.", 
+            "dur": "1.8", 
+            "start": "238.62"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.4", 
+            "start": "240.42"
+        }, 
+        {
+            "text": "MATT PARKER: See, pi&#39;s\njust easier to use.", 
+            "dur": "2.125", 
+            "start": "240.82"
+        }, 
+        {
+            "text": "STEVE MOULD: Shut up.", 
+            "dur": "0.885", 
+            "start": "242.945"
+        }, 
+        {
+            "text": "And then you end up with\n1/2 tau r squared.", 
+            "dur": "3.73", 
+            "start": "243.83"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.29", 
+            "start": "247.56"
+        }, 
+        {
+            "text": "STEVE MOULD: And so that 1/2\ntells you something.", 
+            "dur": "2.54", 
+            "start": "247.85"
+        }, 
+        {
+            "text": "It tells you you&#39;ve done an\nintegration to get there.", 
+            "dur": "1.7", 
+            "start": "250.39"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.26", 
+            "start": "252.09"
+        }, 
+        {
+            "text": "STEVE MOULD: And an equation\nlike this obscures it.", 
+            "dur": "1.766", 
+            "start": "252.35"
+        }, 
+        {
+            "text": "Similarly, with this, if you had\ntau squared over 4, that", 
+            "dur": "2.358", 
+            "start": "254.116"
+        }, 
+        {
+            "text": "would tell you something.", 
+            "dur": "1.336", 
+            "start": "256.474"
+        }, 
+        {
+            "text": "This equation here-- let&#39;s\njust reframe that.", 
+            "dur": "2.269", 
+            "start": "257.81"
+        }, 
+        {
+            "text": "e to the i tau minus\n1 equals 0.", 
+            "dur": "5.431", 
+            "start": "260.079"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.23", 
+            "start": "265.51"
+        }, 
+        {
+            "text": "STEVE MOULD: And the great\nthing is that is a full", 
+            "dur": "2.29", 
+            "start": "265.74"
+        }, 
+        {
+            "text": "circle, right?", 
+            "dur": "1.32", 
+            "start": "268.03"
+        }, 
+        {
+            "text": "If you want to go through half a\ncircle, then it&#39;s e to the i", 
+            "dur": "3.57", 
+            "start": "269.35"
+        }, 
+        {
+            "text": "tau over 2.", 
+            "dur": "1.46", 
+            "start": "272.92"
+        }, 
+        {
+            "text": "If you want to go a quarter\nof a circle, it&#39;s e to", 
+            "dur": "2.74", 
+            "start": "274.38"
+        }, 
+        {
+            "text": "the i tau by 4.", 
+            "dur": "1.78", 
+            "start": "277.12"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.3", 
+            "start": "278.9"
+        }, 
+        {
+            "text": "STEVE MOULD: The pi\nis confusing.", 
+            "dur": "1.18", 
+            "start": "279.2"
+        }, 
+        {
+            "text": "It&#39;s especially confusing\nfor children when", 
+            "dur": "1.595", 
+            "start": "280.38"
+        }, 
+        {
+            "text": "they&#39;re learning as well.", 
+            "dur": "1.145", 
+            "start": "281.975"
+        }, 
+        {
+            "text": "A full circle is 2 pi?", 
+            "dur": "2.72", 
+            "start": "283.12"
+        }, 
+        {
+            "text": "OK, so that half\na circle is pi.", 
+            "dur": "3.19", 
+            "start": "285.84"
+        }, 
+        {
+            "text": "A quarter of a circle\nis pi by 2.", 
+            "dur": "2.51", 
+            "start": "289.03"
+        }, 
+        {
+            "text": "So there&#39;s always this\nfactor of 2--", 
+            "dur": "2.05", 
+            "start": "291.54"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.355", 
+            "start": "293.59"
+        }, 
+        {
+            "text": "STEVE MOULD: --that you&#39;ve got\nto keep in your mind when", 
+            "dur": "1.725", 
+            "start": "293.945"
+        }, 
+        {
+            "text": "you&#39;re doing calculations.", 
+            "dur": "1.6", 
+            "start": "295.67"
+        }, 
+        {
+            "text": "And actually, if you&#39;re a\nseasoned mathematician, you&#39;re", 
+            "dur": "2.31", 
+            "start": "297.27"
+        }, 
+        {
+            "text": "probably always thinking in\nterms of 2 pi, anyway.", 
+            "dur": "2.22", 
+            "start": "299.58"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.41", 
+            "start": "301.8"
+        }, 
+        {
+            "text": "STEVE MOULD: And so let&#39;s just\nstop thinking in terms of 2 pi", 
+            "dur": "2.18", 
+            "start": "302.21"
+        }, 
+        {
+            "text": "and start thinking\nin terms of tau.", 
+            "dur": "0.97", 
+            "start": "304.39"
+        }, 
+        {
+            "text": "MATT PARKER: This is the\nhypocrisies of tau.", 
+            "dur": "0.8", 
+            "start": "305.36"
+        }, 
+        {
+            "text": "You want halves here.", 
+            "dur": "1.19", 
+            "start": "306.16"
+        }, 
+        {
+            "text": "You don&#39;t want halves\nover there.", 
+            "dur": "1.29", 
+            "start": "307.35"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.52", 
+            "start": "308.64"
+        }, 
+        {
+            "text": "STEVE MOULD: I want halves here\nbecause the half tells", 
+            "dur": "2.46", 
+            "start": "309.16"
+        }, 
+        {
+            "text": "you something.", 
+            "dur": "0.26", 
+            "start": "311.62"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.14", 
+            "start": "311.88"
+        }, 
+        {
+            "text": "MATT PARKER: This works\nout just as nicely.", 
+            "dur": "1.27", 
+            "start": "312.02"
+        }, 
+        {
+            "text": "Because if you want to\nintegrate, and you&#39;ve got your", 
+            "dur": "1.87", 
+            "start": "313.29"
+        }, 
+        {
+            "text": "2 pi r dr, then you\nget a wonderful", 
+            "dur": "5.75", 
+            "start": "315.16"
+        }, 
+        {
+            "text": "thing you can simplify.", 
+            "dur": "1.05", 
+            "start": "320.91"
+        }, 
+        {
+            "text": "Because you end up with\nthis-- r squared--", 
+            "dur": "1.59", 
+            "start": "321.96"
+        }, 
+        {
+            "text": "STEVE MOULD: Yeah, so in\nthis particular case--", 
+            "dur": "1.2", 
+            "start": "323.55"
+        }, 
+        {
+            "text": "MATT PARKER: --and you\nend up with a--", 
+            "dur": "1.02", 
+            "start": "324.75"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.16", 
+            "start": "325.77"
+        }, 
+        {
+            "text": "STEVE MOULD: So in this\nparticular case--", 
+            "dur": "0.14", 
+            "start": "325.93"
+        }, 
+        {
+            "text": "MATT PARKER: --2 pi and\nthe 1/2 simplifies.", 
+            "dur": "2.64", 
+            "start": "326.07"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.3", 
+            "start": "328.71"
+        }, 
+        {
+            "text": "STEVE MOULD: Yeah, yeah.", 
+            "dur": "0.3", 
+            "start": "329.01"
+        }, 
+        {
+            "text": "MATT PARKER: Pi r--\nthat&#39;s just--", 
+            "dur": "1.42", 
+            "start": "329.31"
+        }, 
+        {
+            "text": "there&#39;s nowhere else in maths\nwhere you say, you know what?", 
+            "dur": "3.49", 
+            "start": "330.73"
+        }, 
+        {
+            "text": "Let&#39;s not simplify it.", 
+            "dur": "0.88", 
+            "start": "334.22"
+        }, 
+        {
+            "text": "Let&#39;s leave it in a more\ncomplicated form because it--", 
+            "dur": "2.98", 
+            "start": "335.1"
+        }, 
+        {
+            "text": "STEVE MOULD: No, but in fact,\nthis is the one case where you", 
+            "dur": "2.78", 
+            "start": "338.08"
+        }, 
+        {
+            "text": "think, actually it&#39;s useful to\nhave a 2 there because we can", 
+            "dur": "2.56", 
+            "start": "340.86"
+        }, 
+        {
+            "text": "cancel later.", 
+            "dur": "0.88", 
+            "start": "343.42"
+        }, 
+        {
+            "text": "Most other cases you don&#39;t get\nto do that cancel because", 
+            "dur": "2.44", 
+            "start": "344.3"
+        }, 
+        {
+            "text": "you&#39;re not dividing\nby 2 later on.", 
+            "dur": "2.31", 
+            "start": "346.74"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.28", 
+            "start": "349.05"
+        }, 
+        {
+            "text": "STEVE MOULD: In most cases, you\nend up with an equation", 
+            "dur": "1.82", 
+            "start": "349.33"
+        }, 
+        {
+            "text": "that&#39;s got 2 pi in it.", 
+            "dur": "1.22", 
+            "start": "351.15"
+        }, 
+        {
+            "text": "BRADY HARAN: A lot of smart\npeople, who I know you", 
+            "dur": "2.11", 
+            "start": "352.37"
+        }, 
+        {
+            "text": "respect-- and I know\nyou respect the guy", 
+            "dur": "1.49", 
+            "start": "354.48"
+        }, 
+        {
+            "text": "sitting next to you--", 
+            "dur": "1", 
+            "start": "355.97"
+        }, 
+        {
+            "text": "STEVE MOULD: [CHUCKLING].", 
+            "dur": "0.4", 
+            "start": "356.97"
+        }, 
+        {
+            "text": "BRADY HARAN: --make the case--", 
+            "dur": "0.745", 
+            "start": "357.37"
+        }, 
+        {
+            "text": "STEVE MOULD: That&#39;s correct.", 
+            "dur": "0.445", 
+            "start": "358.115"
+        }, 
+        {
+            "text": "MATT PARKER: Professionally.", 
+            "dur": "0.89", 
+            "start": "358.56"
+        }, 
+        {
+            "text": "BRADY HARAN: A lot of smart\npeople make the case for tau.", 
+            "dur": "2.445", 
+            "start": "359.45"
+        }, 
+        {
+            "text": "MATT PARKER: Yeah.", 
+            "dur": "0.78", 
+            "start": "361.895"
+        }, 
+        {
+            "text": "BRADY HARAN: How do you explain\ntheir reasoning?", 
+            "dur": "3.875", 
+            "start": "362.675"
+        }, 
+        {
+            "text": "How do you--", 
+            "dur": "1.216", 
+            "start": "366.55"
+        }, 
+        {
+            "text": "I mean, you don&#39;t think\nSteve&#39;s an idiot.", 
+            "dur": "1.424", 
+            "start": "367.766"
+        }, 
+        {
+            "text": "But he has this feeling about\ntau that you disagree with.", 
+            "dur": "3.96", 
+            "start": "369.19"
+        }, 
+        {
+            "text": "What&#39;s different about his\nthinking to yours?", 
+            "dur": "1.44", 
+            "start": "373.15"
+        }, 
+        {
+            "text": "MATT PARKER: You know what?", 
+            "dur": "0.61", 
+            "start": "374.59"
+        }, 
+        {
+            "text": "A lot of people do have very\ngood arguments for tau.", 
+            "dur": "3", 
+            "start": "375.2"
+        }, 
+        {
+            "text": "And a lot of people have very\ngood arguments for pi.", 
+            "dur": "2.01", 
+            "start": "378.2"
+        }, 
+        {
+            "text": "And there is a wonderful\nthing--", 
+            "dur": "3.49", 
+            "start": "380.21"
+        }, 
+        {
+            "text": "I don&#39;t know.", 
+            "dur": "0.56", 
+            "start": "383.7"
+        }, 
+        {
+            "text": "I think people like the fact\nthat it&#39;s different and that", 
+            "dur": "2.71", 
+            "start": "384.26"
+        }, 
+        {
+            "text": "they&#39;re going, oh, whoa,\nwhoa, whoa-- everyone", 
+            "dur": "1.05", 
+            "start": "386.97"
+        }, 
+        {
+            "text": "else has got it wrong.", 
+            "dur": "0.89", 
+            "start": "388.02"
+        }, 
+        {
+            "text": "We can change this.", 
+            "dur": "1.02", 
+            "start": "388.91"
+        }, 
+        {
+            "text": "And tau is better.", 
+            "dur": "0.705", 
+            "start": "389.93"
+        }, 
+        {
+            "text": "And oh, people try and\ndo maths and they", 
+            "dur": "3.265", 
+            "start": "390.635"
+        }, 
+        {
+            "text": "think pi&#39;s all that.", 
+            "dur": "1.3", 
+            "start": "393.9"
+        }, 
+        {
+            "text": "No, they&#39;re wrong.", 
+            "dur": "1.12", 
+            "start": "395.2"
+        }, 
+        {
+            "text": "But I don&#39;t think there&#39;s any\ngreat advantage other than it", 
+            "dur": "6.17", 
+            "start": "396.32"
+        }, 
+        {
+            "text": "can be a bit more exclusive to\nsay, oh, we&#39;re all over tau--", 
+            "dur": "2.54", 
+            "start": "402.49"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.29", 
+            "start": "405.03"
+        }, 
+        {
+            "text": "MATT PARKER: --when I\nthink pi works just", 
+            "dur": "1.89", 
+            "start": "405.32"
+        }, 
+        {
+            "text": "as well in all cases.", 
+            "dur": "0.87", 
+            "start": "407.21"
+        }, 
+        {
+            "text": "It&#39;s got the--", 
+            "dur": "1.085", 
+            "start": "408.08"
+        }, 
+        {
+            "text": "I know--", 
+            "dur": "1.295", 
+            "start": "409.165"
+        }, 
+        {
+            "text": "historical--", 
+            "dur": "1.055", 
+            "start": "410.46"
+        }, 
+        {
+            "text": "the fact that it&#39;s got a bit\nof heritage doesn&#39;t mean we", 
+            "dur": "1.995", 
+            "start": "411.515"
+        }, 
+        {
+            "text": "should keep it around\nnecessarily.", 
+            "dur": "1.59", 
+            "start": "413.51"
+        }, 
+        {
+            "text": "But it&#39;s worked for\na very long time.", 
+            "dur": "1.54", 
+            "start": "415.1"
+        }, 
+        {
+            "text": "And it&#39;s there for very\ngood reasons.", 
+            "dur": "1.34", 
+            "start": "416.64"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "1.24", 
+            "start": "417.98"
+        }, 
+        {
+            "text": "MATT PARKER: Nothing people have\nthrown at me in terms of", 
+            "dur": "3.12", 
+            "start": "419.22"
+        }, 
+        {
+            "text": "tau, saying it&#39;s better--", 
+            "dur": "2.9", 
+            "start": "422.34"
+        }, 
+        {
+            "text": "you gain as much as\nyou lose from--", 
+            "dur": "1.71", 
+            "start": "425.24"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.22", 
+            "start": "426.95"
+        }, 
+        {
+            "text": "MATT PARKER: --switching from--\nboth of them have their", 
+            "dur": "1.79", 
+            "start": "427.17"
+        }, 
+        {
+            "text": "disadvantages and their\nadvantages.", 
+            "dur": "0.97", 
+            "start": "428.96"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.06", 
+            "start": "429.93"
+        }, 
+        {
+            "text": "MATT PARKER: I don&#39;t think\nthere&#39;s enough for an entire", 
+            "dur": "1.83", 
+            "start": "429.99"
+        }, 
+        {
+            "text": "overhaul of the subject because\npeople think, oh,", 
+            "dur": "3.38", 
+            "start": "431.82"
+        }, 
+        {
+            "text": "what, this particular equation\nlooks a bit nicer.", 
+            "dur": "2.18", 
+            "start": "435.2"
+        }, 
+        {
+            "text": "Oh, but we&#39;ve lost the fact that\nyou get negative numbers", 
+            "dur": "2.95", 
+            "start": "437.38"
+        }, 
+        {
+            "text": "in Euler&#39;s identity.", 
+            "dur": "2.36", 
+            "start": "440.33"
+        }, 
+        {
+            "text": "And even your arguments\nwith circles--", 
+            "dur": "3.49", 
+            "start": "442.69"
+        }, 
+        {
+            "text": "this is my clincher.", 
+            "dur": "0.91", 
+            "start": "446.18"
+        }, 
+        {
+            "text": "This is why I genuinely\nthink pi is nicer.", 
+            "dur": "2.58", 
+            "start": "447.09"
+        }, 
+        {
+            "text": "If you&#39;ve got tau, right?", 
+            "dur": "2.01", 
+            "start": "449.67"
+        }, 
+        {
+            "text": "If you do tau radians--", 
+            "dur": "2.05", 
+            "start": "451.68"
+        }, 
+        {
+            "text": "you do an entire revolution--", 
+            "dur": "1.45", 
+            "start": "453.73"
+        }, 
+        {
+            "text": "you end up right back\nwhere you started.", 
+            "dur": "2.09", 
+            "start": "455.18"
+        }, 
+        {
+            "text": "Tau gets you nowhere, right?", 
+            "dur": "1.086", 
+            "start": "457.27"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.406", 
+            "start": "458.356"
+        }, 
+        {
+            "text": "STEVE MOULD: [CHUCKLING].", 
+            "dur": "1.698", 
+            "start": "458.762"
+        }, 
+        {
+            "text": "MATT PARKER: With pi, if you\ndo pi radians, you actually", 
+            "dur": "2.53", 
+            "start": "460.46"
+        }, 
+        {
+            "text": "get somewhere.", 
+            "dur": "0.88", 
+            "start": "462.99"
+        }, 
+        {
+            "text": "And I think if you want a unit\nto measure things, the unit", 
+            "dur": "3.74", 
+            "start": "463.87"
+        }, 
+        {
+            "text": "shouldn&#39;t be the whole thing.", 
+            "dur": "1.3", 
+            "start": "467.61"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.285", 
+            "start": "468.91"
+        }, 
+        {
+            "text": "STEVE MOULD: What?", 
+            "dur": "0.285", 
+            "start": "469.195"
+        }, 
+        {
+            "text": "[LAUGHING].", 
+            "dur": "0.4", 
+            "start": "469.48"
+        }, 
+        {
+            "text": "MATT PARKER: A unit should\nbe a section of it.", 
+            "dur": "1.94", 
+            "start": "469.88"
+        }, 
+        {
+            "text": "And so it&#39;s more nuanced.", 
+            "dur": "1.45", 
+            "start": "471.82"
+        }, 
+        {
+            "text": "And for that reason--", 
+            "dur": "0.82", 
+            "start": "473.27"
+        }, 
+        {
+            "text": "STEVE MOULD: Oh, then\nin that case--", 
+            "dur": "0.84", 
+            "start": "474.09"
+        }, 
+        {
+            "text": "MATT PARKER: I think\npi is better.", 
+            "dur": "1.03", 
+            "start": "474.93"
+        }, 
+        {
+            "text": "STEVE MOULD: --divide it\nby-- you know--360.", 
+            "dur": "1.08", 
+            "start": "475.96"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.37", 
+            "start": "477.04"
+        }, 
+        {
+            "text": "MATT PARKER: Now you&#39;ve\njust gone too far.", 
+            "dur": "1.39", 
+            "start": "477.41"
+        }, 
+        {
+            "text": "No one would use that\nkind of a unit.", 
+            "dur": "2.355", 
+            "start": "478.8"
+        }, 
+        {
+            "text": "BRADY HARAN: Steve--", 
+            "dur": "0.485", 
+            "start": "481.155"
+        }, 
+        {
+            "text": "STEVE MOULD: Yeah.", 
+            "dur": "0.78", 
+            "start": "481.64"
+        }, 
+        {
+            "text": "BRADY HARAN: I&#39;ve heard\nyou talk a little bit.", 
+            "dur": "2.85", 
+            "start": "482.42"
+        }, 
+        {
+            "text": "And you seem to have an\nenjoyment of the history of", 
+            "dur": "2.63", 
+            "start": "485.27"
+        }, 
+        {
+            "text": "mathematics.", 
+            "dur": "0.65", 
+            "start": "487.9"
+        }, 
+        {
+            "text": "Maths is beautiful and pure.", 
+            "dur": "1.83", 
+            "start": "488.55"
+        }, 
+        {
+            "text": "But it&#39;s also got\ngreat stories.", 
+            "dur": "1.605", 
+            "start": "490.38"
+        }, 
+        {
+            "text": "STEVE MOULD: Yeah.", 
+            "dur": "0.585", 
+            "start": "491.985"
+        }, 
+        {
+            "text": "BRADY HARAN: Why are you willing\nto ditch pi, which is", 
+            "dur": "2.11", 
+            "start": "492.57"
+        }, 
+        {
+            "text": "one of our most important\nclinged-to, loved stories?", 
+            "dur": "4.34", 
+            "start": "494.68"
+        }, 
+        {
+            "text": "MATT PARKER: Don&#39;t overstate\nmy case here, all right?", 
+            "dur": "2.236", 
+            "start": "499.02"
+        }, 
+        {
+            "text": "STEVE MOULD: One word--\nprogress.", 
+            "dur": "1.574", 
+            "start": "501.256"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "1.28", 
+            "start": "502.83"
+        }, 
+        {
+            "text": "STEVE MOULD: The historical\npoint is a good one.", 
+            "dur": "2.29", 
+            "start": "504.11"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.49", 
+            "start": "506.4"
+        }, 
+        {
+            "text": "STEVE MOULD: Historically, we\nused to sacrifice goats.", 
+            "dur": "3.39", 
+            "start": "506.89"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.39", 
+            "start": "510.28"
+        }, 
+        {
+            "text": "STEVE MOULD: And I think we\nshould keep doing that.", 
+            "dur": "1.724", 
+            "start": "510.67"
+        }, 
+        {
+            "text": "No--", 
+            "dur": "1.116", 
+            "start": "512.394"
+        }, 
+        {
+            "text": "so you can&#39;t just cling to\nsomething because of history.", 
+            "dur": "2.549", 
+            "start": "513.51"
+        }, 
+        {
+            "text": "Having said that, one argument\nagainst tau is that pi is very", 
+            "dur": "5.911", 
+            "start": "516.059"
+        }, 
+        {
+            "text": "well established.", 
+            "dur": "0.569", 
+            "start": "521.97"
+        }, 
+        {
+            "text": "And we&#39;ll just never\nreplace it.", 
+            "dur": "2.371", 
+            "start": "522.539"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.29", 
+            "start": "524.91"
+        }, 
+        {
+            "text": "STEVE MOULD: The strong argument\nfor me is that tau is", 
+            "dur": "3.81", 
+            "start": "525.2"
+        }, 
+        {
+            "text": "more intuitive.", 
+            "dur": "1.06", 
+            "start": "529.01"
+        }, 
+        {
+            "text": "And so from an educational\npoint of view--", 
+            "dur": "2.35", 
+            "start": "530.07"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.51", 
+            "start": "532.42"
+        }, 
+        {
+            "text": "STEVE MOULD: --in terms of\nunderstanding circles and", 
+            "dur": "1.37", 
+            "start": "532.93"
+        }, 
+        {
+            "text": "working with circles, tau\nmakes more sense.", 
+            "dur": "3.21", 
+            "start": "534.3"
+        }, 
+        {
+            "text": "MATT PARKER: Maybe just\ncall it a circle.", 
+            "dur": "1.615", 
+            "start": "537.51"
+        }, 
+        {
+            "text": "BRADY HARAN: OK, Steve--", 
+            "dur": "1.975", 
+            "start": "539.125"
+        }, 
+        {
+            "text": "MATT PARKER: When you&#39;re trying\nto teach kids angles,", 
+            "dur": "2.1", 
+            "start": "541.1"
+        }, 
+        {
+            "text": "and you go, what\nangle is this?", 
+            "dur": "1.79", 
+            "start": "543.2"
+        }, 
+        {
+            "text": "All of it.", 
+            "dur": "0.54", 
+            "start": "544.99"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.365", 
+            "start": "545.53"
+        }, 
+        {
+            "text": "MATT PARKER: That&#39;s just\nall the way round.", 
+            "dur": "2.925", 
+            "start": "545.895"
+        }, 
+        {
+            "text": "STEVE MOULD: But then you start\ndealing with radians.", 
+            "dur": "1.26", 
+            "start": "548.82"
+        }, 
+        {
+            "text": "MATT PARKER: And then you\nget half the circle.", 
+            "dur": "1.13", 
+            "start": "550.08"
+        }, 
+        {
+            "text": "It&#39;s called a circle.", 
+            "dur": "0.82", 
+            "start": "551.21"
+        }, 
+        {
+            "text": "BRADY HARAN: Steve, if I made\nyou education minister of the", 
+            "dur": "2.09", 
+            "start": "552.03"
+        }, 
+        {
+            "text": "world tomorrow, what would you\ndo about this situation?", 
+            "dur": "3.59", 
+            "start": "554.12"
+        }, 
+        {
+            "text": "STEVE MOULD: Well,\nhere&#39;s the thing.", 
+            "dur": "0.95", 
+            "start": "557.71"
+        }, 
+        {
+            "text": "I think you can actually\nslowly bring it in.", 
+            "dur": "4.21", 
+            "start": "558.66"
+        }, 
+        {
+            "text": "Because you can use pi and\ntau at the same time.", 
+            "dur": "3.01", 
+            "start": "562.87"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.44", 
+            "start": "565.88"
+        }, 
+        {
+            "text": "STEVE MOULD: Because wherever\nyou see 2 pi,", 
+            "dur": "2.28", 
+            "start": "566.32"
+        }, 
+        {
+            "text": "you can write tau.", 
+            "dur": "0.79", 
+            "start": "568.6"
+        }, 
+        {
+            "text": "So you don&#39;t have\nto change any--", 
+            "dur": "1.8", 
+            "start": "569.39"
+        }, 
+        {
+            "text": "you don&#39;t have to suddenly\noverhaul textbooks and", 
+            "dur": "2.19", 
+            "start": "571.19"
+        }, 
+        {
+            "text": "redefine pi.", 
+            "dur": "2.28", 
+            "start": "573.38"
+        }, 
+        {
+            "text": "You can bring it in slowly.", 
+            "dur": "1.15", 
+            "start": "575.66"
+        }, 
+        {
+            "text": "And so if I was education\nminister of the world-- and I", 
+            "dur": "2.73", 
+            "start": "576.81"
+        }, 
+        {
+            "text": "hope to be one day--", 
+            "dur": "2.415", 
+            "start": "579.54"
+        }, 
+        {
+            "text": "you can bring it\nin very slowly.", 
+            "dur": "2.221", 
+            "start": "581.955"
+        }, 
+        {
+            "text": "BRADY HARAN: Matt, your argument\nseems to be that the", 
+            "dur": "4.034", 
+            "start": "584.176"
+        }, 
+        {
+            "text": "tau people aren&#39;t wrong.", 
+            "dur": "2.2", 
+            "start": "588.21"
+        }, 
+        {
+            "text": "It&#39;s just a bit needless.", 
+            "dur": "1.55", 
+            "start": "590.41"
+        }, 
+        {
+            "text": "It&#39;s extra work--", 
+            "dur": "0.86", 
+            "start": "591.96"
+        }, 
+        {
+            "text": "MATT PARKER: They&#39;re\ninsufficiently right.", 
+            "dur": "1.36", 
+            "start": "592.82"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.27", 
+            "start": "594.18"
+        }, 
+        {
+            "text": "STEVE MOULD: [LAUGHING].", 
+            "dur": "1.26", 
+            "start": "594.45"
+        }, 
+        {
+            "text": "BRADY HARAN: So what&#39;s wrong\nwith education minister for", 
+            "dur": "2.265", 
+            "start": "595.71"
+        }, 
+        {
+            "text": "the world there next to you\nslowly bringing in tau?", 
+            "dur": "2.355", 
+            "start": "597.975"
+        }, 
+        {
+            "text": "MATT PARKER: I have no problem\nwith tau sitting alongside pi.", 
+            "dur": "2.7", 
+            "start": "603.05"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.28", 
+            "start": "605.75"
+        }, 
+        {
+            "text": "MATT PARKER: I have\nno problem with--", 
+            "dur": "0.86", 
+            "start": "606.03"
+        }, 
+        {
+            "text": "I think it&#39;s very important--\nyou&#39;re right-- to teach", 
+            "dur": "1.86", 
+            "start": "606.89"
+        }, 
+        {
+            "text": "radians in terms of it&#39;s a\nwhole circle, and we&#39;re", 
+            "dur": "1.94", 
+            "start": "608.75"
+        }, 
+        {
+            "text": "splitting it up into smaller\namounts, and how it links to", 
+            "dur": "2.37", 
+            "start": "610.69"
+        }, 
+        {
+            "text": "wonderful things like this.", 
+            "dur": "1.28", 
+            "start": "613.06"
+        }, 
+        {
+            "text": "But you never see anyone who&#39;s\nplugging tau in and going, you", 
+            "dur": "4.365", 
+            "start": "614.34"
+        }, 
+        {
+            "text": "know what, this would\nbe useful as well.", 
+            "dur": "1.445", 
+            "start": "618.705"
+        }, 
+        {
+            "text": "They&#39;re always like,\npi is wrong.", 
+            "dur": "1.75", 
+            "start": "620.15"
+        }, 
+        {
+            "text": "And I&#39;m like, well,\npi is not wrong.", 
+            "dur": "1.12", 
+            "start": "621.9"
+        }, 
+        {
+            "text": "STEVE MOULD: Pi is not wrong.", 
+            "dur": "0.264", 
+            "start": "623.02"
+        }, 
+        {
+            "text": "No, I know.", 
+            "dur": "0.136", 
+            "start": "623.284"
+        }, 
+        {
+            "text": "MATT PARKER: It&#39;s perfectly\nserviceable.", 
+            "dur": "1.855", 
+            "start": "623.42"
+        }, 
+        {
+            "text": "It&#39;s worked a treat.", 
+            "dur": "1.465", 
+            "start": "625.275"
+        }, 
+        {
+            "text": "And it&#39;s a wonderful concept.", 
+            "dur": "1.21", 
+            "start": "626.74"
+        }, 
+        {
+            "text": "And I think genuinely it&#39;s got\na lot more going for it for", 
+            "dur": "3.93", 
+            "start": "627.95"
+        }, 
+        {
+            "text": "doing maths than tau.", 
+            "dur": "1.61", 
+            "start": "631.88"
+        }, 
+        {
+            "text": "But there&#39;s many things where\nyou could say historically--", 
+            "dur": "2.53", 
+            "start": "633.49"
+        }, 
+        {
+            "text": "like, why don&#39;t we\ncount in base 12?", 
+            "dur": "2.095", 
+            "start": "636.02"
+        }, 
+        {
+            "text": "That would be nicer.", 
+            "dur": "2.225", 
+            "start": "638.115"
+        }, 
+        {
+            "text": "But we don&#39;t.", 
+            "dur": "0.33", 
+            "start": "640.34"
+        }, 
+        {
+            "text": "We count in base 10, which, I\nadmit, I would almost say base", 
+            "dur": "2.78", 
+            "start": "640.67"
+        }, 
+        {
+            "text": "12 has more advantages if we\nswitch to that than if we", 
+            "dur": "2.22", 
+            "start": "643.45"
+        }, 
+        {
+            "text": "switch to tau.", 
+            "dur": "0.79", 
+            "start": "645.67"
+        }, 
+        {
+            "text": "[RINGING]", 
+            "dur": "0.21", 
+            "start": "646.46"
+        }, 
+        {
+            "text": "MATT PARKER: So why are we\ngetting so emotional about our", 
+            "dur": "1.685", 
+            "start": "646.67"
+        }, 
+        {
+            "text": "irrationals when we could be a\nbit more rational about our", 
+            "dur": "2.455", 
+            "start": "648.355"
+        }, 
+        {
+            "text": "base systems?", 
+            "dur": "0.73", 
+            "start": "650.81"
+        }, 
+        {
+            "text": "BRADY HARAN: I&#39;m stopping\nthe tape before", 
+            "dur": "1.673", 
+            "start": "651.54"
+        }, 
+        {
+            "text": "you both start talking.", 
+            "dur": "2.151", 
+            "start": "653.213"
+        }, 
+        {
+            "text": "MALE SPEAKER: 4.8 kilograms--", 
+            "dur": "2.151", 
+            "start": "655.364"
+        }, 
+        {
+            "text": "MALE SPEAKER: So we define\nangles counterclockwise--", 
+            "dur": "2.335", 
+            "start": "657.515"
+        }, 
+        {
+            "text": "MALE SPEAKER: --of order--", 
+            "dur": "0.86", 
+            "start": "659.85"
+        }, 
+        {
+            "text": "MALE SPEAKER: --so we go that\nway rather than that way.", 
+            "dur": "2.47", 
+            "start": "660.71"
+        }, 
+        {
+            "text": "Quite why we do that,\nI have no idea.", 
+            "dur": "2.47", 
+            "start": "663.18"
+        }, 
+        {
+            "text": "It&#39;s convention.", 
+            "dur": "0.33", 
+            "start": "665.65"
+        }, 
+        {
+            "text": "MALE SPEAKER: And similarly, if\nI went up, say, to the size", 
+            "dur": "2.54", 
+            "start": "665.98"
+        }, 
+        {
+            "text": "of a boulder, so\nthat this was--", 
+            "dur": "2.49", 
+            "start": "668.52"
+        }
+    ], 
+    "title": "Tau vs Pi Smackdown - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05wjw", 
+        "/m/0vb40_n", 
+        "/m/04rjg"
+    ], 
+    "number_views": 507897, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T12:41:36.044Z", 
+            "text": "in primary and middle school you only really use Pi for circuit and surface \nof circle, volume and surface of sphere, cylinder, cone and such. Tau would \nusually be worse since you'd often have to divide it by two.\ufeff", 
+            "author": "Almechik"
+        }, 
+        {
+            "date": "2015-05-09T15:14:00.147Z", 
+            "text": "PI forever, Tia gets you no were!\n\nXD\ufeff", 
+            "author": "redstone cat"
+        }, 
+        {
+            "date": "2015-05-08T16:26:15.416Z", 
+            "text": "On Euler's Identity, e^(i\u03c4) = 1 [plus zero]\ufeff", 
+            "author": "Yikak4"
+        }, 
+        {
+            "date": "2015-05-08T11:56:52.717Z", 
+            "text": "I'M F0R TAU\ufeff", 
+            "author": "Official Sillypoo Dominoes"
+        }, 
+        {
+            "date": "2015-05-07T02:34:43.024Z", 
+            "text": "I really enjoyed this video; it is one of my favorite Numberphile videos \nyet. I have to agree on a nice compromise between Steve and Matt. With Tau, \nlearning and understanding circles would be easier for students being \nintroduced to them. But I think that durning the actual calculations, \nstudents should use it in terms of Pi. I know that if I were taught that \n2Pi = Tau, therefore Tau can nicely segment the circle, it would have made \nit easier to grasp. Thus calculations in terms of Pi would be simpler. But \nMatt made a great point that Pi is used as a unit, and Tau wouldn't be \nsensible since it IS the circle.\n\nIn short, they both have great arguments. But it's more effective to give \nperspective on both terms of thinking regarding circles, yet still using Pi \ncalculations in order to keep it universal. \ufeff", 
+            "author": "Daphne Campo"
+        }, 
+        {
+            "date": "2015-05-05T22:57:41.395Z", 
+            "text": "Spam pressing 7. You're welcome.\ufeff", 
+            "author": "James Ross"
+        }, 
+        {
+            "date": "2015-05-05T21:20:28.567Z", 
+            "text": "I believe the most convincing case for Pi is this: if you turn a line \nthrough Pi radians, it is back where you started.  Since a line is \nspecified by (a point and) a direction, this shows that the fundamental \nsymmetry of rotation is Pi, not 2Pi.  This gives the feeling to me that Pi \nis just more fundamental than Tau.\ufeff", 
+            "author": "Eric Culver"
+        }, 
+        {
+            "date": "2015-05-04T20:56:26.445Z", 
+            "text": "lol looking 4 warhammer 40k tau vs IG but what a great find. ty\ufeff", 
+            "author": "Deseree Colquhoun"
+        }, 
+        {
+            "date": "2015-05-03T21:22:58.546Z", 
+            "text": "This was much more exciting than Mayweather vs Pacquiao\ufeff", 
+            "author": "David Lee"
+        }, 
+        {
+            "date": "2015-05-02T00:24:49.000Z", 
+            "text": "I say don't switch completely to one or the other, let them both exist in \nthe maths world and for each situation that would better suit each value \nthe better choice should be used in that case, and not Pi entirely \nreplaced.\ufeff", 
+            "author": "Starf"
+        }, 
+        {
+            "date": "2015-04-30T12:54:08.867Z", 
+            "text": "Got a little happy with the points there.\ufeff", 
+            "author": "Aidan Davis"
+        }, 
+        {
+            "date": "2015-04-30T12:47:18.726Z", 
+            "text": "I'm with Matt.  Pi all the way.\ufeff", 
+            "author": "reeses58"
+        }, 
+        {
+            "date": "2015-04-29T03:01:46.539Z", 
+            "text": "this interesting.\ufeff", 
+            "author": "ADD Math"
+        }, 
+        {
+            "date": "2015-04-27T23:02:54.346Z", 
+            "text": "Is there going to be a tau day on June 28?\ufeff", 
+            "author": "johnvuc"
+        }, 
+        {
+            "date": "2015-04-28T10:57:48.270Z", 
+            "text": "+johnvuc There always is", 
+            "author": "Matthew Meinema"
+        }, 
+        {
+            "date": "2015-04-27T07:31:23.743Z", 
+            "text": "So we've been looking for the wrong signal from space, hydrogen times pi, \nwhen we should have been looking for hydrogen times tau.\ufeff", 
+            "author": "Stephanie Currie"
+        }, 
+        {
+            "date": "2015-04-26T14:57:27.084Z", 
+            "text": "I like how they stare and laugh at each other like \"dude stfu pi/tau is \nbetter your crazy\"\ufeff", 
+            "author": "Herm1881"
+        }, 
+        {
+            "date": "2015-04-25T19:09:28.353Z", 
+            "text": "Why don't we have both?\ufeff", 
+            "author": "trevor rogers"
+        }, 
+        {
+            "date": "2015-04-16T00:35:19.064Z", 
+            "text": "You forgot one: Pi radians around the circle means a net displacement of \nthe diameter of the circle.\n\nOn the other hand, the Gaussian equation has a 1/tau at its beginning.\n\netc. etc. never mind, they're both irrational and transcendental and can \nappear in the exact same uses.\ufeff", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-16T00:27:36.897Z", 
+            "text": "lollol a mistake costs you on the tally big time\ufeff", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-15T02:52:28.425Z", 
+            "text": "You know you've been watching too much Numberphile when you get excited \nthat both of their scores are primes.\ufeff", 
+            "author": "PwnDealer"
+        }, 
+        {
+            "date": "2015-04-14T09:24:33.784Z", 
+            "text": "Main thing I got out of this is more Brits need to watch the video on maths \nvs math. 'Merica got that one right\ufeff", 
+            "author": "Robert Lenn"
+        }, 
+        {
+            "date": "2015-04-07T19:19:31.032Z", 
+            "text": "Well, small problem with saying Pi is wrong when supporting Tau, you lost \nyour definition that you are rooting for. I don't know about you, but it \nseems pretty promblematic to me. From this I conclude that Tau and Pi need \neachother and can be used by preference, depending on who is doing what.\ufeff", 
+            "author": "Hedge Twentyfour"
+        }, 
+        {
+            "date": "2015-04-04T01:02:31.262Z", 
+            "text": "This channel make math so much more interesting than school does.\ufeff", 
+            "author": "sociallyawkward99"
+        }, 
+        {
+            "date": "2015-04-02T18:44:48.749Z", 
+            "text": "What's bothering me about this is that the letter Tau literally looks like \nhalf of the letter Pi, but it is going to represent twice the number.  It \njust is visually backwards.  The symbols visually conflict with their \ninformation.\n\nIt is a very minor quibble, but it just bothers me.\ufeff", 
+            "author": "JeddHampton"
+        }, 
+        {
+            "date": "2015-03-31T21:16:18.308Z", 
+            "text": "I'm for pi! And here's why (from a physics rather than Maths point of \nview). \n\nWhen you talk about interference of waves we use pi radians to describe if \nit's constructive or destructive interference. \nFor destructive it's \u03c0 radian out of phase it's destructive if it's 2\u03c0 it's \nconstructive. Using Tau will create fractions and really detracts from the \nunit. I agree with Matt, it makes more sense to use \u03c0 as it allows it to be \na better unit. Encompassing something takes something away. \nPi is everywhere from Hawking's equations to Coulomb's law (where k is \n1/4\u03c0e0). It's for this reason that Steve's notion of it not being a just \none unit is redundant. If we used Tau we'd get 4\u03c4 and 2\u03c4 so it doesn't \nactually \"solve\" anything.\ufeff", 
+            "author": "AlchemistOfNirnroot"
+        }, 
+        {
+            "date": "2015-05-03T05:09:10.592Z", 
+            "text": "+mnbgt101\nPi is used to represent things other than 3.141592..., too, especially in \npure math and particle physics. And \"e\", Euler's number, is used along \"e\", \nthe elementary charge, in various equations, and people seem to get along \njust fine.", 
+            "author": "Prince Istalri"
+        }, 
+        {
+            "date": "2015-05-03T04:42:41.314Z", 
+            "text": "+AlchemistOfNirnroot What I always use as an argument against tau, is that \nwhen dealing with torques and angular mechanics, a torque is always \nrepresented with tau. Having two taus alongside each other would just get \ntoo confusing.", 
+            "author": "mnbgt101"
+        }, 
+        {
+            "date": "2015-04-05T03:16:54.750Z", 
+            "text": "+AlchemistOfNirnroot\nStill.. Tau wins. In a perfect world, Tau would have the Pi symbol assigned \nto it.", 
+            "author": "Prince Istalri"
+        }, 
+        {
+            "date": "2015-04-05T03:14:58.398Z", 
+            "text": "+Prince Istalri My vision, in ruin... ", 
+            "author": "AlchemistOfNirnroot"
+        }, 
+        {
+            "date": "2015-04-05T02:52:38.871Z", 
+            "text": "+AlchemistOfNirnroot\nMaybe you can look at the \"legs\" as denominators, with Tau being Tau/1, and \nPi being Tau/2 :P", 
+            "author": "Prince Istalri"
+        }, 
+        {
+            "date": "2015-04-05T02:46:57.711Z", 
+            "text": "+Prince Istalri Have you noticed how Tau's symbol is half of pi's symbol \neven though tau is two pi? ", 
+            "author": "AlchemistOfNirnroot"
+        }, 
+        {
+            "date": "2015-04-05T02:37:44.277Z", 
+            "text": "From a mathematical point of view, Tau is really the superior choice, but I \nreally think it's pointless to change all the books at this point. Tau is \nmore \"natural\", but Pi is what the mathematicians of old went with, so it's \nwhat we go with. ", 
+            "author": "Prince Istalri"
+        }, 
+        {
+            "date": "2015-03-30T04:39:14.537Z", 
+            "text": "I like at the end the score for Steve turns to dec-el\ufeff", 
+            "author": "Eric Pratt"
+        }, 
+        {
+            "date": "2015-03-30T02:01:55.847Z", 
+            "text": "I was missing the following argument for tau:\npi-guys always come up with that A = pi r^2 is nicer than A = 1/2 tau r^2\nWhile Steve had a nice point in this video think about this:\nHow do all other qudratic equations look like?\ns = 1/2 a t^2\nE = 1/2 m v^2\nW = 1/2 C U^2 (kondensator)\nusw.\nA = pi ^2 is inconsistent - and that's ugly\ufeff", 
+            "author": "pferdebert"
+        }, 
+        {
+            "date": "2015-04-28T11:01:04.291Z", 
+            "text": "+pferdebert U = 1/2 L I^2 ^_^", 
+            "author": "Matthew Meinema"
+        }, 
+        {
+            "date": "2015-03-28T21:46:26.672Z", 
+            "text": "So one of the main points for Tau is because in maths the radius is usually \nused, but why is that? Why not just use the diameter? As matt said, it is \nthe thing that you measure.\ufeff", 
+            "author": "Peter Morrison"
+        }, 
+        {
+            "date": "2015-03-28T19:24:03.537Z", 
+            "text": "Take a look at this video on YouTube:\ufeff", 
+            "author": "Nur Wazir"
+        }, 
+        {
+            "date": "2015-03-28T17:06:06.000Z", 
+            "text": "*Tau vs Pi Smackdown:*\n\nVery funny look at the tau vs. pi debate.  As much as I agree with the tau \nargument.  I think Matt's \"insufficiently right\" comment hits it on the \nhead.  That said, in math education, this is a great conversation to keep \nhaving.\ufeff", 
+            "author": "Mike Aben"
+        }, 
+        {
+            "date": "2015-03-26T17:22:05.635Z", 
+            "text": "Pi is half a circle.  How much cooler would it be if it WAS the circle?\ufeff", 
+            "author": "Bryan Seigneur"
+        }, 
+        {
+            "date": "2015-03-26T17:18:29.905Z", 
+            "text": "e^iTau = 1.  EULER'S IDENTITY IS EVEN MORE BEAUTIFUL WITH TAU.\ufeff", 
+            "author": "Bryan Seigneur"
+        }, 
+        {
+            "date": "2015-05-06T08:49:53.981Z", 
+            "text": "I prefer it written as e^(i*Tau) - 1 = 0, since this includes all the \nfundamental constants. =P", 
+            "author": "Laurelindo"
+        }, 
+        {
+            "date": "2015-03-25T18:49:54.023Z", 
+            "text": "It's funny how, at 7:48, Matt says \"The unit shouldn't be the whole thing\" \nBUT this is exactly WHY we should use it.  The word UNIT literally comes \nfrom the number 1.\ufeff", 
+            "author": "Sahak Sandragorsian"
+        }, 
+        {
+            "date": "2015-03-24T21:50:45.844Z", 
+            "text": "Tau should be used when appropriate, other than that. Use Pi instead of.. I \ndon't know... Tau/2?\ufeff", 
+            "author": "DDawgTheMinecraftian"
+        }, 
+        {
+            "date": "2015-04-28T11:02:05.947Z", 
+            "text": "+DDawgTheMinecraftian That's what we \"fight\" for. Use pi when needed, but \notherwise use tau. Much easier in physics.", 
+            "author": "Matthew Meinema"
+        }, 
+        {
+            "date": "2015-03-24T21:01:39.861Z", 
+            "text": "so Tau wins yes? Since Pi's first ones were one word puns. boom.\ufeff", 
+            "author": "Jake B"
+        }, 
+        {
+            "date": "2015-03-23T13:17:29.213Z", 
+            "text": "Trying to make an argument for pi makes no sense. Tau represents the WHOLE \ncircle, whereas pi represents HALF of a circle. Clearly the CIRCLE constant \nshould be based around whichever constant represents the WHOLE circle.\ufeff", 
+            "author": "chasenallimcam"
+        }, 
+        {
+            "date": "2015-03-18T03:44:22.027Z", 
+            "text": "this is also kind of a war between leftie and rightie right?\ufeff", 
+            "author": "nh\u1ea5t thi\u00ean minh nguy\u1ec5n ph\u1ea1m"
+        }, 
+        {
+            "date": "2015-03-18T00:19:31.956Z", 
+            "text": "I think you guys should do i vs j next!!\ufeff", 
+            "author": "John Chase"
+        }, 
+        {
+            "date": "2015-03-18T00:15:17.454Z", 
+            "text": "I think sin(pi/3)=sin(2pi/3), for example, is more transparent than \nsin(tau/6)=sin(tau/3). One more point for pi.\n\nDid anyone mention this yet?\ufeff", 
+            "author": "John Chase"
+        }, 
+        {
+            "date": "2015-04-28T11:57:24.243Z", 
+            "text": "+Matthew Meinema You're right. I made this comment a while ago and realized \nit was dumb. They have an equal advantage here.", 
+            "author": "John Chase"
+        }, 
+        {
+            "date": "2015-04-28T11:04:44.000Z", 
+            "text": "+John Chase Wait how is it more transparent? The tau version is much \neasier. 1/6 and 1/3 of a circle respectively. If all you want is that weird \n2 there, sin(tau/6)=sin(2tau/6)", 
+            "author": "Matthew Meinema"
+        }, 
+        {
+            "date": "2015-03-16T17:10:04.288Z", 
+            "text": "tau looks too much like t.  If you have pi in an equation, its clear its \nunique.  is tau time?  temperature?\ufeff", 
+            "author": "treekilleruuu"
+        }, 
+        {
+            "date": "2015-04-28T11:05:51.726Z", 
+            "text": "+treekilleruuu Not if you know how to write it. Omega's look like w's but \nwe aren't crying about that. All comes down to handwriting. Hell, my z's \nand 2's are almost the exact same. It isn't stupid to think some people's \npis and n's would look very similar.", 
+            "author": "Matthew Meinema"
+        }, 
+        {
+            "date": "2015-03-15T00:28:56.442Z", 
+            "text": "I have no problem with the idea of using tau, but couldn't they have chosen \na letter that doesn't already mean something? replacing pi with tau would \nmake calculating shear stress a nightmare!\ufeff", 
+            "author": "startrekwarsmixguy"
+        }, 
+        {
+            "date": "2015-03-14T07:49:43.872Z", 
+            "text": "What tau 'tells you' is that, that 'something' is tau far more complicated \nfor almost every other equation in the world except a full circle which \njust forms into pi x diameter which I use in maths.\n\nTau was used to simplify but honestly, its just made every other equation \nmore difficult except making it easier for those to comprehend fractions in \nterms of how to figure out a cicrle, and if you're struggling with \nfractions, then you shouldn't be a mathematician. \n\ufeff", 
+            "author": "InfiniteMalice720"
+        }, 
+        {
+            "date": "2015-03-13T02:50:10.995Z", 
+            "text": "it's kind of weird how the tau symbol looks like the right half of the pi \nsymbol\ufeff", 
+            "author": "tommy adler-mandile"
+        }, 
+        {
+            "date": "2015-03-12T02:31:42.849Z", 
+            "text": "It's a little annoying that people who talk about educational advantages of \nthings never talk about if there's been any studies that shows this is a \n\"serious\" problem in our math education systems, and if their alternatives \nimproves the situation.\ufeff", 
+            "author": "Keivan Monfared"
+        }, 
+        {
+            "date": "2015-03-10T21:15:02.674Z", 
+            "text": "Matt is my least favorite guy on this show. He thinks pi is better than \ntau, he thinks a billion should be a million million, and he doesn't like \n2048.\ufeff", 
+            "author": "Jonah Wolf"
+        }, 
+        {
+            "date": "2015-03-11T04:07:26.197Z", 
+            "text": "Well, a billion SHOULD be a million million. Long system is way more \nlogical than short system.", 
+            "author": "NoStressCrossfire"
+        }, 
+        {
+            "date": "2015-03-10T18:25:26.021Z", 
+            "text": "Not sure if it is already mentioned, but check out the \"Pi may be wrong, \nbut so is Tau!\". asd mentioned in that video, using pi/2 is a much better \nfundamental unit.\ufeff", 
+            "author": "Haakon Karlsen"
+        }, 
+        {
+            "date": "2015-03-10T15:15:19.191Z", 
+            "text": "lefties vs righties\ufeff", 
+            "author": "Rayden \u201cJay\u201d Striver"
+        }, 
+        {
+            "date": "2015-03-09T08:20:49.922Z", 
+            "text": "I use both fairly equally\ufeff", 
+            "author": "William Craven"
+        }, 
+        {
+            "date": "2015-03-04T04:41:11.572Z", 
+            "text": "you guys are both crazy..lol  but Matt is right about about the engineering \nprinciples. pi has been used for ages in for that very reason.\nreminds me of pi vs root-1. you guys need the get real and be rational :P\ufeff", 
+            "author": "alteans"
+        }, 
+        {
+            "date": "2015-04-28T11:07:08.289Z", 
+            "text": "+alteans And tau works much better in math and physics. Your point? :P", 
+            "author": "Matthew Meinema"
+        }, 
+        {
+            "date": "2015-03-01T12:18:16.071Z", 
+            "text": "I don't why but I started at rap song and eventually ended up here\ufeff", 
+            "author": "blueSoar"
+        }, 
+        {
+            "date": "2015-03-01T07:02:11.731Z", 
+            "text": "If Tau is equal to 2Pi does this mean that Tau is also a transcendental \nnumber? Or is it simply a piece of notation?\ufeff", 
+            "author": "Nic Dalton"
+        }, 
+        {
+            "date": "2015-03-01T05:11:52.000Z", 
+            "text": "When Matt said we should not have a unit that is the whole thing, I thought \nof the Astronomical Unit, the distance from the earth to the sun. Mercury \nand Venus are fractions of the AU, other celestial bodies are more than 1. \nThe AU works extremely well and is easy to understand, like Tau. #teamtau\ufeff", 
+            "author": "Elegant Magic"
+        }, 
+        {
+            "date": "2015-02-27T06:16:48.851Z", 
+            "text": "If Tau had been the primary method of education and Pi secondary and more \nadvanced in early school I would have probably done better in my maths, \nit's only since I was introduced to Tau that this started being fun and \nlogical to me. \ufeff", 
+            "author": "David D. Stanton"
+        }, 
+        {
+            "date": "2015-02-25T00:21:14.527Z", 
+            "text": "I'd much rather have a factor of 2 in some equations than a 1/2 in some \nequations...whole numbers are much nicer to deal with.\ufeff", 
+            "author": "Sean Magee"
+        }, 
+        {
+            "date": "2015-03-24T07:22:21.000Z", 
+            "text": "pi looses its efficiency when working with the trigonometric graphs tho. i \nspend over a minute on them.", 
+            "author": "SnowyHil"
+        }, 
+        {
+            "date": "2015-02-24T18:23:40.101Z", 
+            "text": "TAU IS FROM THE GREEK LETTER T (\u03c4) WHICH WOULD SPELLED LIKE \"TOUGH\" (with a \nsofter t, like \"taf\").\ufeff", 
+            "author": "andreas16700"
+        }, 
+        {
+            "date": "2015-02-22T19:44:17.721Z", 
+            "text": "I think you gave Matt way too many points. He's definitely good at arguing, \nbut the debate should be based soley off of logic, and free from passion. I \nthink Matt had a bit too much passion to make very logical points; he \nrelied to heavily on analogical rather than solid arguments. Steve's points \nseemed to be a bit more grounded in reason, he wasn't trying to flat out \noverthrow the idea of pi, but rather bring a slightly more intuitive \napproach to the understanding of mathematics. Matt seemed to have the \nmentality that: \"if it ain't broken don't fix it\". \ufeff", 
+            "author": "satchel frost"
+        }, 
+        {
+            "date": "2015-02-21T00:31:26.454Z", 
+            "text": "\u03c0 vs \u03c4! I really enjoyed watching this video because I'm a bit of a geek \nknowing a lot about pi.\ufeff", 
+            "author": "MaxV56"
+        }, 
+        {
+            "date": "2015-02-20T17:49:15.912Z", 
+            "text": "A perfectly logical argument supporting tau or pi is worth one point, but \nreminding of the sacrificing goats earns tau 2 points. \ufeff", 
+            "author": "CubeBag"
+        }, 
+        {
+            "date": "2015-02-20T08:51:10.668Z", 
+            "text": "I've idly wondered before if it would be more convenient to work with \u03c4/4 = \n\u03c0/2 as the unit rather than \u03c0. After all, there are a lot of cases where \nthe four quadrants of a circle are just repetitions, rotations, or \nreflections of each other.\n\nPersonally, I'm biased in favor of \u03c0. I spent a long time memorizing 50 \ndigits of pi after the decimal. I don't want that effort to go to waste. \n =]\ufeff", 
+            "author": "BradyPostma"
+        }, 
+        {
+            "date": "2015-02-20T03:19:28.483Z", 
+            "text": "But.....the letters \u03a4 and \u03a0 are not pronoumced that way...oh well! Great \nvideo!\ufeff", 
+            "author": "kitty kat"
+        }, 
+        {
+            "date": "2015-02-19T18:46:10.505Z", 
+            "text": "well, u better use pi, so at least aeverybody understands what ur speaking \nof... also it tastes better ;P\ufeff", 
+            "author": "fNktn //editor"
+        }, 
+        {
+            "date": "2015-04-30T15:05:52.845Z", 
+            "text": "gawd we're sientific ^^", 
+            "author": "fNktn //editor"
+        }, 
+        {
+            "date": "2015-04-30T11:31:51.379Z", 
+            "text": "But Tau rhynes with cow , and beef tastes better than pie imo ;)", 
+            "author": "Kevin Kong"
+        }, 
+        {
+            "date": "2015-02-19T13:15:51.806Z", 
+            "text": "GUYS WE HAVE TO PUT THEM TOGETHER AND GET THAI (FOOD)\ufeff", 
+            "author": "Pipo"
+        }, 
+        {
+            "date": "2015-02-19T08:17:52.084Z", 
+            "text": "The unit shouldn't be the whole thing? <SMACK>\ufeff", 
+            "author": "Todd Newton"
+        }, 
+        {
+            "date": "2015-02-14T01:06:25.119Z", 
+            "text": "\u03c0\ufeff", 
+            "author": "Ciaran \u201cCeebo\u201d Doughty"
+        }, 
+        {
+            "date": "2015-02-14T00:59:47.481Z", 
+            "text": "Ur video is 11 11 long a semi circle half tau 1.571\ufeff", 
+            "author": "Supreme Shuttle"
+        }, 
+        {
+            "date": "2015-02-12T03:43:38.347Z", 
+            "text": "I was really considering tau until I saw the unit circle. Tau over twelve? \nReally?\ufeff", 
+            "author": "Marty062006"
+        }, 
+        {
+            "date": "2015-02-14T04:46:15.369Z", 
+            "text": "tau / 12 = 1/12th of a full circle. That same position on the unit circle \nwould be pi/6, which isn't reflective of its \"share\" of the circle.\n\n1 full turn = 360 degrees = 400 gradians = 2pi radians = 1 tau radians\nHalf a turn = 180 degress = 200 gradians = 1pi radians = 1/2 tau radians\nQuarter turn = 90 degress = 100 gradians = 1/2 pi radians = 1/4 tau radians\n\nNotice how only the angle as represented with tau reflects the percentage \nof a full circle without a bit of mental math.", 
+            "author": "Derek Howard"
+        }, 
+        {
+            "date": "2015-02-13T22:21:42.931Z", 
+            "text": "If that's your problem, just stick to degrees.", 
+            "author": "Martin Kunev"
+        }, 
+        {
+            "date": "2015-02-12T03:24:27.611Z", 
+            "text": "Why does one have to be better, this is like arguing \"8 is better than 4 \nbecause most of the time, instead of writing 2x4, you can just write 8.\" \nand the rebuttal is \"Well, what if you want to write 2+2=4, then it would \nbe awkward to write 2+2=8/2\" yes, yes it would, and that's why we have \nboth.\ufeff", 
+            "author": "Rainbow Pigeon"
+        }, 
+        {
+            "date": "2015-05-07T03:33:48.798Z", 
+            "text": "+basamaro1 OTP", 
+            "author": "Rainbow Pigeon"
+        }, 
+        {
+            "date": "2015-05-07T02:40:04.396Z", 
+            "text": "The reason is because it can either inhibit or facilitate modes of thinking \nabout circles; these numbers give different perspectives on calculations \nwith them. Steve says that if people learned in terms of Tau, the division \nof the circle would be sensible (e.g. a quarter of a circle = Tau/4). Matt \ngives the point that it's already a universally used value, and even though \n2Pi is another way of writing Tau, it coincides with the fact that a unit \nshould not equate to the whole as Tau does, but rather give perspective on \na segment of the whole.", 
+            "author": "Daphne Campo"
+        }, 
+        {
+            "date": "2015-04-23T17:50:01.264Z", 
+            "text": "+Josh Gehman exactly, tau isn't better than Pi, the only deal with it is \nthat people don't treat them equally, or don't even realize it exists at \nall.", 
+            "author": "Rainbow Pigeon"
+        }, 
+        {
+            "date": "2015-04-23T06:03:08.954Z", 
+            "text": "+Rainbow Pigeon TBH if I were a mechanical engineer, or any profession that \nneeded to use Pi, I'd prefer a Tau button on the calculator", 
+            "author": "Josh Gehman"
+        }, 
+        {
+            "date": "2015-05-08T01:27:47.000Z", 
+            "text": "+NabsterHax That is a GREAT idea. Suggest it to the guys who do Epic Rap \nBattles. Maybe these two can do that video too!", 
+            "author": "Eric Taylor"
+        }, 
+        {
+            "date": "2015-04-18T04:37:48.807Z", 
+            "text": "I am still in denial of the existence of rap! Long live pitau (laugh \nfollowed by depression of failure in life)", 
+            "author": "basamaro1"
+        }, 
+        {
+            "date": "2015-04-17T09:49:27.710Z", 
+            "text": "+Greko Fesh You mean, they're having a fun, light hearted debate. I don't \nthink it's meant to parody rap battles.", 
+            "author": "NabsterHax"
+        }, 
+        {
+            "date": "2015-03-31T12:49:26.124Z", 
+            "text": "+Rainbow Pigeon\nthey act like it's a rapbattle, while they discuss about nerdy stuff like \nmath, although it obviously doesn't make too much sense to fight over these \ntwo numbers.", 
+            "author": "Greko Fesh"
+        }, 
+        {
+            "date": "2015-03-30T18:53:47.956Z", 
+            "text": "+Greko Fesh Hmm, maybe I don't, could you explain?", 
+            "author": "Rainbow Pigeon"
+        }, 
+        {
+            "date": "2015-03-30T14:21:22.511Z", 
+            "text": "+Rainbow Pigeon you obviously dont get the joke in this vid", 
+            "author": "Greko Fesh"
+        }, 
+        {
+            "date": "2015-03-15T00:39:28.269Z", 
+            "text": "Like this 123Pi456Tau789 10?   I like both also!", 
+            "author": "basamaro1"
+        }, 
+        {
+            "date": "2015-03-14T20:46:25.039Z", 
+            "text": "+Rainbow Pigeon Yes, exactly.\nIf we started using Tau then we would get a bunch of Tau/2 fractions \neverywhere as well, and Pi would be an excellent replacement for those \nfractions - and vice versa.", 
+            "author": "Laurelindo"
+        }, 
+        {
+            "date": "2015-03-06T11:39:38.077Z", 
+            "text": "+Rainbow Pigeon I thought the same while i was watching.", 
+            "author": "Toprak \u00d6zt\u00fcrk"
+        }, 
+        {
+            "date": "2015-02-10T16:06:32.881Z", 
+            "text": "1:40 well actually u can mesure the radius of a circle, u just have to find \nthe middel (by setting up a triangle and halfing and ortogolalling its \nsides, u will find the middel) and then measure the distance between middel \nand circle.  and additionally, u cant measure the diameter without a \nortogonal line to a tangent line\ufeff", 
+            "author": "Nimicraft"
+        }, 
+        {
+            "date": "2015-02-10T04:59:56.097Z", 
+            "text": "the unit circle is a huge advantage to using tau\ufeff", 
+            "author": "Stan Land"
+        }, 
+        {
+            "date": "2015-02-08T22:56:56.956Z", 
+            "text": "e^iT = 1\ufeff", 
+            "author": "CoconutPi"
+        }, 
+        {
+            "date": "2015-02-07T02:24:37.686Z", 
+            "text": "So if Tau won would Numberphile have changed their logo?\ufeff", 
+            "author": "cragnog"
+        }, 
+        {
+            "date": "2015-02-06T14:32:47.330Z", 
+            "text": "\u03c0 = 1 PI (PI)\n\u03c4 = 2 PI (TAU)\ufeff", 
+            "author": "Stevie Wu"
+        }, 
+        {
+            "date": "2015-02-05T18:39:04.792Z", 
+            "text": "If you are going to use \"\u03c4\" at least make an effort to pronounce it \nproperly. It's pronounced \"taf\" NOT \"taoo\". Also \"\u03c0\" is pronounced \"pee\" \nnot \"pie\".\ufeff", 
+            "author": "Ioannis Kazlaris"
+        }, 
+        {
+            "date": "2015-04-14T22:38:44.000Z", 
+            "text": "+Ioannis Kazlaris I am learning ancient Greek. We are thought that for the \nf sound they used a phi/fi/\u03d5. The upsilon/\u03c5 after an alpha/\u03b1 is pronounced \nlike they did. I totally agree with you on the pi/\u03c0. I think we use 400 \nB.C. Athens Greek, but I'm not sure.", 
+            "author": "Jakromha"
+        }, 
+        {
+            "date": "2015-04-07T23:03:10.000Z", 
+            "text": "+gamingjoins Actually I am Greek and I have learnt ancient Greek too, and \nthe pronunciations of these letters are the same. I wasn't referring to \npronunciations generally (besides pronunciations vary even among modern \nGreek from one place to another, let alone ancient Greek) but as regards \nthe letters \"\u03a0\" and \"\u03a4\", these are pronounced the way I mentioned. And no, \nno one said this is a lesson in Greek. If you have such a significant \ndifficulty in pronouncing these letters properly, then by all means go \nahead and do it. Mathematically-wise it doesn't make any difference. But \n\"\u03c4\" being pronounced \"tau\" instead of \"taf\" is wrong - plain and simple. \nWords like \"tautotita\" (=identity card) and \"pausi\" (=pause) are pronounced \nusing a very clear \"f\".", 
+            "author": "Ioannis Kazlaris"
+        }, 
+        {
+            "date": "2015-04-07T16:41:16.980Z", 
+            "text": "Actually, pronunciations in Modern Greek and Ancient Greek are very \ndifferent. I learn Ancient Greek and have a friend who speaks Modern Greek \nwho is perpetually being told off.", 
+            "author": "gamingjoins"
+        }, 
+        {
+            "date": "2015-04-02T07:24:44.732Z", 
+            "text": "+deezynar You are welcome :-)", 
+            "author": "Ioannis Kazlaris"
+        }, 
+        {
+            "date": "2015-04-02T07:03:46.965Z", 
+            "text": "+Ioannis Kazlaris Interesting, thank you.", 
+            "author": "deezynar"
+        }, 
+        {
+            "date": "2015-04-02T05:45:14.700Z", 
+            "text": "+deezynar They are the same.", 
+            "author": "Ioannis Kazlaris"
+        }, 
+        {
+            "date": "2015-04-01T23:46:05.234Z", 
+            "text": "+Ioannis Kazlaris Ioannis, the pronunciations you give, are they modern \nGreek, Classical Greek, or are they the same?", 
+            "author": "deezynar"
+        }, 
+        {
+            "date": "2015-03-15T11:34:00.708Z", 
+            "text": "+Laurelindo Read my reply above. Other letters are pronounced properly, I \ndon't see why \"\u03c4\" should be an exception.", 
+            "author": "Ioannis Kazlaris"
+        }, 
+        {
+            "date": "2015-03-14T20:53:16.087Z", 
+            "text": "+Ioannis Kazlaris This is math, not Greek.", 
+            "author": "Laurelindo"
+        }, 
+        {
+            "date": "2015-02-23T06:32:49.827Z", 
+            "text": "+Ioannis Kazlaris Languages just don't make that much sense, really.", 
+            "author": "Tomasz Wota (Xupicor)"
+        }, 
+        {
+            "date": "2015-02-07T08:14:21.377Z", 
+            "text": "+vanhouten64 In the US, the \"\u03a3\" is pronounced \"sigma\", the \"\u0394\" is \npronounced \"delta\" and many other letters are pronounced properly. I don't \nthink \"\u03a4\" or \"\u03a0\" should be an exception. ", 
+            "author": "Ioannis Kazlaris"
+        }, 
+        {
+            "date": "2015-02-06T23:17:08.315Z", 
+            "text": "I think it depends on what country you are in. Here in the US they are \npronounced so as to rhyme with \"cow\" and \"die\".", 
+            "author": "vanhouten64"
+        }, 
+        {
+            "date": "2015-02-03T23:20:53.419Z", 
+            "text": "points... so... wrong...\ufeff", 
+            "author": "Geert Snatersen"
+        }, 
+        {
+            "date": "2015-02-02T18:08:12.288Z", 
+            "text": "personally Pi, but that is only because on all calculators there is a Pi \nbutton, and not a Tau button\ufeff", 
+            "author": "PHOENIX GAMES"
+        }, 
+        {
+            "date": "2015-02-02T05:24:50.936Z", 
+            "text": "Steve is extremely hot. I didn't even know it was possible for a person to \nbe that attractive.\ufeff", 
+            "author": "Jane Doe"
+        }, 
+        {
+            "date": "2015-02-07T02:03:53.133Z", 
+            "text": "very true, he is nice", 
+            "author": "cragnog"
+        }, 
+        {
+            "date": "2015-02-02T00:48:05.294Z", 
+            "text": "Love how at the end they changed Steve to base 12.\ufeff", 
+            "author": "Lizzy Harasymiw"
+        }, 
+        {
+            "date": "2015-01-31T02:44:09.221Z", 
+            "text": "Hey everyone, why not accept both constants? Its just like how we have \ndifferent units of measurement. Though it is pretty much only the United \nStates that does not use SI units, it stands to show that two systems can \ncoexist even though it is obvious that one is better or more fundamental. \nThe example that made me realize this is the Kelvin scale. Kelvin exists \nfor the sole purpose of redefining temperature as thermal motion and \ntherefore zero thermal motion would be 0 Kelvin (absolute zero). Even \nthough Kelvin is more fundamental, other scales still exist alongside \nKelvin. In The same way, even though \u03c4 is more fundamental, there is no \nreason to remove \u03c0 from math.\ufeff", 
+            "author": "GreenMeansGO"
+        }, 
+        {
+            "date": "2015-01-29T22:58:14.142Z", 
+            "text": "the unit shouldn't be the whole thing?\nUnit means one...\nwhole=1\ufeff", 
+            "author": "Michael Sumner"
+        }, 
+        {
+            "date": "2015-01-28T21:39:44.523Z", 
+            "text": "Matt is very disrespectful! He was just laughing at Steve, with no respect \nof his point!\ufeff", 
+            "author": "K\u00e5pla Kv\u00ebhla"
+        }, 
+        {
+            "date": "2015-01-27T16:59:57.396Z", 
+            "text": "Oh and its TAF not TAU....\ufeff", 
+            "author": "Bill Killernic"
+        }, 
+        {
+            "date": "2015-01-27T16:57:29.766Z", 
+            "text": "Epic math battles of historyyyy begin!\ufeff", 
+            "author": "Bill Killernic"
+        }, 
+        {
+            "date": "2015-04-10T21:43:07.000Z", 
+            "text": "I'm confident we can all adopt tau as quickly as the US adopts the metric \nsystem.\ufeff", 
+            "author": "MikeM8891"
+        }, 
+        {
+            "date": "2015-05-06T11:53:35.222Z", 
+            "text": "+Per Wagenius and a dozenal (base12) number system", 
+            "author": "Barkspawn"
+        }, 
+        {
+            "date": "2015-05-02T15:45:12.771Z", 
+            "text": "It never will happen,,, USA is very stubborn and stupid for to use it", 
+            "author": "bobalicon1000"
+        }, 
+        {
+            "date": "2015-04-10T18:11:59.670Z", 
+            "text": "At least we've picked, in the uk you user imperial, metric, fucking base 14 \nwith stones, get yo shit together", 
+            "author": "Evan Gregory"
+        }, 
+        {
+            "date": "2015-03-18T02:17:11.463Z", 
+            "text": "+MikeM8891 and radians....degrees are stupid", 
+            "author": "Per Wagenius"
+        }, 
+        {
+            "date": "2015-01-26T06:10:41.746Z", 
+            "text": "\"A unit shouldn't be the whole thing\"? Isn't that, like, the definition of \nunity? Also what's this \"engineers use the diameter\" nonsense. Everything \nwe electrical engineers do is with the radius\ufeff", 
+            "author": "Maximillian von Obersteinhausen"
+        }, 
+        {
+            "date": "2015-01-25T06:16:46.996Z", 
+            "text": "Steve won that debate, hands down, but WHY CANT WE USE BOTH?!?!\ufeff", 
+            "author": "Gianluca Tartaro"
+        }, 
+        {
+            "date": "2015-01-25T05:17:01.418Z", 
+            "text": "Seriously, if kids at school understand circles in using tau but can't \nunderstand the same concept using 2*pi and don't get that tau = 2*pi, they \nare not likely to go into a profession which uses maths.\ufeff", 
+            "author": "Emery Lamm"
+        }, 
+        {
+            "date": "2015-01-23T02:40:03.790Z", 
+            "text": "I want to be one of them!\ufeff", 
+            "author": "Adelar Scheidt"
+        }, 
+        {
+            "date": "2015-01-21T21:00:51.514Z", 
+            "text": "I must agree we should use tau\ufeff", 
+            "author": "Storm D'archon"
+        }, 
+        {
+            "date": "2015-01-19T10:52:24.000Z", 
+            "text": "*e*^(*i\u03c4*)=1 is much more beautiful than *e*^(*i\u03c0*)=-1. In fact, the latter \nis so ugly, it's almost always written as *e^(i\u03c0)+1=0*.\ufeff", 
+            "author": "Michael Anthony"
+        }, 
+        {
+            "date": "2015-05-06T08:21:48.242Z", 
+            "text": "Can't we just agree that Pi and Tau are good for different things?\nTau may be useful for more purposes, but that doesn't mean that Pi is \nuseless - like I have said before, it can at the very least be used to \nreplace those annoying Tau/2 fractions.\nBesides, Pi was actually defined and used by mathematicians for thousands \nof years;\nit's not Pi's fault that we took such a long time to redefine it as Tau.", 
+            "author": "Laurelindo"
+        }, 
+        {
+            "date": "2015-05-06T08:24:04.000Z", 
+            "text": "+Michael Anthony e^(i\u03c0)=-1 gives insight into the rotating nature of i.\ne^(i\u03c4)=1 doesn't.\n\n\ne^(i\u03c0)=-1\ne^(2i\u03c0)=1\ne^(3i\u03c0)=-1\ne^(4i\u03c0)=1\ne^(5i\u03c0)=-1\nand so on . . .\n\n\n\u03c4 is just a multiple of \u03c0. What is the smallest positive real number x such \nthat e^(ix) is an integer? It's none other than \u03c0. Were we to replace \u03c0 \nwith \u03c4, we'd end up obfuscating the meaning of i (i.e. the connection i has \nwith -1) in the equation.\n\n\ne^(i\u03c4)=1\ne^(2i\u03c4)=1\ne^(3i\u03c4)=1\ne^(4i\u03c4)=1\nand so on . . .\n\n\nThus e^(i\u03c0)=-1 gives us a more complete understanding than e^(i\u03c4)=1, because\n\n\ne^(i\u03c0)=-1\ne^(2i\u03c0)=e^(i\u03c4)=1\ne^(3i\u03c0)=-1\ne^(4i\u03c0)=e^(2i\u03c4)=1\ne^(5i\u03c0)=-1\ne^(6i\u03c0)=e^(3i\u03c4)=1\ne^(7i\u03c0)=-1\ne^(8i\u03c0)=e^(4i\u03c4)=1\n\n\nNow, where is \u03c4 when -1? \u03c0 is more flexible. Raise e^(i\u03c0) to an even \ninteger and it becomes 1. Raise it to an odd integer and it, then, becomes \n-1, but e^(i\u03c4) cannot be but 1 because \u03c4 is but a multiple of \u03c0. I would \nnot be surprised if \u03c4 becomes part of a beautiful equation, since it's a \nmultiple of \u03c0, but I would certainly be surprised if it usurps \u03c0.", 
+            "author": "Andre Cabatingan"
+        }, 
+        {
+            "date": "2015-04-19T03:23:52.663Z", 
+            "text": "+Laurelindo e^i\u03c4 = 1 + 0\n\nNow what?", 
+            "author": "Barkspawn"
+        }, 
+        {
+            "date": "2015-04-14T21:57:21.935Z", 
+            "text": "+ForcesOfOdin No, I'm not. e^(ipi) +1 = 0 is not in it's simplest form. The \nreason for avoiding this simplification is because it's ugly with a \nnegative number.", 
+            "author": "Michael Anthony"
+        }, 
+        {
+            "date": "2015-03-27T03:14:29.840Z", 
+            "text": "+Michael Anthony You're wrong about the ugliness of e^(i pi) = -1 being the \nmotivator for writing the equation as e^(ipi) +1 = 0. The latter identity \nis favorednot for the ugliness of other forms of the identity, but because \ne^(i pi) + 1 = 0 contains the additive and multiplicative identity, e, pi, \nAND i, as well as addition, multiplication and exponentiation making that \nform of the more general equation derived by Euler a one stop shop of \nalgebra's top dogs. The form you showed, with tau or pi, loses the additive \nidentity, the addition, and arguably the additive identity. I'm not \nagreeing with your or them on which form of the identity is most beautiful, \nbut you can't say that you and others not using e^(i pi) = -1 implies that \nyou and those others share the same motivation for not using that form.  ", 
+            "author": "ForcesOfOdin"
+        }, 
+        {
+            "date": "2015-03-21T22:19:09.671Z", 
+            "text": "Agreed! e^(i\u03c4)=1 is also more reflective of the original form of Euler's \nidentity. ", 
+            "author": "David Miller"
+        }, 
+        {
+            "date": "2015-03-14T22:03:20.412Z", 
+            "text": "+Laurelindo That trivial tidbit is overshadowed by that ugly -1. e^(i\u03c0)+1=0 \n> e^(i\u03c4) - 1 = 0", 
+            "author": "Michael Anthony"
+        }, 
+        {
+            "date": "2015-03-14T20:47:53.805Z", 
+            "text": "+Michael Anthony I prefer e^(i\u03c4) - 1 = 0, since that includes all five most \nimportant constants.", 
+            "author": "Laurelindo"
+        }, 
+        {
+            "date": "2015-01-17T16:23:08.155Z", 
+            "text": "Can we PLEASE have a video of base 12 verses base 10? The debate would be \ngreat but the comments would be just hilarious\ufeff", 
+            "author": "Weber588 o-o"
+        }, 
+        {
+            "date": "2015-01-17T05:29:43.504Z", 
+            "text": "Let's switch to something that pretty much brings no net advantage, and \nmake everyone learn Tau! *Cough Sarcasm Cough*\ufeff", 
+            "author": "minicrafter mini"
+        }, 
+        {
+            "date": "2015-01-16T04:01:01.249Z", 
+            "text": "While I remain solidly in the pi camp, I enjoyed this video and now \nappreciate why some might like tau better.\n\nFor your next video, I think you should debate \"math\" or \"maths\".\ufeff", 
+            "author": "Anna Nagle"
+        }, 
+        {
+            "date": "2015-01-15T23:58:19.551Z", 
+            "text": "I excepted violence\ni am not disapointed\ufeff", 
+            "author": "SirYezik"
+        }, 
+        {
+            "date": "2015-01-14T22:36:26.369Z", 
+            "text": "And then I am sitting here like, dafuq is tau xD\ufeff", 
+            "author": "GoldenFlame3464"
+        }, 
+        {
+            "date": "2015-01-14T21:22:32.000Z", 
+            "text": "this is stupid argument! fighting over the same damn thing! is multiplying \na 2 or not doing the same SO HARD?! are you guys that dumb!?  +Numberphile  \nhonestly please find better topics...\ufeff", 
+            "author": "allen mathew"
+        }, 
+        {
+            "date": "2015-01-13T23:23:38.823Z", 
+            "text": "I watched this almost as a joke/entertainment and now I'm actually trying \nto decide which is better\ufeff", 
+            "author": "mitsterful"
+        }, 
+        {
+            "date": "2015-01-07T09:50:22.019Z", 
+            "text": "As much as I like to keep things simple and minimalist, I don't think tau \nshould replace pi. Pi is more generic in that it applies nicely to both \nengineering and mathematics, whereas tau only makes mathematics easier and \ncomplicates engineering with division. Division is more annoying to deal \nwith than multiplication. I say it'd be best to simply leave pi as is and \ndefine \u03c4 = 2\u03c0 when you want to use it.\ufeff", 
+            "author": "Waji Deu"
+        }, 
+        {
+            "date": "2015-01-06T22:02:40.789Z", 
+            "text": "It's all about the perspective but i dont understand why you cant use both?\ufeff", 
+            "author": "Kaitlyn Melia"
+        }, 
+        {
+            "date": "2015-01-06T20:37:25.649Z", 
+            "text": "Bad quality or my side?\ufeff", 
+            "author": "IFDIFGIF GAMES"
+        }, 
+        {
+            "date": "2015-01-04T23:41:12.915Z", 
+            "text": "Radians are defined in terms of the radius, so the number of radians in a \ncircle should be too. Tau should rule!\ufeff", 
+            "author": "Billy Sugger"
+        }
+    ]
+}

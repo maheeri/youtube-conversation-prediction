@@ -1,0 +1,1020 @@
+{
+    "publish_date": "2012-10-01T15:00:07.000Z", 
+    "video_length": "PT4M7S", 
+    "captions": [
+        {
+            "text": "Why are gas stations always built\nright next to other gas stations?", 
+            "dur": "3.977", 
+            "start": "15.108"
+        }, 
+        {
+            "text": "Why can I drive for a mile\nwithout finding a coffee shop", 
+            "dur": "2.706", 
+            "start": "19.109"
+        }, 
+        {
+            "text": "and then stumble\nacross three on the same corner?", 
+            "dur": "2.304", 
+            "start": "21.839"
+        }, 
+        {
+            "text": "Why do grocery stores,\nauto repair shops and restaurants", 
+            "dur": "2.884", 
+            "start": "24.167"
+        }, 
+        {
+            "text": "always seem to exist in groups", 
+            "dur": "1.643", 
+            "start": "27.075"
+        }, 
+        {
+            "text": "instead of being spread evenly\nthroughout a community?", 
+            "dur": "3.159", 
+            "start": "28.742"
+        }, 
+        {
+            "text": "While there are several factors", 
+            "dur": "1.531", 
+            "start": "31.925"
+        }, 
+        {
+            "text": "that might go into deciding\nwhere to place your business,", 
+            "dur": "2.684", 
+            "start": "33.48"
+        }, 
+        {
+            "text": "clusters of similar companies can\nbe explained by a very simple story", 
+            "dur": "3.608", 
+            "start": "36.188"
+        }, 
+        {
+            "text": "called Hotelling&#39;s Model\nof Spatial Competition.", 
+            "dur": "2.472", 
+            "start": "39.82"
+        }, 
+        {
+            "text": "Imagine that you sell\nice cream at the beach.", 
+            "dur": "2.096", 
+            "start": "43.121"
+        }, 
+        {
+            "text": "Your beach is one mile long\nand you have no competition.", 
+            "dur": "2.81", 
+            "start": "45.241"
+        }, 
+        {
+            "text": "Where would you place your cart\nin order to sell the most product?", 
+            "dur": "3.194", 
+            "start": "48.075"
+        }, 
+        {
+            "text": "In the middle.", 
+            "dur": "1.075", 
+            "start": "51.293"
+        }, 
+        {
+            "text": "The one-half-mile walk may\nbe too far for some people", 
+            "dur": "3.026", 
+            "start": "52.392"
+        }, 
+        {
+            "text": "at each end of the beach,", 
+            "dur": "1.299", 
+            "start": "55.442"
+        }, 
+        {
+            "text": "but your cart serves\nas many people as possible.", 
+            "dur": "3.005", 
+            "start": "56.765"
+        }, 
+        {
+            "text": "One day you show up at work", 
+            "dur": "1.324", 
+            "start": "59.794"
+        }, 
+        {
+            "text": "just as your cousin Teddy\nis arriving at the beach", 
+            "dur": "2.38", 
+            "start": "61.142"
+        }, 
+        {
+            "text": "with his own ice cream cart.", 
+            "dur": "1.354", 
+            "start": "63.546"
+        }, 
+        {
+            "text": "In fact, he&#39;s selling", 
+            "dur": "1.392", 
+            "start": "64.925"
+        }, 
+        {
+            "text": "exactly the same type\nof ice cream as you are.", 
+            "dur": "2.175", 
+            "start": "66.341"
+        }, 
+        {
+            "text": "You agree that you will split\nthe beach in half.", 
+            "dur": "2.253", 
+            "start": "68.54"
+        }, 
+        {
+            "text": "In order to ensure that customers\ndon&#39;t have to walk too far", 
+            "dur": "2.817", 
+            "start": "70.817"
+        }, 
+        {
+            "text": "you set up your cart a quarter mile\nsouth of the beach center,", 
+            "dur": "2.914", 
+            "start": "73.658"
+        }, 
+        {
+            "text": "right in the middle of your territory.", 
+            "dur": "1.816", 
+            "start": "76.596"
+        }, 
+        {
+            "text": "Teddy sets up a quarter mile\nnorth of the center,", 
+            "dur": "2.315", 
+            "start": "78.436"
+        }, 
+        {
+            "text": "in the middle of Teddy territory.", 
+            "dur": "1.993", 
+            "start": "80.775"
+        }, 
+        {
+            "text": "With this agreement, everyone south\nof you buys ice cream from you.", 
+            "dur": "3.143", 
+            "start": "82.792"
+        }, 
+        {
+            "text": "Everyone north of Teddy buys from him,\nand the 50% of beachgoers in between", 
+            "dur": "3.53", 
+            "start": "85.959"
+        }, 
+        {
+            "text": "walk to the closest cart.", 
+            "dur": "1.659", 
+            "start": "89.513"
+        }, 
+        {
+            "text": "No one walks\nmore than a quarter of a mile,", 
+            "dur": "2.555", 
+            "start": "91.196"
+        }, 
+        {
+            "text": "and both vendors sell\nto half of the beachgoers.", 
+            "dur": "2.878", 
+            "start": "93.775"
+        }, 
+        {
+            "text": "Game theorists consider\nthis a socially optimal solution.", 
+            "dur": "4.159", 
+            "start": "96.677"
+        }, 
+        {
+            "text": "It minimizes the maximum number\nof steps any visitor must take", 
+            "dur": "3.492", 
+            "start": "100.86"
+        }, 
+        {
+            "text": "in order to reach an ice cream cart.", 
+            "dur": "1.976", 
+            "start": "104.376"
+        }, 
+        {
+            "text": "The next day, when you arrive at work,", 
+            "dur": "1.859", 
+            "start": "106.376"
+        }, 
+        {
+            "text": "Teddy has set up his cart\nin the middle of the beach.", 
+            "dur": "2.775", 
+            "start": "108.259"
+        }, 
+        {
+            "text": "You return to your location\na quarter mile south of center", 
+            "dur": "3.243", 
+            "start": "111.058"
+        }, 
+        {
+            "text": "and get the 25% of customers\nto the south of you.", 
+            "dur": "2.744", 
+            "start": "114.325"
+        }, 
+        {
+            "text": "Teddy still gets all of the customers\nnorth in Teddy territory,", 
+            "dur": "3.542", 
+            "start": "117.093"
+        }, 
+        {
+            "text": "but now you split the 25% of people\nin between the two carts.", 
+            "dur": "4.043", 
+            "start": "120.659"
+        }, 
+        {
+            "text": "Day three of the ice cream wars,\nyou get to the beach early,", 
+            "dur": "2.858", 
+            "start": "124.726"
+        }, 
+        {
+            "text": "and set up right in the center\nof Teddy territory,", 
+            "dur": "2.559", 
+            "start": "127.608"
+        }, 
+        {
+            "text": "assuming you&#39;ll serve\nthe 75% of beachgoers to your south,", 
+            "dur": "3.441", 
+            "start": "130.191"
+        }, 
+        {
+            "text": "leaving your cousin to sell\nto the 25% of customers to the north.", 
+            "dur": "3.37", 
+            "start": "133.656"
+        }, 
+        {
+            "text": "When Teddy arrives,\nhe sets up just south of you", 
+            "dur": "3.47", 
+            "start": "137.05"
+        }, 
+        {
+            "text": "stealing all of the southerly customers,", 
+            "dur": "1.907", 
+            "start": "140.544"
+        }, 
+        {
+            "text": "and leaving you with a small group\nof people to the north.", 
+            "dur": "2.784", 
+            "start": "142.475"
+        }, 
+        {
+            "text": "Not to be outdone, you move 10 paces\nsouth of Teddy to regain your customers.", 
+            "dur": "4.053", 
+            "start": "145.283"
+        }, 
+        {
+            "text": "When you take a mid-day break,\nTeddy shuffles 10 paces south of you,", 
+            "dur": "3.476", 
+            "start": "149.36"
+        }, 
+        {
+            "text": "and again, steals back all the customers\nto the far end of the beach.", 
+            "dur": "3.675", 
+            "start": "152.86"
+        }, 
+        {
+            "text": "Throughout the course of the day,", 
+            "dur": "1.575", 
+            "start": "156.559"
+        }, 
+        {
+            "text": "both of you continue\nto periodically move south", 
+            "dur": "2.259", 
+            "start": "158.158"
+        }, 
+        {
+            "text": "towards the bulk of the ice cream buyers,", 
+            "dur": "2.395", 
+            "start": "160.441"
+        }, 
+        {
+            "text": "until both of you eventually end up\nat the center of the beach,", 
+            "dur": "3", 
+            "start": "162.86"
+        }, 
+        {
+            "text": "back to back, each serving 50%\nof the ice-cream-hungry beachgoers.", 
+            "dur": "3.835", 
+            "start": "165.884"
+        }, 
+        {
+            "text": "At this point, you\nand your competitive cousin", 
+            "dur": "2.192", 
+            "start": "169.743"
+        }, 
+        {
+            "text": "have reached what game theorists\ncall a Nash Equilibrium -", 
+            "dur": "2.992", 
+            "start": "171.959"
+        }, 
+        {
+            "text": "the point where neither of you\ncan improve your position", 
+            "dur": "2.799", 
+            "start": "174.975"
+        }, 
+        {
+            "text": "by deviating from your current strategy.", 
+            "dur": "2.139", 
+            "start": "177.798"
+        }, 
+        {
+            "text": "Your original strategy,", 
+            "dur": "1.437", 
+            "start": "179.961"
+        }, 
+        {
+            "text": "where you were each a quarter mile\nfrom the middle of the beach,", 
+            "dur": "3.024", 
+            "start": "181.422"
+        }, 
+        {
+            "text": "didn&#39;t last, because it wasn&#39;t\na Nash Equilibrium.", 
+            "dur": "2.616", 
+            "start": "184.47"
+        }, 
+        {
+            "text": "Either of you could move your cart\ntowards the other to sell more ice cream.", 
+            "dur": "3.826", 
+            "start": "187.11"
+        }, 
+        {
+            "text": "With both of you now\nin the center of the beach,", 
+            "dur": "2.286", 
+            "start": "190.96"
+        }, 
+        {
+            "text": "you can&#39;t reposition your cart\ncloser to your furthest customers", 
+            "dur": "3.632", 
+            "start": "193.27"
+        }, 
+        {
+            "text": "without making your current\ncustomers worse off.", 
+            "dur": "2.286", 
+            "start": "196.926"
+        }, 
+        {
+            "text": "However, you no longer have\na socially optimal solution,", 
+            "dur": "3.332", 
+            "start": "199.236"
+        }, 
+        {
+            "text": "since customers at either end of the beach", 
+            "dur": "2", 
+            "start": "202.592"
+        }, 
+        {
+            "text": "have to walk further than necessary\nto get a sweet treat.", 
+            "dur": "2.986", 
+            "start": "204.616"
+        }, 
+        {
+            "text": "Think about all the fast food chains,", 
+            "dur": "1.944", 
+            "start": "207.626"
+        }, 
+        {
+            "text": "clothing boutiques,\nor mobile phone kiosks at the mall.", 
+            "dur": "2.677", 
+            "start": "209.594"
+        }, 
+        {
+            "text": "Customers may be better served", 
+            "dur": "1.584", 
+            "start": "212.295"
+        }, 
+        {
+            "text": "by distributing services\nthroughout a community,", 
+            "dur": "2.261", 
+            "start": "213.903"
+        }, 
+        {
+            "text": "but this leaves businesses vulnerable\nto aggressive competition.", 
+            "dur": "3.332", 
+            "start": "216.188"
+        }, 
+        {
+            "text": "In the real world, customers come\nfrom more than one direction,", 
+            "dur": "3.242", 
+            "start": "219.544"
+        }, 
+        {
+            "text": "and businesses are free to compete\nwith marketing strategies,", 
+            "dur": "2.905", 
+            "start": "222.81"
+        }, 
+        {
+            "text": "by differentiating their product line,\nand with price cuts,", 
+            "dur": "2.762", 
+            "start": "225.739"
+        }, 
+        {
+            "text": "but at the heart of their strategy,", 
+            "dur": "1.727", 
+            "start": "228.525"
+        }, 
+        {
+            "text": "companies like to keep their competition\nas close as possible.", 
+            "dur": "3.345", 
+            "start": "230.276"
+        }
+    ], 
+    "title": "Why do competitors open their stores next to one another? - Jac de Haan", 
+    "video_defintion": "hd", 
+    "topics": [], 
+    "number_views": 718370, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-03T08:32:18.276Z", 
+            "text": "Take a look at this video on YouTube:\ufeff", 
+            "author": "corrinne q"
+        }, 
+        {
+            "date": "2015-04-30T10:48:33.968Z", 
+            "text": "Trivia: Harold Hotelling was a socialist.\ufeff", 
+            "author": "Frogspawn_Johnson"
+        }, 
+        {
+            "date": "2015-04-29T03:04:10.175Z", 
+            "text": "This is also the #MedianVoterTheorem. Why all politicians sound the same.\ufeff", 
+            "author": "starrychloe"
+        }, 
+        {
+            "date": "2015-04-28T16:12:30.536Z", 
+            "text": "Stay out of my territory \ufeff", 
+            "author": "Animation"
+        }, 
+        {
+            "date": "2015-04-13T16:17:29.046Z", 
+            "text": "If would be in the Cast Away island, Wilson would have more costumers\ufeff", 
+            "author": "enlargemedia"
+        }, 
+        {
+            "date": "2015-03-21T03:12:02.844Z", 
+            "text": "Anyone catch the \"New Fish Flavor\" ice cream? Yummy..\ufeff", 
+            "author": "David Tutt"
+        }, 
+        {
+            "date": "2015-03-16T06:13:58.679Z", 
+            "text": "That makes way too much sense.\ufeff", 
+            "author": "Wolvenblaze"
+        }, 
+        {
+            "date": "2015-03-12T01:27:45.394Z", 
+            "text": "Teddy's an asshole. \ufeff", 
+            "author": "ToxicWyvern1"
+        }, 
+        {
+            "date": "2015-03-10T07:16:44.262Z", 
+            "text": "Well the explanation is good for 2 competitors. But since many times we see \n3 or more restaurants in the same place, not to mention a mall, someone \nmist be in the middle and therefore in the worst positioning. You did'nt \nmention the social advantage of a shooping or specialist center, which do \nbenefit the customers, since they can now compare prices, or go to the less \ncrowded place.\ufeff", 
+            "author": "\u202b\u05e2\u05de\u05e8\u05d9 \u05de\u05d8\u05e8\u202c\u200e"
+        }, 
+        {
+            "date": "2015-02-22T21:26:09.544Z", 
+            "text": "3:41\nEat at Teddy's\nI feel like a Five Nights at Freddy's reference should be inserted there.\ufeff", 
+            "author": "john liang (Phantom Freddy)"
+        }, 
+        {
+            "date": "2015-02-21T02:57:44.312Z", 
+            "text": "Teddy's a dick\ufeff", 
+            "author": "Nichole Sinclair"
+        }, 
+        {
+            "date": "2015-02-08T23:05:14.146Z", 
+            "text": "Disgusting to see the comments section littered with unintellectual \ncomments from trolls. Especially on Ted content.\ufeff", 
+            "author": "mintlou"
+        }, 
+        {
+            "date": "2015-02-07T07:51:30.118Z", 
+            "text": "Well if you set up a shop whithin a mall couldn't the mall owners force you \nto space yourself against competing shops and neither could move their shop \nto gain a situational advantage?\ufeff", 
+            "author": "MrOrder67"
+        }, 
+        {
+            "date": "2015-02-05T10:41:08.420Z", 
+            "text": "Hotellings theorem there ! \ud83d\ude03\ufeff", 
+            "author": "BrachioMentis"
+        }, 
+        {
+            "date": "2015-02-04T19:33:39.640Z", 
+            "text": "Tell this to the HMart and Lotte in Ellicott City...\ufeff", 
+            "author": "Anna Banana"
+        }, 
+        {
+            "date": "2015-02-04T13:11:52.167Z", 
+            "text": "Fuck you Teddy !\ufeff", 
+            "author": "Beer_Wolf"
+        }, 
+        {
+            "date": "2015-02-04T07:42:03.740Z", 
+            "text": "", 
+            "author": "srinivas balla"
+        }, 
+        {
+            "date": "2015-02-03T17:11:47.982Z", 
+            "text": "", 
+            "author": "Rajesh Saragadam"
+        }, 
+        {
+            "date": "2015-02-03T14:53:14.484Z", 
+            "text": "still im not convinced\ufeff", 
+            "author": "Ken Sushi"
+        }, 
+        {
+            "date": "2015-02-02T22:11:59.433Z", 
+            "text": "Don't make sense ! One reason for this grouping might be: New shop open \nclose to another old shop because customers are now accustomed to find this \nparticular product/service in this area, and the new shop just want to \nsteal them.  Also some people are fuckin too lazy to make their own \nresearch so they just copy everything from the first one, even the location.\nThis is over simplifying this complex behavior to only one explanation and \nmaking people makes wrong decisions.\ufeff", 
+            "author": "Zou Uuu"
+        }, 
+        {
+            "date": "2015-02-02T20:16:21.934Z", 
+            "text": "Teddy sounds like a dick.\ufeff", 
+            "author": "Charles Yazzie"
+        }, 
+        {
+            "date": "2015-02-02T19:06:06.367Z", 
+            "text": "Actually, it has a lot more to do with zoning restrictions.  Most people \nthink there is one kind of commercial zoning, where there are many types of \ncommercial zoning.  The type of commercial zoning for any given property \ndetermines the type of businesses that can be on that specific piece of \nproperty.  The limitations of the zoning, combined with the needs of the \ncommunity determine what is the best business for that property - and often \nthe type of biz that could flourish in that specific location limits it to \njust two or three different biz's.  That is how you end up with the same \ntypes of biz's in the same location.\ufeff", 
+            "author": "gooddog9808"
+        }, 
+        {
+            "date": "2015-02-02T06:46:43.830Z", 
+            "text": "This video only made me want to kick teddy's ass\ufeff", 
+            "author": "homskilybiskit"
+        }, 
+        {
+            "date": "2015-02-02T06:45:48.134Z", 
+            "text": "", 
+            "author": "Paul Pluzhnikov"
+        }, 
+        {
+            "date": "2015-02-02T05:28:08.488Z", 
+            "text": "i'd fucking kill teddy, that motherfucker bitch\ufeff", 
+            "author": "AIIUserNamesInvalid"
+        }, 
+        {
+            "date": "2015-02-02T05:18:01.096Z", 
+            "text": "Teddys a cunt.\ufeff", 
+            "author": "Blu3W4r10Ck"
+        }, 
+        {
+            "date": "2015-02-02T05:04:22.057Z", 
+            "text": "fuck teddy. fucking snitch \ufeff", 
+            "author": "WillyMyWonka"
+        }, 
+        {
+            "date": "2015-02-02T04:34:18.950Z", 
+            "text": "", 
+            "author": "Andreas Wettainen"
+        }, 
+        {
+            "date": "2015-02-02T04:09:11.982Z", 
+            "text": "Fuck teddy\ufeff", 
+            "author": "Mega Maverick"
+        }, 
+        {
+            "date": "2015-02-02T03:21:52.180Z", 
+            "text": "Its like Reddit and 9gag, Reddit came first with hilarious memes and \nintellectual discussions and then 9gag comes and tries to steal it from us!\ufeff", 
+            "author": "CookiejarSeventy5"
+        }, 
+        {
+            "date": "2015-02-02T03:14:09.616Z", 
+            "text": "government zoning and regulations. They don't allow retail space \neverywhere.\ufeff", 
+            "author": "aletoledo1"
+        }, 
+        {
+            "date": "2015-02-02T02:33:08.542Z", 
+            "text": "https://www.youtube.com/watch?v=jILgxeNBK_8&amp;feature=youtu.be\n\nhttp://reddit.com/r/videos/comments/2ue0la/why_competitors_open_stores_next_to_eachother/\n\ufeff", 
+            "author": "Corey Ferguson"
+        }, 
+        {
+            "date": "2015-02-02T00:43:00.251Z", 
+            "text": "Kill Teddy. Take over Beach.\ufeff", 
+            "author": "WanderingRurouni92"
+        }, 
+        {
+            "date": "2015-02-01T22:26:59.430Z", 
+            "text": "man, fuck teddy\ufeff", 
+            "author": "IgnoreThisComment OrDont"
+        }, 
+        {
+            "date": "2015-02-01T21:23:30.577Z", 
+            "text": "I used to sell candy & sandwiches at my old high school. There was another \nguy who sold only candy in certain areas during lunch and nutrition. \n\nHe told me straight up to stay out of his way. \n\nSometimes I came earlier to steal his customers but after a while I got \nlazy and stayed inside to play poker with the homies.\n\nIt turns out, that while he busted his ass running around and trying to \ncatch a deal. His loyal customers asked around for my # and came to me.\n\nQuality sells itself. \n\ufeff", 
+            "author": "JUICEPPL1"
+        }, 
+        {
+            "date": "2015-02-01T20:28:05.753Z", 
+            "text": "Teddy and Eddy are idiots. They keep handing out ice cream without \ncollecting any money.\ufeff", 
+            "author": "meadslosh"
+        }, 
+        {
+            "date": "2015-02-22T00:15:46.035Z", 
+            "text": "LOL!", 
+            "author": "Asib Said"
+        }, 
+        {
+            "date": "2015-02-01T19:40:41.143Z", 
+            "text": "In the real world, you cannot move your store every other day so this \nexample is foolish. Sometimes competitors are close and sometimes are not \nclose to each other. When they are close it is usually because that area is \nknown as the \"industry X district\" so consumers/Johns go to that area \nknowing that they will have many choices of furniture stores/chinese \nrestaurants or prostitutes. That targeted consumer traffic attracts more \nbusinesses that offer the same wares. That is the explanation and it is \nmuch more mundane than what this video suggests.\ufeff", 
+            "author": "Ron T."
+        }, 
+        {
+            "date": "2015-05-07T18:07:58.619Z", 
+            "text": "+Ron T. it's an explanation to why competitors set up shop next to each \nother. Your explanation flew over your own head.", 
+            "author": "Kent Tran"
+        }, 
+        {
+            "date": "2015-03-16T00:07:07.121Z", 
+            "text": "This is not true. A lot of similar stores do end up close to each other \neven if it isn't a X area. In my town an Apple store opened and within a \nyear right across the street a Samsung store opened.", 
+            "author": "onee"
+        }, 
+        {
+            "date": "2015-02-15T03:16:10.000Z", 
+            "text": "Unless you're Starbucks, then you can just place 3 stores in one street. \nAlso, consider food trucks and stands. Especially prevalent in cities like \nNew York, they can indeed move locations quite often and instantly.", 
+            "author": "ItsNotRudy"
+        }, 
+        {
+            "date": "2015-02-01T18:58:46.876Z", 
+            "text": "Teddy is a smartass.\ufeff", 
+            "author": "CrazyandLazy"
+        }, 
+        {
+            "date": "2015-02-01T18:54:03.131Z", 
+            "text": "Why did you name the asshole after yourselves?\ufeff", 
+            "author": "AirplaneRandy"
+        }, 
+        {
+            "date": "2015-02-01T18:27:58.001Z", 
+            "text": "The beach example is horrible.  Everyone at the beach is so diverse, it's \nan almost exact average of wealth and race.  Poor mixed with rich mixed \nwith average salary Joe.  The north end of the beach and the south end of \nthe beach would draw equal business to each cart when they are splitting \n50/50.  Bring this theory to a real town or city, and the north end may be \npoor and/or the slums, the south end may be the wealthy...therefore the \nnorth end cart will never make money and will have to move into the south \nend territory.  For the most part, businesses are set up strategically in \ntown/cities to make the most money, depending on what it is they are \nselling and to whom.  Gas stations are set up in certain places due to \nregulations and areas of land they are only allowed to build on (so this \nscenario doesn't even matter), banks now are set up in certain areas (for \nreasons other than this scenario), cafes and the style of those cafes are \nset up in the areas that serve those \"types\" of people.\ufeff", 
+            "author": "DJ Mindchime"
+        }, 
+        {
+            "date": "2015-02-07T14:05:09.666Z", 
+            "text": "You pretty much answered your own argument. Economy will influence the \nlocation but that would mean the shop would need to have enough standard to \ncompete with them. Best example I can give you is Chanel and Gucci will not \nsetup shop in the middle of the slums just as much as Walmart will not \nthrive in the middle of a rich area. It's about keeping the competition as \nCLOSE as possible.", 
+            "author": "skeche"
+        }, 
+        {
+            "date": "2015-02-01T18:04:59.216Z", 
+            "text": "This explains why 9gag and facebook keep stealing our dank memes.\ufeff", 
+            "author": "Travis Peregrine"
+        }, 
+        {
+            "date": "2015-03-19T05:32:53.280Z", 
+            "text": "They want thme danke menes", 
+            "author": "Mighty Roogna"
+        }, 
+        {
+            "date": "2015-02-01T17:16:44.198Z", 
+            "text": "Shoot teddy...problem solved. \ufeff", 
+            "author": "bukueOner"
+        }, 
+        {
+            "date": "2015-02-01T17:09:49.694Z", 
+            "text": "Wouldn't it be easier to just tell Teddy to go fuck himself?\ufeff", 
+            "author": "Nerd Builds"
+        }, 
+        {
+            "date": "2015-02-01T16:47:21.927Z", 
+            "text": "fuck you teddy\ufeff", 
+            "author": "bob hope"
+        }, 
+        {
+            "date": "2015-02-01T15:38:17.464Z", 
+            "text": "whats with all these videos trying to explain shit tahts common sense?\ufeff", 
+            "author": "KatyPeezy"
+        }, 
+        {
+            "date": "2015-02-01T15:35:53.468Z", 
+            "text": "You know teddy is one of those kids that causes his parents to divorce\ufeff", 
+            "author": "XxMlg \u201cSwagScoper\u201d ProxX"
+        }, 
+        {
+            "date": "2015-02-01T15:09:24.032Z", 
+            "text": "i hope teddy gets ebola\ufeff", 
+            "author": "Shruk"
+        }, 
+        {
+            "date": "2015-02-01T15:00:54.944Z", 
+            "text": "i would reported teddy for being toxin by stealing m'farm, gg \ufeff", 
+            "author": "vvvortic"
+        }, 
+        {
+            "date": "2015-02-01T17:17:04.000Z", 
+            "text": "master vrotc. can u teech me the way of lee song suprot. i am also stuck in \nelbow bell and deserve challenjour. gg", 
+            "author": "Dany Boii"
+        }, 
+        {
+            "date": "2015-02-01T14:51:54.690Z", 
+            "text": "", 
+            "author": "Simone Sergas"
+        }, 
+        {
+            "date": "2015-02-01T13:14:46.760Z", 
+            "text": "Should have broke teddy's kneecaps for invading your territory. \ufeff", 
+            "author": "Tammc09"
+        }, 
+        {
+            "date": "2015-02-01T21:59:06.887Z", 
+            "text": "Pimpin ain't easy. ", 
+            "author": "Hubert Applebaum"
+        }, 
+        {
+            "date": "2015-02-01T13:34:58.483Z", 
+            "text": "Tammc's addendum to game theory :^) ", 
+            "author": "TheTymera .poopyface"
+        }, 
+        {
+            "date": "2015-02-01T12:58:22.941Z", 
+            "text": "teddy is a dick\ufeff", 
+            "author": "Sir Bob"
+        }, 
+        {
+            "date": "2015-02-01T15:36:17.296Z", 
+            "text": "+W. deflect teddy is the reason he was raised by a single mother", 
+            "author": "XxMlg \u201cSwagScoper\u201d ProxX"
+        }, 
+        {
+            "date": "2015-02-01T14:15:49.371Z", 
+            "text": "He fucked Ed's wife and fathered her child, forcing him to set up a shitty \nice cream selling business.", 
+            "author": "W. deflect"
+        }, 
+        {
+            "date": "2015-02-01T11:32:30.563Z", 
+            "text": "Yes but a shop isnt like an ice cream store where it is easily movable. Why \nnot set up in a place which is better as the competition cant just move \ntheir multi-milllion dollar store? \ufeff", 
+            "author": "Ben Lee"
+        }, 
+        {
+            "date": "2015-02-01T10:54:03.401Z", 
+            "text": "However, the dynamic of this example become more interesting as you add \nmore competitors. \ufeff", 
+            "author": "Vendetta042"
+        }, 
+        {
+            "date": "2015-01-31T11:12:03.381Z", 
+            "text": "when you take a mid day brake teddy shuffles 10 paces south of you and \nagain steals back all then customers to the far end of the beach not to be \nout done you move 10 paces south of teddy to regain your customers \ufeff", 
+            "author": "NiK n KiN"
+        }, 
+        {
+            "date": "2015-01-29T23:57:08.307Z", 
+            "text": "Check out this video on YouTube:\ufeff", 
+            "author": "onelifecat"
+        }, 
+        {
+            "date": "2015-01-23T14:10:31.000Z", 
+            "text": "Bull! Nobody agrees to serve only people from one direction; neither do the \npeople agree to that. As the narrator says near the end. But hey... we have \na nice mathematical model; so we'll agree that it's still true... even \nthough it's not true.\ufeff", 
+            "author": "mraccident"
+        }, 
+        {
+            "date": "2015-02-01T21:41:49.000Z", 
+            "text": "+Vincent Verheijen P.S. - this whole example should try to show the most \nplausible scenario. Instead - everything here is least plausible:\n   They are cousins instead of enemies.\n   The have carts; so they can move them everyday; and they slowly come \ntogether. When in reality - people keep their business in one place from \nthe beginning.\n  They are on a one dimensional surface essentially; where the approach to \nthem is only from two sides.\n\nThis is the mechanism of denial\\rationalization in work.", 
+            "author": "mraccident"
+        }, 
+        {
+            "date": "2015-02-01T21:25:17.734Z", 
+            "text": "+Vincent Verheijen Assumption is the mother of all mistakes.\nIf you put a point in the middle of a two dimensional area - it can be \napproached from all sides. There are no favorite sides.\nThe important problem with the logic of this video - is that they try to \nanswer the question \"Why do competitors open their stores next to one \nanother?\".\nThis is not the reason why they do it.\nI can easily think of a better hypothesis.\nIn the beginning of a settlement - some businesses are needed. A few \ndifferent ones are established. The first people open where they see that \nthere are already stores etc. The next ones do the same. The first ones may \nbe different businesses; but eventually - someone who only knows the trade \nhe knows - comes alone. Where will he open his business? Of course in the \ncommercial center; where all the people come to spend money; especially if \npeople know that there are several similar businesses for a similar purpose \nin the same place.\nThis is a reason. In the video - there are no logical reasons to the \nquestion proposed.\nVery likely that it's the makers of the video - who misunderstood Game \nTheory.", 
+            "author": "mraccident"
+        }, 
+        {
+            "date": "2015-02-01T10:16:34.000Z", 
+            "text": "it assumes people walk to the closest one, which is a decent enough \napproximation or what would happen in the real world.", 
+            "author": "Vincent Verheijen"
+        }, 
+        {
+            "date": "2015-01-22T02:19:19.435Z", 
+            "text": "I much more simple explanation, without resorting to game theory to explain \nit, is that there are numerous zoning laws in the US. \ufeff", 
+            "author": "JustAManFromThePast"
+        }, 
+        {
+            "date": "2015-01-18T15:58:57.220Z", 
+            "text": "Why do competitors open their stores next to one another?\ufeff", 
+            "author": "Patrick Benz Imanuel"
+        }, 
+        {
+            "date": "2015-01-10T11:10:00.030Z", 
+            "text": "teddy has more customers like 378 customers and steals back all the \ncustomers to the far end of the beach you dont have more customers then \nteddy you have 36 customers so teddy wins!!!!\ufeff", 
+            "author": "NiK n KiN"
+        }, 
+        {
+            "date": "2015-01-07T09:27:26.175Z", 
+            "text": "Well, it still doesn't explain one thing: why people open 3rd, 5th or 9th \nsame business in the same place, insead of doing something different - at \nleast changing location. Why there are 3 kebab bars on one street of my \ntown, and every year someone has to try to open 4th. And fail. \nDifferentiate or die - yet they constantly choose path to sudden death...\ufeff", 
+            "author": "thenoideaman"
+        }, 
+        {
+            "date": "2015-01-03T14:05:25.381Z", 
+            "text": "What if 70% of people are on the bottom of the beach because it gets better \nsun, huh?\ufeff", 
+            "author": "Riley B"
+        }, 
+        {
+            "date": "2014-12-31T18:14:14.360Z", 
+            "text": "Why do competitors open their stores next to one another? - Jac de Haan - \nYouTube\ufeff", 
+            "author": "havkacik"
+        }, 
+        {
+            "date": "2014-12-27T03:15:55.223Z", 
+            "text": "Super simple exemplification of the Game Theory :)\ufeff", 
+            "author": "Tuhin Oliuddin"
+        }, 
+        {
+            "date": "2014-12-25T21:42:46.636Z", 
+            "text": "It doesn't matter where the carts are, Ted is a fricking douche bro! taking \nall them costumers\ufeff", 
+            "author": "Gus the Wolfgang"
+        }, 
+        {
+            "date": "2014-12-24T05:12:09.915Z", 
+            "text": "Very interesting\ufeff", 
+            "author": "Michael Barber"
+        }, 
+        {
+            "date": "2014-12-14T04:44:39.795Z", 
+            "text": "Legally, a corporation's primary obligation is to maximize the value of its \noutstanding shares. Socially optimal solutions are (almost) never the most \nprofitable decision. Many are saying things such as, \"businesses are driven \nto operate in a business centre because that's where the consumers are\". \nHow do you think the business centre came to exist? The Nash Equilibrium is \ndefinitely a factor - but not the absolute answer.\n\nLet's take off the blinders for a minute: the Nash Equilibrium is just a \ndrop of water in the massive bucket we call economics. This video \nillustrates, as simply as possible, this phenomenon and intentionally \nignores other factors that would obviously impact the two businesses. What \nif Ted was just a nicer guy than Ed? Many would go to Ted's cart over Ed's \nwithout hesitation over something as simple as that. But that isn't \nrelevant to this theory or video, and doesn't make the Nash Equilibrium \n\"wrong\". It just means it's an influence rather than an absolute, decisive \nfactor.\n\nIs this simulation perfectly realistic? No, but that doesn't mean that the \nNash Equilibrium isn't applicable to business analytics. Just like the \nthousands of other business theories that exist, this theory isn't a \nboulder that stands alone but rather a brick in a larger construction than \nitself.\ufeff", 
+            "author": "Iginla12010"
+        }, 
+        {
+            "date": "2015-01-28T00:51:22.884Z", 
+            "text": "+Iginla12010 +1 - spot on!", 
+            "author": "Zareph"
+        }, 
+        {
+            "date": "2014-12-10T00:40:26.294Z", 
+            "text": "", 
+            "author": "Ade Adebimpe"
+        }, 
+        {
+            "date": "2014-12-08T04:25:16.845Z", 
+            "text": "Kenapa Alfamart dan Indomart selalu berdekatan, Topik Lama yang pernah \ndibahas Mas +Hasan Yusuf  :D\ufeff", 
+            "author": "Revaldo Zen"
+        }, 
+        {
+            "date": "2014-12-05T15:45:42.974Z", 
+            "text": "this makes no sense\ufeff", 
+            "author": "shixxor"
+        }, 
+        {
+            "date": "2014-12-02T06:56:02.442Z", 
+            "text": "There an old saying, Roman I think, that if you build it they will come; \ncompletely opposite of \"convenient\" example in the video. The order of \nfinding a place for a business or a business for the place come to mind; \none is a salesman, the other is a developer. Sales is a Muslim name.\ufeff", 
+            "author": "UnitedPebbles"
+        }, 
+        {
+            "date": "2014-12-02T06:50:45.000Z", 
+            "text": "So specialized merchandisers that chose to be near general merchandisers \nare Nash equilibrium believers?\ufeff", 
+            "author": "UnitedPebbles"
+        }, 
+        {
+            "date": "2014-12-02T06:47:14.544Z", 
+            "text": "So you are saying competition are not beneficial to society all the time? \nHmm... changing type of ice cream/snack is not competition but avoidance? \ufeff", 
+            "author": "UnitedPebbles"
+        }, 
+        {
+            "date": "2014-11-29T06:15:52.472Z", 
+            "text": "When the businesses are so close though, the distance to customer becomes a \nnon-factor in competition. You won't control the whole south side of the \nbeach just because you're 3 steps further south than teddy. \ufeff", 
+            "author": "Bill Kong"
+        }, 
+        {
+            "date": "2014-11-26T13:41:54.000Z", 
+            "text": "I never understood that either. In China they have provinces dedicated to a \nsingle product. I thought having competitors next to one another made it \neasy for customer who don't have to go all over the place looking for a \nbetter deal. Then again in the real world there are syndicates and price \nfixing.\ufeff", 
+            "author": "thethakuri"
+        }, 
+        {
+            "date": "2014-11-20T00:59:08.000Z", 
+            "text": "So basically, because we're greedy assholes?\ufeff", 
+            "author": "morganmichaelp"
+        }, 
+        {
+            "date": "2014-11-18T22:29:58.489Z", 
+            "text": "", 
+            "author": "Salman Khimani"
+        }, 
+        {
+            "date": "2014-11-18T21:22:33.127Z", 
+            "text": "keep your friends close, and keep your enemies closer\ufeff", 
+            "author": "Megan Alpha"
+        }, 
+        {
+            "date": "2014-11-18T02:29:06.679Z", 
+            "text": "Apparently this guy has never lived in a big city. There are so many \nintersection with 2,3,4 gas stations and to deviate the gas price by a \npenny to draw you in. It's stupid. They do go by the other person to put \nthem out of business. Period. Walmart and everyone else does the same \nthing. Build near or next to the competition and take customers. Usually \nthey will take a hit on their profits until the day comes, but once it \ndoes, they jack the prices right back up...\ufeff", 
+            "author": "Gureen Turee"
+        }, 
+        {
+            "date": "2014-11-04T07:22:28.023Z", 
+            "text": "Keep your enemies close \ufeff", 
+            "author": "1mezion"
+        }, 
+        {
+            "date": "2014-10-29T03:10:20.273Z", 
+            "text": "bullshit, you just find a place you like and fucking place you business \nthere\ufeff", 
+            "author": "DeepDarkier"
+        }, 
+        {
+            "date": "2015-02-02T19:08:29.305Z", 
+            "text": "DeepDarkier -\n\nOnly if it could work that way.  The various city counsels across the U.S. \nhave things so tied up with commercial zoning requirements (because the \ncounsel knows best) that you are extremely limited on where you can put any \ncertain type of biz.", 
+            "author": "gooddog9808"
+        }, 
+        {
+            "date": "2015-01-29T04:24:51.082Z", 
+            "text": "+schackmountain whoa im greek man", 
+            "author": "Madon Games"
+        }, 
+        {
+            "date": "2015-01-27T00:13:02.486Z", 
+            "text": "thats what greeks say *troll*", 
+            "author": "schackmountain"
+        }, 
+        {
+            "date": "2014-10-26T20:11:39.000Z", 
+            "text": "This is a nice illustration of game theory, but I don't think it's the real \nexplanation for the phenomenon described. A new, lesser known coffee shop \nwill probably want to position itself near a well established rival to \nsteel some of its customers rather than hide itself away in some other part \nof town and rely on advertising to make itself known.\n\nAdditionally, some towns will have one area that is clearly optimal, so \nit's natural that businesses will cluster there.\ufeff", 
+            "author": "Jinmane"
+        }, 
+        {
+            "date": "2014-10-26T20:06:01.376Z", 
+            "text": "Reminds me of the game of Go, but in 1d.\ufeff", 
+            "author": "Jinmane"
+        }, 
+        {
+            "date": "2014-10-24T05:57:17.365Z", 
+            "text": "I have seen this argument before.  I have also seen it extended to a \"three \nice cream cart\" solution were the argument was that the three would \nnaturally separate.  Nice coherent theory.....   however in the real world \nwere we live the situation is more complex.\ufeff", 
+            "author": "Grumpy Koala"
+        }, 
+        {
+            "date": "2014-10-26T07:47:56.838Z", 
+            "text": "of course. economist make things as simple as  possible and then add \ncomplexity. There are other factors but that does not make this mode \nunrepresentative.  This was the first model i learned in regional \neconomics; as other factors were added the result became more complicated \nbut this is still the basic reason why companies group together when they \ndo.", 
+            "author": "419fish"
+        }, 
+        {
+            "date": "2014-10-24T02:59:25.074Z", 
+            "text": "I like that business clusters together. In a market economy, clustering \noffers the customer competitive prices and wider selection. If you go with \na SOS you will have less products to choose from and higher prices. In a \ncommand economy the government can price fix, but you will still lose \nvariety; not to mention work incentive from lack of competition. -- Come \non, are we so lazy that we won't travel to the end of the beach for a \ncheaper spumoni.  \ufeff", 
+            "author": "Erik Gifford"
+        }, 
+        {
+            "date": "2014-10-22T01:41:25.724Z", 
+            "text": "I now want an ice cream. \ufeff", 
+            "author": "John Selden"
+        }, 
+        {
+            "date": "2014-10-13T22:59:51.104Z", 
+            "text": "Simply amazing! Thanks for this video.\ufeff", 
+            "author": "Son Nguyen"
+        }, 
+        {
+            "date": "2014-10-11T15:04:27.372Z", 
+            "text": "interesting thing though. trees are unnecessary taller also because of this \nnash equilibrium. this nash equilibrium is not the optimal solution to a \ncompetition, but the most stable one.  \ufeff", 
+            "author": "Siddharth Jindal"
+        }, 
+        {
+            "date": "2014-10-04T12:03:16.577Z", 
+            "text": "Sometimes a Nash equilibrium IS a socially optimal solution. Take car \ndealerships - the average person buys a car only once every several years, \nso the convenience of having all the dealers clustered together outweighs \nthe hassle of getting to \"dealership row\" far more than it would with a \nregular errand like a supermarket or an impulse-buy product like fast food.\ufeff", 
+            "author": "nlpnt"
+        }, 
+        {
+            "date": "2014-09-13T15:18:06.962Z", 
+            "text": "Teddy is such a prick :D\ufeff", 
+            "author": "dimplamen"
+        }, 
+        {
+            "date": "2014-09-13T15:17:53.858Z", 
+            "text": "Teddy is such a prick :D\ufeff", 
+            "author": "dimplamen"
+        }, 
+        {
+            "date": "2014-09-11T18:54:19.679Z", 
+            "text": "Why do competitors open their stores next to one \u2026: \nhttp://youtu.be/jILgxeNBK_8\ufeff", 
+            "author": "Mario Perez"
+        }, 
+        {
+            "date": "2014-09-04T14:49:27.810Z", 
+            "text": "\"Hotelling\": un modelo de competencia espacial basado en el Equilibrio de \nNash\ufeff", 
+            "author": "dmat csc"
+        }, 
+        {
+            "date": "2014-08-28T15:23:38.008Z", 
+            "text": "Keep your friends close, your enemies even closer.\ufeff", 
+            "author": "kokjong son"
+        }, 
+        {
+            "date": "2014-08-12T21:37:27.529Z", 
+            "text": "Fish flavored ice cream!\ufeff", 
+            "author": "gangstervural"
+        }, 
+        {
+            "date": "2014-08-12T21:36:17.495Z", 
+            "text": "I have never seen a gas station on wheels. What you're talking about here \nis a movable ice cream stand... Normal businesses stay in one place \nforever. They don't know where they will get more customers. They just have \nto pick a place and stick with it.\ufeff", 
+            "author": "gangstervural"
+        }, 
+        {
+            "date": "2014-08-12T03:35:44.211Z", 
+            "text": "I was gonna say fuck businesses but fuck people too...\nThey or should I say we? prefer to go to the center of the city for our \nwalk instead of the nearest place to support our local shops.\nBut I shouldn't be so worried, cause the local shops get all the people far \naway from downtown.\nBut then again.. well fuck it, next video please.\ufeff", 
+            "author": "MortallicA91"
+        }, 
+        {
+            "date": "2014-10-27T04:04:46.379Z", 
+            "text": "+419fish well you are right.", 
+            "author": "MortallicA91"
+        }, 
+        {
+            "date": "2014-10-26T07:56:23.281Z", 
+            "text": "I'm not going to pay more for the same good just because a store is \"local \n\" who cares. Also a more complex model accounts for the carrying capacity \nof population centers. A \"local \" store will exist where a small population \ncan support the business. This is why there are many locale restaurants but \nvery few local specialty watch shops. The watch shop must draw on a whole \nmetropolitan area to stay afloat and therefore locates at a center of a \nlarge city. Don't be so quick to denigrate consumers or producers, this is \none of the few areas where the economic equilibrium is not optimum but \nlooked at more broadly the stores will locate in a way that most \nefficiently distributes land.", 
+            "author": "419fish"
+        }, 
+        {
+            "date": "2014-08-08T17:57:07.376Z", 
+            "text": "", 
+            "author": "Digvijay Singh"
+        }, 
+        {
+            "date": "2014-08-08T09:47:15.876Z", 
+            "text": "", 
+            "author": "Juan Enrique Cedr\u00fan S\u00e1nchez"
+        }, 
+        {
+            "date": "2014-08-07T18:31:33.657Z", 
+            "text": "Why couldn't they just have stayed at the 1/4 distance in the first place \nand done business like that indefinitely without moving all over the place \nafterwards?\ufeff", 
+            "author": "shuah long"
+        }
+    ]
+}

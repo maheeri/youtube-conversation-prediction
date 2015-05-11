@@ -17,7 +17,7 @@ from util import *
 YOUTUBE_READ_WRITE_SCOPE = "https://www.googleapis.com/auth/youtube"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
-DEVELOPER_KEY = "AIzaSyBt4F-EsA1jsLMWERsivgufl0Wn7nwuZ9o"
+DEVELOPER_KEY = "AIzaSyBEuuLWPO0AJIIp7TVGIB1uM_mNiNkMVbw"
 
 # Assign
 youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
@@ -216,8 +216,8 @@ def try_forever(eval_string):
 
 
 if __name__ == "__main__":
-	os.chdir(os.path.join(os.pardir, 'data')) #go into data folder
-	input_json_filename = 'video_ids_v9_p1_1.json'
+	os.chdir(r'C:\Users\Maheer\Dropbox\Cornell Course Materials\Spring 2015\CS 4300\youtube-caption-prediction\data') #go into data folder
+	input_json_filename = 'video_ids_v9_p2_1.json'
 	videoIds_inv_idx = json.load(open(input_json_filename))
 	eval_string = 'process_inv_idx(videoIds_inv_idx, path="raw_comments_v2/", cautious=True)'
 	try_forever(eval_string)

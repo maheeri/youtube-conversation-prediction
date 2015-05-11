@@ -1,0 +1,904 @@
+{
+    "publish_date": "2014-06-30T17:39:15.000Z", 
+    "video_length": "PT2M51S", 
+    "captions": [
+        {
+            "text": "There&#39;s a famous scene in the Lord of the\nRings where the elf Legolas claims to be able", 
+            "dur": "4.21", 
+            "start": "1.09"
+        }, 
+        {
+            "text": "to count the exact number of horsemen 5 leagues\naway, and on top of that can tell that their", 
+            "dur": "4.49", 
+            "start": "5.3"
+        }, 
+        {
+            "text": "leader is very tall. But even with the most\nperfect eyes possible, would anyone be able", 
+            "dur": "4.88", 
+            "start": "9.79"
+        }, 
+        {
+            "text": "to see that far?", 
+            "dur": "1.519", 
+            "start": "14.67"
+        }, 
+        {
+            "text": "When we see, we&#39;re looking at light that&#39;s\ntraveled outwards from a light source, bounced", 
+            "dur": "3.741", 
+            "start": "16.189"
+        }, 
+        {
+            "text": "off an object, passed through the lens in\nthe eye, and been focused into an image on", 
+            "dur": "3.46", 
+            "start": "19.93"
+        }, 
+        {
+            "text": "the retina. Except... light isn&#39;t a particle\ntraveling in perfectly straight lines - it", 
+            "dur": "4.559", 
+            "start": "23.39"
+        }, 
+        {
+            "text": "is a wave. And therein lies the problem, both\nfor us, and for Legolas.", 
+            "dur": "4.72", 
+            "start": "27.949"
+        }, 
+        {
+            "text": "Because any wave - whether water, sound or\nlight - that travels through a small opening", 
+            "dur": "4.311", 
+            "start": "32.669"
+        }, 
+        {
+            "text": "will become spread out by a process known\nas diffraction, which for light, essentially", 
+            "dur": "4.12", 
+            "start": "36.98"
+        }, 
+        {
+            "text": "blurs the image.", 
+            "dur": "1.18", 
+            "start": "41.1"
+        }, 
+        {
+            "text": "You can see this with a telephoto camera lens\nwhere the camera aperture has been made very", 
+            "dur": "3.66", 
+            "start": "42.28"
+        }, 
+        {
+            "text": "very small - small details in the photograph\nstart to become spread out, blurred, and even", 
+            "dur": "4.32", 
+            "start": "45.94"
+        }, 
+        {
+            "text": "indistinguishable! Or, if you hold the edge\nof a piece of paper in front of your eye and", 
+            "dur": "3.9", 
+            "start": "50.26"
+        }, 
+        {
+            "text": "try to read past it, small words will become\nblurry!", 
+            "dur": "4.01", 
+            "start": "54.16"
+        }, 
+        {
+            "text": "The blur that a small point of light spreads\nout to become is called an Airy disk, and", 
+            "dur": "4.209", 
+            "start": "58.17"
+        }, 
+        {
+            "text": "the size of the Airy disk for distant tiny\nobjects depends only on the wavelength of", 
+            "dur": "4.59", 
+            "start": "62.379"
+        }, 
+        {
+            "text": "light in question and the size of the opening\nyou&#39;re looking through. So for visible sunlight", 
+            "dur": "4.051", 
+            "start": "66.969"
+        }, 
+        {
+            "text": "and a human-sized pupil, diffraction limits\nus to at best be able to distinguish objects", 
+            "dur": "4.529", 
+            "start": "71.02"
+        }, 
+        {
+            "text": "that are bigger than seven one-thousandths\nof a degree, for example, an object one centimeter", 
+            "dur": "4.221", 
+            "start": "75.549"
+        }, 
+        {
+            "text": "in size a hundred meters away,. Another way\nof putting this is that everything 100m away", 
+            "dur": "4.57", 
+            "start": "79.77"
+        }, 
+        {
+            "text": "and smaller than 1cm gets blurred so that\nit appears to be about 1cm in size, no matter", 
+            "dur": "4.79", 
+            "start": "84.34"
+        }, 
+        {
+            "text": "how small it really is - subtle details smaller\nthan 1cm blur away.", 
+            "dur": "5.219", 
+            "start": "89.13"
+        }, 
+        {
+            "text": "So when Legolas, who has very human-sized\npupils, looked at the riders of Rohan 24 km", 
+            "dur": "5.61", 
+            "start": "94.349"
+        }, 
+        {
+            "text": "away, diffraction tells us that everything\nsmaller than 3 METERS would have been blurred", 
+            "dur": "4.131", 
+            "start": "99.959"
+        }, 
+        {
+            "text": "to about three meters in size - perhaps he\ncould still count the number of horsemen,", 
+            "dur": "4.379", 
+            "start": "104.09"
+        }, 
+        {
+            "text": "but he definitely couldn&#39;t distinguish their\nheights to within a few centimeters...", 
+            "dur": "3.45", 
+            "start": "108.469"
+        }, 
+        {
+            "text": "Unless Legolas could see in ultraviolet. Shorter\nwavelength light diffracts less, so if he", 
+            "dur": "5.56", 
+            "start": "111.919"
+        }, 
+        {
+            "text": "could see in the extreme UV, then he&#39;d be\nable to distinguish objects 10 cm in size,", 
+            "dur": "5.151", 
+            "start": "117.479"
+        }, 
+        {
+            "text": "almost enough to discern the height of a man.", 
+            "dur": "2.919", 
+            "start": "122.63"
+        }, 
+        {
+            "text": "Except that pretty much any kind of air absorbs\nextreme UV light - so even if he could see", 
+            "dur": "4.92", 
+            "start": "125.549"
+        }, 
+        {
+            "text": "UV, Legolas would have been left in the dark.\nOr maybe it&#39;s just... magic.", 
+            "dur": "7", 
+            "start": "130.469"
+        }
+    ], 
+    "title": "How Far Can Legolas See?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0gwkm", 
+        "/m/0m08c9y", 
+        "/m/05qjt"
+    ], 
+    "number_views": 1871704, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-07T14:10:36.342Z", 
+            "text": "Cool. A norwegian coin. (10\u00f8re) have a extreme amount of them\ufeff", 
+            "author": "per midtb\u00f8"
+        }, 
+        {
+            "date": "2015-05-04T14:12:53.150Z", 
+            "text": "But *these* are elf eyes so yeaahh\n\n\nobviously.  God get it right science.\ufeff", 
+            "author": "Suicidal Lobster gaming"
+        }, 
+        {
+            "date": "2015-05-03T15:59:43.595Z", 
+            "text": "Legolas is an elf not human. So MAGIC\ufeff", 
+            "author": "Lucas Gaming"
+        }, 
+        {
+            "date": "2015-05-01T08:22:34.334Z", 
+            "text": "human perception of images would also have to be taken into account,  i may \nbe better at identifying a obect than someone else, but when you measure my \neyesight, you are aslo measuring my ability to \"see\" what i see, so???\ufeff", 
+            "author": "azrael300s"
+        }, 
+        {
+            "date": "2015-04-27T15:18:43.561Z", 
+            "text": "First of all he's an elf !!!\ufeff", 
+            "author": "Just katelin"
+        }, 
+        {
+            "date": "2015-04-23T06:23:43.827Z", 
+            "text": "Magic UV sight man\ufeff", 
+            "author": "The Cardiackid"
+        }, 
+        {
+            "date": "2015-04-21T02:49:55.814Z", 
+            "text": "this is really cool and very smart thinking but at the end of the its \nmiddle earth bro!!!!!\ud83d\ude02\ud83d\ude02\ud83d\udc4d\ud83d\udc4d\ufeff", 
+            "author": "SPONGE_BOB_RULES!!"
+        }, 
+        {
+            "date": "2015-04-16T23:25:47.294Z", 
+            "text": " #MinutePhysics  does #LordOfTheRings  \ufeff", 
+            "author": "Paul Duggan"
+        }, 
+        {
+            "date": "2015-04-16T10:46:32.459Z", 
+            "text": "could you please tell me why there was p\u00ed/180 and then it was left out?\ufeff", 
+            "author": "Hana Mertanova"
+        }, 
+        {
+            "date": "2015-04-13T10:38:59.219Z", 
+            "text": "Even Bronies don't assume magic in magic world right away! Come with better \nexplanation.\nThe air is certainly different there, that's one way to solve it... \nOr - let's assume that magic can be compared to electric or magnetic field \nand have easy way out. Or is it?\ufeff", 
+            "author": "QueenSalis"
+        }, 
+        {
+            "date": "2015-04-11T09:59:47.053Z", 
+            "text": "You have too much time on your hands. I don't think Wizards and Hobbits are \nreal, so why you taking this so seriously?\ufeff", 
+            "author": "Adam Sykes"
+        }, 
+        {
+            "date": "2015-05-04T12:05:38.679Z", 
+            "text": "+Adam Sykes he's just making it as an example.", 
+            "author": "Hakingdoesgames"
+        }, 
+        {
+            "date": "2015-04-11T01:35:09.425Z", 
+            "text": "Legolasses.\ufeff", 
+            "author": "Pinkamena Diane Pie"
+        }, 
+        {
+            "date": "2015-04-11T15:52:12.766Z", 
+            "text": "MEGEKAL", 
+            "author": "Blue Star"
+        }, 
+        {
+            "date": "2015-04-11T15:49:32.067Z", 
+            "text": "I have a character in skyrim called Legolas", 
+            "author": "Blue Star"
+        }, 
+        {
+            "date": "2015-04-11T01:37:12.392Z", 
+            "text": "Wot me m8", 
+            "author": "Da PewDiePie Of Shrekness"
+        }, 
+        {
+            "date": "2015-04-10T08:28:14.890Z", 
+            "text": "Why ruin the movie or character, he is not human, he is Elvish!\n\ufeff", 
+            "author": "Cassidy Nash"
+        }, 
+        {
+            "date": "2015-04-08T14:49:33.864Z", 
+            "text": "You use Norwegian 10 \u00f8rer (pennies). Are you guys Norwegian?\ufeff", 
+            "author": "NewZealand80"
+        }, 
+        {
+            "date": "2015-04-02T16:24:46.790Z", 
+            "text": "But... legolas is an elf... and not human, there are... differences.. \nright? \ufeff", 
+            "author": "Sebbe Helsing"
+        }, 
+        {
+            "date": "2015-03-30T10:28:29.556Z", 
+            "text": " Pls la! He's an elven-prince\ufeff", 
+            "author": "khor chaikoan"
+        }, 
+        {
+            "date": "2015-03-26T21:18:01.940Z", 
+            "text": "Don't forget! He is an elf... =p\ufeff", 
+            "author": "TheNodeGaming"
+        }, 
+        {
+            "date": "2015-03-24T20:12:45.062Z", 
+            "text": "10 \u00f8re Norge\ufeff", 
+            "author": "2tts"
+        }, 
+        {
+            "date": "2015-03-22T13:41:19.492Z", 
+            "text": "Damn it, now I need to know what middle-earthian atmosphere consists of if \nit lets UV rays through for Legolas to see.\ufeff", 
+            "author": "Felix Ironfist"
+        }, 
+        {
+            "date": "2015-03-21T03:49:26.086Z", 
+            "text": "Does the word ELF ring a bell? In J.R.R to likens mythology, elves can see \nmuch farther than men. Their senses are better then men.\ufeff", 
+            "author": "TheMagmaDoctor"
+        }, 
+        {
+            "date": "2015-03-20T22:35:29.361Z", 
+            "text": "Did you realize he mentioned Half-Life and Aperture?\nPretty amusing.\ufeff", 
+            "author": "andyinnie"
+        }, 
+        {
+            "date": "2015-03-19T16:05:55.458Z", 
+            "text": "Haha had the lord of the rings ad before this vid, how ironic\ufeff", 
+            "author": "Svenned"
+        }, 
+        {
+            "date": "2015-03-15T04:38:44.838Z", 
+            "text": "Off to use this audible link to give minutephysics some monetary support.\n\nAwesome videos guys.\ufeff", 
+            "author": "GeorgeHale1984"
+        }, 
+        {
+            "date": "2015-03-13T23:41:51.301Z", 
+            "text": "legolas use what we call mind eye\ufeff", 
+            "author": "deny tan"
+        }, 
+        {
+            "date": "2015-03-08T21:31:23.703Z", 
+            "text": "The Riders of Rohan: now in Games workshop vision!\ufeff", 
+            "author": "Smitty Dubs"
+        }, 
+        {
+            "date": "2015-03-08T16:53:46.717Z", 
+            "text": "Lol it's like after the whole video, maybe it's just magic.\ufeff", 
+            "author": "MsFlowerpower12345"
+        }, 
+        {
+            "date": "2015-03-08T04:23:51.517Z", 
+            "text": "I'm a year eight, not fucking Einstein \ufeff", 
+            "author": "Maddy Sandwich"
+        }, 
+        {
+            "date": "2015-03-06T02:19:32.090Z", 
+            "text": "What do your ELF EYES see\ufeff", 
+            "author": "sinlapse13"
+        }, 
+        {
+            "date": "2015-03-02T01:51:59.239Z", 
+            "text": "GANDOLF IS Tr aPPED\ufeff", 
+            "author": "Commenting Otaku"
+        }, 
+        {
+            "date": "2015-03-01T03:05:37.263Z", 
+            "text": "Elvs are different from humans in many ways and eye sight is one of the \nmany it isnt science it is because legolas is an ELF and not a HUMAN that \nhe can see what others cant\ufeff", 
+            "author": "Elijah Hernandez"
+        }, 
+        {
+            "date": "2015-02-28T00:08:17.870Z", 
+            "text": "How long is a league?\ufeff", 
+            "author": "Clayton Krumm"
+        }, 
+        {
+            "date": "2015-04-11T16:32:08.334Z", 
+            "text": "+Clayton Krumm \n\nhttp://lmgtfy.com/?q=1+league+in+kilometers", 
+            "author": "Peter Pepper"
+        }, 
+        {
+            "date": "2015-02-22T20:36:31.247Z", 
+            "text": "Excellent video, but the only problem I have is that there are MANY \ndifferent definitions of the length of 1 league\nhttp://en.wikipedia.org/wiki/League_%28unit%29#Different_definitions\ufeff", 
+            "author": "MrThemanoaction"
+        }, 
+        {
+            "date": "2015-02-16T18:09:48.445Z", 
+            "text": "Wait! \"...very human-like pupils...\" WTF? He's an Elf dammit! lol\ufeff", 
+            "author": "Andr\u00e8s Lohl\u00e9"
+        }, 
+        {
+            "date": "2015-02-12T22:56:08.374Z", 
+            "text": "+Annabeth Chase \ufeff", 
+            "author": "K\u00e4\u0161\u0125\u0101 \u201c\u1d1b\u029c\u1d07 \u0493\u1d0f\u1d0f\u1d05 \u1d18\u1d0f\u0280\u0274 \u1d07x\u1d18\u1d07\u0280\u1d1b\u201d T\u0125\u00e8 Q\u016b\u00e8\u00eb\u00f1"
+        }, 
+        {
+            "date": "2015-02-13T00:04:08.711Z", 
+            "text": "((*Oh.*))", 
+            "author": "K\u00e4\u0161\u0125\u0101 \u201c\u1d1b\u029c\u1d07 \u0493\u1d0f\u1d0f\u1d05 \u1d18\u1d0f\u0280\u0274 \u1d07x\u1d18\u1d07\u0280\u1d1b\u201d T\u0125\u00e8 Q\u016b\u00e8\u00eb\u00f1"
+        }, 
+        {
+            "date": "2015-02-13T00:03:33.613Z", 
+            "text": "*this.*", 
+            "author": "Annabeth Chase"
+        }, 
+        {
+            "date": "2015-02-12T23:54:54.735Z", 
+            "text": "((*What.*))", 
+            "author": "K\u00e4\u0161\u0125\u0101 \u201c\u1d1b\u029c\u1d07 \u0493\u1d0f\u1d0f\u1d05 \u1d18\u1d0f\u0280\u0274 \u1d07x\u1d18\u1d07\u0280\u1d1b\u201d T\u0125\u00e8 Q\u016b\u00e8\u00eb\u00f1"
+        }, 
+        {
+            "date": "2015-02-12T23:48:07.735Z", 
+            "text": "*bRAH*", 
+            "author": "Annabeth Chase"
+        }, 
+        {
+            "date": "2015-02-11T03:26:20.033Z", 
+            "text": "maybe elven eyes dont  follow normall human rules\ufeff", 
+            "author": "J040PL7"
+        }, 
+        {
+            "date": "2015-04-08T20:46:34.638Z", 
+            "text": "+Hippy Lemonz But they are rules that are only set by our current limited \nunderstanding of physics, which is changing all the time.", 
+            "author": "Ian Robertson"
+        }, 
+        {
+            "date": "2015-04-05T09:59:04.254Z", 
+            "text": "You mean physics? They aren't human rules fyi.", 
+            "author": "Hippy Lemonz"
+        }, 
+        {
+            "date": "2015-02-09T02:33:40.293Z", 
+            "text": "Why low frequency waves difract more?!\ufeff", 
+            "author": "Leornardo Doo"
+        }, 
+        {
+            "date": "2015-02-07T06:15:57.302Z", 
+            "text": "dude, it's called f a n t a s y \ufeff", 
+            "author": "roXy3tiger"
+        }, 
+        {
+            "date": "2015-02-05T02:28:31.289Z", 
+            "text": "When did minute physics become game theory?\ufeff", 
+            "author": "Happy Potato Translations"
+        }, 
+        {
+            "date": "2015-02-01T07:40:21.160Z", 
+            "text": "How do animals like eagles see so far away?\ufeff", 
+            "author": "Simple1DEA"
+        }, 
+        {
+            "date": "2015-04-23T17:38:17.587Z", 
+            "text": "+capz or a lot of receptors? Just smaller, but more so they fit on a human \nsized eye. \n\nIt's also mentioned elves have \"telescopic vision\" although I'm not sure if \nthat explains anything", 
+            "author": "Bart X"
+        }, 
+        {
+            "date": "2015-02-01T14:58:39.414Z", 
+            "text": "Their pupils and retinas. Their eyes are bigger and larger for their size \nand the retinas has a large number of receptors per square millimeter, \nwhich determines the degree of visual acuity. The more receptors an animal \nhas, the higher its ability to distinguish individual objects at a distance.\n\nIf an elf is said to have great vision, that means they must have eyes as \nbig as anime characters.\n\nBut they are magical being so physics don't apply at them.", 
+            "author": "capz"
+        }, 
+        {
+            "date": "2015-01-29T21:49:48.213Z", 
+            "text": "That coin got me curious. It is a Norwegian coin no longer in use. Are you \nfrom Norway? Who is behind MinutePhysics?\ufeff", 
+            "author": "Trond Raymond Knudsen"
+        }, 
+        {
+            "date": "2015-01-26T16:29:57.659Z", 
+            "text": "But Legolas is an elf, so may not have the same optical mechanics as \nhumans.\ufeff", 
+            "author": "Tucker Lee (FancyPants008)"
+        }, 
+        {
+            "date": "2015-01-26T13:45:34.033Z", 
+            "text": "But light isn't confirmed to be a wave. It still exhibits behaviours \nexpected both of particles and waves, respectively the photoelectric effect \nand Young's double-slit experiment.\ufeff", 
+            "author": "Denny Chen"
+        }, 
+        {
+            "date": "2015-01-23T15:57:23.406Z", 
+            "text": "Hooah! for 10 norske \u00f8re.\ufeff", 
+            "author": "Robin Kristiansen"
+        }, 
+        {
+            "date": "2015-01-23T10:37:19.405Z", 
+            "text": "This video is so cute ! haha\ufeff", 
+            "author": "Jasper Tan"
+        }, 
+        {
+            "date": "2015-01-23T07:21:19.334Z", 
+            "text": "My money is on the last choice - Magic!\ufeff", 
+            "author": "xamarmm"
+        }, 
+        {
+            "date": "2015-01-23T02:32:28.876Z", 
+            "text": "", 
+            "author": "Jorge Courbis"
+        }, 
+        {
+            "date": "2015-01-23T02:20:57.076Z", 
+            "text": "1:55 half life 3 confirmed!\ufeff", 
+            "author": "Millad Bahrami"
+        }, 
+        {
+            "date": "2015-01-18T04:29:46.818Z", 
+            "text": "FUCKING STUPID video\ufeff", 
+            "author": "Adam Chester"
+        }, 
+        {
+            "date": "2015-02-10T11:32:53.764Z", 
+            "text": "Ahhh, Republicans!!!", 
+            "author": "Admiral General Aladeen"
+        }, 
+        {
+            "date": "2015-01-16T05:37:24.036Z", 
+            "text": "Is magic!!! dont think about it.\ufeff", 
+            "author": "Jorge Javier Morz\u00e1n Scerpella"
+        }, 
+        {
+            "date": "2015-01-14T15:56:39.000Z", 
+            "text": "+Michael Groesbeck So you're implying light waves are oscillations of \nphoton particles (given your drop of water analogy)? You know they are not, \nright? Wave theory implies light as a wave of electromagnetic fields. And \nit really doesn't matter what your opinion on this is, there is no debate \n\"Wave theory vs Particle theory\". It is widely accepted and tested in \nPhysics that light (and, in fact, all matter) behave in a dualistic way. In \nfact, using the terms \"wave\" and \"particles\" is a severe linguistic \nlimitation in discussing quantum objects, it's not like they can be one \nthing or the other. They are something else, which the words \"wave\" and \n\"particle\" can satisfy the purpose of understanding phenomena from time to \ntime. Those terms were originally used for macroscopic entities, such as a \nparticle of dust and a wave of water, but they become a lot less intuitive \nwhen describing things in the quantum scale.\ufeff", 
+            "author": "Vin G"
+        }, 
+        {
+            "date": "2015-01-14T05:11:58.934Z", 
+            "text": "DAT niggas magic. We all know legolas is magic as fuck\ufeff", 
+            "author": "Gcrilla"
+        }, 
+        {
+            "date": "2015-01-14T03:14:34.000Z", 
+            "text": "perhaps legolas have better lightreceptors in his eayes then humans do... \ncant rly comnpare a human eye to an elf eye... when elfs are imortal in the \nstory, then its pretty obvious that they \"arent\" human lol... alot of \nanimals can percive light better than humans... just take any predetorial \nbird and that \"blurry\" distance is is of no use...\ufeff", 
+            "author": "Psycadelius Kexis"
+        }, 
+        {
+            "date": "2015-01-14T19:23:38.000Z", 
+            "text": "Humans, due to imperfections in the structures of their eyes, see /far/ \nmore poorly than the hard physical limit dictates -- that is, this video \nhas nothing to do with humans. You missed the point; we're discussing how \nmuch information certain wavelengths of light can convey at a given \ndistance, not how well an actual compound eye can pick it up -- the quality \nof the lens is not being considered here, only the size of the aperture and \nthe distance the light travels.\n\nI don't know how to make this more clear than the video already did. -___-", 
+            "author": "ArticulateDuck"
+        }, 
+        {
+            "date": "2015-01-13T09:15:04.199Z", 
+            "text": "I like to imagine the elves have a sort of o.o.b.e sight, where they can \n\"leave\" their body and zoom in on things. Kinda like in Shadow of Mordor, \nwhen you're scoping out captains\ufeff", 
+            "author": "Brock York"
+        }, 
+        {
+            "date": "2015-01-10T10:43:15.953Z", 
+            "text": "I dont understand the problem. His eyes are like binoculars  so of course \nhe can see.\ufeff", 
+            "author": "BringerOfTheTruth"
+        }, 
+        {
+            "date": "2015-01-31T09:40:04.354Z", 
+            "text": "+BringerOfTheTruth\n His eyes can't be that big. Legolas is an elf not a giant -_-", 
+            "author": "Phoenix"
+        }, 
+        {
+            "date": "2015-01-15T21:29:51.663Z", 
+            "text": "Telescopes are able to surpass the limitations of normal eyes *because they \nhave larger apertures*. If you made a telescope with a primary lens the \nsize of a human pupil, it would be magnifying a fuzzy image, due to \ndiffraction. Unless you're suggesting his eyes are like the Hubble \ntelescope in that they're *eight feet wide*?", 
+            "author": "ArticulateDuck"
+        }, 
+        {
+            "date": "2015-01-15T08:25:54.492Z", 
+            "text": "+ArticulateDuck Look, his eyes are like telescopes, case closed. And if \nthere are anymore problems, his eyes  are like the Hubble telescope. ", 
+            "author": "BringerOfTheTruth"
+        }, 
+        {
+            "date": "2015-01-14T19:29:16.075Z", 
+            "text": "Even binoculars can't surpass the physical diffractive limitations of light \n-- they simply have larger apertures, which if you pay attention to the \nvideo, you'll see is one of the variables at play. But because human eyes \nare so lousy, we don't even get the benefit of the larger apertures in \npreventing loss of information by diffraction -- we mostly just get the \nnear-perfect magnification that binoculars provide.", 
+            "author": "ArticulateDuck"
+        }, 
+        {
+            "date": "2015-01-07T00:45:44.703Z", 
+            "text": "Do the legolas \"climbing the rocks\" thing\u2026.\nremembering that legolas is so light that he is heavier than a feather\u2026.\nCan he still make the jump in falling rocks even if his weight is\u2026. \npractically worthless??(Reminding that the scene is only from the movie.. \nnot the book)\ufeff", 
+            "author": "Paula Benites"
+        }, 
+        {
+            "date": "2015-01-06T23:30:19.545Z", 
+            "text": "I like to believe that not only can elven eyes distinguish detail at \nobscene distances, but they also compensate for the curvature of the planet \nto see past the horizon.  Legolas could spot for battleship cannons.\n\nMaybe the elven god is a satellite in the sky.  A umm... divine, magic \nsatellite, powered by worship instead of solar panels.  Made of meat and \nmagic, not metal.  Magical meat?\n\n+1 for the middle-earth space program!  They sent hobbits up first, to make \nsure it was safe.\ufeff", 
+            "author": "Daniel Hale"
+        }, 
+        {
+            "date": "2015-01-05T16:46:01.911Z", 
+            "text": "Maybe if legolas was human I'd believe this but he's an elf\ufeff", 
+            "author": "The elven turtle  King"
+        }, 
+        {
+            "date": "2015-01-05T05:47:20.644Z", 
+            "text": "Hey. This is amazing, but then why pinhole glasses let you see clearly even \nif you have a refraction trouble. And why arent we seeing very far at night \nsince our pupils are dilated\ufeff", 
+            "author": "Histo Logy"
+        }, 
+        {
+            "date": "2015-01-05T01:53:24.243Z", 
+            "text": "In middle earth there are no rules of physics. Just like in islam.\ufeff", 
+            "author": "Fiction or Fantasy"
+        }, 
+        {
+            "date": "2015-01-04T15:54:13.199Z", 
+            "text": "B-but magic doesn't exist in that universe\ufeff", 
+            "author": "Alex Lawrence"
+        }, 
+        {
+            "date": "2015-01-04T07:46:54.358Z", 
+            "text": "But why couldn't the big birds just fly Frodo to Mount Doom?\ufeff", 
+            "author": "Wisler A"
+        }, 
+        {
+            "date": "2015-01-03T18:01:43.341Z", 
+            "text": "I learned so much today\ufeff", 
+            "author": "kilala uzumaki"
+        }, 
+        {
+            "date": "2015-01-02T13:01:28.809Z", 
+            "text": "fuck rules & physical explanations, he's legolas.\ufeff", 
+            "author": "Tuesday Daisy"
+        }, 
+        {
+            "date": "2015-01-01T23:01:24.785Z", 
+            "text": "Dude... You forgot, that Legolas is not human ;)\ufeff", 
+            "author": "MrMarcioHan"
+        }, 
+        {
+            "date": "2015-01-01T17:27:58.985Z", 
+            "text": "light doesnt behave like every other wave\ufeff", 
+            "author": "ivan inkret"
+        }, 
+        {
+            "date": "2014-12-30T18:12:13.299Z", 
+            "text": "Fun fact: The coin (10 \u00f8re, 0.1 kr from Norway) has not been used since \n1993 :)\ufeff", 
+            "author": "Emil Lie Hansen"
+        }, 
+        {
+            "date": "2014-12-30T15:14:05.000Z", 
+            "text": "All I have to say is that this is a made up world, where there is magic and \nshit, which defies the laws of physics. So there is nothing to say that he \ncannot see as far as is stated in the novels. This is a universe made up by \nsome writer, stop trying to disprove the fiction he's conjured up with your \ngay ass nerd analysations\ufeff", 
+            "author": "Nicholas Doumtsis"
+        }, 
+        {
+            "date": "2014-12-28T14:34:17.144Z", 
+            "text": "He's an elf and therefore not human so ie magical ie while your science is \nawesome \"magic\" trumps physics so magic stomps science in this case sorry\ufeff", 
+            "author": "Jennifer Baker"
+        }, 
+        {
+            "date": "2014-12-27T06:54:19.782Z", 
+            "text": "I am sure they noticed that they just wanted to make the movie better so \nyou do not have to judge them just for making legolas at least 2 times \ncooler ( plus he is an elf so we have no idea what is going on in those \neyes of his)\ufeff", 
+            "author": "Sapphire Sky"
+        }, 
+        {
+            "date": "2014-12-26T00:35:49.614Z", 
+            "text": "Sadly this is assuming that elves have human size eyes.\n\nDo they? Well.. We can't really know, just because legolas looks normal in \nthe movies doesn't mean that he was supposed to look that way. Anyway \nalmost physical possible, still is fiction ;) \ufeff", 
+            "author": "Niels Rasmussen"
+        }, 
+        {
+            "date": "2014-12-25T23:32:26.898Z", 
+            "text": "HE' A FICTIONAL CHARACTER \ud83d\ude02\ufeff", 
+            "author": "Katelyn Szczembara"
+        }, 
+        {
+            "date": "2014-12-25T21:01:16.346Z", 
+            "text": "Bro he be an elf \ufeff", 
+            "author": "Leonard Erasmus"
+        }, 
+        {
+            "date": "2014-12-25T17:40:34.632Z", 
+            "text": "i hate when people knows too much things but they don't have a dogs logic \nwhat a shame.\ufeff", 
+            "author": "Fosforlu Kalem"
+        }, 
+        {
+            "date": "2015-01-14T22:04:06.905Z", 
+            "text": "+ArticulateDuck oh i got it its completletly misunderstanding i said i hate \nwhen people knows so much things but they don't have a dogs logic. of \ncourse im not hating people knows so much thing.", 
+            "author": "Fosforlu Kalem"
+        }, 
+        {
+            "date": "2015-01-14T20:51:41.898Z", 
+            "text": "No, but I suspect you are. Anyone with anti-intellectual sentiments like \nyours (i.e., hating when people knows too much things) is scum to me, and \nif they talk shit about things I like, I'll call them out on their \nignorance.", 
+            "author": "ArticulateDuck"
+        }, 
+        {
+            "date": "2015-01-14T20:41:37.187Z", 
+            "text": "+ArticulateDuck you can't even tell me why do you attacking me. are you \njust another troll  ?", 
+            "author": "Fosforlu Kalem"
+        }, 
+        {
+            "date": "2015-01-14T20:04:39.903Z", 
+            "text": "People in glass houses shouldn't throw rocks, Professor Say Better Thing. \n:) I have plenty of things to say, but I think they'd be wasted on someone \nwho would say \"knows too much things.\" :P", 
+            "author": "ArticulateDuck"
+        }, 
+        {
+            "date": "2015-01-14T19:44:35.253Z", 
+            "text": "+ArticulateDuck mr. logic talking like we care what you despise when you \ninsult people because not able to say better thing.", 
+            "author": "Fosforlu Kalem"
+        }, 
+        {
+            "date": "2015-01-14T19:34:47.092Z", 
+            "text": "And I despise ignorant people like you! :)", 
+            "author": "ArticulateDuck"
+        }, 
+        {
+            "date": "2014-12-25T10:19:01.965Z", 
+            "text": "Have Earth scientists corroborated evidence with biologists and opthalmists \nof Middle Earth? its a different realm, would the quantity or quality of \nthe light alter the distance he can see? Some birds have two receptors at \nthe back of the eye enabling them to see a distance which can cover clear \nmiles, maybe if we were to dissect Legolas we would discover Elves have \nevolved a similar visual advantage which would be logical if they have been \nsurviving by leaping around the woodlands and mountains firing arrows. :-D\ufeff", 
+            "author": "Lindsey Ilsley"
+        }, 
+        {
+            "date": "2014-12-23T20:34:05.185Z", 
+            "text": "Legolas is a fucking elf! This video is pointless!\ufeff", 
+            "author": "LatinBsnDude"
+        }, 
+        {
+            "date": "2014-12-23T15:43:19.098Z", 
+            "text": "Or maybe the elves have the ability to adjust the aperture of their eyes to \na degree humans can't.\ufeff", 
+            "author": "Rachith Sridhar"
+        }, 
+        {
+            "date": "2014-12-23T14:23:54.436Z", 
+            "text": "So how does an eagle distinguish a mouse in the wilderness from the \nheighths?\ufeff", 
+            "author": "TheVynka"
+        }, 
+        {
+            "date": "2014-12-23T11:03:59.454Z", 
+            "text": "Sorry, but although Light particles spread out in a wave like pattern, THEY \nARE STILL PARTICLES because we take them in as particles.\n\nA drop of water is proof that not all water is a wave or single pebble is \nproof that not all rocks are mountains. A light particle is proof that not \nall light comes in waves.\n\nSO WAVE THEORY CAN KISS MY SHINY LOGICAL ASS!\n\nps: Legolas blows. Gimli rocks....even if my bodytype is elvish.\ufeff", 
+            "author": "Michael Groesbeck"
+        }, 
+        {
+            "date": "2014-12-31T02:45:39.000Z", 
+            "text": "+ZhaJiangLiu \n\n\n1. You're asking WHY something in the universe occurs? As in...First-Cause?\nLOL!\n\nThe Universe has no first-cause. It has always existed. Life on the \notherhand, has not.\n\n2. Except a single photon affects other particles....causing exactly the \npattern we see on the pannel.\n\n3. Because naturally everything does. Only people are capable of going \nagainst the tide.....as evidenced by you & I, not budging.\n\n4. The path of least resistance is created by the difference between the \nintegrity of one group of particles bound together over the other. However, \nthese bonds can be broken.\n\nNothing/Vacuum is neither a wave nor a particle.\n\nNice try though.\n\n5. Well I technically didn't insult you, I simply recognized the external \ninfluence & indicated that I held a disposition toward the East.\n\nThat I don't accept wave theory doesn't absolutely mean I insulted you for \nhaving it. Infact, I was connecting the dots to a much broader contrast \nthat dealt with entire civilizations & the dynamic between them.\n\nI hope you appreciate me for mentioning the foundation of the philosophical \ndivide that spans all subjects.\n\n6. Quarks don't exist, therefore a pillar of Quantum Physics is knocked \naway. We are only able to observe the light that directly enters into our \neyes...that is why quarks appear to be completely random...but give me \nenough time, tools, & tinkering & I can show that they are not.\n\nFinished?\n\nThere is no hope for me I'm afraid. I am a damned fool & naive to take any \nsuch position that insists so absolutely that I should continue to have \nfaith in myself & my own observation. I am so beneath every scholar that I \nmust have someone demonstrate to me the folly of my \nthought.....particularly Tim, my old seifu, who emphasized that I practice \nprimarily circular martial arts, when I treated it as secondary for when \nlinear martial arts was not enough at the moment.\n\nps: Buddha, Zoroaster, & The Dragon can suck my straight, long, white, dick.", 
+            "author": "Michael Groesbeck"
+        }, 
+        {
+            "date": "2014-12-31T01:45:44.623Z", 
+            "text": "+Michael Groesbeck 1. Exactly, that is why I am asking you why it occurs, \nwhich you somehow seem determined not to answer. Amazing how I have to \nrepeat myself twice. How does the detector stop the formation of an \ninterference pattern in a double slit experiment?\n\n2. Still no response to my example of the diffraction of a single photon I \nsee.\n\n3. Yes, and why are these \"particles\" taking the path of least \"resistance\"?\n\n4. Elaborate why diffraction occurs if \"particles are taking the path of \nleast resistance\". So particles diffracting through a gap do so because \nthey are taking paths of least resistance? So why are some paths more \n\"resistant\" than others? Diffraction of light is a phenomenon that occurs \nindependent of the medium in which the light travels. If light diffracts in \na vacuum then where does this \"resistance\" come from? Why do the photons \ntake the paths of \"least resistance\"?\n\n5. I really don't see how you could introduce ad hominem to this in any \nmeaningful manner, but it is laughable that you somehow consider quantum \nelectrodynamics to be simpler than having just particles. Alternatively, if \nyou haven't even considered QED then, in that case, that is somewhat \npathetic.", 
+            "author": "ZhaJiangLiu"
+        }, 
+        {
+            "date": "2014-12-31T02:30:21.000Z", 
+            "text": "+ZhaJiangLiu\n1. I didn't say it stopped anything.\n2. Refraction occurs because particles are taking the path of least \nresistance through the material & Diffraction occurs because of the same \nthing.\n\nWaves are just easier for you to comprehend than Particles.\n\n& you're from The East or at least invest a great interest in The \nEast.....figures.\n\nThis just goes to the Linear/Circular divide again.", 
+            "author": "Michael Groesbeck"
+        }, 
+        {
+            "date": "2014-12-30T23:43:44.084Z", 
+            "text": "+Michael Groesbeck P.S.\nTo top that off, please explain why diffraction and refraction of anything \noccur.", 
+            "author": "ZhaJiangLiu"
+        }, 
+        {
+            "date": "2014-12-30T23:24:29.353Z", 
+            "text": "+Michael Groesbeck 1.That's what I'm asking you, isn't it? Amazing how I \nhave to repeat myself. How does the detector stop the formation of an \ninterference pattern?\n\n2. You haven't even bothered to respond to my second example.", 
+            "author": "ZhaJiangLiu"
+        }, 
+        {
+            "date": "2014-12-30T23:20:36.378Z", 
+            "text": "+ZhaJiangLiu Did you give thought to the fact that The wall for the slits & \nthe air between the wall & interference pattern itself , though it implies \na wave, are all still composed of particles holding to & impacting the \nother, attempting to direct/deflect the energy transferred from the impact \nof the photon? Is it not possible that the photon may cause substance to \ndivide & unify as it passes through?\n\nAgain, the wave is implied by us.\n\nBut I will accept if you say that the Individual (indivisible duality) soul \nis a wave....& that we do infact have the ability to be particles (inert) \nor waves (active) if we choose.\n\nBut I will never accept that The Universe by itself has as much duality as \nliving beings.", 
+            "author": "Michael Groesbeck"
+        }, 
+        {
+            "date": "2014-12-30T22:47:49.229Z", 
+            "text": "+Michael Groesbeck Please explain how light is a particle if:\n\nWhen monochromatic light (multiple photons) from a coherent source is \npassed through two slits in a dual slit experiment an interference pattern \nis observed when the light hits a wall behind the dual slits. When any \ndetector is used to detect photons in front of one slit or the other, \nmeaning that we now detect which photons go through which slits, no \ninterference pattern is observed. Why does the presence of a detector cause \nsuch a change if light is merely a particle?\n\nIn a similar experiment only one photon is sent per time interval with no \ndetector before the slits. Regardless, an interference pattern is still \nobserved. Why does this occur if light is a particle but there is, at most, \none photon in the system at a given time?", 
+            "author": "ZhaJiangLiu"
+        }, 
+        {
+            "date": "2014-12-30T07:12:21.598Z", 
+            "text": "+ZhaJiangLiu What was the material used to form the barriers? Were they \ndealing with more than one photon?\n\nThen it will still produce the image of a wave, but it's still not an \nactual wave & the photons will cling together, like water pooling \ntogether. That still doesn't change the fact each photon is still a \nparticle that is forming a relationship (within a certain range) with the \nother.\n\n& they still begin & end as particles in that experiment.\n\nJust because something is in motion, does not mean it ceases to be what it \nis & becomes something else.\n\nThe principle of THE WAVE is that particles are blurring together to form \nan illusion unto the observer. In reality, it is we who are doing so. \n\nA passing car to you may appear as a wave in a blur of cars, but each \nvehicle still intact unto itself.\n\nI believe the uncertainty principle & theory of relativity is only useful \nin relation to ourselves...not The Universe by itself.", 
+            "author": "Michael Groesbeck"
+        }, 
+        {
+            "date": "2014-12-30T04:43:47.488Z", 
+            "text": "Explain how light can interfere with itself in a double-slit experiment \nthen. Ever heard of wave-particle duality?\n\n\nAlso, your logic that light consists of particles because they are \nparticles is circular logic. Your ass may be shiny but it isn't very \nlogical.", 
+            "author": "ZhaJiangLiu"
+        }, 
+        {
+            "date": "2014-12-23T21:34:56.756Z", 
+            "text": "+Wesley Domsalla The Individual Soul is what creates such a unity or \ndivision of light among other things....but the fact that we can ration out \nlight, is proof that light is a particle.\n\nWaves are just a result of a single event causing particles to spread in a \nseemingly uniform manner. That & \"unifying\" is useful for simplification \npurposes & achieving instinctive interaction with The Universe & others.", 
+            "author": "Michael Groesbeck"
+        }, 
+        {
+            "date": "2014-12-23T21:19:23.241Z", 
+            "text": "But it's a wave. Light is odd.", 
+            "author": "Wesley Domsalla"
+        }, 
+        {
+            "date": "2014-12-23T02:52:08.258Z", 
+            "text": "2:10 Except for the atmosphere of Middle Earth!\ufeff", 
+            "author": "AlHashashinMC"
+        }, 
+        {
+            "date": "2014-12-22T21:04:18.859Z", 
+            "text": "My minecraft username is LEGOLASROCKS1439 \ufeff", 
+            "author": "Voltec Vids"
+        }, 
+        {
+            "date": "2014-12-22T11:05:23.555Z", 
+            "text": "Alternatively, Legolas could secretly have MASSIVE pupils\ufeff", 
+            "author": "elwynbrooks"
+        }, 
+        {
+            "date": "2014-12-22T00:02:58.471Z", 
+            "text": "don't underestimate the power of byakugan.\nHe is also an elf. Immortal. unless someone cut his neck.\nYes I am bad in science.\nfantasy is my thing\ufeff", 
+            "author": "Simple Home Art Decor Ideas"
+        }, 
+        {
+            "date": "2014-12-21T23:29:09.641Z", 
+            "text": "\"Legolas what do your elf eyes see?\" apparently not that much!!!! bloody \nliar \ufeff", 
+            "author": "the1andonlytitch"
+        }, 
+        {
+            "date": "2014-12-21T21:33:15.797Z", 
+            "text": "So i have a question. How does an eagle of a falcon have the ability to \ndistinguish small pray from flight? \ufeff", 
+            "author": "Thegoogleman"
+        }, 
+        {
+            "date": "2014-12-21T15:14:30.149Z", 
+            "text": "The hobbits the hobbits the hobbits to isengard to isengard, LOL but \nlegolas is an elf\ufeff", 
+            "author": "Marlon Parsons-Petti"
+        }, 
+        {
+            "date": "2014-12-21T02:49:45.538Z", 
+            "text": "Did anyone else notice that the first page he opened to was page 420?\ufeff", 
+            "author": "CraftSized"
+        }, 
+        {
+            "date": "2015-05-07T14:25:10.483Z", 
+            "text": "+CraftSized Isn't it weird that the page number is in the upper corner?", 
+            "author": "magnus seidenfaden"
+        }, 
+        {
+            "date": "2015-05-04T04:27:15.162Z", 
+            "text": "+Tanmay CubestormingMaster Ah... I thought the secodn book itself had 420 \npages.", 
+            "author": "JonatasMonte"
+        }, 
+        {
+            "date": "2015-04-10T16:25:48.326Z", 
+            "text": "+CraftSized blazeitfrodolives", 
+            "author": "Dmitry Vasilyev"
+        }, 
+        {
+            "date": "2015-03-27T08:17:13.712Z", 
+            "text": "+CraftSized I did when I read the books and that is because The Two Towers \nis the second volume in that series which is why the page numbers continue \nfrom where they were left in the previous book.", 
+            "author": "Tanmay CubestormingMaster"
+        }, 
+        {
+            "date": "2014-12-20T21:18:23.437Z", 
+            "text": "If science can't explain it, it's magic. Best conclusion ever.\ufeff", 
+            "author": "Crafta9000"
+        }, 
+        {
+            "date": "2014-12-20T18:12:08.000Z", 
+            "text": "Truly, I love the physics lesson;  And it is very educational.\n\nJ.R.R. Tolken was writing about an ELF.  Now you could suggest that an elf \nwould just be another species of humanoids;  However, the clear intent \nthroughout the entire series and even in his progeny's writings is that \nElves in Lord of the Rings have uber mind bending powers.  Such as to \nreduce the affects of aging on their mortal coil to be virtually \nnonexistent.\n\nThe Scientific Method may see it more as the documentation and research \ninto Remote Viewing.  Hence, what J.R.R. Tolkien may have been suggesting \nis that Legolas was using his brain instead of his eyes.  While yes an \nauthor has not made a process to produce the Remote Viewing skill.  There \nhave been a few people with beyond probability success rates.\n\nI may not be right;  Yet, I favor imagining a world where more people used \ntheir brain more than their eyes.  The phrase \"Seeing is believing\" leads \nto many silly mistakes.\n\nAnother definition of magik is simply a process that is unknown.  For \ninstance, a stereotypical Spanish Inquisitor would think a television is \n\"magik\".  Science is a process to 'discover' the Prime Material.  Even when \nscience manufactures a starship that can go to warp speed, there will be \nmore processes that are undiscovered than known.\ufeff", 
+            "author": "Brent \u201cMichael\u201d Ryan"
+        }, 
+        {
+            "date": "2014-12-20T11:58:36.591Z", 
+            "text": "Man, I thought hawks could see ants on grass from miles up. Guess that was \na myth.\ufeff", 
+            "author": "Feynstein100"
+        }, 
+        {
+            "date": "2014-12-20T05:40:51.498Z", 
+            "text": "Could you do one on why some people need glasses and how the glasses work?\ufeff", 
+            "author": "James Connolly"
+        }, 
+        {
+            "date": "2014-12-20T05:38:38.889Z", 
+            "text": "The physics of Lord of the Rings explained over the internet. Delightfully \n\"nerdy.\"\ufeff", 
+            "author": "James Connolly"
+        }, 
+        {
+            "date": "2014-12-20T04:17:11.282Z", 
+            "text": "Applying science to fantasy is stupid, but the logic of the book is not \nperturbed by this exercise. He is not mortal. He is an immortal being that \ncan see beyond what is transmitted by light. That's part of Tolkien's \nwritings.\ufeff", 
+            "author": "musicalmifune"
+        }, 
+        {
+            "date": "2014-12-21T02:54:03.334Z", 
+            "text": "But physics don't give a fuck about what superhuman species you are, \nphysics treat you the same anyways", 
+            "author": "Connor Peake"
+        }, 
+        {
+            "date": "2014-12-20T00:38:13.000Z", 
+            "text": "Clearly Legolas gets around this problems by using both his eyes as an \ninterferometer. So he should be able to tilt his head to the side to tell \nthe height of the riders.\n\nThat or Elves have huge anime-sized eyes. That works too.\ufeff", 
+            "author": "BosonCollider"
+        }, 
+        {
+            "date": "2015-01-31T11:03:00.402Z", 
+            "text": "I like the anime eyes theory.", 
+            "author": "Michael Ballew"
+        }, 
+        {
+            "date": "2015-01-05T22:36:10.560Z", 
+            "text": "+Michael Nyholt\n Better material doesn't help. This is a hard limit on the information \ncarried by the light that goes through a patch of a given size. It is a \nproperty of the light itself, not of the eye.", 
+            "author": "BosonCollider"
+        }, 
+        {
+            "date": "2015-01-05T21:44:37.276Z", 
+            "text": "Elder Scrolls Elves have very large eyes. Also Minutephysics didn't take \ninto account that Legolas' eye lenses could be made out of better material \nthan human eye lenses.", 
+            "author": "Michael Nyholt"
+        }, 
+        {
+            "date": "2014-12-30T22:09:52.413Z", 
+            "text": "Great, now I'm stuck imagining Orlando Bloom with anime eyes. To photoshop!", 
+            "author": "Invinzible001"
+        }, 
+        {
+            "date": "2014-12-27T00:25:17.361Z", 
+            "text": "Do you believe in such a thing?.. Wow.", 
+            "author": "Adi Nugroho"
+        }, 
+        {
+            "date": "2014-12-19T20:33:58.758Z", 
+            "text": "How come things like atoms are impossible to see but when you get enough of \nthem you can see them? Surely if you can't see one at all then it shouldn't \nmatter how many of them there are?\ufeff", 
+            "author": "Alex  Parker"
+        }, 
+        {
+            "date": "2014-12-19T14:20:28.220Z", 
+            "text": "They have to be Norwegian, look at 1:28... An old 10 \u00d8re\ufeff", 
+            "author": "stian haraldsen"
+        }, 
+        {
+            "date": "2014-12-17T22:21:01.463Z", 
+            "text": "But maybe Legolas could tell if the guy was tall by seeing how blurred he \nwas, more blurred means shorter because less light from the person to \ndiffuse, and vice versa.\ufeff", 
+            "author": "Gandalf126"
+        }, 
+        {
+            "date": "2014-12-17T03:33:43.124Z", 
+            "text": "Legolas is an elf, not a human\ufeff", 
+            "author": "HowCandy"
+        }, 
+        {
+            "date": "2014-12-16T21:07:25.234Z", 
+            "text": "But how far can the eye of Sauron see?\ufeff", 
+            "author": "MoonPieh"
+        }, 
+        {
+            "date": "2014-12-16T20:31:52.922Z", 
+            "text": "ahem\n*omg some of us did not red the lord of the rings movie, u should put a \nspoilr warning on the vid!*\ufeff", 
+            "author": "teryn cate"
+        }
+    ]
+}

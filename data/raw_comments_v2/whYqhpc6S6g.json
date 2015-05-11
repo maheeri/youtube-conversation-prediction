@@ -1,0 +1,1036 @@
+{
+    "publish_date": "2012-05-29T19:17:13.000Z", 
+    "video_length": "PT1M20S", 
+    "captions": [
+        {
+            "text": " Word on the street has it you&#39;d like to derive the area of a circle. Well, all you need is some chain and a ruler. ", 
+            "dur": "7", 
+            "start": "2.299"
+        }, 
+        {
+            "text": " And it&#39;s a visual proof, \n00:00:11.121,00:00:13.160 So I&#39;ll stop talking now.", 
+            "dur": "1.221", 
+            "start": "9.899"
+        }
+    ], 
+    "title": "Proof Without Words: The Circle", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m08c9y", 
+        "/m/05qjt", 
+        "/m/01vkl", 
+        "/m/064kfl", 
+        "/m/047p7ss"
+    ], 
+    "number_views": 1729812, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T23:21:39.856Z", 
+            "text": "What guarantees that the unfolded circle is actually a triangle then ?\ufeff", 
+            "author": "T\u00f9ng Nguy\u1ec5n"
+        }, 
+        {
+            "date": "2015-05-03T18:39:33.832Z", 
+            "text": "I feel like using an integral is more fun, though\ufeff", 
+            "author": "Rani Hinnawi"
+        }, 
+        {
+            "date": "2015-04-28T23:13:42.303Z", 
+            "text": "V=(1/3)Bh\nV=(1/3)(pir^2)r\nV=(1/3)(pir^3)\n\nArea of Sphere classically:(4/3)pir^3\nlet's say the radius of a sphere is 2. I am using only 3.14 for pi.\nV=(1/3)pi*2^3\nV=(1/3)pi*8\nV=(1/3)25.12\nV approx.=8.373\n\nV=(4/3)pir^3\nV=(4/3)pi*2^3\nV=(4/3)pi*8\nV=(4/3)25.12\nV approx.=33.493\n33.493/4 approx.=8.373.\nWe can then conclude that this formula only shows the Volume of half of a \ncircle. So, the relationship would be: 4*(1/3)Bh=(4/3)pir^3 OR \n(4/3)Bh=(4/3)pir^3. This is all just a fancy way of saying the formula \nV=1/3Bh gives the volume of a quarter of a sphere, and that the formulas \ncannot be used the same without multiplying by 4 first. You are basically \ndoing the same steps but it is just shown as a different formula.\ufeff", 
+            "author": "BlackXxScopez"
+        }, 
+        {
+            "date": "2015-04-28T23:14:05.233Z", 
+            "text": "+BlackXxScopez that took 20 minutes :_:", 
+            "author": "BlackXxScopez"
+        }, 
+        {
+            "date": "2015-04-26T14:42:16.477Z", 
+            "text": "we can use the method of intergration to find the area of the circle, find \nthe indefinite integral of the perimeter of the circle\ufeff", 
+            "author": "ajith anu"
+        }, 
+        {
+            "date": "2015-03-28T08:26:45.005Z", 
+            "text": "Could you cube the formula to get the volume of a sphere??\ufeff", 
+            "author": "Nina Clarke"
+        }, 
+        {
+            "date": "2015-04-17T17:57:57.817Z", 
+            "text": "+Nina Clarke Again bitch shave your Eyebrows", 
+            "author": "Sacmycat MrCat"
+        }, 
+        {
+            "date": "2015-04-08T17:27:58.503Z", 
+            "text": "No. The volume of a sphere is (4/3)pir^3\nFour-thirds times pi times the radius-cubed", 
+            "author": "Levi Langer"
+        }, 
+        {
+            "date": "2015-03-27T01:37:29.678Z", 
+            "text": "Let's just take the teacher's word for it and agree that 3.14 x R squared \nis the area of a circle.\ufeff", 
+            "author": "pokemonmaster48kirby"
+        }, 
+        {
+            "date": "2015-03-13T12:37:59.000Z", 
+            "text": "For Chitran Chakrabortty:\nJust look how the triangle arises from the circle. Alternatively count the \nballs: 11 speheres form the circle - radius is 11 bals; 11 lines form the \ntriangle - height is 11 balls.\ufeff", 
+            "author": "Robert Ma\u0159\u00edk"
+        }, 
+        {
+            "date": "2015-03-09T15:23:38.530Z", 
+            "text": "Can someone please explain to me why the height of the triangle is equal to \nthe radius of the circle? Since he said:\nArea= 1/2(base)x(*height*) \n       = 1/2(2\u03c0r)x(*r*)\n       = \u03c0r^2\ufeff", 
+            "author": "The Gamer Bro"
+        }, 
+        {
+            "date": "2015-03-02T22:25:29.135Z", 
+            "text": "i have those magnets!\ufeff", 
+            "author": "Potato OX"
+        }, 
+        {
+            "date": "2015-02-26T12:04:39.047Z", 
+            "text": "Buen\u00edsima demostraci\u00f3n\ufeff", 
+            "author": "Marco Friz"
+        }, 
+        {
+            "date": "2015-02-24T04:22:44.000Z", 
+            "text": "I think it's a dopy proof. The standard one is easier to understand and \nmore direct. One only needs to know the definition of pi, the area of a \ntriangle, and draw a very narrow triangle with a vertex at the center of \nthe circle. For N triangles, the narrow base of each one is about 2*pi*R/N, \nits height is R, so its area is pi*R^2/N, and so on. It's 8th grade math. \nCutting up the little chains in this video was more complicated! How does \nthis get nearly 2 million hits?!\ufeff", 
+            "author": "James Mark"
+        }, 
+        {
+            "date": "2015-04-09T13:50:13.240Z", 
+            "text": "+LeconsdAnalyse The correct approach is also confusing and not approachable \nto people who don't like dealing with integrating parametrized curves, like \nthe ones this video was made to appeal to.", 
+            "author": "Menea6587"
+        }, 
+        {
+            "date": "2015-04-10T18:10:05.000Z", 
+            "text": "+Menea6587 It is not necessary to go through the definition of the Riemann \nintegral each time, or to use the Green theorem (\u222cdx\u2227dy=\u222e\u00bd(xdy-ydx)).\n\nThe correct approach (taking the symmetry into account) is, \nA=\u222cdx\u2227dy=\u222cd(rcos\u03d1)\u2227d(rsin\u03d1)=\u222c[(cos\u03d1dr-rsin\u03d1d\u03d1)\u2227(sin\u03d1dr+rcos\u03d1d\u03d1)]=\u222c[rcos\u00b2\u03d1dr\u2227d\u03d1-rsin\u00b2\u03d1d\u03d1\u2227dr]=\u222crdr\u2227d\u03d1=\u222brdr\u222bd\u03d1=\u03c0R\u00b2.\n\nIf you don't understand the above then read & learn, or find yourself \nanother passtime.", 
+            "author": "LeconsdAnalyse"
+        }, 
+        {
+            "date": "2015-03-26T03:59:45.865Z", 
+            "text": "Well\n1) that method requires a working knowledge of how to limits and \ntrigonometry. Neither of those are really 8th grade.\n2) If you're going to bring up calculus, then you just know that the \nintegral over the boundary of a curve is equal to the area bounded by the \ncurve. Thus, just integrate 2pi*r to get pi*r^2 with no need for taking the \nlimit of the sum of the area of shrinking triangles.\n3) you don't need to know the definition of pi, just that it's a constant \nin this case.\n4) The \"standard\" proof that I was exposed to was splitting a circle up \ninto pizza slices with arcs very nearly flat and then arranging them into a \npseudo-parallelogram. Thus, the area is the height (r) times the length (pi \nr).", 
+            "author": "Menea6587"
+        }, 
+        {
+            "date": "2015-03-09T20:49:47.099Z", 
+            "text": "To make it more intuitive", 
+            "author": "Aeroscience"
+        }, 
+        {
+            "date": "2015-03-09T20:49:25.525Z", 
+            "text": "It's a way to visualize it", 
+            "author": "Aeroscience"
+        }, 
+        {
+            "date": "2015-02-24T01:54:51.085Z", 
+            "text": "You lose your voice or something?\ufeff", 
+            "author": "Ryan Banh"
+        }, 
+        {
+            "date": "2015-02-20T08:52:49.533Z", 
+            "text": "Proof Without Words: The Circle: http://youtu.be/whYqhpc6S6g\ufeff", 
+            "author": "Savan2696"
+        }, 
+        {
+            "date": "2015-02-18T23:34:30.433Z", 
+            "text": "can you do a spoken version?\ufeff", 
+            "author": "Lion Bryce"
+        }, 
+        {
+            "date": "2015-02-11T22:19:20.073Z", 
+            "text": "You trurly deserve that subscribe !\ufeff", 
+            "author": "Elio Decolli"
+        }, 
+        {
+            "date": "2015-02-11T17:28:13.264Z", 
+            "text": "Was he trying to talk like Vihart? lol\ufeff", 
+            "author": "Johanih Mustapha"
+        }, 
+        {
+            "date": "2015-01-28T20:40:51.540Z", 
+            "text": "Henry, just so you're aware, the link to the article in the description is \nbroken/dead/whatever we call links that point to stuff that doesn't exist.. \nDo with this information what you will.\ufeff", 
+            "author": "Acid"
+        }, 
+        {
+            "date": "2015-05-03T09:24:12.474Z", 
+            "text": "+T-Rex either one ;)", 
+            "author": "Tulanir1"
+        }, 
+        {
+            "date": "2015-01-29T18:01:33.632Z", 
+            "text": "dead ;)", 
+            "author": "T-Rex"
+        }, 
+        {
+            "date": "2015-01-14T20:16:20.366Z", 
+            "text": "Just for the record: a visual is never a proof!\ufeff", 
+            "author": "manu el"
+        }, 
+        {
+            "date": "2015-04-23T09:46:14.778Z", 
+            "text": "+Docteur Zeuhl\u200b That's a valid point, but if I remember correctly they \nactually explained it in details in the original proof.", 
+            "author": "Derek Leung"
+        }, 
+        {
+            "date": "2015-04-23T08:18:48.277Z", 
+            "text": "+Derek Leung Thanks. I just wanted to point out that the word \"obvious\" is \nnot a correct proof, and that this geometrical \"proof\" has to be justified \nby calculus. So, this video shows the principle, but is not a completely \nvalid proof by itself.", 
+            "author": "Docteur Zeuhl"
+        }, 
+        {
+            "date": "2015-04-23T03:33:17.969Z", 
+            "text": "+Docteur Zeuhl\u200b It's obvious that it can be turned into a triangle. But if \nyou insist a complete proof, here it is.\n\nThe proof consists of two parts. To proof they both have the same area, \nfirst we need to show the base layer is the same. Second, we need to show \nthat for each dS in radius we decrease, the area shrunk is linear since the \nside of the triangle is linear.\n\nThe outermost ring in the circle has a radius of r, and is dR wide. The \narea would be 2\u03c0rdR.\nFor the triangle, he defined the bottom side to be 2\u03c0r, which gives us an \narea of 2\u03c0rdR.\nSo they are the same.\n\nNow, if we shrink the ring by an infinitesimal amount dS, we get an area of \n2\u03c0(r-dS)dR. The difference between the larger ring and the smaller ring in \narea will be 2\u03c0rdR - 2\u03c0(r - dS)dR = 2\u03c0dRdS\n\nHere, it shows that each \"smaller\" rings will have an area smaller by a \nconstant amount. This holds true for every r you pick, which r < R, the \nradius of the circle, or the height of the triangle.\n\nSince both bases have the same area, and they both decreases by a constant \namount when r (radius in circle or height in triangle) gets smaller, and I \nhave showed that for all r, that means they both have the same area.", 
+            "author": "Derek Leung"
+        }, 
+        {
+            "date": "2015-04-22T23:52:03.278Z", 
+            "text": "Manu: the record thanks you, but it's beautiful anyway.Derek: alright, \nplease derive the complete proof that the disk can be turned into a \ntriangle without changing its area. Then it will be a complete proof :)", 
+            "author": "Docteur Zeuhl"
+        }, 
+        {
+            "date": "2015-04-20T04:57:18.460Z", 
+            "text": "+manu el It's a geometric proof. It's legit and completely valid, no matter \nwhat your belief is. It's QED.", 
+            "author": "Derek Leung"
+        }, 
+        {
+            "date": "2015-01-08T20:19:37.545Z", 
+            "text": "Hmm, that's a pretty bold assumption that the length of that chain is \n2piR...you better prove that first!\ufeff", 
+            "author": "John Seller"
+        }, 
+        {
+            "date": "2015-05-08T08:33:33.586Z", 
+            "text": "+John Seller \n\nClaim: C=2piR\n\nProof:\n\nBy definition, pi=C/(2r). Multiplying both sides by 2r, we get 2r*pi=C, and \nrearranging we obtain C=2piR. \n\nQED.\n\nImpressed?", 
+            "author": "Fennec Besixdouze"
+        }, 
+        {
+            "date": "2015-02-11T15:48:45.539Z", 
+            "text": "+John Seller u don't prove C=2 pi r; u define pi by pi=C/(2r).", 
+            "author": "RepriseOfxq010"
+        }, 
+        {
+            "date": "2015-01-10T23:02:28.381Z", 
+            "text": "I know 2piR is the circumference of a circle, my point was the proof is \neasy given the circumference of a circle, proving the circumference of the \ncircle would be a nice challenge.", 
+            "author": "John Seller"
+        }, 
+        {
+            "date": "2015-01-10T22:57:30.125Z", 
+            "text": "hehe you are weak in mathematics. .:P", 
+            "author": "Danish Khan"
+        }, 
+        {
+            "date": "2015-01-10T18:15:42.997Z", 
+            "text": "2piR is the circumference of a circle my dude", 
+            "author": "xXTheSidlerXx"
+        }, 
+        {
+            "date": "2015-01-07T06:01:53.997Z", 
+            "text": "Finally that shady ass music that plays in every minutephysics video is put \nto good use.\ufeff", 
+            "author": "84updown"
+        }, 
+        {
+            "date": "2015-01-05T03:18:58.704Z", 
+            "text": "Has anyone realized that the end result was just the formula to get the \narea of the circle?\ufeff", 
+            "author": "Jake Dancel"
+        }, 
+        {
+            "date": "2015-01-15T05:49:11.305Z", 
+            "text": "no way, it's almost like deriving the formula for a circle's area was the \nentire purpose of the video.", 
+            "author": "Noschool100"
+        }, 
+        {
+            "date": "2015-01-01T15:48:16.004Z", 
+            "text": "sabeeeeee\ufeff", 
+            "author": "Sougue Lutero"
+        }, 
+        {
+            "date": "2014-12-30T13:44:06.118Z", 
+            "text": "i am sorry to say it wasnt the rite way to determine area of a circle . HOW \nDID 2*PI*R came into existence?? . u should perhaps explain dat. i love \nyour channel .\ufeff", 
+            "author": "Praneeth Achar"
+        }, 
+        {
+            "date": "2014-12-24T03:26:44.216Z", 
+            "text": "I'm pretty sure a circle doesn't fold out into a perfect triangle...\ufeff", 
+            "author": "Otherones5"
+        }, 
+        {
+            "date": "2015-01-18T19:39:16.585Z", 
+            "text": "If you infinitely slice it, yes it does. If you want a more \"mathematically \nsatisfying\" proof, use integral calculus.", 
+            "author": "\uc784\uc131\ubbfc"
+        }, 
+        {
+            "date": "2015-01-01T18:11:38.112Z", 
+            "text": "It does if you do math at it.", 
+            "author": "MystyrNile"
+        }, 
+        {
+            "date": "2014-12-31T03:55:30.628Z", 
+            "text": "Actually it does. Perfectly. Circumference of the circle varies linearly \nwith radius, so it will be a 'perfect' triangle.", 
+            "author": "Joshua Lin"
+        }, 
+        {
+            "date": "2014-12-20T14:43:57.355Z", 
+            "text": "song? pls\ufeff", 
+            "author": "hypex101"
+        }, 
+        {
+            "date": "2014-12-15T19:45:08.350Z", 
+            "text": "wow , it comes from .. the derivative of the circle area with respect to \nthe radius would give you the circumference\ufeff", 
+            "author": "abdalrahman mahdly"
+        }, 
+        {
+            "date": "2015-01-02T15:50:58.331Z", 
+            "text": "This proof is actually a visualization of the opposite fact: integrating \nthe circumference with respect to the radius gives you the area.", 
+            "author": "Alexander Jones"
+        }, 
+        {
+            "date": "2014-12-14T17:04:26.094Z", 
+            "text": "Illuminati confirmed?\ufeff", 
+            "author": "Grant Rodgers"
+        }, 
+        {
+            "date": "2014-12-11T21:23:37.127Z", 
+            "text": "Awesome!\ufeff", 
+            "author": "David Wise"
+        }, 
+        {
+            "date": "2014-12-09T01:38:49.199Z", 
+            "text": "whats with the out of tune guitar lol\ufeff", 
+            "author": "Firebreathing Cat"
+        }, 
+        {
+            "date": "2014-12-10T22:56:26.558Z", 
+            "text": "It's a double bass... They have no frets, so that might lead you to think \nit's out of tune? But no, its an in-tune double bass.", 
+            "author": "Jack Sims"
+        }, 
+        {
+            "date": "2014-12-08T03:00:54.899Z", 
+            "text": "The outer 4 chains are not long enough to wrap all the way around...  So \nisn't some of the area of the circle missing?  The circle's got a big hole \non top....\ufeff", 
+            "author": "lzepln"
+        }, 
+        {
+            "date": "2014-12-22T10:11:06.089Z", 
+            "text": "+lzepln Well you now understand how the proof works- if you imagine doing \nit with a perfect circle and triangle then it will work.", 
+            "author": "Stuart Hull"
+        }, 
+        {
+            "date": "2014-12-20T15:22:42.200Z", 
+            "text": "+Stuart Hull  Right... but the video IS the diagram.  If I can't trust it, \nit's a useless visual proof.", 
+            "author": "lzepln"
+        }, 
+        {
+            "date": "2014-12-19T22:14:46.394Z", 
+            "text": "That's just in the diagram. The circumference of a full circle is 2pi*r so \nthe base of the triangle will be 2pi*r. As they constantly tell me at \nschool: don't trust the diagram.", 
+            "author": "Stuart Hull"
+        }, 
+        {
+            "date": "2014-12-05T13:31:23.738Z", 
+            "text": "Are you dutch? Because out of nowhere I saw dutch subtitles\ufeff", 
+            "author": "darnell darnell"
+        }, 
+        {
+            "date": "2014-12-06T18:36:04.833Z", 
+            "text": "Ooh okay :)", 
+            "author": "darnell darnell"
+        }, 
+        {
+            "date": "2014-12-06T18:03:42.436Z", 
+            "text": "It also happens to me but with spanish subtitles. ", 
+            "author": "Ana Avila"
+        }, 
+        {
+            "date": "2014-12-02T18:02:14.000Z", 
+            "text": "LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE LIKE \n!!!!!!!!!!!!!!!!!!!!!!!!!!!!\ufeff", 
+            "author": "Adonay Zenebe"
+        }, 
+        {
+            "date": "2014-11-27T11:56:03.416Z", 
+            "text": "Cute!\ufeff", 
+            "author": "lesnyk255"
+        }, 
+        {
+            "date": "2014-11-21T16:33:06.386Z", 
+            "text": "WOW :D\nexcellent work, I finally understand that formula :D not just memorize it.\nReally, thanks :)\ufeff", 
+            "author": "German Kreither Feliu"
+        }, 
+        {
+            "date": "2014-11-21T06:33:31.329Z", 
+            "text": "Very unintuitive\ufeff", 
+            "author": "Alq"
+        }, 
+        {
+            "date": "2014-11-18T22:56:48.213Z", 
+            "text": "That was epic!! I love this channel :D\ufeff", 
+            "author": "No Name Sharma"
+        }, 
+        {
+            "date": "2014-11-17T04:08:56.069Z", 
+            "text": "Actually, it applies to a sphere too, if you open it in layers you \neventually have a cone which base is the spheres surface and the height is \nits radius.\ufeff", 
+            "author": "ThaMagicWithin"
+        }, 
+        {
+            "date": "2014-11-16T23:39:09.566Z", 
+            "text": "My God mind blow Love it!\ufeff", 
+            "author": "Mayrangeli  Torres"
+        }, 
+        {
+            "date": "2014-11-16T14:09:10.344Z", 
+            "text": "wtf\ufeff", 
+            "author": "alhasan ali"
+        }, 
+        {
+            "date": "2014-11-14T03:35:02.038Z", 
+            "text": "Now that im learning about things like x+12=78 for example, what proof of \nwath whas that?\ufeff", 
+            "author": "Guilherme Rafael Zimermann"
+        }, 
+        {
+            "date": "2015-04-30T14:43:12.304Z", 
+            "text": "+BlackXxScopez You mean, you dont start getting an education till year 11 \nand 12", 
+            "author": "HaydenHatTrick"
+        }, 
+        {
+            "date": "2015-04-28T23:17:48.049Z", 
+            "text": "+Guilherme Rafael Zimermann A 7th grade problem, thought still simple, \nwould be something like a(5*9)=a+e. tbh it doesn't really get hard until \nhighschool.", 
+            "author": "BlackXxScopez"
+        }, 
+        {
+            "date": "2015-04-04T08:43:48.282Z", 
+            "text": "+Guilherme Rafael Zimermann Or in short, just remember, you can do algebra \nas well as you can speak, you just might not know how to write it down.", 
+            "author": "HaydenHatTrick"
+        }, 
+        {
+            "date": "2015-04-04T08:43:07.350Z", 
+            "text": "+Guilherme Rafael Zimermann  rightio. Anyway, that thing we wrote is called \nan algebraic expression.\nit you say something like x+1=2, then you know what x is by now, right?\nwell, I could say, x+1=y, if x=1 then y=2. Should make sense. So now for \nsimplicity just say I write things like this: (x,y), so, y=x+1 again with \nx=1, (x,y) (1,2), lets keep going. (2,3)(3,4)(4,5). Cool you got it!\nnow let me say A=2*x, (1,1)(2,4)(3,6). Cool you got it\nnow lets say A=h*b. h- height. If the height of my triangle is 2 and my \nbase is 6, A = 5*6\nWelcome to algebra brah.", 
+            "author": "HaydenHatTrick"
+        }, 
+        {
+            "date": "2015-03-30T12:12:24.466Z", 
+            "text": "+Redstone King finaly someone that understands one of my commemts, also now \nim already in 8th grade in school and im learning about monomes (im \nbrasilian so i dont know if it is that name, if it isnt just search for \nmonomio in google translate) also im having trouble to understand how to do \nthe multiplications and the division, its too complicated to me (and my \nmath teacher seems to be gay,he also has things on his arms, like dark dots \nor someting, i think he has AIDIS) ", 
+            "author": "Guilherme Rafael Zimermann"
+        }, 
+        {
+            "date": "2015-03-30T12:04:59.093Z", 
+            "text": "You are all mixing up two completely different things. 7th grade, is the \n7th year of school. By a 7th grade equation, you mean a equation that you \nlearn during this year. A 7th degree polynomial is something completely \ndifferent.", 
+            "author": "Redstone King"
+        }, 
+        {
+            "date": "2015-03-30T12:02:31.197Z", 
+            "text": "+TheDanilon62 He didn't mean polynomial of degree 7, he meant a equation \nthat you learn about in 7th grade in school.", 
+            "author": "Redstone King"
+        }, 
+        {
+            "date": "2015-03-23T00:37:34.000Z", 
+            "text": "+nitrodog96\nYes but only because 2+2 = 2*2. However it doesn't work for 3 because 3+3 \ndoesn't = 3*3.\n In most cases D doesn't = r^2.", 
+            "author": "101Crock"
+        }, 
+        {
+            "date": "2015-03-23T00:24:26.630Z", 
+            "text": "+101Crock Pi*r^2 could equal pi*d (or pi*2r) if r = 2.", 
+            "author": "nitrodog96"
+        }, 
+        {
+            "date": "2015-03-07T19:24:34.212Z", 
+            "text": "+STALKERstealth9\nPi*r^2 does not equal pi*d because r^2 = r*r not r+r. pi*d = the \ncircumference of a circle.", 
+            "author": "101Crock"
+        }, 
+        {
+            "date": "2015-03-06T13:36:09.295Z", 
+            "text": "+STALKERstealth9 r^2 is not d, 2r is d", 
+            "author": "iMakHugo"
+        }, 
+        {
+            "date": "2015-03-07T23:26:37.000Z", 
+            "text": "It's really easy if you space it out properly and not group it in all as a \nwhole:\n\nTo find out the area of the circle is really simple: pi * 2*r OR pi * d.\n\npi = 3.141, and r (The Radius, or the blue line that goes from the center \nto the circumference, perimeter.) can equal whatever. d (diameter) is just \ndouble the radius\n\nThe equation at the beginning says: 1/2b*h which is the formula for a \ntriangle.\n\nFilling in the gaps for b and h is what comes next. Where it says = is \nbasically just breaking it up and showing that b and h is DEFINED as.\n\n1/2b*h = 1/2(2piR) * R is basically just saying, b = Half of 2*pi*Radius, h \n= Radius. All together it's saying that it all equals the formula for pi: \npi*R^2 (Radius Squared)\n\nHopefully you understand this, and your english is coming along nicely, \nkeep up the good work!", 
+            "author": "STALKERstealth9"
+        }, 
+        {
+            "date": "2014-12-20T19:43:43.459Z", 
+            "text": "Thats easy\n\nx = %e^-%e^(2*%i*%pi/5)\n\nx=e^(\u2212e^(2i\u03c0/5))\n\nAnother one lel\n\nx = -asin(sqrt(3)*%i/2-1/2)\n\nx=\u2212arcsin((\u221a3i/2)\u2212(1/2))", 
+            "author": "TheDanilon62"
+        }, 
+        {
+            "date": "2014-12-20T14:58:02.144Z", 
+            "text": "subtract 12 from both sides if you do that x=66", 
+            "author": "RandomlyStephanie"
+        }, 
+        {
+            "date": "2014-12-16T18:07:21.228Z", 
+            "text": "+Walther, o Johnson :)", 
+            "author": "Guilherme Rafael Zimermann"
+        }, 
+        {
+            "date": "2014-12-13T05:30:17.435Z", 
+            "text": "+TheDanilon62 I'd suggest that you read his comment again. He said that he \nis on 7th grade in school, and is learning very basic equations. In \"7th \ngrade equations\", 7th grade doesn't stand for the grade of the equation but \nfor the grade he's in school. You can deduce that by looking at his english \nlevel and his profile picture together with his alleged uncapability to \ncomprehend the simple maths of the area of a circle. A little research also \nshows you that, in Brazil, 7th graders are around twelve years old, and \nbeing fluent in a second language ( specially the ones that aren't derived \nfrom latin, like spanish and french) in the country, is a very rare skill. \nI am brazilian myself, and got the hold of english about 1 year younger \nthan he is now and I am now starting my fourth language now, which is \ngerman, and I am happy to see a young boy like him already interested in \nscience and trying his best to delve into another language, even if it's \nthe popular stuff like in this page. Don't rage on people. There is no use \nto it. Just try to help him out - as you know so much more than he does- \n and maybe the world will be a better place. Who knows if he won't be the \nnext Einstein and you will be the kickstart to his brillance?", 
+            "author": "Walther, o Johnson"
+        }, 
+        {
+            "date": "2014-12-06T10:50:19.290Z", 
+            "text": "+Marlon Garibay You like strings? :D", 
+            "author": "TheDanilon62"
+        }, 
+        {
+            "date": "2014-12-06T00:25:51.814Z", 
+            "text": "+TheDanilon62 actually 10th grade, geometry bro", 
+            "author": "Marlon Garibay"
+        }, 
+        {
+            "date": "2014-12-05T13:43:25.280Z", 
+            "text": "+jo1italianstyle i was trying to say that im learning the simplest kind of \nequations", 
+            "author": "Guilherme Rafael Zimermann"
+        }, 
+        {
+            "date": "2014-12-04T21:19:44.472Z", 
+            "text": "+jo1italianstyle Finally someone with knowledge :D", 
+            "author": "TheDanilon62"
+        }, 
+        {
+            "date": "2014-11-07T07:34:39.845Z", 
+            "text": "Yay! I\u2764\ufe0f\u03c0\ufeff", 
+            "author": "Tony Libbey"
+        }, 
+        {
+            "date": "2014-11-01T23:32:23.353Z", 
+            "text": "My... God!\ufeff", 
+            "author": "Lornext"
+        }, 
+        {
+            "date": "2014-10-23T18:30:51.352Z", 
+            "text": "Superbly simple proof!  Genial!\ufeff", 
+            "author": "Tahititoutou"
+        }, 
+        {
+            "date": "2014-10-23T18:13:02.518Z", 
+            "text": "Simply Superb!!!!!!\ufeff", 
+            "author": "Omkar Parab"
+        }, 
+        {
+            "date": "2014-10-21T07:43:39.832Z", 
+            "text": "o.k., I didn't understand this one at all.\ufeff", 
+            "author": "flurng"
+        }, 
+        {
+            "date": "2014-10-27T23:54:53.000Z", 
+            "text": "soooo, it is actually pretty simple: \nWe want to caculate the area of a circle, here it goes:\n-Making a circle out of chains\n-Transforming it into a triangle with the same area\n-Caculating the area of the triangle, which is the same as for the circle\nCalculations:\n-The perimeter of the circle (2*pi*r)=the basis of the triangle\n-The radius of the circle=the height of the triangle\nTherefore, the area of the triangle= 1/2*basis*height=1/2*2*pi*r*r, which \ncan be simplified in pi*r^2.This is equal to the area of the circle, Done !", 
+            "author": "Pierre St\u00f6ber"
+        }, 
+        {
+            "date": "2014-10-23T15:14:01.868Z", 
+            "text": "Same", 
+            "author": "Doctor D gamer"
+        }, 
+        {
+            "date": "2014-10-03T20:59:54.220Z", 
+            "text": "Just count the balls.\ufeff", 
+            "author": "blablaman1001"
+        }, 
+        {
+            "date": "2014-09-23T15:06:33.110Z", 
+            "text": "Check out this video on YouTube:\ufeff", 
+            "author": "Aravind S"
+        }, 
+        {
+            "date": "2014-09-21T09:30:50.407Z", 
+            "text": "", 
+            "author": "Jezus Christus"
+        }, 
+        {
+            "date": "2014-09-20T17:48:31.867Z", 
+            "text": "Or you can just use calculus and save money and time cutting up and buying \nchains.\ufeff", 
+            "author": "Samatar Mohamed"
+        }, 
+        {
+            "date": "2015-02-05T06:33:51.272Z", 
+            "text": "The calculus proof isn't that bad. You just take the integral of the \ncircumference of a circle to find the area under said curve. 2*pi*r is \nabout as easy as integrals get.", 
+            "author": "MrPhilsterable"
+        }, 
+        {
+            "date": "2015-01-28T22:09:56.291Z", 
+            "text": "+Alexander Jones i think the circumferrence of a circle isnt taught at \nelementary school. I was thaught it in 8th grade (im from Germany 8th grade \nis when youre about 14 years old)", 
+            "author": "Leo Simmel"
+        }, 
+        {
+            "date": "2015-01-06T05:09:01.059Z", 
+            "text": "That's why no one will watch your youtube videos", 
+            "author": "Iczey1"
+        }, 
+        {
+            "date": "2015-01-02T15:56:42.000Z", 
+            "text": "The calculus proof has a much higher barrier of entry (knowledge and \nunderstanding of calculus), whereas this visual proof really only relies on \nthe knowledge that circumference = 2*pi*r and area of triangle = 1/2*b*h, \nthings we learn in elementary school. \n\nAlso the purpose of the visual demonstration (not proof) is to provide an \nintuitive look at what the calculus is actually doing.", 
+            "author": "Alexander Jones"
+        }, 
+        {
+            "date": "2014-10-30T17:19:30.845Z", 
+            "text": "+Samatar Mohamed That's what I was saying...", 
+            "author": "MrOfficerCartman"
+        }, 
+        {
+            "date": "2014-10-30T17:07:54.502Z", 
+            "text": "+MrOfficerCartman how do u think the area of a circle was derived man,", 
+            "author": "Samatar Mohamed"
+        }, 
+        {
+            "date": "2014-10-30T12:49:37.022Z", 
+            "text": "He was proving the equation for finding the area, that's why he said derive \nthe area of a circle, not find.", 
+            "author": "MrOfficerCartman"
+        }, 
+        {
+            "date": "2014-09-25T04:46:00.044Z", 
+            "text": "Unlight, it's a anime-like game but it isn't an anime (yet)", 
+            "author": "Liew Herreis"
+        }, 
+        {
+            "date": "2014-09-25T04:20:48.908Z", 
+            "text": "+Liew Herreis True, but that goes to show how insane a trig substitution \ncan be. Also what anime in your DP pic?", 
+            "author": "Samatar Mohamed"
+        }, 
+        {
+            "date": "2014-09-21T07:15:44.198Z", 
+            "text": "Then it wouldn't be an education videos for en masses :3", 
+            "author": "Liew Herreis"
+        }, 
+        {
+            "date": "2014-09-17T02:02:01.718Z", 
+            "text": "Simple proofs rock!\ufeff", 
+            "author": "Matthew Michaelson"
+        }, 
+        {
+            "date": "2014-09-15T15:13:05.111Z", 
+            "text": "Explicaci\u00f3n visual sobre el \u00e1rea de un c\u00edrculo\ufeff", 
+            "author": "dmat csc"
+        }, 
+        {
+            "date": "2014-09-07T16:30:44.999Z", 
+            "text": "why is he drunk here\ufeff", 
+            "author": "Vladimir Vasilev"
+        }, 
+        {
+            "date": "2014-08-30T22:54:46.087Z", 
+            "text": "Why do I always seem to end up on the ridiculously mind blowing part of \nyoutube at midnight, couldn't I just watch funny cat videos instead. Curse \nmy curious subconscience.\ufeff", 
+            "author": "Ant Lane"
+        }, 
+        {
+            "date": "2014-09-16T00:21:48.905Z", 
+            "text": "haha exact same situation here bro", 
+            "author": "MrLitze"
+        }, 
+        {
+            "date": "2015-02-19T22:22:06.000Z", 
+            "text": "Embrace it! Don't ignore your curiosity for knowledge! Please, we need more \neducated people.", 
+            "author": "Workundercover"
+        }, 
+        {
+            "date": "2014-08-28T22:57:19.150Z", 
+            "text": "Demostraci\u00f3n visual del \u00e1rea del c\u00edrculo pi * R\u00b2\ufeff", 
+            "author": "Casiano Rodriguez-Leon"
+        }, 
+        {
+            "date": "2014-08-29T15:43:14.848Z", 
+            "text": "Genial...thora tomemos l\u00edmites cuando el radio de cada eslab\u00f3n tiende a \ncero...", 
+            "author": "Javier Ruiz"
+        }, 
+        {
+            "date": "2014-08-28T14:46:41.725Z", 
+            "text": "stunning \ufeff", 
+            "author": "James Briggs"
+        }, 
+        {
+            "date": "2014-08-28T13:47:26.967Z", 
+            "text": "Demostraci\u00f3n visual del \u00e1rea del c\u00edrculo pi * R\u00b2\ufeff", 
+            "author": "Javier \u201cMr Reivaj\u201d RM"
+        }, 
+        {
+            "date": "2014-08-28T13:37:43.774Z", 
+            "text": "Demostraci\u00f3n visual del \u00e1rea del c\u00edrculo pi * R\u00b2\ufeff", 
+            "author": "\u00c0lex M\u00e9ndez Feliu (Txapulin)"
+        }, 
+        {
+            "date": "2014-08-28T11:29:22.920Z", 
+            "text": "Demostraci\u00f3n visual del \u00e1rea del c\u00edrculo pi * R\u00b2\ufeff", 
+            "author": "Pedro J. Hdez"
+        }, 
+        {
+            "date": "2014-08-27T01:13:36.064Z", 
+            "text": " \ufeff", 
+            "author": "TRabbit1970"
+        }, 
+        {
+            "date": "2014-08-23T20:04:49.000Z", 
+            "text": "aw the link to the original article is broke. anybody know where to find \nit? \ufeff", 
+            "author": "Zachary Anderson"
+        }, 
+        {
+            "date": "2014-08-21T15:51:17.219Z", 
+            "text": "You need a award for this!\ufeff", 
+            "author": "Eric Huang"
+        }, 
+        {
+            "date": "2014-08-21T14:06:10.608Z", 
+            "text": "Omg this is brilliant...\ufeff", 
+            "author": "Shadowflame919"
+        }, 
+        {
+            "date": "2014-12-17T20:35:52.000Z", 
+            "text": "Exactly, this is a good way to illustrate math concepts- =) It doesnt need \nto be perfect just like the ideal gas law, it cannot be applied to real \ngases but it is the best start for every chemistry student who wants to \nunderstand real gases. =)", 
+            "author": "Arturo Gallegos"
+        }, 
+        {
+            "date": "2014-12-08T15:54:26.373Z", 
+            "text": "+DarkPaladinDE1 This video is exactly how I would teach calculus to \nsomeone. First show a *rough approximation* with thin \"slices\", then show \nthat as the \"slices\" get smaller, the value becomes more accurate.\n\nWhat's the problem?", 
+            "author": "Edan Coll"
+        }, 
+        {
+            "date": "2014-12-08T15:35:12.773Z", 
+            "text": "+HiPeRdUdElOlZ I didn't intend to claim that the amount of decimal places \nis finite and IMHO that's not the reason because it could also limit on \nsomething like 2 as 1+1/2+1/4+1/8+...+1/2^n does.", 
+            "author": "DarkPaladinDE1"
+        }, 
+        {
+            "date": "2014-12-07T21:53:49.730Z", 
+            "text": "+DarkPaladinDE1 that's why pi has infinite number of numbers beyond , ", 
+            "author": "Hiperdude Lolz"
+        }, 
+        {
+            "date": "2014-12-07T05:24:35.226Z", 
+            "text": "+DarkPaladinDE1 that is why we have calculus, to work with infinitesimal \namounts.", 
+            "author": "Arturo Gallegos"
+        }, 
+        {
+            "date": "2014-11-19T16:17:32.810Z", 
+            "text": "+DarkPaladinDE1 What?", 
+            "author": "Edan Coll"
+        }, 
+        {
+            "date": "2014-12-07T15:48:12.000Z", 
+            "text": "May I destroy its genius for you? If you take non-infinitely-small strips \nit won't work, because the part closest to the center will be shorter and \nthe part furthest away from it will be longer. That way you can't really \nmake a \"line\" out of it. Assuming the strips are infinitely small then it \nshould work AFAIK.", 
+            "author": "DarkPaladinDE1"
+        }, 
+        {
+            "date": "2014-08-20T21:48:20.842Z", 
+            "text": "Brilliant\ufeff", 
+            "author": "drkwrl"
+        }, 
+        {
+            "date": "2014-08-19T19:43:02.177Z", 
+            "text": "I tought this was going to prove that god exist/doesn't exist because I \ntought the thumbnail was the FSM :D silly me\ufeff", 
+            "author": "Sierox"
+        }, 
+        {
+            "date": "2014-08-14T10:30:53.394Z", 
+            "text": "Ken Nordine.\ufeff", 
+            "author": "Anqwa"
+        }, 
+        {
+            "date": "2014-08-11T11:45:28.496Z", 
+            "text": "Now proof for 2pie(r) jaja... Jk great video man!\ufeff", 
+            "author": "Israel Sornoza Merino"
+        }, 
+        {
+            "date": "2014-08-06T09:13:46.372Z", 
+            "text": "", 
+            "author": "Stanislav Mitra"
+        }, 
+        {
+            "date": "2014-07-24T18:54:52.544Z", 
+            "text": "best proof of anything ever seen\ufeff", 
+            "author": "J Thomson"
+        }, 
+        {
+            "date": "2014-07-12T19:28:45.116Z", 
+            "text": "Nice proof, but actualy one thing that is unclear and demands proving is \nthat when you unfold a circle in that manner why do you neccessarily get \nthat the two sides of the triangle are straight. They could be curved and \nthen it wouldn't be a triangle and then the traignle area formula wouldn't \nwork.\ufeff", 
+            "author": "Eliko Beliko"
+        }, 
+        {
+            "date": "2014-10-28T17:33:29.583Z", 
+            "text": "+pewpsteak\nGreat observation, nice:)", 
+            "author": "Eliko Beliko"
+        }, 
+        {
+            "date": "2014-10-28T17:07:07.865Z", 
+            "text": "They would actually be straight lines the way I understand it. The \ncircumference of the circles being peeled back would be dependent only on \nthe radius, right? So if each of the circles' radii(radiuses?) were \ndecreased by the same constant then the circumferences would decrease \nlinearly. The sides of the triangle would have to be straight lines.", 
+            "author": "pewpsteak"
+        }, 
+        {
+            "date": "2014-10-27T02:36:42.584Z", 
+            "text": "+electrocat1 ikr", 
+            "author": "MrMaestro14231"
+        }, 
+        {
+            "date": "2014-10-26T17:53:22.961Z", 
+            "text": "+jerry tang um, seriously? You're going to continually say random things \nand not explain what they mean and then be racist and try to act like I'm \nthe stupid one? How is it impossible to make a 2d object three dimensional? \nYou were talking about a purely mathematical description of a circle and \nthen started talking about including matter which makes no sense. Please \nexplain in a complete sentence, not a fragment of one, what in the world \nyou are talking about.", 
+            "author": "electrocat1"
+        }, 
+        {
+            "date": "2014-10-26T16:48:41.187Z", 
+            "text": "-_- america", 
+            "author": "jerry tang"
+        }, 
+        {
+            "date": "2014-10-26T16:35:42.739Z", 
+            "text": "What? That makes no sense.", 
+            "author": "electrocat1"
+        }, 
+        {
+            "date": "2014-10-26T13:49:10.675Z", 
+            "text": "2d is stating that it completely flat (0) so the only way for it to become \n3d is an infinite amount of matter", 
+            "author": "jerry tang"
+        }, 
+        {
+            "date": "2014-10-26T06:32:07.912Z", 
+            "text": "+jerry tang it would take an infinite amount of matter to what?", 
+            "author": "electrocat1"
+        }, 
+        {
+            "date": "2014-10-26T05:13:13.202Z", 
+            "text": "but it would take a infinite amount of matter, therefore theoretical ", 
+            "author": "jerry tang"
+        }, 
+        {
+            "date": "2014-10-23T01:23:52.000Z", 
+            "text": "I don't even know what's happening anymore. Pi is true.", 
+            "author": "MrMaestro14231"
+        }, 
+        {
+            "date": "2014-10-21T22:14:57.206Z", 
+            "text": "+jerry tang that's not even true. You can make a square a cube.", 
+            "author": "electrocat1"
+        }, 
+        {
+            "date": "2014-10-21T20:52:42.629Z", 
+            "text": "stop pulling away from his comment, pi is proved but only because we arnt \nable to take a 2d shape and make it 3d", 
+            "author": "jerry tang"
+        }, 
+        {
+            "date": "2014-10-20T06:22:39.884Z", 
+            "text": "How is it gluons?", 
+            "author": "electrocat1"
+        }, 
+        {
+            "date": "2014-10-19T17:29:48.048Z", 
+            "text": "im just sayin that lines and surfices are mainly empty space (exept for \ngluons)", 
+            "author": "jerry tang"
+        }, 
+        {
+            "date": "2014-10-19T15:17:58.459Z", 
+            "text": "+jerry tang pi has not been proven?", 
+            "author": "Zachary Anderson"
+        }, 
+        {
+            "date": "2014-10-18T19:14:23.470Z", 
+            "text": "Say what you want, none of these things have been proven", 
+            "author": "jerry tang"
+        }, 
+        {
+            "date": "2014-09-14T16:28:35.557Z", 
+            "text": "+bestinmathagent Why do you think a curve is composed of lines that when \nyou zoom in enough you'll see curves? Anyway, human-made circles may not be \nperfect. But mathematically they can. All you need is the formula x\u00b2+y\u00b2=r\u00b2", 
+            "author": "MrMaestro14231"
+        }, 
+        {
+            "date": "2014-09-14T15:31:30.400Z", 
+            "text": "Thing is,  I believe that you can't create a real curve. It has to be \ncomposed of so many lines that when you look far enough, you'll see a \ncurve. So, it's possible to turn a circle into a line for me, I guess.", 
+            "author": "bestinmathagent"
+        }, 
+        {
+            "date": "2014-08-23T19:56:17.920Z", 
+            "text": "In the real world, that would true. To take a circle, split it on one side \nthe length of the radius, it would be awkward to shape it into a triangle. \nYou'd have to imagine it's Play-Doh. With this proof there are some \ninconsistencies. The gap in the circle at the beginning becomes the spaces \nbetween the chains and the triangle later. It's definitely not exact, which \nis why mathematicians demand the use of calculus for such problems. But \nit's close enough to be one additional proof to the many others", 
+            "author": "Zachary Anderson"
+        }, 
+        {
+            "date": "2014-07-03T11:22:25.000Z", 
+            "text": "Words... defintely would have helped.\ufeff", 
+            "author": "ytmndan"
+        }, 
+        {
+            "date": "2014-06-23T22:48:54.946Z", 
+            "text": "", 
+            "author": "Adelia Lopez"
+        }, 
+        {
+            "date": "2014-06-22T14:49:43.808Z", 
+            "text": "Nice one though it assumes you know the perimeter is 2*Pi*R, how are you \ngoing to easily derive that aswell?\ufeff", 
+            "author": "Alessandro Porcelli"
+        }, 
+        {
+            "date": "2014-08-28T21:33:43.717Z", 
+            "text": "yeah yeah I realized that XD", 
+            "author": "Alessandro Porcelli"
+        }, 
+        {
+            "date": "2014-08-28T07:19:00.261Z", 
+            "text": "pi is literally defined by a circle's circumference and radius o.o", 
+            "author": "Jacob \u201cYoung Ryoon\u201d Cho"
+        }, 
+        {
+            "date": "2014-08-23T13:01:53.838Z", 
+            "text": "Yeah, indeed. lol.", 
+            "author": "Alessandro Porcelli"
+        }, 
+        {
+            "date": "2014-08-21T21:13:40.775Z", 
+            "text": "It's 2piR by definition of pi because pi=circumference/diameter.", 
+            "author": "Aeroscience"
+        }, 
+        {
+            "date": "2014-06-08T11:34:29.734Z", 
+            "text": "I can't understand why the 2 other sides of the triangle don't equal to R. \nSure it wouldn't make sense if they do but still...\ufeff", 
+            "author": "Hisu"
+        }, 
+        {
+            "date": "2014-06-03T01:42:14.631Z", 
+            "text": "This is especially nice given the ugliness of the standard proof... This so \nsimple\ufeff", 
+            "author": "StarcraftDr"
+        }, 
+        {
+            "date": "2014-05-29T10:55:55.256Z", 
+            "text": "Wow you're joking\ufeff", 
+            "author": "Dale Sparrow"
+        }, 
+        {
+            "date": "2014-05-27T00:55:52.241Z", 
+            "text": "BUT WHERE DOES THE CIRCUMFERENCE FORMULA COME FROM??\ufeff", 
+            "author": "Natalie Wilson"
+        }, 
+        {
+            "date": "2014-05-25T06:34:03.508Z", 
+            "text": "Whats up wiTh dat voice?\ufeff", 
+            "author": "thatguy15217"
+        }, 
+        {
+            "date": "2014-05-20T03:47:27.562Z", 
+            "text": "1/2\u03c4r^2\ufeff", 
+            "author": "InfernusKnight"
+        }, 
+        {
+            "date": "2014-05-13T03:45:26.085Z", 
+            "text": "that meant absolutely nothing to me\ufeff", 
+            "author": "brandon54321att"
+        }, 
+        {
+            "date": "2014-05-12T21:32:42.246Z", 
+            "text": "Awesome!\ufeff", 
+            "author": "Adriano Me"
+        }, 
+        {
+            "date": "2014-05-11T19:39:22.163Z", 
+            "text": "great!!!\ufeff", 
+            "author": "Shannon Junel Limaco"
+        }, 
+        {
+            "date": "2014-05-11T16:44:30.140Z", 
+            "text": "That's.... a very clever way of looking at it....\ufeff", 
+            "author": "DFX2KX"
+        }, 
+        {
+            "date": "2014-05-08T17:14:48.502Z", 
+            "text": "WOW!\ufeff", 
+            "author": "Marcio Neves"
+        }, 
+        {
+            "date": "2014-05-04T21:24:40.039Z", 
+            "text": "SO THAT'S HOW IT WORKS\nI always get the area and circumference mixed up\nNow I understand everything.\ufeff", 
+            "author": "\u86d9"
+        }, 
+        {
+            "date": "2014-04-30T23:00:45.255Z", 
+            "text": "So this means A= pie(the symbol means pie but the math kind not the one you \neat) Remainder 2\ufeff", 
+            "author": "Thaddeus Kalinowski"
+        }, 
+        {
+            "date": "2014-04-26T15:29:13.768Z", 
+            "text": "dat way of talking :))\ufeff", 
+            "author": "Jivan Ionut"
+        }, 
+        {
+            "date": "2014-04-24T15:40:37.676Z", 
+            "text": "AHMAZING.... :) :)", 
+            "author": "Simran Mukhija"
+        }, 
+        {
+            "date": "2014-04-21T21:29:18.078Z", 
+            "text": "you just prove the area of circle with beads and a ruler,\nnow i would like to know how you prove the perimeter ..\nwhy it's 2\u03c0r ?\nwhere is the\"\u03c0\" coming from?\n\nlike if you also want minutephysics to prove this !\ufeff", 
+            "author": "ayik tube"
+        }, 
+        {
+            "date": "2014-08-16T20:00:52.573Z", 
+            "text": "pi is equal the amount of magnets of the most external circumference \ndivided by the amount of magnet of the diameter of this circumference", 
+            "author": "netauri123"
+        }, 
+        {
+            "date": "2014-05-10T03:49:26.921Z", 
+            "text": "perimeter is 2\u03c0r by definition. \u03c0 is defined as ratio between perimeter and \ndiameter of circle.", 
+            "author": "twilight3003"
+        }, 
+        {
+            "date": "2014-04-10T18:48:15.501Z", 
+            "text": "The thumbnail had me thinking he was going to talk about the FSM.\ufeff", 
+            "author": "Gert Dillen"
+        }, 
+        {
+            "date": "2014-03-23T15:50:53.117Z", 
+            "text": "Oh my god! I am mind blown!\ufeff", 
+            "author": "firedungeon2468"
+        }, 
+        {
+            "date": "2014-03-23T15:20:30.051Z", 
+            "text": "WooaahhhO:-)O:-):-):-)\ufeff", 
+            "author": "Vidhi Gupta"
+        }, 
+        {
+            "date": "2014-04-24T15:39:29.040Z", 
+            "text": "because woh school hain.. joh bahut bore hain...\n\n\n\nand this is youtube.. which is ahmazing...", 
+            "author": "Simran Mukhija"
+        }, 
+        {
+            "date": "2014-04-11T16:06:12.776Z", 
+            "text": "aaye simran..i told you this channel has awesome videos :)..watch the \ne=mc^2 one..that is m.i.n.d.b.l.o.w.n:)..why can they not teach us stuff \nlike this in school???", 
+            "author": "Vidhi Gupta"
+        }, 
+        {
+            "date": "2014-04-10T12:09:37.081Z", 
+            "text": "Sooo Cool... :)", 
+            "author": "Simran Mukhija"
+        }, 
+        {
+            "date": "2014-03-20T20:56:25.519Z", 
+            "text": "", 
+            "author": "Leningrado Flor\u00eancio"
+        }, 
+        {
+            "date": "2014-03-12T12:56:32.873Z", 
+            "text": "i want cheese now.\ufeff", 
+            "author": "Kobin dt"
+        }, 
+        {
+            "date": "2014-03-11T11:04:13.000Z", 
+            "text": "Mind = Blown\ufeff", 
+            "author": "JLwiz"
+        }, 
+        {
+            "date": "2014-03-10T03:03:04.483Z", 
+            "text": "name of song and where can i download it\ufeff", 
+            "author": "R. Little"
+        }, 
+        {
+            "date": "2014-03-06T13:37:09.797Z", 
+            "text": "this is childish :(\ufeff", 
+            "author": "Adam Saudagar (RIPjoker)"
+        }, 
+        {
+            "date": "2014-03-02T13:30:17.358Z", 
+            "text": "I dont get shit and i find this very interesting...My brain is weird..\ufeff", 
+            "author": "Joshua Tan (The Random)"
+        }, 
+        {
+            "date": "2014-02-28T12:00:43.471Z", 
+            "text": "wtffffffff\ufeff", 
+            "author": "Jonathan Carpio"
+        }, 
+        {
+            "date": "2014-02-27T05:08:07.450Z", 
+            "text": "wait what\ufeff", 
+            "author": "Alix Lugo"
+        }, 
+        {
+            "date": "2014-02-23T23:23:43.701Z", 
+            "text": "I am number 3000 to comment\ufeff", 
+            "author": "Harry Renshaw"
+        }
+    ]
+}

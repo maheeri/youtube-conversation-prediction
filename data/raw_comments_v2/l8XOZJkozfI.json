@@ -1,0 +1,1393 @@
+{
+    "publish_date": "2014-10-22T12:21:06.000Z", 
+    "video_length": "PT7M11S", 
+    "captions": [
+        {
+            "text": "Queen Lion is looking to make the elections\nin her animal kingdom more fair. Currently", 
+            "dur": "3.601", 
+            "start": "0.459"
+        }, 
+        {
+            "text": "she divides her citizens into ranges each\nof which selects one representative to go", 
+            "dur": "3.87", 
+            "start": "4.06"
+        }, 
+        {
+            "text": "to the jungle council which makes laws for\nthe kingdom.", 
+            "dur": "2.879", 
+            "start": "7.93"
+        }, 
+        {
+            "text": "But her citizens are unhappy, and it&#39;s easy\nto see why: the council is full of monkeys.", 
+            "dur": "4.901", 
+            "start": "10.809"
+        }, 
+        {
+            "text": "Of course some of her citizens are monkeys,\nbut not all of them. This council doesn&#39;t", 
+            "dur": "4.049", 
+            "start": "15.71"
+        }, 
+        {
+            "text": "fairly represent her kingdom.", 
+            "dur": "1.871", 
+            "start": "19.759"
+        }, 
+        {
+            "text": "Queen lion visits one of the ranges to find\nout what&#39;s wrong and how to fix it.", 
+            "dur": "3.849", 
+            "start": "21.63"
+        }, 
+        {
+            "text": "In this range there five monkeys, four tigers,\nthree owls, two lynx and one buffalo. One", 
+            "dur": "5.18", 
+            "start": "25.479"
+        }, 
+        {
+            "text": "of each runs for representative and all citizens\nvote for their own species.", 
+            "dur": "4.211", 
+            "start": "30.659"
+        }, 
+        {
+            "text": "The election rule is that the candidate with\nthe most votes wins, which is the monkey.", 
+            "dur": "4.04", 
+            "start": "34.87"
+        }, 
+        {
+            "text": "But it&#39;s a pretty unsatisfying result considering\nthat 2/3rds of citizens in this range *aren&#39;t*", 
+            "dur": "5.05", 
+            "start": "38.91"
+        }, 
+        {
+            "text": "monkeys and wouldn&#39;t vote for monkeys.", 
+            "dur": "1.789", 
+            "start": "43.96"
+        }, 
+        {
+            "text": "This is the same across all the ranges of\nthe kingdom, the monkeys have more votes than", 
+            "dur": "4.691", 
+            "start": "45.749"
+        }, 
+        {
+            "text": "anybody else, so they win all the elections,\neven though they are a minority of the total", 
+            "dur": "4.969", 
+            "start": "50.44"
+        }, 
+        {
+            "text": "population. Closer inspection reveals that\nthe independent advisors hired to draw the", 
+            "dur": "3.97", 
+            "start": "55.409"
+        }, 
+        {
+            "text": "range boundaries in the first place weren&#39;t\nas independent as they first appeared.", 
+            "dur": "4.3", 
+            "start": "59.379"
+        }, 
+        {
+            "text": "The result is unhappy citizens who don&#39;t trust\nthe jungle council to make the fairest laws", 
+            "dur": "3.951", 
+            "start": "63.679"
+        }, 
+        {
+            "text": "for all, quite rightly.", 
+            "dur": "1.69", 
+            "start": "67.63"
+        }, 
+        {
+            "text": "Now Queen lion wants to maximize the number\nof citizens happy with the election results.", 
+            "dur": "4.2", 
+            "start": "69.32"
+        }, 
+        {
+            "text": "One way to do that is to abolish the ranges\nand use a proportional system... ...But her", 
+            "dur": "3.94", 
+            "start": "73.52"
+        }, 
+        {
+            "text": "citizens *want* local representatives.", 
+            "dur": "2.38", 
+            "start": "77.46"
+        }, 
+        {
+            "text": "So Queen lion needs a system that both make\nher citizens happier by having a more representative", 
+            "dur": "4.27", 
+            "start": "79.84"
+        }, 
+        {
+            "text": "council while keeping local elections in place.", 
+            "dur": "3.32", 
+            "start": "84.11"
+        }, 
+        {
+            "text": "After doing a little research she finds out\nhow: Single Transferable Vote.", 
+            "dur": "3.91", 
+            "start": "87.43"
+        }, 
+        {
+            "text": "The big change with STV is that ranges send\nmore than one representative, which may seem", 
+            "dur": "5.09", 
+            "start": "91.34"
+        }, 
+        {
+            "text": "weird, but queen lion decides to test it out:\nshe takes three ranges which used to each", 
+            "dur": "4.16", 
+            "start": "96.43"
+        }, 
+        {
+            "text": "send one representative and combines them\ninto one bigger range that will send three.", 
+            "dur": "4.739", 
+            "start": "100.59"
+        }, 
+        {
+            "text": "On election day citizens go to the polls and\nthe results in this new range are just the", 
+            "dur": "4.521", 
+            "start": "105.329"
+        }, 
+        {
+            "text": "same as they were in the old ranges: 34% for\nMonkey, 33% for Owl and 33% for Lynx.", 
+            "dur": "3.49", 
+            "start": "109.85"
+        }, 
+        {
+            "text": "But this isn&#39;t most votes wins: with STV to\nfigure out the winners take the total votes", 
+            "dur": "3.139", 
+            "start": "113.34"
+        }, 
+        {
+            "text": "and divide by the number of representatives\nneeded, in this case 3 which gives 33% as", 
+            "dur": "5.911", 
+            "start": "116.479"
+        }, 
+        {
+            "text": "the amount a candidates needs to win.", 
+            "dur": "2.149", 
+            "start": "122.39"
+        }, 
+        {
+            "text": "So *all three* candidates go to the council\n-- which accurately represents the citizens", 
+            "dur": "4.251", 
+            "start": "124.539"
+        }, 
+        {
+            "text": "in the range.", 
+            "dur": "1.04", 
+            "start": "128.79"
+        }, 
+        {
+            "text": "Whereas under the old system each range would\nhave sent a monkey. Leaving 2/3rd of the citizens", 
+            "dur": "5.08", 
+            "start": "129.83"
+        }, 
+        {
+            "text": "without representation. A bigger range with\nmore representatives allows the range to be", 
+            "dur": "4.42", 
+            "start": "134.91"
+        }, 
+        {
+            "text": "more proportional.", 
+            "dur": "1.25", 
+            "start": "139.33"
+        }, 
+        {
+            "text": "This test turned out well, but it was also\nas simple as could be -- now Queen Lion wants", 
+            "dur": "4.25", 
+            "start": "140.58"
+        }, 
+        {
+            "text": "to see what happens in a race where not everyone\nis a winner.", 
+            "dur": "3.06", 
+            "start": "144.83"
+        }, 
+        {
+            "text": "The next big range she tests has five candidates\nrunning for office: Gorilla, Tasier, Monkey,", 
+            "dur": "4.95", 
+            "start": "147.89"
+        }, 
+        {
+            "text": "Tiger, and Lynx, three of which can be representatives.", 
+            "dur": "3.44", 
+            "start": "152.84"
+        }, 
+        {
+            "text": "Election day comes and goes, and here are\nthe results of citizens first choices:", 
+            "dur": "4.3", 
+            "start": "156.28"
+        }, 
+        {
+            "text": "Tasier gets 5%\nGorilla gets 28%", 
+            "dur": "2.92", 
+            "start": "160.58"
+        }, 
+        {
+            "text": "Monkey gets 33%\nTiger gets 21%", 
+            "dur": "2.81", 
+            "start": "163.5"
+        }, 
+        {
+            "text": "Lynx gets 13%", 
+            "dur": "1.42", 
+            "start": "166.31"
+        }, 
+        {
+            "text": "As before, a candidate needs 33% to win. Monkey\nhas that as so is immediately selected as", 
+            "dur": "5.33", 
+            "start": "167.73"
+        }, 
+        {
+            "text": "one of the three representatives.", 
+            "dur": "2.01", 
+            "start": "173.06"
+        }, 
+        {
+            "text": "But no one else reached the winning 33% so\nhow are the other two representatives selected?", 
+            "dur": "4.76", 
+            "start": "175.07"
+        }, 
+        {
+            "text": "Step one: get rid of the biggest loser. Sorry\ntasier -- you really had no chance at all.", 
+            "dur": "4.4", 
+            "start": "179.83"
+        }, 
+        {
+            "text": "Now, when the citizens voted, they could have\njust put an X next to the candidate they liked", 
+            "dur": "3.74", 
+            "start": "184.23"
+        }, 
+        {
+            "text": "most but with STV they can also rank their\nfavorite candidates. This is important because", 
+            "dur": "5.39", 
+            "start": "187.97"
+        }, 
+        {
+            "text": "it shows how the election would have turned\nout if one of the candidates hadn&#39;t run.", 
+            "dur": "4.67", 
+            "start": "193.36"
+        }, 
+        {
+            "text": "Tiny and Worried Tasiers would have voted\nfor the big calm gorilla without tasier in", 
+            "dur": "4.69", 
+            "start": "198.03"
+        }, 
+        {
+            "text": "the race. So if their candidate can&#39;t win,\nthey want their votes to go to Gorilla instead.", 
+            "dur": "5.33", 
+            "start": "202.72"
+        }, 
+        {
+            "text": "This pushes gorilla up to 33% and he become\nthe next representative.", 
+            "dur": "4.32", 
+            "start": "208.05"
+        }, 
+        {
+            "text": "Ranking allows citizens to support their favorite\ncandidate without worry -- there&#39;s no point", 
+            "dur": "3.85", 
+            "start": "212.37"
+        }, 
+        {
+            "text": "in strategizing about how everyone else is\ngoing to vote. The system works to maximize", 
+            "dur": "4.14", 
+            "start": "216.22"
+        }, 
+        {
+            "text": "voter happiness with the result.", 
+            "dur": "1.93", 
+            "start": "220.36"
+        }, 
+        {
+            "text": "Back to the range: there&#39;s still one representative\nto select, so the next biggest loser is Lynx.", 
+            "dur": "4.3", 
+            "start": "222.29"
+        }, 
+        {
+            "text": "His voters don&#39;t like simians, but they do\nthink tiger&#39;s interests are similar to theirs", 
+            "dur": "3.58", 
+            "start": "226.59"
+        }, 
+        {
+            "text": "and so if Lynx can&#39;t win they want him to\nhave their votes. Tiger gets reaches 33% and", 
+            "dur": "4.7", 
+            "start": "230.17"
+        }, 
+        {
+            "text": "becomes the third and final representative.", 
+            "dur": "2.39", 
+            "start": "234.87"
+        }, 
+        {
+            "text": "The election result looks pretty good especially\nconsidering citizens first *and* second choices.", 
+            "dur": "4.75", 
+            "start": "237.26"
+        }, 
+        {
+            "text": "Now more citizens have a local representative\nthey can feel comfortable approaching, whereas", 
+            "dur": "4.56", 
+            "start": "242.01"
+        }, 
+        {
+            "text": "using the old system, everybody gets a monkey.", 
+            "dur": "2.91", 
+            "start": "246.57"
+        }, 
+        {
+            "text": "Lastly queen lion wants know what happens\nin a range with just two political parties.", 
+            "dur": "4.03", 
+            "start": "249.48"
+        }, 
+        {
+            "text": "Under the most-votes-wins systems, multiple\ncandidates from the same party would be a", 
+            "dur": "3.569", 
+            "start": "253.51"
+        }, 
+        {
+            "text": "disaster: they&#39;d split their voters and hand\nthe win to their opposition.", 
+            "dur": "3.821", 
+            "start": "257.079"
+        }, 
+        {
+            "text": "Queen lion makes one last test range with\n2/3rd tigers and 1/3 gorillas that as before,", 
+            "dur": "5.34", 
+            "start": "260.9"
+        }, 
+        {
+            "text": "needs three representatives.", 
+            "dur": "1.769", 
+            "start": "266.24"
+        }, 
+        {
+            "text": "Because with STV citizens rank their candidates\nthere can be more than one candidate running", 
+            "dur": "5.46", 
+            "start": "268.009"
+        }, 
+        {
+            "text": "at the same time without any problems.", 
+            "dur": "2.891", 
+            "start": "273.469"
+        }, 
+        {
+            "text": "The tigers run two candidates as do the gorillas.", 
+            "dur": "3.779", 
+            "start": "276.36"
+        }, 
+        {
+            "text": "White tiger becomes the first representative,\nbut what happens next? While tiger seems to", 
+            "dur": "7", 
+            "start": "280.139"
+        }, 
+        {
+            "text": "be the biggest loser, it&#39;s also obvious that\nhe would have gotten way more votes if white", 
+            "dur": "3.799", 
+            "start": "295.43"
+        }, 
+        {
+            "text": "tiger wasn&#39;t in the race. If a candidate has\nmore votes than they need, like white tiger", 
+            "dur": "4.99", 
+            "start": "299.229"
+        }, 
+        {
+            "text": "does, the first step is to give the extra\nvotes to their second choice. This gets tiger", 
+            "dur": "5.091", 
+            "start": "304.219"
+        }, 
+        {
+            "text": "to 33% and he becomes the next representative.", 
+            "dur": "3.379", 
+            "start": "309.31"
+        }, 
+        {
+            "text": "If that seems strange, there are two things\nto consider:", 
+            "dur": "2.171", 
+            "start": "312.689"
+        }, 
+        {
+            "text": "1) If instead the extra votes were ignored,\nand tiger eliminated then the gorillas would", 
+            "dur": "3.75", 
+            "start": "314.86"
+        }, 
+        {
+            "text": "get the remaining two wins, which would obviously\nnot be represent the range.", 
+            "dur": "4.48", 
+            "start": "318.61"
+        }, 
+        {
+            "text": "2) Ignoring these &#39;extra&#39; votes is punishing\ncitizens who backed the popular candidate,", 
+            "dur": "4.65", 
+            "start": "323.09"
+        }, 
+        {
+            "text": "which makes voters start thinking about how\neveryone else will vote, rather than what", 
+            "dur": "5.12", 
+            "start": "327.74"
+        }, 
+        {
+            "text": "they really want. If a candidate gets extra\nvotes in the first place it also means that", 
+            "dur": "5.2", 
+            "start": "332.86"
+        }, 
+        {
+            "text": "those who voted for him are a big section\nof the population and thus fairly should get", 
+            "dur": "4.609", 
+            "start": "338.06"
+        }, 
+        {
+            "text": "more representation.", 
+            "dur": "1.83", 
+            "start": "342.669"
+        }, 
+        {
+            "text": "Right: after the extra votes go to tiger,\nthe election finishes as before: Silverback", 
+            "dur": "4.41", 
+            "start": "344.499"
+        }, 
+        {
+            "text": "came in last, is eliminated and his voters&#39;\nsecond choice is the younger candidate so", 
+            "dur": "4.06", 
+            "start": "348.909"
+        }, 
+        {
+            "text": "gorilla gets in. And the results are fair.", 
+            "dur": "2.81", 
+            "start": "352.969"
+        }, 
+        {
+            "text": "Queen Lion has now seen STV work. Whether\na range has one party or lots the process", 
+            "dur": "4.72", 
+            "start": "355.779"
+        }, 
+        {
+            "text": "is still the same:", 
+            "dur": "1.7", 
+            "start": "360.499"
+        }, 
+        {
+            "text": "1. Citizens rank their favorite candidates.\n2. Any candidate above the threshold wins", 
+            "dur": "4.43", 
+            "start": "362.199"
+        }, 
+        {
+            "text": "immediately,\n3. &#39;Extra&#39; votes go to their next choice.", 
+            "dur": "2.87", 
+            "start": "366.629"
+        }, 
+        {
+            "text": "4. If no winner, last place is eliminated,\nand the votes to go their next choice.", 
+            "dur": "4.181", 
+            "start": "369.499"
+        }, 
+        {
+            "text": "5. Repeat until all the winners are found.", 
+            "dur": "2.919", 
+            "start": "373.68"
+        }, 
+        {
+            "text": "This whole this process is designed to maximize\nthe number of citizens who are happy with", 
+            "dur": "4.06", 
+            "start": "376.599"
+        }, 
+        {
+            "text": "the result.", 
+            "dur": "0.51", 
+            "start": "380.659"
+        }, 
+        {
+            "text": "This process gives STV has many advantages\nover the old, most-votes-wins system:", 
+            "dur": "4.701", 
+            "start": "381.169"
+        }, 
+        {
+            "text": "1. Citizens can honestly vote for their favorite\ncandidate without worrying about what everyone", 
+            "dur": "3.759", 
+            "start": "385.87"
+        }, 
+        {
+            "text": "else is going to do.\n2. It&#39;s more proportional. So monkeying with", 
+            "dur": "3.03", 
+            "start": "389.629"
+        }, 
+        {
+            "text": "the borders matters less.\n3. Almost all citizens will have a local representative", 
+            "dur": "4.72", 
+            "start": "392.659"
+        }, 
+        {
+            "text": "they actually voted for.", 
+            "dur": "1.81", 
+            "start": "397.379"
+        }, 
+        {
+            "text": "In the end Queen lion decides to switch the\ncouncil&#39;s elections to Single Transferable", 
+            "dur": "3.78", 
+            "start": "399.189"
+        }, 
+        {
+            "text": "Vote to make a better jungle council for all.", 
+            "dur": "2.68", 
+            "start": "402.969"
+        }
+    ], 
+    "title": "Politics in the Animal Kingdom: Single Transferable Vote", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0kvhjr3", 
+        "/m/02p0sgp"
+    ], 
+    "number_views": 930179, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T20:09:38.931Z", 
+            "text": "Voting in America could be miles better. This should be a reform we enact \ntoday. It will gain us a more fair and honest election. \ufeff", 
+            "author": "michael brown"
+        }, 
+        {
+            "date": "2015-05-10T17:59:58.440Z", 
+            "text": "What happens if you only agree with one person's ideas? You're basically \nforced to choose a party you don't want?? But this system is 10xs more \nbetter than what the uk have in place now\ufeff", 
+            "author": "Fahmid Choudhury"
+        }, 
+        {
+            "date": "2015-05-10T16:03:57.058Z", 
+            "text": "The D'Hondt method comes close enough, and it's used in ~40 countries. \nAllowed transferability to other parties would give a vote more strength \nthough, especially if one has a specific secondary favorite, or one is \nbetween candidates of different parties.\ufeff", 
+            "author": "Pythonesque"
+        }, 
+        {
+            "date": "2015-05-10T14:21:16.129Z", 
+            "text": "Voting can be fixed and should be fixed in the United Kingdom: \nhttps://www.youtube.com/watch?v=l8XOZJkozfI\ufeff", 
+            "author": "J. Pablo Fern\u00e1ndez"
+        }, 
+        {
+            "date": "2015-05-10T11:50:29.762Z", 
+            "text": "So what is the difference between STV and AV??\ufeff", 
+            "author": "SuchAChocoholic"
+        }, 
+        {
+            "date": "2015-05-09T20:33:39.000Z", 
+            "text": "I think there might be a flaw in the system or you haven't explained it \nentirely. It's a minor issue, but in an electoral system there must be no \nflaws. Particularly as the proponents of FPTP say that anything else is too \ncomplicated, people won't understand etc. If something can actually go \nwrong or the system is too complicated then it will never get implimented. \nI actually just noticed this video is American; do you guys already have \nSTV? I'm British and I'd love it if we had this system in place.\n\nAnyway in the second example of STV where Tarsier gets illiminated first \nand his 5% gets added to Gorilla who then has 33%. You then eliminate Lynx \nand say that all his voters put Tiger as 2nd choice. Let's say instead all \nof Lynx's voters put Monkey as their 2nd choice with no further preference. \nLet's also say all of Monkey's voters simply put an x next to his name.\n\nSo in this hypothetical situation 13% of people voted Lynx and put Monkey \n2nd so after eliminating Lynx their votes get transferred to Monkey. This \nleaves us with Gorilla 33%, Monkey 46% and Tiger 21%. Because Monkey's \noriginal voters only put his name and Lynx's voters put noone after Monkey \nthere's no way to transfer Monkey's excess votes to anyone else. It's \nobvious Tiger should be the 3rd representative because we've eliminated \nTarsier and Lynx, however the algorithm does not allow for this. So how \nwould such a situation be solved?\ufeff", 
+            "author": "8Rincewind"
+        }, 
+        {
+            "date": "2015-05-09T20:01:48.967Z", 
+            "text": "w do you choose which of the 62% are the unused votes, what if they didn't \nall vote the smae 2nd place candidate?\ufeff", 
+            "author": "Matthew Newton"
+        }, 
+        {
+            "date": "2015-05-09T18:24:08.666Z", 
+            "text": "", 
+            "author": "Micha\u0142 Dro\u017adziewicz"
+        }, 
+        {
+            "date": "2015-05-09T16:44:12.383Z", 
+            "text": "My friend had a question about the excess votes and white tiger, and I \ndon't know the answer. How do they decide where the excess votes go? If, \nsay half of the WT voters put purple tiger as their second choice, but \nanother half voted for green gorilla, how do they decide who gets allocated \nthe excess votes, and which votes stay with WT?\ufeff", 
+            "author": "Ninjamix2372"
+        }, 
+        {
+            "date": "2015-05-09T16:40:14.853Z", 
+            "text": "", 
+            "author": "Krzysztof Gmyr"
+        }, 
+        {
+            "date": "2015-05-10T18:18:51.000Z", 
+            "text": "Rozs\u0105dne. Na pewno lepsze ni\u017c dzielenie wg d'Hondta i wreszcie mo\u017cna \ng\u0142osowa\u0107 na konkretnego kandydata, a nie na parti\u0119.", 
+            "author": "Jacek N. Kozio\u0142"
+        }, 
+        {
+            "date": "2015-05-09T13:38:25.313Z", 
+            "text": "I think I've seen a problem with this and I'd like to know how it's dealt \nwith. With your 3rd example, the one whereby extra votes are given to the \nsecond choice.\n\nLets say 65% of the population votes White Tiger as you say BUT half of \nthose votes had Gorilla as their second choice and half had Tiger as their \nsecond choice. The 33% to get White Tiger a seat are taken up, but how do \nyou decide who's second choice gets split? If most of Gorilla Second Choice \ngets used in the 33% that leave most of the \"excess\" votes going to Tiger. \nBut if most of the Tiger second choice is used to make up the 33% then that \nmeans Gorilla gets most of the \"excess\" votes. \n\nThe theory works nicely if everyone who votes for their first choice, also \nhas the same second choice. Am I missing something here? Genuinely want to \nsee understand the mechanics of this.\ufeff", 
+            "author": "Krei1406"
+        }, 
+        {
+            "date": "2015-05-09T13:15:51.306Z", 
+            "text": "So what if say one tiger and three gorillas were running, would the excess \nfrom the single tiger be passed on to a gorilla?\n\nAlso how would the three representitives actuallly represent the area? \nWould they have to co-operate and would one [MP] have ultimate authority \nover the area and the other two [MPs] from that area? What if you end up \nwith all three representitives coming from a small area within the \nconstituancy and therefore a large proportion of the area goes un \nrepresented?\n\nJust trying to get my head around how this would work in a real world (UK) \nsituation where the scenario can't be expected to be so neat and straight \nforward.\ufeff", 
+            "author": "Frazzleberry1"
+        }, 
+        {
+            "date": "2015-05-09T12:51:41.099Z", 
+            "text": "So I'm curious; after Grey has discussed three different voting systems - \nAV, STV and MMP - which does he prefer? I haven't seen him favour any one \nsystem.\ufeff", 
+            "author": "Leo King"
+        }, 
+        {
+            "date": "2015-05-09T12:37:42.774Z", 
+            "text": "When the white tiger had too many votes, how do they decide which of those \nvotes are the extra ones? Maybe some of the animals who had a 1st choice of \nwhite tiger had a 2nd choice of a gorilla. How do you decide whether to \ntransfer the gorilla votes or the purple tiger votes?\ufeff", 
+            "author": "Neil Roberts"
+        }, 
+        {
+            "date": "2015-05-09T12:45:53.535Z", 
+            "text": "+Neil Roberts Oh, there's a complicated formula on Wikipedia. \u201cChocolate's \nsurplus votes transfer to Strawberry and Sweets in proportion to the \nChocolate voters' second choice preferences, using a formula: number of \nsurplus votes/(total number of transferable votes (that have the second \npreference)) \u00d7 number of second preferences of the given candidate\u201d. That \nseems like quite an important detail left out of the video!", 
+            "author": "Neil Roberts"
+        }, 
+        {
+            "date": "2015-05-08T22:51:40.164Z", 
+            "text": "Man I love this series. Keep up the good work grey \ud83d\udc4d.\ufeff", 
+            "author": "Luka Sucre-Bremner"
+        }, 
+        {
+            "date": "2015-05-08T21:39:39.891Z", 
+            "text": "After UKIP getting nearly 4 million votes but only 1 mp, it looks like a \nmajor change is on its way.\ufeff", 
+            "author": "Flying Biscuit"
+        }, 
+        {
+            "date": "2015-05-08T14:58:20.710Z", 
+            "text": "Yeah it be so much better if we could get it like this.\ufeff", 
+            "author": "daniellclary"
+        }, 
+        {
+            "date": "2015-05-08T12:54:54.340Z", 
+            "text": "The Conservative Party has won more than 50% of the seats in Parliament \ndespite only having received 37% of the votes across the country (according \nto the constituency results that have come in so far).\n\nMaybe now the UK electorate will realise what the Green Party and others \nhave been saying for a long time: our present electoral system does not \nreflect the will of the people. It is undemocratic and in desperate need of \nreform.\n\nWhile the unfairness of the system is so glaringly obvious for all to see, \nperhaps now might be the time for the other MPs to put pressure on for the \ncalling of another referendum on electoral system reform (this time for the \nSingle Transferable Vote).\n\nWhile the Conservatives won't willingly kick away the ladder that they're \nstanding on, they only have a very slight majority of seats in Parliament. \nThis win of the Conservatives may be a blessing in disguise.\ufeff", 
+            "author": "Michael Astley"
+        }, 
+        {
+            "date": "2015-05-10T21:56:32.100Z", 
+            "text": "And before you start accusing other people of being fascists, I really \nthink you'd better find out what it means.\n\nI'll let you do your own research into it, lest you fear I'm brainwashing \nyou.", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T21:54:03.586Z", 
+            "text": "You will of course believe whatever delusions you want. I just hope it's \nnot too late when you see the *true colours* that matter.", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T21:51:10.392Z", 
+            "text": "and you can't hide your true colours. Everyone who disagrees with you is \nobviously brainwashed and wrong. You know you are starting to sound like a \nfascist yourself.", 
+            "author": "joe jones"
+        }, 
+        {
+            "date": "2015-05-10T21:39:41.532Z", 
+            "text": "I'm glad their PR spin isn't totally wasted.", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T21:35:01.446Z", 
+            "text": "+Matt H But many of those extremists are attracted to the party because \nthey are deluded at what the party's aims and find them the closet to what \nthey like. when UKIP find these people they are correctly disciplined and \nkicked out the party.\nagain there are more Indians and black people in the party than Nazis. many \nNazis have been removed. ", 
+            "author": "joe jones"
+        }, 
+        {
+            "date": "2015-05-10T21:22:51.809Z", 
+            "text": "+joe jones\u200b And yet, UKIP has a tendency of attracting biggoted, racist \nxenophobes. It's quite well known for it in fact. Can you deny this?\n\nI call anyone an extremist who threatens violence against political \nopponents or those they consider social inferiors. Again, UKIP has a \ntendency of attracting such people.\n\nIs the party itself extremist? Probably not. Does it have more than its \nfair share of extremists compared to other mainstream parties? Most \ncertainly yes.", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T21:15:03.405Z", 
+            "text": "+Matt H The reason you are undeserving is because you are saying that UKIP \na a group of extremists and everyone else is wrong. \nAlso who are you to decide who is an extremist? personally i don't think \nthey are xenophobic because Australia isn't, also the party have many \npeople from foreign descent.\n\nIf you disagree i'm not going to say your an idiot because i'm not a self \nrighteous prick.\nExtremist is quite a dangerous word to throw around not to be used lightly \nand not to be used against anyone you disagree with.", 
+            "author": "joe jones"
+        }, 
+        {
+            "date": "2015-05-10T17:47:53.441Z", 
+            "text": "I didn't feel like gloating on Friday morning, but I did feel a strong \nsense of relief that the system worked *well enough* in this case to \nprotect the 88% of the electorate who *do not* want to see dangerous \nextremists wielding any power. That 12% is concerning, but I don't pretend \nthat anything more than a vocal minority of them are anything but mindless \nracist thugs. I suspect the rest felt an overwhelming sense of \ndisenfranchisement with the system, and UKIP were the voice speaking for \nthat sense of frustration. As I have repeatedly said: *the system is broken* \nand those people do need some kind of representation to fix it. As do we \nall. But, and this is a big but, I still have an overwhelming sense of \nrelief that UKIP achieved nothing more than one seat, since they themselves \nwould have been overwhelmed by the vocal xenophobic bigotry of that \nminority.", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T17:32:38.380Z", 
+            "text": "Thanks for that perspective, +Stickmania1989\u200b.\n\nI was worried about the 2010 election result. I'd never known a hung \nParliament before but now that we've had it I think the result is a better \nsystem of government overall. There are certainly cons but there are pros \nas well. If coalitions were to become the norm, the word wouldn't fill us \nwith terror in the way that it perhaps currently does.", 
+            "author": "Michael Astley"
+        }, 
+        {
+            "date": "2015-05-10T17:24:48.564Z", 
+            "text": "Then I'm in the minority along with him.\n\nI wouldn't wipe my bum with the UKIP manifesto but I recognise that the \npeople who support them have a right to representation.\n\nWhen we exclude these people, or anybody, for that matter, from the \ndemocratic process, where they are part of the dysfunctional family and \nmust play by the family rules, we leave them disenfranchised and open the \ngate to extremism.\n\nA Conservative friend of mine has spent the past few days gloating on \nFacebook. In his victorious jubilation he seems not to realise that there \nare many of us for whom this result is not merely something that doesn't \nreflect our vote: it is something that fills us with a strong sense of \nunease and plays to our greatest societal and moral fears. His response to \nthe unfairness of the electoral system has been only just shy of \"Oh well. \nIt worked for us so it must be right. Ner ner ner ner ner.\" I feel almost \nnot part of my own country at the moment and his behaviour isn't helping.\n\nNow I'm not about to join some ultra-left terrorist group but this \nexperience means that I can read a little the feelings of those with more \nright-wing political views who are on the receiving end of left-wing \nsmugness at every victory that we gain in law and society. If this is \ncoupled with political exclusion and sustained intransigence over a long \nperiod of time, I can only see it ending in disaster.\n\nThe lid will come flying off the pressure cooker at some point.", 
+            "author": "Michael Astley"
+        }, 
+        {
+            "date": "2015-05-10T16:46:48.602Z", 
+            "text": "I suspect your perspective on this may be in the minority, Steven. ", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T16:03:04.000Z", 
+            "text": "I'm sorry, but I'm not carrying this on with you since you obviously can't \nsee the hypocrisy of your own statements.\n\nHave a good Sunday.", 
+            "author": "Steven J Davies"
+        }, 
+        {
+            "date": "2015-05-10T16:00:57.245Z", 
+            "text": "Right. So if the majority don't want a party in power, then that party will \nnot be in power - this system does not guarantee that, far from it, but the \nproportional system pretty much does.\n\nWe may not like one party having more seats, but if the majority don't want \nthem near Downing St. Then they never will be.\n\nYou say you're against anything resembling Nazism, but what you suggest is \nactually not that far removed whether you choose to admit, or like it.", 
+            "author": "Steven J Davies"
+        }, 
+        {
+            "date": "2015-05-10T15:59:49.623Z", 
+            "text": "Hmm yes, not wanting the country to descend into turmoil is a *dangerous* \nway to live. Yes, I see your point now.", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T15:53:13.833Z", 
+            "text": "And like I said, that's a dangerous way to live.\n\nIf you want a democracy, then that means doing it properly and giving \neveryone a voice - not just the ones that agree with you.", 
+            "author": "Steven J Davies"
+        }, 
+        {
+            "date": "2015-05-10T15:53:13.711Z", 
+            "text": "And that 88% of the voting polulation also disagreed with. Yes. I make no \napology for not wanting to see the BNP-in-suits and their proto-brownshirt \nthugs incite civil war in this country. Your desire for that may differ \nfrom mine, but for the next 5 years at least we're safe from it.", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T17:35:40.000Z", 
+            "text": "I saw you say the system was designed to keep those you disagree with, at \nbay. That's what I saw.", 
+            "author": "Steven J Davies"
+        }, 
+        {
+            "date": "2015-05-10T15:47:09.548Z", 
+            "text": "+Steven J Davies\u200b Did you not see me say the system is broken?\n\nBut sure, if you want we'll open the doors of Westminster to any crackpot \nwith a grudge against society that belongs in the bronze age.\n\nAs ever, there's a happy medium. Which we don't currently have.", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-10T15:42:31.427Z", 
+            "text": "+Matt H the system was designed for a country with two parties. Nothing \nmore, nothing less.\n\nTo ignore the relevance, and the importance and the rights of everything \nand everyone, except the things and people that *you* believe in is a very \ndangerous way to live, and the fastest way to destroy the thing you say you \nwant to protect.\n\nTo be honest, I begin to wonder where your desire to oppress would end.", 
+            "author": "Steven J Davies"
+        }, 
+        {
+            "date": "2015-05-10T15:34:30.404Z", 
+            "text": "All very good points, +Chris Gilbert\u200b. And yet I still contend that the \nsystem worked to keep extremist ideologies out on the fringes, where they \nbelong. \n\nUKIP have a very important role to play in our political life, and it's \nnothing to do with any of their pre-election policies. The greatest \ncontribution they can offer is to kick off exactly this debate: In the 21st \ncentury, the system is broken, what's best to replace it? (Whilst still \nkeeping them well away from the corridors of power, I might add.)", 
+            "author": "Matt H"
+        }, 
+        {
+            "date": "2015-05-07T21:18:15.230Z", 
+            "text": "In real life parliament is full of monkeys as well. \ufeff", 
+            "author": "King Kyle"
+        }, 
+        {
+            "date": "2015-05-06T21:20:28.347Z", 
+            "text": "This system would be absolutely perfect for the UK general election \ntomorrow. We wouldn't see the SNP domination in Scotland, UKIP voters would \nbe fairly represented and nobody would have to worry about voting \ntactically. From the people I've spoken to, it's only the SNP supporters \nwho are actually planning on voting for their first choice party, rather \nthan worrying about what everyone else is doing!\ufeff", 
+            "author": "teehee1604"
+        }, 
+        {
+            "date": "2015-05-10T12:05:51.842Z", 
+            "text": "+DanTheStripe They won under the rules of the current system. They got the \nmost votes and secured more than 50% of the seats. We had a chance to \nchange the system in 2011, now people are moaning about it because they \ndidn't get their own way. It's pathetic", 
+            "author": "teehee1604"
+        }, 
+        {
+            "date": "2015-05-10T02:17:18.327Z", 
+            "text": "+teehee1604 Conservatives won with 37% of the vote. Democracy my arse.", 
+            "author": "DanTheStripe"
+        }, 
+        {
+            "date": "2015-05-09T23:08:21.600Z", 
+            "text": "+Geoff Nattrass England is moving to the right because of utter \nincompetence on the part of the Labour party and the lib dems. Under FPTP, \nthere are only so many parties who can get a look in at any one time, as we \nsaw with the vast under representation of the UKIP vote. There is no room \nfor any further left wing parties, not serious ones anyway.\n\nSo because Labour are completely out of touch, the only option many people \nin England felt they had was to vote conservative. In fact, it would be \ninteresting to see just what % of votes were cast tactically for every \nparty!\n\nBut it is clear to anyone that if Ed Milliband was forced to negotiate with \nthe SNP, Alex Salmond would have come out announcing that he'd not only \nmanaged to name himself as prime minister, but had annexed the whole of \nEngland to become part of Greater Scotland! He simply wasn't trusted to \nstand up to the SNP.\n\nThere is nothing unstoppable about this movement to the right. It's just \nthere is nothing on the left that anyone would consider voting for. One \nquestion I would ask you though is what you understand by the word \n\"austerity\". Because to me, running a \u00a3100bn budget deficit is the absolute \nopposite of real austerity!", 
+            "author": "teehee1604"
+        }, 
+        {
+            "date": "2015-05-09T17:48:12.900Z", 
+            "text": "+teehee1604 The SNP aren't great, they have some worrying elements and I \nwill shut down anybody who's SNP argument is based on how great they think \nscots and scotland is, but I voted SNP because they oppose austerity, they \nare the second most progressive party available, and I felt I could make an \nactual difference voting for them instead of my choice (the greens) or the \ncompeting parties (the lib dems or tories). England is making an \nunstoppable slide to the right under the tories and ukips increasingly \neffective fear-based campaigns and claims of saving the middle classes a \nfew quid in taxes (grey has a great video on the power of fear and anger, \ncome to think of it)... If the SNP agrees with my politics and can get our \ngovernance further devolved or entirely independent of england, why \nshouldn't I vote for them. Perhaps one day I will be able to vote for the \ngreens in a general election for an independent scotland, but until that \nday I will vote tactically for labour or the SNP.", 
+            "author": "Geoff Nattrass"
+        }, 
+        {
+            "date": "2015-05-06T19:52:18.434Z", 
+            "text": "So the bit at the end, surly in a real election it matters which votes you \ndecide are the extra votes? because not everyone who puts one party as \ntheir first choice will have the same second choice, so this will affect \nwho gets the 'extra' votes\ufeff", 
+            "author": "ammettheyellingfrog1"
+        }, 
+        {
+            "date": "2015-05-07T15:06:20.742Z", 
+            "text": "+ammettheyellingfrog1 The \"spare\" votes are distributed proportionally \naccording to 2nd choices.\n\n\nSo if A has 10 spare, look at the 2nd choices for everyone who voted A as \nfirst choice. If these are 20% B, 30% C and 50% D then:\n- B gets 20% of the spare = 2 extra\n- C gets 30% of the spare = 3 extra\n- D gets 50% of the spare = 5 extra", 
+            "author": "David O'Sullivan"
+        }, 
+        {
+            "date": "2015-05-05T09:49:13.725Z", 
+            "text": "This should have been posted six years ago.\ufeff", 
+            "author": "Silent Knight"
+        }, 
+        {
+            "date": "2015-05-04T18:15:42.246Z", 
+            "text": "It's not 33% it's 25%+1.\ufeff", 
+            "author": "ajuk1"
+        }, 
+        {
+            "date": "2015-05-03T23:28:39.998Z", 
+            "text": "Why are the chimps claiming to be monkeys?\nOr is it monkeys who are disguised as chimps?\ufeff", 
+            "author": "TinTeddyVideos"
+        }, 
+        {
+            "date": "2015-05-02T22:13:54.796Z", 
+            "text": "Good system... does anyone use this method?\ufeff", 
+            "author": "David Foxe"
+        }, 
+        {
+            "date": "2015-05-09T02:22:25.543Z", 
+            "text": "Ireland and Iceland use this system. I don't know any other country's that \ndo but I'm sure there are some.", 
+            "author": "Conor Kinsella (SilentEire)"
+        }, 
+        {
+            "date": "2015-05-02T15:15:52.990Z", 
+            "text": "Vote for white tiger!\ufeff", 
+            "author": "Kawosky"
+        }, 
+        {
+            "date": "2015-05-02T15:10:36.547Z", 
+            "text": "I understand the concept; but who's vote is transferred once a candidate \nhas more than he need?\nIt's easy if you think about 2 parties, but if there are multiple of them, \nchances are the 2nd choice is not always the same despite the 1st is.\nIt hardly seems \"fair\" that once the threshold is reached, the others gets \nmore representation than those used to make the candidate reach 33%.\nProbably the only point I don't get.\ufeff", 
+            "author": "Jonathan Cloutier"
+        }, 
+        {
+            "date": "2015-05-07T15:06:06.794Z", 
+            "text": "+Jonathan Cloutier The \"spare\" votes are distributed proportionally \naccording to 2nd choices.\n\n\nSo if A has 10 spare, look at the 2nd choices for everyone who voted A as \nfirst choice. If these are 20% B, 30% C and 50% D then:\n- B gets 20% of the spare = 2 extra\n- C gets 30% of the spare = 3 extra\n- D gets 50% of the spare = 5 extra", 
+            "author": "David O'Sullivan"
+        }, 
+        {
+            "date": "2015-05-02T09:24:28.555Z", 
+            "text": "This kingdom is not wholly democratic as the monarch has too much power. \nFurther, it is viciously divided along ethnic lines and segregated.\ufeff", 
+            "author": "Noise to the Cacophony!"
+        }, 
+        {
+            "date": "2015-05-02T07:02:34.408Z", 
+            "text": "What if in my country parties are donated from the state budget, I mean, \nthese which already are in the parliament and govern?  And these parties \nare post-communistic parties who fuck up our country, control media so they \ncan brainwash the society so as to vote on them, and furthermore have an \narmy of officials which will always give them about 4 milions votes to keep \nthem on the throne? Then none of the electoral laws will succeed beacuse \nsmaller parties don't have a power to break through the society and let \nthem even now that \"Hey, we are there we want to repair our country!\". What \nis more, even with the elecotral law you have shown us it won't work \nbecause cardinal parties will just buy the elections and that's all. If you \ndon't delegalize parties or at least dotations to them, you will not be \nable to create any good way of voting.\ufeff", 
+            "author": "Son Goku"
+        }, 
+        {
+            "date": "2015-05-01T21:04:49.024Z", 
+            "text": "The current voting system in the US really sucks for third party voters. \nEven if I want to vote for a Libertarian candidate, I know he's never going \nto win the majority of the votes, so I need to vote for the lesser of the \ntwo evils between the Republican and Democratic candidates.\n\nAlso, the spoiler effect makes voting for third parties actually hurt your \nown interests. Example would be the 2000 election among conservative \nRepublican Bush, liberal Democrat Gore, and liberal Green Party Nader. The \nliberal voters were split up between Gore and Nader, and even though they \nwere the majority, Bush won the popular vote since he didn't have \ncompetition among conservative voters.\ufeff", 
+            "author": "Zack Z"
+        }, 
+        {
+            "date": "2015-05-01T20:06:06.150Z", 
+            "text": "I love this.\nThanks for making it.\nSTV is just common sense, isn't it?\nAm posting it straight on to my Facebook and twitter pages.\ufeff", 
+            "author": "SirTifficat"
+        }, 
+        {
+            "date": "2015-05-01T02:10:24.000Z", 
+            "text": "I vote for Demon Rabitt Party. Pathetic hu-mans.... *WE WILL CONSUME YOU!!!*\n\ufeff", 
+            "author": "Peter Rabitt"
+        }, 
+        {
+            "date": "2015-04-30T22:44:25.431Z", 
+            "text": "I don't get the \"Unused votes go to their next choice\". Not the principle, \nof course, but how do you decide which of the votes are to be attributed to \nthe next vote ? I mean, here's an example : There is 1 vote in excess, but \nof those who have voted for this winning candidate, some have Candidate A \nas second choice and some have Candidate B ; Which gets the excess vote ?\nDoes it go like \"X% of the people who voted for the winning candidate put \nCandidate Y as second choice, so X% of the excess votes go to Candidate Y\" \n?\ufeff", 
+            "author": "Yukie Gueroult"
+        }, 
+        {
+            "date": "2015-05-07T15:07:06.278Z", 
+            "text": "+Yukie Gueroult Yes: The \"spare\" votes are distributed proportionally \naccording to 2nd choices.\n\n\nSo if A has 10 spare, look at the 2nd choices for everyone who voted A as \nfirst choice. If these are 20% B, 30% C and 50% D then:\n- B gets 20% of the spare = 2 extra\n- C gets 30% of the spare = 3 extra\n- D gets 50% of the spare = 5 extra", 
+            "author": "David O'Sullivan"
+        }, 
+        {
+            "date": "2015-04-30T12:55:25.605Z", 
+            "text": "", 
+            "author": "Dennis Shows"
+        }, 
+        {
+            "date": "2015-04-30T06:16:06.000Z", 
+            "text": "@1:43 How do we know that the bigger range needs to send 3? :/ I'm unsure \nof how determining that number works\ufeff", 
+            "author": "violinwesley"
+        }, 
+        {
+            "date": "2015-04-30T02:14:30.664Z", 
+            "text": "Please let the U.S. government know about this system. It's got my vote. ;)\ufeff", 
+            "author": "primaltare"
+        }, 
+        {
+            "date": "2015-04-29T00:54:31.319Z", 
+            "text": "But what if the candidate the votes transfer to already won?\ufeff", 
+            "author": "iThyCool"
+        }, 
+        {
+            "date": "2015-05-06T21:31:37.336Z", 
+            "text": "+iThyCool Then you would look at the 3rd choices, and keep going until all \nthe votes have been distributed.", 
+            "author": "teehee1604"
+        }, 
+        {
+            "date": "2015-04-27T05:27:45.575Z", 
+            "text": "A even better system would be to allow the Negative Vote.  Each voter has a \nchoice to vote for a candidate or against a candidate.  Winner is the \nperson with the highest net positive votes.  Right to say \"No\" should be a \nbasic right.  Voter participation will increase.  Extremists will not win. \n For a full discussion, please see this link below. \nhttps://www.facebook.com/groups/NegativeVote/\ufeff", 
+            "author": "\u8521\u555f\u8056"
+        }, 
+        {
+            "date": "2015-04-25T12:56:30.367Z", 
+            "text": "I know why the white tiger won 65%\nBECAUSE THEY ONLY LIVE NOW ON PROTECTED RESERVATIONS\nTHANKS WE!!\ufeff", 
+            "author": "Lucas Augusto Lucas"
+        }, 
+        {
+            "date": "2015-04-24T19:55:47.697Z", 
+            "text": "Decisions should not be arrived at by simply popular vote and rather \nscientific determinations to some degree.  Electing people to make choices \nabout subjects they know nothing about doesn't help anyone.  Delegating out \nwork to companies that do know what choices should be made isn't \nnecessarily bad but unless the end product is Open Source and available to \nthe collective who paid for its use freely, we end up with systems like \nHealth Care is in the US.\ufeff", 
+            "author": "zezba9000"
+        }, 
+        {
+            "date": "2015-04-24T08:03:39.917Z", 
+            "text": "Who are you?  Why are you not doing something besides making youtube \nvideos?\ufeff", 
+            "author": "timzxc08"
+        }, 
+        {
+            "date": "2015-04-22T20:38:25.261Z", 
+            "text": "queen lion is an interspecies slut\ufeff", 
+            "author": "Stephen K"
+        }, 
+        {
+            "date": "2015-04-22T04:58:51.047Z", 
+            "text": "What did i just watch?\ufeff", 
+            "author": "JeffersonMapping 1776 (Frank&Thomas)"
+        }, 
+        {
+            "date": "2015-04-19T23:25:32.527Z", 
+            "text": "This is an outstanding video! In the USA, Ralph Nader and the Green Party \nhave called this implementation \"IRV\" or \"Instant Runoff Voting\" instead of \n\"STV\" \"Single Transferable Vote.\"\ufeff", 
+            "author": "Grandfather_Din_Racket"
+        }, 
+        {
+            "date": "2015-05-07T15:08:59.130Z", 
+            "text": "+Grandfather_Din_Racket IRV can sometimes be used to mean \"Alternative \nVote\" or AV, a kind of cross between FPTP (winner takes all) and STV. Don't \nknow enough about US politics to known which they mean.", 
+            "author": "David O'Sullivan"
+        }, 
+        {
+            "date": "2015-04-15T22:32:51.111Z", 
+            "text": "Sucks to be a buffalo - never represented :(\ufeff", 
+            "author": "SmartStr33t"
+        }, 
+        {
+            "date": "2015-04-13T15:05:36.784Z", 
+            "text": "If only the world were as simple as your example it would work perfectly. \nIt isn't though\ufeff", 
+            "author": "Civilis1980"
+        }, 
+        {
+            "date": "2015-04-12T03:37:58.002Z", 
+            "text": "Spanish please..! :c\ufeff", 
+            "author": "Felipe Sandoval"
+        }, 
+        {
+            "date": "2015-04-11T13:25:39.479Z", 
+            "text": "ha.   voting is rigged anyways so in theory it would work.  but in \nreality........\ufeff", 
+            "author": "ants stna"
+        }, 
+        {
+            "date": "2015-04-09T23:09:40.493Z", 
+            "text": "Isn't this Optional Preferential Voting with the top three instead of the \ntop one winner?  Its basically how our Senate votes happen in Australian \npolitics.  \ufeff", 
+            "author": "Brent Hollett (Perringaiden)"
+        }, 
+        {
+            "date": "2015-04-07T23:35:15.251Z", 
+            "text": "Of course America can't do this. \"It's against the constitution\" they say. \nWe laugh. \"Hahaha, you're afraid to change something that is hundreds of \nyears old\" we say.\ufeff", 
+            "author": "Vewser"
+        }, 
+        {
+            "date": "2015-05-10T07:15:07.000Z", 
+            "text": "+Marc\u00edlio Mosco\nThe bald eagle is a symbol of American liberty, exceptionalism, patriotism, \nand pride. Which should not be but often deliberately and maliciously is \nconfused with nationalism. It represents not the interests of the parties, \nbut the interests of America. Of AmericANs. Where power flows from the \npeople to the government by their consent, as intended, and not where it is \nstolen at the hands of militarized police and corporate campaign \ncontributions.\nBut too many make a mockery of the eagle, and now it's used sarcastically, \nbecause that's how far we've fallen.\nAMERICA, FUCK YEAH! BALD EAGLE DRINKING BEER HOLDING A SHOTGUN! LET'S GO TO \nWAR BECAUSE THE PRESIDENT'S IMAGINARY FRIEND SAID KILL MORE BROWN PEOPLE!", 
+            "author": "William Barnes"
+        }, 
+        {
+            "date": "2015-05-10T06:40:52.658Z", 
+            "text": "There's a reason the constitution is hard to amend", 
+            "author": "Rylan Edlin"
+        }, 
+        {
+            "date": "2015-05-10T05:18:27.120Z", 
+            "text": "+Vewser The only way this is \"against\" The Constitution is people's \nmysterious reluctance to amend it. It's not a static system and wasn't \nmeant to be.", 
+            "author": "strangersound"
+        }, 
+        {
+            "date": "2015-04-27T02:55:55.445Z", 
+            "text": "+CommieCowboy Thanks for the info :)", 
+            "author": "Marc\u00edlio Mosco"
+        }, 
+        {
+            "date": "2015-04-27T02:42:45.499Z", 
+            "text": "+Marc\u00edlio Mosco I'm fairly certain it's just an example. The eagles is the \nmost iconic of American animals. \n\nIf Mr. Barnes seemed very conservative, I would guess the far-right \nConstitution Party, but he seems to be squarely on the left.", 
+            "author": "CommieCowboy"
+        }, 
+        {
+            "date": "2015-04-26T23:18:19.764Z", 
+            "text": "+William Barnes or plutocracy", 
+            "author": "Marc\u00edlio Mosco"
+        }, 
+        {
+            "date": "2015-04-26T23:17:46.438Z", 
+            "text": "+William Barnes Sorry for my lack of knowledge on american politics, but \nwho are the eagles?", 
+            "author": "Marc\u00edlio Mosco"
+        }, 
+        {
+            "date": "2015-04-26T05:12:11.046Z", 
+            "text": "+CommieCowboy\nI agree. America should be classified as a corporate oligarchy.", 
+            "author": "William Barnes"
+        }, 
+        {
+            "date": "2015-04-26T02:57:20.690Z", 
+            "text": "+William Barnes A country with your ballot access laws is not worthy of \nbeing called Democratic. Very easy to make the ballot in Canada. Only good \nthing about our electoral system.", 
+            "author": "CommieCowboy"
+        }, 
+        {
+            "date": "2015-04-24T02:42:32.000Z", 
+            "text": "+Vewser\nIt's not that we're afraid of change. It's that Donkey and Elephant agree \nthat Eagle shouldn't be allowed to run. If a third party was introduced, \nthen the system would again start to trend towards a two party system, \nexcept this time it might be one of them eliminated by the spoiler effect. \nThey'd also have to start actually representing their constituents to keep \nthe votes, which is contrary to their own goal of lining their own pockets \nand pushing their own agenda. And since they're the ones who decide if the \nconstitution changes... they say no to Eagles, and yes to keeping their own \nseat.", 
+            "author": "William Barnes"
+        }, 
+        {
+            "date": "2015-04-03T04:49:54.564Z", 
+            "text": "Grey should like.. Write a book about how to best run your government.\n\nYou know, just in case the apocalypse comes and we all forget or otherwise \nthe vast wealth awesome political knowledge that we learned in these \namazing videos.\ufeff", 
+            "author": "Seth Mitchell"
+        }, 
+        {
+            "date": "2015-04-01T12:55:52.034Z", 
+            "text": "I don't get it. How do you know that ALL the tarsier voters would have \nvoted for the gorilla as their second choice? What if, say, a third chose \ngorilla, a third chose the lynx and a third chose the tiger as their second \nchoice?\ufeff", 
+            "author": "Lewie Campbell"
+        }, 
+        {
+            "date": "2015-03-31T19:13:46.023Z", 
+            "text": "I wish we had this in the United States.  Honestly I think this country \nwould be far, far different today than it is if we had a system like this.\ufeff", 
+            "author": "Paradoxical Gaymers"
+        }, 
+        {
+            "date": "2015-03-27T20:12:03.046Z", 
+            "text": "I watched the videos, and to be honest, it sounds great but would NEVER \nwork in the US at a national level.  Not because of the system, the system \nis great.  But the people.  The good ol' AMURICA, beer-can-holding, don't \ntread on me population.  They will be so confused, and will be convinced \nthis is a commie plot to take over America.  And yet they wonder why they \ndon't like the current system.\ufeff", 
+            "author": "James Allen"
+        }, 
+        {
+            "date": "2015-03-26T18:32:08.019Z", 
+            "text": "This would rock the US house and senate. LET'S DO IT!!! Dumbicrats and \nRepublitards need to go away.\ufeff", 
+            "author": "Brian Shaw"
+        }, 
+        {
+            "date": "2015-03-26T10:41:27.239Z", 
+            "text": "The candidate with the biggest pile of money wins. If the extra votes are \ntransfered, the biggest pile of money can buy more than one elected rep. \nHandy if you happen to control the money, not so good if your just an \naverage joe sick of the monkeys.\ufeff", 
+            "author": "Chris K"
+        }, 
+        {
+            "date": "2015-03-23T22:40:12.341Z", 
+            "text": "Is there any country who does this?\ufeff", 
+            "author": "John"
+        }, 
+        {
+            "date": "2015-05-09T22:17:38.233Z", 
+            "text": "+Sexy Socialist Oh right. Do you have a source? If so, could you should \nupdate the Wikipedia article?\n\nhttps://en.wikipedia.org/wiki/Scottish_local_elections,_2012", 
+            "author": "Jamie Twells"
+        }, 
+        {
+            "date": "2015-05-09T18:25:58.591Z", 
+            "text": "+Jamie Twells No, we use MMP (it's explained in another video in this \nseries)", 
+            "author": "Sexy Socialist"
+        }, 
+        {
+            "date": "2015-05-09T18:22:03.870Z", 
+            "text": "+Lucien Hughes Actually Scottish local elections use it I think.", 
+            "author": "Jamie Twells"
+        }, 
+        {
+            "date": "2015-05-09T02:17:51.246Z", 
+            "text": "Yeah, my country uses this system (Ireland) :)", 
+            "author": "Conor Kinsella (SilentEire)"
+        }, 
+        {
+            "date": "2015-05-08T21:44:06.430Z", 
+            "text": "+TacoHD It's not used anywhere in the UK. We use a first past the post \nsystem.", 
+            "author": "Lucien Hughes"
+        }, 
+        {
+            "date": "2015-04-28T19:32:08.962Z", 
+            "text": "+CommieCowboy Mighty morphin' power rangers? No, sir. We do not.", 
+            "author": "Eoes Reaper"
+        }, 
+        {
+            "date": "2015-04-26T02:55:52.490Z", 
+            "text": "+Eoes Reaper You guys have open-list MMPR, right?", 
+            "author": "CommieCowboy"
+        }, 
+        {
+            "date": "2015-04-25T16:52:40.000Z", 
+            "text": "+John My state in Australia does. ^_^ (Atleast I think it does? We do put \nnumbers in)", 
+            "author": "Matthew Meinema"
+        }, 
+        {
+            "date": "2015-04-16T11:56:37.137Z", 
+            "text": "+John Norway ranks candidates, but only within political parties, so I \nguess it's a nope for us.", 
+            "author": "Eoes Reaper"
+        }, 
+        {
+            "date": "2015-04-10T20:09:17.460Z", 
+            "text": "+John Fifa", 
+            "author": "Bobby J"
+        }, 
+        {
+            "date": "2015-04-09T12:57:35.948Z", 
+            "text": "+TacoHD New Zealand uses MMP not SVT. MMP falls down because 3rd place \nbecomes 'king maker' however people prefer it because it's less complicated \nthan SVT and plainly superior to FPP.", 
+            "author": "dj eponymous"
+        }, 
+        {
+            "date": "2015-04-10T21:56:08.000Z", 
+            "text": "+Pargat Singh India uses FPTP...That's why you have a parliament full of \nethnic, sectarian, and regional parties that have a hard time building a \nnational base of support. To be fair, I am irreligious, very left-wing, and \nam biased towards using quality of life and human develop metrics as a \nbasis for evaluating political communities. With respect to Indian \npolitics, this pulls me towards communism and Periyarism and makes me very \nhostile to the Hindutva movement and the far-right.", 
+            "author": "CommieCowboy"
+        }, 
+        {
+            "date": "2015-04-09T04:09:38.054Z", 
+            "text": "+TacoHD MA does not use STV for state elections.", 
+            "author": "CommieCowboy"
+        }, 
+        {
+            "date": "2015-04-03T18:44:29.602Z", 
+            "text": "+TacoHD I dont think india uses STV. While voting we r not asked to rank \nthe candidates..", 
+            "author": "Pargat Singh"
+        }, 
+        {
+            "date": "2015-04-03T14:57:26.968Z", 
+            "text": "+TacoHD Would be great if England did. We suck. -.-", 
+            "author": "Cheischia"
+        }, 
+        {
+            "date": "2015-04-01T01:07:31.267Z", 
+            "text": "Yes my home town in fact does this to elect the local city council in \nCambridge MA ", 
+            "author": "samfoille"
+        }, 
+        {
+            "date": "2015-03-27T01:02:12.692Z", 
+            "text": "Yes! Republic of Ireland, Malta, The United Kingdom (excluding England & \nWales), India, Pakistan, Provenances within Australia, New Zealand, The \nstate of Massachusetts (Within the United States, but not the U.S. itself), \nand Iceland. Glad if i could help :) ", 
+            "author": "TacoHD"
+        }, 
+        {
+            "date": "2015-03-23T15:28:39.329Z", 
+            "text": "I would vote for dopefish. His policies are very interesting.\ufeff", 
+            "author": "Theo Hamilton (linky00)"
+        }, 
+        {
+            "date": "2015-03-22T18:53:01.629Z", 
+            "text": "", 
+            "author": "Dani'el van den Berg"
+        }, 
+        {
+            "date": "2015-03-21T04:52:19.226Z", 
+            "text": "3:58 Bottom left corner shows a pie chart with the percentage equaling 99%\ufeff", 
+            "author": "MrBunnystein"
+        }, 
+        {
+            "date": "2015-03-28T16:37:20.438Z", 
+            "text": "+MrBunnystein No, a pie chart doesn't have to equal 100%, if the individual \npercentages are rounded.", 
+            "author": "fdagpigj E"
+        }, 
+        {
+            "date": "2015-03-25T02:24:49.148Z", 
+            "text": "+Thomas Fort A pie chart always equals into 100%. This pie chart had 99%. I \ntried to say that", 
+            "author": "MrBunnystein"
+        }, 
+        {
+            "date": "2015-03-23T01:19:46.000Z", 
+            "text": "+MrBunnystein Because it's technically 33.3333-\u221e % and that's (technically) \n100% ", 
+            "author": "Thomas Fort"
+        }, 
+        {
+            "date": "2015-03-21T00:23:59.422Z", 
+            "text": "Lol Purple Tigers...\ufeff", 
+            "author": "Yodrizzle Mashizzle"
+        }, 
+        {
+            "date": "2015-03-20T13:53:28.398Z", 
+            "text": "To bad Democrats and republicans will stop this from happening since It \nwill take away power from them and give it to third parties, and they \ncurrently run the government and how the elections work.\ufeff", 
+            "author": "oquinn6"
+        }, 
+        {
+            "date": "2015-03-19T23:45:05.823Z", 
+            "text": "You're assuming people actually vote for candidates. They don't. They vote \nagainst candidates. They willingly vote for a party they don't like because \nthey believe it will hinder a party they like even less.\ufeff", 
+            "author": "soylentgreenb"
+        }, 
+        {
+            "date": "2015-03-18T21:31:17.620Z", 
+            "text": "How does this differ from the Hare-Clarke system? \ufeff", 
+            "author": "John Forster"
+        }, 
+        {
+            "date": "2015-03-18T17:33:51.440Z", 
+            "text": "Lions don't live in jungles, unless this is India (kind of). Is it?\ufeff", 
+            "author": "TheDoomAmbassador"
+        }, 
+        {
+            "date": "2015-03-17T09:14:17.049Z", 
+            "text": "Policentric law is the answer to everything. Everyone is represented.\ufeff", 
+            "author": "Chris Montana"
+        }, 
+        {
+            "date": "2015-03-16T22:40:49.262Z", 
+            "text": "that monkey doesn't care about me :(\ufeff", 
+            "author": "GraphiteProjekt"
+        }, 
+        {
+            "date": "2015-03-16T21:04:42.524Z", 
+            "text": "These videos are great. But I think you should make a video where you \ncompare all the alternatives to First Past the Post Voting to explain the \ndifferences. To me, they are all different, but I can't quite figure out \nwhy, and they all look equally fair. If it got explained, I think my \nconfusion would be replaced by enlightenment. Thanks again for the videos. \nI've liked them all and subscribed because of them :)\ufeff", 
+            "author": "Dirty Poul"
+        }, 
+        {
+            "date": "2015-03-16T20:27:06.841Z", 
+            "text": "Solution, exterminate the lesser race that is the monkeys\ufeff", 
+            "author": "oshowattthesniper"
+        }, 
+        {
+            "date": "2015-03-16T14:20:35.560Z", 
+            "text": "Want to know more about politics? Watch it here -\ufeff", 
+            "author": "411 STUDIO"
+        }, 
+        {
+            "date": "2015-03-15T21:59:21.097Z", 
+            "text": "BANANAS!\ufeff", 
+            "author": "spanishgame"
+        }, 
+        {
+            "date": "2015-03-15T04:41:20.316Z", 
+            "text": "It would also help if the voting population were aware and informed about \nall potential candidates  :/\ufeff", 
+            "author": "Ziltoid TheOmniscient"
+        }, 
+        {
+            "date": "2015-03-15T00:20:29.774Z", 
+            "text": "What if half of white tiger's backers put the silver back as their next \nfavorite, or one third, or two thirds. How would they decide who gets the \nremainder, or even who is the remainder. I'm asking who decides who white \ntiger's extra votes are for. Because someone could just put regular tiger's \nvotes in white tiger's guaranteed vote. I can't really describe what I'm \nasking but if you know the answer please tell me.\ufeff", 
+            "author": "alexander belcher"
+        }, 
+        {
+            "date": "2015-03-14T07:08:34.060Z", 
+            "text": "Hmm, monarchy seems like a great idea at this point.\ufeff", 
+            "author": "Feynstein100"
+        }, 
+        {
+            "date": "2015-03-14T00:37:35.242Z", 
+            "text": "What if the voters of say, white tiger in the last scenario, are split on \nthe second candidate. What if half of them voted for Lynx as their second \nchoice, a quater voted for Lepord, and a quarter voted for cougar? Who is \nto decide which part of those candidates votes get a \"second life\" and vote \nfor someone else, and which just have to stay with the tiger. Doesn't seem \nfair to me.\ufeff", 
+            "author": "TheAv66"
+        }, 
+        {
+            "date": "2015-03-16T19:08:42.929Z", 
+            "text": "You take the number of surplus votes and distributed them according to the \nproportion of second votes cast by the whole group that put white tiger as \n#1.  If there are 30 extra votes, then Lynx gets 15, Leopard gets 7.5, and \nCougar gets 7.5.  You might think \"but how do you round out the decimals?!\" \nand the reality is you don't have to.  Once the votes are counted, they're \njust numbers.  ", 
+            "author": "michaeldunnjr"
+        }, 
+        {
+            "date": "2015-03-13T17:57:18.858Z", 
+            "text": "It's easy to be 'against' something. What are you for?\nI'm for Election Reform.\n\n1. Donations to politicians become illegal. Instead all politicians draw \nfrom a central fund. That central fund is paid for by taxes. The trade off \nto paying a bit more is that our politicians are no longer in the pockets \nof the wealthy.\n\n2. We change to a Single Transferable Vote system. We rank our votes for \ncandidates, 1st, 2nd, 3rd and so on. If our 1st ranked vote doesn't win \nthen maybe our 2nd or 3rd choice will. This means that if two members of \nthe same party run against each other, then they won't accidentally push \nthe party out and let the other party win. This also allows us to create a \nset of representatives that more accurately represent the will of the \npeople.\n\nIn these 2 simple changes we can push out the 1% and take back democracy \nwhere we are all equal and do away with a democracy based upon whoever has \nthe most money.\ufeff", 
+            "author": "Charles Tallant"
+        }, 
+        {
+            "date": "2015-03-12T20:32:23.589Z", 
+            "text": "2:39\nToo slow turtle, nobody wants to vote for you\ufeff", 
+            "author": "Zachariah Othman"
+        }, 
+        {
+            "date": "2015-03-12T01:21:32.518Z", 
+            "text": "Called Proportional Representation here in Australia.\ufeff", 
+            "author": "Bernd Wechner"
+        }, 
+        {
+            "date": "2015-05-07T11:24:47.000Z", 
+            "text": "+Bernd Wechner What you're talking about is textbook STV then rather than \nPR. If you call it PR in Australia, then that's incorrect. ", 
+            "author": "teehee1604"
+        }, 
+        {
+            "date": "2015-05-07T01:59:29.385Z", 
+            "text": "+teehee1604 You've misunderstood PR. The way we implement it in Australia \nanyhow is that yes, electorates are larger, with 5 or 6 reps voted into \nparliament by each electorate. You still get local representation, but yes \nyou trade off a little localness in favour of other demographic \nrepresentation. In fact an overfixation on localness just produced \ngerrymandering.\n\nhttps://www.pinterest.com/pin/371617406728771166/", 
+            "author": "Bernd Wechner"
+        }, 
+        {
+            "date": "2015-05-06T21:34:41.347Z", 
+            "text": "+Bernd Wechner PR is slightly different in that you don't have local \nrepresentation. You've effectively got the whole country acting as a single \nlarge constituency", 
+            "author": "teehee1604"
+        }, 
+        {
+            "date": "2015-03-11T11:46:42.479Z", 
+            "text": "This is assuming the monkeys don't sneak in some laws right before the \nelection to make it inordinately hard for the tapirs or gorillas to vote\ufeff", 
+            "author": "shaness112233"
+        }, 
+        {
+            "date": "2015-03-11T06:31:16.182Z", 
+            "text": "I swear I saw this analogy somewhere in another YouTube video. CGP gray did \nreally well to condense the content. The video I watched had 3 separate 10 \nminute videos.\ufeff", 
+            "author": "XxDemonicGamer"
+        }, 
+        {
+            "date": "2015-04-27T04:39:47.000Z", 
+            "text": "+XxDemonicGamer Electoral reform is straightforward in most situations. \nLike anything having to do with rule-making though, it's dealing with the \nedge cases that often over-complicates matters. My friend and I play our \nown variation of a popular dice game, and even for something so simple we \nwould have hour-long debates over various minutiae of the rules caused by \nrare edge cases.", 
+            "author": "CommieCowboy"
+        }, 
+        {
+            "date": "2015-03-11T05:15:50.500Z", 
+            "text": "Politics in the Animal Kingdom: Single Transferable Vote: \nhttp://youtu.be/l8XOZJkozfI\ufeff", 
+            "author": "Joshua Petree"
+        }, 
+        {
+            "date": "2015-03-10T18:35:28.431Z", 
+            "text": "Question regarding the White Tiger overwhelming win example. How is it \ndecided which votes for the winning candidate are \"extra\" or unused and \nthus transferred? In the animal kingdom, we assume that all big cats have \nneeds and want representation that are similar, but in real life, the \nvalues and most pressing issues of two people even in a similar demographic \ncan be very different. It seems that results could change or be manipulated \ndepending on the system used to determine which votes are cemented to their \nfirst choice and which ones get to move on to second to sway the rest of \nthe election.\ufeff", 
+            "author": "SerpentStare"
+        }, 
+        {
+            "date": "2015-03-10T18:43:46.093Z", 
+            "text": "Ah, excuse me, of course that question was already answered. Either use \nthem all, but apply them as fractions (which sounds eminently fair to me), \nor randomly draw ballots to be reassessed, which has the flaw of randomness \nbeing manipulable, or even coming out accidentally biased in rare cases.", 
+            "author": "SerpentStare"
+        }, 
+        {
+            "date": "2015-03-10T17:21:42.471Z", 
+            "text": "Then the monkeys rebel and kill Queen Lion and setup their own \nDictatorship.  It's human nature *xylophone*\ufeff", 
+            "author": "Zorn27"
+        }, 
+        {
+            "date": "2015-03-06T03:52:05.139Z", 
+            "text": "America needs to adopt this.\ufeff", 
+            "author": "Andy Wilderness"
+        }, 
+        {
+            "date": "2015-03-06T01:09:20.926Z", 
+            "text": "You said \"Voters want local representatives\" -- Do they? How would you \nknow, since all voting systems force voters to have local representatives? \nThe idea of dividing voters geographically and forcing them to have a local \nrepresentative, is an anachronism. If a voters wants a local \nrepresentative, he should vote for a candidate that is local, but if he \nprefers to be represent by, say, someone he actually agrees with on some \nimportant issues and not on where his home is, then he should be able to \nvoter for any candidate. Remove the anachronism of geographic segregation \nof voters and you fix a lot of problems with voting systems. It makes STV \nbetter (and even first-pass-the-post if you are electing a US president).\ufeff", 
+            "author": "postorm"
+        }, 
+        {
+            "date": "2015-03-05T20:02:19.046Z", 
+            "text": "what do you want local freeloaders for if you could have them all be \nconcentrated in the monke... I mean parliament..\ufeff", 
+            "author": "Weisswurstesser"
+        }, 
+        {
+            "date": "2015-03-04T02:39:27.553Z", 
+            "text": "", 
+            "author": "richard melcher"
+        }, 
+        {
+            "date": "2015-03-03T20:44:32.047Z", 
+            "text": "This sounds like a really great system. How do we make this happen in the \nUS?\ufeff", 
+            "author": "Dan Jones"
+        }, 
+        {
+            "date": "2015-03-03T17:23:13.599Z", 
+            "text": "Altro che Italiucum e Porcellum...\ufeff", 
+            "author": "Barrank Obama"
+        }, 
+        {
+            "date": "2015-03-01T22:34:43.480Z", 
+            "text": "So this is my second time watching and I have a question, perhaps asked in \nthe 3.6k comments already here:\n\nDoesn't this mean representatives MAY NOT be local? Like, if you're in a \ncongressional district, it's only so large. But tripling that \"range\" means \none could be represented from much further away? I guess some districts are \nhuge now, but I'm just curious how that would change local representation. \nWhat if, say, representatives end up all being from just one of the former \nranges?\ufeff", 
+            "author": "Amish Trivedi"
+        }, 
+        {
+            "date": "2015-02-28T11:39:55.271Z", 
+            "text": "I guess you could say the turtles were too SLOW HAHAHAHHA\ufeff", 
+            "author": "steevanator otto"
+        }, 
+        {
+            "date": "2015-02-28T03:33:55.022Z", 
+            "text": "Another problem is how does the electoral committee or whatever pick which \nvoter ballot to \"roll over\". If me and my friend picked the same guy but \ndifferent second choice, whose vote would roll over if our guy gets 33%?\ufeff", 
+            "author": "Chris Kelleher"
+        }, 
+        {
+            "date": "2015-02-26T02:27:39.736Z", 
+            "text": "wait im so confused is this real or... is it another \"Animal Farm\" \nscenario \ufeff", 
+            "author": "Makenna Percy (ESTPercy)"
+        }, 
+        {
+            "date": "2015-02-25T02:42:09.866Z", 
+            "text": "Wait, okay, so...\n\nwhen you're talking about giving representation to the second, less popular \ntiger, you take the second preference of those who backed the big tiger \ncandidate. But, how do you know which of white tiger's 65% voters to take? \nYou took the ones that pushed him from 33% to 65% but couldn't you also \ntake the ones between 17% and 50%? They could have had a different 2nd \nchoice.\n\nHelp appreciated :)\ufeff", 
+            "author": "Conjecture"
+        }, 
+        {
+            "date": "2015-05-09T17:23:57.000Z", 
+            "text": "+James huber Then you weren't paying attention.\n\nIn the example ALL voters that said they wanted White tiger first also \nwanted Purple tiger second, therefore all the spare votes from white are \ntransferred to the purple.\n\nAny voters that had wanted White Tiger first and Silver Gorilla Second \nwould have their votes sent to Silver Gorilla instead.", 
+            "author": "Klint Izwudd"
+        }, 
+        {
+            "date": "2015-03-25T20:15:13.405Z", 
+            "text": "+Conjecture It sounded like white tiger decided who got his extra votes", 
+            "author": "James huber"
+        }, 
+        {
+            "date": "2015-03-13T14:28:52.868Z", 
+            "text": "This seemed pretty obvious ... ?", 
+            "author": "Lodewijk Bloemzaad"
+        }, 
+        {
+            "date": "2015-03-10T04:22:19.811Z", 
+            "text": "+Scott J. Fox In your 3rd stanza, if you will, I think that 30% is meant to \nbe 20%, no?", 
+            "author": "Chris A"
+        }, 
+        {
+            "date": "2015-03-01T01:20:55.103Z", 
+            "text": "+Scott J. Fox Makes perfect sense. Thanks for explaining that.", 
+            "author": "SergeofBIBEK"
+        }, 
+        {
+            "date": "2015-02-28T22:08:19.076Z", 
+            "text": "That does make a lot of sense! So basically, everyone is polled, not just \nthose who push the candidate over the limit. Thanks!", 
+            "author": "Conjecture"
+        }, 
+        {
+            "date": "2015-02-28T20:23:03.000Z", 
+            "text": "Okay, I hope I'm explaining this correctly:\nbasically, they don't move actual physical extra votes, but they 'move' \nvirtual votes of the average second choices for the entire party. (more) \u2193\n\u2193 \nLet's say 100 people voted for white tiger, 80 voted for purple tiger as \nsecond choice & 20 for gorilla as second choice. To make the numbers easy.\n\nYou only need 70 votes to win, so there's 30 votes left over. What you do \nis you take the average of the entire white-tiger voters second choices, \nmeaning 80% of white tiger voter's second choice was purple tiger & 30% of \nwhite tiger voter's second choice was gorilla.\n\nWith 30 votes left over, you take 80% of those 30 votes (24) & give them to \npurple tiger. Then you take 20% of those 30 votes (6) & give them to \ngorilla.\n*_*\n\nso essentially, You are giving virtual 'average' votes to the second \nchoices, not actually giving the physical votes of specific people to \ndifferent second choice candidates. Does that make sense?", 
+            "author": "Scott J. Fox (es)"
+        }, 
+        {
+            "date": "2015-02-28T08:50:02.988Z", 
+            "text": "Very good question!!! I want to know the answer as well!\n\nAll of my guesses or ideas seem flawed so far. I can't think of a good \nanswer here.", 
+            "author": "SergeofBIBEK"
+        }, 
+        {
+            "date": "2015-02-24T01:58:53.000Z", 
+            "text": "I have always thought of this system as one of the best \ufeff", 
+            "author": "Ricardo Valero"
+        }
+    ]
+}

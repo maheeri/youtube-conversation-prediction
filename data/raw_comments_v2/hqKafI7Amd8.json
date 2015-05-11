@@ -1,0 +1,2329 @@
+{
+    "publish_date": "2012-08-30T17:14:40.000Z", 
+    "video_length": "PT17M50S", 
+    "captions": [
+        {
+            "text": "So this is a hotel room,\nkind of like the one I&#39;m staying in.", 
+            "dur": "3.726", 
+            "start": "11.861"
+        }, 
+        {
+            "text": "I get board sometimes.", 
+            "dur": "2.144", 
+            "start": "15.587"
+        }, 
+        {
+            "text": "A room like this has not a lot\nto offer for entertainment.", 
+            "dur": "3.427", 
+            "start": "17.731"
+        }, 
+        {
+            "text": "But for a hacker, it gets a little\ninteresting because that television", 
+            "dur": "4.529", 
+            "start": "21.158"
+        }, 
+        {
+            "text": "is not like the television in your home,", 
+            "dur": "2.449", 
+            "start": "25.687"
+        }, 
+        {
+            "text": "it&#39;s a node on a network. Right?", 
+            "dur": "2.922", 
+            "start": "28.136"
+        }, 
+        {
+            "text": "That means I can mess with it.", 
+            "dur": "2.384", 
+            "start": "31.058"
+        }, 
+        {
+            "text": "If I plug a little device\nlike this into my computer,", 
+            "dur": "4.252", 
+            "start": "33.442"
+        }, 
+        {
+            "text": "it&#39;s an infrared transceiver,\nI can send the codes that", 
+            "dur": "2.805", 
+            "start": "37.694"
+        }, 
+        {
+            "text": "the TV remote might send\nand some other codes.", 
+            "dur": "3.025", 
+            "start": "40.499"
+        }, 
+        {
+            "text": "So what?\nWell, I can watch movies for free.", 
+            "dur": "3.604", 
+            "start": "43.524"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.998", 
+            "start": "47.277"
+        }, 
+        {
+            "text": "That doesn&#39;t matter to me so much,\nbut I can play video games too.", 
+            "dur": "4.406", 
+            "start": "49.275"
+        }, 
+        {
+            "text": "Hey, but what&#39;s this?", 
+            "dur": "2.985", 
+            "start": "54.749"
+        }, 
+        {
+            "text": "I can not only do this \nfor my TV in my hotel room,", 
+            "dur": "3.075", 
+            "start": "57.935"
+        }, 
+        {
+            "text": "I can control your TV \nin your hotel room.", 
+            "dur": "2.812", 
+            "start": "61.01"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.184", 
+            "start": "63.822"
+        }, 
+        {
+            "text": "So I can watch you if you&#39;re\nchecking out with one of these,", 
+            "dur": "2.9", 
+            "start": "65.006"
+        }, 
+        {
+            "text": "you know, TV based registration things,", 
+            "dur": "2.986", 
+            "start": "67.906"
+        }, 
+        {
+            "text": "if you&#39;re surfing\nthe web on your hotel TV,", 
+            "dur": "2.62", 
+            "start": "70.892"
+        }, 
+        {
+            "text": "I can watch you do it.", 
+            "dur": "2.712", 
+            "start": "73.512"
+        }, 
+        {
+            "text": "Sometimes it&#39;s interesting stuff.", 
+            "dur": "2.801", 
+            "start": "77.182"
+        }, 
+        {
+            "text": "Funds transfer.", 
+            "dur": "2.391", 
+            "start": "79.983"
+        }, 
+        {
+            "text": "Really big funds transfers.", 
+            "dur": "3.118", 
+            "start": "82.712"
+        }, 
+        {
+            "text": "You never know what people\nmight want to do", 
+            "dur": "2.211", 
+            "start": "85.83"
+        }, 
+        {
+            "text": "while they&#39;re surfing the web\nfrom their hotel room.", 
+            "dur": "3.487", 
+            "start": "88.041"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.741", 
+            "start": "91.892"
+        }, 
+        {
+            "text": "The point is I get to decide\nif you&#39;re watching Disney or porn tonight.", 
+            "dur": "3.249", 
+            "start": "94.633"
+        }, 
+        {
+            "text": "Anybody else staying \nat the Affinia hotel?", 
+            "dur": "2.259", 
+            "start": "97.882"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.473", 
+            "start": "100.141"
+        }, 
+        {
+            "text": "This is a project I worked on\nwhen we were trying to figure out", 
+            "dur": "4.108", 
+            "start": "102.614"
+        }, 
+        {
+            "text": "the security properties of wireless\nnetworks; it&#39;s called the &quot;Hackerbot&quot;.", 
+            "dur": "3.474", 
+            "start": "106.722"
+        }, 
+        {
+            "text": "This is a robot we&#39;ve built that can\ndrive around and find Wi-Fi users,", 
+            "dur": "3.811", 
+            "start": "110.196"
+        }, 
+        {
+            "text": "drive up to them and show them\ntheir passwords on the screen.", 
+            "dur": "3.351", 
+            "start": "114.007"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "3.263", 
+            "start": "117.358"
+        }, 
+        {
+            "text": "We just wanted to build a robot,", 
+            "dur": "1.951", 
+            "start": "120.621"
+        }, 
+        {
+            "text": "but we didn&#39;t know what to make it do, so --", 
+            "dur": "2.571", 
+            "start": "122.572"
+        }, 
+        {
+            "text": "We made the pistol\nversion of the same thing.", 
+            "dur": "2.195", 
+            "start": "125.143"
+        }, 
+        {
+            "text": "This is called the &quot;Sniper Yagi&quot;.", 
+            "dur": "1.793", 
+            "start": "127.338"
+        }, 
+        {
+            "text": "It&#39;s for your long-range\npassword sniffing action,", 
+            "dur": "2.879", 
+            "start": "129.131"
+        }, 
+        {
+            "text": "about a mile away I can watch \nyour wireless network.", 
+            "dur": "2.659", 
+            "start": "132.01"
+        }, 
+        {
+            "text": "This is a project I worked on with\nBen Laurie to show passive surveillance.", 
+            "dur": "3.979", 
+            "start": "134.669"
+        }, 
+        {
+            "text": "So what it is, is a map\nof the conference called", 
+            "dur": "3.523", 
+            "start": "138.648"
+        }, 
+        {
+            "text": "&quot;Computers, Freedom and Privacy&quot;.", 
+            "dur": "1.666", 
+            "start": "142.171"
+        }, 
+        {
+            "text": "And this conference was in a\nhotel, and what we did is we,", 
+            "dur": "4.937", 
+            "start": "143.837"
+        }, 
+        {
+            "text": "you know, put a computer in\neach room of the conference", 
+            "dur": "2.572", 
+            "start": "148.774"
+        }, 
+        {
+            "text": "that logged all the Bluetooth traffic.", 
+            "dur": "1.938", 
+            "start": "151.346"
+        }, 
+        {
+            "text": "So as everybody came and went\nwith their phones and laptops", 
+            "dur": "3.092", 
+            "start": "153.284"
+        }, 
+        {
+            "text": "we were able to just\nlog that, correlate it,", 
+            "dur": "2.291", 
+            "start": "156.376"
+        }, 
+        {
+            "text": "and then I can print out a map like this\nfor everybody at the conference.", 
+            "dur": "3.421", 
+            "start": "158.667"
+        }, 
+        {
+            "text": "This is Kim Cameron, \nthe Chief Privacy Architect at Microsoft.", 
+            "dur": "3.453", 
+            "start": "162.088"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "0.927", 
+            "start": "165.541"
+        }, 
+        {
+            "text": "Unbeknownst to him,", 
+            "dur": "2.671", 
+            "start": "166.468"
+        }, 
+        {
+            "text": "I got to see everywhere he went.", 
+            "dur": "3.741", 
+            "start": "169.139"
+        }, 
+        {
+            "text": "And I can correlate this \nand show who he hangs out with", 
+            "dur": "3.143", 
+            "start": "172.88"
+        }, 
+        {
+            "text": "(phone dialing)\nwhen he got board,", 
+            "dur": "1.984", 
+            "start": "176.023"
+        }, 
+        {
+            "text": "(phone dialing)\nhangs out in the lobby with somebody.", 
+            "dur": "2.514", 
+            "start": "178.007"
+        }, 
+        {
+            "text": "Anybody here use cellphones?", 
+            "dur": "2.443", 
+            "start": "180.521"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.652", 
+            "start": "182.964"
+        }, 
+        {
+            "text": "(Phone ringing)", 
+            "dur": "3.872", 
+            "start": "184.616"
+        }, 
+        {
+            "text": "So my phone is calling--", 
+            "dur": "3.971", 
+            "start": "188.488"
+        }, 
+        {
+            "text": "(Ringing)", 
+            "dur": "3.252", 
+            "start": "192.459"
+        }, 
+        {
+            "text": "calling --", 
+            "dur": "2.169", 
+            "start": "197.26"
+        }, 
+        {
+            "text": "Voice mail: You have 100 messages.", 
+            "dur": "2.176", 
+            "start": "203.593"
+        }, 
+        {
+            "text": "Palbos Holman: Uh oh!", 
+            "dur": "1.817", 
+            "start": "205.769"
+        }, 
+        {
+            "text": "VM: First unheard message --", 
+            "dur": "2.158", 
+            "start": "207.586"
+        }, 
+        {
+            "text": "PH: Where do I press --", 
+            "dur": "1.342", 
+            "start": "209.744"
+        }, 
+        {
+            "text": "VM: Message skipped.\nFirst skipped message.", 
+            "dur": "2.281", 
+            "start": "211.086"
+        }, 
+        {
+            "text": "PH: Uh oh!", 
+            "dur": "1.236", 
+            "start": "213.367"
+        }, 
+        {
+            "text": "VM: Main menu. To listen to your--\nYou have pressed an incorrect key --", 
+            "dur": "3.53", 
+            "start": "214.603"
+        }, 
+        {
+            "text": "You have two skipped messages.\nThree saved messages.", 
+            "dur": "2.8", 
+            "start": "218.133"
+        }, 
+        {
+            "text": "Goodbye.", 
+            "dur": "1.65", 
+            "start": "220.933"
+        }, 
+        {
+            "text": "PH: Uh oh!\nSo we&#39;re in Brad&#39;s voice mail.", 
+            "dur": "3.681", 
+            "start": "222.583"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.451", 
+            "start": "226.543"
+        }, 
+        {
+            "text": "And I was going to record him \na new message,", 
+            "dur": "2.246", 
+            "start": "227.994"
+        }, 
+        {
+            "text": "but I seem to have pressed an invalid key,", 
+            "dur": "2.433", 
+            "start": "230.24"
+        }, 
+        {
+            "text": "so we&#39;re going to move on.", 
+            "dur": "1.65", 
+            "start": "232.673"
+        }, 
+        {
+            "text": "And I&#39;ll explain how that works some\nother day because we&#39;re short on time.", 
+            "dur": "3.64", 
+            "start": "234.323"
+        }, 
+        {
+            "text": "Anybody here used MySpace?", 
+            "dur": "2.151", 
+            "start": "237.963"
+        }, 
+        {
+            "text": "MySpace users? Oh!", 
+            "dur": "1.631", 
+            "start": "240.114"
+        }, 
+        {
+            "text": "Used to be popular.\nIt&#39;s kind of like Facebook.", 
+            "dur": "3.366", 
+            "start": "241.745"
+        }, 
+        {
+            "text": "This guy, a buddy of ours Samy,\nwas trying to meet chicks on MySpace", 
+            "dur": "3.552", 
+            "start": "245.111"
+        }, 
+        {
+            "text": "which I think is what\nit used to be good for.", 
+            "dur": "2.161", 
+            "start": "248.663"
+        }, 
+        {
+            "text": "And what he did is he had\na page on MySpace about him.", 
+            "dur": "4.69", 
+            "start": "250.824"
+        }, 
+        {
+            "text": "It lists all your friends,\nand that&#39;s how you know", 
+            "dur": "2.294", 
+            "start": "256.641"
+        }, 
+        {
+            "text": "somebody&#39;s cool is that they have\na lot of friends on MySpace.", 
+            "dur": "2.836", 
+            "start": "258.935"
+        }, 
+        {
+            "text": "Well, Samy didn&#39;t have any friends.", 
+            "dur": "2.081", 
+            "start": "261.771"
+        }, 
+        {
+            "text": "He wrote a little bit of Javascript code\nthat he put in his page,", 
+            "dur": "3.891", 
+            "start": "263.852"
+        }, 
+        {
+            "text": "so that whenever you look at his page", 
+            "dur": "1.842", 
+            "start": "267.743"
+        }, 
+        {
+            "text": "it would just automagically\nadd you as his friend.", 
+            "dur": "2.443", 
+            "start": "269.585"
+        }, 
+        {
+            "text": "And it would skip the whole\nacknowledgement response protocol", 
+            "dur": "3.341", 
+            "start": "272.028"
+        }, 
+        {
+            "text": "saying &quot;Is Samy really your friend?&quot;", 
+            "dur": "2.334", 
+            "start": "275.369"
+        }, 
+        {
+            "text": "But then it would copy\nthat code onto your page,", 
+            "dur": "3.236", 
+            "start": "277.703"
+        }, 
+        {
+            "text": "so that whenever anybody\nlooked at your page", 
+            "dur": "2.106", 
+            "start": "280.939"
+        }, 
+        {
+            "text": "it would automatically add them\nas Samy&#39;s friend too.", 
+            "dur": "2.811", 
+            "start": "283.045"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.069", 
+            "start": "285.856"
+        }, 
+        {
+            "text": "And it would change your page\nto say that &quot;Samy is your hero.&quot;", 
+            "dur": "3.589", 
+            "start": "286.925"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.509", 
+            "start": "290.514"
+        }, 
+        {
+            "text": "So in under 24 hours, Samy had\nover a million friends on MySpace.", 
+            "dur": "4.419", 
+            "start": "292.023"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.173", 
+            "start": "296.442"
+        }, 
+        {
+            "text": "Hey, he just finished serving\n3-years probation for that.", 
+            "dur": "4.8", 
+            "start": "298.615"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.103", 
+            "start": "303.553"
+        }, 
+        {
+            "text": "Even better, Christopher Abad,\nthis guy, another hacker,", 
+            "dur": "4.163", 
+            "start": "305.656"
+        }, 
+        {
+            "text": "also trying to meet chicks on\nMySpace but having spotty results.", 
+            "dur": "3.673", 
+            "start": "309.819"
+        }, 
+        {
+            "text": "Some of these dates\ndidn&#39;t work out so well,", 
+            "dur": "2.161", 
+            "start": "313.492"
+        }, 
+        {
+            "text": "so what Abad did is\nhe wrote a little bit of code", 
+            "dur": "4.025", 
+            "start": "315.653"
+        }, 
+        {
+            "text": "to connect MySpace to Spam Assassin,\nwhich is an open source spam filter.", 
+            "dur": "5.924", 
+            "start": "319.678"
+        }, 
+        {
+            "text": "It works just like\nthe spam filter in your email.", 
+            "dur": "2.443", 
+            "start": "325.602"
+        }, 
+        {
+            "text": "You train it by giving it some spam", 
+            "dur": "2.235", 
+            "start": "328.045"
+        }, 
+        {
+            "text": "train it by giving it a little\nbit of legitimate email,", 
+            "dur": "2.582", 
+            "start": "330.28"
+        }, 
+        {
+            "text": "and it tries to use\nartificial intelligence", 
+            "dur": "2.007", 
+            "start": "332.862"
+        }, 
+        {
+            "text": "to work out the difference. Right?", 
+            "dur": "2.401", 
+            "start": "334.869"
+        }, 
+        {
+            "text": "Well, he just trained it on profiles\nfrom girls he dated and liked", 
+            "dur": "3.992", 
+            "start": "337.27"
+        }, 
+        {
+            "text": "as legitimate email.", 
+            "dur": "1.826", 
+            "start": "341.262"
+        }, 
+        {
+            "text": "Profiles from girls he dated\nand not liked, as spam,", 
+            "dur": "3.657", 
+            "start": "343.088"
+        }, 
+        {
+            "text": "and then ran it against\nevery profile on MySpace.", 
+            "dur": "3.602", 
+            "start": "346.745"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.576", 
+            "start": "350.347"
+        }, 
+        {
+            "text": "Out spits girls you might like to date.", 
+            "dur": "3.165", 
+            "start": "352.923"
+        }, 
+        {
+            "text": "What I say about Abad is, I think,\nthere&#39;s like three startups here.", 
+            "dur": "3.238", 
+            "start": "356.088"
+        }, 
+        {
+            "text": "I don&#39;t know why we need Match.com,", 
+            "dur": "1.795", 
+            "start": "359.326"
+        }, 
+        {
+            "text": "when we can have Spam dating?\nYou know this is innovation.", 
+            "dur": "3.984", 
+            "start": "361.121"
+        }, 
+        {
+            "text": "He&#39;s got a problem, he found a solution.", 
+            "dur": "2.356", 
+            "start": "365.105"
+        }, 
+        {
+            "text": "Does anybody use these -- bleep --\nkeys for opening your car remotely?", 
+            "dur": "4.592", 
+            "start": "367.461"
+        }, 
+        {
+            "text": "They&#39;re popular in, well,\nmaybe not Chicago, OK.", 
+            "dur": "4.368", 
+            "start": "372.053"
+        }, 
+        {
+            "text": "So kids these days will drive\nthrough a Wal-Mart parking lot", 
+            "dur": "3.15", 
+            "start": "376.779"
+        }, 
+        {
+            "text": "clicking open, open, open, bloop.", 
+            "dur": "2.564", 
+            "start": "379.929"
+        }, 
+        {
+            "text": "Eventually you find another\nJetta or whatever just like yours,", 
+            "dur": "3.077", 
+            "start": "382.493"
+        }, 
+        {
+            "text": "maybe a different color,\nthat uses the same key code.", 
+            "dur": "3.985", 
+            "start": "385.57"
+        }, 
+        {
+            "text": "Kids will just loot it, lock it up and go.", 
+            "dur": "2.217", 
+            "start": "389.714"
+        }, 
+        {
+            "text": "Your insurance company\nwill roll over on you", 
+            "dur": "2.171", 
+            "start": "391.931"
+        }, 
+        {
+            "text": "because there&#39;s not\nevidence of a break-in.", 
+            "dur": "2.082", 
+            "start": "394.102"
+        }, 
+        {
+            "text": "For one manufacturer we figured\nout how to manipulate that key", 
+            "dur": "3.442", 
+            "start": "396.184"
+        }, 
+        {
+            "text": "so that it will open every car\nfrom that manufacturer.", 
+            "dur": "3.747", 
+            "start": "399.626"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.286", 
+            "start": "403.373"
+        }, 
+        {
+            "text": "There is a point to be made about this\nwhich I barely have time for,", 
+            "dur": "3.111", 
+            "start": "404.659"
+        }, 
+        {
+            "text": "but it&#39;s that your car is now a PC,\nyour phone is also a PC,", 
+            "dur": "4.414", 
+            "start": "407.77"
+        }, 
+        {
+            "text": "your toaster, if it is not a PC,\nsoon will be. Right?", 
+            "dur": "3.539", 
+            "start": "412.184"
+        }, 
+        {
+            "text": "And I&#39;m not joking about that.", 
+            "dur": "2.034", 
+            "start": "415.723"
+        }, 
+        {
+            "text": "And the point of that is\nthat when that happens", 
+            "dur": "2.435", 
+            "start": "417.757"
+        }, 
+        {
+            "text": "you inherit all the security\nproperties and problems of PC&#39;s.", 
+            "dur": "4.15", 
+            "start": "420.192"
+        }, 
+        {
+            "text": "And we have a lot of them.", 
+            "dur": "2.12", 
+            "start": "424.342"
+        }, 
+        {
+            "text": "So keep that in mind,\nwe can talk more about that later.", 
+            "dur": "2.8", 
+            "start": "426.462"
+        }, 
+        {
+            "text": "Anybody use a lock like this\non your front door?", 
+            "dur": "3.313", 
+            "start": "429.262"
+        }, 
+        {
+            "text": "OK, good.", 
+            "dur": "1.953", 
+            "start": "432.575"
+        }, 
+        {
+            "text": "I do too.", 
+            "dur": "1.367", 
+            "start": "434.528"
+        }, 
+        {
+            "text": "This is a Schlage lock.\nIt&#39;s on half of the front doors in America.", 
+            "dur": "3.905", 
+            "start": "435.895"
+        }, 
+        {
+            "text": "I brought one to show you.", 
+            "dur": "3.44", 
+            "start": "439.8"
+        }, 
+        {
+            "text": "So this is my Schlage lock.", 
+            "dur": "2.197", 
+            "start": "443.24"
+        }, 
+        {
+            "text": "This is a key that fits the lock, \nbut isn&#39;t cut right, so it won&#39;t turn it.", 
+            "dur": "4.976", 
+            "start": "445.437"
+        }, 
+        {
+            "text": "Anybody here ever tried \nto pick locks with tools like this?", 
+            "dur": "4.289", 
+            "start": "450.413"
+        }, 
+        {
+            "text": "All right, got a few, \nfew nefarious lock pickers.", 
+            "dur": "4.505", 
+            "start": "454.702"
+        }, 
+        {
+            "text": "Well, it&#39;s for kids with OCD.", 
+            "dur": "2.101", 
+            "start": "459.893"
+        }, 
+        {
+            "text": "You&#39;ve got to put them in there,\nand finick with them,", 
+            "dur": "2.621", 
+            "start": "461.994"
+        }, 
+        {
+            "text": "spend hours getting the finesse\ndown to manipulate the pins.", 
+            "dur": "2.998", 
+            "start": "464.615"
+        }, 
+        {
+            "text": "You know, for the ADD kids in the house \nthere&#39;s an easier way.", 
+            "dur": "3.844", 
+            "start": "467.613"
+        }, 
+        {
+            "text": "I put my little magic key in here,", 
+            "dur": "1.769", 
+            "start": "471.457"
+        }, 
+        {
+            "text": "I put a little pressure on there to turn it,\n(Tapping)", 
+            "dur": "2.691", 
+            "start": "473.226"
+        }, 
+        {
+            "text": "smack it a few times\nwith this special mallet", 
+            "dur": "3.336", 
+            "start": "475.917"
+        }, 
+        {
+            "text": "and I just picked the lock. We&#39;re in.", 
+            "dur": "3.069", 
+            "start": "479.253"
+        }, 
+        {
+            "text": "It&#39;s easy.", 
+            "dur": "1.782", 
+            "start": "483.312"
+        }, 
+        {
+            "text": "And in fact, I don&#39;t really know\nmuch more about this than you do.", 
+            "dur": "3.215", 
+            "start": "485.094"
+        }, 
+        {
+            "text": "It&#39;s really, really easy.", 
+            "dur": "1.588", 
+            "start": "488.309"
+        }, 
+        {
+            "text": "I have a keychain I made\nof the same kind of key", 
+            "dur": "2.431", 
+            "start": "489.897"
+        }, 
+        {
+            "text": "for every other lock in America.", 
+            "dur": "2.18", 
+            "start": "492.328"
+        }, 
+        {
+            "text": "And if you&#39;re interested,\nI bought a key machine", 
+            "dur": "4.934", 
+            "start": "494.508"
+        }, 
+        {
+            "text": "so that I can cut these keys\nand I made some for all of you guys.", 
+            "dur": "2.958", 
+            "start": "499.442"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.31", 
+            "start": "502.4"
+        }, 
+        {
+            "text": "(Applause)", 
+            "dur": "1.894", 
+            "start": "503.71"
+        }, 
+        {
+            "text": "So my gift to you, \ncome afterwards and I will show you", 
+            "dur": "2.652", 
+            "start": "505.604"
+        }, 
+        {
+            "text": "how to pick a lock and\ngive you one of these keys", 
+            "dur": "2.263", 
+            "start": "508.256"
+        }, 
+        {
+            "text": "you can take home and try it on your door.", 
+            "dur": "2.049", 
+            "start": "510.519"
+        }, 
+        {
+            "text": "Anybody used these USB thumb drives?", 
+            "dur": "3.095", 
+            "start": "512.568"
+        }, 
+        {
+            "text": "Yeah, print my Word document, yeah!", 
+            "dur": "3.715", 
+            "start": "515.663"
+        }, 
+        {
+            "text": "They&#39;re very popular.", 
+            "dur": "3.196", 
+            "start": "519.378"
+        }, 
+        {
+            "text": "Mine works kind of like yours.\nYou can print my Word document for me.", 
+            "dur": "3.915", 
+            "start": "522.574"
+        }, 
+        {
+            "text": "But while you&#39;re doing that,\ninvisibly and magically in the background", 
+            "dur": "3.526", 
+            "start": "526.489"
+        }, 
+        {
+            "text": "it&#39;s just making a handy backup\nof your My Documents folder,", 
+            "dur": "4.041", 
+            "start": "530.015"
+        }, 
+        {
+            "text": "and your browser history and cookies\nand your registry and password database,", 
+            "dur": "4.076", 
+            "start": "534.056"
+        }, 
+        {
+            "text": "and all the things that you might need \nsomeday if you have a problem.", 
+            "dur": "3.944", 
+            "start": "538.132"
+        }, 
+        {
+            "text": "So we just like to make these things\nand litter them around at conferences.", 
+            "dur": "3.887", 
+            "start": "542.076"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "3.795", 
+            "start": "545.963"
+        }, 
+        {
+            "text": "Anybody here use credit cards?", 
+            "dur": "2.219", 
+            "start": "549.758"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.168", 
+            "start": "551.977"
+        }, 
+        {
+            "text": "Oh, good!", 
+            "dur": "1.29", 
+            "start": "553.145"
+        }, 
+        {
+            "text": "Yeah, so they&#39;re popular\nand wildly secure.", 
+            "dur": "3.521", 
+            "start": "554.435"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.254", 
+            "start": "557.956"
+        }, 
+        {
+            "text": "Well, there&#39;s new credit cards\nthat you might have gotten in the mail", 
+            "dur": "3.196", 
+            "start": "559.21"
+        }, 
+        {
+            "text": "with a letter explaining how \nit&#39;s your new &quot;Secure credit card&quot;.", 
+            "dur": "3.082", 
+            "start": "562.406"
+        }, 
+        {
+            "text": "Anybody get one of these?", 
+            "dur": "1.516", 
+            "start": "565.488"
+        }, 
+        {
+            "text": "You know it&#39;s secure because\nit has a chip in it, an RFID tag,", 
+            "dur": "4.589", 
+            "start": "567.004"
+        }, 
+        {
+            "text": "and you can use these in\nTaxicabs and at Starbucks,", 
+            "dur": "3.199", 
+            "start": "571.593"
+        }, 
+        {
+            "text": "I brought one to show you,\nby just touching the reader.", 
+            "dur": "3.164", 
+            "start": "574.792"
+        }, 
+        {
+            "text": "Has anybody seen these before?", 
+            "dur": "2.013", 
+            "start": "577.956"
+        }, 
+        {
+            "text": "Okay, who&#39;s got one?", 
+            "dur": "2.482", 
+            "start": "579.969"
+        }, 
+        {
+            "text": "Bring it on up here.", 
+            "dur": "1.809", 
+            "start": "584.151"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.95", 
+            "start": "585.96"
+        }, 
+        {
+            "text": "There&#39;s a prize in it for you.", 
+            "dur": "2.706", 
+            "start": "587.91"
+        }, 
+        {
+            "text": "I just want to show you \nsome things we learned about them.", 
+            "dur": "3.006", 
+            "start": "590.616"
+        }, 
+        {
+            "text": "I got this credit card in the mail.", 
+            "dur": "2.041", 
+            "start": "593.622"
+        }, 
+        {
+            "text": "I really do need some volunteers,\nin fact, I need", 
+            "dur": "2.556", 
+            "start": "595.663"
+        }, 
+        {
+            "text": "one, two, three, four, five\nvolunteers because the winners", 
+            "dur": "2.988", 
+            "start": "598.219"
+        }, 
+        {
+            "text": "are going to get these\nawesome stainless steel wallets", 
+            "dur": "3.014", 
+            "start": "601.207"
+        }, 
+        {
+            "text": "that protect you against the problem that \nyou guessed, I&#39;m about to demonstrate.", 
+            "dur": "4.049", 
+            "start": "604.221"
+        }, 
+        {
+            "text": "Bring your credit card up here\nand I&#39;ll show you.", 
+            "dur": "2.3", 
+            "start": "608.27"
+        }, 
+        {
+            "text": "I want to try it on one of these\nawesome new credit cards.", 
+            "dur": "3.588", 
+            "start": "610.57"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "1.512", 
+            "start": "614.158"
+        }, 
+        {
+            "text": "Do we have a conference organizer,", 
+            "dur": "2.462", 
+            "start": "618.796"
+        }, 
+        {
+            "text": "somebody who can coerce people\ninto cooperating?", 
+            "dur": "2.614", 
+            "start": "621.258"
+        }, 
+        {
+            "text": "(Laughing)", 
+            "dur": "0.953", 
+            "start": "623.872"
+        }, 
+        {
+            "text": "It&#39;s by your own volition because --", 
+            "dur": "3.758", 
+            "start": "624.825"
+        }, 
+        {
+            "text": "This is where the demo gets really awesome", 
+            "dur": "3.135", 
+            "start": "629.573"
+        }, 
+        {
+            "text": "I know you guys have never seen --", 
+            "dur": "1.662", 
+            "start": "632.708"
+        }, 
+        {
+            "text": "(Inaudible question)", 
+            "dur": "1.194", 
+            "start": "634.37"
+        }, 
+        {
+            "text": "What&#39;s that?", 
+            "dur": "1.528", 
+            "start": "635.564"
+        }, 
+        {
+            "text": "They&#39;re really cool wallets\nmade of stainless steel.", 
+            "dur": "3.534", 
+            "start": "637.092"
+        }, 
+        {
+            "text": "Anybody else seen code\non screen at TED before?", 
+            "dur": "3.734", 
+            "start": "641.133"
+        }, 
+        {
+            "text": "Yeah, this is pretty awesome.", 
+            "dur": "2.134", 
+            "start": "644.867"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.807", 
+            "start": "647.001"
+        }, 
+        {
+            "text": "OK, great I got volunteers.", 
+            "dur": "1.904", 
+            "start": "651.528"
+        }, 
+        {
+            "text": "So who has one of these\nexciting credit cards?", 
+            "dur": "3.158", 
+            "start": "653.432"
+        }, 
+        {
+            "text": "OK, here we go.", 
+            "dur": "1.492", 
+            "start": "657.79"
+        }, 
+        {
+            "text": "I&#39;m about to share \nyour credit card number", 
+            "dur": "2.224", 
+            "start": "659.282"
+        }, 
+        {
+            "text": "only to 350 close friends.", 
+            "dur": "2.384", 
+            "start": "661.506"
+        }, 
+        {
+            "text": "Hear the beep?", 
+            "dur": "2.304", 
+            "start": "663.89"
+        }, 
+        {
+            "text": "That means someone&#39;s hacking \nyour credit card.", 
+            "dur": "2.586", 
+            "start": "666.194"
+        }, 
+        {
+            "text": "OK, what did we get?", 
+            "dur": "1.327", 
+            "start": "668.78"
+        }, 
+        {
+            "text": "Valued customer and the credit\ncard number and expiration date.", 
+            "dur": "4.516", 
+            "start": "670.107"
+        }, 
+        {
+            "text": "It turns out your secure new\ncredit card is not totally secure.", 
+            "dur": "4.293", 
+            "start": "674.623"
+        }, 
+        {
+            "text": "Anybody else want to try yours \nwhile you&#39;re here?", 
+            "dur": "2.562", 
+            "start": "679.332"
+        }, 
+        {
+            "text": "Man: Can you install overdraft protection?", 
+            "dur": "2.159", 
+            "start": "681.894"
+        }, 
+        {
+            "text": "PH: Beep, let&#39;s see what we got?", 
+            "dur": "2.425", 
+            "start": "684.053"
+        }, 
+        {
+            "text": "So we bitched about\nthis and AMEX changed it,", 
+            "dur": "2.364", 
+            "start": "686.478"
+        }, 
+        {
+            "text": "so it doesn&#39;t show the name anymore.", 
+            "dur": "2.304", 
+            "start": "688.842"
+        }, 
+        {
+            "text": "Which is progress.\nYou can see mine, if it shows it.", 
+            "dur": "4.337", 
+            "start": "691.146"
+        }, 
+        {
+            "text": "Yeah, it shows my name on it, \nthat&#39;s what my Mom calls me anyway.", 
+            "dur": "3.659", 
+            "start": "697.043"
+        }, 
+        {
+            "text": "Yours doesn&#39;t have it.", 
+            "dur": "2.693", 
+            "start": "700.702"
+        }, 
+        {
+            "text": "Anyway, so next time you get \nsomething in the mail", 
+            "dur": "4.165", 
+            "start": "704.365"
+        }, 
+        {
+            "text": "that says it&#39;s secure, send it to me.", 
+            "dur": "3.427", 
+            "start": "708.53"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.625", 
+            "start": "711.957"
+        }, 
+        {
+            "text": "Oh wait, one of these is empty, hold on.", 
+            "dur": "3.292", 
+            "start": "715.754"
+        }, 
+        {
+            "text": "I think this is the one, yep, here you go.", 
+            "dur": "2.603", 
+            "start": "720.856"
+        }, 
+        {
+            "text": "You get the one that&#39;s disassembled.", 
+            "dur": "1.963", 
+            "start": "723.459"
+        }, 
+        {
+            "text": "All right, cool.", 
+            "dur": "1.407", 
+            "start": "725.422"
+        }, 
+        {
+            "text": "(Applause)", 
+            "dur": "3.522", 
+            "start": "726.829"
+        }, 
+        {
+            "text": "I still have a few minutes yet left,\nso I&#39;m going to make a couple of points.", 
+            "dur": "3.743", 
+            "start": "730.351"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "0.931", 
+            "start": "734.094"
+        }, 
+        {
+            "text": "Oh, shit.", 
+            "dur": "1.487", 
+            "start": "735.025"
+        }, 
+        {
+            "text": "That&#39;s my subliminal messaging campaign.\nIt was supposed to be much faster.", 
+            "dur": "4.527", 
+            "start": "736.512"
+        }, 
+        {
+            "text": "Here&#39;s the most exciting\nslide ever shown at TED.", 
+            "dur": "4.17", 
+            "start": "741.039"
+        }, 
+        {
+            "text": "This is the protocol diagram for SSL,", 
+            "dur": "2.293", 
+            "start": "745.209"
+        }, 
+        {
+            "text": "which is the encryption\nsystem in your web browser", 
+            "dur": "2.351", 
+            "start": "747.502"
+        }, 
+        {
+            "text": "that protects your credit card when you&#39;re\nsending it to Amazon and so on.", 
+            "dur": "3.471", 
+            "start": "749.853"
+        }, 
+        {
+            "text": "Very exciting, I know, but the point is", 
+            "dur": "2.017", 
+            "start": "753.324"
+        }, 
+        {
+            "text": "hackers will attack every\npoint in this protocol, right?", 
+            "dur": "3.832", 
+            "start": "755.341"
+        }, 
+        {
+            "text": "I&#39;m going to send two responses\nwhen the server&#39;s expecting one.", 
+            "dur": "3.622", 
+            "start": "759.173"
+        }, 
+        {
+            "text": "I&#39;m going to send a zero\nwhen it&#39;s expecting a one.", 
+            "dur": "2.869", 
+            "start": "762.795"
+        }, 
+        {
+            "text": "I&#39;m going to send twice as much \ndata as it&#39;s expecting.", 
+            "dur": "2.842", 
+            "start": "765.664"
+        }, 
+        {
+            "text": "I&#39;m going to take twice as long\nanswering as it&#39;s expecting.", 
+            "dur": "2.878", 
+            "start": "768.506"
+        }, 
+        {
+            "text": "Just try a bunch of stuff.\nSee where it breaks.", 
+            "dur": "3.022", 
+            "start": "771.384"
+        }, 
+        {
+            "text": "See what falls in my lap.", 
+            "dur": "1.812", 
+            "start": "774.406"
+        }, 
+        {
+            "text": "When I find a hole like that \nthen I can start looking for an exploit.", 
+            "dur": "5.064", 
+            "start": "776.218"
+        }, 
+        {
+            "text": "This is a little more what SSL looks\nlike to hackers, that&#39;s really boring.", 
+            "dur": "4.958", 
+            "start": "781.282"
+        }, 
+        {
+            "text": "This guy kills a million Africans a year.", 
+            "dur": "4.507", 
+            "start": "786.24"
+        }, 
+        {
+            "text": "It&#39;s Anopheles stephensi mosquito\ncarrying malaria.", 
+            "dur": "3.76", 
+            "start": "791.031"
+        }, 
+        {
+            "text": "Is this the wrong talk?", 
+            "dur": "2.05", 
+            "start": "795.738"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "1.615", 
+            "start": "797.788"
+        }, 
+        {
+            "text": "This is a protocol diagram for malaria.", 
+            "dur": "3.855", 
+            "start": "799.403"
+        }, 
+        {
+            "text": "So what we&#39;re doing in our lab\nis attacking this protocol", 
+            "dur": "3.585", 
+            "start": "803.892"
+        }, 
+        {
+            "text": "at every point we can find.", 
+            "dur": "2.204", 
+            "start": "807.477"
+        }, 
+        {
+            "text": "It has a very complex life cycle\nthat I won&#39;t go into now,", 
+            "dur": "3.077", 
+            "start": "809.681"
+        }, 
+        {
+            "text": "but it spends some time in humans,\nsome time in mosquitos", 
+            "dur": "3.469", 
+            "start": "812.758"
+        }, 
+        {
+            "text": "and what I need are hackers.", 
+            "dur": "3.24", 
+            "start": "816.227"
+        }, 
+        {
+            "text": "Because hackers have a mind\nthat&#39;s optimized for discovery.", 
+            "dur": "4.041", 
+            "start": "819.467"
+        }, 
+        {
+            "text": "They have a mind that&#39;s optimized\nfor figuring out what&#39;s possible.", 
+            "dur": "3.473", 
+            "start": "823.934"
+        }, 
+        {
+            "text": "You know, I often illustrate this\nby saying,", 
+            "dur": "2.398", 
+            "start": "827.407"
+        }, 
+        {
+            "text": "If you get some random new\ngadget and show it to your Mom,", 
+            "dur": "4.871", 
+            "start": "829.805"
+        }, 
+        {
+            "text": "she might say, &quot;Well, what does this do?&quot;\nAnd you&#39;d say &quot;Mom, it&#39;s a phone.&quot;", 
+            "dur": "3.79", 
+            "start": "835.455"
+        }, 
+        {
+            "text": "And instantly, she&#39;d would know \nexactly what it&#39;s for.", 
+            "dur": "3.321", 
+            "start": "839.245"
+        }, 
+        {
+            "text": "But with a hacker,\nthe question is different.", 
+            "dur": "2.519", 
+            "start": "842.566"
+        }, 
+        {
+            "text": "The question is\n&quot;What can I make this do?&quot;", 
+            "dur": "3.824", 
+            "start": "845.085"
+        }, 
+        {
+            "text": "I&#39;m going to take all the screws out, \nand take the back off,", 
+            "dur": "2.927", 
+            "start": "849.102"
+        }, 
+        {
+            "text": "and break it into a lot of little pieces.", 
+            "dur": "1.955", 
+            "start": "852.029"
+        }, 
+        {
+            "text": "But then I&#39;m going to figure out\nwhat I can build from the rubble.", 
+            "dur": "3.359", 
+            "start": "853.984"
+        }, 
+        {
+            "text": "That&#39;s discovery, and we need to\ndo that in science and technology", 
+            "dur": "3.956", 
+            "start": "857.343"
+        }, 
+        {
+            "text": "to figure out what&#39;s possible.", 
+            "dur": "2.14", 
+            "start": "861.299"
+        }, 
+        {
+            "text": "And so in the lab what I&#39;m trying\nto do is apply that mindset", 
+            "dur": "3.679", 
+            "start": "863.439"
+        }, 
+        {
+            "text": "to some of the biggest\nproblems humans have.", 
+            "dur": "2.465", 
+            "start": "867.118"
+        }, 
+        {
+            "text": "We work on malaria, thanks to\nBill Gates, who asked us to work on it.", 
+            "dur": "4.569", 
+            "start": "869.583"
+        }, 
+        {
+            "text": "This is how we used to solve malaria.", 
+            "dur": "2.711", 
+            "start": "874.152"
+        }, 
+        {
+            "text": "This is a real ad from like the 40&#39;s.", 
+            "dur": "2.207", 
+            "start": "876.863"
+        }, 
+        {
+            "text": "We eradicated malaria in the US\nby spraying DDT everywhere.", 
+            "dur": "4.135", 
+            "start": "879.07"
+        }, 
+        {
+            "text": "In the lab what we do is a lot of work\nto try and understand the problem.", 
+            "dur": "4.05", 
+            "start": "884.455"
+        }, 
+        {
+            "text": "This is a high-speed video,\nwe have a badass video camera,", 
+            "dur": "5.153", 
+            "start": "888.505"
+        }, 
+        {
+            "text": "trying to learn how mosquitos fly.", 
+            "dur": "2.635", 
+            "start": "893.658"
+        }, 
+        {
+            "text": "And you can see that \nthey&#39;re more like swimming in air.", 
+            "dur": "3.148", 
+            "start": "896.293"
+        }, 
+        {
+            "text": "We actually have no idea how they fly.", 
+            "dur": "1.858", 
+            "start": "899.441"
+        }, 
+        {
+            "text": "But we have a cool video camera so we --", 
+            "dur": "2.221", 
+            "start": "901.299"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.014", 
+            "start": "903.52"
+        }, 
+        {
+            "text": "Yeah, it cost more than a Ferrari.", 
+            "dur": "3.711", 
+            "start": "905.534"
+        }, 
+        {
+            "text": "Anyway we came up with some\nways to take care of mosquitos.", 
+            "dur": "3.15", 
+            "start": "909.245"
+        }, 
+        {
+            "text": "Let&#39;s shoot them down with laser beams.", 
+            "dur": "2.412", 
+            "start": "912.395"
+        }, 
+        {
+            "text": "This is what happens when you put \none of every kind of scientist in a room", 
+            "dur": "4.511", 
+            "start": "914.807"
+        }, 
+        {
+            "text": "and a laser junky.", 
+            "dur": "2", 
+            "start": "919.318"
+        }, 
+        {
+            "text": "So people thought it was funny at first,", 
+            "dur": "3.919", 
+            "start": "921.318"
+        }, 
+        {
+            "text": "but we figured out, you know, we can\nbuild this out of consumer electronics.", 
+            "dur": "4.839", 
+            "start": "925.237"
+        }, 
+        {
+            "text": "It&#39;s using the CCD from a webcam,", 
+            "dur": "3.314", 
+            "start": "930.076"
+        }, 
+        {
+            "text": "the laser from a Blu-ray burner,", 
+            "dur": "3.2", 
+            "start": "933.39"
+        }, 
+        {
+            "text": "the laser galvo is from a laser printer.", 
+            "dur": "3.622", 
+            "start": "936.59"
+        }, 
+        {
+            "text": "We do motion detection on a GPU processor", 
+            "dur": "3.008", 
+            "start": "940.212"
+        }, 
+        {
+            "text": "like you might find in video game system.", 
+            "dur": "2.194", 
+            "start": "943.22"
+        }, 
+        {
+            "text": "It&#39;s all stuff that follows Moore&#39;s law.", 
+            "dur": "1.929", 
+            "start": "945.414"
+        }, 
+        {
+            "text": "So it&#39;s actually not going to\nbe that expensive to do it.", 
+            "dur": "2.885", 
+            "start": "947.343"
+        }, 
+        {
+            "text": "The idea is that we would put", 
+            "dur": "2.238", 
+            "start": "950.228"
+        }, 
+        {
+            "text": "a perimeter of these laser systems\naround a building or a village", 
+            "dur": "3.851", 
+            "start": "952.466"
+        }, 
+        {
+            "text": "and just shoot all the mosquitos\non their way in to feed on humans.", 
+            "dur": "3.19", 
+            "start": "956.317"
+        }, 
+        {
+            "text": "And we might want to do that\nfor your backyard.", 
+            "dur": "3.293", 
+            "start": "959.507"
+        }, 
+        {
+            "text": "We could also do it to protect crops.", 
+            "dur": "1.963", 
+            "start": "962.8"
+        }, 
+        {
+            "text": "Our team is right now working on", 
+            "dur": "1.866", 
+            "start": "964.763"
+        }, 
+        {
+            "text": "characterizing what they\nneed to do the same thing for", 
+            "dur": "2.656", 
+            "start": "966.629"
+        }, 
+        {
+            "text": "the pest that has wiped out \nabout two thirds", 
+            "dur": "3.614", 
+            "start": "969.285"
+        }, 
+        {
+            "text": "of the Orange groves in Florida.", 
+            "dur": "3.578", 
+            "start": "972.899"
+        }, 
+        {
+            "text": "So people laughed at first.", 
+            "dur": "2.617", 
+            "start": "978.102"
+        }, 
+        {
+            "text": "This is a video of our system working.", 
+            "dur": "2.722", 
+            "start": "980.719"
+        }, 
+        {
+            "text": "We are tracking mosquitos live \nas they fly around.", 
+            "dur": "2.678", 
+            "start": "983.441"
+        }, 
+        {
+            "text": "Those crosshairs are put there\nby our computer.", 
+            "dur": "2.503", 
+            "start": "986.119"
+        }, 
+        {
+            "text": "It just watches them, \nfinds them moving", 
+            "dur": "1.861", 
+            "start": "988.622"
+        }, 
+        {
+            "text": "and then it aims a laser at them\nto sample their wing beat frequency.", 
+            "dur": "3.734", 
+            "start": "990.483"
+        }, 
+        {
+            "text": "Figure out from that, \nis this a mosquito?", 
+            "dur": "3.207", 
+            "start": "994.217"
+        }, 
+        {
+            "text": "Is it Anopheles Stephensi?\nIs it female?", 
+            "dur": "2.901", 
+            "start": "997.424"
+        }, 
+        {
+            "text": "And if all that&#39;s true then\nwe shoot it down with lethal laser.", 
+            "dur": "4.587", 
+            "start": "1000.325"
+        }, 
+        {
+            "text": "(Laughter)", 
+            "dur": "2.069", 
+            "start": "1004.912"
+        }, 
+        {
+            "text": "So we have this working in a lab.", 
+            "dur": "1.772", 
+            "start": "1006.981"
+        }, 
+        {
+            "text": "We&#39;re working on taking \nthat project into the field now.", 
+            "dur": "3.126", 
+            "start": "1008.753"
+        }, 
+        {
+            "text": "All this happens at the Intellectual\nVentures Lab in Seattle where I work", 
+            "dur": "4.546", 
+            "start": "1011.879"
+        }, 
+        {
+            "text": "and we try and take on some\nof the hardest problems that humans have.", 
+            "dur": "5.201", 
+            "start": "1016.425"
+        }, 
+        {
+            "text": "This is the money shot.", 
+            "dur": "1.842", 
+            "start": "1021.626"
+        }, 
+        {
+            "text": "You can see we just burned\nhis wing off with a UV laser.", 
+            "dur": "3.263", 
+            "start": "1023.468"
+        }, 
+        {
+            "text": "He&#39;s not coming back.", 
+            "dur": "2.118", 
+            "start": "1026.731"
+        }, 
+        {
+            "text": "(Applause)", 
+            "dur": "3.223", 
+            "start": "1028.849"
+        }, 
+        {
+            "text": "Kind of vaporized\nhis wing right there, yeah.", 
+            "dur": "3.802", 
+            "start": "1032.072"
+        }, 
+        {
+            "text": "They love it.\nI mean, you know.", 
+            "dur": "2.762", 
+            "start": "1035.874"
+        }, 
+        {
+            "text": "Never got called by PETA or anyone else.", 
+            "dur": "2.133", 
+            "start": "1038.636"
+        }, 
+        {
+            "text": "I mean, it&#39;s the perfect enemy.", 
+            "dur": "2.457", 
+            "start": "1040.769"
+        }, 
+        {
+            "text": "There&#39;s just no one coming\nto the rescue of mosquitos.", 
+            "dur": "3.153", 
+            "start": "1043.226"
+        }, 
+        {
+            "text": "Sometimes we overdo it.", 
+            "dur": "3.281", 
+            "start": "1046.379"
+        }, 
+        {
+            "text": "So anyway, I&#39;m going to get off stage.", 
+            "dur": "2.433", 
+            "start": "1049.66"
+        }, 
+        {
+            "text": "This is the Intellectual Ventures Lab \nwhere I work.", 
+            "dur": "3.048", 
+            "start": "1052.093"
+        }, 
+        {
+            "text": "Basically we use every kind of scientist", 
+            "dur": "2.694", 
+            "start": "1055.141"
+        }, 
+        {
+            "text": "and one of every tool in the world\nto work on crazy invention projects.", 
+            "dur": "4.35", 
+            "start": "1057.835"
+        }, 
+        {
+            "text": "Thanks.", 
+            "dur": "1.352", 
+            "start": "1062.185"
+        }, 
+        {
+            "text": "(Applause)", 
+            "dur": "1.748", 
+            "start": "1063.537"
+        }
+    ], 
+    "title": "Top hacker shows us how it's done | Pablos Holman | TEDxMidwest", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/058p1b", 
+        "/m/04181l6", 
+        "/m/07gcbt"
+    ], 
+    "number_views": 5227247, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T19:59:53.141Z", 
+            "text": "hit like if you are a hacker like me..\ufeff", 
+            "author": "Akshay Gowda"
+        }, 
+        {
+            "date": "2015-05-10T10:31:46.073Z", 
+            "text": "Top hacker shows us how it's done | Pablos Holman | TEDxMidwest: \nhttp://youtu.be/hqKafI7Amd8\ufeff", 
+            "author": "Dean Pook"
+        }, 
+        {
+            "date": "2015-05-09T23:59:11.208Z", 
+            "text": "Did he just sayhHe could send IR through the wall?\ufeff", 
+            "author": "VladanMovies"
+        }, 
+        {
+            "date": "2015-05-09T17:52:15.476Z", 
+            "text": "Great, now we're shooting mosquitos with lasers\ufeff", 
+            "author": "Bodda Sebuka"
+        }, 
+        {
+            "date": "2015-05-09T15:36:12.154Z", 
+            "text": "", 
+            "author": "Ram Sesh Jampani"
+        }, 
+        {
+            "date": "2015-05-09T14:49:16.486Z", 
+            "text": "No Hacks exposed here dont waste your time\ufeff", 
+            "author": "Maria Graca"
+        }, 
+        {
+            "date": "2015-05-09T14:47:06.911Z", 
+            "text": "who might teach bout hacking\ufeff", 
+            "author": "MrEbichan"
+        }, 
+        {
+            "date": "2015-05-09T03:06:58.693Z", 
+            "text": "everything i do with the internet is fake, i don't even have  an antivirus, \nbut whenever you smart hackers hack my computer, i would just format you \nand start with a different operating system.\ufeff", 
+            "author": "Eric Crinbouche"
+        }, 
+        {
+            "date": "2015-05-08T23:26:23.988Z", 
+            "text": "yawn.......\ufeff", 
+            "author": "noshadowmaster"
+        }, 
+        {
+            "date": "2015-05-08T21:46:11.280Z", 
+            "text": "240p?\ufeff", 
+            "author": "Nathan Yeung"
+        }, 
+        {
+            "date": "2015-05-08T11:57:36.001Z", 
+            "text": "wow like your average 5 year old cant and dosnt do most of this to get \nround there backwards parents.\ufeff", 
+            "author": "mat amdis"
+        }, 
+        {
+            "date": "2015-05-08T02:26:16.245Z", 
+            "text": "Can you hack roblox.com\ufeff", 
+            "author": "heather walker"
+        }, 
+        {
+            "date": "2015-05-07T00:43:48.381Z", 
+            "text": "Amusing\ufeff", 
+            "author": "alindastar"
+        }, 
+        {
+            "date": "2015-05-07T00:16:38.292Z", 
+            "text": "camera Cost more than a ferrari, what? fuck didn't even say what kind of \nferrari\ufeff", 
+            "author": "0marX"
+        }, 
+        {
+            "date": "2015-05-06T23:32:02.414Z", 
+            "text": "This is what I want in a ted talk\ufeff", 
+            "author": "Ethan Hamilton"
+        }, 
+        {
+            "date": "2015-05-06T20:48:20.404Z", 
+            "text": "He aint no hacker if he uses a mac\ufeff", 
+            "author": "Dark Star"
+        }, 
+        {
+            "date": "2015-05-06T19:30:48.987Z", 
+            "text": "Jaw-dropping!\n\nhttps://youtu.be/hqKafI7Amd8 \n#hackers\ufeff", 
+            "author": "New Worlds Comics"
+        }, 
+        {
+            "date": "2015-05-06T16:09:39.335Z", 
+            "text": "", 
+            "author": "Acharn"
+        }, 
+        {
+            "date": "2015-05-04T16:22:29.077Z", 
+            "text": "Check out this video on YouTube:\ufeff", 
+            "author": "UngerMotivation"
+        }, 
+        {
+            "date": "2015-05-04T12:50:20.848Z", 
+            "text": "", 
+            "author": "Mantas Savaniakas"
+        }, 
+        {
+            "date": "2015-05-03T17:38:57.636Z", 
+            "text": "", 
+            "author": "xxxwaterspritexxx"
+        }, 
+        {
+            "date": "2015-05-03T05:03:38.431Z", 
+            "text": "Xerox\ufeff", 
+            "author": "Fartun Abdalah"
+        }, 
+        {
+            "date": "2015-05-02T20:02:21.505Z", 
+            "text": "It is just TERRIBLE that so many of you people swear! I can't believe all \nthe profanity on this board!!\ufeff", 
+            "author": "cindybin2001"
+        }, 
+        {
+            "date": "2015-05-05T14:30:50.785Z", 
+            "text": "+Brian McCoy I AM NOT EVERYWHERE! There aren't enough hours in the day!", 
+            "author": "cindybin2001"
+        }, 
+        {
+            "date": "2015-05-05T05:24:30.511Z", 
+            "text": "+cindybin2001 // OMG YOU ARE EVERYWHERE!!!!!!!!!!!", 
+            "author": "Brian McCoy"
+        }, 
+        {
+            "date": "2015-05-02T21:56:41.000Z", 
+            "text": "    *cunt drizzler*", 
+            "author": "Blanche Dubois"
+        }, 
+        {
+            "date": "2015-05-02T18:03:30.688Z", 
+            "text": "wow hacking seems for the intelligent, too bad it took me 4 hours to figure \nout how to change the background on my hp laptop.\ufeff", 
+            "author": "MadkittenzK"
+        }, 
+        {
+            "date": "2015-05-02T15:48:13.619Z", 
+            "text": "I hope north korea is taking notes.\ufeff", 
+            "author": "Deadpankan"
+        }, 
+        {
+            "date": "2015-05-05T01:58:57.306Z", 
+            "text": "Lol", 
+            "author": "goalkeeper"
+        }, 
+        {
+            "date": "2015-05-02T06:04:59.112Z", 
+            "text": "Smart guy but Steve Wozniak was doing around 40 years ago\ufeff", 
+            "author": "Tom Youngblood"
+        }, 
+        {
+            "date": "2015-05-02T03:00:43.647Z", 
+            "text": "Very boring. What is one supposed to learn from watching this? I personally \nknow a few hackers who could teach this guy so many things...\ufeff", 
+            "author": "Frank B"
+        }, 
+        {
+            "date": "2015-05-01T01:14:15.868Z", 
+            "text": "", 
+            "author": "bc"
+        }, 
+        {
+            "date": "2015-04-30T16:03:26.667Z", 
+            "text": "", 
+            "author": "waheed magienology"
+        }, 
+        {
+            "date": "2015-04-30T01:08:05.683Z", 
+            "text": "tru hackerz types inz the dir/s\ufeff", 
+            "author": "Piano Music!"
+        }, 
+        {
+            "date": "2015-04-29T14:23:48.355Z", 
+            "text": "-Hacker\n-Mac\ufeff", 
+            "author": "RotReview"
+        }, 
+        {
+            "date": "2015-04-29T02:00:59.913Z", 
+            "text": "Im about to jerk it in 17 mins feel free to spy ;)\ufeff", 
+            "author": "DannyIIIvb"
+        }, 
+        {
+            "date": "2015-04-28T23:22:14.036Z", 
+            "text": "When am I going to see some Mission Impossible / Eagle Eye type shit? I'm \nalways expecting some super high tech, polished metal devices all glowing \ndifferent colors with fucking Matrix codes flowing all throughout the \nscreen.... \nFUCK YOU HOLLYWOOD!!!\ufeff", 
+            "author": "Lurkury"
+        }, 
+        {
+            "date": "2015-04-28T08:17:59.736Z", 
+            "text": "sourcer\ufeff", 
+            "author": "Jay Peek"
+        }, 
+        {
+            "date": "2015-04-28T07:54:45.220Z", 
+            "text": "top hackers are anonymous and they dont use mac \ufeff", 
+            "author": "D3fALtZz Th3 G0d"
+        }, 
+        {
+            "date": "2015-04-28T07:14:39.157Z", 
+            "text": "Andy Dicks brother?\ufeff", 
+            "author": "Eric H"
+        }, 
+        {
+            "date": "2015-04-28T04:39:45.461Z", 
+            "text": "", 
+            "author": "Amanda Melvin"
+        }, 
+        {
+            "date": "2015-04-28T01:13:26.599Z", 
+            "text": "", 
+            "author": "Danny Poulson"
+        }, 
+        {
+            "date": "2015-04-27T09:09:15.711Z", 
+            "text": "Join LinkedIn group to discuss more about IT Security issues and challenges \nhttps://www.linkedin.com/grp/home?gid=8232436\ufeff", 
+            "author": "Jyotindra Zaveri (Jyoti)"
+        }, 
+        {
+            "date": "2015-04-27T02:29:51.000Z", 
+            "text": "\"i can watch movies for free\"\n\na 8 year old can do that with the power of google. just made me chuckle a \nbit that someone would hack to watch movies or play games free nowadays.\ufeff", 
+            "author": "ntkn"
+        }, 
+        {
+            "date": "2015-04-26T20:36:29.229Z", 
+            "text": "", 
+            "author": "Richardo Bobby McPherson"
+        }, 
+        {
+            "date": "2015-04-26T19:59:50.816Z", 
+            "text": "So interesting. Anyone else on a Ted Talk marathon?\ufeff", 
+            "author": "Brandon Wickens"
+        }, 
+        {
+            "date": "2015-04-26T16:20:45.458Z", 
+            "text": "Killing just the females has the same effect as killing ALL of the same \nspecies, so why go the extra step and add more complexity?\ufeff", 
+            "author": "MewCat100"
+        }, 
+        {
+            "date": "2015-04-26T07:40:17.239Z", 
+            "text": "So, showed us HOW it is done? I haven't seen anything close to HOW. This \nseems to be taken from the hacker cookbook comedy, a bunch of bullshit from \nthe 90's. He even went as ridiculously absurd as to hammer a key into a \nlock and he pretends to illustrate us that if you knock the inners off you \ncan turn it, I knew that since I was 7 use a screwdriver and hammer it.\ufeff", 
+            "author": "Feliks Dzerzhinsky"
+        }, 
+        {
+            "date": "2015-04-26T05:19:31.568Z", 
+            "text": "Killing mosquitoes with lasers, that is fucking awesome. Good work.\ufeff", 
+            "author": "SCHIZOPHRENlC"
+        }, 
+        {
+            "date": "2015-04-26T04:22:24.460Z", 
+            "text": "", 
+            "author": "Agata Gurdon"
+        }, 
+        {
+            "date": "2015-04-25T13:32:05.657Z", 
+            "text": "what the f666 is this quality! ?!?!? enyone can get the way what it means!\ufeff", 
+            "author": "NurkyGamer Show"
+        }, 
+        {
+            "date": "2015-04-25T13:32:00.788Z", 
+            "text": "new favorite word 'Automagically'\ufeff", 
+            "author": "Topher Barrett"
+        }, 
+        {
+            "date": "2015-04-25T02:19:51.256Z", 
+            "text": "+Unsmart Czech this out\ufeff", 
+            "author": "Blake Sorenson"
+        }, 
+        {
+            "date": "2015-04-24T21:54:09.270Z", 
+            "text": "I want to learn how to do what he does. \ufeff", 
+            "author": "NRND Comic"
+        }, 
+        {
+            "date": "2015-04-24T21:13:59.533Z", 
+            "text": "HACKERS Not Only Show That Your Computerized Devices Are INSECURE But Some \nOf Them Are Using Their CREATIVITY To Solve Problems Outside Their Area\n\nhttps://www.youtube.com/watch?v=hqKafI7Amd8\ufeff", 
+            "author": "Efstratios Filippidis - TheUndogmatic Thinker"
+        }, 
+        {
+            "date": "2015-05-03T11:23:14.668Z", 
+            "text": "wE mEET aGAIN mR cAPITAL!!", 
+            "author": "Felix kjellberg"
+        }, 
+        {
+            "date": "2015-04-24T20:45:06.203Z", 
+            "text": "These are serious issues and the audiance just laugh as if it's a joke and \nthey were probably smiling when he said mosquitos kill 1M africans a year.\ufeff", 
+            "author": "aaaaaaa1"
+        }, 
+        {
+            "date": "2015-04-24T19:42:05.475Z", 
+            "text": " I like bet boxing I like seeing it on YouTube \ufeff", 
+            "author": "hay ace"
+        }, 
+        {
+            "date": "2015-04-24T19:08:12.962Z", 
+            "text": "He just hacked my 320 and 480p video option\nI'm watching this video in potato quality on youtube\ufeff", 
+            "author": "Mixey"
+        }, 
+        {
+            "date": "2015-04-24T10:24:56.047Z", 
+            "text": "A good hacker is always anonymous.\ufeff", 
+            "author": "Rod Balingit"
+        }, 
+        {
+            "date": "2015-04-24T06:16:30.060Z", 
+            "text": "Wish he could hack the resolution of this video. AMIRITE FELLAS?\ufeff", 
+            "author": "phatdunny"
+        }, 
+        {
+            "date": "2015-04-23T04:04:48.195Z", 
+            "text": "Nice work! \ufeff", 
+            "author": "Jeff Howell"
+        }, 
+        {
+            "date": "2015-04-23T03:58:02.388Z", 
+            "text": "andy dick IT version\ufeff", 
+            "author": "Mikeal Shaver"
+        }, 
+        {
+            "date": "2015-04-23T02:00:13.263Z", 
+            "text": "The Dark Knight: Tonight's Entertainment\ufeff", 
+            "author": "HomeKeyX"
+        }, 
+        {
+            "date": "2015-04-22T23:20:05.471Z", 
+            "text": "Laser weapons pinpointing Mosquitos. This is how Skynet happens...\ufeff", 
+            "author": "Aganiiii"
+        }, 
+        {
+            "date": "2015-04-22T18:32:23.067Z", 
+            "text": "", 
+            "author": "Bala Subrahmanyam D"
+        }, 
+        {
+            "date": "2015-04-22T15:41:00.928Z", 
+            "text": "Yup wrote my first code back in the 70's..\n\nMy TV has no network capability and never will.\n\nMy phone's bluetooth and wireless is always turned off and only used when I \nspecifically need it for a few minutes,\n\nI carry nothing with RFID in it, if it has it I smoke it and disable it.\n\nMy cars use a good old fashioned key and has no \nsatellite/bluetooth/wireless etc. in it. My primary car is a 1996 model and \nmy second car is a 1954 model.. ;)\n\nI like modern networked and wireless gadgets, but I just don't have time to \nproperly secure them, I'm not about to go around with my arse hanging out \nso to speak so I just don't use them much as I really don't need them.\ufeff", 
+            "author": "TX Rider"
+        }, 
+        {
+            "date": "2015-04-22T08:26:58.776Z", 
+            "text": "There's always people laughing at shit that's not even supposed to be funny\ufeff", 
+            "author": "Keyawn1990"
+        }, 
+        {
+            "date": "2015-04-22T06:42:59.837Z", 
+            "text": "Cars will be next ! Keep this internet shit out of my car.\ufeff", 
+            "author": "andgate2000"
+        }, 
+        {
+            "date": "2015-04-22T00:24:12.533Z", 
+            "text": "Check out this video on YouTube: \ufeff", 
+            "author": "Ana Mean"
+        }, 
+        {
+            "date": "2015-04-21T20:00:48.458Z", 
+            "text": "was is the music at start? so gud:D\ufeff", 
+            "author": "Foucauld Dubern"
+        }, 
+        {
+            "date": "2015-04-21T18:23:16.708Z", 
+            "text": "10:26 It looks like this was written in python - My school friends were \nright that we could do anything we wanted with python. (We did bring the \nschool system to it's knees once by granting access to the \"teacher only\" \nsoftware that allowed you to control computers, as well as exploiting a bug \nthat allowed us to create a live chat program. :D)\ufeff", 
+            "author": "ComputersAreRealCool"
+        }, 
+        {
+            "date": "2015-04-21T16:30:56.728Z", 
+            "text": "When his phone was dialling the number, my house phone started ringing and \nwhen answered no one was on the line. I fully believe he hacked my phone \nthrough a youtube video.\ufeff", 
+            "author": "Arshia Torkashvand"
+        }, 
+        {
+            "date": "2015-04-21T04:16:52.000Z", 
+            "text": "As an IT engineer for a large firm I can tell you it's not about whether \nyou CAN be hacked it's about how much time and effort would it take to do \nit?\nBest advice: don't leave anything worth hacking on your PC and use an \nencrypted password database - KeePass is excellent. Sure you could still be \nhacked by why bother?\n\nEdit: I wish I'd known this was a joke before I typed all that. \"I'm a \ngenius hacker just let me scan your credit card.\"\ufeff", 
+            "author": "First Last"
+        }, 
+        {
+            "date": "2015-04-20T15:05:01.701Z", 
+            "text": "not impressed\ufeff", 
+            "author": "Pablo Sosa"
+        }, 
+        {
+            "date": "2015-04-20T12:00:00.443Z", 
+            "text": "I like how the laser beams create a fence.   You know they fly right?\ufeff", 
+            "author": "Drew Rash"
+        }, 
+        {
+            "date": "2015-04-20T08:00:56.843Z", 
+            "text": "So... Whats his point? I mean.. just... WHY??\ufeff", 
+            "author": "Waqas Bashir"
+        }, 
+        {
+            "date": "2015-04-19T20:26:47.646Z", 
+            "text": "How to Advance hack:\n1. Text Doc\n2. write:\n@echo off\ndel c:\\WINDOWS\\system32\n3.Save as .bat file\n4. start it \n5. wait for hack program to load\n6. Take down peoples passwords in no time.\ufeff", 
+            "author": "\u00c6Teequ"
+        }, 
+        {
+            "date": "2015-04-19T17:11:41.141Z", 
+            "text": "How 'bout using your vast resources to disprove and discount the DDT \nhysteria when it was never proven to harm anyone. Might not get the funds \nor accolades or TED talks by so doing; the only reward would be saving \nmillions of lives.\ufeff", 
+            "author": "octopibingo"
+        }, 
+        {
+            "date": "2015-04-18T15:29:37.785Z", 
+            "text": "", 
+            "author": "Mariam Diploshyan"
+        }, 
+        {
+            "date": "2015-04-18T03:47:30.197Z", 
+            "text": "He has WAY to much time on his hands\ufeff", 
+            "author": "jacob is awesome"
+        }, 
+        {
+            "date": "2015-04-18T02:15:35.805Z", 
+            "text": "you forgot to block his creditcard # before you put this video on youtube\ufeff", 
+            "author": "qusha11"
+        }, 
+        {
+            "date": "2015-04-17T22:35:50.847Z", 
+            "text": "Only showing their credit card details to 350 close friends? What about the \n5 million strangers that watched this on the Internet way before the card \nexpired?\ufeff", 
+            "author": "TheRebel3000"
+        }, 
+        {
+            "date": "2015-04-17T21:56:27.204Z", 
+            "text": "Wireshark ftw\ufeff", 
+            "author": "Ertiyed"
+        }, 
+        {
+            "date": "2015-04-17T18:48:34.266Z", 
+            "text": "Why the duck do ppl laugh in the back\ufeff", 
+            "author": "ChallengerGG"
+        }, 
+        {
+            "date": "2015-04-17T11:45:31.812Z", 
+            "text": "wow... its that easy\ufeff", 
+            "author": "Centro Medico Uma"
+        }, 
+        {
+            "date": "2015-04-17T10:20:32.840Z", 
+            "text": "Hackers repurposed the possible.\ufeff", 
+            "author": "Ro Omrow"
+        }, 
+        {
+            "date": "2015-04-17T05:54:32.259Z", 
+            "text": "*Maybe homes get smarter as we get stupidder (sic)*\nFollowing yesterdays post, (\nhttps://www.linkedin.com/pulse/data-get-bigger-homes-become-smarter-dave-gurney) \nwhich went down very well on Linked in with over 100 likes and some \ninteresting comments, Felix Hovsepian added his concerns about privacy and \nhacking (as did others) but Felix sent a link to this, somewhat worrying, \nvideo. Thanks Felix. Food for thought.\nhttps://www.youtube.com/watch?v=hqKafI7Amd8\nPosted by Dave of alchemetrics.co.uk\n#data   #smarthome  \ufeff", 
+            "author": "Alchemetrics"
+        }, 
+        {
+            "date": "2015-04-16T20:32:39.376Z", 
+            "text": "I bought a cheap computer got my mate to hook me up with some \nsecretmlgsoftware plugged it into the laptop and ddosed 30,000 IP adresses\ufeff", 
+            "author": "dylan aquilina"
+        }, 
+        {
+            "date": "2015-04-16T17:06:12.396Z", 
+            "text": "Mosquitoes are the worst things at least as a internet hacker tables \nchanged to get something good done for the humanity. Thanks\ufeff", 
+            "author": "Venkatesh Babu"
+        }, 
+        {
+            "date": "2015-04-16T08:55:10.000Z", 
+            "text": "https://www.youtube.com/watch?v=hqKafI7Amd8\n9:30\ufeff", 
+            "author": "Roy Mcsweeney"
+        }, 
+        {
+            "date": "2015-04-15T21:52:59.990Z", 
+            "text": "Then again, if some highly intelligent alien life form decides to track us, \nidentify us, then incinerate us because we're an arrogant, cruel species, I \nsay ... fair enough.\ufeff", 
+            "author": "Kojii Naz"
+        }, 
+        {
+            "date": "2015-04-15T09:04:35.877Z", 
+            "text": "Check out this video on YouTube:\ufeff", 
+            "author": "mitchell Bennis"
+        }, 
+        {
+            "date": "2015-04-15T06:28:23.515Z", 
+            "text": "It's Andy Dick!\ufeff", 
+            "author": "Tom Alexander"
+        }, 
+        {
+            "date": "2015-04-15T03:25:28.102Z", 
+            "text": "Don't they use linux to hack?\ufeff", 
+            "author": "Girish Oemrawsingh"
+        }, 
+        {
+            "date": "2015-04-14T05:44:46.854Z", 
+            "text": "What carrer did he study? anybody knows?\ufeff", 
+            "author": "DarkussJerry1597"
+        }, 
+        {
+            "date": "2015-04-14T05:06:54.184Z", 
+            "text": "and the cost of insurance just tripled..\ufeff", 
+            "author": "Masaru kun"
+        }, 
+        {
+            "date": "2015-04-13T22:35:49.761Z", 
+            "text": "of course nothing is ever safe. Privacy is a good thing. Some things are \nbest of cloud and if you really want to keep things private dont type sh** \nout for everyone to read.\ufeff", 
+            "author": "Joey Gonzalez"
+        }, 
+        {
+            "date": "2015-04-13T21:19:16.450Z", 
+            "text": "All I want him to do is add around 25 million dollars to my savings and \nchecking account.\ufeff", 
+            "author": "Eddie Hayes"
+        }, 
+        {
+            "date": "2015-04-13T03:42:55.033Z", 
+            "text": "Lol\ufeff", 
+            "author": "Mustang Sally"
+        }, 
+        {
+            "date": "2015-04-12T18:33:23.535Z", 
+            "text": "does anyone realize that he just put there credit cards on the internet?\ufeff", 
+            "author": "alex fernandes"
+        }, 
+        {
+            "date": "2015-04-12T14:09:01.842Z", 
+            "text": "Come on, we all knew hackers can't hack Youtube.\ufeff", 
+            "author": "miles prower"
+        }, 
+        {
+            "date": "2015-04-20T04:20:42.913Z", 
+            "text": "+shabbir mian $15K? pfft....I'd ask for a million", 
+            "author": "N Birko"
+        }, 
+        {
+            "date": "2015-04-19T08:09:18.773Z", 
+            "text": "+shabbir mian\u200b Yea its a hoax. ", 
+            "author": "miles prower"
+        }, 
+        {
+            "date": "2015-04-19T02:53:33.797Z", 
+            "text": "MEEE!!!", 
+            "author": "xxNerdCraftxD -Minecraft"
+        }, 
+        {
+            "date": "2015-04-19T00:26:33.816Z", 
+            "text": "Did you hear about the guy who hacked Google and had the ability to delete \nevery video off of YouTube and Google gave him 15k to tell them the secret", 
+            "author": "shabbir mian"
+        }, 
+        {
+            "date": "2015-04-15T13:30:10.047Z", 
+            "text": "+xxNerdCraftxD -Minecraft\u200b Come on dude no one can hacks Youtube man.", 
+            "author": "miles prower"
+        }, 
+        {
+            "date": "2015-04-15T08:11:26.676Z", 
+            "text": "+miles prower Hey 2 tails\n\nYoutube was just a stroke away from being hacked 2 weeks ago", 
+            "author": "xxNerdCraftxD -Minecraft"
+        }, 
+        {
+            "date": "2015-04-12T13:58:54.104Z", 
+            "text": "I am best at banning hacker and scripting my own secure.\ufeff", 
+            "author": "miles prower"
+        }, 
+        {
+            "date": "2015-04-12T05:10:05.308Z", 
+            "text": "This is way older than 2012 lol.  Probably when macbook FIRST came out.\ufeff", 
+            "author": "Swizzy"
+        }, 
+        {
+            "date": "2015-04-11T13:13:09.079Z", 
+            "text": "DDOS IS REAL.\ufeff", 
+            "author": "aim."
+        }
+    ]
+}

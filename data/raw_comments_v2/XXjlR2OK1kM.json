@@ -1,0 +1,1718 @@
+{
+    "publish_date": "2013-01-20T18:11:52.000Z", 
+    "video_length": "PT9M14S", 
+    "captions": [
+        {
+            "text": "STEVE MOULD: This is\nBenford&#39;s Law.", 
+            "dur": "1.36", 
+            "start": "0.43"
+        }, 
+        {
+            "text": "And it&#39;s about numbers, but it&#39;s\nabout the leading digit.", 
+            "dur": "3.62", 
+            "start": "1.79"
+        }, 
+        {
+            "text": "For example, you could look at\nthe populations of all the", 
+            "dur": "4.13", 
+            "start": "5.41"
+        }, 
+        {
+            "text": "countries in the world and\nlook at the leading", 
+            "dur": "2.38", 
+            "start": "9.54"
+        }, 
+        {
+            "text": "digits of all those.", 
+            "dur": "0.87", 
+            "start": "11.92"
+        }, 
+        {
+            "text": "So for example, if it was 1,269,\nthen the leading digit", 
+            "dur": "4.44", 
+            "start": "12.79"
+        }, 
+        {
+            "text": "in that case is the one.", 
+            "dur": "3.09", 
+            "start": "17.23"
+        }, 
+        {
+            "text": "Benford&#39;s Law works on a\ndistribution of numbers if", 
+            "dur": "3.92", 
+            "start": "20.32"
+        }, 
+        {
+            "text": "that distribution spans quite\na few orders of magnitude.", 
+            "dur": "5.44", 
+            "start": "24.24"
+        }, 
+        {
+            "text": "And the brilliant thing about\npopulations of countries is", 
+            "dur": "3.04", 
+            "start": "29.68"
+        }, 
+        {
+            "text": "that it actually goes from\ntens up to billions.", 
+            "dur": "2.5", 
+            "start": "32.72"
+        }, 
+        {
+            "text": "If you were to think about\nthat, OK, what are the", 
+            "dur": "3.59", 
+            "start": "35.22"
+        }, 
+        {
+            "text": "distribution of leading\ndigits.", 
+            "dur": "1.75", 
+            "start": "38.81"
+        }, 
+        {
+            "text": "So some of the populations will\nstart with the one, some", 
+            "dur": "4.21", 
+            "start": "40.56"
+        }, 
+        {
+            "text": "will start with two, three,\nfour, five, six,", 
+            "dur": "1.3", 
+            "start": "44.77"
+        }, 
+        {
+            "text": "seven, eight, or nine.", 
+            "dur": "1.56", 
+            "start": "46.07"
+        }, 
+        {
+            "text": "And so there are nine possible\nleading digits.", 
+            "dur": "2.4", 
+            "start": "47.63"
+        }, 
+        {
+            "text": "And you might imagine that each\none of those possible", 
+            "dur": "3.17", 
+            "start": "50.03"
+        }, 
+        {
+            "text": "leading digits are equally\nlikely to appear.", 
+            "dur": "2.23", 
+            "start": "53.2"
+        }, 
+        {
+            "text": "So that&#39;s one in nine--", 
+            "dur": "1.78", 
+            "start": "55.43"
+        }, 
+        {
+            "text": "11%.", 
+            "dur": "0.8", 
+            "start": "57.21"
+        }, 
+        {
+            "text": "And if I was to plot that on a\ngraph, you might expect that", 
+            "dur": "2.84", 
+            "start": "58.01"
+        }, 
+        {
+            "text": "to fluctuate around 11%.", 
+            "dur": "4.4", 
+            "start": "60.85"
+        }, 
+        {
+            "text": "So it&#39;s going to go like that.", 
+            "dur": "1.74", 
+            "start": "65.25"
+        }, 
+        {
+            "text": "So what actually happens is\nthat a third of the time,", 
+            "dur": "3.92", 
+            "start": "66.99"
+        }, 
+        {
+            "text": "that&#39;s up here.", 
+            "dur": "2.66", 
+            "start": "70.91"
+        }, 
+        {
+            "text": "A third of the time the\nnumber you choose will", 
+            "dur": "4.89", 
+            "start": "73.57"
+        }, 
+        {
+            "text": "start with a one.", 
+            "dur": "2.05", 
+            "start": "78.46"
+        }, 
+        {
+            "text": "And it will hardly ever\nstart with a nine.", 
+            "dur": "1.77", 
+            "start": "80.51"
+        }, 
+        {
+            "text": "So nine is down here--", 
+            "dur": "1.82", 
+            "start": "82.28"
+        }, 
+        {
+            "text": "tiny number.", 
+            "dur": "0.72", 
+            "start": "84.1"
+        }, 
+        {
+            "text": "And then you get this\nbrilliant curve that", 
+            "dur": "1.88", 
+            "start": "84.82"
+        }, 
+        {
+            "text": "goes up like that.", 
+            "dur": "2.655", 
+            "start": "86.7"
+        }, 
+        {
+            "text": "Isn&#39;t that crazy?", 
+            "dur": "1.475", 
+            "start": "89.355"
+        }, 
+        {
+            "text": "BRADY HARAN: I know you talk\nabout this sometimes in talks", 
+            "dur": "2.13", 
+            "start": "90.83"
+        }, 
+        {
+            "text": "and things you do.", 
+            "dur": "0.92", 
+            "start": "92.96"
+        }, 
+        {
+            "text": "What&#39;s the reaction to\nthat normally when", 
+            "dur": "1.49", 
+            "start": "93.88"
+        }, 
+        {
+            "text": "you tell people this?", 
+            "dur": "1.02", 
+            "start": "95.37"
+        }, 
+        {
+            "text": "STEVE MOULD: The reaction?", 
+            "dur": "0.72", 
+            "start": "96.39"
+        }, 
+        {
+            "text": "The noise is sort\nof like this--", 
+            "dur": "1.82", 
+            "start": "97.11"
+        }, 
+        {
+            "text": "ohh.", 
+            "dur": "2.57", 
+            "start": "98.93"
+        }, 
+        {
+            "text": "And there&#39;s a certain\namount of disbelief", 
+            "dur": "1.25", 
+            "start": "101.5"
+        }, 
+        {
+            "text": "sometimes as well.", 
+            "dur": "0.95", 
+            "start": "102.75"
+        }, 
+        {
+            "text": "And the way we do it actually\nin the show is that we get", 
+            "dur": "3.67", 
+            "start": "103.7"
+        }, 
+        {
+            "text": "people to tweet numbers to us.", 
+            "dur": "2.99", 
+            "start": "107.37"
+        }, 
+        {
+            "text": "So we&#39;re collecting numbers, and\nI try to give them ideas.", 
+            "dur": "3.71", 
+            "start": "110.36"
+        }, 
+        {
+            "text": "So maybe like, take the distance\nfrom the venue to", 
+            "dur": "4.11", 
+            "start": "114.07"
+        }, 
+        {
+            "text": "where they live and convert that\ninto some strange units.", 
+            "dur": "2.69", 
+            "start": "118.18"
+        }, 
+        {
+            "text": "Or something like that.", 
+            "dur": "0.86", 
+            "start": "120.87"
+        }, 
+        {
+            "text": "The interesting thing is, like I\nwas saying, it works so long", 
+            "dur": "3.52", 
+            "start": "121.73"
+        }, 
+        {
+            "text": "as the distribution you&#39;re\nchoosing from spans loads of", 
+            "dur": "5.03", 
+            "start": "125.25"
+        }, 
+        {
+            "text": "orders of magnitude.", 
+            "dur": "1.08", 
+            "start": "130.28"
+        }, 
+        {
+            "text": "But if you&#39;re picking numbers\nfrom lots of different", 
+            "dur": "3.68", 
+            "start": "131.36"
+        }, 
+        {
+            "text": "distributions, the individual\ndistributions don&#39;t have to", 
+            "dur": "3.16", 
+            "start": "135.04"
+        }, 
+        {
+            "text": "span lots of orders\nof magnitude.", 
+            "dur": "2.76", 
+            "start": "138.2"
+        }, 
+        {
+            "text": "The meta-distribution of\nindividual things picked from", 
+            "dur": "3.14", 
+            "start": "140.96"
+        }, 
+        {
+            "text": "different distributions follows\nBenford&#39;s Law anyway.", 
+            "dur": "3.41", 
+            "start": "144.1"
+        }, 
+        {
+            "text": "So it works brilliantly well.", 
+            "dur": "2.28", 
+            "start": "147.51"
+        }, 
+        {
+            "text": "BRADY HARAN: What clump\nof numbers will", 
+            "dur": "1.96", 
+            "start": "149.79"
+        }, 
+        {
+            "text": "this not work for?", 
+            "dur": "2.02", 
+            "start": "151.75"
+        }, 
+        {
+            "text": "STEVE MOULD: Human\nheight in meters.", 
+            "dur": "2.2", 
+            "start": "153.77"
+        }, 
+        {
+            "text": "So humans are between one\nmeter and three meters.", 
+            "dur": "5.41", 
+            "start": "155.97"
+        }, 
+        {
+            "text": "So it doesn&#39;t work for that.", 
+            "dur": "1.75", 
+            "start": "161.38"
+        }, 
+        {
+            "text": "You get a massive load\naround there.", 
+            "dur": "2.24", 
+            "start": "163.13"
+        }, 
+        {
+            "text": "And no one&#39;s nine meters tall.", 
+            "dur": "1.81", 
+            "start": "165.37"
+        }, 
+        {
+            "text": "Anything that has that short\ndistribution, it", 
+            "dur": "3.23", 
+            "start": "167.18"
+        }, 
+        {
+            "text": "doesn&#39;t work for.", 
+            "dur": "1.87", 
+            "start": "170.41"
+        }, 
+        {
+            "text": "But it does work for several\ndistributions put together", 
+            "dur": "3.86", 
+            "start": "172.28"
+        }, 
+        {
+            "text": "that don&#39;t necessarily\nindividually follow the rule.", 
+            "dur": "3.26", 
+            "start": "176.14"
+        }, 
+        {
+            "text": "So I did it for populations.", 
+            "dur": "1.87", 
+            "start": "179.4"
+        }, 
+        {
+            "text": "I did it for areas of countries", 
+            "dur": "2.07", 
+            "start": "181.27"
+        }, 
+        {
+            "text": "in kilometers squared.", 
+            "dur": "1.24", 
+            "start": "183.34"
+        }, 
+        {
+            "text": "If you take one number and\nconvert it to loads of", 
+            "dur": "3.87", 
+            "start": "184.58"
+        }, 
+        {
+            "text": "different units, that\nwill tend to follow", 
+            "dur": "2.36", 
+            "start": "188.45"
+        }, 
+        {
+            "text": "Benford&#39;s Law as well.", 
+            "dur": "0.82", 
+            "start": "190.81"
+        }, 
+        {
+            "text": "You can do it for the\nFinancial Times.", 
+            "dur": "2.04", 
+            "start": "191.63"
+        }, 
+        {
+            "text": "Look at all the numbers\non the front cover of", 
+            "dur": "1.71", 
+            "start": "193.67"
+        }, 
+        {
+            "text": "the Financial Times.", 
+            "dur": "0.36", 
+            "start": "195.38"
+        }, 
+        {
+            "text": "They will tend to follow\nBenford&#39;s Law as well.", 
+            "dur": "2.06", 
+            "start": "195.74"
+        }, 
+        {
+            "text": "BRADY HARAN: Just a quick\ninterjection--", 
+            "dur": "1.42", 
+            "start": "197.8"
+        }, 
+        {
+            "text": "you can also apply this to the\nnumber of times you watch", 
+            "dur": "2.87", 
+            "start": "199.22"
+        }, 
+        {
+            "text": "Numberphile videos or leave\ncomments underneath.", 
+            "dur": "3.48", 
+            "start": "202.09"
+        }, 
+        {
+            "text": "More information at the\nend of the video.", 
+            "dur": "2", 
+            "start": "205.57"
+        }, 
+        {
+            "text": "STEVE MOULD: So the explanation\nis to do with", 
+            "dur": "3.06", 
+            "start": "207.57"
+        }, 
+        {
+            "text": "scale invariance, which\nI&#39;m just getting", 
+            "dur": "2.91", 
+            "start": "210.63"
+        }, 
+        {
+            "text": "my head around now.", 
+            "dur": "0.86", 
+            "start": "213.54"
+        }, 
+        {
+            "text": "But there are a couple\nof intuitive ways of", 
+            "dur": "2.37", 
+            "start": "214.4"
+        }, 
+        {
+            "text": "understanding it.", 
+            "dur": "1.03", 
+            "start": "216.77"
+        }, 
+        {
+            "text": "One of them is to use the\nidea of a raffle.", 
+            "dur": "3.09", 
+            "start": "217.8"
+        }, 
+        {
+            "text": "To begin with, it&#39;s a\nvery small raffle.", 
+            "dur": "2.77", 
+            "start": "220.89"
+        }, 
+        {
+            "text": "So there are only two tickets\nin this raffle.", 
+            "dur": "3.73", 
+            "start": "223.66"
+        }, 
+        {
+            "text": "What are the chances of the\nwinning ticket in this raffle", 
+            "dur": "2.65", 
+            "start": "227.39"
+        }, 
+        {
+            "text": "having a leading digit of one?", 
+            "dur": "1.42", 
+            "start": "230.04"
+        }, 
+        {
+            "text": "Well, that&#39;s this one.", 
+            "dur": "0.79", 
+            "start": "231.46"
+        }, 
+        {
+            "text": "So it&#39;s one in two.", 
+            "dur": "0.94", 
+            "start": "232.25"
+        }, 
+        {
+            "text": "It&#39;s 50%.", 
+            "dur": "1.44", 
+            "start": "233.19"
+        }, 
+        {
+            "text": "But then if you increase the\nsize of the raffle, so there", 
+            "dur": "3.705", 
+            "start": "234.63"
+        }, 
+        {
+            "text": "are now three tickets in the\nraffle, the chance now are one", 
+            "dur": "3.735", 
+            "start": "238.335"
+        }, 
+        {
+            "text": "in three or about 33%.", 
+            "dur": "1.28", 
+            "start": "242.07"
+        }, 
+        {
+            "text": "If you add a fourth ticket, then\nthe probability of the", 
+            "dur": "2.604", 
+            "start": "243.35"
+        }, 
+        {
+            "text": "leading digit of the winning\nticket being a one is now 25%,", 
+            "dur": "4.116", 
+            "start": "245.954"
+        }, 
+        {
+            "text": "and then 20%, and so on and so\non until you have a raffle", 
+            "dur": "4.73", 
+            "start": "250.07"
+        }, 
+        {
+            "text": "with nine tickets in it.", 
+            "dur": "3.24", 
+            "start": "254.8"
+        }, 
+        {
+            "text": "And then the probability of the\nwinning ticket having a", 
+            "dur": "2.074", 
+            "start": "258.04"
+        }, 
+        {
+            "text": "leading digit of one\nis one in nine.", 
+            "dur": "1.986", 
+            "start": "260.114"
+        }, 
+        {
+            "text": "It&#39;s 11%, which was the\nintuitive thing", 
+            "dur": "2.94", 
+            "start": "262.1"
+        }, 
+        {
+            "text": "that you might think.", 
+            "dur": "1.09", 
+            "start": "265.04"
+        }, 
+        {
+            "text": "But then you add your\ntenth ticket.", 
+            "dur": "2.38", 
+            "start": "266.13"
+        }, 
+        {
+            "text": "And now there are two tickets\nthat start with a one.", 
+            "dur": "3.1", 
+            "start": "268.51"
+        }, 
+        {
+            "text": "So now the probability\nis 2 in 10 or 1 in 5.", 
+            "dur": "2.79", 
+            "start": "271.61"
+        }, 
+        {
+            "text": "So it would go back up to 20%.", 
+            "dur": "1.58", 
+            "start": "274.4"
+        }, 
+        {
+            "text": "The probability will go up, and\nup, and up as you add more", 
+            "dur": "3.32", 
+            "start": "275.98"
+        }, 
+        {
+            "text": "tickets that start with a one.", 
+            "dur": "3.48", 
+            "start": "279.3"
+        }, 
+        {
+            "text": "And once you have a raffle with\n19 tickets in it, you&#39;re", 
+            "dur": "3.29", 
+            "start": "282.78"
+        }, 
+        {
+            "text": "up to something like 58%.", 
+            "dur": "1.37", 
+            "start": "286.07"
+        }, 
+        {
+            "text": "And then you add the\n20th ticket.", 
+            "dur": "1.82", 
+            "start": "287.44"
+        }, 
+        {
+            "text": "And so the probability\ngoes down again.", 
+            "dur": "1.81", 
+            "start": "289.26"
+        }, 
+        {
+            "text": "So the probability of the\nwinning ticket having a", 
+            "dur": "2.67", 
+            "start": "291.07"
+        }, 
+        {
+            "text": "leading digit of one will go\ndown, and down, and down", 
+            "dur": "2.4", 
+            "start": "293.74"
+        }, 
+        {
+            "text": "through the 20s.", 
+            "dur": "0.89", 
+            "start": "296.14"
+        }, 
+        {
+            "text": "It will go down through the\n40s, down through the 50s,", 
+            "dur": "2.52", 
+            "start": "297.03"
+        }, 
+        {
+            "text": "60s, 70s, 80s, 90s, until you\nadd the hundredth ticket.", 
+            "dur": "5.83", 
+            "start": "299.55"
+        }, 
+        {
+            "text": "And then the probability will\nstart to go up again.", 
+            "dur": "1.24", 
+            "start": "305.38"
+        }, 
+        {
+            "text": "And then the probability will go\nup, and up, and up, all the", 
+            "dur": "1.75", 
+            "start": "306.62"
+        }, 
+        {
+            "text": "way through the 100s.", 
+            "dur": "1.58", 
+            "start": "308.37"
+        }, 
+        {
+            "text": "And then you get to the 200s,\nand it goes down, and down,", 
+            "dur": "2.77", 
+            "start": "309.95"
+        }, 
+        {
+            "text": "and down through all the 200s,\n300s, 400s, 500s, 600s, 700s,", 
+            "dur": "2.99", 
+            "start": "312.72"
+        }, 
+        {
+            "text": "800s, 900s.", 
+            "dur": "3.29", 
+            "start": "315.71"
+        }, 
+        {
+            "text": "And you&#39;ll be back to\n11% again then.", 
+            "dur": "4.2", 
+            "start": "319"
+        }, 
+        {
+            "text": "Then you add the thousandth\nticket.", 
+            "dur": "1.71", 
+            "start": "323.2"
+        }, 
+        {
+            "text": "And the probability will\nstart to go up again.", 
+            "dur": "1.22", 
+            "start": "324.91"
+        }, 
+        {
+            "text": "So the probability goes up,\nand up, and up through the", 
+            "dur": "1.802", 
+            "start": "326.13"
+        }, 
+        {
+            "text": "thousands and then down through\nthe 2000s, 3000s,", 
+            "dur": "3.078", 
+            "start": "327.932"
+        }, 
+        {
+            "text": "blah, blah, blah.", 
+            "dur": "1.15", 
+            "start": "331.01"
+        }, 
+        {
+            "text": "And then you get to 10,000\nand it goes up.", 
+            "dur": "2.1", 
+            "start": "332.16"
+        }, 
+        {
+            "text": "And so basically the probability\nof the winning", 
+            "dur": "2.82", 
+            "start": "334.26"
+        }, 
+        {
+            "text": "ticket having any digit of one\nfluctuates as the size of the", 
+            "dur": "2.88", 
+            "start": "337.08"
+        }, 
+        {
+            "text": "raffle increases.", 
+            "dur": "1.55", 
+            "start": "339.96"
+        }, 
+        {
+            "text": "And so this is a log scale of\nthe raffle increasing in size.", 
+            "dur": "4.28", 
+            "start": "341.51"
+        }, 
+        {
+            "text": "So you might have a 10, 100,\n1,000, 10,000, and so on.", 
+            "dur": "7.53", 
+            "start": "345.79"
+        }, 
+        {
+            "text": "And then this is the probability\nhere of having a", 
+            "dur": "2.404", 
+            "start": "353.32"
+        }, 
+        {
+            "text": "leading digit of one.", 
+            "dur": "1.25", 
+            "start": "355.724"
+        }, 
+        {
+            "text": "It goes like that.", 
+            "dur": "1.09", 
+            "start": "363.39"
+        }, 
+        {
+            "text": "What Frank Benford realized was\nthat if you pick a number", 
+            "dur": "4.18", 
+            "start": "364.48"
+        }, 
+        {
+            "text": "from a distribution that spans\nloads of orders of magnitude,", 
+            "dur": "3.42", 
+            "start": "368.66"
+        }, 
+        {
+            "text": "or if you pick a number from\nthe world and you don&#39;t", 
+            "dur": "5.29", 
+            "start": "372.08"
+        }, 
+        {
+            "text": "necessarily know what the\ndistribution is in advance,", 
+            "dur": "3.53", 
+            "start": "377.37"
+        }, 
+        {
+            "text": "then it&#39;s like picking a ticket\nfrom a raffle when you", 
+            "dur": "2.86", 
+            "start": "380.9"
+        }, 
+        {
+            "text": "don&#39;t know the size\nof the raffle.", 
+            "dur": "0.99", 
+            "start": "383.76"
+        }, 
+        {
+            "text": "So you have to take the average\nof this wiggly line,", 
+            "dur": "2.39", 
+            "start": "384.75"
+        }, 
+        {
+            "text": "which is what he did.", 
+            "dur": "0.78", 
+            "start": "387.14"
+        }, 
+        {
+            "text": "So that&#39;s the average there.", 
+            "dur": "1.13", 
+            "start": "387.92"
+        }, 
+        {
+            "text": "And it&#39;s around 30%.", 
+            "dur": "1.61", 
+            "start": "389.05"
+        }, 
+        {
+            "text": "There&#39;s a formula for it, which\nis the probability of", 
+            "dur": "3.72", 
+            "start": "390.66"
+        }, 
+        {
+            "text": "picking a number with a\nparticular leading digit of d", 
+            "dur": "4.08", 
+            "start": "394.38"
+        }, 
+        {
+            "text": "is equal to log to base 10\nof 1 plus 1/d, like that.", 
+            "dur": "9.4", 
+            "start": "398.46"
+        }, 
+        {
+            "text": "And so that&#39;s how you do it.", 
+            "dur": "2.2", 
+            "start": "407.86"
+        }, 
+        {
+            "text": "And if you plug one into\nthere, then it&#39;s", 
+            "dur": "2.62", 
+            "start": "410.06"
+        }, 
+        {
+            "text": "log base 10 of two.", 
+            "dur": "1.02", 
+            "start": "412.68"
+        }, 
+        {
+            "text": "And it ends up being\nabout 30%.", 
+            "dur": "2.47", 
+            "start": "413.7"
+        }, 
+        {
+            "text": "The beauty is that you can\ndo it in any base.", 
+            "dur": "4", 
+            "start": "416.17"
+        }, 
+        {
+            "text": "So this doesn&#39;t have\nto be base 10.", 
+            "dur": "2.18", 
+            "start": "420.17"
+        }, 
+        {
+            "text": "It could be base five, base 16,\nwhatever you want to do.", 
+            "dur": "3.4", 
+            "start": "422.35"
+        }, 
+        {
+            "text": "You can apply Benford&#39;s Law\nto different bases.", 
+            "dur": "2.95", 
+            "start": "425.75"
+        }, 
+        {
+            "text": "This is a formula that a\nforensic accountant would use", 
+            "dur": "4.71", 
+            "start": "428.7"
+        }, 
+        {
+            "text": "as a tax formula of something\nlike that.", 
+            "dur": "1.59", 
+            "start": "433.41"
+        }, 
+        {
+            "text": "If you&#39;re making up numbers in\nyour accounts and the numbers", 
+            "dur": "2.92", 
+            "start": "435"
+        }, 
+        {
+            "text": "you make up don&#39;t follow\nBenford&#39;s Law, then that&#39;s a", 
+            "dur": "2.17", 
+            "start": "437.92"
+        }, 
+        {
+            "text": "clue that you might\nbe cheating.", 
+            "dur": "1.47", 
+            "start": "440.09"
+        }, 
+        {
+            "text": "So this is a formula you need to\nremember if you&#39;re going to", 
+            "dur": "3.545", 
+            "start": "441.56"
+        }, 
+        {
+            "text": "cheat on your tax return.", 
+            "dur": "1.155", 
+            "start": "445.105"
+        }, 
+        {
+            "text": "BRADY HARAN: A lot of things\nthat mathematically inclined", 
+            "dur": "2.77", 
+            "start": "446.26"
+        }, 
+        {
+            "text": "people like yourself tell me\nwhen I hear about them seem", 
+            "dur": "3.34", 
+            "start": "449.03"
+        }, 
+        {
+            "text": "counter-intuitive.", 
+            "dur": "1.09", 
+            "start": "452.37"
+        }, 
+        {
+            "text": "And then you cleverly explain\nwhy it works the way it works.", 
+            "dur": "2.82", 
+            "start": "453.46"
+        }, 
+        {
+            "text": "This is one of the few things\nthat when I&#39;ve heard about it,", 
+            "dur": "2.72", 
+            "start": "456.28"
+        }, 
+        {
+            "text": "this just seems logical to me.", 
+            "dur": "1.6", 
+            "start": "459"
+        }, 
+        {
+            "text": "When someone says one will come\nup more often, to me that", 
+            "dur": "3.79", 
+            "start": "460.6"
+        }, 
+        {
+            "text": "just seems like, of course\nthat would happen.", 
+            "dur": "1.72", 
+            "start": "464.39"
+        }, 
+        {
+            "text": "STEVE MOULD: Yes.", 
+            "dur": "0.25", 
+            "start": "466.11"
+        }, 
+        {
+            "text": "Funny isn&#39;t it?", 
+            "dur": "2.81", 
+            "start": "466.36"
+        }, 
+        {
+            "text": "Some people are like you.", 
+            "dur": "1.58", 
+            "start": "469.17"
+        }, 
+        {
+            "text": "I would say you&#39;re in the\nminority of people that go,", 
+            "dur": "2.48", 
+            "start": "470.75"
+        }, 
+        {
+            "text": "well, yeah.", 
+            "dur": "0.62", 
+            "start": "473.23"
+        }, 
+        {
+            "text": "And I wonder if there is another\nintuitive way of", 
+            "dur": "3.25", 
+            "start": "473.85"
+        }, 
+        {
+            "text": "looking at it that you&#39;ve tapped\ninto, which is that if", 
+            "dur": "2.92", 
+            "start": "477.1"
+        }, 
+        {
+            "text": "you imagine something like\nthe NASDAQ index or", 
+            "dur": "3.65", 
+            "start": "480.02"
+        }, 
+        {
+            "text": "something like that--", 
+            "dur": "1.99", 
+            "start": "483.67"
+        }, 
+        {
+            "text": "and I don&#39;t know what the NASDAQ\nindex is size-wise--", 
+            "dur": "3.17", 
+            "start": "485.66"
+        }, 
+        {
+            "text": "but imagine that the NASDAQ\nindex is at 1,000.", 
+            "dur": "5.65", 
+            "start": "488.83"
+        }, 
+        {
+            "text": "To change that to 2,000, you&#39;d\nhave to double it.", 
+            "dur": "4.23", 
+            "start": "494.48"
+        }, 
+        {
+            "text": "So the NASDAQ index would have\nto increase by 100% to get", 
+            "dur": "4.25", 
+            "start": "498.71"
+        }, 
+        {
+            "text": "from something that starts with\na one to something that", 
+            "dur": "2.5", 
+            "start": "502.96"
+        }, 
+        {
+            "text": "starts with a two.", 
+            "dur": "0.505", 
+            "start": "505.46"
+        }, 
+        {
+            "text": "So that&#39;s quite a big change.", 
+            "dur": "1.955", 
+            "start": "505.965"
+        }, 
+        {
+            "text": "But if the NASDAQ index was\non 9,000 and you wanted to", 
+            "dur": "5.48", 
+            "start": "507.92"
+        }, 
+        {
+            "text": "increase it to 10,000, then\nthat&#39;s an 11% increase.", 
+            "dur": "5.769", 
+            "start": "513.4"
+        }, 
+        {
+            "text": "So it&#39;s hardly anything.", 
+            "dur": "1.411", 
+            "start": "519.169"
+        }, 
+        {
+            "text": "So basically, you don&#39;t really\nhang around the nines.", 
+            "dur": "3.87", 
+            "start": "520.58"
+        }, 
+        {
+            "text": "As things are growing and\nshrinking, you don&#39;t hang", 
+            "dur": "1.89", 
+            "start": "524.45"
+        }, 
+        {
+            "text": "around, whereas you do\nhang around the ones.", 
+            "dur": "1.67", 
+            "start": "526.34"
+        }, 
+        {
+            "text": "And maybe that&#39;s intuitive\nto you.", 
+            "dur": "2.04", 
+            "start": "528.01"
+        }, 
+        {
+            "text": "So you&#39;re like, yeah\nobviously.", 
+            "dur": "1.33", 
+            "start": "530.05"
+        }, 
+        {
+            "text": "BRADY HARAN: If you&#39;d like to\nsee even more about Benford&#39;s", 
+            "dur": "2.02", 
+            "start": "534.44"
+        }, 
+        {
+            "text": "Law, we&#39;ve done a bit of a\nstatistical analysis to find", 
+            "dur": "3.52", 
+            "start": "536.46"
+        }, 
+        {
+            "text": "out whether or not your viewing\nhabits and the number", 
+            "dur": "2.66", 
+            "start": "539.98"
+        }, 
+        {
+            "text": "of times you comment on\nNumberphile videos is", 
+            "dur": "3.64", 
+            "start": "542.64"
+        }, 
+        {
+            "text": "following the Benford curve.", 
+            "dur": "2.19", 
+            "start": "546.28"
+        }, 
+        {
+            "text": "The link is below this video\nor here on the screen.", 
+            "dur": "3.07", 
+            "start": "548.47"
+        }, 
+        {
+            "text": "So why don&#39;t you check it out?", 
+            "dur": "1.25", 
+            "start": "551.54"
+        }
+    ], 
+    "title": "Number 1 and Benford's Law - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/095vj", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 337747, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-06T03:42:42.298Z", 
+            "text": "Why does it have to be the leading digit?\n\nSeems like it would work for any or all\ufeff", 
+            "author": "BarnOwl"
+        }, 
+        {
+            "date": "2015-04-30T17:40:33.439Z", 
+            "text": "So... if the convention for counting was as such 2,3,4,5,6,7,8,9,1 where \neach corresponds to what we now consider to be 1,2.3,4,5,6,7,8,9, then does \nthat mean in that world, Benford's law would apply to the symbol \nrepresenting the first digit which in this case would be 2? Rather it's not \nthe symbol per say but rather the position it takes in the number system..\ufeff", 
+            "author": "JG"
+        }, 
+        {
+            "date": "2015-04-25T18:30:59.162Z", 
+            "text": "Correct me if I'm wrong: if you pick random numbers between 1 and 1000 it \nwill not follow Benford's law. But if you pick random numbers between 1 and \nr where r is a random number (a new one for every pick) between 1 and 1000, \nthose numbers will follow Benford's law.\ufeff", 
+            "author": "Mr8anton8"
+        }, 
+        {
+            "date": "2015-04-16T07:21:31.571Z", 
+            "text": "16th of April 2015. This video has 333496 views, 5827 likes, 92 dislikes. \nNo #1 as a leading digit anywhere... somewhat disappointing :)\ufeff", 
+            "author": "Marcus B."
+        }, 
+        {
+            "date": "2015-04-12T18:01:05.931Z", 
+            "text": "Is there a Rubik's cube in every episode?\ufeff", 
+            "author": "Jimmy Star"
+        }, 
+        {
+            "date": "2015-04-12T04:19:55.991Z", 
+            "text": "Does this work for lottery numbers?\ufeff", 
+            "author": "behnamasid2"
+        }, 
+        {
+            "date": "2015-04-05T03:15:59.525Z", 
+            "text": "To me, this was always intuitive. You can't have 2 without 1. You can't \nhave 3 without 2, without 1, etc. There will always be more starting units \nthan the ones that follow. All sequences must end, and they will end at an \narbitrary point. But they all start with the start, here being 1. Always \nthe same start, but with differing endings, regardless of Base. More of the \nstarting point than any individual terminus.\ufeff", 
+            "author": "Bill Kilmer"
+        }, 
+        {
+            "date": "2015-03-27T15:55:48.427Z", 
+            "text": "Benford's Law #math https://www.youtube.com/watch?v=XXjlR2OK1kM\ufeff", 
+            "author": "Renato Candido"
+        }, 
+        {
+            "date": "2015-03-24T03:35:47.526Z", 
+            "text": "Look by his head at 1:39.\ufeff", 
+            "author": "Bryan Tenpas"
+        }, 
+        {
+            "date": "2015-03-15T15:16:18.000Z", 
+            "text": " the 5:57 interests me, does it mean it really works for different counting \nsystems? i kinda wanna see proof of that :)\ufeff", 
+            "author": "TheiLame"
+        }, 
+        {
+            "date": "2015-04-14T02:48:54.689Z", 
+            "text": "+breathless792 Actually, never mind. I just realized what I'd said. You're \nright.", 
+            "author": "Ceul Gai"
+        }, 
+        {
+            "date": "2015-04-14T02:48:11.236Z", 
+            "text": "+breathless792 Actually, that proves that binary is an exception.", 
+            "author": "Ceul Gai"
+        }, 
+        {
+            "date": "2015-04-07T20:47:44.195Z", 
+            "text": "+Alex Roberts\nactually technically it does: log(base 2) (1+ 1/1) = 1 (meaning it's \nprobability is certain!", 
+            "author": "breathless792"
+        }, 
+        {
+            "date": "2015-03-23T21:56:14.087Z", 
+            "text": "It wouldn't work in binary, because all numbers begin with a 1 in binary \n(so technically it would, but it wouldn't be very interesting)", 
+            "author": "Alex Roberts"
+        }, 
+        {
+            "date": "2015-03-20T21:21:42.428Z", 
+            "text": "Then why don't you go and try in hexadecimal, I'll try base three.", 
+            "author": "Dion van Oene"
+        }, 
+        {
+            "date": "2015-01-20T02:43:49.365Z", 
+            "text": "I find this quite intuitive. Take a number at random, with equal \npossibility distribution. We let this number be proportional to the \nmagnitude of some unknown quantity. We would need to raise some base to the \npower of this number to get the exact value of the quantity. When you look \nat any log scale, the distance between 1X10^n and 2X10^n is always greater \nthan the distance between 9X10^n and 10X10^n, (or 1X10^n+1). Just looking \nat a log scale makes it apparent that with a truly random magnitude, the \nvalue would have a leading one.\ufeff", 
+            "author": "jk991234"
+        }, 
+        {
+            "date": "2015-01-20T02:46:07.356Z", 
+            "text": "I wonder why this was discovered so recently. This seems more fundamental \nthan other topics such as calculus. This should have been discovered during \nthe days of logarithms. It is so obvious.", 
+            "author": "jk991234"
+        }, 
+        {
+            "date": "2015-01-14T01:54:55.486Z", 
+            "text": "radiolab's \"numbers\" episode mentioned this and it also had a segment where \nit seems that humans are born thinking \"logarithmically\" and later learn \nthe conventional \"counting\" method of numbers which could explain why some \npeople think that it would be natural for the digit \"1\" to be first more \noften.\ufeff", 
+            "author": "Johnathan Henning"
+        }, 
+        {
+            "date": "2015-01-05T05:57:13.299Z", 
+            "text": "so it depends on our counting system? 0-9, or 10 digits? what if we took \nthe base-12 system?\ufeff", 
+            "author": "DJ FiBa"
+        }, 
+        {
+            "date": "2015-01-04T09:51:14.363Z", 
+            "text": "I've read that this was actually noticed a long time ago when they used \ntables of logarithms. The pages in the beginning of the book, near 1, were \nmore worn than the pages at the end.\ufeff", 
+            "author": "Jeff W"
+        }, 
+        {
+            "date": "2014-12-25T12:08:55.803Z", 
+            "text": "The Monty Hall problem is my favorite. It always seemed intuitive to me. \ufeff", 
+            "author": "Dialectical Monist"
+        }, 
+        {
+            "date": "2014-12-25T11:06:51.645Z", 
+            "text": "So do I have a better chance of winning a raffle if I have a 1 as the first \nnumber in my ticket ?\ufeff", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2014-12-25T12:06:11.513Z", 
+            "text": "The reason the winning ticket is more likely to start with a \"1,\" is \nbecause there are MORE tickets that start with a \"1.\" So trading your \nticket for any other ticket is not more likely to win.\n\nHowever, if you are picking a price on \"The Price is Right,\" you should \nprobably start off with a \"1\" if you have no other information. ", 
+            "author": "Dialectical Monist"
+        }, 
+        {
+            "date": "2014-12-25T11:07:24.000Z", 
+            "text": "Actually if you look at the last number (the \"one\" on the right) it is \nalways zero so that's a bit more interesting.\ufeff", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2014-12-21T21:17:52.471Z", 
+            "text": "you are so amazing :) i love you\ufeff", 
+            "author": "quebono100"
+        }, 
+        {
+            "date": "2014-12-17T21:04:25.268Z", 
+            "text": "1\ufeff", 
+            "author": "Walker Toohey"
+        }, 
+        {
+            "date": "2014-12-15T01:02:37.496Z", 
+            "text": "Did you really buy full book of those \"ruffles\" or how you call them just \nto demonstrate this?\ufeff", 
+            "author": "hlupaco"
+        }, 
+        {
+            "date": "2014-12-09T03:38:54.920Z", 
+            "text": "I actually found it fairly intuitive myself. Going up the pre-hundreds, for \nthe first 89 numbers, you've got 11 leading ones, and only 1 leading nine. \nThen you catch up from 90 to 99, but then you got to the thousands, and you \ndon't get back to nine again until 900. By the time you reach 8999, you \nhave 1111 leading ones and only 111 leading nines. And the gap goes up \nexponentially each time the overall number increases by a digit. So... \nyeah. Makes sense right off the bat. Didn't know there was an actual law \nfor it though, so thanks for that bit of education there :)\ufeff", 
+            "author": "MsBoredom22"
+        }, 
+        {
+            "date": "2014-11-30T14:41:52.250Z", 
+            "text": "I wanted to see this for myself, so I did this in Excel. In column A, I put \nall numbers (1 to whatever) and for every number I looked what the first \ndigit was. At 1, I only found one number starting with 1. At 2, I found one \nnumber starting with 1 and one starting with 2, and so on. For every number \nI calculated the percentage (also counting the previous percentages). I did \nthis for the numbers 1 to 9,999. I got a beautiful graph with in the end \nthe following percentages:\n1: 24,1547%\n2: 18,3273%\n3: 14,5466%\n4: 11,7363%\n5: 9,4973%\n6: 7,6356%\n7: 6,0420%\n8: 4,6489%\n9: 3,4112%\ufeff", 
+            "author": "Koen Markgraaff"
+        }, 
+        {
+            "date": "2014-11-29T21:35:55.837Z", 
+            "text": "88 people wan't the number of dislikes to defy the Benford's law.\ufeff", 
+            "author": "Mikko Haavisto"
+        }, 
+        {
+            "date": "2014-10-31T23:10:47.000Z", 
+            "text": "Doesnt Benford's law rely pretty exclusively on the assumption that each \nnumber in these many sequences occur only once? That there is no natural \nbias towards some numbers as opposed to others.\ufeff", 
+            "author": "CogitoErgoCogitoSum"
+        }, 
+        {
+            "date": "2014-10-29T17:53:15.707Z", 
+            "text": "Glad it was pointed out that this is a very intuitive law.  \ufeff", 
+            "author": "Brian Johnson"
+        }, 
+        {
+            "date": "2014-09-07T15:57:40.382Z", 
+            "text": "1177 comments\ufeff", 
+            "author": "Jonathan Martineau"
+        }, 
+        {
+            "date": "2014-09-03T07:00:14.880Z", 
+            "text": "So, how do I make my tax figures look legitimate???\ufeff", 
+            "author": "Osel Somar"
+        }, 
+        {
+            "date": "2015-03-23T23:20:53.577Z", 
+            "text": "+Alex Roberts\nI may write a computer program that will output a spreadsheet with items \nreflecting this law....   I bet the fat rich boys already have something \nlike that.....", 
+            "author": "Osel Somar"
+        }, 
+        {
+            "date": "2015-03-23T21:58:17.671Z", 
+            "text": "Become an accountant?...", 
+            "author": "Alex Roberts"
+        }, 
+        {
+            "date": "2014-08-17T00:05:28.213Z", 
+            "text": "1-10 is a tenfold increase\n10-20 is only a doubling\n20-30 is a third-ing\n....and so on\n\nTherefore, as things increase in magnitude they do more 'work' in the early \nphases of growth\ufeff", 
+            "author": "Jesse M"
+        }, 
+        {
+            "date": "2015-02-20T22:13:56.045Z", 
+            "text": "Granted, and I can easily see how that would then apply to things like \nstock values and so on. But I cant as easily see a reason for it applying \nequally well to things like, the lengths of various rivers in the world, \netc. Why isnt that a more random distribution, where 9s are as likely as 1s?", 
+            "author": "GroovingPict"
+        }, 
+        {
+            "date": "2014-09-12T18:06:11.698Z", 
+            "text": "the explained this at the end..", 
+            "author": "Eran Boodnero"
+        }, 
+        {
+            "date": "2014-07-25T13:06:44.290Z", 
+            "text": "That book seems very interesting!\ufeff", 
+            "author": "Keni Angervo"
+        }, 
+        {
+            "date": "2014-06-14T21:37:41.258Z", 
+            "text": "I work for a broadband cable provider in the US, assisting customers via \nweb chat. I checked the chat session times (in seconds) and sure enough, \nthe distribution followed benfords law almost exactly. This makes a lot of \nsense because average session time is around 960 seconds. There's a lot \nmore chats in the 1000-2000 second range than there are in the 900-1000 \nsecond range\ufeff", 
+            "author": "Alexis Gelinas"
+        }, 
+        {
+            "date": "2014-05-03T18:36:27.325Z", 
+            "text": "This is why I think Benford's Law holds:\n\nI felt like intuitively this should make sense but I couldn't explain why \nuntil I drew it out. There is a higher spread between the next instance of \nthe same leading number the higher you go, making it less likely that you \nwill actually have that digit as a leading number.\n\nSo for instance, if you start with 1 the next instance of that leading \nnumber is 10. There is a 9-digit spread.\nYou start with 2. The next instance of that leading number is 20. There is \nan 18-digit spread.\nYou start with 3. The next instance of that leading number is 30. There is \na 27-digit spread. (Or 27 opportunities NOT to hit 3). AND SO ON...\nYou start with 9. The next instance of that leading number is 90. There is \nan 81-digit spread.\n\nSame for the higher values:\nYou start with 1999. The next instance of that leading number is 10,000. \nThere is an 8001-digit spread.\nYou start with 8999. The next instance of that leading number is 80,000. \nThere is 71,001-digit spread. You're again, going to be less likely to get \nsomething starting with an \"8\" than something starting with a \"1\".\ufeff", 
+            "author": "A Ronse"
+        }, 
+        {
+            "date": "2014-09-12T18:06:00.990Z", 
+            "text": "They explained this at the end lol", 
+            "author": "Eran Boodnero"
+        }, 
+        {
+            "date": "2014-03-19T17:12:17.776Z", 
+            "text": "It does feel intuitive to me because of common it is. Even as a child you \nare exposed to this as before or while you learn exponentiation in school \nyou'll undoubtedly come across an interest calculation and will try just \npressing = on your calculator repeatedly instead, and then you'll \nimmediately notice this phenomena.\ufeff", 
+            "author": "Hedning1390"
+        }, 
+        {
+            "date": "2014-03-16T16:50:13.038Z", 
+            "text": "Why do you use the base 10 when you have 9 digits?\ufeff", 
+            "author": "Patrick idk"
+        }, 
+        {
+            "date": "2014-12-12T03:40:29.122Z", 
+            "text": "Base 10 has 10 digits. 0,1,2,3,4,5,6,7,8,9 :)", 
+            "author": "Daryll \"Coop\" Cooper"
+        }, 
+        {
+            "date": "2014-10-05T19:44:57.860Z", 
+            "text": "0,1,2,3,4,5,6,7,8,9   10 digits therefore base 10", 
+            "author": "MonthyPyton"
+        }, 
+        {
+            "date": "2014-08-16T11:04:33.270Z", 
+            "text": "There are 10 digits, not 9. The digits include zero, which is why binary is \nbase two :0 and 1. if it was base 9, you would have instead asked \"Why do \nyou use the base 11 when you have 10 digits?\".", 
+            "author": "ChaosInifinitum"
+        }, 
+        {
+            "date": "2014-08-15T10:53:24.663Z", 
+            "text": "guys, 0 is NEVER a leading number, why does it matter?", 
+            "author": "Patrick idk"
+        }, 
+        {
+            "date": "2014-08-14T20:15:08.463Z", 
+            "text": "0 is also a digit.", 
+            "author": "Kristoffer Tell"
+        }, 
+        {
+            "date": "2014-05-25T17:06:43.669Z", 
+            "text": "well, it's a bit confusing, but think about it this way.\n\nIf you wouldn't have the zero, you would count like... 5, 6, 7, 8, 9, 11, \n12, 13...\n\nskipping the 10. The zero helps you to express the nouness of that decimal \nplace.\n\nAaaaaaaaand that's why its called DECImal. :)\nHope it helps. n.n", 
+            "author": "Jackozee Hakkiuz"
+        }, 
+        {
+            "date": "2014-05-24T23:57:49.951Z", 
+            "text": "You have 10 digits, hahaha.\n1,2,3,4,5,6,7,8,9,0.", 
+            "author": "Kenji314159"
+        }, 
+        {
+            "date": "2014-04-24T07:24:38.849Z", 
+            "text": "You have 10 digits. \u00bfDo you remember the zero?", 
+            "author": "Jackozee Hakkiuz"
+        }, 
+        {
+            "date": "2014-03-26T18:37:42.180Z", 
+            "text": "hmm I find that a bit confusing because 0 is never a leading number", 
+            "author": "Patrick idk"
+        }, 
+        {
+            "date": "2014-03-26T03:28:16.489Z", 
+            "text": "0 is still a digit being expressed in the example (as in 10, 100, or 1000)", 
+            "author": "Adam Breese"
+        }, 
+        {
+            "date": "2014-03-15T16:47:41.498Z", 
+            "text": "Souldn't the log scale pattern start at the top in a W type pattern instaed \nof M, as the first measurement would be one digit of 1, thus 100%, the next \nbeing two digits of which 1 is represented by 50%. Not argueing the formula \nor the maths, just wondering about the log chart.\ufeff", 
+            "author": "2JustJoin"
+        }, 
+        {
+            "date": "2014-03-14T19:31:12.984Z", 
+            "text": "Don't know if I'm the only one who noticed this, but at 0:20, the \"L\" in \n\"Law\" is actually the number 1. Very cheeky :P\ufeff", 
+            "author": "Andronamus"
+        }, 
+        {
+            "date": "2014-10-08T23:54:47.616Z", 
+            "text": "I happened to have paused the video just at that spot to let it load, so I \nsaw that. Very cool!", 
+            "author": "shadow81818"
+        }, 
+        {
+            "date": "2014-03-12T01:17:10.060Z", 
+            "text": "The reason this happens is because the number 1 is the first number.\nLooking at the graph is clear that except when the chance is exactly 11%, \nall the other times is higher, is never lower. Those are the lowest points \nin the graph he made.\nWhy? Because 1 is the first number, thats the only reason.\ufeff", 
+            "author": "Inedits"
+        }, 
+        {
+            "date": "2014-02-28T14:13:22.977Z", 
+            "text": "\"humans are between 1m and 3m tall\"  erm, not quite, no-one is close to \nreaching 10 feet! (WR is at 8feet 11in) I get his point about distribution, \nbut bad explanation!\ufeff", 
+            "author": "FrogBasher"
+        }, 
+        {
+            "date": "2014-03-21T15:16:44.532Z", 
+            "text": "He didn't say anyone is 3m tall, he said humans are between 1m and 3m, you \nwould be just as correct if you said for example, humans are between 1cm \nand 1km tall, because every human in somewhere between those 2 sizes.", 
+            "author": "Abe Nett"
+        }, 
+        {
+            "date": "2014-02-26T13:27:20.072Z", 
+            "text": "It does intuitively make some sense, 1's will appear more because when you \nget to a new order of magnitude you start with the 1's and eventually it \nwill cap, so it would distribute towards there being more lower numbers. \nThe astounding part is the actual curve and the degree of it. \ufeff", 
+            "author": "ganondorfchampin"
+        }, 
+        {
+            "date": "2014-02-26T02:07:49.737Z", 
+            "text": "1,000+ comments.\ufeff", 
+            "author": "Robert Paxton"
+        }, 
+        {
+            "date": "2014-02-03T17:47:21.309Z", 
+            "text": "192 videos. Mind=blown\ufeff", 
+            "author": "0vershade"
+        }, 
+        {
+            "date": "2014-02-02T19:41:57.234Z", 
+            "text": "Distributions distributions distributions distributions\ufeff", 
+            "author": "Nathan Grafton"
+        }, 
+        {
+            "date": "2014-01-28T23:40:35.192Z", 
+            "text": "Could someone tell me what the chance of the leading digit being one is for \nnumbers in base 2? :) \ufeff", 
+            "author": "Christian Sindberg"
+        }, 
+        {
+            "date": "2014-10-19T17:50:12.692Z", 
+            "text": "100%", 
+            "author": "RockPolish"
+        }, 
+        {
+            "date": "2014-04-23T03:11:54.289Z", 
+            "text": "If you exclude zero, then it would be 100%, since leading zeros are not \nwritten in general use.\n1\n10\n11\n100\n101\n110\n111\n...", 
+            "author": "Mark Lazenby (Marl)"
+        }, 
+        {
+            "date": "2014-04-09T21:14:26.927Z", 
+            "text": "17%", 
+            "author": "Waad Magram"
+        }, 
+        {
+            "date": "2014-02-19T20:27:19.400Z", 
+            "text": "100%. It can either be 1 or 0, and we don't write a leading 0.", 
+            "author": "Samario"
+        }, 
+        {
+            "date": "2014-02-16T05:27:08.578Z", 
+            "text": "100% because the only digits in base 2 are 0 and 1, and leading digit \ncannot be 0.", 
+            "author": "ghfreakwierdo123"
+        }, 
+        {
+            "date": "2014-02-12T19:09:35.625Z", 
+            "text": "if you use no special notation, and only integers\nthe only number to start with zero is zero itself... all others start with \none\nso the higher you count the the prop goes against 100%", 
+            "author": "ZapOKill"
+        }, 
+        {
+            "date": "2013-11-07T01:08:18.170Z", 
+            "text": "", 
+            "author": "Tommy Williams"
+        }, 
+        {
+            "date": "2013-11-06T17:46:07.566Z", 
+            "text": "Hello, I took the average of the percentages and I can't seem to get 30.1%? \nPlease correct me if I'm wrong. I calculated data to up about 10000 using \nexcel", 
+            "author": "kenneth lay"
+        }, 
+        {
+            "date": "2013-11-03T21:46:01.415Z", 
+            "text": "That rubix cube is always finding its way in these videos. ", 
+            "author": "Robert Krupka"
+        }, 
+        {
+            "date": "2013-10-26T13:55:10.108Z", 
+            "text": "I never knew Daniel Radcliff was a mathematician...?", 
+            "author": "magnusbokarlsson"
+        }, 
+        {
+            "date": "2013-10-25T03:00:18.907Z", 
+            "text": "obviously, you have to go through 1 to get to two so you would get more of \nthem", 
+            "author": "Jamie Sydney"
+        }, 
+        {
+            "date": "2013-10-22T18:38:07.610Z", 
+            "text": "\"This is a formula you need to remember if you're going to cheat on your \ntax return\"", 
+            "author": "Falco Toast"
+        }, 
+        {
+            "date": "2013-10-20T03:13:49.660Z", 
+            "text": "To anyone who finds the raffle explanation a bit unsatisfying, let me tell \nyou: you're right, it's a weak explanation. On top of that, it's actually \nwrong too: The raffle example gives 24% 1s, not 30% 1s. I've done a video \nexplaining where the raffle explanation falls over, and give my own (imho, \nbetter) explanations as well: /watch?v=Az3kXCPZpYs", 
+            "author": "TheHue's SciTech"
+        }, 
+        {
+            "date": "2013-10-20T03:11:17.580Z", 
+            "text": "The video is finally done! (Couple of weeks, many months, same thing :-/) \n/watch?v=Az3kXCPZpYs", 
+            "author": "TheHue's SciTech"
+        }, 
+        {
+            "date": "2013-10-17T20:34:02.593Z", 
+            "text": "Wow, a 30ft tall person? That's incredible.", 
+            "author": "Charles Hirzel"
+        }, 
+        {
+            "date": "2013-10-08T21:02:08.493Z", 
+            "text": "My dad is nine meters tall.", 
+            "author": "Graviton1066"
+        }, 
+        {
+            "date": "2013-10-01T23:46:10.356Z", 
+            "text": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111", 
+            "author": "Joelle Rudder"
+        }, 
+        {
+            "date": "2013-09-24T15:28:24.716Z", 
+            "text": "new meme ", 
+            "author": "Nikolaj B\u00f8gh"
+        }, 
+        {
+            "date": "2013-09-18T21:24:36.545Z", 
+            "text": "I WANT the number book. So badly. Would be so awesome just to have it.", 
+            "author": "mailsprower1"
+        }, 
+        {
+            "date": "2013-09-15T02:00:07.420Z", 
+            "text": "I knew of this, and for the first 7 minutes I was wondering how it would \nwork in other bases... and then you answered it. Nice!", 
+            "author": "Bbonno"
+        }, 
+        {
+            "date": "2013-09-10T00:11:20.178Z", 
+            "text": "Probability of x being the leading digit=log(x)-log(x-1)", 
+            "author": "jacolmes"
+        }, 
+        {
+            "date": "2013-09-04T20:54:57.840Z", 
+            "text": "Nice one, Eddi.", 
+            "author": "John Hans"
+        }, 
+        {
+            "date": "2013-09-01T05:45:29.305Z", 
+            "text": "Yeah, I mean seriously, it's so obvious to me, it's annoying someone was so \nproud of coming up with this \"law\" that he got his name attached, let alone \nwhy it even deserves an explanation. Of course, you KNOW, the REAL first \ndigit of any number is 0.... because it's infinitely many zeros, followed \nby nonzero numbers, and then a decimal point then more if it's not an \ninteger. What's so important about the first nonzero digit? We ignore all \nthose 0's just out of subjective human disinterest.", 
+            "author": "medexamtoolsdotcom"
+        }, 
+        {
+            "date": "2013-08-31T07:03:43.521Z", 
+            "text": "Correct, sir! This explanation is far simpler and actually far more correct \nthat the raffle example in the video.", 
+            "author": "TheHue's SciTech"
+        }, 
+        {
+            "date": "2013-08-31T06:59:55.516Z", 
+            "text": "It's no good for the lottery, all balls in the lottery are equally likely. \nIf you add many dice rolls, then you'll start to see benfords law \neventually. It'll work even better if you *multiply* dice rolls. If you \nmultiply, say, 20 or 30 dice rolls, you'll get an amazingly close \napproximation to benford's law.", 
+            "author": "TheHue's SciTech"
+        }, 
+        {
+            "date": "2013-08-31T06:57:53.454Z", 
+            "text": "Fascinating question! But I believe the answer is no; even if you look at \nall the integers, you don't get 30.1%, you get 24.1% (the example in the \nvideo is actually wrong in this respect). Primes are chosen on an \ninteger-by-integer basis, so they'll work out with a leading 1 roughly \n24.1% of the time, and that's if you choose to stop at a random number. \nBenford's law only appears where you do complex calculations with a large \nrange of values at the end, not (pseudo-)randomly selecting integers.", 
+            "author": "TheHue's SciTech"
+        }, 
+        {
+            "date": "2013-08-31T06:49:21.636Z", 
+            "text": "No, if you ask a random number generator for a number between 1000 and \n10000 with a uniform distribution (which is what is meant by default), then \nyou'll get the leading digit 1 with a 1/9 probability. If, on the other \nhand, you take a number x from this random number generator, and calculate \nexp(x) (the exponential function of x), then the first digit of *that* \nresult will be 1 with 30.1% probability. There's no such thing as a \n\"perfect\" random distribution.", 
+            "author": "TheHue's SciTech"
+        }, 
+        {
+            "date": "2013-08-28T13:43:00.953Z", 
+            "text": "I got a soft spot for scale invariance so I really enjoyed this. One of my \nfavourite numberphile videos.", 
+            "author": "ragestarfish"
+        }, 
+        {
+            "date": "2013-08-26T02:58:28.131Z", 
+            "text": "Numberphile, Where you find out what those weird buttons on your calculator \nmean.", 
+            "author": "Not Exactly Straight but Might be"
+        }, 
+        {
+            "date": "2013-08-21T16:27:45.325Z", 
+            "text": "That's really interesting.", 
+            "author": "Dinkydau00"
+        }, 
+        {
+            "date": "2013-08-03T18:36:15.960Z", 
+            "text": "what about children 0.9 metres tall?", 
+            "author": "Bretton M"
+        }, 
+        {
+            "date": "2013-08-03T00:02:09.462Z", 
+            "text": "Steve, you are the most beautiful mathematician I've ever seen and I \nhonestly want to marry you <3", 
+            "author": "NaiveProject"
+        }, 
+        {
+            "date": "2013-07-31T02:29:15.727Z", 
+            "text": "1:39 -> Dat face", 
+            "author": "elsurexiste"
+        }, 
+        {
+            "date": "2013-07-30T20:56:30.388Z", 
+            "text": "he made a period for his equation 6:46 ...lol", 
+            "author": "SuperHeisan"
+        }, 
+        {
+            "date": "2013-07-20T18:47:31.803Z", 
+            "text": "dayyyum hott mann", 
+            "author": "odessa"
+        }, 
+        {
+            "date": "2013-07-16T09:34:14.831Z", 
+            "text": "Yes, but to put a system of random number generation to a truly definitive \ntest, you would have to run an infinite number of instances, because as \nsoon as you run your final instance you skew the probability by removing an \ninfinite number of balancing draws. ", 
+            "author": "Psychentist"
+        }, 
+        {
+            "date": "2013-07-15T16:53:10.752Z", 
+            "text": "Could this be used to say test random number distributions? Say we pick a \nrandom numbers between 1,000 and 10,000. According to the above the \ndistribution (assuming an adequate sample size) shouldn't we see roughly 30 \n% of numbers starting with one, assuming \"perfect\" random distributions? ", 
+            "author": "Torrey Braman"
+        }, 
+        {
+            "date": "2013-07-14T22:02:20.291Z", 
+            "text": "lets try this with dozens of the videos on Youtube, their views.", 
+            "author": "Nabeel Farooqui"
+        }, 
+        {
+            "date": "2013-07-11T13:33:19.008Z", 
+            "text": "Quite - or if you just pick a bunch of scales at random.", 
+            "author": "0olong"
+        }, 
+        {
+            "date": "2013-07-09T01:26:06.428Z", 
+            "text": "Yeah, I'm in that same boat, it just seems so logical to me that it would \nbe the leading digit more often than any other number.", 
+            "author": "nekroneko"
+        }, 
+        {
+            "date": "2013-07-08T21:34:27.347Z", 
+            "text": "But he guy with the sideburns is quite awesome, too.", 
+            "author": "one2play4"
+        }, 
+        {
+            "date": "2013-07-06T01:40:52.254Z", 
+            "text": "Hey, no need to tell me. I'd make sweet gay love to him all night long.", 
+            "author": "Jame Gumb"
+        }, 
+        {
+            "date": "2013-07-04T03:35:07.857Z", 
+            "text": "Great video, but there was just one thing that bothered me his graph at the \nend was basically upside down it should have started high went low and then \ncome back up.", 
+            "author": "Batman"
+        }, 
+        {
+            "date": "2013-07-02T09:50:00.575Z", 
+            "text": "I agree with Brady, it makes perfect sense to me that 1 would come up more \noften than other numbers.", 
+            "author": "Wolfsthename"
+        }, 
+        {
+            "date": "2013-07-01T11:00:00.249Z", 
+            "text": "lol \"This is the formula you need to learn if you're going to cheat in your \ntax returns.\"", 
+            "author": "D3ltaForce"
+        }, 
+        {
+            "date": "2013-06-30T08:30:02.915Z", 
+            "text": "", 
+            "author": "Tom Higgins"
+        }, 
+        {
+            "date": "2013-06-28T21:59:28.205Z", 
+            "text": "Little bit, but i'll get over it.", 
+            "author": "Pan Raphael"
+        }, 
+        {
+            "date": "2013-06-28T19:59:40.916Z", 
+            "text": "I dislike how sometimes people will fixate on the digits (0 to 9) \nthemselves and give them some sort of significance, rather than the number \nit's suppose to represent. Especially when they're given an almost... \nastrological significance. Like for example people who say... Oh I was born \nin 1987, add 1 + 9 + 8 + 7 = 25. Now add 2 and 5, you're a 7! Sevens are \nconsidered strong and independent and creative, and your best match is a 5, \nand blah blah blah, assorted bull**** blah blah.", 
+            "author": "PTNLemay"
+        }, 
+        {
+            "date": "2013-06-28T12:50:14.544Z", 
+            "text": "For distributions that, you claim, are not widely distributed, couldn't you \nsimply decrease the base so that the distribution does, in fact, span \nseveral orders of magnitude and check to see if the benford law works over \nthe digits of that base? Also, why is it a law?", 
+            "author": "NDrohan"
+        }, 
+        {
+            "date": "2013-06-28T12:29:44.781Z", 
+            "text": "Looks like Kris Allen many times.", 
+            "author": "Kort oOis"
+        }, 
+        {
+            "date": "2013-06-28T11:40:41.534Z", 
+            "text": "", 
+            "author": "Kort oOis"
+        }, 
+        {
+            "date": "2013-06-27T13:56:36.656Z", 
+            "text": "According to the graph there are numbers where the probability of picking \nthe wining number decreases greatly. At numbers 200-999 the probability \ndecreases dramatically, so if we were to only pick numbers from this range \nand nothing else what is the probability of picking the wining number? is \nit still 30% even though probability is decreasing?", 
+            "author": "Yahya Espada"
+        }, 
+        {
+            "date": "2013-06-27T00:47:17.479Z", 
+            "text": "Nope, I am a man. I sincerely hope that doesn't bother you then. ", 
+            "author": "Jerry Houlihan"
+        }, 
+        {
+            "date": "2013-06-25T15:18:12.479Z", 
+            "text": "I sincerely hope you're a girl, then.", 
+            "author": "Pan Raphael"
+        }, 
+        {
+            "date": "2013-06-24T22:27:06.202Z", 
+            "text": "China has a 1 as it's leading digit, and it is the country with the most \npeople.", 
+            "author": "salhal73"
+        }, 
+        {
+            "date": "2013-06-24T19:37:49.977Z", 
+            "text": "108 likes ", 
+            "author": "Headlesshydra12"
+        }, 
+        {
+            "date": "2013-06-24T18:23:39.208Z", 
+            "text": "Where do you find those raffle tickets", 
+            "author": "salhal73"
+        }, 
+        {
+            "date": "2013-06-23T05:05:02.388Z", 
+            "text": "the nasdaq example was great. i hadn't gotten a grasp from the 1st \nexplanation.", 
+            "author": "Matt Siegel"
+        }, 
+        {
+            "date": "2013-06-23T04:29:33.779Z", 
+            "text": "Do primes follow Benford's Law? ", 
+            "author": "John W. Nicholson"
+        }, 
+        {
+            "date": "2013-06-23T02:52:03.194Z", 
+            "text": "I spent half of this video thinking \"Why haven't I seen ticket books in the \nstates? --we get crappy rolls of ticket. I want a ticket book!\"....", 
+            "author": "Khristafer Sheffield"
+        }, 
+        {
+            "date": "2013-06-23T01:24:47.279Z", 
+            "text": "Does this law apply to groups of large numbers in base eight? Or randomly \ngenerated numbers like lottery tickets? if I play the 6/49 lottery am I \nbetter off picking numbers that begin with a one? If I took a thousand dice \nand rolled them then added the result and wrote it down. Then I did this \nhundreds of times would these random numbers follow this law? I have more \nquestions than answers. Its stuff like this that keeps me up at night. ", 
+            "author": "peterthinks"
+        }, 
+        {
+            "date": "2013-06-22T21:01:05.560Z", 
+            "text": "This concept only works for one because it's the first digit to get all the \nprobability as the power of 10 increases. Once you get into the 200s, the \n\"2\" probability is just catching up to the \"1\" probability because it \nalready had increased from all the 100s, and same goes for \"3\" \"4\" and so \non.", 
+            "author": "GiulianoConteDrums"
+        }, 
+        {
+            "date": "2013-06-22T13:43:07.111Z", 
+            "text": "But 3 is every where, no?", 
+            "author": "Th\u00e9o de Pinho"
+        }, 
+        {
+            "date": "2013-06-22T12:53:44.996Z", 
+            "text": "That would basically just be like changing name of number one. The first \nfrom where we start to count its most common.", 
+            "author": "miiiikku"
+        }
+    ]
+}
