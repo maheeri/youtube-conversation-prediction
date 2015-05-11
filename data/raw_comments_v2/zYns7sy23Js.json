@@ -375,7 +375,11 @@
         "/m/0csby", 
         "/m/07kcclw"
     ], 
+<<<<<<< HEAD
+    "number_views": 324919, 
+=======
     "number_views": 324929, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
     "categories": [
         27
     ], 
@@ -909,6 +913,14 @@
             "date": "2015-03-03T10:03:37.007Z", 
             "text": "Would like to se a video about colors of cloads and amount of pollution. \nE.g. did the dinosaurs have red clouds?\ufeff", 
             "author": "arnders"
+<<<<<<< HEAD
+        }, 
+        {
+            "date": "2015-03-03T09:16:59.000Z", 
+            "text": "I have seen colourful rainbow on the cloud.\n\nIt was near sunset when I ended my work. Is it because the Sun is shining \non the cloud behind which cast the rainbow on top? It's my first time \nseeing something like that.\ufeff", 
+            "author": "Reio Kimura"
+=======
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
         }
     ]
 }
