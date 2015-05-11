@@ -1,0 +1,1207 @@
+{
+    "publish_date": "2012-05-28T13:33:53.000Z", 
+    "video_length": "PT3M20S", 
+    "captions": [
+        {
+            "text": "OK, so today we&#39;ve got a little", 
+            "dur": "1.53", 
+            "start": "0.33"
+        }, 
+        {
+            "text": "mathematical nugget for you.", 
+            "dur": "1.38", 
+            "start": "1.86"
+        }, 
+        {
+            "text": "I&#39;m going to talk about\n10 factorial.", 
+            "dur": "3.58", 
+            "start": "3.24"
+        }, 
+        {
+            "text": "So 10 factorial is what you\nget when you multiply the", 
+            "dur": "3.5", 
+            "start": "6.82"
+        }, 
+        {
+            "text": "numbers 10 times 9\ntimes 8 times 7--", 
+            "dur": "5.66", 
+            "start": "10.32"
+        }, 
+        {
+            "text": "and you go all the way down,\ntimes 2, times 1.", 
+            "dur": "4.07", 
+            "start": "15.98"
+        }, 
+        {
+            "text": "How big is 10 factorial?", 
+            "dur": "2.07", 
+            "start": "20.05"
+        }, 
+        {
+            "text": "On your calculator you will find\na little bottom with an", 
+            "dur": "2.43", 
+            "start": "22.12"
+        }, 
+        {
+            "text": "exclamation mark after it.", 
+            "dur": "1.62", 
+            "start": "24.55"
+        }, 
+        {
+            "text": "There we go.", 
+            "dur": "0.44", 
+            "start": "26.17"
+        }, 
+        {
+            "text": "That is how big 10\nfactorial is.", 
+            "dur": "2.59", 
+            "start": "26.61"
+        }, 
+        {
+            "text": "Let&#39;s write this down.", 
+            "dur": "2.67", 
+            "start": "29.2"
+        }, 
+        {
+            "text": "3,628,800.", 
+            "dur": "4.64", 
+            "start": "31.87"
+        }, 
+        {
+            "text": "Now what I want to talk about\nis 10 factorial seconds.", 
+            "dur": "3.57", 
+            "start": "36.51"
+        }, 
+        {
+            "text": "Now, how long is 10\nfactorial seconds?", 
+            "dur": "2.7", 
+            "start": "40.08"
+        }, 
+        {
+            "text": "All right, so 3,628,800\nseconds.", 
+            "dur": "3.75", 
+            "start": "42.78"
+        }, 
+        {
+            "text": "How long is that?", 
+            "dur": "1.08", 
+            "start": "46.53"
+        }, 
+        {
+            "text": "Well, it turns out to be\nexactly six weeks.", 
+            "dur": "4.86", 
+            "start": "47.61"
+        }, 
+        {
+            "text": "Let me show you.", 
+            "dur": "0.56", 
+            "start": "52.47"
+        }, 
+        {
+            "text": "We&#39;ve got 10 factorial\nseconds, so how", 
+            "dur": "2.08", 
+            "start": "53.03"
+        }, 
+        {
+            "text": "many minutes is that?", 
+            "dur": "1.21", 
+            "start": "55.11"
+        }, 
+        {
+            "text": "There are 60 seconds in\na minute, so I&#39;m going", 
+            "dur": "2.39", 
+            "start": "56.32"
+        }, 
+        {
+            "text": "to divide by 60.", 
+            "dur": "1.09", 
+            "start": "58.71"
+        }, 
+        {
+            "text": "60 is 10 times 3 times 2.", 
+            "dur": "3.58", 
+            "start": "59.8"
+        }, 
+        {
+            "text": "That&#39;s the way I&#39;m\ngoing to do it.", 
+            "dur": "1.81", 
+            "start": "63.38"
+        }, 
+        {
+            "text": "So I&#39;m going to divide by 60.", 
+            "dur": "1.57", 
+            "start": "65.19"
+        }, 
+        {
+            "text": "I can just cancel out\n10 and 3 and 2.", 
+            "dur": "4.3", 
+            "start": "66.76"
+        }, 
+        {
+            "text": "That&#39;s a way to divide by 60.", 
+            "dur": "1.53", 
+            "start": "71.06"
+        }, 
+        {
+            "text": "I might as well cancel out the\n1 as well, while I&#39;m at it.", 
+            "dur": "3.6", 
+            "start": "72.59"
+        }, 
+        {
+            "text": "How many hours is that?", 
+            "dur": "1.17", 
+            "start": "76.19"
+        }, 
+        {
+            "text": "I&#39;m going to divide\nby 60 again.", 
+            "dur": "1.83", 
+            "start": "77.36"
+        }, 
+        {
+            "text": "Another way to write 60\nis 5 times 4 times 3.", 
+            "dur": "5.03", 
+            "start": "79.19"
+        }, 
+        {
+            "text": "That also equals 60.", 
+            "dur": "1.42", 
+            "start": "84.22"
+        }, 
+        {
+            "text": "I&#39;m going to cancel out\nthe 5 and the 4.", 
+            "dur": "2.55", 
+            "start": "85.64"
+        }, 
+        {
+            "text": "And I want to cancel 3.", 
+            "dur": "1.84", 
+            "start": "88.19"
+        }, 
+        {
+            "text": "I don&#39;t have it.", 
+            "dur": "1.26", 
+            "start": "90.03"
+        }, 
+        {
+            "text": "I&#39;m going to take the\n9, divide by 3.", 
+            "dur": "2.58", 
+            "start": "91.29"
+        }, 
+        {
+            "text": "So that now becomes\na 3 instead.", 
+            "dur": "2.34", 
+            "start": "93.87"
+        }, 
+        {
+            "text": "This is how many minutes\nwe&#39;ve got.", 
+            "dur": "1.97", 
+            "start": "96.21"
+        }, 
+        {
+            "text": "How many hours is that?", 
+            "dur": "1.19", 
+            "start": "98.18"
+        }, 
+        {
+            "text": "I want to divide by 24.", 
+            "dur": "1.63", 
+            "start": "99.37"
+        }, 
+        {
+            "text": "24 is 8 times 3.", 
+            "dur": "2.07", 
+            "start": "101"
+        }, 
+        {
+            "text": "Divide by 8, and that\nnow disappears.", 
+            "dur": "2.69", 
+            "start": "103.07"
+        }, 
+        {
+            "text": "Fantastic.", 
+            "dur": "0.59", 
+            "start": "105.76"
+        }, 
+        {
+            "text": "24 is gone.", 
+            "dur": "1.25", 
+            "start": "106.35"
+        }, 
+        {
+            "text": "So this is how many\nhours it is.", 
+            "dur": "1.76", 
+            "start": "107.6"
+        }, 
+        {
+            "text": "How many weeks is that?", 
+            "dur": "1.06", 
+            "start": "109.36"
+        }, 
+        {
+            "text": "There are seven days\nin a week.", 
+            "dur": "1.39", 
+            "start": "110.42"
+        }, 
+        {
+            "text": "I want to divide by 7.", 
+            "dur": "1.72", 
+            "start": "111.81"
+        }, 
+        {
+            "text": "That&#39;s how many weeks it is.", 
+            "dur": "1.06", 
+            "start": "113.53"
+        }, 
+        {
+            "text": "How many weeks is it?", 
+            "dur": "1.51", 
+            "start": "114.59"
+        }, 
+        {
+            "text": "What&#39;s left?", 
+            "dur": "1.73", 
+            "start": "116.1"
+        }, 
+        {
+            "text": "Six.", 
+            "dur": "1.42", 
+            "start": "117.83"
+        }, 
+        {
+            "text": "There are exactly six weeks\nfor 10 factorial seconds.", 
+            "dur": "4.8", 
+            "start": "119.25"
+        }, 
+        {
+            "text": "Exactly.", 
+            "dur": "1.15", 
+            "start": "124.05"
+        }, 
+        {
+            "text": "So if you&#39;re at school, and if\nyou&#39;re looking forward to your", 
+            "dur": "3.18", 
+            "start": "125.2"
+        }, 
+        {
+            "text": "six weeks holiday, and oh, it\ndoesn&#39;t seem like long enough,", 
+            "dur": "2.7", 
+            "start": "128.38"
+        }, 
+        {
+            "text": "well, perhaps you might like\nto think of it as your 10", 
+            "dur": "2.477", 
+            "start": "131.08"
+        }, 
+        {
+            "text": "factorial second holiday.", 
+            "dur": "1.883", 
+            "start": "133.557"
+        }, 
+        {
+            "text": "So let&#39;s try this from\nthe other direction.", 
+            "dur": "3.24", 
+            "start": "135.44"
+        }, 
+        {
+            "text": "So how many seconds are\nthere in six weeks?", 
+            "dur": "3", 
+            "start": "138.68"
+        }, 
+        {
+            "text": "So we&#39;ve got six weeks.", 
+            "dur": "1.69", 
+            "start": "141.68"
+        }, 
+        {
+            "text": "How many days is that?", 
+            "dur": "1.05", 
+            "start": "143.37"
+        }, 
+        {
+            "text": "How many days are there\nin six weeks?", 
+            "dur": "1.57", 
+            "start": "144.42"
+        }, 
+        {
+            "text": "We&#39;re going to times by 7.", 
+            "dur": "1.53", 
+            "start": "145.99"
+        }, 
+        {
+            "text": "Seven days a week.", 
+            "dur": "1.37", 
+            "start": "147.52"
+        }, 
+        {
+            "text": "How many hours is that?", 
+            "dur": "1.41", 
+            "start": "148.89"
+        }, 
+        {
+            "text": "24 hours in a day.", 
+            "dur": "1.75", 
+            "start": "150.3"
+        }, 
+        {
+            "text": "So we&#39;re going to times by 24.", 
+            "dur": "1.97", 
+            "start": "152.05"
+        }, 
+        {
+            "text": "How many minutes is that?", 
+            "dur": "2.21", 
+            "start": "154.02"
+        }, 
+        {
+            "text": "Well, let&#39;s times by 60.", 
+            "dur": "1.9", 
+            "start": "156.23"
+        }, 
+        {
+            "text": "60 minutes in an hour, and then\ntimes by 60 again because", 
+            "dur": "3.87", 
+            "start": "158.13"
+        }, 
+        {
+            "text": "there&#39;s 60 seconds\nin a minute.", 
+            "dur": "2.24", 
+            "start": "162"
+        }, 
+        {
+            "text": "This is how many seconds\nyou get in six weeks.", 
+            "dur": "3.82", 
+            "start": "164.24"
+        }, 
+        {
+            "text": "Now we get our calculator.", 
+            "dur": "1.44", 
+            "start": "168.06"
+        }, 
+        {
+            "text": "Let&#39;s see if we do get what\nI said it was going to be.", 
+            "dur": "3.61", 
+            "start": "169.5"
+        }, 
+        {
+            "text": "6 weeks times 7 days times 24\nhours times 60 minutes times", 
+            "dur": "8.72", 
+            "start": "173.11"
+        }, 
+        {
+            "text": "60 seconds is exactly\nwhat I said before.", 
+            "dur": "3.83", 
+            "start": "181.83"
+        }, 
+        {
+            "text": "3,628,800, or to put it another\nway, 10 factorial.", 
+            "dur": "6.23", 
+            "start": "185.66"
+        }
+    ], 
+    "title": "10! - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0vb40_n"
+    ], 
+    "number_views": 254011, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-08T20:11:56.000Z", 
+            "text": "*\u0423\u0440\u0430, \u043d\u0430\u043a\u043e\u043d\u0435\u0446-\u0442\u043e \u043c\u043d\u0435 \u043f\u043e\u0432\u044b\u0441\u0438\u043b\u0438 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430 \u0434\u043e 10 \u041c\u0411\u0438\u0442/\u0441*\n\n\u0441\u043f\u0430\u0441\u0438\u0431\u043e, \u0442\u043e\u0432\u0430\u0440\u0438\u0449 \u0441\u0443\u0434\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u0438\u0441\u0442\u0430\u0432!\n\n\u043f\u0440\u0430\u0432\u0434\u0430 \u043f\u0440\u0438\u0448\u043b\u043e\u0441\u044c \u0441\u0438\u0434\u0435\u0442\u044c \u0431\u0435\u0437 \u043d\u0435\u0433\u043e \u043f\u043e\u0447\u0442\u0438 2 \u0434\u043d\u044f\n\n#10! #numberphile #internet\ufeff", 
+            "author": "emploi kun"
+        }, 
+        {
+            "date": "2015-05-09T05:50:26.000Z", 
+            "text": "\u0410 \u043a\u0443\u043b\u0441\u0442\u043e\u0440\u0438 \u0431\u0443\u0434\u0435\u0442?", 
+            "author": "Arkasha Ivanov (apkawa)"
+        }, 
+        {
+            "date": "2015-04-21T16:55:53.690Z", 
+            "text": "Anyone knows how to derivate a function with a factorial?\ufeff", 
+            "author": "Victor Santibanez"
+        }, 
+        {
+            "date": "2015-04-15T05:41:52.022Z", 
+            "text": "Well actually 10! seconds sound quite less time as Six weeks.. Ain't it?\ufeff", 
+            "author": "Prakhar Rungta"
+        }, 
+        {
+            "date": "2015-04-15T20:42:54.185Z", 
+            "text": "+prakhar rungta not when you think of it as 3628800 seconds", 
+            "author": "Kavi Gosai"
+        }, 
+        {
+            "date": "2015-03-19T05:20:30.352Z", 
+            "text": "Actually, a single day is 23 hours and 56 minutes, not a perfect 24.\ufeff", 
+            "author": "James Lu"
+        }, 
+        {
+            "date": "2015-03-11T17:59:28.427Z", 
+            "text": "*years\ufeff", 
+            "author": "Jefta Pruim"
+        }, 
+        {
+            "date": "2015-03-11T17:59:14.490Z", 
+            "text": "13! is also 198 hears\ufeff", 
+            "author": "Jefta Pruim"
+        }, 
+        {
+            "date": "2015-03-09T19:23:55.460Z", 
+            "text": "14! = 144144 weeks (don't believe it? try it yourself)\n\n1 awesomeness 4 me\ufeff", 
+            "author": "dionzz99"
+        }, 
+        {
+            "date": "2015-05-01T18:15:25.000Z", 
+            "text": "Dionzz99 is correct (6 * 11 * 12 * 13 *14 = 144144 [use a calculator])", 
+            "author": "iqbaltrojan"
+        }, 
+        {
+            "date": "2015-03-09T07:37:43.008Z", 
+            "text": "There are also 8! minutes in 4 weeks\ufeff", 
+            "author": "Pukefirst"
+        }, 
+        {
+            "date": "2015-02-22T21:31:41.700Z", 
+            "text": "Without the brown paper i can not concentrate enough!\ufeff", 
+            "author": "Maximilian Neuhoff"
+        }, 
+        {
+            "date": "2015-02-08T14:27:30.462Z", 
+            "text": "Cool!\ufeff", 
+            "author": "AstronomyTheorist At YouTube"
+        }, 
+        {
+            "date": "2015-01-23T20:35:46.992Z", 
+            "text": "The most interesting thing would be that how do you even come up with ideas \nlike these, to find those conformities to natural laws in numbers like 10! \nand so on.\n\nAnyways, this fact also quite interesting, maybe sometimes can show this to \nmy colleagues, math teachers, at school :)\ufeff", 
+            "author": "Roberts Ro\u017ekalns"
+        }, 
+        {
+            "date": "2015-04-01T12:35:58.317Z", 
+            "text": "they are mathematicians.", 
+            "author": "Adrian Petersen"
+        }, 
+        {
+            "date": "2015-01-05T03:57:13.000Z", 
+            "text": "I like every video with Dr Grimes regardless of the subject. He is simply \nhilarious and does an awesome job at making even some of the lesser \nexciting maths fun and exciting\ufeff", 
+            "author": "shashaw08"
+        }, 
+        {
+            "date": "2015-01-03T18:35:24.022Z", 
+            "text": "maths problem: why 46!=47q-1 ?\ufeff", 
+            "author": "gorges clowney"
+        }, 
+        {
+            "date": "2015-01-03T15:15:34.861Z", 
+            "text": "where's the brown paper brady?????\ufeff", 
+            "author": "Shambo Basu"
+        }, 
+        {
+            "date": "2014-12-30T22:04:38.932Z", 
+            "text": "yeah, another question, how many planck times are in 6 weeks?\ufeff", 
+            "author": "zombieman2012"
+        }, 
+        {
+            "date": "2014-12-25T17:09:45.050Z", 
+            "text": "That's a great pub fact.\ufeff", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2014-12-22T21:47:01.757Z", 
+            "text": "I enjoy most of the numberphile videos, but I didn't get anything out of \nthis one. How is 10! = 6 weeks relevant in any way?\ufeff", 
+            "author": "Ignacio Mieres"
+        }, 
+        {
+            "date": "2015-03-26T21:55:26.546Z", 
+            "text": "It's such a coincidence that 3 628 800 seconds (10!) happens to be EXACTLY \nsix weeks to the second.", 
+            "author": "John Balboa"
+        }, 
+        {
+            "date": "2015-03-21T10:32:20.843Z", 
+            "text": "it's more or less a coincidence! But it's a bit funny coincidence!", 
+            "author": "David Hansson"
+        }, 
+        {
+            "date": "2015-01-22T20:51:48.589Z", 
+            "text": "Why does it need to? It's just an interesting thing to notice about maths, \nin the same manner as Wilson primes. We don't need to worry about them, but \nthey exist...", 
+            "author": "KieransShows"
+        }, 
+        {
+            "date": "2015-01-08T09:53:30.971Z", 
+            "text": "I feel the same way.", 
+            "author": "Cihan Barnett"
+        }, 
+        {
+            "date": "2014-11-18T07:15:08.405Z", 
+            "text": "Dam,you guys are good. Makes me smile.\ufeff", 
+            "author": "Rodolfo Granera"
+        }, 
+        {
+            "date": "2014-11-16T21:01:03.876Z", 
+            "text": "What is this mess, no brown paper?\ufeff", 
+            "author": "Tuxcz"
+        }, 
+        {
+            "date": "2015-04-25T22:11:21.490Z", 
+            "text": "+Paul L I see you also noticed when it appeared :)", 
+            "author": "TeamFlamingStones"
+        }, 
+        {
+            "date": "2015-03-11T18:23:08.685Z", 
+            "text": "aperently not", 
+            "author": "Chris IAmNotSayingMyLastName"
+        }, 
+        {
+            "date": "2014-12-25T17:15:42.000Z", 
+            "text": "Yes. Good point. I am disappointed. He needs to give himself detention. \nMaybe  42 minutes ?", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2014-11-10T21:50:16.108Z", 
+            "text": "10! = 6 weeks = 42 days = The meaning of life,the universe,and everything. \nIf you know what i mean :)\ufeff", 
+            "author": "avamaster1"
+        }, 
+        {
+            "date": "2014-11-04T22:10:26.152Z", 
+            "text": "So, 10 fractorial in seconds is equal to *42* days\ufeff", 
+            "author": "Jo\u00e3o V\u00edtor Costa"
+        }, 
+        {
+            "date": "2015-04-24T00:27:09.926Z", 
+            "text": "+Jo\u00e3o V\u00edtor Costa 1010111100011001. 4EF14 2A.", 
+            "author": "Caden Schwelm"
+        }, 
+        {
+            "date": "2015-04-16T15:25:35.517Z", 
+            "text": "+Kavi Gosai okay then. =P", 
+            "author": "Jo\u00e3o V\u00edtor Costa"
+        }, 
+        {
+            "date": "2015-04-15T20:55:09.681Z", 
+            "text": "+Jo\u00e3o V\u00edtor Costa n\u00e3o pe\u00e7as desculpa, foi s\u00f3 uma observa\u00e7\u00e3o :)", 
+            "author": "Kavi Gosai"
+        }, 
+        {
+            "date": "2015-04-15T20:49:35.528Z", 
+            "text": "+Kavi Gosai Sorry...", 
+            "author": "Jo\u00e3o V\u00edtor Costa"
+        }, 
+        {
+            "date": "2015-04-15T20:41:59.219Z", 
+            "text": "+Jo\u00e3o V\u00edtor Costa it's factorial, not fractorial :)", 
+            "author": "Kavi Gosai"
+        }, 
+        {
+            "date": "2015-03-11T18:22:18.280Z", 
+            "text": "1 month, 1 week and 5 days", 
+            "author": "Chris IAmNotSayingMyLastName"
+        }, 
+        {
+            "date": "2014-12-07T22:32:59.218Z", 
+            "text": "+lLpars So that is the answer to the question of Life, the Universe and \nEverything! 42 days is 10 factorial seconds!\n\n  ", 
+            "author": "Ronald de Rooij"
+        }, 
+        {
+            "date": "2014-12-04T20:26:03.067Z", 
+            "text": "Everything makes sense now.", 
+            "author": "lLpars"
+        }, 
+        {
+            "date": "2014-10-18T09:07:46.242Z", 
+            "text": "is 20! 12 weeks?\ufeff", 
+            "author": "Lion Man"
+        }, 
+        {
+            "date": "2015-02-01T01:45:59.660Z", 
+            "text": "lol", 
+            "author": "Lion Man"
+        }, 
+        {
+            "date": "2015-01-29T21:28:36.000Z", 
+            "text": "20! seconds = 4022655436800 weeks - just slightly larger than 12 lol", 
+            "author": "Ben Stokes"
+        }, 
+        {
+            "date": "2014-11-09T10:07:17.668Z", 
+            "text": "+PokemonTom09 Thanks for letting me know. :)", 
+            "author": "Lion Man"
+        }, 
+        {
+            "date": "2014-11-09T05:25:41.000Z", 
+            "text": "Factorials aren't linear in any way; with the exeption of 0, 1, and 2, they \nget big a lot faster than quadratics, so you shouldn't expect *(2x)!* to be \nequal to double *x!* unless x is 1.\n\nFor example, say x is 4.\n\n*4! = 24*, and *24 X 2 = 48*\n\n*8! = 40,320* which is obviously larger than 48.", 
+            "author": "PokemonTom09"
+        }, 
+        {
+            "date": "2014-11-04T11:16:58.716Z", 
+            "text": "hah. Lol", 
+            "author": "Lion Man"
+        }, 
+        {
+            "date": "2014-11-03T23:49:24.925Z", 
+            "text": "No, but 11! is 66 weeks. ;)", 
+            "author": "Jacob Baird"
+        }, 
+        {
+            "date": "2014-10-18T13:27:18.693Z", 
+            "text": "aww ;(", 
+            "author": "Lion Man"
+        }, 
+        {
+            "date": "2014-10-18T13:22:19.186Z", 
+            "text": "no", 
+            "author": "Euler"
+        }, 
+        {
+            "date": "2014-10-18T00:50:08.937Z", 
+            "text": "10! seconds = 42 days! Perhaps this is a clue to the Question....\ufeff", 
+            "author": "Chryss Hart"
+        }, 
+        {
+            "date": "2014-10-14T21:04:40.875Z", 
+            "text": "This is my favourite numberphile video. It's just the best\ufeff", 
+            "author": "Cameron Evans"
+        }, 
+        {
+            "date": "2014-10-05T06:40:36.697Z", 
+            "text": "Nice!!! 8-)\ufeff", 
+            "author": "Mauricio Farell"
+        }, 
+        {
+            "date": "2014-08-22T04:50:04.035Z", 
+            "text": "factorial(3)==sigma(3)\n#pascalstriangle #keplersconjecture #fibonaccisequence \n#yoloswag420blazeitpanteltragedyhappensafteripostedthisbecausei\n'mapsychicnotreallyi'mjusttypingrandomshitabouteverythinghipserhashtag\ufeff", 
+            "author": "C:/Users/ntwede.exe"
+        }, 
+        {
+            "date": "2014-08-20T17:33:39.502Z", 
+            "text": "sounds like the NASA countdown when you were writing 10, 9, 8, ...\ufeff", 
+            "author": "FortNikitaBullion"
+        }, 
+        {
+            "date": "2014-08-08T04:03:06.772Z", 
+            "text": "To put it another way, that is exactly three fortnights.\ufeff", 
+            "author": "John Sherlock"
+        }, 
+        {
+            "date": "2014-07-29T16:33:24.000Z", 
+            "text": "This is interesting but not really purely coincidental. It was decided that \nthere would be 60 seconds in a minute and 60 minutes in an hour because 60 \nis has many factors. Meaning, a half hour is 30 minutes, a third of an hour \nis 20 minutes, a quarter of an hour is 15 minutes, a fifth of an hour is 12 \nminutes, a sixth of an hour is 10 minutes. So its not that surprising that \nalot of the factors in the 10! \"cross out\" during this calculation. Its \nmore of a slight coincidence than a huge elegant coincidence, since the \nnumber 60 was decided specifically because it has alot of factors.\ufeff", 
+            "author": "ImaginaryHuman072889"
+        }, 
+        {
+            "date": "2014-12-26T21:11:43.343Z", 
+            "text": "The fact that it occurs at the exact 6th weeks second is intresting though. \nAll your comment really says is that the outcome will most likely be a \nwhole number because of all the factors.", 
+            "author": "Eddzify CSGO"
+        }, 
+        {
+            "date": "2014-11-25T17:06:58.735Z", 
+            "text": "+gumenski You lose those factors, but it's much easier to think with 10 and \n100. Of course, we are used to it, but if we had to start again, I would \nchoose a decimal system.", 
+            "author": "IVAN3DX"
+        }, 
+        {
+            "date": "2014-11-25T03:10:42.274Z", 
+            "text": "+IVAN3DX Halves, thirds, fourths, fifths plus the tenths and other \nmultiples are all there in base 60.  You're losing 3 as a factor by \nchanging it to base 10 and gaining nothing except familiarity with base 10, \nwhich is a major loss since 3 is a low prime factor and the key argument \nfor why people think things should have been in sexagesimal or duodecimal \nin the first place (and they were, hence 60 minutes/360 degrees).  The one \nnice thing about base 10, I guess, is that you have the same number of \nfingers... /blows party popper", 
+            "author": "gumenski"
+        }, 
+        {
+            "date": "2014-11-25T01:56:51.525Z", 
+            "text": "+gumenski But you can easily say \"A third of an hour\" or just say the \nnumber. Besides, I never say \"a third of an hour\" I just say 20 minutes. \nWhich could be translated to roughly 30/35 minutes. The most important \nfactors are still there. Half-Quarter-Fifth-Tenth", 
+            "author": "IVAN3DX"
+        }, 
+        {
+            "date": "2014-11-25T00:55:20.974Z", 
+            "text": "+IVAN3DX You would say 33.33333333333333(...) minutes being 1/3 of an hour \nor 66.6666666666666(...) seconds being 2/3 of a minute, etc, would be \neasier than just saying 20 or 40 flat, like we do now?  ", 
+            "author": "gumenski"
+        }, 
+        {
+            "date": "2014-11-24T23:52:08.971Z", 
+            "text": "+gumenski What do you mean with difficult? I'm not proposing a change in \nthe time measurement system, just how I think it should be. It's much \neasier to think in fractions of 10.", 
+            "author": "IVAN3DX"
+        }, 
+        {
+            "date": "2014-11-24T23:30:57.174Z", 
+            "text": "+IVAN3DX If you're going to be that liberal with the changing of traditions \nthen why even bother using decimal?  Base 10 is even more ambiguous and \nmessy to factorize than breaking things into groups of 60.  May as well \njust switch everything to duodecimal if you're gonna start messing with \nstuff", 
+            "author": "gumenski"
+        }, 
+        {
+            "date": "2014-11-23T22:16:09.532Z", 
+            "text": "+IVAN3DX And the same goes for angles.", 
+            "author": "IVAN3DX"
+        }, 
+        {
+            "date": "2014-11-23T22:15:56.669Z", 
+            "text": "Nah, time should be measured with multiples of 10. Like 10 or 100 minutes \nin an hour, 10 hours in a day, 10 days in a month and 10 months in a year. ", 
+            "author": "IVAN3DX"
+        }, 
+        {
+            "date": "2014-08-22T04:51:45.881Z", 
+            "text": "That's why I think the degree system for angles in  a circle should have a \nright angle being a measurment of 120.", 
+            "author": "C:/Users/ntwede.exe"
+        }, 
+        {
+            "date": "2014-08-20T17:35:24.583Z", 
+            "text": "I never realized that's why hours have 60 minutes.", 
+            "author": "FortNikitaBullion"
+        }, 
+        {
+            "date": "2014-08-17T14:13:41.662Z", 
+            "text": "Wow, good observation!", 
+            "author": "Aryaman Singh"
+        }, 
+        {
+            "date": "2014-07-25T08:36:11.137Z", 
+            "text": "And is divisible by all single numbers.\ufeff", 
+            "author": "MegaZsolti"
+        }, 
+        {
+            "date": "2014-08-10T06:02:57.017Z", 
+            "text": "and 8! and 7! and 6!", 
+            "author": "CrusaderZav"
+        }, 
+        {
+            "date": "2014-08-10T06:01:53.916Z", 
+            "text": "so is 9!.", 
+            "author": "CrusaderZav"
+        }, 
+        {
+            "date": "2014-07-24T22:35:47.330Z", 
+            "text": "no brown paper? :(\ufeff", 
+            "author": "minecraftmessage"
+        }, 
+        {
+            "date": "2015-01-30T22:59:08.948Z", 
+            "text": "Yeah, something is afoot!", 
+            "author": "Knurte Farblekund"
+        }, 
+        {
+            "date": "2014-12-25T17:15:24.735Z", 
+            "text": "He needs to give himself detention. 42 minutes ?", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2014-06-28T11:13:38.147Z", 
+            "text": "Times by sixty. Times! I kept laughing throughout the entire video.\ufeff", 
+            "author": "The MeekMathMastermind"
+        }, 
+        {
+            "date": "2014-06-17T11:07:49.764Z", 
+            "text": "2^8 * 3^4 * 5^2 * 7^1 = 10!\na^b ... a = increasing primes, b = decreasing powers of 2.\ufeff", 
+            "author": "spencerant88"
+        }, 
+        {
+            "date": "2014-06-10T00:36:20.539Z", 
+            "text": "I get what you are saying it's just it won't be exactly six weeks because \neach day is slightly less than 24 hours and that's why we have leap year\ufeff", 
+            "author": "Alex Lay-Calvert"
+        }, 
+        {
+            "date": "2014-08-06T18:52:34.955Z", 
+            "text": "Of course one \"geographical\" day isn't 24 hours,but a calendric day is 24 \nhours :D", 
+            "author": "vzwGrey"
+        }, 
+        {
+            "date": "2014-06-09T14:56:06.454Z", 
+            "text": "How many years is that?\ufeff", 
+            "author": "Evan 1234567890"
+        }, 
+        {
+            "date": "2014-06-12T00:32:17.042Z", 
+            "text": "0.115 years.", 
+            "author": "palmomki"
+        }, 
+        {
+            "date": "2014-06-10T00:38:01.877Z", 
+            "text": "There are 52 weeks in a year stupid", 
+            "author": "Alex Lay-Calvert"
+        }, 
+        {
+            "date": "2014-06-05T23:28:25.714Z", 
+            "text": "Too bad, but 1 day has 24 hours and 5.91 seconds, because that's why we get \n1 day more every 4 years, but 24 sounds like a good aproximation :)\ufeff", 
+            "author": "GraveNoX"
+        }, 
+        {
+            "date": "2014-08-26T08:47:55.494Z", 
+            "text": "No, we have leap days every 4 years to keep the seasons lined up, not \nbecause the day is an extra 6 seconds longer. The mean solar day is 24 \nhours and about 2 microseconds long. Those 2 microseconds come from the \nfact that the Earth's rotation has slowed very slightly since the length of \nthe second was standardized several decades ago. The length of any \nparticular solar day actually varies over the course of the year due to \nEarth's elliptical orbit around the Sun, and it's axial tilt. The \naccumulation of these variations is measured by the Equation of Time.", 
+            "author": "Arkalius80"
+        }, 
+        {
+            "date": "2014-08-06T18:53:16.641Z", 
+            "text": "Of course one \"geographical\" day isn't 24 hours,but a calendric day is 24 \nhours :D", 
+            "author": "vzwGrey"
+        }, 
+        {
+            "date": "2014-05-17T00:34:58.870Z", 
+            "text": "PLEASE!!!  Do not tell this to the creationists.\ufeff", 
+            "author": "Peter Rabitt"
+        }, 
+        {
+            "date": "2014-05-16T14:02:43.983Z", 
+            "text": "I want brown paper :(\nThanks for the video :)\ufeff", 
+            "author": "Thijs Janssen"
+        }, 
+        {
+            "date": "2014-05-06T20:32:44.245Z", 
+            "text": "A day is not exactly 24 hours, so 10! isn't 6 weeks\n \ufeff", 
+            "author": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u041f\u0435\u0442\u0440\u043e\u0441\u043e\u0432\u0430"
+        }, 
+        {
+            "date": "2014-08-06T18:52:18.656Z", 
+            "text": "Of course one \"geographical\" day isn't 24 hours,but a calendric day is 24 \nhours :D", 
+            "author": "vzwGrey"
+        }, 
+        {
+            "date": "2014-03-26T06:41:14.815Z", 
+            "text": "3,628,800 has a 628 which is 314*2.\ufeff", 
+            "author": "Ian Darby"
+        }, 
+        {
+            "date": "2014-03-08T16:50:27.528Z", 
+            "text": "That is great!\ufeff", 
+            "author": "Greg Scott"
+        }, 
+        {
+            "date": "2014-02-11T17:21:25.913Z", 
+            "text": "Who first \"discovered\" this???\ufeff", 
+            "author": "vegan Patel"
+        }, 
+        {
+            "date": "2014-01-24T00:33:27.310Z", 
+            "text": "Factorials grow crazy fast. If 10! = # of seconds in 6 weeks, then 11! \nwould be the # of seconds in 66 weeks and 12! would be the # of seconds in \n792 weeks ~ 15.23 years. (not counting leap days, seconds, etc.)\ufeff", 
+            "author": "Alexis Gelinas"
+        }, 
+        {
+            "date": "2014-01-18T06:08:05.214Z", 
+            "text": "what if we have a leap second\ufeff", 
+            "author": "aj19bcx"
+        }, 
+        {
+            "date": "2014-01-13T01:44:47.261Z", 
+            "text": "Nice, no brown paper with this horrible marker sound.\ufeff", 
+            "author": "Alice Eliot"
+        }, 
+        {
+            "date": "2014-12-25T17:16:14.855Z", 
+            "text": "Yes. Good point. I am disappointed. He needs to give himself detention. \nMaybe  42 minutes ?", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2014-01-10T21:29:23.244Z", 
+            "text": "Have you ever noticed that after 5! the digits added together are always 9? \nlike 6! is 720. 7+2=9. 11! is 39 916 800=36=9! Tadaaa!\ufeff", 
+            "author": "The Skooma Cat"
+        }, 
+        {
+            "date": "2014-07-17T08:03:55.991Z", 
+            "text": "+Medusa Moxie\nYea,I have noticed it since then :D", 
+            "author": "The Skooma Cat"
+        }, 
+        {
+            "date": "2014-07-16T22:19:15.789Z", 
+            "text": "Pretty late reply, but the digits of any multiple of 9 add up to 9.\n6! is 6x5x4x3x2x1, notice how the 6 can be split into 3x2, and you now you \nhave two threes in there, which makes 9. Any factorial after 6! contains \n6!, so they all add up to 9.", 
+            "author": "Medusa Moxie"
+        }, 
+        {
+            "date": "2013-12-30T19:51:15.616Z", 
+            "text": "Add up the digits in 10!....... yep 27 WOOOOOOOOOOOOOOHOOOOOOOOOOOOOO\ufeff", 
+            "author": "Blake Warner"
+        }, 
+        {
+            "date": "2013-12-26T23:07:08.459Z", 
+            "text": "Why is a professor of mathematics using the iPhone as a calculator?\ufeff", 
+            "author": "WarpRulez"
+        }, 
+        {
+            "date": "2014-08-10T05:59:39.294Z", 
+            "text": "Proof.", 
+            "author": "CrusaderZav"
+        }, 
+        {
+            "date": "2014-06-30T23:04:51.000Z", 
+            "text": "Well, In *that* case, it's because an iPhone is practical and usable \nenough. It's definitely more accessible.", 
+            "author": "Zoravur Singh"
+        }, 
+        {
+            "date": "2014-06-30T14:35:11.059Z", 
+            "text": "+Zoravur Singh\nIt's not a question of conforming. It's a question of practicality and \nusability.", 
+            "author": "WarpRulez"
+        }, 
+        {
+            "date": "2014-06-30T14:33:23.103Z", 
+            "text": "In that case it's because he didn't feel the need to conform.", 
+            "author": "Zoravur Singh"
+        }, 
+        {
+            "date": "2014-06-30T14:22:15.127Z", 
+            "text": "+Zoravur Singh\nOne would think that a professor of mathematics would use a scientific \ncalculator, often a TI.", 
+            "author": "WarpRulez"
+        }, 
+        {
+            "date": "2014-06-30T13:57:52.795Z", 
+            "text": "Why not?", 
+            "author": "Zoravur Singh"
+        }, 
+        {
+            "date": "2013-12-22T16:59:56.640Z", 
+            "text": "Why Iphone?\ufeff", 
+            "author": "\u0250\u026f\u0279\u0250\u029e \u0250\u0131u\u0250\u026f"
+        }, 
+        {
+            "date": "2014-08-06T18:52:27.786Z", 
+            "text": "Why not?!", 
+            "author": "vzwGrey"
+        }, 
+        {
+            "date": "2013-12-08T10:36:22.656Z", 
+            "text": "100!=100x99x98x97x96x95x94x93x92x91x90x89x88x87x86x85x84x83x82x81x80x79x78x77x76x75x74x73x72x7x1x70x69x68x67x66x65x64x63x62x61x60x59x58x57x56x55x54x53x52x51x50x49x48x47x46x45x44x43x42x41x39x38x37x36x35x34x33x32x31x30x29x28x27x26x25x24x23x22x21x20x19x18x17x16x15x14x13x12x11x10x9x8x7x6x5x4x3x2x1.  \nThumbs up if you agree.\ufeff", 
+            "author": "Josh Foster"
+        }, 
+        {
+            "date": "2013-12-03T23:24:18.813Z", 
+            "text": "Who noticed this?!\ufeff", 
+            "author": "Sina Madani"
+        }, 
+        {
+            "date": "2013-12-02T01:45:16.969Z", 
+            "text": "Well, I never thought I'd say this, but the whiteboard was a bit hard to \nread, so I should stop making fun of the brown paper! :-)\ufeff", 
+            "author": "innertubez"
+        }, 
+        {
+            "date": "2013-11-23T01:13:35.031Z", 
+            "text": "So is this purely coincidental?\ufeff", 
+            "author": "Meek Bones"
+        }, 
+        {
+            "date": "2013-11-05T13:50:49.262Z", 
+            "text": "Or you can do what xkcd suggested and take the Ackermann function with \nGraham's Number as arguments. :P", 
+            "author": "Violet_Shift"
+        }, 
+        {
+            "date": "2013-10-14T07:19:20.469Z", 
+            "text": "As a multiversial entity, I am as infinite as you, for while my contents \nmay some day die, if I don't take care of them, I will keep being reborn.", 
+            "author": "Kami K"
+        }, 
+        {
+            "date": "2013-10-13T20:04:32.683Z", 
+            "text": "I hold infinity within me. You, as seemingly eternal as you are, appear to \nme as a lonely flick of a distant light.", 
+            "author": "rambadibow"
+        }, 
+        {
+            "date": "2013-09-21T17:16:23.891Z", 
+            "text": "Okay, let's do the same thing for Super Graham's Number and define it as \n(Super)^2 Graham's Number. And then do it Super Graham's Number times more \nand get (Super)^(Super Graham's Number) Graham's Number. And then take its \nfactorial. And then divide it by zero. How about that?", 
+            "author": "Kirill Nikonov"
+        }, 
+        {
+            "date": "2013-09-21T10:27:11.260Z", 
+            "text": "Or, Infiniverse :P", 
+            "author": "rapturas"
+        }, 
+        {
+            "date": "2013-09-19T15:55:20.207Z", 
+            "text": "10x9x8xlightx6x5x4x3x2x1 LoL", 
+            "author": "Gerd Esser"
+        }, 
+        {
+            "date": "2013-08-25T07:00:11.711Z", 
+            "text": "\"Mat-matical\"", 
+            "author": "treespunk"
+        }, 
+        {
+            "date": "2013-08-25T03:18:47.782Z", 
+            "text": "I like this Graham's Number^ Graham's Number thing, because if you even \ncould imagine Graham's Number, your mind would be more powerful than every \nsupercomputer ever made and every one that will ever be made for the next \n10,000 years, seeing as how if every digit in Graham's Number was one \nPlanck length, there isn't enough room in the observable universe to view \nthe number. Actually trying to perceive it is frustratingly painful.", 
+            "author": "MajorArtillary"
+        }, 
+        {
+            "date": "2013-08-25T02:51:14.324Z", 
+            "text": "A hundred twenty-eighth note, my drama teacher brought it up once for a \nconversation. I believe Mozart and Beethoven used it, it's only 1/128 in \nmath but it's a very short note I presume.", 
+            "author": "MajorArtillary"
+        }, 
+        {
+            "date": "2013-08-22T01:00:54.424Z", 
+            "text": "I want to know how many of you know what a quasihemidemisemiquaver is. I'm \njust curious.", 
+            "author": "Shannon Moran"
+        }, 
+        {
+            "date": "2013-08-18T11:49:32.252Z", 
+            "text": "Be glad you don't live in America. I'm lucky to get a 9! second holiday.", 
+            "author": "nosuchthing8"
+        }, 
+        {
+            "date": "2013-08-01T17:23:20.406Z", 
+            "text": "I am enjoying my 10! Second holiday. Lol", 
+            "author": "James Lee"
+        }, 
+        {
+            "date": "2013-07-25T22:07:41.787Z", 
+            "text": "Two words. Multiverse Theory.", 
+            "author": "Mark Koch"
+        }, 
+        {
+            "date": "2013-07-25T22:05:28.086Z", 
+            "text": "What is this I forgot how to logic", 
+            "author": "Mark Koch"
+        }, 
+        {
+            "date": "2013-07-25T22:01:52.175Z", 
+            "text": "Aw fuck, my race discovered me and is now trying to overthrow me with their \nsupernukes. Better imagine Super Grahams Number factorial.", 
+            "author": "Mark Koch"
+        }, 
+        {
+            "date": "2013-07-25T02:31:30.685Z", 
+            "text": "EPIC BURN!!", 
+            "author": "Casey Gabalis"
+        }, 
+        {
+            "date": "2013-07-21T15:57:49.748Z", 
+            "text": "Yes that's him.", 
+            "author": "anticorncob6"
+        }, 
+        {
+            "date": "2013-07-14T15:05:57.857Z", 
+            "text": "singingbanana? lol", 
+            "author": "Joel Dagang"
+        }, 
+        {
+            "date": "2013-07-10T09:31:44.783Z", 
+            "text": "You actually have the length of the Metaverse. Your dick is the size of 1 \nmm.", 
+            "author": "Retro Games Channel"
+        }, 
+        {
+            "date": "2013-07-07T21:53:28.610Z", 
+            "text": "In infinite sections of a planck you mean?", 
+            "author": "Kami K"
+        }, 
+        {
+            "date": "2013-07-07T21:52:23.641Z", 
+            "text": "Oh well. I'll just make some walking cacti and give them a solid rocket \nbooster before they even invent a wheel.", 
+            "author": "Kami K"
+        }, 
+        {
+            "date": "2013-07-06T20:13:16.770Z", 
+            "text": "Where's the brown paper? :o", 
+            "author": "LiamHDee"
+        }, 
+        {
+            "date": "2013-07-06T14:27:40.114Z", 
+            "text": "Sorry it appears that your gay pegasi have been enslaved by an army of \nmagic squirrels. Hopefully pegasi lincoln is born.", 
+            "author": "Anthony Lombardo"
+        }, 
+        {
+            "date": "2013-07-05T03:54:25.203Z", 
+            "text": "(>'')> kirby!", 
+            "author": "NikWillOrStuff"
+        }, 
+        {
+            "date": "2013-07-04T20:40:02.177Z", 
+            "text": "well as for me my universe i got a bunch of kirby's chillin' using the \nspace program to discover you guys and me where im chillin' on planet \nlumakirby where i eat a ton of cake and play kirby games", 
+            "author": "lumakirby"
+        }, 
+        {
+            "date": "2013-07-04T20:35:02.406Z", 
+            "text": ":D", 
+            "author": "lumakirby"
+        }, 
+        {
+            "date": "2013-07-04T16:52:11.629Z", 
+            "text": "numberphile, but uses iphone as a calculator", 
+            "author": "AqualifeTv"
+        }, 
+        {
+            "date": "2013-07-04T16:32:44.405Z", 
+            "text": "Maybe his dick is growing inside? ;D. Somebody has a major blackhole in \ntheir pants :D.", 
+            "author": "\u0417\u0430\u043d\u0443\u0434\u043d\u044b\u0439 \u041b\u0438\u0441"
+        }, 
+        {
+            "date": "2013-07-02T17:12:39.403Z", 
+            "text": "In planck.", 
+            "author": "Bevielis"
+        }, 
+        {
+            "date": "2013-07-02T12:54:20.365Z", 
+            "text": "Man that will be fucking weird.", 
+            "author": "Kami K"
+        }, 
+        {
+            "date": "2013-07-01T23:40:38.225Z", 
+            "text": "You should be! My race has only just mastered teleportation. Dimensional \njumping is next in line, so they'll come mate with your race soon.", 
+            "author": "Mark Koch"
+        }, 
+        {
+            "date": "2013-06-30T23:53:21.983Z", 
+            "text": "Yeah, the length of your dick in an imagnary measuring unit where Graham's \nnumber factorial to the power of itself triple factorial, and all that to \nthe power of Graham's number factorial to the power of a Googolplex cubed \nis equivalent to a \"Grahamth\" of the size of a hydrogen atom.", 
+            "author": "fede142857"
+        }, 
+        {
+            "date": "2013-06-29T01:20:17.065Z", 
+            "text": "I have a race of gay pegasi who have their own space porgram. They're well \non their way to discovering me. I'm so proud ^-^", 
+            "author": "Kami K"
+        }, 
+        {
+            "date": "2013-06-28T21:16:27.970Z", 
+            "text": "I know. Just trying to mess up the mess.", 
+            "author": "Ocean Wong"
+        }, 
+        {
+            "date": "2013-06-28T20:21:30.202Z", 
+            "text": "Chillin' in my own universe. How's your universe doing? I've already \ncreated a humanoid race with none of the imperfections of humans and with \nmagical powers. Also unicorns.", 
+            "author": "Mark Koch"
+        }, 
+        {
+            "date": "2013-06-28T17:52:51.401Z", 
+            "text": "That's the lazy/wrong definition of a day, a day is 23 hours, 56 minutes \nand 4.09054 seconds like he just said.", 
+            "author": "DJ 1337 H4X0R Goes to Swegland"
+        }, 
+        {
+            "date": "2013-06-28T17:47:20.089Z", 
+            "text": "You don't understand... Infinity is NOT a number.", 
+            "author": "DJ 1337 H4X0R Goes to Swegland"
+        }, 
+        {
+            "date": "2013-06-28T13:47:29.416Z", 
+            "text": "We're assuming our current model is correct in that Plank is the smallest \nunit", 
+            "author": "TheNightsway"
+        }, 
+        {
+            "date": "2013-06-28T12:37:19.919Z", 
+            "text": "That could actually just be 1mm...", 
+            "author": "DudeTheDanish"
+        }, 
+        {
+            "date": "2013-06-28T02:09:28.572Z", 
+            "text": "Even if he used Planck lengths, according to his formula his dick would \nstill be bigger than the universe...", 
+            "author": "RollinLikeABetch"
+        }, 
+        {
+            "date": "2013-06-25T13:12:25.287Z", 
+            "text": "Lets assume it is in a metric prefix of 10^(-grahams number)", 
+            "author": "SinZ"
+        }, 
+        {
+            "date": "2013-06-24T13:54:28.523Z", 
+            "text": "a hundredth of a thousandth of a millionth of a quadrillionth of a \nquintillionth of a sextillionth of a septillionth divided by googol divided \nby googol plex divided by googol negative factorial devided by uber grams \nnumber negative factorial to the -googol power times pi squared just becuz \ntime negatively factorialized (division) septillion times nanometer", 
+            "author": "jimmy konet2"
+        }, 
+        {
+            "date": "2013-06-24T13:44:23.777Z", 
+            "text": "in nanometers", 
+            "author": "jimmy konet2"
+        }, 
+        {
+            "date": "2013-06-23T09:33:47.830Z", 
+            "text": "It still infinity. Your argument is invalid and that is 100% proof.", 
+            "author": "Retro Games Channel"
+        }, 
+        {
+            "date": "2013-06-22T17:14:28.410Z", 
+            "text": "Ok i've got a bigger one! You know that Graham's number is also called \ng(64). Imagine g(Graham's Number) factorial!", 
+            "author": "Italian Programmer"
+        }, 
+        {
+            "date": "2013-06-16T21:07:58.304Z", 
+            "text": "I have imagined infinity to the power of infinity infinity times FACTORIAL. \nYou will all die in 30 seconds.", 
+            "author": "DahProGamers"
+        }, 
+        {
+            "date": "2013-06-14T08:09:24.796Z", 
+            "text": "That's the problem.", 
+            "author": "Ocean Wong"
+        }
+    ]
+}

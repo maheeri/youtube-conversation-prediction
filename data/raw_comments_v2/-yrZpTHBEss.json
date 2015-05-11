@@ -1,0 +1,864 @@
+{
+    "publish_date": "2012-08-03T23:16:51.000Z", 
+    "video_length": "PT5M2S", 
+    "captions": [
+        {
+            "text": "Hey, Vsauce, Michael here, and today we are\ngoing to talk about color.", 
+            "dur": "3.689", 
+            "start": "0.65"
+        }, 
+        {
+            "text": "(Green Green, Green Green). &quot;Gold&quot; on, let\nme just &quot;Pink&quot; this up.", 
+            "dur": "5.62", 
+            "start": "4.339"
+        }, 
+        {
+            "text": "&quot;Yellow?&quot;", 
+            "dur": "0.731", 
+            "start": "9.959"
+        }, 
+        {
+            "text": "&quot;Michael, &quot;Orange&quot; you going to come to the\nconcert this evening?&quot;", 
+            "dur": "3.159", 
+            "start": "10.69"
+        }, 
+        {
+            "text": "&quot;I &quot;Red&quot; about that, there are going to be\na lot of &quot;Purple&quot; there.&quot;", 
+            "dur": "2.681", 
+            "start": "13.849"
+        }, 
+        {
+            "text": "&quot;I didn&#39;t &quot;Teal&quot; you about this earlier?&quot;", 
+            "dur": "1.61", 
+            "start": "16.53"
+        }, 
+        {
+            "text": "&quot;Well, look, I have to go &quot;Brown&quot; town first,\nbut I&#39;ll be &quot;White Black.&quot;", 
+            "dur": "3.52", 
+            "start": "18.14"
+        }, 
+        {
+            "text": "Colors...", 
+            "dur": "1.31", 
+            "start": "21.66"
+        }, 
+        {
+            "text": "Did you know that the human eye can differentiate\n10 million different colors? But, what color", 
+            "dur": "7", 
+            "start": "22.97"
+        }, 
+        {
+            "text": "is a mirror?", 
+            "dur": "2.92", 
+            "start": "32.72"
+        }, 
+        {
+            "text": "You might say &quot;Silver&quot; because mirrors are\noften illustrated that way, and, to be sure,", 
+            "dur": "5.41", 
+            "start": "35.64"
+        }, 
+        {
+            "text": "they are made out of silver, or silvery things\nlike iluminum. But, a mirror is, in reality,", 
+            "dur": "6", 
+            "start": "41.05"
+        }, 
+        {
+            "text": "whatever color you point it at.", 
+            "dur": "2.32", 
+            "start": "47.05"
+        }, 
+        {
+            "text": "In this Green Room, the mirror is green. And\nif you look inside a mirror, it becomes &quot;you-colored.&quot;", 
+            "dur": "7", 
+            "start": "49.37"
+        }, 
+        {
+            "text": "An object is whatever color it doesn&#39;t absorb.\nThese sticky notes are orange because when", 
+            "dur": "5.58", 
+            "start": "56.46"
+        }, 
+        {
+            "text": "hit with typical white light, they absorb\nevery other wavelength of visible light, except", 
+            "dur": "5.04", 
+            "start": "62.04"
+        }, 
+        {
+            "text": "for orange, which they diffuse into your eye\nballs.", 
+            "dur": "3.93", 
+            "start": "67.08"
+        }, 
+        {
+            "text": "But a perfect mirror reflects all colors equally.\nSo, in a way, you could say that a mirror", 
+            "dur": "6.02", 
+            "start": "71.01"
+        }, 
+        {
+            "text": "is white, except a mirror doesn&#39;t reflect\ncolors in the same way that pigment does.", 
+            "dur": "6.14", 
+            "start": "77.03"
+        }, 
+        {
+            "text": "A mirror reflects incoming light in a single\noutgoing direction: Specular Reflection, not", 
+            "dur": "7", 
+            "start": "83.17"
+        }, 
+        {
+            "text": "Diffuse. This kind of reflection creates an\nimage of the very thing infront of the mirror.", 
+            "dur": "4.81", 
+            "start": "90.44"
+        }, 
+        {
+            "text": "So, as Bad Astronomy jokes, a mirror is more\nof a &quot;smart white.&quot;", 
+            "dur": "4.979", 
+            "start": "95.25"
+        }, 
+        {
+            "text": "But, wait a second, that is a &quot;perfect&quot; mirror,\nand we live in the real world where there", 
+            "dur": "5", 
+            "start": "100.229"
+        }, 
+        {
+            "text": "are no perfect mirrors. Every mirror absorbs\na little bit of light- not enough that it", 
+            "dur": "6.661", 
+            "start": "105.229"
+        }, 
+        {
+            "text": "matters, I mean, it looks pretty clear to\nme- but, when you take a look at the spectrum", 
+            "dur": "4.769", 
+            "start": "111.89"
+        }, 
+        {
+            "text": "of light reflected by a typical mirror, you\nwill find that it best reflects light within", 
+            "dur": "5.921", 
+            "start": "116.659"
+        }, 
+        {
+            "text": "the 510 nanometer range, which we perceive\nas green light. So, technically, a mirror", 
+            "dur": "7", 
+            "start": "122.58"
+        }, 
+        {
+            "text": "is a tiny, tiny, tiny bit green.", 
+            "dur": "3.56", 
+            "start": "130.739"
+        }, 
+        {
+            "text": "You may have noticed this yourself when investigating\na &quot;Mirror Tunnel.&quot;", 
+            "dur": "4.41", 
+            "start": "134.299"
+        }, 
+        {
+            "text": "This happens when two mirrors face each other,\nreflecting the same scene back and forth,", 
+            "dur": "5.18", 
+            "start": "138.709"
+        }, 
+        {
+            "text": "and back and forth, and back and forth. With\neach new reflection, a little bit more visual", 
+            "dur": "4.46", 
+            "start": "143.889"
+        }, 
+        {
+            "text": "light is lost, but green least of all. That&#39;s\nwhy the reflection way down the tunnel is", 
+            "dur": "6.53", 
+            "start": "148.349"
+        }, 
+        {
+            "text": "dimmer, and greener.", 
+            "dur": "3.31", 
+            "start": "154.879"
+        }, 
+        {
+            "text": "So maybe real world mirrors aren&#39;t &quot;smart\nwhite,&quot; they&#39;re actually kind of green, but", 
+            "dur": "4.59", 
+            "start": "158.189"
+        }, 
+        {
+            "text": "we should talk about white.", 
+            "dur": "2.36", 
+            "start": "162.779"
+        }, 
+        {
+            "text": "&quot;En espa\u00f1ol, &quot;white&quot; es &quot;blanco.&quot;", 
+            "dur": "2.8", 
+            "start": "165.139"
+        }, 
+        {
+            "text": "&quot;En fran\u00e7ais, &quot;white&quot; est dit &quot;blanc.&quot;", 
+            "dur": "3.371", 
+            "start": "167.939"
+        }, 
+        {
+            "text": "And in English, we have a word that comes\nfrom the same route: Black, which is the opposite", 
+            "dur": "6.099", 
+            "start": "171.31"
+        }, 
+        {
+            "text": "of white...how did that happen?", 
+            "dur": "2.56", 
+            "start": "177.409"
+        }, 
+        {
+            "text": "Well, it turns out that all of those words\ncome from the same ancient Proto-Indo-European", 
+            "dur": "5.761", 
+            "start": "179.969"
+        }, 
+        {
+            "text": "root word &quot;Bhleg,&quot; which meant &quot;shine,&quot; &quot;burn,&quot;\n&quot;flash.&quot; Some languages took it to mean the", 
+            "dur": "7", 
+            "start": "185.73"
+        }, 
+        {
+            "text": "brightness of the flash: &quot;white.&quot; While others\ntook it to mean what&#39;s left behind: the burned,", 
+            "dur": "6.319", 
+            "start": "194.01"
+        }, 
+        {
+            "text": "&quot;black,&quot; darkness.", 
+            "dur": "2.041", 
+            "start": "200.329"
+        }, 
+        {
+            "text": "If you have blue eyes, your eyes aren&#39;t actually\nblue, in the sense that the molecules inside", 
+            "dur": "5.67", 
+            "start": "202.37"
+        }, 
+        {
+            "text": "them are absorbing all other wavelengths of\nvisible light and diffusing the blue. No,", 
+            "dur": "4.849", 
+            "start": "208.04"
+        }, 
+        {
+            "text": "no, no, instead, your eyes are blue for the\nsame reason that the sky is blue: interference.", 
+            "dur": "7", 
+            "start": "212.889"
+        }, 
+        {
+            "text": "In our sky, light from the sun encounters\nmolecules of air, and because of the size", 
+            "dur": "4.79", 
+            "start": "220.199"
+        }, 
+        {
+            "text": "of those molecules, light of longer wavelengths\ncan slip on by, but shorter wavelengths crash", 
+            "dur": "6.08", 
+            "start": "224.989"
+        }, 
+        {
+            "text": "into the particles like blue light and scatter,\nwhich is why we see blue when we look at the", 
+            "dur": "5.24", 
+            "start": "231.069"
+        }, 
+        {
+            "text": "sky away from the sun.", 
+            "dur": "2.57", 
+            "start": "236.309"
+        }, 
+        {
+            "text": "Without the air molecules, that space would\njust be black. And when direct sunlight has", 
+            "dur": "5.98", 
+            "start": "238.879"
+        }, 
+        {
+            "text": "to travel through a lot of air, almost all\nof the colors get scattered out except for", 
+            "dur": "4.64", 
+            "start": "244.859"
+        }, 
+        {
+            "text": "the longest wavelengths, the red, which is\nwhat gives a sunrise and a sunset their color.", 
+            "dur": "6.791", 
+            "start": "249.499"
+        }, 
+        {
+            "text": "The iris of your eyeball contains a hazy layer\nwhere light can be scattered just like the", 
+            "dur": "5.93", 
+            "start": "256.29"
+        }, 
+        {
+            "text": "sky. Through a similar but slightly different\nprocess, shorter wavelengths are scattered", 
+            "dur": "5.61", 
+            "start": "262.22"
+        }, 
+        {
+            "text": "more, making your eyes look blue, unless,\nof course, you have some melonen in that iris,", 
+            "dur": "5.23", 
+            "start": "267.83"
+        }, 
+        {
+            "text": "in which case your eye is going to be green,\nhazel, or brown.", 
+            "dur": "4.639", 
+            "start": "273.06"
+        }, 
+        {
+            "text": "Enjoy those colors, and, as always, thanks\nfor watching.", 
+            "dur": "2.37", 
+            "start": "277.699"
+        }
+    ], 
+    "title": "What Color Is A Mirror?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/01sdr", 
+        "/m/054_l", 
+        "/m/0m0klzj"
+    ], 
+    "number_views": 11223725, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T04:26:45.692Z", 
+            "text": "In reality the reason that a mirror gives off a green tint is because of \nthe glass it is attached to not because of the mirror itself.\ufeff", 
+            "author": "Gamers Hideouts"
+        }, 
+        {
+            "date": "2015-05-10T00:36:35.184Z", 
+            "text": "Could someone explain how some people's eyes change color?\ufeff", 
+            "author": "John Aldag (Baal Abaddon)"
+        }, 
+        {
+            "date": "2015-05-09T05:26:15.469Z", 
+            "text": "lol 4:12\ufeff", 
+            "author": "Nicholas Goode (order 697th)"
+        }, 
+        {
+            "date": "2015-05-08T00:48:39.275Z", 
+            "text": "so? illuminati confirmed? XD\ufeff", 
+            "author": "Ruftinator"
+        }, 
+        {
+            "date": "2015-05-07T20:21:15.871Z", 
+            "text": "And in Polish language white is \"bia\u0142y\"\ufeff", 
+            "author": "QueenSalis"
+        }, 
+        {
+            "date": "2015-05-07T20:08:01.699Z", 
+            "text": "Great video but wait... You said the sky is blue because the short \nwavelength blue light is scattered the most and our eyes pick up the \nscattered light. But in the case of sunrise and sunsets, all the colors get \nscattered except red (the longest wavelength). So shouldn't we be seeing \nall the colors BUT red??\ufeff", 
+            "author": "sycois"
+        }, 
+        {
+            "date": "2015-05-07T16:56:56.776Z", 
+            "text": "I have a mirror and at the edge It is green and thats why I already knew It \nwas green.\ufeff", 
+            "author": "Eldin Dedeic"
+        }, 
+        {
+            "date": "2015-05-06T16:32:01.176Z", 
+            "text": "*You answer questions I didn't even know I had!*\ufeff", 
+            "author": "lakhan911"
+        }, 
+        {
+            "date": "2015-05-05T04:03:53.249Z", 
+            "text": "So if you reflect pink on a mirror, it won't get dimmer as you go along?\ufeff", 
+            "author": "Still Just-Me"
+        }, 
+        {
+            "date": "2015-05-04T23:22:04.554Z", 
+            "text": "\"I have to go brown town first\"....\ufeff", 
+            "author": "Seth Winstanley"
+        }, 
+        {
+            "date": "2015-05-04T21:04:06.202Z", 
+            "text": "holy fuck the first thirty seconds THE GODDAMN PUNS *grabs gun shoots \nmyself in the head*\ufeff", 
+            "author": "Kenny McCormmick"
+        }, 
+        {
+            "date": "2015-05-04T13:28:44.686Z", 
+            "text": "Is it weird that i am watching this and i am 12?\ufeff", 
+            "author": "Mirjam Millekas"
+        }, 
+        {
+            "date": "2015-05-04T04:30:29.987Z", 
+            "text": "+Vsauce  If I would have had you as a teacher in science I would have payed \na lot more attention.\ufeff", 
+            "author": "Zak Hughes"
+        }, 
+        {
+            "date": "2015-05-03T21:17:14.900Z", 
+            "text": "He's fat.\ufeff", 
+            "author": "tu na"
+        }, 
+        {
+            "date": "2015-05-03T18:04:09.631Z", 
+            "text": "If an object is green because it absorbs every other color other than \ngreen, then what color does a piece of glass not absorb o_0\ufeff", 
+            "author": "Neki Juniku"
+        }, 
+        {
+            "date": "2015-05-03T07:26:56.779Z", 
+            "text": "You think you're REDy for my rhymes? You'll soon bee GREEN, as envy as \nlimes. I see you're not YELLOW, fellow, but I don't want to make you BLUE, \nso get a clue, then PURPLE the plug before you're played, or I'll ORRANGE a \nrainbow on your brain!!!\ufeff", 
+            "author": "xCART00NNETW0RKx"
+        }, 
+        {
+            "date": "2015-05-03T02:14:35.046Z", 
+            "text": "i have a question... So i have blue eyes but my eyes are how would you put \nit... Unique? They change colors i only know when im excited it looks green \nor i learned a couple days ago when it rains my eyes are well... Grey? How \ni know this you ask? Because lets put for a example a fun day with rollar \ncoasters i was super well excited anybody would and my friend said 'Hey \nwhats with your eyes there green.' And then i forgot how i got into this \nsubject but a couple days ago it was raining we got into the subject about \neyes and there colors i told my best friend how i liked my blue eyes she \ntook one like and said 'hmmm... Nope there grey!' turns out it rained that \nmorning... So why does my eyes change color?\ufeff", 
+            "author": "Cherise Breadner"
+        }, 
+        {
+            "date": "2015-05-02T20:10:25.900Z", 
+            "text": "I cringe every time i hear \" Did you know the human eye\"\ufeff", 
+            "author": "Xtcent"
+        }, 
+        {
+            "date": "2015-05-02T18:42:48.708Z", 
+            "text": "a mirrior is all the colours\ufeff", 
+            "author": "Roblox Games"
+        }, 
+        {
+            "date": "2015-05-02T16:46:59.631Z", 
+            "text": "So \"bleg\" Is a word?\ufeff", 
+            "author": "Thomas Toledo"
+        }, 
+        {
+            "date": "2015-05-02T15:27:49.869Z", 
+            "text": "Oh the puns.\ufeff", 
+            "author": "Crystal Moonstone"
+        }, 
+        {
+            "date": "2015-05-02T12:50:57.429Z", 
+            "text": "Mind blown as usual.\ufeff", 
+            "author": "AnthonyTett1997"
+        }, 
+        {
+            "date": "2015-05-02T12:46:22.063Z", 
+            "text": "Ten million different colors, eh? Not mine.\ufeff", 
+            "author": "AnthonyTett1997"
+        }, 
+        {
+            "date": "2015-05-02T00:05:20.667Z", 
+            "text": "You know in your \"Is your yellow my yellow?\" video you talked about that \n(or something like that)? Well what if different colored eyes affected \nthat? Brown eyes: Brown Rainbow. Blue Eyes: Blue Rainbow\ufeff", 
+            "author": "CJ's Stuff"
+        }, 
+        {
+            "date": "2015-05-01T03:37:10.343Z", 
+            "text": "What I never understood is how some animals for example can detect more \ncolors...it's impossible for me to imagine another color :c\ufeff", 
+            "author": "Swami Dubuc"
+        }, 
+        {
+            "date": "2015-04-30T22:46:56.350Z", 
+            "text": "Mention of Proto-Europeans and on to the Iris.. Lovely video.\ufeff", 
+            "author": "Gabriel Seraphim"
+        }, 
+        {
+            "date": "2015-04-30T22:09:28.874Z", 
+            "text": "it's already night and I am still watching his videos\ufeff", 
+            "author": "Daniel Lee"
+        }, 
+        {
+            "date": "2015-04-30T16:24:05.732Z", 
+            "text": "this vid is really racict\ufeff", 
+            "author": "KOOWNM YO"
+        }, 
+        {
+            "date": "2015-04-29T15:13:17.961Z", 
+            "text": "When talking about mirrors being green we have to account for the fact that \nmost mirrors are mounted behind glass, and most typical glass used for \nmirrors, windows, et cetera is slightly green.  Take a window pane and look \nthrough it edge-on rather than face-on, it'll be so green as to seem almost \nopaque.  So is the mirror surface itself green or is that green hue an \nartefact of the glass?\ufeff", 
+            "author": "Jo McKillop"
+        }, 
+        {
+            "date": "2015-04-29T03:16:39.000Z", 
+            "text": "Man, so wrong!!!\n\nBLANCO in Spanish, and BLANC in French, do not have the same etymology as \nthe word BLACK. Instead, in English the word is BLANK. That's the word that \nshares the same root as the Spanish and French words for \"white\". I can't \nbelieve you missed that. \n\nIt comes from the Proto-Germanic word \"blank\", which is derived from the \nverb \"blinken\" (to shine). You know, like a mirror.\n\nSo, literally that whole part about \"Black\" always makes me cringe because \nit has no connection to the word \"White\" in other languages.\ufeff", 
+            "author": "oodjee"
+        }, 
+        {
+            "date": "2015-04-29T02:24:21.742Z", 
+            "text": "I thought that the mirrors had that green light because of the glass... \nnevermind...\ufeff", 
+            "author": "Another Lover"
+        }, 
+        {
+            "date": "2015-04-29T02:00:00.700Z", 
+            "text": "dood ur vidos are so adickteng.. I fell smarter alrady\ufeff", 
+            "author": "GladlyTaken"
+        }, 
+        {
+            "date": "2015-04-28T21:18:27.676Z", 
+            "text": "What if my eyes change between blue and hazel? \ufeff", 
+            "author": "CrackedDylMil"
+        }, 
+        {
+            "date": "2015-04-28T06:36:49.820Z", 
+            "text": "HAHAHAHAHA! Brown Town. HA!\ufeff", 
+            "author": "PiranhaFire69"
+        }, 
+        {
+            "date": "2015-04-27T21:38:11.622Z", 
+            "text": "Oh, that's easy. The color of a mirror is no one gives a shit.\ufeff", 
+            "author": "DonutCopper Online"
+        }, 
+        {
+            "date": "2015-04-27T04:52:24.903Z", 
+            "text": "What about color-changing eyes?\ufeff", 
+            "author": "TheoSL"
+        }, 
+        {
+            "date": "2015-04-27T01:35:03.485Z", 
+            "text": "the mirror is only green because glass is green, like how water is blue. \nbut like water, you don't see the green or blueness unless the water or \nglass obtains a high enough thickness. so yes, the ocean is not blue cuz \nit's a reflection of the sky, but because water really is blue. this is why \nthe ocean is still blue on cloudy days. like water, glass becomes a deeper \ngreen in direct proportion to the amount of blue. this is why a pool is \nonly a light blue and the ocean is a really deep blue.\ufeff", 
+            "author": "ZeroInfinityGaming"
+        }, 
+        {
+            "date": "2015-04-26T14:27:13.532Z", 
+            "text": "The mirror has NO COLOR \ufeff", 
+            "author": "Shaima Manzano"
+        }, 
+        {
+            "date": "2015-04-26T14:25:16.084Z", 
+            "text": "Don't chu know that the sky is actually purple?\ufeff", 
+            "author": "Shaima Manzano"
+        }, 
+        {
+            "date": "2015-04-26T11:32:47.726Z", 
+            "text": "2:51 Who else thought Micheal was gonna say \"Blank\"?\ufeff", 
+            "author": "84updown"
+        }, 
+        {
+            "date": "2015-04-26T10:43:03.976Z", 
+            "text": "is it ok that my change color ever month\ufeff", 
+            "author": "fantom jango"
+        }, 
+        {
+            "date": "2015-04-26T08:27:12.482Z", 
+            "text": "The first 25 secs are punny\n\nP.S Micheal don't ever do such bad jokes again please\ufeff", 
+            "author": "SANJAY DAREKAR"
+        }, 
+        {
+            "date": "2015-04-26T05:41:26.497Z", 
+            "text": "How can mirrors be green if my eyes aren't real?\ufeff", 
+            "author": "Felish Blok"
+        }, 
+        {
+            "date": "2015-04-26T04:49:41.024Z", 
+            "text": "you wanna know what color a mirror is? mirror color. xD\ufeff", 
+            "author": "Princess Crystalsong"
+        }, 
+        {
+            "date": "2015-04-26T00:40:50.756Z", 
+            "text": "Blanco, blanc doesnt mean Blank? or , free of color? AKA White? thats what \nmy art teacher told us.\ufeff", 
+            "author": "Rusty Fox"
+        }, 
+        {
+            "date": "2015-04-25T20:11:40.306Z", 
+            "text": "human eye 10 million\nmobile phone screen 16 million\nso its an overkill? \nwow this screen can display 20 million colors buy it! ...........dafaq?\ufeff", 
+            "author": "Thunder Zephyr"
+        }, 
+        {
+            "date": "2015-04-25T17:47:24.459Z", 
+            "text": "I lost what you said at the very beginning \ufeff", 
+            "author": "Shelby Nadeau"
+        }, 
+        {
+            "date": "2015-04-25T17:43:33.021Z", 
+            "text": "So what colour is a mirror?\ufeff", 
+            "author": "Shelby Nadeau"
+        }, 
+        {
+            "date": "2015-04-25T17:42:55.065Z", 
+            "text": "You should be on Jeopardy\ufeff", 
+            "author": "Shelby Nadeau"
+        }, 
+        {
+            "date": "2015-04-25T14:09:28.606Z", 
+            "text": "", 
+            "author": "Aitor mr"
+        }, 
+        {
+            "date": "2015-04-25T11:48:28.811Z", 
+            "text": "Barb would be proud\ufeff", 
+            "author": "LiamLamb"
+        }, 
+        {
+            "date": "2015-04-25T09:21:47.662Z", 
+            "text": "Just.. fuck you, I'm done with these videos\ufeff", 
+            "author": "James Sarantos"
+        }, 
+        {
+            "date": "2015-04-25T01:37:56.968Z", 
+            "text": "Is the mirror itself green? Or is it the iron atom impurities in the glass \npossibly in the ferrous state (Fe2+) that causes the reflection of the \ngreen wavelengths disproportionately?\ufeff", 
+            "author": "Christopher \u201cAaron\u201d Burnette"
+        }, 
+        {
+            "date": "2015-04-24T18:04:29.814Z", 
+            "text": "He Sooo smaaarrt\ufeff", 
+            "author": "AllSoHFeed"
+        }, 
+        {
+            "date": "2015-04-24T03:15:52.784Z", 
+            "text": "its cool how when I look into my cats pupils I see sort of a maroon color, \nif its not being absorbed into its pupils, does it mean the cat cant see \nthat color?\ufeff", 
+            "author": "CmO Clan"
+        }, 
+        {
+            "date": "2015-04-23T15:56:02.889Z", 
+            "text": "I know this is an old video, but I just want to ask: what makes \"things\" \ntransparent?\ufeff", 
+            "author": "Gabriel Barliga"
+        }, 
+        {
+            "date": "2015-04-22T16:29:51.510Z", 
+            "text": "Maybe something is actually a way different colour, but the human eye will \nsee the colours in a different way, maybe an apple is blue? But we see it \nRED\ufeff", 
+            "author": "MikaelRos123"
+        }, 
+        {
+            "date": "2015-04-21T14:12:48.307Z", 
+            "text": "Short video.\ufeff", 
+            "author": "The TNT HIPPIE"
+        }, 
+        {
+            "date": "2015-04-21T12:39:45.493Z", 
+            "text": "A mirror is silver.We see it in silver,so why cant it be silver?At 0:41 you \nsaid that the only reason we see mirrors as silver is because they are made \nout of silver . thats just like saying an apple isnt red,we just see it as \nred because its made out of red.\ufeff", 
+            "author": "Neki Juniku"
+        }, 
+        {
+            "date": "2015-05-10T09:30:32.749Z", 
+            "text": "+Neki Juniku it isn't green either :) It is no colors at all. As he said in \nthe video: \"A perfect mirror is a mirror that reflects all light (and \nthereby all colors). But since there is no perfect mirrors, they all absorb \nsome light, one of them being green\" Which means that a mirror isn't green, \nbut it just absorbs a little of green, because it isn't perfect :)", 
+            "author": "It's Eoleh"
+        }, 
+        {
+            "date": "2015-05-03T17:46:01.029Z", 
+            "text": "you got way off topic. All i wanted to say is that I'd rather stick with a \nmirror being silver ( i didn't even say silver is a color) than believing a \nmirror is freaking green", 
+            "author": "Neki Juniku"
+        }, 
+        {
+            "date": "2015-05-03T17:29:54.610Z", 
+            "text": "that has little to do with my comment. Basically everytime i said silver i \nmeant gray", 
+            "author": "Neki Juniku"
+        }, 
+        {
+            "date": "2015-04-21T05:57:13.246Z", 
+            "text": "Next time I see someone with blue eyes, \n*\"I can see the interference in your eyes.\"*\ufeff", 
+            "author": "Sample Text"
+        }, 
+        {
+            "date": "2015-04-21T01:23:58.298Z", 
+            "text": "I think the reason mirrors are slightly green is because the layer of glass \nthey use has traces of iron in it. They use iron to make green glass \nbottles.\ufeff", 
+            "author": "LightningFastBrony"
+        }, 
+        {
+            "date": "2015-04-21T00:41:12.638Z", 
+            "text": "Love this guy\ufeff", 
+            "author": "liz glover"
+        }, 
+        {
+            "date": "2015-04-20T20:56:30.902Z", 
+            "text": "Uhm isn't green the color of glass and not of the mirror? I care more about \nwhat color is the reflective surface rather than the glass.\ufeff", 
+            "author": "Mandragoras"
+        }, 
+        {
+            "date": "2015-04-28T04:01:50.523Z", 
+            "text": "+Mandragoras I agree with you completely. The glass is what is distorting \nthe color.", 
+            "author": "Jean Egan"
+        }, 
+        {
+            "date": "2015-04-20T01:32:15.774Z", 
+            "text": "lel i learned about this in science in school lel hashtag swag\ufeff", 
+            "author": "PinkPony Productions"
+        }, 
+        {
+            "date": "2015-04-19T19:59:17.934Z", 
+            "text": "those puns XD\ufeff", 
+            "author": "Legofan PC"
+        }, 
+        {
+            "date": "2015-04-19T15:35:56.914Z", 
+            "text": "* The female human eye can differentiate 10 million different colours\ufeff", 
+            "author": "Eric MacFarlane"
+        }, 
+        {
+            "date": "2015-04-19T05:01:08.060Z", 
+            "text": "", 
+            "author": "Yvan Danila"
+        }, 
+        {
+            "date": "2015-04-19T03:53:43.928Z", 
+            "text": "My eyes are blue... WHAT DOES THIS MEAN?!?!?!?!?!?!?!\ufeff", 
+            "author": "Lydia IsAwesome Hill"
+        }, 
+        {
+            "date": "2015-04-18T00:46:07.762Z", 
+            "text": "Hazel! That's my name and the color of my eyes\ufeff", 
+            "author": "JuniorAngie12"
+        }, 
+        {
+            "date": "2015-04-18T00:45:06.792Z", 
+            "text": "Hazel!! That's me\ufeff", 
+            "author": "JuniorAngie12"
+        }, 
+        {
+            "date": "2015-04-17T07:42:56.909Z", 
+            "text": "How Can Mirrors Be Real If Our Eyes Aren't Real\ufeff", 
+            "author": "Chris Fox"
+        }, 
+        {
+            "date": "2015-04-17T03:14:41.753Z", 
+            "text": "4:20 that explains with people thinking that one dress was white and yellow \nor black and blue\ufeff", 
+            "author": "Nick Lopez"
+        }, 
+        {
+            "date": "2015-04-17T03:12:32.566Z", 
+            "text": "3:06 when i saw that word i thought of bootleg for some reason\ufeff", 
+            "author": "Nick Lopez"
+        }, 
+        {
+            "date": "2015-04-17T03:06:10.358Z", 
+            "text": "before i watch any further, let me guess, a mirror is every color\ufeff", 
+            "author": "Nick Lopez"
+        }, 
+        {
+            "date": "2015-04-16T22:07:12.000Z", 
+            "text": "Way, way more color facts:\nWe can only see three primary colors. That's only 3/16 of the actual base \ncolors. With three primary colors how many different shades and colors can \nwe see? A shit load. But with sixteen? Well, we can't even imagine a color \nwe've never seen before, so we haven't even named these colors. We know \nthey exist because of the length of the waves. If we were to invent a \ncamera to see these colors we STILL couldn't see them. Wanna know why? \nBecause our eyes couldn't see the colors in the picture. 8% of men have \nsome form of colorblindness. This doesn't mean they see in black in white, \njust with less colors. Or, the lack of red for people who are red \ncolorblind. Only 0.5% of women have some form of colorblindness though. \nBlue being the rarest, in only about 5% of colorblind people. About 0.3% of \nwomen though have an EXTRA cone (the little things inside your eyes that \nallow you to see colors, rods are the other one, which allow you to see \nshades) which means they can see 4 primary colors, a single color that we, \nas stated previously, haven't even named yet!\nAny questions? No? Good.\ufeff", 
+            "author": "Exotic Toxin"
+        }, 
+        {
+            "date": "2015-04-16T00:10:54.795Z", 
+            "text": "What about blue eyes with a gold ring around the pupils?\ufeff", 
+            "author": "Michael Morris"
+        }, 
+        {
+            "date": "2015-04-15T01:48:39.589Z", 
+            "text": "Isn't that green from the mirrors simply the colour of the glass that the \nsilver has been electroplated on?  If you look at the edge of thick window \nglass, you'll see a similar green.\ufeff", 
+            "author": "Karsten Johansson"
+        }, 
+        {
+            "date": "2015-04-14T15:44:29.287Z", 
+            "text": "Germans be like (3:07) lel schwarz.\ufeff", 
+            "author": "blackkkiller1"
+        }, 
+        {
+            "date": "2015-04-14T08:36:22.009Z", 
+            "text": "If you put a mirror in front of a mirror tho?!??\ufeff", 
+            "author": "zara newkirk"
+        }, 
+        {
+            "date": "2015-04-14T01:30:15.816Z", 
+            "text": "Ugh you have beautiful eyes! Why the fuck I had to be cursed with extra \namounts of melanin! Eyes can change your beauty incredibly-i bet if my eyes \nwere blue, even hazel or whatever my insecurities would be less than it \nalready is! It makes your eyes pop! Ever watched brooklyn &bailey, gosh \ntheir eyes d\u0153.!!\ufeff", 
+            "author": "xLPSGIRLZ"
+        }, 
+        {
+            "date": "2015-04-13T07:54:41.081Z", 
+            "text": "my eyes are mostly blue but one is half brown and the other is half green\ufeff", 
+            "author": "Reyna Ritsema"
+        }, 
+        {
+            "date": "2015-04-13T03:36:31.884Z", 
+            "text": "blank\ufeff", 
+            "author": "matt gonzo"
+        }, 
+        {
+            "date": "2015-04-13T00:57:24.350Z", 
+            "text": "What is the color nothing the only thing I know is that it has to do \nsomething to do with light.\ufeff", 
+            "author": "Suzette Sutton"
+        }, 
+        {
+            "date": "2015-04-12T11:17:40.347Z", 
+            "text": "A mirror tunnel is green because the glass covering the mirrors surface is \ngreen...\ufeff", 
+            "author": "Mark D"
+        }, 
+        {
+            "date": "2015-04-12T11:17:59.607Z", 
+            "text": "+Mark D  look at a piece of glass from its edge and you'll see", 
+            "author": "Mark D"
+        }, 
+        {
+            "date": "2015-04-12T10:26:12.349Z", 
+            "text": "What Color Is A Mirror?: https://youtu.be/-yrZpTHBEss\ufeff", 
+            "author": "cat kook"
+        }, 
+        {
+            "date": "2015-04-12T08:50:47.541Z", 
+            "text": "Haha no shit it's green. I figured this out long before... just look at the \nrough-cut edge of a medicine cabinet or other thick mirror with no borders. \nKind of a sea-glass color.\ufeff", 
+            "author": "RJ the Edgelord"
+        }, 
+        {
+            "date": "2015-04-12T07:48:47.901Z", 
+            "text": "How can mirrors be real if our eyes aren't real?\ufeff", 
+            "author": "matthew cieslar"
+        }, 
+        {
+            "date": "2015-05-02T09:17:23.738Z", 
+            "text": "+matthew cieslar thank you Jaden Smith", 
+            "author": "Phantom Pie"
+        }, 
+        {
+            "date": "2015-04-30T03:40:20.998Z", 
+            "text": "+Peter Jang which part?", 
+            "author": "Nicholas Meeks"
+        }, 
+        {
+            "date": "2015-04-28T16:26:59.151Z", 
+            "text": "+Ein-Bau K\u00fcch eh I know you're making that stuff up", 
+            "author": "Peter Jang"
+        }, 
+        {
+            "date": "2015-04-25T18:53:55.220Z", 
+            "text": "Its funny cuz I know where this came from", 
+            "author": "Jared Bussiere"
+        }, 
+        {
+            "date": "2015-04-17T21:04:52.000Z", 
+            "text": "+matthew cieslar What we see isn't actually true. Ofc you can see an apple, \nyou can touch (we actually never even touch things the way we think) the \napple or eat it.\nBut what we see is just a transmission from what there is in reality. Even \nif there is an exact copy, a copy =/= the real thing, the original.\nI hope this makes sense :) \nWhat you see, or let me say, what your brain tells you, is not the same as \nthe pure existance of reality. Being =/= seeing", 
+            "author": "Ein-Bau K\u00fcch eh"
+        }, 
+        {
+            "date": "2015-04-11T18:31:25.680Z", 
+            "text": "Hes prob one of the highest paid teachers in the world\nThink about it 8 mill students + 11 mill views on every video ^^\ufeff", 
+            "author": "The Corner"
+        }, 
+        {
+            "date": "2015-04-11T00:08:23.417Z", 
+            "text": "the glass is green\ufeff", 
+            "author": "lokkolokko94"
+        }, 
+        {
+            "date": "2015-04-10T06:55:30.714Z", 
+            "text": "", 
+            "author": "abid ali"
+        }, 
+        {
+            "date": "2015-04-10T06:55:20.449Z", 
+            "text": "Your information helped me in exams. The phenomenon why setting sun appears \nred in colour? \n\ufeff", 
+            "author": "abid ali"
+        }, 
+        {
+            "date": "2015-04-09T10:41:48.271Z", 
+            "text": "Its silver colour\ufeff", 
+            "author": "ajims sali"
+        }, 
+        {
+            "date": "2015-04-09T08:14:40.931Z", 
+            "text": "My brain just exploded\ufeff", 
+            "author": "Love8life"
+        }, 
+        {
+            "date": "2015-04-09T02:27:49.703Z", 
+            "text": "2:55 no, we have a word called \"blank\" \ufeff", 
+            "author": "BionicMan"
+        }, 
+        {
+            "date": "2015-04-09T00:46:03.932Z", 
+            "text": "sooo what colour is the mirror, white or green? i dont tlking english so i \ndont understand everything he said... -.-\ufeff", 
+            "author": "alexandra nilsson"
+        }, 
+        {
+            "date": "2015-04-09T00:30:29.464Z", 
+            "text": "The part of a mirror that reflects is called silvering, so\ufeff", 
+            "author": "Martin Sweeney"
+        }, 
+        {
+            "date": "2015-04-09T00:32:59.428Z", 
+            "text": "Also I can't see as many colors because I have a bad case of red-green (I \nhave more problems than with just those colors it's just the name) color \nblindness.", 
+            "author": "Martin Sweeney"
+        }, 
+        {
+            "date": "2015-04-08T14:10:07.685Z", 
+            "text": "Is this why when you see a mirror sideways,the glass you can see there is \ngreen?! Cool!\ufeff", 
+            "author": "Victor Lac\u00e9"
+        }, 
+        {
+            "date": "2015-04-07T05:31:13.901Z", 
+            "text": "So my eyes are not BLUE???!!!\ufeff", 
+            "author": "Grace Biery"
+        }, 
+        {
+            "date": "2015-04-07T05:30:44.635Z", 
+            "text": "H\ufeff", 
+            "author": "Grace Biery"
+        }, 
+        {
+            "date": "2015-04-06T19:49:12.804Z", 
+            "text": "Good move having a hot chick on your channel....more of her please\ufeff", 
+            "author": "betterkris"
+        }
+    ]
+}

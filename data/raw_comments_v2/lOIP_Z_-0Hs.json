@@ -1,0 +1,1480 @@
+{
+    "publish_date": "2012-01-09T20:17:32.000Z", 
+    "video_length": "PT6M14S", 
+    "captions": [
+        {
+            "text": "Say you&#39;re me and\nyou&#39;re in math class,", 
+            "dur": "1.72", 
+            "start": "0"
+        }, 
+        {
+            "text": "and you&#39;re doodling\nflowery petally things.", 
+            "dur": "1.86", 
+            "start": "1.72"
+        }, 
+        {
+            "text": "If you want something with\nlots of overlapping petals,", 
+            "dur": "2.26", 
+            "start": "3.58"
+        }, 
+        {
+            "text": "you&#39;re probably following\na loose sort of rule", 
+            "dur": "1.916", 
+            "start": "5.84"
+        }, 
+        {
+            "text": "that goes something like this.", 
+            "dur": "1.354", 
+            "start": "7.756"
+        }, 
+        {
+            "text": "Add new petals where there&#39;s\ngaps between old petals.", 
+            "dur": "3.42", 
+            "start": "9.11"
+        }, 
+        {
+            "text": "You can try doing\nthis precisely.", 
+            "dur": "1.64", 
+            "start": "12.53"
+        }, 
+        {
+            "text": "Start with some number\nof petals, say five,", 
+            "dur": "2.64", 
+            "start": "14.17"
+        }, 
+        {
+            "text": "then add another\nlayer in between.", 
+            "dur": "2.02", 
+            "start": "16.81"
+        }, 
+        {
+            "text": "But the next layer, you have to\nadd 10, then the next has 20.", 
+            "dur": "2.642", 
+            "start": "18.83"
+        }, 
+        {
+            "text": "The inconvenient part\nof this is that you", 
+            "dur": "1.708", 
+            "start": "21.472"
+        }, 
+        {
+            "text": "have to finish a layer\nbefore everything is even.", 
+            "dur": "2.51", 
+            "start": "23.18"
+        }, 
+        {
+            "text": "Ideally, you&#39;d have\na rule that just", 
+            "dur": "1.5", 
+            "start": "25.69"
+        }, 
+        {
+            "text": "lets you add petals\nuntil you get bored.", 
+            "dur": "2.64", 
+            "start": "27.19"
+        }, 
+        {
+            "text": "Now imagine you&#39;re\na plant, and you", 
+            "dur": "1.51", 
+            "start": "29.83"
+        }, 
+        {
+            "text": "want to grow in a\nway that spreads out", 
+            "dur": "1.583", 
+            "start": "31.34"
+        }, 
+        {
+            "text": "your leaves to catch the\nmost possible sunlight.", 
+            "dur": "2.807", 
+            "start": "32.923"
+        }, 
+        {
+            "text": "Unfortunately,\nand I hope I&#39;m not", 
+            "dur": "1.69", 
+            "start": "35.73"
+        }, 
+        {
+            "text": "presuming too much in\nthinking that, as a plant,", 
+            "dur": "2.44", 
+            "start": "37.42"
+        }, 
+        {
+            "text": "you&#39;re not very smart.", 
+            "dur": "1.714", 
+            "start": "39.86"
+        }, 
+        {
+            "text": "You don&#39;t know how to add\nnumber to create a series,", 
+            "dur": "2.166", 
+            "start": "41.574"
+        }, 
+        {
+            "text": "you don&#39;t know geometry\nand proportions,", 
+            "dur": "1.666", 
+            "start": "43.74"
+        }, 
+        {
+            "text": "and can&#39;t draw spirals, or\nrectangles, or slug cats.", 
+            "dur": "3.374", 
+            "start": "45.406"
+        }, 
+        {
+            "text": "But maybe you could\nfollow one simple rule.", 
+            "dur": "2.854", 
+            "start": "48.78"
+        }, 
+        {
+            "text": "Botanists have\nnoticed that plants", 
+            "dur": "1.416", 
+            "start": "51.634"
+        }, 
+        {
+            "text": "seem to be fairly\nconsistent when", 
+            "dur": "1.62", 
+            "start": "53.05"
+        }, 
+        {
+            "text": "it comes to the angle between\none leaf and the next.", 
+            "dur": "2.762", 
+            "start": "54.67"
+        }, 
+        {
+            "text": "So let&#39;s see what you\ncould do with that.", 
+            "dur": "1.708", 
+            "start": "57.432"
+        }, 
+        {
+            "text": "So you grow your first leaf,\nand if you didn&#39;t change angle", 
+            "dur": "2.25", 
+            "start": "59.14"
+        }, 
+        {
+            "text": "at all, then the\nnext leaf you grow", 
+            "dur": "1.56", 
+            "start": "61.39"
+        }, 
+        {
+            "text": "would be directly above it.", 
+            "dur": "1.259", 
+            "start": "62.95"
+        }, 
+        {
+            "text": "So that&#39;s no good,\nbecause it blocks", 
+            "dur": "1.14", 
+            "start": "64.209"
+        }, 
+        {
+            "text": "all the light or something.", 
+            "dur": "1.281", 
+            "start": "65.349"
+        }, 
+        {
+            "text": "You can go 180 degrees, to\nhave the next leaf directly", 
+            "dur": "2.76", 
+            "start": "66.63"
+        }, 
+        {
+            "text": "opposite, which seems ideal.", 
+            "dur": "1.46", 
+            "start": "69.39"
+        }, 
+        {
+            "text": "Only once you go 180\nagain, the third leaf", 
+            "dur": "1.97", 
+            "start": "70.85"
+        }, 
+        {
+            "text": "is right over the first.", 
+            "dur": "1.53", 
+            "start": "72.82"
+        }, 
+        {
+            "text": "In fact, any\nfraction of a circle", 
+            "dur": "1.667", 
+            "start": "74.35"
+        }, 
+        {
+            "text": "with a whole number\nas a base is going", 
+            "dur": "1.583", 
+            "start": "76.017"
+        }, 
+        {
+            "text": "to have complete overlap\nafter that number of turns.", 
+            "dur": "2.94", 
+            "start": "77.6"
+        }, 
+        {
+            "text": "And unlike when you&#39;re\ndoodling, as a plant", 
+            "dur": "1.989", 
+            "start": "80.54"
+        }, 
+        {
+            "text": "you&#39;re not smart enough to see\nyou&#39;ve gone all the way around", 
+            "dur": "2.541", 
+            "start": "82.529"
+        }, 
+        {
+            "text": "and now should switch to\nadding things in between.", 
+            "dur": "2.47", 
+            "start": "85.07"
+        }, 
+        {
+            "text": "If you try and\npostpone the overlap", 
+            "dur": "1.73", 
+            "start": "87.54"
+        }, 
+        {
+            "text": "by making the\nfraction really small,", 
+            "dur": "1.902", 
+            "start": "89.27"
+        }, 
+        {
+            "text": "you just get a ton of\noverlap in the beginning,", 
+            "dur": "1.958", 
+            "start": "91.172"
+        }, 
+        {
+            "text": "and waste all this space,\nwhich is completely disastrous.", 
+            "dur": "3.15", 
+            "start": "93.13"
+        }, 
+        {
+            "text": "Or maybe other\nfractions are good.", 
+            "dur": "1.57", 
+            "start": "96.28"
+        }, 
+        {
+            "text": "The kind that position leaves\nin a star like pattern.", 
+            "dur": "2.41", 
+            "start": "97.85"
+        }, 
+        {
+            "text": "It will be a while\nbefore it overlaps,", 
+            "dur": "1.69", 
+            "start": "100.26"
+        }, 
+        {
+            "text": "and the leaves will be more\nevenly spaced in the meantime.", 
+            "dur": "3.14", 
+            "start": "101.95"
+        }, 
+        {
+            "text": "But what if there\nwere a fraction that", 
+            "dur": "1.63", 
+            "start": "105.09"
+        }, 
+        {
+            "text": "never completely overlapped?", 
+            "dur": "2", 
+            "start": "106.72"
+        }, 
+        {
+            "text": "For any rational fraction,\neventually the star will close.", 
+            "dur": "3.14", 
+            "start": "108.72"
+        }, 
+        {
+            "text": "But what if you used\nan irrational number?", 
+            "dur": "1.89", 
+            "start": "111.86"
+        }, 
+        {
+            "text": "The kind of number that can&#39;t\nbe expressed as a whole number", 
+            "dur": "2.499", 
+            "start": "113.75"
+        }, 
+        {
+            "text": "ratio.", 
+            "dur": "0.591", 
+            "start": "116.249"
+        }, 
+        {
+            "text": "What if you used the\nmost irrational number?", 
+            "dur": "2.78", 
+            "start": "116.84"
+        }, 
+        {
+            "text": "If you think it sounds weird\nto say one irrational number is", 
+            "dur": "2.5", 
+            "start": "119.62"
+        }, 
+        {
+            "text": "more irrational than\nanother, well, you", 
+            "dur": "1.59", 
+            "start": "122.12"
+        }, 
+        {
+            "text": "might want to become\na number theorist.", 
+            "dur": "1.55", 
+            "start": "123.71"
+        }, 
+        {
+            "text": "If you are a number\ntheorist, you", 
+            "dur": "1.4", 
+            "start": "125.26"
+        }, 
+        {
+            "text": "might tell us that phi is\nthe most irrational number.", 
+            "dur": "2.86", 
+            "start": "126.66"
+        }, 
+        {
+            "text": "Or you might say, that&#39;s like\nsaying, of all the integers,", 
+            "dur": "2.64", 
+            "start": "129.52"
+        }, 
+        {
+            "text": "1 is the integer-iest.", 
+            "dur": "1.435", 
+            "start": "132.16"
+        }, 
+        {
+            "text": "Or you might\ndisagree completely.", 
+            "dur": "1.375", 
+            "start": "133.595"
+        }, 
+        {
+            "text": "But anyway, phi.", 
+            "dur": "1.29", 
+            "start": "134.97"
+        }, 
+        {
+            "text": "It&#39;s more than 1, but less\nthan 2, more than 3/2,", 
+            "dur": "3.33", 
+            "start": "136.26"
+        }, 
+        {
+            "text": "less than 5/3.", 
+            "dur": "1.35", 
+            "start": "139.59"
+        }, 
+        {
+            "text": "Greater than 8/5,\nbut 13/8 is too big.", 
+            "dur": "3.62", 
+            "start": "140.94"
+        }, 
+        {
+            "text": "21/13 is just a\nlittle too small,", 
+            "dur": "2.17", 
+            "start": "144.56"
+        }, 
+        {
+            "text": "and 34/21 is even closer,\nbut too big, and so on.", 
+            "dur": "3.99", 
+            "start": "146.73"
+        }, 
+        {
+            "text": "Each pair of adjacent\nFibonacci numbers", 
+            "dur": "2.32", 
+            "start": "150.72"
+        }, 
+        {
+            "text": "creates a ratio that\ngets closer and closer", 
+            "dur": "2.65", 
+            "start": "153.04"
+        }, 
+        {
+            "text": "to Phi as the numbers increase.", 
+            "dur": "2.02", 
+            "start": "155.69"
+        }, 
+        {
+            "text": "Those are the same numbers on\nthe sides of these squares.", 
+            "dur": "3.076", 
+            "start": "157.71"
+        }, 
+        {
+            "text": "Now stop being a\nnumber theorist,", 
+            "dur": "1.374", 
+            "start": "160.786"
+        }, 
+        {
+            "text": "and start being a plant again.", 
+            "dur": "1.85", 
+            "start": "162.16"
+        }, 
+        {
+            "text": "You put your first leaf\nsomewhere, and the second leaf", 
+            "dur": "2.3", 
+            "start": "164.01"
+        }, 
+        {
+            "text": "at an angle, which is\none Phi-th of a circle.", 
+            "dur": "2.786", 
+            "start": "166.31"
+        }, 
+        {
+            "text": "Which depending\non whether you&#39;re", 
+            "dur": "1.374", 
+            "start": "169.096"
+        }, 
+        {
+            "text": "going one way or the other,\ncould be about 222.5 degrees,", 
+            "dur": "3.78", 
+            "start": "170.47"
+        }, 
+        {
+            "text": "or about 137.5.", 
+            "dur": "2.21", 
+            "start": "174.25"
+        }, 
+        {
+            "text": "Great, your second leaf is\npretty far from the first,", 
+            "dur": "2.71", 
+            "start": "176.46"
+        }, 
+        {
+            "text": "gets lots of space in the sun.", 
+            "dur": "1.42", 
+            "start": "179.17"
+        }, 
+        {
+            "text": "And now let&#39;s add the next one\na Phi-th of the circle away.", 
+            "dur": "2.85", 
+            "start": "180.59"
+        }, 
+        {
+            "text": "And again, and again.", 
+            "dur": "2.55", 
+            "start": "183.44"
+        }, 
+        {
+            "text": "You can see how new\nleaves tend to pop up", 
+            "dur": "1.73", 
+            "start": "185.99"
+        }, 
+        {
+            "text": "in the spaces left\nbetween old leaves,", 
+            "dur": "2.08", 
+            "start": "187.72"
+        }, 
+        {
+            "text": "but it never quite\nfills things evenly.", 
+            "dur": "1.95", 
+            "start": "189.8"
+        }, 
+        {
+            "text": "So there&#39;s always room\nfor one more leaf,", 
+            "dur": "2.04", 
+            "start": "191.75"
+        }, 
+        {
+            "text": "without having to do\na whole new layer.", 
+            "dur": "2", 
+            "start": "193.79"
+        }, 
+        {
+            "text": "It&#39;s very practical and as a\nplant you probably like this.", 
+            "dur": "2.98", 
+            "start": "195.79"
+        }, 
+        {
+            "text": "It would also be a good\nway to give lots of room", 
+            "dur": "2", 
+            "start": "198.77"
+        }, 
+        {
+            "text": "to seed pods and\npetals and stuff.", 
+            "dur": "1.98", 
+            "start": "200.77"
+        }, 
+        {
+            "text": "As a plant that\nfollows this scheme,", 
+            "dur": "2.12", 
+            "start": "202.75"
+        }, 
+        {
+            "text": "you&#39;d be at an advantage.", 
+            "dur": "1.78", 
+            "start": "204.87"
+        }, 
+        {
+            "text": "Where do spirals come in?", 
+            "dur": "1.51", 
+            "start": "206.65"
+        }, 
+        {
+            "text": "Let&#39;s doodle a pinecone\nusing this same method.", 
+            "dur": "2.02", 
+            "start": "208.16"
+        }, 
+        {
+            "text": "By the way, you can make\nyour own phi angle-a-tron", 
+            "dur": "2.27", 
+            "start": "210.18"
+        }, 
+        {
+            "text": "by dog-earing a corner\nof your notebook.", 
+            "dur": "2.35", 
+            "start": "212.45"
+        }, 
+        {
+            "text": "If you folded it so\nthe edges of the line--", 
+            "dur": "1.95", 
+            "start": "214.8"
+        }, 
+        {
+            "text": "You have 45 degrees\nplus 90, which is 135.", 
+            "dur": "3.89", 
+            "start": "216.75"
+        }, 
+        {
+            "text": "Pretty close to 137.5.", 
+            "dur": "2.365", 
+            "start": "220.64"
+        }, 
+        {
+            "text": "If you&#39;re careful, you can\nslip in a couple more degrees.", 
+            "dur": "2.375", 
+            "start": "223.005"
+        }, 
+        {
+            "text": "Detach your angle-a-tron\nand you&#39;re good to go.", 
+            "dur": "2.64", 
+            "start": "225.38"
+        }, 
+        {
+            "text": "Add each new pine cone-y\nthing a phi angle around,", 
+            "dur": "2.71", 
+            "start": "228.02"
+        }, 
+        {
+            "text": "and make them a little\nfarther out each time.", 
+            "dur": "2.317", 
+            "start": "230.73"
+        }, 
+        {
+            "text": "Which you can keep\ntrack of by marking", 
+            "dur": "1.583", 
+            "start": "233.047"
+        }, 
+        {
+            "text": "the distance on\nyour angle-a-tron.", 
+            "dur": "1.74", 
+            "start": "234.63"
+        }, 
+        {
+            "text": "Check it out!", 
+            "dur": "0.62", 
+            "start": "236.37"
+        }, 
+        {
+            "text": "The spirals form by themselves.", 
+            "dur": "2.12", 
+            "start": "236.99"
+        }, 
+        {
+            "text": "And if we count the number of\narms, look it&#39;s five and eight.", 
+            "dur": "3.43", 
+            "start": "239.11"
+        }, 
+        {
+            "text": "If you&#39;re wondering\nwhy spirals would form,", 
+            "dur": "1.88", 
+            "start": "242.54"
+        }, 
+        {
+            "text": "and why always with\nFibonacci numbers,", 
+            "dur": "2.554", 
+            "start": "244.42"
+        }, 
+        {
+            "text": "you could morph back into a\nnumber theorist, or a geometer", 
+            "dur": "2.416", 
+            "start": "246.974"
+        }, 
+        {
+            "text": "or something.", 
+            "dur": "0.5", 
+            "start": "249.39"
+        }, 
+        {
+            "text": "But here&#39;s just a\nlittle bit of intuition.", 
+            "dur": "1.75", 
+            "start": "249.89"
+        }, 
+        {
+            "text": "One simple way to do\na flower is to start", 
+            "dur": "1.69", 
+            "start": "251.64"
+        }, 
+        {
+            "text": "with a certain number\nof petals, say five.", 
+            "dur": "1.76", 
+            "start": "253.33"
+        }, 
+        {
+            "text": "And when you go back\naround, add the next layer", 
+            "dur": "1.958", 
+            "start": "255.09"
+        }, 
+        {
+            "text": "close to the first, but bigger.", 
+            "dur": "1.332", 
+            "start": "257.048"
+        }, 
+        {
+            "text": "Each layer adds five new petals\nand the five arms spiral out.", 
+            "dur": "3.622", 
+            "start": "258.38"
+        }, 
+        {
+            "text": "Looks pretty spiral-ey to me.", 
+            "dur": "1.208", 
+            "start": "262.002"
+        }, 
+        {
+            "text": "Now go back to phi.", 
+            "dur": "1.57", 
+            "start": "263.21"
+        }, 
+        {
+            "text": "You put out three petals\nbefore you go back around.", 
+            "dur": "2.97", 
+            "start": "264.78"
+        }, 
+        {
+            "text": "And if I make them\nreally wide, the next lap", 
+            "dur": "2.15", 
+            "start": "267.75"
+        }, 
+        {
+            "text": "adds three petals that overlap\na bunch with the first,", 
+            "dur": "2.58", 
+            "start": "269.9"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.19", 
+            "start": "272.48"
+        }, 
+        {
+            "text": "If I started with\nskinnier petals though,", 
+            "dur": "2.13", 
+            "start": "273.67"
+        }, 
+        {
+            "text": "the second time you go around it\ndoesn&#39;t quite overlap so much.", 
+            "dur": "2.93", 
+            "start": "275.8"
+        }, 
+        {
+            "text": "And it takes eight petals\nbefore it goes around twice", 
+            "dur": "2.38", 
+            "start": "278.73"
+        }, 
+        {
+            "text": "and they overlap enough\nfor you to see the spirals.", 
+            "dur": "2.49", 
+            "start": "281.11"
+        }, 
+        {
+            "text": "So this time I get 8 and 13.", 
+            "dur": "2.09", 
+            "start": "283.6"
+        }, 
+        {
+            "text": "I mean none of the spirals\nare actually physically there", 
+            "dur": "2.63", 
+            "start": "285.69"
+        }, 
+        {
+            "text": "on any of these plants,\nit&#39;s just the plant bits", 
+            "dur": "2.01", 
+            "start": "288.32"
+        }, 
+        {
+            "text": "are close enough that\nyou can see the pattern.", 
+            "dur": "2.31", 
+            "start": "290.33"
+        }, 
+        {
+            "text": "So all the plant needs to\ndo to get awesome Fibonacci", 
+            "dur": "2.32", 
+            "start": "292.64"
+        }, 
+        {
+            "text": "numbers of spirals, is add new\nbits at 137.5 degree angles.", 
+            "dur": "5.4", 
+            "start": "294.96"
+        }, 
+        {
+            "text": "The rest takes care of itself.", 
+            "dur": "2.35", 
+            "start": "300.36"
+        }, 
+        {
+            "text": "That the Fibonacci series\nis in so many things", 
+            "dur": "2.58", 
+            "start": "302.71"
+        }, 
+        {
+            "text": "really says less\nabout those things,", 
+            "dur": "1.94", 
+            "start": "305.29"
+        }, 
+        {
+            "text": "and more about mathematics.", 
+            "dur": "1.15", 
+            "start": "307.23"
+        }, 
+        {
+            "text": "I mean that&#39;s what\nmathematics is all about.", 
+            "dur": "1.833", 
+            "start": "308.38"
+        }, 
+        {
+            "text": "Simple rules,\ncomplex consequences.", 
+            "dur": "1.907", 
+            "start": "310.213"
+        }, 
+        {
+            "text": "A process so easy that\neven a plant can do it,", 
+            "dur": "2.56", 
+            "start": "312.12"
+        }, 
+        {
+            "text": "can turn into these amazing\nstructures all around us.", 
+            "dur": "3.41", 
+            "start": "314.68"
+        }, 
+        {
+            "text": "Just like a few\nsimple postulates", 
+            "dur": "1.57", 
+            "start": "318.09"
+        }, 
+        {
+            "text": "can give us an incredibly\npowerful geometry.", 
+            "dur": "2.467", 
+            "start": "319.66"
+        }, 
+        {
+            "text": "I mean that&#39;s all assuming\nthat a plant can do it.", 
+            "dur": "2.083", 
+            "start": "322.127"
+        }, 
+        {
+            "text": "But measuring the angles\nbetween plant bits,", 
+            "dur": "1.833", 
+            "start": "324.21"
+        }, 
+        {
+            "text": "you can see they obviously\ndo do it, somehow.", 
+            "dur": "2.564", 
+            "start": "326.043"
+        }, 
+        {
+            "text": "I mean, it&#39;s not like\nthey have angle-trons,", 
+            "dur": "1.833", 
+            "start": "328.607"
+        }, 
+        {
+            "text": "but plants have been\naround a long time,", 
+            "dur": "1.666", 
+            "start": "330.44"
+        }, 
+        {
+            "text": "and have had a lot of\npractice, so that probably", 
+            "dur": "2.214", 
+            "start": "332.106"
+        }, 
+        {
+            "text": "explains everything.", 
+            "dur": "1.72", 
+            "start": "334.32"
+        }, 
+        {
+            "text": "And so we always get spirals of\n5 and 8 on this flower, 5 and 8", 
+            "dur": "3.78", 
+            "start": "336.04"
+        }, 
+        {
+            "text": "on this artichoke, 5\nand 8 on this pine cone,", 
+            "dur": "2.09", 
+            "start": "339.82"
+        }, 
+        {
+            "text": "even this cauliflower has 1,\n2, 3, 4, 5, 6, 7-- um, anyway,", 
+            "dur": "5.23", 
+            "start": "341.91"
+        }, 
+        {
+            "text": "we always get 1, 2\n3, 4, 5, 6, 7-- Huh.", 
+            "dur": "4.23", 
+            "start": "347.14"
+        }, 
+        {
+            "text": "And 1, 2, 3, 4?", 
+            "dur": "2.81", 
+            "start": "351.37"
+        }, 
+        {
+            "text": "It&#39;s easy to dismiss\nthese as mutant anomalies,", 
+            "dur": "2.532", 
+            "start": "354.18"
+        }, 
+        {
+            "text": "but just because they&#39;re\ndifferent and unusual,", 
+            "dur": "1.958", 
+            "start": "356.712"
+        }, 
+        {
+            "text": "doesn&#39;t mean we\nshould ignore them.", 
+            "dur": "1.35", 
+            "start": "358.67"
+        }, 
+        {
+            "text": "4?", 
+            "dur": "0.55", 
+            "start": "360.02"
+        }, 
+        {
+            "text": "7?", 
+            "dur": "0.91", 
+            "start": "360.57"
+        }, 
+        {
+            "text": "11?", 
+            "dur": "1.04", 
+            "start": "361.48"
+        }, 
+        {
+            "text": "What could these numbers mean?", 
+            "dur": "1.78", 
+            "start": "362.52"
+        }, 
+        {
+            "text": "Maybe things aren&#39;t as\nsimple as I thought.", 
+            "dur": "3.43", 
+            "start": "364.3"
+        }
+    ], 
+    "title": "Doodling in Math Class: Spirals, Fibonacci, and Being a Plant [2 of 3]", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/04rjg", 
+        "/m/02ygw", 
+        "/m/0gn_f", 
+        "/m/0gkxg0l"
+    ], 
+    "number_views": 1027336, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-07T22:21:49.223Z", 
+            "text": "amazing\ufeff", 
+            "author": "Chloe Park"
+        }, 
+        {
+            "date": "2015-04-16T08:53:26.286Z", 
+            "text": "So... what you're saying is... plants are smarter then I am.\ufeff", 
+            "author": "Mastertaima"
+        }, 
+        {
+            "date": "2015-03-30T15:30:51.197Z", 
+            "text": "4,7,11 also follows the same rule and later, leads to the golden ratio\ufeff", 
+            "author": "Russell Subedi"
+        }, 
+        {
+            "date": "2015-03-30T15:33:49.636Z", 
+            "text": "should've watched the next video before commenting", 
+            "author": "Russell Subedi"
+        }, 
+        {
+            "date": "2015-03-25T03:21:51.094Z", 
+            "text": "stop being a number theorist and be a plant again LMAO GOLD\ufeff", 
+            "author": "Tim Konzel"
+        }, 
+        {
+            "date": "2015-03-15T15:39:27.705Z", 
+            "text": "", 
+            "author": "Anna Peruso"
+        }, 
+        {
+            "date": "2015-03-10T01:43:10.936Z", 
+            "text": "wanna hear how you doodle in math? Draw a diagram of you dividing your \nteacher by zero.\ufeff", 
+            "author": "Danniel Janns"
+        }, 
+        {
+            "date": "2015-03-07T06:00:21.546Z", 
+            "text": "The cat slug is so Cute. I want one\ufeff", 
+            "author": "Parker Sutherland"
+        }, 
+        {
+            "date": "2015-03-02T02:43:01.409Z", 
+            "text": "I think I know why we think the universe is accelerating in its expansion, \nbut I say it is NOT getting faster. Let me give you a visual example.   You \nhave 1 bacterium in a petri dish...and after time is divides into 2..then \n4..and the AMOUNT of bacteria grow...but the RATE of the \nreproduction/growth doesn't change, just the amount of bacteria dividing. \nAs space expands, that creates MORE space...that space will also expand.... \nSo what I'm saying is that the RATE of space growth is not accelerating at \nall. Just the more space creates more space so with each growth the AMOUNT \nof space grow faster. Any thoughts?\ufeff", 
+            "author": "Ryan Christian"
+        }, 
+        {
+            "date": "2015-02-28T05:23:18.434Z", 
+            "text": "Dizzying: *Doodling in Math/s: Spirals, Fibonacci, and Being a Plant* video \nseries [part 2 of 3]\n\n#spirals #fibonacci #mathematics #math #maths #naturalworld #naturelovers \n#scienceeveryday via +Vi Hart \ufeff", 
+            "author": "Manuel Alzurutt"
+        }, 
+        {
+            "date": "2015-02-23T16:30:53.462Z", 
+            "text": "Dizzying: *Doodling in Math/s: Spirals, Fibonacci, and Being a Plant* video \nseries [part 2 of 3]\n\n#spirals #fibonacci #mathematics #math #maths #naturalworld #naturelovers \n#scienceeveryday via +Vi Hart \ufeff", 
+            "author": "Woo Dong"
+        }, 
+        {
+            "date": "2015-02-23T14:52:06.000Z", 
+            "text": "Dizzying: *Doodling in Math/s: Spirals, Fibonacci, and Being a Plant* video \nseries [part 2 of 3]\n\n#spirals #fibonacci #mathematics #math #maths #naturalworld #naturelovers \n#scienceeveryday via +Vi Hart \ufeff", 
+            "author": "MyTutorWeb"
+        }, 
+        {
+            "date": "2015-02-23T17:11:54.442Z", 
+            "text": "Yes an oldie but a goodie +Elizabeth bailey - These videos are all very \nengaging and a great way to learn -  All 3 videos are worth a watch :-)", 
+            "author": "MyTutorWeb"
+        }, 
+        {
+            "date": "2015-02-23T16:52:11.371Z", 
+            "text": "Saw this some time ago.  Still interesting enough to watch again.  If math \nwere taught like this maybe more students would pay attention.", 
+            "author": "Elizabeth bailey"
+        }, 
+        {
+            "date": "2015-02-23T16:31:06.194Z", 
+            "text": "\uace0\ub9c8\uc6cc\uc694", 
+            "author": "Woo Dong"
+        }, 
+        {
+            "date": "2015-02-19T22:08:13.393Z", 
+            "text": "love your approach,  just wow.\ufeff", 
+            "author": "etsme"
+        }, 
+        {
+            "date": "2015-02-18T18:44:07.395Z", 
+            "text": "so you're smart...\nand you can draw...\nbut!\n\nDo you have a boyfriend!?\ufeff", 
+            "author": "Jonathan Klein"
+        }, 
+        {
+            "date": "2015-02-12T09:03:56.938Z", 
+            "text": "I am stealing your angle-a-tron technology!\ufeff", 
+            "author": "Jim Vick"
+        }, 
+        {
+            "date": "2015-02-11T17:57:36.054Z", 
+            "text": "you r so fricking clever\ufeff", 
+            "author": "Matt Knight"
+        }, 
+        {
+            "date": "2015-01-29T16:58:53.710Z", 
+            "text": "I have watched this so many times and it really helps me... BTW I don't \nthink you offended any plants\ufeff", 
+            "author": "DARCYS WORLD !!!"
+        }, 
+        {
+            "date": "2015-01-26T08:56:25.137Z", 
+            "text": "It's like I'm learning but not at the same time.\n\nI fucking love it.\ufeff", 
+            "author": "Shelton Burnadeski"
+        }, 
+        {
+            "date": "2015-01-26T07:57:14.691Z", 
+            "text": "<3 PHI\ufeff", 
+            "author": "wavsunlimited"
+        }, 
+        {
+            "date": "2015-01-24T21:44:38.108Z", 
+            "text": "0:36, laughed so hard. I don't think you offended any plants :0 ;)\ufeff", 
+            "author": "JP05CPSN"
+        }, 
+        {
+            "date": "2015-02-04T23:10:55.038Z", 
+            "text": "5:13 is where I died laughing. XD", 
+            "author": "AnimalsRule53789 AJ"
+        }, 
+        {
+            "date": "2015-01-24T04:35:49.559Z", 
+            "text": "lol this so cool it teaches about doodling this very smart and she has more \nvides\ufeff", 
+            "author": "Jaala Legrone"
+        }, 
+        {
+            "date": "2015-01-24T04:34:34.102Z", 
+            "text": "well this is very cool i mean in the video and Brian ewwww gosh\ufeff", 
+            "author": "Jaala Legrone"
+        }, 
+        {
+            "date": "2015-01-18T21:29:39.032Z", 
+            "text": "She's excellent at math, drawing, and teaching. This girl is truly \nimpressive. Thank you for making math more approachable!\ufeff", 
+            "author": "Tyler Langan"
+        }, 
+        {
+            "date": "2015-01-16T22:59:45.818Z", 
+            "text": "somewhere at the beginning she writes \"What is numbers?\" - classic \nPhilomena Crunk. Brilliant video :)\ufeff", 
+            "author": "East 18"
+        }, 
+        {
+            "date": "2015-01-15T02:10:48.832Z", 
+            "text": "you got kik? ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\ufeff", 
+            "author": "Enio Kuvliev"
+        }, 
+        {
+            "date": "2015-01-15T01:57:26.049Z", 
+            "text": "You're smart, I'm smart...wanna have my babies?\ufeff", 
+            "author": "Brian Zhu"
+        }, 
+        {
+            "date": "2015-01-15T01:53:37.945Z", 
+            "text": "you got a kik babe?\ufeff", 
+            "author": "Brian Zhu"
+        }, 
+        {
+            "date": "2015-02-04T13:26:01.771Z", 
+            "text": "you want this dick? hehehe im hard ;)", 
+            "author": "MRFluffysaint"
+        }, 
+        {
+            "date": "2015-01-15T01:43:21.821Z", 
+            "text": "wanna meet up sometime?\ufeff", 
+            "author": "Brian Zhu"
+        }, 
+        {
+            "date": "2015-01-15T01:43:00.331Z", 
+            "text": "hit me up sometime\ufeff", 
+            "author": "Brian Zhu"
+        }, 
+        {
+            "date": "2015-01-15T01:42:32.026Z", 
+            "text": "you sound hot, kik?\ufeff", 
+            "author": "Brian Zhu"
+        }, 
+        {
+            "date": "2015-01-15T01:42:12.832Z", 
+            "text": "i love you\ufeff", 
+            "author": "Brian Zhu"
+        }, 
+        {
+            "date": "2015-01-13T19:15:20.553Z", 
+            "text": "With all due respect, Your smartness is such a turn-on!\ufeff", 
+            "author": "Taha Rahman"
+        }, 
+        {
+            "date": "2015-01-04T19:31:59.405Z", 
+            "text": "When you talk of how stupid plants are, I could not help but think about \nRepublicans.\ufeff", 
+            "author": "Jim Boh"
+        }, 
+        {
+            "date": "2014-12-23T14:55:18.200Z", 
+            "text": "", 
+            "author": "Tumurbaatar Gyagar"
+        }, 
+        {
+            "date": "2014-12-23T14:53:23.562Z", 
+            "text": "", 
+            "author": "Tumurbaatar G"
+        }, 
+        {
+            "date": "2014-12-22T11:44:30.612Z", 
+            "text": "Thanks Vi, that was fun and witty :)  Love Fibos!\ufeff", 
+            "author": "James Lock"
+        }, 
+        {
+            "date": "2014-12-20T22:38:05.520Z", 
+            "text": "Imagine all kids understood this better...\ufeff", 
+            "author": "Allison Van Eck"
+        }, 
+        {
+            "date": "2014-12-21T14:58:21.380Z", 
+            "text": "Remember... From School..", 
+            "author": "Eldon Ruhl"
+        }, 
+        {
+            "date": "2014-12-20T09:10:58.452Z", 
+            "text": "Young lady, you are a genius.\ufeff", 
+            "author": "Pianist Philadelphia"
+        }, 
+        {
+            "date": "2014-12-17T07:29:02.425Z", 
+            "text": "i really want to date you!\ufeff", 
+            "author": "Giry Ilham"
+        }, 
+        {
+            "date": "2014-12-14T18:38:11.470Z", 
+            "text": "A Whole New Wooooorld, From Another Point Of Vieeeww!\ufeff", 
+            "author": "Razze Birch"
+        }, 
+        {
+            "date": "2014-12-10T23:27:24.532Z", 
+            "text": "This chick is a trip, but I would most definitely have sex with her.\ufeff", 
+            "author": "doceigen"
+        }, 
+        {
+            "date": "2014-12-16T23:18:48.592Z", 
+            "text": "+Rebekah Pollard  Of course not, I'd make a great Dad.  Note to Vi:  This \nis not to say I would simply forgo the ritual of getting to know you, I'm \njust saying I love your mind, so far.", 
+            "author": "doceigen"
+        }, 
+        {
+            "date": "2014-12-16T22:15:54.143Z", 
+            "text": "+doceigen well, at least you're not being horrible about all this.", 
+            "author": "Erin Pollard"
+        }, 
+        {
+            "date": "2014-12-16T21:59:06.000Z", 
+            "text": "+Rebekah Pollard   Have sex with her, or have a baby?  Yes, I can most \ncertainly have sex with her, if she drops me a note and whispers sweet \nnothings.  Have a child?  Nope, my scrotum is in the way.", 
+            "author": "doceigen"
+        }, 
+        {
+            "date": "2014-12-16T14:58:26.415Z", 
+            "text": "can you not", 
+            "author": "Erin Pollard"
+        }, 
+        {
+            "date": "2014-12-14T21:58:25.804Z", 
+            "text": "+Karim Marbouh   Wow, 'everything' does?  hehe\n\nI just want her to have my baby.", 
+            "author": "doceigen"
+        }, 
+        {
+            "date": "2014-12-14T18:20:56.699Z", 
+            "text": "everything wants to have sex with her", 
+            "author": "Karim Marbouh"
+        }, 
+        {
+            "date": "2014-12-03T22:50:38.266Z", 
+            "text": "My cactus has 10 and 14 :(\ufeff", 
+            "author": "T Olive"
+        }, 
+        {
+            "date": "2014-12-03T18:47:46.110Z", 
+            "text": "1337\ufeff", 
+            "author": "Rashard Grant"
+        }, 
+        {
+            "date": "2015-02-04T15:31:20.139Z", 
+            "text": "Haha k?", 
+            "author": "Rashard Grant"
+        }, 
+        {
+            "date": "2015-02-04T13:27:27.815Z", 
+            "text": "you my freind are black", 
+            "author": "MRFluffysaint"
+        }, 
+        {
+            "date": "2014-12-01T23:26:16.300Z", 
+            "text": "WOAAAAAA AA AH\nWhere did you bought these super pens?\nIT'S IMPOSSIBLE DODDLING BOY!\nI wish to do it TOO!!!\ufeff", 
+            "author": "Gustavo Ramos Rehermann (Gustavo6047)"
+        }, 
+        {
+            "date": "2014-11-29T14:50:50.745Z", 
+            "text": "You are literally my brain in person\ufeff", 
+            "author": "Annejet van der Wolf"
+        }, 
+        {
+            "date": "2014-11-27T22:02:45.577Z", 
+            "text": "\u03a6\ufeff", 
+            "author": "TumbleGamer"
+        }, 
+        {
+            "date": "2014-11-24T18:12:56.534Z", 
+            "text": "Design from the Great Designer\ufeff", 
+            "author": "poetlionheart"
+        }, 
+        {
+            "date": "2014-11-19T03:41:41.654Z", 
+            "text": "4,7, 11... Those are Lucas numbers\ufeff", 
+            "author": "Alex Lay-Calvert"
+        }, 
+        {
+            "date": "2014-11-09T23:35:41.528Z", 
+            "text": "You' re video is amazing! And quite humorous. Thx! I Really enjoyed it ( \nphi is nothing new to me ) \ufeff", 
+            "author": "Bart Nelis"
+        }, 
+        {
+            "date": "2014-11-05T09:33:47.780Z", 
+            "text": "", 
+            "author": "TheCosmicPenguin // Raad Chowdhury"
+        }, 
+        {
+            "date": "2014-11-02T18:53:16.922Z", 
+            "text": "Spirals in nature...\ufeff", 
+            "author": "Cindy Steeves"
+        }, 
+        {
+            "date": "2014-11-01T23:20:54.840Z", 
+            "text": "I get asmr with this video. I like that\ufeff", 
+            "author": "Lucas Goldring"
+        }, 
+        {
+            "date": "2014-10-30T21:39:04.220Z", 
+            "text": "", 
+            "author": "J\u00f8rgen Johansen"
+        }, 
+        {
+            "date": "2014-10-30T21:26:10.323Z", 
+            "text": "YOU are brilliant ! :) the way you explain something some complex in such a \nFUN way. Great job.\n\nP.S. You sound really sexy\ufeff", 
+            "author": "Andrei Albu"
+        }, 
+        {
+            "date": "2014-10-21T16:27:39.358Z", 
+            "text": "Daw, those cute flowers!\ufeff", 
+            "author": "Bob Schneffler"
+        }, 
+        {
+            "date": "2014-10-21T03:19:29.618Z", 
+            "text": "Japanese kamon (\u5bb6\u7d0b)\nTennou's family Kamon (\u83ca\u82b1\u7d0b:Kikka-mon) \ufeff", 
+            "author": "Hiro Matu"
+        }, 
+        {
+            "date": "2014-10-14T18:00:49.623Z", 
+            "text": "I once found a slug that looked like my cat. What with being striped and \nchubby.\ufeff", 
+            "author": "patu8010"
+        }, 
+        {
+            "date": "2014-10-11T22:37:56.593Z", 
+            "text": "Doodling in Math Class: Spirals, Fibonacci, and Being a Plant [2 of 3]\n\nhttp://youtu.be/lOIP_Z_-0Hs\ufeff", 
+            "author": "John McCannon (Digital Tectum)"
+        }, 
+        {
+            "date": "2014-10-11T22:37:24.000Z", 
+            "text": "Doodling in Math Class: Spirals, Fibonacci, and Being a Plant [2 of 3]\n\nhttp://youtu.be/lOIP_Z_-0Hs\ufeff", 
+            "author": "Digital Tectum Photography"
+        }, 
+        {
+            "date": "2014-10-02T05:28:18.738Z", 
+            "text": "You should make a slug cat t-shirt with a spiral behind it. \ufeff", 
+            "author": "andrew rhoden"
+        }, 
+        {
+            "date": "2014-09-20T04:10:39.085Z", 
+            "text": "Where can I buy an Angle-O-Tron?\ufeff", 
+            "author": "Paul C"
+        }, 
+        {
+            "date": "2014-09-12T20:21:42.975Z", 
+            "text": "", 
+            "author": "Sarah Jones"
+        }, 
+        {
+            "date": "2014-09-05T02:44:35.954Z", 
+            "text": "i once started doodling at the start of class and didnt realize that class \nwas over until my teacher told me that class was over\ufeff", 
+            "author": "Sebastian Stephens"
+        }, 
+        {
+            "date": "2014-08-31T00:00:07.189Z", 
+            "text": "Thank you for this 3 part series! It only goes to show that there is \nnothing random at all, that there is clearly a design and a set of laws and \ncodes that God has placed into His creations. Where there are clear \ndesigns, plans and methods that so many different things follow, it's only \nevidence that there IS a Designer, a Planner, a Creator. Thank you!\ufeff", 
+            "author": "Keitaro Kobe"
+        }, 
+        {
+            "date": "2014-08-23T01:49:30.619Z", 
+            "text": "Evolution fun :D\ufeff", 
+            "author": "Chigs1764"
+        }, 
+        {
+            "date": "2014-08-22T19:25:56.467Z", 
+            "text": "Sharpie porn\ufeff", 
+            "author": "Tripledonkey"
+        }, 
+        {
+            "date": "2015-02-04T13:27:41.382Z", 
+            "text": "YESSSSSSSSS", 
+            "author": "MRFluffysaint"
+        }, 
+        {
+            "date": "2014-08-17T07:57:34.080Z", 
+            "text": "You make math so interesting! Thanks for these amazing videos.\ufeff", 
+            "author": "Christina Zhang"
+        }, 
+        {
+            "date": "2014-08-15T23:17:35.614Z", 
+            "text": "1337\ufeff", 
+            "author": "Brian \u201cThe Cloud Geek\u201d Summers"
+        }, 
+        {
+            "date": "2014-08-12T23:18:40.629Z", 
+            "text": "Watch it it's very interesting and astonishing !\ufeff", 
+            "author": "Malachi Walker"
+        }, 
+        {
+            "date": "2014-08-12T23:17:47.974Z", 
+            "text": "I love this video!\ufeff", 
+            "author": "Malachi Walker"
+        }, 
+        {
+            "date": "2014-08-08T19:29:18.273Z", 
+            "text": "thank you for making this you have sparked curiosity in one of the most \nfundamentally important things in all of life and existence everybody \nshould know this we would be smarter as a species if people recognized the \nimportance of this not that it will fix all our problems but it would be a \nbig step in the right direction for humanity\ufeff", 
+            "author": "josh skeeter"
+        }, 
+        {
+            "date": "2014-08-06T08:51:45.433Z", 
+            "text": "i actually said \"woah\" lol\ufeff", 
+            "author": "Lulu Aguilar"
+        }, 
+        {
+            "date": "2014-08-01T03:16:17.890Z", 
+            "text": "Plants didn't design themselves, just like you didn't design yourself.\ufeff", 
+            "author": "LEUKICK Music"
+        }, 
+        {
+            "date": "2014-07-30T22:40:28.192Z", 
+            "text": "", 
+            "author": "Semra Kilic-Bahi"
+        }, 
+        {
+            "date": "2014-07-22T02:10:56.397Z", 
+            "text": "Botanists HATE her! Girl finds out how to be a plant using this one simple \ntrick!\ufeff", 
+            "author": "ilovedanavideo"
+        }, 
+        {
+            "date": "2014-07-21T21:51:18.042Z", 
+            "text": "I really like the way youre thinking (;\ufeff", 
+            "author": "Ano nymous"
+        }, 
+        {
+            "date": "2015-02-04T13:27:59.199Z", 
+            "text": "why thank you ;*", 
+            "author": "MRFluffysaint"
+        }, 
+        {
+            "date": "2014-07-13T04:18:40.277Z", 
+            "text": "The plot thickens :O\ufeff", 
+            "author": "Ihus mal"
+        }, 
+        {
+            "date": "2014-07-07T14:37:56.500Z", 
+            "text": "Pretty amazing. may be our dna follows the fibbonaci sequences and even the \natoms too.\ufeff", 
+            "author": "savin lamichhane"
+        }, 
+        {
+            "date": "2014-07-03T13:25:16.910Z", 
+            "text": "This. Is. Amazing.\ufeff", 
+            "author": "Alison Pead"
+        }, 
+        {
+            "date": "2014-10-05T20:45:23.000Z", 
+            "text": "Worthless troll is worthless\n\n+Alison Pead I agree, such a great and informative mini series.", 
+            "author": "Savage Banana"
+        }, 
+        {
+            "date": "2014-10-05T19:56:08.056Z", 
+            "text": "+Savage Banana lol. you are welcome. \ud83d\ude02", 
+            "author": "God Exists"
+        }, 
+        {
+            "date": "2014-10-05T19:37:44.457Z", 
+            "text": "+God Exists\nPlease, tell us your definition of God in your God Hyposthesis, and we will \nthen pick it apart until either we 'believe' it to be a good model of the \nuniverse, or throw it on the pile that includes Flat Earth Hpothesis and \nGeocentric models. Thank you in sdvance for your reply.", 
+            "author": "Savage Banana"
+        }, 
+        {
+            "date": "2014-10-01T18:07:38.731Z", 
+            "text": "+luket12 they tell me its random mutation and natural selection. lol \ud83d\ude02 . \nits God.", 
+            "author": "God Exists"
+        }, 
+        {
+            "date": "2014-10-01T15:35:40.053Z", 
+            "text": "+God Exists hah maybe, but it aint the christian one", 
+            "author": "luket12"
+        }, 
+        {
+            "date": "2014-07-05T21:55:17.824Z", 
+            "text": "God Exists", 
+            "author": "God Exists"
+        }, 
+        {
+            "date": "2014-07-01T20:25:51.421Z", 
+            "text": "1337\ufeff", 
+            "author": "iSlayer MC"
+        }, 
+        {
+            "date": "2014-07-01T20:25:00.809Z", 
+            "text": "1337\ufeff", 
+            "author": "iSlayer MC"
+        }, 
+        {
+            "date": "2014-06-20T00:32:23.686Z", 
+            "text": "Why does she always start off with five? why dont you start with 8?\ufeff", 
+            "author": "John Chapman"
+        }, 
+        {
+            "date": "2014-06-17T12:23:42.036Z", 
+            "text": "This was a pretty fun & interesting mini series to watch.\ufeff", 
+            "author": "Marsha Tudor"
+        }, 
+        {
+            "date": "2014-06-16T19:59:06.134Z", 
+            "text": "So in other words, a plant is smarter than me.\ufeff", 
+            "author": "Zezrim"
+        }, 
+        {
+            "date": "2014-06-14T02:59:23.520Z", 
+            "text": "The fact that plants have been around for a long time does not explain \neverything. (5:30-5:32)  As if time = more information. That is not true.  \nSee, this is how the evolutionists infect young minds with false concepts. \nShe said those words as if they were a given and that is not science! She \nwould never accept a math postulate without it's corresponding proof yet \nshe blindly accepts that somehow time equals additional information \nappearing in the system (from nowhere).\ufeff", 
+            "author": "Coleman Adamson"
+        }, 
+        {
+            "date": "2014-10-02T01:49:16.980Z", 
+            "text": "Whats information to you? If we consider information the sum of knowledge \nstored in certain medium like papers full of numbers and we started \ncalculating how much does this sum of knowledge amount to across the ages \nwe would have an increasing rate of stored information, so it doesnt come \nout of nowhere, its relative. Who are you to say plant genes dont store \ninformation through out time, bring me \"facts\". Not supporting blind \nscience-religion, \"some mathematic said it, so it should be right.\" but you \nshould support with \"proof\" your point of view. And you took 2 seconds of \nthe video out of context just to try and justify your claim \"this is how \nthe evolutionists infect young minds with false concepts!\" Quantum \nmechanics shows science every day that its \"truth\" is only real within the \nlimits of the system used to measure it, and so would your own theory(i \nsuppose creationism, but its an assumption) about evolution.", 
+            "author": "MegalomaniacalMuser"
+        }, 
+        {
+            "date": "2014-06-13T21:42:50.884Z", 
+            "text": "Interesting presentation. Wonderful video. Good clear speech ... makes me \nwant to hear it again  ... a bit more slowly ... for tomorrow.\ufeff", 
+            "author": "Doris Rowe"
+        }, 
+        {
+            "date": "2014-06-13T12:00:03.884Z", 
+            "text": "This was a pretty fun & interesting mini series to watch.\ufeff", 
+            "author": "Al Elliott"
+        }, 
+        {
+            "date": "2014-06-13T11:48:22.482Z", 
+            "text": "This was a pretty fun & interesting mini series to watch.\ufeff", 
+            "author": "Ricardo Calles"
+        }, 
+        {
+            "date": "2014-06-13T10:45:31.501Z", 
+            "text": "This was a pretty fun & interesting mini series to watch.\ufeff", 
+            "author": "Marsha Tudor"
+        }, 
+        {
+            "date": "2014-06-13T06:09:38.219Z", 
+            "text": "Doodling in Math Class: Spirals, Fibonacci, and B\u2026: \nhttp://youtu.be/lOIP_Z_-0Hs\ufeff", 
+            "author": "Catherine Young"
+        }, 
+        {
+            "date": "2014-06-12T14:12:56.150Z", 
+            "text": "This was a pretty fun & interesting mini series to watch.\ufeff", 
+            "author": "Andrew Brown (drusepth)"
+        }, 
+        {
+            "date": "2014-06-11T23:15:00.686Z", 
+            "text": "Phi looks like a weed plant, and a christmas tree.\ufeff", 
+            "author": "shiftas2"
+        }, 
+        {
+            "date": "2014-06-11T16:34:24.033Z", 
+            "text": "OMG !!!\ufeff", 
+            "author": "AbDou MaCrO"
+        }, 
+        {
+            "date": "2014-06-10T13:49:06.644Z", 
+            "text": "The 'Phi' plant looked kind of like a marijuana bud branch from above :p \nNot even a stoner here, just kinda made the comparison...\ufeff", 
+            "author": "Essentia Gaming"
+        }, 
+        {
+            "date": "2014-05-23T16:31:16.720Z", 
+            "text": "you are amazing ! \ufeff", 
+            "author": "ALAA SHAHEEN"
+        }, 
+        {
+            "date": "2014-05-23T01:23:45.674Z", 
+            "text": "MinuteMaths\ufeff", 
+            "author": "Ken Duong"
+        }, 
+        {
+            "date": "2014-05-22T03:17:16.925Z", 
+            "text": "137.5 degree's , the sun and gravity have much to do with this.  it's all \ninterconnected \ufeff", 
+            "author": "Dennis Danger Pill"
+        }, 
+        {
+            "date": "2014-05-16T17:17:43.579Z", 
+            "text": "how come I just discovered this awesome channel T_T :)\ufeff", 
+            "author": "TheBikhinkl"
+        }, 
+        {
+            "date": "2014-05-14T05:05:22.024Z", 
+            "text": "These videos make me want to cry! azxbhsfvukej Phi-bbonacci lol :,)\ufeff", 
+            "author": "IriKittyS2"
+        }, 
+        {
+            "date": "2014-05-10T02:01:59.000Z", 
+            "text": "Funny how part 1 has almost only 1/3 of the viewings comparing to part 1.\nSeems like people love to be amazed but not that much seek for further \ninformation :)\nAwesome videos btw..\ufeff", 
+            "author": "Michal D"
+        }
+    ]
+}

@@ -1,0 +1,864 @@
+{
+    "publish_date": "2014-11-11T15:00:17.000Z", 
+    "video_length": "PT3M10S", 
+    "captions": [
+        {
+            "text": "If you know the explanation for why the sky&#39;s\nblue, you&#39;ve heard that sunlight is white", 
+            "dur": "4.06", 
+            "start": "1.29"
+        }, 
+        {
+            "text": "light composed of many frequencies and that\nhigher frequency, bluer, light scatters in", 
+            "dur": "3.84", 
+            "start": "5.35"
+        }, 
+        {
+            "text": "the air more than lower frequency, redder,\nlight. So, you might ask &quot;why isn&#39;t the sky", 
+            "dur": "4.449", 
+            "start": "9.19"
+        }, 
+        {
+            "text": "violet, since violet is an even higher frequency\nthan blue?&quot;. First off, ultraviolet light", 
+            "dur": "4.451", 
+            "start": "13.639"
+        }, 
+        {
+            "text": "and x-rays are also higher frequency than\nblue, and that doesn&#39;t mean the sky is the", 
+            "dur": "3.5", 
+            "start": "18.09"
+        }, 
+        {
+            "text": "color of x-rays\u2026 Both because we can&#39;t see\nthem and also because the sun doesn&#39;t make", 
+            "dur": "4.11", 
+            "start": "21.59"
+        }, 
+        {
+            "text": "very many of them and then the atmosphere\nblocks them all - which is probably why we", 
+            "dur": "3.69", 
+            "start": "25.7"
+        }, 
+        {
+            "text": "didn&#39;t evolve to be able to see them. And\nsecondly, the color violet in the rainbow", 
+            "dur": "3.79", 
+            "start": "29.39"
+        }, 
+        {
+            "text": "is the &quot;roses are red, violets are BLUE&quot; violet.\nNot purple \u2013 it&#39;s dark blue.", 
+            "dur": "5.71", 
+            "start": "33.18"
+        }, 
+        {
+            "text": "To see why, check out this Chromaticity Diagram!\nIt&#39;s a graph of all possible colors as perceived", 
+            "dur": "5.11", 
+            "start": "38.89"
+        }, 
+        {
+            "text": "by non-colorblind humans, ignoring brightness\nand context. The color displayed on the diagram", 
+            "dur": "5.31", 
+            "start": "44"
+        }, 
+        {
+            "text": "is just to give you a rough idea \u2013 unfortunately\nyour computer can&#39;t display all possible perceived", 
+            "dur": "5.07", 
+            "start": "49.31"
+        }, 
+        {
+            "text": "colors \u2013 it can just display the ones inside\na triangle like this, and is pretending for", 
+            "dur": "4.41", 
+            "start": "54.38"
+        }, 
+        {
+            "text": "the rest.", 
+            "dur": "1.03", 
+            "start": "58.79"
+        }, 
+        {
+            "text": "Single frequency light like that from a laser\nor from splitting white light into a rainbow", 
+            "dur": "4.079", 
+            "start": "59.82"
+        }, 
+        {
+            "text": "is graphed around this outside edge, while\nany color anywhere on the inside or along", 
+            "dur": "4.561", 
+            "start": "63.899"
+        }, 
+        {
+            "text": "the bottom edge can only be made with a combination\nof various frequencies of light. As you can", 
+            "dur": "4.83", 
+            "start": "68.46"
+        }, 
+        {
+            "text": "see, pink, purple and magenta can only be\nmade using multiple frequencies of light - there", 
+            "dur": "4.17", 
+            "start": "73.29"
+        }, 
+        {
+            "text": "is no single frequency of light that&#39;s pink\n- and of course, white light is a mixture", 
+            "dur": "4.01", 
+            "start": "77.46"
+        }, 
+        {
+            "text": "as well! Which is why you don&#39;t see any of\nthese colors in rainbows made from prisms.", 
+            "dur": "4.38", 
+            "start": "81.47"
+        }, 
+        {
+            "text": "But back to the Chromaticity diagram! See\nthis line in the middle? This shows what color", 
+            "dur": "4.29", 
+            "start": "85.85"
+        }, 
+        {
+            "text": "hot objects glow - we have red hot, then white\nhot, then blue hot. All of these &quot;hot&quot; colors", 
+            "dur": "5.54", 
+            "start": "90.14"
+        }, 
+        {
+            "text": "are made up of a broad range of frequencies,\nsince that&#39;s what hot objects emit. The sun,", 
+            "dur": "4.18", 
+            "start": "95.68"
+        }, 
+        {
+            "text": "for example, is white hot before it hits the\natmosphere, then its light is split by scattering", 
+            "dur": "4.99", 
+            "start": "99.86"
+        }, 
+        {
+            "text": "off of air molecules so the sun looks slightly\nred hot and the rest of the sky looks kind", 
+            "dur": "3.949", 
+            "start": "104.85"
+        }, 
+        {
+            "text": "of blue hot. Like this picture of a sunset!", 
+            "dur": "2.661", 
+            "start": "108.799"
+        }, 
+        {
+            "text": "And the thing is this - if you notice the\nline for hot-object color, well, it stops", 
+            "dur": "4.449", 
+            "start": "111.46"
+        }, 
+        {
+            "text": "in the middle of the diagram near whitish-blue.\nIt never goes beyond that. And that&#39;s because", 
+            "dur": "4.85", 
+            "start": "115.909"
+        }, 
+        {
+            "text": "the spectrum of light from an object hotter\nthan the sun always has a decreasing tail,", 
+            "dur": "4.331", 
+            "start": "120.759"
+        }, 
+        {
+            "text": "with slightly more blue than green than red,\nso you never get the right combination of", 
+            "dur": "4.139", 
+            "start": "125.09"
+        }, 
+        {
+            "text": "frequencies to push the color towards purple,\nor for that matter, even towards a pure, deep", 
+            "dur": "4.34", 
+            "start": "129.229"
+        }, 
+        {
+            "text": "violet blue.", 
+            "dur": "1.361", 
+            "start": "133.569"
+        }, 
+        {
+            "text": "Kind of like how you can mix flour and water\nin different ratios to make bread, pancakes,", 
+            "dur": "4.16", 
+            "start": "134.93"
+        }, 
+        {
+            "text": "or vegetarian gravy, but as long as you have\nflour in there, your gravy won&#39;t be gluten", 
+            "dur": "4.739", 
+            "start": "139.09"
+        }, 
+        {
+            "text": "free.", 
+            "dur": "0.88", 
+            "start": "143.829"
+        }, 
+        {
+            "text": "And that&#39;s why the sky appears blueish white.\nIt&#39;s basically gravy.", 
+            "dur": "7", 
+            "start": "144.709"
+        }
+    ], 
+    "title": "Why Isn't The Sky Purple?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m08c9y", 
+        "/m/01bqvp", 
+        "/m/05qjt"
+    ], 
+    "number_views": 600294, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-04T07:20:00.426Z", 
+            "text": "I love how smart everyone sounds. It's so cool to read the comments. Me? I \njust see Pink Floyd references. Dark Side a of The Moon anyone? \ufeff", 
+            "author": "Brandon Diaz"
+        }, 
+        {
+            "date": "2015-05-01T16:03:55.428Z", 
+            "text": "What????\ufeff", 
+            "author": "Fietronic McGee"
+        }, 
+        {
+            "date": "2015-04-22T23:56:53.537Z", 
+            "text": "So what other colors could the sky be? Is it remotely possible for our sky \nto be green? Or turquoise?\ufeff", 
+            "author": "The Humble Observer"
+        }, 
+        {
+            "date": "2015-04-22T16:40:44.089Z", 
+            "text": "Delicious Sky Gravy\ufeff", 
+            "author": "Kaiser StratosTygo"
+        }, 
+        {
+            "date": "2015-04-19T13:38:33.476Z", 
+            "text": "So wrong it is blue because of the atmosphere\ufeff", 
+            "author": "Jared's Studio"
+        }, 
+        {
+            "date": "2015-04-17T18:40:43.093Z", 
+            "text": "Am i the only one who thinks that the Gravy looks gross as hell? :s\ufeff", 
+            "author": "Adrian Fahrenheit"
+        }, 
+        {
+            "date": "2015-04-12T10:49:09.443Z", 
+            "text": "bookmarked for rewatching (likely several times) until fully \ncomprehended...\ufeff", 
+            "author": "Georg Wuitschik"
+        }, 
+        {
+            "date": "2015-04-12T07:05:27.768Z", 
+            "text": "mind=blown\ufeff", 
+            "author": "TheBGassassin"
+        }, 
+        {
+            "date": "2015-04-08T15:22:07.223Z", 
+            "text": "So if a star many times bigger and hotter than our own sun were to replace \nthe earth with the same relative distance so that earth would support life \nin the same way, would our sky be another color?\ufeff", 
+            "author": "tobi888100"
+        }, 
+        {
+            "date": "2015-04-08T03:03:27.424Z", 
+            "text": "Sooo. Black body radiation plus the length of atmosphere that scatters \nlight, aka Raylay's Scattering. \ufeff", 
+            "author": "Jason Turner"
+        }, 
+        {
+            "date": "2015-03-31T18:04:12.069Z", 
+            "text": "Good lead up, but poor execution. If I were you, I would re-do the entire \nlast thirty seconds.\ufeff", 
+            "author": "Monochromicornicopia"
+        }, 
+        {
+            "date": "2015-03-24T12:24:22.787Z", 
+            "text": "Men this video is not for epilepsi\ufeff", 
+            "author": "Ruvic Seno"
+        }, 
+        {
+            "date": "2015-03-23T15:26:06.302Z", 
+            "text": "wait a sec, are you in Missoula?\ufeff", 
+            "author": "Sean Simmons"
+        }, 
+        {
+            "date": "2015-03-20T21:24:00.969Z", 
+            "text": "So you can't have a single photon of light with a frequency that gives \nit... pink.  There are no photons with pink energy.\ufeff", 
+            "author": "PTNLemay"
+        }, 
+        {
+            "date": "2015-03-21T04:22:23.725Z", 
+            "text": "Correct.  Nature wants women to get breast cancer.  (For all you \nnon-Americans out there: that's a reference to the silly \"wear pink to show \nyour support for women not getting breast cancer campaign\".", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2015-03-20T20:10:22.069Z", 
+            "text": "If purple light is a combination of blue and red, why does a coherent 405nm \nlaser appear distinctly purple?\ufeff", 
+            "author": "jampk24"
+        }, 
+        {
+            "date": "2015-04-10T14:35:32.000Z", 
+            "text": "+jampk24 Because the video is wrong, monochromatic light of that wavelength \nappears distinctly reddish blue to colour-normal observers, it's only even \nredder purples that can only be formed by mixing. The mistake may spring \nfrom the fact that spectral violet appears blue in digital photos because \nit only affects the blue sensor of the camera.", 
+            "author": "djcbriggs"
+        }, 
+        {
+            "date": "2015-03-21T04:30:59.310Z", 
+            "text": "For the same reason that red+yellow = orange, but 630nm is also orange. \n Google \"color theory\".", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2015-03-18T03:46:22.578Z", 
+            "text": "*Yum* Electromagnetic gravy\ufeff", 
+            "author": "Kai Olivier"
+        }, 
+        {
+            "date": "2015-03-15T09:45:31.102Z", 
+            "text": "i heard that blue eyes do the same thing, does that mean that you can make \na sunset in blue eyes with the right frequency of light?\ufeff", 
+            "author": "Floris Van Haaster"
+        }, 
+        {
+            "date": "2015-03-03T23:16:59.144Z", 
+            "text": "The sky is violet, if your colorblind. But the sky takes different sun raze \nso the sky would be violet, and the Suns white light gets stuck in the \natmosphere and makes the violet sky blue. But during night it's not black, \nit's violet, get your facts right minute physics \ufeff", 
+            "author": "Space Whale"
+        }, 
+        {
+            "date": "2015-03-03T22:18:08.227Z", 
+            "text": "The sky is blue because it's Jesus's favorite color.\ufeff", 
+            "author": "TobiBlackmore"
+        }, 
+        {
+            "date": "2015-02-19T17:39:45.203Z", 
+            "text": "my doubt in physics class answered properly in this video.........!!!!!!!!\ufeff", 
+            "author": "Bhoomika Srinivas"
+        }, 
+        {
+            "date": "2015-02-21T04:00:42.792Z", 
+            "text": "amazing!", 
+            "author": "Chaitra Cs"
+        }, 
+        {
+            "date": "2015-02-16T00:49:35.420Z", 
+            "text": "Goddammit the ending was confusing\ufeff", 
+            "author": "Never Unsubscribes"
+        }, 
+        {
+            "date": "2015-02-12T04:55:31.423Z", 
+            "text": "Would Blue Giants be White or yellow in an Earth-like atmosphere?\ufeff", 
+            "author": "orly4672"
+        }, 
+        {
+            "date": "2015-02-09T19:24:09.688Z", 
+            "text": "Im colorblind :(\ufeff", 
+            "author": "Nikola Petrovic"
+        }, 
+        {
+            "date": "2015-02-09T09:18:48.718Z", 
+            "text": "you guys are so fast or may be sometimes I dont get in once..\ufeff", 
+            "author": "Jay shah"
+        }, 
+        {
+            "date": "2015-02-05T01:33:19.653Z", 
+            "text": "Want to have a purple sky? Drop acid. \ufeff", 
+            "author": "Arsenic Guts"
+        }, 
+        {
+            "date": "2015-02-03T05:01:32.973Z", 
+            "text": "Your videos are very informative and I always end up wish where were you \nwhen I was in high school. \nI have only one request though - can you go a little slow in your \nnarration.. you were way too fast for me to digest what you were saying.\ufeff", 
+            "author": "bacchusignoramus"
+        }, 
+        {
+            "date": "2015-01-29T20:03:20.736Z", 
+            "text": "So basically the sky is the color vegetarian gravy. Got it.\ufeff", 
+            "author": "Jeffrey Trela"
+        }, 
+        {
+            "date": "2015-01-29T01:47:04.007Z", 
+            "text": "Saying that violet is just a dark blue is like saying that red is just a \ndark orange. They are completely different colors.\ufeff", 
+            "author": "tscoffey1"
+        }, 
+        {
+            "date": "2015-01-24T13:37:21.789Z", 
+            "text": "I HAD WOKEN UP, TURNED ON MY TV, & IT WAS ON CHANNEL 22... BRAIN CANDY WAS \nON:\n\nAND THIS VIDEO OF MINUTEPHYSICS WAS ON THERE!!!\n\nHE HAS BECOME A POPULAR PERSON, AND WAS SHOWN ON TV!!!!!\n\nI WANNA BE ON TV!!! :U\ufeff", 
+            "author": "amanda willis"
+        }, 
+        {
+            "date": "2015-01-23T05:43:00.399Z", 
+            "text": "Where can you suggest future topics? There is one question I'm really stuck \non: *Why do stars get hotter very slowly during their otherwise pretty \nconstant main series lifetime?*\n\nI came to this in a text about long term climate changes on earth about the \nclimate several hundred million years ago, when it said, the sun didn't \ngive off as much power it does now, although the sun already existed for \naround 4 billion years. Further research showed that science seems to agree \non the fact that stars get hotter, but I didn't find a single explanation \nfor that.\ufeff", 
+            "author": "dispatcher7007"
+        }, 
+        {
+            "date": "2015-01-22T18:58:32.341Z", 
+            "text": "Mmm...electromagnetic gravy\ufeff", 
+            "author": "A Giant Space Monster"
+        }, 
+        {
+            "date": "2015-01-21T04:42:49.859Z", 
+            "text": "so does this mean that in outerspace the sun looks white?\ufeff", 
+            "author": "randomcandy1000"
+        }, 
+        {
+            "date": "2015-01-15T22:05:11.137Z", 
+            "text": "finally beating that one XKCD comic!\ufeff", 
+            "author": "J.G. Gross"
+        }, 
+        {
+            "date": "2015-01-12T02:10:00.196Z", 
+            "text": "I want to see the full actual colors on that color diagram.\ufeff", 
+            "author": "Steven Octaviano"
+        }, 
+        {
+            "date": "2015-01-10T11:15:57.844Z", 
+            "text": "I just learned that the sky is gravy....\n\nMind officially blown.\ufeff", 
+            "author": "DragonAurora"
+        }, 
+        {
+            "date": "2015-01-07T04:25:48.978Z", 
+            "text": "Why do I get so cold I get the feeling that the object is burning rather \nthan just numbness? \ufeff", 
+            "author": "Pinkie Twinkie"
+        }, 
+        {
+            "date": "2015-01-03T07:22:45.973Z", 
+            "text": "Why Isn't The Sky Purple?: http://youtu.be/R5P6O0pDyMU\ufeff", 
+            "author": "Emre Terzi"
+        }, 
+        {
+            "date": "2015-01-02T05:21:08.538Z", 
+            "text": "I don't know what he's saying about not seeing \"purple\" in prisms at the \nviolet end. I very clearly see \"purple\" at the violet end when I use my \nprism on sunlight..\ufeff", 
+            "author": "kmm"
+        }, 
+        {
+            "date": "2015-01-18T01:48:06.000Z", 
+            "text": "Same here, if by \"purple\" you mean a reddish blue. Either Henry is \nred-green colourblind or he has only looked at the spectrum in photos, \nwhich show the violet band as blue because it doesn't affect the \nlong-wavelength (red) sensor.", 
+            "author": "djcbriggs"
+        }, 
+        {
+            "date": "2015-01-01T16:52:39.006Z", 
+            "text": "Sucks. Purple rocks.\ufeff", 
+            "author": "skatergirlxoxoify"
+        }, 
+        {
+            "date": "2014-12-30T05:21:26.427Z", 
+            "text": "i'm so happy i can finally get an explanation as to why the sky isnt \npurple. I think it is an ourage that i have deal with the purpless sky and \nam happy to figure the reasons behind it.\ufeff", 
+            "author": "lovebug peppa"
+        }, 
+        {
+            "date": "2014-12-26T12:12:09.855Z", 
+            "text": "its the first video i did not understand.\ufeff", 
+            "author": "Dima G (termodox)"
+        }, 
+        {
+            "date": "2014-12-26T03:22:03.744Z", 
+            "text": "So the sky is made of gravy?\ufeff", 
+            "author": "Anita Wang"
+        }, 
+        {
+            "date": "2014-12-24T23:27:54.006Z", 
+            "text": "Your computer couldn't show all the colors because it was a mac!\ufeff", 
+            "author": "AtomicShadow64"
+        }, 
+        {
+            "date": "2014-12-23T00:11:06.955Z", 
+            "text": "Violate \"exists\", that is, it's a actual spectrum of light, whereas \n\"purple\" does not exist. When we see purple, we're really seeing red light \nand blue light in roughly equal intensities. We create \"purple\" inside our \nheads. \ufeff", 
+            "author": "LucisFerre1"
+        }, 
+        {
+            "date": "2014-12-22T07:44:26.687Z", 
+            "text": "wtf was that white stuff Henry claimed was gravy?\ufeff", 
+            "author": "basherofnoggins"
+        }, 
+        {
+            "date": "2014-12-21T05:49:09.847Z", 
+            "text": "If the sky was gravy, I would be one fat behemoth. I love gravy\ufeff", 
+            "author": "Brandon Tollison"
+        }, 
+        {
+            "date": "2014-12-19T23:03:30.064Z", 
+            "text": "Spectral violet consists of single wavelengths that create a combination of \nred and blue perceptions in the human visual system. However in a digital \ncamera these wavelengths only affect the short wavelength (Blue) sensor and \nnot the long wavelength (Red) one, so they photograph as deep blue. I don't \nknow why anyone would say that spectral violet is actually a deep blue \nunless they need to look at a real spectrum instead of relying on photos.\ufeff", 
+            "author": "djcbriggs"
+        }, 
+        {
+            "date": "2014-12-17T04:04:24.226Z", 
+            "text": "", 
+            "author": "Ken Lai"
+        }, 
+        {
+            "date": "2014-12-13T18:10:29.294Z", 
+            "text": "Science question for whoever cares to answer. But if you answer, please \nmake sure you know what you are talking about, no guesses:\n\nWhat would happen if a giant cloud of pure fluorine at 1 atmosphere \nmaterialized out of nothing and enshrouded the entire NYC? What about 2 \natmospheres, if it makes a difference?\ufeff", 
+            "author": "Maximum Frequency (SkyLight585)"
+        }, 
+        {
+            "date": "2015-03-22T14:52:54.618Z", 
+            "text": "+RonJohn63 yeah i dont blame you", 
+            "author": "Maximum Frequency (SkyLight585)"
+        }, 
+        {
+            "date": "2015-03-22T14:50:03.994Z", 
+            "text": "+Maximum Frequency /and i dont mean the entire building explodes/\n\nUnfortunately, that's what you wrote yesterday: \"Would buildings actually \nexplode ...?\", so that's all that I could think that you meant.", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2015-03-22T05:55:10.000Z", 
+            "text": "+RonJohn63 lol ok yes - i wanted someone to do the work for me. But i guess \ni'll have to do it myself. And fyi, fluorine *does* react explosively with \nsome materials.\ufeff and i dont mean the entire building explodes. I meant more \nlike the occasional bang when F hits that one element it reacts explosively \nwith.\ufeff\n\nCool link btw.", 
+            "author": "Maximum Frequency (SkyLight585)"
+        }, 
+        {
+            "date": "2015-03-22T05:00:35.090Z", 
+            "text": "+Maximum Frequency /Of course I can figure it out/\n\nThen do so.  That way you'll be able to refine your question(s).\n\nUnless what you really want is for someone else to do your work for you.\n\n/but I want a precise answer/\n\nPrecise answers from scientists require precise questions, and \"a giant \ncloud\" just... isn't.\n\n1) How at what altitude does the cloud appear?\n2) How many meters thick is the cloud?\n3) How hot is the cloud?\n4) What's the weather like?\n5) Would the fluorine *replace* or *displace* the air?\n6) Fluorine atoms or fluorine molecules (Fl2)?\n\n/How would it look?/\n\nFrom the Westchester or Manhattan?\n\n/Would buildings actually explode/\n/or would they just catch fire?/\n\nWTF gives you the idea that concrete would *explode* when exposed to \nfluorine???\n\nhttp://www.webelements.com/fluorine/chemistry.html", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2015-03-21T18:30:20.024Z", 
+            "text": "+RonJohn63 Of course I can figure it out, but I want a precise answer from \nsomeone who is a bona fide chemist/physicist, not just an enthusiast like \nme (unless they know the answer. I want details: How would it look? Would \nbuildings actually explode, or would they just catch fire? What exactly \nwould explode or catch fire and what would remain chemically inert? would \npeoples' skin catch fire? what about their eyes? would the fluorine \neventually disintegrate their entire bodies? Details. ", 
+            "author": "Maximum Frequency (SkyLight585)"
+        }, 
+        {
+            "date": "2015-03-21T04:56:28.010Z", 
+            "text": "Wikipedia is your friend.  It'll tell you how dense that air and fluorine \nare, and from that you can figure out if fluorine will sink or float away. \n It'll also tell you how reactive it is, and from that determine whether \nit'll damage the body (especially the airways & eyes), cars, buildings, \netc, before spreading out into NJ, Westchester & LI.", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2014-12-10T03:29:59.690Z", 
+            "text": "The person who makes these videos is very smart.\n\nYet belief in evolution? Instantly made himself to be a lot less \nintelligent than he actually is\ufeff", 
+            "author": "ICE-ing"
+        }, 
+        {
+            "date": "2014-12-10T09:58:52.177Z", 
+            "text": "Get with the times. Even religions are accepting the fact of evolution. By \nfar, the vast majority of the professional community knows its validity. ", 
+            "author": "Anthony Khodanian"
+        }, 
+        {
+            "date": "2014-12-09T12:50:34.843Z", 
+            "text": "unfortunately for me i didnt get any of that shit this episode\ufeff", 
+            "author": "Ryan Jee"
+        }, 
+        {
+            "date": "2014-12-08T22:51:52.615Z", 
+            "text": "...*eye twitch*\ufeff", 
+            "author": "Arienne Drewery"
+        }, 
+        {
+            "date": "2014-12-08T19:08:15.011Z", 
+            "text": "You live in Montana, don't you. I lived out there for three years and that \nlooks like where I used to live in Livingston.\ufeff", 
+            "author": "Manafestation"
+        }, 
+        {
+            "date": "2014-12-08T03:31:13.860Z", 
+            "text": "For like a short way to say it is that the sun reflects its light on the \nocean and the ocean's water reflects blue to blue.\ufeff", 
+            "author": "Puppy Cupcake1123"
+        }, 
+        {
+            "date": "2014-12-07T13:16:46.664Z", 
+            "text": "THANKS FOR THE SEIZURE 0:40 \ufeff", 
+            "author": "Apricots"
+        }, 
+        {
+            "date": "2014-12-06T16:14:48.319Z", 
+            "text": "xkcd!\ufeff", 
+            "author": "bong jr a. ordaneza (bongordanezajr)"
+        }, 
+        {
+            "date": "2014-12-06T15:54:10.000Z", 
+            "text": "Is it posible there could be a planet that has a purple sky in a binary \nstar system?\ufeff", 
+            "author": "Joshua Hess"
+        }, 
+        {
+            "date": "2014-12-05T18:29:10.791Z", 
+            "text": "Why Isn't The Sky Purple?: http://youtu.be/R5P6O0pDyMU\ufeff", 
+            "author": "Michael Eidel"
+        }, 
+        {
+            "date": "2014-12-27T15:40:42.000Z", 
+            "text": "Hold on a second... if computers cant display the colours with single \nfrequencies, THEN WHAT AM I LOOKING AT RIGHT NOW IN THIS VIDEO WITH MY \nCOMPUTER?!!\ufeff", 
+            "author": "Henias"
+        }, 
+        {
+            "date": "2015-03-21T04:09:16.915Z", 
+            "text": "A drug-fueled hallucination.", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2014-12-27T07:36:11.018Z", 
+            "text": "Colors the computer has to make up through using the basic colors as it's \nmakeup. So yeah... lol.", 
+            "author": "TheAsianGuy_LOL"
+        }, 
+        {
+            "date": "2014-12-05T11:28:43.578Z", 
+            "text": "*COMPLETELY* wrong.\n\nNice try though. I enjoyed the meandering banjo music in the background.\ufeff", 
+            "author": "Aaron Kasparov"
+        }, 
+        {
+            "date": "2015-03-21T06:28:03.485Z", 
+            "text": "The video is wrong because the narrator doesn't understand how human vision \nworks. The sky not *appearing* purple has nothing to do with the sky and \neverything to do with the way the human eye picks up color and light ;)", 
+            "author": "Aaron Kasparov"
+        }, 
+        {
+            "date": "2015-03-21T04:10:34.934Z", 
+            "text": "+IamGrimalkin /the sun doesn't produce as much of it./\n\nI think the video said that.", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2015-01-24T22:21:31.964Z", 
+            "text": "+IamGrimalkin Correctomundo!", 
+            "author": "vicovans"
+        }, 
+        {
+            "date": "2014-12-10T20:37:51.543Z", 
+            "text": "+Anthony Khodanian Purple *is* a colour in the spectrum of light. Look \nthrough a diffraction grating from a white light and you can see it. The \nreason why not is because a) it is harder for us to see purple light and b) \nthe sun doesn't produce as much of it.", 
+            "author": "IamGrimalkin"
+        }, 
+        {
+            "date": "2014-12-10T09:53:14.428Z", 
+            "text": "+Aaron Kasparov Please enlighten us. ", 
+            "author": "Anthony Khodanian"
+        }, 
+        {
+            "date": "2014-12-10T03:35:16.187Z", 
+            "text": "+bonnie bk So, you haven't figured out how this is completely wrong?", 
+            "author": "Aaron Kasparov"
+        }, 
+        {
+            "date": "2014-12-09T18:19:26.000Z", 
+            "text": "A completely pointless comment, not a nice try.", 
+            "author": "bonnie bk"
+        }, 
+        {
+            "date": "2014-12-04T04:56:30.191Z", 
+            "text": "At 1:25 I see white between the \"cyan\" and the yellow.\ufeff", 
+            "author": "Samuel Shulman"
+        }, 
+        {
+            "date": "2014-12-04T01:37:44.897Z", 
+            "text": "How much paper do u use in a year\ufeff", 
+            "author": "Nick Samson"
+        }, 
+        {
+            "date": "2014-12-03T20:08:38.283Z", 
+            "text": "This was a really good episode. Thanks, guys.\ufeff", 
+            "author": "Dylan Weaver"
+        }, 
+        {
+            "date": "2014-12-03T17:22:37.867Z", 
+            "text": "", 
+            "author": "Benjamin Langstaff"
+        }, 
+        {
+            "date": "2014-12-03T07:53:11.718Z", 
+            "text": "Why I like minute physics? Because, awesome. \ufeff", 
+            "author": "Robert Hamm"
+        }, 
+        {
+            "date": "2014-12-03T00:03:04.666Z", 
+            "text": "Cool :)\ufeff", 
+            "author": "Anders Jensen"
+        }, 
+        {
+            "date": "2014-12-02T22:44:42.156Z", 
+            "text": "Could light slow down?\ufeff", 
+            "author": "Uploaded"
+        }, 
+        {
+            "date": "2015-03-21T04:42:18.789Z", 
+            "text": "+soanthegreat And *the* reason why white light splits in a prism is that \nthe different wavelengths slow to different speeds in the glass.", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2015-03-21T02:16:02.207Z", 
+            "text": "Very easily. Light goes slower when moving through water for instance", 
+            "author": "soanthegreat"
+        }, 
+        {
+            "date": "2014-12-04T07:20:33.777Z", 
+            "text": "yes. Bose-Einstein Condensates (coldest man-made form of matter) has slowed \ndown light to the speed of a bicycle.", 
+            "author": "JusticeRetroHunter"
+        }, 
+        {
+            "date": "2014-12-02T16:44:03.571Z", 
+            "text": "*Kid:* \"Daddy, why is the sky blue?\"\n\n*Daddy:* \"Because it's basically gravy, kid.\"\ufeff", 
+            "author": "Laughter On Water"
+        }, 
+        {
+            "date": "2014-12-02T16:04:32.780Z", 
+            "text": "Can you please make a video on the relation between 'Gravity' and 'Time'\n( In the movie Interstellar the gravity on the planet which was 136% of \nearth was having time like 1 hour spend on the planet was equivalent to 7 \nyears on Earth).\ufeff", 
+            "author": "Pratik Mahadik"
+        }, 
+        {
+            "date": "2014-12-10T20:43:16.414Z", 
+            "text": "+MrNewman457 Gravitational time dilation is related to surface gravity, but \nthat isn't its only baisis, the size of the field matters too.", 
+            "author": "IamGrimalkin"
+        }, 
+        {
+            "date": "2014-12-06T16:47:32.787Z", 
+            "text": "+OTNCBC\nPoint taken. In class, a few weeks back, I was fairly happy with estimating \nthe density of a nucleus to within three orders of magnitude. Still a \nthousand times out but at least I wasn't 10^23 times out, like one of my \nclassmates.", 
+            "author": "blinkyrem"
+        }, 
+        {
+            "date": "2014-12-06T16:40:36.442Z", 
+            "text": "A valid point, however the adjective \"astronomical\" has a reason for its \nmeaning. \n1hour-1 month, or year is a few orders of magnitude, but when a star weighs \n10^30 kg, and your estimate is 10^28kg, a physicist will tell you that's a \ngood effort. \nNumbers in space get silly quickly, distances, masses, densities etc have \nmagnitudes unimaginably different than you see in every day objects.\nAt these scales, a few orders of magnitude can be forgiven (at least by me, \nanyway)", 
+            "author": "OTNCBC"
+        }, 
+        {
+            "date": "2014-12-06T16:09:52.294Z", 
+            "text": "Ah fair enough, although a couple of orders is still a fair amount of \nchange. (1 hour -> 25.5 days or 1 hour -> 700 years)\n\nHuzzah for artistic license otherwise all films would just be real life!", 
+            "author": "blinkyrem"
+        }, 
+        {
+            "date": "2014-12-06T16:02:28.427Z", 
+            "text": "I haven't done the numbers either, but having completed a physics degree, I \ncan guesstimate that as long as you're orbiting a black hole (i.e. in the \nnear vicinity, not far away like Earth from the galactic central black \nhole), time dilation will probably be within a few orders of the amount \nshown in the film. \nAt that point, you're allowed artistic license to say its a little \nmore/less than the true value :)", 
+            "author": "OTNCBC"
+        }, 
+        {
+            "date": "2014-12-06T15:45:42.797Z", 
+            "text": "I'm not too sure of the numbers though, as I haven't/can't yet do the \ncalculations to verify them. (applying for Physics at university so maybe \nin a few years) For all I know, such time dilation might only occur within \nsay the event horizon of the black hole and an orbiting planet would be \npretty much unnaffected.", 
+            "author": "blinkyrem"
+        }, 
+        {
+            "date": "2014-12-06T15:40:23.743Z", 
+            "text": "+blinkyrem Having read some of the plot on wikipedia, it starts to make \nsense.\nIf the planet was orbiting a black hole, the plot seems fine to me. From \nthe other guy's comment, it seemed like he was suggesting a 30% mass \nincrease caused that huge time dilation effect.\nNow, I can rest easy - the plot is at least somewhat thought out by the \nlooks of it, I can rest easy ^^", 
+            "author": "OTNCBC"
+        }, 
+        {
+            "date": "2014-12-06T15:35:05.651Z", 
+            "text": "As with most science fiction, the concepts are correct in theory and a \nsituation can be found where it is correct in practice but it's bloody hard \nto find a situation that's correct and also works for the story. So there \ncomes a point where they just have to fudge it.\n\nIn Interstellar, the Black Hole could have caused such time dilation but \nthe problem is that the guy in orbit around the planet would have been aged \npretty much the same as the guys on the planet so... I found the fudge \nfactor.", 
+            "author": "blinkyrem"
+        }, 
+        {
+            "date": "2014-12-02T20:21:49.337Z", 
+            "text": "Although on the planet with 136% the gravity of earth, 1 hr wouldn't be \nequivalent to 7 years. You would experience time 36% slower than on earth. \nIt's all to do with relativity. Although I'm not entirely sure of the \ndetails so anyone correct me if I'm wrong :)", 
+            "author": "MrNewman457"
+        }, 
+        {
+            "date": "2014-12-02T20:19:14.249Z", 
+            "text": "Gravity waves warp space time. And light travels through space which is why \nit also warps light.", 
+            "author": "MrNewman457"
+        }, 
+        {
+            "date": "2014-12-02T14:05:27.958Z", 
+            "text": "Why can't we see green stars? \ufeff", 
+            "author": "Caitlin Sweeney"
+        }, 
+        {
+            "date": "2014-12-01T11:23:36.506Z", 
+            "text": "So... why does the sky sometimes look purple at night?\ufeff", 
+            "author": "lalakuma9"
+        }, 
+        {
+            "date": "2014-12-01T00:05:23.951Z", 
+            "text": "2:29 Lol i just ate Biscuits and Gravy for dinner 30 minutes before I \nwatched this.\ufeff", 
+            "author": "Alexis Albright"
+        }, 
+        {
+            "date": "2014-12-01T00:00:33.085Z", 
+            "text": "mmmmm gravy\ufeff", 
+            "author": "Rock Solid Studios"
+        }, 
+        {
+            "date": "2014-11-30T21:23:27.494Z", 
+            "text": "blew\ufeff", 
+            "author": "Lynx Kepler"
+        }, 
+        {
+            "date": "2014-11-30T12:38:37.824Z", 
+            "text": "Wow best vid ever\ufeff", 
+            "author": "likahmac"
+        }, 
+        {
+            "date": "2014-11-30T02:29:22.342Z", 
+            "text": "Got to admit, it took me a while to get that last bit.\ufeff", 
+            "author": "tiezukae"
+        }, 
+        {
+            "date": "2014-11-28T07:01:56.247Z", 
+            "text": "Hey you are in Missoula in this! My home town :)\ufeff", 
+            "author": "Joseph Thiebes"
+        }, 
+        {
+            "date": "2014-11-28T05:42:42.588Z", 
+            "text": "I love being coulor blind\ufeff", 
+            "author": "AManOfShadows"
+        }, 
+        {
+            "date": "2014-11-28T00:45:03.353Z", 
+            "text": "Physics based question for a sci-fi novel: Ok, so this alien fleet is \ntravelling towards Earth. Hubble spots them on 19th January 2015. They are \ntraveling at 1/10 light speed (I know that's nearly impossible given fuel \nand stuff, but that's the fi part of the sci-fi). How many days ago were \nthey actually at that point in space, how far have they traveled in that \ntime and how far away were they from earth when they were detected? Also, \ncan you tell me how you worked this out? I can work out how long a signal \nof light would take to get from the object to earth given that they arrive \non Earth on the 8th August 2015 (so, for instance, when they send a signal \nfrom their ship to earth on the 14th February 2015, it arrives on Earth on \nthe 11th March 2015), but I can't figure out the other way.\ufeff", 
+            "author": "Randygandalf95"
+        }, 
+        {
+            "date": "2014-11-27T14:22:21.547Z", 
+            "text": "Why are bogies green? \ufeff", 
+            "author": "balf1111117373"
+        }, 
+        {
+            "date": "2014-11-27T01:49:24.080Z", 
+            "text": "Why no new video uploaded :( ?\ufeff", 
+            "author": "ThE imMoRTAL"
+        }, 
+        {
+            "date": "2014-11-26T21:18:01.716Z", 
+            "text": "You list me at vegetarian gravy\ufeff", 
+            "author": "Paul Yarin"
+        }, 
+        {
+            "date": "2014-11-26T14:29:12.265Z", 
+            "text": "Wait what o.O\ufeff", 
+            "author": "ACHIEVEWN"
+        }, 
+        {
+            "date": "2014-11-26T07:36:19.822Z", 
+            "text": "what would a sunset look like if the sky was purple? what other colors \ncould the sky be\ufeff", 
+            "author": "LGD FiberOptix"
+        }, 
+        {
+            "date": "2014-11-25T19:15:37.578Z", 
+            "text": "THAT is NOT GRAVY. NO.\ufeff", 
+            "author": "belchism"
+        }, 
+        {
+            "date": "2014-11-25T12:50:30.720Z", 
+            "text": "Why the sky is not purple?\ufeff", 
+            "author": "Juan Menendez"
+        }, 
+        {
+            "date": "2014-11-25T08:18:42.463Z", 
+            "text": "I always say this, but... 1:02 DARK SIDE OF THE MOOON\ufeff", 
+            "author": "Gio Best"
+        }, 
+        {
+            "date": "2014-11-25T02:19:19.454Z", 
+            "text": "Can you make a video about baking soda and human skin ?whether it help or \ndon't? \ufeff", 
+            "author": "ck lin"
+        }, 
+        {
+            "date": "2014-11-25T02:11:14.683Z", 
+            "text": "I love this channel. Minute physics and minute earth are arguably my two \nfavorite channels\ufeff", 
+            "author": "Brandon Beck"
+        }, 
+        {
+            "date": "2014-11-24T20:05:54.357Z", 
+            "text": "Gravy!  Yes!\ufeff", 
+            "author": "Zach Cox"
+        }, 
+        {
+            "date": "2014-11-24T14:44:24.980Z", 
+            "text": "@AndrewWhite Evolution is not a propaganda, it's the only explanation for \nthe variety of life on earth.\ufeff", 
+            "author": "MrWarlock616"
+        }, 
+        {
+            "date": "2014-11-24T13:52:33.864Z", 
+            "text": "UHHHH YOU TALK TO FAST..!! YOU MAKE MY ASIAN COUSIN SOUND LIKE A BROKEN \nTURTLE......\ufeff", 
+            "author": "Go home Google You're drunk"
+        }, 
+        {
+            "date": "2014-11-24T06:08:55.627Z", 
+            "text": "So in short the sky is gravy...\ufeff", 
+            "author": "Uihyun Hwang"
+        }, 
+        {
+            "date": "2014-11-24T01:41:04.835Z", 
+            "text": "Roses are red.\nViolets are blue.\nBlack lights are violet.\nViolet's not blue.\ufeff", 
+            "author": "Peter Smythe"
+        }, 
+        {
+            "date": "2014-11-24T01:25:42.122Z", 
+            "text": "Of course, sunlight doesn't emit a lot of violet, and the air attenuates it \nfurther, as do most other \"transparent\" materials. Anything that reflected \npure violet but not red would probably end up looking very dark, both \nbecause our eyes don't perceive it very well, and there just aren't that \nmany violet photons flying around under normal conditions to reflect into \nour eyes. In reality, most violet dyes are actually purple.\n\n\nOn the other hand, take this image of a rainbow, from Wikipedia:\n\nhttp://en.wikipedia.org/wiki/Rainbow#mediaviewer/File:WhereRainbowRises.jpg\n\nOr this image, also from wiki, of the emission spectrum of a black light.\n\nhttp://en.wikipedia.org/wiki/Black_light#mediaviewer/File:Fluorescent_Black-Light_spectrum_with_peaks_labelled.gif\n\n\nNow, if we look at a black light, it is obviously violet, no question, and \nyet, it emits no red light? How can this be? Because violet doesn't \nactually look blue, it looks purple (ish).\ufeff", 
+            "author": "Peter Smythe"
+        }, 
+        {
+            "date": "2014-11-24T01:12:54.995Z", 
+            "text": "Except that you do see violet in prismatic rainbows. Look at the image \nthere? Given, you see purple, not violet, but it's there.\ufeff", 
+            "author": "Peter Smythe"
+        }, 
+        {
+            "date": "2014-11-24T01:09:46.284Z", 
+            "text": "Uh.... violet does actually exist as a frequency of light. Purple-looking \nviolet.\nAnyone who's tried putting a royal blue LED in liquid nitrogen knows this.\n\nOr for that matter, anyone who owns a 380\u2013450 nm actual violet LED. They \nlook purple, and the reflections off of white objects look REALLY purple. \nThey aren't purple, they are violet, but they look that way. It is actually \nnot possible to reproduce real violet on a computer monitor, despite it \ntaking up 25.4% of the logarithmic size of the human visual range. (380-740 \nnm).\n\nThat's almost as big as red. Much larger than orange and yellow combined, \nlarger than green, larger than blue, larger than blue or green including \ncyan. It's the second-largest part of the visual spectrum to have a name \nfor the color, and yet you deny it exists?\ufeff", 
+            "author": "Peter Smythe"
+        }, 
+        {
+            "date": "2014-11-24T00:42:26.913Z", 
+            "text": "could anyone please explain the point that starts at 1:53 ?\n\ni didn't get it. why the \"tail\" of a super-hot object is relevant to our \nsolar system (where there aren't any super-hot objects). and why \"thats \nwhy\" you never get the combination of frequencies to push the color toward \npurple??? there is a gap in the explanation here.\ufeff", 
+            "author": "AlonSandler"
+        }, 
+        {
+            "date": "2014-11-23T09:48:35.212Z", 
+            "text": ".....was that \"the colour of the sky is determined more by temperature than \nrefraction\"?\ufeff", 
+            "author": "James Walker"
+        }
+    ]
+}

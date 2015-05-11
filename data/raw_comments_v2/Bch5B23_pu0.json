@@ -1,0 +1,1788 @@
+{
+    "publish_date": "2013-02-19T20:01:06.000Z", 
+    "video_length": "PT10M6S", 
+    "captions": [
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG:\nMy name is Christian Von", 
+            "dur": "1.286", 
+            "start": "0"
+        }, 
+        {
+            "text": "Koenigsegg.", 
+            "dur": "0.74", 
+            "start": "1.286"
+        }, 
+        {
+            "text": "I&#39;m 40 years old.", 
+            "dur": "1.265", 
+            "start": "2.026"
+        }, 
+        {
+            "text": "And for half of my life I&#39;ve\nbeen on the quest to be a", 
+            "dur": "2.325", 
+            "start": "3.291"
+        }, 
+        {
+            "text": "leader in the hypercar industry,\nutilizing Swedish", 
+            "dur": "3.28", 
+            "start": "5.616"
+        }, 
+        {
+            "text": "design combined with visionary\ntechnical solutions.", 
+            "dur": "2.665", 
+            "start": "8.896"
+        }, 
+        {
+            "text": "Our latest car, the Agera R, is\nbuilt in the old hangers of", 
+            "dur": "3.885", 
+            "start": "15.256"
+        }, 
+        {
+            "text": "a former Swedish fighter\njet squadron.", 
+            "dur": "2.645", 
+            "start": "19.141"
+        }, 
+        {
+            "text": "Their symbol, a ghost, is now\nproudly painted on the back of", 
+            "dur": "3.63", 
+            "start": "21.786"
+        }, 
+        {
+            "text": "every Koenigsegg.", 
+            "dur": "1.28", 
+            "start": "25.416"
+        }, 
+        {
+            "text": "[MUSIC PLAYING]", 
+            "dur": "26.235", 
+            "start": "26.696"
+        }, 
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG: So\nnow I&#39;m going to show you", 
+            "dur": "1.355", 
+            "start": "52.931"
+        }, 
+        {
+            "text": "something which we are working\non for the future, which I", 
+            "dur": "3.07", 
+            "start": "54.286"
+        }, 
+        {
+            "text": "personally find very, very\ninteresting in many aspects.", 
+            "dur": "3.28", 
+            "start": "57.356"
+        }, 
+        {
+            "text": "So what this is, this is what\nwe call an actuator.", 
+            "dur": "4.3", 
+            "start": "60.636"
+        }, 
+        {
+            "text": "It&#39;s a Free Valve actuator.", 
+            "dur": "1.8", 
+            "start": "64.936"
+        }, 
+        {
+            "text": "Most of you who are familiar\nwith combustion engines and", 
+            "dur": "3.7", 
+            "start": "66.736"
+        }, 
+        {
+            "text": "especially car engines know\nthat there are camshafts", 
+            "dur": "2.92", 
+            "start": "70.436"
+        }, 
+        {
+            "text": "involved to move the valves\ninside the cylinder head.", 
+            "dur": "5.645", 
+            "start": "73.356"
+        }, 
+        {
+            "text": "And these valves, they have been\ncontrolled by camshafts", 
+            "dur": "3.005", 
+            "start": "79.001"
+        }, 
+        {
+            "text": "for the last 150 years or\nsomething like that.", 
+            "dur": "3.01", 
+            "start": "82.006"
+        }, 
+        {
+            "text": "But it&#39;s very restrictive,\nreally, especially if you have", 
+            "dur": "2.96", 
+            "start": "85.016"
+        }, 
+        {
+            "text": "multi-cylinders and you want\nto have a rev range to go", 
+            "dur": "3.72", 
+            "start": "87.976"
+        }, 
+        {
+            "text": "through with efficiency and\npower because, when you have a", 
+            "dur": "4.76", 
+            "start": "91.696"
+        }, 
+        {
+            "text": "camshaft, you basically look\nat all the cylinders in the", 
+            "dur": "2.43", 
+            "start": "96.456"
+        }, 
+        {
+            "text": "same line to do, pretty\nmuch, the same thing.", 
+            "dur": "2.49", 
+            "start": "98.886"
+        }, 
+        {
+            "text": "There are coming systems now\nwhich give some flexibility.", 
+            "dur": "2.65", 
+            "start": "101.376"
+        }, 
+        {
+            "text": "You can tweak the angle a little\nbit, compared to the", 
+            "dur": "2.89", 
+            "start": "104.026"
+        }, 
+        {
+            "text": "crank of the engine.", 
+            "dur": "1.53", 
+            "start": "106.916"
+        }, 
+        {
+            "text": "And you can slide them sideways,\nlike Audi is doing", 
+            "dur": "2.28", 
+            "start": "108.446"
+        }, 
+        {
+            "text": "to shut off cylinders now.", 
+            "dur": "1.27", 
+            "start": "110.726"
+        }, 
+        {
+            "text": "So it&#39;s getting better and\nbetter, but it&#39;s still very,", 
+            "dur": "2.21", 
+            "start": "111.996"
+        }, 
+        {
+            "text": "very restrictive.", 
+            "dur": "1.12", 
+            "start": "114.206"
+        }, 
+        {
+            "text": "You can think of the camshaft\nlike a broom, pretty much.", 
+            "dur": "2.72", 
+            "start": "115.326"
+        }, 
+        {
+            "text": "You hold it in your hands and\nyou push all the valves", 
+            "dur": "1.75", 
+            "start": "118.046"
+        }, 
+        {
+            "text": "simultaneously with\nthis broomstick.", 
+            "dur": "2.205", 
+            "start": "119.796"
+        }, 
+        {
+            "text": "What the Free Valve system\ndoes is that each valve", 
+            "dur": "3.264", 
+            "start": "122.001"
+        }, 
+        {
+            "text": "becomes individual.", 
+            "dur": "1.001", 
+            "start": "125.265"
+        }, 
+        {
+            "text": "So if you think of the valves\nlike keys on the piano,", 
+            "dur": "3.12", 
+            "start": "126.266"
+        }, 
+        {
+            "text": "suddenly, instead of pushing all\nthe keys at the same time", 
+            "dur": "3.29", 
+            "start": "129.386"
+        }, 
+        {
+            "text": "with a broomstick, you can\nactually play the keys with", 
+            "dur": "3.44", 
+            "start": "132.676"
+        }, 
+        {
+            "text": "your fingers, which is\nthe Free Valve idea.", 
+            "dur": "3.11", 
+            "start": "136.116"
+        }, 
+        {
+            "text": "And then, of course, the\nengine can perform in a", 
+            "dur": "2.5", 
+            "start": "139.226"
+        }, 
+        {
+            "text": "completely different way than\nbeing forced into a preset", 
+            "dur": "3.19", 
+            "start": "141.726"
+        }, 
+        {
+            "text": "pattern of combustion.", 
+            "dur": "2.06", 
+            "start": "144.916"
+        }, 
+        {
+            "text": "So what we&#39;re going to show\nyou here is this is like a", 
+            "dur": "2.47", 
+            "start": "146.976"
+        }, 
+        {
+            "text": "small cut out of a\ncylinder head.", 
+            "dur": "2.73", 
+            "start": "149.446"
+        }, 
+        {
+            "text": "Here we have one valve.", 
+            "dur": "1.57", 
+            "start": "152.176"
+        }, 
+        {
+            "text": "Normally, there are two intake\nvalves and two exhaust valves.", 
+            "dur": "3.08", 
+            "start": "153.746"
+        }, 
+        {
+            "text": "And here is just a small\nrig to run one of", 
+            "dur": "3.22", 
+            "start": "156.826"
+        }, 
+        {
+            "text": "these Free Valve actuators.", 
+            "dur": "1.6", 
+            "start": "160.046"
+        }, 
+        {
+            "text": "So basically, here you\nhave the valve.", 
+            "dur": "1.66", 
+            "start": "161.646"
+        }, 
+        {
+            "text": "Here you have the actuator.", 
+            "dur": "0.59", 
+            "start": "163.306"
+        }, 
+        {
+            "text": "It goes into it like this.", 
+            "dur": "1.76", 
+            "start": "163.896"
+        }, 
+        {
+            "text": "This is lubricated by engine\noil and pressurized by", 
+            "dur": "4.06", 
+            "start": "165.656"
+        }, 
+        {
+            "text": "pressurized air, which acts\nlike an air hammer", 
+            "dur": "2.39", 
+            "start": "169.716"
+        }, 
+        {
+            "text": "to move this out.", 
+            "dur": "1.67", 
+            "start": "172.106"
+        }, 
+        {
+            "text": "Then the engine oil makes sure\nit stays stable and can lock", 
+            "dur": "3.57", 
+            "start": "173.776"
+        }, 
+        {
+            "text": "it in different positions.", 
+            "dur": "1.48", 
+            "start": "177.346"
+        }, 
+        {
+            "text": "And then air spring or a metal\nspring pushes it back.", 
+            "dur": "4.54", 
+            "start": "178.826"
+        }, 
+        {
+            "text": "So we have individual control\nover each valve, which brings", 
+            "dur": "3.58", 
+            "start": "183.366"
+        }, 
+        {
+            "text": "great benefit to the combustion", 
+            "dur": "2.89", 
+            "start": "186.946"
+        }, 
+        {
+            "text": "cycles in the engine.", 
+            "dur": "2.15", 
+            "start": "189.836"
+        }, 
+        {
+            "text": "So it&#39;s actually a snowballing\neffect.", 
+            "dur": "1.68", 
+            "start": "191.986"
+        }, 
+        {
+            "text": "The engine becomes lighter,\nsmaller, cheaper, cleaner.", 
+            "dur": "3.51", 
+            "start": "193.666"
+        }, 
+        {
+            "text": "It can change the look of\nthe car in the end.", 
+            "dur": "1.79", 
+            "start": "197.176"
+        }, 
+        {
+            "text": "So it&#39;s a very, very interesting\ntechnology that", 
+            "dur": "2.52", 
+            "start": "198.966"
+        }, 
+        {
+            "text": "I&#39;m sure, one way or the\nother, will conquer the", 
+            "dur": "3.13", 
+            "start": "201.486"
+        }, 
+        {
+            "text": "cylinder heads of the world.", 
+            "dur": "2.18", 
+            "start": "204.616"
+        }, 
+        {
+            "text": "So here we&#39;ll go into a little\nbit of details how it works.", 
+            "dur": "3.01", 
+            "start": "206.796"
+        }, 
+        {
+            "text": "Urban, who is partly responsible\nfor this", 
+            "dur": "2.4", 
+            "start": "209.806"
+        }, 
+        {
+            "text": "development, will show you a\nlittle bit what it looks like.", 
+            "dur": "4.425", 
+            "start": "212.206"
+        }, 
+        {
+            "text": "URBAN CARLSON: It&#39;s a very\nsimple control system.", 
+            "dur": "2.825", 
+            "start": "216.631"
+        }, 
+        {
+            "text": "We have one signal\nfor each valve.", 
+            "dur": "4.702", 
+            "start": "219.456"
+        }, 
+        {
+            "text": "And when we tell it to open,\nit opens with a few", 
+            "dur": "3.388", 
+            "start": "224.158"
+        }, 
+        {
+            "text": "milliseconds delay.", 
+            "dur": "1.235", 
+            "start": "227.546"
+        }, 
+        {
+            "text": "And when we tell it to close,\nit closes with, again, a few", 
+            "dur": "3.83", 
+            "start": "228.781"
+        }, 
+        {
+            "text": "milliseconds delay.", 
+            "dur": "1.59", 
+            "start": "232.611"
+        }, 
+        {
+            "text": "This it can do at very\nhigh speeds, up to", 
+            "dur": "3.545", 
+            "start": "234.201"
+        }, 
+        {
+            "text": "20,000 RPM, if necessary.", 
+            "dur": "2.342", 
+            "start": "237.746"
+        }, 
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG: The\nsame size of actuator is", 
+            "dur": "1.788", 
+            "start": "240.088"
+        }, 
+        {
+            "text": "actually good for a small\nmotorcycle engine revving", 
+            "dur": "3.11", 
+            "start": "241.876"
+        }, 
+        {
+            "text": "15,000 RPM and a truck engine\nrevving 2,500 RPM.", 
+            "dur": "5.76", 
+            "start": "244.986"
+        }, 
+        {
+            "text": "Because the motorcycle valve is\nvery light, so it takes the", 
+            "dur": "3.359", 
+            "start": "250.746"
+        }, 
+        {
+            "text": "same energy to drive it\nbackwards and forwards at", 
+            "dur": "2.091", 
+            "start": "254.105"
+        }, 
+        {
+            "text": "15,000 RPM as it takes to drive\na huge, heavy truck", 
+            "dur": "3.93", 
+            "start": "256.196"
+        }, 
+        {
+            "text": "valve backwards and forwards\nat 2,500 RPM.", 
+            "dur": "3.21", 
+            "start": "260.126"
+        }, 
+        {
+            "text": "So it&#39;s very neat that the same\nactuator basically covers", 
+            "dur": "3.18", 
+            "start": "263.336"
+        }, 
+        {
+            "text": "the need for all different\nengine sizes.", 
+            "dur": "3.245", 
+            "start": "266.516"
+        }, 
+        {
+            "text": "So now we&#39;re running at\nwhat kind of RPM here?", 
+            "dur": "1.9", 
+            "start": "269.761"
+        }, 
+        {
+            "text": "URBAN CARLSON: Well, here&#39;s\na little bit over idle.", 
+            "dur": "3.8", 
+            "start": "271.661"
+        }, 
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG:\nThis is actually the", 
+            "dur": "1.255", 
+            "start": "275.461"
+        }, 
+        {
+            "text": "movement of the valve.", 
+            "dur": "2.19", 
+            "start": "276.716"
+        }, 
+        {
+            "text": "So you can see it\ngoes quickly up.", 
+            "dur": "1.99", 
+            "start": "278.906"
+        }, 
+        {
+            "text": "And then it stays flat.", 
+            "dur": "1.455", 
+            "start": "280.896"
+        }, 
+        {
+            "text": "It&#39;s like having a square\ncamshaft profile to make the", 
+            "dur": "2.017", 
+            "start": "282.351"
+        }, 
+        {
+            "text": "engine breathe really well.", 
+            "dur": "1.868", 
+            "start": "284.368"
+        }, 
+        {
+            "text": "If you would have a square\ncamshaft profile, it would", 
+            "dur": "2.66", 
+            "start": "286.236"
+        }, 
+        {
+            "text": "break immediately, because it\nwould jump off the edges and", 
+            "dur": "3.425", 
+            "start": "288.896"
+        }, 
+        {
+            "text": "would start hitting\nthe valve stem.", 
+            "dur": "2.415", 
+            "start": "292.321"
+        }, 
+        {
+            "text": "And it wouldn&#39;t work.", 
+            "dur": "0.97", 
+            "start": "294.736"
+        }, 
+        {
+            "text": "But with the Free Valve system,\nyou can actually open", 
+            "dur": "2.48", 
+            "start": "295.706"
+        }, 
+        {
+            "text": "any way you like and open really\nfast, stay open flat,", 
+            "dur": "3.63", 
+            "start": "298.186"
+        }, 
+        {
+            "text": "and then drop down.", 
+            "dur": "0.98", 
+            "start": "301.816"
+        }, 
+        {
+            "text": "Here it&#39;s possible to see the\nvalve sequence as well.", 
+            "dur": "2.351", 
+            "start": "302.796"
+        }, 
+        {
+            "text": "That is a smooth curve, so it\ndoesn&#39;t hit the valve so you", 
+            "dur": "2.385", 
+            "start": "305.147"
+        }, 
+        {
+            "text": "create noise and wear.", 
+            "dur": "1.25", 
+            "start": "307.532"
+        }, 
+        {
+            "text": "URBAN CARLSON: This\nis 3,000 RPM.", 
+            "dur": "3.618", 
+            "start": "314.566"
+        }, 
+        {
+            "text": "And you can see still a square\nform of the valve curve.", 
+            "dur": "6.127", 
+            "start": "318.184"
+        }, 
+        {
+            "text": "This is 9,000 RPM.", 
+            "dur": "12.68", 
+            "start": "331.116"
+        }, 
+        {
+            "text": "CHRISTIAN VON KOENIGSEGG: So\nthis might just look like an", 
+            "dur": "2.78", 
+            "start": "343.796"
+        }, 
+        {
+            "text": "old Saab to you all.", 
+            "dur": "1.58", 
+            "start": "346.576"
+        }, 
+        {
+            "text": "And in fact, it is, apart\nfrom one aspect.", 
+            "dur": "3.88", 
+            "start": "348.156"
+        }, 
+        {
+            "text": "That aspect is what you\nsee that&#39;s red here.", 
+            "dur": "2.29", 
+            "start": "355.036"
+        }, 
+        {
+            "text": "And that&#39;s the cylinder head,\nwhich has been modified to", 
+            "dur": "2.83", 
+            "start": "357.326"
+        }, 
+        {
+            "text": "accommodate our Cargine\nFree Valve system.", 
+            "dur": "4.79", 
+            "start": "360.156"
+        }, 
+        {
+            "text": "So basically what we&#39;ve done\nhere is we&#39;ve taken the", 
+            "dur": "3.4", 
+            "start": "364.946"
+        }, 
+        {
+            "text": "cylinder head apart, machined\nout all the mountings and so", 
+            "dur": "2.99", 
+            "start": "368.346"
+        }, 
+        {
+            "text": "on for the camshafts, and\ninstalled 16 Cargine Free", 
+            "dur": "4.99", 
+            "start": "371.336"
+        }, 
+        {
+            "text": "Valve actuators.", 
+            "dur": "1.64", 
+            "start": "376.326"
+        }, 
+        {
+            "text": "And then we have designed\na special valve cover.", 
+            "dur": "3.61", 
+            "start": "377.966"
+        }, 
+        {
+            "text": "Or it&#39;s not really\na valve cover.", 
+            "dur": "1.515", 
+            "start": "381.576"
+        }, 
+        {
+            "text": "It&#39;s more a lid containing\npressurized air channels and", 
+            "dur": "4.885", 
+            "start": "383.091"
+        }, 
+        {
+            "text": "pressurized oil channels\ncoming from", 
+            "dur": "1.84", 
+            "start": "387.976"
+        }, 
+        {
+            "text": "the engine oil side.", 
+            "dur": "2.94", 
+            "start": "389.816"
+        }, 
+        {
+            "text": "You can see the height of\nthis black cover here.", 
+            "dur": "2.25", 
+            "start": "392.756"
+        }, 
+        {
+            "text": "That&#39;s the same height as\nthe standard cylinder", 
+            "dur": "1.84", 
+            "start": "395.006"
+        }, 
+        {
+            "text": "head used to be.", 
+            "dur": "1.21", 
+            "start": "396.846"
+        }, 
+        {
+            "text": "So even when we retrofit it,\nwhen it&#39;s not optimized for", 
+            "dur": "3.8", 
+            "start": "398.056"
+        }, 
+        {
+            "text": "space, it&#39;s anyway lower than\nthe standard cylinder head.", 
+            "dur": "3.405", 
+            "start": "401.856"
+        }, 
+        {
+            "text": "So the engine actually shrinks\nand becomes lighter.", 
+            "dur": "2.515", 
+            "start": "405.261"
+        }, 
+        {
+            "text": "If we would have made a cylinder\nhead from scratch,", 
+            "dur": "2.66", 
+            "start": "407.776"
+        }, 
+        {
+            "text": "instead of retrofitting into an\nexisting cylinder head, it", 
+            "dur": "3.14", 
+            "start": "410.436"
+        }, 
+        {
+            "text": "would also become much narrower\nand even lower.", 
+            "dur": "2.46", 
+            "start": "413.576"
+        }, 
+        {
+            "text": "And this whole section here,\nwhich is a cover for where the", 
+            "dur": "4.45", 
+            "start": "416.036"
+        }, 
+        {
+            "text": "chain drive and for the camshaft\nused to sit, would", 
+            "dur": "2.3", 
+            "start": "420.486"
+        }, 
+        {
+            "text": "disappear completely.", 
+            "dur": "1.19", 
+            "start": "422.786"
+        }, 
+        {
+            "text": "So the engine would also\nbecome a lot shorter.", 
+            "dur": "2.69", 
+            "start": "423.976"
+        }, 
+        {
+            "text": "Basically, when you go from\na camshaft to Cargine Free", 
+            "dur": "3.53", 
+            "start": "426.666"
+        }, 
+        {
+            "text": "Valves, the size of a\nfour-cylinder engine becomes", 
+            "dur": "4.1", 
+            "start": "430.196"
+        }, 
+        {
+            "text": "just a little bit bigger\nthan the size of a", 
+            "dur": "1.8", 
+            "start": "434.296"
+        }, 
+        {
+            "text": "three-cylinder engine.", 
+            "dur": "1.41", 
+            "start": "436.096"
+        }, 
+        {
+            "text": "And then, of course, if you\ncut away one cylinder to", 
+            "dur": "4.47", 
+            "start": "437.506"
+        }, 
+        {
+            "text": "maintain the power and torque\nlevel you used to have in your", 
+            "dur": "3.31", 
+            "start": "441.976"
+        }, 
+        {
+            "text": "four-cylinder engine, then it\nbecomes really much smaller.", 
+            "dur": "3.91", 
+            "start": "445.286"
+        }, 
+        {
+            "text": "So this car here has been\nrunning with Cargine Free", 
+            "dur": "3.6", 
+            "start": "449.196"
+        }, 
+        {
+            "text": "Valve system, winter\nand summer, for the", 
+            "dur": "2.61", 
+            "start": "452.796"
+        }, 
+        {
+            "text": "last 2 and 1/2 years.", 
+            "dur": "1.85", 
+            "start": "455.406"
+        }, 
+        {
+            "text": "We&#39;ve accumulated almost 60,000\nkilometers, without any", 
+            "dur": "4.185", 
+            "start": "457.256"
+        }, 
+        {
+            "text": "failure whatsoever to the\nFree Valve system.", 
+            "dur": "3.695", 
+            "start": "461.441"
+        }, 
+        {
+            "text": "It&#39;s just been upgraded with\nour latest generation,", 
+            "dur": "2.62", 
+            "start": "465.136"
+        }, 
+        {
+            "text": "actuator generation 5, on both\nthe intake an exhaust side of", 
+            "dur": "4.78", 
+            "start": "467.756"
+        }, 
+        {
+            "text": "the engine.", 
+            "dur": "0.565", 
+            "start": "472.536"
+        }, 
+        {
+            "text": "And it&#39;s been tested at the\ntesting institute, called AVL,", 
+            "dur": "4.175", 
+            "start": "473.101"
+        }, 
+        {
+            "text": "with up to 20% improvement in\nfuel efficiency so far.", 
+            "dur": "7.6", 
+            "start": "477.276"
+        }, 
+        {
+            "text": "And that&#39;s just the starting\npoint, I would say.", 
+            "dur": "1.75", 
+            "start": "484.876"
+        }, 
+        {
+            "text": "This is more a test field to\nrun for durability and for", 
+            "dur": "3.65", 
+            "start": "486.626"
+        }, 
+        {
+            "text": "cold starts, even in the winter,\ndown to minus 20", 
+            "dur": "2.74", 
+            "start": "490.276"
+        }, 
+        {
+            "text": "degrees Celsius.", 
+            "dur": "1.04", 
+            "start": "493.016"
+        }, 
+        {
+            "text": "But it&#39;s really exciting.", 
+            "dur": "1.82", 
+            "start": "494.056"
+        }, 
+        {
+            "text": "And it&#39;s, I think, one of the\nfew cars in the world that is", 
+            "dur": "3.909", 
+            "start": "495.876"
+        }, 
+        {
+            "text": "running with no camshaft\nwhatsoever.", 
+            "dur": "3.081", 
+            "start": "499.785"
+        }, 
+        {
+            "text": "When it&#39;s fully optimized, we&#39;re\nexpecting to have 30%", 
+            "dur": "4.85", 
+            "start": "502.866"
+        }, 
+        {
+            "text": "less fuel consumption, 30%\nmore torque, and 30% more", 
+            "dur": "4.33", 
+            "start": "507.716"
+        }, 
+        {
+            "text": "power, and, in an\naverage driving", 
+            "dur": "1.86", 
+            "start": "512.046"
+        }, 
+        {
+            "text": "cycle, 50% less emissions.", 
+            "dur": "3.44", 
+            "start": "513.906"
+        }, 
+        {
+            "text": "And that&#39;s without connecting\nit to the possibility, which", 
+            "dur": "2.899", 
+            "start": "517.346"
+        }, 
+        {
+            "text": "is very interesting, which\nis an air tank.", 
+            "dur": "2.801", 
+            "start": "520.245"
+        }, 
+        {
+            "text": "Given this valve technology, we\ncan actually recoup energy", 
+            "dur": "3.77", 
+            "start": "523.046"
+        }, 
+        {
+            "text": "while engine braking, by using\nthe engine as an air pump,", 
+            "dur": "5.47", 
+            "start": "526.816"
+        }, 
+        {
+            "text": "pumping up a tank with air,\ngetting air pressure there,", 
+            "dur": "3.95", 
+            "start": "532.286"
+        }, 
+        {
+            "text": "and then driving off only on\nthat air, using the engine as", 
+            "dur": "4.6", 
+            "start": "536.236"
+        }, 
+        {
+            "text": "a compressor or, let&#39;s\nsay, an air engine.", 
+            "dur": "3.57", 
+            "start": "540.836"
+        }, 
+        {
+            "text": "That compressed air can also\nbe used for boosting the", 
+            "dur": "3.13", 
+            "start": "544.406"
+        }, 
+        {
+            "text": "engine while using fuel to\nhave a really big, quick", 
+            "dur": "5.85", 
+            "start": "547.536"
+        }, 
+        {
+            "text": "spooling turbo which\nconsumes no energy.", 
+            "dur": "2.98", 
+            "start": "553.386"
+        }, 
+        {
+            "text": "So instead of storing energy\nin the battery and like a", 
+            "dur": "3.35", 
+            "start": "556.366"
+        }, 
+        {
+            "text": "battery, we&#39;re using an\nempty tank of air.", 
+            "dur": "1.98", 
+            "start": "559.716"
+        }, 
+        {
+            "text": "So that&#39;s the next step\nof this technology.", 
+            "dur": "1.96", 
+            "start": "561.696"
+        }, 
+        {
+            "text": "But already, without that, it&#39;s\na huge benefit, compared", 
+            "dur": "2.48", 
+            "start": "563.656"
+        }, 
+        {
+            "text": "to normal camshafts.", 
+            "dur": "2.23", 
+            "start": "566.136"
+        }, 
+        {
+            "text": "This technology is not\nyet in Koenigsegg.", 
+            "dur": "2.65", 
+            "start": "568.366"
+        }, 
+        {
+            "text": "And it&#39;s something, of\ncourse, we might plan", 
+            "dur": "1.73", 
+            "start": "571.016"
+        }, 
+        {
+            "text": "to do for the future.", 
+            "dur": "0.66", 
+            "start": "572.746"
+        }, 
+        {
+            "text": "It will be another three, four\nyears out, before it&#39;s in any", 
+            "dur": "3.76", 
+            "start": "573.406"
+        }, 
+        {
+            "text": "production car.", 
+            "dur": "0.89", 
+            "start": "577.166"
+        }, 
+        {
+            "text": "And hopefully, the Koenigsegg\ncould be one of the first.", 
+            "dur": "2.11", 
+            "start": "578.056"
+        }, 
+        {
+            "text": "[MUSIC PLAYING]", 
+            "dur": "22.645", 
+            "start": "580.166"
+        }
+    ], 
+    "title": "The Future of the Internal Combustion Engine - /Inside Koenigsegg", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04dxw", 
+        "/m/03tpm"
+    ], 
+    "number_views": 1110411, 
+    "categories": [
+        2
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-04T15:14:01.071Z", 
+            "text": "If you need a test car, I also have a 2007 Saab 9-5 (sedan) that is the \nsame engine spec that you could retrofit the free cams. I do a lot of \nengine braking when in manual mode... plus I would like a little more power \nunder the hood\ufeff", 
+            "author": "Austin Vitoux"
+        }, 
+        {
+            "date": "2015-05-04T12:39:43.747Z", 
+            "text": "Brilliant explanation by Mr Koenigsegg, but I cant believe he didn't \nmention the Fiat Multi-air engines that have this exact technology, albeit \nonly on the intake side. They were the first to mass produce an engine with \nelectrohydraulic valve actuation since 2010, but they don't require \ncompressed air. They probably skipped on the exhaust side since the gains \nwouldn't have justified the additional expenses, but I'm willing to bet \ntheir R&D is working on just that, so that they can eliminate the camshaft \naltogether.\ufeff", 
+            "author": "K Sadek"
+        }, 
+        {
+            "date": "2015-04-18T22:38:23.893Z", 
+            "text": "Does anyone know if any scholarly articles exist on this topic? I would \nlike to learn more about the technical aspects relating to this.\ufeff", 
+            "author": "Pali4life2"
+        }, 
+        {
+            "date": "2015-04-13T10:55:10.210Z", 
+            "text": "It appears he making his own camless engine, or adapting an existing engine \nwithout camshaft. Go for it!\nhttp://www.autoblog.com/2015/03/06/koenigsegg-four-door-camless-engine-report/\n\ufeff", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2015-04-08T20:07:27.059Z", 
+            "text": "Just as fuel injection replaced carburetors, This technology will replace \ncamshaft driven valves.\ufeff", 
+            "author": "DOUGLER CLAN"
+        }, 
+        {
+            "date": "2015-04-08T17:19:31.462Z", 
+            "text": "Whats the music?\ufeff", 
+            "author": "Asian Gamer"
+        }, 
+        {
+            "date": "2015-04-02T09:47:24.084Z", 
+            "text": "articulate and brilliant\ufeff", 
+            "author": "Zac Youngson"
+        }, 
+        {
+            "date": "2015-03-23T18:22:31.860Z", 
+            "text": "So when is someone going to give us this for the aftermarket for our \nexisting engines?\n\ufeff", 
+            "author": "Maranello Santiago"
+        }, 
+        {
+            "date": "2015-03-18T03:25:58.754Z", 
+            "text": "Ingeniero Koenigsegg, me saco la idea que tenia pensada hace rato \ufeff", 
+            "author": "Nery Ordo\u00f1es"
+        }, 
+        {
+            "date": "2015-03-17T23:12:03.446Z", 
+            "text": "Koeniegsegg  did not invent this idea its been around for many years \nalready. Car makers for what ever reason have not exploited it. I dislike \nhow Koenigsegg always markets as if they were first to develop a new idea.\ufeff", 
+            "author": "M Rucker"
+        }, 
+        {
+            "date": "2015-03-14T00:14:11.000Z", 
+            "text": "Koenigsegg could have implemented these innovations to the general public \nwith SAAB if they had been able to buy the company back in 2010, which they \nalmost did.\nImagine the incredible cars. The two companies innovative backgrounds make \nthem seem almost as twins lost at birth.\ufeff", 
+            "author": "candy-ass roodypoo"
+        }, 
+        {
+            "date": "2015-03-23T18:23:49.133Z", 
+            "text": "If only they could have acquired them.", 
+            "author": "Maranello Santiago"
+        }, 
+        {
+            "date": "2015-03-12T06:08:27.278Z", 
+            "text": "I seen on the news way back in the late 80's a valve timing system similar \nto this, but it used computer controlled electric solenoids one on the end \nof each valve. So no camshafts or parasitic loss. They had a working \ncylinder head on display in a plexi glass box showing the valves working. \nBut then after that I never seen it again or seen it installed on a car.\ufeff", 
+            "author": "Mike Brink"
+        }, 
+        {
+            "date": "2015-03-11T23:45:22.197Z", 
+            "text": "dam this would work really nice on a ford or chevy engine\ufeff", 
+            "author": "Kenneth Mcaskil"
+        }, 
+        {
+            "date": "2015-03-11T23:44:47.453Z", 
+            "text": "whats th fuel milage\ufeff", 
+            "author": "Kenneth Mcaskil"
+        }, 
+        {
+            "date": "2015-03-11T23:43:50.001Z", 
+            "text": "this guy knows what time it is\ufeff", 
+            "author": "Kenneth Mcaskil"
+        }, 
+        {
+            "date": "2015-03-11T22:41:48.882Z", 
+            "text": "Impressive technology!\ufeff", 
+            "author": "Swanty's, Chrysler, Dodge, Jeep, Ram"
+        }, 
+        {
+            "date": "2015-03-09T09:07:45.080Z", 
+            "text": "Christian von Koenigsegg, in my opinion, can be seen in the league of \npeople like Elon Musk, as he is engineering new things and brings them to \nlife.\ufeff", 
+            "author": "Prof. Michael O. Zimmermann JCD ECS"
+        }, 
+        {
+            "date": "2015-03-09T08:57:19.000Z", 
+            "text": "If Mr. Koenigsegg would revitalize SAAB style car manufacturing with their \nknow-how, new ideas and technologies in 5 years they could be making \naffordable production cars of a new kind. Air-engine technology could bring \na new meaning to the hybrid idea ;-) I am always impressed at Koenigegg's \n\"outside the box\" thinking and commend him and his crew for that. I wish \nyou all the good fortune in the world!\ufeff", 
+            "author": "Prof. Michael O. Zimmermann JCD ECS"
+        }, 
+        {
+            "date": "2015-03-07T22:47:34.741Z", 
+            "text": "I keep coming back and watching this video over and over again to get \npumped up for the future of car engine technology. Hopefully we get an \nupdate for this Free Valve system soon from mister Koenigsegg\ufeff", 
+            "author": "maximus9401"
+        }, 
+        {
+            "date": "2015-04-06T09:01:22.536Z", 
+            "text": "+maximus9401\nThe valve timing is infinitely variable. They can not control how quickly \nthe valve opens or closes. It's been researched and done over and over by \npeople with the best engineers on the planet, with almost unlimited \nbudgets. F1 teams tried it and abandoned it. Additionally, with this type \nof system, you can't vary the valve lift like Honda's VTEC or Toyota's \nValve-Matic. Airflow doesn't like big lifts at low rpm. The whole problem \nwith this type of valve actuation system is that it can't be optimized for \nall driving conditions. You need variable timing, variable lift, and \nideally, a variable profile. The system here is 1D. The OEM's spend \nMILLIONS on 1 mpg. When we start applying litmus tests like this, it seems \nrather ridiculous. If one really wants to learn about it, like I said, \nthere are papers available from SAE where you can read all about the \ntechnology, and the reasearch that's been done on it.", 
+            "author": "MJRPerformance"
+        }, 
+        {
+            "date": "2015-04-05T20:55:46.173Z", 
+            "text": "+MJRPerformance but the thing is, it's infinitely variable so they don't \nhave to use the square profile for the valves at low rpm. They can adjust \nit to whatever keep the AFR's safe and brings in torque, then adjust to the \nsquare profile under heavy load. It's simply a matter of computer tuning to \nget the valves to behave like they need to ", 
+            "author": "maximus9401"
+        }, 
+        {
+            "date": "2015-04-04T14:04:30.381Z", 
+            "text": "+maximus9401 You can go buy papers from SAE to read about it all day long. \nNothing new here. The major manufacturers have already taken it way farther \nthan this guy. Some teams in F1 have already tried it many years ago. At \nlow RPM, airflow doesn't \"like\" the valve being opened quickly with a \nsquare profile. Good in a race engine, not in a daily driver. Big \nreliability problems, as well. For a no-strings-attached 30% gain in fuel \nefficiency, this would already be in every car on the road. Toyota spends \nhundreds of millions for a 1% gain, and they're at the leading edge for \nefficiency. \n\nCheers.", 
+            "author": "MJRPerformance"
+        }, 
+        {
+            "date": "2015-03-04T16:32:23.591Z", 
+            "text": "Wondering:\nIn order to run this engine in the Saab, it needs a compressed air tank to \nrun the valves?  Once the tank is empty it dies?\ufeff", 
+            "author": "gwicks6"
+        }, 
+        {
+            "date": "2015-02-22T10:55:05.419Z", 
+            "text": "noua inovatie in motorul masinii\ufeff", 
+            "author": "anointingoil27"
+        }, 
+        {
+            "date": "2015-02-05T19:53:11.723Z", 
+            "text": "one of these would be fun to play with\ufeff", 
+            "author": "Robert Jenkins"
+        }, 
+        {
+            "date": "2015-01-25T17:16:20.198Z", 
+            "text": "He's a genius. Truly mind blowing how he's pioneering these technologies. \ufeff", 
+            "author": "flatline7310"
+        }, 
+        {
+            "date": "2015-01-24T00:30:56.648Z", 
+            "text": "This technology is beeing used for many years in large marine diesel \nengines. Indeed it's revolutionary and has great benefits. I hope we will \nsee it soon on a car, and not only on a supercar.\ufeff", 
+            "author": "Nikos T"
+        }, 
+        {
+            "date": "2015-01-18T16:53:03.260Z", 
+            "text": "I'd love to see any , or all, of the major automakers license this \napplication from Ksegg.\nLet's get it into mass production. A win-win for all parties: catapulting \nKsegg to wide acclaim  in the mass production automobile market, while \nproviding the resources to continue his supercar production and development.\n\nC'mon Ksegg, bring it on!\ufeff", 
+            "author": "terry mayer"
+        }, 
+        {
+            "date": "2015-01-08T05:28:21.877Z", 
+            "text": "Hallelujah! I've often been irritated by the idea of camshafts in this day \nand age - it seems so quaint and Victorian. The reduction is engine size \nalone is enough to warrant the world's attention (think of the weight loss \nbenefits and visual design improvements one could make), let alone the \npower, torque, and emission benefits.\ufeff", 
+            "author": "anarchisttomato"
+        }, 
+        {
+            "date": "2014-12-29T16:36:07.049Z", 
+            "text": "1,000,000,000 likes from me :-)\nI was just looking for such technology < and thinking about it < good work \n+drive\ufeff", 
+            "author": "wael \u0645\u0633\u0644\u0645 - \u0645\u0624\u0645\u0646 - \u0645\u062d\u0633\u0646\u200e"
+        }, 
+        {
+            "date": "2015-03-10T21:19:27.648Z", 
+            "text": "Can you prove the fuel consumption ..? And other power figures.?", 
+            "author": "wael \u0645\u0633\u0644\u0645 - \u0645\u0624\u0645\u0646 - \u0645\u062d\u0633\u0646\u200e"
+        }, 
+        {
+            "date": "2014-12-27T02:08:27.904Z", 
+            "text": "What music was used in the beginning.\ufeff", 
+            "author": "JmanSKhokh"
+        }, 
+        {
+            "date": "2014-12-25T07:37:24.428Z", 
+            "text": "someone who inspires me, always share knowledge\ufeff", 
+            "author": "Radityo Ferdiansyah"
+        }, 
+        {
+            "date": "2014-12-24T20:54:16.778Z", 
+            "text": "nb\ufeff", 
+            "author": "zhi xia"
+        }, 
+        {
+            "date": "2014-12-23T15:34:17.147Z", 
+            "text": "The Future of the Internal Combustion Engine - /I\u2026: \nhttp://youtu.be/Bch5B23_pu0\ufeff", 
+            "author": "Frederick Magat"
+        }, 
+        {
+            "date": "2014-12-18T20:33:01.670Z", 
+            "text": "Looks like a Saab\ufeff", 
+            "author": "SuperClassicz"
+        }, 
+        {
+            "date": "2014-12-18T04:16:25.386Z", 
+            "text": "koenigsegg needs to start an f1 team, its this type of engineering that has \nmade Mercedes have an advantage with their split turbo housings imagine \nwhat these guys could do with this technology \ufeff", 
+            "author": "Jackson Welch"
+        }, 
+        {
+            "date": "2014-12-15T05:13:25.876Z", 
+            "text": "this is like super vtec, yo\ufeff", 
+            "author": "LeeFerikson"
+        }, 
+        {
+            "date": "2014-12-15T04:57:57.450Z", 
+            "text": "solenoid valves nothing new and should be electronic direct fastest way and \nof course ecm needed control the fastest way not by oil pressure or air \npressure like a variable cam pusher which is slow in comparison of a valve\ufeff", 
+            "author": "Ravis Maximus"
+        }, 
+        {
+            "date": "2014-12-09T09:02:04.855Z", 
+            "text": "Koenigsaab\ufeff", 
+            "author": "Genesis Wolves"
+        }, 
+        {
+            "date": "2014-12-06T18:50:55.093Z", 
+            "text": "If I could. I would totally buy their test mule Saab once they're done with \nit.\ufeff", 
+            "author": "Q."
+        }, 
+        {
+            "date": "2014-12-04T23:49:39.994Z", 
+            "text": "Cams can be so retarded.\ufeff", 
+            "author": "Eric Thomas"
+        }, 
+        {
+            "date": "2014-11-30T23:45:52.403Z", 
+            "text": "at first when he said camshafts are limiting I thought, what about Vtec or \nVVT-I?  Then he showed the valve open/close profile and how a camshaft \ncannot replicate that.  Im not sure if I buy 30% gains in fuel millage, \ntorque and power...but I can see how this tech would make improvements in \nall three.  And to do so while reducing the size and weight of an engine is \nimpressive.  Just the reduction in rotating mass and friction will help \nengines perform better.  Some wont like giving the job of timing to a \ncomputer, but the adjustments that can be made on the fly could really \nimprove how a car runs.  Modern \"eco\" and \"sport\" modes just change \nthrottle response and transmission shift points...maybe some fuel mapping \nand ignition timing.  But changing the valve timing in ways you cant do \neven with modern variable valve tech should make a big difference.  Dang \nimpressive.\ufeff", 
+            "author": "RCPro Driver"
+        }, 
+        {
+            "date": "2015-04-10T18:32:34.090Z", 
+            "text": "+Aidan Sharples Yeah and by then cars as we know may be very different", 
+            "author": "Marco de la Pe\u00f1a"
+        }, 
+        {
+            "date": "2015-04-10T07:43:33.038Z", 
+            "text": "+Marco de la Pe\u00f1a Unfortunately that can never happen. If we burn only one \nfifth of the currently known oil reserves we will be at survivability \ntipping point. We have discovered an estimated 8% of total reserves. This \nmeans we will all be dead before we run out of oil.", 
+            "author": "Aidan Sharples"
+        }, 
+        {
+            "date": "2015-04-03T17:59:51.514Z", 
+            "text": "I'm sure we will only see this technology when the world is almost out of \noil", 
+            "author": "Marco de la Pe\u00f1a"
+        }, 
+        {
+            "date": "2015-04-03T14:13:39.704Z", 
+            "text": "the cost for them to \"build\" a camless engine will be less.  but designing \nand tooling a full lineup of camless engines (4,6 and 8 cyl) would be \nexpensive.  while people would surely buy cars with such engines and \nbenefit from the new tech, car companies today don't show that they are in \ntouch with what consumers really want.  they are going for flash and gizmos \nover affordable/reliable.", 
+            "author": "RCPro Driver"
+        }, 
+        {
+            "date": "2015-04-03T14:10:38.305Z", 
+            "text": "in the long run that is true...but car companies tend to look more short \nterm.  They will look and see they are making money on current technology \nand that tooling up for and designing their own camless engines would be \ncostly.  Sure, it will pay off...especially if one of the big auto makers \ncomes out with it before everyone else does.  Imagine if ford or chevy \ncould suddenly offer a camless engine in most of their models.  They would \nhave a advantage in every class in terms of power and MPG.  People have \nflocked to the ford ecoboost line because the MPG looks pretty good and you \ndon't sacrifice power.  But imagine if you had a camless, DI, turbo charged \n4cyl engine to offer in your sedan lineup?  The gains from the ideal cam \nprofile on a NA have been proven...imagine similar, if not better gains on \na turbo charged engine!  But the fact is that car companies will hesitate \nto introduce a technology that would make ALL their current engines \nobsolete.", 
+            "author": "RCPro Driver"
+        }, 
+        {
+            "date": "2015-04-02T17:32:40.148Z", 
+            "text": "+RCPro Driver you could make a lot more profit using camless. Building the \nengine would require less material costs because of the lack of a camshaft. \nAnd the engine would be smaller, requiring less room in the engine bay", 
+            "author": "waysideme"
+        }, 
+        {
+            "date": "2015-03-15T05:33:49.861Z", 
+            "text": "I think it is less to do with the gas companies and more to do with the \nauto makers not seeing profit in it.  Or rather...why introduce such a huge \nadvance when people are willing to pay big bucks for the current engines?  \nIt takes a lot of tooling and R&D to make a new engine.  The auto makers \nwont bother to invest that until they feel the consumer demands higher MPG \nand HP.  But currently, people seem impressed and satisfied by 30-40mpg \ncars.  The auto makers care far more about profit than advancement.", 
+            "author": "RCPro Driver"
+        }, 
+        {
+            "date": "2015-03-13T02:00:53.689Z", 
+            "text": "I also share your thoughts on the massive domino effect of benefits this \nwould bring, but I'm wondering why the hell big car makers haven't done \nthat yet?, I don't think they hasn't think about it. In fact this does make \none believe in petrol conspiracy", 
+            "author": "Marco de la Pe\u00f1a"
+        }, 
+        {
+            "date": "2015-02-09T13:03:56.893Z", 
+            "text": "+\u4e0a\u8a18\u306b\u6f02\u6d41\nYeah the hell with camless. When are they gonna phase out the wheels and \ngive us rocket ships like they promised years ago? Oh well maybe I'll just \norder a 918 to hold me over. What end of the biz are you planning on \ngetting into? I'm in racing... pushrod engines, so it's mostly drag, circle \nand offshore boats.", 
+            "author": "wd1000"
+        }, 
+        {
+            "date": "2015-02-06T16:48:50.725Z", 
+            "text": "+wd1000 Thats a damn cool job. Im part way through my BEng in Automotive \nengineering, from what I can see it won't be too long until we start seeing \ncamless valvetrains on road cars, you better watch your back!", 
+            "author": "\u4e0a\u8a18\u306b\u6f02\u6d41"
+        }, 
+        {
+            "date": "2015-02-05T12:58:48.151Z", 
+            "text": "Hmmm. I design camshafts and I DO NOT endorse this system... at least until \nI retire haha. Actually I would love one of these systems to play with. \nIt's potential is unbelievable.", 
+            "author": "wd1000"
+        }, 
+        {
+            "date": "2015-01-15T15:28:52.412Z", 
+            "text": "I guess with this system you can effectively de-choke the engine (remove \nthe throttle valve completely), as you can fully control the inlet with the \nvalves instead of having to restrict the air flow with a throttle. This \nwill massively increase the thermodynamic efficiency. Also you could not \nonly change valve timing and lift but also valve duration which isn't \nreally possible with mechanical VVT systems. Really cool shit eh?", 
+            "author": "\u4e0a\u8a18\u306b\u6f02\u6d41"
+        }, 
+        {
+            "date": "2014-11-15T13:04:44.397Z", 
+            "text": "Very good video!\none question.. can the valve lift be modified using this pneumatic \nactuators? or they are binary, like on/off?\ufeff", 
+            "author": "Maxi Biscardi"
+        }, 
+        {
+            "date": "2014-12-10T23:33:13.083Z", 
+            "text": "Very easily, that square wave can be modified even further then it already \nis. A binary on/off is a perfect square, this has a fast ramp and slight \ngradual slope. They were even using an oscilloscope to control it.", 
+            "author": "rookyandb"
+        }, 
+        {
+            "date": "2014-11-12T16:52:43.065Z", 
+            "text": "mad scientist :/\ufeff", 
+            "author": "Ritchii Studiio"
+        }, 
+        {
+            "date": "2014-11-03T17:52:27.302Z", 
+            "text": "convert to electric or die with your internal combustion engine - TESLA\ufeff", 
+            "author": "fdfdfdfdfdfd"
+        }, 
+        {
+            "date": "2014-11-01T04:53:04.806Z", 
+            "text": "Great video, bloody annoying background music.\ufeff", 
+            "author": "Andrew Mott"
+        }, 
+        {
+            "date": "2014-10-30T12:47:49.558Z", 
+            "text": "Who do the soundtracks for /DRIVE videos??? They're awesome!!!\ufeff", 
+            "author": "MikeVonDoom"
+        }, 
+        {
+            "date": "2014-10-30T06:34:46.720Z", 
+            "text": "finally got a reply from someone with some inteligent input on a matter i \ncommented on , how refreshing,thank  you martin espinoza, but i do think \nthat there is a way to get the rotary valve set up to wear properly , where \nthere is a will there is a way\ufeff", 
+            "author": "karl knudson"
+        }, 
+        {
+            "date": "2014-10-17T06:00:46.578Z", 
+            "text": "Wow. \ufeff", 
+            "author": "1HeavyHitr"
+        }, 
+        {
+            "date": "2014-10-16T17:09:50.611Z", 
+            "text": "amazing. so open to share his inventions and developments\ufeff", 
+            "author": "trebombs4life"
+        }, 
+        {
+            "date": "2014-10-06T05:23:23.346Z", 
+            "text": "I have to say, at first i was like \"you invented a very complex way of \nrunning an engine while as you say yourself a broomstick can do the job\", \nand then i realized how stupid i was when he described the applications... \nThe music is fitting really. This is fucking fantastic. 1 million people \njust witnessed the future of internal combustion engines !\ufeff", 
+            "author": "Adrien Peri\u00e9"
+        }, 
+        {
+            "date": "2014-10-05T13:43:35.822Z", 
+            "text": "Fantastic.    \ufeff", 
+            "author": "TheOuroboros666"
+        }, 
+        {
+            "date": "2014-09-29T22:57:06.335Z", 
+            "text": "Out of all the automotive engineers Mr. Koenigsegg has my upmost respect. \nMr. Pagani is extremely detailed at his craft but does not create his own \nengines. Koenigsegg creates essentially everything that makes up their \ncars. Amazing. \ufeff", 
+            "author": "Jas Sandhar"
+        }, 
+        {
+            "date": "2014-09-28T13:38:15.799Z", 
+            "text": "Para los que les gusta la m\u00e9c\u00e1nica.\nKoenigsegg est\u00e1 desarrollando el sistema de v\u00e1lvulas del futuro. Funciona \ncon actuadores hidr\u00e1ulicos, sin \u00e1rbol de levas ni resortes. Promete 15% \nmenos consumo de combustible, 50% m\u00e1s potencia, y 50% menos emisiones a la \natm\u00f3sfera.\ufeff", 
+            "author": "Dario A. Rodriguez T."
+        }, 
+        {
+            "date": "2014-09-25T14:58:04.119Z", 
+            "text": "This man has just saved the engine maker`s, a fortune in manufacturing of \nthe internal combustion engine parts. Which will make it easer to make \ncars, vehicles, that will be priced even better ! cheaper  WAW.\ufeff", 
+            "author": "Barrie Wright"
+        }, 
+        {
+            "date": "2014-09-17T12:56:37.364Z", 
+            "text": "how many cars have these guys actually sold?\ufeff", 
+            "author": "Tom Johnson"
+        }, 
+        {
+            "date": "2014-09-16T23:34:03.034Z", 
+            "text": " #FreeValve  I'm just now seeing this, i would love to retrofit my TL with \na better engine and keep the body, not faster just better in efficancy \ufeff", 
+            "author": "Headley Duncan (hgd718)"
+        }, 
+        {
+            "date": "2014-09-16T23:35:23.569Z", 
+            "text": "Excellent! :D", 
+            "author": "Gayle Shumard"
+        }, 
+        {
+            "date": "2014-09-12T23:21:03.232Z", 
+            "text": "Lol u can fool these guys that are mostly not engineers but mate ... U and \nI and ppl before us by 60 years know that these solenoid actuated valves \nwon't last .. Racing engines running this tech require change out after 2 \nraces... and I'm sure that a small Mom and pop org won't trump university \nresearch and big auto group rnd centres in material sciences\ufeff", 
+            "author": "Mark M"
+        }, 
+        {
+            "date": "2014-09-09T15:40:59.699Z", 
+            "text": "We are living in the best times to witness the evolution of the automobile \nwith camless engines laser ignition direct injection oil made from natural \ngas and alternative fuels coming closed and closer to being in production \nit's just beautiful.\ufeff", 
+            "author": "Chi-71"
+        }, 
+        {
+            "date": "2014-09-03T11:26:41.770Z", 
+            "text": "My word. That Free Valve analogy gave me goosebumps... What I would give to \nwork for this man!\ufeff", 
+            "author": "Amish Patel"
+        }, 
+        {
+            "date": "2015-04-13T10:45:35.000Z", 
+            "text": "UBS predict the EV and hybrids will outsell conventional cars. The future \nfor the IC engine is in range extender use. This camless idea is best \napplied to range extender use to make the piston engine smoother, smaller \nand lighter. But if the Wankel adopts a range extender role with laser \nignition and direct fuel injection I see the Wankel engine as taking a \nlarge part of this large market sector because of its small size, \nsmoothness and lightness. The Wankel is highly efficient when running at a \nconstant speed at its \"sweet spot\".\nhttp://www.theguardian.com/environment/2014/aug/27/ubs-investors-renewables-revolution\n\ufeff", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-08-29T11:46:24.000Z", 
+            "text": "I am sure they are getting research grants from the European Commission and \nprobably the Swedish government as well. A pity we never heard the SAAB \nrun. I think it will make a racket as the valves close quickly\ufeff", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-08-27T06:17:09.564Z", 
+            "text": "Hopefully now SAAB is on the rocks (again!) a deal will Koenigsegg AB will \nbe back on the table. If you were gonna trust one guy to build and design a \nnew car that will not only be efficient but reliable and desirable too, it \nChristian von Koenigsegg.\ufeff", 
+            "author": "Kochegarova"
+        }, 
+        {
+            "date": "2014-11-14T09:32:29.057Z", 
+            "text": "There is nothing \"interesting\" in piston engines. They are hopelessly \ninefficient.", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-11-14T00:02:22.281Z", 
+            "text": "+John Burns\nActually saab was the first company to use turbos in production cars.\nAlso, saab had their new and *very* interesting new model nearly ready for \nproduction as they went bankrupt. It is unlikely that GM will give out the \nlicenses for that, they even prefered to let it all go bust then to have \nthe company been taken over properly by Spyker (as in, not just the factory \nand workers, but including all the designs)", 
+            "author": "Ellert van Koperen"
+        }, 
+        {
+            "date": "2014-08-28T08:25:43.000Z", 
+            "text": "It has to be a car that sells. To sell the ideal car that is eco and \nefficient will need some serious R&D money. Does SAAB have that money? If \nit did would it spend on new technology?  SAAB went in for 4 cylinder \nturbos because it never had the money to make a new range of 6 cylinder \nengines - but turbos were existing and proven technology. Slapping a turbo \non an existing engine did it. Maybe removal of the camshaft and its chain \non an existing engine range, which not difficult to do using their existing \nblock, will spur them on. Hopefully. Do expect to see this camless \ntechnology soon as makers like a good couple of years trial, with \nadjustments along the way, on a number of cars before saying \"yes\". Then \nthe production lines have to be geared up for it. It all takes time.  And \nif a new management system has to be programmed to eliminate the \ntransmission then even more time in trials, etc.", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-08-26T22:15:58.234Z", 
+            "text": "thats incredibly exciting\ufeff", 
+            "author": "Jan \u0160inkovec"
+        }, 
+        {
+            "date": "2014-08-26T10:13:16.582Z", 
+            "text": "What is the status of this? I have neither read or seen any progress. Is a \nmajor engine maker involved?\ufeff", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-08-29T11:45:13.000Z", 
+            "text": "Using an engine management system to time the valves the transmission can \nbe eliminated. The Scuderi engine in the USA is more complex, having a \ncamshaft and two compressor cylinders, and can also use the engine as an \nair pump. However the Koenigsegg approach, by eliminating a camshaft, which \ntakes power from the crank to turn and lubricate it, and reducing the size \nand weight of the engine by 25-30%, and acting as an air pump, would be \nsuperior to the Scuderi engine.\n\nDownsized it can be used as a range extender in an electric hybrid. Using \nlaser ignition & direct injection (The two go together) and eliminating the \ncamshaft a highly efficient engine (to current piston engines) can be \nproduced with fewer weighty cylinders as well - a heavy flywheel can be \neliminated when only turning a generator.  An efficient  2 cylinder range \nextender engine is possible - smaller in size and weight to stow out of the \nway in a car, and returning excellent fuel efficiency.\ufeff", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-08-25T10:27:56.974Z", 
+            "text": "@Vladimir Avril\nThis will hurt many American luddites.\ufeff", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-08-24T22:29:42.158Z", 
+            "text": "amazing\ufeff", 
+            "author": "Sdryden555"
+        }, 
+        {
+            "date": "2015-04-13T10:47:04.000Z", 
+            "text": "OK take this further. Koenigsegg states that the SAAB engine can be a \nabout three quarters of the size and weight and that fuel efficiency, \ntorque and power will increase by 30%. Great. If it is reliable then go \nwith it. Then he says that the engine can be also used as an air pump \nreclaiming kinetic braking energy - great go for it. More gain there.\n\nOr use a supercapacitor to store electrical kinetic energy rather than air. \nWhy? Because further gains can be made by taking ancillaries away from the \ncrank which consume HP and making them all electric. \n\nHaving a variable speed electric water pump improves fuel consumption and \nwill run at full flow even at idle to cool the engine if needed.  Also an \nelectric clutch on the alternator, which disengages when accelerating \nwhen using fuel - It engages only when braking or slowing down or when the \nbattery is too low.\nAir conditioning can be the absorption system that operates on only heat. \nOr again have an electric clutch on it only cutting in when braking or \ndecelerating - great in city driving.\n\nEven a variable speed electric oil pump, which varies the pressure to what \nthe engine needs when running. A mechanical oil pump takes a lot of HP from \nthe crank and most of this is to just get oil onto the camshaft. The \nelectric pump can pre-charge the oil galleries before the engine turns to \nstartup, ensuring oil is at the bearings and no dry running. Having no \ncamshaft means an electric oil pump is feasible.\n\nIt is possible to reduce fuel consumption by 50% if all is done right like \nabove.  But Koenigsegg are tying to get only one aspect accepted first. I \nwish them the best of luck.\ufeff", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-08-23T09:28:02.831Z", 
+            "text": "Thats a great invention and the possibilities that it opens up are great \nalso.\ufeff", 
+            "author": "Mick Wolf"
+        }, 
+        {
+            "date": "2014-08-12T00:46:12.118Z", 
+            "text": "Should you have to change a free valve actuator, how would you do so \nwithout the valve dropping into the cylinder? Is there a special tool or is \nremoval of the cylinder head necessary?\ufeff", 
+            "author": "Chase Prollock"
+        }, 
+        {
+            "date": "2014-08-08T20:05:19.393Z", 
+            "text": "and what the hell is the orchestra doing in the garage?\ufeff", 
+            "author": "viasevenvai"
+        }, 
+        {
+            "date": "2014-08-08T20:04:56.414Z", 
+            "text": "One of the huge parts of being an engineer is having a restraint of a \nbudget.  Koenigsegg doesn't limit themselves on price, therefore I believe \nthe engineering part is less.  Give everyone else an unlimited budget and \nsee what happens.\ufeff", 
+            "author": "viasevenvai"
+        }, 
+        {
+            "date": "2014-08-07T07:58:08.000Z", 
+            "text": "It's interesting that the oscillation of the piston action is close to a \nsquare \"wave\" but not a true square. That phenomenon of mechanical \nbreakdown trying to realize a 'math-true' square shows up in manufacturing \neverywhere and of particular interest to me in audio speakers.\n\nOnly 1 speaker in the world can generate a square without blowing the \nmagnet spider to smithereens, and that speaker design is, like 40 years and \nonly showed up in 1 small-distribution speaker made by some European \ncompany. I don't even think the manufacturer realized their product could \ndo it.\n\nThe reason I'm remembering that and commenting is that Bose, who of course \ndo well-selling stuff with audio speakers, also experiment with \nmagneto-hydraulics in cars. They have a salable magneto-hydraulic \nsuspension system on offer for carmakers now, and I heard they were \nexperimenting with magnets, to do exactly what Mr. Koenigsegg's company is \ndoing with air, oil, and these little actuators, which is to totally \nreplace car camshafts with another, more efficient, highly adjustable, \nmechanical system.\n\nI wonder if that is still a project and, if so, how far Bose has come...\ufeff", 
+            "author": "Paul Walnuts"
+        }, 
+        {
+            "date": "2014-08-04T16:59:53.202Z", 
+            "text": "Truth is once we find an efficient battery storage device, the internal \ncombustion engine will fall off the face of the planet.\ufeff", 
+            "author": "Atanas Tripzter"
+        }, 
+        {
+            "date": "2015-01-08T05:29:32.007Z", 
+            "text": "Perhaps, but this a supercar maker - it's not meant to be sensible, it's \nmeant to be aggressive.", 
+            "author": "anarchisttomato"
+        }, 
+        {
+            "date": "2014-11-09T16:16:17.810Z", 
+            "text": "That's the problem, all you need to do is give it a quick zap of very high \nvoltage and it's charged. It charges almost right away. They still haven't \nfigured out a viable way to keep zaping the capacitors as the car drives \ndown the road. Graphene capacitors weigh almost nothing as well. You could \nshave off all the battery weight in tesla model s, that's over 1000lbs \nwhich is substantial. ", 
+            "author": "William Stewart"
+        }, 
+        {
+            "date": "2014-11-09T15:41:08.459Z", 
+            "text": "+William Stewart How do they charge?", 
+            "author": "Timothy Thomas"
+        }, 
+        {
+            "date": "2014-11-09T07:46:08.603Z", 
+            "text": "+ThyBiding It's here already, graphene super capacitors are already \ndeveloped. It's finding a way to charge them as you drive that is the \nchallenge. Batteries are old school, out dated even. Graphene capacitors \nwill replace them in the automotive world.", 
+            "author": "William Stewart"
+        }, 
+        {
+            "date": "2014-10-30T16:04:38.884Z", 
+            "text": "Technology is there to leap what we already have. The politics behind \nkeeping the status quo is another matter.", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-10-30T15:18:13.197Z", 
+            "text": "Oh ok I get what the two of you are saying, but by the time this tech is \nbrought down to the level of the consumer don't you think that engines will \nhave become far more energy efficient? I mean this video alone shows us \nwhat is possible. I agree that there will come a time where engines as they \nstand today in cars will become obsolete but that doesn't sound very \nrealistic with cost and mass production of these concepts. ", 
+            "author": "Timothy Thomas"
+        }, 
+        {
+            "date": "2014-10-30T10:02:54.837Z", 
+            "text": "Micro turbines are in trucks and buses right now. They are the size of a \nvery large can of beans and turn a generator at very high speed, like \n300,00 rpm. The waste heat can turn a small free-wheel piston (electric \ncoils in the piston) Stirling engine/generator to provide electricity for \nvehicle ancillary duties - electric a/c, heating, power steering, etc. The \nStirling may also have its own burner to operate from the fuel tank when \nthe vehicle is stopped and the turbine is off.", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-10-30T04:46:19.459Z", 
+            "text": "+Timothy Thomas Jet engines come in many sizes.  Don't jump to \nconclusions.  Because of the way they work they make the most powerful and \nefficient engines if you can find a way to harness the heat.  When you use \nthe heat to heat water and spin a generator it you have an extremely \nefficient turbine generator.  Take a look at the Walmart Turbine Truck.", 
+            "author": "Atanas Tripzter"
+        }, 
+        {
+            "date": "2014-10-30T03:23:44.099Z", 
+            "text": "+Atanas Tripzter What? Jet engine? How does that even make sense? Where did \nyou get that from?", 
+            "author": "Timothy Thomas"
+        }, 
+        {
+            "date": "2014-10-29T21:46:41.088Z", 
+            "text": "+Timothy Thomas Odds are if manufacturers go with a generator type for cars \nthey will be using a jet engine of some sort.", 
+            "author": "Atanas Tripzter"
+        }, 
+        {
+            "date": "2014-10-29T19:25:43.624Z", 
+            "text": "Not really. Engines will most likely act as an alternator, charging the \nbatteries of the car, maybe adding to the power of the car as a hybrid, \nacting as a back up etc.Taking on a smaller and smaller road as time goes \non internal combustion engines will probably be around for another 40-50 \nyears.", 
+            "author": "Timothy Thomas"
+        }, 
+        {
+            "date": "2014-10-14T16:24:08.825Z", 
+            "text": "Big Oil Money will keep internal combustion engines around as long as \npossible. Without the Automotive industries Oil companies will fail. ", 
+            "author": "Danial Stinnett"
+        }, 
+        {
+            "date": "2014-09-05T16:22:12.917Z", 
+            "text": "Batteries have progressed amazingly in 20 years. Far greater than in the \nprevious 130 years. Wankel engines as range extenders, supercapacitors and \nbattery advances will change cars very soon. In 10 years most cars will be \nEVs with a range extender option. UBS predict batteries will drop in price \nby 50% by 2020", 
+            "author": "John Burns"
+        }, 
+        {
+            "date": "2014-09-05T15:55:48.016Z", 
+            "text": "Probably true, but finding an efficient storage device is still quite a \nways away.", 
+            "author": "ThyBiding"
+        }, 
+        {
+            "date": "2014-07-30T12:54:29.965Z", 
+            "text": "What is the intro tune/song?\ufeff", 
+            "author": "Ben Ryder"
+        }, 
+        {
+            "date": "2014-07-29T08:35:30.978Z", 
+            "text": "what song did they play in the intro\ufeff", 
+            "author": "Psalm Co"
+        }, 
+        {
+            "date": "2014-07-24T21:06:05.054Z", 
+            "text": "as an electronics engineer and an automotive enthusiast, this video \ninspired me. well done koenigsegg \ufeff", 
+            "author": "Manu Vyas"
+        }, 
+        {
+            "date": "2014-07-24T20:43:07.946Z", 
+            "text": "Definitely going to be a game changer when it catches on in the coming \nyears. Way I see it, until electric car batteries become way more efficient \nthan they are now or some unforseen technology is invented, this will \nprobably do away with the camshaft. Well not completely, since there will \nalways be those that love the older tech.\ufeff", 
+            "author": "Brian Sampson"
+        }, 
+        {
+            "date": "2014-07-18T08:17:46.887Z", 
+            "text": "The compressed air storage idea is currently being developed by Peugeot as \nan \"air hybrid\" system, is it not?\ufeff", 
+            "author": "Ben Rollings"
+        }, 
+        {
+            "date": "2014-07-15T09:40:45.636Z", 
+            "text": "infact i'd like to see koenigsegg create a branch for more \"regular\" cars,  \nthey could engineer excellent cars.\ufeff", 
+            "author": "deigima"
+        }, 
+        {
+            "date": "2015-03-18T04:49:34.074Z", 
+            "text": "Think if koenigsegg made a car to compete with the bmw 5 series", 
+            "author": "deigima"
+        }, 
+        {
+            "date": "2015-03-13T01:58:00.960Z", 
+            "text": "+Marco de la Pe\u00f1a Because koenniggsegs are like unicorne, very rare, very \nepic, perfect and unique", 
+            "author": "Marco de la Pe\u00f1a"
+        }, 
+        {
+            "date": "2015-03-13T01:57:30.304Z", 
+            "text": "That would end with Koennigsegg epicness", 
+            "author": "Marco de la Pe\u00f1a"
+        }, 
+        {
+            "date": "2014-12-19T15:33:35.225Z", 
+            "text": "There not a massive company meaning they arent prepared for full on \nmanufcaturing there company is small and most parts are hand made going \ndown that road is a whole nother ball game if it does happen though it \nlikely to be under a new company kind of like viper ", 
+            "author": "Charlie uaintgetnolastname"
+        }, 
+        {
+            "date": "2014-12-14T05:30:32.055Z", 
+            "text": "Lets think more along the lines of a competitor to bmw 5 series and similar \nexecutive vehicles", 
+            "author": "deigima"
+        }, 
+        {
+            "date": "2014-12-06T03:24:59.289Z", 
+            "text": "+nick sinclair\nThat wouldnt exactly be a regular car though would it.\n\nBesides, they dont have the ability to mass produce anything. They work out \nof an old storage garage and make maybe 10 cars a year.", 
+            "author": "nallen100"
+        }, 
+        {
+            "date": "2014-12-06T00:54:09.539Z", 
+            "text": "+nallen100 $20k is like crap for a normal car..... I'm pretty sure deigima \nis talking more around the 100-200 thousand dollar range.", 
+            "author": "nick sinclair"
+        }, 
+        {
+            "date": "2014-11-26T04:12:36.307Z", 
+            "text": "yea fuck yea i agree with \"regular\" cars part", 
+            "author": "Turbo Grafx"
+        }, 
+        {
+            "date": "2014-10-26T10:05:52.249Z", 
+            "text": "+TheLasagneLP or premierministeregg since that's also german", 
+            "author": "TheLasagneLP"
+        }, 
+        {
+            "date": "2014-10-26T10:04:31.141Z", 
+            "text": "they can call it primeministeregg", 
+            "author": "TheLasagneLP"
+        }, 
+        {
+            "date": "2014-10-17T09:04:41.000Z", 
+            "text": "More like a saloon to compete with bmw/mercedes\nSet up a sub branch that utilities their research for something closer to \nmass production", 
+            "author": "deigima"
+        }, 
+        {
+            "date": "2014-09-30T00:40:41.369Z", 
+            "text": "They would just in fact be over engineered and far too expensive for a a \ndaily driver. No way do i see the producing a $20k car, nor do i think they \nwould want to. As it is now, they produce 10-15 cars a year.", 
+            "author": "nallen100"
+        }, 
+        {
+            "date": "2014-07-15T09:39:03.174Z", 
+            "text": "that test saab would likely fetch a good sum if they decide to sell it, \nmakes me consider these systems being converted onto existing engines as a \nperformance upgrade. sure would beat VVL/VVT fanboys up a good one\ufeff", 
+            "author": "deigima"
+        }, 
+        {
+            "date": "2014-07-11T22:55:15.784Z", 
+            "text": "why are they going on like they're innovators when F1 has doing it for \nyears \ufeff", 
+            "author": "Blehtubezz Aus"
+        }, 
+        {
+            "date": "2014-07-09T21:54:32.507Z", 
+            "text": "This is Fucking cool!\ufeff", 
+            "author": "Jerimy McCray"
+        }, 
+        {
+            "date": "2014-07-06T18:06:04.431Z", 
+            "text": "Top notch masterminds, this is really groundbreaking technology! Makes me \nreally proud being swedish myself.\ufeff", 
+            "author": "Jonka Olofsson"
+        }, 
+        {
+            "date": "2014-07-01T18:10:26.377Z", 
+            "text": "Sexiest automotive technology I've seen in ... I can't even think of \nanything sexier.  Wow.  I hope these Cargine guys become bazillionaires.\ufeff", 
+            "author": "FullThrottleLegal"
+        }, 
+        {
+            "date": "2014-06-30T22:47:50.478Z", 
+            "text": "what this man is doing, is not simply fast cars, he\u00b4s making the world a \nbetter place.\ufeff", 
+            "author": "johannes fossi"
+        }, 
+        {
+            "date": "2014-06-28T21:10:44.140Z", 
+            "text": "this is brilliant...\ufeff", 
+            "author": "ienjoied"
+        }, 
+        {
+            "date": "2014-06-27T19:29:37.681Z", 
+            "text": "This is what sets Koenigsegg apart from every single other manufacture. \nThey don't talk, they DO, and are not afraid to show it. It's amazing. And \npeople are comparing him to Hennessey. Not in the same league, not in the \nsame game.\nOne can't have anything but the utmost respect for this man and his brand.\ufeff", 
+            "author": "ABOlsen69666"
+        }, 
+        {
+            "date": "2014-11-20T13:29:13.295Z", 
+            "text": "+ABOlsen69666 I don't think that the Veneno or LaF set themselves apart to \nbe honest. I was referring originally to the current range of Ferrari and \nLamborghini, which are in a different league compared to the superior range \nof Koenigseggs. Veneno is just a tuned Aventador (absolutely nothing wrong \nwith that!) and the LaFerrari is a 458/Enzo with a an electric motor. \nHowever the LaF does have KERS as its merit, which is cool. Only 3 Veneno \nwere made so that hardly counts as a \"series\". I just find the innovations \nthat Koenigsegg have done/been part of are more substantial than what other \nhave been up to. The Triplex suspension, 3G telemetry, Flexfuel system, \nfree valve technology. The thinking that goes into making a car go and stop \nfrom 281mph has to be innovative.", 
+            "author": "Timo E"
+        }, 
+        {
+            "date": "2014-11-19T23:44:23.525Z", 
+            "text": "+LJRossPhoto I know it's not proper form to answer a question with a \nquestion. But seen as you did not ask me, and in this case it would \nactually be very informative to know in which way, you think the Veneno and \nthe LaF sets themselves apart compared to Koenigsegg, when it comes to new \ntechnology? And just to get it out of the way, the hybrid technology \nimplemented by Ferrari is not new, and it was a choice from Koenigsegg not \nto go that route, not a could-not. And just to make it clear, this is not \nabout hating on the LaF, I'm very impressed with it and like it. I just \ndon't understand why you are saying what you are.", 
+            "author": "ABOlsen69666"
+        }, 
+        {
+            "date": "2014-11-19T23:34:34.541Z", 
+            "text": "+Timo E Really? The LaFerrari and Veneno aren't in the same league anymore?", 
+            "author": "LJRossPhoto"
+        }, 
+        {
+            "date": "2014-11-19T23:09:36.343Z", 
+            "text": "+LJRossPhoto Ferrari and Lambo are not in that league anymore. Neither is \nindependent and neither has done any major innovations to the basic \nfoundations of their cars. A Koenigsegg will have twice the power of most \nFerraris and Lambos with similar fuel consumption and better performance.", 
+            "author": "Timo E"
+        }, 
+        {
+            "date": "2014-11-12T20:50:10.777Z", 
+            "text": "+tonatiuh toledo Yes but I go for originality. If Hennessy made the car out \nof his own ideas and design then yes I would be all over that car. But he \ndidn't, and the One:1 is now faster!", 
+            "author": "Mike Bender"
+        }, 
+        {
+            "date": "2014-11-12T00:32:47.628Z", 
+            "text": "Yes you do have a point not in the same league, but I dont think you cant \ndismiss what hennessy has created either. He used the lotus platform to \nsave money which is understandable.", 
+            "author": "tonatiuh toledo"
+        }, 
+        {
+            "date": "2014-11-09T16:13:34.752Z", 
+            "text": "GM has already built a 4cyl model though, they have a 2.0 camless engine \nbeing tested in a Malibu body right now. It runs like a diesel when hot too \nand only needs spark plugs for the startup. ", 
+            "author": "William Stewart"
+        }, 
+        {
+            "date": "2014-11-09T14:22:21.148Z", 
+            "text": "+William Stewart So, you think Koenigsegg has been working on this for \nless? First off, let's see who implement it first. Secondly. If you want to \ntalk about who was first, Fiat and Scuderia Ferrari has them both beat. \nIt's been used ig F1 for many years.", 
+            "author": "ABOlsen69666"
+        }, 
+        {
+            "date": "2014-11-09T08:14:22.478Z", 
+            "text": "+MIke Mancino Exactly", 
+            "author": "William Stewart"
+        }, 
+        {
+            "date": "2014-11-09T08:11:48.000Z", 
+            "text": "+William Stewart\npretty much there arent much secrets out that about making a engine. and if \nits posted on youtube, you better believe its been thought of for many \nyears before this. ", 
+            "author": "MIke Mancino"
+        }, 
+        {
+            "date": "2014-11-09T07:47:55.627Z", 
+            "text": "GM has been developing a camless 4cyl and 8cyl for 6 years now, not really \nthat innovative. Not taking anything away from koni as I think it's an \namazing company and owned by a top shelf guy, I'm just saying this \nparticular instance isn't anything special.", 
+            "author": "William Stewart"
+        }, 
+        {
+            "date": "2014-10-26T10:02:07.256Z", 
+            "text": "especially since this dude knows everything that's going on his cars. from \nthe valves to the paintwork. i get the feeling if you put him in some \ndeserted place in the forest, he'd drive out of it in a supercar out of \nwood :D", 
+            "author": "TheLasagneLP"
+        }, 
+        {
+            "date": "2014-09-15T17:15:48.536Z", 
+            "text": "+MIke Mancino\nI agree completely! Hennessy is not in the same class as Koenisegg...", 
+            "author": "Mike Bender"
+        }, 
+        {
+            "date": "2014-09-15T06:16:10.697Z", 
+            "text": "Hennessy is a tuner, they dont really make anything. Even the GT is made \nfrom a GM engine, and a lotus body. Keonisegg creates cars from the ground \nup. even john hennessy knows this. He knows his place in the automotive \nworld", 
+            "author": "MIke Mancino"
+        }, 
+        {
+            "date": "2014-09-12T05:23:35.363Z", 
+            "text": "Koenegsegg, Pagani, McLaren, Ferrari, and Lamborghini are all in the same \nleague. They all make wicked hypercars.", 
+            "author": "LJRossPhoto"
+        }, 
+        {
+            "date": "2014-07-29T08:35:12.470Z", 
+            "text": "awesomeness its my favorite car brand", 
+            "author": "Psalm Co"
+        }, 
+        {
+            "date": "2014-07-27T05:29:49.216Z", 
+            "text": "The only car company that could compete with koenigsegg would have to be \nMclaren! Imo both companies believe that perfection isn't enough, and they \nkeep trying harder and harder every day!", 
+            "author": "SAGE GOD MADARA"
+        }, 
+        {
+            "date": "2014-07-06T18:07:37.454Z", 
+            "text": "Well spoken!", 
+            "author": "Jonka Olofsson"
+        }, 
+        {
+            "date": "2014-06-26T02:17:20.997Z", 
+            "text": "kudos for Koenigsegg\ufeff", 
+            "author": "Luis Zarate"
+        }, 
+        {
+            "date": "2014-06-22T11:07:53.153Z", 
+            "text": "wow really cool\ufeff", 
+            "author": "islamm salamaa"
+        }, 
+        {
+            "date": "2014-06-21T00:59:44.435Z", 
+            "text": "Hard enough to understand him without the newage goofy soundtrack playing.  \nCan you post a version about engine technology and a separate version of \nyour slowdance disco newage crap?\ufeff", 
+            "author": "94z07"
+        }, 
+        {
+            "date": "2014-06-19T15:31:36.000Z", 
+            "text": "to me this seems doable- it's a lot like sequential fuel injection. a \ncentral pump sends compressed fluid to individually actuated pintle valves \nthat allow the fluid to pass, and the whole process is controlled to the \nmillisecond by the ecu. common rail diesel injection is upwards of \n40,000psi. i imagine this system would require a lot less.\ufeff", 
+            "author": "balconio1172"
+        }, 
+        {
+            "date": "2014-06-18T01:27:06.266Z", 
+            "text": "Very impressive\ufeff", 
+            "author": "RidingOff"
+        }, 
+        {
+            "date": "2014-06-17T12:46:35.981Z", 
+            "text": "This is awesome!  Cars are becoming a Control Engineers dream.\ufeff", 
+            "author": "controlsdude"
+        }, 
+        {
+            "date": "2014-06-17T00:34:34.918Z", 
+            "text": "The reason it needs high air pressure and oil cooling is to accommodate the \ncondition of the exhaust valve. It is possible to make a very small \nelectromagnetic driven system for the intake valve only. So an uniflow 2 \nstroke can use those much cheaper valves and in the process eliminating the \ncarburetor.  \ufeff", 
+            "author": "Aviator168"
+        }, 
+        {
+            "date": "2014-06-16T23:58:27.786Z", 
+            "text": "What is the air pressure driving the actuator? \ufeff", 
+            "author": "Aviator168"
+        }, 
+        {
+            "date": "2014-06-12T13:53:21.003Z", 
+            "text": "Nice\ufeff", 
+            "author": "Davy Laronne (UnixBoy)"
+        }, 
+        {
+            "date": "2014-06-10T14:00:57.562Z", 
+            "text": "why is it ceo of cargine not car engine\ufeff", 
+            "author": "Redline Gaming"
+        }, 
+        {
+            "date": "2014-06-09T23:07:59.000Z", 
+            "text": "He is an inventor, his car company is a byproduct of is genius ideas(no I'm \nnot sarcastic). Screw Ferrari, Lamborghini, Pagani, Porsche, this takes the \ncake for the most amazing and most technologically advanced car in the \nworld(yes I said the world).\ufeff", 
+            "author": "John T"
+        }, 
+        {
+            "date": "2014-06-06T18:54:38.205Z", 
+            "text": "Yunno, I never liked supercars but koenigsegg is an exception. However, \nmitsubishi evo 8 fqm340 always comes first!\ufeff", 
+            "author": "Luke Kindred"
+        }, 
+        {
+            "date": "2014-06-02T16:08:55.499Z", 
+            "text": "Is that a Vermont plate at 0:35?\ufeff", 
+            "author": "Genki Dama"
+        }, 
+        {
+            "date": "2014-05-31T18:29:17.794Z", 
+            "text": " #Drive   #koenigsegg   #Combustion   #future  \ufeff", 
+            "author": "Pritash Chaudry"
+        }
+    ]
+}

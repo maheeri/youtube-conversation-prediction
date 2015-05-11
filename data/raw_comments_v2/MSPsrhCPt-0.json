@@ -1,0 +1,818 @@
+{
+    "publish_date": "2009-02-05T23:33:30.000Z", 
+    "video_length": "PT3M13S", 
+    "captions": [
+        {
+            "text": "New York Tracon: &quot;Cactus 1549, turn left heading\n2-7-0.&quot;", 
+            "dur": "2.3", 
+            "start": "0.55"
+        }, 
+        {
+            "text": "Flight 1549: &quot;Ah, this, uh, Cactus 1539. Hit\nbirds, we lost thrust in both engines. We&#39;re", 
+            "dur": "5.579", 
+            "start": "2.85"
+        }, 
+        {
+            "text": "turning back towards LaGuardia.&quot;", 
+            "dur": "1.031", 
+            "start": "8.429"
+        }, 
+        {
+            "text": "New York Tracon: &quot;OK, yeah, you need to return\nto Laguardia. Turn left heading of uh, 2-2-0.&quot;", 
+            "dur": "4.5", 
+            "start": "9.46"
+        }, 
+        {
+            "text": "Flight 1549: &quot;2-2-0.&quot;", 
+            "dur": "0.74", 
+            "start": "13.96"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Tower, stop your departures.\nWe got an emergency returning.&quot;", 
+            "dur": "4.789", 
+            "start": "14.7"
+        }, 
+        {
+            "text": "New York&#39;s LaGuardia airport: &quot;Who is it?&quot;", 
+            "dur": "0.981", 
+            "start": "19.489"
+        }, 
+        {
+            "text": "New York Tracon: &quot;It&#39;s 1529, he ah, bird strike.\nHe lost all engines. He lost the thrust in", 
+            "dur": "4.799", 
+            "start": "20.47"
+        }, 
+        {
+            "text": "the engines. He is returning\nimmediately.&quot;", 
+            "dur": "1.371", 
+            "start": "25.269"
+        }, 
+        {
+            "text": "LaGuardia: &quot;Cactus 1529, which engine?&quot;", 
+            "dur": "2.49", 
+            "start": "26.64"
+        }, 
+        {
+            "text": "New York Tracon: &quot;He lost thrust in both engines,\nhe said.&quot;", 
+            "dur": "1.969", 
+            "start": "29.13"
+        }, 
+        {
+            "text": "LaGuardia: &quot;Got it.&quot;", 
+            "dur": "1.121", 
+            "start": "31.099"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Cactus 1529, if we can get\nit to you, do you want to try to land runway", 
+            "dur": "5.499", 
+            "start": "32.22"
+        }, 
+        {
+            "text": "1-3?&quot;", 
+            "dur": "0.25", 
+            "start": "37.719"
+        }, 
+        {
+            "text": "Flight 1549: &quot;We&#39;re unable. We may end up\nin the Hudson.&quot;", 
+            "dur": "4.71", 
+            "start": "37.91"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Jet Link 2760, turn left\n0-7-0.&quot;", 
+            "dur": "4.969", 
+            "start": "42.62"
+        }, 
+        {
+            "text": "Jet Link 2760: &quot;Left turn, 0-7-0 Jet Link\n2760.&quot;", 
+            "dur": "7", 
+            "start": "47.589"
+        }, 
+        {
+            "text": "New York Tracon: &quot;All right cactus 1549. It&#39;s\ngoing to be a left. Traffic to runway 3-1.&quot;", 
+            "dur": "6.87", 
+            "start": "55.239"
+        }, 
+        {
+            "text": "Flight 1549: &quot;Unable.&quot;", 
+            "dur": "0.961", 
+            "start": "62.109"
+        }, 
+        {
+            "text": "New York Tracon: &quot;OK, what do you need to\nland?&quot;", 
+            "dur": "2.34", 
+            "start": "63.07"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Cactus 1549, runway four\nis available if you want to make left traffic", 
+            "dur": "7", 
+            "start": "65.41"
+        }, 
+        {
+            "text": "to runway four.&quot;", 
+            "dur": "0.55", 
+            "start": "77.37"
+        }, 
+        {
+            "text": "Flight 1549: &quot;I am not sure if we can make\nany runway. Oh, what&#39;s that over to our right?", 
+            "dur": "2.97", 
+            "start": "77.92"
+        }, 
+        {
+            "text": "Anything in New Jersey, maybe Teterboro?&quot;", 
+            "dur": "1.74", 
+            "start": "80.89"
+        }, 
+        {
+            "text": "New York Tracon: &quot;OK yeah, off to your right\nis Teterboro airport.&quot;", 
+            "dur": "4.05", 
+            "start": "82.63"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Do you want to try and go\nto Teterboro?&quot;", 
+            "dur": "4.2", 
+            "start": "86.68"
+        }, 
+        {
+            "text": "Flight 1549: &quot;Yes.&quot;", 
+            "dur": "1", 
+            "start": "90.88"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Teterboro, uh, Empire actually.\nLaGuardia departure got an emergency inbound.", 
+            "dur": "5.3", 
+            "start": "91.88"
+        }, 
+        {
+            "text": "Teterboro airport: &quot;Okay, go ahead.&quot;", 
+            "dur": "0.94", 
+            "start": "97.18"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Cactus 1529, Over the George\nWashington bridge want to go to the airport", 
+            "dur": "3.37", 
+            "start": "98.12"
+        }, 
+        {
+            "text": "right now.&quot;", 
+            "dur": "0.41", 
+            "start": "101.49"
+        }, 
+        {
+            "text": "Teterboro: &quot;He wants to go to our airport\ncheck. Does he need any assistance?&quot;", 
+            "dur": "2.39", 
+            "start": "101.9"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Ah, yes, he, ah, was a bird\nstrike. Can I get him in for runway one?&quot;", 
+            "dur": "3.41", 
+            "start": "104.29"
+        }, 
+        {
+            "text": "Teterboro: &quot;Runway one, that&#39;s good.&quot;", 
+            "dur": "0.94", 
+            "start": "107.7"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Cactus 1529, turn right\n2-8-0, you can land runway one at Teterboro.&quot;", 
+            "dur": "3.69", 
+            "start": "108.64"
+        }, 
+        {
+            "text": "Flight 1549: &quot;We can&#39;t do it.&quot;", 
+            "dur": "1.55", 
+            "start": "112.33"
+        }, 
+        {
+            "text": "New York Tracon: &quot;OK, which runway would you\nlike at Teterboro?&quot;", 
+            "dur": "2.48", 
+            "start": "113.88"
+        }, 
+        {
+            "text": "Flight 1549: &quot;We&#39;re gonna be in the Hudson.&quot;", 
+            "dur": "3.14", 
+            "start": "116.36"
+        }, 
+        {
+            "text": "New York Tracon: &quot;I&#39;m sorry, say again, Cactus.&quot;", 
+            "dur": "2.75", 
+            "start": "119.5"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Jetlink, 2760, contact New\nYork. O-2-6 point 8.", 
+            "dur": "7", 
+            "start": "122.25"
+        }, 
+        {
+            "text": "Jet Link 2760: &quot;20-6-8 Jet Link 2760.&quot;", 
+            "dur": "5.71", 
+            "start": "131.22"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Cactus, ah, Cactus 1549,\nradar contact is lost. You also got Newark", 
+            "dur": "7", 
+            "start": "136.93"
+        }, 
+        {
+            "text": "airport off your two o&#39;clock and about 7\nmiles.&quot;", 
+            "dur": "1.86", 
+            "start": "144.2"
+        }, 
+        {
+            "text": "New York Tracon: Eagle flight 4718, turn left\nheading 2-1-0.", 
+            "dur": "7", 
+            "start": "146.06"
+        }, 
+        {
+            "text": "Eagle Flight 4718: &quot;2-1-0, um, 4718. I don&#39;t\nknow, I think he said he was going in the", 
+            "dur": "5.22", 
+            "start": "156.25"
+        }, 
+        {
+            "text": "Hudson.&quot;", 
+            "dur": "0.29", 
+            "start": "161.47"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Cactus 1529, uh, you still\non?&quot;", 
+            "dur": "5.02", 
+            "start": "161.76"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Cactus 1529, if you can,\nah, you got, ah, runway 2-9 available at Newark", 
+            "dur": "7", 
+            "start": "166.78"
+        }, 
+        {
+            "text": "off your two o&#39;clock and 7 miles.&quot;", 
+            "dur": "1.17", 
+            "start": "176.35"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Eagle flight 4718, climb\nand maintain one two thousand.&quot;", 
+            "dur": "3", 
+            "start": "177.52"
+        }, 
+        {
+            "text": "Eagle flight 4718 &quot;OK, 1-2 thousand and, ah,\nleaving 5 and 280 heading.&quot;", 
+            "dur": "3.25", 
+            "start": "180.52"
+        }, 
+        {
+            "text": "New York Tracon: &quot;And Eagle flight 4718, I&quot;m\nsorry, I missed that, say again.&quot;", 
+            "dur": "2.45", 
+            "start": "183.77"
+        }, 
+        {
+            "text": "Eagle Flight 4718: &quot;And uh, we&#39;re up to 12,000,\nuh, 280 on the heading.&quot;", 
+            "dur": "1.04", 
+            "start": "186.22"
+        }, 
+        {
+            "text": "New York Tracon: &quot;OK, thank you Eagle flight\n4718, Turn left. 2-2-0.&quot;", 
+            "dur": "0.25", 
+            "start": "187.26"
+        }, 
+        {
+            "text": "Eagle Flight 4718 &quot;2-2-0 4718.&quot;", 
+            "dur": "0.25", 
+            "start": "187.26"
+        }, 
+        {
+            "text": "Unknown: &quot;Was that cactus up by the Tappan\nZee?&quot;", 
+            "dur": "0.25", 
+            "start": "187.26"
+        }, 
+        {
+            "text": "New York Tracon: &quot;Uh, yeah, it was a cactus.\nHe was just north of the, ah, George Washington", 
+            "dur": "1.87", 
+            "start": "187.28"
+        }, 
+        {
+            "text": "Bridge when they had the bird strike.&quot;", 
+            "dur": "1.059", 
+            "start": "189.15"
+        }
+    ], 
+    "title": "US Airways 1549 Crash Audio Transcript [CC]", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/059_ft0", 
+        "/m/01qmg5"
+    ], 
+    "number_views": 1867445, 
+    "categories": [
+        2
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-19T18:52:33.399Z", 
+            "text": "Hint to the tower guy: when a plane is hit by birds, two engines fail and \nthe pilot tells you he can't make it, and then silence, you don't have to \ngive him further directions.\ufeff", 
+            "author": "maximumhate666"
+        }, 
+        {
+            "date": "2014-12-31T18:37:55.307Z", 
+            "text": "I get misty whenever I hear this - misty at the epic bravery and job of \neveryone involved. The ATC (who doesn't get enough credit) and everyone \nassisting was amazing, fast and epic in their handling, and of course \nCaptain Sully and his calm control over the issue. Hope one day to buy you \nguys a drink. You make me proud.\ufeff", 
+            "author": "Nick Ellis"
+        }, 
+        {
+            "date": "2014-08-31T23:00:34.878Z", 
+            "text": "The captain of this flight is an angel. Landing a blain like that on water \nis almost impossible. Respect.\ufeff", 
+            "author": "Dardania Lion"
+        }, 
+        {
+            "date": "2014-08-11T03:46:10.656Z", 
+            "text": "The Hudson was the only place they could go---trying to land at Teterboro \nwould have resulted in a CFIT.\ufeff", 
+            "author": "Adam Moreira"
+        }, 
+        {
+            "date": "2014-08-27T17:38:20.000Z", 
+            "text": "It would not have been a CFIT since the airplane was not \ncontrollable. Accidents where an aircraft is damaged and uncontrollable \n(also known as uncontrolled flight into terrain) are not considered CFIT.", 
+            "author": "serhiy"
+        }, 
+        {
+            "date": "2014-04-14T16:06:34.819Z", 
+            "text": "Every time I hear this audio I am amazed at the professionalism of both \nCapt. Sully and the controller.  Everything had to happen perfectly for \nthis to turn out the way it did and part of that perfection was the \ndecisions made by Sully in taking what was really his only option and \nexecuting flawlessly.  The only thing the flight crew forgot to do was hit \nthe \"ditch\" switch which closes off some valves and ports and prevents \nwater ingress, but considering this whole event took just around three \nminutes he didn't really have a lot of time to call for a ditching \nchecklist.\ufeff", 
+            "author": "John Buffaloe"
+        }, 
+        {
+            "date": "2014-04-01T04:20:16.130Z", 
+            "text": "Smartest pilot ever........\ufeff", 
+            "author": "Eileen LeValley"
+        }, 
+        {
+            "date": "2014-01-17T15:23:02.474Z", 
+            "text": "The calmness of everyone evolved it's amazing . I'd be like , you wanna \nland in the Hudson,,? WTF, is wrong with you!!! Take your ass to Teterboro \nAirport like I said!!!!\ufeff", 
+            "author": "CHIRAQ KINGDOM"
+        }, 
+        {
+            "date": "2014-03-11T00:34:56.082Z", 
+            "text": "\"WTF, is wrong with you!!! Take your ass to Teterboro Airport like I said\"\n\nUm. Both engines were dead. The pilot sure as Hell didn't CHOOSE to land in \nthe river, of course. Kudos to him for pulling it off safely. Not a single \nperson died. What an awesome pilot he is.", 
+            "author": "DubiousDrewski"
+        }, 
+        {
+            "date": "2013-12-08T20:44:45.501Z", 
+            "text": "Check out a good game with Hudson River mission bit.ly/1eVHuPF\ufeff", 
+            "author": "Tomasz Zablocki (FlightManiac)"
+        }, 
+        {
+            "date": "2013-11-28T16:39:17.774Z", 
+            "text": "Wow, that was amazing, you can try to land yourself, check this out \nhttps://itunes.apple.com/us/app/737-flight-simulator.-best/id740191225?ls=1&mt=8\n\ufeff", 
+            "author": "ewaperwant"
+        }, 
+        {
+            "date": "2013-11-16T23:35:48.725Z", 
+            "text": "Actually it is very hard to land on water. He did great job. There is a \ngame called \"737 Flight Simulator\" where you can try to land in real life \nscenarios like \"Smolensk\", \"Captain Wrona landing without gears\" etc.\ufeff", 
+            "author": "Justyna Zablocka (737 Flight Simulator)"
+        }, 
+        {
+            "date": "2013-09-20T09:50:16.630Z", 
+            "text": "I came here because we're studying this in our English book.", 
+            "author": "Victoria Nassar"
+        }, 
+        {
+            "date": "2013-09-04T00:24:51.423Z", 
+            "text": "yes, and they were also the first thing to touch down.", 
+            "author": "Craig Dirty .Dority"
+        }, 
+        {
+            "date": "2013-09-03T21:36:14.406Z", 
+            "text": "I guess it doesn't make as much sense to us who haven't been there as it \nmakes to you. Glad you guys came out alright. Say, did you have a lot of \ndrag due ot the giant balls of that pilot? ;)", 
+            "author": "LaggerYT"
+        }, 
+        {
+            "date": "2013-08-12T03:47:12.400Z", 
+            "text": "he sounds really calm... wow! i am impressed... i would be like, HELP HELP, \nWHAT AM I SUPPOSED TO DO!!! TOWER, TOWER! HELP HELP! heeeelp!", 
+            "author": "MrTorin"
+        }, 
+        {
+            "date": "2013-08-09T08:44:32.545Z", 
+            "text": "A hero and experience from military training too. Are all pilots trained to \nthis level? I don't think so. Military training kicks ass!", 
+            "author": "syndicateofsownd"
+        }, 
+        {
+            "date": "2013-07-19T20:59:19.320Z", 
+            "text": "Yes, Sully is creepily cool. Amazing pilot. Thanks for sharing this very \ninteresting information. Glad you made it out of there!", 
+            "author": "gammacurve"
+        }, 
+        {
+            "date": "2013-07-19T18:56:10.650Z", 
+            "text": "Very little. But I do not think it was beccause he did not want people to \nknow. I think they were just super busy. We basicaly got 3 messages \nregarding the landing and that was it. The first was to inform us we were \nturning do to a malfunction. The second message was very brief and informed \nus of what the Captain was planning and the third \"brace for impact\". What \nI noticed though was the captains voice was exactly the same as when he \ngave the temperature. Was creepy.", 
+            "author": "Craig Dirty .Dority"
+        }, 
+        {
+            "date": "2013-07-17T12:07:16.272Z", 
+            "text": "I was wondering, how much did the captain inform you of what he was doing \nor what was going on?", 
+            "author": "gammacurve"
+        }, 
+        {
+            "date": "2013-07-06T22:45:30.293Z", 
+            "text": "This is the pilot I'd like to have.", 
+            "author": "Chris Hall"
+        }, 
+        {
+            "date": "2013-05-17T14:03:53.766Z", 
+            "text": "And this pilot is the BOSS!", 
+            "author": "KimChi Bey"
+        }, 
+        {
+            "date": "2013-05-17T14:03:24.448Z", 
+            "text": "Maybe it's me but I hear conflicting flight info: 1529, 1549 and 1539. \nWTFFFFF??? Those control tower jobs are tough but THAT dude needs to be \nfired.", 
+            "author": "KimChi Bey"
+        }, 
+        {
+            "date": "2013-05-05T23:28:47.059Z", 
+            "text": "The worst thing in an emergency is to start flipping.I am a 911 dispatcher \nand I have been in law enforcement for over 10 years. Weather its someone \ncalling 911 or an officer needing backup or if I responded to the \nemergency, training kicks in, you are calm because you have to think in \norder to save lives. You have to be able to act quickly and you can't think \nor act quickly if your flipping out. After its over is when emotion can be \ndelt with.", 
+            "author": "cbabel85"
+        }, 
+        {
+            "date": "2013-04-02T22:46:11.277Z", 
+            "text": "OMG! He was so calm!", 
+            "author": "adsdasd"
+        }, 
+        {
+            "date": "2013-03-26T01:24:31.284Z", 
+            "text": "It certainly does. I'm glad you made it out okay and hope none of us have \nto go through something like that. ", 
+            "author": "normandycap07"
+        }, 
+        {
+            "date": "2013-02-23T18:35:06.445Z", 
+            "text": "For Sale: Airbus A320. Needs some fixing up, but recently washed inside & \nout. Would make an excellent jet ski conversion.", 
+            "author": "CounterCultureLives"
+        }, 
+        {
+            "date": "2013-02-19T02:34:11.801Z", 
+            "text": "How are they a joke? They did all they could. When he said he wanted to \nturn back they immediately stopped departures and cleared for him. Then \nthey got Teterboro open right way too. The problem is he did not have a lot \nof air under him to make it anywhere and there was nothing ATC could do.", 
+            "author": "mpapile"
+        }, 
+        {
+            "date": "2013-02-10T16:25:21.496Z", 
+            "text": "Well, you would think people would be panicing and screaming or crying, but \nit is not like that.Obviously everyone was scared, but it was erilly quiet.", 
+            "author": "Craig Dirty .Dority"
+        }, 
+        {
+            "date": "2013-02-10T01:23:40.346Z", 
+            "text": "yeah that makes sense...", 
+            "author": "Nam Chung"
+        }, 
+        {
+            "date": "2013-01-20T07:36:31.926Z", 
+            "text": "Imagine what was going through the mind of the ATC when he lost contact", 
+            "author": "leafsfan234"
+        }, 
+        {
+            "date": "2013-01-19T20:35:32.586Z", 
+            "text": "\"Alright, Cactus 1549, it's going to be left traffic to runway three \none...\" \"Unable.\" The goddamn coolest answer ever.", 
+            "author": "TimothySideburns"
+        }, 
+        {
+            "date": "2013-01-07T23:17:52.582Z", 
+            "text": "Sully is a legend, but the ATC here are a joke. Clumsy and inefficient.", 
+            "author": "Chris Lewis"
+        }, 
+        {
+            "date": "2012-12-13T17:55:31.293Z", 
+            "text": "he did make it :)", 
+            "author": "asdaapplejuice"
+        }, 
+        {
+            "date": "2012-12-05T02:11:05.001Z", 
+            "text": "I wish this guy could be the future pilot of all of my flights. What \nskill!!!", 
+            "author": "romanruler5"
+        }, 
+        {
+            "date": "2012-11-15T07:37:51.657Z", 
+            "text": "why did he the captain then also say 1539", 
+            "author": "stoovidular"
+        }, 
+        {
+            "date": "2012-11-10T06:45:00.024Z", 
+            "text": "Yes, indeed. It's a bad thing that he did not hear him tough ^^.", 
+            "author": "RafaelMarcF22"
+        }, 
+        {
+            "date": "2012-10-31T19:43:12.712Z", 
+            "text": "Amazing...the air traffic guy just doesn't want to hear it. Sully is \nlike...we're not going to make it....we're in the Hudson....and he's still \ngiving runway availability 7 miles away.", 
+            "author": "bottleracket"
+        }, 
+        {
+            "date": "2012-08-28T15:14:02.399Z", 
+            "text": "It was Jeff Skiles the First Officer.", 
+            "author": "nocalsteve"
+        }, 
+        {
+            "date": "2012-08-01T04:53:23.551Z", 
+            "text": "Why do the controllers keep saying 1529 if its flight 1549?", 
+            "author": "randomnonsensevideos"
+        }, 
+        {
+            "date": "2012-07-30T20:13:15.874Z", 
+            "text": "is the controller saying \"Cactus 1529\" instead of \"1549\" in the beginning? \nnot that it would matter in this situation, but just to make sure... I'm \nnot a native speaker amazing guy, this Sullenberger. he did just EVERYTHING \nright & had nerves cool as ice. in this situation panic can be deadly, but \nhe wasn't panicking but just cool. my biggest respects", 
+            "author": "Flow198812"
+        }, 
+        {
+            "date": "2012-07-17T20:45:35.076Z", 
+            "text": "Still gives me shivers every time I listen to it! Nice job all around.", 
+            "author": "Chelsea Garside"
+        }, 
+        {
+            "date": "2012-06-06T12:52:04.426Z", 
+            "text": "Hey comment critic. , try taking a flight, with you on controls one day, \nwith good working engines and see how calm you are. Loss of thrust in both \nengines and calm as can be. That is NOT easy to do. Oh and did I mention \nthe worst injury was a broken leg? Enough said. And yes I'm a pilot ( \nhelicopter)", 
+            "author": "TheClimberspecialist"
+        }, 
+        {
+            "date": "2012-06-05T17:10:45.732Z", 
+            "text": "He is not a hero he is paid to do his job and he is paid to stay calm in \nthses situations.", 
+            "author": "Commentcritic36"
+        }, 
+        {
+            "date": "2012-06-03T00:46:31.510Z", 
+            "text": "geez if i was the pilot id be screaming aaah were all gonna die ahhhhhh \nlove you mum please god let me live i promise to be good aaaahhhh were \ndoomed fuk fuk shit bollocks cry scream panic deep breaths wet and shitty \npants punch some one in face for trying to get near exit ect ect ect. i \nguess thats why id never make a pilot", 
+            "author": "doh1959"
+        }, 
+        {
+            "date": "2012-06-01T10:59:40.276Z", 
+            "text": "1:17 haha who said \"idiot both engines failed\"?", 
+            "author": "edstercw"
+        }, 
+        {
+            "date": "2012-05-09T11:11:39.633Z", 
+            "text": "they could die and they're not panicing at all thats crazy", 
+            "author": "hi9580"
+        }, 
+        {
+            "date": "2012-03-24T05:09:47.975Z", 
+            "text": "CACTUS 15\"49\" YOU STUPID ATC!!!", 
+            "author": "FSX318Heavy"
+        }, 
+        {
+            "date": "2012-03-22T03:25:17.213Z", 
+            "text": "\"We're gonna be in the Hudson\" Stone Cold You can tell the ATC at LaGuardia \nstarts sounding high-pitched when he realizes there's good chance 1549 \nisn't gonna make it to a runway and he loses radar contact. But what \nhappens at Teterboro? First, they're immediately cleared for runway 1, then \nat the end it's like runway 4-x. Is the timespan really that tight? Unless \nsomething like this happens, being a pilot must be like a walk in the park \ncompared to eing an ATC at heavily trafficed airport. ", 
+            "author": "RemoteAbductionArm"
+        }, 
+        {
+            "date": "2012-03-11T13:53:55.203Z", 
+            "text": "CC TRANSCRIBE", 
+            "author": "Finnish Patriot Gamer"
+        }, 
+        {
+            "date": "2012-02-15T10:19:21.081Z", 
+            "text": "Animal abuse!!!!", 
+            "author": "D'Ascoyne"
+        }, 
+        {
+            "date": "2012-02-05T09:02:39.180Z", 
+            "text": "@torero34 U need to account for idiots dont forget ", 
+            "author": "TheKrazySystem"
+        }, 
+        {
+            "date": "2012-01-31T15:19:23.972Z", 
+            "text": "", 
+            "author": "Eduards Ja\u0161s"
+        }, 
+        {
+            "date": "2012-01-08T22:19:11.183Z", 
+            "text": "Wouldn't make for a good movie... lacks panic", 
+            "author": "tobyuuuuu"
+        }, 
+        {
+            "date": "2012-01-04T03:18:48.428Z", 
+            "text": "i'll be the plane in the river .....any questions ???", 
+            "author": "piglett2195"
+        }, 
+        {
+            "date": "2011-11-15T02:38:45.770Z", 
+            "text": "@grisznik They're just mixing up the numbers by accident. It doesn't really \nmatter at that point. They all knew who they were talking to.", 
+            "author": "beekothefreako"
+        }, 
+        {
+            "date": "2011-11-01T18:41:17.648Z", 
+            "text": "1:57 - We're gonna be in the Hudson. LOL! It's like he's saying: Yeah, \nso... we're landing right here, right now. If you would like to look for us \nlater, umm.. yeah, that's where we're gonna be. Just sayin'...", 
+            "author": "grisznik"
+        }, 
+        {
+            "date": "2011-11-01T18:38:31.892Z", 
+            "text": "Which one is it then, 1529 or 1549? They keep using both numbers. At first \nI thought it was flight number, then some kind of a plane identification. \nBut now I am just confused.", 
+            "author": "grisznik"
+        }, 
+        {
+            "date": "2011-10-27T20:57:14.553Z", 
+            "text": "@methilblue Envious people keep dislikin' anything nice and successful!", 
+            "author": "torero34"
+        }, 
+        {
+            "date": "2011-10-22T15:01:27.506Z", 
+            "text": "Helluva good job!", 
+            "author": "Howard Mora"
+        }, 
+        {
+            "date": "2011-10-15T21:21:19.245Z", 
+            "text": "the shit starts to get real at 0:40 when the pilot says \"We may end up in \nthe Hudson.\"", 
+            "author": "ajpoopieschitz"
+        }, 
+        {
+            "date": "2011-10-03T23:15:11.312Z", 
+            "text": "The pilot was a hero, but come on, the man is crazy... Tower: \"Which one \nway would you like at teterboro?\" The pilot: \"We're gonna be at Hudson\". \nTower: \"I'm sorry, say again Cactus\" LOL The man is a real pro!!!", 
+            "author": "Corvusdotensis"
+        }, 
+        {
+            "date": "2011-10-03T23:09:52.967Z", 
+            "text": "@methilblue Or was fishing during the landing, or, better saying, \n\"watering\".", 
+            "author": "Corvusdotensis"
+        }, 
+        {
+            "date": "2011-09-23T12:17:36.879Z", 
+            "text": "0:20 looks like a puppy swimming", 
+            "author": "pipidores"
+        }, 
+        {
+            "date": "2011-09-20T06:09:47.881Z", 
+            "text": "Button pushers... right", 
+            "author": "macsdestroypcs"
+        }, 
+        {
+            "date": "2011-09-18T08:19:54.060Z", 
+            "text": "I was on this flight in 16B. It was a nightmare. The last 30 seconds felt \nlike an hour. Strange how time slows. There was never really a panic \nthough. We had all just sort of accepted what was going to happen if that \nmakes sense? ", 
+            "author": "Craig Dirty .Dority"
+        }, 
+        {
+            "date": "2011-09-14T12:02:42.801Z", 
+            "text": "@Asalieri Balls of Granite is a good name for a rock band", 
+            "author": "Lunchtime67"
+        }, 
+        {
+            "date": "2011-09-08T13:49:00.003Z", 
+            "text": "91 are birds ", 
+            "author": "shaun91255"
+        }, 
+        {
+            "date": "2011-08-23T20:45:04.128Z", 
+            "text": "@mattguitarbaseball I understand, but, uhm, I'd probably not fly with you. \nI prefer the calm and focused captain \"i am a rock\" hudson.", 
+            "author": "rnrdemon"
+        }, 
+        {
+            "date": "2011-08-19T19:46:54.180Z", 
+            "text": "Cappy is calm as fuck. Nice, man. Old Spice sponsorship coming your way.", 
+            "author": "EagleSlightlyBetter"
+        }, 
+        {
+            "date": "2011-08-11T18:39:47.794Z", 
+            "text": "\"Yeah we'll be in the Hudson if you need us\" ", 
+            "author": "Sam Skogsberg"
+        }, 
+        {
+            "date": "2011-08-05T18:03:00.375Z", 
+            "text": "Respect!", 
+            "author": "A40Watkid"
+        }, 
+        {
+            "date": "2011-07-28T09:10:08.641Z", 
+            "text": "if i was that pilot. id be like \" listen fuck head! im not landing on a \nrunway. do you understand english fuck boy? pick my ass up in the river and \nbring me some fucking towels u dumb cunt fuck\" like that :)", 
+            "author": "mattguitarbaseball"
+        }, 
+        {
+            "date": "2011-07-26T04:22:15.879Z", 
+            "text": "@methilblue those 91 one ppl werent ppl indeed they were the birds related \n2 the birds that got hit", 
+            "author": "smacagagag"
+        }, 
+        {
+            "date": "2011-07-23T23:15:04.579Z", 
+            "text": "Most successful ditching in aviation history. Sully, would you please run \nfor president?", 
+            "author": "Sara W"
+        }, 
+        {
+            "date": "2011-07-23T15:13:52.399Z", 
+            "text": "why don't they invent something to protect the engines from birds? sweet \nlanding, though. ", 
+            "author": "Cristian M\u00e1rquez"
+        }, 
+        {
+            "date": "2011-07-13T12:26:03.021Z", 
+            "text": "@methilblue I think they didnt understand ", 
+            "author": "paula280690"
+        }, 
+        {
+            "date": "2011-07-08T15:36:39.001Z", 
+            "text": "that's confidence right there! you go, pilot!", 
+            "author": "indriza"
+        }, 
+        {
+            "date": "2011-07-04T16:35:47.453Z", 
+            "text": "Get the REAL story of the PATCO Strike of 1981. Read my book, \"Forgotten \nHeroes of the Sky PART 1. Also this Controllers experience on 911. Read how \nto buy my book on the link below. While on You Tube search for AyXjdxtZPS0 \nIt is about 911 and ATC. Very Informative.. YouTube doesn't let you list an \nactual LINK on these Comments so you have to put together what I wrote \nbelow; In the address line type 3 w's then dot (.) air-traffic-controller \nand then dot (.) org", 
+            "author": "1981strike"
+        }, 
+        {
+            "date": "2011-07-04T08:56:00.535Z", 
+            "text": "FOR ALL THOSE PEOPLE WHO WATCH SPORTS HAVE YOU PICKED UP ON THE FACT THAT \nIN SPORTS LIKE FOOTBALL AND BASKETBALL WHERE THERE ARE A LOT OF BLACK \nPEOPLE EACH TEAM WITH ALL THOSE BLACK PEOPL WORK TOGETHER TO PUT ON A SHOW \nAND HAVE ALREADY DECIDED WHO WILL WIN AND THEY ALL WORK SECRETLY TOGETHER \nFOR A SECRET BLACK ORGANIZATION ???", 
+            "author": "Billy Slusser"
+        }, 
+        {
+            "date": "2011-06-27T00:00:43.118Z", 
+            "text": "BALLS OF KRYPTONITE?", 
+            "author": "CYGNUS-X1"
+        }, 
+        {
+            "date": "2011-06-24T19:03:06.124Z", 
+            "text": "Absolute balls of steel *Duke Nukem voice*", 
+            "author": "laa2009"
+        }, 
+        {
+            "date": "2011-06-24T07:10:57.389Z", 
+            "text": "Fuck that's how you make a decision .. big balls. ", 
+            "author": "acapmex1"
+        }, 
+        {
+            "date": "2011-06-23T22:34:07.894Z", 
+            "text": "what's with the atc, he said he was going down into hudson and he still \ngives him options for runway even after radar contact is lost", 
+            "author": "Jentle Sticks"
+        }, 
+        {
+            "date": "2011-06-14T02:32:16.677Z", 
+            "text": "Woulda been dope if he said \"This is Cactus one four two nine, Wooh yea! I \nfucking did it! Landed on the Hudson bitches! Tell Bill he can go suck it. \nAnd I want a pay raise A.S.A.P assholes.\"", 
+            "author": "PowerRizer"
+        }, 
+        {
+            "date": "2011-06-08T01:37:24.057Z", 
+            "text": "Ok....but how do we prevent this from happening again??? I mean, we have \nnuclear bombs that can cross the atlantic, but then a pack of birds can \nbring down a million plus dollar machine??!", 
+            "author": "ELconchesumare"
+        }, 
+        {
+            "date": "2011-06-07T08:46:55.642Z", 
+            "text": "they sound like wise guys!", 
+            "author": "user7897"
+        }, 
+        {
+            "date": "2011-06-05T18:00:00.830Z", 
+            "text": "This dude Captain Sully is cooler than a fucking fan!! I would have been \nhysterical.....I would have been like TELL MY MAMA AND MY MAN THAT I LOVE \nEM..WE GOING DOWNNNN!!. He was calm, cool and collected...that's major \nSWAGGER!! Sully could have gotten major pussy after this! He the \nmotherfucking man!! lol", 
+            "author": "MsSexyDiva4Lyfe"
+        }, 
+        {
+            "date": "2011-05-28T22:22:08.539Z", 
+            "text": "I mean to every story about aviation, a person claiming he is a pilot has \nhis 5 cents to say. I just do not believe that most people claiming to be a \npilot on youtube are one and are just trying to get an audience or \nattention. ", 
+            "author": "Mark Joyner"
+        }, 
+        {
+            "date": "2011-05-28T00:43:40.308Z", 
+            "text": "@Luckydog66100 What do you mean?", 
+            "author": "Dylan C"
+        }, 
+        {
+            "date": "2011-05-24T08:30:26.432Z", 
+            "text": "Funny how there are 50000 planes in the world but 10000000000000 pilots and \n99999999999999 of them are on youtube. Get a live. ", 
+            "author": "Mark Joyner"
+        }, 
+        {
+            "date": "2011-05-18T01:32:34.702Z", 
+            "text": "@MG53895 (This type of aircraft, the a320 can not dump fuel, in fact, most \nplanes can't)) The plane's fuel tank was not full so the plane's weight was \nfar below the max allowed landing weigth. If the weight was above this \nlimit , a runway still would have been best since the landing weight limit \nis only for structural safety of the wheels/brakes.So a normal landing is \npretty much guaranteed. However, the wheels and/or brakes might need to be \nreplaced afterwards due to the heavy impact.", 
+            "author": "ThCo85"
+        }, 
+        {
+            "date": "2011-05-10T14:31:28.905Z", 
+            "text": "@ShockUSMCTroop You mean 89 ^^", 
+            "author": "MissSweetiiePie"
+        }, 
+        {
+            "date": "2011-05-08T15:40:40.203Z", 
+            "text": "How cool can a guy be? He is going in the drink, and very likely will loose \nhis life but calm as if he is watching a tv show. Admirable, absolutely \nadmirable. He was going to run for Senate was it? I wonder if he did make \nit.", 
+            "author": "\u0130brahim \u00c7a\u011flayan"
+        }, 
+        {
+            "date": "2011-04-26T14:24:11.898Z", 
+            "text": "Hats off to everyone in the recording. Talking about nerve of steel!!!", 
+            "author": "Patrick Chin"
+        }, 
+        {
+            "date": "2011-04-26T01:59:02.746Z", 
+            "text": "@suntanners Besides the stronger fuselage of the Airbus (they hit the water \nat 3 times the required amount of descend force) and the Ditch Swicht the \na/c didn't sink like others have in the past. ", 
+            "author": "CFITOMAHAWK2"
+        }, 
+        {
+            "date": "2011-04-21T13:45:17.023Z", 
+            "text": "@darkcashyz more stupid birds.", 
+            "author": "USSWISCONSIN94"
+        }, 
+        {
+            "date": "2011-04-18T01:54:25.077Z", 
+            "text": "@365fg it was kind of an urgent situation... forgive him for being \n\"unprofessional\". In my opinion i am surprised they were not freaking out a \nlittle", 
+            "author": "Josh Mclendon"
+        }, 
+        {
+            "date": "2011-04-14T03:06:27.719Z", 
+            "text": "@piernic75 i've listened to this many times ......strange that he did not \nsay that....also curious what the origin of the \"mayday\" term is////anybody \nknow? ", 
+            "author": "MsBooda77"
+        }, 
+        {
+            "date": "2011-04-08T19:45:21.600Z", 
+            "text": "The amazing thing is that they are talking with no drama or stress. Their \ntone in their voice is the same of what us mere mortals would use to call \nabout the the order for coffee. If I was on that flight, I'd get in line to \nbuy the pilots a drink.", 
+            "author": "lnm4444"
+        }, 
+        {
+            "date": "2011-04-06T00:04:23.769Z", 
+            "text": "@LONGBALL3005 Sometimes a plane cannot reply but can still hear ATC. It's \nprudent to continue giving information until there is confirmation of a \ndowned plane.", 
+            "author": "vulturedoors"
+        }, 
+        {
+            "date": "2011-04-05T17:22:54.071Z", 
+            "text": "I'd be panicking if he said about landing in the river- i would've acted a \nbit more quicker than he, when the pilot didn't reply =S", 
+            "author": "Jacksite2007"
+        }
+    ]
+}

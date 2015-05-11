@@ -1,0 +1,1379 @@
+{
+    "publish_date": "2010-11-28T02:49:57.000Z", 
+    "video_length": "PT4M25S", 
+    "captions": [
+        {
+            "text": "So you&#39;re me and\nyou&#39;re in math class,", 
+            "dur": "1.583", 
+            "start": "0.107"
+        }, 
+        {
+            "text": "and you&#39;re learning\nabout graph theory.", 
+            "dur": "1.28", 
+            "start": "1.69"
+        }, 
+        {
+            "text": "A subject too interesting to be\nincluded in most grade school", 
+            "dur": "2.14", 
+            "start": "2.97"
+        }, 
+        {
+            "text": "curricula, so maybe you&#39;re\nin some special program,", 
+            "dur": "1.73", 
+            "start": "5.11"
+        }, 
+        {
+            "text": "or maybe you&#39;re in\ncollege and somehow", 
+            "dur": "1.3", 
+            "start": "6.84"
+        }, 
+        {
+            "text": "not scarred for life by your\ngrade school math teachers.", 
+            "dur": "2.24", 
+            "start": "8.14"
+        }, 
+        {
+            "text": "I&#39;m not sure why you&#39;re\nnot paying attention,", 
+            "dur": "1.155", 
+            "start": "10.38"
+        }, 
+        {
+            "text": "but maybe you have an\nincompetent teacher,", 
+            "dur": "1.365", 
+            "start": "11.535"
+        }, 
+        {
+            "text": "and it&#39;s too heartbreaking\nto watch him butcher what", 
+            "dur": "1.545", 
+            "start": "12.9"
+        }, 
+        {
+            "text": "could have been such a\nfun subject full of snakes", 
+            "dur": "2.041", 
+            "start": "14.445"
+        }, 
+        {
+            "text": "and balloons.", 
+            "dur": "0.604", 
+            "start": "16.486"
+        }, 
+        {
+            "text": "Snakes aren&#39;t really all that\nrelevant to the mathematics", 
+            "dur": "1.87", 
+            "start": "17.09"
+        }, 
+        {
+            "text": "here, but being able to draw\nthem will be useful later.", 
+            "dur": "1.9", 
+            "start": "18.96"
+        }, 
+        {
+            "text": "So you should probably\nstart practicing now.", 
+            "dur": "2.05", 
+            "start": "20.86"
+        }, 
+        {
+            "text": "I&#39;ve got a family of\nthree related doodle games", 
+            "dur": "1.67", 
+            "start": "22.91"
+        }, 
+        {
+            "text": "to show you, all stemming\nfrom drawing squiggles", 
+            "dur": "1.999", 
+            "start": "24.58"
+        }, 
+        {
+            "text": "all over the page.", 
+            "dur": "0.781", 
+            "start": "26.579"
+        }, 
+        {
+            "text": "The first one goes like this.", 
+            "dur": "1.399", 
+            "start": "27.36"
+        }, 
+        {
+            "text": "Draw a squiggle.", 
+            "dur": "0.666", 
+            "start": "28.759"
+        }, 
+        {
+            "text": "A closed curve that\nends where it begins.", 
+            "dur": "1.675", 
+            "start": "29.425"
+        }, 
+        {
+            "text": "The only real rule\nhere is to make", 
+            "dur": "1.416", 
+            "start": "31.1"
+        }, 
+        {
+            "text": "sure all the crossings\nare distinct.", 
+            "dur": "2.064", 
+            "start": "32.516"
+        }, 
+        {
+            "text": "Next, make it start weaving.", 
+            "dur": "1.32", 
+            "start": "34.58"
+        }, 
+        {
+            "text": "Follow the curve around, and at\neach crossing, alternate going", 
+            "dur": "2.24", 
+            "start": "35.9"
+        }, 
+        {
+            "text": "under and over until you&#39;ve\nassigned all the crossing.", 
+            "dur": "2.25", 
+            "start": "38.14"
+        }, 
+        {
+            "text": "Then put on the finishing\ntouches, and voila.", 
+            "dur": "2.05", 
+            "start": "40.39"
+        }, 
+        {
+            "text": "You try it again, adding\na little artistic flair", 
+            "dur": "1.533", 
+            "start": "42.44"
+        }, 
+        {
+            "text": "to the lines.", 
+            "dur": "0.541", 
+            "start": "43.973"
+        }, 
+        {
+            "text": "The cool part is that\nthe meeting always", 
+            "dur": "1.796", 
+            "start": "44.514"
+        }, 
+        {
+            "text": "works out perfectly.", 
+            "dur": "0.874", 
+            "start": "46.31"
+        }, 
+        {
+            "text": "When you&#39;re going around\nalternating over and under,", 
+            "dur": "2.166", 
+            "start": "47.184"
+        }, 
+        {
+            "text": "and get to a crossing\nyou&#39;ve already assigned,", 
+            "dur": "1.916", 
+            "start": "49.35"
+        }, 
+        {
+            "text": "it will always be the right one.", 
+            "dur": "1.439", 
+            "start": "51.266"
+        }, 
+        {
+            "text": "This is very interesting, and\nwe&#39;ll get back to it later.", 
+            "dur": "2.375", 
+            "start": "52.705"
+        }, 
+        {
+            "text": "But first I&#39;d like to\npoint out two things.", 
+            "dur": "2.161", 
+            "start": "55.08"
+        }, 
+        {
+            "text": "One is that this works for\nany number of closed curves", 
+            "dur": "2.249", 
+            "start": "57.241"
+        }, 
+        {
+            "text": "on the plane, so go ahead\nand link stuff up or make", 
+            "dur": "2.55", 
+            "start": "59.49"
+        }, 
+        {
+            "text": "a weaving out of\ntwo colors of yarn.", 
+            "dur": "2.08", 
+            "start": "62.04"
+        }, 
+        {
+            "text": "The other is that\nthis doodle also", 
+            "dur": "1.43", 
+            "start": "64.12"
+        }, 
+        {
+            "text": "works for snakes on a plane,\nas long as you keep the head", 
+            "dur": "2.665", 
+            "start": "65.55"
+        }, 
+        {
+            "text": "and tail on the outside or\non the same inside face,", 
+            "dur": "2.125", 
+            "start": "68.215"
+        }, 
+        {
+            "text": "because mathematically it&#39;s\nthe same as if they linked up.", 
+            "dur": "2.25", 
+            "start": "70.34"
+        }, 
+        {
+            "text": "Or just actually link\nup the head and tail,", 
+            "dur": "1.83", 
+            "start": "72.59"
+        }, 
+        {
+            "text": "into an Ouroboros.", 
+            "dur": "1.29", 
+            "start": "74.42"
+        }, 
+        {
+            "text": "For example, here&#39;s\nthree Ouroborii", 
+            "dur": "1.495", 
+            "start": "75.71"
+        }, 
+        {
+            "text": "in a configuration known as\nthe Borromean Rings, which", 
+            "dur": "2.675", 
+            "start": "77.205"
+        }, 
+        {
+            "text": "has the neat property that\nno two snakes are actually", 
+            "dur": "2.7", 
+            "start": "79.88"
+        }, 
+        {
+            "text": "linked with each other.", 
+            "dur": "1.33", 
+            "start": "82.58"
+        }, 
+        {
+            "text": "Also, because I\nlike naming things,", 
+            "dur": "1.484", 
+            "start": "83.91"
+        }, 
+        {
+            "text": "this design shall henceforth\nbe known as the Ouroborromean", 
+            "dur": "2.416", 
+            "start": "85.394"
+        }, 
+        {
+            "text": "Rings.", 
+            "dur": "1.38", 
+            "start": "87.81"
+        }, 
+        {
+            "text": "But you are me,\nafter all, so you&#39;re", 
+            "dur": "1.501", 
+            "start": "89.19"
+        }, 
+        {
+            "text": "finding a lot to think\nabout, even with just drawing", 
+            "dur": "2.165", 
+            "start": "90.691"
+        }, 
+        {
+            "text": "one line that isn&#39;t a snake.", 
+            "dur": "1.274", 
+            "start": "92.856"
+        }, 
+        {
+            "text": "Such as what kind of\nknot are you drawing?", 
+            "dur": "1.75", 
+            "start": "94.13"
+        }, 
+        {
+            "text": "And can you classify them?", 
+            "dur": "1.229", 
+            "start": "95.88"
+        }, 
+        {
+            "text": "For example, these three\nknots all have five crossings,", 
+            "dur": "2.291", 
+            "start": "97.109"
+        }, 
+        {
+            "text": "but two are essentially the\nsame knot, and one is different.", 
+            "dur": "2.844", 
+            "start": "99.4"
+        }, 
+        {
+            "text": "Knot theory questions\nare actually", 
+            "dur": "1.416", 
+            "start": "102.244"
+        }, 
+        {
+            "text": "really difficult\nand interesting,", 
+            "dur": "1.38", 
+            "start": "103.66"
+        }, 
+        {
+            "text": "but you&#39;re going to have\nlook that one up yourself.", 
+            "dur": "1.895", 
+            "start": "105.04"
+        }, 
+        {
+            "text": "Oh, and you should also\nlearn how to draw rope,", 
+            "dur": "1.515", 
+            "start": "106.935"
+        }, 
+        {
+            "text": "because it&#39;s an integral\npart of knot theory.", 
+            "dur": "2.209", 
+            "start": "108.45"
+        }, 
+        {
+            "text": "So integral in fact,\nthat if you draw", 
+            "dur": "1.541", 
+            "start": "110.659"
+        }, 
+        {
+            "text": "a bunch of integral\nsigns in a row--", 
+            "dur": "1.5", 
+            "start": "112.2"
+        }, 
+        {
+            "text": "a sight which is often quite\ndaunting to a mathematician--", 
+            "dur": "2.64", 
+            "start": "113.7"
+        }, 
+        {
+            "text": "you can just shade\nit in, and tada.", 
+            "dur": "2.12", 
+            "start": "116.34"
+        }, 
+        {
+            "text": "But being able to draw\nsnakes is also super useful,", 
+            "dur": "2.666", 
+            "start": "118.46"
+        }, 
+        {
+            "text": "especially as this\ndoodle game is", 
+            "dur": "1.374", 
+            "start": "121.126"
+        }, 
+        {
+            "text": "excellent for producing\nDark Mark tattoo designs.", 
+            "dur": "2.65", 
+            "start": "122.5"
+        }, 
+        {
+            "text": "Also, this doodle game can be\ncombined with the stars doodle", 
+            "dur": "2.5", 
+            "start": "125.15"
+        }, 
+        {
+            "text": "game.", 
+            "dur": "0.5", 
+            "start": "127.65"
+        }, 
+        {
+            "text": "For example, if this\npentagram gets knighted,", 
+            "dur": "2.01", 
+            "start": "128.15"
+        }, 
+        {
+            "text": "it will henceforth be\nknown as Sir Pentagram.", 
+            "dur": "3.43", 
+            "start": "130.16"
+        }, 
+        {
+            "text": "Also notice that this snakes\nis a five twist Mobius", 
+            "dur": "2.24", 
+            "start": "133.59"
+        }, 
+        {
+            "text": "strip, so you could also\ncall it a Mobiaborros,", 
+            "dur": "2.08", 
+            "start": "135.83"
+        }, 
+        {
+            "text": "but we&#39;ll get back to\none sidedness later.", 
+            "dur": "1.865", 
+            "start": "137.91"
+        }, 
+        {
+            "text": "Or if you want to draw\nsomething super complicated,", 
+            "dur": "2.125", 
+            "start": "139.775"
+        }, 
+        {
+            "text": "like the eighth square star,\ncombining snakes and stars", 
+            "dur": "2.98", 
+            "start": "141.9"
+        }, 
+        {
+            "text": "is a great technique\nfor that to.", 
+            "dur": "1.99", 
+            "start": "144.88"
+        }, 
+        {
+            "text": "Here is a boa that\nate eight eight-gons.", 
+            "dur": "2.795", 
+            "start": "146.87"
+        }, 
+        {
+            "text": "The creativity that\nyour mind is forced", 
+            "dur": "1.625", 
+            "start": "149.665"
+        }, 
+        {
+            "text": "into during these boring classes\nis both a gift and a burden,", 
+            "dur": "3.225", 
+            "start": "151.29"
+        }, 
+        {
+            "text": "but here&#39;s a few authentic\ndoodles using these techniques", 
+            "dur": "2.375", 
+            "start": "154.515"
+        }, 
+        {
+            "text": "that I did when I\nwas in college, just", 
+            "dur": "1.583", 
+            "start": "156.89"
+        }, 
+        {
+            "text": "to show you that I&#39;m\nnot making all this up.", 
+            "dur": "1.897", 
+            "start": "158.473"
+        }, 
+        {
+            "text": "These are from a freshman\nmusic history class,", 
+            "dur": "1.58", 
+            "start": "160.37"
+        }, 
+        {
+            "text": "because I happen to be able\nto find this notebook--", 
+            "dur": "1.71", 
+            "start": "161.95"
+        }, 
+        {
+            "text": "but this is a doodle I\nactually did most often", 
+            "dur": "1.916", 
+            "start": "163.66"
+        }, 
+        {
+            "text": "during my ninth grade\nItalian class-- language", 
+            "dur": "2.024", 
+            "start": "165.576"
+        }, 
+        {
+            "text": "being another subject\nusually taught", 
+            "dur": "1.8", 
+            "start": "167.6"
+        }, 
+        {
+            "text": "by unfathomably stupid methods.", 
+            "dur": "2.032", 
+            "start": "169.4"
+        }, 
+        {
+            "text": "For example, these snakes are\nhaving trouble communicating,", 
+            "dur": "2.458", 
+            "start": "171.432"
+        }, 
+        {
+            "text": "because one speaks\nin parseltongue,", 
+            "dur": "1.458", 
+            "start": "173.89"
+        }, 
+        {
+            "text": "and the other speaks in Python.", 
+            "dur": "1.468", 
+            "start": "175.348"
+        }, 
+        {
+            "text": "And their language classes,\nmuch like math classes,", 
+            "dur": "2.124", 
+            "start": "176.816"
+        }, 
+        {
+            "text": "focus too much on memorization,\nand not enough on immersion.", 
+            "dur": "2.617", 
+            "start": "178.94"
+        }, 
+        {
+            "text": "But just pretend\nyou&#39;re in math class,", 
+            "dur": "1.583", 
+            "start": "181.557"
+        }, 
+        {
+            "text": "learning about graph theory,\nso I can draw the parallels.", 
+            "dur": "2.497", 
+            "start": "183.14"
+        }, 
+        {
+            "text": "Because here&#39;s the\nsecond doodle game,", 
+            "dur": "1.583", 
+            "start": "185.637"
+        }, 
+        {
+            "text": "which is very much\nmathematically related.", 
+            "dur": "2.095", 
+            "start": "187.22"
+        }, 
+        {
+            "text": "Draw a squiggle\nall over the page", 
+            "dur": "1.375", 
+            "start": "189.315"
+        }, 
+        {
+            "text": "and make sure it closes up.", 
+            "dur": "1.8", 
+            "start": "190.69"
+        }, 
+        {
+            "text": "Pick an outside section\nand color it in.", 
+            "dur": "1.774", 
+            "start": "192.49"
+        }, 
+        {
+            "text": "Now you want to\nalternate coloring", 
+            "dur": "1.416", 
+            "start": "194.264"
+        }, 
+        {
+            "text": "so that no two faces of\nthe same color touch.", 
+            "dur": "2.77", 
+            "start": "195.68"
+        }, 
+        {
+            "text": "Curiously enough, much\nlike the weaving game,", 
+            "dur": "2.45", 
+            "start": "198.45"
+        }, 
+        {
+            "text": "this game also always\nmathematically works out.", 
+            "dur": "2.902", 
+            "start": "200.9"
+        }, 
+        {
+            "text": "It also works really well\nif you make the lines", 
+            "dur": "1.958", 
+            "start": "203.802"
+        }, 
+        {
+            "text": "spiky instead of a smooth curve.", 
+            "dur": "1.5", 
+            "start": "205.76"
+        }, 
+        {
+            "text": "And once again, it works\nwith multiple lines too.", 
+            "dur": "1.85", 
+            "start": "207.26"
+        }, 
+        {
+            "text": "It probably has something to\ndo with the two-colorability", 
+            "dur": "2.02", 
+            "start": "209.11"
+        }, 
+        {
+            "text": "of graphs of even\ndegree, which might even", 
+            "dur": "1.41", 
+            "start": "211.13"
+        }, 
+        {
+            "text": "be what your teacher\nis trying to teach you", 
+            "dur": "1.19", 
+            "start": "212.54"
+        }, 
+        {
+            "text": "at this very moment, for\nall you&#39;re paying attention.", 
+            "dur": "2.11", 
+            "start": "213.73"
+        }, 
+        {
+            "text": "But maybe you can chat with\nhim after class about snakes", 
+            "dur": "1.7", 
+            "start": "215.84"
+        }, 
+        {
+            "text": "and he&#39;ll explain it to\nyou, because I&#39;d rather", 
+            "dur": "1.4", 
+            "start": "217.54"
+        }, 
+        {
+            "text": "move on to the next doodle game.", 
+            "dur": "1.54", 
+            "start": "218.94"
+        }, 
+        {
+            "text": "This is a combination\nof the last two.", 
+            "dur": "1.625", 
+            "start": "220.48"
+        }, 
+        {
+            "text": "Step one, draw a\nsmooth, closed curve.", 
+            "dur": "2.275", 
+            "start": "222.105"
+        }, 
+        {
+            "text": "Step two assign\novers and unders.", 
+            "dur": "2.03", 
+            "start": "224.38"
+        }, 
+        {
+            "text": "Step three, shade\nin every other face.", 
+            "dur": "1.86", 
+            "start": "226.41"
+        }, 
+        {
+            "text": "After that, it takes a\nlittle artistic finesse", 
+            "dur": "1.916", 
+            "start": "228.27"
+        }, 
+        {
+            "text": "to get the shading\nright, but you end up", 
+            "dur": "1.764", 
+            "start": "230.186"
+        }, 
+        {
+            "text": "with some sort of\nreally neat surface.", 
+            "dur": "1.78", 
+            "start": "231.95"
+        }, 
+        {
+            "text": "For example, this one has\nonly one edge and one side.", 
+            "dur": "2.886", 
+            "start": "233.73"
+        }, 
+        {
+            "text": "But if you&#39;re\ninterested in this,", 
+            "dur": "1.374", 
+            "start": "236.616"
+        }, 
+        {
+            "text": "you should really be talking\nto your resident topology", 
+            "dur": "2.249", 
+            "start": "237.99"
+        }, 
+        {
+            "text": "professor, and not me.", 
+            "dur": "1.122", 
+            "start": "240.239"
+        }, 
+        {
+            "text": "But here&#39;s the thing, if someone\nasked you five minutes ago,", 
+            "dur": "2.499", 
+            "start": "241.361"
+        }, 
+        {
+            "text": "what tangled up snakes,\ndemented checkerboards,", 
+            "dur": "1.958", 
+            "start": "243.86"
+        }, 
+        {
+            "text": "and crazy, twisty\nsurfaces have in common,", 
+            "dur": "1.992", 
+            "start": "245.818"
+        }, 
+        {
+            "text": "what would you have answered?", 
+            "dur": "1.45", 
+            "start": "247.81"
+        }, 
+        {
+            "text": "This is why I love mathematics.", 
+            "dur": "1.984", 
+            "start": "249.26"
+        }, 
+        {
+            "text": "The moment when you realize\nthat something seemingly", 
+            "dur": "2.166", 
+            "start": "251.244"
+        }, 
+        {
+            "text": "arbitrary and confusing is\nactually part of something.", 
+            "dur": "3.196", 
+            "start": "253.41"
+        }, 
+        {
+            "text": "It&#39;s better than the\ncleverest possible", 
+            "dur": "1.624", 
+            "start": "256.606"
+        }, 
+        {
+            "text": "ending to any crime\nshow or mystery novel,", 
+            "dur": "1.749", 
+            "start": "258.23"
+        }, 
+        {
+            "text": "because that&#39;s\nonly the beginning.", 
+            "dur": "1.831", 
+            "start": "259.979"
+        }, 
+        {
+            "text": "Anyway, have fun with that.", 
+            "dur": "2.396", 
+            "start": "261.81"
+        }
+    ], 
+    "title": "Doodling in Math Class: Snakes + Graphs", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/04rjg", 
+        "/m/0mfx0", 
+        "/m/01w3mm"
+    ], 
+    "number_views": 1898236, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-04T23:22:19.504Z", 
+            "text": "Hi, I'm Vi Hart and I'm in maths class. Well, I can dream, right?\ufeff", 
+            "author": "SquareWaveHeaven"
+        }, 
+        {
+            "date": "2015-04-27T18:48:04.686Z", 
+            "text": "I like the two snakes trying to communicate. Didn't think that python would \nbe mentioned in this video... And it is my favorite programming language...\ufeff", 
+            "author": "CodenameLambda"
+        }, 
+        {
+            "date": "2015-04-25T00:36:22.385Z", 
+            "text": "1:05 snakes on a plane\n2:03 dark mark of course\n2:36 that has to be some meme I've never seen before...\n2:55 parseltongue, AND python\nNeed to find more\ufeff", 
+            "author": "Ka Jacob"
+        }, 
+        {
+            "date": "2015-04-24T17:37:54.673Z", 
+            "text": "to good  inspire me\ufeff", 
+            "author": "atul chaudhari"
+        }, 
+        {
+            "date": "2015-04-16T11:50:51.978Z", 
+            "text": "\"In creating tattoo designs\" you say? I had about two weeks ago my first \ntattoo and it is borromean rings. :P\ufeff", 
+            "author": "Anssi Arpiainen"
+        }, 
+        {
+            "date": "2015-04-14T00:43:40.298Z", 
+            "text": "So damn artistic. I don't know If I can even draw a circle.\ufeff", 
+            "author": "Cinnamanster A"
+        }, 
+        {
+            "date": "2015-04-10T12:53:53.940Z", 
+            "text": "This idea will be a real brainteaser: knots and links immersed in their own \ncomplementary spaces!\ufeff", 
+            "author": "Rohan Zener"
+        }, 
+        {
+            "date": "2015-04-09T21:56:26.685Z", 
+            "text": "so gonna do this in math tmr\ufeff", 
+            "author": "Marceline the BVB army girl"
+        }, 
+        {
+            "date": "2015-04-07T19:03:54.769Z", 
+            "text": "Hm.....\ufeff", 
+            "author": "kylepresidente"
+        }, 
+        {
+            "date": "2015-04-07T19:01:44.652Z", 
+            "text": "u really like snakes do u\ufeff", 
+            "author": "kylepresidente"
+        }, 
+        {
+            "date": "2015-03-31T02:43:15.532Z", 
+            "text": "keep the little prince references coming\ufeff", 
+            "author": "tommy adler-mandile"
+        }, 
+        {
+            "date": "2015-03-29T22:22:31.656Z", 
+            "text": "what was up at 3:55?\ufeff", 
+            "author": "Zach Thompson"
+        }, 
+        {
+            "date": "2015-03-29T06:58:42.690Z", 
+            "text": "Her boa picture at around 2:30 reminds me of the picture of the boa that \nate an elephant in the little prince. \ufeff", 
+            "author": "touwuaniynof"
+        }, 
+        {
+            "date": "2015-03-25T14:29:14.658Z", 
+            "text": "I broke the second game... it doesnt work if you accidentally make 3 \nsections intersect at the same point, like i did\ufeff", 
+            "author": "BeadGCF17"
+        }, 
+        {
+            "date": "2015-04-05T20:17:04.296Z", 
+            "text": "+KaosFireMaker if they are all at the same point they're still distinct, \nturned out i tried filling them out wrong, it actually does work with 3 \nlines intersecting when i tried again, you just leave that area for last \nand it'll work itself out", 
+            "author": "BeadGCF17"
+        }, 
+        {
+            "date": "2015-04-05T13:58:39.673Z", 
+            "text": "all intersections have to be distinct.", 
+            "author": "KaosFireMaker"
+        }, 
+        {
+            "date": "2015-02-26T05:49:15.092Z", 
+            "text": "3:55 , lol\ufeff", 
+            "author": "JayJay GamingPvP"
+        }, 
+        {
+            "date": "2015-02-12T05:46:08.788Z", 
+            "text": "my math made this an option as homework trying it out :p\ufeff", 
+            "author": "Renata Joblin"
+        }, 
+        {
+            "date": "2015-02-08T01:42:02.010Z", 
+            "text": "Is no one gonna talk about how Dan said he'd marry Vi hart?!\ufeff", 
+            "author": "Ashley Browder"
+        }, 
+        {
+            "date": "2015-02-28T18:47:51.769Z", 
+            "text": "Vids or didn't happen.", 
+            "author": "-Sarah-"
+        }, 
+        {
+            "date": "2015-02-07T22:11:09.470Z", 
+            "text": "You've got too much talent, kid\ufeff", 
+            "author": "NotMyRealName123123"
+        }, 
+        {
+            "date": "2015-02-06T05:20:20.000Z", 
+            "text": "That is one heck of a way to efficiently spend your time in math class, \nbeing able to draw things like snakes, optical illusions, and strange \ncheckerboards certainly add quite the artistic spin to a seemingly bland \nsubject. Despite the fast talking, which was quite a run to follow, I could \nsee myself attempting to do this in my math class as a means to add a \nunique edge to my understanding of graphing.\ufeff", 
+            "author": "Kazetu wolf"
+        }, 
+        {
+            "date": "2015-02-05T05:09:46.276Z", 
+            "text": "This video shows how easily you can incorporate math into simple sketches. \nI liked how she made all snakes and knots unique because there is an \ninfinite ways to make snakes and knots using her method. What confused me \nwas how easily she was able to create a work of art out of one squiggly \nline. This video showed me how I can be artistic without thinking too hard \nabout what I want to paint or draw.\ufeff", 
+            "author": "Soph"
+        }, 
+        {
+            "date": "2015-02-03T19:11:19.478Z", 
+            "text": "im thinking of the booty \ufeff", 
+            "author": "JAVIER MEZA"
+        }, 
+        {
+            "date": "2015-01-31T22:08:43.639Z", 
+            "text": "This video proves that math and art can be related in more ways than one \nmight anticipate. The \"snake\" representation of the graph literally draws \nthe connection between math and art. Not only that, but the drawings are \nintricate and pleasing to the eye. \ufeff", 
+            "author": "Jilly H"
+        }, 
+        {
+            "date": "2015-01-09T02:46:09.740Z", 
+            "text": "Did she accidentally invent Celtic knots?\ufeff", 
+            "author": "sean draven"
+        }, 
+        {
+            "date": "2015-01-03T07:21:38.276Z", 
+            "text": "Harry Potter fans: *heavy breathing*\ufeff", 
+            "author": "Phoenix Feather"
+        }, 
+        {
+            "date": "2015-02-03T02:57:50.836Z", 
+            "text": "Harry Potter fans and programmers: *heavy breathing*", 
+            "author": "PotetoFrog"
+        }, 
+        {
+            "date": "2014-12-15T19:56:23.352Z", 
+            "text": "3:40 You missed a spot.\ufeff", 
+            "author": "Ryan Alexander (Dynamicduck)"
+        }, 
+        {
+            "date": "2014-12-04T03:49:29.562Z", 
+            "text": "", 
+            "author": "Jorge Rangel"
+        }, 
+        {
+            "date": "2014-12-01T01:51:11.237Z", 
+            "text": "I thought this was really cool cause you can apply math to drawing pictures \nand it works out. She moved pretty fast so it was a little hard to tell the \nsteps that she used to do these drawings but they looked awesome and they \nseem simple enough. She makes math not seem like math because her videos \naren't boring or filled with a bunch of algebra and numbers that I don't \nunderstand. \ufeff", 
+            "author": "Sarah Carder"
+        }, 
+        {
+            "date": "2014-11-27T01:09:48.443Z", 
+            "text": "I wish I could go back and instead of sleeping through school I wish I had \ndrawn the entire time. Would have at least made for some interesting \npictures.\ufeff", 
+            "author": "Christian Massey"
+        }, 
+        {
+            "date": "2014-11-13T02:48:40.191Z", 
+            "text": "Hate to break it to ya but if you dont stop doodling i think you might fail \nmath (not pike your bot already)\ufeff", 
+            "author": "maddie thompson"
+        }, 
+        {
+            "date": "2014-11-09T00:20:11.220Z", 
+            "text": "", 
+            "author": "\u0426\u0435\u043d\u0442\u0440 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u043e\u0441\u0432\u0456\u0442\u0438"
+        }, 
+        {
+            "date": "2014-11-08T22:14:58.476Z", 
+            "text": "Am I the only one who finds the amount of how many words she spits out per \nsplit-second annoying?\ufeff", 
+            "author": "Fredrik N"
+        }, 
+        {
+            "date": "2015-01-03T18:33:01.981Z", 
+            "text": "+LogicRollsTheDice I don't know why, but austere is one of my favorite \nwords ever. Also, I agree with you. I feel like actually learning is harder \nwhen it's informal, but it's still fun to watch ", 
+            "author": "Grace NoOne"
+        }, 
+        {
+            "date": "2014-12-25T04:47:28.775Z", 
+            "text": "No way of knowing for sure but you might be.", 
+            "author": "sorellman"
+        }, 
+        {
+            "date": "2014-11-30T20:05:13.963Z", 
+            "text": "I admit she's really cool but I found her frustrating to listen to", 
+            "author": "Fredrik N"
+        }, 
+        {
+            "date": "2014-11-30T17:43:02.165Z", 
+            "text": "+Fi The Swordspirit No it's not that it's just.... I dunno. Mathematics \nseems more beautiful when it is kept cold and austere.", 
+            "author": "LogicRollsTheDice"
+        }, 
+        {
+            "date": "2014-11-30T02:56:33.937Z", 
+            "text": "Yeah it's far too informal for me. This is like a contradiction to \nmathematics.", 
+            "author": "LogicRollsTheDice"
+        }, 
+        {
+            "date": "2014-11-29T21:04:45.900Z", 
+            "text": "Hahahahah", 
+            "author": "Fredrik N"
+        }, 
+        {
+            "date": "2014-11-29T14:36:52.021Z", 
+            "text": "I can confirm you are.", 
+            "author": "Vasko Pantzar"
+        }, 
+        {
+            "date": "2014-11-22T17:47:25.172Z", 
+            "text": "Yeah, I think so...", 
+            "author": "Grace NoOne"
+        }, 
+        {
+            "date": "2014-11-08T19:29:51.467Z", 
+            "text": "thank you for this lesson it make so mutch fun :D<3\ufeff", 
+            "author": "jerry gamerHD"
+        }, 
+        {
+            "date": "2014-10-31T07:46:33.923Z", 
+            "text": "Dam she talks fast\ufeff", 
+            "author": "Zac Dunlap"
+        }, 
+        {
+            "date": "2014-10-27T02:36:32.191Z", 
+            "text": "At 2:27 I thought of \"The Little Price\". I hope I'm not the only one that \ndidn't like it...\ufeff", 
+            "author": "Mason Atha"
+        }, 
+        {
+            "date": "2015-04-01T20:32:54.774Z", 
+            "text": "Pretty sure she was basing that doodle off \"The Little Prince\" :)", 
+            "author": "ssnowsongs"
+        }, 
+        {
+            "date": "2014-10-21T17:58:39.052Z", 
+            "text": "at 3.38 i realized that the method didnt work,see the circle and the \nrectangle? hought id jus share, great vid tho vi! not trying to be a hater \njust trying to question :P\ufeff", 
+            "author": "Jodie Bastow"
+        }, 
+        {
+            "date": "2015-03-19T14:51:25.556Z", 
+            "text": "That are you talking about? It works all the time. No areas of the same \ncolour touch (except for their corners). The only confusion that may arise \nis because of the size of the pen/pencil, it may look like they touch.", 
+            "author": "QuasarRiceMints"
+        }, 
+        {
+            "date": "2014-11-14T18:14:06.891Z", 
+            "text": "That's because two lines are touching", 
+            "author": "Polpop Poplop"
+        }, 
+        {
+            "date": "2014-10-10T03:19:08.989Z", 
+            "text": "This video gave me a new perspective to how my doodles are actually related \nto math. I really liked how you used art with math. I was confused about \nthe actual relation between them still. This inspired me to go and learn a \nlittle about Graph Theory. Thanks for the video! Keep going at it! \ufeff", 
+            "author": "Khush Mashruwala"
+        }, 
+        {
+            "date": "2014-10-10T01:27:07.945Z", 
+            "text": "This video gave me a whole new perspective on two things: infinity and \ndoodling in class. I loved the way you used pictures to show that sometimes \nthe limits of the sum of infinite series are 1. So funny and \neducational! Now I wont be as bored in class! Thanks for the video!!\ufeff", 
+            "author": "Simi Himatsingani"
+        }, 
+        {
+            "date": "2014-10-07T18:01:49.205Z", 
+            "text": "\"Did this in my ninth grade Italian class\"\n\nLOL FRAME THAT AND HANG IT ON YOU WALL\n\nI hope you teacher never sees this xD\ufeff", 
+            "author": "IDWpresents"
+        }, 
+        {
+            "date": "2014-09-28T13:06:15.094Z", 
+            "text": "Auryn\ufeff", 
+            "author": "Thane"
+        }, 
+        {
+            "date": "2014-09-22T20:13:36.788Z", 
+            "text": "Ur drawing skills are amazing! Love ur videos!\ufeff", 
+            "author": "Yiwen Hu"
+        }, 
+        {
+            "date": "2014-09-21T13:56:19.786Z", 
+            "text": "mathmagicaly XD i love it\ufeff", 
+            "author": "jeanwearinfool"
+        }, 
+        {
+            "date": "2014-12-23T23:21:09.000Z", 
+            "text": "So you're me and you're in math class and you're learning about graph \ntheory - a subject too interesting to be included in most grade school \ncirricula, so maybe you're in some special program or maybe you're in \ncollege and somehow no scarred for life by your grade school math teachers. \n I'm not sure why you're not paying attention, but maybe you have an \nincompetent teacher, and it's too heartbreaking to watch him butcher what \ncould have been such a fun subject full of snakes and balloons.  *GASP*  \nSeriously Vi, how did you fit 86 words into that one breath?\ufeff", 
+            "author": "Jason Yu"
+        }, 
+        {
+            "date": "2014-09-14T04:16:56.148Z", 
+            "text": "I tried and failed to draw it, darn. \ufeff", 
+            "author": "Amelia A.D."
+        }, 
+        {
+            "date": "2014-08-19T01:40:55.084Z", 
+            "text": "You see 8 8-gons, I see an elephant.\ufeff", 
+            "author": "Josh St.Cyr"
+        }, 
+        {
+            "date": "2014-08-17T09:56:42.061Z", 
+            "text": "One speaks in the parseltongue and the other in Python. You just made my \nday! Hahahaha :) \ufeff", 
+            "author": "Shweta Sridhar"
+        }, 
+        {
+            "date": "2014-08-05T13:51:20.861Z", 
+            "text": "Try as I may I cannot reproduce the the first 45 seconds of this....makes \nme sad.\ufeff", 
+            "author": "Allen Bealle"
+        }, 
+        {
+            "date": "2014-10-17T10:16:25.272Z", 
+            "text": "Yes, Thanks.  The ability to learn is in us all.", 
+            "author": "Allen Bealle"
+        }, 
+        {
+            "date": "2014-10-17T02:50:39.995Z", 
+            "text": "+Allen Bealle\nYou have hands and eyes and therefore the basic equipment. You imagination \ncan only grow and is encouraged by practice. Good luck.", 
+            "author": "Philip Jones"
+        }, 
+        {
+            "date": "2014-08-05T14:03:57.138Z", 
+            "text": "Pencil and eraser work....yay!", 
+            "author": "Allen Bealle"
+        }, 
+        {
+            "date": "2014-07-30T21:57:22.275Z", 
+            "text": "ever been board but all you had to paly with were really wordy papers that \nhad lots of words that you don't really care about. What if you started at \nthe top and made a line going down that went between all the words to get \nto the bottem without thouching outside of the paragragh?\ufeff", 
+            "author": "Mev Wetzker"
+        }, 
+        {
+            "date": "2014-07-21T06:02:23.479Z", 
+            "text": "inspiring\ufeff", 
+            "author": "Giordan Kho"
+        }, 
+        {
+            "date": "2014-07-19T16:12:09.281Z", 
+            "text": "The little prince reference lol\n\ufeff", 
+            "author": "61raindrops"
+        }, 
+        {
+            "date": "2014-07-08T19:18:38.618Z", 
+            "text": "anyone else think she would make an amazing graffiti artist... or tattoo \nartist... damn\ufeff", 
+            "author": "ilovedanavideo"
+        }, 
+        {
+            "date": "2014-07-04T08:23:55.688Z", 
+            "text": "Mathematics and art crashes into each other... KABOOM!!!!\nAnd a Vi Hart is born. \ufeff", 
+            "author": "arifa haque"
+        }, 
+        {
+            "date": "2014-06-30T10:23:32.836Z", 
+            "text": "But, why does it always work out?\ufeff", 
+            "author": "Chris Hartwig"
+        }, 
+        {
+            "date": "2014-06-28T23:49:41.034Z", 
+            "text": "I just developed ADHD. \ufeff", 
+            "author": "Mikey Deeze"
+        }, 
+        {
+            "date": "2014-06-24T05:29:25.303Z", 
+            "text": "What is Python?\ufeff", 
+            "author": "Totally uninspired geek"
+        }, 
+        {
+            "date": "2014-06-23T15:04:16.629Z", 
+            "text": "I love your Dark Mark!\ufeff", 
+            "author": "Ann-Therese Greaves"
+        }, 
+        {
+            "date": "2014-06-21T00:30:34.871Z", 
+            "text": "I have watched so may of your vids for the past while. Ur awesome. \nExpecialy cause u love harry potter. \ufeff", 
+            "author": "Draca Malfoy"
+        }, 
+        {
+            "date": "2014-10-20T19:34:17.203Z", 
+            "text": "She's awesome also because she knows programming languages!", 
+            "author": "Daniel Keriazis"
+        }, 
+        {
+            "date": "2014-06-22T03:02:50.418Z", 
+            "text": "XD", 
+            "author": "Draca Malfoy"
+        }, 
+        {
+            "date": "2014-06-21T19:26:46.234Z", 
+            "text": "I LOVE HER. XD", 
+            "author": "Overlord Zanna"
+        }, 
+        {
+            "date": "2014-06-21T14:21:19.042Z", 
+            "text": "XD", 
+            "author": "Draca Malfoy"
+        }, 
+        {
+            "date": "2014-06-21T14:21:14.898Z", 
+            "text": "Ikr. ", 
+            "author": "Draca Malfoy"
+        }, 
+        {
+            "date": "2014-06-21T00:39:09.551Z", 
+            "text": "SHE IS AWESOME.", 
+            "author": "Overlord Zanna"
+        }, 
+        {
+            "date": "2014-06-17T10:50:23.117Z", 
+            "text": "\"One speaks in Python\" -.- dammit that's a programming language\ufeff", 
+            "author": "help"
+        }, 
+        {
+            "date": "2015-03-22T19:12:57.275Z", 
+            "text": "+\u0183\u0279\u01ddqu\u01dd\u0287\u0287n\u0279 \u026f\u0131\u0250\u0279\u0265d\u01dd And I'm pretty sure that the Parseltongue snake was \nsaying the exact word in the movies to open the Chamber :p\n ", 
+            "author": "RepriseOfxq010"
+        }, 
+        {
+            "date": "2015-02-12T01:52:42.083Z", 
+            "text": "+Sandra T. she drew the words that would call a function that you named \n'open'", 
+            "author": "\u0183\u0279\u01ddqu\u01dd\u0287\u0287n\u0279 \u026f\u0131\u0250\u0279\u0265d\u01dd"
+        }, 
+        {
+            "date": "2015-01-19T13:45:42.459Z", 
+            "text": "she actually drew the words the snake spoke in the language :D well kind of \nanyway", 
+            "author": "Sandra T."
+        }, 
+        {
+            "date": "2014-06-13T22:13:40.151Z", 
+            "text": "The snake that ate the elephant:D\ufeff", 
+            "author": "asakaPOD"
+        }, 
+        {
+            "date": "2014-06-10T11:41:49.193Z", 
+            "text": "Was that a little prince reference?\ufeff", 
+            "author": "Charley Howard"
+        }, 
+        {
+            "date": "2014-06-09T10:41:59.440Z", 
+            "text": "\u03dc....(Wau)..(Wow)\ufeff", 
+            "author": "Warren Videos (TGIM)"
+        }, 
+        {
+            "date": "2014-06-08T01:05:51.183Z", 
+            "text": "SO MANY PUNS!\ufeff", 
+            "author": "Isabelle Herzog"
+        }, 
+        {
+            "date": "2014-10-20T19:33:46.209Z", 
+            "text": "Snakes on a plane! I laughed so hard!", 
+            "author": "Daniel Keriazis"
+        }, 
+        {
+            "date": "2014-09-05T21:53:39.893Z", 
+            "text": "Oh my god your picture! :D", 
+            "author": "QTHERESURRECTION"
+        }, 
+        {
+            "date": "2014-07-11T15:25:59.012Z", 
+            "text": "\"you are me after all\" :)", 
+            "author": "Wouter H"
+        }, 
+        {
+            "date": "2014-06-04T03:17:12.592Z", 
+            "text": "way cool! \n\nthose are celtic knots\u2026. i love doing those too ( ^.^ )b\nhttp://rococokara.deviantart.com/art/Braids-439330545\nhttp://rococokara.deviantart.com/art/Circular-Knots-453555110\ufeff", 
+            "author": "Coco K."
+        }, 
+        {
+            "date": "2014-06-02T09:38:11.154Z", 
+            "text": "Criminally charming.\ufeff", 
+            "author": "Scott Wallace"
+        }, 
+        {
+            "date": "2014-05-20T01:29:28.456Z", 
+            "text": "snake snake snake snake snake snake\ufeff", 
+            "author": "Cassandra Hart"
+        }, 
+        {
+            "date": "2014-05-15T03:54:00.729Z", 
+            "text": "This video was so intriguing, mostly because I never thought that doodling \ncould be related to math. I always thought about drawing and math being \nrelated to architecture only. All these drawings look so realistic and 3D, \nand one doesn't have to be an artist to be able to draw these, one must \nonly know math techniques! This video really shows how curvatures, patterns \nand some geometry can lead to very cool visuals. By connecting the \ncrossings and making them distinct, it can lead to interesting shapes. \nAlso, the drawings relate to math in that these processes work every time. \nI also really like how you present three different \"doodle games\" that are \nrelated to math. However, the doodling was a little hard to follow. I tried \ndoing some drawings like this myself, but it was very hard to do what you \nwere doing because you went really fast. A question that I had when I was \nwatching this was whether the Olympic rings were created this way, as with \nmany other symbols we have today. Overall though, I really found this video \neye opening because it introduced a variety of mathematics to create \nappealing visuals. \ufeff", 
+            "author": "Areina Ismail"
+        }, 
+        {
+            "date": "2014-05-08T23:22:28.321Z", 
+            "text": "There's nothing more attractive than a smart woman who knows her stuff.\ufeff", 
+            "author": "Harvey JUSTLAUGH"
+        }, 
+        {
+            "date": "2014-05-07T23:24:00.144Z", 
+            "text": "isnt sharpie permanant\ufeff", 
+            "author": "Akshita Alousyes"
+        }, 
+        {
+            "date": "2014-05-05T12:45:39.590Z", 
+            "text": "Cool! I thought it was interesting how you proved that the cords will \nalways continue because they're a part of a continuous cycle. It's also \nrepresentative of many other aspects of math, because there are so many \nequations that continue with each number that is plugged in, and lead up to \ninfinity or negative infinity-which is also the ultimate symbol of \ncontinuity in mathematics. \ufeff", 
+            "author": "Greta Jarboe"
+        }, 
+        {
+            "date": "2014-04-27T03:34:41.738Z", 
+            "text": "You are amazing!\ufeff", 
+            "author": "Zozo"
+        }, 
+        {
+            "date": "2014-04-26T12:19:22.030Z", 
+            "text": "This is amazing!\ufeff", 
+            "author": "\u845b\u660e\u6d0b"
+        }, 
+        {
+            "date": "2014-04-23T13:37:22.849Z", 
+            "text": "I can still watch you draw and listen to your rambles for dayyyys. \ufeff", 
+            "author": "Connor Cliche"
+        }, 
+        {
+            "date": "2014-04-20T11:52:29.673Z", 
+            "text": "WOah\ufeff", 
+            "author": "Michelle Hansen"
+        }, 
+        {
+            "date": "2014-04-21T16:54:06.950Z", 
+            "text": "My reaction exactly, preceded by a giggle :D", 
+            "author": "Mustafa Kilinc"
+        }, 
+        {
+            "date": "2014-04-20T05:19:03.609Z", 
+            "text": "Harry Pitter references! :D\ufeff", 
+            "author": "Levi R"
+        }, 
+        {
+            "date": "2014-04-20T11:53:00.342Z", 
+            "text": "Yeah! Harry Pitter!", 
+            "author": "Michelle Hansen"
+        }, 
+        {
+            "date": "2014-04-13T18:52:04.545Z", 
+            "text": "I can't do the doodle games...\ufeff", 
+            "author": "Alexandra King"
+        }, 
+        {
+            "date": "2014-04-08T00:15:36.511Z", 
+            "text": "LOLOL, SERPENTAGRAM - AFTER BEING KNIGHTED, I FULLY LOL'd\ufeff", 
+            "author": "Jessie OC"
+        }, 
+        {
+            "date": "2014-04-07T02:39:55.060Z", 
+            "text": "Progamming joke! you get a like for the python part\ufeff", 
+            "author": "Thomas Tedesco"
+        }, 
+        {
+            "date": "2014-04-07T00:59:32.106Z", 
+            "text": "I. Love. You. Will you be my wife?\ufeff", 
+            "author": "notatumor"
+        }, 
+        {
+            "date": "2014-03-28T03:33:27.279Z", 
+            "text": "I recently doodled a set of three rings, overlapping Venn diagram style. I \nthen weaved over and under and realized that by doing that, I had doodled \nthe Borromean Rings. Each ring was completely over one ring, and completely \nunder the other. The doodle games in this video have been my favorite this \nsemester. Not sure why.\ufeff", 
+            "author": "MadeofAwesome4ever"
+        }, 
+        {
+            "date": "2014-03-26T00:07:51.717Z", 
+            "text": "I love his she's a Potterhead!!! Im with ya girl!!!!!!!!\ufeff", 
+            "author": "Brenna Sanchez"
+        }, 
+        {
+            "date": "2014-03-20T03:36:55.392Z", 
+            "text": "Why are u not a teacher \ufeff", 
+            "author": "Bacon Dog"
+        }, 
+        {
+            "date": "2014-03-16T23:01:02.228Z", 
+            "text": "Mind = Blown\ufeff", 
+            "author": "TheAceofSpades14"
+        }, 
+        {
+            "date": "2014-03-16T06:20:59.414Z", 
+            "text": "\"and this one speaks in Python\" ... \"open()\" I see what you did there...\ufeff", 
+            "author": "SteviesGamingVideos"
+        }, 
+        {
+            "date": "2014-03-15T08:06:09.109Z", 
+            "text": "Has no one really noticed the python computer language reference?\ufeff", 
+            "author": "Keaton Immekus"
+        }, 
+        {
+            "date": "2014-03-12T23:55:37.699Z", 
+            "text": "What is that surface with one side she drew?\n\ufeff", 
+            "author": "George Walker"
+        }, 
+        {
+            "date": "2014-03-09T04:33:12.031Z", 
+            "text": "Gotta love the Little Prince reference at 2:25. Great channel.\ufeff", 
+            "author": "Brian Ronan"
+        }, 
+        {
+            "date": "2014-03-04T02:15:56.576Z", 
+            "text": "\"snakes on a plane\"\nI'm tired of 'em.\ufeff", 
+            "author": "Bytewave"
+        }, 
+        {
+            "date": "2014-03-01T22:48:30.129Z", 
+            "text": "sacred geometry is fun\ufeff", 
+            "author": "Kyle Heinig"
+        }, 
+        {
+            "date": "2014-02-24T09:18:10.637Z", 
+            "text": "Vihart.py\ufeff", 
+            "author": "ARKA"
+        }, 
+        {
+            "date": "2014-02-22T15:08:38.000Z", 
+            "text": "3:19 this is also a form of art called \"op art\" or \"optical art\"\ufeff", 
+            "author": "SharpieGirl Lee"
+        }, 
+        {
+            "date": "2014-02-22T14:28:09.867Z", 
+            "text": "I did 3:11 before\ufeff", 
+            "author": "HeyIt'sChloe xx"
+        }, 
+        {
+            "date": "2014-02-12T13:23:39.707Z", 
+            "text": "wow! more math...\ufeff", 
+            "author": "David Delikat"
+        }, 
+        {
+            "date": "2014-02-08T20:53:31.172Z", 
+            "text": "I can't wait to do this :D you are great at doodling\ufeff", 
+            "author": "Peter Marsh (breadloaf64)"
+        }, 
+        {
+            "date": "2014-02-06T20:07:09.190Z", 
+            "text": "Aaahhh... Serpentagram was knighted=SIRpentagram.... I see what you did \nthere...\ufeff", 
+            "author": "James Cutler"
+        }, 
+        {
+            "date": "2014-02-04T13:45:01.740Z", 
+            "text": "im falling love with you ! *_* amazing ! \ufeff", 
+            "author": "ALAA SHAHEEN"
+        }, 
+        {
+            "date": "2014-01-30T00:56:00.597Z", 
+            "text": "I can't wait till math class\nSo I can doodle all these awesome stuff\ufeff", 
+            "author": "Jady Li"
+        }, 
+        {
+            "date": "2014-01-26T08:09:01.642Z", 
+            "text": "Love the Harry Potter references!!\ufeff", 
+            "author": "Abby Tracy"
+        }, 
+        {
+            "date": "2014-01-25T06:36:10.000Z", 
+            "text": "LE PETIT PRINCE!!!!!! I cannot believe the number of references that are \ninfused in this video!\ufeff", 
+            "author": "Matthew Hoiland"
+        }, 
+        {
+            "date": "2014-01-25T01:47:06.269Z", 
+            "text": "Nice hat ;)\ufeff", 
+            "author": "tilt3011"
+        }, 
+        {
+            "date": "2014-01-23T06:57:46.412Z", 
+            "text": "I think you would love shimenawas, Vi.\ufeff", 
+            "author": "SalThePiplup"
+        }, 
+        {
+            "date": "2014-01-23T04:54:07.096Z", 
+            "text": "This video made me so happy you have no idea.\ufeff", 
+            "author": "Sonia Sehra"
+        }
+    ]
+}
