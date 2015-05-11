@@ -609,7 +609,11 @@
         "/m/09g7pqs", 
         "/m/0gg7n51"
     ], 
+<<<<<<< HEAD
     "number_views": 361806, 
+=======
+    "number_views": 361833, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
     "categories": [
         22
     ], 
@@ -1188,6 +1192,14 @@
             "date": "2015-03-30T05:35:41.482Z", 
             "text": "Hey John, you're good at solving world problems; what's your solution? \ufeff", 
             "author": "KC Sutherland (Eleventytwo)"
+<<<<<<< HEAD
+=======
+        }, 
+        {
+            "date": "2015-03-30T05:06:24.958Z", 
+            "text": "All I know is that I had to accept full time where I work to get health \ninsurance through them because they dropped health insurance for the part \ntime workers. A vast majority of the workers are part time. I still never \ngo to the doctors other than a yearly physical. \ufeff", 
+            "author": "stizan24"
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
         }
     ]
 }

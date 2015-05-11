@@ -1,0 +1,1643 @@
+{
+    "publish_date": "2014-07-13T00:53:07.000Z", 
+    "video_length": "PT9M19S", 
+    "captions": [
+        {
+            "text": "Behold! The transistor, a tiny switch about\nthe size of a virus that can control the flow", 
+            "dur": "6.17", 
+            "start": "0.25"
+        }, 
+        {
+            "text": "of a small electrical current. It&#39;s one of\nthe most important inventions ever because", 
+            "dur": "3.679", 
+            "start": "6.42"
+        }, 
+        {
+            "text": "when it&#39;s on, it&#39;s on and when it&#39;s off, it&#39;s\noff. Sounds simple. Probably too simple. But", 
+            "dur": "5.96", 
+            "start": "10.099"
+        }, 
+        {
+            "text": "this &quot;either/or&quot; situation is incredibly useful\nbecause it is a binary system. On or off,", 
+            "dur": "5.521", 
+            "start": "16.059"
+        }, 
+        {
+            "text": "yes or no, one or zero. But with enough transistors\nworking together we can create limitless combinations", 
+            "dur": "5.48", 
+            "start": "21.58"
+        }, 
+        {
+            "text": "of &quot;ons&quot; and &quot;offs&quot;, &quot;ones&quot; and &quot;zeros&quot; to\nmake a code that can store and process just", 
+            "dur": "5.08", 
+            "start": "27.06"
+        }, 
+        {
+            "text": "about any kind of information you can imagine.", 
+            "dur": "2.22", 
+            "start": "32.14"
+        }, 
+        {
+            "text": "That&#39;s how your computer computes, and it&#39;s\nhow you&#39;re watching me right now. It&#39;s all", 
+            "dur": "3.74", 
+            "start": "34.36"
+        }, 
+        {
+            "text": "because those tiny transistors can be organized,\nor integrated into integrated circuits also", 
+            "dur": "5.17", 
+            "start": "38.1"
+        }, 
+        {
+            "text": "known as microchips or microprocessors, which\ncan orchestrate the operation of millions", 
+            "dur": "4.58", 
+            "start": "43.27"
+        }, 
+        {
+            "text": "of transistors at once. And until pretty recently,\nthe only limitation to how fast and smart", 
+            "dur": "4.619", 
+            "start": "47.85"
+        }, 
+        {
+            "text": "our computers could get was how many transistors\nwe could pack onto a microchip.", 
+            "dur": "4.201", 
+            "start": "52.469"
+        }, 
+        {
+            "text": "Back in 1965, Gordon Moore, co-founder of\nthe Intel Corporation, predicted that the", 
+            "dur": "4.27", 
+            "start": "56.67"
+        }, 
+        {
+            "text": "number of transistors that could fit on a\nmicrochip would double every two years. So", 
+            "dur": "4.67", 
+            "start": "60.94"
+        }, 
+        {
+            "text": "essentially every two years computers would\nbecome twice as powerful. This is known in", 
+            "dur": "4.25", 
+            "start": "65.61"
+        }, 
+        {
+            "text": "the tech industry as Moore&#39;s Law, and for\nforty years it was pretty accurate; we went", 
+            "dur": "4.65", 
+            "start": "69.86"
+        }, 
+        {
+            "text": "from chips with about 2,300 transistors in\n1972, to chips with about 300 million transistors", 
+            "dur": "5.62", 
+            "start": "74.51"
+        }, 
+        {
+            "text": "by 2006.", 
+            "dur": "0.76", 
+            "start": "80.13"
+        }, 
+        {
+            "text": "But over the last ten years we&#39;ve fallen behind\nthe exponential growth that Moore predicted.", 
+            "dur": "4.85", 
+            "start": "80.89"
+        }, 
+        {
+            "text": "The processors coming off assembly lines now\nhave about a billion transistors, which is", 
+            "dur": "3.96", 
+            "start": "85.74"
+        }, 
+        {
+            "text": "a really big number, but if we were keeping\nup with Moore&#39;s Law, we&#39;d be up to four or", 
+            "dur": "4.169", 
+            "start": "89.7"
+        }, 
+        {
+            "text": "five billion by now.", 
+            "dur": "1.301", 
+            "start": "93.869"
+        }, 
+        {
+            "text": "So why is the trend slowing down? How can\nwe get more transistors onto a chip? Are there", 
+            "dur": "4.809", 
+            "start": "95.17"
+        }, 
+        {
+            "text": "entirely different technologies we could be\nusing instead, ones that pose no limitations?", 
+            "dur": "4.991", 
+            "start": "99.979"
+        }, 
+        {
+            "text": "And how do billions of little on/off switches\nturn into movies and music and YouTube videos", 
+            "dur": "4.429", 
+            "start": "104.97"
+        }, 
+        {
+            "text": "about science that display on a glowing, magical\nbox? Spoilers: it&#39;s not magic; it&#39;s science.", 
+            "dur": "7", 
+            "start": "109.399"
+        }, 
+        {
+            "text": "[SciShow intro music]", 
+            "dur": "7", 
+            "start": "117.36"
+        }, 
+        {
+            "text": "To understand the device that you&#39;re using\nright now as well as the challenges computer", 
+            "dur": "3.591", 
+            "start": "126.469"
+        }, 
+        {
+            "text": "science is facing, and what the future of\ncomputing might look like, you have to start", 
+            "dur": "4.09", 
+            "start": "130.06"
+        }, 
+        {
+            "text": "small with that transistor. A transistor is\nessentially a little gate that can be opened", 
+            "dur": "4.97", 
+            "start": "134.15"
+        }, 
+        {
+            "text": "or shut with electricity to control the flow\nof electrons between two channels made of", 
+            "dur": "4.15", 
+            "start": "139.12"
+        }, 
+        {
+            "text": "silicon, which are separated by a little gap.\nThey&#39;re made of silicon because silicon is", 
+            "dur": "4.29", 
+            "start": "143.27"
+        }, 
+        {
+            "text": "a natural semiconductor. It can be modified\nto conduct electricity really well in some", 
+            "dur": "4.44", 
+            "start": "147.56"
+        }, 
+        {
+            "text": "conditions or not at all in other conditions.\nIn its pure state, silicon forms really nice,", 
+            "dur": "5.3", 
+            "start": "152"
+        }, 
+        {
+            "text": "regular crystals. Each atom has four electrons\nin its outer shell that are bonded with the", 
+            "dur": "4.57", 
+            "start": "157.3"
+        }, 
+        {
+            "text": "silicon atoms around it. This arrangement\nmakes it an excellent insulator. It doesn&#39;t", 
+            "dur": "3.94", 
+            "start": "161.87"
+        }, 
+        {
+            "text": "conduct electricity very well because all\nof its electrons are spoken for. But you can", 
+            "dur": "3.899", 
+            "start": "165.81"
+        }, 
+        {
+            "text": "make that crystalline silicon conduct electricity\nreally well if you dope it. You know, doping,", 
+            "dur": "4.801", 
+            "start": "169.709"
+        }, 
+        {
+            "text": "when you inject one substance into another\nsubstance to give it powerful properties,", 
+            "dur": "3.68", 
+            "start": "174.51"
+        }, 
+        {
+            "text": "like what Lance Armstrong did to win the the\nTour De France seven times, only instead of", 
+            "dur": "3.82", 
+            "start": "178.19"
+        }, 
+        {
+            "text": "super-powered tiger blood or whatever, the\nsilicon is doped with another element like", 
+            "dur": "5.05", 
+            "start": "182.01"
+        }, 
+        {
+            "text": "phosphorous, which has five electrons in its\nouter shell; or boron, which has three.", 
+            "dur": "3.98", 
+            "start": "187.06"
+        }, 
+        {
+            "text": "If you inject these in to pure crystal silicon,\nsuddenly you have extra unbonded electrons", 
+            "dur": "4.94", 
+            "start": "191.04"
+        }, 
+        {
+            "text": "that can move around, and jump across the\ngap between the two strips of silicon. But", 
+            "dur": "3.78", 
+            "start": "195.98"
+        }, 
+        {
+            "text": "they&#39;re not gonna do that without a little\nkick. When you apply a positive electrical", 
+            "dur": "3.449", 
+            "start": "199.76"
+        }, 
+        {
+            "text": "charge to a transistor, that positive charge\nwill attract those electrons, which are negative,", 
+            "dur": "4.721", 
+            "start": "203.209"
+        }, 
+        {
+            "text": "out of both silicon strips, drawing them in\nto the gap between them. When enough electrons", 
+            "dur": "4.529", 
+            "start": "207.93"
+        }, 
+        {
+            "text": "are gathered, they turn in to a current. Remove\nthe positive charge, and the electrons zip", 
+            "dur": "3.971", 
+            "start": "212.459"
+        }, 
+        {
+            "text": "back in to their places leaving the gap empty.\nThus the transistor has two modes: on and", 
+            "dur": "4.779", 
+            "start": "216.43"
+        }, 
+        {
+            "text": "off, one and zero.", 
+            "dur": "2.021", 
+            "start": "221.209"
+        }, 
+        {
+            "text": "All the information your computer is using\nright now is represented by sequences of open", 
+            "dur": "4.69", 
+            "start": "223.23"
+        }, 
+        {
+            "text": "and shut transistors. So, how does a bunch\nof ones and zeroes turn in to me talking to", 
+            "dur": "4.959", 
+            "start": "227.92"
+        }, 
+        {
+            "text": "you on your screen right now? Let&#39;s just imagine\neight transistors hooked up together. I say", 
+            "dur": "3.791", 
+            "start": "232.879"
+        }, 
+        {
+            "text": "8 because one byte of information is made\nout of 8 bits, that&#39;s 8 on or off switches,", 
+            "dur": "5.72", 
+            "start": "236.67"
+        }, 
+        {
+            "text": "that&#39;s the basic unit of a single piece of\ninformation inside your computer.", 
+            "dur": "3.09", 
+            "start": "242.39"
+        }, 
+        {
+            "text": "Now the total number of possible on/off configurations\nfor those 8 transistors is 256. That means", 
+            "dur": "6.069", 
+            "start": "245.48"
+        }, 
+        {
+            "text": "256 combinations of ones and zeroes in that\n8 bit sequence. So let&#39;s say our 8 transistor", 
+            "dur": "5.31", 
+            "start": "251.549"
+        }, 
+        {
+            "text": "microchip is given this byte of data, that&#39;s\nthe number 67 in binary by the way. Okay,", 
+            "dur": "4.801", 
+            "start": "256.859"
+        }, 
+        {
+            "text": "so what now?", 
+            "dur": "0.59", 
+            "start": "261.66"
+        }, 
+        {
+            "text": "The cool thing about binary data is that the\nsame string of ones and zeroes can mean totally", 
+            "dur": "4.16", 
+            "start": "262.25"
+        }, 
+        {
+            "text": "different things depending on where it&#39;s sent.", 
+            "dur": "2.569", 
+            "start": "266.41"
+        }, 
+        {
+            "text": "Different parts of your computer use different\ndecoding keys to read the binary code. So", 
+            "dur": "3.841", 
+            "start": "268.979"
+        }, 
+        {
+            "text": "if our teeny tiny little 8 transistor microchip\nkicks that byte over to our graphics card,", 
+            "dur": "4.48", 
+            "start": "272.82"
+        }, 
+        {
+            "text": "our graphics card will interpret it as one\nof 256 colors. Whichever one is coded as number", 
+            "dur": "4.85", 
+            "start": "277.3"
+        }, 
+        {
+            "text": "67. But if that same byte is sent over to\nour sound card, it might interpret it as one", 
+            "dur": "3.81", 
+            "start": "282.15"
+        }, 
+        {
+            "text": "of 256 different spots mapped on to a sound\nwave. Each spot has its own sound and our", 
+            "dur": "5.03", 
+            "start": "285.96"
+        }, 
+        {
+            "text": "byte will code for a spot number 67, so your\nspeaker will put out that sound.", 
+            "dur": "4.8", 
+            "start": "290.99"
+        }, 
+        {
+            "text": "If it&#39;s sent over to the part of your computer\nthat converts data into written language,", 
+            "dur": "3.03", 
+            "start": "295.79"
+        }, 
+        {
+            "text": "called the UTF-8 code, it turns it into the\nletter C. Uppercase C actually, not lowercase", 
+            "dur": "4.849", 
+            "start": "298.82"
+        }, 
+        {
+            "text": "c which is a different byte. So our eight\ntransistor processor already has a lot of", 
+            "dur": "4.361", 
+            "start": "303.669"
+        }, 
+        {
+            "text": "options; the problem is that it can only manage\none byte of data at a time, and even if it&#39;s", 
+            "dur": "3.88", 
+            "start": "308.03"
+        }, 
+        {
+            "text": "flying through bytes at a rate of a few million\nper second, which your computer is doing right", 
+            "dur": "3.92", 
+            "start": "311.91"
+        }, 
+        {
+            "text": "now, that&#39;s still a serious data checkpoint,\nso we need more transistors, and then more,", 
+            "dur": "5.559", 
+            "start": "315.83"
+        }, 
+        {
+            "text": "and more, and more, and more!", 
+            "dur": "1.661", 
+            "start": "321.389"
+        }, 
+        {
+            "text": "And for the past 50 years, the biggest obstacle\nto cramming more and more transistors onto", 
+            "dur": "3.56", 
+            "start": "323.05"
+        }, 
+        {
+            "text": "a single chip, and therefore increasing our\nprocessing power, has come down to one thing", 
+            "dur": "4.39", 
+            "start": "326.61"
+        }, 
+        {
+            "text": "- how small we can make that gap between the\ntwo silicon channels.", 
+            "dur": "3.66", 
+            "start": "331"
+        }, 
+        {
+            "text": "In the early days of computing, those gaps\nwere so big that you could see them with the", 
+            "dur": "3.15", 
+            "start": "334.66"
+        }, 
+        {
+            "text": "naked eye. Today, a state-of-the-art microchip\nhas gaps that are only 32 nanometers across.", 
+            "dur": "4.04", 
+            "start": "337.81"
+        }, 
+        {
+            "text": "To give you a sense of perspective, a single\nred blood cell is 125 times larger than that.", 
+            "dur": "7", 
+            "start": "341.85"
+        }, 
+        {
+            "text": "32 nanometers is the width of only a few hundred\natoms.", 
+            "dur": "2.961", 
+            "start": "349.199"
+        }, 
+        {
+            "text": "So, there&#39;s a limit to how low we can go.\nMaybe we can shave that gap down to 22 or", 
+            "dur": "4.849", 
+            "start": "352.16"
+        }, 
+        {
+            "text": "16 or even 10 nanometers using current available\ntechnology, but then you start running into", 
+            "dur": "5.06", 
+            "start": "357.009"
+        }, 
+        {
+            "text": "a lot of problems.", 
+            "dur": "0.871", 
+            "start": "362.069"
+        }, 
+        {
+            "text": "The first big problem is that when you&#39;re\ndealing with components that are so small", 
+            "dur": "2.81", 
+            "start": "362.94"
+        }, 
+        {
+            "text": "that just a few stray atoms can ruin a chip,\nit&#39;s no longer possible to make chips that", 
+            "dur": "4.75", 
+            "start": "365.75"
+        }, 
+        {
+            "text": "are reliable or affordable.", 
+            "dur": "1.43", 
+            "start": "370.5"
+        }, 
+        {
+            "text": "The second big problem is heat. That many\ntransistors churning through millions of bytes", 
+            "dur": "4.56", 
+            "start": "371.93"
+        }, 
+        {
+            "text": "of data per second in such a small space generates\na lot of heat. I mean, we&#39;re starting to test", 
+            "dur": "5.2", 
+            "start": "376.49"
+        }, 
+        {
+            "text": "chips that get so hot that they melt through\nthe motherboard, and then sometimes through", 
+            "dur": "5.12", 
+            "start": "381.69"
+        }, 
+        {
+            "text": "the floor.", 
+            "dur": "0.85", 
+            "start": "386.81"
+        }, 
+        {
+            "text": "And the third big problem is quantum mechanics.\nOh, quantum mechanics, you enchanting, treacherous", 
+            "dur": "5.45", 
+            "start": "387.66"
+        }, 
+        {
+            "text": "minx. When you start dealing with distances\nthat are that small, you start to face the", 
+            "dur": "3.73", 
+            "start": "393.11"
+        }, 
+        {
+            "text": "very real dilemma of electrons just jumping\nacross the gap for no reason, in a phenomenon", 
+            "dur": "5.71", 
+            "start": "396.84"
+        }, 
+        {
+            "text": "known as quantum tunneling. If that starts\nhappening, your data is gonna start getting", 
+            "dur": "3.53", 
+            "start": "402.55"
+        }, 
+        {
+            "text": "corrupted while it moves around inside your\ncomputer.", 
+            "dur": "3.339", 
+            "start": "406.08"
+        }, 
+        {
+            "text": "So, how can we keep making our computers even\nfaster when atoms aren&#39;t getting any smaller.", 
+            "dur": "5.891", 
+            "start": "409.419"
+        }, 
+        {
+            "text": "Well, it might be time to abandon silicon.", 
+            "dur": "3.06", 
+            "start": "415.31"
+        }, 
+        {
+            "text": "Graphene, for example, is a more highly conductive\nmaterial that would let electrons travel across", 
+            "dur": "4.299", 
+            "start": "418.37"
+        }, 
+        {
+            "text": "it faster. We just can&#39;t figure out how to\nmanufacture it yet.", 
+            "dur": "3.461", 
+            "start": "422.669"
+        }, 
+        {
+            "text": "Another option is to abandon electrons because,\nand get ready to have your mind blown, electrons", 
+            "dur": "5.18", 
+            "start": "426.13"
+        }, 
+        {
+            "text": "are incredibly slow. Like, the electrons moving\nthrough the wire that connects your lamp to", 
+            "dur": "4.06", 
+            "start": "431.31"
+        }, 
+        {
+            "text": "the wall outlet, they&#39;re moving at about 8\nand a half centimeters per hour. And that&#39;s", 
+            "dur": "4.18", 
+            "start": "435.37"
+        }, 
+        {
+            "text": "fast enough when electrons only have to travel\n32 nanometers, but other stuff can go a lot", 
+            "dur": "4.79", 
+            "start": "439.55"
+        }, 
+        {
+            "text": "faster. Like light.", 
+            "dur": "1.419", 
+            "start": "444.34"
+        }, 
+        {
+            "text": "Optical computers would move around photons\ninstead of electrons to represent the flow", 
+            "dur": "3.16", 
+            "start": "445.759"
+        }, 
+        {
+            "text": "of data. And photons are literally as fast\nas anything can possibly be, so you can&#39;t", 
+            "dur": "5.271", 
+            "start": "448.919"
+        }, 
+        {
+            "text": "ask for better than that. But, of course,\nthere are some major problems with optical", 
+            "dur": "3.25", 
+            "start": "454.19"
+        }, 
+        {
+            "text": "computing, like the fact that photons ARE\nso fast that it makes them hard to pin down", 
+            "dur": "4.22", 
+            "start": "457.44"
+        }, 
+        {
+            "text": "for long enough to be used for data. And the\nfact that lasers, which are probably what", 
+            "dur": "3.479", 
+            "start": "461.66"
+        }, 
+        {
+            "text": "optical computing would involve, are huge\npower hogs and would be incredibly expensive", 
+            "dur": "4.721", 
+            "start": "465.139"
+        }, 
+        {
+            "text": "to keep running.", 
+            "dur": "1.059", 
+            "start": "469.86"
+        }, 
+        {
+            "text": "Probably the simplest solution to faster computing\nisn&#39;t to switch to fancy new materials or", 
+            "dur": "4.291", 
+            "start": "470.919"
+        }, 
+        {
+            "text": "harness the power of light, but to just start\nusing more chips. If you&#39;ve got four chips", 
+            "dur": "4.419", 
+            "start": "475.21"
+        }, 
+        {
+            "text": "processing a program in parallel, the computer\nwould be four times faster, right?", 
+            "dur": "3.841", 
+            "start": "479.629"
+        }, 
+        {
+            "text": "Welllll, yeah, I mean es, but microchips are\nsuper expensive, and it&#39;s also hard to design", 
+            "dur": "4.919", 
+            "start": "483.47"
+        }, 
+        {
+            "text": "software that makes use of multiple processors.\nWe like our flows of data to be linear because", 
+            "dur": "4.731", 
+            "start": "488.389"
+        }, 
+        {
+            "text": "that&#39;s how we tend to process information\nand it&#39;s kind of a hard habit to break.", 
+            "dur": "3.229", 
+            "start": "493.12"
+        }, 
+        {
+            "text": "And then there are some really exotic options,\nlike thermal computing which uses variations", 
+            "dur": "4.231", 
+            "start": "496.349"
+        }, 
+        {
+            "text": "in heat to represent bits of data, or quantum\ncomputing which deals in particles that are", 
+            "dur": "4.95", 
+            "start": "500.58"
+        }, 
+        {
+            "text": "in more than one state at the same time, thereby\ntotally doing away with the whole on-off,", 
+            "dur": "4.139", 
+            "start": "505.53"
+        }, 
+        {
+            "text": "either-or system.", 
+            "dur": "0.731", 
+            "start": "509.669"
+        }, 
+        {
+            "text": "So, wherever computers go next, there are\ngonna need to be some big changes if we want", 
+            "dur": "3.97", 
+            "start": "510.4"
+        }, 
+        {
+            "text": "our technology to keep getting smaller, and\nsmarter, and faster.", 
+            "dur": "3.919", 
+            "start": "514.37"
+        }, 
+        {
+            "text": "Personally, I&#39;m holding out hope for the lasers,\nlaser computer- I want one of those.", 
+            "dur": "4.701", 
+            "start": "518.289"
+        }, 
+        {
+            "text": "Thanks for watching the SciShow Infusion,\nespecially to our Subbable subscribers. To", 
+            "dur": "3.57", 
+            "start": "522.99"
+        }, 
+        {
+            "text": "learn how you can support us in exploring\nthe world, whether it&#39;s inside your computer", 
+            "dur": "4.04", 
+            "start": "526.56"
+        }, 
+        {
+            "text": "or outside in the universe, just go to subbable.com/scishow.", 
+            "dur": "3.08", 
+            "start": "530.6"
+        }, 
+        {
+            "text": "And speaking of that whole universe, check\nout our new channel, SciShow Space where we", 
+            "dur": "3.94", 
+            "start": "533.68"
+        }, 
+        {
+            "text": "talk about that, including the latest in space\nnews, and as always don&#39;t forget to go to", 
+            "dur": "4.75", 
+            "start": "537.62"
+        }, 
+        {
+            "text": "youtube.com/scishow and subscribe, so that\nyou can always keep getting more of this,", 
+            "dur": "3.99", 
+            "start": "542.37"
+        }, 
+        {
+            "text": "because I know you like it.", 
+            "dur": "2.88", 
+            "start": "546.36"
+        }, 
+        {
+            "text": "[SciShow outro music]", 
+            "dur": "6.02", 
+            "start": "549.24"
+        }
+    ], 
+    "title": "Moore's Law and The Secret World Of Ones And Zeroes", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/09t92", 
+        "/m/0yq3q1b"
+    ], 
+    "number_views": 664803, 
+    "categories": [
+        22
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T18:12:29.741Z", 
+            "text": "terd o france\ufeff", 
+            "author": "Daulton Baird"
+        }, 
+        {
+            "date": "2015-05-10T18:08:09.667Z", 
+            "text": "meelions\ufeff", 
+            "author": "Daulton Baird"
+        }, 
+        {
+            "date": "2015-05-09T18:08:25.036Z", 
+            "text": " Laser computers would be cool, but I'd prefer a quantum computer.\ufeff", 
+            "author": "MOONSpellsDoom"
+        }, 
+        {
+            "date": "2015-05-09T04:01:19.243Z", 
+            "text": "Can anyone explain the credit to \u5f6d\u5bb6\u6770 at 7.45?\ufeff", 
+            "author": "Chris Zhang"
+        }, 
+        {
+            "date": "2015-05-09T02:19:12.508Z", 
+            "text": "7:06 this part has great potential for misunderstanding, and the way it's \npresented is more or less false. Electrons are actually incredibly fast. \nSuch slow speeds on the order of 8.5 cm / hour usually refer to drift \nvelocity, which is very dependent on context and not relevant to electrical \nsignal speeds, which are typically around 50-99% the speed of light.\ufeff", 
+            "author": "Benjamin Hershey"
+        }, 
+        {
+            "date": "2015-05-05T22:22:07.894Z", 
+            "text": "Can anyone explain to me why More's law says that the number of transistors \nwill only DOUBLE every two years?? Why not quadruple? Why not increase 10 \nfold? What's actually preventing manufacturers from making a 10 nanometer \nchip today? Why will it take years to get that small? If anyone could \nexplain, it would be much appreciated. Cheers.\ufeff", 
+            "author": "Walter White"
+        }, 
+        {
+            "date": "2015-05-01T23:11:19.071Z", 
+            "text": "Wow. I just lmao'd. My laptop has a core i3 350M processor. 32 nm. I got \nya'll beat lmao\ufeff", 
+            "author": "CrispyChicken44"
+        }, 
+        {
+            "date": "2015-04-30T20:25:53.807Z", 
+            "text": "\"It's not magic, it's science!\": Hank Green-2014\ufeff", 
+            "author": "Redstone Ninja"
+        }, 
+        {
+            "date": "2015-04-27T14:10:19.872Z", 
+            "text": "Bottom of the food chain, here, so, have tons of single core machines, \nIntel P4 cpus with Hyper Threading, and a couple multi core boxes.  Found \non Road, dead, or in dumpsters, or, curbside, I had to repair most, with \nnew capacitors due to the Plague of 1999-2008.\n\nAnyway, running the BSDs (1971), and GNU/Linux(1992), specifically Ghost \nBSD, and Linux Mint, NOW, but, all the others, since 1996, they are upto \n200 times FASTER than Windoze, in the hundreds of processes that actually \nrun inside the computer, making it operate the fastest that is possible!\n\nLinux and BSD properly run multiple processors! \n\nThe \"Cloud\" and all Hollywood movies, TV, and the Internet all run \nin/on/because of, LINUX and BSD!  Both of them run ALL 500 of the FASTEST \nMACHINES, and BIGGEST Super computers.  The 640+ GNU/Linux and 39 BSDs \nscale up AND down!\n\nMicrosoft cloud?  Ubuntu Linux contracted and maintained!  Microsoft \nWindows? Created, since 1998, on 25,000+ Linux computers, in a HUGE \ncluster, as a Virtual Machine.    ( Shhhh! Actually, Microsoft doesn't \"eat \ntheir own dogfood\"!).\n\nThe Hadron Collider, in Bern, Switzerland?  Linux! DOD, NSA, FBI, CIA, \nScotland Yard, Interpol, BP, Lowe's, Home Depot, McDonalds, Burger King, \nWendy's, Bojangle's, KFC, and all the Mars Rovers, plus MICROSOFT CORP... \nrun Linux/BSD for security, stability, and very low cost!\n\nLinux is FREE of copyright, free to download.  The 12 IT folks needed to \nmaintain and keep up with 100 Microsoft Servers, can run about 1,000 Linux \n/ BSD Servers!\n\nLinux never gives a Blue Screen of Death, nor, suffers from the documented \nFIFTY (50) MILLION Microsoft Virus!  Whenever you say Virus, you NEED to \nconnect the word MICROSOFT with it!  You might notice the media do not. \n(It's the MONEY!)\n\nBill and Melinda Gates' home city, of Medina, Washington, runs on Linux, \nbecause it switched from Microsoft Windows, when the Engineering and Codes \ndivisions couldn't generate the necessary permits for their $147.5 million \ndollar mansion, in the 1990's.\ufeff", 
+            "author": "Patrick Patrick"
+        }, 
+        {
+            "date": "2015-04-26T22:11:51.900Z", 
+            "text": "I work with transistors on a daily basis, and currently the Kintex \nUltrascale has just over 100 Billion transistors. Hank also failed to \ndiscuss 3-D Transistors.\ufeff", 
+            "author": "Peter Bayley"
+        }, 
+        {
+            "date": "2015-04-25T07:32:12.746Z", 
+            "text": "A laser computer... I want one of those. \ufeff", 
+            "author": "Jojo Mcguire"
+        }, 
+        {
+            "date": "2015-04-24T06:00:21.000Z", 
+            "text": "0:46 amd chip\ufeff", 
+            "author": "Alexander Est"
+        }, 
+        {
+            "date": "2015-04-22T10:11:32.000Z", 
+            "text": "It's not science. It's God! Praise God for technologies!\ufeff", 
+            "author": "Midnite Reveries"
+        }, 
+        {
+            "date": "2015-05-03T18:59:49.598Z", 
+            "text": "+Midnite Reveries lol", 
+            "author": "Jeremiah Lowe"
+        }, 
+        {
+            "date": "2015-04-28T01:50:36.123Z", 
+            "text": "Now I believe you", 
+            "author": "Unkown 2.0"
+        }, 
+        {
+            "date": "2015-04-28T01:32:38.000Z", 
+            "text": "+Unkown 2.0 \n*\"The Lord created the computing machines.\"*  - Matthew 16:1-12", 
+            "author": "Midnite Reveries"
+        }, 
+        {
+            "date": "2015-04-28T01:28:58.335Z", 
+            "text": "Obvious troll is obvious. Unless you're actually stupid.", 
+            "author": "Unkown 2.0"
+        }, 
+        {
+            "date": "2015-04-21T22:45:18.484Z", 
+            "text": "We're at 14nm now boys !\ufeff", 
+            "author": "873Project"
+        }, 
+        {
+            "date": "2015-04-21T22:40:12.847Z", 
+            "text": "We need to adopt the yes/no/maybe system instead\ufeff", 
+            "author": "Fragmonkei"
+        }, 
+        {
+            "date": "2015-04-21T22:18:31.350Z", 
+            "text": "we're down to 14 nanometres now\ufeff", 
+            "author": "jd6133"
+        }, 
+        {
+            "date": "2015-04-18T22:19:33.989Z", 
+            "text": "well, that was the longest intro ever.\ufeff", 
+            "author": "dylan fox"
+        }, 
+        {
+            "date": "2015-04-18T17:18:56.288Z", 
+            "text": "use of multiple nicrochips: multi core procesors\ufeff", 
+            "author": "menkiboj"
+        }, 
+        {
+            "date": "2015-04-17T23:44:29.223Z", 
+            "text": "Why can't we just make bigger processors with more room fore more \ntransistors rather than making the transistor smaller?\ufeff", 
+            "author": "dire_chinchilla"
+        }, 
+        {
+            "date": "2015-04-11T01:44:17.883Z", 
+            "text": "7:39, Forgot an 'S' bro...\ufeff", 
+            "author": "The Budder Pick"
+        }, 
+        {
+            "date": "2015-04-10T23:17:38.792Z", 
+            "text": "7.29 ultra lol\ufeff", 
+            "author": "mustafa \u00f6zdemir"
+        }, 
+        {
+            "date": "2015-04-10T20:59:23.762Z", 
+            "text": "I have always maintained that the further technology goes, the faster it \ngoes. We shall see!\ufeff", 
+            "author": "John Benton"
+        }, 
+        {
+            "date": "2015-04-09T05:38:40.000Z", 
+            "text": "actually we are over MOORE's LAW Titax X from Nvidia is about 7,9-8,1 \nbillion transistors (not disclosed by nvidia) IBM have chips over 10 \nbillions and intel too have prototypes under test.\ufeff", 
+            "author": "Leonardo Morellato"
+        }, 
+        {
+            "date": "2015-04-08T12:04:22.619Z", 
+            "text": "import serial,time\n\n\nserials = []\nfor i in range(99):\n        serials.append('/dev/ttyACM' + str(i))\n\ntry:\n\n    \n \n    for i in range(99):\n        try:\n            ser = serial.Serial(serials[i],9600)\n            print 'congrats,connected to serial port'\n            break\n        except:\n            time.sleep(1)\n            print 'Check if you are pluged in'        \n            break\n\n\n\n\nexcept:\n    print 'failed to connect to serial port'\n    time.sleep(2.5)\n\n\n\nangle = 0\n\nwhile 1:\n    try:\n        fo = open(\"angle.txt\",'r')\n        angle = int(fo.read())\n        fo.close()\n\n        ser.write(chr(angle))\n        print 'able to write to serial port'\n\n        time.sleep(5)\n        \n            \n\n\n    except:\n        print 'failed to write to serial port'\n        break\ufeff", 
+            "author": "Harry Potter"
+        }, 
+        {
+            "date": "2015-04-08T11:59:33.880Z", 
+            "text": "Did not even mention programming :(\ufeff", 
+            "author": "Harry Potter"
+        }, 
+        {
+            "date": "2015-04-08T02:09:08.952Z", 
+            "text": "here's a weird thought. Why don't they make the chips bigger?\n(I'm sure there's some reason this isn't doable, because if no one has \nthought of this then I am giving up on humanity RIGHT NOW)\ufeff", 
+            "author": "Allison Willner"
+        }, 
+        {
+            "date": "2015-04-09T05:12:52.093Z", 
+            "text": "Thank you!", 
+            "author": "Allison Willner"
+        }, 
+        {
+            "date": "2015-04-08T18:39:40.327Z", 
+            "text": "Two main problems:\n1. Larger means more expensive. Additionaly, with increasing size the \nchance of a production error increases, resulting in lower yields and \ntherefore - you guess it - higher prices.\n2. The size of a chip can not be increased without limitations. Well, you \ncould increase the size as big as your production facilities can handle, \nbut you would have to decrease the clock speed of a chip, resulting in less \ncalculations per timeframe. This is due to the speed of electrons: If those \nguys are still travelling through the chip for one operation and you start \nthe next, your calculation will get messed up. There are some ways to \nprevent such errors, like more cores for calculation. But as mentioned in \nthe video are there limitations as well, especially concidering the \nincreasing complexity of software.", 
+            "author": "moepediblupp"
+        }, 
+        {
+            "date": "2015-04-02T21:48:50.711Z", 
+            "text": "Linear programming is the real needlehole. We won't make any real progress \nin computing nor in understanding how our brains work, until we get passed \nthat.\ufeff", 
+            "author": "3MonkeesInDenial"
+        }, 
+        {
+            "date": "2015-04-02T00:46:03.974Z", 
+            "text": "Hrmm... good video but there was a minor terminology error.  You referred \nto 'the problems computer science faces'... but you're talking about \ncomputer engineering, not computer science.  They may sound similar but are \nquite different.  There is a famous quote which summarizes it well:  \n'Computer science is no more about computers than astronomy is about \ntelescopes'.  Computer science concerns itself with the theoretical nature \nof computation, whether it can actually be built or not is not their \nconcern.  (src: BS in CS)\ufeff", 
+            "author": "Dustin Rodriguez"
+        }, 
+        {
+            "date": "2015-04-01T21:08:04.014Z", 
+            "text": "Here's how, take that chip, and make it bigger, it can do more stuff and we \ncould reach 10 billion transistors if we make the chip maybe 9X bigger, \npiece of cake.\ufeff", 
+            "author": "multiconsolegamer"
+        }, 
+        {
+            "date": "2015-04-09T05:52:13.053Z", 
+            "text": "+multiconsolegamer Wrong. First, electrons would still be traveling by the \ntime a new calculation starts, messing everything up. Second, making chips \nbigger raises cost as silicon pure enough for chips is quite expensive and \nlarger chips means less chips per wafer. Third, which is related to the \nsecond point is every chip that ends up with a defect will scrap the \nsilicon that could of been used for up to 9 smaller chips. Forth, unless \nyou are running super computers modern processors are plenty fast enough \nfor normal people. Gpus are where more power is still needed but in gaming \ncomputer the gpu is always the bottleneck as long as you have an Intel quad \ncore or a newer AMD hexa or octa core cpu.", 
+            "author": "bensemus x"
+        }, 
+        {
+            "date": "2015-04-01T04:48:23.197Z", 
+            "text": "Why does every guy who makes popular educational videos talk like this...?\ufeff", 
+            "author": "yas"
+        }, 
+        {
+            "date": "2015-03-31T07:52:19.978Z", 
+            "text": "It kinda sucks, because if quantum computers do become a reality, so many \ncoders and programmers automatically become obsolete, due to the change \nfrom binary to whatever number base those computers will be able to run. \nEvery binary language would have to be scrapped, and most likely even the \nstyles would change due to more effective means with the new number base. \nAll of the programmers would have to re-learn how to program and code, and \nit would take some serious effort.\nThis isn't to say that traditional programmers and coders would become \nuseless, it is just that with a better technology, everything else becomes \nold and, again, obsolete.\ufeff", 
+            "author": "Vincent Rath"
+        }, 
+        {
+            "date": "2015-03-28T05:34:57.000Z", 
+            "text": "So finally I've figured out how does a computer really work!!\ufeff", 
+            "author": "Kartik Choubisa"
+        }, 
+        {
+            "date": "2015-03-27T17:07:48.717Z", 
+            "text": "I gave a presentation on Moore's Law way back in the day, but it wasn't \neven close to being as good and informative as this one... \ufeff", 
+            "author": "Ryan Farr"
+        }, 
+        {
+            "date": "2015-03-26T17:57:07.719Z", 
+            "text": "AND MORE AND MORE AND MORE!! lmao\ufeff", 
+            "author": "CrayZDude2"
+        }, 
+        {
+            "date": "2015-03-26T14:33:04.000Z", 
+            "text": "Now we're on 14nm with 10nm coming soon \ufeff", 
+            "author": "Eugene Wong"
+        }, 
+        {
+            "date": "2015-04-09T05:56:54.845Z", 
+            "text": "+Eugene Wong According to Intel 10nm will be the last processes \nmanufactured on silicon. Rumors have it that they are looking at a III-V \nsemiconductor like Indium Gallium Arsenide. Apparently it's conductivity is \nabout 5x better than silicon. Only problem is that it's also about 10x more \nexpensive :(", 
+            "author": "bensemus x"
+        }, 
+        {
+            "date": "2015-03-25T20:53:27.035Z", 
+            "text": "Actually having four chips doesn't mean a 4x increase in speed. Check \nout Amdahl's law\ufeff", 
+            "author": "Thomas Nehring"
+        }, 
+        {
+            "date": "2015-04-09T14:42:51.039Z", 
+            "text": "+bensemus x Wow, Cool stuff! There's a reason I am a software developer and \nnot a computer architect. ", 
+            "author": "Thomas Nehring"
+        }, 
+        {
+            "date": "2015-04-09T06:12:31.402Z", 
+            "text": "+Thomas Nehring If programs scaled properly then yes it would be a 4x \nincrease in speed. like he said we aren't the best at making parallel \nprograms that can fully utilize our current 4-8 core cpus except in \nrendering as that is a very predictable operation. That law has a clause \nwere there is a set amount of work that cannot be run in parallel. We have \ncomputers with custom os's like the Tianhe-2 with its 32,00 Xeons, each \nwith 16 threads and 48,000 Xeon pi co-processors, each with 57 cores. \nThat's 560,000 threads running at once.\n\nIronically it outputs 34 PFLOPS while its theorized that we need a computer \ncapable of an exaFLOP or more to simulate the human brain. The K \nsupercomputer that outputs 10.5 PFLOPS simulated 1% of the human brain for \n1 second of activity and it took it ~40 minutes to complete the \ncalculations.", 
+            "author": "bensemus x"
+        }, 
+        {
+            "date": "2015-03-25T03:19:38.935Z", 
+            "text": "you know you can make the microchip a little bit larger to store more \ntransistors\ufeff", 
+            "author": "Epicews"
+        }, 
+        {
+            "date": "2015-03-20T14:49:09.836Z", 
+            "text": "splendid refreshing!\ufeff", 
+            "author": "Trudy Choppe"
+        }, 
+        {
+            "date": "2015-03-20T08:56:17.618Z", 
+            "text": "Where can i get the shirt you are wearing, its awesome. And great show by \nthe way, finally an understandable explanation of how computers work. \nThanks\ufeff", 
+            "author": "wacky val"
+        }, 
+        {
+            "date": "2015-03-19T04:09:28.000Z", 
+            "text": "thankyou so much for this episode - so greatful. Moore's law is a \nhorrifying monster for me, and now to understand some of its limitations is \nnice. However, nature always finds a way\ufeff", 
+            "author": "shawn adamson"
+        }, 
+        {
+            "date": "2015-03-18T17:32:49.269Z", 
+            "text": "quantum computing is the only way to move forward\ufeff", 
+            "author": "Adrien Sauve"
+        }, 
+        {
+            "date": "2015-03-18T14:03:56.532Z", 
+            "text": "The new Titan Z has 8 billion so yeah \ufeff", 
+            "author": "IllegalSpaceDuck"
+        }, 
+        {
+            "date": "2015-03-17T08:16:00.782Z", 
+            "text": "There's still another way. We could fold the spacetime around the computer \nin the opposite direction gravity folds it - the computer could then do a \nyear worth work in minutes. Or rather - we would get the result of the \ncomputer working for a year in minutes.\ufeff", 
+            "author": "ElDoRado1239"
+        }, 
+        {
+            "date": "2015-05-06T08:54:15.451Z", 
+            "text": "+ElDoRado1239 I like the way you think. Its not hard to imagine a future \nwhere we can do manipulations at the planck length with strings and control \nthe quantum gravity and warp spacetime around the transistors so as to \nachieve the slowed down time and thus, in a way, hack the system to get \nfaster processing in computers. Just wow.", 
+            "author": "Nahush Bhat"
+        }, 
+        {
+            "date": "2015-05-04T20:29:55.452Z", 
+            "text": "Wow", 
+            "author": "Da SkyFishy"
+        }, 
+        {
+            "date": "2015-03-16T01:37:02.429Z", 
+            "text": "+SciShow , ever thought about doing a computer science crashcourse???\ufeff", 
+            "author": "Rusty Poison"
+        }, 
+        {
+            "date": "2015-03-14T22:12:19.531Z", 
+            "text": ":')\ufeff", 
+            "author": "Firman Insan Muhammad"
+        }, 
+        {
+            "date": "2015-03-14T20:15:19.667Z", 
+            "text": "Intel Edison has 22 nm lithography\ufeff", 
+            "author": "Noorquacker Ind."
+        }, 
+        {
+            "date": "2015-03-13T04:20:34.859Z", 
+            "text": "why cant you just make a huge chip lots of transistors\ufeff", 
+            "author": "+RAW gaming+"
+        }, 
+        {
+            "date": "2015-04-09T06:14:30.698Z", 
+            "text": "++RAW gaming+ cost", 
+            "author": "bensemus x"
+        }, 
+        {
+            "date": "2015-03-11T01:40:09.718Z", 
+            "text": "What would it take to make a synthetic brain?\nLet's get on those nano-bots guys!\ufeff", 
+            "author": "Captain Crater"
+        }, 
+        {
+            "date": "2015-03-09T03:34:29.611Z", 
+            "text": "I dont like this video he don't even talk about real solution that already \nexist to increase transistor number .. like piling them up instead of just \nlaying them flat. Something like the Finfet transistor  or HBM memory.\ufeff", 
+            "author": "Eric Jacques (Leucome)"
+        }, 
+        {
+            "date": "2015-03-08T11:51:51.472Z", 
+            "text": "I thought my monitor was magic T_T\ufeff", 
+            "author": "thomas black"
+        }, 
+        {
+            "date": "2015-03-05T19:47:29.169Z", 
+            "text": "UTF-8 is a specification and not a part of a computer, an implementation of \nutf most likely rasterizes the data into what looks like a character and \nsuch an implementation / font renderer would be a library or a part of the \noperating system not a part of the computer. A computer could easily be \nrunning an operating system which simply doesn't come with such code or be \nrunning something entirely different, or could just be a machine which \nprints to a tty in which case all this stuff wouldn't have an \nimplementation of UTF-8 and would instead have a simple chip which renders \nthese bytes in terms of ASCII (UTF-8 Extends ASCII and therefore all ASCII \nis still UTF-8) on a terminal.\ufeff", 
+            "author": "ISFiYIywAFIBc6qAIIIIIIIIIIIIIIIIQrXTJiCtY3Asd4WF"
+        }, 
+        {
+            "date": "2015-03-05T19:21:39.254Z", 
+            "text": "Lol. Love the simple essence of computers. So much potential in something \nso simple. Maybe not the physical, making it and choosing material but the \nconcept (1's and 0's).\ufeff", 
+            "author": "blax100dk"
+        }, 
+        {
+            "date": "2015-03-05T07:53:45.867Z", 
+            "text": "HP is making some equipment that does at least some processing with light. \nI'm sure every other similar company is making optical processors. Will it \never replace a CPU though?\ufeff", 
+            "author": "NickRoman"
+        }, 
+        {
+            "date": "2015-03-05T05:28:29.693Z", 
+            "text": "what if we just make the microchips bigger, make them just... chips.  Boom.\ufeff", 
+            "author": "172person"
+        }, 
+        {
+            "date": "2015-04-09T06:15:29.069Z", 
+            "text": "+172person cost", 
+            "author": "bensemus x"
+        }, 
+        {
+            "date": "2015-03-04T00:51:42.767Z", 
+            "text": "I thought Moore's law had to do with the cost not the size...?\ufeff", 
+            "author": "John Perkins"
+        }, 
+        {
+            "date": "2015-03-04T00:08:17.096Z", 
+            "text": "Just saying, most applications you can buy/download are multi threaded if \nit is of a certain size\nImagine a motherboard with the space for 4-8 processor sockets\nI'd love to use that for gaming\ufeff", 
+            "author": "Peter Taylor"
+        }, 
+        {
+            "date": "2015-04-06T20:00:51.587Z", 
+            "text": "\"Just saying, most applications you can buy/download are multi threaded if \nit is of a certain size\"\n\nThat's just wrong. The size of the app doesn't ensure multi-cpu support. \nJust look at gaming. We have 30 gb PC games that don't properly support the \nextra hardware. Hell, 90% of them don't even offer 64 bit support. It is \nnot dependent on size, it's dependent on the developer.", 
+            "author": "Aaron Kalat"
+        }, 
+        {
+            "date": "2015-03-04T21:01:43.205Z", 
+            "text": "Most games have terrible multi-processor support. Many problems in gaming \nare simple hard to make parallel. Unless a problem can be completely \nparallelized, as in there is absolutely no sequential requirements, then \nthere will be a limit to the speedup that can be achieved. For example if \n90% of a problem can be parallelized then we can achieve at most a 10x \nspeedup. That is no matter how many processors you add a problem with 10% \nsequential execution will never be more then 10x as fast. Games however are \nno where near that level of parallelism and while certain aspects of the \nmath of games can be easily parallelized there are many aspects of a game \nstep which must be done in order.\n\nOf course the debate between a faster dual core versus a slower quad core \nis going to be game dependant, it is becoming more and more in favor of a \nquad core. Eventually 6 and 8 cores will probably become the best bet. \nSimply doubling the amount of processors probably won't get you a very \nlarge performance increase, quadrupling versus doubling a current gen quad \ncore would probably be indistinguishable from each other.\n\nBasically adding more cores is diminishing returns unless you have achieved \n100% parallelization.", 
+            "author": "BoredDan"
+        }, 
+        {
+            "date": "2015-03-03T16:00:42.975Z", 
+            "text": "http://www.cnn.com/2015/02/26/tech/mci-eth-memristor/index.html\ufeff", 
+            "author": "Alex Tucker"
+        }, 
+        {
+            "date": "2015-03-03T14:11:38.000Z", 
+            "text": "This is a great video, but Hank got some of his facts outdated or wrong:\n- Moore's law is just as true today as it was the day it was formulated. \nIntel's E3-12xx v3 and E5-16xx/26xx v3 Xeons based on the Haswell \nmicroarchitecture have 5.56 billion transistors. Some of those models were \nreleased one year before this video was created.\n- The \"gap between transistor channels\" he is referring to around 5:30 is \nactually called the \"Feature size\" and it's not a measure of distance \nbetween different elements of the same transistor, but instead refers to \nthe average half-pitch (half the distance between identical semiconductor \nstructures arranged in an array pattern, for instance two adjacent memory \ncells). The \"gap between transistor channels\", as he puts it, is about \n0.5nm.\n- Most currently available consumer Intel CPU's are built with a feature \nsize of 22nm since 2012, and the end of 2014 saw the launch of products \nbuilt on 14nm tech.\n- Most of the heat generated by microprocessors is not due to the great \nnumber of transistors packed close together, but rather to a phenomenon \nknown as \"leakage current\" - a very small amount of current is flowing \nthrough the transistors even when they are turned off. While this leakage \nis proportional to the number of transistors inside the chip, it is mainly \na function of the manufacturing process. Newer manufacturing processes have \ngreatly reduced the leakage current - that's why we can now have cellphones \n(that run off batteries) with CPUs that rival the processing power of \ndesktops from less than a decade ago (that could be used as space heaters).\n- Multi-core consumer processing has been around since 2005. Nowadays most \nbattery powered gadget has up to 8 CPU cores, and high-end server CPUs can \nhave as many as 18 - that's 36 threads of code that can run in parallel \nwith HyperThreading, and that's all in just one of potentially many CPUs \ninside a single system.\n- Software that makes use of multiple processors has been available for \ndecades in the server space, but since the introduction of consumer \nmulti-core processing, it has caught up nicely to use all the available \nresources. Most of the tasks that PCs, smartphones and tablets are used for \nactually lend themselves very well to parallel processing - video and audio \ndecoding/encoding, multi-tab web browsing, anti-malware scanning etc. - \nsometimes all done at the same time :)\n(plus he gets bits and bytes mixed up)\n\n\nhttps://en.wikipedia.org/wiki/Haswell_(microarchitecture)#Server_processors\nhttps://en.wikipedia.org/wiki/22_nanometer\ufeff", 
+            "author": "Istvan Kovasznai"
+        }, 
+        {
+            "date": "2015-03-29T21:09:25.749Z", 
+            "text": "Yea, I got confused when he started talking about Multi-core processing and \nstuff because I know my computer is capable of that. ", 
+            "author": "TheTomahawkEagle"
+        }, 
+        {
+            "date": "2015-03-01T03:55:21.828Z", 
+            "text": "what about silicene?\ufeff", 
+            "author": "TheSilverSmith"
+        }, 
+        {
+            "date": "2015-02-28T18:22:44.542Z", 
+            "text": "I just want to know where hank buys his shirts\ufeff", 
+            "author": "Da Jays Mallory"
+        }, 
+        {
+            "date": "2015-02-28T07:05:29.835Z", 
+            "text": "I'm pretty sure the next step in computing will be graphene. Most new \ncomputers nowadays already have multi-core processors, and linear coding is \nstill preferable. That, and there's also already tons of money being thrown \ninto graphene production research.\ufeff", 
+            "author": "Billaxle"
+        }, 
+        {
+            "date": "2015-02-27T13:22:04.670Z", 
+            "text": "Well, if you  want to get  REALLY into the Bitcoin dedicated hardware \n(AntMiner), you first need to know about \"Moore's Law and The Secret World \nof 1's and 0's\". This SciShow video explains the wonderful world of \ntransistors, microchips, and the wonderful science behind Computer Science. \n#computerscience   #bitcoin  \n\nhttps://www.youtube.com/watch?v=1qQE5Xwe7fs\ufeff", 
+            "author": "Windsor Tech Club"
+        }, 
+        {
+            "date": "2015-02-25T01:46:25.913Z", 
+            "text": "1:36 \"How can we get more transistors onto a chip?\"\n.......make a bigger chip, duh.... XD\ufeff", 
+            "author": "dc2008242"
+        }, 
+        {
+            "date": "2015-04-09T20:30:46.126Z", 
+            "text": "+bensemus x thankyou for the info", 
+            "author": "dc2008242"
+        }, 
+        {
+            "date": "2015-04-09T06:19:38.843Z", 
+            "text": "+dc2008242 What he said applied to #2 and #1 is wrong as bigger transistors \nmeans less per mm2 which is the exact opposite of what we want. We do have \nbigger chips but if you look at them they are usualy clocked at about 2Ghz \nwhile consumer chips can go as high as 4.4Ghz. Xeon vs i7 4790", 
+            "author": "bensemus x"
+        }, 
+        {
+            "date": "2015-03-01T14:54:38.629Z", 
+            "text": "+thewiirocks the way I see it, there are two ways of making it bigger\n1.) make the transistors bigger\n2.) add more transistors\n\n.......now what you said is a bit confusing to me (which is odd because I \nusually understand complicated technologies) but I want to know, does what \nyou say apply to #1, #2, or both?", 
+            "author": "dc2008242"
+        }, 
+        {
+            "date": "2015-03-01T03:05:06.851Z", 
+            "text": "Sounds simple enough, doesn't it?\n\nThe problem is that Moore's Law is about how many transistors we can fit *in \nthe same area of silicon*. Increasing the number of transistors for the \nsame surface area will make the chip WAY faster due to a decrease in signal \ntime. \n\nThink of it this way: A computer operates on a digital \"clock\". The clock \nis a circuit that flips back and forth from 0 and 1 at a regular interval. \nThe rate of this clock is what gives us the GHz performance number for the \nchip. Each time the clock updates it causes a cascade of switches in the \nstate of the transistors on the chip. This isn't instantaneous. In fact, it \nlooks a LOT like a complex domino setup.\n\nIf you've ever seen densely packed dominos falling, you've probably noted \nthe wave of collapse that passes from one end to the other. The time for \nthe wave to go from one end to the other is called \"metastability\" in the \ncomputer science world. Our chips have to be clocked so that the chip's \nstate is completely stable before the next clock tick.\n\nIn practical terms this means that a bigger chip will have to be clocked \nslower. Slower clocking means fewer instructions per second which defeats \nthe goal of making the chip faster. \n\nMake sense? :-)", 
+            "author": "thewiirocks"
+        }, 
+        {
+            "date": "2015-02-25T00:13:34.450Z", 
+            "text": "I have a question. Im working on a little something, and i need to know \none, well actually, two things. Is it possible to clone water? If so, how?\ufeff", 
+            "author": "Vitaliys Auto"
+        }, 
+        {
+            "date": "2015-02-24T13:27:55.439Z", 
+            "text": "I posted this information under video, about graphene, but Company in \nPoland can manufacture a furnace that is able to produce a graphene on \nindustrial scale.\ufeff", 
+            "author": "Alucard106"
+        }, 
+        {
+            "date": "2015-02-23T18:53:34.984Z", 
+            "text": "Excellent! I thought that was gonna be really boring and/or uber-scientific \n(for super-nerds only) but you presented it in a way that made it \nunderstandable and enjoyable. Respect. \ufeff", 
+            "author": "John Spirit"
+        }, 
+        {
+            "date": "2015-02-23T14:02:04.385Z", 
+            "text": "Lol\ufeff", 
+            "author": "naack"
+        }, 
+        {
+            "date": "2015-02-22T00:22:35.613Z", 
+            "text": "I read an article which stated that various scientists were using neurons \nto make smart robots, machines that were able to learn simple (or complex \ndepending on your perspective) functions such as running along a line drawn \nby a marker.  These robots were able to tell when the pattern had been \nswitched out and memorize the new one.  The only limiting factor was the \namount of neurons it had.  Packing a net of neurons into a computer chip is \nnot easy but perhaps it can increase the over all efficiency of our \ncomputers.  I am not a scientist by any means but, it's a fun idea.\ufeff", 
+            "author": "Mullenman5"
+        }, 
+        {
+            "date": "2015-02-21T02:35:37.000Z", 
+            "text": "This guy is literally half wrong with everything... He's correct about what \nhe says, but the reasons he gives are wrong.\ufeff", 
+            "author": "Te4mUp"
+        }, 
+        {
+            "date": "2015-02-20T22:39:39.576Z", 
+            "text": "its not magic, its motherfucking science bitch!\ufeff", 
+            "author": "fjoa123"
+        }, 
+        {
+            "date": "2015-02-17T12:24:14.116Z", 
+            "text": "How could u switch on/off a light transistor at the speed of light? If it's \nslower the machine will just run as it's slower component, won't it? \ufeff", 
+            "author": "Luca Avesani"
+        }, 
+        {
+            "date": "2015-04-09T06:20:52.815Z", 
+            "text": "+Luca Avesani Yes but it will still be orders of magnitude faster than \nelectrons.", 
+            "author": "bensemus x"
+        }, 
+        {
+            "date": "2015-02-15T12:13:48.796Z", 
+            "text": "No one understands electromagnetism!!! You fucking people are RIDICulous\ufeff", 
+            "author": "jezaraknid314"
+        }, 
+        {
+            "date": "2015-02-14T22:05:11.000Z", 
+            "text": "after looking at the pick of the transistor I still don't know how they \nwork does the electricity go from the b part to the c part, SERIOUSLY WTF \nCOMPUTERS?!\ufeff", 
+            "author": "UpsideDownMon"
+        }, 
+        {
+            "date": "2015-02-13T17:22:53.695Z", 
+            "text": "First there was the laser printer. Then, there was the laser computer.\ufeff", 
+            "author": "Toksyuryel"
+        }, 
+        {
+            "date": "2015-02-13T16:24:35.001Z", 
+            "text": "One day my kids will dress up as John and Hank Green for Halloween, and \nevery other fancy dress party.\ufeff", 
+            "author": "ryan church"
+        }, 
+        {
+            "date": "2015-02-13T11:29:24.318Z", 
+            "text": "Amazing video! Thanks!!!!!!!\ufeff", 
+            "author": "Marco Petaccia"
+        }, 
+        {
+            "date": "2015-02-13T04:30:27.166Z", 
+            "text": "Just saying, the Core i7-5960X has 2.6 billion transistors... while that's \nnot 5 billion, we should be seeing that with the release of the Broadwell \narchitecture. \ufeff", 
+            "author": "World Known"
+        }, 
+        {
+            "date": "2015-05-09T04:53:51.400Z", 
+            "text": "+Istvan Kovasznai As you previously argued, a correct statement.", 
+            "author": "Rob Fraser"
+        }, 
+        {
+            "date": "2015-05-08T18:29:45.000Z", 
+            "text": "+Rob Fraser\u200b\u200b 1. Moore's law initially stated that the number of \ntransistors within integrated circuits doubles approximately every 2 years. \nThis was later revised to every 18 months. CPUs have followed this trend \nsince the 1980s. The number of cores or other logical blocks within the CPU \nis completely irrelevant in this regard, since everything within the CPU \ndie contributes toward the total transistor count, even CPU-integrated \ngraphics. 2. While most individual software indeed uses relatively few \ncores, a great many programs are running simultaneously on any modern OS. \nIn Windows, for example, you can open task manager and count the number of \nactive processes. They usually number in the dozens, even when the machine \nis otherwise \"idle\". The system architecture (32-bit vs. 64-bit) is again \nirrelevant here. 3. Hank was off by quite a bit on several points, as I \nhave previously argued.", 
+            "author": "Istvan Kovasznai"
+        }, 
+        {
+            "date": "2015-05-08T18:03:53.142Z", 
+            "text": "+World Known Most of the chips mentioned in this thread are multicore so \nthey are not following Moore's Law, if you have a 6 core processor with 6 \nbillion transistors you really have 6 processors with 1 billion transistors \neach.  Since the vast majority of software is not coded for multiple cores, \neven in 2015 and even on 64bit operating systems you will likely be using 1 \nor 2 cores at any one time which is 1 or 2 billion transistors, not the 6 \nbillion total of your chip.  Hank was completely correct.", 
+            "author": "Rob Fraser"
+        }, 
+        {
+            "date": "2015-05-02T09:20:04.815Z", 
+            "text": "There is a fine balance between die size and feasibility. Small increases \nin a chip's die area usually mean large decreases in production yields due \nto defects in the silicon - at least early on in a product's life cycle. \nActually, the die sizes of CPUs haven't really increased that much overall \nduring the last decade. Die sizes of GPUs have increased however, which \nresulted in skyrocketing prices of high-end grapchics cards, largely due to \ndecreasing GPU yields and increased overall board complexity.", 
+            "author": "Istvan Kovasznai"
+        }, 
+        {
+            "date": "2015-05-02T09:08:00.132Z", 
+            "text": "This might seem like a silly questions but why not just make the chip \nbigger in order to fit more transistors? As far as the conventional \ncomputer goes- a small increase in size for an already fairly small \ninternal component seems reasonable no? I don't know if this is backwards \nthinking. I certainly understand that technology has a trend of getting \nsmaller as oppose to bigger but in the case of micro-chips would it be a \nbad thing?", 
+            "author": "Spread Love or Shed Blood"
+        }, 
+        {
+            "date": "2015-04-26T21:58:53.763Z", 
+            "text": "+World Known The Kintex Ultrascale has 100 Billion transistors.", 
+            "author": "Peter Bayley"
+        }, 
+        {
+            "date": "2015-04-08T01:29:45.341Z", 
+            "text": "The number of transistors on a chip isn't currently what's limiting speed. \nThe current issue is the amount of transistors we can run at the same time \nin a given area. Modern processors have extra circuits built in to do \nspecific functions that we don't use as often due to the amount of \ntransistors we can put on them (dark silicon). Another issue is the \nprocessors ability to send signals across itself, and to other components \n(see the replies to Cherno Alpha's post below[or above if it has moved]). \n Although we are approaching a hard limit to the size we can make \nindividual transistors.", 
+            "author": "Douglas Fox"
+        }, 
+        {
+            "date": "2015-03-30T21:44:58.082Z", 
+            "text": "+Daniel Mast\u00eda At the same time, the Titan X has 8 billion transistors, as \ndoes the new rumoured Knight's Landing Xeon Phi cards from Intel. There \nisn't a huge demand for more than what we have. ", 
+            "author": "World Known"
+        }, 
+        {
+            "date": "2015-03-30T17:04:15.172Z", 
+            "text": "+Daniel Mast\u00eda i think that's pretty much correct, i mean what would your \naverage person want with a xeon or a haswell-E processor?", 
+            "author": "TheEpicMusic161"
+        }, 
+        {
+            "date": "2015-03-30T15:35:24.345Z", 
+            "text": "+World Known Yep, that's right, and there are chips with even more than 5 \nbillion transistors today. I think the \"problem\" is that it's come up to a \npoint were consumer chips just don't need to follow Moore's Law, CPUs are \nplenty powerful for most people, so there isn't such a demand for faster \nones. Or maybe I'm completely wrong, who knows.", 
+            "author": "Daniel Mast\u00eda"
+        }, 
+        {
+            "date": "2015-03-19T13:43:05.469Z", 
+            "text": "+willgtl there are actually mobile chips that are 14 nm that released very \nrecently they're in the latest macbook (the super thin one with only one \nport) and the ASUS UX305 and i think a few others", 
+            "author": "TheEpicMusic161"
+        }, 
+        {
+            "date": "2015-03-05T01:46:32.000Z", 
+            "text": "Here's a more correct way of saying what he was trying to say. Transistor \ntech hasn't surpassed 14nm yet and it should've already (Most mainstream \nprocessors are actually 22-20nm). You can cram as many transistors on a \nchip that you want, but the more you have, the bigger the die will need to \nbe. Take the Ivy Bridge HE-4, it has 8.75m transistors/mm2 on a 160mm die \n(1.4b transistor count). The Haswell-E5 HCC processor is only 8.6m \ntransistors/mm2 on a massive 662mm2 die (5.69b transistor count). It's \nspeculated we'll get down to 5nm process in 2020 (Simply the so-called \n\"road map\" of CMOS technology) but going by the past trend, we should be \npast that by 2020. Even getting to 10nm process isn't easy. We still don't \nhave the lithography techniques for fabricating such tiny transistors. \nUnfortunately we don't even know if conventional CMOS technology can go \nthat small. And as said in this video, 10nm is getting to the point where \nwe have to consider quantum mechanics.\n\nIt's just a big ass chip. Anyone can make a bigger chip, but the bigger the \nchip, the greater the chance of manufacturing defects and the greater the \nheat dissipation. The hotter the chip, the greater the gate delay. So \nbigger chip does not mean faster chip. It means hotter chip that's harder \nto keep cool and hence actually slower (Relatively). On top of that, \nbecause it's so large and harder to cool, it'll have a shorter life.\n\nSun announced their new SPARC M7 processor will have 14b transistors. It'll \nbe on the 20nm process, but that's still gonna mean a big die. However, \nlast year Intel also announced the new Core M processors that will actually \nuse the 14nm process. Better processors are still coming, but in only a \ncouple years we're gonna hit a roadblock where we can't go smaller without \nmoving onto a new semiconductor. My hope is we'll have quantum computers by \n2025 (More than just D-Wave's quantum annealing processors).", 
+            "author": "willgtl"
+        }, 
+        {
+            "date": "2015-03-03T13:02:00.453Z", 
+            "text": "The  Haswell E3-12xx v3 and E5-16xx/26xx v3 Xeons have 5.56 billion \ntransistors. Some of those models were released one year before this video \nwas created.\nMost of the information in this video is either hopelessly outdated or \nsimply wrong.", 
+            "author": "Istvan Kovasznai"
+        }, 
+        {
+            "date": "2015-02-13T02:21:45.719Z", 
+            "text": "7:40 he messed up on fast\ufeff", 
+            "author": "jonathan flores"
+        }, 
+        {
+            "date": "2015-02-13T02:01:09.253Z", 
+            "text": "Gotta get that quantum computing going. \ufeff", 
+            "author": "bost h"
+        }, 
+        {
+            "date": "2015-02-13T03:38:08.304Z", 
+            "text": "Want to know what's cool though, NASA and I believe some other org. have \nmade the first quantum computer not that long ago. Its crazy.", 
+            "author": "Andrew Harris"
+        }, 
+        {
+            "date": "2015-02-11T04:18:16.191Z", 
+            "text": "This was probably one of the most inaccurate episodes ever.. It was painful \nto watch. :/\ufeff", 
+            "author": "magicstix0r"
+        }, 
+        {
+            "date": "2015-04-24T10:18:50.714Z", 
+            "text": "+magicstix0r Like most things on this channel, it gives a gross \noversimplification of the topic at hand, to give ordinary people a basic \nidea. \n\nIn layman's terms a sound card does work pretty close to that. Calling it a \nnote wasn't accurate, but data is indeed interpreted as an audio sample by \nthe sound card. But to describe what an audio sample is - would just add an \nextra level of confusion, on top of what might find an already confusing \ntopic. \n\nWe all know that everything we hear can be represented by a sound wave - \nand audio data is nothing more than a digital representation of that wave. \n\nTo better describe such data - picture a wave representation of 1 second of \naudio, with the vertical axis representing amplitude, and the horizontal \naxis representing time. Each piece of data being sent to the sound card \nrepresents the amplitude of the wave at a particular point in time. The \nlarger that piece is, the more closely it will match the actual wave, in \nterms of amplitude. The more samples per second (sample rate), the closer \nit will match any changes in the wave along the horizontal axis. So, if \nyou're trying to play a 16-bit, 44,100hz wav file, it will have 2 bytes to \ndescribe the amplitude of the sample (between -1 and 1), and will have \n44,100 unique samples every second \n\nVideo card was a bit closer, but it's probably been at least 25 years since \na video card only used 256 colors. A typical modern display will use \n24-bits (3 bytes) to display color, with 256 levels of blue, red and green \n- for a total of close to 17 *million* colors. While not as common, there \nare also 30, 32, and even 48 bit color as well. But, the basic concept \nstill stands \n\nBut as I said, it's not supposed to be compsci 101 here - nearly every \nvideo generalizes and simplifies the topic at hand - the only reason you've \nnoticed this particular video, is because it covers a topic that you *are* \nknowledgeable about.", 
+            "author": "Digital_Utopia"
+        }, 
+        {
+            "date": "2015-04-15T23:53:42.721Z", 
+            "text": "+Ben David U sound mad bro. Y u mad?", 
+            "author": "magicstix0r"
+        }, 
+        {
+            "date": "2015-04-15T20:57:21.591Z", 
+            "text": "+magicstix0r Hmm, you wrote all that shit yet no one gives a fuck. Which is \na shame, since you could have complemented the video with a nice \ninformative post. Instead, your autistic, high-horsed masturbatory demeanor \nmakes you sound like an angry nerd behind a computer screen.\n\nThis video is already one of the most informative from the series. Maybe \nthey don't need to go to boring, esoteric details to prove themselves to \nwhiny nerds in order to teach people.", 
+            "author": "Ben David"
+        }, 
+        {
+            "date": "2015-04-13T04:45:49.808Z", 
+            "text": "+magicstix0r Welp, he got told! Lol. Thank you for all of those \nclarifications. That's why I take these \"educational\" channels as \nentertainment and not much else. With that many wrong facts I feel like its \nnot even worth watching now...", 
+            "author": "Ryan L"
+        }, 
+        {
+            "date": "2015-04-10T02:44:36.621Z", 
+            "text": "+Xextreem \nFirst of all, transistors aren't just \"switches.\" MOSFETS (the type of \ntransistor he's talking about here yet neglects to mention), have rather \nnonlinear I-V curves, and only behave as \"all on\" or \"all off\" when they're \nbiased properly in saturated or cut-off modes of operation.\n\nSecond, the \"limitations on how fast and smart our computers can get\" is \ngrossly over-simplified. Simply throwing more transistors on a chip doesn't \nmake it \"faster.\" The maximum clockable speed of a circuit, which for most \nof the past 4 decades was a measure of how \"fast\" it was, is limited by the \npropagation delay needed across the circuit for it to reach steady state. \nSimply adding more transistors to a highly-delayed circuit wouldn't make it \nfaster, and in fact would be quite the opposite. This is why RISC \narchitectures and superscalar (pipelined) architectures became very popular \nfor increasing clockspeeds, and thus performance, in the 90s. \n\nThird, Moore's Law states that the number of transistors per area doubles \nevery 18 months, not every two years.\n\n[Oh wow, we're only through the first two minutes of the video, this \ndoesn't bode well does it... ]\n\nFourth, his description of a transistor is inaccurate. The \"two channels\" \nhe speaks of are two channels of *doped* silicon, not pure silicon, which \nis used as the substrate for the circuit. In addition to this, the \"gap\" \nthat he's talking about is also not pure, but more doped with the opposite \ntype as the two channels. \n\nFifth, pure silicon isn't an insulator; as he just said, it's a \nsemiconductor. He just contradicted himself in his own explanation.\n\nSixth, you're not applying a \"positive electrical charge to the \ntransistor.\" The type of charge you're applying depends on the type of \ntransistor and its properties. Another misleading oversimplification.\n\nSeventh, the electrons aren't drawn out of the \"strips of silicon,\" they're \ndrawn from the bulk material in between the two strips and essentially \ncreate a \"bridge\" between the two strips.\n\nEighth, the \"gathered electrons\" don't \"turn into a current,\" they instead \nallow a current to flow between the two strips of silicon. His explanation \nmakes it seem like if you apply a charge to the gate on the transistor, \nthat you'll magically see current flow between the source and drain, which \nis patently false.\n\nNinth, there's no such thing as a transistor that can store a single bit of \ninformation. Even the closest thing, a DRAM cell, requires a large refresh \ncircuit.\n\nTenth, minus 20 points for his laughable explanation of how a sound card \nworks. \"Mapped to each spot on a sound wave...That spot has its own \nsound...\" ? Lols. There is not a single sound card in existence that works \nthe way he described.\n\nEleventh, quantum tunneling causes more heat issues than data corruption \nissues, and has actually been the source of the heat issues in modern \nprocessors for roughly the past 10 years. \n\nTwelfth, just adding four times as many processors doesn't automagically \nmake things four times faster. Cache synchronization, memory bus access \ncoordination, context switching, etc. all eat into the ideal performance \nefficiency. \n\nThirteenth, \"It's hard to design software that makes use of multiple \nprocessors\" is a gross generalization that is subjective and seldom true.\n\nFourteenth, \"...we like our flows of data to be linear...\" Tell that to CPU \ndesigners who have relied on non-linear out of order processing to make \nimprovements in modern CPUs for over a decade.\n\nMaybe you should get out there and do some research on your own, maybe read \na book, instead of fanboy-worshipping someone on YouTube that spoonfeeds \nyou half-baked facts.\n\nIn short, get rekt, fucking idiot.", 
+            "author": "magicstix0r"
+        }, 
+        {
+            "date": "2015-04-10T01:57:18.441Z", 
+            "text": "+magicstix0r How so? trolling and nothing to proof is stfu/kid", 
+            "author": "Xextreem"
+        }, 
+        {
+            "date": "2015-02-10T17:44:48.588Z", 
+            "text": "i still don't understand how the number of transistors affect performance. \ncould somebody explain?\ufeff", 
+            "author": "theabdu500"
+        }, 
+        {
+            "date": "2015-02-19T04:51:19.000Z", 
+            "text": " Imagine there's a slave doing a lot of work, like maybe mining. This slave \nhas to go through an entire mountain alone, and he would do it twice as \nfast if he had a friend right? And twice as fast yet again if there were \nfour people, and on and on again. ", 
+            "author": "Kyler Lumpkin"
+        }, 
+        {
+            "date": "2015-02-14T11:22:02.809Z", 
+            "text": "That would be appreciated", 
+            "author": "theabdu500"
+        }, 
+        {
+            "date": "2015-02-10T05:52:42.181Z", 
+            "text": "so awesome\ufeff", 
+            "author": "Argonaut22j"
+        }, 
+        {
+            "date": "2015-02-10T05:54:37.000Z", 
+            "text": "I swear this guy knows literally everything. Also I lol'd when he called \nquantum mechanics an enchanting minx. Also when he said \"laser computer... \nah want one of those.\"\ufeff", 
+            "author": "Argonaut22j"
+        }, 
+        {
+            "date": "2015-03-22T04:49:42.680Z", 
+            "text": "he's great, but most of his videos he learns it all. It's scripted. But he \nis a smart guy", 
+            "author": "Kaleb Dodson"
+        }, 
+        {
+            "date": "2015-03-17T12:08:27.197Z", 
+            "text": "+Battusai1984 Do you have a link? I see the Quantum Computing videos, but I \ndon't see any videos on Optical Computing. Thanks!", 
+            "author": "thewiirocks"
+        }, 
+        {
+            "date": "2015-03-17T00:51:51.923Z", 
+            "text": "+foua & +OgreSamanosuke - FWIW, I work with loads which can scale linearly \nalmost infinitely. Basically, each record of data has heavy calculations \nrun against it, but these calculations are not dependent on other records. \nSo I distribute each record to a separate processor (per-core or full \nprocessor) and let them operate in complete parallel. The biggest challenge \nis keeping each processor \"fed\". Data movement itself takes time, so one \nprocessor ends up dedicated to routing incoming records to each processor's \nbuffer. The end result looks a lot like a high-performance direct-injection \nengine. The \"pressure\" of the incoming data stream has to stay high or \nunderflows (insufficient fuel) will occur. Conversely, allowing overflows \nmay mean that the buffer feeder thread isn't distributing its time \nefficiently to keep each processor fed.\n\nThere is some synchronization on the per-processor buffers, but there are a \nnumber of methods for keeping it to a minimum so that sync-locks have no \ndiscernible impact on performance. My real problem is that multi-core \nprocessors physically can't scale linearly. Which brings me to the response \nfrom +daraptor0. \n\n+daraptor0 - I don't think Hank is talking about the transistor heat \nlimits. Or if he is, he's not really making that clear. What I think he's \ntalking about is Thermal Design Power. \n\nThe inherent problem with multi-core processors is that while we can pack \nas many as 20 cores in a single chip, our ability to dissipate heat does \nnot increase linearly with the number of cores. The maximum amount of heat \nthat can be dissipated is known as the \"Maximum Thermal Design Power\".\n\nMax TDP leaves architects and software engineers with a quandry: Do we take \nthe screaming-fast single-threaded approach or do we run multiple cores \nwith each core having a lower individual performance?\n\nThis is not a trivial question! If your code is sensitive to \nsynchronization problems, the single-threaded approach may be significantly \nfaster. But if the workload is highly parallel in nature (especially if the \nworkload is long-running), choosing sustained processing over multiple \ncores may lead to the workload being completed faster.\n\nGiven that we're getting diminishing returns on continuing to clock up \nCPUs, the latter is very appealing. But that means switching to an entire \nclass of algorithms that are inherently parallel. Considering that only the \ntop 1% of qualified engineers can actually wrap their heads effectively \naround multi-threaded code, that's more difficult than it sounds! ", 
+            "author": "thewiirocks"
+        }, 
+        {
+            "date": "2015-03-16T13:01:41.753Z", 
+            "text": "+OgreSamanosuke You claimed that the statement \"your computer can be 4x \nfaster\" is \"outright incorrect\". Disregarding practicalities and \nsynchronization, like you said, if each core works independently it is four \ntimes faster, even if this barely happens in practice. I would not go as \nfar as saying that it's outright incorrect. I think it gets its point \nacross accurately. I mean, whatever number you use there instead of 4x \nthere will be people disagreeing.", 
+            "author": "foua"
+        }, 
+        {
+            "date": "2015-03-16T06:27:11.818Z", 
+            "text": "+foua \nhttp://blog.codinghorror.com/quad-core-desktops-and-diminishing-returns/ Is \na decent explaination of it. Basically because you need to use the bus to \npass info across on what each thread is doing when multi-threading you are \nlimiting how fast you can go. Multi-cores are fine when you are using each \none independently. ", 
+            "author": "OgreSamanosuke"
+        }, 
+        {
+            "date": "2015-03-14T13:12:15.505Z", 
+            "text": "+OgreSamanosuke What diminishing returns are there? If you compare the one \nchip to the four you can process four times as many instructions in \nparallel as the sequential in the same timespan. If you start thinking \nabout parts which can not be done in parallel, then of course you'll get \ndiminishing returns, but it's still upper-bounded by four times the speed.", 
+            "author": "foua"
+        }, 
+        {
+            "date": "2015-03-09T04:08:10.031Z", 
+            "text": "+magicstix0r\n+thewiirocks I believe he was referring to the way he explained how \ntransistors work. Transistors have 3 leads, the collector emitter and base. \nThere are 2 types of transistors, NPN and PNP, this of course refers to the \nleads. Transistors are turned on by applying a voltage to the base, a \npositive voltage for NPN and a negative voltage for PNP. Once the proper \nvoltage is applied to the base-emitter circuit, current will flow through \nthe emitter-colleter leads, aka the transistor is on. Depending on what \ntype of transister you have determines the direction of current flow. \nRemoving the current flow from either the base-emitter or collector-emitter \ncircuits will turn the transistor off. The base and collector or not \nattached in a circuit point of view, as in no current flows between these 2 \nleads. the Base-Emitter circuit requires a .7 volt difference in potential \nto remain on, and the Emitter-Collector requires a .2 volt difference in \nvoltage potential.\n\nAlso much of his explanations on how semiconductors function in general are \ninaccurate. The most important fact about heat regarding semiconductors is \nthat they have a negative temperature coeffecent. As current flows through \na semiconductor (any semiconductor, diodes, SCR, transistors  ect) they \nheat up, as the heat increases, resistance decreases, allowing more current \nto flow through the device. More current means more heat, this will \nincrease untill the device burns up. This can be prevented by placing \nresistave devices in the circuit.\n\nI believe many of these inaccuracies can be arbitrated to a lack in \nunderstanding how electricity works. The best way to explain fundamental \nelectrical theroy is like this. A negative charge is an excess of \nelectrons, a positive charge is a lack of electrons, the deference between \nthese 2 points is called Voltage. Voltage is a pulling force, it wants to \npull all the electrons towards it. The electrons flow from negative to \npositive, think of a vacuum in a tube and the air wants to fill it. The \nvacuum is the voltage and the air is the electrons. This flow is called \ncurrent, or amps. Current flows in the opposite direction of applied \nvoltage. Watts is an expression of volts times amps, ie 12 volts with 6 \namps is 72 Watts. This is of-course only the most rudimentary explanation \nof electricity, but it's all you need to know to understand the operation \nof semiconductors.", 
+            "author": "daraptor0"
+        }, 
+        {
+            "date": "2015-03-07T10:59:17.265Z", 
+            "text": "+thewiirocks\nThere is a really nice video on optic computing on veritasium's channel you \nmight like,", 
+            "author": "Battusai1984"
+        }, 
+        {
+            "date": "2015-03-07T08:02:26.015Z", 
+            "text": "you guys need to get over yourselves and realise Hank is making youtube \nclips that explain the subject so people who are not scientists can get an \nidear of the subject. if you want perfect info GO TO COLLEGE aand get a \nscience degree and then find a way to explain things so people who have not \ngone to college that have an interest in science can understand it. jeez \nstop nit picking", 
+            "author": "Danger Mouse"
+        }, 
+        {
+            "date": "2015-03-01T02:49:08.873Z", 
+            "text": "+magicstix0r Stating that Hank's video is essentially wrong is a rather odd \nstatement. As a computer science professional I found his explanations \nsimplistic but generally correct. For example, he is correct that a \"shared \nnothing\" problem can achieve n times the performance. However, most \nproblems have at least some shared components which are subject to \nscalability issues like those identified by Amdahl's Law. This is the \n\"diminishing returns\" you refer to.\n\nHank's explanation of \"we're bad at writing parallel software\" greatly \nsimplifies the matter, but is essentially correct. He is also correct in \nstating that most of the research is currently focused on increasing \nparallelism and that heat dissipation is a significant hurdle to increasing \nsaid parallelism. (Research the Max TDP of modern microprocessors. If you \npoke around enough you should find a good explanation of why TDP suddenly \nmatters in a world of multi-core chips.) \n\nI found his explanation of electron slowness to be possibly the most \noffensive statement, but again it's not really worth arguing over. \nExplaining the difference between an energy wave and electrons is kind of \nbeyond what he's trying to get across. For better or worse, the energy wave *is \nslowed* by passing through a medium of electrons which makes his point \nstill valid. Optical computing would not be subject to this limitation and \n*may* be faster under the right circumstances. (Those circumstances being \nthat the computer operates in a vacuum and has fewer optical switch points \nthan the number of electron interactions required by today's computers.)", 
+            "author": "thewiirocks"
+        }, 
+        {
+            "date": "2015-02-22T10:05:54.412Z", 
+            "text": "While I agree that Hank appears to know everything, researching science is \ndifficult you know? Especially that science itself is a really broad \nsubject. We should take into account that Hank is a science educator \nmeaning he covers physics, biology and chemistry. These fields may have \ncorrelation to each other but all in all they are different fields \naltogether. In order to be good at one you need to devote time and effort \nto one of these fields. I am doing biology in college and when I did \nresearch on electrochemistry for a group project (long story I won't tell \nwhy I was doing it) I was absolutely wrecked and my mind  was blown apart! \nIt was very little to do with biology. I also researched the mechanism of \nhard drives and my mind was also blown apart.\n\nSo yeah, if Hank got few facts wrong then it is because he is covering \nreally broad topics in a short amount of time. Most scientists work in \ngroup with others from a different field and work together for years. Let's \nnot forget too that Hank has a degree in biochemistry and this video is to \ndo more with physics and maybe little bit of chemistry. I'm not saying we \nlet go of Hank's mistaken facts but I'm just putting up a signpost saying \nthe topic of his video is not his field of expertise.", 
+            "author": "impalabeeper"
+        }, 
+        {
+            "date": "2015-03-08T08:32:45.000Z", 
+            "text": "+OgreSamanosuke its not fallacy when the quality of the video is relative \nto what other people can make", 
+            "author": "Argonaut22j"
+        }, 
+        {
+            "date": "2015-02-14T19:55:35.000Z", 
+            "text": "You can protest his hyperbole and defend the video, but using \"you can't do \nbetter\" is a fallacy, no matter how you look at it.", 
+            "author": "OgreSamanosuke"
+        }, 
+        {
+            "date": "2015-02-13T16:20:40.803Z", 
+            "text": "+OgreSamanosuke Actually, the logic that I shut down that argument with was \ntotally and completely valid. The reason for that is his argument was more \nthan what yours was. It was more than just \"hey here's an error, maybe try \nto correct it\" That's a reasonable response.\n\nHis arugment was \"here's a million errors, let me just mention one though \nspecifically, then let me say that this whole video is worthless because \nhe's not doing his job right.\"\n\nOkay so do you see the dffference between those two arguments. That's why \nhis argument deserved to be shut down with the reminder that he can't do \nany better.  Unless he can, in which case I look forward to his video \nchannel on science.", 
+            "author": "Argonaut22j"
+        }, 
+        {
+            "date": "2015-02-13T08:23:00.302Z", 
+            "text": "+Argonaut22j I'm not debating the difficulty of making these videos, I'm \ndefending the capacity to make criticism. Especially in the case of it \nbeing very valid here. You tried to shut down the criticism with the \nterrible logic that if someone can't make a better video, their opinion \ndoesn't matter.\n\nSecondly, yes, most of the information in this video is either incorrect or \nmassively behind the times. That doesn't make some of it not useful or \ninteresting, even when not accurate, but it does still make it wrong.", 
+            "author": "OgreSamanosuke"
+        }, 
+        {
+            "date": "2015-02-12T04:40:43.000Z", 
+            "text": "He didn' tmiss jack by a wide margin. The only thing that's missing are the \npeople who care what you have to say.\n\nThis guy has hundreds of thousands of views and he does it by providing \nentertaining, informative videos. His \"job\" is more than just providing \nfacts its also being entertaining.\n\nAnd sure you can point out facts, but anyone can point to a building and go \n\"I could do that better.\" It takes a lot of work to make something and to \nactually make it better. So the only thing worthless are your trolling, \nwhiny, comments. ", 
+            "author": "Argonaut22j"
+        }, 
+        {
+            "date": "2015-02-12T04:13:25.087Z", 
+            "text": "+Argonaut22j  Ignoring the idiocy of your comment that seems more like the \nelementary school playground equivalent of \"I know you are but what am I,\" \nsimply put, it isn't my job to create YouTube videos on scientific topics. \nQuite literally, it *is* Hank's job; it's how he buys his food and pays his \nmortgage. The fact that this video has not one or two minor details wrong, \nbut instead is full of glaring mistakes shows a complete lack of research \non the part of him and his team. In short, it was sloppy, and if his goal \nis for \"...everyone to become smarter with him and his subbable \nsubscribers...\" then he has missed the mark by a wide margin. \n\nI can only hope that, instead of taking your childish approach to \ncriticism, the SciShow team keeps in mind that accuracy in what is \npresumably an educational video series is *its one fucking requirement* and \nwill ensure the veracity of the information they publish.  \n\nIn short, regardless of whether or not \"someone else can do better,\" which \nis *always* the case, if you're not going to do your job right, you're \nfucking worthless as a human being.", 
+            "author": "magicstix0r"
+        }, 
+        {
+            "date": "2015-02-11T16:22:15.596Z", 
+            "text": "+OgreSamanosuke When I watched the video it seemed like he said just that...", 
+            "author": "D\u00e9Ji Vu"
+        }, 
+        {
+            "date": "2015-02-11T19:29:12.000Z", 
+            "text": "+OgreSamanosuke he may have gotten a fact or two wrong sure, but so do \nnewspapers, and then people write in and pointit out and then they correct \nit, or they don't in some cases even. So what I'm saying is its pretty \ntough to constantly deliver informative and entertaining(which newspapers \naren't nearly as much as this is) and constantly be accurate about every \nfact. So I'll say it again, if you can do better, make your own channel. \nBut you won't because that requires a lot more than making a comment.", 
+            "author": "Argonaut22j"
+        }, 
+        {
+            "date": "2015-02-11T06:39:22.679Z", 
+            "text": "+Argonaut22j This continues to be the dumbest counter to criticism. It \ndoesn't matter if magicstix0r didn't or can't make a video, that doesn't \nmake this video ANY LESS WRONG.\n\nFor example, Hank said \"by adding more chips your computer can be 4x's \nfaster.\" This is outright incorrect. Parrallel processing has diminishing \nreturns. Going from a Dual core to a quad core CPU is not a gain of 2x's \nspeed, it's more like 1.82x; and going from a quad core to an octo core \nwould be a gain for 1.215x. Not to mention the OS and programs in question \nneed to even be capable of multithreading to utilize more than one core.", 
+            "author": "OgreSamanosuke"
+        }, 
+        {
+            "date": "2015-02-07T18:26:05.212Z", 
+            "text": "85 000 000 nm / 3600 = 23611.1 nm/s\n23611.1 nm/s / 32nm = 0,737 Mhz\n\nSo anything after this intel intel chip from 70\u00b4s should not be technically \npossible because of slow electricity right John?\n\nhttp://en.wikipedia.org/wiki/Intel_8008#cite_note-MCS8-5\ufeff", 
+            "author": "Ond\u0159ej Dujka"
+        }, 
+        {
+            "date": "2015-02-05T22:59:38.092Z", 
+            "text": "Or we can use bigger microchips.\ufeff", 
+            "author": "michelle bostic"
+        }, 
+        {
+            "date": "2015-02-03T01:57:49.669Z", 
+            "text": "Why don't we just make the chips slightly bigger?\ufeff", 
+            "author": "Space Marine"
+        }, 
+        {
+            "date": "2015-05-03T14:11:00.923Z", 
+            "text": "+Space Marine More heat.", 
+            "author": "Anthony Sparta"
+        }, 
+        {
+            "date": "2015-05-02T09:31:46.912Z", 
+            "text": "+Spread Love or Shed Blood We can go to *optical computing*. Computations \nat the speed of light!", 
+            "author": "Tim Tian"
+        }, 
+        {
+            "date": "2015-05-02T09:27:14.000Z", 
+            "text": "+Spread Love or Shed Blood There are in fact many ways we can make \nelectrons travel faster in the chip, but all the methods have adverse \neffect on performance/cost formula.", 
+            "author": "holmiumh"
+        }, 
+        {
+            "date": "2015-05-02T09:18:40.010Z", 
+            "text": "+Peter Bayley According to this logic eventually we'll hit a dead end then? \nA Maximum amount of speed we can reach unless we look into other forms of \ncomputing. Excuse my ignorance I'm pretty shitty at physics but could there \npossibly be a way to increase the speed at which electrons travel? We know \nhow to accelerate other particles so it wouldn't be to far fetched, would \nit?", 
+            "author": "Spread Love or Shed Blood"
+        }, 
+        {
+            "date": "2015-05-01T11:12:21.268Z", 
+            "text": "+holmiumh Yeah, my point was mainly 'There are lots of \"moore's law\"s'. I \nguess the moore laws, the better. (I apologise for the bad pun)", 
+            "author": "Tim Tian"
+        }, 
+        {
+            "date": "2015-05-01T10:33:49.000Z", 
+            "text": "+Tim Tian\nWell, I had the concept of transistor density because that was the general \nconsensus in the EE department of my alma mater, because of your reply, I \ndid a little search and found Mr. Moore's original speech in text here:\nhttp://www.eng.auburn.edu/~agrawvd/COURSE/E7770_Spr07/READ/Gordon_Moore_1975_Speech.pdf\n\nI cherry picked a direct quote from his speech since it does seem to \nsupport my argument:\n\n\"Clearly much of the increased complexity had to result from higher density \nof components on the chip, rather than from the increased area available \nthrough the use of larger chips.\"\n\nGuess I was not too wrong, although I do realize there's more to it in his \nspeech.", 
+            "author": "holmiumh"
+        }, 
+        {
+            "date": "2015-05-01T08:53:57.280Z", 
+            "text": "+holmiumh The most common formulation of \"Moore's law\" (actually a \ncollection of different \"laws\") is the observation that, over the history \nof computing hardware, the number of transistors in a dense integrated \ncircuit has doubled approximately every two years.\n\nNot the density of transistors. The number. Of course, we also have: The \ndensity at the minimum cost per transistor (which has already stalled); \nQuality adjusted price of IT equipment; Size and density of storage and, my \nfavorite, The great Moore's law compensator (TGMLC), also known as Wirth's \nlaw, which basically states software grows more complex as fast or faster \nthan Moore's law hardware.", 
+            "author": "Tim Tian"
+        }, 
+        {
+            "date": "2015-05-01T07:48:46.000Z", 
+            "text": "+Space Marine Correct answer: Because Moorse law is about the transistor \ndensity, not outright numbers. The host did not explain the Moorse law \nproperly.", 
+            "author": "holmiumh"
+        }, 
+        {
+            "date": "2015-04-30T05:06:11.266Z", 
+            "text": "+Jessica Dineen Err, try using the reply button, and note the key phrase \n\"electromagnetic waves\" in the sentence \"the signals or energy travel as \nelectromagnetic waves typically on the order of 50% to 99% of the speed of \nlight, while the electrons themselves move (drift) much more slowly.\"\n\n\n\"A quick search says the speed of an electron in motion is 2200 km/s, or \nless than 1% the speed of light. Pretty sure that in order to slow a photon \nto that degree, you would need specially constructed materials, and even \nthen...\"\n\nAnd the EMF is not an electron, or any collection of electrons, but a field \naccelerating said collection of electrons.", 
+            "author": "Tim Tian"
+        }, 
+        {
+            "date": "2015-04-30T04:19:54.143Z", 
+            "text": "Then there is this http://en.wikipedia.org/wiki/Speed_of_electricity", 
+            "author": "Jessica Dineen"
+        }, 
+        {
+            "date": "2015-04-30T04:17:45.075Z", 
+            "text": "A quick search says the speed of an electron in motion is 2200 km/s, or \nless than 1% the speed of light. Pretty sure that in order to slow a photon \nto that degree, you would need specially constructed materials, and even \nthen...", 
+            "author": "Jessica Dineen"
+        }, 
+        {
+            "date": "2015-04-30T03:15:21.259Z", 
+            "text": "+magicstix0r My original statement, afaik, and I suspect that to be more \nthan you (on the subject, probably not about everything), remains true. \nJust, the velocity of light (virtual photons) in that medium (which are the \nforce carriers, which determine the speed of the charge carrier (usually \nelectrons or the lack thereof) which is basically the \"wave\" you speak of), \nwhich may or may not be a few orders of magnitude slower than light in a \nvacuum, is the velocity, but the *speed* due to a large distance per meter \nof displacement, which is caused by dense areas of charged particles and \nsaid virtual photons interacting with them. ", 
+            "author": "Tim Tian"
+        }, 
+        {
+            "date": "2015-04-29T23:58:03.334Z", 
+            "text": "+Tim Tian In any case, the electromotive force doesn't move across the chip \nat the speed of light, so your original statement remains false. ", 
+            "author": "magicstix0r"
+        }, 
+        {
+            "date": "2015-04-29T06:37:05.820Z", 
+            "text": "+magicstix0r No that is for the speed of 8,5 cm per hour.\n\nThis video says that CPU clocks are limited by this speed of electron \npassing threw transistor. ", 
+            "author": "Ond\u0159ej Dujka"
+        }, 
+        {
+            "date": "2015-04-29T05:20:54.000Z", 
+            "text": "+magicstix0r EMF, in this case (and usually in all cases concerning \nelectronics, or anything else, for that matter), stands for the electro \n*motive* force.\n\nIn fact, I've never actually heard anyone call electromagnetic interactions \nEMF before (usually they're mentioned separately too), and a quick google \nfor EMF (personal results off) indicated the Wikipedia article for \nElectromotive force as the first result (and the third, in a different \nformat), which would indicate that it was the more common usage.", 
+            "author": "Tim Tian"
+        }, 
+        {
+            "date": "2015-04-29T04:05:51.579Z", 
+            "text": "+Tim Tian *Sigh* no, the flow of electrons and electric charge is not, in \nfact, the same thing as the electromagnetic force. ", 
+            "author": "magicstix0r"
+        }, 
+        {
+            "date": "2015-04-29T03:23:23.846Z", 
+            "text": "Except electrons are physical matter that move at a much slower speed than \nphotons, photons are the particle that EMF is. It just so happens that you \ncan use convert electrical signals to RF and magnetic resonance, and vice \nverse. Being closely related is not the same as being the same thing, you \nand your mother are not the same person, even if you are in the same family.", 
+            "author": "Jessica Dineen"
+        }, 
+        {
+            "date": "2015-04-29T02:43:31.545Z", 
+            "text": "+magicstix0r Which is what the EMF is...", 
+            "author": "Tim Tian"
+        }, 
+        {
+            "date": "2015-04-29T00:40:23.840Z", 
+            "text": "+Ond\u0159ej Dujka are their ways in which we can perhaps improve the way we \nmake chips?", 
+            "author": "Space Marine"
+        }, 
+        {
+            "date": "2015-04-29T00:28:51.277Z", 
+            "text": "+Ond\u0159ej Dujka That would only be the case if the charge moved through the \nchip at the speed of light, which it doesn't.", 
+            "author": "magicstix0r"
+        }, 
+        {
+            "date": "2015-02-01T14:16:22.975Z", 
+            "text": "\"You know, I have one simple request. And that is to have chips with \nfrickin' laser beams attached to their heads! Now evidently my cycloptic \ncolleague informs me that that can't be done. Ah, would you remind me what \nI pay you people for, honestly? Throw me a bone here! What do we have?\"\ufeff", 
+            "author": "EveryThirdNotThursday"
+        }, 
+        {
+            "date": "2015-01-29T04:29:03.328Z", 
+            "text": "Three Boobs or the Super Boob? You choose...\ufeff", 
+            "author": "Mega JimmyHat"
+        }, 
+        {
+            "date": "2015-01-28T02:04:20.572Z", 
+            "text": "The only thing I can think of when you say laser computers is the SNL Star \nWars VII trailer parody, and Luke's laser walker, made of lightsaber \nblades.\ufeff", 
+            "author": "ThePCguy17"
+        }, 
+        {
+            "date": "2015-01-27T20:54:12.581Z", 
+            "text": "14 nm woooooooo go intel!\ufeff", 
+            "author": "Thomas Bailey-Byrne"
+        }, 
+        {
+            "date": "2015-05-02T22:17:35.627Z", 
+            "text": "+CrispyChicken44 than what?", 
+            "author": "FOXER"
+        }, 
+        {
+            "date": "2015-05-01T23:09:05.482Z", 
+            "text": "+FOXER Wouldn't be a dick at that point.", 
+            "author": "CrispyChicken44"
+        }, 
+        {
+            "date": "2015-02-15T21:44:37.802Z", 
+            "text": "What?... Is that the size of your dick? ", 
+            "author": "FOXER"
+        }, 
+        {
+            "date": "2015-01-25T02:18:23.160Z", 
+            "text": "someone drops a microchip. Dramatic music.\ufeff", 
+            "author": "QuikVidGuy"
+        }, 
+        {
+            "date": "2015-01-25T00:35:01.652Z", 
+            "text": "Maybe we could study biological brains. I haven't seen many brains melt \ntheir skulls and burn holes into the ground below, lately.\ufeff", 
+            "author": "Michael Hartman"
+        }, 
+        {
+            "date": "2015-01-23T17:40:22.037Z", 
+            "text": "I think the major problem is makin leeds micron sizes\nMake some fiber optic goo and blow it throug a micro sized hole \nI think the tricky part will be keeping the strands long enough and also \ntry spider web tiny tiny spiders web\ufeff", 
+            "author": "Antoine Ray"
+        }, 
+        {
+            "date": "2015-01-20T05:33:55.131Z", 
+            "text": "Yeah.... But about the heat, your wrong, if we make it smaller. We dont \nhave to put as many transistor in, because they move faster, the smaller \ngap, meaning less power used, less power, less heat. What hank said about \nbeing hotter is if we pack more transistors in, and anyways, we have 14 nm \nCPU's laptops right now! We dont see any laptops with holes on them do we \nxD\ufeff", 
+            "author": "Digital Rampage"
+        }, 
+        {
+            "date": "2015-01-16T07:01:51.701Z", 
+            "text": "id say where keeping up with moores law, a 780 gtx graphics card has 7.2 \nbillion transistors\ufeff", 
+            "author": "mikemike390"
+        }, 
+        {
+            "date": "2015-01-14T01:12:13.966Z", 
+            "text": "http://youtu.be/1qQE5Xwe7fs\ufeff", 
+            "author": "Eric Gerds"
+        }, 
+        {
+            "date": "2015-01-08T06:00:31.880Z", 
+            "text": "Awesome video. Just thought I'd point something out incase anyone is \ncurious. This video implied that a single transistor represents a bit of \ninformation. This actually isn't the case, as transistors are not as simple \nas being either on or off (it would be awesome if they were). This is an \nextreme oversimplification. Memory elements, such as bits, are actually \ncomposed of a circuit of transistors called flip flops. The amount of \ntransistors in a flip flop varies depending on how it is implemented and \nwhat type of memory you want (volatile or non-volatile) but they typically \ncost around 8 transistors. This isn't even including the high enable needed \non each flip flop in order for the computer to address the memory. \ufeff", 
+            "author": "Grasshoppa065"
+        }, 
+        {
+            "date": "2015-01-07T02:23:29.608Z", 
+            "text": "This is pretty fascinating. \ufeff", 
+            "author": "wthMerhaba"
+        }, 
+        {
+            "date": "2015-01-06T22:51:26.597Z", 
+            "text": " Explane quantum computing please\ufeff", 
+            "author": "Sean b"
+        }, 
+        {
+            "date": "2015-01-06T18:29:24.629Z", 
+            "text": "Suggestion: The hunt for dark matter using the LHC\ufeff", 
+            "author": "chemistryguy"
+        }, 
+        {
+            "date": "2015-03-21T20:31:55.432Z", 
+            "text": "+IamGrimalkin Yeah I suppose so, but we would have to be pretty lucky \ndepending on what the dark matter is like.", 
+            "author": "Kyler Lumpkin"
+        }, 
+        {
+            "date": "2015-03-21T20:14:33.867Z", 
+            "text": "+Kyler Lumpkin Both could work depending on the nature of dark matter. The \nLHC could detect a dark matter particle as soon as they boot up again \n(although they would still need to analyse and confirm it).", 
+            "author": "IamGrimalkin"
+        }, 
+        {
+            "date": "2015-03-21T19:21:26.491Z", 
+            "text": "+IamGrimalkin Yeah that would work, but still wouldn't be as good as making \na specialized detector. Plus, the aim of current dark matter research isn't \nto find HOW it's made, but if it even exists. Maybe later when we pin down \nmore of dark matter's characteristics we can use the LHC.", 
+            "author": "Kyler Lumpkin"
+        }, 
+        {
+            "date": "2015-03-20T13:46:53.918Z", 
+            "text": "+Kyler Lumpkin The detector isn't, but they could detect a lack of energy \nand momentum in results, which implies a particle their detector can't \ndetect just flew out of the collision.", 
+            "author": "IamGrimalkin"
+        }, 
+        {
+            "date": "2015-02-19T04:56:18.006Z", 
+            "text": "That's not how these things work, the detector at the LHC isn't NEARLY \nsensitive enough to be able to detect even the more friendly theoretical \ndark matter particles.", 
+            "author": "Kyler Lumpkin"
+        }
+    ]
+}

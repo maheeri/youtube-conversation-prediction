@@ -140,12 +140,24 @@
         "/m/0zd6", 
         "/m/0643t"
     ], 
+<<<<<<< HEAD
     "number_views": 5608470, 
+=======
+    "number_views": 5609706, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
     "categories": [
         43
     ], 
     "comments": [
         {
+<<<<<<< HEAD
+=======
+            "date": "2015-05-11T00:01:25.757Z", 
+            "text": "lol\ufeff", 
+            "author": "Fern Miller"
+        }, 
+        {
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
             "date": "2015-05-10T23:20:34.211Z", 
             "text": "Use what you think is better. Fine?\ufeff", 
             "author": "Ruge"
@@ -644,6 +656,7 @@
             "date": "2015-03-31T21:02:47.759Z", 
             "text": "Pc is better because Jason is better and my frien are butter. PC IS BETTER\ufeff", 
             "author": "Antoine1024 du minecraft et du gaming"
+<<<<<<< HEAD
         }, 
         {
             "date": "2015-03-31T13:16:08.029Z", 
@@ -654,6 +667,8 @@
             "date": "2015-03-31T13:25:08.261Z", 
             "text": "Also I have MC on Mac, and it works PERFECTLY.", 
             "author": "Matsumoto Family"
+=======
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
         }
     ]
 }

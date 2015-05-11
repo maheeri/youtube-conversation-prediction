@@ -1,0 +1,825 @@
+{
+    "publish_date": "2013-11-25T17:59:31.000Z", 
+    "video_length": "PT3M26S", 
+    "captions": [
+        {
+            "text": "Sea level seems like a pretty easy concept,\nright? You just measure the average level", 
+            "dur": "4.09", 
+            "start": "1.329"
+        }, 
+        {
+            "text": "of the oceans and that&#39;s that. But what about\nparts of the earth where there aren&#39;t oceans?", 
+            "dur": "4.361", 
+            "start": "5.419"
+        }, 
+        {
+            "text": "For example, when we say that Mt. Everest\nis 8850m above sea level, how do we know what", 
+            "dur": "5.309", 
+            "start": "9.78"
+        }, 
+        {
+            "text": "sea level would be beneath Mt. Everest, since\nthere&#39;s no sea for hundreds of kilometers?", 
+            "dur": "4.11", 
+            "start": "15.089"
+        }, 
+        {
+            "text": "If the earth were flat then things would be\neasy - we&#39;d just draw a straight line through", 
+            "dur": "4.311", 
+            "start": "19.199"
+        }, 
+        {
+            "text": "the average height of the oceans and be done\nwith it. But the earth isn&#39;t flat.", 
+            "dur": "3.55", 
+            "start": "23.51"
+        }, 
+        {
+            "text": "If the earth were spherical, it would be easy,\ntoo, because we could just measure the average", 
+            "dur": "3.67", 
+            "start": "27.06"
+        }, 
+        {
+            "text": "distance from the center of the earth to the\nsurface of the ocean. But the earth isn&#39;t", 
+            "dur": "3.71", 
+            "start": "30.73"
+        }, 
+        {
+            "text": "spherical - it&#39;s spinning, so bits closer\nto the equator are &quot;thrown out&quot; by centrifugal", 
+            "dur": "4.759", 
+            "start": "34.44"
+        }, 
+        {
+            "text": "effects, and the poles get squashed in a bit.\nIn fact, the earth is so non-spherical that", 
+            "dur": "4.201", 
+            "start": "39.199"
+        }, 
+        {
+            "text": "it&#39;s 42km farther across at the equator than\nfrom pole to pole. That means if you thought", 
+            "dur": "5.46", 
+            "start": "43.4"
+        }, 
+        {
+            "text": "earth were a sphere and defined sea level\nby standing on the sea ice at the north pole,", 
+            "dur": "3.71", 
+            "start": "48.86"
+        }, 
+        {
+            "text": "then the surface of the ocean at the equator\nwould be 21km above sea level.", 
+            "dur": "4.9", 
+            "start": "52.57"
+        }, 
+        {
+            "text": "This bulging is also why the Chimborazo volcano\nin Ecuador, and not Mount Everest, is the", 
+            "dur": "4.399", 
+            "start": "57.47"
+        }, 
+        {
+            "text": "peak that&#39;s actually farthest from the center\nof the earth.", 
+            "dur": "2.881", 
+            "start": "61.869"
+        }, 
+        {
+            "text": "So how do we know what sea level is? Well,\nwater is held on earth by gravity, so we could", 
+            "dur": "4.83", 
+            "start": "64.75"
+        }, 
+        {
+            "text": "model the earth as a flattened &amp; stretched\nspinning sphere and then calculate what height", 
+            "dur": "3.53", 
+            "start": "69.58"
+        }, 
+        {
+            "text": "the oceans would settle to when pulled by\ngravity onto the surface of that ellipsoid.", 
+            "dur": "4.14", 
+            "start": "73.11"
+        }, 
+        {
+            "text": "Except the interior of the earth doesn&#39;t have\nthe same density everywhere, which means gravity", 
+            "dur": "4.33", 
+            "start": "77.25"
+        }, 
+        {
+            "text": "is slightly stronger or weaker at different\npoints around the globe, and the oceans tend", 
+            "dur": "4.13", 
+            "start": "81.58"
+        }, 
+        {
+            "text": "&quot;puddle&quot; more nearer to the dense spots. These\naren&#39;t small changes, either - the level of", 
+            "dur": "4.02", 
+            "start": "85.71"
+        }, 
+        {
+            "text": "the sea can vary by up to 100m from a uniform\nellipsoid depending on the density of the", 
+            "dur": "4.41", 
+            "start": "89.73"
+        }, 
+        {
+            "text": "earth beneath it. And on top of that, literally,\nthere are those pesky things called continents", 
+            "dur": "4.35", 
+            "start": "94.14"
+        }, 
+        {
+            "text": "moving around on the earth&#39;s surface. These\ndense lumps of rock bump out from the ellipsoid", 
+            "dur": "4.24", 
+            "start": "98.49"
+        }, 
+        {
+            "text": "and their mass gravitationally attracts oceans,\nwhile valleys in the ocean floor have less", 
+            "dur": "4.34", 
+            "start": "102.73"
+        }, 
+        {
+            "text": "mass and the oceans flow away, shallower.", 
+            "dur": "2.68", 
+            "start": "107.07"
+        }, 
+        {
+            "text": "And this is the real conundrum, because the\nvery presence of a mountain (&amp; continent on", 
+            "dur": "4.18", 
+            "start": "109.75"
+        }, 
+        {
+            "text": "which it sits) changes the level of the sea:\nthe gravitational attraction of land pulls", 
+            "dur": "4.28", 
+            "start": "113.93"
+        }, 
+        {
+            "text": "more water nearby, raising the sea around\nit. So, to determine the height of a mountain", 
+            "dur": "4.01", 
+            "start": "118.21"
+        }, 
+        {
+            "text": "above sea level, should we use the height\nthe sea would be if the mountain weren&#39;t there", 
+            "dur": "3.5", 
+            "start": "122.22"
+        }, 
+        {
+            "text": "at all? Or the height the sea would be if\nthe mountain weren&#39;t there but its gravity", 
+            "dur": "3.84", 
+            "start": "125.72"
+        }, 
+        {
+            "text": "were?", 
+            "dur": "0.669", 
+            "start": "129.56"
+        }, 
+        {
+            "text": "The people who worry about such things, called\ngeodetic scientists or geodesists, decided", 
+            "dur": "4.531", 
+            "start": "130.229"
+        }, 
+        {
+            "text": "that we should indeed define sea level using\nthe strength of gravity, so they went about", 
+            "dur": "3.64", 
+            "start": "134.76"
+        }, 
+        {
+            "text": "creating an incredibly detailed model of the\nearth&#39;s gravitational field, called, creatively,", 
+            "dur": "4.419", 
+            "start": "138.4"
+        }, 
+        {
+            "text": "the Earth Gravitational Model. It&#39;s incorporated\ninto modern GPS receivers so they won&#39;t tell", 
+            "dur": "4.631", 
+            "start": "142.819"
+        }, 
+        {
+            "text": "you you&#39;re 100m below sea level when you&#39;re\nin fact sitting on the beach in Sri Lanka", 
+            "dur": "3.83", 
+            "start": "147.45"
+        }, 
+        {
+            "text": "which has weak gravity, and has allowed geodesists\nthemselves to correctly predict the average", 
+            "dur": "4.5", 
+            "start": "151.28"
+        }, 
+        {
+            "text": "level of the ocean to within a meter everywhere\non earth. Which is why we also use it to define", 
+            "dur": "4.7", 
+            "start": "155.78"
+        }, 
+        {
+            "text": "what sea level would be underneath mountains...\nif they weren&#39;t there... but their gravity", 
+            "dur": "3.97", 
+            "start": "160.48"
+        }, 
+        {
+            "text": "was.", 
+            "dur": "7", 
+            "start": "164.45"
+        }
+    ], 
+    "title": "What is Sea Level?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0gx2d", 
+        "/m/0m08c9y", 
+        "/m/017x7s", 
+        "/m/06mq7"
+    ], 
+    "number_views": 2109115, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-09T07:08:20.447Z", 
+            "text": "Its 8848m not 8850m\ufeff", 
+            "author": "imuket"
+        }, 
+        {
+            "date": "2015-05-08T13:23:03.249Z", 
+            "text": "slow down pleez !! :D\ufeff", 
+            "author": "Yasemin I\u015eIK"
+        }, 
+        {
+            "date": "2015-05-05T02:10:19.204Z", 
+            "text": "well... am I the only one who was like.. i got 1/3 watched of the video, \nbut after that i stopped thinking and my brain turned off :D\ufeff", 
+            "author": "BvBCrafty"
+        }, 
+        {
+            "date": "2015-05-01T06:29:05.365Z", 
+            "text": "What about the relation of the different sea levels  /like Adriatic, \nBaltic, etc/ ?\ufeff", 
+            "author": "Tilnaor"
+        }, 
+        {
+            "date": "2015-04-27T03:13:02.730Z", 
+            "text": "So is it random or not?\ufeff", 
+            "author": "KOakaKO"
+        }, 
+        {
+            "date": "2015-04-24T11:36:18.242Z", 
+            "text": "", 
+            "author": "Valdir Grossi"
+        }, 
+        {
+            "date": "2015-04-09T18:38:07.267Z", 
+            "text": "", 
+            "author": "Ghina Espinosa"
+        }, 
+        {
+            "date": "2015-04-05T15:43:47.147Z", 
+            "text": "The whole point of minute physics and earth is that you get a bunch of \ninformation in a relatively short video clip that you can watch at your own \npace.\ufeff", 
+            "author": "morgengabe1"
+        }, 
+        {
+            "date": "2015-03-25T07:53:23.028Z", 
+            "text": " <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23gravity\">#gravity</a> \u00a0", 
+            "author": "Science Pearson HK"
+        }, 
+        {
+            "date": "2015-03-20T15:41:26.111Z", 
+            "text": "Mindblown\ufeff", 
+            "author": "hanif yuandi"
+        }, 
+        {
+            "date": "2015-03-17T11:07:45.341Z", 
+            "text": "Wow thanks guys, this is awesome. I honestly thought sea level was a fixed \nscale, but this is really mindblowing, great job!\ufeff", 
+            "author": "Old king cole was a merry old soul and a merry old soul was he"
+        }, 
+        {
+            "date": "2015-03-14T01:02:53.310Z", 
+            "text": "Why the heck is he speaking so fast???\n\ufeff", 
+            "author": "Smooth Criminal"
+        }, 
+        {
+            "date": "2015-03-13T18:30:32.305Z", 
+            "text": "I'm from Sri Lanka and I started floating when you said Sri Lanka has a \nweaker gravity. :)\ufeff", 
+            "author": "Tharindu Gayan"
+        }, 
+        {
+            "date": "2015-03-08T06:01:45.597Z", 
+            "text": "Have you been to Sri Lanka and its beach?\nYou'd probably like it!\ufeff", 
+            "author": "Charith Abeywarna"
+        }, 
+        {
+            "date": "2015-03-06T02:26:47.719Z", 
+            "text": "Water table law intensifies\ufeff", 
+            "author": "sinlapse13"
+        }, 
+        {
+            "date": "2015-03-05T19:07:49.227Z", 
+            "text": "+MinutePhysics \nI don't know what is more amazing:\n  The fact that I knew nothing about this\n  Or that you were able to explain such a complex topic to quickly\nYou guys rock !\ufeff", 
+            "author": "Marcelo Pacheco"
+        }, 
+        {
+            "date": "2015-03-03T09:20:16.659Z", 
+            "text": "Slow down...\ufeff", 
+            "author": "Job Alerts"
+        }, 
+        {
+            "date": "2015-03-02T15:18:01.074Z", 
+            "text": "Totally respect a Geodesist now!  And google doesn't even recognise it as a \nword!!\ufeff", 
+            "author": "Keith Ng"
+        }, 
+        {
+            "date": "2015-02-27T23:05:26.715Z", 
+            "text": "We can just measure from peak to the center, as in the same radius \nmeasurement so that the center is a smaller impression of the larger \nearth...\ufeff", 
+            "author": "Dark_Knight1621"
+        }, 
+        {
+            "date": "2015-02-17T02:15:07.833Z", 
+            "text": "Slow the hell down man ! Let it take one more minute of video space, \natleast i'll be able to watch it without hurting my brain \ufeff", 
+            "author": "SneakySandhu"
+        }, 
+        {
+            "date": "2015-02-14T18:03:15.628Z", 
+            "text": "them 1 and 0s are not random, i think there is a patton, but i guess that \nis the point of it, to make randomness appear ordered.\ufeff", 
+            "author": "Oliver Guy"
+        }, 
+        {
+            "date": "2015-02-13T14:34:31.236Z", 
+            "text": "", 
+            "author": "Juan Orti Alcaine"
+        }, 
+        {
+            "date": "2015-02-12T01:36:26.036Z", 
+            "text": "This is what I got when I translated the 0's and 1's into text:\n\n\ufffd\n\ufffd[+m\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufeff", 
+            "author": "Erikfassett"
+        }, 
+        {
+            "date": "2015-02-08T00:22:57.667Z", 
+            "text": "Density has nothing to do with gravity, mass is what defines gravity.\ufeff", 
+            "author": "colby jones"
+        }, 
+        {
+            "date": "2015-02-07T02:14:27.341Z", 
+            "text": "Sir you are speaking than faster I could process\ufeff", 
+            "author": "SpicyHam"
+        }, 
+        {
+            "date": "2015-02-03T09:30:30.279Z", 
+            "text": "3:11 unless u call this (\ufffd\ufffdW\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd) not random, then this \n(00100110000101010101010101101100101011110110110101001110100101100010001011110111101110011110010) \nis random\ufeff", 
+            "author": "Truckman ILikeGarrysMod"
+        }, 
+        {
+            "date": "2015-02-03T08:42:58.156Z", 
+            "text": "why so rushing  boy ! speak slow....\ufeff", 
+            "author": "Persian Bodyguard"
+        }, 
+        {
+            "date": "2015-04-18T11:31:36.704Z", 
+            "text": "Vsauce explained why they do like that, they try to bring you to a subject \nthat is different from the beginning of the video (and the title) so they \ncan cover a vast amount of different things that are somehow \ninterconnected.They don't spend 10 minutes on 1 single subject.\nOthers that may be longer for 1 subject may explains in much more details \nthat MinutePhysics doesn't cover in order to not bore us, and you watch \nthose only if you need more details.\nBoth are awesome channels anyway!\nJust for fun I put this video in x2, it goes so fast hahahaha.", 
+            "author": "Emmanuel Bourmault"
+        }, 
+        {
+            "date": "2015-04-02T15:33:40.814Z", 
+            "text": "+Old king cole was a merry old soul and a merry old soul was he I enjoy \nvsauce. The main difference between vsauce and minute physics (besides \ntime) is that vsauce goes over a lot of things indirectly involved to the \nproblem at hand to answer why the answer is what it is and not something \ndifferent. Minute physics just tells you what the answer is and how to get \nit.", 
+            "author": "DBZHGWgamer"
+        }, 
+        {
+            "date": "2015-03-17T18:03:01.464Z", 
+            "text": "+Old king cole was a merry old soul and a merry old soul was he I still \nlike vsause though", 
+            "author": "Canyon _ (Noynac116)"
+        }, 
+        {
+            "date": "2015-03-17T11:10:29.933Z", 
+            "text": "I would much rather watch a lot of information in 1 or 2 mins (like \nbuzzfeed videos) rather than sit through 9 mins (vsauce) to 15 minutes \n(watchmojo) where they take like 15 minutes just to say the 10 top movies \nof 2015 etc...", 
+            "author": "Old king cole was a merry old soul and a merry old soul was he"
+        }, 
+        {
+            "date": "2015-02-11T23:30:18.511Z", 
+            "text": "because its called minute physics, but you can slow the video sown in \nsetting if you want", 
+            "author": "Canyon _ (Noynac116)"
+        }, 
+        {
+            "date": "2015-01-23T18:30:49.932Z", 
+            "text": "I'm Sri Lankan, and i just i just freaked when u knew i was on a beach in \nsri lanka... o.O\ufeff", 
+            "author": "Shenuka Jayasinghe"
+        }, 
+        {
+            "date": "2015-03-08T06:00:42.024Z", 
+            "text": "explains why I can jump higher in Sri Lanka than Oregon :D", 
+            "author": "Charith Abeywarna"
+        }, 
+        {
+            "date": "2015-01-14T20:28:04.297Z", 
+            "text": "1- He did not say force.  He said centrifugal EFFECTS which means he was \njust describing it in normal person English, not technical terms.\n2- Besides, a certain frame of reference centrifugal force is actually a \nreal thing. \n3- http://xkcd.com/123/\nBut more importantly, this whole thing was freaking mind blowing.  I've \nthought it must be complicated, but I didn't even have an inkling of the \nwhole variable gravity thing.  Yeesh.\ufeff", 
+            "author": "Eric Godfrey"
+        }, 
+        {
+            "date": "2015-01-14T00:15:31.922Z", 
+            "text": "Really nigga.\ufeff", 
+            "author": "fofa3232"
+        }, 
+        {
+            "date": "2015-01-01T19:46:37.357Z", 
+            "text": "You are going too fast.\ufeff", 
+            "author": "altamash Moin"
+        }, 
+        {
+            "date": "2014-12-27T23:09:00.993Z", 
+            "text": "It sounds really ridiculous when you put it that way.\n#science  \ufeff", 
+            "author": "Tomasz W\u0119grzanowski"
+        }, 
+        {
+            "date": "2014-12-27T23:46:04.721Z", 
+            "text": "It's pretty informative and impressive just how far they go to get the \n'correct' sea level though.", 
+            "author": "Darwin Bruning"
+        }, 
+        {
+            "date": "2014-12-27T20:40:59.876Z", 
+            "text": "I FUCKING LOVE PHYSICS\ufeff", 
+            "author": "LilAmazonas"
+        }, 
+        {
+            "date": "2014-12-27T00:41:18.896Z", 
+            "text": "Why difference of 42 km of +12000 km would be drawn so ellipsoid? I think \nit's still look well rounded. \ufeff", 
+            "author": "Adi Nugroho"
+        }, 
+        {
+            "date": "2015-02-09T21:14:59.444Z", 
+            "text": "+Adi Nugroho  Note that a sphere is a \"degenerate ellipsoid\", so... the \nEarth would be an ellipsoid whether or not it was a perfect sphere.\n\nAnyway... \"round\" has the exact definition of \"Having every portion of the \nsurface or of the circumference *equally* distant from the center\".  Thus, \neven though the Earth *looks* round, and is -- in fact -- rounder than \nanything we can make, it's still not round.", 
+            "author": "RonJohn63"
+        }, 
+        {
+            "date": "2014-12-27T00:44:00.032Z", 
+            "text": "If you draw that with scale 10x10cm the difference is only about 0.03 cm.. \nIs that ellipsoid?", 
+            "author": "Adi Nugroho"
+        }, 
+        {
+            "date": "2014-12-22T14:03:31.895Z", 
+            "text": "Have you ever to breath?\n(**gasp**)\ufeff", 
+            "author": "Brickskid lp"
+        }, 
+        {
+            "date": "2014-12-18T20:26:42.120Z", 
+            "text": "And we just ignore the moon gravitation?\ufeff", 
+            "author": "Celso Arai Jr."
+        }, 
+        {
+            "date": "2015-01-13T16:12:04.316Z", 
+            "text": "For the definition of altitude, yes. It's an arbitrary definition, and you \nhave to draw the line somewhere.\n\nThe tidal force can be modeled as a vector differential field in space and \napplied to the geoid, but to compute those values you now have to take into \naccount time and the position of the moon when you want to make sense of an \naltitude value. Apart from the conceptual baggage, the actual differences \nare negligible, the magnitude of the inaccuracy in WG84 is much bigger.\n\nFurthermore, even with the factors for how much the moon would pull in what \ndirection, the way tides work is actually different because the water can \nonly flow around land and at a certain rate, it wobbles and sloshes and \nwhat not, it's just not easily predictable. Instead we talk about these \ndata rich, observable changes in sea level with respect to our definition \nof altitude, and not the other way around, so that things stay simpler at \nthe levels of abstraction that we find convenient for experiencing the \nuniverse.\n\nThat doesn't mean people are ignoring the tides, they just have to if they \nwant to talk about them in terms of some fixed point, and the concept of \naltitude provides fixed points to relate to, and that they don't want to \ntalk about the tides and the moon phase every time they describe an \nelevation on a point of land.", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-12-23T23:01:48.219Z", 
+            "text": "The video said \"average\".", 
+            "author": "AutisticWayOfLife"
+        }, 
+        {
+            "date": "2014-12-13T23:59:41.397Z", 
+            "text": "yeah im too stupid for this channel\ufeff", 
+            "author": "TAYLOR WHiTERiCE"
+        }, 
+        {
+            "date": "2014-12-09T20:26:12.432Z", 
+            "text": "I love the way he pronounces his T's\ufeff", 
+            "author": "Sketched up Toons"
+        }, 
+        {
+            "date": "2014-12-07T01:38:46.154Z", 
+            "text": "It is random because the number of digits is not divisible by 8\ufeff", 
+            "author": "The Bacon Army"
+        }, 
+        {
+            "date": "2014-12-05T14:01:30.185Z", 
+            "text": "share part with moving continents in slow motion pls\ufeff", 
+            "author": "Kane Taken"
+        }, 
+        {
+            "date": "2014-11-30T12:34:59.198Z", 
+            "text": "those numbers have no pattern, but randomness is intentional... meaning \nrandomness does not exist.\ufeff", 
+            "author": "Natural Inclination (Shado)"
+        }, 
+        {
+            "date": "2014-11-23T19:30:08.173Z", 
+            "text": "", 
+            "author": "Kevon Alexander"
+        }, 
+        {
+            "date": "2014-11-22T06:22:44.707Z", 
+            "text": "The only thing that could stop water is lava\ufeff", 
+            "author": "Jasmine Chong"
+        }, 
+        {
+            "date": "2014-11-19T03:49:52.127Z", 
+            "text": "Did not know that sea level varied so much.\ufeff", 
+            "author": "George Corley"
+        }, 
+        {
+            "date": "2014-11-17T15:46:38.323Z", 
+            "text": "My braiiin! \ufeff", 
+            "author": "602nd VFS \"Devils\" JAC"
+        }, 
+        {
+            "date": "2014-11-15T07:36:18.754Z", 
+            "text": "GPS tells you how high you are?\ufeff", 
+            "author": "VicariousReality7"
+        }, 
+        {
+            "date": "2014-11-08T15:17:10.609Z", 
+            "text": "Who would have thought water sitting on a rock could be so gosh darn \ncomplicated lol...\ufeff", 
+            "author": "Balgore8"
+        }, 
+        {
+            "date": "2015-02-21T00:18:59.650Z", 
+            "text": "We are a little bit more then a rock lol, but totally get what you're saying", 
+            "author": "Nate LaBenz"
+        }, 
+        {
+            "date": "2014-11-07T23:16:04.472Z", 
+            "text": "o wow thanks\ufeff", 
+            "author": "Yahya Saeed"
+        }, 
+        {
+            "date": "2014-11-07T18:17:10.038Z", 
+            "text": "2:30-Done it\ufeff", 
+            "author": "ReflexMCX"
+        }, 
+        {
+            "date": "2014-11-02T15:06:46.842Z", 
+            "text": "What??? the gravity its different around the world?? So that means that i \ncan jump higher. In other places ???? :0\ufeff", 
+            "author": "Jeffrey Paez"
+        }, 
+        {
+            "date": "2015-02-07T02:15:06.280Z", 
+            "text": "Yes, that's why I always prefer to play my games at a host country whose \ngravitational is the lowest ^^  lolz", 
+            "author": "SpicyHam"
+        }, 
+        {
+            "date": "2015-01-20T00:45:38.277Z", 
+            "text": "+Jokes on you, I have no name dont worry my brain is frazzeled its kinda \nlate", 
+            "author": "karl prankard"
+        }, 
+        {
+            "date": "2015-01-20T00:43:04.148Z", 
+            "text": "+karl prankard No I don't. Why'd you ask? ", 
+            "author": "Jokes on you, I have no name"
+        }, 
+        {
+            "date": "2015-01-20T00:36:39.909Z", 
+            "text": "+Jokes on you, I have no name do you live in america?", 
+            "author": "karl prankard"
+        }, 
+        {
+            "date": "2015-01-13T18:43:15.383Z", 
+            "text": "its so slight, you would only be about 1kg less heavy in an optimal place\n(about 2 pounds).", 
+            "author": "Jokes on you, I have no name"
+        }, 
+        {
+            "date": "2014-10-30T05:11:33.147Z", 
+            "text": "is it true that the cern colisions creates micro black holes?\ufeff", 
+            "author": "cowboy p2"
+        }, 
+        {
+            "date": "2014-12-16T04:27:33.394Z", 
+            "text": "Yes, but they're so small they'll evaporate in a fraction of a second due \nto Hawking Radiation.", 
+            "author": "Jonathan Stiles"
+        }, 
+        {
+            "date": "2014-12-09T14:52:29.109Z", 
+            "text": "they do even better; they create matter from energy. They basically turn a \nhuuuge amount of cinetic energy into matter which did not exist before the \ncollision (this proves again Einstein was right thinking that matter is \njust a special form of energy since we can turn matter into energy, AND \nenergy into matter. btw, the famous \"nothing is lost all is transformed\" is \nmore deep than ever..  Do some research if you're interessed in this stuff, \nwhat they do/discover is mind blowing.", 
+            "author": "Danijel Ilic"
+        }, 
+        {
+            "date": "2014-09-27T17:41:50.211Z", 
+            "text": "To the onehundred 1 and 0 at the end: 110110010110\nMaybe? Ive used an algorithm to calculate that, but Im not 100% sure if I \neven understood what i was supposed to find\ufeff", 
+            "author": "Korsos"
+        }, 
+        {
+            "date": "2014-09-25T09:34:21.100Z", 
+            "text": "I'd say that the zeros and ones are not a random sequence. I did an \nanalysis of the microstates (before spending 10 minutes doing this I did \nthe obvious and checked if it translated into anything interesting from \nascii to no avail) for combinations of one, two three, and four number \nfragments. In a random generation, there would be roughly equal occurrences \nfor each microstate, give or take because of the small sample size, but in \nthe above sequence there was no semblance of uniformity between \nmicrostates, especially when analyzing the larger sequence fragments the \napparent randomness faded away as three or four of the 16 microstates (2^4) \nwere used most of the time. It's still amazing, though, because even if the \nsequence were made by \"randomly\" pressing one and zero on a keyboard, it's \nnot a truly random sequence, and I think that says something about the \nhuman mind and it's tendencies towards patterns, to the point that it \ninadvertently can create them, because all that science really is (at a \nvery basic level) is the search for patterns in the world around us. I \ncould rant on for a while about the fallibility of those tendencies, like \nhow people always seem to forget that correlation isn't causation because \npatterns always feel so right to us, but let's just marvel at the \ncomplexity of our own minds instead.\ufeff", 
+            "author": "Brendan Battey"
+        }, 
+        {
+            "date": "2014-11-13T00:46:56.494Z", 
+            "text": "+NunoLava 1998\n The text was a joke, dumb.", 
+            "author": "BetaDude40"
+        }, 
+        {
+            "date": "2014-09-24T19:56:38.831Z", 
+            "text": "Isin't the world wonderful?\ufeff", 
+            "author": "Ianassa91"
+        }, 
+        {
+            "date": "2014-09-24T17:16:12.436Z", 
+            "text": "I never realised there was so much to consider to correctly answer this \napparently simple question... #physics #minutephysics  \ufeff", 
+            "author": "\u0445\u0430\u043e\u0441 \u043a\u043e\u043c\u043f\u0438\u0440"
+        }, 
+        {
+            "date": "2014-09-24T16:17:02.674Z", 
+            "text": "I never realised there was so much to consider to correctly answer this \napparently simple question... #physics #minutephysics  \ufeff", 
+            "author": "Ryan Emmett"
+        }, 
+        {
+            "date": "2014-09-21T17:42:05.619Z", 
+            "text": "What is Sea Level?\ufeff", 
+            "author": "Adebayo Fapohunda"
+        }, 
+        {
+            "date": "2014-09-17T09:55:12.158Z", 
+            "text": "Does anyone know how high above sea level would Mount Everest be if you \nwere no to take into account the effects of the gravitational pull of Mount \nEverest (and the Himalayas I suppose)?\ufeff", 
+            "author": "Pol Alonso-Cuevillas Ferrer"
+        }, 
+        {
+            "date": "2014-09-17T02:44:36.240Z", 
+            "text": "The code wasn't to subscribe to the channel be leave me on this.\ufeff", 
+            "author": "andres rojas"
+        }, 
+        {
+            "date": "2014-09-14T17:35:09.456Z", 
+            "text": "", 
+            "author": "Rohan Kumar"
+        }, 
+        {
+            "date": "2014-09-11T01:15:11.504Z", 
+            "text": "MINUTE PHYSICS...\ufeff", 
+            "author": "Patricia McGowan"
+        }, 
+        {
+            "date": "2014-09-09T09:40:20.162Z", 
+            "text": "See? Jihadists aren't all that bad.\ufeff", 
+            "author": "intheshitter"
+        }, 
+        {
+            "date": "2014-09-07T23:03:36.200Z", 
+            "text": "*Sri Lanka is in a weak gravity area.  Really.*\n\n*Science.*\ufeff", 
+            "author": "Paul Frank"
+        }, 
+        {
+            "date": "2014-09-07T17:18:19.256Z", 
+            "text": "Im Sri Lankan and this video makes me happy!\ufeff", 
+            "author": "shehan soysa"
+        }, 
+        {
+            "date": "2014-09-07T16:55:35.760Z", 
+            "text": "~\u2664~\ufeff", 
+            "author": "f417h2GRACE"
+        }, 
+        {
+            "date": "2014-09-06T21:56:32.739Z", 
+            "text": "Well... Did not know that\ufeff", 
+            "author": "Dokalu Asimov"
+        }, 
+        {
+            "date": "2014-09-02T11:08:52.202Z", 
+            "text": "Yay Ecuador my country!\ufeff", 
+            "author": "Pa\u00fal sdetomate"
+        }, 
+        {
+            "date": "2014-08-30T20:04:00.522Z", 
+            "text": "How does the Moon's gravity fit that? Or is it simply calculated out of the \nmodel?\ufeff", 
+            "author": "luaudesigndf"
+        }, 
+        {
+            "date": "2014-08-29T20:03:38.550Z", 
+            "text": "this is a really cool episode :)\ufeff", 
+            "author": "Radu Murzea"
+        }, 
+        {
+            "date": "2014-08-29T05:26:12.870Z", 
+            "text": "do a video of why there are bodies of water inside bodies of water\ufeff", 
+            "author": "TheAthens619"
+        }, 
+        {
+            "date": "2014-08-28T15:10:34.827Z", 
+            "text": "Wow..!!!!\ufeff", 
+            "author": "Nhuzaa11"
+        }, 
+        {
+            "date": "2014-08-27T05:50:24.000Z", 
+            "text": "The 1's and 0's are more flip-floppy than they should be if random.  The \nvalue stays the same (00 or 11) 38 times, and flips (01 or 10) 61 times.  A \nrandom string of 1's and 0's would only be this flip-floppy about 2% of the \ntime (including more extreme results of flip-floppiness or streakiness). \n We humans tend to prefer flip-flops when looking for randomness because we \nsee long strings of the same value as non-random.  We could do other \nanalyses of features like the average streak length, and I think we would \nreach similar conclusions.\ufeff", 
+            "author": "Eric Mickelsen"
+        }, 
+        {
+            "date": "2014-08-22T23:02:59.576Z", 
+            "text": "I lost it at 0:30 ._.\ufeff", 
+            "author": "BobJr3rdPlays"
+        }, 
+        {
+            "date": "2014-08-22T20:48:01.412Z", 
+            "text": "My head hurts... lol. Although very interesting stuff. \ufeff", 
+            "author": "Mario Naccarato"
+        }, 
+        {
+            "date": "2014-08-22T12:26:35.119Z", 
+            "text": "Holy Shit! am i living in the place where earth having weakest gravity? \nDamn....\ufeff", 
+            "author": "Dilshan Jayawardhana"
+        }, 
+        {
+            "date": "2014-08-22T05:17:51.571Z", 
+            "text": "", 
+            "author": "Erdenebulgan S"
+        }, 
+        {
+            "date": "2014-08-21T21:00:36.954Z", 
+            "text": "Omg I want to punch you in the face until you die. \ufeff", 
+            "author": "Whitespeed7"
+        }, 
+        {
+            "date": "2014-08-21T12:21:35.704Z", 
+            "text": "Whaouw, didn't know that at all... funny :).\ufeff", 
+            "author": "FunkyBear"
+        }, 
+        {
+            "date": "2014-08-15T04:16:50.650Z", 
+            "text": "", 
+            "author": "Adleon1"
+        }, 
+        {
+            "date": "2014-08-07T02:47:55.967Z", 
+            "text": "I just \"relentlessly\" searched for a pattern in the binary again  -_-\ufeff", 
+            "author": "Joe Vee"
+        }, 
+        {
+            "date": "2014-07-30T16:31:26.742Z", 
+            "text": "", 
+            "author": "Matthew Stinar"
+        }, 
+        {
+            "date": "2014-07-29T08:15:38.585Z", 
+            "text": "video is good but video is very fast.cannot understand properlly\ufeff", 
+            "author": "Sinto Paul"
+        }, 
+        {
+            "date": "2014-07-28T17:28:34.351Z", 
+            "text": "My!!!this sea level stuff iis sooo comlicated yet interesting made by \n#minutephysics......TY.....\ufeff", 
+            "author": "vrinda \u201cpoison\u201d sarin"
+        }, 
+        {
+            "date": "2014-07-28T17:28:34.574Z", 
+            "text": "My!!!this sea level stuff iis sooo comlicated yet interesting made by \n#minutephysics......TY.....\ufeff", 
+            "author": "vrinda \u201cpoison\u201d sarin"
+        }, 
+        {
+            "date": "2014-07-27T00:14:32.025Z", 
+            "text": "God, so many if's and buts to every thing. \ufeff", 
+            "author": "The Coffee Nut"
+        }, 
+        {
+            "date": "2014-07-22T22:37:05.146Z", 
+            "text": "I thought this video was pretty interesting:-)\ufeff", 
+            "author": "Clark Fox"
+        }, 
+        {
+            "date": "2014-07-18T16:09:54.448Z", 
+            "text": "wow what? thats allot of information...\ufeff", 
+            "author": "IAM TGFX"
+        }, 
+        {
+            "date": "2014-07-18T13:50:58.535Z", 
+            "text": "centrifugal effect...... that idea has since been proven wrong and the real \nterm is (centripetal)  people still use this term(Way to much i think) even \nthough it is dead terminology. makes me sad that people don't know their \nscience=(\ufeff", 
+            "author": "coolcoonscaptures \u201cjakendaker\u201d bendy"
+        }, 
+        {
+            "date": "2015-03-11T05:57:30.698Z", 
+            "text": "+coolcoonscaptures bendy Centripetal means center-seeking, and it's what \nforces objects travelling in a circle to stay in a circle. Centrifugal \nmeans center-fleeing, and it's when an object being spun around appears to \nbe flung outward. They're two very different concepts (albeit existing for \nthe same reason), and even though they're not forces per-se, both do exist.", 
+            "author": "Jordan Shank"
+        }, 
+        {
+            "date": "2014-07-18T12:16:34.036Z", 
+            "text": "0:47 that difference isnt that big... doubt it would mean much in most \ncases... but hey being precise isnt a bad thing... just time consuming...\ufeff", 
+            "author": "supervegito2277"
+        }, 
+        {
+            "date": "2014-07-18T11:12:34.997Z", 
+            "text": "wait, what?\ufeff", 
+            "author": "WARLORD"
+        }, 
+        {
+            "date": "2014-07-08T23:28:20.351Z", 
+            "text": "I don't get 0:40, the centrifugal force doesn't exist, so what is it that \n\"throws out\" the equator?\ufeff", 
+            "author": "Matt Hwk"
+        }, 
+        {
+            "date": "2014-07-07T15:37:41.000Z", 
+            "text": "Very nice episode. I learned about these details a few years ago, when I \nhad to figure out the position of some instruments to be in a single \ndirection, and a position to an accuracy of several cm over an entire \ncontinent with multiple countries.\nLot's of people, even those that do land measurements and make maps, aren't \naware of these details especially if they only work in a single country and \noften on a relatively limited scale up to a few dozen km.\n\n\nWGS84 is really nice and also really complex.\ufeff", 
+            "author": "RogerWilco"
+        }, 
+        {
+            "date": "2014-07-07T11:50:14.801Z", 
+            "text": "I don't think so Jeff.\n\nI don't care about your drawing talents for YouTube.   Mt. Everest is the \nhighest point.\ufeff", 
+            "author": "stoner4010"
+        }, 
+        {
+            "date": "2014-07-07T11:33:38.803Z", 
+            "text": "I can't into geology....\ufeff", 
+            "author": "FlyingM86"
+        }, 
+        {
+            "date": "2014-07-05T15:12:39.641Z", 
+            "text": "Actually because Earth is so big, it hardly makes a difference which way we \ndefine sea level where a mountain is.\ufeff", 
+            "author": "blackbombchu"
+        }, 
+        {
+            "date": "2014-07-05T04:23:28.000Z", 
+            "text": "*sweet*\ufeff", 
+            "author": "SynS7ven"
+        }, 
+        {
+            "date": "2014-07-02T22:36:01.685Z", 
+            "text": "...I now understand sea level less?! :S\ufeff", 
+            "author": "Weeble68"
+        }, 
+        {
+            "date": "2014-07-02T17:39:16.737Z", 
+            "text": "I have no idea what you just said but yea it is what you said\ufeff", 
+            "author": "sorokonojkaboris"
+        }, 
+        {
+            "date": "2014-07-02T06:07:10.851Z", 
+            "text": "I didn't realize that determining just what sea level is was such a complex \nproblem... I guess I'd never given it that much thought\ufeff", 
+            "author": "Ashton Hynes"
+        }
+    ]
+}

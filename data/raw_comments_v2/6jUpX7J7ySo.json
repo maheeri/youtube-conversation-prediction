@@ -142,10 +142,16 @@
     "video_defintion": "hd", 
     "topics": [
         "/m/04wv_", 
+<<<<<<< HEAD
         "/m/03x01s", 
         "/m/02j71"
     ], 
     "number_views": 433648, 
+=======
+        "/m/03x01s"
+    ], 
+    "number_views": 433773, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
     "categories": [
         28
     ], 
@@ -158,7 +164,11 @@
         {
             "date": "2015-05-02T18:29:55.481Z", 
             "text": "Nice video\ufeff", 
+<<<<<<< HEAD
             "author": "__Gaming Waffle__"
+=======
+            "author": "[YT]GamingBeacon __XD__"
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
         }, 
         {
             "date": "2015-05-02T14:59:29.289Z", 
@@ -611,6 +621,14 @@
             "author": "derpy153"
         }, 
         {
+<<<<<<< HEAD
+=======
+            "date": "2015-03-05T18:59:57.446Z", 
+            "text": "lovely\ufeff", 
+            "author": "Andrej Kolarski"
+        }, 
+        {
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
             "date": "2015-03-05T13:36:04.906Z", 
             "text": "pre\u010do existuje to\u013eko \u013eudsk\u00fdch jazykov? (why exists many human languages?)\ufeff", 
             "author": "john buchnat"
@@ -719,11 +737,14 @@
             "date": "2015-03-03T18:01:08.613Z", 
             "text": "+Jan Schoenfeld & +Gilbert Dsch\u00fcsga, um die Frage erneut zu beantworten :)\ufeff", 
             "author": "Resgar Sindi"
+<<<<<<< HEAD
         }, 
         {
             "date": "2015-03-03T17:46:11.224Z", 
             "text": "That's no moon.\ufeff", 
             "author": "Ori Gamgam"
+=======
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
         }
     ]
 }

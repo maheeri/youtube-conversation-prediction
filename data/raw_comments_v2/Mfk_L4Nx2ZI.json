@@ -1,0 +1,1618 @@
+{
+    "publish_date": "2013-06-08T10:27:05.000Z", 
+    "video_length": "PT7M36S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: Today, we&#39;re going\nto talk about one of the", 
+            "dur": "1.7", 
+            "start": "0.49"
+        }, 
+        {
+            "text": "questions that we get sent in a\nlot at Numberphile, and the", 
+            "dur": "4.37", 
+            "start": "2.19"
+        }, 
+        {
+            "text": "question is-- well, Brady,\nwhat&#39;s the question?", 
+            "dur": "3", 
+            "start": "6.56"
+        }, 
+        {
+            "text": "BRADY HARAN: The question is,\nwhy does 0 factorial equal 1?", 
+            "dur": "4.98", 
+            "start": "9.56"
+        }, 
+        {
+            "text": "JAMES GRIME: Right.", 
+            "dur": "0.34", 
+            "start": "14.54"
+        }, 
+        {
+            "text": "Why does 0 factorial equal 1?", 
+            "dur": "2.33", 
+            "start": "14.88"
+        }, 
+        {
+            "text": "So let&#39;s start off with a\nquick recap of what a", 
+            "dur": "2.69", 
+            "start": "17.21"
+        }, 
+        {
+            "text": "factorial is.", 
+            "dur": "1.05", 
+            "start": "19.9"
+        }, 
+        {
+            "text": "For our whole number, let&#39;s\npick a number n--", 
+            "dur": "2.702", 
+            "start": "20.95"
+        }, 
+        {
+            "text": "n factorial, which is written\nlike that. n with an", 
+            "dur": "2.648", 
+            "start": "23.652"
+        }, 
+        {
+            "text": "exclamation mark.", 
+            "dur": "1.82", 
+            "start": "26.3"
+        }, 
+        {
+            "text": "This is equal to.", 
+            "dur": "1.55", 
+            "start": "28.12"
+        }, 
+        {
+            "text": "You multiply all the\nwhole numbers less", 
+            "dur": "2.67", 
+            "start": "29.67"
+        }, 
+        {
+            "text": "than or equal to n.", 
+            "dur": "1.99", 
+            "start": "32.34"
+        }, 
+        {
+            "text": "It&#39;s n multiplied by n minus\n1 multiplied by n minus 2", 
+            "dur": "5.88", 
+            "start": "34.33"
+        }, 
+        {
+            "text": "multiplied by--", 
+            "dur": "1.16", 
+            "start": "40.21"
+        }, 
+        {
+            "text": "and you keep going down,\nand you&#39;ll go down to 3", 
+            "dur": "2.41", 
+            "start": "41.37"
+        }, 
+        {
+            "text": "times 2 times 1.", 
+            "dur": "2.19", 
+            "start": "43.78"
+        }, 
+        {
+            "text": "Quick example.", 
+            "dur": "1", 
+            "start": "45.97"
+        }, 
+        {
+            "text": "Let&#39;s do 5 factorial.", 
+            "dur": "1.26", 
+            "start": "46.97"
+        }, 
+        {
+            "text": "5 times 4 times 3\ntimes 2 times 1.", 
+            "dur": "4.43", 
+            "start": "48.23"
+        }, 
+        {
+            "text": "And you do that.", 
+            "dur": "0.71", 
+            "start": "52.66"
+        }, 
+        {
+            "text": "It&#39;s 120.", 
+            "dur": "1.52", 
+            "start": "53.37"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "0.56", 
+            "start": "54.89"
+        }, 
+        {
+            "text": "The question we&#39;ve been asked\nis what is 0 factorial.", 
+            "dur": "2.6", 
+            "start": "55.45"
+        }, 
+        {
+            "text": "So the way you can answer this--\none of the ways you can", 
+            "dur": "2.61", 
+            "start": "58.05"
+        }, 
+        {
+            "text": "answer this is to complete\nthe pattern.", 
+            "dur": "2.52", 
+            "start": "60.66"
+        }, 
+        {
+            "text": "Let&#39;s complete the pattern.", 
+            "dur": "1.02", 
+            "start": "63.18"
+        }, 
+        {
+            "text": "This pattern in particular,\n4 factorial, is equal to 5", 
+            "dur": "4.11", 
+            "start": "64.2"
+        }, 
+        {
+            "text": "factorial divided by 5.", 
+            "dur": "2.13", 
+            "start": "68.31"
+        }, 
+        {
+            "text": "If you can see that, if I take 5\nfactorial here and divide by", 
+            "dur": "3.84", 
+            "start": "70.44"
+        }, 
+        {
+            "text": "5, that means I can knock\noff that 5, and you", 
+            "dur": "3.51", 
+            "start": "74.28"
+        }, 
+        {
+            "text": "end up with 4 factorial.", 
+            "dur": "2.04", 
+            "start": "77.79"
+        }, 
+        {
+            "text": "So 5 factorial divided\nby 5, or 120 divided", 
+            "dur": "3.46", 
+            "start": "79.83"
+        }, 
+        {
+            "text": "by 5, that&#39;s 24.", 
+            "dur": "2.13", 
+            "start": "83.29"
+        }, 
+        {
+            "text": "That&#39;s 4 factorial.", 
+            "dur": "1.25", 
+            "start": "85.42"
+        }, 
+        {
+            "text": "3 factorial is going to be\n4 factorial divided by 4.", 
+            "dur": "4.7", 
+            "start": "86.67"
+        }, 
+        {
+            "text": "That&#39;s 24 divided by 4.", 
+            "dur": "3.44", 
+            "start": "91.37"
+        }, 
+        {
+            "text": "That&#39;s 6.", 
+            "dur": "0.98", 
+            "start": "94.81"
+        }, 
+        {
+            "text": "That&#39;s the answer\nto 3 factorial.", 
+            "dur": "1.48", 
+            "start": "95.79"
+        }, 
+        {
+            "text": "2 factorial, 3 factorial divided\nby 3, 6, which we&#39;ve", 
+            "dur": "3.91", 
+            "start": "97.27"
+        }, 
+        {
+            "text": "just worked out, divided\nby 3, equals 2.", 
+            "dur": "3.55", 
+            "start": "101.18"
+        }, 
+        {
+            "text": "1 factorial.", 
+            "dur": "2.07", 
+            "start": "104.73"
+        }, 
+        {
+            "text": "Do it again.", 
+            "dur": "1.09", 
+            "start": "106.8"
+        }, 
+        {
+            "text": "It&#39;s 2 factorial divided by 2.", 
+            "dur": "3.39", 
+            "start": "107.89"
+        }, 
+        {
+            "text": "2 factorial is 2 divided by 2.", 
+            "dur": "2.77", 
+            "start": "111.28"
+        }, 
+        {
+            "text": "We&#39;ve got 2 divided by 2.", 
+            "dur": "2.08", 
+            "start": "114.05"
+        }, 
+        {
+            "text": "That&#39;s equal to 1.", 
+            "dur": "1.65", 
+            "start": "116.13"
+        }, 
+        {
+            "text": "Now this is where it&#39;s\ngetting exciting.", 
+            "dur": "1.37", 
+            "start": "117.78"
+        }, 
+        {
+            "text": "Do you feel the anticipation?", 
+            "dur": "1.73", 
+            "start": "119.15"
+        }, 
+        {
+            "text": "So 0 factorial.", 
+            "dur": "1.6", 
+            "start": "120.88"
+        }, 
+        {
+            "text": "We&#39;re going to complete\nthe pattern.", 
+            "dur": "2.4", 
+            "start": "122.48"
+        }, 
+        {
+            "text": "0 factorial is 1 factorial\ndivided by 1.", 
+            "dur": "6.46", 
+            "start": "124.88"
+        }, 
+        {
+            "text": "1 factorial is 1.", 
+            "dur": "2.38", 
+            "start": "131.34"
+        }, 
+        {
+            "text": "It&#39;s 1 divided by 1, and\nthat is equal to 1.", 
+            "dur": "4.35", 
+            "start": "133.72"
+        }, 
+        {
+            "text": "So 0 factorial is equal to 1.", 
+            "dur": "3.36", 
+            "start": "138.07"
+        }, 
+        {
+            "text": "You complete the pattern.", 
+            "dur": "0.92", 
+            "start": "141.43"
+        }, 
+        {
+            "text": "BRADY HARAN: Who says the\npattern has to be complete?", 
+            "dur": "2.19", 
+            "start": "142.35"
+        }, 
+        {
+            "text": "Where&#39;s that rule come from?", 
+            "dur": "2.45", 
+            "start": "144.54"
+        }, 
+        {
+            "text": "JAMES GRIME: I guess it doesn&#39;t\nnecessarily have to be", 
+            "dur": "3.98", 
+            "start": "146.99"
+        }, 
+        {
+            "text": "a pattern that completes.", 
+            "dur": "0.85", 
+            "start": "150.97"
+        }, 
+        {
+            "text": "It is a pattern that\ncompetes, though.", 
+            "dur": "1.53", 
+            "start": "151.82"
+        }, 
+        {
+            "text": "Let me try another way\nto explain it.", 
+            "dur": "2.94", 
+            "start": "153.35"
+        }, 
+        {
+            "text": "BRADY HARAN: Let me continue\nthe pattern first.", 
+            "dur": "1.81", 
+            "start": "156.29"
+        }, 
+        {
+            "text": "Does that mean negative 1\nfactorial would be next in", 
+            "dur": "3.25", 
+            "start": "158.1"
+        }, 
+        {
+            "text": "that sequence?", 
+            "dur": "1.25", 
+            "start": "161.35"
+        }, 
+        {
+            "text": "JAMES GRIME: Let&#39;s\nsee what happens.", 
+            "dur": "0.765", 
+            "start": "162.6"
+        }, 
+        {
+            "text": "I&#39;m not sure what&#39;s\ngoing to happen.", 
+            "dur": "1.175", 
+            "start": "163.365"
+        }, 
+        {
+            "text": "Let&#39;s try.", 
+            "dur": "0.81", 
+            "start": "164.54"
+        }, 
+        {
+            "text": "Minus 1 factorial.", 
+            "dur": "2.11", 
+            "start": "165.35"
+        }, 
+        {
+            "text": "So what shall I get?", 
+            "dur": "0.76", 
+            "start": "167.46"
+        }, 
+        {
+            "text": "0 factorial divided by 0.", 
+            "dur": "3.81", 
+            "start": "168.22"
+        }, 
+        {
+            "text": "1 divided by 0.", 
+            "dur": "1.905", 
+            "start": "172.03"
+        }, 
+        {
+            "text": "BRADY HARAN: Oh, divided by 0.", 
+            "dur": "2.275", 
+            "start": "173.935"
+        }, 
+        {
+            "text": "JAMES GRIME: You&#39;ve broken\nmaths, Brady.", 
+            "dur": "1.3", 
+            "start": "176.21"
+        }, 
+        {
+            "text": "Stop that.", 
+            "dur": "0.76", 
+            "start": "177.51"
+        }, 
+        {
+            "text": "Another way to explain what\n0 factorial might be.", 
+            "dur": "4.34", 
+            "start": "178.27"
+        }, 
+        {
+            "text": "n factorial is the number\nof ways you", 
+            "dur": "2.085", 
+            "start": "182.61"
+        }, 
+        {
+            "text": "can arrange n objects.", 
+            "dur": "2.395", 
+            "start": "184.695"
+        }, 
+        {
+            "text": "Let me just try to show\nyou what I mean.", 
+            "dur": "1.5", 
+            "start": "187.09"
+        }, 
+        {
+            "text": "Let&#39;s get some objects.", 
+            "dur": "0.95", 
+            "start": "188.59"
+        }, 
+        {
+            "text": "I&#39;ll get the wallet out.", 
+            "dur": "1.87", 
+            "start": "189.54"
+        }, 
+        {
+            "text": "I&#39;ll get some coins out.", 
+            "dur": "2.86", 
+            "start": "191.41"
+        }, 
+        {
+            "text": "See?", 
+            "dur": "0.47", 
+            "start": "194.27"
+        }, 
+        {
+            "text": "Who says mathematicians don&#39;t\nmake a lot of money?", 
+            "dur": "2.06", 
+            "start": "194.74"
+        }, 
+        {
+            "text": "There&#39;s literally 50p here.", 
+            "dur": "3.42", 
+            "start": "196.8"
+        }, 
+        {
+            "text": "Let&#39;s pick a silver\none and a 5p one.", 
+            "dur": "4.19", 
+            "start": "200.22"
+        }, 
+        {
+            "text": "Three objects here, and how many\nways are there to arrange", 
+            "dur": "4.35", 
+            "start": "204.41"
+        }, 
+        {
+            "text": "three objects?", 
+            "dur": "1.18", 
+            "start": "208.76"
+        }, 
+        {
+            "text": "There&#39;s six ways to do it.", 
+            "dur": "1.2", 
+            "start": "209.94"
+        }, 
+        {
+            "text": "It&#39;s 3 factorial.", 
+            "dur": "1.1", 
+            "start": "211.14"
+        }, 
+        {
+            "text": "Let&#39;s just check them.", 
+            "dur": "1.12", 
+            "start": "212.24"
+        }, 
+        {
+            "text": "That&#39;s one, that&#39;s two, or we\ncould have this one here--", 
+            "dur": "5.26", 
+            "start": "213.36"
+        }, 
+        {
+            "text": "that&#39;s three, that&#39;s four.", 
+            "dur": "3.56", 
+            "start": "218.62"
+        }, 
+        {
+            "text": "Or we could have--", 
+            "dur": "1.84", 
+            "start": "222.18"
+        }, 
+        {
+            "text": "I think it was that one we\ndidn&#39;t have at the front.", 
+            "dur": "1.64", 
+            "start": "224.02"
+        }, 
+        {
+            "text": "So that would be five and six.", 
+            "dur": "3.715", 
+            "start": "225.66"
+        }, 
+        {
+            "text": "If we take one away, we\nhave now two objects.", 
+            "dur": "4.295", 
+            "start": "229.375"
+        }, 
+        {
+            "text": "How many ways are there to\narrange two objects?", 
+            "dur": "1.62", 
+            "start": "233.67"
+        }, 
+        {
+            "text": "That&#39;s one, that&#39;s two.", 
+            "dur": "3.75", 
+            "start": "235.29"
+        }, 
+        {
+            "text": "Take one away.", 
+            "dur": "1.75", 
+            "start": "239.04"
+        }, 
+        {
+            "text": "How many ways are there\nto arrange one object?", 
+            "dur": "3.19", 
+            "start": "240.79"
+        }, 
+        {
+            "text": "There it is.", 
+            "dur": "0.43", 
+            "start": "243.98"
+        }, 
+        {
+            "text": "There&#39;s one way to do it.", 
+            "dur": "1.66", 
+            "start": "244.41"
+        }, 
+        {
+            "text": "One way to arrange one object.", 
+            "dur": "1.39", 
+            "start": "246.07"
+        }, 
+        {
+            "text": "Now we&#39;re going to take\nthe last coin away.", 
+            "dur": "3", 
+            "start": "247.46"
+        }, 
+        {
+            "text": "This is where it gets a\nlittle philosophical.", 
+            "dur": "3.59", 
+            "start": "250.46"
+        }, 
+        {
+            "text": "We have zero objects.", 
+            "dur": "2.279", 
+            "start": "254.05"
+        }, 
+        {
+            "text": "How many ways are there to\narrange zero objects?", 
+            "dur": "3.51", 
+            "start": "256.329"
+        }, 
+        {
+            "text": "There&#39;s one way to do it.", 
+            "dur": "2.291", 
+            "start": "259.839"
+        }, 
+        {
+            "text": "There it is.", 
+            "dur": "1.084", 
+            "start": "262.13"
+        }, 
+        {
+            "text": "Do you want to see\nme do it again?", 
+            "dur": "2.161", 
+            "start": "263.214"
+        }, 
+        {
+            "text": "There it is.", 
+            "dur": "2.625", 
+            "start": "265.375"
+        }, 
+        {
+            "text": "Slightly philosophical, but\nwe say there is one way to", 
+            "dur": "3.68", 
+            "start": "268"
+        }, 
+        {
+            "text": "arrange zero objects.", 
+            "dur": "1.41", 
+            "start": "271.68"
+        }, 
+        {
+            "text": "So again, the pattern holds.", 
+            "dur": "1.63", 
+            "start": "273.09"
+        }, 
+        {
+            "text": "0 factorial equals 1.", 
+            "dur": "3.36", 
+            "start": "274.72"
+        }, 
+        {
+            "text": "Just to continue the idea just a\nlittle bit further, if we&#39;re", 
+            "dur": "3.86", 
+            "start": "278.08"
+        }, 
+        {
+            "text": "talking about factorials, let&#39;s\ntry and graph them.", 
+            "dur": "3.15", 
+            "start": "281.94"
+        }, 
+        {
+            "text": "So let&#39;s say let&#39;s have one,\ntwo, three, four, five.", 
+            "dur": "4.14", 
+            "start": "285.09"
+        }, 
+        {
+            "text": "1 factorial is 1, so\nif you call that 1.", 
+            "dur": "3.87", 
+            "start": "289.23"
+        }, 
+        {
+            "text": "2 factorial is 2, so somewhere\nabout here.", 
+            "dur": "3.95", 
+            "start": "293.1"
+        }, 
+        {
+            "text": "3 factorial is 6.", 
+            "dur": "2.682", 
+            "start": "297.05"
+        }, 
+        {
+            "text": "I don&#39;t know.", 
+            "dur": "0.758", 
+            "start": "299.732"
+        }, 
+        {
+            "text": "Somewhere like this.", 
+            "dur": "1.27", 
+            "start": "300.49"
+        }, 
+        {
+            "text": "4 factorial is 24, so that&#39;s\ngoing to be actually quite", 
+            "dur": "5.11", 
+            "start": "301.76"
+        }, 
+        {
+            "text": "high up here.", 
+            "dur": "1.67", 
+            "start": "306.87"
+        }, 
+        {
+            "text": "And then 5 factorial is\ngoing quite high.", 
+            "dur": "2.21", 
+            "start": "308.54"
+        }, 
+        {
+            "text": "If we join these together,\nI&#39;ve also said that 0", 
+            "dur": "3.03", 
+            "start": "310.75"
+        }, 
+        {
+            "text": "factorial is 1, so I reckon\nthis is the graph.", 
+            "dur": "4.81", 
+            "start": "313.78"
+        }, 
+        {
+            "text": "So in theory, we should be\nable to get values for in", 
+            "dur": "4.22", 
+            "start": "318.59"
+        }, 
+        {
+            "text": "between, like, say, the\nnumber 1 and 1/2.", 
+            "dur": "3.73", 
+            "start": "322.81"
+        }, 
+        {
+            "text": "1 and 1/2 factorial.", 
+            "dur": "0.865", 
+            "start": "326.54"
+        }, 
+        {
+            "text": "What is 1 and 1/2 factorial?", 
+            "dur": "1.745", 
+            "start": "327.405"
+        }, 
+        {
+            "text": "So mathematicians\nhave done that.", 
+            "dur": "1.34", 
+            "start": "329.15"
+        }, 
+        {
+            "text": "They generalize the idea.", 
+            "dur": "1.87", 
+            "start": "330.49"
+        }, 
+        {
+            "text": "And there is the idea of\n1 and 1/2 factorial.", 
+            "dur": "3.97", 
+            "start": "332.36"
+        }, 
+        {
+            "text": "We call it gamma.", 
+            "dur": "2.42", 
+            "start": "336.33"
+        }, 
+        {
+            "text": "That&#39;s the Greek letter gamma.", 
+            "dur": "1.86", 
+            "start": "338.75"
+        }, 
+        {
+            "text": "We call it gamma of.", 
+            "dur": "1.71", 
+            "start": "340.61"
+        }, 
+        {
+            "text": "And the way we write it--", 
+            "dur": "2.08", 
+            "start": "342.32"
+        }, 
+        {
+            "text": "actually, now this is getting\na bit more sophisticated.", 
+            "dur": "2.41", 
+            "start": "344.4"
+        }, 
+        {
+            "text": "We say gamma of n is equal to\nthe integral between 0 and", 
+            "dur": "4.73", 
+            "start": "346.81"
+        }, 
+        {
+            "text": "infinity of--", 
+            "dur": "2.62", 
+            "start": "351.54"
+        }, 
+        {
+            "text": "let&#39;s pick something--", 
+            "dur": "0.95", 
+            "start": "354.16"
+        }, 
+        {
+            "text": "t to the power n minus 1,\nmultiplied by e to the power", 
+            "dur": "6.32", 
+            "start": "355.11"
+        }, 
+        {
+            "text": "minus n dn.", 
+            "dur": "4.46", 
+            "start": "361.43"
+        }, 
+        {
+            "text": "Some people won&#39;t be\nfamiliar with that.", 
+            "dur": "1.49", 
+            "start": "365.89"
+        }, 
+        {
+            "text": "Some of you will be familiar\nwith that.", 
+            "dur": "1.95", 
+            "start": "367.38"
+        }, 
+        {
+            "text": "Some of you won&#39;t be.", 
+            "dur": "1.01", 
+            "start": "369.33"
+        }, 
+        {
+            "text": "It&#39;s a much more complicated\nmathematical idea, but this", 
+            "dur": "4.49", 
+            "start": "370.34"
+        }, 
+        {
+            "text": "would agree with\nthe factorials.", 
+            "dur": "3.26", 
+            "start": "374.83"
+        }, 
+        {
+            "text": "But it gives you in between\nvalues as well.", 
+            "dur": "2.67", 
+            "start": "378.09"
+        }, 
+        {
+            "text": "It plots this line.", 
+            "dur": "2.1", 
+            "start": "380.76"
+        }, 
+        {
+            "text": "There is something\nI do need to say.", 
+            "dur": "1.99", 
+            "start": "382.86"
+        }, 
+        {
+            "text": "It&#39;s slightly unexpected, but if\nwe take a value for a whole", 
+            "dur": "6.16", 
+            "start": "384.85"
+        }, 
+        {
+            "text": "number, gamma of n, and n is\nwhole, this actually gives you", 
+            "dur": "4.17", 
+            "start": "391.01"
+        }, 
+        {
+            "text": "n minus 1 factorial, so\nbe careful of that.", 
+            "dur": "3.79", 
+            "start": "395.18"
+        }, 
+        {
+            "text": "That might catch you out.", 
+            "dur": "1.63", 
+            "start": "398.97"
+        }, 
+        {
+            "text": "Bit of a pain, that.", 
+            "dur": "1.46", 
+            "start": "400.6"
+        }, 
+        {
+            "text": "So what&#39;s the point of having a\nfunction that will give you", 
+            "dur": "3.67", 
+            "start": "402.06"
+        }, 
+        {
+            "text": "factorials in between whole\nnumbers when you can&#39;t arrange", 
+            "dur": "4.81", 
+            "start": "405.73"
+        }, 
+        {
+            "text": "1 and 1/2 objects?", 
+            "dur": "1.53", 
+            "start": "410.54"
+        }, 
+        {
+            "text": "So it&#39;s a generalization, and\nit turns out to be quite", 
+            "dur": "3.91", 
+            "start": "412.07"
+        }, 
+        {
+            "text": "useful in many things.", 
+            "dur": "1.32", 
+            "start": "415.98"
+        }, 
+        {
+            "text": "Particularly, I&#39;m thinking\nof probability.", 
+            "dur": "2.92", 
+            "start": "417.3"
+        }, 
+        {
+            "text": "You can use them in formulas\nthat you find in probability", 
+            "dur": "5.47", 
+            "start": "420.22"
+        }, 
+        {
+            "text": "where you&#39;re thinking about\ncontinuous time instead of", 
+            "dur": "2.99", 
+            "start": "425.69"
+        }, 
+        {
+            "text": "just arranging objects in\ndiscreet probability.", 
+            "dur": "3.8", 
+            "start": "428.68"
+        }, 
+        {
+            "text": "You&#39;re now starting to think\nabout continuous events.", 
+            "dur": "2.94", 
+            "start": "432.48"
+        }, 
+        {
+            "text": "Time is the best example.", 
+            "dur": "2.32", 
+            "start": "435.42"
+        }, 
+        {
+            "text": "Then you start to generalize the\nideas, and therefore you", 
+            "dur": "3.48", 
+            "start": "437.74"
+        }, 
+        {
+            "text": "need a generalized factorial.", 
+            "dur": "2.19", 
+            "start": "441.22"
+        }, 
+        {
+            "text": "BRADY HARAN: 9, 6, and 3.", 
+            "dur": "7.98", 
+            "start": "446.14"
+        }, 
+        {
+            "text": "20.", 
+            "dur": "0.53", 
+            "start": "454.12"
+        }, 
+        {
+            "text": "44.", 
+            "dur": "1.55", 
+            "start": "454.65"
+        }
+    ], 
+    "title": "Zero Factorial - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02w2m", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 1076231, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T18:28:10.440Z", 
+            "text": "Then what is     \u221e!\ufeff", 
+            "author": "carabela125"
+        }, 
+        {
+            "date": "2015-05-10T16:03:21.148Z", 
+            "text": "The entire factorial thing is a big lie. This is because there is no way of \ngiving a right answer to 0! (please  don't tell me it's 1.). The correct \nanswer to 0! is that there is no answer. All factorials are dependent on \nthis lie, thus making all factorial solutions lies. Modern mathematics \npretty much collapses due to 0!.\ufeff", 
+            "author": "vindula pussepitiya"
+        }, 
+        {
+            "date": "2015-05-09T20:25:47.165Z", 
+            "text": "HUH???\ufeff", 
+            "author": "Randy Kuhns"
+        }, 
+        {
+            "date": "2015-05-09T05:28:10.628Z", 
+            "text": "There is no 0!\ufeff", 
+            "author": "Torontosaurus Rex"
+        }, 
+        {
+            "date": "2015-05-08T23:30:14.145Z", 
+            "text": "Did anyone notice that his definition of the Gamma function was just wrong \nwrong! The integrand should be t^(n-1)e^(-t) with differential dt. It's \nstrange that such an error wouldn't be edited out.\ufeff", 
+            "author": "Lake Ritter"
+        }, 
+        {
+            "date": "2015-05-09T12:42:49.969Z", 
+            "text": "Thanks. It's since been brought to my attention. Apparently there is some \nway to turn on/off annotations. Mine must be \"off.\" I'll have to figure out \nhow to turn that feature on.", 
+            "author": "Lake Ritter"
+        }, 
+        {
+            "date": "2015-05-09T04:50:43.832Z", 
+            "text": "+Lake Ritter It's mentioned in the description of the video, and there is \nan annotation that appears in that part of the video mentioning it. Based \non your reply, you probably have annotations turned off.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-05-08T06:06:58.196Z", 
+            "text": "wouldn't -1!=undefined because factorial of any number is (n-1)!/(n-1), \nmaking -1!=-2!/-2, and that pattern would continue into infinity?\ufeff", 
+            "author": "Max Inman"
+        }, 
+        {
+            "date": "2015-05-08T01:04:51.000Z", 
+            "text": "replace number of ways to arrange with number of states of the system then \nit is clear why 0 objects still have 1 state, null.\ufeff", 
+            "author": "aakksshhaayy"
+        }, 
+        {
+            "date": "2015-05-07T16:33:21.853Z", 
+            "text": "One could build a specially typed structure which satisfies (nothing, x) \n= (x, nothing) = (x) and so on with double-nothings, triple-nothings, etc...\n\nBut it is sufficient and minimalistic to simply define 0! := 1\ufeff", 
+            "author": "RollyBM"
+        }, 
+        {
+            "date": "2015-05-07T01:17:08.237Z", 
+            "text": "Does this mean -1! = undefined?\ufeff", 
+            "author": "IAmNotKnown"
+        }, 
+        {
+            "date": "2015-05-06T16:07:47.295Z", 
+            "text": "time to fap\ufeff", 
+            "author": "Benny81282"
+        }, 
+        {
+            "date": "2015-05-07T17:37:47.683Z", 
+            "text": "+Benny81282 Nice.", 
+            "author": "John Smith"
+        }, 
+        {
+            "date": "2015-05-07T17:14:39.764Z", 
+            "text": "+John Smith math", 
+            "author": "Benny81282"
+        }, 
+        {
+            "date": "2015-05-07T01:21:59.274Z", 
+            "text": "What are you fapping to m8o?", 
+            "author": "John Smith"
+        }, 
+        {
+            "date": "2015-05-05T19:19:57.256Z", 
+            "text": "If you accept that 0! == 1 simply because you complete the pattern then by \nthe same logic shouldn't we consider 1 a prime number.  Because it fulfills \nthe general definition of a prime, a number divisible only by itself and 1. \n And there was a time that 1 was considered a prime number.\nAlso, since its a philosophical question, isn't just as valid to say the \nare 0 ways to arrange 0 items or there are an infinite number of ways to \narrange 0 items?\ufeff", 
+            "author": "XCyclonusX"
+        }, 
+        {
+            "date": "2015-05-07T06:03:31.719Z", 
+            "text": "+XCyclonusX Here's a more concrete explanation of why 0! = 1. \n\nWe know that there are n! ways to arrange n distinct objects. We'll use \nthis fact later.\n\nSo, let's say you have n objects, but you only want to arrange r of them. \nHow many ways are there to do that? It turns out the answer, which is \nanother widely-used formula, is n! / (n - r)!.\n\nTo see this, say we have 7 objects and are arranging 3 of them. For the \nfirst object, we have 7 choices. For the second, we have 6 choices, and for \nthe third, we have 5 choices. Therefore, there are 7x6x5 ways to arrange 3 \nobjects from a group of 7. This is equal to 7! / 4! because of the \ncancelling and stuff.\n\nSo, when r is a positive integer less than or equal to n, there are n! / (n \n- r)! ways to arrange those r objects. \n\nWhat happens when r = n? Then the question is, we have n objects, and how \nmany ways are there to arrange all n of them? According to the formula, \nthere are n! / (n - n)! = n! / 0! ways to do so.\n\nBut we already know the answer. There are n! ways to arrange n objects. \nTherefore:\n\nn! / 0! = n!\n\nHence, 0! must be equal to 1. It can't be equal to any other number. It \nalso can't be undefined due to that equality.\n\n\nAlso, 1 isn't a prime number. It's not prime by definition. But the \ndefinition I'm talking about isn't the one you know. I'm talking about the \nmore general definition of what a prime element is, and prime numbers in \nthe integers are just a special case of these general prime elements. \nUniversity-level abstract algebra is required to fully explain what I'm \ntalking about, but just know that 1 is not prime by definition.", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-05-05T13:51:36.275Z", 
+            "text": "how can be 0 factorial =1 factorial\ufeff", 
+            "author": "mahmoud elsayed"
+        }, 
+        {
+            "date": "2015-05-10T12:16:49.000Z", 
+            "text": "thanks alot", 
+            "author": "mahmoud elsayed"
+        }, 
+        {
+            "date": "2015-05-07T06:04:43.808Z", 
+            "text": "+mahmoud elsayed Lots of functions work like that, where f(x) = f(y) but x \n=/= y. For example, (-2)^2 = (2)^2 but 2 =/= -2.", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-05-04T19:37:30.475Z", 
+            "text": "2:55 I laughed harder than i should have.\ufeff", 
+            "author": "Jos\u00e9 Fierro"
+        }, 
+        {
+            "date": "2015-05-04T01:16:08.762Z", 
+            "text": "You're breaking math. Stop it.\ufeff", 
+            "author": "Renan Cordeiro"
+        }, 
+        {
+            "date": "2015-05-03T13:54:18.907Z", 
+            "text": "Who said mathematicians don't make a lot of money?\ufeff", 
+            "author": "Rishav Koirala"
+        }, 
+        {
+            "date": "2015-05-03T09:47:46.382Z", 
+            "text": "6w=10!s=x\n\n6x11\n\n66\n\n66x12= 792\n\n792x13 = 10296\n\n10296x14= 144144 weeks in seconds\n\nlol 14! results with 144144 weeks\ufeff", 
+            "author": "Daniel Williams"
+        }, 
+        {
+            "date": "2015-05-03T01:16:53.067Z", 
+            "text": "this dude is writing on a paper towel\ufeff", 
+            "author": "Kevin Savabi"
+        }, 
+        {
+            "date": "2015-05-02T04:48:37.552Z", 
+            "text": "If we're thinking of factorials as permutations, like he explained, does \nthat mean that there are an infinite number of ways to arrange -1 objects?\ufeff", 
+            "author": "Shullos"
+        }, 
+        {
+            "date": "2015-05-01T04:20:01.478Z", 
+            "text": "I thought he was broke, but I remembered he was British\ufeff", 
+            "author": "John Deere"
+        }, 
+        {
+            "date": "2015-05-01T00:22:50.408Z", 
+            "text": "damn math is aggravating sometimes\ufeff", 
+            "author": "Nate watson"
+        }, 
+        {
+            "date": "2015-04-30T20:25:43.178Z", 
+            "text": "LOL \"You've broken maths, Brady. Stop that! \"\ufeff", 
+            "author": "Neel Modi"
+        }, 
+        {
+            "date": "2015-04-30T19:30:12.893Z", 
+            "text": "Teensy little error on the gamma function. e should be raised to -t and the \nintegral should be over t (dt not dn). Cheers!\ufeff", 
+            "author": "LoquaciousApe"
+        }, 
+        {
+            "date": "2015-04-30T18:10:39.319Z", 
+            "text": "Why does infinity +10 =infinity \ufeff", 
+            "author": "Matt A"
+        }, 
+        {
+            "date": "2015-05-02T04:54:55.858Z", 
+            "text": "Matt L is right, infinity is more of a concept than a number. However, for \nthe sake of the question, one way to explain it is that the ratio of \ninfinity to a finite value is equivalent to the ratio of a finite value to \n0.", 
+            "author": "Shullos"
+        }, 
+        {
+            "date": "2015-04-30T21:25:00.000Z", 
+            "text": "+Matt A Infinity isn't a number, so infinity + 10 doesn't even make sense. \nIt's like saying \"yellow + 10\"", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-04-30T10:40:36.448Z", 
+            "text": "also \"!0 = 1\" :P\ufeff", 
+            "author": "Metehan Y\u0131ld\u0131r\u0131m"
+        }, 
+        {
+            "date": "2015-04-30T08:42:19.144Z", 
+            "text": "What if you put any value between 0 and 1 into that equation? Does it come \nout with 1 for every possible value?\ufeff", 
+            "author": "pla1nswalk3r"
+        }, 
+        {
+            "date": "2015-04-30T04:03:53.262Z", 
+            "text": "So we have gone from counting how many angels could fit on the head of a \npin to how many ways to arrange something that is nothing. Some progress!\ufeff", 
+            "author": "nosuchthing8"
+        }, 
+        {
+            "date": "2015-04-30T03:49:53.620Z", 
+            "text": "It probably makes more sense to say its an undefined operation.\ufeff", 
+            "author": "nosuchthing8"
+        }, 
+        {
+            "date": "2015-04-29T22:01:07.896Z", 
+            "text": "How many of you saw the thumbnail and went \"0 not equal to 1\" instead of 0 \nfactorial? If you did then you are a programmer :)\ufeff", 
+            "author": "UnWorld"
+        }, 
+        {
+            "date": "2015-04-29T19:49:32.909Z", 
+            "text": "Hah! I love Brady's sharp zoom in on nothing =)\ufeff", 
+            "author": "GoneZombie"
+        }, 
+        {
+            "date": "2015-04-29T16:33:40.147Z", 
+            "text": "*So?: *1945:1945=2015:2015  ==> 1945\u0445(1:1)=2015\u0445(1:1)===>>1945=2015*\ufeff", 
+            "author": "\u041f\u0420\u041e \u0413\u0420\u0415\u0421\u0421"
+        }, 
+        {
+            "date": "2015-04-28T14:04:42.000Z", 
+            "text": "+Numberphile What if n tends to a whole number in the integral is the \nanswer still (n-1)! ?\ufeff", 
+            "author": "Arjun \u201cNoobEgg\u201d"
+        }, 
+        {
+            "date": "2015-04-28T11:05:41.842Z", 
+            "text": "This guy looks like a male Natalie Dormer.\ufeff", 
+            "author": "Harley Overton"
+        }, 
+        {
+            "date": "2015-04-28T00:00:45.270Z", 
+            "text": "Graph y=x! online for a surprise :)\ufeff", 
+            "author": "MinecraftAddict"
+        }, 
+        {
+            "date": "2015-04-26T18:22:38.224Z", 
+            "text": "-1!\ufeff", 
+            "author": "Skycrafter"
+        }, 
+        {
+            "date": "2015-04-24T17:03:30.030Z", 
+            "text": "''You've broken maths, Bradey, stop that''\ufeff", 
+            "author": "Richard Carlstedt"
+        }, 
+        {
+            "date": "2015-04-23T19:26:57.386Z", 
+            "text": "With the arranging thing, shouldn't 0!=undefined in a similar way of \ndividing by 0? \nI understand applying arbitrary rules to mathematical principles is what \ndefines math in general, but it just seems strange.\ufeff", 
+            "author": "Shayded"
+        }, 
+        {
+            "date": "2015-04-28T02:58:56.000Z", 
+            "text": "Yeah, I get what you're saying. It doesn't really make sense when you think \nabout division. However, here's a more concrete explanation of why 0! = 1. \n\nWe know that there are n! ways to arrange n distinct objects. We'll use \nthis fact later.\n\nSo, let's say you have n objects, but you only want to arrange r of them. \nHow many ways are there to do that? It turns out the answer, which is \nanother widely-used formula, is n! / (n - r)!.\n\nTo see this, say we have 7 objects and are arranging 3 of them. For the \nfirst object, we have 7 choices. For the second, we have 6 choices, and for \nthe third, we have 5 choices. Therefore, there are 7x6x5 ways to arrange 3 \nobjects from a group of 7. This is equal to 7! / 4! because of the \ncancelling and stuff.\n\nSo, when r is a positive integer less than or equal to n, there are n! / (n \n- r)! ways to arrange those r objects. \n\nWhat happens when r = n? Then the question is, we have n objects, and how \nmany ways are there to arrange all n of them? According to the formula, \nthere are n! / (n - n)! = n! / 0! ways to do so.\n\nBut we already know the answer. There are n! ways to arrange n objects. \nTherefore:\n\nn! / 0! = n!\n\nHence, 0! must be equal to 1. It can't be equal to any other number. It \nalso can't be undefined due to that equality.", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-04-26T17:56:33.144Z", 
+            "text": "+Matt L But that's what I mean, it's like dividing by 0. If we follow the \nlogic of \"dividing 4/2 means making x groups of 2 to make 4 with x being \nthe answer\" then we can use the same logic applied to \"0! has x \narrangements\" to make 1/0=0 because there's 0 groups of 0 that make 1 \nsince, well, you can't do that.\nObviously this doesn't work with the principles of mathematics, but in the \nsame essence, it makes sense that 0! should ALSO = undefined.", 
+            "author": "Shayded"
+        }, 
+        {
+            "date": "2015-04-26T07:08:23.948Z", 
+            "text": "+Shayded There's actually another way to show that 0! has to be equal to 1 \nthat he didn't show in this video. Not even that 1 is the value we choose \nto assign to it; it HAS to be equal to 1. I'm not going to go into the \ndetails (unless you'd like me to), but it uses the same principle that \nthere are n! ways to arrange n distinct objects. \n\nI suppose the \"number of ways to arrange 0 objects\" explanation is more to \nhelp provide intuition as opposed to a proof.", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-04-23T13:33:23.979Z", 
+            "text": "But the definition of your gamma function is wrong!!!!\ufeff", 
+            "author": "RAKOTOMALALA HAJA"
+        }, 
+        {
+            "date": "2015-04-23T06:24:45.188Z", 
+            "text": "i have a question. see the equation- \n0!=1!\nor, 0=1 which step is wrong????????????? please answer please dont skip\ufeff", 
+            "author": "moinul islam tanvir"
+        }, 
+        {
+            "date": "2015-04-26T16:23:51.493Z", 
+            "text": "The only example of where a! = b! but a =/= b is with 0 and 1. Yes, it \nwould be nice to be able to say a! = b! means a = b but we can't because of \nthat one example.\n\n1! is obviously equal to 1, right? And this whole video was explaining why \n0! = 1. Are you still not convinced that 0! = 1?", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-04-26T10:06:08.055Z", 
+            "text": "Just because a!=b! It doesn't mean a=b why???? I wanted the cause not the \nexamples. If 5!=x! You will definately say x=5,wont you? So tell me why we \ncant in the case of zero and 1", 
+            "author": "moinul islam tanvir"
+        }, 
+        {
+            "date": "2015-04-26T07:05:16.028Z", 
+            "text": "+moinul islam tanvir The factorial doesn't work that way. Just because a! = \nb! doesn't mean a = b. \n\nFor example, let's say that x^2 = y^2. Then x doesn't have to be equal to \ny. For example, x = 2 and y = -2 works, but 2 =/= -2.", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-04-21T22:47:35.472Z", 
+            "text": "I wish you were my math teacher :( \ufeff", 
+            "author": "Julian Hamilton"
+        }, 
+        {
+            "date": "2015-04-21T15:34:10.439Z", 
+            "text": "i like 3!, because it can be written as 6=3!, and people will ignore the ! \nassuming it's just punctuation.\ufeff", 
+            "author": "spamhonx56"
+        }, 
+        {
+            "date": "2015-04-20T04:02:26.080Z", 
+            "text": "i am at 19 seconds in and i pretty sure it's because of this\n0!=0x1=1\ufeff", 
+            "author": "dan holm"
+        }, 
+        {
+            "date": "2015-04-20T04:02:52.788Z", 
+            "text": "+dan holm or better written 0! = 0x1 = 1", 
+            "author": "dan holm"
+        }, 
+        {
+            "date": "2015-04-19T21:05:42.000Z", 
+            "text": "4:13 \"We have zero objects. How many ways are there to arrange zero \nobjects? There's one way to do it. There it is.\" * shows nothing *. LOL\ufeff", 
+            "author": "Alan"
+        }, 
+        {
+            "date": "2015-04-19T19:26:22.589Z", 
+            "text": "Another explanation of why 0! = 1\nn! = n(n-1)(n-2)...(2)(1)\nn! = n(n-1)!\nTherefore, at n=1, using n! = n(n-1)!\n1! = 1*0!\nwhich implies 1 = 0!\ufeff", 
+            "author": "E. A. Shalm"
+        }, 
+        {
+            "date": "2015-04-19T18:03:15.365Z", 
+            "text": "I thought that the gamma function was the integral of x^(n+1)\u2022e^-x dx?\ufeff", 
+            "author": "Pascal's Triangle"
+        }, 
+        {
+            "date": "2015-04-19T12:53:31.656Z", 
+            "text": "im gonna use that to my friends :D\ufeff", 
+            "author": "\uac15\ud604\uc81c"
+        }, 
+        {
+            "date": "2015-04-19T12:35:18.536Z", 
+            "text": "He wrote the Gamma function incorrectly.... one nice feature of the Gamma \nfunction is to give an approximate analytic function of n! when n is big.\ufeff", 
+            "author": "jceepf"
+        }, 
+        {
+            "date": "2015-04-19T08:00:29.776Z", 
+            "text": "Is the fact that 0!=1 related to the fact that except for zero, any real \nnumber taken to the power of zero is equal to one?\ufeff", 
+            "author": "David Hiestand"
+        }, 
+        {
+            "date": "2015-04-19T06:48:52.590Z", 
+            "text": "but i think there can be infinite ways to arrange zero objects... isnt it?\ufeff", 
+            "author": "Akshat Ramanathan"
+        }, 
+        {
+            "date": "2015-04-18T23:50:40.000Z", 
+            "text": "Because a void of nothingness is a configuration or an arrangement (like an \nempty set in laymens terms) in and of itself which should be accounted for \nas well.\ufeff", 
+            "author": "Jerry Grauert"
+        }, 
+        {
+            "date": "2015-04-18T20:09:40.734Z", 
+            "text": "That's a weird face on the video's thumbnail...\ufeff", 
+            "author": "karbengo"
+        }, 
+        {
+            "date": "2015-04-18T20:06:07.777Z", 
+            "text": "You've broken math, Brady! stop that! hahahhaha\ufeff", 
+            "author": "Angie Wiranata"
+        }, 
+        {
+            "date": "2015-04-18T16:20:52.454Z", 
+            "text": "\"You've broken maths, Brady, stop that.\"\ufeff", 
+            "author": "raumaan kidwai"
+        }, 
+        {
+            "date": "2015-04-17T23:07:22.495Z", 
+            "text": "Is space an object?\ufeff", 
+            "author": "Rai Breingan"
+        }, 
+        {
+            "date": "2015-04-17T03:45:11.984Z", 
+            "text": "I learned more from this video than one week of all my professors...\nis that saying something?\ufeff", 
+            "author": "Superawesomebob 9"
+        }, 
+        {
+            "date": "2015-04-17T02:25:10.776Z", 
+            "text": "awesome!\ufeff", 
+            "author": "vivienne do"
+        }, 
+        {
+            "date": "2015-04-16T17:08:00.000Z", 
+            "text": "Haha, in programming (0!=1) is true.\ufeff", 
+            "author": "TheKrispyKitty"
+        }, 
+        {
+            "date": "2015-04-16T14:37:26.786Z", 
+            "text": "I wanna know by i^i has an answer.\nMy calculator says i^i = 0.20787957635\ufeff", 
+            "author": "tom19971101"
+        }, 
+        {
+            "date": "2015-05-03T15:58:26.270Z", 
+            "text": "+Nathan Brindley\n-1^sqrt2 = -1", 
+            "author": "tom19971101"
+        }, 
+        {
+            "date": "2015-05-03T14:01:35.000Z", 
+            "text": "+tom19971101 It all comes from the definition of powers.\ni=sqrt-1\ni^i=-1^(1/2)^-1^(1/2)\nWorking this through using the definition of powers you find that:\ni^i=-1^sqrt 2\nas sqrt2 is more than one it gives the real number you stated above.\n\nStep by step\n1/2^-1=2\ntherefore\ni^i=-1^2^(1/2)\n\n2^(1/2)=sqrt2\ntherefore\ni^i=-1^sqrt2\n\n\ni^i=0.2078.....", 
+            "author": "Nathan Brindley"
+        }, 
+        {
+            "date": "2015-04-15T14:41:51.930Z", 
+            "text": "That doesn't explain it 0! Could be 0 because if you haven't got anything \nthey can't be arranged \ufeff", 
+            "author": "Toby Brewin"
+        }, 
+        {
+            "date": "2015-04-16T07:42:41.776Z", 
+            "text": "+Toby Brewin Read the comments....it can't be 0. 0! is the amount of \npermutations of an empty set...and for an empty set there is only 1 \npermutation, therefore 0!= 1.", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-15T11:08:25.609Z", 
+            "text": "\"You've broken maths Brady, stop that!\" Laughed out loud.\ufeff", 
+            "author": "MasterOfTheChainsaw"
+        }, 
+        {
+            "date": "2015-04-13T20:54:22.624Z", 
+            "text": "then why does i!=1?\ufeff", 
+            "author": "Andrew Ni"
+        }, 
+        {
+            "date": "2015-04-13T20:31:12.000Z", 
+            "text": "wrong ! u didn't prove ur method \" the pattern \" in maths i can definitely \nprove that 0! = 0 if it's about patterns\ufeff", 
+            "author": "Modar Akayleh"
+        }, 
+        {
+            "date": "2015-04-13T11:52:24.000Z", 
+            "text": "-1! = Infinity. Who says you cant divide by 0?!\ufeff", 
+            "author": "XxMattGamingxX"
+        }, 
+        {
+            "date": "2015-04-13T03:56:37.346Z", 
+            "text": "What is 1.5!=?\ufeff", 
+            "author": "sameer baghel"
+        }, 
+        {
+            "date": "2015-04-13T01:51:06.114Z", 
+            "text": "We can also look at re-ordering objects without reverting back to their \noriginal position. So basically, we're doing factorial - 1.\n\n5! - 1 = 120 - 1 = 119\n4! - 1 = 24 - 1 = 23\n3! - 1 = 6 - 1 = 5\n2! - 1 = 2 - 1 = 1\n1! - 1 = 1 - 1 = 0\n0! - 1 = 1 - 1 = 0\n\nAnd that holds true, because there are indeed 0 ways to re-order 0 or 1 \nobjects from their starting position. If you have 1 object on a table, \nthere is no other way to sort it other than the way it's already sorted. If \nyou have 0 objects on the table, there is no other way to sort them.\n\nHowever, if 0! would be 0, then suddenly we get this oddity:\n\n0! - 1 = 0 - 1 = 0\n\nObviously 0 - 1 is not 0. Hence, 0! must be 1.\ufeff", 
+            "author": "Nemo's Channel"
+        }, 
+        {
+            "date": "2015-04-12T19:48:49.644Z", 
+            "text": "You've broken maths, Brady. Stop that.\ufeff", 
+            "author": "BERSERKERRISK"
+        }, 
+        {
+            "date": "2015-04-12T13:30:37.367Z", 
+            "text": "", 
+            "author": "Sufyan Jutt"
+        }, 
+        {
+            "date": "2015-04-12T02:02:50.212Z", 
+            "text": "But but but... WHY IS THE GAMMA FUNCTION INFINITE AT 0?!!?\ufeff", 
+            "author": "Tama Yoshi"
+        }, 
+        {
+            "date": "2015-04-11T13:42:45.809Z", 
+            "text": "This dilemma is just like the scientist Lawrence Krauss's phrase: something \nthat comes out of nothing. When he explains that nothing is not a complete \nnothing and it still has a value even thou is nothing. Well something like \nthat.\ufeff", 
+            "author": "Vanny ARTS"
+        }, 
+        {
+            "date": "2015-04-11T05:01:35.322Z", 
+            "text": "\"There is only one way to arrange 0 objects.\" I dont understand this, \nbecause it seems like a vacuous truth to me (since, youre making a claim on \nan empty set). Since that statement is only vacuously true, it would be \njust as valid for me to say \"There are n ways to arrange 0 objects\", for \nany n that is defined. So, then, 0! should have an infinite amount of \nsolutions, it seems. Am I missing something? \ufeff", 
+            "author": "nailuj100"
+        }, 
+        {
+            "date": "2015-04-14T11:44:23.315Z", 
+            "text": "+nailuj100 You are right in that there is a lot of vacuous truths involved. \nHowever, there is only one permutation of the empty set.\n\nIf you wish, we could define n! to be the number of permutations of a set \ncontaining n elements. If you've ever taken abstract algebra and seen the \nsymmetric groups, this will come as no surprise.\n\n\nThe permutations of a set S are simply the one-to-one and onto functions \nfrom S to itself. For the empty set \u2205, we can use vacuous truths to show \nthat there exists a unique one-to-one and onto function from \u2205 to \u2205.  This \nwould show that there is one permutation of a set with 0 elements and would \nsuggest that 0! should indeed be 1.\n\n\nWe define f: \u2205 \u2192 \u2205.  Since \u2205 has no elements, we don't have to specify \nwhere any elements go.\n\n\nIn order to prove that f is well-defined, we just have to show that if x = \ny are elements of \u2205, then f(x) = f(y).  This is vacuously true, so f is \nwell-defined.\n\nIn order to prove that f is one-to-one, we just have to show that if x and \ny are distinct elements of \u2205, then f(x) and f(y) are distinct elements \nof \u2205.  Again, this is vacuously true, so f is one-to-one.\n\nIn order to prove that f is onto, we just have to show that if y is an \nelement of \u2205, then there exists an element x of \u2205 so that f(x) = y.  This \nvacuous truth shows f is onto.\n\nIn order to show that there is only one permutation of \u2205, we have to show \nthat for any other permutation g of \u2205, f = g.  To show this, we just need \nto show that if x is an element of \u2205, then f(x) = g(x).  Again, this is \nvacuously true, and so there is only one unique permutation of \u2205.\n\nI guess the natural question would be... can't we also prove that if x is \nan element of \u2205, then f(x) does not equal g(x)?  The answer is yes, we \ncould prove that.\n\nHowever, in order to show that two functions f, g: S \u2192 T are distinct, you \nmust show that there exists an element x of S such that f(x) does not equal \ng(x).  You cannot prove this statement for S = \u2205 because you would be \nrequired to prove that there is an element in \u2205, which is false.\n\nSo even though the functions disagree on every element of the empty set, \nthey also agree on every element of the empty set, so they are the same \nfunction and are not different functions.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-04-10T12:48:21.649Z", 
+            "text": "Are the factorials of numbers between 0 & 1 actually all equal to 1??\ufeff", 
+            "author": "Jonathan Fenn"
+        }, 
+        {
+            "date": "2015-04-13T09:58:45.024Z", 
+            "text": "Weird! Thanks very much!", 
+            "author": "Jonathan Fenn"
+        }, 
+        {
+            "date": "2015-04-10T20:25:32.742Z", 
+            "text": "+Jonathan Fenn If you plotted a curve with the numbers between 0! and 1! \nyou will actually see that the values dip slightly below 1 and then back to \none:f(x) = x! \nWhen x is:\n0 = f(x) = 1\n.1 = f(x) = 0.951351\n.2 = f(x) = 0.918169\n.3 = f(x) = 0.897471\n.4 = f(x) = 0.887264\n.5 = f(x) = 0.886227\n.6 = f(x) = 0.893515\n.7 = f(x) = 0.908639\n.8 = f(x) = 0.931384\n.9 = f(x) = 0.961766\n1 = f(x) = 1\n\n\nInteresting math fact... if you take the diameter of a circle and multiple \nit by .5! (.886227) the resultant product will be the length equal to the \nside an equal square in area.", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-10T00:05:52.637Z", 
+            "text": "I can also argue there are zero ways to arrange zero objects.\ufeff", 
+            "author": "jsbrads1"
+        }, 
+        {
+            "date": "2015-04-09T14:47:14.774Z", 
+            "text": "I have a question, I hope someone can explain. Dr. Grime explains that the \nentire graph can be plotted, so you can get values for, say, 1.5 factorial. \nSince 1 factorial is 1 and 0 factorial is 1, does it follow that 0.5 \nfactorial is also 1?\ufeff", 
+            "author": "GerSHAK"
+        }, 
+        {
+            "date": "2015-04-11T16:16:23.633Z", 
+            "text": "+Steve McRae Thank you for the explanation. =)", 
+            "author": "GerSHAK"
+        }, 
+        {
+            "date": "2015-04-11T02:21:38.202Z", 
+            "text": "+GerSHAK (-1)! doesn't have a solution as factorials are not defined for \nnegtaive humbers...but -1! isn't f(-1) it is f(1) with a unary negation \nmaking it -1! = -1\n\nAs I wrote to someone earlier to day:\nIf you plotted a curve with the numbers between 0! and 1! you will actually \nsee that the values dip slightly below 1 and then back to one:f(x) = x! \nWhen x is:\n0 = f(x) = 1\n.1 = f(x) = 0.951351\n.2 = f(x) = 0.918169\n.3 = f(x) = 0.897471\n.4 = f(x) = 0.887264\n.5 = f(x) = 0.886227\n.6 = f(x) = 0.893515\n.7 = f(x) = 0.908639\n.8 = f(x) = 0.931384\n.9 = f(x) = 0.961766\n1 = f(x) = 1", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-11T02:07:36.310Z", 
+            "text": "+Steve McRae You said the lowest value for f(x) is if x = 0, but in the \nvideo it says that f(0) = 1, and you said that f(0.5) = 0.886, so the value \nfor x = 0.5 is smaller. Which x delivers the smallest value?\n\nIn the video, Dr. Grime explains that f(-1) does not have a solution, but \nyou say f(-1) = -1?", 
+            "author": "GerSHAK"
+        }, 
+        {
+            "date": "2015-04-10T08:47:07.666Z", 
+            "text": "+GerSHAK x=0 as you can not have negative factorials. You can have -1! \nwhich is -1!= -1 as factorials are done prior to the unary negation.", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-10T08:40:53.754Z", 
+            "text": "+Steve McRae Thanks (although I have no idea what that means). So if f(x) = \nx!, for which x does f(x) have the lowest value?", 
+            "author": "GerSHAK"
+        }, 
+        {
+            "date": "2015-04-10T04:01:51.522Z", 
+            "text": "+GerSHAK No, remember that 0.5 factorial is Gamma (1.5). Gamma(1.5)= \u222b t^.5 \n/e^t dt 0 to  \u221e \n\u2248 0.886227", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-08T19:08:38.192Z", 
+            "text": "According to the representation that was given, (-1)! = 0!/0 = 1/0  = inf\ufeff", 
+            "author": "\u00f6mer faruk Bodur"
+        }, 
+        {
+            "date": "2015-04-10T04:13:19.000Z", 
+            "text": "+\u00f6mer faruk Bodur (-1)! is undefined as well as anything divided by zero as \ndivision by zero is not defined in \u211a where division is specifically only \ndefined when {x | x=p/q, and p,q \u2208 \u2124 and q\u22600 }", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-08T14:39:44.117Z", 
+            "text": "now math wiz here but i knew he would reference stats probably the (n-1) \nlol \ufeff", 
+            "author": "Sleeping Titan"
+        }, 
+        {
+            "date": "2015-04-08T08:31:58.362Z", 
+            "text": "You've broken maths, Brady. Stop that!\ufeff", 
+            "author": "Sebastian Jakobsson"
+        }, 
+        {
+            "date": "2015-04-08T04:41:29.171Z", 
+            "text": "I love this guys! XD\ufeff", 
+            "author": "Jerry Niemand"
+        }, 
+        {
+            "date": "2015-04-08T02:31:38.000Z", 
+            "text": "Doesn't this also mean 0 = 1? Jk.\ufeff", 
+            "author": "qbed"
+        }, 
+        {
+            "date": "2015-04-08T02:13:22.180Z", 
+            "text": "You've broken maths, Brady. Stop that!\ufeff", 
+            "author": "order661000"
+        }, 
+        {
+            "date": "2015-04-07T04:18:42.846Z", 
+            "text": "this pisses me off and i have no idea why\ufeff", 
+            "author": "kilroyyyyy90"
+        }, 
+        {
+            "date": "2015-04-07T02:36:54.333Z", 
+            "text": "Personally I think that 0! is like Grandi's Series where you can make the \nargument for 1 or 0 (but not 1/2 like you can in Grandi's Series).\ufeff", 
+            "author": "rlt152"
+        }, 
+        {
+            "date": "2015-04-10T04:09:50.516Z", 
+            "text": "+rlt152 0! is the number of ways you can arrange zero objects, or how many \npermutations an empty set has...an empty set only has 1 permutation and \ntherefore can only be 1.", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-07T01:59:05.221Z", 
+            "text": " I wish I liked math.....\ufeff", 
+            "author": "Thomas Thaxton"
+        }, 
+        {
+            "date": "2015-04-06T16:57:04.172Z", 
+            "text": "There it is....do you want me to do it again?...so funny\ufeff", 
+            "author": "Mentis Ng"
+        }, 
+        {
+            "date": "2015-04-06T08:41:23.236Z", 
+            "text": "you've broken maths, Brady, stop that\ufeff", 
+            "author": "xGames \u201cxGamesmaniac\u201d maniac"
+        }, 
+        {
+            "date": "2015-04-05T20:35:56.585Z", 
+            "text": "er... for me -1! =-2! divided by -2\naka 1\ufeff", 
+            "author": "monterrang1"
+        }, 
+        {
+            "date": "2015-04-05T05:57:37.267Z", 
+            "text": "The philosophical proof is what I use to demonstrate how you get to the \nanswer. Until someone can prove to me that there is more than one way to \nvisually, physically or even conceptually arrange nothing, I am stuck with \nthe only 1 way I know how to do it. And much like 1, it is \nself-rearranging.\ufeff", 
+            "author": "Karsten Johansson"
+        }, 
+        {
+            "date": "2015-04-05T05:01:52.520Z", 
+            "text": "Is that gamma function just a laplace transform?\ufeff", 
+            "author": "eaglewings41"
+        }, 
+        {
+            "date": "2015-04-04T09:45:28.323Z", 
+            "text": "There must be like 10000 people screaming at the lap tops saying, if you \ndon't have anything then there are no ways to arrange it...\ufeff", 
+            "author": "Adam -\u4e9a\u5f53-"
+        }, 
+        {
+            "date": "2015-04-11T11:31:56.272Z", 
+            "text": "+Steve McRae haha you guys are eccentric, so you must definitely be good at \nmaths!", 
+            "author": "Adam -\u4e9a\u5f53-"
+        }, 
+        {
+            "date": "2015-04-11T04:01:31.874Z", 
+            "text": "+Steve McRae Lord e shall consume thine soul!", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-04-11T03:29:53.878Z", 
+            "text": "+EmperorZelos I thought the second coming (helping) of pi took care of \nneedless sacrificing of algebraic numbers? I mean damn, what they ever do \nto you? Leave those finite non-zero polynomial roots alone! :)", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-11T03:12:02.015Z", 
+            "text": "+Steve McRae No, you forgot to sacrifice an algebraic number :P", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-04-11T00:25:45.748Z", 
+            "text": "+EmperorZelos Did I make my lord and math master proud? :P", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-11T00:24:13.112Z", 
+            "text": "+Adam -\u4e9a\u5f53- Bingo! :) Set S={\u00d8 } the set can still be mapped 1 to 1 to \nitself as {\u00d8 }\u21a6{\u00d8 } thus one permutation and 0!=1 Cheers!", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-11T00:13:08.471Z", 
+            "text": "+Steve McRae Right! I think I get it, really thank you so much for putting \na lot of effort into your reply. So the idea is, that in the case of zero, \na set with zero elements can still be mapped to another set with zero \nelements, hence 0! = 1. Is this what you were getting at? ", 
+            "author": "Adam -\u4e9a\u5f53-"
+        }, 
+        {
+            "date": "2015-04-10T23:40:55.253Z", 
+            "text": "+Adam -\u4e9a\u5f53- Well supposed you have a set with three elements. The number of \npermutations or ways we can order them is 3! or 6 different ways. Lets \nsuppose S={1,2,3}...then we can order them as {1,2,3}, {2,1,3}, {1,3,2}, \n{3,2,1}, {2,3,1},and {3,1,2}. Right? A permutation as a bijective function \nmeans that f:{1,2,3}\u2192 {1,2,3} meaning we are mapping from the same set of \nelements to another same set of elements...but we can change the order such \nthat 1,2,3 \u21a63,1,2 if put in that function we would have a one to one \ncorrespondence. 1 maps to 3, 2 maps to 1 and 3 maps to 2 with all numbers \naccounted for and not mapped more than once. It literally is like taking a \nfunction of f(1)= 3 , f(2)=1 and f(3) = 2 and as you know a function has \nonly one input and only one output. That is a bijection from set S to set \nS. :)", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-10T22:27:36.193Z", 
+            "text": "+Steve McRae That sounds reasonable, although I am not sure what you mean \nby it is a bijection of set S to itself. I think i need to read up more.", 
+            "author": "Adam -\u4e9a\u5f53-"
+        }, 
+        {
+            "date": "2015-04-10T19:42:52.387Z", 
+            "text": "+Adam -\u4e9a\u5f53- You can still have permutation of an empty set, it is basic \nprobability theory. You have to remember that permutations are a bijection \nof set S to itself as f:S \u2192 S. If there are no elements in set S then you \ncan still map an empty set {\u00d8} to itself in a bijection or one to one \ncorrespondence. ", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-10T19:27:12.551Z", 
+            "text": "+Steve McRae permutations of something yes, of nothing....???", 
+            "author": "Adam -\u4e9a\u5f53-"
+        }, 
+        {
+            "date": "2015-04-10T04:11:23.000Z", 
+            "text": "+Adam -\u4e9a\u5f53- Factorials are permutations. An empty set has 1 permutation \n(only one way to arrange) regardless of it being an empty set or a set with \nonly 1 element...which is why 0! = 1 and 1! = 1.", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-07T02:34:28.585Z", 
+            "text": "I think that is true, there is 1 way to \"show\" 0 objects but there are 0 \nways to \"arrange\" it since you can't arrange nothing", 
+            "author": "rlt152"
+        }, 
+        {
+            "date": "2015-04-02T23:10:36.609Z", 
+            "text": "My mind has been blown into 666 pieces. :D\ufeff", 
+            "author": "nedned129"
+        }, 
+        {
+            "date": "2015-04-01T23:46:08.402Z", 
+            "text": "j'aime :)\ufeff", 
+            "author": "Mehdi JANOUANE"
+        }, 
+        {
+            "date": "2015-04-01T02:30:24.636Z", 
+            "text": "Um...I don't see any proof. I see a lot of evidence, but nothing actually \ngot proven here. \nAs was demonstrated, the pattern as it was described here does not work. \nNot only that, but no law or definition of factorials says that this \npattern must be complete all the way to zero. If they do, I'm calling those \nlaws or definitions out. Aside from the complicated math which was casually \nleft unexplained here, all these rules for determining factorials lean on \neach other in suggestion that 0!=1. One wasn't even mentioned when the \nsuggestion began to form (I still remain entirely unconvinced that a proof \nexists at all). The one I refer to is the classical definition, which is \nalways used to introduce factorials. This is that \nn!=n\u2022(n-1)\u2022(n-2)\u2022...\u20223\u20222\u20221. Even this definition is circumstantial, and \nmust be bypassed when determining numbers such as 3!. But by this method of \nfinding factorials, which is taught as a default, one *MUST* have a number \nthat is both positive and greater than 6. \n\nIf you then get down to a better and more generic definition, which is that \nn! is n multiplied by all non-zero integers less than itself, and n>0, you \nrun into trouble once more. First when calculating 1!, because 1 has no \nnon-zero integers less than it. This is not covered well in the original \nmodel either, although it is always assumed that one can make the logical \njump to find that 1!=1. 1! cannot be calculated unless you choose to make a \nspecial case specificaly for 1!, dictating that 1! Is equal to 1\u20221, or \nsimply 1 if you don't feel multiplication is necessary in a \nmultiplication-based function. If you don't specify this case, you have no \nway at all of knowing what 1! is, because as I previously stated, the rules \n(without relying on other *PATTERNS*) do not give a method for calculation.\n\nThe problem with 0! should be obvious by now, as it is exactly the same as \nthe problem with 1!. There is no method for the calculation of 0! which \ndoes not rely on mehods whose reliability may or may not extend all the way \nto 0!. So once again, we have an answer defined by flawed logic, which is \naccepted *UNIVERSALLY* in the mathematical community. I have a problem with \nthat.\n\nIf someone would like to get in touch and explain the infinite integral and \nhow it *RELIABLY* proves both 1! and 0!, feel free to pm me on youtube or \nsend me an email. My adress is hooked up to this account by means of the \nbeautiful contraption we all know as Google+.\ufeff", 
+            "author": "Paul Cron"
+        }, 
+        {
+            "date": "2015-03-31T21:00:39.056Z", 
+            "text": "Is this chinese?\ufeff", 
+            "author": "Denik Stefan"
+        }, 
+        {
+            "date": "2015-03-31T16:38:36.553Z", 
+            "text": "I freaking wish i had this guy as a math teacher XD he would be awesome.\nps. stop breaking math\ufeff", 
+            "author": "tyler89557"
+        }, 
+        {
+            "date": "2015-03-31T01:09:33.621Z", 
+            "text": "so by extension 0=1 \ufeff", 
+            "author": "Valentin Alexandrescu"
+        }, 
+        {
+            "date": "2015-03-30T07:20:57.737Z", 
+            "text": "Can you prove to me the formula of Bhaskara?! And why the are of the things \non analytic geometry is module d/2?!\ufeff", 
+            "author": "Leornardo Doo"
+        }, 
+        {
+            "date": "2015-03-30T07:04:04.996Z", 
+            "text": "This guy is really cute with his enthusiasm. \ufeff", 
+            "author": "Vegano Guy"
+        }, 
+        {
+            "date": "2015-03-29T14:53:13.824Z", 
+            "text": "But shouldn't there be INFINITE ways to arrange 0 objects?\ufeff", 
+            "author": "EternalListener"
+        }, 
+        {
+            "date": "2015-03-29T14:01:47.868Z", 
+            "text": "Shouldn't 0! be infinity? You can arrange 0 objects in infinitely many ways \nsince there's no object there. \nAnd if I'm wrong pls explain :3\ufeff", 
+            "author": "Ayush Sharma"
+        }, 
+        {
+            "date": "2015-03-28T00:52:00.351Z", 
+            "text": "Cuz we defined it dat way and it makes sense like how we defined something \nto the power of 0\ufeff", 
+            "author": "Zzzip13Strike"
+        }, 
+        {
+            "date": "2015-03-27T21:25:46.246Z", 
+            "text": "I have a question : what the factorial of a rationnal number ?\nFor example (p/q)! or (1/2)! ect.\ufeff", 
+            "author": "\u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2 \u03a4\u03c3\u03b9\u03b3\u03b3\u03af\u03bb\u03b7\u03c2"
+        }, 
+        {
+            "date": "2015-03-27T14:12:17.545Z", 
+            "text": "in programing, '0 != 1' equals to 'true' or 1\ufeff", 
+            "author": "WladBlank"
+        }
+    ]
+}

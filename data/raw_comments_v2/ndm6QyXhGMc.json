@@ -690,12 +690,24 @@
         "/m/076vlrm", 
         "/m/01jjk"
     ], 
+<<<<<<< HEAD
     "number_views": 1963100, 
+=======
+    "number_views": 1963102, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
     "categories": [
         24
     ], 
     "comments": [
         {
+<<<<<<< HEAD
+=======
+            "date": "2015-05-11T02:50:13.233Z", 
+            "text": "All of those dishes originate from Turkey. \ufeff", 
+            "author": "Rahel Erki"
+        }, 
+        {
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
             "date": "2015-05-11T02:37:26.339Z", 
             "text": "There is no such thing as eating too much Balkan food!\ufeff", 
             "author": "tommiceva"
@@ -1199,6 +1211,7 @@
             "date": "2015-04-17T20:27:51.822Z", 
             "text": "Cevape, Burek, Sarma *-* well now I wan't to eat it too\ufeff", 
             "author": "Nina R."
+<<<<<<< HEAD
         }, 
         {
             "date": "2015-04-17T19:11:30.046Z", 
@@ -1214,6 +1227,8 @@
             "date": "2015-04-18T01:18:15.241Z", 
             "text": "+Bane bgd Bane daj ne seri!", 
             "author": "bloodius22"
+=======
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
         }
     ]
 }

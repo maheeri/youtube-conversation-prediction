@@ -1,0 +1,1069 @@
+{
+    "publish_date": "2012-07-30T18:02:26.000Z", 
+    "video_length": "PT3M1S", 
+    "captions": [
+        {
+            "text": "So we&#39;re going to do something\nthat looks really complicated,", 
+            "dur": "4.78", 
+            "start": "0.28"
+        }, 
+        {
+            "text": "something actually, if you talk\nabout maths, you go, oh,", 
+            "dur": "2.06", 
+            "start": "5.06"
+        }, 
+        {
+            "text": "no that looks horrific.", 
+            "dur": "1.59", 
+            "start": "7.12"
+        }, 
+        {
+            "text": "And then we&#39;ll see how it\nturns out, all right?", 
+            "dur": "2.454", 
+            "start": "8.71"
+        }, 
+        {
+            "text": "[MUSIC PLAYING]", 
+            "dur": "11.106", 
+            "start": "11.164"
+        }, 
+        {
+            "text": "Yes.", 
+            "dur": "0.76", 
+            "start": "22.27"
+        }, 
+        {
+            "text": "We&#39;ve done it.", 
+            "dur": "1.06", 
+            "start": "23.03"
+        }, 
+        {
+            "text": "That is probably the most\nhorrific equation we&#39;ve ever", 
+            "dur": "5.64", 
+            "start": "24.09"
+        }, 
+        {
+            "text": "done on Numberphile.", 
+            "dur": "1.96", 
+            "start": "29.73"
+        }, 
+        {
+            "text": "But what does it mean?", 
+            "dur": "1.39", 
+            "start": "31.69"
+        }, 
+        {
+            "text": "Well, let&#39;s try this out.", 
+            "dur": "1.36", 
+            "start": "33.08"
+        }, 
+        {
+            "text": "We&#39;re going to plot it, right?", 
+            "dur": "1.07", 
+            "start": "34.44"
+        }, 
+        {
+            "text": "We&#39;re going to draw a graph\nin my computer here.", 
+            "dur": "3.12", 
+            "start": "35.51"
+        }, 
+        {
+            "text": "And now, I&#39;m going to\ndraw the graph.", 
+            "dur": "1.78", 
+            "start": "38.63"
+        }, 
+        {
+            "text": "And it should be-- let me make\nthat bigger for you-- it&#39;s the", 
+            "dur": "3.03", 
+            "start": "40.41"
+        }, 
+        {
+            "text": "equation Batman deserves, but\nnot one he needs right now.", 
+            "dur": "4.2", 
+            "start": "43.44"
+        }, 
+        {
+            "text": "Again, that is the\nBatman curve.", 
+            "dur": "2.01", 
+            "start": "47.64"
+        }, 
+        {
+            "text": "It was famous when it went\nviral last year.", 
+            "dur": "4.09", 
+            "start": "49.65"
+        }, 
+        {
+            "text": "A high school teacher designed\nthis curve, this equation, so", 
+            "dur": "4.88", 
+            "start": "53.74"
+        }, 
+        {
+            "text": "that it would draw\nthe Batman logo.", 
+            "dur": "2.19", 
+            "start": "58.62"
+        }, 
+        {
+            "text": "And he made it quite cleverly\nout of different curves and", 
+            "dur": "3.47", 
+            "start": "60.81"
+        }, 
+        {
+            "text": "straight lines.", 
+            "dur": "1.42", 
+            "start": "64.28"
+        }, 
+        {
+            "text": "Can I show you how he did it?", 
+            "dur": "1.06", 
+            "start": "65.7"
+        }, 
+        {
+            "text": "So here we&#39;ve got some things\nthat you may be familiar with.", 
+            "dur": "3.73", 
+            "start": "66.76"
+        }, 
+        {
+            "text": "Straight lines are quite\neasy to draw.", 
+            "dur": "3.26", 
+            "start": "70.49"
+        }, 
+        {
+            "text": "What he did, though,\nis we don&#39;t want", 
+            "dur": "2.51", 
+            "start": "73.75"
+        }, 
+        {
+            "text": "a circle for Batman.", 
+            "dur": "1.84", 
+            "start": "76.26"
+        }, 
+        {
+            "text": "We want an ellipse.", 
+            "dur": "1.53", 
+            "start": "78.1"
+        }, 
+        {
+            "text": "Has a slightly different\nequation, so", 
+            "dur": "1.58", 
+            "start": "79.63"
+        }, 
+        {
+            "text": "it looks like that.", 
+            "dur": "1.44", 
+            "start": "81.21"
+        }, 
+        {
+            "text": "Now, he turned this into\nhis Batman wings.", 
+            "dur": "3.57", 
+            "start": "82.65"
+        }, 
+        {
+            "text": "Obviously, we don&#39;t want\nthe whole thing.", 
+            "dur": "3.35", 
+            "start": "86.22"
+        }, 
+        {
+            "text": "That&#39;s not what the\ncurve looked like.", 
+            "dur": "2.04", 
+            "start": "89.57"
+        }, 
+        {
+            "text": "He actually just used\nthese two ends.", 
+            "dur": "2.03", 
+            "start": "91.61"
+        }, 
+        {
+            "text": "He found a way to multiply his\nequation, and the effect was", 
+            "dur": "6.57", 
+            "start": "93.64"
+        }, 
+        {
+            "text": "it hides some of the curve.", 
+            "dur": "2.51", 
+            "start": "100.21"
+        }, 
+        {
+            "text": "What happens here in this bit\nthat&#39;s missing, this becomes a", 
+            "dur": "4.16", 
+            "start": "102.72"
+        }, 
+        {
+            "text": "complex number, imaginary\nnumber, which means", 
+            "dur": "2.26", 
+            "start": "106.88"
+        }, 
+        {
+            "text": "you can&#39;t draw it.", 
+            "dur": "0.6", 
+            "start": "109.14"
+        }, 
+        {
+            "text": "And that&#39;s what he did.", 
+            "dur": "1.02", 
+            "start": "109.74"
+        }, 
+        {
+            "text": "He just carried on doing that.", 
+            "dur": "0.96", 
+            "start": "110.76"
+        }, 
+        {
+            "text": "He just used curves and\nstraight lines.", 
+            "dur": "2.73", 
+            "start": "111.72"
+        }, 
+        {
+            "text": "And let me show you what they\nlook like to make his Batman.", 
+            "dur": "4.39", 
+            "start": "114.45"
+        }, 
+        {
+            "text": "Now, he used six curves.", 
+            "dur": "1.92", 
+            "start": "118.84"
+        }, 
+        {
+            "text": "Let&#39;s have a look at them.", 
+            "dur": "0.83", 
+            "start": "120.76"
+        }, 
+        {
+            "text": "So he used the ellipse.", 
+            "dur": "2.7", 
+            "start": "121.59"
+        }, 
+        {
+            "text": "And, oh, this is quite clever.", 
+            "dur": "1.29", 
+            "start": "124.29"
+        }, 
+        {
+            "text": "This is the bottom of\nthe Batman symbol.", 
+            "dur": "3.07", 
+            "start": "125.58"
+        }, 
+        {
+            "text": "And these straight lines and\nthese ones are going to form", 
+            "dur": "2.73", 
+            "start": "128.65"
+        }, 
+        {
+            "text": "his ears, very pointy\nones there.", 
+            "dur": "2.29", 
+            "start": "131.38"
+        }, 
+        {
+            "text": "And then, there you go,\nsome more curves.", 
+            "dur": "1.585", 
+            "start": "133.67"
+        }, 
+        {
+            "text": "That finishes off the picture.", 
+            "dur": "1.365", 
+            "start": "135.255"
+        }, 
+        {
+            "text": "You put it all together, and\nthat&#39;s what you get.", 
+            "dur": "3.92", 
+            "start": "136.62"
+        }, 
+        {
+            "text": "That&#39;s the Batman.", 
+            "dur": "0.88", 
+            "start": "140.54"
+        }, 
+        {
+            "text": "So he hid parts of it using\nimaginary numbers, yeah, using", 
+            "dur": "4.38", 
+            "start": "141.42"
+        }, 
+        {
+            "text": "square roots, which would turn\nsome numbers that he doesn&#39;t", 
+            "dur": "3.58", 
+            "start": "145.8"
+        }, 
+        {
+            "text": "want to find into imaginary\nnumbers.", 
+            "dur": "2.14", 
+            "start": "149.38"
+        }, 
+        {
+            "text": "It was a very clever way.", 
+            "dur": "1.43", 
+            "start": "151.52"
+        }, 
+        {
+            "text": "He used the same curves, but\nnow you can see he&#39;s hidden", 
+            "dur": "2.21", 
+            "start": "152.95"
+        }, 
+        {
+            "text": "some parts of it.", 
+            "dur": "1.7", 
+            "start": "155.16"
+        }, 
+        {
+            "text": "You put those together, and\nyou put them together by", 
+            "dur": "2.03", 
+            "start": "156.86"
+        }, 
+        {
+            "text": "multiplying.", 
+            "dur": "1.58", 
+            "start": "158.89"
+        }, 
+        {
+            "text": "So he put it together.", 
+            "dur": "1.27", 
+            "start": "160.47"
+        }, 
+        {
+            "text": "He multiplied these equations\ntogether.", 
+            "dur": "2.77", 
+            "start": "161.74"
+        }, 
+        {
+            "text": "What do you get?", 
+            "dur": "0.75", 
+            "start": "164.51"
+        }, 
+        {
+            "text": "The Batman curve.", 
+            "dur": "1.9", 
+            "start": "165.26"
+        }, 
+        {
+            "text": "It went viral last year, but I\nwanted to do it, because I&#39;m", 
+            "dur": "4.21", 
+            "start": "167.16"
+        }, 
+        {
+            "text": "very much looking forward to\nthe Dark Knight coming out,", 
+            "dur": "3.01", 
+            "start": "171.37"
+        }, 
+        {
+            "text": "Dark Knight Rises.", 
+            "dur": "1.25", 
+            "start": "174.38"
+        }
+    ], 
+    "title": "Batman Equation - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0vb40_n", 
+        "/m/0vb43ff", 
+        "/m/02jnw"
+    ], 
+    "number_views": 543394, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-28T04:59:03.594Z", 
+            "text": "I've done a similar project in math class. We had to graph a picture made \nout of the 4 conic sections.\ufeff", 
+            "author": "vF3ARv1"
+        }, 
+        {
+            "date": "2015-04-04T21:49:51.276Z", 
+            "text": "This blew my mind. Wow.\ufeff", 
+            "author": "Trip75"
+        }, 
+        {
+            "date": "2015-04-04T00:14:23.817Z", 
+            "text": "In math class about 2 years ago, we were assigned a project to design a set \nof equations that would create a certain picture. We used a program called \nGrafEq to create it.\ufeff", 
+            "author": "sociallyawkward99"
+        }, 
+        {
+            "date": "2015-03-21T09:10:08.618Z", 
+            "text": "Batman aproves this\ufeff", 
+            "author": "I'm Batman"
+        }, 
+        {
+            "date": "2015-03-20T10:04:18.608Z", 
+            "text": "Wooow\nThis is brilliant\ufeff", 
+            "author": "Issa Minasyan"
+        }, 
+        {
+            "date": "2015-03-11T07:26:38.288Z", 
+            "text": "Next time someone tells you that math is lame, just show them this video.\ufeff", 
+            "author": "Teddy Catnip"
+        }, 
+        {
+            "date": "2015-02-18T02:50:48.690Z", 
+            "text": "\"It's the equation Batman deserves, but not the one he needs right now\" I \nsee what you did here \ufeff", 
+            "author": "ainhoa iceta"
+        }, 
+        {
+            "date": "2015-02-14T14:58:31.906Z", 
+            "text": "This is ganne be one of those 'headache' videos....\ufeff", 
+            "author": "G-gamer"
+        }, 
+        {
+            "date": "2015-02-08T15:10:00.064Z", 
+            "text": "I like mine better. x^3-3*x\ufeff", 
+            "author": "Noah Williams"
+        }, 
+        {
+            "date": "2015-01-26T18:59:44.756Z", 
+            "text": "NAnanananananananananananananana kill me!\ufeff", 
+            "author": "Zero Ace"
+        }, 
+        {
+            "date": "2015-01-18T18:24:58.791Z", 
+            "text": "This is another great reason to subscribe to Numberphile\ufeff", 
+            "author": "Nathan L"
+        }, 
+        {
+            "date": "2014-12-07T05:38:48.317Z", 
+            "text": "Piece wise equation\ufeff", 
+            "author": "Arthur Dent"
+        }, 
+        {
+            "date": "2015-02-23T00:29:52.406Z", 
+            "text": "Arthur Dent ?! You're alive? But you died!", 
+            "author": "Alex Roberts"
+        }, 
+        {
+            "date": "2014-10-30T01:16:03.161Z", 
+            "text": "I had a math teacher in high school who used to have his students do this \nas a project, except we would choose our own pictures or logos to make. I \nremember very vividly making mine plot a drawing on a 1-UP mushroom from \nSuper Mario Bros. It was a lot of fun and a great way to teach students \nvisually how to alter equations so that certain portions would plot while \nothers wouldn't.\ufeff", 
+            "author": "Jason Fowler"
+        }, 
+        {
+            "date": "2015-01-24T02:35:39.846Z", 
+            "text": "theres a class in my school where you take a picture of something and using \nconic sections write all the equations for the picture ", 
+            "author": "Chuckie Sun"
+        }, 
+        {
+            "date": "2014-10-26T12:08:03.667Z", 
+            "text": "This is what I do during my spare time on my graphing calculator. This is \ngenius though!\ufeff", 
+            "author": "Patrick Montoya (Alex)"
+        }, 
+        {
+            "date": "2014-10-23T20:07:40.869Z", 
+            "text": "We're doing curve sketching of things like (ax^2+bx+c)/(dx^2+ex+f), it's \npretty tedious, and you need to keep on the ball because it's easy to screw \nup.\ufeff", 
+            "author": "RedInferno112"
+        }, 
+        {
+            "date": "2014-10-20T22:34:17.700Z", 
+            "text": "That's insane\ufeff", 
+            "author": "Z&P Designs"
+        }, 
+        {
+            "date": "2014-10-10T00:45:16.279Z", 
+            "text": "what are the equations\ufeff", 
+            "author": "Ria Erickson"
+        }, 
+        {
+            "date": "2014-09-29T02:28:17.973Z", 
+            "text": "yep\ufeff", 
+            "author": "Bob The Bat"
+        }, 
+        {
+            "date": "2014-09-18T01:07:01.222Z", 
+            "text": "awesome!\ufeff", 
+            "author": "happyman Gaming"
+        }, 
+        {
+            "date": "2014-09-06T19:56:37.194Z", 
+            "text": "(1.02x^2+1.2y^2+0.18y+1.51*abs(y+0.48)/(y+0.48))(1.1x^2-0.93(abs(x))*y+0.68y^2-3.47(abs(x))+1.06y+2.37((((-abs(0.3(abs(x))+0.39y-0.21)/(0.3(abs(x))+0.39y-0.21)-1)(-1))+1)))((x^2+y^2-3.62)(-1.04x^2-0.39y^2+1.19(abs(x))+0.52y-0.46)=0\ufeff", 
+            "author": "DerToasti"
+        }, 
+        {
+            "date": "2014-08-27T22:30:43.325Z", 
+            "text": "Now give Mona Lisa equation plz\ufeff", 
+            "author": "Liviu DJPicture"
+        }, 
+        {
+            "date": "2014-11-12T02:34:31.443Z", 
+            "text": "You have broken me.", 
+            "author": "Jimmy Hylton"
+        }, 
+        {
+            "date": "2014-11-11T09:06:49.441Z", 
+            "text": "+Jimmy Hylton What? Isn't it nice?", 
+            "author": "Jamil Tomerowi"
+        }, 
+        {
+            "date": "2014-11-11T01:37:25.793Z", 
+            "text": "WHY!?! WHY!?! HOW!?! WHY!?! and also HOW!?!  but WHY!?! does not compute.", 
+            "author": "Jimmy Hylton"
+        }, 
+        {
+            "date": "2014-11-10T20:15:18.515Z", 
+            "text": "Here you go:\nhttp://www.wolframalpha.com/input/?i=Mona+Lisa-like+curve", 
+            "author": "Jamil Tomerowi"
+        }, 
+        {
+            "date": "2014-10-17T15:51:43.024Z", 
+            "text": "that is what is call the nope equation.", 
+            "author": "Jimmy Hylton"
+        }, 
+        {
+            "date": "2014-08-11T12:55:14.310Z", 
+            "text": "somehow, you reminded me of joker \ufeff", 
+            "author": "Base Revolt"
+        }, 
+        {
+            "date": "2014-08-11T12:04:57.672Z", 
+            "text": "You can do Superman Logo in equations\ufeff", 
+            "author": "Ankit Nagpal"
+        }, 
+        {
+            "date": "2014-08-13T23:37:54.287Z", 
+            "text": "Obviously", 
+            "author": "PIeSquaredMan"
+        }, 
+        {
+            "date": "2014-08-04T14:40:23.212Z", 
+            "text": "Mother of God.\ufeff", 
+            "author": "OJANproject"
+        }, 
+        {
+            "date": "2014-07-07T15:15:30.209Z", 
+            "text": "This equation is made by Batman himself, only a geanius like him can come \nup with such things. But seriously, using complex numbers to hide certain \nportions of the graph is very clever.\ufeff", 
+            "author": "mrcannotfindaname"
+        }, 
+        {
+            "date": "2014-06-29T19:11:57.932Z", 
+            "text": "Math is some awesome shit.\ufeff", 
+            "author": "Klaus \u201cThe Cloud\u201d Kleber"
+        }, 
+        {
+            "date": "2014-06-08T17:36:35.979Z", 
+            "text": "Of you pause the video and do the entire equation which took me hours, oh \nmy goodness! The answer is 3357294104. \ufeff", 
+            "author": "Scotty Zacharia"
+        }, 
+        {
+            "date": "2014-12-25T21:13:48.888Z", 
+            "text": "If the police can't help, dial that number to get Batman.", 
+            "author": "Treblaine"
+        }, 
+        {
+            "date": "2014-12-23T06:20:15.080Z", 
+            "text": "+Jamil Tomerowi yes because 42 is the answer to life the universe and \neverything (hitchhickers guide) for anyone who doesnt get it", 
+            "author": "Skip Suy"
+        }, 
+        {
+            "date": "2014-11-10T20:10:37.387Z", 
+            "text": "No, it's 42.", 
+            "author": "Jamil Tomerowi"
+        }, 
+        {
+            "date": "2014-10-19T19:20:45.330Z", 
+            "text": "+patrickguyum mabye he means the roots, then again according to his answer \nthe root wouldnt even fit on the plot XD", 
+            "author": "Jeevan Devaranjan"
+        }, 
+        {
+            "date": "2014-10-15T04:50:32.502Z", 
+            "text": "But the variables x and y werent defined.", 
+            "author": "patrickguyum"
+        }, 
+        {
+            "date": "2014-09-25T22:47:04.288Z", 
+            "text": "It's Batman's phone number! haha", 
+            "author": "James Logan"
+        }, 
+        {
+            "date": "2014-09-21T12:56:03.129Z", 
+            "text": "the entire point of drawing a curve is to show the multiple answers \npotential location on a graph, trying to solve an equation with a graph is \nlike trying to solve x=2y with no additional information.", 
+            "author": "simon paulsen"
+        }, 
+        {
+            "date": "2014-09-14T01:08:54.804Z", 
+            "text": "+Scotty Zacharia  There is no just one straight forward answer... Are you \nretarded? ", 
+            "author": "AlphaCorn"
+        }, 
+        {
+            "date": "2014-09-07T16:08:54.620Z", 
+            "text": "no", 
+            "author": "MEGABOY240"
+        }, 
+        {
+            "date": "2014-07-06T11:40:16.640Z", 
+            "text": "+Scotty Zacharia making ignorant fun of math in a video watched mostly by \nmath enthusiasts doesn't seems like a good idea to me. In fact, I don't \nknow about the others, but I really dislike these troll-like comments of \nyours.", 
+            "author": "palmomki"
+        }, 
+        {
+            "date": "2014-07-05T18:02:41.959Z", 
+            "text": "I did one of them, can't get the other dammit!", 
+            "author": "Scotty Zacharia"
+        }, 
+        {
+            "date": "2014-07-05T16:11:24.814Z", 
+            "text": "stop lying. you cant get a number solution form a single equation with 2 \nunknows.", 
+            "author": "Wang Cian"
+        }, 
+        {
+            "date": "2014-06-13T17:06:57.276Z", 
+            "text": "How did you do an equation with two variables? You know it's undefinable, \nright?", 
+            "author": "palmomki"
+        }, 
+        {
+            "date": "2014-05-21T12:35:07.923Z", 
+            "text": "man i wish my math teacher in high school was intelligent enough to this \nequation.\ufeff", 
+            "author": "I HATE TROLLS"
+        }, 
+        {
+            "date": "2014-03-06T11:58:23.564Z", 
+            "text": "", 
+            "author": "Thomas Aubry"
+        }, 
+        {
+            "date": "2014-03-02T17:01:02.569Z", 
+            "text": "Very nice Rubik's pattern at 2:30\nI did it too and I like it!\ufeff", 
+            "author": "Dan"
+        }, 
+        {
+            "date": "2014-03-02T13:35:11.540Z", 
+            "text": "cool\ufeff", 
+            "author": "ikswezsal 2001"
+        }, 
+        {
+            "date": "2014-02-23T13:03:53.537Z", 
+            "text": "this makes me happy being a maths student\ufeff", 
+            "author": "Staghound"
+        }, 
+        {
+            "date": "2014-02-17T00:46:18.276Z", 
+            "text": "", 
+            "author": "minutiaminute"
+        }, 
+        {
+            "date": "2014-02-03T21:14:39.442Z", 
+            "text": "\"this becomes a complex number which means you can't draw it\"\n*facepalm*\ufeff", 
+            "author": "ImaginaryHuman072889"
+        }, 
+        {
+            "date": "2014-10-02T23:18:28.570Z", 
+            "text": "+Ruadhan Glynn No they arent", 
+            "author": "Chapafifi"
+        }, 
+        {
+            "date": "2014-09-30T19:21:28.429Z", 
+            "text": "+Ruadhan Glynn Not really, complex numbers consist of one imaginary part \nand one real part.", 
+            "author": "Isac Norling"
+        }, 
+        {
+            "date": "2014-09-30T18:34:51.953Z", 
+            "text": "+Chapafifi They're the same thing.", 
+            "author": "Ruadhan Glynn"
+        }, 
+        {
+            "date": "2014-09-08T14:43:54.000Z", 
+            "text": "+Timothy Turpin Althought I know you, personally, understand. For those who \ndon't understand it might help to rephrase as, \"CAN be plotted WITH an \nimaginary axis..\"\nTo me, it's the same concept as changing the x-axis to resemble the period \nof 0->xpi radians (on the right side of 0) when working w/ the graph of \ntrig functions.", 
+            "author": "Dylan C"
+        }, 
+        {
+            "date": "2014-09-08T14:42:31.000Z", 
+            "text": "+Marcus B Urameshi A complex number is a number that can be expressed in \nthe form a + bi, so any real number can be a complex number (b=0), in which \ncase can definitely be drawn. He should have said \"imaginary number\" \ninstead of complex number.", 
+            "author": "CrazyRabbitKGe"
+        }, 
+        {
+            "date": "2014-08-12T19:12:52.710Z", 
+            "text": "+Marcus B Urameshi Can't be plotted without an imaginary axis, you mean.", 
+            "author": "Timothy Turpin"
+        }, 
+        {
+            "date": "2014-07-27T03:09:42.938Z", 
+            "text": "I think you misunderstand what he means. Look at 2:17. This is what the \ncurve would look like if the teacher had not multiplied each of the 6 \nindividual functions by  certain numbers. Numbers that rendered specific \nparts of the original plots undefined because the value of the function at \nthose points involve i, imaginary numbers, which cannot be plotted.", 
+            "author": "Marcus B Urameshi"
+        }, 
+        {
+            "date": "2014-07-05T21:16:43.653Z", 
+            "text": "+Dylan C\nhe doesn't understand how they can't be mapped on a 2 dimensional plane \nproperly.", 
+            "author": "Nosferdamus"
+        }, 
+        {
+            "date": "2014-07-05T19:17:18.796Z", 
+            "text": "Why do you think that's a facepalm?", 
+            "author": "Dylan C"
+        }, 
+        {
+            "date": "2014-06-25T08:12:17.620Z", 
+            "text": "Welp, it was an x-y coordinates graph not an x-i (real/imaginary numbers) \ncoordinates graph; saying complex numbers can't be drawn (on this) seems to \nhave no problem for me.", 
+            "author": "Schinshikss"
+        }, 
+        {
+            "date": "2014-05-08T15:57:25.395Z", 
+            "text": "i dont get it", 
+            "author": "Isac Norling"
+        }, 
+        {
+            "date": "2014-04-12T10:30:04.622Z", 
+            "text": "Why the facepalm ? ", 
+            "author": "Zakaria Azami"
+        }, 
+        {
+            "date": "2014-03-27T19:51:52.581Z", 
+            "text": "Well, you can't plot it in two dimensions...", 
+            "author": "henrybrice86"
+        }, 
+        {
+            "date": "2014-03-16T11:17:55.717Z", 
+            "text": "in the scope of the program he was using to plot the curve this is true.", 
+            "author": "Nosferdamus"
+        }, 
+        {
+            "date": "2014-03-01T23:03:41.774Z", 
+            "text": "He kinda fixed himself after he said 'complex number' by saying 'imaginary \nnumber'.... but yeah i noticed that too :)", 
+            "author": "Chapafifi"
+        }, 
+        {
+            "date": "2014-02-23T10:22:07.297Z", 
+            "text": "You can't plot a complex number in a real plane.", 
+            "author": "Vee D."
+        }, 
+        {
+            "date": "2014-02-22T16:23:28.735Z", 
+            "text": "why facepalm?", 
+            "author": "V1nc3ntZockt"
+        }, 
+        {
+            "date": "2014-02-20T02:32:13.848Z", 
+            "text": "You can't draw it on a standard Cartesian plane. ", 
+            "author": "Nebzzz"
+        }, 
+        {
+            "date": "2014-02-16T21:17:09.209Z", 
+            "text": "No dude, he's right.That's why it's piecewise.", 
+            "author": "Henry McKenzie"
+        }, 
+        {
+            "date": "2014-02-14T01:46:19.096Z", 
+            "text": "complex number means imaginary number, meaning you still can't draw it. \nfacepalm.", 
+            "author": "FatNooblet"
+        }, 
+        {
+            "date": "2014-02-01T21:51:07.934Z", 
+            "text": ":))))\ufeff", 
+            "author": "viralshield"
+        }, 
+        {
+            "date": "2014-01-18T08:32:35.596Z", 
+            "text": "In wolfarm alpha you can type spongebob like-cruve and obama like-cruve\nIt's amazing\ufeff", 
+            "author": "Wild Powerlifting"
+        }, 
+        {
+            "date": "2013-11-06T14:05:19.695Z", 
+            "text": "the first 21 mins really is motivating us to learn maths right? ", 
+            "author": "Sana Qureshi"
+        }, 
+        {
+            "date": "2013-11-01T09:32:18.746Z", 
+            "text": "my casio fx-9860g au plus can do it its just a pain in the ass to get to \nwork.", 
+            "author": "Jared P"
+        }, 
+        {
+            "date": "2013-10-28T00:03:47.380Z", 
+            "text": "Where can I find this to put in my graphing calculator. I want to show my \nalgebra teacher", 
+            "author": "ferbritzeo"
+        }, 
+        {
+            "date": "2013-10-25T15:52:34.091Z", 
+            "text": "Yes, yes it did. This is why Norwegian sounds similar to English sometimes.", 
+            "author": "Rip Steakface"
+        }, 
+        {
+            "date": "2013-10-25T15:13:35.932Z", 
+            "text": "Don't forget that even before the romance influences, english was an \nanglo-saxon language, that, even though it shares roots with german \nlanguages, isn't exactly a \"pure\" german language. Wow that last bit \nsounded a bit ominous.", 
+            "author": "rambadibow"
+        }, 
+        {
+            "date": "2013-10-25T15:12:04.083Z", 
+            "text": "IT'S RIGHT THERE ARE YOU BLIND STOP SHOUTING JUST TAKE A SLICE", 
+            "author": "rambadibow"
+        }, 
+        {
+            "date": "2013-10-25T15:11:37.302Z", 
+            "text": "You're in the wrong channel.", 
+            "author": "rambadibow"
+        }, 
+        {
+            "date": "2013-10-25T01:36:31.955Z", 
+            "text": "Someone's GOTTA have that in their store. They would make a fortune.", 
+            "author": "Mark Vorndran"
+        }, 
+        {
+            "date": "2013-10-23T19:22:00.534Z", 
+            "text": "but if you have equation, it is scale independent, so it is easier to scale \nmathematicly", 
+            "author": "sham1"
+        }, 
+        {
+            "date": "2013-10-21T14:11:46.802Z", 
+            "text": "you don't need complicated equations. just draw the damn thing. ", 
+            "author": "bulwine"
+        }, 
+        {
+            "date": "2013-10-19T22:59:57.792Z", 
+            "text": "", 
+            "author": "Gerard van Wilgen"
+        }, 
+        {
+            "date": "2013-10-19T11:49:03.449Z", 
+            "text": "what is the equation", 
+            "author": "Leighton Scheer"
+        }, 
+        {
+            "date": "2013-10-07T16:02:11.257Z", 
+            "text": "I'm l34tm4n!", 
+            "author": "drghost2999"
+        }, 
+        {
+            "date": "2013-10-07T05:14:27.009Z", 
+            "text": "shut up and take my money!", 
+            "author": "freitasnetuno"
+        }, 
+        {
+            "date": "2013-10-03T21:27:42.353Z", 
+            "text": "well that is quite cool", 
+            "author": "SilverWolf09100"
+        }, 
+        {
+            "date": "2013-09-29T02:10:41.978Z", 
+            "text": "Thanks, but I already figured it out.", 
+            "author": "tho1efx"
+        }, 
+        {
+            "date": "2013-09-29T02:10:26.398Z", 
+            "text": "Yeah I figured it out, thanks though. It was Mathematica.", 
+            "author": "tho1efx"
+        }, 
+        {
+            "date": "2013-09-27T14:50:26.938Z", 
+            "text": "sometimes it's just a pain in the ass, you're right. but in general i don't \nhave any problems with this.", 
+            "author": "rmay000"
+        }, 
+        {
+            "date": "2013-09-26T23:14:32.558Z", 
+            "text": "It's cool, English and German are less close than they should logically be \n(since, you know, English is a West Germanic language just like German... \ntoo bad we also rip off every other language, especially French).", 
+            "author": "Rip Steakface"
+        }, 
+        {
+            "date": "2013-09-26T13:46:02.905Z", 
+            "text": "right. i'm german and stuff like that sometimes happens to me (getting the \nterms messed up)", 
+            "author": "rmay000"
+        }, 
+        {
+            "date": "2013-09-26T13:32:27.360Z", 
+            "text": "It's an equation, just not a function.", 
+            "author": "Rip Steakface"
+        }, 
+        {
+            "date": "2013-09-26T07:41:46.841Z", 
+            "text": "me! me!", 
+            "author": "Richard van Dijk"
+        }, 
+        {
+            "date": "2013-09-24T06:14:29.659Z", 
+            "text": "Yeah, his name is Professor Dorkface McFart. Professor McFart is an \nexcellent Mathmagician. If you ask me, he's my number one... GUY!", 
+            "author": "Jeremy R"
+        }, 
+        {
+            "date": "2013-09-23T03:41:34.828Z", 
+            "text": "x=y^2, y=sqrt(x) and y=-sqrt(x) simplest counter example", 
+            "author": "Alber Popov"
+        }, 
+        {
+            "date": "2013-09-23T03:38:59.977Z", 
+            "text": "you could at least give him so credit for this tedious work ;) can we know \nhis name? mention him few times, he deserves that at least", 
+            "author": "Alber Popov"
+        }, 
+        {
+            "date": "2013-09-20T22:33:17.638Z", 
+            "text": "An equation can have multiple ys for every x, it's functions that can only \nhave one y per x", 
+            "author": "nickb537"
+        }, 
+        {
+            "date": "2013-09-19T02:51:40.282Z", 
+            "text": "but there's two Ys for every X...how can that be an equation.", 
+            "author": "rmay000"
+        }, 
+        {
+            "date": "2013-09-11T21:55:19.787Z", 
+            "text": "Blaming something you don't understand. I dont want to drive the stereotype \nroad, but that is pretty much the american way of life.", 
+            "author": "MidNite"
+        }, 
+        {
+            "date": "2013-09-11T15:00:48.962Z", 
+            "text": "I figured it wasn't meant in the nicest way. I just like turning things \naround.", 
+            "author": "Alex Wagner"
+        }, 
+        {
+            "date": "2013-09-11T00:47:23.632Z", 
+            "text": "She meant the comic one. That actually was done once. Numberphile doesn't \nlook like that at all.", 
+            "author": "TheMornal"
+        }, 
+        {
+            "date": "2013-08-30T19:06:17.751Z", 
+            "text": "So you're saying he looks like Heath Ledger? I'd take it as a compliment.", 
+            "author": "Alex Wagner"
+        }, 
+        {
+            "date": "2013-08-30T12:03:31.050Z", 
+            "text": "Darn it.I knew I wrote it wrong.", 
+            "author": "Daniel C\u00f3rdoba"
+        }, 
+        {
+            "date": "2013-08-30T09:34:41.846Z", 
+            "text": "Took off my points*", 
+            "author": "Mitch Sup"
+        }, 
+        {
+            "date": "2013-08-22T21:41:24.171Z", 
+            "text": "I did the same thing to make a penis", 
+            "author": "Thai Tong"
+        }, 
+        {
+            "date": "2013-08-18T12:58:34.820Z", 
+            "text": "sounds gay", 
+            "author": "applemacHATER"
+        }, 
+        {
+            "date": "2013-08-17T03:48:25.901Z", 
+            "text": "That is amazing! Dare I say - I love mathematics and so looking forward to \nthe release of Batman Arkham Origins on PS3", 
+            "author": "anwmus"
+        }, 
+        {
+            "date": "2013-08-16T13:20:17.584Z", 
+            "text": "this is a load of batshit", 
+            "author": "steve norton"
+        }, 
+        {
+            "date": "2013-08-16T01:10:32.001Z", 
+            "text": "u look like the joker without his lipstick", 
+            "author": "Kat Cute"
+        }, 
+        {
+            "date": "2013-08-13T06:45:29.889Z", 
+            "text": "Not really that hard to make with graphing software, I made a more complex \nbat in the 11th grade", 
+            "author": "bluetekki"
+        }, 
+        {
+            "date": "2013-08-12T17:52:48.071Z", 
+            "text": "Wolfram mathematica.", 
+            "author": "Tallywort"
+        }, 
+        {
+            "date": "2013-08-11T00:40:06.774Z", 
+            "text": "Today class we will be finally teaching a large population of youtube the \ndifference between your and you're.", 
+            "author": "daniel conner"
+        }, 
+        {
+            "date": "2013-08-10T09:36:05.325Z", 
+            "text": "Owe go away, if you don't like to 'nitpick' then don't do it!! I'd like to \nsee you design something like this.", 
+            "author": "Charley Nettleingham-Ryan"
+        }, 
+        {
+            "date": "2013-08-09T01:54:40.304Z", 
+            "text": "i hate to nitpick but the inner curves of the outermost points of the wings \nshould be deeper and more circular. i'm not sure if you can graph an acute \ncurved shape like that", 
+            "author": "Kairu Hakubi"
+        }, 
+        {
+            "date": "2013-08-05T23:49:27.523Z", 
+            "text": "What program are you using there to plot all that stuff?", 
+            "author": "zoffix222"
+        }, 
+        {
+            "date": "2013-08-03T21:26:54.313Z", 
+            "text": "awesome!!!\ufeff", 
+            "author": "delaeter nicolas"
+        }, 
+        {
+            "date": "2013-08-03T17:57:03.040Z", 
+            "text": "I feel like my entire world has been turned upside down. You seldom see \nsmiling and math in the same video.", 
+            "author": "A. Frostpaw"
+        }, 
+        {
+            "date": "2013-08-02T08:56:51.340Z", 
+            "text": "Anyone else want a t-shirt that has that equation in the yellow circle \ninstead of the Bat-symbol? No? Only me? ", 
+            "author": "iwatchvideos4321"
+        }, 
+        {
+            "date": "2013-08-02T01:10:49.347Z", 
+            "text": "Dude you're not perfect, you little stuck up bitch.", 
+            "author": "Bobby Mclaughlin"
+        }, 
+        {
+            "date": "2013-08-02T00:23:32.789Z", 
+            "text": "\u00bfSoy el \u00fanico aqu\u00ed que habla espa\u00f1ol? D:", 
+            "author": "VideosAMSR"
+        }, 
+        {
+            "date": "2013-07-31T19:52:02.716Z", 
+            "text": "Yes, but then you would have a piecewise-defined thing rather than a single \nequation. Certainly doable, but a little less elegant.", 
+            "author": "Andy Parrish"
+        }, 
+        {
+            "date": "2013-07-31T09:59:12.741Z", 
+            "text": "wouldnt restricing the domain be a lot easier than making it imaginary", 
+            "author": "basspulse101"
+        }, 
+        {
+            "date": "2013-07-29T23:28:11.822Z", 
+            "text": "fuck thee", 
+            "author": "mrhypnagogia"
+        }, 
+        {
+            "date": "2013-07-29T15:59:35.553Z", 
+            "text": "Na na na na na na na na Mathman!", 
+            "author": "Benfea"
+        }, 
+        {
+            "date": "2013-07-28T02:31:45.778Z", 
+            "text": "I iz teh smert une curmperd ter u u idoit. sew y dont u jus shup ut be4 i \ncum ter yur huose und smerk u in teh face!", 
+            "author": "Jeremiah Buchanan"
+        }, 
+        {
+            "date": "2013-07-27T19:31:58.155Z", 
+            "text": "\u266aYou know the rules and so do I!\u266b", 
+            "author": "yoshi9048"
+        }, 
+        {
+            "date": "2013-07-27T05:41:23.663Z", 
+            "text": "Did this guy just describe Christianity? ", 
+            "author": "WtfThisSucks12"
+        }, 
+        {
+            "date": "2013-07-26T19:43:39.908Z", 
+            "text": "I know these are old comments, but I thought I'd chime in for a sec. You do \nnot have perfect grammar; you used multiple comma splices (really common \nmistake), and the word \"everyone\" is singular, so \"everyone are\" is \ngrammatically incorrect. If you'll shrink your ego a little, you'll be able \nto see your mistakes and correct them for future YouTube fights.", 
+            "author": "GreatWonderMoose"
+        }, 
+        {
+            "date": "2013-07-26T18:23:49.164Z", 
+            "text": "Hey, fucktard. Mr perfect grammar, you must be so mad. You think your \ngrammar is perfect. Well, you just said \"everyone are\" I think you meant \n\"If you think everyone is as pathetic as you...\" So, balls to your perfect \ngrammar. You're an idiot. I don't claim to have perfect grammar, because \nI'm not a pretentious asshole who overestimates himself. You are owned sir.", 
+            "author": "MrTURBOJOHN"
+        }, 
+        {
+            "date": "2013-07-25T15:38:22.237Z", 
+            "text": "I'm sure with the right equations you can design most anything", 
+            "author": "Keith Greene"
+        }, 
+        {
+            "date": "2013-07-23T18:31:08.684Z", 
+            "text": "This is the first place I've ever come across the term \"midget minded\"", 
+            "author": "Nomad Poet"
+        }, 
+        {
+            "date": "2013-07-22T13:46:54.989Z", 
+            "text": "wow wow wow wow... OMG..... That's just Amazing ", 
+            "author": "karthi kesh"
+        }, 
+        {
+            "date": "2013-07-19T19:06:50.108Z", 
+            "text": "When he said is the equation batman deserves, but not the one he needs I \nstarted sobbing. ", 
+            "author": "LegitLegend."
+        }, 
+        {
+            "date": "2013-07-18T21:12:54.160Z", 
+            "text": "Go read a history book about the 1940's in Europe. Then come back and see \nif you still mean what you said.", 
+            "author": "Shmook1"
+        }, 
+        {
+            "date": "2013-07-18T18:13:54.912Z", 
+            "text": "What is viral for nerds these days?", 
+            "author": "klosty2"
+        }
+    ]
+}

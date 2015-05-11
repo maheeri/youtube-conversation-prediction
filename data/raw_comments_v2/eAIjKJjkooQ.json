@@ -566,12 +566,24 @@
         "/m/0ydr21d", 
         "/m/0kvhr5y"
     ], 
+<<<<<<< HEAD
     "number_views": 2105111, 
+=======
+    "number_views": 2107323, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
     "categories": [
         26
     ], 
     "comments": [
         {
+<<<<<<< HEAD
+=======
+            "date": "2015-05-11T01:17:54.709Z", 
+            "text": "How do you make that\ufeff", 
+            "author": "Layla King"
+        }, 
+        {
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
             "date": "2015-05-10T22:23:38.747Z", 
             "text": "i want a dora cake\ufeff", 
             "author": "TamburinoLaw"
@@ -1115,11 +1127,14 @@
             "date": "2015-03-28T19:53:58.275Z", 
             "text": "Do Anna.\ufeff", 
             "author": "Tyeshree Naidoo"
+<<<<<<< HEAD
         }, 
         {
             "date": "2015-03-28T14:09:37.300Z", 
             "text": "", 
             "author": "Angela Montemayor"
+=======
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
         }
     ]
 }

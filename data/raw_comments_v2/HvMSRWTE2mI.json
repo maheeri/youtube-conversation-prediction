@@ -1,0 +1,686 @@
+{
+    "publish_date": "2014-02-06T10:23:31.000Z", 
+    "video_length": "PT3M43S", 
+    "captions": [
+        {
+            "text": "&gt;&gt; DR GRIME: In 2002 mathematicians\npublished a new method to test for primes", 
+            "dur": "6.25", 
+            "start": "0.35"
+        }, 
+        {
+            "text": "and finally they found a fast way that was\n100%. This is now one of the latest things.", 
+            "dur": "10.831", 
+            "start": "6.669"
+        }, 
+        {
+            "text": "So this is called that AKS test. And it&#39;s\npretty much a very similar idea to what we", 
+            "dur": "6.83", 
+            "start": "17.59"
+        }, 
+        {
+            "text": "did with the Fermat Little Theorem. It&#39;s very\nsimilar to that. And the test is, that if", 
+            "dur": "6.52", 
+            "start": "24.42"
+        }, 
+        {
+            "text": "you&#39;ve got a number p and we are going to\ndo this. We&#39;re going to take (x - 1)", 
+            "dur": "7", 
+            "start": "30.94"
+        }, 
+        {
+            "text": "to the power p and then we&#39;re going to \nsubtract (x^p - 1). Alright.", 
+            "dur": "5.91", 
+            "start": "39.199"
+        }, 
+        {
+            "text": "So it&#39;s a polynomial, I&#39;ll show you an example\nin a second. If all coefficients are divisible", 
+            "dur": "6.59", 
+            "start": "45.109"
+        }, 
+        {
+            "text": "by p then p is prime. And if they&#39;re not it&#39;s\ncomposite. it&#39;s 100% this test. I&#39;ll show", 
+            "dur": "6.34", 
+            "start": "51.699"
+        }, 
+        {
+            "text": "you an example. let&#39;s take (x - 1)\u00b3.\nYeah, let&#39;s do that. (x - 1)\u00b3.", 
+            "dur": "6.651", 
+            "start": "58.039"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: So 3 is the number we&#39;re testing?", 
+            "dur": "1.67", 
+            "start": "64.69"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Yeah, 3 is the number we&#39;re testing.\nWe know it&#39;s a prime don&#39;t we? But we&#39;re going", 
+            "dur": "3.619", 
+            "start": "66.36"
+        }, 
+        {
+            "text": "to test it. We&#39;re going to take (x - 1)\u00b3\nand so that&#39;s, to make it explicit,", 
+            "dur": "7", 
+            "start": "69.979"
+        }, 
+        {
+            "text": "(x - 1) by (x - 1) by (x - 1). OK. Multiply\nthis out, you get a polynomial called", 
+            "dur": "7.23", 
+            "start": "77.07"
+        }, 
+        {
+            "text": "x\u00b3 - 3x\u00b2 + 3x - 1. That&#39;s what you get.\nNow you&#39;re subtracting the x\u00b3,", 
+            "dur": "10.9", 
+            "start": "84.3"
+        }, 
+        {
+            "text": "I&#39;m told- I&#39;m told to that and you&#39;re, what&#39;s\nthat, adding on the 1. So these, these dissapear.", 
+            "dur": "6.269", 
+            "start": "95.21"
+        }, 
+        {
+            "text": "This says these numbers are divisible by 3.\nIf it is divisible by 3, 3 is the number we&#39;re", 
+            "dur": "6", 
+            "start": "101.5"
+        }, 
+        {
+            "text": "testing, then it is a prime. If it&#39;s not divisible\nby 3, it is not a prime. And that&#39;s our 100%", 
+            "dur": "7.5", 
+            "start": "107.5"
+        }, 
+        {
+            "text": "test. So this was really important, this was\nhuge news when they published this. 2002 they", 
+            "dur": "7.47", 
+            "start": "115.02"
+        }, 
+        {
+            "text": "published it and it was huge news because\nit was a fast test as well. Or it could be", 
+            "dur": "6.92", 
+            "start": "122.49"
+        }, 
+        {
+            "text": "made in to a fast test. There&#39;s a little thing\nthey do just to make it a bit faster because", 
+            "dur": "4.77", 
+            "start": "129.41"
+        }, 
+        {
+            "text": "it does get quite difficult, these polynomials\nget quite nasty. Just to make it a little", 
+            "dur": "6.01", 
+            "start": "134.18"
+        }, 
+        {
+            "text": "bit faster what they did is (x - a)^p  minus (x^p - a), so &#39;a&#39;", 
+            "dur": "7", 
+            "start": "140.19"
+        }, 
+        {
+            "text": "is a number like we had before. And they said\nthis was equal to p lots of something plus,", 
+            "dur": "7", 
+            "start": "148.38"
+        }, 
+        {
+            "text": "there you go, a little (x^r - 1) multiplied\nby something. So that&#39;s not quite the same,", 
+            "dur": "7", 
+            "start": "157.17"
+        }, 
+        {
+            "text": "that&#39;s a little bit different, this was actually\nfaster to work with, it makes a faster calculation.", 
+            "dur": "4.7", 
+            "start": "165.34"
+        }, 
+        {
+            "text": "And for this version you need to test a few\ncandidates for &#39;a&#39; here. You test a few.", 
+            "dur": "6.9", 
+            "start": "170.04"
+        }, 
+        {
+            "text": "And if it passes that test then you can determine\nthat p, which is what we&#39;re trying to work", 
+            "dur": "5.25", 
+            "start": "177.54"
+        }, 
+        {
+            "text": "out. Try and work that out, you can find it&#39;s\nprime or not.", 
+            "dur": "4.26", 
+            "start": "182.89"
+        }, 
+        {
+            "text": "Mathematics is done all day, you know, every\nday. New mathematics is coming out all the", 
+            "dur": "4.12", 
+            "start": "187.15"
+        }, 
+        {
+            "text": "time. And only, well I say recently, 12 years\nago they finally solved the problem.", 
+            "dur": "7.73", 
+            "start": "191.27"
+        }, 
+        {
+            "text": "It is still faster to do a Fermat test. it&#39;s still\nfaster to do this, but this is not outrageously", 
+            "dur": "8.9", 
+            "start": "199"
+        }, 
+        {
+            "text": "slow anymore. This doesn&#39;t take us to the\nend of the universe anymore. So we can actually", 
+            "dur": "4.33", 
+            "start": "207.9"
+        }, 
+        {
+            "text": "run this test. It&#39;s slower than the Fermat\ntest, but 100% true.", 
+            "dur": "7", 
+            "start": "212.23"
+        }
+    ], 
+    "title": "Fool-Proof Test for Primes - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05x5j", 
+        "/m/024dz6", 
+        "/m/0vb40_n", 
+        "/m/01932y", 
+        "/m/05fwb"
+    ], 
+    "number_views": 309079, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-03-22T18:06:40.467Z", 
+            "text": "I don't understand how this is breakthrough. I've always noticed that \nPascal's triangle is only divisible by the row it's in when it's prime (1 7 \n21 35 35 21 7 1). Was that never proven before or was it the shortcut \nthat's new?\ufeff", 
+            "author": "Nicholas Pipitone"
+        }, 
+        {
+            "date": "2015-03-22T10:25:26.644Z", 
+            "text": "Would the graph of (x-1)^y-(x^y-1)=yz provide any useful data? Or would it \njust be too complicated?\ufeff", 
+            "author": "Mathew Hasty"
+        }, 
+        {
+            "date": "2015-01-31T13:15:57.610Z", 
+            "text": "Mind suitably blown.  Love it!\ufeff", 
+            "author": "David H-T"
+        }, 
+        {
+            "date": "2015-01-20T17:15:22.074Z", 
+            "text": "This is equivalent to saying that p is prime if and only if (p choose i) is \ndivisible by p for all i between 1 and 1+floor(p/2). I can see how this \nmethod can be made quick. One can use the relations: (p choose 1) = p and \n(p choose (i+1)) = (p-i)/(i+1) (p choose i) to check all the numbers quite \nquickly.\ufeff", 
+            "author": "Alexander Farrugia"
+        }, 
+        {
+            "date": "2015-01-13T20:42:33.750Z", 
+            "text": "Doesn't this generate as many terms (give or take) as there are numbers \nbetween 1 and p? If so doesn't it make sense to just do divisibility tests \non all numbers from 2 to square root p?\ufeff", 
+            "author": "Ben Johnson"
+        }, 
+        {
+            "date": "2014-12-14T14:46:27.066Z", 
+            "text": "How about (x - 1)^1 - (x^1 - 1)? 1 is not prime, but 0 is divisible by 1. \nCan someone please enlighten me on this?\ufeff", 
+            "author": "Adriel \u201cIvis\u201d Padernal"
+        }, 
+        {
+            "date": "2014-11-26T23:34:00.902Z", 
+            "text": "Mmmm wish I saw this  a month ago.  I'll make your test a little quicker \nuse 30x^2 + 30  If you want to know why it works you need to see my papers :\n)\ufeff", 
+            "author": "Richard Richardson"
+        }, 
+        {
+            "date": "2014-11-08T14:57:28.000Z", 
+            "text": "AKS's fastness is relative, it still doesn't match Miller-Rabin-style \nprobabilistic primarily tests for practical purposes\n. And of course, it also depends on the kind of modular multiplication \nalgorithm underneath it.\ufeff", 
+            "author": "joeseth05"
+        }, 
+        {
+            "date": "2014-07-01T04:13:02.857Z", 
+            "text": "If only the prisoners knew this in that movie *Cube*, more of them would \nhave survived.\ufeff", 
+            "author": "Smfsableye"
+        }, 
+        {
+            "date": "2014-06-03T00:28:21.981Z", 
+            "text": "So this is basically the same thing as checking the nth row of Pascal's \nTriangle (given that the first row with only a 1 is the 0th row), and \nseeing if all terms in that row other than the two 1s on the side are \ndivisible by n.\ufeff", 
+            "author": "Henry Cao"
+        }, 
+        {
+            "date": "2014-04-27T18:48:51.936Z", 
+            "text": "I don't really understand why this is so huge, maybe you could explain it \nto me. I mean, as soon as you have a big number to test, the term gets \nhuge. You would have to do it with a computer program anyway, but then I'd \nrather stick to my good old dividing-method on java...\ufeff", 
+            "author": "NaomiGigi"
+        }, 
+        {
+            "date": "2014-04-27T14:26:57.288Z", 
+            "text": "iff p!/n!(p-n)! mod p = 0, \u2200:1 \u2264 n \u2264 (p - 1), p is prime.\ufeff", 
+            "author": "Derick1259"
+        }, 
+        {
+            "date": "2014-03-29T16:41:39.575Z", 
+            "text": "Simple Proof:\nUse Binomial Theorem\nExcluding the first and last term, every coefficient is of the form pCr are \nintegers. Since p is prime no denominator of pCr will eliminate it (since \nthey are products of smaller numbers). So all terms are 100% divisible.\ufeff", 
+            "author": "Ryan D'souza"
+        }, 
+        {
+            "date": "2014-03-25T20:50:52.353Z", 
+            "text": "heres a good way to find primes. plug 0 into f*(x)=x^2+1 and you'll get \ntons of prime divisors. the numbers in this sequence can get pretty big so \nthey should use supercomputers for this\ufeff", 
+            "author": "Caleb Mitchell-Ward"
+        }, 
+        {
+            "date": "2014-03-22T13:09:26.235Z", 
+            "text": "since this gives you really big numbers, and would be done on a computer, \nisn't it just easier to make a program that trys dividing by all numbers up \nto P and seeing if it gives an exact answer?\ufeff", 
+            "author": "Tom Kite"
+        }, 
+        {
+            "date": "2014-03-14T06:01:31.657Z", 
+            "text": "This formula is certain due to fermat's little theorem : a(to the power p \u2212 \n1) \u2212 1 is an integer multiple of p\ufeff", 
+            "author": "PROMPT120"
+        }, 
+        {
+            "date": "2014-03-14T05:59:04.370Z", 
+            "text": "Why are prime numbers important ? Because their mapping wasnt done yet. \nHence it is used in internet/data transmission security, in hashmaps(for \nintegrity and reduction). Finding anything related to prime numbers or \ntheir spread might make your accounts unsafe as the brute forcing of AES \ntype algorithms relies on the fact that factorisation of huge primes isn't \neasily doable. People that think sieve of erathosthene could be applied to \nthe numbers we are talking about ? It would take more atoms than there are \nin the universe to map the values of primes in AES. \ufeff", 
+            "author": "PROMPT120"
+        }, 
+        {
+            "date": "2014-03-05T10:16:15.114Z", 
+            "text": "Brady, I want to thank you very much from the heart for creating and \nconstantly updating this channel. Throughout my entire life, except for \ngeometry, I have been simply awful at math. I've been watching this channel \nnow for over a year now, and you have helped my brain finally start \ngrasping some number theorems. James has also been such a great help as \nwell. His enthusiasm and child-like adoration of numbers has made \n(re)learning math more accessible. God has gifted me with the ability to \nexcel in science, English, and art, but math always escaped me. Ironically, \nI love watching people who excel at it work it out. (That might explain why \nNumb3rs is one of my all-time favorite tv dramas.) And now, Numberphile is \nin my top 5 favorite YouTube channels. (Blushing) Admittedly, I find Dr. \nJames Grime to be absolutely attractive and handsome in addition to being a \nvery sharp dressed man! James, if you ever come visit Los Angeles, please \nlet us know. I'd love to come see you and Simon's Enigma Machine. (I loved \nU-571!)\ufeff", 
+            "author": "SAN VAL (GKOALA7)"
+        }, 
+        {
+            "date": "2014-03-03T17:13:41.833Z", 
+            "text": "So basically, you can look at pascal's triangle right? If a number is \nprime, then all the numbers in its row in pascal's triangle are divisible \nby it. For example,if we look at the number 5, in the row in Pascal's \ntriangle is 1, 5, 10, 10, 5, 1. Excluding the 1's, every single number in \nthat row is divisible by 5.\ufeff", 
+            "author": "Neel Modi"
+        }, 
+        {
+            "date": "2014-03-03T03:09:22.333Z", 
+            "text": "so\num\nhow is this fast\ufeff", 
+            "author": "VVV"
+        }, 
+        {
+            "date": "2014-03-01T16:52:11.139Z", 
+            "text": "Seeing as the coefficients of binomial expansion line up with Pascal's \ntriangle always, the does this mean that if all the numbers on the nth \nlevel of Pascal's triangle (but the ones) are divisible by n then n is \nprime. \ufeff", 
+            "author": "Liam Toebes"
+        }, 
+        {
+            "date": "2014-03-01T08:22:34.990Z", 
+            "text": "why did this get published so late? isnt this very simple mathematics?\ufeff", 
+            "author": "Shashvat Shukla"
+        }, 
+        {
+            "date": "2014-03-01T07:38:39.532Z", 
+            "text": "", 
+            "author": "Massimo Conti"
+        }, 
+        {
+            "date": "2014-03-01T00:23:14.449Z", 
+            "text": "", 
+            "author": "Gerard van Wilgen"
+        }, 
+        {
+            "date": "2014-02-26T18:52:04.015Z", 
+            "text": "Could you guys make a video on the Collatz problem? Thanks for your awesome \nvideos.\ufeff", 
+            "author": "Samuel Aeberhard"
+        }, 
+        {
+            "date": "2014-02-24T15:24:02.751Z", 
+            "text": "Wait, if you wanted to test if 100 was prime, would you need to do that \nthing 100 times or something? If so, why don't you just do 100 divided be \nthe first half of all the numbers before it? That would be quicker IMO.\ufeff", 
+            "author": "UntoldAnimations"
+        }, 
+        {
+            "date": "2014-02-24T03:21:12.620Z", 
+            "text": "Wait so is this mathematical proof just an expansion on how Pascal's \ntriangle shows the same thing? They basically are just saying take of the \nleft-most and right-most numbers, the two 1's in any row on pascal's \ntriangle, and see if the middle numbers are divisible by the row number. \nAny prime number row has all of its elements, excluding the two one's, as \nmultiples of that row number.\ufeff", 
+            "author": "Raymond Friend"
+        }, 
+        {
+            "date": "2014-02-23T19:45:04.000Z", 
+            "text": "i just noticed, downvotes on comments don't decrease the number that \nappears below them\ufeff", 
+            "author": "Jacob \u201cmathboy601\u201d Steimle"
+        }, 
+        {
+            "date": "2014-02-17T13:17:19.694Z", 
+            "text": "divisible*\ufeff", 
+            "author": "Spencer Lithium"
+        }, 
+        {
+            "date": "2014-02-16T05:31:54.358Z", 
+            "text": "Could this be explain? I'm wondering.\ufeff", 
+            "author": "skenming"
+        }, 
+        {
+            "date": "2014-02-16T04:08:28.869Z", 
+            "text": "so, does dividing a number by all the primes that are less than half of \nthat number work as well? bc that's what I always do. Im too lazy to sit \nthere and divide a number by all the real whole numbers XD\ufeff", 
+            "author": "Ana Maria"
+        }, 
+        {
+            "date": "2014-02-15T19:44:16.701Z", 
+            "text": "lol most kids choose 69\ufeff", 
+            "author": "Natha n"
+        }, 
+        {
+            "date": "2014-02-15T17:57:12.009Z", 
+            "text": "Will this be faster than ECPP for numbers with thousands of digits?\ufeff", 
+            "author": "nasenbaer"
+        }, 
+        {
+            "date": "2014-02-15T13:08:26.387Z", 
+            "text": "Hi Numberphile, love your videos!\nAny reason why ECPP or rabin-miller (repeated) was not mentioned in this \nvideos? would love to hear your feedback on those...\ufeff", 
+            "author": "Ricardo Ferreira"
+        }, 
+        {
+            "date": "2014-02-15T11:44:54.575Z", 
+            "text": "", 
+            "author": "Tiago Sousa"
+        }, 
+        {
+            "date": "2014-02-08T10:23:07.018Z", 
+            "text": "there is no shortcuts in math\ufeff", 
+            "author": "Hassan Almaskeen"
+        }, 
+        {
+            "date": "2014-02-08T08:55:05.046Z", 
+            "text": "why primes? why are we interested in them and why do we keep looking for \nbigger primes? :)\ufeff", 
+            "author": "Peter Knudsen"
+        }, 
+        {
+            "date": "2014-02-08T06:43:19.521Z", 
+            "text": "OK GUYS\n\nGUYS\n\nWE FINALLY DID IT. WE FINALLY REACHED THE POINT WHERE WE CAN FORGET ABOUT \nPRIMES BECAUSE THEYRE COMPLETELY SOLVED. OKAY GUYS PRIMES ARE OVER \ufeff", 
+            "author": "JasonAndOwen"
+        }, 
+        {
+            "date": "2014-02-08T06:25:22.581Z", 
+            "text": "This is interesting, but why exactly is it fast? For normal square root \ntest, I only need to test 8 integers to see if any of them divides 71 in \norder to determine prime ness. Isnt that much easier?\ufeff", 
+            "author": "Papoj Thamjaroenporn"
+        }, 
+        {
+            "date": "2014-02-08T03:01:16.679Z", 
+            "text": "What does divisible by p mean?\ufeff", 
+            "author": "av733"
+        }, 
+        {
+            "date": "2014-02-08T02:44:51.440Z", 
+            "text": "", 
+            "author": "V\u00edctor Manuel Infante M\u00e9ndez"
+        }, 
+        {
+            "date": "2014-02-08T02:38:44.663Z", 
+            "text": "You should do a video in binomial expansion.\ufeff", 
+            "author": "timbar4"
+        }, 
+        {
+            "date": "2014-02-08T02:03:42.954Z", 
+            "text": "Yet another great video! By the way, I saw matt on the discovery channel \ntoday, he was explaining all sorts of science behind some really viral \nvideos's :p Really cool! \ufeff", 
+            "author": "Adnan Hossain"
+        }, 
+        {
+            "date": "2014-02-08T02:00:11.439Z", 
+            "text": "So..... You plug in the number you wish to be tested to see if it is indeed \nprime... but if you have the number in front of you... and you see the last \ndigit is prime then why would you need to test it in the first place???\ufeff", 
+            "author": "jior6"
+        }, 
+        {
+            "date": "2014-02-08T01:43:12.199Z", 
+            "text": "What about encryption RSA? Does the new method for primes make RSA less \neffective?\ufeff", 
+            "author": "panagranit pana"
+        }, 
+        {
+            "date": "2014-02-08T01:01:21.766Z", 
+            "text": "I miss going to University to learn maths\ufeff", 
+            "author": "Zee96969696"
+        }, 
+        {
+            "date": "2014-02-08T00:35:25.346Z", 
+            "text": "WHAT a 100% accurate prime test method?! magic\ufeff", 
+            "author": "EnderCrypt"
+        }, 
+        {
+            "date": "2014-02-07T23:42:03.026Z", 
+            "text": "wouldn't it be easier to, like, have a pascal's triangle algorithim or \nsomething? that's all the coefficients in a polynomial like (x-1)^p are\ufeff", 
+            "author": "itsmanofpopsicle"
+        }, 
+        {
+            "date": "2014-02-07T23:27:45.077Z", 
+            "text": "Do you mean, \"As for all n, pCn is divisible by p iff p is prime?\"\ufeff", 
+            "author": "\u4f0a\u85e4\u90a3\u7531\u591a"
+        }, 
+        {
+            "date": "2014-02-07T22:08:57.166Z", 
+            "text": "I love all of your videos on Primes\ufeff", 
+            "author": "MinuteMath"
+        }, 
+        {
+            "date": "2014-02-07T22:08:21.599Z", 
+            "text": "You could run fermats prime test since its faster then take the remaining \" \nprimes\" and test them using this theorem to eliminate any false primes\ufeff", 
+            "author": "rus tudor"
+        }, 
+        {
+            "date": "2014-02-07T20:59:44.047Z", 
+            "text": "could you guys give some examples of why finding primes is so important?\ufeff", 
+            "author": "IlluminARTi"
+        }, 
+        {
+            "date": "2014-02-07T08:48:16.899Z", 
+            "text": "\"easy\"\ufeff", 
+            "author": "sdrawkcab190"
+        }, 
+        {
+            "date": "2014-02-07T08:01:17.158Z", 
+            "text": "i like your shirt .\ufeff", 
+            "author": "Franko Bolero"
+        }, 
+        {
+            "date": "2014-02-07T07:41:01.757Z", 
+            "text": "AKS-Test. Fool-Proof Test for Primes - Numberphile - YouTube\ufeff", 
+            "author": "kobak.org"
+        }, 
+        {
+            "date": "2014-02-07T07:04:46.503Z", 
+            "text": "Wow,  blown away that somebody came up with proof of this.\ufeff", 
+            "author": "codediporpal"
+        }, 
+        {
+            "date": "2014-02-07T06:36:10.704Z", 
+            "text": "How, if at all, does this new test affect the use of large primes in \ncryptography?\ufeff", 
+            "author": "RunnerPack"
+        }, 
+        {
+            "date": "2014-02-07T05:53:15.032Z", 
+            "text": "all([coeff % p == 0 for coeff in [(g.comb(p, i)) * pow(-1,i) for i in \nrange(p+1)][1:-1]])\n\nThis python code using gmpy2 (as g) will equal the truth value of whether p \nis prime, using this method. Of course I wrote it nicely using functions, \nbut it can all boil down to a one liner. Such a simple method. It seems \nstrange that this will return 0 and 1 as 'primes', so it's not quite fool \nproof, just perfectly accurate for p >2.\ufeff", 
+            "author": "Tim Smaill"
+        }, 
+        {
+            "date": "2014-02-07T05:44:36.870Z", 
+            "text": "You lost me 40 seconds in\ufeff", 
+            "author": "ressovm"
+        }, 
+        {
+            "date": "2014-02-07T04:59:41.550Z", 
+            "text": "I'm supristed he didn't mention special form numbers, like 2^n-1(Mersenne \nnumbers) or numbers of the form k*b^n plus or minus 1, in both cases they \ncan be tested way faster than \"regular\" numbers, but there are rules to \ntheir construction, and people mostly concern themselves with numbers where \nb=2 with the second equation, since it's way faster to test, generally.\ufeff", 
+            "author": "Jason Goatcher"
+        }, 
+        {
+            "date": "2014-02-07T03:42:28.865Z", 
+            "text": "what about the number 1, it certainly passes this test for prime numbers \neven though we say it is not a prime number, why?\ufeff", 
+            "author": "Hemil Mistry"
+        }, 
+        {
+            "date": "2014-02-07T02:33:21.214Z", 
+            "text": "why do i watch these? i dont know shit in math ....\ufeff", 
+            "author": "Dirik619"
+        }, 
+        {
+            "date": "2014-02-07T02:20:53.778Z", 
+            "text": "1:00\n\n*divisible\ufeff", 
+            "author": "John's Codes"
+        }, 
+        {
+            "date": "2014-02-07T02:13:18.868Z", 
+            "text": "Primes for Grimes! :D\ufeff", 
+            "author": "Daviljoe193"
+        }, 
+        {
+            "date": "2014-02-07T01:04:16.022Z", 
+            "text": "can you do an episode on primecoin, its really cool but I'm not sure how it \nworks, all  I know its like GIMPS but it pays you...\ufeff", 
+            "author": "hootis8"
+        }, 
+        {
+            "date": "2014-02-07T00:56:42.572Z", 
+            "text": "WHOA. Awesome.\ufeff", 
+            "author": "ChanelCoco555"
+        }, 
+        {
+            "date": "2014-02-07T00:32:12.956Z", 
+            "text": "You guys should do a video explaining the intuition behind the Fundamental \ntheorem of calculus. Its pretty complex as to why the difference of the \nantiderivatives is equal to area under the curve. \ufeff", 
+            "author": "Nick Kimball"
+        }, 
+        {
+            "date": "2014-02-07T00:16:46.996Z", 
+            "text": "This is awesome!\ufeff", 
+            "author": "Victor Houle"
+        }, 
+        {
+            "date": "2014-02-07T00:09:14.813Z", 
+            "text": "This guy is completely funny. His face, accent and smile are unique. He \nlooks like the guy from Mad Magazine.\ufeff", 
+            "author": "Paulo da Silva"
+        }, 
+        {
+            "date": "2014-02-06T23:23:23.725Z", 
+            "text": "So what is x? Just make up some random number or..?\ufeff", 
+            "author": "thany3"
+        }, 
+        {
+            "date": "2014-02-06T23:12:32.184Z", 
+            "text": "So... all this time trying to find complex tests to prove primality and the \nanswer was always in Pascal's triangle? Oh god...\ufeff", 
+            "author": "ElFabriRocks"
+        }, 
+        {
+            "date": "2014-02-06T23:11:47.784Z", 
+            "text": "Can you explain why this works\ufeff", 
+            "author": "Johnny20022002"
+        }, 
+        {
+            "date": "2014-02-06T22:29:34.568Z", 
+            "text": "I <3 math!\ufeff", 
+            "author": "Bryan Yeung"
+        }, 
+        {
+            "date": "2014-02-06T22:20:00.517Z", 
+            "text": "Why are primes so important?\ufeff", 
+            "author": "MMQuck"
+        }, 
+        {
+            "date": "2014-02-06T21:51:10.565Z", 
+            "text": "This must have been discovered long before 2002... Was it just a quicker \nway to have the computer run all the calculations that was figured out?\ufeff", 
+            "author": "Alexander Gilbert"
+        }, 
+        {
+            "date": "2014-02-06T21:39:50.161Z", 
+            "text": "Prime numbers are so beautiful :)\ufeff", 
+            "author": "IWolfGod"
+        }, 
+        {
+            "date": "2014-02-06T21:34:34.524Z", 
+            "text": "i hope i'm wrong with this opinion but i think there is no general formula \nfor prime numbers\ufeff", 
+            "author": "Coi Joi"
+        }, 
+        {
+            "date": "2014-02-06T21:27:27.522Z", 
+            "text": "ah, sigh of relief!\ufeff", 
+            "author": "David Sweeney"
+        }, 
+        {
+            "date": "2014-02-06T21:13:39.558Z", 
+            "text": "yay. no liars + best haircut ever!\ufeff", 
+            "author": "Emoticonia"
+        }, 
+        {
+            "date": "2014-02-06T20:27:39.304Z", 
+            "text": "Thanks Guys. I have turned it into a task on Rosetta code here: \nhttp://rosettacode.org/wiki/AKS_test_for_primes\ufeff", 
+            "author": "Paddy McCarthy"
+        }, 
+        {
+            "date": "2014-02-06T20:23:58.044Z", 
+            "text": "I sadly feel that your prospective of mathematics is falling in the same \nhole as our physics.\ufeff", 
+            "author": "Joey Curley"
+        }, 
+        {
+            "date": "2014-02-06T20:14:46.104Z", 
+            "text": "This test is equivalent at looking if the coefficients of the line number p \n(excluding the first and the last ones) of Pascal's triangle are divisible \nby p. I like your channel, you are great teachers and can be understood by \nanyone :-)\ufeff", 
+            "author": "R\u00e9my Palisse"
+        }, 
+        {
+            "date": "2014-02-06T19:54:24.145Z", 
+            "text": "Dr James Grime can mine primecoin in his head.\ufeff", 
+            "author": "novocast"
+        }, 
+        {
+            "date": "2014-02-06T19:47:29.773Z", 
+            "text": "", 
+            "author": "\uad8c\uc810\uc775"
+        }, 
+        {
+            "date": "2014-02-06T19:45:36.298Z", 
+            "text": "this is still too long, what about something like 81: 8+1 = 9\n9%2 != 0 , 81 is prime :P\ufeff", 
+            "author": "EsserGui"
+        }, 
+        {
+            "date": "2014-02-06T19:42:28.316Z", 
+            "text": "Does AKS assume anything?\ufeff", 
+            "author": "SkyGodTwo"
+        }, 
+        {
+            "date": "2014-02-06T19:18:03.545Z", 
+            "text": "Where does the 100% certainty come from?\ufeff", 
+            "author": "Victor Anzala"
+        }, 
+        {
+            "date": "2014-02-06T19:15:59.637Z", 
+            "text": "Hey, check it out, my fool-proof test for primes!\n\"If P is not divided by any known prime between 2 and sqrt(P), then P is \nprime\".\n\n...Yeah... Still simpler than everyone else...\ufeff", 
+            "author": "Silver Rival"
+        }, 
+        {
+            "date": "2014-02-06T19:14:34.887Z", 
+            "text": "Can I aks you if this is prime?\ufeff", 
+            "author": "Eric Morrison"
+        }, 
+        {
+            "date": "2014-02-06T19:08:50.889Z", 
+            "text": "It amazes me, as a non-mathematician, that the solution to such a long \nexistent problem, should appear so relatively simple. Or am I viewing the \nsolution simplistically?\ufeff", 
+            "author": "Mat Broomfield"
+        }, 
+        {
+            "date": "2014-02-06T18:56:48.209Z", 
+            "text": "COOL !\ufeff", 
+            "author": "jonh walsh"
+        }, 
+        {
+            "date": "2014-02-06T18:48:36.291Z", 
+            "text": "Yeah, you lost me right on the first step, im guessing that means i should \nget back to school.\ufeff", 
+            "author": "H\u00e9lder Marinho"
+        }, 
+        {
+            "date": "2014-02-06T18:45:01.144Z", 
+            "text": "Is this method faster than test with the \u221ap divisors ?\nIsn't trying to divide p by his \u221ap divisors 100% true too ?\nOr did I just don't understand this video ^^\n(sorry if I have a bad grammar)\ufeff", 
+            "author": "Kapy Boiveau"
+        }, 
+        {
+            "date": "2014-02-06T18:42:37.706Z", 
+            "text": "Didn't I already see this?\ufeff", 
+            "author": "Woz Berry"
+        }, 
+        {
+            "date": "2014-02-06T18:25:50.916Z", 
+            "text": "Why the fuck was this video not shown before? This is outrageously \nsignificant.\ufeff", 
+            "author": "James Bond"
+        }, 
+        {
+            "date": "2014-02-06T18:23:48.419Z", 
+            "text": "Integer factorization works too\ufeff", 
+            "author": "alex75493"
+        }, 
+        {
+            "date": "2014-02-06T18:08:33.258Z", 
+            "text": "Wait a minute, it doesn't work for 7,423,811!\ufeff", 
+            "author": "Matthew Haas"
+        }, 
+        {
+            "date": "2014-02-06T18:08:23.032Z", 
+            "text": "I'd love to know more about the Theory behind this method, and how it \nrelates to the Fermat test. In other words, how come it works, and what it \nsays about primeness. I've always liked the name of the Sieve of \nEratosthenes, because that's essentially what prime numbers are: unfilled \nholes in the whole number line. Think of a number line stretching to \ninfinity. It starts out unmarked. So you mark off 1 to get started. Then \nyou begin with the multiples. Mark off all the multiples of 2 up to \ninfinity. The next unmarked integer will be prime, in this case, 3. Mark \noff very multiple of 3 up to infinity. Again, the next hole in the line, 5, \nis prime. Mark off every multiple of 5. Rinse and repeat ad infinitum. Now, \nof course you can't actually do this mechanical thing (but possibly a \nquantum computer could do). So instead, by Eratosthenes' method, you \nattempt to divide each number by all the primes that precede it, and if it \nis indivisible by all the primes, it is prime. Now along comes Fermat and \nthis new test, which both still require divisibility to be tested, but they \nsignificantly enhance the process, but do they point to a possible \nalgorithm that could generate primes? For example, input the highest known \nprime, out comes the next prime... Sadly, no. I would be interested to \ndiscover whether it has been established that no such algorithm is \npossible, and if not, why not.\ufeff", 
+            "author": "Scott Lahteine"
+        }, 
+        {
+            "date": "2014-02-06T18:01:59.440Z", 
+            "text": "Equivalent to the first test: if p divides nCr(p,n) for each n=1,2,...,p-1, \nthen p is prime.\ufeff", 
+            "author": "PikalaxALT"
+        }, 
+        {
+            "date": "2014-02-06T17:58:19.645Z", 
+            "text": "Not for the first time watching Numberphile, my mind is blown. But it \nleaves me wondering why it's 100% certain? Perhaps that's a much more \nadvanced, more difficult thing to explain than the result, which is \ncertainly interesting enough on its own. Or perhaps that's coming soon. Or \nperhaps I've missed something obvious. (Wouldn't be the first time for \nthat, either...)\ufeff", 
+            "author": "ThePeaceableKingdom"
+        }
+    ]
+}

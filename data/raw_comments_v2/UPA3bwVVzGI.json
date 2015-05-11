@@ -1,0 +1,1743 @@
+{
+    "publish_date": "2012-08-06T16:09:58.000Z", 
+    "video_length": "PT7M13S", 
+    "captions": [
+        {
+            "text": "When I was in fourth grade,\nmy teacher said to us one day:", 
+            "dur": "2.723", 
+            "start": "13.999"
+        }, 
+        {
+            "text": "&quot;There are as many even numbers\nas there are numbers.&quot;", 
+            "dur": "2.529", 
+            "start": "16.746"
+        }, 
+        {
+            "text": "&quot;Really?&quot;, I thought.", 
+            "dur": "1.353", 
+            "start": "19.745"
+        }, 
+        {
+            "text": "Well, yeah, there are\ninfinitely many of both,", 
+            "dur": "2.336", 
+            "start": "21.122"
+        }, 
+        {
+            "text": "so I suppose there are\nthe same number of them.", 
+            "dur": "2.396", 
+            "start": "23.482"
+        }, 
+        {
+            "text": "But even numbers are only part\nof the whole numbers,", 
+            "dur": "3.031", 
+            "start": "25.902"
+        }, 
+        {
+            "text": "all the odd numbers are left over,", 
+            "dur": "1.627", 
+            "start": "28.957"
+        }, 
+        {
+            "text": "so there&#39;s got to be more whole numbers\nthan even numbers, right?", 
+            "dur": "3.049", 
+            "start": "30.608"
+        }, 
+        {
+            "text": "To see what my teacher was getting at,", 
+            "dur": "1.848", 
+            "start": "33.681"
+        }, 
+        {
+            "text": "let&#39;s first think about what it means\nfor two sets to be the same size.", 
+            "dur": "3.508", 
+            "start": "35.553"
+        }, 
+        {
+            "text": "What do I mean when I say\nI have the same number of fingers", 
+            "dur": "2.8", 
+            "start": "39.085"
+        }, 
+        {
+            "text": "on my right hand as I do on left hand?", 
+            "dur": "2.448", 
+            "start": "41.909"
+        }, 
+        {
+            "text": "Of course, I have five fingers on each,\nbut it&#39;s actually simpler than that.", 
+            "dur": "3.634", 
+            "start": "44.381"
+        }, 
+        {
+            "text": "I don&#39;t have to count, I only need to see\nthat I can match them up, one to one.", 
+            "dur": "4.451", 
+            "start": "48.039"
+        }, 
+        {
+            "text": "In fact, we think that some ancient people", 
+            "dur": "2.106", 
+            "start": "52.514"
+        }, 
+        {
+            "text": "who spoke languages that didn&#39;t have words\nfor numbers greater than three", 
+            "dur": "3.443", 
+            "start": "54.644"
+        }, 
+        {
+            "text": "used this sort of magic.", 
+            "dur": "1.372", 
+            "start": "58.111"
+        }, 
+        {
+            "text": "For instance, if you let\nyour sheep out of a pen to graze,", 
+            "dur": "2.726", 
+            "start": "59.507"
+        }, 
+        {
+            "text": "you can keep track of how many went out\nby setting aside a stone for each one,", 
+            "dur": "3.681", 
+            "start": "62.257"
+        }, 
+        {
+            "text": "and putting those stones back\none by one when the sheep return,", 
+            "dur": "3.13", 
+            "start": "65.962"
+        }, 
+        {
+            "text": "so you know if any are missing\nwithout really counting.", 
+            "dur": "2.793", 
+            "start": "69.116"
+        }, 
+        {
+            "text": "As another example of matching being\nmore fundamental than counting,", 
+            "dur": "3.239", 
+            "start": "71.933"
+        }, 
+        {
+            "text": "if I&#39;m speaking to a packed auditorium,", 
+            "dur": "2.143", 
+            "start": "75.196"
+        }, 
+        {
+            "text": "where every seat is taken\nand no one is standing,", 
+            "dur": "2.304", 
+            "start": "77.363"
+        }, 
+        {
+            "text": "I know that there are the same number\nof chairs as people in the audience,", 
+            "dur": "3.53", 
+            "start": "79.691"
+        }, 
+        {
+            "text": "even though I don&#39;t know\nhow many there are of either.", 
+            "dur": "2.526", 
+            "start": "83.245"
+        }, 
+        {
+            "text": "So, what we really mean when we say\nthat two sets are the same size", 
+            "dur": "3.143", 
+            "start": "85.795"
+        }, 
+        {
+            "text": "is that the elements in those sets", 
+            "dur": "1.728", 
+            "start": "88.962"
+        }, 
+        {
+            "text": "can be matched up one by one in some way.", 
+            "dur": "2.229", 
+            "start": "90.714"
+        }, 
+        {
+            "text": "My fourth grade teacher showed us", 
+            "dur": "1.667", 
+            "start": "92.967"
+        }, 
+        {
+            "text": "the whole numbers laid out in a row,\nand below each we have its double.", 
+            "dur": "3.341", 
+            "start": "94.658"
+        }, 
+        {
+            "text": "As you can see, the bottom row\ncontains all the even numbers,", 
+            "dur": "2.869", 
+            "start": "98.023"
+        }, 
+        {
+            "text": "and we have a one-to-one match.", 
+            "dur": "1.541", 
+            "start": "100.916"
+        }, 
+        {
+            "text": "That is, there are as many\neven numbers as there are numbers.", 
+            "dur": "2.905", 
+            "start": "102.481"
+        }, 
+        {
+            "text": "But what still bothers us is our distress", 
+            "dur": "2.29", 
+            "start": "105.41"
+        }, 
+        {
+            "text": "over the fact that even numbers\nseem to be only part of the whole numbers.", 
+            "dur": "3.479", 
+            "start": "107.724"
+        }, 
+        {
+            "text": "But does this convince you", 
+            "dur": "1.454", 
+            "start": "111.227"
+        }, 
+        {
+            "text": "that I don&#39;t have\nthe same number of fingers", 
+            "dur": "2.175", 
+            "start": "112.705"
+        }, 
+        {
+            "text": "on my right hand as I do on my left?", 
+            "dur": "1.726", 
+            "start": "114.904"
+        }, 
+        {
+            "text": "Of course not.", 
+            "dur": "1.015", 
+            "start": "116.654"
+        }, 
+        {
+            "text": "It doesn&#39;t matter if you try to match", 
+            "dur": "1.843", 
+            "start": "117.693"
+        }, 
+        {
+            "text": "the elements in some way\nand it doesn&#39;t work,", 
+            "dur": "2.169", 
+            "start": "119.56"
+        }, 
+        {
+            "text": "that doesn&#39;t convince us of anything.", 
+            "dur": "1.762", 
+            "start": "121.753"
+        }, 
+        {
+            "text": "If you can find one way", 
+            "dur": "1.191", 
+            "start": "123.539"
+        }, 
+        {
+            "text": "in which the elements\nof two sets do match up,", 
+            "dur": "2.224", 
+            "start": "124.754"
+        }, 
+        {
+            "text": "then we say those two sets have\nthe same number of elements.", 
+            "dur": "2.893", 
+            "start": "127.002"
+        }, 
+        {
+            "text": "Can you make a list of all the fractions?", 
+            "dur": "2.015", 
+            "start": "130.472"
+        }, 
+        {
+            "text": "This might be hard,\nthere are a lot of fractions!", 
+            "dur": "2.659", 
+            "start": "132.511"
+        }, 
+        {
+            "text": "And it&#39;s not obvious what to put first,", 
+            "dur": "1.877", 
+            "start": "135.194"
+        }, 
+        {
+            "text": "or how to be sure\nall of them are on the list.", 
+            "dur": "2.143", 
+            "start": "137.095"
+        }, 
+        {
+            "text": "Nevertheless, there is a very clever way", 
+            "dur": "2.656", 
+            "start": "139.262"
+        }, 
+        {
+            "text": "that we can make a list\nof all the fractions.", 
+            "dur": "2.173", 
+            "start": "141.942"
+        }, 
+        {
+            "text": "This was first done by Georg Cantor,\nin the late eighteen hundreds.", 
+            "dur": "3.846", 
+            "start": "144.139"
+        }, 
+        {
+            "text": "First, we put all\nthe fractions into a grid.", 
+            "dur": "3.008", 
+            "start": "148.009"
+        }, 
+        {
+            "text": "They&#39;re all there.", 
+            "dur": "1.09", 
+            "start": "151.041"
+        }, 
+        {
+            "text": "For instance, you can find, say, 117/243,", 
+            "dur": "3.757", 
+            "start": "152.155"
+        }, 
+        {
+            "text": "in the 117th row and 223rd column.", 
+            "dur": "3.06", 
+            "start": "155.936"
+        }, 
+        {
+            "text": "Now we make a list out of this", 
+            "dur": "1.801", 
+            "start": "159.02"
+        }, 
+        {
+            "text": "by starting at the upper left\nand sweeping back and forth diagonally,", 
+            "dur": "3.4", 
+            "start": "160.845"
+        }, 
+        {
+            "text": "skipping over any fraction, like 2/2,", 
+            "dur": "2.327", 
+            "start": "164.269"
+        }, 
+        {
+            "text": "that represents the same number\nas one the we&#39;ve already picked.", 
+            "dur": "3.039", 
+            "start": "166.62"
+        }, 
+        {
+            "text": "We get a list of all the fractions,", 
+            "dur": "1.878", 
+            "start": "169.683"
+        }, 
+        {
+            "text": "which means we&#39;ve created\na one-to-one match", 
+            "dur": "2.113", 
+            "start": "171.585"
+        }, 
+        {
+            "text": "between the whole numbers\nand the fractions,", 
+            "dur": "2.078", 
+            "start": "173.722"
+        }, 
+        {
+            "text": "despite the fact that we thought\nmaybe there ought to be more fractions.", 
+            "dur": "3.381", 
+            "start": "175.818"
+        }, 
+        {
+            "text": "OK, here&#39;s where it gets\nreally interesting.", 
+            "dur": "2.107", 
+            "start": "179.223"
+        }, 
+        {
+            "text": "You may know that not all real numbers", 
+            "dur": "1.965", 
+            "start": "181.354"
+        }, 
+        {
+            "text": "-- that is, not all the numbers\non a number line -- are fractions.", 
+            "dur": "3.148", 
+            "start": "183.343"
+        }, 
+        {
+            "text": "The square root\nof two and pi, for instance.", 
+            "dur": "2.147", 
+            "start": "186.515"
+        }, 
+        {
+            "text": "Any number like this is called irrational.", 
+            "dur": "2.427", 
+            "start": "188.686"
+        }, 
+        {
+            "text": "Not because it&#39;s crazy, or anything,", 
+            "dur": "1.927", 
+            "start": "191.137"
+        }, 
+        {
+            "text": "but because the fractions are\nratios of whole numbers,", 
+            "dur": "3.014", 
+            "start": "193.088"
+        }, 
+        {
+            "text": "and so are called rationals;", 
+            "dur": "1.467", 
+            "start": "196.126"
+        }, 
+        {
+            "text": "meaning the rest are\nnon-rational, that is, irrational.", 
+            "dur": "3.211", 
+            "start": "197.617"
+        }, 
+        {
+            "text": "Irrationals are represented\nby infinite, non-repeating decimals.", 
+            "dur": "3.842", 
+            "start": "200.852"
+        }, 
+        {
+            "text": "So, can we make a one-to-one match", 
+            "dur": "2.135", 
+            "start": "204.718"
+        }, 
+        {
+            "text": "between the whole numbers\nand the set of all the decimals,", 
+            "dur": "2.729", 
+            "start": "206.877"
+        }, 
+        {
+            "text": "both the rationals and the irrationals?", 
+            "dur": "1.888", 
+            "start": "209.63"
+        }, 
+        {
+            "text": "That is, can we make\na list of all the decimal numbers?", 
+            "dur": "2.572", 
+            "start": "211.542"
+        }, 
+        {
+            "text": "Candor showed that you can&#39;t.", 
+            "dur": "2.05", 
+            "start": "214.138"
+        }, 
+        {
+            "text": "Not merely that we don&#39;t know how,\nbut that it can&#39;t be done.", 
+            "dur": "3.297", 
+            "start": "216.212"
+        }, 
+        {
+            "text": "Look, suppose you claim you have made\na list of all the decimals.", 
+            "dur": "3.855", 
+            "start": "220.045"
+        }, 
+        {
+            "text": "I&#39;m going to show you\nthat you didn&#39;t succeed,", 
+            "dur": "2.218", 
+            "start": "223.924"
+        }, 
+        {
+            "text": "by producing a decimal\nthat is not on your list.", 
+            "dur": "2.286", 
+            "start": "226.166"
+        }, 
+        {
+            "text": "I&#39;ll construct my decimal\none place at a time.", 
+            "dur": "2.319", 
+            "start": "228.476"
+        }, 
+        {
+            "text": "For the first decimal place of my number,", 
+            "dur": "2.325", 
+            "start": "230.819"
+        }, 
+        {
+            "text": "I&#39;ll look at the first decimal place\nof your first number.", 
+            "dur": "2.762", 
+            "start": "233.168"
+        }, 
+        {
+            "text": "If it&#39;s a one, I&#39;ll make mine a two;", 
+            "dur": "2.454", 
+            "start": "235.954"
+        }, 
+        {
+            "text": "otherwise I&#39;ll make mine a one.", 
+            "dur": "1.956", 
+            "start": "238.432"
+        }, 
+        {
+            "text": "For the second place of my number,", 
+            "dur": "2.108", 
+            "start": "240.412"
+        }, 
+        {
+            "text": "I&#39;ll look at the second place\nof your second number.", 
+            "dur": "2.477", 
+            "start": "242.544"
+        }, 
+        {
+            "text": "Again, if yours is a one,\nI&#39;ll make mine a two,", 
+            "dur": "2.515", 
+            "start": "245.045"
+        }, 
+        {
+            "text": "and otherwise I&#39;ll make mine a one.", 
+            "dur": "2.31", 
+            "start": "247.584"
+        }, 
+        {
+            "text": "See how this is going?", 
+            "dur": "1.303", 
+            "start": "249.918"
+        }, 
+        {
+            "text": "The decimal I&#39;ve produced\ncan&#39;t be on your list.", 
+            "dur": "2.975", 
+            "start": "251.245"
+        }, 
+        {
+            "text": "Why? Could it be, say, your 143rd number?", 
+            "dur": "3.287", 
+            "start": "254.244"
+        }, 
+        {
+            "text": "No, because the 143rd place of my decimal", 
+            "dur": "3.158", 
+            "start": "257.555"
+        }, 
+        {
+            "text": "is different from the 143rd place\nof your 143rd number.", 
+            "dur": "3.637", 
+            "start": "260.737"
+        }, 
+        {
+            "text": "I made it that way.", 
+            "dur": "1.567", 
+            "start": "264.398"
+        }, 
+        {
+            "text": "Your list is incomplete.", 
+            "dur": "1.477", 
+            "start": "265.989"
+        }, 
+        {
+            "text": "It doesn&#39;t contain my decimal number.", 
+            "dur": "1.994", 
+            "start": "267.49"
+        }, 
+        {
+            "text": "And, no matter what list you give me,\nI can do the same thing,", 
+            "dur": "2.905", 
+            "start": "269.508"
+        }, 
+        {
+            "text": "and produce a decimal\nthat&#39;s not on that list.", 
+            "dur": "2.213", 
+            "start": "272.437"
+        }, 
+        {
+            "text": "So we&#39;re faced with this\nastounding conclusion:", 
+            "dur": "2.521", 
+            "start": "274.674"
+        }, 
+        {
+            "text": "The decimal numbers\ncannot be put on a list.", 
+            "dur": "2.865", 
+            "start": "277.219"
+        }, 
+        {
+            "text": "They represent a bigger infinity\nthat the infinity of whole numbers.", 
+            "dur": "3.918", 
+            "start": "280.108"
+        }, 
+        {
+            "text": "So, even though we&#39;re familiar\nwith only a few irrationals,", 
+            "dur": "2.762", 
+            "start": "284.05"
+        }, 
+        {
+            "text": "like square root of two and pi,", 
+            "dur": "1.781", 
+            "start": "286.836"
+        }, 
+        {
+            "text": "the infinity of irrationals", 
+            "dur": "1.493", 
+            "start": "288.641"
+        }, 
+        {
+            "text": "is actually greater\nthan the infinity of fractions.", 
+            "dur": "2.436", 
+            "start": "290.158"
+        }, 
+        {
+            "text": "Someone once said that the rationals", 
+            "dur": "1.769", 
+            "start": "292.618"
+        }, 
+        {
+            "text": "-- the fractions -- are\nlike the stars in the night sky.", 
+            "dur": "2.924", 
+            "start": "294.411"
+        }, 
+        {
+            "text": "The irrationals are like the blackness.", 
+            "dur": "3.121", 
+            "start": "297.998"
+        }, 
+        {
+            "text": "Cantor also showed that,\nfor any infinite set,", 
+            "dur": "2.521", 
+            "start": "301.143"
+        }, 
+        {
+            "text": "forming a new set made of\nall the subsets of the original set", 
+            "dur": "3.406", 
+            "start": "303.688"
+        }, 
+        {
+            "text": "represents a bigger infinity\nthan that original set.", 
+            "dur": "3.268", 
+            "start": "307.118"
+        }, 
+        {
+            "text": "This means that,\nonce you have one infinity,", 
+            "dur": "2.049", 
+            "start": "310.41"
+        }, 
+        {
+            "text": "you can always make a bigger one", 
+            "dur": "1.558", 
+            "start": "312.483"
+        }, 
+        {
+            "text": "by making the set of all subsets\nof that first set.", 
+            "dur": "2.901", 
+            "start": "314.065"
+        }, 
+        {
+            "text": "And then an even bigger one", 
+            "dur": "1.416", 
+            "start": "316.99"
+        }, 
+        {
+            "text": "by making the set\nof all the subsets of that one.", 
+            "dur": "2.309", 
+            "start": "318.43"
+        }, 
+        {
+            "text": "And so on.", 
+            "dur": "1.226", 
+            "start": "320.763"
+        }, 
+        {
+            "text": "And so, there are an infinite number\nof infinities of different sizes.", 
+            "dur": "3.588", 
+            "start": "322.013"
+        }, 
+        {
+            "text": "If these ideas make you\nuncomfortable, you are not alone.", 
+            "dur": "3.465", 
+            "start": "325.625"
+        }, 
+        {
+            "text": "Some of the greatest\nmathematicians of Cantor&#39;s day", 
+            "dur": "2.391", 
+            "start": "329.114"
+        }, 
+        {
+            "text": "were very upset with this stuff.", 
+            "dur": "1.524", 
+            "start": "331.529"
+        }, 
+        {
+            "text": "They tried to make this different\ninfinities irrelevant,", 
+            "dur": "2.62", 
+            "start": "333.077"
+        }, 
+        {
+            "text": "to make mathematics work\nwithout them somehow.", 
+            "dur": "2.292", 
+            "start": "335.721"
+        }, 
+        {
+            "text": "Cantor was even vilified personally,", 
+            "dur": "2.033", 
+            "start": "338.037"
+        }, 
+        {
+            "text": "and it got so bad for him\nthat he suffered severe depression,", 
+            "dur": "2.905", 
+            "start": "340.094"
+        }, 
+        {
+            "text": "and spent the last half of his life\nin and out of mental institutions.", 
+            "dur": "3.286", 
+            "start": "343.023"
+        }, 
+        {
+            "text": "But eventually, his ideas won out.", 
+            "dur": "2.329", 
+            "start": "346.333"
+        }, 
+        {
+            "text": "Today, they&#39;re considered\nfundamental and magnificent.", 
+            "dur": "2.958", 
+            "start": "348.686"
+        }, 
+        {
+            "text": "All research mathematicians\naccept these ideas,", 
+            "dur": "2.577", 
+            "start": "351.668"
+        }, 
+        {
+            "text": "every college math major learns them,", 
+            "dur": "1.795", 
+            "start": "354.269"
+        }, 
+        {
+            "text": "and I&#39;ve explained them\nto you in a few minutes.", 
+            "dur": "2.239", 
+            "start": "356.088"
+        }, 
+        {
+            "text": "Some day, perhaps,\nthey&#39;ll be common knowledge.", 
+            "dur": "2.493", 
+            "start": "358.351"
+        }, 
+        {
+            "text": "There&#39;s more.", 
+            "dur": "1.174", 
+            "start": "360.868"
+        }, 
+        {
+            "text": "We just pointed out\nthat the set of decimal numbers", 
+            "dur": "2.43", 
+            "start": "362.066"
+        }, 
+        {
+            "text": "-- that is, the real numbers --\nis a bigger infinity", 
+            "dur": "2.45", 
+            "start": "364.52"
+        }, 
+        {
+            "text": "than the set of whole numbers.", 
+            "dur": "1.435", 
+            "start": "366.994"
+        }, 
+        {
+            "text": "Candor wondered\nwhether there are infinities", 
+            "dur": "2.057", 
+            "start": "368.453"
+        }, 
+        {
+            "text": "of different sizes\nbetween these two infinities.", 
+            "dur": "2.26", 
+            "start": "370.534"
+        }, 
+        {
+            "text": "He didn&#39;t believe there were,\nbut couldn&#39;t prove it.", 
+            "dur": "2.497", 
+            "start": "372.818"
+        }, 
+        {
+            "text": "Candor&#39;s conjecture became known\nas the continuum hypothesis.", 
+            "dur": "2.911", 
+            "start": "375.339"
+        }, 
+        {
+            "text": "In 1900, the great\nmathematician David Hilbert", 
+            "dur": "2.457", 
+            "start": "379.402"
+        }, 
+        {
+            "text": "listed the continuum hypothesis", 
+            "dur": "1.751", 
+            "start": "381.883"
+        }, 
+        {
+            "text": "as the most important\nunsolved problem in mathematics.", 
+            "dur": "2.759", 
+            "start": "383.658"
+        }, 
+        {
+            "text": "The 20th century saw\na resolution of this problem,", 
+            "dur": "2.813", 
+            "start": "386.441"
+        }, 
+        {
+            "text": "but in a completely unexpected,\nparadigm-shattering way.", 
+            "dur": "2.958", 
+            "start": "389.278"
+        }, 
+        {
+            "text": "In the 1920s, Kurt G\u00f6del showed", 
+            "dur": "1.957", 
+            "start": "392.942"
+        }, 
+        {
+            "text": "that you can never prove\nthat the continuum hypothesis is false.", 
+            "dur": "3", 
+            "start": "394.923"
+        }, 
+        {
+            "text": "Then, in the 1960s, Paul J. Cohen showed", 
+            "dur": "3.056", 
+            "start": "397.947"
+        }, 
+        {
+            "text": "that you can never prove\nthat the continuum hypothesis is true.", 
+            "dur": "3", 
+            "start": "401.027"
+        }, 
+        {
+            "text": "Taken together, these results mean", 
+            "dur": "2.149", 
+            "start": "404.051"
+        }, 
+        {
+            "text": "that there are unanswerable\nquestions in mathematics.", 
+            "dur": "2.524", 
+            "start": "406.224"
+        }, 
+        {
+            "text": "A very stunning conclusion.", 
+            "dur": "1.514", 
+            "start": "408.772"
+        }, 
+        {
+            "text": "Mathematics is rightly considered\nthe pinnacle of human reasoning,", 
+            "dur": "3.125", 
+            "start": "410.31"
+        }, 
+        {
+            "text": "but we now know that even mathematics\nhas its limitations.", 
+            "dur": "3.109", 
+            "start": "413.459"
+        }, 
+        {
+            "text": "Still, mathematics has some truly\namazing things for us to think about.", 
+            "dur": "3.715", 
+            "start": "417.094"
+        }
+    ], 
+    "title": "How big is infinity? - Dennis Wildfogel", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/03zl7", 
+        "/m/036ks"
+    ], 
+    "number_views": 910291, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-04T20:53:33.885Z", 
+            "text": "Actually, Cohen proved that the continuum hypothesis is independent of ZFC \naxioms. So smn could find axioms that we agree with, and such that the \ncontinuum hypothesis is true.\ufeff", 
+            "author": "tomas kojar (TomKG)"
+        }, 
+        {
+            "date": "2015-05-02T14:19:03.779Z", 
+            "text": "How big is infinity? - Dennis Wildfogel - YouTube\ufeff", 
+            "author": "rodrigoribeiro"
+        }, 
+        {
+            "date": "2015-05-02T01:20:02.000Z", 
+            "text": "I think the reason why no-one knows the length of infinity is because it is \na nondeterministic polynomial number, there is no method telling us when \nwe've will reached the end of infinity (Checking every number possible \nagainst every number possible, till we can no longer create any new \nfloating point numbers. In theory if there are no new numbers wouldn't that \nbe infinity?.. if at the end of infinity, it would loop on the final number \nforever looking for a new number).\ufeff", 
+            "author": "Michael Jones"
+        }, 
+        {
+            "date": "2015-05-01T22:59:21.978Z", 
+            "text": "If the set of all infinities is infinite, which infinity is it?\ufeff", 
+            "author": "Adam Crume"
+        }, 
+        {
+            "date": "2015-05-01T22:26:12.751Z", 
+            "text": "don\u00b4t get me wrong but when i understood it right he is basically saying \nthat every made up system of mathematical numbers has a bigger infinity \nwithin itself. Showing us through mathamatics that space is transcendental. \nThe more you go in the bigger it will become. The Question\" how big is the \nuniverse\" in this topic makes no sense to us because we try to imagine \ninfinity, which by definition means it has to be without end and every \nsystem contains a bigger system within itself.\ufeff", 
+            "author": "Matthias Waibel"
+        }, 
+        {
+            "date": "2015-05-01T07:35:34.458Z", 
+            "text": "I've watched the video about the infinite hotel and was made aware that \nthere are infinities of different sizes relative to each other. But I'm \nthis video something confuses me. Shouldn't the set of whole numbers be \nbigger than the set of odd numbers, or the set of even numbers or the set \nof prime numbers and so on? Because even though you can match every even \n(odd or prime etc.) number side by side to a whole number you will always \nhave a surplus of whole numbers unmatched. Am I wrong in this assumption \nand if yes why am I wrong?\ufeff", 
+            "author": "Boris Svetiev"
+        }, 
+        {
+            "date": "2015-05-02T05:28:52.183Z", 
+            "text": "Even though it's probably impossible, if somehow someone did come up with a \none to one function that generates primes using the natural numbers as \ninputs then that would certainly be worthy of the Fields Medal.", 
+            "author": "MrDustinmcphate"
+        }, 
+        {
+            "date": "2015-05-01T22:02:06.000Z", 
+            "text": "+MrDustinmcphate\u200b So then the same would be with prime numbers as well, \nright?\ufeff Only we don't have a function that can generate prime numbers. But \nif we did it would be the same and someone would probably win a Fields \nmedal for finding that function.", 
+            "author": "Boris Svetiev"
+        }, 
+        {
+            "date": "2015-05-01T21:52:41.219Z", 
+            "text": "+Boris Svetiev You are wrong because you can not think about infinity the \nsame way you do a finite set. You will never have \"a surplus of whole \nnumbers\" because you will never stop matching them up. That's the thing \nabout infinity it never ends so we can't just look at the sets and see that \nthey match up. In order to prove mathematically that two sets have the same \nsize you have to come up with some way to match the elements up. Then if \nyou can prove that no matter what element from one set you pick you have an \nelement in the other set that matches up with it then we can say that the \ntwo sets have the same number of elements. In the case of the even numbers \nand the whole numbers it is the function f(x)=2x. No matter what whole \nnumber you give me I can plug it in to this function and match it up with \nan even number. And no matter what even number you give me I can divide it \nin half and get the whole number associated with it. And even though we \ncan't actually sit here and match them all up we can still show that this \nfunction would work if we actually could. Therefore we say that they have \nthe same number of elements.", 
+            "author": "MrDustinmcphate"
+        }, 
+        {
+            "date": "2015-05-01T00:21:56.729Z", 
+            "text": "ew, hearing some old dude's saliva in his mouth when he speaks isn't \nexactly enjoyable xD\ufeff", 
+            "author": "FL\u00dcIDD"
+        }, 
+        {
+            "date": "2015-04-29T01:55:27.608Z", 
+            "text": "It's a myth that some infinities are bigger than other infinities, because \nit's not the value of the numbers that matter, it's the amount of numbers. \nEvery type of infinity you can think of all have something in common. They \nare all infinitely big. \ufeff", 
+            "author": "King David"
+        }, 
+        {
+            "date": "2015-04-23T03:30:41.981Z", 
+            "text": "yeah, ya lost me\ufeff", 
+            "author": "Nataly RAW"
+        }, 
+        {
+            "date": "2015-05-01T18:34:16.282Z", 
+            "text": "+Nataly RAW BYE bitch", 
+            "author": "islezeus"
+        }, 
+        {
+            "date": "2015-05-01T15:46:59.248Z", 
+            "text": "+islezeus k w/e", 
+            "author": "Nataly RAW"
+        }, 
+        {
+            "date": "2015-05-01T15:32:16.717Z", 
+            "text": "+Nataly RAW what a jenny ass", 
+            "author": "islezeus"
+        }, 
+        {
+            "date": "2015-05-01T15:28:46.469Z", 
+            "text": "+islezeus come on then", 
+            "author": "Nataly RAW"
+        }, 
+        {
+            "date": "2015-05-01T14:31:10.695Z", 
+            "text": "+Nataly RAW REALLY bitch, the one using \"ya\" instead of \"you\" wants to \ncorrect my grammar? Don't try me today, wench... ", 
+            "author": "islezeus"
+        }, 
+        {
+            "date": "2015-05-01T12:57:55.632Z", 
+            "text": "+islezeus nope, and it's you're*", 
+            "author": "Nataly RAW"
+        }, 
+        {
+            "date": "2015-05-01T12:50:44.320Z", 
+            "text": "+Nataly RAW youre blonde right? lol", 
+            "author": "islezeus"
+        }, 
+        {
+            "date": "2015-04-26T09:25:44.774Z", 
+            "text": "+Nataly RAW lol", 
+            "author": "Jack Daniels"
+        }, 
+        {
+            "date": "2015-04-21T00:16:03.637Z", 
+            "text": "Is the set of points or the set of lines on a plane larger?\ufeff", 
+            "author": "Vi0gr"
+        }, 
+        {
+            "date": "2015-04-17T05:54:42.446Z", 
+            "text": "Well done.  Math is a human construction.\ufeff", 
+            "author": "Shaun Murphy"
+        }, 
+        {
+            "date": "2015-04-06T03:30:05.401Z", 
+            "text": "You missed showing the one-to-one correspondence between natural numbers \nand even numbers.\ufeff", 
+            "author": "blackbombchu"
+        }, 
+        {
+            "date": "2015-03-15T14:47:45.340Z", 
+            "text": "now thats what i call an educational video\ufeff", 
+            "author": "Fatih Erdem K\u0131z\u0131lkaya"
+        }, 
+        {
+            "date": "2015-03-08T13:54:31.687Z", 
+            "text": "", 
+            "author": "Emanuel \u00d6lff"
+        }, 
+        {
+            "date": "2015-02-22T10:53:31.389Z", 
+            "text": "I suspect that the proof of the irrationals are uncountable is insufficient.\nI created a 5 minutes video about it. What is your opinion? (click my icon \nto watch)\ufeff", 
+            "author": "Edem Sauce"
+        }, 
+        {
+            "date": "2015-02-19T17:10:24.331Z", 
+            "text": "MIND BLOWN.\ufeff", 
+            "author": "magicandmagik"
+        }, 
+        {
+            "date": "2015-02-12T13:03:41.484Z", 
+            "text": "Oh ya one more thing.......before I go blow bubbles.\nNo matter how big a number you could create for instance like that of \nGraham's Number very small I must admit LOL!\nYou will never be able to make a number that is bigger never, never, never! \nand that pisses me off.\nOk take a googolplex and mutiply it by a few trillion googolplex'SSSSSSSS \nand you would still have a number that is not even worth looking at \ncompared to infinity.\nTime to go blow those \nbubbles.....yahoooooooooooooooooooooooooooooomuhaaaaaaaaaaaaaaaaaaaaaaaa!\ufeff", 
+            "author": "RID COMICS"
+        }, 
+        {
+            "date": "2015-02-12T12:55:08.616Z", 
+            "text": "Cantor went mad trying to deal with this infinity math as did many others.\nHe did however give us a new way to play with infinity so not all was lost \nto madness.\nI love the concept of infinity and how it never ends.\nSome would suggest that infinity is growing but it cannot, it simple \nis:exists.\nIt is hard for the human mind to comprehend something of this magnitude \nbecause it is so huge yet the proof is so simple.\nInfinity is never ending and even it it did what would be behind its end?\nInfinity is not getting bigger, for it would have to have some kind of \nempty space for it to expand into yet that space is still infinity itself \nso it cannot grow.\nSimply huge yet simply just is.\nI'm going to go outside and start blowing some magic bubbles from my nose \nnow...................ahhhhhhhhhhhhhhhhahahah LMAO!\ufeff", 
+            "author": "RID COMICS"
+        }, 
+        {
+            "date": "2015-02-11T06:04:23.445Z", 
+            "text": "wat? that's like saying there are as many females in the world as humans \n\u253b\u2501\u253b \ufe35\u30fd(`\u25ad\u00b4)\uff89\ufe35 \u253b\u2501\u253b\ufeff", 
+            "author": "Master Wave"
+        }, 
+        {
+            "date": "2015-03-21T01:58:25.551Z", 
+            "text": "Your logic is flawed. Heres an easy way to think about it, imagine any \nwhole number. Now multiply it by 2...any whole number multiplied by 2 is an \neven number (hence it is also divisible by 2 equaling your initial whole \nnumber) That means there are as many even real numbers as there are real \nnumbers...and infinite set of both...that are of different sizes", 
+            "author": "ShietEverywhere"
+        }, 
+        {
+            "date": "2015-03-09T09:16:53.585Z", 
+            "text": "The number of humans in the world is not infinity", 
+            "author": "Suhas Tummalapalli"
+        }, 
+        {
+            "date": "2015-02-11T00:19:12.693Z", 
+            "text": "Infinity is growth ...\ufeff", 
+            "author": "9snaker"
+        }, 
+        {
+            "date": "2015-02-01T14:46:45.472Z", 
+            "text": "I believe that infinity IS infinity. Nothing else. Infinity is infinitely \nbig and the human mind will never be able to wrap their minds around it \ncompletely. And besides, everything has to stop somewhere so infinity will \nnever be needed to be used. That's my opinion.\ufeff", 
+            "author": "XAwsometimeX"
+        }, 
+        {
+            "date": "2015-03-19T02:53:31.696Z", 
+            "text": "+XAwsometimeX It already has been used for the past 400 years in basic \ncalculus...", 
+            "author": "mach a"
+        }, 
+        {
+            "date": "2015-02-22T10:59:27.561Z", 
+            "text": "I created a video about my suspection of the proof of the uncountable \ninfinite set of the irrationals.\n6 minutes.\nI wonder your opinion, thanks!", 
+            "author": "Edem Sauce"
+        }, 
+        {
+            "date": "2015-01-17T02:34:01.553Z", 
+            "text": "nice video crazy confusing but cool :D\ufeff", 
+            "author": "hello universe"
+        }, 
+        {
+            "date": "2015-01-14T10:07:52.327Z", 
+            "text": "For all the \u202a#\u200eMathematics\u202c lovers one of the TED-Ed video by Dennis \nWildfogel\nHow big is infinity? http://youtu.be/UPA3bwVVzGI\n\n#mathematics #upanishad #ishavasyaupanishad   !!!\ufeff", 
+            "author": "Satish Subramanian"
+        }, 
+        {
+            "date": "2015-01-04T19:35:33.557Z", 
+            "text": "I find this argument to only be true because you are creating rules to \nmeasure infinity. There cannot be more decimal numbers than whole numbers, \nbecause neither has an end. Matching is a rule you made to try and \nunderstand infinite. But it is leading you astray. There are not as many \neven numbers as there are whole numbers, because they have no end, thus \nyour explanation suggests there are no odd numbers. This reminds me of the \nstupid \"paradox\" about the foot race where they can only move half the \ndistance to the goal. It is not really mind blowing, but rather a simple \nset of rules that contradict the goal. I could say what if two racers were \nnot allowed to cross the finish line, do they race forever? No. In neither \ncase is anyone racing, because the rules applied made it impossible to \nrace. I am not sure why infinite is so hard to grasp, but you try and \ncontain infinite to understand it. This is misleading and detrimental to \nunderstanding infinite. It cannot be contained, limits destroy infinite. \ufeff", 
+            "author": "Paul Nowlin"
+        }, 
+        {
+            "date": "2015-03-19T02:50:54.000Z", 
+            "text": "+john harbinger Your interpretation of negative number arithmetic as \nobvious because they're something we use every day and that they're just a \nproduct of our senses doesn't match up well with history.\n\nThe Greeks considered equations with negative solutions absurd. Europeans \ndidn't actually even consider negative numbers to be numbers until Leibniz \nin the seventeenth century. I don't think that our senses or ability to \nperceive changed since then, only our education and mathematical \ndevelopments.", 
+            "author": "mach a"
+        }, 
+        {
+            "date": "2015-03-16T19:05:40.612Z", 
+            "text": "I don't think I agree with this. As I see it mathematics use numbers. \nNumbers did not come from arbitrary axioms, but from the way our senses \nwork and what they perceive. This is the first use of numbers. Any \ndeductive reasoning came after this. So multiplication is not done because \nmathematicians came up with rules. Do you want proof? Anybody can do \nmultiplication without being a mathematician or know anything about the \nrules of mathematics.", 
+            "author": "john harbinger"
+        }, 
+        {
+            "date": "2015-03-16T16:19:21.285Z", 
+            "text": "+john harbinger The fact that we can see justification that -3 * 2 = -6 in \nthe everyday world is just evidence that the rules we use model the world \nwell.\n\nMath is based on deductive, not inductive, reasoning.  Deductive reasoning \nis where we establish rules and prove what follows based on those rules.\n\nInductive rules is where we observe patterns, and then try to come up with \nrules which describe those patterns.\n\nYour method is an inductive one.  We see -3 * 2 = -6 in the world all \naround us, so it must be true.  But this is not a mathematical way of \nthinking.\n\nIn order to actually prove anything (which is what mathematics is about), \nwe must establish rules which guide everything we do.\n\nYes, the multiplication of integers is governed by the construction of the \nintegers, which is governed by the arithmetic of the natural numbers, which \nis governed by the Peano axioms.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-03-15T01:13:07.211Z", 
+            "text": "+MuffinsAPlenty\nYou do not need rules to multiply numbers. -3*2 =-6 is something that you \nsee in your everyday world. It is obvious why this above equation is \ncorrect.", 
+            "author": "john harbinger"
+        }, 
+        {
+            "date": "2015-03-14T19:26:06.542Z", 
+            "text": "+15kwakmatthew Mathematicians are fine with people studying any axiom set \nthey want, provided that the axiom set in consistent.  In that aspect, \nmathematics could be considered arbitrary.\n\nHowever, once you have selected an axiom set to work with, it is absolutely \nnot arbitrary.  And often times, the axiom set is not chosen arbitrarily \n(although it could be, if you wanted to).", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-03-14T19:11:32.673Z", 
+            "text": "+MuffinsAPlenty what I mean by arbitrary is: \"determined by chance, whim, \nor impulse, and not by necessity, reason, or principle.\" ", 
+            "author": "15kwakmatthew"
+        }, 
+        {
+            "date": "2015-03-14T18:38:57.764Z", 
+            "text": "+15kwakmatthew It depends on what you mean by arbitrary.\n\nIf we accept the axioms of ZFC (a type of set theory), then the results we \nhave are, indeed, absolute based on this particular system.\n\nHowever, you can change the axioms, and by changing the axioms, you can \nmake different absolutes be true.\n\nWe generally use ZFC because it seems mostly true and useful to our \nphysical universe and minds, but we could study different axioms and make \nup different rules if we so desired.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-03-14T01:40:39.009Z", 
+            "text": "+MuffinsAPlenty so math is not absolute, but arbitrary?", 
+            "author": "15kwakmatthew"
+        }, 
+        {
+            "date": "2015-02-22T17:38:20.322Z", 
+            "text": "\"I find this argument to only be true because you are creating rules to \nmeasure infinity.\"\n\nCongratulations.  You now know the biggest \"secret\" of mathematics. \n Everything a mathematician shows is true is because he or she has created \nrules which allow it to be true.\n\nSo, yes, the only reason mathematicians can compare infinite sets is \nbecause they've come up with a method by which to compare infinite sets \nwhich produces different results given different infinite sets.\n\nBut that's the same with multiplying two numbers. -3 * 2 = -6 only because \nmathematicians came up with rules that allow us to multiply numbers.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-01-02T23:23:49.645Z", 
+            "text": "I asked this question on a paradox site but wasn't sure if it was indeed a \nparadox and also wondered if it is somehow related to Pi. I was advised to \nask on a mathematical infinity site.\n\nA window cleaner has to clean the windows of an infinitely high building, \nto do this he has an infinitely extendable ladder, which he places 6 feet \naway from the bottom of the building. The higher the window cleaner gets, \nthe more he's extended the ladder, the more he extends the ladder, the \ncloser he constantly gets to 90 degrees- but due to the base always being 6 \nfeet away from the top of the ladder this is unachievable...\nThere's no doubt a simple answer to this- it's just been bugging me for \nyears and every maths teacher I've asked didn't seem to have a clue what \nthe hell I was talking about. Whoever can explain it gets an infinite \namount of cash- kept safely on top of said building- I'll get the ladder \nready... ;)\ufeff", 
+            "author": "squarepants49"
+        }, 
+        {
+            "date": "2015-02-06T20:42:14.171Z", 
+            "text": "Thanks for your replies Fabian Kester & Jakub Pek\u00e1rek, they've helped clear \nthings up for me. I'm a mathematical illiterate so never looked into it too \ndeeply- I thought there may have been a connection with Pi- a constant. I \nsuppose if you take away the \"infinity\" and replace it with, \"very very \nvery high, lol, there is a constant as it's simply a right angled triangle, \nso the square of the hypotenuse (the ladder) is equal to the square of the \ntwo remaining sides (the building's height & the distance away from the \nbuilding the ladder is placed). Thanks again. :)", 
+            "author": "squarepants49"
+        }, 
+        {
+            "date": "2015-01-31T14:04:28.188Z", 
+            "text": "It is not a paradox. The problem here is that some concepts we see as \ndifferent do merge when faced with infinity. The angle will be smaller than \n90\u00b0 at any point but when considering infinity as well, it is smaller or \nequal to 90\u00b0. It is like the 0.999... number. No matter how many nines you \nhave, it is still smaller than 1. However if you have infinate number of \nnines, it sort of becames 1, because their difference is 0.000... so there \nis no difference at all. Technically it means that you can't show these two \nto be different. And since they behave absolutely the same no matter what \ntest you put them through, why say they are different at all? By definition \nthey are identical (having identical properties). Same with your angle, it \nwill always differ from 90\u00b0, but at infinity this difference will be \n0,00... which is not really different. So when you say it can never get \nthere, it can (at infinity, supposing you can get to infonity in first \nplace),, it just doesn't seem to be quite there to us. \nI am a mathematician myself, so I can only hope my explanation makes as \nmuch sence to you as it does to me :) enjoy", 
+            "author": "Jakub Pek\u00e1rek"
+        }, 
+        {
+            "date": "2015-01-26T12:19:58.721Z", 
+            "text": "+squarepants49\nI'm no mathematician myself but maybe I can answer one or two of your \nquestions. (1) I think it's no paradox because the ladder gets to 90 \ndegrees in infinity. Your misconception lies in the \"can never get there\". \nEver getting there would mean a real length of the ladder but infinity is \nno real number. (2) The difference between your example with the ladder and \ngetting from A to B is that there is a finite length between A and B but \nfor the ladder to stand up at 90 degrees the ladder has to be infinitely \nextended.", 
+            "author": "Fabian Kester"
+        }, 
+        {
+            "date": "2015-01-18T16:06:55.036Z", 
+            "text": "+TheSins Greed Sorry, I missed your reply as my in-box was too full. \nI wanted to know (1) Is it a paradox as the ladder constantly gets closer \nto 90 degrees but can never get there. (2) Is it just a simple case of an \ninfinite amount of half ways-? Only the only examples of infinite half ways \nI hear are along the lines of; How do you get from A to B when you have to \npass an infinite amount of half ways? But unlike the ladder, you can get to \nB. (3) I've always had an inkling that it's related to Pi- the 22/7 \nequation they have running constantly through super computers. \nI'm no mathemagician so would appreciate any explanation, cheers.", 
+            "author": "squarepants49"
+        }, 
+        {
+            "date": "2015-01-07T08:27:26.625Z", 
+            "text": "so whats ur question?", 
+            "author": "TheSins Greed"
+        }, 
+        {
+            "date": "2015-01-02T21:09:43.413Z", 
+            "text": "You lost me at 0.00 mins of the video xD\ufeff", 
+            "author": "Joshua Jooste"
+        }, 
+        {
+            "date": "2014-12-24T21:53:12.772Z", 
+            "text": "How big is infinity? - Dennis Wildfogel: http://youtu.be/UPA3bwVVzGI\ufeff", 
+            "author": "Name Last Name"
+        }, 
+        {
+            "date": "2014-12-22T08:02:52.518Z", 
+            "text": "amazing persentation +TED-Ed \ufeff", 
+            "author": "Harikrishna Mahesh"
+        }, 
+        {
+            "date": "2014-12-14T21:36:33.603Z", 
+            "text": "Still confused. How can an infinity be greater than another infinity? \ninfinity is endless!\ufeff", 
+            "author": "plung3r"
+        }, 
+        {
+            "date": "2015-03-30T18:27:49.647Z", 
+            "text": "who give a shit ? let's live and be free! ", 
+            "author": "iAmz FAT biatch a$$ kneegrow motha ducka got a preblom witt dat? #ZHG - O Hoots Given son, biatches!"
+        }, 
+        {
+            "date": "2015-03-30T07:35:52.503Z", 
+            "text": "Not just that but when we talk about infinity we are talking for an object \nor idea which both recuire another object to stay,if it's an idea it needs \npaper and pencil and somebody to write it infinitely....if it's an object \nit need another object and this object another and so on infinitely.\nIt's just a counter productive mind game.", 
+            "author": "Ciklopi Ishpejte"
+        }, 
+        {
+            "date": "2015-03-27T16:08:43.000Z", 
+            "text": "imagine an infinite line, add next to eat another infinite line ", 
+            "author": "Somerandomdude4.2526"
+        }, 
+        {
+            "date": "2015-02-21T23:57:41.355Z", 
+            "text": "LOL - cardinality*** WOOOPS", 
+            "author": "Misha Mengisen"
+        }, 
+        {
+            "date": "2015-02-19T18:00:35.870Z", 
+            "text": "holy crap your making my brain hurt! to much info in too little time!", 
+            "author": "giznump tha first"
+        }, 
+        {
+            "date": "2015-02-12T12:01:06.304Z", 
+            "text": "+James Jones Technically plunger is right. There is a difference between \nthe size of an infinity ( which is nonsense ) and the size of an infinite \nset - otherwise known as a carnality. This video glosses over the \ndistinction in the very first couple of minutes and the term has been used \nincorrectly again and again.", 
+            "author": "Misha Mengisen"
+        }, 
+        {
+            "date": "2015-02-12T10:25:26.515Z", 
+            "text": "did you watch the video?", 
+            "author": "James Jones"
+        }, 
+        {
+            "date": "2015-02-01T13:43:03.967Z", 
+            "text": "Imaging there will be an endless race of 2 straight lines going with the \nsame speed. 1 line goes first. That one will always stay longer the the \nother one. Though they are infinitely long.", 
+            "author": "yaiba2811"
+        }, 
+        {
+            "date": "2015-01-31T19:51:58.553Z", 
+            "text": "+UfoFrilla Actually it's really easy: infinity is not a measurment of size, \nit's an idea, and that's why regular laws of math don't affect it (you can \nread a little about it's usage in infinitesimal calculus and set theory - \nwhich are entirely different, but in their fundemental concepts are very \nsimilar).\nSince infinity is not a measurement of size, quantity or length, when we \nsay one infinity is \"bigger\" than the other, we do not mean it is bigger in \nsize, but bigger in the way that WE grasp it. The claim that the real \nnumbers' infinity is greater than the rationals' comes from the idea that \nyou can find a method to count all the rationals in the world (even if not \nin practice, then in theory) - but you cannot find any method to count all \nthe REAL numbers, not even in theory - and that's what Cantor has proven \nusing the method shown in this video (called Cantor's diagonal argument).", 
+            "author": "Roy Sommer"
+        }, 
+        {
+            "date": "2015-01-21T23:50:21.175Z", 
+            "text": "+Ant's Reviews Maybe we are not measuring. We are just arranging them in a \nway that makes sense to us. ", 
+            "author": "UfoFrilla"
+        }, 
+        {
+            "date": "2014-12-15T19:17:11.189Z", 
+            "text": "Exactly! As soon as we say an infinity is bigger than another we are \nmeasuring infinities. If we can measure an infinity then it is not an \ninfinity at all!", 
+            "author": "Ant's Reviews"
+        }, 
+        {
+            "date": "2014-12-05T03:16:40.757Z", 
+            "text": "brilliant\ufeff", 
+            "author": "Chris Longley"
+        }, 
+        {
+            "date": "2014-12-02T03:10:03.316Z", 
+            "text": "Mind blown\ufeff", 
+            "author": "clownkiller62"
+        }, 
+        {
+            "date": "2014-12-01T11:30:43.996Z", 
+            "text": "That is amazing!\ufeff", 
+            "author": "Adriano Me"
+        }, 
+        {
+            "date": "2014-11-30T17:02:11.780Z", 
+            "text": "Life is Infinite and our finite mind cannot graps this fundamental truth. \nGoogle truth contest and read *The Present* if you seek truth.\ufeff", 
+            "author": "Michel Cormier"
+        }, 
+        {
+            "date": "2015-03-19T02:40:44.252Z", 
+            "text": "What's it got to do with the video?", 
+            "author": "mach a"
+        }, 
+        {
+            "date": "2015-01-13T03:38:39.931Z", 
+            "text": "You're pretty dumb. Those thoughts have been around for thousand of years.", 
+            "author": "Robert Conlee"
+        }, 
+        {
+            "date": "2015-01-12T19:25:22.325Z", 
+            "text": "I've read it and I still don't have a damn clue what this supposed \"truth\" \nis. Seemed to me like some New Age wannabe religion.", 
+            "author": "nick volta"
+        }, 
+        {
+            "date": "2015-01-07T04:47:33.299Z", 
+            "text": "+MrGamerman001 Wrong. He is expressing humility by accepting the \nrealization that thoughts are infinite, not the complexity of what this \nmeans. It's like knowing that an orange is a fascinating fruit but \nexplaining that few understand the chemical, biological, physical, \napplicatoty etc. components is accepting it as amazing without knowing the \nANSWER.", 
+            "author": "Robert Conlee"
+        }, 
+        {
+            "date": "2014-12-28T08:19:55.368Z", 
+            "text": "If our minds cannot grasp it, then how do you have the \"Answer\".... You too \nare human therefore saying our minds cannot grasp the fact that life is \ninfinite is wrong. You grasped that concept didn't you? So your own comment \ncancels its self out....", 
+            "author": "MrGamerman001"
+        }, 
+        {
+            "date": "2014-12-01T15:26:39.082Z", 
+            "text": "Spectacular.", 
+            "author": "Your Reflection"
+        }, 
+        {
+            "date": "2014-11-25T18:34:42.998Z", 
+            "text": "Infinity can't be calculated period.\ufeff", 
+            "author": "Raymon Danielson"
+        }, 
+        {
+            "date": "2014-11-15T20:51:55.815Z", 
+            "text": "\" How big is infinity? \"\ufeff", 
+            "author": "Thorsen Vreeland"
+        }, 
+        {
+            "date": "2015-05-02T17:10:00.106Z", 
+            "text": "+Jimmy Hartford Yup you're right in last paragraph and its what video was \nabout. My comment was to the asker or the OP in this ... Thorsen Vreeland", 
+            "author": "Swapnil Choudhary"
+        }, 
+        {
+            "date": "2015-05-02T17:02:08.349Z", 
+            "text": "+Swapnil Choudhary \ninfinity is what lies beyond that number you can't count. Take your 1st \ngrader 100 or 1000 might represent the depths of his or her unfathomable \nimagination. But obviously something lies beyond that.\n\nEven now. If you image some grand number like a googol, I can always \nimagine something slightly larger (a googol plus one, for instance). And \nbeyond that (somewhere), that's where infinity is...\n\nThe diifferent infinities is not so much about sophistication (how high can \nI count); rather, it's understanding that there is an infinite space \nbetween between things whether is between 0 and the end of the number line \nor between 0 and 1, and so on.", 
+            "author": "Jimmy Hartford"
+        }, 
+        {
+            "date": "2015-04-29T19:16:23.699Z", 
+            "text": "+Thorsen Vreeland I dont remember where i heard this or it came to my mind \nat some point of my engineering, I defined infinity as the number you can \nnot count. Ask a 1st grader how much is 100 or 1000, he will say its \nHuuuuge number aka infinity for him. Much more evolved brain might call it \nas video said, sets of infinity etc. I may be wrong.", 
+            "author": "Swapnil Choudhary"
+        }, 
+        {
+            "date": "2015-03-27T16:12:20.335Z", 
+            "text": "7", 
+            "author": "Somerandomdude4.2526"
+        }, 
+        {
+            "date": "2014-11-22T02:13:31.096Z", 
+            "text": "Endless!!!", 
+            "author": "MATH ISFUN"
+        }, 
+        {
+            "date": "2014-11-15T22:49:49.031Z", 
+            "text": "Yeah different sizes of infinity. Zeno postulated that space didn't exist \nbecause you could split up a distant infinitely and humans were finite so \nmovement was impossible. It wasn't until someone postulated that you can \ndivide 1 and 2 by infinity and 2 would be a larger infinity that the \nproblem was considered dealt with.", 
+            "author": "Rory Stevens"
+        }, 
+        {
+            "date": "2014-11-15T22:15:44.881Z", 
+            "text": "\nI remember \"Achilles and the Tortoise\" as being a relatively trivial \nproblem to solve using calculus. Not really a paradox; rather it shows up  \nthe limitation of the ancient Greek concept of mathematics. I forget the \nother Zeno stuff, I'm afraid... (\"Mathematics for the Million,\" which \nstarts from about here, is a wonderful book exploring the history of maths)\n\nBut no. this video is about the  Different sizes of infinite sets, Cantor, \nHilbert and the Continuum Hypothesis.\n\nIt's a rather well done animation.", 
+            "author": "Thorsen Vreeland"
+        }, 
+        {
+            "date": "2014-11-15T21:39:00.494Z", 
+            "text": "I can't watch this at the moment but I am guessing it's about the solving \nof Zeno's paradox, right? Wasn't that considered the oldest unsolved math \nproblem?", 
+            "author": "Rory Stevens"
+        }, 
+        {
+            "date": "2014-11-11T00:02:59.466Z", 
+            "text": "Well done. Often ran across Cantor thoughts, but never so well explained. \nThank you.\ufeff", 
+            "author": "Ruiqi Mao"
+        }, 
+        {
+            "date": "2014-11-06T07:29:11.553Z", 
+            "text": "If 2 groups are infinitely large, how can one be bigger than the other?  \nThey both have no end.  If one group is 15, 30, 45, etc. and the other is \n5, 10, 20, 25, etc., you'd think the 2nd group was twice as big, but they \nboth have no end.  If you wanted to talk about density, I'd buy that.\ufeff", 
+            "author": "deezynar"
+        }, 
+        {
+            "date": "2014-11-05T04:18:10.206Z", 
+            "text": "Did they have to animate Cantor's depression? I can imagine him being \ndepressed perfectly fine without your illustration..\ufeff", 
+            "author": "apoc29"
+        }, 
+        {
+            "date": "2014-11-02T21:31:33.534Z", 
+            "text": "", 
+            "author": "Kurt Friedrich G\u00f6del"
+        }, 
+        {
+            "date": "2014-10-31T13:56:04.344Z", 
+            "text": "", 
+            "author": "Kevin Selva Prasanna"
+        }, 
+        {
+            "date": "2014-10-30T05:43:40.331Z", 
+            "text": "The Mandelbrot set is a great visual example of how there are infinitely \nmany infinities.  There are infinitely many copies of the M-set in the \nwhole M-set.  And each of those copies has infinitely many smaller copies \nof the M-set.  And each of those smaller copies has infinitely many even \nsmaller copies.  And so on.  There is an infinite regress of copies within \ncopies within copies etc.  They are nested within each other infinitely \nmany levels deep.  It really boggles the mind.\ufeff", 
+            "author": "CommonAtheist"
+        }, 
+        {
+            "date": "2014-10-29T06:35:10.178Z", 
+            "text": "How big is infinity? http://youtu.be/UPA3bwVVzGI #mathematics #education\ufeff", 
+            "author": "Visual Math Studio"
+        }, 
+        {
+            "date": "2014-10-17T11:27:34.927Z", 
+            "text": "gah\ufeff", 
+            "author": "Elizabeth Forbes"
+        }, 
+        {
+            "date": "2014-10-12T23:13:36.424Z", 
+            "text": "wow john green was right. some infinities ARE bigger than other infinities.\ufeff", 
+            "author": "Adriana Germanotta"
+        }, 
+        {
+            "date": "2014-12-09T06:10:21.767Z", 
+            "text": "+alavergaist Take a moment to watch the video. It suggests a very natural \nmeasure by which you can compare two infinities.", 
+            "author": "Austin Mohr"
+        }, 
+        {
+            "date": "2014-12-09T06:06:16.531Z", 
+            "text": "you cant measure one infinity as bigger than other infinity, because, they \nare ifinite, one infinity cant be different than other infinity but they \ncant be the same", 
+            "author": "alavergaist"
+        }, 
+        {
+            "date": "2014-11-18T07:15:26.520Z", 
+            "text": "Vi Hart gives a nice explanation", 
+            "author": "Damien Tung"
+        }, 
+        {
+            "date": "2014-10-31T19:24:26.008Z", 
+            "text": "that bc john green sux", 
+            "author": "Adriana Germanotta"
+        }, 
+        {
+            "date": "2014-10-31T17:32:50.899Z", 
+            "text": "Oddly enough, his explanation of the fact was wrong.", 
+            "author": "Austin Mohr"
+        }, 
+        {
+            "date": "2014-10-12T09:33:13.215Z", 
+            "text": "How big is infinity?\ufeff", 
+            "author": "Ron Page"
+        }, 
+        {
+            "date": "2014-10-12T15:00:43.071Z", 
+            "text": "+Will Burns Right, there are infinite infinities. I think every conscious \ncollapse creates a new reality and while most are nothing, some become the \nworld we live in..", 
+            "author": "Ron Page"
+        }, 
+        {
+            "date": "2014-10-12T12:01:57.002Z", 
+            "text": "+Ron Page This is *exactly* what I've been saying about how the marriage of \nQuantum Physics and Classical Physics in a Unified Theory actually works.\n\n+Michio Kaku once explained on a show about how the quantum side says \ninfinite infinities repeating while classical physics side of the equation \nsays just a single infinity. Unfortunately, he also said the answer was \nnonsense (and erased the board).\n\nBut it's *not* nonsense. It's a prime example of the idea that there are \nmany infinities and some are bigger than others, while in the quantum side \nwe see those infinities at different scales and representing permutations \nof reality. Ergo, a Unified Theory of that nature depends entirely on the \nunderstanding of Multiverse construct of infinite infinities and \npermutations of scale and circumstance repeating structure like a \nMandelbrot fractal and also understanding that classical physics is \nconfined to a single infinite withing the infinite infinities of \npermutation.\n\nI never understood why Michio Kaku didn't see the answer right in front of \nhim if he was able to do the equation...", 
+            "author": "Will Burns"
+        }, 
+        {
+            "date": "2014-10-10T14:25:13.198Z", 
+            "text": "So... each number is a tiny infinity. Inspirational.\ufeff", 
+            "author": "Abhishek Roy"
+        }, 
+        {
+            "date": "2014-10-02T16:07:18.693Z", 
+            "text": "what happens is that we like it or not numbers are discrete amounts, like a \n'brick' and 'bricks', no continuing amounts that can be divided without a \nstop, the brick is the number one. that is the basic knowledge of numbers.\ufeff", 
+            "author": "MrHuaquito"
+        }, 
+        {
+            "date": "2014-09-25T20:33:18.871Z", 
+            "text": "But infinities can be different big e.g.\nPosibillity x=1 1/infinity (infinite numbers)\n1<x>2 infinity/infinity =100% but 3 doesnt match with it and i can build an \ninfinite number of number between 1 and two\ufeff", 
+            "author": "NoirDarack"
+        }, 
+        {
+            "date": "2014-09-24T13:17:33.379Z", 
+            "text": "Too hard!\ufeff", 
+            "author": "gun Ko"
+        }, 
+        {
+            "date": "2014-09-10T03:45:25.084Z", 
+            "text": "Ironically, this video doesn't actually answer the question asked as its \ntitle.\ufeff", 
+            "author": "Daniel Bridges"
+        }, 
+        {
+            "date": "2015-03-14T11:20:35.000Z", 
+            "text": "There os a beyond infinity?\ufeff", 
+            "author": "Joe Wall"
+        }, 
+        {
+            "date": "2014-08-27T05:08:18.619Z", 
+            "text": "Lol the cake matches the car and the ice cream matches a motorcycle\ufeff", 
+            "author": "Justin Fung"
+        }, 
+        {
+            "date": "2014-08-24T19:47:58.465Z", 
+            "text": "Mind go boom.\ufeff", 
+            "author": "Vegetable Shakespeare (Maddy Forseth)"
+        }, 
+        {
+            "date": "2014-08-23T02:17:00.990Z", 
+            "text": "my brain is bleeding\ufeff", 
+            "author": "SpanishFIRST"
+        }, 
+        {
+            "date": "2014-08-22T11:20:12.299Z", 
+            "text": "", 
+            "author": "Anshuk Jain"
+        }, 
+        {
+            "date": "2014-08-17T17:43:19.626Z", 
+            "text": "Can you have a fractional number, lets say 0.00... that has infinite number \nof zeros and then one at the end?\nFor example 0.0...\u221e...1\nWhere do you place that one if infinite doesn't have an end?\ufeff", 
+            "author": "Petri J\u00e4rvinen"
+        }, 
+        {
+            "date": "2014-08-17T04:43:55.621Z", 
+            "text": "There are as more infinities than the any type of infinity. :P\ufeff", 
+            "author": "DarthAlphaTheGreat"
+        }, 
+        {
+            "date": "2014-08-14T13:25:10.093Z", 
+            "text": "Yeah the whole of this went over my head. My brain hasn't been able to \nhandle numbers since I was 8. Everything else is fine. Just maths.\ufeff", 
+            "author": "Douwi Stewart"
+        }, 
+        {
+            "date": "2014-08-14T04:59:34.283Z", 
+            "text": "", 
+            "author": "Edison L\u00f3pez D\u00edaz."
+        }, 
+        {
+            "date": "2014-08-12T11:07:47.330Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Mouli Sai"
+        }, 
+        {
+            "date": "2014-08-10T14:38:06.123Z", 
+            "text": "My head had exploded\ufeff", 
+            "author": "HapZungLam"
+        }, 
+        {
+            "date": "2014-08-10T13:45:43.593Z", 
+            "text": "Very Interesting!", 
+            "author": "Kristina Andrews"
+        }, 
+        {
+            "date": "2014-08-10T22:16:52.507Z", 
+            "text": "I loved it!", 
+            "author": "Kristina Andrews"
+        }, 
+        {
+            "date": "2014-08-10T18:31:41.902Z", 
+            "text": "Truly informative. ", 
+            "author": "Biren Shah"
+        }, 
+        {
+            "date": "2014-08-10T09:44:03.188Z", 
+            "text": "Much larger than my Chicago apartment I bet", 
+            "author": "Steven Gators"
+        }, 
+        {
+            "date": "2014-08-09T20:14:05.465Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Tayyab Siddiqui"
+        }, 
+        {
+            "date": "2014-08-09T18:43:20.779Z", 
+            "text": "Thanks, <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink\" href=\"https://plus.google.com/102786751626732213960\" oid=\"102786751626732213960\">TECHNICS</a></span>\u2763\u00a0", 
+            "author": "Bettina Ascaino"
+        }, 
+        {
+            "date": "2014-08-12T12:45:05.348Z", 
+            "text": "Thanks ", 
+            "author": "Steven Gators"
+        }, 
+        {
+            "date": "2014-08-10T13:25:08.202Z", 
+            "text": "That's sweet, +Steve Gtr hite :)\n\nWill visit your page. Thank you. ", 
+            "author": "Bettina Ascaino"
+        }, 
+        {
+            "date": "2014-08-10T09:36:53.243Z", 
+            "text": "Sorry to but in on yor page! I have not figured out how to just write a \nletter straight to you. I'm so sorry if I have invaded your privacy. I \nwould really enjoy chatting with you because I have always since his child \nloved Australia and Tasmania I thought I would be living there by now I \nthink it's we can have interesting chat\nI also got cool wildlife stories of undeveloped Florida as a teenager west \ncoast subtropical jungle it might be fun? Of course check my profile first \nI have been here for about a year I am a lifetime student I love to learn \nfrom other people that know more than me and have experienced exciting \nthings as I have! And looks as you have too! I just thought it sounded fun? \nI'm not a freak or a pervert I don't talk sex or that stuff, I suppose \nthere's a time and a place for that but I don't believe it's here why don't \nyou please come and say hello to me I think you will enjoy my personality \nonly because 90% of people do, such a blessing to be sociable. I think \nyou're moving profile photo is awesome, never seen anybody do that before \nin other words you intrigue me greatly please send me a message we'll see \nhow things go I love to learn and I think you have a lot to teach and I \nhope I do too peace love and harmony my name is Steve. I hope to read you \nsoon thank you. :-) bye 4 now, please don't forget to check my profile \nfirst thanx!", 
+            "author": "Steven Gators"
+        }, 
+        {
+            "date": "2014-08-09T17:05:23.215Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "TECHNICS"
+        }, 
+        {
+            "date": "2014-08-09T15:55:30.233Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Hattori Hanzo"
+        }, 
+        {
+            "date": "2014-08-09T12:58:22.116Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "\u041e\u043b\u044c\u0433\u0430 \u041a\u043b\u0456\u0449\u0443\u043a"
+        }, 
+        {
+            "date": "2014-08-09T10:50:55.385Z", 
+            "text": "Interesting to know!!", 
+            "author": "Sharif Yosri"
+        }, 
+        {
+            "date": "2014-08-09T01:20:16.722Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Rushikesh  Bangar"
+        }, 
+        {
+            "date": "2014-08-08T21:23:36.633Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Sorin Cristian"
+        }, 
+        {
+            "date": "2014-08-08T18:00:42.000Z", 
+            "text": "*Ma quanto \u00e8 infinito l'Infinito?*\n\nLa Matematica di *Cantor* insegna: \n*Vi sono infiniti numeri di infinite grandezze differenti*\n\n[...]\nSe questa idea vi rende inquieti, non siete i soli. Alcuni dei pi\u00f9 grandi \nmatematici del periodo di *Cantor* [1] erano irritati da questa cosa. Non \ncomprendendo, provarono a rendere questi differenti infiniti irrilevanti, \nper continuare far lavorar i matematici anche senza di essi.\n*Cantor* ne stette talmente male che soffri di una depressione profonda e \npass\u00f2 l'ultima met\u00e0 della sua vita dentro e fuori da ospedali psichiatrici.\n*Ma alla fine le sue idee vinsero*. \n...\n...\n*La matematica \u00e8 considerata a ragione il picco del ragionamento umano*, ma \nadesso, grazie a *Cantor* (e a *G\u00f6del* [2] e *Cohen* [3]) sappiamo che \nanche la Matematica ha dei limiti. Tuttavia, la Matematica ci offre ancora \ncose veramente meravigliose su cui riflettere.\n[...]\n\nTED-Ed Original lessons by *Dennis Wildfogel*\n\u25ba http://ed.ted.com/lessons/how-big-is-infinity\n\nNote:\n[1] \u25bahttp://it.wikipedia.org/wiki/Georg_Cantor\n[2] \u25bahttp://it.wikipedia.org/wiki/G%C3%B6del\n[3] \u25bahttp://it.wikipedia.org/wiki/Paul_Cohen\ufeff", 
+            "author": "Marco Cameriero"
+        }, 
+        {
+            "date": "2014-08-08T17:54:20.491Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Joseph Clark"
+        }, 
+        {
+            "date": "2014-08-08T17:35:41.238Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Ruben Adamyan"
+        }, 
+        {
+            "date": "2014-08-08T16:54:18.202Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Andres Castillo R."
+        }, 
+        {
+            "date": "2014-08-08T16:26:50.411Z", 
+            "text": "Interesting and fun to watch", 
+            "author": "Thana Sriviriyakul"
+        }, 
+        {
+            "date": "2014-08-08T15:58:10.319Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Rob Jongschaap"
+        }, 
+        {
+            "date": "2014-08-08T15:27:02.388Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Paul Bennett"
+        }, 
+        {
+            "date": "2014-08-08T14:44:10.800Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "Bhargava S"
+        }, 
+        {
+            "date": "2014-08-08T14:24:02.230Z", 
+            "text": "\u201eHow big is infinity?\u201c \u2013 A very good explanation by Dennis Wildfogel!\ufeff", 
+            "author": "vismath"
+        }, 
+        {
+            "date": "2014-08-08T20:25:07.607Z", 
+            "text": "My infinity can beat up your infinity ", 
+            "author": "Nathan Smutz"
+        }, 
+        {
+            "date": "2014-08-08T16:30:14.370Z", 
+            "text": "some infinities are bigger  than other infinities :) - TFIOS ", 
+            "author": "Angeli Ness Masongsong"
+        }, 
+        {
+            "date": "2014-08-08T14:23:04.050Z", 
+            "text": "Very cool, thank you very much!\ufeff", 
+            "author": "vismath"
+        }, 
+        {
+            "date": "2014-08-04T17:05:23.713Z", 
+            "text": "how does it work gone all over mind!!!!!!!!\ufeff", 
+            "author": "Nikhil Jain"
+        }, 
+        {
+            "date": "2014-08-04T14:39:12.821Z", 
+            "text": "The sum of what you don't know will always be infinitely greater than the \nsum of what you DO know.\n.\nEven ancient goat-herders knew that.\n.\nNot sure if we're catching up, or NOT.\n.\nGlory be to God, in the meantime.\ufeff", 
+            "author": "Bink115z"
+        }, 
+        {
+            "date": "2014-07-28T00:14:54.291Z", 
+            "text": "The part on Godel and Cohen was off in that they showed the continuum \nhypothesis was independent of ZFC.  An new axiom in addition to those of \nZFC could result in a different answer.\ufeff", 
+            "author": "Aplanis Tophet"
+        }, 
+        {
+            "date": "2015-03-24T01:03:36.198Z", 
+            "text": "+Aplanis Tophet If there was a new axiom it wouldn't be ZFC.", 
+            "author": "TimofAwsome"
+        }, 
+        {
+            "date": "2014-07-22T06:41:59.583Z", 
+            "text": "some infinities are bigger than other infinities\ufeff", 
+            "author": "Ernestminecraftfan Wong"
+        }, 
+        {
+            "date": "2014-07-15T01:31:28.462Z", 
+            "text": "", 
+            "author": "niraj lele"
+        }, 
+        {
+            "date": "2014-07-07T16:42:35.820Z", 
+            "text": "it took 2 mins for me to close this video and go to sleep. thanks a lot, i \ncame on youtube to watch a movie and this video happened. Thanks a lot.\ufeff", 
+            "author": "Gaurav Rayamajhi"
+        }, 
+        {
+            "date": "2014-07-07T03:22:25.262Z", 
+            "text": "There is no Infinity in the \"reality\" that we perceive. We confuse Infinity \nwith something we could not account for, a really big number. We just call \nthat really big number infinite while it is clearly not.\nInfinity is an idea of lack of limit. You cannot add to Infinity because \nthe Infinite has neither beginning nor ending.\nSome mathematicians argue that you can divide something indefinitely, but \nits not possible, for example the fractals, you will eventually stop at the \niteration X, it will perhaps be a very big number but it is not infinite, \nin other words it is not without limit. However big this X be, its still \nlimited.\n\nLets count all the atoms in this universe, an atom is a limit, we are going \nto start counting from the 1st one and add another and add another and \nanother.\nPerhaps we are going to reach a number very big, so big that it is \ndifficult for us to comprehend but we will never reach Infinity. We will \nget to that last atom.\n\nYou cannot get to Infinity by adding limits together.\nOur perceptions are based on limits, we cannot perceive that which has no \nlimit.\nHypothetically if there were only white color of the same tonality your \neyes would not  perceive anything since there is no background nor \nforeground. Everything is the same.\n\nThe universe we are part of is based on limits, hence it is limited. It is \nundoubtedly VERY BIG but it is still limited.\n\nNow lets take 1 single atom of our universe and make a list of its \nproperties of size and mass, its components and its electrical charges and \nall the rules by which this atom is made of. Suppose that we know all that \nthere is to know about this atom.\n\nThat list would store all the ideas about that atom. Now ideas belong in \nthe mind. The mind chooses to think. The mind is the cause and the idea is \nits result.\nIf the mind chooses to release the idea, that idea would be gone. It would \nno longer exist in the mind.\nAn idea cannot escape the mind since it is the mind that is thinking that \nidea.\n\nWhatever atoms, or matter, or energy, or simply put, what ever FORM  you \nperceive - is in the mind.\nEverything you perceive is part of this mind, perhaps you think that Your \nMind is in your brain, but your brain is made of atoms and those atoms are \nin some mind.\n\nIt is one mind though. All this limited universe is in one mind, being \nthought by one mind. The ideas of this mind share one main property.\nThey Are Limits.\ufeff", 
+            "author": "konstantinNeo"
+        }, 
+        {
+            "date": "2014-07-06T04:07:48.518Z", 
+            "text": "I think of infinite as having no start and the classic no end. Video wasn't \nwhat I expected but cool.\ufeff", 
+            "author": "1spore2"
+        }, 
+        {
+            "date": "2014-06-24T02:36:55.497Z", 
+            "text": "Numberphile does a better job explaining this. \ufeff", 
+            "author": "David Kahn"
+        }, 
+        {
+            "date": "2014-06-21T23:55:34.161Z", 
+            "text": "infinity is like fucking huge like big you couldn't fit it in yoiur house\ufeff", 
+            "author": "CuddleNucks"
+        }, 
+        {
+            "date": "2014-10-01T18:55:20.000Z", 
+            "text": "The \"bigger infinity\" proof on this video is wrong.\n\nConstruct a tree-diagram starting with the 10 decimal numbers written to \none decimal place, each with 10 branches leading to decimal numbers written \nto two decimal places (with the previous decimal place in common with its \npredecessor), each with 10 branches leading to decimal numbers written to \nthree decimal places... etc.\n\nFor each \"layer\", all the possible numbers are used up for each decimal \nplace so this time no decimals are \"left out\". Compare this with the same \ntree, but for fractions, and the \"proof\" in the video no longer works.\ufeff", 
+            "author": "Nic Digby-Rogers"
+        }, 
+        {
+            "date": "2014-10-02T04:48:36.939Z", 
+            "text": "+Nic Digby-Rogers I don't understand your replay, sorry.\n\nI disagree with your statement that all infinities are equal. Sorry.\n\nBut I may show you how maths students may be in the first week of studying \nthe topic would use your tree in some imaginary \"homework\" on this topic:\n \nLets take numbers only from 0 to 1 (it is easy to create one-to-one mapping \nfrom [0;1] to [-infinity;+infinity]=(Real numbers axe)\n\nThe one-to-one mapping that may be created from your tree is:\n(Path in the tree) <-->(Real number from 0 to 1).\n\n(for making every path from the \"top\" to the \"bottom\" lets asume that for \ninstance 0.123=0.1230000...\n0.3=0.300000 and so on\n i.e. lets fill in every final decimal fraction with infinitely many zeros)\n\n- How many paths are there?\n\n- From principle of counting the pathes in the finite trees => 10 to some \npower.\n\n- What power is it?\n- Countable infinity that is signed by Aleph_0 and Aleph_0 means the number \nof all Natural numbers.\n\nSo proved 10^(Aleph_0)=(number of all Real numbers).\n\nAnd if we take binary representation also kind of strange equality may be \neasily proved:\n2^(Aleph_0)=10^(Aleph_0) = by proved with your tree=(Number of real \nnumbers).", 
+            "author": "stav03"
+        }, 
+        {
+            "date": "2014-10-01T18:50:25.962Z", 
+            "text": "+stav03 I'm not sure if you're agreeing or disagreeing with me. If you \nconstruct my tree of decimals and then map it to the same tree structure \nbut filled with all the fractions, they each continue forever. That's the \nnecessary nature of infinity - neither is bigger than the other. One might \nappear to be getting filled up at a different rate at another, but neither \ntree is ever completely \"filled up\" because they go on forever.\n\nTherefore one infinite set can't be bigger or smaller than another infinite \nset. Size necessarily requires finite bounds to compare, so how are these \npeople who \"proved and checked\" otherwise smarter? Their answer is \ndeductively wrong by definition.\n\nAnd yes, this is even easier to inductively demonstrate when using binary \nrather than decimal.", 
+            "author": "Nic Digby-Rogers"
+        }, 
+        {
+            "date": "2014-10-01T15:21:09.000Z", 
+            "text": "Nice. If im not wrong you just proved that 10 (or 2 if we allow only binary \nrepresentation for real numbers) to the power of Aleph_0 (the number of \nbranches in your tree) is the same as the cardinal number of real numbers \n(sorry, but its bigger infinity, there is nothing to do with it, proved and \nchecked by smarter people than we are:)). Also your tree is a good way to \nvisualise the continuity (i mean the number of points on the real numbers \naxe) in a \"discreet way\" (as a number of branches in your infinitely long \n(or high:)) tree.\nP.S. Actually making the power of 2 is the standard way to create \"the \nbigger infinity\" because it means \"to count all the subsets\". From your \nexample follows that you can take any finite basis instead of 2. Again, if \nim not wrong:)", 
+            "author": "stav03"
+        }, 
+        {
+            "date": "2014-08-03T16:56:19.668Z", 
+            "text": "+Ruben Aylwin What does \"place\" mean when it comes to infinity?\nThere really is a lot of misunderstanding about infinity going on around \nhere.\nHow far along infinity can anything be? You're trying to deal with finites, \nthe exact same error that this video's proof is falling for.", 
+            "author": "Silhouette1984"
+        }, 
+        {
+            "date": "2014-07-01T00:14:51.197Z", 
+            "text": "+Nic Digby-Rogers the problem with your tree is you cant find the infinite \nirrationals, tell me in which place would pi be? ", 
+            "author": "Ruben Aylwin"
+        }, 
+        {
+            "date": "2014-06-21T20:41:45.265Z", 
+            "text": "+MuffinsAPlenty If you really can't see past the grid form then my tree \nsuggestion can be adapted to an n-dimensional grid. The natural numbers can \nalso be written in on the same grid, each with a corresponding element to \nthe decimal version. You don't need different numbers of infinities - \nthat's just an attempt to make infinity into some kind of number, which \nthis video even starts out bebunking. It's no wonder that Godel and Cohen \ncorrectly contradicted each other, because they were dealing with a \ncontradiction.", 
+            "author": "Nic Digby-Rogers"
+        }, 
+        {
+            "date": "2014-06-21T20:33:26.487Z", 
+            "text": "+MuffinsAPlenty Then I am sorry that you fail to see how two different \ntrees can be mapped onto one another and revealed to match, much like the \nright onto the left hand or people into seats (the right hand is different \nto the left, and people to seats).", 
+            "author": "Nic Digby-Rogers"
+        }, 
+        {
+            "date": "2014-06-21T15:31:55.071Z", 
+            "text": "The idea of \"one-to-one match\" is that every element in one set has exactly \none corresponding element in the other set.\n\nI fail to see how making two different trees satisfies this requirement.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2014-06-16T12:30:19.635Z", 
+            "text": "+MuffinsAPlenty So set out the natural numbers in a tree too. There's \nnothing to say the one-to-one match has to be in 2D grid form.", 
+            "author": "Nic Digby-Rogers"
+        }, 
+        {
+            "date": "2014-06-15T21:24:29.541Z", 
+            "text": "Your tree is not a one-to-one match between the natural numbers and the \ndecimal numbers.  At the very best, you'd have 10 decimal numbers matched \nwith every natural number.  By its very construction it invalidates itself \nas a counterexample to the proof.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2014-06-06T18:10:53.105Z", 
+            "text": "Algunos infinitos son m\u00e1s grandes que otros infinitos\ufeff", 
+            "author": "Jazzel Ojeda"
+        }, 
+        {
+            "date": "2014-06-06T01:04:59.982Z", 
+            "text": "1:42\nNo, there are 3 odd numbers and 9 even numbers.  That is not the same and \nthey are not matching.\nIf you create two rows and only include the second row, sure, but that is \nnot factoring in all the numbers.  You might as well say that there are no \nnumbers and create a line with no numbers in it.  Same logic.\n4:37\nWhat is stopping me from making a list of decimals where I use that same \nlogic and include that on my list as well?  What is to stop me from \ncreating a list that does that with every number and not just 1 or 2? \n Nothing because it can be listed.  Why?  Infinite.\n\nE:ND\nAgain, right back to the same thing I said from the beginning of time. \n Math is pointless after a certain degree.\nYou can create this or that and try to find the infinities in infinity, but \nno one should care because they don't matter.  Infinity is infinity, \nperiod.  Of course you can find more in infinity because infinity is \ninfinity.  \n\nI regret watching this and am on the verge of never watching anything \nrelated to math again because of how pointless most concepts of it are.  It \nis like finding a rock and saying, I need to find a rock just like it. \n Alright, have fun, but what are you going to do with it once you find it? \n Pay some dude 1 million dollars?  I swear, its like a competition of baby \ndicks now.  Let me show how massive my penis is by creating something that \nno one will ever find out.  Not that anyone gains anything from finding it \nout, but I just want people to remember me.  It is very selfish and a waste \nof a great minds time on this planet.  Instead of trying to find 2 matching \nrocks, why not try to end world hunger?  Why not abolish fossil fuels and \ncreate something that will last forever?\n\nNo?  Fine, keep chasing your ghost numbers in fairy land.  Whatever makes \nyou feel adequate because you can't create a true contribution to \nexistence.  That or you never learned how to.\n\nScience is trying to do what music does.  Instead of creating new music, \nthey just take the same popular beats, throw them with something else and \ncall it a hit.  No wonder most kids who base their existence off music are \nso pathetic.  And you science people want to do the same crap.\n\nLike I said.  I am about to never look at math again if all it does to you \nis take you down a road of failure and wasted time.\ufeff", 
+            "author": "NinjaOnANinja"
+        }, 
+        {
+            "date": "2014-05-30T02:57:57.201Z", 
+            "text": "I would love if The Onion made a parody of this particular video. :)\ufeff", 
+            "author": "IThinkWithMy Liver"
+        }, 
+        {
+            "date": "2014-05-23T15:37:53.949Z", 
+            "text": "Most things in this video do not make sense to me, or simply it was not \nexplained properly, or it was meant for advanced mathematicians, not casual \naudience. \ufeff", 
+            "author": "Kamil's View"
+        }, 
+        {
+            "date": "2014-11-10T06:16:47.279Z", 
+            "text": "Well, the simple fact of the matter is that human brains cannot understand \ninfinity.  You have to let go of everything but pure mathematical \nreasoning, or else it won't make sense.", 
+            "author": "cOmAtOrAn"
+        }, 
+        {
+            "date": "2014-07-11T22:18:46.887Z", 
+            "text": "I understood it perfectly and I'm a casual 14 year old. Maybe try watching \nit again but paying closer attention, although your comment is form a month \nago so you probably already did that or don't care anymore.", 
+            "author": "fritofreda"
+        }, 
+        {
+            "date": "2014-05-25T22:32:20.737Z", 
+            "text": "Ah, maybe try watching it again?", 
+            "author": "Anonymous"
+        }, 
+        {
+            "date": "2014-05-23T09:42:38.101Z", 
+            "text": "I want to thank you Steve Busceme for this math lesson.  I'm going to go \nwatch Fargo now.\ufeff", 
+            "author": "Alan Noble"
+        }, 
+        {
+            "date": "2014-05-15T12:10:18.317Z", 
+            "text": "\u221e + 1 = \u221e  ?\nOr did I just create another infinity with a different size from the \nprevious infinity?\ufeff", 
+            "author": "SysGhost"
+        }, 
+        {
+            "date": "2014-05-15T12:04:08.327Z", 
+            "text": "my question is, does infinity can be applied to real life? or it just a \nconcept?\ufeff", 
+            "author": "Ferdy Hoshigaki Tube"
+        }, 
+        {
+            "date": "2014-11-10T06:14:45.156Z", 
+            "text": "Zeno's paradox shows that motion is impossible; the only way to solve it \n(and therefore prove motion is possible) is with an infinite series.", 
+            "author": "cOmAtOrAn"
+        }, 
+        {
+            "date": "2014-09-06T13:36:30.683Z", 
+            "text": "No it cannot be applied to real life. Some people think that universe is \ninfinite or that time is infinite, but we don't know that for sure. Don't \nlisten to the comment above me, he doesn't know what a concept is or what \n\"real life\" applies.", 
+            "author": "al3ksejkramaric"
+        }, 
+        {
+            "date": "2014-05-17T17:36:42.162Z", 
+            "text": "In some sense it can be applied to real life. Of course there is no \nquantity in real life that is infinitely large but infinity is used to \ncalculate real world effects all the time. A simple example would be the \nnumber pi. It describes the relationship between the diameter and the area \nof a circle. It is impossible to give a decimal that represents the correct \nvalue of pi but using infinite series you can express the correct value. Of \ncourse you could never calculate an infinite series but you can approximate \nthe actual value to arbitrary precision.", 
+            "author": "compuholic82"
+        }, 
+        {
+            "date": "2014-05-10T23:23:42.081Z", 
+            "text": "", 
+            "author": "Xsashah"
+        }
+    ]
+}

@@ -1,0 +1,909 @@
+{
+    "publish_date": "2014-02-03T12:02:26.000Z", 
+    "video_length": "PT7M9S", 
+    "captions": [
+        {
+            "text": "&gt;&gt; DR GRIME: Let&#39;s have a look at one of these tests\nthat they have, that they apply to see", 
+            "dur": "4.291", 
+            "start": "0.299"
+        }, 
+        {
+            "text": "if a number is prime or not. Well we&#39;re going\nto use a fact I have mentioned before when talking", 
+            "dur": "5.28", 
+            "start": "4.59"
+        }, 
+        {
+            "text": "about primes and we&#39;re going to use Fermat&#39;s\nLittle Theorem. It&#39;s a theorem about prime", 
+            "dur": "5.29", 
+            "start": "9.87"
+        }, 
+        {
+            "text": "numbers and what it says is that if you have\na number which I&#39;ll call &#39;a&#39; and I&#39;m going", 
+            "dur": "4.64", 
+            "start": "15.16"
+        }, 
+        {
+            "text": "to raise it to a power &#39;prime number&#39; so that&#39;s\ncalled &#39;p prime&#39;, and I subtract the original", 
+            "dur": "7", 
+            "start": "19.8"
+        }, 
+        {
+            "text": "number then I say that this is divisible by\np. There you go.", 
+            "dur": "5.611", 
+            "start": "26.939"
+        }, 
+        {
+            "text": "So if a number is prime that&#39;s always true\nfor whatever number &#39;a&#39; you pick. So, let&#39;s", 
+            "dur": "6.169", 
+            "start": "32.55"
+        }, 
+        {
+            "text": "do an example of this, let&#39;s pick a prime.\nWe know 5 is a prime, is it? Isn&#39;t it? Yeah, OK.", 
+            "dur": "4.281", 
+            "start": "38.719"
+        }, 
+        {
+            "text": "So 5 is a prime, so let&#39;s use that and we&#39;ll\npick, well, let&#39;s see. 1\u2075, that&#39;s going to be easy.", 
+            "dur": "7.3", 
+            "start": "43"
+        }, 
+        {
+            "text": "1\u2075 - 1 = 0. Is it divisible by 5? Yes, we say 0 is divisible by 5.", 
+            "dur": "8.821", 
+            "start": "50.379"
+        }, 
+        {
+            "text": "What about 2? 2\u2075 - 2 to get 30.", 
+            "dur": "5.27", 
+            "start": "59.23"
+        }, 
+        {
+            "text": "Hey, and that&#39;s divisible by 5 as well. Let&#39;s just finish it off.", 
+            "dur": "4.85", 
+            "start": "64.5"
+        }, 
+        {
+            "text": "3\u2075 - 3, that&#39;s 240 so these\nare all divisible by 5.", 
+            "dur": "6.58", 
+            "start": "69.35"
+        }, 
+        {
+            "text": "4\u2075 - 4, divisible by 5 again.", 
+            "dur": "3.65", 
+            "start": "75.93"
+        }, 
+        {
+            "text": "What about 5? Yeah, well I think this one&#39;s\na bit more obvious, so that&#39;s divisible by", 
+            "dur": "4.38", 
+            "start": "79.58"
+        }, 
+        {
+            "text": "5 too. And that&#39;s always going to be true\nif the number is prime. And this is what Fermat", 
+            "dur": "5.23", 
+            "start": "83.96"
+        }, 
+        {
+            "text": "proved in the 17th century, this is absolutely\ntrue for all primes.", 
+            "dur": "4.62", 
+            "start": "89.19"
+        }, 
+        {
+            "text": "Let&#39;s try another number, I&#39;ll try another\nnumber with you.", 
+            "dur": "2.29", 
+            "start": "93.81"
+        }, 
+        {
+            "text": "I&#39;m going to try the number 341. Does that pass my test?", 
+            "dur": "5.6", 
+            "start": "96.1"
+        }, 
+        {
+            "text": "2\u00b3\u2074\u00b9 - 2. That&#39;s my test.\nNow that&#39;s going to be a really large number.", 
+            "dur": "6.8", 
+            "start": "101.7"
+        }, 
+        {
+            "text": "Computers can have methods that make this\neasier so that&#39;s going to be a really large", 
+            "dur": "3.71", 
+            "start": "108.5"
+        }, 
+        {
+            "text": "number. I&#39;m not going to write that down.\nHuge number, but I can tell you now that this", 
+            "dur": "3.7", 
+            "start": "112.21"
+        }, 
+        {
+            "text": "number is divisible by the number we&#39;re testing.\nIt was 341. Thumbs up. Yeah, great.", 
+            "dur": "5.59", 
+            "start": "115.91"
+        }, 
+        {
+            "text": "So it&#39;s passed the test.", 
+            "dur": "3.55", 
+            "start": "121.5"
+        }, 
+        {
+            "text": "Let&#39;s try another one, let&#39;s try another test.\nDo it with 3 then.", 
+            "dur": "4.45", 
+            "start": "125.05"
+        }, 
+        {
+            "text": "If we do this, 3\u00b3\u2074\u00b9 - 3. Is this divisible?", 
+            "dur": "6.8", 
+            "start": "129.5"
+        }, 
+        {
+            "text": "And this is where it fails the test. So this one is not divisible.", 
+            "dur": "5.7", 
+            "start": "136.3"
+        }, 
+        {
+            "text": "Now, if it&#39;s not divisible that tells me it&#39;s a composite number.", 
+            "dur": "5", 
+            "start": "142"
+        }, 
+        {
+            "text": "There only needs to be one exception, it&#39;s very easy to fail this test.", 
+            "dur": "4", 
+            "start": "147"
+        }, 
+        {
+            "text": "The more you pass, the more evidence you are,\nthat you are a prime and if you fail at all", 
+            "dur": "6.2", 
+            "start": "151"
+        }, 
+        {
+            "text": "then you are a composite number. Only\ncomposite numbers fail. If you have a composite", 
+            "dur": "5.7", 
+            "start": "157.2"
+        }, 
+        {
+            "text": "number and it passes the test here, this number 2\nin this case is called a Fermat liar.", 
+            "dur": "7.1", 
+            "start": "162.9"
+        }, 
+        {
+            "text": "Ooooh, it&#39;s not really prime, it&#39;s lying. It tells\nme it&#39;s prime and it&#39;s not. Naughty!", 
+            "dur": "7.9", 
+            "start": "170"
+        }, 
+        {
+            "text": "This number here 3, which actually shows that\nit was composite after all, is called a Fermat witness.", 
+            "dur": "7", 
+            "start": "177.9"
+        }, 
+        {
+            "text": "The innocent bystander. He goes in\nto a witness protection program in case 2", 
+            "dur": "6.201", 
+            "start": "185.069"
+        }, 
+        {
+            "text": "comes and chases after him, yeah.", 
+            "dur": "2.01", 
+            "start": "191.27"
+        }, 
+        {
+            "text": "Brady, you ask a good question though.\nWhat would happen if there was a number that was", 
+            "dur": "5.46", 
+            "start": "193.28"
+        }, 
+        {
+            "text": "composite that passed every test up to the\nsize of the number. Is it possible? Yes it is.", 
+            "dur": "9.96", 
+            "start": "198.74"
+        }, 
+        {
+            "text": "There are numbers that will pass this\ntest for every test you apply.", 
+            "dur": "6.32", 
+            "start": "208.77"
+        }, 
+        {
+            "text": "Those are called Carmichael numbers, they have a name.\nThe first Carmichael number is 561.", 
+            "dur": "8.21", 
+            "start": "215.09"
+        }, 
+        {
+            "text": "So what that means is 2\u2075\u2076\u00b9 - 2 is divisible.  3\u2075\u2076\u00b9 - 3, that passes the test.", 
+            "dur": "8.58", 
+            "start": "223.42"
+        }, 
+        {
+            "text": "So does 4. And all the way down to 560 to\nthe power 561 and it passes the test each time.", 
+            "dur": "8.36", 
+            "start": "232.04"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Must be prime!", 
+            "dur": "1.44", 
+            "start": "240.48"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Must be prime! Must be prime!  Unfortunately, it&#39;s not.", 
+            "dur": "4.08", 
+            "start": "241.92"
+        }, 
+        {
+            "text": "561 is equal to 3 by 11 by 17.", 
+            "dur": "6.7", 
+            "start": "246"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Those are cool numbers.", 
+            "dur": "1.42", 
+            "start": "252.7"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Those are really cool numbers\nand there infinitely many Carmichael numbers.", 
+            "dur": "5.299", 
+            "start": "254.12"
+        }, 
+        {
+            "text": "The third Carmichael Number is mathematician&#39;s favourite 1729. Nice.", 
+            "dur": "7.781", 
+            "start": "259.519"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Lovely.", 
+            "dur": "1", 
+            "start": "267.3"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Lovely. Now, what do you reckon Brady?", 
+            "dur": "3.7", 
+            "start": "268.3"
+        }, 
+        {
+            "text": "Do you think this is a good test, or not?", 
+            "dur": "4", 
+            "start": "272"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: Well, until you told me about Carmichael\nnumbers I thought it was a good test. Now", 
+            "dur": "4.96", 
+            "start": "276"
+        }, 
+        {
+            "text": "I think it&#39;s almost useless if you&#39;re looking\nfor perfection. Well it is useless.", 
+            "dur": "5.599", 
+            "start": "280.96"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: Yeah, well, it&#39;s not perfect.\nYou&#39;re absolutely right. So, if you checked", 
+            "dur": "4.76", 
+            "start": "286.559"
+        }, 
+        {
+            "text": "all numbers less than 25 billion, the number\nof numbers that would fail the test if you", 
+            "dur": "7", 
+            "start": "291.319"
+        }, 
+        {
+            "text": "used &#39;a&#39; was 2, alright? If &#39;a&#39; was 2. The number of numbers that fail that particular version", 
+            "dur": "7.97", 
+            "start": "298.43"
+        }, 
+        {
+            "text": "of that test is 2183 out of 25 billion. That&#39;s\njust using 2. So only a small fraction fail", 
+            "dur": "10.931", 
+            "start": "306.469"
+        }, 
+        {
+            "text": "this test, or give you things that you don&#39;t\nwant. Tell you that you have a prime when", 
+            "dur": "4.09", 
+            "start": "317.71"
+        }, 
+        {
+            "text": "you don&#39;t have a prime. And you can apply\nother numbers anyway, so to pass this test", 
+            "dur": "6.289", 
+            "start": "321.8"
+        }, 
+        {
+            "text": "is actually quite a high bar.", 
+            "dur": "0.771", 
+            "start": "328.089"
+        }, 
+        {
+            "text": "&gt;&gt; BRADY: So it is a good test.", 
+            "dur": "1.219", 
+            "start": "328.86"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: So, it&#39;s a fairly, yeah. It&#39;s\na fairly good test. Now there are other tests", 
+            "dur": "4.56", 
+            "start": "330.079"
+        }, 
+        {
+            "text": "though, there are better tests that use pretty\nmuch the same idea. Almost exactly the same", 
+            "dur": "4.08", 
+            "start": "334.639"
+        }, 
+        {
+            "text": "idea so if you understood that you&#39;ll\nunderstand the other tests as well.", 
+            "dur": "3.281", 
+            "start": "338.719"
+        }, 
+        {
+            "text": "There&#39;s one called the Baillie-PSW test, pretty much uses\nthe same idea as that. Actually uses two tests", 
+            "dur": "7.469", 
+            "start": "342"
+        }, 
+        {
+            "text": "in conjunction so you have to pass them both.\nYes, if you pass that test you&#39;re probably", 
+            "dur": "4.6", 
+            "start": "349.469"
+        }, 
+        {
+            "text": "a prime. In fact, they have found no counter\nexamples. So anything that passes the test", 
+            "dur": "7.631", 
+            "start": "354.069"
+        }, 
+        {
+            "text": "so far has actually been a prime. There&#39;s\nbeen no sneaky composite numbers. No counter", 
+            "dur": "6.38", 
+            "start": "361.779"
+        }, 
+        {
+            "text": "example to it. And they&#39;ve checked large numbers\nfor this. If you do find a counter example,", 
+            "dur": "7", 
+            "start": "368.159"
+        }, 
+        {
+            "text": "if you find a cheeky composite number that\npasses the test, the authors originally offered", 
+            "dur": "5.56", 
+            "start": "375.409"
+        }, 
+        {
+            "text": "a prize. You could win $30. $30 could be yours.\nNow don&#39;t worry, since then the amount of", 
+            "dur": "10.031", 
+            "start": "380.969"
+        }, 
+        {
+            "text": "the prize, it&#39;s gone up since then. You can\nnow win over $600. $620 in fact. Think of that.", 
+            "dur": "7.8", 
+            "start": "391"
+        }, 
+        {
+            "text": "Think of that. Think what you could\ndo with that money. Ooh, you could buy yourself", 
+            "dur": "4.66", 
+            "start": "398.8"
+        }, 
+        {
+            "text": "a choc ice every day. Every day for a year.\nTwice on Sundays.", 
+            "dur": "4.719", 
+            "start": "403.46"
+        }, 
+        {
+            "text": "&gt;&gt; DR GRIME: In 2002, they published, or mathematicians\npublished a new method to test for primes", 
+            "dur": "9.121", 
+            "start": "408.179"
+        }, 
+        {
+            "text": "and finally they found a fast way that was\n100%. This is now one of the latest things.", 
+            "dur": "11.681", 
+            "start": "417.319"
+        }
+    ], 
+    "title": "Liar Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0f06m", 
+        "/m/0vb40_n", 
+        "/m/05fwb"
+    ], 
+    "number_views": 370375, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-08T14:43:46.000Z", 
+            "text": "wait so 2 isn't prime? you can only divide it by 1 and 2, 1 and itself, \ndoesn't that make it prime?\ufeff", 
+            "author": "Sadimk | Minecraft and Montages"
+        }, 
+        {
+            "date": "2015-03-24T00:02:18.822Z", 
+            "text": "why stop at base p-1? couldn't you just keep going after 560^561 - 560 to \nbe \"more sure\" about p's primeness\ufeff", 
+            "author": "Camilo Gallardo"
+        }, 
+        {
+            "date": "2015-03-16T19:33:43.000Z", 
+            "text": "Is there a discernible distribution for the carmichael numbers?\ufeff", 
+            "author": "Quinn McFee"
+        }, 
+        {
+            "date": "2015-02-05T05:49:24.357Z", 
+            "text": "I suppose this theorem is interesting from the perspective of mathematical \nproofs, but it's hard to see how it could even conceivably have practical \nuse.  Even a computer the size of the known universe would be unable to \ntest numbers much beyond a thousand or so, and we already know all the \nprimes in that range.\ufeff", 
+            "author": "T Oadaly"
+        }, 
+        {
+            "date": "2015-02-01T04:36:28.708Z", 
+            "text": "0:40! Hilarious!\ufeff", 
+            "author": "pancakegrower"
+        }, 
+        {
+            "date": "2015-01-19T05:35:06.534Z", 
+            "text": "http://en.wikipedia.org/wiki/Friedman_number\ufeff", 
+            "author": "Ryan Roberson"
+        }, 
+        {
+            "date": "2015-01-09T09:37:58.509Z", 
+            "text": "Fermat is actually not a very good mathematician, is he?\ufeff", 
+            "author": "lin4cba"
+        }, 
+        {
+            "date": "2014-12-27T23:00:28.962Z", 
+            "text": "Are all Taxicab Numbers Carmichael Numbers as well?\ufeff", 
+            "author": "Roy Bellafire"
+        }, 
+        {
+            "date": "2014-11-02T03:32:39.017Z", 
+            "text": "But why does it work with primes if it also works with other numbers?\ufeff", 
+            "author": "dominiclemagnifique"
+        }, 
+        {
+            "date": "2014-11-02T02:27:28.881Z", 
+            "text": "How then can we tell if anything is prime?\ufeff", 
+            "author": "TheApostleofRock"
+        }, 
+        {
+            "date": "2014-10-24T07:03:29.482Z", 
+            "text": "Fascinating - wish my I.Q was as high as yours. Struggling with my O.U. \nassignment.\ufeff", 
+            "author": "Paul F.Smith"
+        }, 
+        {
+            "date": "2014-09-10T18:41:57.945Z", 
+            "text": "cool :D\ufeff", 
+            "author": "Mohamed Chiboub"
+        }, 
+        {
+            "date": "2014-08-17T03:55:30.823Z", 
+            "text": "Best explanation of Fermat's little theorem and application.\ufeff", 
+            "author": "valor36az"
+        }, 
+        {
+            "date": "2014-08-10T05:09:43.324Z", 
+            "text": "How are the Carmichael numbers distributed (e.g. do they get less dense as \nthe values increase ?) ?\ufeff", 
+            "author": "Karl Young"
+        }, 
+        {
+            "date": "2014-07-26T16:28:35.955Z", 
+            "text": "we miss you man!\ufeff", 
+            "author": "Javier Salcedo"
+        }, 
+        {
+            "date": "2014-07-01T08:53:39.030Z", 
+            "text": "How the hell is 0 divisible by 5?  You can't divide something that don't \nexist, and you cannot multiply by something non-existent either.  Though \nyou can add and subtract from it; i.e  0 - 3 = -3 and 0 + 9 = 9\n0 x 9 = Nonsense and 0 / 7 = Nonsense, as does 0 ^ 5 and 0 rooted by 4 etc.\ufeff", 
+            "author": "TheExaltedPheonix"
+        }, 
+        {
+            "date": "2014-06-19T03:09:38.741Z", 
+            "text": "1:29 Fermat did not prove this theorem, Euler did.  Fermat merely stated \nit.\ufeff", 
+            "author": "Shawn Zhang"
+        }, 
+        {
+            "date": "2014-06-19T03:07:05.375Z", 
+            "text": "1:27 is actually a wrong, sorry to say :(.  Fermat couldn't have proved it \nin the 17th century because he only lived from 1601 - 1665.  Sorry to be so \npicky but just pointing it out he made a slip of the tongue( don't want the \npeople who watch this to get false info).\ufeff", 
+            "author": "Shawn Zhang"
+        }, 
+        {
+            "date": "2014-03-28T22:38:42.607Z", 
+            "text": "I didn't know Johnny Rotten had a PhD in Mathematics\ufeff", 
+            "author": "Matteo Griseri"
+        }, 
+        {
+            "date": "2014-03-28T03:14:29.519Z", 
+            "text": "1729 the year \"A Modest Proposal\" was written\ufeff", 
+            "author": "Brandon Bahret"
+        }, 
+        {
+            "date": "2014-03-15T22:34:53.182Z", 
+            "text": "Carmick Nos, Carmick Nos, what on earth are Carmick Nos,\nI use Fermat's Little Theorem or should I say 'Half Little Theorem' (that's \na clue) with absolute confidence for primes upto 200 digits. Pseudoprimes \nand Carmichael Nos are detected and rejected as 'pseudocomposites' to be \ndone with as one pleases.\nProof 67,666667, 66........67, are prime for \n2,6,8,9,11,20,23,41,63,66,119,122,149 digits less than 200. Get practical \nnot theoretical. If I hadn't I would still be twiddling my thumbs.\ufeff", 
+            "author": "Alastair Bateman"
+        }, 
+        {
+            "date": "2014-03-15T21:11:11.240Z", 
+            "text": "Hmmm basic level mathematicians know 1 is not prime. Every value you use \nyou get 1-1=0. \nAlthough silly 0 \u00f7 1 =0 \nWhat does that make 1 hmmmm\ufeff", 
+            "author": "onionlawd"
+        }, 
+        {
+            "date": "2014-03-14T08:30:32.806Z", 
+            "text": "this isn't related to Numberphile (except that it was an ad i jsut saw)\nyou guys know that PS4 ad that says the PS4 is the most powerful console? I \ndisagree, because more likely than not, most computers have better \ngraphics, memory, etc.\n\nAnyone else agree?\ufeff", 
+            "author": "Eugene Kiselyov"
+        }, 
+        {
+            "date": "2014-03-13T23:16:59.309Z", 
+            "text": "This guy reminds me Sheldon from Big Bang theory :)\ufeff", 
+            "author": "HellopeopleYSS"
+        }, 
+        {
+            "date": "2014-03-11T22:02:31.095Z", 
+            "text": "I have one solution for capitalism, and it's execution.\ufeff", 
+            "author": "SomeUser9753"
+        }, 
+        {
+            "date": "2014-03-08T22:49:47.080Z", 
+            "text": "I want Mr. Grimes to call me naughty, over and over again.\ufeff", 
+            "author": "Bad Bandwidth"
+        }, 
+        {
+            "date": "2014-03-03T21:07:09.524Z", 
+            "text": "+Alpha Craft \nThe definition of a prime number is that it is only divisible by 1 and \nitself and no other numbers. So they are \"prime\".\ufeff", 
+            "author": "Tanur Abseleam"
+        }, 
+        {
+            "date": "2014-03-03T02:26:09.418Z", 
+            "text": "Won't the number 2 always be a liar?\ufeff", 
+            "author": "Stephan Newton"
+        }, 
+        {
+            "date": "2014-03-03T01:41:51.746Z", 
+            "text": "If I had a friend, I would want him to be James Grime.\ufeff", 
+            "author": "DukeLaCrosse20"
+        }, 
+        {
+            "date": "2014-03-02T08:30:57.826Z", 
+            "text": "The thumbnail is brilliant...\ufeff", 
+            "author": "addeyyry"
+        }, 
+        {
+            "date": "2014-03-01T00:15:11.225Z", 
+            "text": "", 
+            "author": "Gerard van Wilgen"
+        }, 
+        {
+            "date": "2014-02-22T02:43:15.175Z", 
+            "text": "numberphile, do you think you can make a video on cryptographic hash \nfunctions / cryptocurrency (bitcoin)? :) \ufeff", 
+            "author": "MyLemons"
+        }, 
+        {
+            "date": "2014-02-20T02:57:26.572Z", 
+            "text": "LIAR LIAR PANTS ON FIAR\ufeff", 
+            "author": "GeekJokes"
+        }, 
+        {
+            "date": "2014-02-17T16:01:37.010Z", 
+            "text": "He's the friendly version of Dr. Sheldon Cooper\ufeff", 
+            "author": "PrideDefiler"
+        }, 
+        {
+            "date": "2014-02-17T00:00:47.913Z", 
+            "text": "Mathematicians are silly people\ufeff", 
+            "author": "Gaelan McCann"
+        }, 
+        {
+            "date": "2014-02-16T05:49:59.144Z", 
+            "text": "So why is it that you stop this test when a = p? For instance, when testing \n561 he said it passed every number up to 560. Why not try 562? Why not keep \ngoing? I'm sure there is a reason, but it was never mentioned in this video.\n\nThanks to whoever knows!\ufeff", 
+            "author": "David Stagg"
+        }, 
+        {
+            "date": "2014-02-15T21:16:06.102Z", 
+            "text": "Statistics also lie. I know I have posted this before. :(\ufeff", 
+            "author": "abcvideoyoutuization"
+        }, 
+        {
+            "date": "2014-02-15T20:05:07.083Z", 
+            "text": "+Alpha Craft that's not how it works\ufeff", 
+            "author": "sampson623"
+        }, 
+        {
+            "date": "2014-02-15T18:30:35.865Z", 
+            "text": "Why not just say 561 is equal 51 x 11 ?\ufeff", 
+            "author": "omgitzanarwhal"
+        }, 
+        {
+            "date": "2014-02-15T17:36:56.431Z", 
+            "text": "Using  this test wouldn't that make 1 a prime number?\ufeff", 
+            "author": "jackc9611"
+        }, 
+        {
+            "date": "2014-02-14T10:22:56.057Z", 
+            "text": "The first example given isn't great. 4 is not a prime number; let's use \nthat.\n(1^4)-1=0. I don't know the rule, but seeing as 0/5=0 and 0/4=0 I'm \nassuming it counts.\ufeff", 
+            "author": "Denny Chen"
+        }, 
+        {
+            "date": "2014-02-13T17:05:39.060Z", 
+            "text": "I've got the number, I just don't want to tell anyone...\ufeff", 
+            "author": "AMotherF***ingSlothFromHoth"
+        }, 
+        {
+            "date": "2014-02-13T12:48:44.636Z", 
+            "text": "why does 2+2=4 2x2=4 2^2=4\ufeff", 
+            "author": "dfwr3534t? wut mate? ARHGSerea?"
+        }, 
+        {
+            "date": "2014-02-13T10:10:12.900Z", 
+            "text": "Doesn't a have to be bigger than 1?\nBecause 1 to the power of anything will always be one.\nSo 1^p - 1 = 1 - 1 = 0.\nAnd since 0 is always divisible by any number, all numbers will appear \nprime.\n\nOr is it meant, that the tested number has to pass the test for ALL natural \nnumbers\n1 <= a <= p ?\ufeff", 
+            "author": "hudson485"
+        }, 
+        {
+            "date": "2014-02-13T10:13:55.675Z", 
+            "text": "Watched it again. =)\nFound the answer. ;)", 
+            "author": "hudson485"
+        }, 
+        {
+            "date": "2014-02-13T06:13:50.948Z", 
+            "text": "I'm just an idiot who stumbled in here.\nDoes this mean we've been incorrect in some calculations when we assumed \nsome numbers were prime that weren't?\ufeff", 
+            "author": "breezebro"
+        }, 
+        {
+            "date": "2014-02-12T22:08:15.136Z", 
+            "text": "But is it a good test? OR NAH?\ufeff", 
+            "author": "Patrick Boyd"
+        }, 
+        {
+            "date": "2014-02-12T22:04:12.922Z", 
+            "text": "Are you prime? OR NAH?\ufeff", 
+            "author": "Patrick Boyd"
+        }, 
+        {
+            "date": "2014-02-12T21:13:54.218Z", 
+            "text": "One way to check if a number is prime is to try dividing it by everything \nup to its square root.\ufeff", 
+            "author": "TheReaverOfDarkness"
+        }, 
+        {
+            "date": "2014-02-12T16:11:33.424Z", 
+            "text": "Couldn't you just use Fermat's Little Theorem, and just test it with the \n\"prime\" number, every time? Instead of going through 2 -> Prime number, to \ntest it against\ufeff", 
+            "author": "Rasmus Helenius"
+        }, 
+        {
+            "date": "2014-02-12T15:08:30.840Z", 
+            "text": "I love Numberphile.\u00a0 Especially the ones with Dr James Grime.", 
+            "author": "Patrick Horgan"
+        }, 
+        {
+            "date": "2014-02-11T07:52:26.993Z", 
+            "text": "i wonder, is infinity a prime?\ufeff", 
+            "author": "Glacier Storm"
+        }, 
+        {
+            "date": "2014-02-10T23:39:10.873Z", 
+            "text": "Nice!\ufeff", 
+            "author": "Hazhar Ghaderi"
+        }, 
+        {
+            "date": "2014-02-10T23:29:25.716Z", 
+            "text": "Dr. Grime, I noticed that the composite numbers you demonstrated found with \nliars, like 341, 561, and 1729, are all composed of primes. Is this the \ncase of all Carmichael Numbers?\ufeff", 
+            "author": "Gethralkin Mithredak"
+        }, 
+        {
+            "date": "2014-02-10T23:09:28.786Z", 
+            "text": "Geeze that dumb pi icon is irritating..  where's the x (i.e. close)??\ufeff", 
+            "author": "empmachine"
+        }, 
+        {
+            "date": "2014-02-10T17:41:49.440Z", 
+            "text": "Thanks for another wonderful video!  It raises a couple of questions for me \nthat I'm hoping you or a commenter can answer.\n\n1) Why does the test stop at p?  For example, if you're testing whether 5 \nis prime, why isn't it of interest whether 6^5-6 is divisible by 5?  I'm \nsure there's something simple I'm missing.\n\n2) The Wikipedia article on Carmichael numbers uses a different \nformulation: a Carmichael number is a composite n such that b^n = b (mod n) \nfor 1<b<n), but instead of an equals sign, it uses a symbol I don't \nrecognize: three stacked parallel lines (like an equals with an extra \nline).  What's that mean?\n\nThanks!\ufeff", 
+            "author": "Jeffrey Levy"
+        }, 
+        {
+            "date": "2014-02-10T11:18:15.920Z", 
+            "text": "He's funny.\nLiar Numbers - Numberphile\ufeff", 
+            "author": "Asif Mallik"
+        }, 
+        {
+            "date": "2014-02-10T09:28:00.730Z", 
+            "text": "I, and many other \"geeks\" use Prime95 to stress-test the CPU & RAM in new \ncomputer builds.\nVery interesting video! Thumbs up!\ufeff", 
+            "author": "William Lee"
+        }, 
+        {
+            "date": "2014-02-10T04:14:42.640Z", 
+            "text": "There are no \"real\" prime numbers because you can always halve a number, \ntherefore making it divisible by another number other than itself and 1.\ufeff", 
+            "author": "Mark Imperion"
+        }, 
+        {
+            "date": "2014-02-09T21:32:59.907Z", 
+            "text": "3^6-3 is divisible by 6.\ufeff", 
+            "author": "Jacob Landon"
+        }, 
+        {
+            "date": "2014-02-09T20:38:00.993Z", 
+            "text": "Factual error: There are 21853 Fermat pseudoprimes for base 2. The number \nquoted in the video is missing the digit 5 and thus underestimating by one \norder of magnitude (and just for reference, there are 2163 Carmichaels \nbelow 25*10^9).\ufeff", 
+            "author": "Peter Ko\u0161in\u00e1r"
+        }, 
+        {
+            "date": "2014-02-09T13:25:12.908Z", 
+            "text": "all that trouble because nobody checked divisibility for 341\ufeff", 
+            "author": "neil tristan yabut"
+        }, 
+        {
+            "date": "2014-02-09T09:32:24.343Z", 
+            "text": "I love this channel so fascinating, helps with our in class debates for my \nA-level.\ufeff", 
+            "author": "morgan Abbotts"
+        }, 
+        {
+            "date": "2014-02-09T03:15:15.012Z", 
+            "text": "I wish they would stop using sharpies. Their sound makes my skin crawl and \ngives me goosebumps.\ufeff", 
+            "author": "puppetmassster"
+        }, 
+        {
+            "date": "2014-02-09T02:29:43.546Z", 
+            "text": "Heehee! He's funny! \ud83d\ude04\n+Dan Fischbach\ufeff", 
+            "author": "Giovanni Cotonecoda"
+        }, 
+        {
+            "date": "2014-02-09T00:44:45.925Z", 
+            "text": "", 
+            "author": "Francisco Kurpiel"
+        }, 
+        {
+            "date": "2014-02-09T00:08:34.341Z", 
+            "text": "I love that 101101 is a Carmichael number and a palindrome.\ufeff", 
+            "author": "Fiona Marshall"
+        }, 
+        {
+            "date": "2014-02-08T17:52:44.861Z", 
+            "text": "How about a video about Miller-Rabin-Test?\ufeff", 
+            "author": "Alexander Kniep"
+        }, 
+        {
+            "date": "2014-02-08T10:43:56.365Z", 
+            "text": "he sure likes choc-ice\ufeff", 
+            "author": "Dan Rakich"
+        }, 
+        {
+            "date": "2014-02-08T06:58:33.800Z", 
+            "text": "What? I somehow guessed the number 30 for it but then you lost me.\ufeff", 
+            "author": "Sadochrist"
+        }, 
+        {
+            "date": "2014-02-07T22:35:42.648Z", 
+            "text": "The handsome $620 prize is ample reason to pursue a doctorate in \nmathematics, if you ask me.\ufeff", 
+            "author": "Bob Dole"
+        }, 
+        {
+            "date": "2014-02-12T02:21:24.495Z", 
+            "text": "You'll be spending a lot more money than 620 dollars to get through \ncollage, my friend.", 
+            "author": "WimsicleStranger"
+        }, 
+        {
+            "date": "2014-02-07T08:49:29.002Z", 
+            "text": "at the beginning he said, that 1 <= a <= p, but when he tested 561 for \nbeing a prime, the last test was 560^561 -560 =(congruent)= 0 (mod 561), \nwhere it should be done one more time for a = 561. it probably doesnt make \na difference and carmichael numbers are probably still what they are, but i \njust wanted to note, that those things dont match...\ufeff", 
+            "author": "Sachsen Schnitzel"
+        }, 
+        {
+            "date": "2014-02-07T08:23:31.578Z", 
+            "text": "1 is prime?! I thought it was neither\ufeff", 
+            "author": "neopalm2050"
+        }, 
+        {
+            "date": "2014-02-07T06:06:14.605Z", 
+            "text": "the video cuts off so soon after he says that there's a 100% percent \ntest... It feels like a cliff hanger.\ufeff", 
+            "author": "NijosoSefzaps"
+        }, 
+        {
+            "date": "2014-02-07T02:42:33.604Z", 
+            "text": "did andy say choco ice?\nim hiding a counter example , just waiting for the pot to grow larger.\ufeff", 
+            "author": "meterotronic"
+        }, 
+        {
+            "date": "2014-02-06T21:05:13.848Z", 
+            "text": "\"naughty\" lol\ufeff", 
+            "author": "Marc\u00edlio Mosco"
+        }, 
+        {
+            "date": "2014-02-06T20:41:18.388Z", 
+            "text": "Call it a Labour Party number\ufeff", 
+            "author": "06hurdwp"
+        }, 
+        {
+            "date": "2014-02-06T15:01:40.437Z", 
+            "text": "I put both of these numbers in my prime tester, which assumes that \nx^{p-1}%p == 1 and it identified them as composite \ufeff", 
+            "author": "Tyler Luke"
+        }, 
+        {
+            "date": "2014-02-06T12:34:33.733Z", 
+            "text": "In most programming languages a Sieve of Erathostenes is much faster and \n100% accurate prime test. And it can be optimized so for number 561 you \nonly need to check first 23 numbers (as this is a whole part of sqrt of \n561).\ufeff", 
+            "author": "Tihomir Juri\u0107"
+        }, 
+        {
+            "date": "2014-02-06T04:56:15.832Z", 
+            "text": "I see 616 everywhere and its been happening for over a year now and its \ndriving me crazy.\ufeff", 
+            "author": "Joe Pereira"
+        }, 
+        {
+            "date": "2014-02-06T03:22:33.513Z", 
+            "text": "That's more than enough prize-money to immortalize the accomplishment with \na tattoo.\ufeff", 
+            "author": "bronzenrule"
+        }, 
+        {
+            "date": "2014-02-05T22:45:39.170Z", 
+            "text": "Is this in MR2 or 3 at the CMS? Those desks seem awfully familiar!\ufeff", 
+            "author": "dedly13"
+        }, 
+        {
+            "date": "2014-02-05T19:44:14.232Z", 
+            "text": "\"620$, think about what you can do with that money, ooo. You can buy \nyourself a choc ice every day. Every day for a year. Twice on Sundays \"\ufeff", 
+            "author": "Jeremy Lakey"
+        }, 
+        {
+            "date": "2014-02-05T18:49:18.676Z", 
+            "text": "what is the test?\ufeff", 
+            "author": "Nikoli Heiser"
+        }, 
+        {
+            "date": "2014-02-05T18:12:22.174Z", 
+            "text": "what would you do for a Klondike bar? math.\n\ufeff", 
+            "author": "Apoc Sentinel"
+        }, 
+        {
+            "date": "2014-02-05T17:54:12.919Z", 
+            "text": "good one\ufeff", 
+            "author": "Neueregel"
+        }, 
+        {
+            "date": "2014-02-05T16:19:04.730Z", 
+            "text": "Thumbs up for the choc ice \ufeff", 
+            "author": "Robbie Sherman"
+        }, 
+        {
+            "date": "2014-02-05T13:18:25.220Z", 
+            "text": "One could even buy some Bailey's with that money.\n\n(get it?)\ufeff", 
+            "author": "tommiboy500"
+        }, 
+        {
+            "date": "2014-02-05T10:47:58.163Z", 
+            "text": "if you want to chick if a number is prime , it would be much easier to use \nthe definition:\n (n    is prime)    equivalent to     ((n/m) is not a natural number     \n 1<m<ceiling(n/2))\ufeff", 
+            "author": "Ghassen Mez"
+        }, 
+        {
+            "date": "2014-02-05T10:04:32.462Z", 
+            "text": " i am in love with this guy <3 and his accent too <3\ufeff", 
+            "author": "mia kablan"
+        }, 
+        {
+            "date": "2014-02-05T09:14:33.687Z", 
+            "text": "I like what you would spend your 620 dollars on lol.\ufeff", 
+            "author": "jacobrodrig8"
+        }, 
+        {
+            "date": "2014-02-05T06:03:48.758Z", 
+            "text": "Oooooh a choc ice ! :) :)\ufeff", 
+            "author": "Albert Neville"
+        }, 
+        {
+            "date": "2014-02-05T05:55:43.241Z", 
+            "text": "Yawn..... boring video\ufeff", 
+            "author": "noxy flex"
+        }, 
+        {
+            "date": "2014-02-05T03:28:59.692Z", 
+            "text": "var isPrime = function(num) {\nif(num < 2) return false;\nfor (var i = 2; i < num; i++) {\nif(num%i==0)\nreturn false;\n}\nreturn true;\n}\ufeff", 
+            "author": "123IGRACH"
+        }, 
+        {
+            "date": "2014-02-05T02:22:05.314Z", 
+            "text": "Thank you for bringing closed captions back, i've missed Numberphile!\ufeff", 
+            "author": "westforduk"
+        }, 
+        {
+            "date": "2014-02-05T02:20:29.152Z", 
+            "text": "twice on Sundays, oooooh.\ufeff", 
+            "author": "shoop da poop"
+        }, 
+        {
+            "date": "2014-02-05T02:04:49.000Z", 
+            "text": "So can you do a video explaining why Fermat's little theorem should work? \nI'm sure their are various proofs of course, but I'm trying to wrap my mind \naround why this should logically work in the first place.. it seems a bit \nstrange and amazing! Love the show keep up the great work!\ufeff", 
+            "author": "Tim Chorle"
+        }, 
+        {
+            "date": "2014-02-05T01:26:47.520Z", 
+            "text": "Whoops! I was waiting for him to proof Fermat's little ThroweM\ufeff", 
+            "author": "ThePotaToh"
+        }, 
+        {
+            "date": "2014-02-05T00:52:06.858Z", 
+            "text": "Nice haircut son\ufeff", 
+            "author": "Manvir Rai"
+        }, 
+        {
+            "date": "2014-02-04T23:17:18.290Z", 
+            "text": "", 
+            "author": "Cap'n Derpy"
+        }, 
+        {
+            "date": "2014-02-04T23:11:57.247Z", 
+            "text": "He such an awesome guy! Great video.\ufeff", 
+            "author": "Zw1d"
+        }
+    ]
+}
