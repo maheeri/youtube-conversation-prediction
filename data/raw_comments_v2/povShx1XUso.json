@@ -1,0 +1,893 @@
+{
+    "publish_date": "2014-11-15T00:24:44.000Z", 
+    "video_length": "PT4M48S", 
+    "captions": [
+        {
+            "text": "[Intro]", 
+            "dur": "1.42", 
+            "start": "1.16"
+        }, 
+        {
+            "text": "It shouldn&#39;t surprise you to hear that I think\nscience and the internet go fantastic together.", 
+            "dur": "7", 
+            "start": "2.58"
+        }, 
+        {
+            "text": "I mean, most of the time. Yeah, once a year\nor so, the internet tries to convince us that", 
+            "dur": "4.38", 
+            "start": "16.12"
+        }, 
+        {
+            "text": "the Yellowstone Supervolcano is going to explode\njust because some bison are running down a", 
+            "dur": "3.769", 
+            "start": "20.5"
+        }, 
+        {
+            "text": "road or something, and it did convince some\npeople that the world was gonna end in 2012,", 
+            "dur": "4.461", 
+            "start": "24.269"
+        }, 
+        {
+            "text": "but the internet is also why you have me.\nAnd it turns out that this thing that we are", 
+            "dur": "3.36", 
+            "start": "28.73"
+        }, 
+        {
+            "text": "using here together is surprisingly good at\nmonitoring the health of our species.", 
+            "dur": "4.52", 
+            "start": "32.09"
+        }, 
+        {
+            "text": "According to new research published this week,\npublic health officials have been able to", 
+            "dur": "3.94", 
+            "start": "36.61"
+        }, 
+        {
+            "text": "accurately track and even predict the spread\nof diseases by studying how often those diseases", 
+            "dur": "5.48", 
+            "start": "40.55"
+        }, 
+        {
+            "text": "have been looked up on Wikipedia. Scientists\nat Los Alamos National Laboratory were able", 
+            "dur": "4.349", 
+            "start": "46.03"
+        }, 
+        {
+            "text": "to successfully monitor influenza outbreaks\nin the United States, Poland, Japan, and Thailand,", 
+            "dur": "5.381", 
+            "start": "50.379"
+        }, 
+        {
+            "text": "as well as Dengue Fever in Brazil by monitoring\nthe number of views received by pages related", 
+            "dur": "4.709", 
+            "start": "55.76"
+        }, 
+        {
+            "text": "to those diseases. The team was also able\nto forecast half of the outbreaks they studied", 
+            "dur": "4.731", 
+            "start": "60.469"
+        }, 
+        {
+            "text": "at least 28 days in advance. The results suggest\nthat people start researching the diseases", 
+            "dur": "4.44", 
+            "start": "65.2"
+        }, 
+        {
+            "text": "online when they, or people they know, begin\nto show symptoms, but before they get medical", 
+            "dur": "5.05", 
+            "start": "69.64"
+        }, 
+        {
+            "text": "attention. Scientists were able to track Wikipedia\nsearches, thanks to the site&#39;s open source", 
+            "dur": "3.61", 
+            "start": "74.69"
+        }, 
+        {
+            "text": "access logs. These logs show how many times\na page is view an hour and in what language.", 
+            "dur": "5.39", 
+            "start": "78.3"
+        }, 
+        {
+            "text": "So, for example, since the majority of people\nwho speak Thai live in Thailand, scientists", 
+            "dur": "4.14", 
+            "start": "83.69"
+        }, 
+        {
+            "text": "could monitor the access log for the Thai\npage for influenza and get a sense of the", 
+            "dur": "5.08", 
+            "start": "87.83"
+        }, 
+        {
+            "text": "disease&#39;s prevalence there. They also monitored\npages having to do with specific symptoms,", 
+            "dur": "3.67", 
+            "start": "92.91"
+        }, 
+        {
+            "text": "like chills, fever, and headache. Then, they\naggregated all of this data into a computer", 
+            "dur": "4.21", 
+            "start": "96.58"
+        }, 
+        {
+            "text": "model and compared it with the actual weekly\nreports of seven diseases in nine countries.", 
+            "dur": "4.71", 
+            "start": "100.79"
+        }, 
+        {
+            "text": "Their method worked particularly well in countries\nthat spoke a single language that wasn&#39;t spoken", 
+            "dur": "4.46", 
+            "start": "105.5"
+        }, 
+        {
+            "text": "in other countries, like Thailand or Poland,\nbut it also worked well in tracking influenza", 
+            "dur": "4.35", 
+            "start": "109.96"
+        }, 
+        {
+            "text": "in the US and Dengue Fever in Brazil, which\nsurprised the scientists, because those countries", 
+            "dur": "4.63", 
+            "start": "114.31"
+        }, 
+        {
+            "text": "use two of the most commonly spoken languages,\nEnglish and Portuguese. They think that their", 
+            "dur": "3.94", 
+            "start": "118.94"
+        }, 
+        {
+            "text": "predictions still worked because the US dominates\nthe English speaking internet landscape, while", 
+            "dur": "4.4", 
+            "start": "122.88"
+        }, 
+        {
+            "text": "Brazil is the only Portuguese speaking country\nthat has Dengue. As you can probably guess,", 
+            "dur": "4.1", 
+            "start": "127.28"
+        }, 
+        {
+            "text": "we are still a long way from the internet\nbeing able to predict our next public health", 
+            "dur": "3.12", 
+            "start": "131.38"
+        }, 
+        {
+            "text": "crisis for us. Not only are there problems\nwith using language as a proxy for nationality,", 
+            "dur": "4.81", 
+            "start": "134.5"
+        }, 
+        {
+            "text": "but more importantly, the model can only track\npeople who have internet access, and by some", 
+            "dur": "4.46", 
+            "start": "139.31"
+        }, 
+        {
+            "text": "estimates, that&#39;s only about 35% of the world&#39;s\npopulation. Plus, the monitoring only worked", 
+            "dur": "3.52", 
+            "start": "143.77"
+        }, 
+        {
+            "text": "for diseases that develop quickly and tend\nto appear in seasonal cycles. So while it", 
+            "dur": "4.26", 
+            "start": "147.29"
+        }, 
+        {
+            "text": "was effective at tracking influenza and Dengue,\nit was of no help in forecasting rates of", 
+            "dur": "3.9", 
+            "start": "151.55"
+        }, 
+        {
+            "text": "Tuberculosis or HIV infections. Still, the\nstudy is yet another step toward harnessing", 
+            "dur": "4.47", 
+            "start": "155.45"
+        }, 
+        {
+            "text": "the power of the internet for the aims of\nscience, and it&#39;s always good to see those", 
+            "dur": "4.26", 
+            "start": "159.92"
+        }, 
+        {
+            "text": "two gettin&#39; along.", 
+            "dur": "1.02", 
+            "start": "164.18"
+        }, 
+        {
+            "text": "Alright, now, if you&#39;re like us, few things\nthrill you more than finding really old dead", 
+            "dur": "4.11", 
+            "start": "165.2"
+        }, 
+        {
+            "text": "things, especially if they&#39;re frozen. And\nif that&#39;s the case, you were probably as excited", 
+            "dur": "3.74", 
+            "start": "169.31"
+        }, 
+        {
+            "text": "as we were when the news came about the Yukagir\nMummy, the most complete, naturally preserved", 
+            "dur": "4.98", 
+            "start": "173.05"
+        }, 
+        {
+            "text": "bison ever found. First discovered in 2011\nin the permafrost of Eastern Siberia, the", 
+            "dur": "5.4", 
+            "start": "178.03"
+        }, 
+        {
+            "text": "mummy is a 9000 year old Steppe Bison, a species\nthat became extinct at the end of the last", 
+            "dur": "5.2", 
+            "start": "183.43"
+        }, 
+        {
+            "text": "Ice Age. Its organs are almost fully preserved\nand include a heart and stomach, lungs, intestines,", 
+            "dur": "5.91", 
+            "start": "188.63"
+        }, 
+        {
+            "text": "and a brain. He still has fur and a tail and\neven the tips of his little ears. An autopsy", 
+            "dur": "5.15", 
+            "start": "194.54"
+        }, 
+        {
+            "text": "performed by Russian researchers showed that\nthe bison died when he was about four years", 
+            "dur": "4.48", 
+            "start": "199.69"
+        }, 
+        {
+            "text": "old, and that he had very low body fat, suggesting\nhe may have starved to death. But Yukagir", 
+            "dur": "4.399", 
+            "start": "204.17"
+        }, 
+        {
+            "text": "is not the first bison mummy scientists have\ndiscovered.", 
+            "dur": "2.791", 
+            "start": "208.569"
+        }, 
+        {
+            "text": "There are actually four of them, including\na 36,000 year old specimen unearthed by Alaskan", 
+            "dur": "4.98", 
+            "start": "211.36"
+        }, 
+        {
+            "text": "gold miners during the 1970s. But all of these\nmummies were either scavenged by animals or", 
+            "dur": "4.97", 
+            "start": "216.34"
+        }, 
+        {
+            "text": "partly destroyed by the freezing and thawing.\nBut Yukagir wasn&#39;t, so the data that we&#39;ll", 
+            "dur": "4.54", 
+            "start": "221.31"
+        }, 
+        {
+            "text": "glean from him will help us better understand\nall kinds of things about the long-gone Steppe", 
+            "dur": "4.7", 
+            "start": "225.85"
+        }, 
+        {
+            "text": "Bison, from what they ate, to what parasites\nthey carried, to where they roamed. And yes,", 
+            "dur": "4.88", 
+            "start": "230.55"
+        }, 
+        {
+            "text": "I know you&#39;re wondering, so I&#39;ll tell you\nthat researchers have gotten fragments of", 
+            "dur": "3.779", 
+            "start": "235.43"
+        }, 
+        {
+            "text": "DNA from the bison&#39;s hair, which will help\nclarify how Steppe Bison are related to modern-day", 
+            "dur": "4.721", 
+            "start": "239.209"
+        }, 
+        {
+            "text": "bison and cattle. But in case you&#39;re having\ndreams of riding a Steppe Bison in some futuristic", 
+            "dur": "4.65", 
+            "start": "243.93"
+        }, 
+        {
+            "text": "Pleistocene theme park, there are no plans\nto use that DNA to bring the Steppe Bison", 
+            "dur": "4.62", 
+            "start": "248.58"
+        }, 
+        {
+            "text": "back through a process known as resurrection\nbiology, or de-extinction.", 
+            "dur": "4.58", 
+            "start": "253.2"
+        }, 
+        {
+            "text": "So I&#39;m sorry to burst that particular bubble,\nbut thank you for joining me here on SciShow", 
+            "dur": "4.84", 
+            "start": "257.78"
+        }, 
+        {
+            "text": "News. If you want to help us share science\nwith the world, which we couldn&#39;t do without", 
+            "dur": "3.81", 
+            "start": "262.62"
+        }, 
+        {
+            "text": "support from people like you, you can become\na supporting subscriber at Subbable.com/SciShow,", 
+            "dur": "5.14", 
+            "start": "266.43"
+        }, 
+        {
+            "text": "and if you just want to keep getting smarter\nwith us, you can go to YouTube.com/SciShow", 
+            "dur": "3.9", 
+            "start": "271.57"
+        }, 
+        {
+            "text": "and subscribe.", 
+            "dur": "7", 
+            "start": "275.47"
+        }
+    ], 
+    "title": "Arctic Bison Mummy!", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0yq3q1b", 
+        "/m/01gm6", 
+        "/m/07kcclw"
+    ], 
+<<<<<<< HEAD
+    "number_views": 244144, 
+=======
+    "number_views": 244148, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-18T10:36:37.996Z", 
+            "text": "Bring Back the Bison; BBB!!!\ufeff", 
+            "author": "Capt777harris"
+        }, 
+        {
+            "date": "2015-03-15T08:49:24.159Z", 
+            "text": "So it's a steppe mummy?\ufeff", 
+            "author": "KlxGreenhornet"
+        }, 
+        {
+            "date": "2015-03-06T21:45:39.269Z", 
+            "text": "Autopsy is not the best choice of word to describe what was done to the \nbison, it would be necopsy.\n\" There is not anything different between an autopsy and a necropsy other \nthan who or what is being examined. It is the same procedure, just \ndifferent terminology. Autopsies refer to humans, and necropsies deal with \nanimals.\" - from \nhttp://veterinary.answers.com/veterinary-medicine/necropsy-versus-autopsy-similarities-and-differences\n\ufeff", 
+            "author": "Sarah Jane"
+        }, 
+        {
+            "date": "2015-03-04T19:57:03.328Z", 
+            "text": "save the steppe bison! vote for De-extinction!\ufeff", 
+            "author": "GameSquid (Florian Himsl)"
+        }, 
+        {
+            "date": "2015-01-10T04:08:13.997Z", 
+            "text": "Good luck with malaysia we talk like four different languages\ufeff", 
+            "author": "Maxwell Chng"
+        }, 
+        {
+            "date": "2015-01-04T16:55:15.777Z", 
+            "text": "I don't think we should bring animals back that went extinct naturally. But \nI do think we should bring animals back that went extinct because of human \nactivity and we should reintroduce them into the ecosystem they were \nnaturally from. \ufeff", 
+            "author": "QueenofAntarctica"
+        }, 
+        {
+            "date": "2014-12-22T01:52:31.254Z", 
+            "text": "Anyone else notice the wrinkles in his shit? :/\ufeff", 
+            "author": "BlameBarky"
+        }, 
+        {
+            "date": "2014-12-21T04:16:51.845Z", 
+            "text": "I wonder if now that a lot of people know that Wikepedia is being monitored \nfor disease, people are going to start trolling by setting it to different \nlanguages and searching that stuff every day. Like what if they thought \nthat there'd be a break out of some disease somewhere in poland when in \nreality it's just some guy in front of his computer.\ufeff", 
+            "author": "TroutOfOrder"
+        }, 
+        {
+            "date": "2014-12-16T21:00:36.015Z", 
+            "text": "Thailand has only one language? Really? Definitely not. Just one official \none, maybe.\ufeff", 
+            "author": "joelproko"
+        }, 
+        {
+            "date": "2014-12-01T20:10:01.127Z", 
+            "text": "Did they predict this Ebola outbreak? \ufeff", 
+            "author": "lord77tyr"
+        }, 
+        {
+            "date": "2014-12-01T01:57:24.334Z", 
+            "text": "everyone google gonorrhea to mess with those scientists \ufeff", 
+            "author": "Justin Xu"
+        }, 
+        {
+            "date": "2014-11-30T19:48:11.570Z", 
+            "text": "Did he say 28 days? Coincidence? I think not!\ufeff", 
+            "author": "blazebluebass"
+        }, 
+        {
+            "date": "2014-11-29T19:13:23.629Z", 
+            "text": "Would riding a Steppe Bison be more or less harmful to the environment? \nRemember methane is a stronger greenhouse gas than co2.\ufeff", 
+            "author": "Gamesman01"
+        }, 
+        {
+            "date": "2014-11-28T02:46:33.883Z", 
+            "text": "When I was in fourth grade this woman always brought her son into our \nclass, and she said he had tuberculosis... Isn't that extremely dangerous!? \nIf there is any relevant data, can you please share an episode discussing \nthis.\ufeff", 
+            "author": "taylor lee"
+        }, 
+        {
+            "date": "2014-12-27T18:37:49.211Z", 
+            "text": "Oh okay. I was hoping for a lawsuit haha. He always seemed ill, and she had \nto feed him or pat his back or something quite regularly.", 
+            "author": "taylor lee"
+        }, 
+        {
+            "date": "2014-12-27T17:41:59.568Z", 
+            "text": "If he has active TB, yes it is dangerous. If he is just exposed, marked \npositive, and on meds, it's not dangerous. When I was about five or six I \nwas exposed, marked positive, and had to take meds for a year. And now I \nstill show up as positive in a blood test, but I don't actually have active \nTB.", 
+            "author": "Jaya N.S."
+        }, 
+        {
+            "date": "2014-11-27T22:34:52.953Z", 
+            "text": "Usually you guys are both faster and more accurate than D-news. But in this \ncase you are like a week behind\ufeff", 
+            "author": "thegreeenbeast"
+        }, 
+        {
+            "date": "2014-11-27T14:39:49.458Z", 
+            "text": "...Internet...laptop...minecraft...\ufeff", 
+            "author": "J Ciliento"
+        }, 
+        {
+            "date": "2014-11-26T06:36:27.126Z", 
+            "text": "Anybody else read the title as Arctic Bison Yummy?\ufeff", 
+            "author": "Terncote"
+        }, 
+        {
+            "date": "2014-11-26T02:00:41.567Z", 
+            "text": "Humans will one day utilize much better mechanisms to pinpoint diseases. \nArctic Bison, a fascinating specimen.\ufeff", 
+            "author": "Youniverous"
+        }, 
+        {
+            "date": "2014-11-25T20:54:41.793Z", 
+            "text": "So you're telling me you can ressurect something without cloning? Time to \nfind some dragon dna.\ufeff", 
+            "author": "FishZilla :D"
+        }, 
+        {
+            "date": "2014-11-26T16:25:36.000Z", 
+            "text": "+I see Cows For someone with a humurous name like \"I see Cows\" you're \npretty lame .-.\n\nTake a good look at my name and profile pic, you think I'll ever say \nanything serious?", 
+            "author": "FishZilla :D"
+        }, 
+        {
+            "date": "2014-11-26T05:38:19.389Z", 
+            "text": "Dragons never existed.", 
+            "author": "I see Cows"
+        }, 
+        {
+            "date": "2014-11-24T23:56:06.007Z", 
+            "text": "Then the fire nation attacked.\ufeff", 
+            "author": "Explicit Tech"
+        }, 
+        {
+            "date": "2014-11-24T00:53:05.958Z", 
+            "text": "Arctic Bison Mummy!: http://youtu.be/povShx1XUso\ufeff", 
+            "author": "Juris Sudmalis"
+        }, 
+        {
+            "date": "2014-11-23T12:13:55.109Z", 
+            "text": "can you do a video on adenosine diphosphate and adenosine triphosphate? \ufeff", 
+            "author": "Emerald Emperor"
+        }, 
+        {
+            "date": "2014-12-08T04:23:36.380Z", 
+            "text": "If you have any questions I can try to answer them. Getting my PhD in \nMolecular Biology.", 
+            "author": "Cranopsis"
+        }, 
+        {
+            "date": "2014-11-23T04:47:31.670Z", 
+            "text": "One time we moved a painting from a wall when we were moving, and there \nwas, like, a dead, white, decomposing fly behind it. I was not happy when I \nsaw it.\ufeff", 
+            "author": "teledoor24"
+        }, 
+        {
+            "date": "2014-11-22T17:18:06.347Z", 
+            "text": "still waiting on that mammoth \ufeff", 
+            "author": "Max Atwood"
+        }, 
+        {
+            "date": "2014-11-22T09:00:27.084Z", 
+            "text": "Thought it said \"Artistic Bison Mommy\"...got excited =\\\ufeff", 
+            "author": "PalBokEe503"
+        }, 
+        {
+            "date": "2014-11-21T19:24:36.035Z", 
+            "text": "Seriously?  Why would you call it an autopsy?  That VERY seriously makes me \nwonder about all the other cool things you tell us.  Why in the world would \nyou not use the correct term?  An investigative dissection of an animal by \na human is a NECROPSY.  It's only an autopsy if you're dissecting a human \nbeing.\ufeff", 
+            "author": "Bill Wilson"
+        }, 
+        {
+            "date": "2014-11-21T03:25:54.030Z", 
+            "text": "WHAT!?! Why aren't they bringing back the stepe Bison!?! It would be \namazing. \ufeff", 
+            "author": "The Gaming Prince"
+        }, 
+        {
+            "date": "2014-11-21T02:48:19.891Z", 
+            "text": "Iron your shirt hank\ufeff", 
+            "author": "Duvon Lawrence"
+        }, 
+        {
+            "date": "2014-11-20T22:57:06.168Z", 
+            "text": "I am slightly disappointed that there was no Appa joke when talking about \nfrozen bison\ufeff", 
+            "author": "Maia Al"
+        }, 
+        {
+            "date": "2014-11-20T22:47:01.037Z", 
+            "text": "Idea: Public Health should have a \"How do you feel today\" site, which would \noffer some suggestions based on the responses, and then could also be used \nto monitor things directly, as talked about in the video.\ufeff", 
+            "author": "GetMeThere1"
+        }, 
+        {
+            "date": "2014-11-20T11:52:36.949Z", 
+            "text": "Normally Hanks hair is pretty good, but the haircut or style he got before \nrecording this episode is awful.\ufeff", 
+            "author": "Maxwell Rice"
+        }, 
+        {
+            "date": "2014-11-20T05:12:23.000Z", 
+            "text": "If the Media would monitor Scientists field studies, they would be able \nto share with the public details about the American Ash tree extinction \nevent taking place. Today Scientists who learned more about Emerald Ash \nBorer than any other bug in history, and within the shortest amount of time \nnow have the unprecedented chance to study detrimental health effects when \nan ecosystem's \"Keystone\" species producing most cover of Green seen from \nspace quickly disappears (Extent) within a short 12 year timespan. Should \nwe ask people to stop farting to preserve our now fragile air quality? \nScottie Ash seed.\ufeff", 
+            "author": "CONCERTMANchicago"
+        }, 
+        {
+            "date": "2014-11-20T01:24:23.403Z", 
+            "text": "I am a big fan of the vlog brothers. I am interested in getting in contact \nwith the group in order to evaluate the possible creation of a veterinary \nmedicine science show or episodes.\ufeff", 
+            "author": "Marianne Parent"
+        }, 
+        {
+            "date": "2014-11-19T17:18:39.383Z", 
+            "text": "One small critique of the script: is a post-mortem examination of an animal \nnot called a necropsy, rather than an autopsy?\ufeff", 
+            "author": "Carmen McLellan"
+        }, 
+        {
+            "date": "2014-11-19T03:54:00.420Z", 
+            "text": "Can you please do an episode on battery recycling and the dangers of not \ndoing so please?  \ufeff", 
+            "author": "Shane Valcich"
+        }, 
+        {
+            "date": "2014-11-19T03:00:58.199Z", 
+            "text": "But the Wikipedia this is defiantly not complete accurate I mean think of \nhow many people have wikipediad Ebola even tho it is the least of our \nproblems\ufeff", 
+            "author": "Connor McIntyre"
+        }, 
+        {
+            "date": "2014-11-19T01:13:41.313Z", 
+            "text": "According to the very same Wikipedia, dengue fever is epidemic in Angola \nand Mozambique, two other countries where Portuguese is spoken.\ufeff", 
+            "author": "RickySTT"
+        }, 
+        {
+            "date": "2014-11-18T19:40:45.381Z", 
+            "text": "how do rockets work in the vacuum of space?\ufeff", 
+            "author": "Jacob Mcadams"
+        }, 
+        {
+            "date": "2014-11-18T16:40:18.838Z", 
+            "text": "wikipedia would fail at the ebola \"outbreak\" in apparently everywhere.\ufeff", 
+            "author": "cant choose name"
+        }, 
+        {
+            "date": "2014-11-18T14:25:16.087Z", 
+            "text": "OVER 9000 year old steppe bison\ufeff", 
+            "author": "Joshua Stambaugh"
+        }, 
+        {
+            "date": "2014-11-18T04:56:38.832Z", 
+            "text": "They spelled arctic wrong...\n\ufeff", 
+            "author": "Adam Duong"
+        }, 
+        {
+            "date": "2014-11-18T04:14:03.756Z", 
+            "text": "You should cover the oldest infant remains found in Alaska on the Tanana \nriver! Also, it was super cool to see Blue Babe from UAF (University of \nAlaska Fairbanks) on the show!\ufeff", 
+            "author": "David Leslie"
+        }, 
+        {
+            "date": "2014-11-18T03:35:05.966Z", 
+            "text": "why wouldnt there be anny plans to bring this animal back? what if we could \neat bison and it would be beneficial to the industrial world to add a new \nform of cattle, or whatever? sorry, guys, i'm humbly asking here cause i'm \nclueless. anybody have any idea?\ufeff", 
+            "author": "benjamin hidalgo"
+        }, 
+        {
+            "date": "2014-11-18T04:29:02.652Z", 
+            "text": "if it's anything like buffalo it's pretty darn delicious!!!", 
+            "author": "threeredstars"
+        }, 
+        {
+            "date": "2014-11-18T03:15:15.197Z", 
+            "text": "Is it edible?\ufeff", 
+            "author": "Revolucas"
+        }, 
+        {
+            "date": "2014-11-18T01:56:57.506Z", 
+            "text": "I'm resubscribed!\ufeff", 
+            "author": "Nick/Andy Blauz"
+        }, 
+        {
+            "date": "2014-11-18T01:38:02.839Z", 
+            "text": "I can imagine it now (drifts off)\nNow I welcome you to bison park (music starts playing) \ufeff", 
+            "author": "miller repin"
+        }, 
+        {
+            "date": "2014-11-17T21:33:39.424Z", 
+            "text": "He mentioned Poland!! Yeah!!!! JAK SIE MASZ BITCHES\ufeff", 
+            "author": "FeeshGroup"
+        }, 
+        {
+            "date": "2014-11-17T20:46:35.559Z", 
+            "text": "THE WORLD IS ONLY 6000 YEARS OLD HOW THE HELL CAN A BISON BE \n9000!!!!!!!!!!!!!!!!!!!!\ufeff", 
+            "author": "Shail Patel"
+        }, 
+        {
+            "date": "2014-11-17T19:42:02.234Z", 
+            "text": "In East Timor they have dengue and speak portuguese as well...\ufeff", 
+            "author": "Nave4x4"
+        }, 
+        {
+            "date": "2014-11-17T18:50:40.065Z", 
+            "text": "Are we actually more attractive in the mirror than we are in real life \ufeff", 
+            "author": "brianna Mack"
+        }, 
+        {
+            "date": "2014-11-17T18:40:54.374Z", 
+            "text": "Why is it that when we are nervous we feel a hollow sensation in our chest \nor stomach when it is the brain that feels the emotion??\ufeff", 
+            "author": "Samyukta Kartha"
+        }, 
+        {
+            "date": "2014-11-17T18:27:53.578Z", 
+            "text": "you guys should do a video on why restarting the router makes the internet \nworks again\ufeff", 
+            "author": "Ripster Hipster"
+        }, 
+        {
+            "date": "2014-11-17T16:03:59.588Z", 
+            "text": "Why are all snowflakes different and how do we know?\ufeff", 
+            "author": "sarah pecaro"
+        }, 
+        {
+            "date": "2014-11-17T13:21:40.657Z", 
+            "text": "Find 9,000 year old Steppe Bison mummy: CUT IT UP! xD\ufeff", 
+            "author": "Myles Prower"
+        }, 
+        {
+            "date": "2014-11-17T11:39:31.567Z", 
+            "text": "Clone it I want bison for dinner\ufeff", 
+            "author": "James Bond"
+        }, 
+        {
+            "date": "2014-11-17T08:08:25.465Z", 
+            "text": "A...bisexual step son?\ufeff", 
+            "author": "Kodeine Skar"
+        }, 
+        {
+            "date": "2014-11-17T04:37:47.541Z", 
+            "text": "Does turning the faucet on make peeing easier?\ufeff", 
+            "author": "dannydude21"
+        }, 
+        {
+            "date": "2014-11-17T03:20:23.584Z", 
+            "text": "35% of the worlds population has internet access. that's purdy good. :) \nalright.\ufeff", 
+            "author": "metalhead420fuq"
+        }, 
+        {
+            "date": "2014-11-17T01:53:58.287Z", 
+            "text": "What's an \"itch\" and why do we get them?\ufeff", 
+            "author": "Riley Herondale"
+        }, 
+        {
+            "date": "2014-11-17T01:14:43.137Z", 
+            "text": "OMG you call them bison and not (the incorrect) buffalo - how cool!\ufeff", 
+            "author": "Billy Sugger"
+        }, 
+        {
+            "date": "2014-11-17T00:03:06.361Z", 
+            "text": "How cool would that be though if they did resurrect the Steppe Bison. \nHumans are far better at making species go extinct though humans have \nbrought species back from extinction how cool would it be that we could +1 \na species.\ufeff", 
+            "author": "Adam Warlock"
+        }, 
+        {
+            "date": "2014-11-16T23:41:24.002Z", 
+            "text": "Anyone else instantly think of the movie The Thaw?\ufeff", 
+            "author": "Matt Helton"
+        }, 
+        {
+            "date": "2014-11-16T23:23:10.049Z", 
+            "text": "1:50 dat voice crack do\ufeff", 
+            "author": "rodrick160"
+        }, 
+        {
+            "date": "2014-11-16T20:38:38.436Z", 
+            "text": "so basically everyone who looks for ebola on wikipedia has it \nautomatically? now that's what i call a computer virus.\ufeff", 
+            "author": "ThibautVDP"
+        }, 
+        {
+            "date": "2014-11-16T19:51:58.824Z", 
+            "text": "How long does food take to go from your mouth to out the other end?\ufeff", 
+            "author": "Saul Schaffer"
+        }, 
+        {
+            "date": "2014-11-17T00:46:31.182Z", 
+            "text": "I think 3 days. that's what I heard, but I don't know for sure.", 
+            "author": "CanadianRM4"
+        }, 
+        {
+            "date": "2014-11-16T19:37:07.815Z", 
+            "text": "YOU are also a step toward the harnessing the power of the internet for the \naims of science :-D\ufeff", 
+            "author": "Thomas Weber"
+        }, 
+        {
+            "date": "2014-11-16T19:16:22.510Z", 
+            "text": "I noticed a weird effect with Hank's glasses and the green screen.\ufeff", 
+            "author": "Eetu Rantakangas"
+        }, 
+        {
+            "date": "2014-11-16T18:59:34.411Z", 
+            "text": "QQ: How well can a human live without the frontal lobe? Inspired by Five \nNights at Freddy's.\ufeff", 
+            "author": "SaSa \u201cpokegeek151\u201d Kovel"
+        }, 
+        {
+            "date": "2014-11-16T18:53:59.981Z", 
+            "text": "I was looking for a name for my death metal band, and after reading the \ntitle, my search is over!\ufeff", 
+            "author": "IvaNiftyChannel"
+        }, 
+        {
+            "date": "2014-11-19T04:24:47.323Z", 
+            "text": "You'll have to share the name with my psychedelic klezmer band . Perhaps \none of us can use \" The Arctic Bison Mummies \" to avoid confusion .", 
+            "author": "padgett parker"
+        }, 
+        {
+            "date": "2014-11-16T17:48:34.718Z", 
+            "text": "How do we get headaches?\ufeff", 
+            "author": "Jamie Hernandez"
+        }, 
+        {
+            "date": "2014-11-16T17:44:27.741Z", 
+            "text": "28 days later... that was a good movie...\ufeff", 
+            "author": "Awesome Turtle"
+        }, 
+        {
+            "date": "2014-11-16T17:34:32.241Z", 
+            "text": "If the universe is constantly expanding, what's it expanding into?\ufeff", 
+            "author": "Grace Russell"
+        }, 
+        {
+            "date": "2014-11-16T16:54:12.267Z", 
+            "text": "Dang it would be awesome to ride a stepee bison\ufeff", 
+            "author": "The CuriousMudkip"
+        }, 
+        {
+            "date": "2014-11-16T16:54:33.000Z", 
+            "text": "I'm guessing there are some filters for hypochondriacs and silly people.\nThat Bison's name sounds like someone coughed while attempting to say \nanother name.\ufeff", 
+            "author": "fartzinwind"
+        }, 
+        {
+            "date": "2014-11-16T16:01:39.251Z", 
+            "text": "Wouldn't that Wikipedia disease prediction program have shown a massive \noutbreak of Ebola in the US when that hit the news?\ufeff", 
+            "author": "scjones25"
+        }, 
+        {
+            "date": "2015-03-30T03:49:43.400Z", 
+            "text": "No, it wouldn't, because the searches would not be geographically \nconcentrated.  In statistics, it is easy to determine what the 'normal \nlevel' of some activity is, and even if it goes up, if it goes up all over \nit will have no effect on analysis aimed at finding clusters of \nhigher-than-normal searches.", 
+            "author": "Dustin Rodriguez"
+        }, 
+        {
+            "date": "2014-12-09T00:58:53.716Z", 
+            "text": "10 people, 9 of which survived Ebola, that's not a massive outbreak. Also \nhe explained that its based on language, and most people from Africa don't \nhave internet connections.", 
+            "author": "MrBikerJesus"
+        }, 
+        {
+            "date": "2014-11-16T15:29:34.886Z", 
+            "text": "SciShow News explains how Wikipedia has been used to track, and even \npredict, outbreaks of disease all over the world, and then introduces you \nto the most complete naturally mummified bison ever found.\ufeff", 
+            "author": "Paul Beavers"
+        }, 
+        {
+            "date": "2014-11-16T15:22:01.185Z", 
+            "text": "I don't believe we should try and bring long-extinct species back. Their \ntime on earth has passed, and it would upset the balance of the ecosystem \nin ways we cannot predict.\ufeff", 
+            "author": "Wh40kFinatic"
+        }, 
+        {
+            "date": "2014-11-16T15:08:39.816Z", 
+            "text": "I have a question for the sci-show crew; how come when your fingers (or any \nbody part) get cold and then warn again, it hurts?\ufeff", 
+            "author": "Dahm_you37"
+        }, 
+        {
+            "date": "2014-11-16T11:47:43.133Z", 
+            "text": "Iron your shirt would you? \ufeff", 
+            "author": "Karol Madetko"
+        }, 
+        {
+            "date": "2014-11-16T08:26:22.488Z", 
+            "text": "Iron your shirt Hank, cmon....\ufeff", 
+            "author": "TheBadstar4"
+        }, 
+        {
+            "date": "2014-11-16T08:02:37.992Z", 
+            "text": "I have a great idea for your next topic. : The science of movie \nINTERSTELLAR\ufeff", 
+            "author": "Aditya Ravishankar"
+        }, 
+        {
+            "date": "2014-11-16T07:50:52.000Z", 
+            "text": "But that means everyone in America has Ebola.\ufeff", 
+            "author": "TheUltimoSniper"
+        }, 
+        {
+            "date": "2014-11-16T07:50:04.577Z", 
+            "text": "Darn it, I thought they would bring the bison to live.\ufeff", 
+            "author": "Alexander Goo Zong Han"
+        }, 
+        {
+            "date": "2014-11-16T07:48:32.158Z", 
+            "text": "It would be a necropsy, not an autopsy. Unless it was another steppe bison \nperforming the procedure.\ufeff", 
+            "author": "Shaun Todd"
+        }, 
+        {
+            "date": "2014-11-16T07:32:36.812Z", 
+            "text": "2:56 I realised it was a mummified bison, not a mother bison... I'm an \nidiot\ufeff", 
+            "author": "Kim"
+        }, 
+        {
+            "date": "2014-11-16T06:23:00.794Z", 
+            "text": "I know it's picky but it's Necropsy not \"Autopsy\".\ufeff", 
+            "author": "bobert4him"
+        }, 
+        {
+            "date": "2014-11-16T06:10:04.731Z", 
+            "text": "Hank's shirt is quite wrinkly. \ufeff", 
+            "author": "Lord Pifferdoo"
+        }, 
+        {
+            "date": "2014-11-16T04:51:10.895Z", 
+            "text": "Why do my tastebuds constantly die?\ufeff", 
+            "author": "xxlegitXxXtaco"
+        }, 
+        {
+            "date": "2014-11-16T04:35:50.675Z", 
+            "text": "meh, I won't be excited about frozen bison unless they find one that has 6 \nlegs.and could fly  \ufeff", 
+            "author": "Pyrguiin Y"
+        }, 
+        {
+            "date": "2014-11-16T04:30:00.272Z", 
+            "text": "is there any actual research being conducted to resurrect ice age species? \ni know D.N.A degrades if it's to ancient but i think Smilodons and Mammots \nare not ancient enough yet to have all their existing D.N.A rotten\ufeff", 
+            "author": "Leandro Benitez"
+        }, 
+        {
+            "date": "2014-11-16T03:46:54.586Z", 
+            "text": "Defund NASA! Fund Jurassic Park!\nI want to ride a Steppe Bison.\ufeff", 
+            "author": "UniversalPotentate"
+        }, 
+        {
+            "date": "2014-11-16T01:52:16.214Z", 
+            "text": "So google knows that i watch rape porn and ask how to get away with rape?\ufeff", 
+            "author": "lirim hasani"
+        }, 
+        {
+            "date": "2014-11-21T12:55:49.262Z", 
+            "text": "+thomas weitgraven but if they know every thing...does it mean they \nare....GOD!!!!", 
+            "author": "lirim hasani"
+        }, 
+        {
+            "date": "2014-11-20T22:00:50.836Z", 
+            "text": "Yes they know everything EVERYTHING I TELL YOU!!!", 
+            "author": "thomas weitgraven"
+        }, 
+        {
+            "date": "2014-11-16T01:18:03.719Z", 
+            "text": "Is there another earth in the universe?\ufeff", 
+            "author": "AC rox1"
+        }, 
+        {
+            "date": "2014-11-16T00:52:51.108Z", 
+            "text": "#WMAQ #FAQ #QQ # QOTD Why can you feel the sun's heat even though its far \naway from earth?\ufeff", 
+            "author": "Wilton Sylvestre III"
+        }, 
+        {
+            "date": "2014-11-15T23:51:10.201Z", 
+            "text": "why do we get dizzy?\ufeff", 
+            "author": "penguin82875"
+        }, 
+        {
+            "date": "2014-11-15T22:17:18.536Z", 
+            "text": "based on wikipedia lookups researchers would think the US has ebola\ufeff", 
+            "author": "Oscar Mercado"
+        }, 
+        {
+            "date": "2014-11-15T22:10:37.471Z", 
+            "text": "Love your videos man, but make sure to iron your shirts once in a while!\ufeff", 
+            "author": "quiteindecisive"
+        }, 
+        {
+            "date": "2014-11-15T21:52:27.945Z", 
+            "text": "SciShow News explains how Wikipedia has been used to track, and even \npredict, outbreaks of disease all over the world, and then introduces you \nto the most complete naturally mummified bison ever found.\ufeff", 
+            "author": "kohrin dalal"
+        }, 
+        {
+            "date": "2014-11-15T21:39:37.212Z", 
+            "text": "Emma you asked what your Halloween\ncostum was . mid was a princess\ncostum.\ufeff", 
+            "author": "Brandi Thomas"
+        }, 
+        {
+            "date": "2014-11-15T21:32:34.186Z", 
+            "text": "tracking disease on wikipedia? hasn't this already been done with google \nsearches of disease related words?\ufeff", 
+            "author": "The Einhaender"
+        }
+    ]
+}

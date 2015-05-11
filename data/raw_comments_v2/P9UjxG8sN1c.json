@@ -1,0 +1,1292 @@
+{
+    "publish_date": "2013-05-09T16:05:21.000Z", 
+    "video_length": "PT8M46S", 
+    "captions": [
+        {
+            "text": "Mixing water with electricity is typically\ndiscouraged, and for good reason, but in this", 
+            "dur": "5.01", 
+            "start": "8.58"
+        }, 
+        {
+            "text": "project we&#39;re pumping electricity into water,\nand a bit of drain cleaner to create a poor", 
+            "dur": "4.45", 
+            "start": "13.59"
+        }, 
+        {
+            "text": "mans power controller. You might have heard\nof a Variac. This is the Scariac.", 
+            "dur": "7", 
+            "start": "18.04"
+        }, 
+        {
+            "text": "In a couple of other projects, we fashioned\na homemade stick welder using parts we salvaged", 
+            "dur": "4.119", 
+            "start": "41.08"
+        }, 
+        {
+            "text": "from old appliances. I powered the device\nwith 240 VAC, and that was plenty of power,", 
+            "dur": "6.21", 
+            "start": "45.199"
+        }, 
+        {
+            "text": "but we still needed a way to adjust the current.\nI built this device to control alternating", 
+            "dur": "4.621", 
+            "start": "51.409"
+        }, 
+        {
+            "text": "current, so we have the ability to play with\nadjustable power settings, on a budget. ", 
+            "dur": "4.24", 
+            "start": "56.03"
+        }, 
+        {
+            "text": "Now this concept is about as dangerous as sticking\ntwo live wires in a bucket of water,", 
+            "dur": "4.73", 
+            "start": "60.27"
+        }, 
+        {
+            "text": "it can be deadly, so it&#39;s important to know,\nand understand the risks. To build this Scariac", 
+            "dur": "5.25", 
+            "start": "65"
+        }, 
+        {
+            "text": "we&#39;ll need a 4 gallon container to hold our\nelectrolyte, and I like this one because it&#39;s", 
+            "dur": "3.78", 
+            "start": "70.25"
+        }, 
+        {
+            "text": "got a lid that snaps on tight. I cut a piece\nof board so that it measures at 16&quot;x14&quot; because", 
+            "dur": "6.19", 
+            "start": "74.03"
+        }, 
+        {
+            "text": "that fits on top, leaving a 3&quot; overhang on\nthe side. I made this plastic template for", 
+            "dur": "4.9", 
+            "start": "80.22"
+        }, 
+        {
+            "text": "marking holes for where the switch and outlet\nwill go, and a few other markings based on", 
+            "dur": "3.93", 
+            "start": "85.12"
+        }, 
+        {
+            "text": "these measurements. To cut the holes out,\nlet&#39;s drill the corners first, then use a", 
+            "dur": "4.69", 
+            "start": "89.05"
+        }, 
+        {
+            "text": "jigsaw to cut the sides. We can use the light\nswitch as a template for marking where the", 
+            "dur": "4.39", 
+            "start": "93.74"
+        }, 
+        {
+            "text": "two holes will need to be drilled. This part\nis optional, but let&#39;s go ahead and finish", 
+            "dur": "4.29", 
+            "start": "98.13"
+        }, 
+        {
+            "text": "the edges with a 1/2&quot; rounding bit on the\nrouter table. By profiling the tops and bottoms", 
+            "dur": "4.94", 
+            "start": "102.42"
+        }, 
+        {
+            "text": "of all the edges, we&#39;re left with a nice smooth\nfinish. Next, we&#39;ll need 2 pieces of 2&quot;x2&quot;,", 
+            "dur": "5.72", 
+            "start": "107.36"
+        }, 
+        {
+            "text": "and I had these ones left over, from when\nwe made, our mousetrap hand guns, which you", 
+            "dur": "4.28", 
+            "start": "113.08"
+        }, 
+        {
+            "text": "can see in a different project. I drilled\na hole through the sides of the blocks 1/2&quot;", 
+            "dur": "4.06", 
+            "start": "117.36"
+        }, 
+        {
+            "text": "from the top, and cut them down to 1-1/4&quot;\nso they looked like this. These blocks will", 
+            "dur": "4.86", 
+            "start": "121.42"
+        }, 
+        {
+            "text": "need to be secured flush with the top of the\ncenter hole, so let&#39;s trace the edges and", 
+            "dur": "3.86", 
+            "start": "126.28"
+        }, 
+        {
+            "text": "drill 4 pilot holes on diagonals. They&#39;ll\neventually be held in place with screws from", 
+            "dur": "4.769", 
+            "start": "130.14"
+        }, 
+        {
+            "text": "the bottom side. I gave these parts a paint\njob, and now the panel board is complete,", 
+            "dur": "4.8", 
+            "start": "134.909"
+        }, 
+        {
+            "text": "and we can move on to constructing the power\nlever. All the parts for the power lever are", 
+            "dur": "4.771", 
+            "start": "139.709"
+        }, 
+        {
+            "text": "laid out here, and you can see they&#39;re mainly\n1/2&quot; PVC parts, as well as these other miscellaneous", 
+            "dur": "5.22", 
+            "start": "144.48"
+        }, 
+        {
+            "text": "bits of hardware. Now we can get to work priming\nand cementing the PVC together so that we", 
+            "dur": "4.81", 
+            "start": "149.7"
+        }, 
+        {
+            "text": "end up with 2 sections that look like this.\nThey&#39;ll be fit together later on, but here", 
+            "dur": "4.47", 
+            "start": "154.51"
+        }, 
+        {
+            "text": "you can get a basic idea of how it&#39;s gonna work. We&#39;ll need to mark, and drill a hole", 
+            "dur": "4.28", 
+            "start": "158.98"
+        }, 
+        {
+            "text": "right through the lower part of the &quot;T&quot;, then\nmake the hole bigger on the inner sides. The", 
+            "dur": "4.699", 
+            "start": "163.26"
+        }, 
+        {
+            "text": "hole has to be just big enough to allow the\nhead of a 2-1/2&quot; bolt to pass through. Here", 
+            "dur": "4.281", 
+            "start": "167.959"
+        }, 
+        {
+            "text": "you can see I added a metal washer, and a\nbeveled rubber washer on the inside. At this", 
+            "dur": "5.12", 
+            "start": "172.24"
+        }, 
+        {
+            "text": "point, the 2 parts of the handle can be cemented\ntogether, and the excess glue wiped away.", 
+            "dur": "4.65", 
+            "start": "177.36"
+        }, 
+        {
+            "text": "I decided to paint the handle red to give\nit a nice contrast against the black.", 
+            "dur": "4.01", 
+            "start": "182.01"
+        }, 
+        {
+            "text": "We can add a rubber washer", 
+            "dur": "1.719", 
+            "start": "186.02"
+        }, 
+        {
+            "text": "to the bolt first, and the block gets pushed\non next, until you see about 1/4&quot; of the bolt", 
+            "dur": "4.58", 
+            "start": "187.739"
+        }, 
+        {
+            "text": "poking out on the end. I added a washer and\na wing-nut to hold it in place, and now we", 
+            "dur": "4.711", 
+            "start": "192.319"
+        }, 
+        {
+            "text": "have the ability to adjust the tension of\nthe power lever. Now that our blocks are attached,", 
+            "dur": "5.06", 
+            "start": "197.03"
+        }, 
+        {
+            "text": "let&#39;s push the bottom part of the handle through\nthe hole, and secure the blocks to the board", 
+            "dur": "3.74", 
+            "start": "202.09"
+        }, 
+        {
+            "text": "using the screws we lined up earlier. At this\npoint, we&#39;re ready to wire up the electrical,", 
+            "dur": "4.85", 
+            "start": "205.83"
+        }, 
+        {
+            "text": "and this is how it&#39;s going to look when it&#39;s\nfinished. I started with two 17&quot; pieces of", 
+            "dur": "4.77", 
+            "start": "210.68"
+        }, 
+        {
+            "text": "1/2&quot; copper tubing. Let&#39;s make 4 markings\nat 3, 4-1/2, 12-1/2, and 14&quot;. That should", 
+            "dur": "7.36", 
+            "start": "215.45"
+        }, 
+        {
+            "text": "leave us with an 8&quot; gap between the middle\nmarkings. Now we can use a hammer or bench", 
+            "dur": "4.62", 
+            "start": "222.81"
+        }, 
+        {
+            "text": "vise to compress the copper, allowing us to\nbend it over easily. When all the markings", 
+            "dur": "4.88", 
+            "start": "227.43"
+        }, 
+        {
+            "text": "have been compressed, including the tips,\nthe electrode can be formed into a rectangle,", 
+            "dur": "4.63", 
+            "start": "232.31"
+        }, 
+        {
+            "text": "and should look like this. I&#39;ve drilled a\nhole through the center of the tips, continuing", 
+            "dur": "4.03", 
+            "start": "236.94"
+        }, 
+        {
+            "text": "into the tube itself, but only through one\nside of it. For this electrode, let&#39;s add", 
+            "dur": "4.53", 
+            "start": "240.97"
+        }, 
+        {
+            "text": "a 4&quot; plastic PVC riser, so that it lines up\nflush with one of the edges. Then we can put", 
+            "dur": "5.209", 
+            "start": "245.5"
+        }, 
+        {
+            "text": "a screw right through it, so it&#39;s held between\nthe two pieces of copper. The other end of", 
+            "dur": "4.331", 
+            "start": "250.709"
+        }, 
+        {
+            "text": "this riser can screw into the bottom of our\npower lever, making sure the copper bar is", 
+            "dur": "3.83", 
+            "start": "255.04"
+        }, 
+        {
+            "text": "facing forward. The other 4&quot; riser gets added\ninto the power lever, and can be secured to", 
+            "dur": "5.31", 
+            "start": "258.87"
+        }, 
+        {
+            "text": "the copper as well. To form the 2nd electrode\nholder, I added a PVC cap to a 6&quot; PVC riser,", 
+            "dur": "6.94", 
+            "start": "264.18"
+        }, 
+        {
+            "text": "and used a belt sander, to grind away at the\ntop until it was completely flat. With the", 
+            "dur": "4.439", 
+            "start": "271.12"
+        }, 
+        {
+            "text": "power lever in the full upright position,\nwe can get a feel for where the longer risers", 
+            "dur": "3.991", 
+            "start": "275.559"
+        }, 
+        {
+            "text": "will need to be attached. Using 2 screws for\neach riser, we can bite down into the riser", 
+            "dur": "4.66", 
+            "start": "279.55"
+        }, 
+        {
+            "text": "caps, securing them in position. Now the second\nelectrode can be added, adjusting it so it&#39;s", 
+            "dur": "5.039", 
+            "start": "284.21"
+        }, 
+        {
+            "text": "the same height as the first , and of course\n2 more screws will fix the copper in place.", 
+            "dur": "4.54", 
+            "start": "289.249"
+        }, 
+        {
+            "text": "Now it&#39;s time to rig up the wiring for this\ncontraption. I&#39;ve got some 12 gauge cable,", 
+            "dur": "4.46", 
+            "start": "294.4"
+        }, 
+        {
+            "text": "and a 2 prong plug. The plug opens up allowing\nus to connect our 2 wires, and screws back", 
+            "dur": "5.549", 
+            "start": "298.87"
+        }, 
+        {
+            "text": "together, completing this end of the cable.\nThe black wire from the cable runs to the", 
+            "dur": "4.33", 
+            "start": "304.419"
+        }, 
+        {
+            "text": "light switch first, and connects to the screw\non the far side. The wire is cut, and connected", 
+            "dur": "5.38", 
+            "start": "308.749"
+        }, 
+        {
+            "text": "to the other screw on the switch, then continues\nto this hole drilled through the board. On", 
+            "dur": "4.69", 
+            "start": "314.129"
+        }, 
+        {
+            "text": "the top side, you can see the wire is bent\nover in an arch, and goes back through the", 
+            "dur": "3.861", 
+            "start": "318.819"
+        }, 
+        {
+            "text": "board, where it continues to the electrode\non the power lever. The electrode wire can", 
+            "dur": "4.34", 
+            "start": "322.68"
+        }, 
+        {
+            "text": "simply be connected by looping it behind the existing screw and fastening tight.", 
+            "dur": "4.7", 
+            "start": "327.02"
+        }, 
+        {
+            "text": "Let&#39;s use another piece of the black wire and connect\nit to the other electrode in the same way.", 
+            "dur": "4.42", 
+            "start": "331.86"
+        }, 
+        {
+            "text": "You can see this wire connects to the outlet,\nand gets held on with one of the gold screws.", 
+            "dur": "4.88", 
+            "start": "336.56"
+        }, 
+        {
+            "text": "This silver screw is connected to the white\nwire running from the cable, and this completes", 
+            "dur": "4.179", 
+            "start": "341.44"
+        }, 
+        {
+            "text": "our electrical work. At this point we can\nfasten the light switch and the outlet onto", 
+            "dur": "4.47", 
+            "start": "345.619"
+        }, 
+        {
+            "text": "the control board, and add the faceplates\nfor a finishing touch. This control panel", 
+            "dur": "4.741", 
+            "start": "350.089"
+        }, 
+        {
+            "text": "is fully functional, but if you wanted to\nadd a little more safety, you", 
+            "dur": "3.389", 
+            "start": "354.83"
+        }, 
+        {
+            "text": "could add a replaceable fuse, or even wire\nup a circuit breaker. To finish up the system", 
+            "dur": "4.88", 
+            "start": "358.219"
+        }, 
+        {
+            "text": "we&#39;ll just need to modify this lid. We can\nuse a rotary tool with a cutting wheel to", 
+            "dur": "4.25", 
+            "start": "363.099"
+        }, 
+        {
+            "text": "cut along the inner edges leaving just the\nrim intact. The inside hole has to be large", 
+            "dur": "4.81", 
+            "start": "367.349"
+        }, 
+        {
+            "text": "enough to allow both electrodes to fit in\nfreely, and when it&#39;s centered on the top,", 
+            "dur": "4.19", 
+            "start": "372.159"
+        }, 
+        {
+            "text": "we can screw together the 4 corners, so it&#39;s\nall attached. This way, it clamps into position", 
+            "dur": "5.171", 
+            "start": "376.349"
+        }, 
+        {
+            "text": "perfectly every time. I wanted to add a piece\nof trim around the power lever, so I stopped", 
+            "dur": "4.579", 
+            "start": "381.52"
+        }, 
+        {
+            "text": "at the grocery store and picked up a container\nof bean dip. The empty container is exactly", 
+            "dur": "4.75", 
+            "start": "386.099"
+        }, 
+        {
+            "text": "the right size, and with just a little cutting,\nand two pieces of double sided sticky tape,", 
+            "dur": "4.29", 
+            "start": "390.849"
+        }, 
+        {
+            "text": "it mounts right behind the power lever. Our\nlast step is to mix the electrolyte. I&#39;m using", 
+            "dur": "5.52", 
+            "start": "395.139"
+        }, 
+        {
+            "text": "about 2 gallons of tap water, and that fills\nthe container up half way. To make the water", 
+            "dur": "4.801", 
+            "start": "400.659"
+        }, 
+        {
+            "text": "more conductive, we&#39;ll be using this crystal\ndrain cleaner because it&#39;s 100% lye.", 
+            "dur": "5.2", 
+            "start": "405.46"
+        }, 
+        {
+            "text": "This  stuff is so dangerous and so potent, that we&#39;ll only need 1/4 teaspoon mixed into the entire solution.", 
+            "dur": "6.4", 
+            "start": "410.66"
+        }, 
+        {
+            "text": "Now we can secure the control board in place,\nconnect the plug to a power source, and test", 
+            "dur": "4.719", 
+            "start": "417.06"
+        }, 
+        {
+            "text": "it out. Let&#39;s make sure the power lever is\npushed fully forward, before the switch is", 
+            "dur": "4.38", 
+            "start": "421.779"
+        }, 
+        {
+            "text": "turned on. Now the system is powered, and\nyou can see that if we gently pull the lever", 
+            "dur": "4.41", 
+            "start": "426.159"
+        }, 
+        {
+            "text": "back, the light begins to glow dimly. And\nif we pull it all the way back, it increases", 
+            "dur": "4.62", 
+            "start": "430.569"
+        }, 
+        {
+            "text": "to full intensity. The switch is a kill switch\nand will cut all the power to the system in", 
+            "dur": "4.96", 
+            "start": "435.189"
+        }, 
+        {
+            "text": "an instant. The main purpose of this contraption,\nis to regulate current to our electrical devices.", 
+            "dur": "5.75", 
+            "start": "440.149"
+        }, 
+        {
+            "text": "Adding just a little power to an angle grinder\nwill cause the device to spin very slowly.", 
+            "dur": "4.841", 
+            "start": "445.899"
+        }, 
+        {
+            "text": "But pulling back on the lever will increase\nthe power until it reaches full speed.", 
+            "dur": "4.48", 
+            "start": "450.74"
+        }, 
+        {
+            "text": "The control panel has this loop of black wire,\nthat allows us to monitor the amperage, in", 
+            "dur": "4.2", 
+            "start": "455.22"
+        }, 
+        {
+            "text": "high power applications, like the arc welding\nproject. You can see that if we pull back", 
+            "dur": "4.86", 
+            "start": "459.429"
+        }, 
+        {
+            "text": "on the lever, the current climbs higher. An\ninteresting observation is that the voltage", 
+            "dur": "4.97", 
+            "start": "464.289"
+        }, 
+        {
+            "text": "is pretty much constant through the entire\ncycle. The system can handle extremely high", 
+            "dur": "4.69", 
+            "start": "469.259"
+        }, 
+        {
+            "text": "electrical loads, and in contrast, it can\nalso make a table saw turn at a snails pace.", 
+            "dur": "5.66", 
+            "start": "473.949"
+        }, 
+        {
+            "text": "Pushing forward on the lever increases the\nelectrolytic resistance, and as a result,", 
+            "dur": "4.49", 
+            "start": "480.149"
+        }, 
+        {
+            "text": "the equipment slows down, or comes to a full\nstop. Well now you know, how to control electricity", 
+            "dur": "5.32", 
+            "start": "484.639"
+        }, 
+        {
+            "text": "with water and a bit of drain cleaner. Remember,\nthat this has the power to kill you, and that&#39;s", 
+            "dur": "4.95", 
+            "start": "489.959"
+        }, 
+        {
+            "text": "why it&#39;s called the Scariac. If you liked\nthis project, perhaps you&#39;ll like some of", 
+            "dur": "4.46", 
+            "start": "494.909"
+        }, 
+        {
+            "text": "my others. Check them out at www.thekingofrandom.com", 
+            "dur": "3.151", 
+            "start": "499.369"
+        }
+    ], 
+    "title": "The Scariac (Poor Mans Variable Power Controller)", 
+    "video_defintion": "hd", 
+    "topics": [], 
+<<<<<<< HEAD
+    "number_views": 1103152, 
+=======
+    "number_views": 1103972, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T10:14:14.894Z", 
+            "text": "Oh I see know\ufeff", 
+            "author": "Zak Critical"
+        }, 
+        {
+            "date": "2015-05-10T10:13:44.577Z", 
+            "text": "What is this for?\ufeff", 
+            "author": "Zak Critical"
+        }, 
+        {
+            "date": "2015-05-10T02:44:20.962Z", 
+            "text": "King of random I bought one of your of ur blow guns on one of ur past video \nand I was wondering did I buy the blowgun or the instructions on how to \nbuild it\ufeff", 
+            "author": "Ice Breaker"
+        }, 
+        {
+            "date": "2015-05-08T23:03:48.397Z", 
+            "text": "Remember, this thing you will never build can kill you.\ufeff", 
+            "author": "Waqar Green"
+        }, 
+        {
+            "date": "2015-05-08T00:28:07.841Z", 
+            "text": "...uh\ufeff", 
+            "author": "Ghost Monkey"
+        }, 
+        {
+            "date": "2015-05-07T09:10:50.385Z", 
+            "text": "All the people who are negative about this or think you can get off cheaper \njust buying this stuff, are right. But if you make it on your own, it can \nbe really special, you can make custom changes to it and have great fun in \nthe process. Anything can be safe if you make it that way.\ufeff", 
+            "author": "Anze Vene"
+        }, 
+        {
+            "date": "2015-05-06T22:11:53.068Z", 
+            "text": "Love this stuff, so reminds me of when I was in college.. :)\ufeff", 
+            "author": "Brett Buchanan"
+        }, 
+        {
+            "date": "2015-05-04T23:03:51.000Z", 
+            "text": "*\"Poor Mans\"*\ufeff", 
+            "author": "McDiddlyDude - Official"
+        }, 
+        {
+            "date": "2015-05-03T15:15:49.923Z", 
+            "text": "\"This scariac will kill me. Look for my funeral in another video\"\n-Grant Thompson\ufeff", 
+            "author": "POLAR BEAR METAL FABRICATION"
+        }, 
+        {
+            "date": "2015-05-03T03:19:56.585Z", 
+            "text": "sooo cool\ufeff", 
+            "author": "iron barZ"
+        }, 
+        {
+            "date": "2015-05-02T19:18:10.781Z", 
+            "text": "u are a fcking genius u know ?\ufeff", 
+            "author": "rron asdo"
+        }, 
+        {
+            "date": "2015-05-01T11:05:38.606Z", 
+            "text": "This is only worth doing if you literally put no value into your own time, \nyou won't even save much money once you buy the materials, and if you have \nto buy the tools you are definitely loosing money.\n\nSeriously just buy a variac they are not that expensive and are much safer! \nYou can even buy second hand ones very cheaply! Why would anyone make this?\ufeff", 
+            "author": "Steve  Benson"
+        }, 
+        {
+            "date": "2015-04-27T23:16:09.860Z", 
+            "text": "I just want to know what is the purpose of drain cleaner and what other \nchemical as subtitute. pls reply. thank you\ufeff", 
+            "author": "Teddy Mercado"
+        }, 
+        {
+            "date": "2015-04-27T18:26:59.333Z", 
+            "text": "", 
+            "author": "Arijit Bakshi"
+        }, 
+        {
+            "date": "2015-04-26T02:27:59.466Z", 
+            "text": "This concept has been used to control electric motors for a very long time. \nWhen wound rotors were common on AC motors, they used electrodes wired \nacross slip rings, submerged in resistive solutions to adjust the rotor \nresistance and adjust speed. Very very very old technology\ufeff", 
+            "author": "Wes Poleshuk"
+        }, 
+        {
+            "date": "2015-04-25T22:12:54.351Z", 
+            "text": "Nice but hard to understand\ufeff", 
+            "author": "BABY CARL"
+        }, 
+        {
+            "date": "2015-04-24T13:21:47.685Z", 
+            "text": "It would be trillion times cheaper to use triac...\ufeff", 
+            "author": "Mihkel Laansoo"
+        }, 
+        {
+            "date": "2015-04-22T17:04:20.450Z", 
+            "text": "FAKE!!!!1!111!1! Bottle Contains 100% *LIE*.. \n\n\n\n\n\n\n\n\n\n\nI know it's lye.. duh\ufeff", 
+            "author": "Era Zer"
+        }, 
+        {
+            "date": "2015-04-18T02:55:25.825Z", 
+            "text": "Wait, So in theory you can charge a iphone faster?\ufeff", 
+            "author": "VicatarGaming\u2122"
+        }, 
+        {
+            "date": "2015-04-21T05:47:07.278Z", 
+            "text": "+Black Sharpie Lol", 
+            "author": "VicatarGaming\u2122"
+        }, 
+        {
+            "date": "2015-04-21T02:24:49.500Z", 
+            "text": "+Black Sharpie Ey no problem XD ", 
+            "author": "josue betancourt"
+        }, 
+        {
+            "date": "2015-04-20T15:59:09.705Z", 
+            "text": "+josue betancourt I realize you're telling the truth and being completely \nserious but when I read that I started laughing so hard I shot my soda \nthrough my nose. My nose burns now. Thank you for that laugh. xD", 
+            "author": "Black Sharpie"
+        }, 
+        {
+            "date": "2015-04-19T05:12:16.846Z", 
+            "text": "+josue betancourt oh :(", 
+            "author": "VicatarGaming\u2122"
+        }, 
+        {
+            "date": "2015-04-19T03:20:37.829Z", 
+            "text": "No just slower", 
+            "author": "josue betancourt"
+        }, 
+        {
+            "date": "2015-04-17T17:39:09.212Z", 
+            "text": "Every time i watch your video\ufeff", 
+            "author": "Rehaan Khodabocus"
+        }, 
+        {
+            "date": "2015-04-17T17:38:10.843Z", 
+            "text": "So coooll !!!!\n\nI cannot make this because of my parent\n\n\n\n\n\n\n\ufeff", 
+            "author": "Rehaan Khodabocus"
+        }, 
+        {
+            "date": "2015-04-15T22:44:28.528Z", 
+            "text": "how old or you.\ufeff", 
+            "author": "anne rita wanai"
+        }, 
+        {
+            "date": "2015-04-14T09:23:00.789Z", 
+            "text": "Sooo what if you tripped over this device accidently or knocked it over and \nthen landed or stepped in a live puddle of water???\ufeff", 
+            "author": "TRX450R Vlogger"
+        }, 
+        {
+            "date": "2015-04-12T10:20:08.080Z", 
+            "text": "Grant Thompson is really genius... I adore him... Best wishes Grant...\ufeff", 
+            "author": "Milos Bandragon"
+        }, 
+        {
+            "date": "2015-04-12T03:47:56.845Z", 
+            "text": "Who wants to throw batteries in a filled bath tub and jump in?\n\ufeff", 
+            "author": "Miles. Lekan"
+        }, 
+        {
+            "date": "2015-04-09T06:22:33.620Z", 
+            "text": "I may eventually build a fully sealed version of this. I've had mercury \ntilt switches go bad on me before. it's not cool when you're in a current \nintensive application....\ufeff", 
+            "author": "24hourspacebar"
+        }, 
+        {
+            "date": "2015-04-08T23:47:50.412Z", 
+            "text": "or you might of heard of a dimmer knob on a wall\ufeff", 
+            "author": "troy durica"
+        }, 
+        {
+            "date": "2015-04-08T08:45:11.927Z", 
+            "text": "Why lye instead of salt?\ufeff", 
+            "author": "JBTechCon"
+        }, 
+        {
+            "date": "2015-04-08T04:38:24.820Z", 
+            "text": "doesn't get much more dangerous then this, clever but someone could easily \ndie. I have to agree below, don't make it.\ufeff", 
+            "author": "David Lagettie"
+        }, 
+        {
+            "date": "2015-04-05T09:11:52.689Z", 
+            "text": "nice vid!\ufeff", 
+            "author": "Trent The Awesome Electrician Dude 2015"
+        }, 
+        {
+            "date": "2015-04-05T08:32:52.937Z", 
+            "text": "A brand new variac goes for around $250. I don't know about this 'poor man' \nbut I value my life higher than that.\ufeff", 
+            "author": "Frank Rizzo"
+        }, 
+        {
+            "date": "2015-04-05T04:29:53.879Z", 
+            "text": "These were actually used in the 1930s. A wooden box was sealed with pitch \n(tar). An acme screw was attached to a plate and a bushing set in the end \nof the box. Another plate was placed at the end of the box. The moveable \nplate had holes drilled in it so the water can pass through. Grease sealed \nthe threaded bushing, and a crank was turned to move the plate. I think \nthey were called water resistors. Mines and sawmills used to scrub off old \nmonopole power supplies by throwing steel coils into a nearby river or \nstream. This also provided fresh fish for the employees. If you can find a \n1930 Electrician's Handbook, check it out!\ufeff", 
+            "author": "Seth B"
+        }, 
+        {
+            "date": "2015-04-03T01:12:09.523Z", 
+            "text": "coool I made it thx Grant!\ufeff", 
+            "author": "Michael Ho"
+        }, 
+        {
+            "date": "2015-04-02T20:10:32.692Z", 
+            "text": "no thanks. I'd rather buy or build my own variac than using the scarryac!\ufeff", 
+            "author": "Martin \u0160alko"
+        }, 
+        {
+            "date": "2015-04-02T15:43:20.416Z", 
+            "text": "This is just a massive variable resistor though, not doing the same thing \nas a variac. A variac controls voltage with a variable transformer (coils \nof wire), a potentiometer (variable resistor) changes current. So for some \nprojects, this can't replace a variac.\ufeff", 
+            "author": "James Hutton"
+        }, 
+        {
+            "date": "2015-04-02T02:34:50.906Z", 
+            "text": "If we made this bigger, like as big as a nuclear power plant, wouldn't it \nbe enough to power an entire city?\ufeff", 
+            "author": "The Doctor"
+        }, 
+        {
+            "date": "2015-04-02T01:51:45.265Z", 
+            "text": "Ware do you put all these things\ufeff", 
+            "author": "Aspen Granger"
+        }, 
+        {
+            "date": "2015-04-02T01:16:04.557Z", 
+            "text": "You could use salt instead of drain cleaner too!!! It will make it \nconductible and the more salt the more conductive\ufeff", 
+            "author": "ThePokemonPalz"
+        }, 
+        {
+            "date": "2015-03-30T07:28:30.766Z", 
+            "text": "sooooo... does anybody know why the voltage stays constant while the amps \nare increased and decreased? i dont know much about electricity, but i \nthought that the two worked together and as amps were reduced volts \nincreased and vise versa or is that only with transformers?\ufeff", 
+            "author": "jchinderle"
+        }, 
+        {
+            "date": "2015-05-06T04:11:55.890Z", 
+            "text": "+jchinderle Voltage = Current * Resistance (Ohm's Law). This tells you that \nif you decrease resistance, your current must increase (with a constant \nvoltage). There is a small voltage drop, but its negligible given the 120 \nVolts he's putting in.", 
+            "author": "Quentillionaire"
+        }, 
+        {
+            "date": "2015-04-07T16:18:10.986Z", 
+            "text": "Ohm\u00b4s law, it mentions the interaction between current (amps) tension \n(volts) and resistance (ohms), whats he is doing is increasing or \ndecreasing the resistance, that way, the tension stays stable, but the \ncurrent its increased or decreased also the power (watts) are increased or \ndecreased in the same way.", 
+            "author": "mileznightmare"
+        }, 
+        {
+            "date": "2015-03-30T01:56:12.301Z", 
+            "text": "If your running electricity through water, you hydrolyze the water into H2 \nand O2... So if the electricity arced somewhere in your circuit, wouldn't \nyour apparatus potentially explode?\ufeff", 
+            "author": "Cody Deforest"
+        }, 
+        {
+            "date": "2015-03-29T14:34:58.708Z", 
+            "text": "i am 16 and i sneak in to my dad garage when he wasnt here i spend 4 hour \nthere making this but when he come he surprise and start yelling at me but \ni say wait wait look i make awesome electricity and he say man i am proud \nthat you like making stuff like me..... he is next to me but he dosnt know \nthat this is your idea and i am dumb that cant make a\nnthing for him self\ufeff", 
+            "author": "bani aly"
+        }, 
+        {
+            "date": "2015-04-04T13:26:45.857Z", 
+            "text": "oh i mean some pussy.... u know xD MUHAHAHA", 
+            "author": "bani aly"
+        }, 
+        {
+            "date": "2015-04-04T13:26:23.590Z", 
+            "text": "oh i am mean some pussy cat", 
+            "author": "bani aly"
+        }, 
+        {
+            "date": "2015-04-04T13:26:07.763Z", 
+            "text": "emmm yah and this is my ghost soul i think so now i am going to have fun \nscarying some pussy MUHAHAHHA", 
+            "author": "bani aly"
+        }, 
+        {
+            "date": "2015-04-04T06:24:22.564Z", 
+            "text": "Am assuming ur dead now right?", 
+            "author": "Jay Patel"
+        }, 
+        {
+            "date": "2015-03-29T04:04:41.206Z", 
+            "text": "Fantastic! I love it! I would not recommend people to attempt this who are \nnew with electricity though \ufeff", 
+            "author": "hobo fromHell"
+        }, 
+        {
+            "date": "2015-03-29T01:54:23.142Z", 
+            "text": "I think many of the comments are missing the fun factor in this/these \nexperiments and creations.   Easier isn't the best choice when it comes to \nfun.\ufeff", 
+            "author": "Darin Warren"
+        }, 
+        {
+            "date": "2015-03-28T18:13:39.470Z", 
+            "text": "\"Remember that this has the power to kill you.\"\ufeff", 
+            "author": "Zachary Winn"
+        }, 
+        {
+            "date": "2015-03-28T03:10:15.266Z", 
+            "text": "Cool\n\ufeff", 
+            "author": "Eduardo Eduardo"
+        }, 
+        {
+            "date": "2015-03-27T20:31:26.604Z", 
+            "text": "What size CB?\ufeff", 
+            "author": "Brody Roderick"
+        }, 
+        {
+            "date": "2015-03-27T15:37:08.588Z", 
+            "text": "it's called a SCARIAC for a good reason...  a SCARY VARIAC indeed!\ufeff", 
+            "author": "tsc RECYCLE e-scrapper"
+        }, 
+        {
+            "date": "2015-03-26T20:34:57.750Z", 
+            "text": "In a few years: Today we will re-visiting an old classic! we are remaking \nthe SR-71 blackbird, and flying it close to space and photograph some \nRussian military facilities that even US military doesn't know about. \n\n^i am imaging it in his voice.\ufeff", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2015-03-25T17:14:26.072Z", 
+            "text": "Hey grant...could you just use a high voltage light dimmer for a less \ndeadly same result?\ufeff", 
+            "author": "William Ela"
+        }, 
+        {
+            "date": "2015-03-25T06:50:50.848Z", 
+            "text": "Grant Thompson, why don't you build it into your TKOR Workbench?\ufeff", 
+            "author": "Jonathan Eppinga"
+        }, 
+        {
+            "date": "2015-03-24T21:11:21.297Z", 
+            "text": "You must have a death wish... awesome stuff though. Keep up the good work\ufeff", 
+            "author": "awychoi"
+        }, 
+        {
+            "date": "2015-03-24T13:35:03.818Z", 
+            "text": "How are you so freaking smart? I'm 16 and have been watching your videos \nfor a while and all I can say is wow... I would have never thought of that.\ufeff", 
+            "author": "Cole Dobner"
+        }, 
+        {
+            "date": "2015-03-24T00:14:45.372Z", 
+            "text": "His Crap is so dangerous, but I am so entertained.  It amazes me how clean \nand perfect his stuff is\ufeff", 
+            "author": "William Ackerson"
+        }, 
+        {
+            "date": "2015-03-23T16:21:38.796Z", 
+            "text": ":)\ufeff", 
+            "author": "jabelspector"
+        }, 
+        {
+            "date": "2015-03-22T06:18:17.084Z", 
+            "text": "Couldn't u have just found a way to us a dimmer switch......I'm only 13 so \nI could have no idea wat I'm talking about \ufeff", 
+            "author": "Rolls Royce Resendez"
+        }, 
+        {
+            "date": "2015-03-20T19:01:29.806Z", 
+            "text": "I think I just found one of the best genius in the US\ufeff", 
+            "author": "BurntDiamondz"
+        }, 
+        {
+            "date": "2015-03-18T06:59:26.735Z", 
+            "text": "you're totally genius!!\ufeff", 
+            "author": "Chris Dewa"
+        }, 
+        {
+            "date": "2015-03-16T03:40:04.145Z", 
+            "text": "How did he connect the 220 volt supply through the scariac? Isn't it built \nfor 110 volts? \ufeff", 
+            "author": "Richard Birbalsingh"
+        }, 
+        {
+            "date": "2015-03-15T13:24:58.996Z", 
+            "text": "are you an engineer? \n\n- via YtPak(.com)\ufeff", 
+            "author": "Aliasghar Mandviwala"
+        }, 
+        {
+            "date": "2015-03-14T18:03:36.223Z", 
+            "text": "Has anyone actually built any of this guys stuff?\ufeff", 
+            "author": "Mr.Green"
+        }, 
+        {
+<<<<<<< HEAD
+=======
+            "date": "2015-05-11T01:09:33.740Z", 
+            "text": "+Mr.Green Actually, I plan to - I'm going to have a spare microwave in a \nfew weeks and I know exactly where it's going :D", 
+            "author": "GeneralSeptem"
+        }, 
+        {
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
+            "date": "2015-05-06T20:08:50.324Z", 
+            "text": "+vytor31337\u200b a smaller Guage will allow more current to flow making your \nwelder more powerful. ", 
+            "author": "Mr.Green"
+        }, 
+        {
+            "date": "2015-05-05T22:42:11.601Z", 
+            "text": "I have made blowguns, homemade rocket engines, and am currently working on \nthis the scariac and the spot welder. One thing I am trying to figure out \nis the difference on this / metal melter using 4ga instead of 2ga. Cause I \nhave a ton of 4ga around.", 
+            "author": "vytor31337"
+        }, 
+        {
+            "date": "2015-04-30T15:21:39.752Z", 
+            "text": "+Daniel Foti I made the laser blowgun ,the mouse trap \ngun and rocket thing", 
+            "author": "yaasir fatadin"
+        }, 
+        {
+            "date": "2015-04-07T16:12:20.597Z", 
+            "text": "ive made the laser guided blowgun", 
+            "author": "mileznightmare"
+        }, 
+        {
+            "date": "2015-04-06T16:41:52.794Z", 
+            "text": "I made the dart gun bat a rang and the mini cross bow", 
+            "author": "Miles thornberry"
+        }, 
+        {
+            "date": "2015-04-04T04:46:35.238Z", 
+            "text": "I made his ninja balls for juggling", 
+            "author": "smartcow360"
+        }, 
+        {
+            "date": "2015-04-03T22:49:52.210Z", 
+            "text": "I have I have built most things he makes", 
+            "author": "richard morsette"
+        }, 
+        {
+            "date": "2015-03-29T21:38:59.981Z", 
+            "text": "ive built his metal melter and slow burning fuses ans his pvc blowgun", 
+            "author": "Daniel Foti"
+        }, 
+        {
+            "date": "2015-03-14T00:30:41.464Z", 
+            "text": "Comment if watching in 2015\ufeff", 
+            "author": "Yoshi Perez"
+        }, 
+        {
+            "date": "2015-03-12T22:47:13.000Z", 
+            "text": "seriously, nobody should make this. you might as well just take the switch \ncovers off your outlets and plug your electronics directly into exposed \nwires while you're at it.\ufeff", 
+            "author": "Keagan Cook"
+        }, 
+        {
+            "date": "2015-03-12T17:46:22.860Z", 
+            "text": "I wonder how big the resistor that puts down the current from this would \nbe\ud83d\ude28\ufeff", 
+            "author": "Ryan Smith"
+        }, 
+        {
+            "date": "2015-03-11T03:06:43.109Z", 
+            "text": "Wow, I want to do the mousetrap handgun project!!!! Thanks.\ufeff", 
+            "author": "Jeff Beck"
+        }, 
+        {
+            "date": "2015-03-11T03:04:51.227Z", 
+            "text": "This is a brilliant concept.  Thanks for posting.\ufeff", 
+            "author": "Jeff Beck"
+        }, 
+        {
+            "date": "2015-03-10T06:33:52.591Z", 
+            "text": "When he measures the voltage output it won't go down before he puts a load \non it. The device acts as a potentiometer.\ufeff", 
+            "author": "TheCrimsonLink"
+        }, 
+        {
+            "date": "2015-03-10T04:42:51.295Z", 
+            "text": "Dislike button because it has the power to KILL you!\ufeff", 
+            "author": "jazz1205"
+        }, 
+        {
+            "date": "2015-03-09T12:39:07.638Z", 
+            "text": "that wire looked more like a number 14 gauge wire than a 12, last I checked \nwiring was color coded, white for 14, yellow for 12, orange for 10(that is \nsome thick stuff, I think 12 is a standard wire unless you have something \nthat sucks in current like a big air conditioner)\ufeff", 
+            "author": "feralbigdog"
+        }, 
+        {
+            "date": "2015-03-07T22:59:11.311Z", 
+            "text": "Why aren't there bubbles? I mean electrolysys? (and try saltwater for \nbetter conductivity)\ufeff", 
+            "author": "00yoshi"
+        }, 
+        {
+            "date": "2015-04-07T16:24:38.711Z", 
+            "text": "Because it is AC, electrolysis needs to be DC", 
+            "author": "mileznightmare"
+        }, 
+        {
+            "date": "2015-03-07T22:38:21.660Z", 
+            "text": "I thought you said 100% lie\ufeff", 
+            "author": "JANN_SPEEDY"
+        }, 
+        {
+            "date": "2015-03-07T03:14:28.672Z", 
+            "text": "*watches video*\n\n*proceeds to fashion it into an electric chair*\ufeff", 
+            "author": "DonutCopper Online"
+        }, 
+        {
+            "date": "2015-03-05T04:36:24.387Z", 
+            "text": "Remember this can kill you. IF YOU LIKED THIS TUTORIAL lol\ufeff", 
+            "author": "Eareos"
+        }, 
+        {
+            "date": "2015-03-05T01:40:49.734Z", 
+            "text": "Nice design and useful for high current applications, in the mean time I \nwill use my ancient Eico 1078 variac for low current. For those who don't \nknow, the liquid rheostat has been around for years and is still used in \nsome industrial applications.\ufeff", 
+            "author": "mulebones"
+        }, 
+        {
+            "date": "2015-03-03T23:49:03.000Z", 
+            "text": "Great project! Though I suggest using cheap ground up hydrogel in the water \nso it can't spill. Hydrogel is usually used for adding to garden soil and \nit's cheap. Or you could use another gel thickening agent, but anyway it' \nmight be a good idea to use a gel to prevent spill risks, then you don't \nhave the risk of water everywhere + electricity. With that change, I think \nthis would be a much less scary controller.\n\nAlso as an electrolyte, you might use something like magnesium sulfate aka \ncommon bath salt, though lye is probably fine and lye might help reduce the \nlikelihood of electrolysis breakdown of water as mentioned earlier in the \ncomments.\ufeff", 
+            "author": "Michael Casper"
+        }, 
+        {
+            "date": "2015-04-02T18:36:43.818Z", 
+            "text": "+Michael Casper I think a breaker would also make this much safer, make it \nintegral and put wires near the rims of the box to the breaker, parallel to \nthe normal current, and that would ground out against the electrode that is \nalways in the water, so that if water makes contact with those wires it \nshorts the breaker before water can spill.", 
+            "author": "Paradigm Storytime"
+        }, 
+        {
+            "date": "2015-03-03T07:52:49.632Z", 
+            "text": "could i use a scrapped high powered vacuum cleaner control circuit instead \nof the scariac for the arc welder?\ufeff", 
+            "author": "MrJimmilicious"
+        }, 
+        {
+            "date": "2015-03-02T14:59:01.933Z", 
+            "text": "", 
+            "author": "Etienne Fourie"
+        }, 
+        {
+            "date": "2015-03-02T04:04:10.367Z", 
+            "text": "Interesting video, but dangerous. ! Someone is going to try this a home and \nget killed...\ufeff", 
+            "author": "Ron B"
+        }, 
+        {
+            "date": "2015-03-02T03:31:43.265Z", 
+            "text": "That was amazing, but my question is does it need electricity to make it \nwork or everything is from that water ?\ufeff", 
+            "author": "Moussa BERETE"
+        }, 
+        {
+            "date": "2015-02-28T04:37:22.163Z", 
+            "text": "fun fact  this item produces  hydrogen /w oxygen  its  a bit dangerous if \nnot ventalated\ufeff", 
+            "author": "jeshua leblanc"
+        }, 
+        {
+            "date": "2015-02-28T18:53:24.760Z", 
+            "text": "It's AC which shuts the slow electrolysis reaction down, It also contains \nlye which also slows down the reaction.\nBesides, since the box isn't air tight it will ventilate the little gasses \nthat are produced..", 
+            "author": "Little Lion"
+        }, 
+        {
+            "date": "2015-02-27T15:01:14.334Z", 
+            "text": "Do more\ufeff", 
+            "author": "Jennifer Talbot"
+        }, 
+        {
+            "date": "2015-02-27T01:53:38.380Z", 
+            "text": "you need to put a gfi in that as well.\ufeff", 
+            "author": "Nathan Dean"
+        }, 
+        {
+            "date": "2015-02-21T04:19:23.531Z", 
+            "text": "I love the comment hey this has the power to kill you. he says it in such \nan upbeat way like, hey it can kill you but naaaah its kool man.\ufeff", 
+            "author": "jdookie67"
+        }, 
+        {
+            "date": "2015-02-20T18:47:57.879Z", 
+            "text": "Nice and smart job.\nIf i buy a resistor i make my job??\ufeff", 
+            "author": "Stavros Athas"
+        }, 
+        {
+            "date": "2015-02-18T16:12:38.748Z", 
+            "text": "dude,What did you took in college? O.o mechanical engg?\ufeff", 
+            "author": "Saral Thakur"
+        }, 
+        {
+            "date": "2015-04-09T17:44:50.106Z", 
+            "text": "lol", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2015-04-09T17:03:02.647Z", 
+            "text": "+dipro001 marine* bro. yeah,but he left tho.\n\ni guess life is all bout doing what you want. ", 
+            "author": "Saral Thakur"
+        }, 
+        {
+            "date": "2015-04-09T16:59:52.438Z", 
+            "text": "Dan bilzerian was a Navy seal-- just sayin..", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2015-04-09T16:53:18.966Z", 
+            "text": "+dipro001 i will probably make more money for sure,and get laid and shit. \nbut what do you want a life where people see you as a role model for \nhardwork and discipline or live life like dan bilzerian and Vitally..xD", 
+            "author": "Saral Thakur"
+        }, 
+        {
+            "date": "2015-04-09T16:47:32.366Z", 
+            "text": "+Saral Thakur hahah, good luck man. Why not become a Youtuber if you fail? \nlol.", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2015-04-09T16:28:39.336Z", 
+            "text": "+dipro001 i ain't hardcore,i can barely crack jee mains. i am doing \nengineering. just to be eligible for military. here,even military requires \nbrains.", 
+            "author": "Saral Thakur"
+        }, 
+        {
+            "date": "2015-04-09T15:33:01.815Z", 
+            "text": "+Saral Thakur hahahi herd about IIT. You guys are quite hardcore there. \nHeard some of you guys call the ivies as 'backup'? lol Good luck, let me \nknow if you get in if you can.", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2015-04-05T05:14:25.214Z", 
+            "text": "+dipro001 i just gave part one of the exam. if i cracked the 2nd part i \ncould be in IITs. it's like the Best engineering colleges in our country. \ngetting into one means you were more intelligent than most of the guys in \nyour country.", 
+            "author": "Saral Thakur"
+        }, 
+        {
+            "date": "2015-04-04T11:45:30.086Z", 
+            "text": "+Saral Thakur hahha-- awesome man! which college? paper engineering is like \nthat you actually. just wait until you hit the actual exam. ", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2015-04-03T23:19:38.095Z", 
+            "text": "+dipro001 tomorrow is my entrance exam. checking out previous years \nquestion paper.\n\nafter like 20 questions i am able to get one right..xD i am fucked. should \ntake arts or something. engineering is not for me,i guess.", 
+            "author": "Saral Thakur"
+        }, 
+        {
+            "date": "2015-03-26T20:32:22.293Z", 
+            "text": "+Saral Thakur hahah ya my exact thought. Exam performance and real life is \ndifferent in engineering. ", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2015-03-26T20:26:06.032Z", 
+            "text": "+dipro001 i know, so many engineers. my dad is one. he always aced exams \nand graduated early. is an engineer. he can barely this shit tho.\n\ni guess i gotta get good college.", 
+            "author": "Saral Thakur"
+        }, 
+        {
+            "date": "2015-03-26T20:21:48.457Z", 
+            "text": "+Saral Thakur Forget what he took, he can teach a few things to most \nengineering professors!", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2015-03-24T13:37:49.295Z", 
+            "text": "+Alexander Niemi College*. we write Engg as short form for Engineering \nhere. cause everybody's either a engineer or doctor here.", 
+            "author": "Saral Thakur"
+        }, 
+        {
+            "date": "2015-03-23T23:33:08.831Z", 
+            "text": "+Saral Thakur By the looks of if, you wont be going to collage any time \nsoon!", 
+            "author": "Alexander Niemi"
+        }, 
+        {
+            "date": "2015-03-02T23:32:50.323Z", 
+            "text": "+Evan Knowles You're not the only one", 
+            "author": "Atsic Games"
+        }, 
+        {
+            "date": "2015-02-25T21:52:21.950Z", 
+            "text": "I read that as \"mechanical egg\"", 
+            "author": "Evan Knowles"
+        }, 
+        {
+            "date": "2015-02-16T18:57:23.823Z", 
+            "text": "I used this for my science fair project and I owe it all to u. You got me \nsecond place WAGS \ufeff", 
+            "author": "Riley The wolf"
+        }, 
+        {
+            "date": "2015-02-15T20:28:03.003Z", 
+            "text": "like it very much. we repair commercial microwaves and like the after use \nfor transformers.\ufeff", 
+            "author": "larry barnes"
+        }, 
+        {
+            "date": "2015-02-15T12:50:46.232Z", 
+            "text": "it literaly killed me now i have 4 lives thx !!!\ufeff", 
+            "author": "michal hernas"
+        }, 
+        {
+            "date": "2015-02-14T21:29:25.351Z", 
+            "text": "Maria\n\ufeff", 
+            "author": "Maria Huerta"
+        }, 
+        {
+            "date": "2015-02-14T03:56:02.297Z", 
+            "text": "Read the effing description, people. \nQuote:\n'This is more of a 'How I did' video than a 'How to''\nAnd there was also a part explaining that this can be lethal.\nSo, the haters down there don't have any reason to get mad at him.\ufeff", 
+            "author": "Vriska Serket"
+        }, 
+        {
+            "date": "2015-05-01T11:09:08.779Z", 
+            "text": "+Blair Quinney Speaking \"Mexican or Canadian\"? How fucking dumb are you! \nThese are not even languages...", 
+            "author": "Steve  Benson"
+        }, 
+        {
+            "date": "2015-04-09T15:58:34.152Z", 
+            "text": "I guess I'm a crazy old caveman. I come from a time when cub scouts played \nwith real fire. I remember an \"Outdoor Education\" class in sixth grade when \nwe all went out behind the school and shot pellet guns at paper targets. \nThe school owned, and distributed, the guns! I would never build this \nparticular project. For one thing there's at least $30 worth of plastic \ninvolved and one can get a sufficient variac for $60 shipped. All this said \nI applaud a guy who's not afraid to teach us something at the risk of being \ncalled \"dangerous\". If you ask me this dang country has wussed out to an \nembarrassing degree. Let the soccer moms have the pentagon; we'll all be \nspeaking Mexican and/or Canadian in a week.", 
+            "author": "Blair Quinney"
+        }, 
+        {
+            "date": "2015-02-13T15:00:22.958Z", 
+            "text": "I want to try putting fish in the water inside the box :>\ufeff", 
+            "author": "Bryan Joshua"
+        }, 
+        {
+            "date": "2015-02-13T10:57:56.146Z", 
+            "text": "This is a cut price solution :-)\nJust the risk of Poisonous gas bubbles!\n\nAs an alternative, for high Amp heaters (electric bar fires).\nMake a burst fire mode controler: just a Triac\nWith the gate power from a 555ic chip.\nBy ajusting the pulse frequency - more or less power\nis delivered to the Load ;-)\n\ufeff", 
+            "author": "Paul Wedlock"
+        }, 
+        {
+            "date": "2015-02-12T15:30:12.914Z", 
+            "text": "Shouldn't some additions to the container be made to make it more \nwater-tight?\ufeff", 
+            "author": "inademv"
+        }, 
+        {
+            "date": "2015-03-11T16:54:06.551Z", 
+            "text": "Lol. My phone dinged and woke me up...I read it as shortest..sorry.", 
+            "author": "MrSbfan2000"
+        }, 
+        {
+            "date": "2015-03-11T13:11:06.008Z", 
+            "text": "Good response but just to clearify. Electrons take the path of least \nresistance which is not always the shortest path.", 
+            "author": "MrSbfan2000"
+        }, 
+        {
+            "date": "2015-03-09T00:27:10.992Z", 
+            "text": "If it's water tight then it is not ventilated enough to vent the hydrogen.", 
+            "author": "MrSbfan2000"
+        }, 
+        {
+            "date": "2015-03-09T00:25:18.777Z", 
+            "text": "+MrSbfan2000\nInteresting, but still then wouldn't you want to make it water but not \nair-tight to prevent any of the water from sloshing or splashing out? The \nidea of a non-isolated water and electricity combination makes me so \nnervous lol.", 
+            "author": "inademv"
+        }, 
+        {
+            "date": "2015-03-09T00:01:05.286Z", 
+            "text": "+inademv  You don't want it tight. Gas is being produced and you don't want \nit confined. He should of mentioned that.", 
+            "author": "MrSbfan2000"
+        }, 
+        {
+            "date": "2015-02-11T10:12:13.967Z", 
+            "text": "", 
+            "author": "Edward Blejan"
+        }, 
+        {
+            "date": "2015-02-09T17:54:32.592Z", 
+            "text": "1980\ufeff", 
+            "author": "Charles Patato"
+        }, 
+        {
+            "date": "2015-02-08T17:14:26.885Z", 
+            "text": "\n\ud83d\ude06\ud83d\ude0b\ufeff", 
+            "author": "Lets GoPro"
+        }, 
+        {
+            "date": "2015-02-02T14:50:28.157Z", 
+            "text": "For how long that battery will work ? And some explanation around this \nmatter will help every one to give you thumps up ! I Think !\n  Because that is the question :For how long that thing will work and when \nstops , how to charge again ? \ufeff", 
+            "author": "Bahram Kashanian"
+        }, 
+        {
+            "date": "2015-02-05T20:40:19.722Z", 
+            "text": "+Bahram Kashanian in all fairness, I noticed recently YouTube or Google + \nhas been putting comments under the incorrect video. At least I saw it once \nthis week. This is for a diy variac using water. Its like a throttle or \npower control device.", 
+            "author": "Andy Jones"
+        }, 
+        {
+            "date": "2015-02-04T20:25:15.751Z", 
+            "text": "Thank you", 
+            "author": "Bahram Kashanian"
+        }, 
+        {
+            "date": "2015-02-04T20:00:36.236Z", 
+            "text": "It is only a current limiter, it will not do a single thing without being \nplugged in.", 
+            "author": "MsSomeonenew"
+        }, 
+        {
+            "date": "2015-02-02T20:22:11.900Z", 
+            "text": "What is it then ? and how long with out any outside help works ? Please", 
+            "author": "Bahram Kashanian"
+        }, 
+        {
+            "date": "2015-02-02T17:24:40.645Z", 
+            "text": "Its not a battery", 
+            "author": "Frankie Fourfingers"
+        }, 
+        {
+            "date": "2015-01-27T13:05:56.726Z", 
+            "text": "hi there i notice there no plans to build some of these u do like this one \nof this controller\ufeff", 
+            "author": "jamie goffage"
+        }, 
+        {
+            "date": "2015-02-16T03:23:42.732Z", 
+            "text": "Probably because a few of his projects shouldn't be recreated by \nunexperienced people like you. Not to be mean, but one wrong move and you'd \nbe dead.", 
+            "author": "Anders Forsgren"
+        }, 
+        {
+            "date": "2015-01-24T02:51:07.578Z", 
+            "text": "How did u determine the amount of lye \ufeff", 
+            "author": "Rory Wynhoff"
+        }, 
+        {
+            "date": "2015-01-20T05:59:46.853Z", 
+            "text": "I feel scared when I look at 5:07.  If someone puts the screws in holding \nthe white and black wires (in the sheath) and electrically the wires touch \nvia the screw, a lot of sparks are gonna fly.  Please be careful. \ufeff", 
+            "author": "jim barber"
+        }, 
+        {
+            "date": "2015-01-20T02:18:42.326Z", 
+            "text": "How long can you use this before you have to replace the water or drain \ncleaner?\ufeff", 
+            "author": "damien lucier"
+        }
+    ]
+}

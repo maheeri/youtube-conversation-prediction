@@ -1,0 +1,984 @@
+{
+    "publish_date": "2013-12-16T21:34:23.000Z", 
+    "video_length": "PT3M12S", 
+    "captions": [
+        {
+            "text": "This 16th century woodblock shows fisherman\npulling a big netload of hibernating swallows", 
+            "dur": "4.98", 
+            "start": "0.81"
+        }, 
+        {
+            "text": "from a frozen-over lake. If you haven&#39;t heard\nabout how swallows hibernate through the winter", 
+            "dur": "3.81", 
+            "start": "5.79"
+        }, 
+        {
+            "text": "at the bottom of lakes, it&#39;s because they\ndon&#39;t. But, for thousands of years, hibernation", 
+            "dur": "4.34", 
+            "start": "9.6"
+        }, 
+        {
+            "text": "was one of the leading theories to explain\nwhere birds went between fall and spring.", 
+            "dur": "4.8", 
+            "start": "13.94"
+        }, 
+        {
+            "text": "Another theory was that the birds left entirely\nand flew far away for the winter -- we call", 
+            "dur": "3.81", 
+            "start": "18.74"
+        }, 
+        {
+            "text": "this &quot;migration&quot; -- but they didn&#39;t have a\nclue where the birds would go. For example,", 
+            "dur": "4.209", 
+            "start": "22.55"
+        }, 
+        {
+            "text": "a pamphlet from 1703 suggested that they went\nto the moon.", 
+            "dur": "3.631", 
+            "start": "26.759"
+        }, 
+        {
+            "text": "The first real clues about where migratory\nbirds actually go during the winter -- hint:", 
+            "dur": "4.76", 
+            "start": "30.39"
+        }, 
+        {
+            "text": "it&#39;s not the moon or the bottom of a frozen\nlake -- came around 1900, thanks to a Danish", 
+            "dur": "4.03", 
+            "start": "35.15"
+        }, 
+        {
+            "text": "teacher&#39;s technique of attaching marked aluminum\nrings to birds&#39; legs and then re-releasing", 
+            "dur": "3.75", 
+            "start": "39.18"
+        }, 
+        {
+            "text": "them. Each recapture or sighting of a banded\nbird put a dot on the map, and soon, long-distance", 
+            "dur": "5.34", 
+            "start": "42.93"
+        }, 
+        {
+            "text": "earthly migrations were confirmed when a White\nstork that had been banded in Hungary was", 
+            "dur": "4.13", 
+            "start": "48.27"
+        }, 
+        {
+            "text": "found dead in South Africa. But banding can\nonly tell researchers about single points", 
+            "dur": "4.23", 
+            "start": "52.4"
+        }, 
+        {
+            "text": "along a bird&#39;s migratory path -- not what\nhappens BETWEEN those points.", 
+            "dur": "3.77", 
+            "start": "56.63"
+        }, 
+        {
+            "text": "More recently, researchers finally started\nto get a better view -- a bird&#39;s-eye view,", 
+            "dur": "2.55", 
+            "start": "60.4"
+        }, 
+        {
+            "text": "in fact -- of these annual migrations, when\na bald eagle in Maryland was captured and", 
+            "dur": "3.239", 
+            "start": "62.95"
+        }, 
+        {
+            "text": "fitted with a transmitter powerful enough\nto send signals to a pair of orbiting satellites.", 
+            "dur": "4.72", 
+            "start": "66.189"
+        }, 
+        {
+            "text": "Satellite tracking revealed details of some\nremarkable migrations, like the bar-tailed", 
+            "dur": "3.911", 
+            "start": "70.909"
+        }, 
+        {
+            "text": "godwit&#39;s annual flight from Alaska to New\nZealand, during which the bird covers 11,000", 
+            "dur": "4.729", 
+            "start": "74.82"
+        }, 
+        {
+            "text": "km in about eight days without a single stop.\nBut there&#39;s a serious limitation to satellite", 
+            "dur": "5.231", 
+            "start": "79.549"
+        }, 
+        {
+            "text": "tracking devices: even with modern technology,\ntransmitters with enough oomph to send signals", 
+            "dur": "4.579", 
+            "start": "84.78"
+        }, 
+        {
+            "text": "to satellites are still far too heavy for\nsmall songbirds.", 
+            "dur": "3.57", 
+            "start": "89.359"
+        }, 
+        {
+            "text": "A slight improvement is to use gps recorders,\nwhich can be smaller because they receive", 
+            "dur": "4.491", 
+            "start": "92.929"
+        }, 
+        {
+            "text": "rather than send signals to satellites -- but\nthey&#39;re still too heavy for the smallest birds.", 
+            "dur": "4.619", 
+            "start": "97.42"
+        }, 
+        {
+            "text": "Luckily, scientists have been clever enough\nto realize they don&#39;t need satellite tracking", 
+            "dur": "3.61", 
+            "start": "102.039"
+        }, 
+        {
+            "text": "at all! Instead, we can fit birds with a tiny\nlight-level recorder, clock, and memory chip,", 
+            "dur": "5.21", 
+            "start": "105.649"
+        }, 
+        {
+            "text": "which together weigh as much as a raisin.\nLightweight light-recorders don&#39;t broadcast", 
+            "dur": "4.6", 
+            "start": "110.859"
+        }, 
+        {
+            "text": "so we need to recapture the birds to get the\ndata, but we can then use ancient navigation", 
+            "dur": "3.95", 
+            "start": "115.459"
+        }, 
+        {
+            "text": "methods to reconstruct the bird&#39;s daily location\nover the course of its journey: the length", 
+            "dur": "4.041", 
+            "start": "119.409"
+        }, 
+        {
+            "text": "of each day is an indicator of latitude, and\nthe time halfway between sunset and sunrise", 
+            "dur": "4.47", 
+            "start": "123.45"
+        }, 
+        {
+            "text": "(that is, noon) is an indicator of longitude.", 
+            "dur": "3.399", 
+            "start": "127.92"
+        }, 
+        {
+            "text": "These clever geolocators have shed light on\nthe world&#39;s speediest migration: the Great", 
+            "dur": "4.39", 
+            "start": "131.319"
+        }, 
+        {
+            "text": "snipe, which weighs about 170 grams (half\na can of soda-pop), high-tails it from Sweden", 
+            "dur": "4.89", 
+            "start": "135.709"
+        }, 
+        {
+            "text": "to Central Africa in just three days, averaging\n95 km per hour.", 
+            "dur": "4.791", 
+            "start": "140.599"
+        }, 
+        {
+            "text": "Another marathon migrator, the Arctic tern,\nhas long been credited with the longest migration", 
+            "dur": "4.7", 
+            "start": "145.39"
+        }, 
+        {
+            "text": "for its annual round-trip flight between the\nArctic and Antarctic\u2014an estimated 40,000", 
+            "dur": "5.479", 
+            "start": "150.09"
+        }, 
+        {
+            "text": "km. But recent data from light-level geolocators\nshow that terns actually travel more than", 
+            "dur": "5.071", 
+            "start": "155.569"
+        }, 
+        {
+            "text": "twice as far each year, possibly to take advantage\nof prevailing winds.", 
+            "dur": "4.129", 
+            "start": "160.64"
+        }, 
+        {
+            "text": "This means that arctic terns can rack up over\n2 and a half million kilometers of flight", 
+            "dur": "3.871", 
+            "start": "164.769"
+        }, 
+        {
+            "text": "in a lifetime -- enough for three round trips\nto the moon. But as far as we know, they haven&#39;t", 
+            "dur": "5.06", 
+            "start": "168.64"
+        }, 
+        {
+            "text": "actually made it there yet.", 
+            "dur": "0.64", 
+            "start": "173.7"
+        }
+    ], 
+    "title": "Birds that Hibernate in Lakes?!", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/015p6", 
+        "/m/0m08c9y", 
+        "/m/0jcn8"
+    ], 
+    "number_views": 1128165, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-04T01:50:56.883Z", 
+            "text": "\n\ufeff", 
+            "author": "David Brownell"
+        }, 
+        {
+            "date": "2015-05-01T21:39:40.874Z", 
+            "text": "You mean to tell me that snipes exist?? I thought they were mysterious \ncreatures made up to scare Cub Scouts, not actual, living, ordinary birds.\ufeff", 
+            "author": "Josh Campion"
+        }, 
+        {
+            "date": "2015-04-29T08:04:47.957Z", 
+            "text": "They aint going to tue moon there going to the sun ^.^\ufeff", 
+            "author": "alec cooks"
+        }, 
+        {
+            "date": "2015-04-11T14:56:36.144Z", 
+            "text": "Long long a go\ufeff", 
+            "author": "\u8881\u65b0\u6f6e"
+        }, 
+        {
+            "date": "2015-04-10T00:17:33.494Z", 
+            "text": "Holly shit! 90000km a year is quite crazy.\ufeff", 
+            "author": "EYM"
+        }, 
+        {
+            "date": "2015-04-09T13:15:17.216Z", 
+            "text": "Please define what the word \"theory\" means - thank you\ufeff", 
+            "author": "ShamGam3"
+        }, 
+        {
+            "date": "2015-03-31T17:53:30.621Z", 
+            "text": "Birds are amazing in ways I never knew.\nThey are worthy heirs to the crown of dinosaur awesomeness.\ufeff", 
+            "author": "Nigel Franklin"
+        }, 
+        {
+            "date": "2015-03-27T14:41:58.663Z", 
+            "text": "Yeah suck it birds usa got people the moon usa usa usa\ufeff", 
+            "author": "LaGalBe"
+        }, 
+        {
+            "date": "2015-03-22T21:06:25.280Z", 
+            "text": "The great snipar huuhuhuhuh\ufeff", 
+            "author": "John West"
+        }, 
+        {
+            "date": "2015-03-17T22:15:51.112Z", 
+            "text": "The title was pretty misleading\ufeff", 
+            "author": "derpy153"
+        }, 
+        {
+            "date": "2015-03-06T15:37:58.122Z", 
+            "text": "Last Part:\nA small flight for Arctic Terns, a huge migration to birdkind.\ufeff", 
+            "author": "GCDarkGGG"
+        }, 
+        {
+            "date": "2015-03-01T23:45:24.692Z", 
+            "text": "You forgot about the guy in 1822 Germany, who shot a stalk on his estate, \nwhen he noticed an arrow in the stalks neck. One of his friends noticed it \nlooked African in origin. Thats what started the research into where birds \ngo during the winter.  \ufeff", 
+            "author": "Harry Upton"
+        }, 
+        {
+            "date": "2015-02-25T16:15:54.822Z", 
+            "text": "Lol, just go where the birds go. They discovered the moon, discover \nmigration!\ufeff", 
+            "author": "KeaLeonna"
+        }, 
+        {
+            "date": "2015-02-17T01:11:51.000Z", 
+            "text": "So you're saying birds haven't been on the moon?\nWOW then how did you get those totally legit moving pictures of birds on \nthe moon?\ufeff", 
+            "author": "General JoBob"
+        }, 
+        {
+            "date": "2015-02-10T14:33:39.281Z", 
+            "text": "so the lesson is.. dont imprison birds in cages\ufeff", 
+            "author": "Jon Doe"
+        }, 
+        {
+            "date": "2015-02-06T23:41:49.226Z", 
+            "text": "so, by 1951, Holden should have goddamn known where the damn ducks went.....\n\n\n\ngrrrrr, i cant stand that fuckin book. haha \ufeff", 
+            "author": "KandaPanda"
+        }, 
+        {
+            "date": "2015-01-29T08:27:08.000Z", 
+            "text": "7000 miles in 8 days is 36 miles an hour without stopping.  Wow. EDIT: and \nthen I see the part about the great snipe.\ufeff", 
+            "author": "stylz1"
+        }, 
+        {
+            "date": "2015-01-27T00:14:30.549Z", 
+            "text": "Birds can't go to space... They don't use muscles to get food to the \nstomach.... they use gravity.\ufeff", 
+            "author": "Jeffery Sauter"
+        }, 
+        {
+            "date": "2015-01-23T14:05:40.970Z", 
+            "text": "Birds that Hibernate in Lakes?!: http://youtu.be/ZPUYBsI7Pp0\ufeff", 
+            "author": "Nivya Sivakumar"
+        }, 
+        {
+            "date": "2015-01-13T09:07:40.603Z", 
+            "text": "This was paced perfectly with clear narration, great diagrams and a good \nselection of music.  Great job.\ufeff", 
+            "author": "Teddy L Boulden"
+        }, 
+        {
+            "date": "2015-01-11T03:30:58.977Z", 
+            "text": "Sounds like the guy from AsapScience.\ufeff", 
+            "author": "jerielmari"
+        }, 
+        {
+            "date": "2015-01-10T04:36:41.965Z", 
+            "text": "what Europeans thought birds did,\ufeff", 
+            "author": "Hannibal Woodward (s8gm8)"
+        }, 
+        {
+            "date": "2015-01-10T04:34:55.747Z", 
+            "text": "this is so bad,, my native american ancestors knew this stuff,, lol\ufeff", 
+            "author": "mayamachine"
+        }, 
+        {
+            "date": "2015-01-08T00:08:10.947Z", 
+            "text": "Aww... so the title was misleading.  I got my hopes up...\ufeff", 
+            "author": "Eliot Huh"
+        }, 
+        {
+            "date": "2015-01-07T13:42:41.347Z", 
+            "text": "So birds are getting ebo la la la lala\ufeff", 
+            "author": "Kopperston"
+        }, 
+        {
+            "date": "2014-12-28T21:12:03.503Z", 
+            "text": "Cool, but why does this Channel always false advertise ? \ufeff", 
+            "author": "Le' TR show"
+        }, 
+        {
+            "date": "2014-12-28T05:47:51.599Z", 
+            "text": "This didn't say anything about the title; in other words it was absolutely \nmisleading. You bear around the bush the duration of the video, pandering \non about failed bird tracking experiments and equipment the size of \n\"raisins\". You should be ashamed you attracted this many viewers for such \nan unnecessary interruption of daily life when countless other things could \nbe of better enjoyment. Next time, answer a question without droning \npandering without resembling some pseudo-faux-for show VSauce\ufeff", 
+            "author": "Izzy Thomas"
+        }, 
+        {
+            "date": "2014-12-28T05:48:51.239Z", 
+            "text": "I apologize,  *beat ", 
+            "author": "Izzy Thomas"
+        }, 
+        {
+            "date": "2014-12-27T11:05:44.966Z", 
+            "text": "V\u0103 recomand acest videoclip pe YouTube:\ufeff", 
+            "author": "Gross Toma"
+        }, 
+        {
+            "date": "2014-12-23T09:46:01.667Z", 
+            "text": "", 
+            "author": "Lukas Garcia"
+        }, 
+        {
+            "date": "2014-12-19T09:41:02.608Z", 
+            "text": "Am I the only one who had to think \"BACKSTREET BOYS\"?\ufeff", 
+            "author": "pla1nswalk3r"
+        }, 
+        {
+            "date": "2014-12-22T06:38:40.934Z", 
+            "text": "I think you are!", 
+            "author": "srinesh shenoi"
+        }, 
+        {
+            "date": "2014-12-17T23:11:53.957Z", 
+            "text": "Why do terns go from the Arctic to the Antarctic?  Isn't it cold there \ntoo?!?!?!?!\ufeff", 
+            "author": "MCPretzelM999"
+        }, 
+        {
+            "date": "2014-12-15T02:44:15.840Z", 
+            "text": "What are Australian walking fish?\ufeff", 
+            "author": "Serheni'te Johnson"
+        }, 
+        {
+            "date": "2014-12-12T10:33:29.000Z", 
+            "text": "Hey my grandpa is Danish and he's a Mortensen. I wonder if Hans Christian \nMortensen in my lineage somehow...Denmark is pretty small. That would be \ncool.\ufeff", 
+            "author": "Shannon Fickling"
+        }, 
+        {
+            "date": "2014-12-09T01:06:08.083Z", 
+            "text": "the earths circumference is 24,000 mi. so how is a migration from pole to \npole 25,000mi? \ufeff", 
+            "author": "John Kross"
+        }, 
+        {
+            "date": "2014-12-16T05:33:01.000Z", 
+            "text": "It's a round trip, so there and back each year I think.", 
+            "author": "Steven Neidig"
+        }, 
+        {
+            "date": "2014-12-16T00:14:19.065Z", 
+            "text": "And Earth is not a perfect circle", 
+            "author": "LegitAce"
+        }, 
+        {
+            "date": "2014-12-12T15:14:34.087Z", 
+            "text": "They don't fly in an exact straight line.", 
+            "author": "Alex Papangelou"
+        }, 
+        {
+            "date": "2014-12-04T19:57:36.599Z", 
+            "text": "Wait a snipe is a real animal? So its actually possible to win a snipe hunt\ufeff", 
+            "author": "nightman365"
+        }, 
+        {
+            "date": "2015-01-22T00:11:36.000Z", 
+            "text": "+James walker At least you're not a \"squirreler\"", 
+            "author": "nightman365"
+        }, 
+        {
+            "date": "2015-01-20T14:16:50.185Z", 
+            "text": "+worldaway123 That would make me a \"elephanter\" ", 
+            "author": "James walker"
+        }, 
+        {
+            "date": "2014-12-08T02:17:33.599Z", 
+            "text": "If you'd play any sort of FPS since CoD had devolved into the modern \nregurgitation of old features, you'd know what a sniper is. The term \n\"sniper\" came from the hunters of these snipes. The hunters needed good aim \nto hit the small birds, hence the modern-day meaning of the word. \n#themoreyouknow  ", 
+            "author": "worldaway123"
+        }, 
+        {
+            "date": "2014-12-05T16:27:22.456Z", 
+            "text": "In theory: yes. But it was fools errand given to newcommers and it was \npaired with some silly, made up way of catching it and even misinformation \nabout the Snipe itself, going even as far as advising to carry rocks in \npockets and/or some chains that would make lots of noise or putting on some \nsilly disguise, basically anything a drunk hunters can come up with (and \nthe bird is hard to catch even for experienced hunter). Just like sailors \nmake up names of ropes, knots and sails in front of person that is sill \nlearning just to confuse him.\nSo in practice - he would be back empty handed unless he could find Snipe \ncarcass somewhere XD", 
+            "author": "Tariei"
+        }, 
+        {
+            "date": "2014-11-27T20:51:04.434Z", 
+            "text": "Love your music ^_^\ufeff", 
+            "author": "dipro001"
+        }, 
+        {
+            "date": "2014-11-26T22:14:10.968Z", 
+            "text": "I was lucky to meet a person who studied Whimbrels (a shorebird related to \nthat Bar-tailed Godwit mentioned in the video) and used the same type of \ntracking (the light sensor). He tagged them in Churchill, Canada and when \nthey came back a year later (they fly from Canada to Brazil) he found that \n3 of the 8 actually flew a longer trip over the Atlantic (going directly \nfrom Brazil to Canada over the ocean) than the others who stopped in South \nCarolina and Delaware. Neat stuff!\ufeff", 
+            "author": "LadySaphine"
+        }, 
+        {
+            "date": "2014-11-24T17:21:54.134Z", 
+            "text": "nice video, but the title is misleading\ufeff", 
+            "author": "Andrew Marete"
+        }, 
+        {
+            "date": "2015-03-15T01:03:30.268Z", 
+            "text": "that is to draw attention, a hook", 
+            "author": "Mr.chang cooler"
+        }, 
+        {
+            "date": "2014-11-21T15:16:59.793Z", 
+            "text": "Birds on the moon lol next thing you know ppl will say planes on the moon \nbut wait that already did happen rite?\ufeff", 
+            "author": "WhyteLis21"
+        }, 
+        {
+            "date": "2014-11-15T04:04:19.777Z", 
+            "text": "I just love minute physics.\ufeff", 
+            "author": "Peter Maurer"
+        }, 
+        {
+            "date": "2014-12-03T02:31:23.825Z", 
+            "text": "Same here", 
+            "author": "Agent Raf"
+        }, 
+        {
+            "date": "2014-11-11T08:12:00.162Z", 
+            "text": "Wow, ancient people were dumb asses. Thank God our brains are evolved and \nwe are smarter now.\ufeff", 
+            "author": "SoreThumbsBill"
+        }, 
+        {
+            "date": "2015-05-03T03:49:58.090Z", 
+            "text": "+SoreThumbsBill The brains of people now days are practically identical to \npeople thousands of years ago, let alone a few hundred. It's just that they \nlacked information. I can believe it to; most people now days are idiots, \nand we have the information to make them not idiots, so imagine how people \nnow days would act when raised hundreds of years ago.", 
+            "author": "cortster12"
+        }, 
+        {
+            "date": "2015-04-04T03:03:39.724Z", 
+            "text": "Lol, I would love to see what people in the 2200's would say about us.", 
+            "author": "Stephen Waldron"
+        }, 
+        {
+            "date": "2015-04-02T16:25:09.687Z", 
+            "text": "+Vicary Archangel Sir Isaac Newton agreed with you. He is famously quoted \nas saying that if he could see farther than others, it was because he stood \non the shoulders of giants.", 
+            "author": "Allan Richardson"
+        }, 
+        {
+            "date": "2015-03-02T14:26:24.554Z", 
+            "text": "Our understanding of how some things work greatly changes our understanding \nof how other things work* example 2: our acceptance of the existence of \ngravity led to further understandings in physics and people stopped trying \nto make wings to strap to their arms and flap to fly...", 
+            "author": "thehALomolov2"
+        }, 
+        {
+            "date": "2015-03-02T14:22:30.895Z", 
+            "text": "Our brains didn't evolve... Our understanding of how things work greatly \nchanges how other things work. Example: the earth isn't the center of the \ngalaxy/ universe with the sun orbiting it so now we understand how us and \nother planets and moons and so on works.", 
+            "author": "thehALomolov2"
+        }, 
+        {
+            "date": "2015-02-02T05:01:57.423Z", 
+            "text": "+CocktaiLMolotovX are you sure i'm believeing in visible god? assuming \nsomething you don't know makes you a dumb one too. moron ", 
+            "author": "Meg\u00e1los Epitychia"
+        }, 
+        {
+            "date": "2015-02-02T04:48:25.828Z", 
+            "text": "Seems like your brain hasn't caught up yet...", 
+            "author": "adam polcyn"
+        }, 
+        {
+            "date": "2015-01-30T13:21:27.924Z", 
+            "text": "+Vicary Archangel Couldn't have said it better myself!\n ", 
+            "author": "Spaceguy ganyion"
+        }, 
+        {
+            "date": "2015-01-29T03:49:41.156Z", 
+            "text": "It's the education that differs, not the intelligence. Our ancestors all \ncontributed to our knowledge at this moment, better not blame them.", 
+            "author": "Vicary Archangel"
+        }, 
+        {
+            "date": "2014-12-24T20:49:46.733Z", 
+            "text": "+CocktaiLMolotovX nope, you're wrong. better luck nexttime. HA!!", 
+            "author": "Meg\u00e1los Epitychia"
+        }, 
+        {
+            "date": "2014-12-24T19:18:49.325Z", 
+            "text": "+CocktaiLMolotovX Believing in what is supported by evidence and real is \nquite different from believing in myths and fairy tales which cannot be \nproven.\n\nWhile people who go to far in their quest for riches, believing in its \nexistance is not dumb but simply accepting reality.  There really is no \nparity for with faith and the simply recognizing things exist due to fact. ", 
+            "author": "theuglykwan"
+        }, 
+        {
+            "date": "2014-12-24T16:55:55.603Z", 
+            "text": "+Basil TheGreat Everybody believe in something.\nSome people believe in invisible god, and the other (like you) believe in \nvisible god.\nIn this case, your god can be monney, your house, material goods, your self \nor your car.\nTherefore, you are exactly the same dumb one, except with a material god.", 
+            "author": "CocktaiLMolotovX"
+        }, 
+        {
+            "date": "2014-12-24T08:30:04.753Z", 
+            "text": "believing in god makes you a dumb one.", 
+            "author": "Meg\u00e1los Epitychia"
+        }, 
+        {
+            "date": "2014-12-21T10:14:23.200Z", 
+            "text": "Well its both good and bad because if we stayed as our less evolved homo \nsapiens we wouldnt destroy our own world but the we wouldnt help it either\n(Helping other species)", 
+            "author": "The channel with Erik"
+        }, 
+        {
+            "date": "2014-12-20T10:41:32.237Z", 
+            "text": "The people you are talking about are old european.\nSumerian, Egyption, people of Mue, was more intelligent than you can expect.\nPeople from Irak discover electrolyse there is 2 thousand years ago.\nThe dumb people are modern people, and they love idea to think there are \nsmart than ancient people.\nThe same way by children, who think they are clever more than their parents.", 
+            "author": "CocktaiLMolotovX"
+        }, 
+        {
+            "date": "2014-12-18T04:17:36.508Z", 
+            "text": "RUDE!!!", 
+            "author": "Wintar"
+        }, 
+        {
+            "date": "2015-01-29T04:44:25.000Z", 
+            "text": "+strattgatt\u200b Amen to those words. If those ancient dumb asses didn't make \ntheir own theories, today we would know shit. Also, if they did have \ntechnology we have today, who would be a dumb ass? ALSO, what will people \nsay in 500 years? Wipl we be dumb asses in their eyes?", 
+            "author": "Zero Cool"
+        }, 
+        {
+            "date": "2014-12-11T00:14:43.135Z", 
+            "text": "Those ancient dumb asses were also known as the best scientists of the day.", 
+            "author": "strattgatt"
+        }, 
+        {
+            "date": "2014-12-08T10:56:24.986Z", 
+            "text": "+MrAerohank\nHeh, this man gets it!", 
+            "author": "SoreThumbsBill"
+        }, 
+        {
+            "date": "2014-12-08T10:54:57.995Z", 
+            "text": "The irony of your comment made me chuckle, thanks Bill!", 
+            "author": "MrAerohank"
+        }, 
+        {
+            "date": "2014-11-09T17:28:29.919Z", 
+            "text": "11000 KM in 8 days without a singe stop??? I dont belive it its just a \nbird \ufeff", 
+            "author": "letzUploadit"
+        }, 
+        {
+            "date": "2014-11-08T19:04:09.412Z", 
+            "text": "wow... how could they fly non-stop for days o_O\"???\ufeff", 
+            "author": "Zerus Zephuros"
+        }, 
+        {
+            "date": "2014-11-08T01:48:29.719Z", 
+            "text": "If fitted with a perfect suit could a bird fly in space?\ufeff", 
+            "author": "Makiyah Rifenberg"
+        }, 
+        {
+            "date": "2014-11-09T06:13:13.067Z", 
+            "text": "there is no air in space for the bird to push it with his wings so i doubt \nit.\nbut who knows what creatures can do or not we dont really know much about \nearth or the creatures live in it", 
+            "author": "abudahm a"
+        }, 
+        {
+            "date": "2014-10-27T19:38:43.460Z", 
+            "text": "Woooot Arctic Terns !  I love their cry !\ufeff", 
+            "author": "pipuk3"
+        }, 
+        {
+            "date": "2014-12-03T02:32:44.554Z", 
+            "text": "I'm more astonished on how far they can travel", 
+            "author": "Agent Raf"
+        }, 
+        {
+            "date": "2014-10-18T08:41:30.012Z", 
+            "text": "Genius! \n\nI feel like there's a lot more about this topic that can still be explored \nin further videos. Perhaps a video explaining how birds migrate, and one \nexplaining why they migrate?\ufeff", 
+            "author": "Alex Kennedy"
+        }, 
+        {
+            "date": "2014-09-22T17:53:08.785Z", 
+            "text": "iS THAT THE FREE WILLY THEME SONG, ALL CAPS, LOL\ufeff", 
+            "author": "Kraaken Hex"
+        }, 
+        {
+            "date": "2014-09-21T01:18:33.191Z", 
+            "text": "we were really stupid back then..\ufeff", 
+            "author": "Neko Tomoshibi"
+        }, 
+        {
+            "date": "2014-09-19T16:23:59.230Z", 
+            "text": "I wonder if a bird flew as far up as to the atmosphere\ufeff", 
+            "author": "FairyTale0205"
+        }, 
+        {
+            "date": "2014-09-19T07:40:21.038Z", 
+            "text": "This video left me with an open mouth... Incredible facts\ufeff", 
+            "author": "Marco Dianti"
+        }, 
+        {
+            "date": "2014-09-13T14:37:05.813Z", 
+            "text": "imagine if a bird flew so high there was no air   LOL\ufeff", 
+            "author": "JDat99"
+        }, 
+        {
+            "date": "2014-10-21T20:03:49.247Z", 
+            "text": "pass on that joint man...", 
+            "author": "Francisco Rubianes"
+        }, 
+        {
+            "date": "2014-10-02T23:54:35.601Z", 
+            "text": "+liam clements I try XD", 
+            "author": "Frost Chain"
+        }, 
+        {
+            "date": "2014-10-02T23:17:52.593Z", 
+            "text": "Wow frost chain, you must be fun at parties", 
+            "author": "liam clements"
+        }, 
+        {
+            "date": "2014-09-30T20:30:22.397Z", 
+            "text": "That's not really possible since the flight of birds is only possible with \nthe presence of air. Without it, they would fall to the ground.", 
+            "author": "Frost Chain"
+        }, 
+        {
+            "date": "2014-09-05T03:09:05.458Z", 
+            "text": "wtf, nice fucking title\ufeff", 
+            "author": "nybombs"
+        }, 
+        {
+            "date": "2014-08-27T18:03:54.171Z", 
+            "text": "You missed out the story of a Stork discovered in 1822 in Germany with a \nCentral African spear in its neck.\ufeff", 
+            "author": "Saul Tanakh"
+        }, 
+        {
+            "date": "2014-08-13T08:48:40.900Z", 
+            "text": "Hans Christian Mortensen, interesting. Related to Andersen, but Mortensen's \nbook is 'The Bird Queen,' related to the 'Snow Queen.'\ufeff", 
+            "author": "Jave Lafuente"
+        }, 
+        {
+            "date": "2014-08-09T14:39:06.751Z", 
+            "text": "U guy make learning that much better \ufeff", 
+            "author": "Lolgirl3481"
+        }, 
+        {
+            "date": "2014-10-10T22:45:18.109Z", 
+            "text": "+Freakin'EnderManGuy loll!", 
+            "author": "sc0tte1"
+        }, 
+        {
+            "date": "2014-08-19T17:13:32.542Z", 
+            "text": "Looks like you still have learning to do.", 
+            "author": "Freakin'EnderManGuy"
+        }, 
+        {
+            "date": "2014-08-01T08:06:38.510Z", 
+            "text": "when you pointed antarktika you pinpointed geenland! :3\ufeff", 
+            "author": "Helene Hansen"
+        }, 
+        {
+            "date": "2014-07-30T11:47:47.758Z", 
+            "text": "Wow! #science #biology #birds  \ufeff", 
+            "author": "SelfishNeuron"
+        }, 
+        {
+            "date": "2014-07-27T17:22:56.100Z", 
+            "text": "Didn't Byrd go to the North Pole? ... and back?  \ufeff", 
+            "author": "Ted Hart"
+        }, 
+        {
+            "date": "2014-07-27T14:29:52.537Z", 
+            "text": "As far as you know... :)\nMaybe they fly to the moon and we dont even know it :o\ufeff", 
+            "author": "Stehaufmaennchen"
+        }, 
+        {
+            "date": "2014-07-26T01:15:15.202Z", 
+            "text": "Woooow... i still haven't lifted my jaw off the floor... \n3 round trips to the moon lol. That is fucking crazy\ufeff", 
+            "author": "ap2pat"
+        }, 
+        {
+            "date": "2014-07-24T18:34:54.241Z", 
+            "text": "Mind = blown!\ufeff", 
+            "author": "Old king cole was a merry old soul and a merry old soul was he"
+        }, 
+        {
+            "date": "2014-07-24T12:02:16.656Z", 
+            "text": "This is why I hate to see birds in cages!!! Any kind of bird. People who \nhas birds in cages at home are SICK.\ufeff", 
+            "author": "Alice Doerre"
+        }, 
+        {
+            "date": "2014-07-22T03:52:56.595Z", 
+            "text": "why the hell do they go all the way from north to south? that's huge waste \nof energy!\ufeff", 
+            "author": "praspurgh"
+        }, 
+        {
+            "date": "2014-07-20T21:16:48.363Z", 
+            "text": "misleading giler babi!\ufeff", 
+            "author": "pacatcacat"
+        }, 
+        {
+            "date": "2014-07-20T11:20:56.268Z", 
+            "text": "filemnya jelek\ufeff", 
+            "author": "udin udin"
+        }, 
+        {
+            "date": "2014-07-20T00:47:22.569Z", 
+            "text": "LOL.....!\nThe comments are just as exciting as the short video..!   :)\nThe things people will argue about.  :)\ufeff", 
+            "author": "Nitrous Banshee"
+        }, 
+        {
+            "date": "2014-07-19T19:13:26.775Z", 
+            "text": "theres no such thing as a snipe.\ufeff", 
+            "author": "Brian Wnek"
+        }, 
+        {
+            "date": "2014-07-19T17:20:38.332Z", 
+            "text": "i get the moon thing. but how do yo explain their theory about the lakes. i \nthink the lake thing was just a made up excuse to tell the commoners. \ufeff", 
+            "author": "Daniel Murillo"
+        }, 
+        {
+            "date": "2014-07-15T23:40:55.744Z", 
+            "text": "i wanna be a bird so i can travel whenever i want\ufeff", 
+            "author": "Time Traveler"
+        }, 
+        {
+            "date": "2014-07-07T21:34:21.087Z", 
+            "text": "If they go to the moon won't they die I mean they'd have to breath oxygen? \nRight?\ufeff", 
+            "author": "Ira Chourey"
+        }, 
+        {
+            "date": "2014-10-13T00:29:08.717Z", 
+            "text": "Give this person a Nobel Prize.", 
+            "author": "MidgardEagle"
+        }, 
+        {
+            "date": "2014-07-19T17:18:18.696Z", 
+            "text": "they didnt know back then that there was a near vacuum in very high \naltitudes from earth.  ", 
+            "author": "Daniel Murillo"
+        }, 
+        {
+            "date": "2014-07-19T10:19:41.435Z", 
+            "text": "birds breath? heretic!", 
+            "author": "surrealnumber"
+        }, 
+        {
+            "date": "2014-07-08T20:39:42.688Z", 
+            "text": "Good reason. :)", 
+            "author": "Ira Chourey"
+        }, 
+        {
+            "date": "2014-07-08T19:38:43.059Z", 
+            "text": "Oh god... My eyes are bleeding", 
+            "author": "Pepe Peperoni"
+        }, 
+        {
+            "date": "2014-06-06T20:58:47.633Z", 
+            "text": "It's too bad the birds aren't collecting frequent flyer points.\ufeff", 
+            "author": "Ragnar D"
+        }, 
+        {
+            "date": "2014-06-04T03:36:07.186Z", 
+            "text": "Those were small lugias\ufeff", 
+            "author": "Kak Hafd"
+        }, 
+        {
+            "date": "2014-05-30T19:57:09.653Z", 
+            "text": "A DANISH GUUUY! VUUUHUUU!\ufeff", 
+            "author": "Tecnicjoker dk (subscribe)"
+        }, 
+        {
+            "date": "2014-05-27T22:06:05.162Z", 
+            "text": "I know it's bad, but when they said Arctic Turn, I instantly thought of \nColin Mochrie. \ufeff", 
+            "author": "Raidfreak"
+        }, 
+        {
+            "date": "2014-05-24T06:26:10.831Z", 
+            "text": "After reading the title, I thought I was going to learn about something \nthat I've never heard about before!\n\nThen I was pretty disappointed when the video was all about what I already \nknew.\ufeff", 
+            "author": "Icewind007"
+        }, 
+        {
+            "date": "2014-05-16T02:54:47.709Z", 
+            "text": "Subscribed.\ufeff", 
+            "author": "Rich Eckardt"
+        }, 
+        {
+            "date": "2014-05-14T05:04:25.998Z", 
+            "text": "A million miles or more.\ufeff", 
+            "author": "Scott Linford"
+        }, 
+        {
+            "date": "2014-05-14T16:13:09.754Z", 
+            "text": "+Oksana Starzhynska agreed. That is the message for young would-be \nscientists: no end to fun mysteries waiting to be solved. \n\nI'm amazed by the ingenuity, the pure creative genius that invented \ngeo-recording device the size of a raisin. Science at its best.", 
+            "author": "Scott Linford"
+        }, 
+        {
+            "date": "2014-05-14T15:54:55.484Z", 
+            "text": "+Scott Linford I'd even stop with \"how little we know\":-))", 
+            "author": "Oksana Starzhynska"
+        }, 
+        {
+            "date": "2014-05-14T13:48:26.663Z", 
+            "text": "Amazing creatures. How little we know about them even now.", 
+            "author": "Scott Linford"
+        }, 
+        {
+            "date": "2014-05-14T05:15:44.170Z", 
+            "text": "That's pretty cool! I'd like to see birds fly to the moon. ", 
+            "author": "Allen Powers"
+        }, 
+        {
+            "date": "2014-05-06T22:46:13.968Z", 
+            "text": "Wich program do you use to make the videos ?\ufeff", 
+            "author": "Francisco Esteves"
+        }, 
+        {
+            "date": "2014-04-29T19:25:04.177Z", 
+            "text": "dissapointing...\ufeff", 
+            "author": "Honeybee2908"
+        }, 
+        {
+            "date": "2014-04-23T13:50:07.155Z", 
+            "text": "Can't believe that some people were thinking that birds hibernates in the \nlakes.\ufeff", 
+            "author": "CPC VIRUS"
+        }, 
+        {
+            "date": "2014-04-22T21:25:02.717Z", 
+            "text": "I guess if I didn't know anything about migration or had heard of it, it \nwould seem kind of impossible that birds could fly or even would know how \nto fly from say Canada to South America.  But then you do have to wonder, \nwhy would they think it could fly the distance to the moon and not the \nequator? \ufeff", 
+            "author": "Marley robertson"
+        }, 
+        {
+            "date": "2014-06-17T02:46:38.481Z", 
+            "text": "People back then had absolutely no concept of plate tectonics, nor did they \nhave any clue about the age of the Earth. It would have been extremely \ndifficult (impossible really) for them to understand how the birds could \nhave evolved to travel such distances without knowing those two key facts.", 
+            "author": "ExperienceCounts2"
+        }, 
+        {
+            "date": "2014-04-27T02:06:27.640Z", 
+            "text": "when you've got no real concept of how far away the moon is then you ask \nyourself one question: which is closer, Rio de Janeiro or the Moon? and I \ncan't see Rio so it must be further away...", 
+            "author": "hundredandonenames"
+        }, 
+        {
+            "date": "2014-04-21T20:37:31.668Z", 
+            "text": "Hey i have an idea lets send a bird to the moon and watch it while it flies \nback :D\ufeff", 
+            "author": "DaBlueBoy2202"
+        }, 
+        {
+            "date": "2014-04-19T08:25:10.240Z", 
+            "text": "I wish I were a bird..\ufeff", 
+            "author": "Theonegamefreak"
+        }, 
+        {
+            "date": "2014-04-15T07:51:46.639Z", 
+            "text": "LOL stupid humans\ufeff", 
+            "author": "Dark6star"
+        }, 
+        {
+            "date": "2014-04-14T23:12:46.557Z", 
+            "text": "I see I'm not the only person who clicked on this video thinking that we \nwere going to be learning about birds that hibernated under ice. The \ndisapointment is real\ufeff", 
+            "author": "GriffinGreen"
+        }, 
+        {
+            "date": "2014-04-30T20:29:23.831Z", 
+            "text": "im also disapointed", 
+            "author": "KinghtofZero00"
+        }, 
+        {
+            "date": "2014-04-20T17:00:52.091Z", 
+            "text": "I taught just the same as you", 
+            "author": "karim bouya"
+        }, 
+        {
+            "date": "2014-04-11T17:18:20.096Z", 
+            "text": "So... Where did they go exactly? :/\ufeff", 
+            "author": "Katharina C-paws"
+        }, 
+        {
+            "date": "2014-04-09T17:09:21.922Z", 
+            "text": "Is there a way to know what altitude these birds fly at?\ufeff", 
+            "author": "TurdFurgeson571"
+        }, 
+        {
+            "date": "2014-04-07T02:12:35.702Z", 
+            "text": "one small swing of wings to a bird, a giant flap to bird-kind\ufeff", 
+            "author": "GeekJokes"
+        }, 
+        {
+            "date": "2014-04-05T22:10:27.730Z", 
+            "text": "This is about migration, not birds under lakes.  You lied to me.\ufeff", 
+            "author": "Dominus Felis"
+        }, 
+        {
+            "date": "2014-04-03T19:30:21.685Z", 
+            "text": ":D\ufeff", 
+            "author": "tony xochipa"
+        }, 
+        {
+            "date": "2014-04-01T14:27:21.250Z", 
+            "text": "i was convinced in the first 5 seconds of the video that a certain bird \nhibernated under water lol\ufeff", 
+            "author": "paulio4545"
+        }, 
+        {
+            "date": "2014-03-29T08:50:11.667Z", 
+            "text": "", 
+            "author": "Mihai Andrei Stanimir"
+        }, 
+        {
+            "date": "2014-03-28T13:25:54.752Z", 
+            "text": "And I'm still to lazy to go to the fridge to get food \u0e4f_\u0e4f\ufeff", 
+            "author": "G.F.Y Klaus"
+        }, 
+        {
+            "date": "2014-03-21T01:36:04.707Z", 
+            "text": "Wow I just love these videos!\ufeff", 
+            "author": "Allison Wahlsten"
+        }, 
+        {
+            "date": "2014-03-18T22:18:56.069Z", 
+            "text": "I love how you use titles that have a small spot, very little, or nothing \nto do with the video.\ufeff", 
+            "author": "SwordCrazy"
+        }, 
+        {
+            "date": "2014-03-16T01:07:36.387Z", 
+            "text": "Why do you say this: \"They haven't GONE there yet\"? Isn't the correct \nphrase like his: They haven't BEEN there yet?\nThanks anyway :)\ufeff", 
+            "author": "MI Cu"
+        }, 
+        {
+            "date": "2014-03-14T17:19:04.160Z", 
+            "text": "Damn MinuteEarth videos are challenging, I usually play FarmVille 2 or \nsomething else meanwhile for more entertainment & multitasking, but I have \nto repeat the video like 5-10 times to memorize it & keep notes in a \nnotepad of the important/cool/interesting stuff in it as well as unknown \nwords.\ufeff", 
+            "author": "SrmthfgRockLee"
+        }, 
+        {
+            "date": "2014-03-07T12:43:06.871Z", 
+            "text": "Did you hear? Bird is the word\n\nBird, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, the bird is the word\nA-well-a, bird, bird, bird, well, the bird is the word\nA-well-a, bird, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, well, the bird is the word\nA-well-a, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, well, the bird is the word\nA-well-a, bird, bird, b-bird's the word\nA-well-a, don't you know about the bird\nWell, everybody knows that the bird is the word\nA-well-a, bird, bird, b-bird's the word\nA-well-a\nA-well-a, everybody's heard about the bird\nBird, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, b-bird's the word\nA-well-a, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, b-bird's the word\nA-well-a, bird, bird, bird, b-bird's the word\nA-well-a, don't you know about the bird\nWell, everybody's talking about the bird\nA-well-a, bird, bird, b-bird's the word\nA-well-a, bird\nSurfin' bird\nBbbbbbbbbbbbbbbbbb, aaah\nPa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa\nPa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-pa-ooma-mow-mow\nPapa-ooma-mow-mow\nPapa-ooma-mow-mow, papa-ooma-mow-mow\nPapa-ooma-mow-mow, papa-ooma-mow-mow\nOoma-mow-mow, papa-ooma-mow-mow\nPapa-ooma-mow-mow, papa-ooma-mow-mow\nPapa-ooma-mow-mow, papa-ooma-mow-mow\nOom-oom-oom-oom-ooma-mow-mow\nPapa-ooma-mow-mow, papa-oom-oom-oom\nOom-ooma-mow-mow, papa-ooma-mow-mow\nOoma-mow-mow, papa-ooma-mow-mow\nPapa-a-mow-mow, papa-ooma-mow-mow\nPapa-ooma-mow-mow, ooma-mow-mow\nPapa-ooma-mow-mow, ooma-mow-mow\nPapa-oom-oom-oom-oom-ooma-mow-mow\nOom-oom-oom-oom-ooma-mow-mow\nOoma-mow-mow, papa-ooma-mow-mow\nPapa-ooma-mow-mow, ooma-mow-mow\nWell, don't you know about the bird\nWell, everybody knows that the bird is the word\nA-well-a, bird, bird, b-bird's the word\nPapa-ooma-mow-mow, papa-ooma-mow-mow\nPapa-ooma-mow-mow, papa-ooma-mow-mow\nPapa-ooma-mow-mow, papa-ooma-mow-mow...\ufeff", 
+            "author": "svnelvn"
+        }, 
+        {
+            "date": "2014-07-04T00:53:58.476Z", 
+            "text": "wat", 
+            "author": "2000gmod"
+        }, 
+        {
+            "date": "2014-03-07T04:38:35.021Z", 
+            "text": "wow, I just learned more in 3 minutes than I have in a whole week on \nfreshman college courses. :P\ufeff", 
+            "author": "Garrett Shadwell"
+        }
+    ]
+}

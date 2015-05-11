@@ -1,0 +1,948 @@
+{
+    "publish_date": "2011-11-28T08:52:15.000Z", 
+    "video_length": "PT4M20S", 
+    "captions": [
+        {
+            "text": "BRADY HARAN: So we&#39;re going to\ntalk about the number 8,128.", 
+            "dur": "4.09", 
+            "start": "0.07"
+        }, 
+        {
+            "text": "And it&#39;s a famous type of number\ncalled perfect number.", 
+            "dur": "3.53", 
+            "start": "4.16"
+        }, 
+        {
+            "text": "Now, this was the largest\nperfect number known in", 
+            "dur": "3.98", 
+            "start": "7.69"
+        }, 
+        {
+            "text": "antiquity, or for\nvery long time.", 
+            "dur": "2.5", 
+            "start": "11.67"
+        }, 
+        {
+            "text": "But what is a perfect number?", 
+            "dur": "1.77", 
+            "start": "14.17"
+        }, 
+        {
+            "text": "The smallest perfect number\nis the number six.", 
+            "dur": "4.15", 
+            "start": "18.63"
+        }, 
+        {
+            "text": "So let&#39;s look at\nthe number six.", 
+            "dur": "1.65", 
+            "start": "22.78"
+        }, 
+        {
+            "text": "Now what does it mean?", 
+            "dur": "1.67", 
+            "start": "24.43"
+        }, 
+        {
+            "text": "What divides into six?", 
+            "dur": "2.33", 
+            "start": "26.1"
+        }, 
+        {
+            "text": "Well one divides into six.", 
+            "dur": "1.835", 
+            "start": "28.43"
+        }, 
+        {
+            "text": "That&#39;s always true.", 
+            "dur": "1.435", 
+            "start": "30.265"
+        }, 
+        {
+            "text": "Two divides into six.", 
+            "dur": "1.86", 
+            "start": "31.7"
+        }, 
+        {
+            "text": "And three divides into six.", 
+            "dur": "2.27", 
+            "start": "33.56"
+        }, 
+        {
+            "text": "Now, six does divide as well,\nbut for what we&#39;re going to", 
+            "dur": "2.92", 
+            "start": "35.83"
+        }, 
+        {
+            "text": "do, we&#39;re going to ignore\nthe number itself.", 
+            "dur": "2.27", 
+            "start": "38.75"
+        }, 
+        {
+            "text": "So ignore six.", 
+            "dur": "1.38", 
+            "start": "41.02"
+        }, 
+        {
+            "text": "But if we add up the numbers\nthat divide six--", 
+            "dur": "2.47", 
+            "start": "42.4"
+        }, 
+        {
+            "text": "one, two, and three-- add them\ntogether, and we get the", 
+            "dur": "5.28", 
+            "start": "44.87"
+        }, 
+        {
+            "text": "number six.", 
+            "dur": "0.79", 
+            "start": "50.15"
+        }, 
+        {
+            "text": "We get the number itself.", 
+            "dur": "2.43", 
+            "start": "50.94"
+        }, 
+        {
+            "text": "So this is a perfect number\nbecause the divisors add up to", 
+            "dur": "3.82", 
+            "start": "53.37"
+        }, 
+        {
+            "text": "the number itself.", 
+            "dur": "1.08", 
+            "start": "57.19"
+        }, 
+        {
+            "text": "It&#39;s not too small, and\nit&#39;s not too big.", 
+            "dur": "2.65", 
+            "start": "58.27"
+        }, 
+        {
+            "text": "It&#39;s just right.", 
+            "dur": "1.18", 
+            "start": "60.92"
+        }, 
+        {
+            "text": "It&#39;s perfect.", 
+            "dur": "0.93", 
+            "start": "62.1"
+        }, 
+        {
+            "text": "And in antiquity, they\nwere given this", 
+            "dur": "1.9", 
+            "start": "63.03"
+        }, 
+        {
+            "text": "rare, perfect property.", 
+            "dur": "3.21", 
+            "start": "64.93"
+        }, 
+        {
+            "text": "So the next one, after\n6, is the number 28.", 
+            "dur": "4.57", 
+            "start": "68.14"
+        }, 
+        {
+            "text": "Let&#39;s write that down.", 
+            "dur": "1.15", 
+            "start": "72.71"
+        }, 
+        {
+            "text": "28.", 
+            "dur": "2.29", 
+            "start": "73.86"
+        }, 
+        {
+            "text": "So what divides 28?", 
+            "dur": "2.21", 
+            "start": "76.15"
+        }, 
+        {
+            "text": "Add these together, and\nyou get the number 28.", 
+            "dur": "5.49", 
+            "start": "78.36"
+        }, 
+        {
+            "text": "It&#39;s the second perfect\nnumber.", 
+            "dur": "1.76", 
+            "start": "83.85"
+        }, 
+        {
+            "text": "The third perfect number after\nthat, bit of a gap after that,", 
+            "dur": "4.16", 
+            "start": "85.61"
+        }, 
+        {
+            "text": "the third perfect\nnumber is 496.", 
+            "dur": "6.88", 
+            "start": "89.77"
+        }, 
+        {
+            "text": "Let&#39;s look at the divisors\nof this.", 
+            "dur": "2", 
+            "start": "96.65"
+        }, 
+        {
+            "text": "And we&#39;ve got 1.", 
+            "dur": "1.66", 
+            "start": "98.65"
+        }, 
+        {
+            "text": "Quite a few of these.", 
+            "dur": "1.03", 
+            "start": "100.31"
+        }, 
+        {
+            "text": "2, 62, 124, 248.", 
+            "dur": "4.78", 
+            "start": "101.34"
+        }, 
+        {
+            "text": "We&#39;re running off the edge.", 
+            "dur": "1.57", 
+            "start": "106.12"
+        }, 
+        {
+            "text": "We add all this together in\nthe same way as before.", 
+            "dur": "3.36", 
+            "start": "107.69"
+        }, 
+        {
+            "text": "We get 496 again.", 
+            "dur": "3.07", 
+            "start": "111.05"
+        }, 
+        {
+            "text": "It&#39;s perfect.", 
+            "dur": "1.37", 
+            "start": "114.12"
+        }, 
+        {
+            "text": "Now, there&#39;s only one perfect\nnumber between 1 and 10.", 
+            "dur": "3.36", 
+            "start": "115.49"
+        }, 
+        {
+            "text": "That&#39;s the number 6.", 
+            "dur": "1.15", 
+            "start": "118.85"
+        }, 
+        {
+            "text": "There&#39;s only one perfect number\nbetween 10 and 100.", 
+            "dur": "3.022", 
+            "start": "120"
+        }, 
+        {
+            "text": "That&#39;s 28.", 
+            "dur": "1.298", 
+            "start": "123.022"
+        }, 
+        {
+            "text": "There&#39;s only one perfect number\nbetween 100 and 1,000--", 
+            "dur": "4.155", 
+            "start": "124.32"
+        }, 
+        {
+            "text": "496.", 
+            "dur": "1.455", 
+            "start": "128.475"
+        }, 
+        {
+            "text": "And there is only one perfect\nnumber between 1,000 and", 
+            "dur": "3.96", 
+            "start": "129.93"
+        }, 
+        {
+            "text": "10,000, and that is 8,128.", 
+            "dur": "4.6", 
+            "start": "133.89"
+        }, 
+        {
+            "text": "Let&#39;s try it out then, OK?", 
+            "dur": "1.77", 
+            "start": "138.49"
+        }, 
+        {
+            "text": "1, 2, 4, 8, 2,032, and 4,064.", 
+            "dur": "14.83", 
+            "start": "140.26"
+        }, 
+        {
+            "text": "Add those together in the same\nway, and you will get 8,128.", 
+            "dur": "6.95", 
+            "start": "155.09"
+        }, 
+        {
+            "text": "Today, even with our computers\nthat can compute massive", 
+            "dur": "4.1", 
+            "start": "162.04"
+        }, 
+        {
+            "text": "numbers, we have only found\n47 perfect numbers.", 
+            "dur": "4.95", 
+            "start": "166.14"
+        }, 
+        {
+            "text": "That is all.", 
+            "dur": "1.8", 
+            "start": "171.09"
+        }, 
+        {
+            "text": "Four were known to the\nancient Greeks.", 
+            "dur": "3.04", 
+            "start": "172.89"
+        }, 
+        {
+            "text": "Still today, 21st century,\n47 we&#39;ve got.", 
+            "dur": "4.15", 
+            "start": "175.93"
+        }, 
+        {
+            "text": "There may be more.", 
+            "dur": "1.68", 
+            "start": "180.08"
+        }, 
+        {
+            "text": "There may not be.", 
+            "dur": "0.69", 
+            "start": "181.76"
+        }, 
+        {
+            "text": "We don&#39;t know if there&#39;s\nan infinite", 
+            "dur": "1.81", 
+            "start": "182.45"
+        }, 
+        {
+            "text": "many of these numbers.", 
+            "dur": "2", 
+            "start": "184.26"
+        }, 
+        {
+            "text": "And that&#39;s an open question.", 
+            "dur": "2.67", 
+            "start": "186.26"
+        }, 
+        {
+            "text": "You&#39;d think that that&#39;s\nsomething we", 
+            "dur": "1.3", 
+            "start": "188.93"
+        }, 
+        {
+            "text": "would know by now.", 
+            "dur": "0.97", 
+            "start": "190.23"
+        }, 
+        {
+            "text": "Are there infinitely many of\nthese or aren&#39;t there?", 
+            "dur": "2.19", 
+            "start": "191.2"
+        }, 
+        {
+            "text": "We don&#39;t know the answer\nto that yet.", 
+            "dur": "2.7", 
+            "start": "193.39"
+        }, 
+        {
+            "text": "MALE SPEAKER 2: What&#39;s the\nbiggest perfect number?", 
+            "dur": "2.53", 
+            "start": "196.09"
+        }, 
+        {
+            "text": "BRADY HARAN: So far?", 
+            "dur": "1.68", 
+            "start": "198.62"
+        }, 
+        {
+            "text": "I wouldn&#39;t know that.", 
+            "dur": "0.86", 
+            "start": "200.3"
+        }, 
+        {
+            "text": "Let&#39;s find out the largest\nperfect number.", 
+            "dur": "5.25", 
+            "start": "201.16"
+        }, 
+        {
+            "text": "Well, Wolfram Alpha says, do\nyou mean largest integer?", 
+            "dur": "4.11", 
+            "start": "206.41"
+        }, 
+        {
+            "text": "There&#39;s no largest integer.", 
+            "dur": "1.55", 
+            "start": "210.52"
+        }, 
+        {
+            "text": "So that&#39;s helpful.", 
+            "dur": "1.67", 
+            "start": "212.07"
+        }, 
+        {
+            "text": "Interestingly, we don&#39;t know\nif there are odd perfect", 
+            "dur": "3.9", 
+            "start": "213.74"
+        }, 
+        {
+            "text": "numbers either.", 
+            "dur": "1.09", 
+            "start": "217.64"
+        }, 
+        {
+            "text": "All the perfect numbers we\nhave found are even.", 
+            "dur": "2.6", 
+            "start": "218.73"
+        }, 
+        {
+            "text": "That&#39;s another question\nwe don&#39;t know.", 
+            "dur": "4.024", 
+            "start": "221.33"
+        }, 
+        {
+            "text": "The largest known perfect\nnumber is, apparently,", 
+            "dur": "5.196", 
+            "start": "225.354"
+        }, 
+        {
+            "text": "1,791,000 digits long.", 
+            "dur": "8.72", 
+            "start": "230.55"
+        }, 
+        {
+            "text": "Don&#39;t ask me to say it.", 
+            "dur": "0.87", 
+            "start": "239.27"
+        }, 
+        {
+            "text": "We could be here\n&#39;til next week.", 
+            "dur": "1.45", 
+            "start": "240.14"
+        }, 
+        {
+            "text": "But that is the full thing.", 
+            "dur": "2.575", 
+            "start": "241.59"
+        }, 
+        {
+            "text": "Nearly 2 million digits long.", 
+            "dur": "2.94", 
+            "start": "247.71"
+        }, 
+        {
+            "text": "I could be scrolling through\nthis for quite some time.", 
+            "dur": "1.58", 
+            "start": "250.65"
+        }
+    ], 
+    "title": "8128 and Perfect Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05x6v", 
+        "/m/0vb40_n", 
+        "/m/03lw_9"
+    ], 
+<<<<<<< HEAD
+    "number_views": 433319, 
+=======
+    "number_views": 433403, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-26T20:26:51.013Z", 
+            "text": "There are now 48 perfect numbers as of now; a bigger number was discovered \na while after this video was made.\ufeff", 
+            "author": "Michael Lupo"
+        }, 
+        {
+            "date": "2015-04-23T09:09:50.173Z", 
+            "text": "Does perfect negative numbers exist?\ufeff", 
+            "author": "ads13000"
+        }, 
+        {
+            "date": "2015-04-11T11:33:45.413Z", 
+            "text": "So that means that the current largest perfect is between 10^1,000,000 and \n10^10,000,000\ufeff", 
+            "author": "GunnerWolf"
+        }, 
+        {
+            "date": "2015-04-09T03:17:40.034Z", 
+            "text": "Wouldn't perfect numbers always have to be even because they're equal to a \ngiven mersenne prime times said mersenne prime plus one times 0.5. And so, \nbecause primes must be odd, a prime plus one would be even making it so \nthat the term includes an even number, always making the product also even.\n\nI think. I'm probably wrong though.\ufeff", 
+            "author": "Alex Taskov"
+        }, 
+        {
+            "date": "2015-04-06T00:40:17.786Z", 
+            "text": "would 6 be even more perfect? since its factors (discluding 6) also \nmultiply together to make six, 3 x 2 x 1 (or 3!) = 6\ufeff", 
+            "author": "James Franco"
+        }, 
+        {
+            "date": "2015-02-21T22:57:43.285Z", 
+            "text": "The relation between Mersenne Primes and Perfect Numbers explained on the \n\"31 and Mersenne Primes\" video indicates that there aren't odd perfect \nnumbers, as long as that relation stays true (for every Marsenne Prime, \nthere's a Perfect Number that can be found through the formula {M[M+1]/2}). \n[M+1] is always a power of 2 that's bigger than 2 and that means the number \nyou get from that formula will always be even.\n\nIn the formula, M stands for the Marsenne prime\ufeff", 
+            "author": "Augusto Schmitt"
+        }, 
+        {
+            "date": "2015-01-26T21:25:24.392Z", 
+            "text": "When I saw the \"Perfect #s\" thumbnail of this video, I was actually hoping \nfor a video on perfect hashing. Go figure, +Computerphile.\ufeff", 
+            "author": "Penny Lane"
+        }, 
+        {
+            "date": "2015-01-25T00:25:14.445Z", 
+            "text": "Isn't 1 a perfect number?\ufeff", 
+            "author": "James Corcoran"
+        }, 
+        {
+            "date": "2015-01-07T22:03:30.000Z", 
+            "text": "Wonder how many people were born on the 28th June 496\n\n\n... and this is probably the only time I'll thank the yanks for their \n(cockamammy)x interesting date system :P\ufeff", 
+            "author": "undeddjester"
+        }, 
+        {
+            "date": "2015-01-07T12:49:13.909Z", 
+            "text": "since my birthday is on 06.06 im a perfect person, am i right? :D \nmathematicaly speaking\ufeff", 
+            "author": "zilvinas5130"
+        }, 
+        {
+            "date": "2014-12-16T03:38:17.855Z", 
+            "text": "You make math seem like fun... that is a rare talent (Y)\nI love all your videos.. keep making more :D\ufeff", 
+            "author": "saad salman"
+        }, 
+        {
+            "date": "2014-12-07T03:41:06.569Z", 
+            "text": "A perfect number has to be even, as a single number, the highest factor \nexcluding itself, must be half of the number. This must be so, because it \ncannot be larger than half, because that is the number paired with two when \nmultiplying. If it were not even, you would not have that number, and then, \nthe smallest possible factor other than one would be 3, and one third of \nthe number would not be enough to cover the massive gap in value between \nthe perfect number and the sum of its factors.\ufeff", 
+            "author": "Demon Slayerelf"
+        }, 
+        {
+            "date": "2014-12-06T12:28:15.087Z", 
+            "text": "for all you arduino nerds out there, a program to find perfect numbers:\n\n\nunsigned int number = 2;         //the number being tested\nunsigned int divisor = 1;        //divisor to find factors\nint r = 0;                       //remainder\nint f = 0;                       //test factor\nint fCount = 0;                  //interger for storing array values\nint factors[32];                 //array to store the factors\nint sum = 0;                     //sum of factor interger\nint lim = 10000;                 //highest number to check\nint i = 0;\n\n\nvoid setup() {\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  while(number < lim){\n    //Serial.print(\"number:\");\n    //Serial.print(\"\\t\");\n    //Serial.println(number);\n    //Serial.print(\"factors:\");\n    //Serial.print(\"\\t\");\n    while(divisor <= number){\n      r = number % divisor;\n      f = number / divisor;\n      if(r == 0){\n        factors[fCount] = f;\n        fCount++;\n      }\n      divisor++;\n    }\n    for(i = 0; i < fCount; i = i + 1){\n      //Serial.print(factors[i]);\n      //Serial.print(\"\\t\");\n    }\n    //Serial.println();\n    for(i = 1; i <fCount; i = i + 1){\n      sum = sum + factors[i];\n    }\n    //Serial.print(\"sum:\");\n    //Serial.print(\"\\t\");\n    //Serial.println(sum);\n    if(sum == number){\n      Serial.print(\"Found one!\");\n      Serial.print(\"\\t\");\n      Serial.println(number);\n      Serial.print(\"The factors are:\");\n      Serial.print(\"\\t\");\n      for(i = 1; i < fCount; i = i + 1){\n        Serial.print(factors[i]);\n        Serial.print(\"\\t\");\n      }\n      Serial.println();\n      Serial.print(\"Found at:\");\n      Serial.print(\"\\t\");\n      Serial.print(millis());\n      Serial.println(\" milliseconds\");\n      Serial.println();     \n    }\n    //Serial.println();\n    sum = 0;\n    fCount = 0;\n    divisor = 1;\n    number = number + 2;\n  }\n  if(number == lim){\n    Serial.println(\"Done!\");\n    delay(60000);\n  }\n}\ufeff", 
+            "author": "Adam Plavinskis"
+        }, 
+        {
+            "date": "2014-12-05T12:21:14.990Z", 
+            "text": "Don't know how many perfect numbers... Well.. maybe I'll find them. I won't \nfind all of them obviously, but I'll find patterns... and I will share it \nwith the world on how to find perfect numbers with my equation. \n\n\n\n\n\n\n\n\n\n\n\n\nI'm awesome.\ufeff", 
+            "author": "Brady the Polymath"
+        }, 
+        {
+            "date": "2014-11-29T21:05:47.222Z", 
+            "text": "Script for MATLAB \n\nn1=input('input your number     ');\nn=1:1:n1;\nperfect=0;\nj=0;\nfor i=1:n1\nfind(rem(n(i)./(1:n(i)), 1) == 0);\ny=sum(ans)-i;\nif y==i\n    j=j+1;\n    perfect(j)=y;\nend\nend\nperfect\ufeff", 
+            "author": "Rabah Madani"
+        }, 
+        {
+            "date": "2014-11-27T11:38:04.950Z", 
+            "text": "Come on guys, a bit of proper research, please... at the time this video \nwas uploaded, the 47th perfect number was 25,956,377 digits long, \nnot 1,791,864, which was discovered in 1997. \ufeff", 
+            "author": "Michael McKay"
+        }, 
+        {
+            "date": "2014-11-26T00:56:18.837Z", 
+            "text": "906090 is also perfect :)\ufeff", 
+            "author": "justadrummervienna"
+        }, 
+        {
+            "date": "2014-11-23T19:19:59.188Z", 
+            "text": "if you think about it, 1 is probably a perfect numbers (0 is probably not)\ufeff", 
+            "author": "FirstName LastName"
+        }, 
+        {
+            "date": "2014-11-09T04:26:45.270Z", 
+            "text": "\u7f70\u68d2\u9f0e\ufeff", 
+            "author": "Royce Liow"
+        }, 
+        {
+            "date": "2014-08-21T00:58:11.675Z", 
+            "text": "the next perfect number after 8,128 is 33,550,336\ufeff", 
+            "author": "quantumbrewer"
+        }, 
+        {
+            "date": "2014-08-20T04:13:45.715Z", 
+            "text": "For apparently \"perfect\" numbers, they sure aren't very elegant! \nHighly-composite numbers are the real heroes here, especially because \nthey're actually useful.\ufeff", 
+            "author": "TristanBomb"
+        }, 
+        {
+            "date": "2014-07-25T15:24:08.369Z", 
+            "text": "My favourite number has always been 1488\ufeff", 
+            "author": "Amanda the Bear"
+        }, 
+        {
+            "date": "2014-07-22T14:58:09.000Z", 
+            "text": "Well why is it an open question then? If there is an obvious pattern in \nthose numbers. I mean throughout all this 47 numbers, principle stays the \nsame...\nOne number in every 10^10 and every single one of them is also even.\ufeff", 
+            "author": "Sage Zage"
+        }, 
+        {
+            "date": "2014-07-15T09:04:27.920Z", 
+            "text": "Do all perfect numbers (with the exception of 6) have a digital root of 1? \nSpooky.\ufeff", 
+            "author": "Raymond Jaworski"
+        }, 
+        {
+            "date": "2014-07-10T13:02:36.000Z", 
+            "text": "*+0s4x*\nSo, the 48\u00b0 biggest perfect number is *1.5845632502853E+29* because it's\n1111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000 \nbut in *decimal* !\ufeff", 
+            "author": "4444altan"
+        }, 
+        {
+            "date": "2014-07-08T23:09:16.313Z", 
+            "text": "There is 48th!\ufeff", 
+            "author": "M\u0101ris Samats"
+        }, 
+        {
+            "date": "2014-07-06T14:02:40.269Z", 
+            "text": "I think it's a pity that there was a huge missed opportunity in this video: \nThey could have mentioned that there's a one-to-one relationship between \neven perfect numbers and Mersenne primes. This was first conjectured by \nEuclid and finally proven by Euler two thousand years later.\n*That* I find even *more* interesting than just the perfect numbers \nthemselves.\ufeff", 
+            "author": "WarpRulez"
+        }, 
+        {
+            "date": "2014-06-29T18:30:18.068Z", 
+            "text": "Is there a practical application to these? Or is it just a cool thing \nnumbers do?\ufeff", 
+            "author": "electricpigeon28"
+        }, 
+        {
+            "date": "2014-06-29T13:22:32.181Z", 
+            "text": "Hell yeah, bringing math on da street since....\nwell, you do the math.\ufeff", 
+            "author": "ThickBeet"
+        }, 
+        {
+            "date": "2014-06-14T22:25:31.251Z", 
+            "text": "there are now 48 perfect numbers\ufeff", 
+            "author": "Riyan Goins"
+        }, 
+        {
+            "date": "2014-06-08T20:03:44.015Z", 
+            "text": "the British are awesome \ufeff", 
+            "author": "mikemantione"
+        }, 
+        {
+            "date": "2014-05-22T00:20:00.652Z", 
+            "text": "What about between 10,000 & 100,000?\ufeff", 
+            "author": "thomas everson"
+        }, 
+        {
+            "date": "2014-05-03T13:35:31.198Z", 
+            "text": "It seems to me that the total cross sum of each perfect number except for 6 \nis 1\ufeff", 
+            "author": "Blau"
+        }, 
+        {
+            "date": "2014-04-15T10:14:00.612Z", 
+            "text": "4:20\ufeff", 
+            "author": "Louis Lawless"
+        }, 
+        {
+            "date": "2014-04-14T06:24:37.791Z", 
+            "text": "If you can't use the number itself, then you ought not to use 1. I want to \nknow about perfect numbers without using 1.\ufeff", 
+            "author": "Blake Wright"
+        }, 
+        {
+            "date": "2014-04-06T17:32:38.550Z", 
+            "text": "47 has always been my favorite number.\ufeff", 
+            "author": "Evan Leeds"
+        }, 
+        {
+            "date": "2014-03-31T12:10:52.378Z", 
+            "text": "Yup\ufeff", 
+            "author": "ninjas40 - SG Gamer"
+        }, 
+        {
+            "date": "2014-03-31T11:40:43.685Z", 
+            "text": "That's fun to even think how does computer calculate numbers that take a \nwhole Terabyte HDD to write down when you need space for each such number \ntested to write down as checked and not perfect. And then, as computer can \nglitch, human must check it by manually finding all divisors and adding \nthem up XD\ufeff", 
+            "author": "RedGallardo"
+        }, 
+        {
+            "date": "2014-03-27T00:57:16.769Z", 
+            "text": "on the question if all perfect numbers are even:\n\nin the other numberphile video about mersenne primes, he introduced the \nformula that if m is a mersenne prime, then (m(m+1))/2 is a perfect number.\nthat established, and realizing that all mersenne primes are odd and m+1 is \neven, it would be obvious that all perfect numbers related to mersenne \nprimes are even. the only way this would not be possible is if m+1 has only \none 2 as a factor. this two would be removed by the division part of the \nequation. this could only occur if m is quite small. Testing the endangered \nprimes removes this as a possibility.\n\ncomments?\ufeff", 
+            "author": "nssdad"
+        }, 
+        {
+            "date": "2014-03-24T14:45:23.102Z", 
+            "text": "Why is 1 not a perfect number? It is divisible by 1 and nothing else, so, \n1+nothing=1, right?\ufeff", 
+            "author": "TheGamingBros"
+        }, 
+        {
+            "date": "2014-03-15T21:10:40.476Z", 
+            "text": "A 48th one hase ben found\ufeff", 
+            "author": "Michael Greenfield"
+        }, 
+        {
+            "date": "2014-03-09T21:48:23.788Z", 
+            "text": "So every time a new Mersenne prime will have found, you automaticly find a \nnew perfect number as well?\ufeff", 
+            "author": "Fake Wiener"
+        }, 
+        {
+            "date": "2014-03-06T02:31:49.786Z", 
+            "text": "It might just be me, but I see some resemblance with the powers of 2 and \nperfect numbers... 496 looks like 4096 (2^12), 8128 has 128 (2^7) in it, 28 \nis included in 8128, and, if you remove the 28 from 8128, you get 81 which \nis 9^2. If you remove the first perfect number, 6, from 496, you get 49 \nwhich is 7^2... What a coincidence.\ufeff", 
+            "author": "Neel Modi"
+        }, 
+        {
+            "date": "2014-02-25T04:59:55.729Z", 
+            "text": "As there are an infinite amount of primes, would it or would it not be safe \nto say there are an infinite amount of Mersenne primes... thus an infinite \namount of \"perfect\" numbers? (Assuming the equation for getting perfect \nnumbers from Mersenne primes didn't break down after numbers grow to large, \nwhich I'm not even sure is a thing...)\ufeff", 
+            "author": "Alex Wiser"
+        }, 
+        {
+            "date": "2014-02-23T13:40:00.405Z", 
+            "text": "I think 6 is extra perfect, cos 1*2*3=6 too\ufeff", 
+            "author": "Sub Nano"
+        }, 
+        {
+            "date": "2014-02-15T11:28:51.002Z", 
+            "text": "", 
+            "author": "Shweta Sridhar"
+        }, 
+        {
+            "date": "2014-02-06T07:16:19.864Z", 
+            "text": "another fact... all the perfect numbers that we know of either end in a 6 \nor a 28...\ufeff", 
+            "author": "PuriFy"
+        }, 
+        {
+            "date": "2014-02-05T15:16:15.818Z", 
+            "text": "", 
+            "author": "Cap'n Derpy"
+        }, 
+        {
+            "date": "2014-02-02T14:56:29.414Z", 
+            "text": "that be a big number\ufeff", 
+            "author": "Cugz Arui"
+        }, 
+        {
+            "date": "2014-01-15T11:30:08.591Z", 
+            "text": "James: The largest known perfect number is 1 million...\nMe: hmm, that's kind of small..\nJames: digits long\nMe: oh.\ufeff", 
+            "author": "noneedforid"
+        }, 
+        {
+            "date": "2014-01-13T22:14:55.345Z", 
+            "text": "If there is an infinite amount of numbers, then wouldn't there be an \ninfinite amount of perfect numbers?\ufeff", 
+            "author": "Connor \u201cTheGamerCM\u201d Mcnally"
+        }, 
+        {
+            "date": "2014-01-13T11:40:18.515Z", 
+            "text": "why am I watching this\ufeff", 
+            "author": "Snarejay Gauthier"
+        }, 
+        {
+            "date": "2013-11-10T20:34:15.486Z", 
+            "text": "So 5!= 5\u00d74\u00d73\u00d72\u00d71\nAnd 0! = 0\u00d70=1?\ufeff", 
+            "author": "Rafi Mills"
+        }, 
+        {
+            "date": "2013-11-08T01:46:36.467Z", 
+            "text": "6 is the most perfect number, since not only 1+2+3=6, but 1x2x3=6\ufeff", 
+            "author": "nicholas giles"
+        }, 
+        {
+            "date": "2013-11-07T12:06:51.023Z", 
+            "text": "Converted to base two, the perfect numbers reveal yet another curiosity.\nJust the first 8:\n\n6 = 110\n28 = 11100\n496 = 111110000\n8128 = 1111111000000\n33550336 = 1111111111111000000000000\n8589869056 = 111111111111111110000000000000000\n137438691328 = 1111111111111111111000000000000000000\n2305843008139952128 = \n1111111111111111111111111111111000000000000000000000000000000\ufeff", 
+            "author": "0s4x"
+        }, 
+        {
+            "date": "2013-11-06T05:16:51.957Z", 
+            "text": "Originally he said that there is only one perfect number between 1 and 10, \none between 10 and 100, one between 100 and 1000. Given the way he \nstructured that part of the video it seems counter-intuitive that there \nwould be only 47 discovered perfect numbers with the greatest known perfect \nnumber being millions of digits long.", 
+            "author": "andrewandrew599"
+        }, 
+        {
+            "date": "2013-11-05T20:54:46.773Z", 
+            "text": "that means i only need to write down infinite ones and infinite-1 zeroes \ndown and convert it to a number and i will get the world record for the \nbiggest perfect number? nice.", 
+            "author": "isaias dietz"
+        }, 
+        {
+            "date": "2013-11-05T05:21:39.731Z", 
+            "text": "I'm aware, but that was not what I meant. I'm an idiot of allowing my ideas \nto get jumbled on their way to the comments.", 
+            "author": "Ezeckel Reichert"
+        }, 
+        {
+            "date": "2013-11-04T23:59:34.097Z", 
+            "text": "3:51 rather small number for our technology 3:58 I take that back How the \nheck do we know that?", 
+            "author": "Joseph Smith"
+        }, 
+        {
+            "date": "2013-11-04T18:52:39.292Z", 
+            "text": "Slight issue with your first sentence there.", 
+            "author": "Lou14UK"
+        }, 
+        {
+            "date": "2013-11-01T22:41:25.157Z", 
+            "text": "and some good time to search for names to say in the largest ones.", 
+            "author": "Zartymil"
+        }, 
+        {
+            "date": "2013-11-01T03:17:46.108Z", 
+            "text": "I was in a hurry and didn't think about what I was saying. What I was \npointing out is that by taking out a number from its own list of factors, \nthe results are skewed and leave a one unaccounted for. ", 
+            "author": "Ezeckel Reichert"
+        }, 
+        {
+            "date": "2013-11-01T02:31:07.313Z", 
+            "text": "Perfect numbers are a sum of their factors. \"1\" is by itself as a factor, \nto itself. You wouldn't add 1 + 1 = 2. You don't add 1 + 0 = 1, because 0 \nis not a factor of 1. Read that clearly. Perfect numbers are a sum of their \nfactors. (You may have a different notion of sum, but to the ancients who \nnoted this property, you had to have more than one number to create a sum. \nAnother way to look at it is that 1 cannot be expressed as the sum of any \ntwo natural numbers.) tl;dr It's purely definitional", 
+            "author": "nednednerb"
+        }, 
+        {
+            "date": "2013-11-01T02:22:57.602Z", 
+            "text": "No, 8/2 is 4 and 4 is even. He's thinking of something else.", 
+            "author": "nednednerb"
+        }, 
+        {
+            "date": "2013-11-01T02:22:15.391Z", 
+            "text": "You are wrong about that. 8 is even. 8/2 is 4. 4 is even. Therefore, some \neven numbers divided by 2 are even. QED. What are you getting at???", 
+            "author": "nednednerb"
+        }, 
+        {
+            "date": "2013-11-01T01:35:46.068Z", 
+            "text": "Yes. And for the reason, see the Numberphile video on Mersenne Primes. :)", 
+            "author": "stellarfirefly"
+        }, 
+        {
+            "date": "2013-10-31T23:24:13.227Z", 
+            "text": "6 in binary is = 110 28 in binary is = 11100 496 in binary is = 111110000 \n8128 in binary is = 1111111000000 So every perfect number is written in \nbinary with (n) ones and (n-1) zeros? ", 
+            "author": "Mateo Nieto"
+        }, 
+        {
+            "date": "2013-10-31T20:26:35.284Z", 
+            "text": "It won't be even, because any even number divided by two is odd, and any \nodd number plus two remains odd. Then there's the part where they take out \nthe number itself when factoring, but don't take out the one, which skews \nthe results. Perfect numbers are dumb like that.", 
+            "author": "Ezeckel Reichert"
+        }, 
+        {
+            "date": "2013-10-30T16:56:13.781Z", 
+            "text": "Is this video why I like the number 6?", 
+            "author": "DeltaPhi79"
+        }, 
+        {
+            "date": "2013-10-30T10:51:59.402Z", 
+            "text": "That 4064 is beautiful.", 
+            "author": "K\u0131van\u00e7 Tez\u00f6ren"
+        }, 
+        {
+            "date": "2013-10-30T04:03:15.208Z", 
+            "text": "Ahhh...thanks for clarifying (and being nice about it, too). :-D", 
+            "author": "Eric Crow"
+        }, 
+        {
+            "date": "2013-10-30T00:08:28.455Z", 
+            "text": "Code?", 
+            "author": "GravityTwelve"
+        }, 
+        {
+            "date": "2013-10-29T22:10:53.794Z", 
+            "text": "why isn't 1 a perfect number?", 
+            "author": "DasHesslon"
+        }, 
+        {
+            "date": "2013-10-28T19:26:57.979Z", 
+            "text": "Record has been broken 1,819,050 digits long.", 
+            "author": "N0RD2"
+        }, 
+        {
+            "date": "2013-10-28T09:02:24.860Z", 
+            "text": "you can get up to around 5 numbers a second and still be audible.", 
+            "author": "Warren Cash"
+        }, 
+        {
+            "date": "2013-10-25T04:49:45.430Z", 
+            "text": "Holy shit man. I seriously think you are on to something. I just wrote a \nquick code to test you out, except I used 33550336. The largest prime \nfactor of that number is 8191, and lo and behold, the sum of all integers \nless than that is 33550336. I tried the next one up, but due to lack of \ntime and C not storing numbers larger than 2^32, I was unsuccessful. But I \nwouldn't be surprised if it was true.", 
+            "author": "Alec Watson"
+        }, 
+        {
+            "date": "2013-10-24T20:13:54.875Z", 
+            "text": "Ah, yes. Thanks! My bad. In my defense, it was late at night and I was \ntired... Aww, who am I kidding! That's no defense!", 
+            "author": "Rachael Hudson"
+        }, 
+        {
+            "date": "2013-10-24T16:04:31.589Z", 
+            "text": "same here haha", 
+            "author": "FreaKz"
+        }, 
+        {
+            "date": "2013-10-24T15:25:26.527Z", 
+            "text": "Please read it again... thirtyfour million, eight hundred fifty thousand, \nthree hundred and fourty..", 
+            "author": "Pieter Ouborg"
+        }, 
+        {
+            "date": "2013-10-24T12:46:51.432Z", 
+            "text": "Any odd number plus one is even. Seeing as how one can be factored into \nevery number, you will always have to add that last one.", 
+            "author": "Ezeckel Reichert"
+        }, 
+        {
+            "date": "2013-10-24T12:14:04.909Z", 
+            "text": "But the one in the video had nearly two million digits...?", 
+            "author": "Rachael Hudson"
+        }, 
+        {
+            "date": "2013-10-22T21:17:37.368Z", 
+            "text": "You can calculate perfect numbers with the following formula: 2^(n-1) * ( \n2^n - 1 ) where \"n\" is one of a very short list of prime numbers that can \nbe used to create Mersenne prime numbers. 2^1 * ( 2^2 - 1 ) = 2 * 3 = 6 2^2 \n* ( 2^3 - 1 ) = 4 * 7 = 28 The first 19 perfect numbers fit this same \nformula with \"n\" values of: 2, 3, 5, 7, 13, 17, 19, 31, 61, 89, 107, 127, \n521, 607, 1279, 2203, 2281, 3217, and 4253", 
+            "author": "waldelis88"
+        }, 
+        {
+            "date": "2013-10-22T04:43:08.291Z", 
+            "text": "Does anyone know the significance of perfect numbers? I googled it and it \njust seems to be for fun, lol!", 
+            "author": "Strikerklm96"
+        }, 
+        {
+            "date": "2013-10-21T22:45:44.715Z", 
+            "text": "You question that, I question How can the universe keep expanding if it is \ninfinite? They are similar questions because: 1- keep me awake at night 2- \nthey kinda question the meaning of infinite 3- they have some paradox \nattached with them This questions are impossible to answer (at least for \nnow) because the imply the concept of infinity and the concept of limit in \nthe same premisse", 
+            "author": "dawd adawd"
+        }, 
+        {
+            "date": "2013-10-21T20:40:15.202Z", 
+            "text": "by the way, I got very excited just a few minutes ago when I tried to see \nif 12496 was perfect, it's not, but I was able to get it very close to \nbeing perfect.", 
+            "author": "Kha Zix"
+        }, 
+        {
+            "date": "2013-10-21T20:39:09.979Z", 
+            "text": "Is it unknown or known whether there are any perfect numbers say... between \n10,000 and 100,000? Would it make sense for the \"perfect\" number to jump \nfrom 1 between 0 and 10, one between 10 and 100, 1 between 100 and 1000 and \nso forth? If so, could there be lower perfect numbers still awaiting \ndiscovery or have we ruled out the possibility by means of even sheer \nelimination one by one?", 
+            "author": "Kha Zix"
+        }, 
+        {
+            "date": "2013-10-21T03:47:16.684Z", 
+            "text": "Also it's been proven that if odd perfect numbers exist they're larger than \n10^1500.", 
+            "author": "MissPielops"
+        }, 
+        {
+            "date": "2013-10-21T03:44:26.119Z", 
+            "text": "Interesting to note that every perfect number we know of ends with a 6 or \nan 8.", 
+            "author": "MissPielops"
+        }, 
+        {
+            "date": "2013-10-21T01:22:28.414Z", 
+            "text": "Dr. Michael Bolton, Turbo Pascal class, Summer of 1991, I think, gave us a \nspeed programming assignment. Write a code to find the first 6 perfect \nnumbers. A fellow lab assistant named Donna had a problem; her code was \nreturning \"extra perfect numbers\" which I named \"Donna Numbers\" earning a \npainful groan from our classmates.", 
+            "author": "Mark Dwayne Madsen"
+        }, 
+        {
+            "date": "2013-10-17T17:57:16.204Z", 
+            "text": "Nice find! So for 8128 it's kind of 127! but for addition, not \nmultiplication, right? An easy way to write that is (n(n+1))/2, so \n(127*(127+1))/2 which is 8128! ", 
+            "author": "itsVyfi"
+        }, 
+        {
+            "date": "2013-10-17T13:10:45.968Z", 
+            "text": "You should include the formulae which can be used to derive perfect numbers", 
+            "author": "Shaun A"
+        }, 
+        {
+            "date": "2013-10-16T13:00:09.173Z", 
+            "text": "@misspielops infinity is a concept not a number", 
+            "author": "krish kshirsagar"
+        }, 
+        {
+            "date": "2013-10-13T07:45:34.103Z", 
+            "text": "Doesn't there have to be an infinite number of perfect numbers? I mean, \ninfinite is a pretty big number. Infinitely big, in fact.", 
+            "author": "MissPielops"
+        }, 
+        {
+            "date": "2013-10-09T08:29:04.776Z", 
+            "text": "Yes. This is on the Wikipedia page for perfect numbers. Congratulations!", 
+            "author": "Morgan Harris"
+        }, 
+        {
+            "date": "2013-10-09T07:00:24.307Z", 
+            "text": "Yeah, 2 million digits long. 47 sounds like plenty to me.", 
+            "author": "NickRoman"
+        }, 
+        {
+            "date": "2013-10-08T00:19:49.906Z", 
+            "text": "Yes, it's true... I must have made a mistake when doing my calculations ;) \nWorks for 496 too!", 
+            "author": "Federico Spadone"
+        }, 
+        {
+            "date": "2013-10-07T22:30:12.640Z", 
+            "text": "By applying restrictions such as the definition of perfect numbers, we \nderive a finite set that is contained in the infinite set of integers. Same \nidea as if we applied the restriction that all integers in our set had to \nbe greater than 0 and less than 10. We would have another finite set \n(1,2,3,4,5,6,7,8,9) contained in the infinite integers. Maybe I'm not \nunderstanding your question properly? He said they don't know yet whether \nthere are finitely or infinitely many perfect numbers. ", 
+            "author": "Brian Seegers"
+        }, 
+        {
+            "date": "2013-10-07T17:58:15.625Z", 
+            "text": "How can there be a finite set (of this nature) within an infinite set?", 
+            "author": "Jeffrey Elliott"
+        }, 
+        {
+            "date": "2013-10-07T17:57:41.160Z", 
+            "text": "I hate to be this guy, but as a philosopher I have to be: If numbers are \ninfinite, wouldn't perfect numbers also have to be infinite?", 
+            "author": "Jeffrey Elliott"
+        }
+    ]
+}

@@ -1,0 +1,964 @@
+{
+    "publish_date": "2014-11-08T05:09:12.000Z", 
+    "video_length": "PT5M47S", 
+    "captions": [
+        {
+            "text": "[Intro]", 
+            "dur": "7", 
+            "start": "1.16"
+        }, 
+        {
+            "text": "How do we see what&#39;s inside us? How do you\nsee me? How do I know where I&#39;m going? These", 
+            "dur": "5.57", 
+            "start": "11.94"
+        }, 
+        {
+            "text": "are some of the questions answered by the\nbrightest minds in the word, 2014&#39;s Nobel", 
+            "dur": "4.05", 
+            "start": "17.51"
+        }, 
+        {
+            "text": "Prize winners in physics, medicine, and chemistry.", 
+            "dur": "3.289", 
+            "start": "21.56"
+        }, 
+        {
+            "text": "First, the Nobel Prize for physics, it went\nto Isamu Akasaki, Hiroshi Amano, and Shuji", 
+            "dur": "4.91", 
+            "start": "24.849"
+        }, 
+        {
+            "text": "Nakamura for developing the blue light emitting\ndiode, or LED. This ridiculously useful invention", 
+            "dur": "5.971", 
+            "start": "29.759"
+        }, 
+        {
+            "text": "is the key to making possible the white LED\nbulb. Which is replacing Thomas Edison&#39;s incandescent", 
+            "dur": "5.89", 
+            "start": "35.73"
+        }, 
+        {
+            "text": "bulb as the the light source of the 21st century.\nLEDs are also in smartphones, and television", 
+            "dur": "5.599", 
+            "start": "41.62"
+        }, 
+        {
+            "text": "screens, and laptop screens, and desktop screens.\nProbably if the LEDs in your computer turned", 
+            "dur": "4.09", 
+            "start": "47.219"
+        }, 
+        {
+            "text": "off right now, I would disappear. And I wouldn&#39;t\nhave a job!", 
+            "dur": "4.081", 
+            "start": "51.309"
+        }, 
+        {
+            "text": "An LED is a type of diode or semiconductor\ndevice that emits light when electrons flow", 
+            "dur": "4.45", 
+            "start": "55.39"
+        }, 
+        {
+            "text": "through layers of crystalline inorganic material.\nThese diodes have been around since the 1950s,", 
+            "dur": "4.899", 
+            "start": "59.84"
+        }, 
+        {
+            "text": "but at first we were only able to make ones\nthat emitted either red or green light. And", 
+            "dur": "4.241", 
+            "start": "64.739"
+        }, 
+        {
+            "text": "those were still super useful; you&#39;ve no doubt\nseen them in watches, and calculators, and", 
+            "dur": "3.77", 
+            "start": "68.98"
+        }, 
+        {
+            "text": "all those little red lights on answering machines\n- if you remember what answering machines", 
+            "dur": "4.23", 
+            "start": "72.75"
+        }, 
+        {
+            "text": "are. But the challenge was always to build\na diode that emitted white light. And that", 
+            "dur": "4.07", 
+            "start": "76.98"
+        }, 
+        {
+            "text": "required creating a combination of diodes\nthat together glowed in red, green, and blue.", 
+            "dur": "4.87", 
+            "start": "81.05"
+        }, 
+        {
+            "text": "The problem was blue light has a much shorter\nwavelength than red and green light. And scientists", 
+            "dur": "4.38", 
+            "start": "85.92"
+        }, 
+        {
+            "text": "struggled for decades to find a material that\nemitted light in that wavelength when electrons", 
+            "dur": "4.43", 
+            "start": "90.3"
+        }, 
+        {
+            "text": "based through it. It was until the 1980s that\nthese three laureates developed a high quality", 
+            "dur": "4.6", 
+            "start": "94.73"
+        }, 
+        {
+            "text": "layer of crystalline gallium nitrate that\ndid the trick.", 
+            "dur": "3.67", 
+            "start": "99.33"
+        }, 
+        {
+            "text": "Today, white LED bulbs are everywhere and\nfor good reason. They&#39;re a lot more energy", 
+            "dur": "4.49", 
+            "start": "103"
+        }, 
+        {
+            "text": "efficient than incandescent bulbs which lose\na lot of their energy through heat. LEDs convert", 
+            "dur": "4.48", 
+            "start": "107.49"
+        }, 
+        {
+            "text": "electricity directly into light, which means\nthey need less power. And considering that", 
+            "dur": "4.7", 
+            "start": "111.97"
+        }, 
+        {
+            "text": "a fourth of the world&#39;s total energy output\nis spent on generating light, these scientists", 
+            "dur": "5.33", 
+            "start": "116.67"
+        }, 
+        {
+            "text": "deserve the prize as clearly as you&#39;re seeing\nme right now.", 
+            "dur": "3.19", 
+            "start": "122"
+        }, 
+        {
+            "text": "For the winners of this year&#39;s chemistry prize,\nlight posed a different kind of challenge.", 
+            "dur": "4.349", 
+            "start": "125.19"
+        }, 
+        {
+            "text": "For centuries, scientists have been limited\nby the fact that optical microscopes couldn&#39;t", 
+            "dur": "4.301", 
+            "start": "129.539"
+        }, 
+        {
+            "text": "achieve a resolution smaller than 0.2 micrometers,\nor half the wavelength of visible light. This", 
+            "dur": "5.49", 
+            "start": "133.84"
+        }, 
+        {
+            "text": "has to do with how light diffuses through\na microscope&#39;s glass lens and was known as", 
+            "dur": "4.05", 
+            "start": "139.33"
+        }, 
+        {
+            "text": "Abbe&#39;s Diffraction Limit. This limit meant\nthat we could clearly see living cells, but", 
+            "dur": "4.09", 
+            "start": "143.38"
+        }, 
+        {
+            "text": "we couldn&#39;t see individual molecules or proteins\ninside them. So in the 1980s and 90s, scientists", 
+            "dur": "5.29", 
+            "start": "147.47"
+        }, 
+        {
+            "text": "began experimenting with fluorescent microscopy.\nUsing gene-splicing technology to introduce", 
+            "dur": "5.12", 
+            "start": "152.76"
+        }, 
+        {
+            "text": "fluorescent, or glowing, molecules into a\ncell. These molecules could then couple with", 
+            "dur": "3.61", 
+            "start": "157.88"
+        }, 
+        {
+            "text": "DNA and proteins to act as a kind of tracer.\nAnd that was extremely helpful, but it didn&#39;t", 
+            "dur": "4.98", 
+            "start": "161.49"
+        }, 
+        {
+            "text": "solve the problem of seeing things that were\nsmaller than 0.2 micrometers. But this year&#39;s", 
+            "dur": "4.61", 
+            "start": "166.47"
+        }, 
+        {
+            "text": "chemistry winners came up with ways to break\nAbbe&#39;s limit by inventing ways to turn fluorescence", 
+            "dur": "4.23", 
+            "start": "171.08"
+        }, 
+        {
+            "text": "of those molecules on or off, like a switch.\nMaking them clearly visible.", 
+            "dur": "3.98", 
+            "start": "175.31"
+        }, 
+        {
+            "text": "German chemist Stefan Hell did this by using\nlasers. Essentially to turn on all of the", 
+            "dur": "4.74", 
+            "start": "179.29"
+        }, 
+        {
+            "text": "glowing molecules within a single nanometer;\nthat&#39;s a billionth of a meter. By slowly passing", 
+            "dur": "5.82", 
+            "start": "184.03"
+        }, 
+        {
+            "text": "the lasers over a cell, nanometer by nanometer,\nhe was able to create a detailed image of", 
+            "dur": "5.44", 
+            "start": "189.85"
+        }, 
+        {
+            "text": "a cell by highlighting groups of glowing molecules.\nAt the same time, two US scientists, Eric", 
+            "dur": "5.58", 
+            "start": "195.29"
+        }, 
+        {
+            "text": "Betzig and William Moerner, developed a similar\ntechnique that uses pulses of light to turn", 
+            "dur": "4.949", 
+            "start": "200.87"
+        }, 
+        {
+            "text": "individual molecules on and off. Allowing\nthem to clearly stand out in the specimen.", 
+            "dur": "5.25", 
+            "start": "205.819"
+        }, 
+        {
+            "text": "Like with Hell&#39;s technique, they could repeat\nthis process lighting up different molecules", 
+            "dur": "3.861", 
+            "start": "211.069"
+        }, 
+        {
+            "text": "until they eventually created a super high\nresolution image of structures as thin as", 
+            "dur": "5.11", 
+            "start": "214.93"
+        }, 
+        {
+            "text": "a cell membrane. Together these techniques\ngave the world what&#39;s now known as super-resolved", 
+            "dur": "5.279", 
+            "start": "220.04"
+        }, 
+        {
+            "text": "fluorescence microscopy, allowing us to see\nwhat goes on inside a living cell with visible", 
+            "dur": "5.741", 
+            "start": "225.319"
+        }, 
+        {
+            "text": "light.", 
+            "dur": "0.36", 
+            "start": "231.06"
+        }, 
+        {
+            "text": "Finally, we have the winners of this year&#39;s\nprize in medicine. John O&#39;Keefe, May-Britt", 
+            "dur": "5.1", 
+            "start": "231.42"
+        }, 
+        {
+            "text": "Moser, and Edvard Moser who discovered that\nbrains have an inner GPS that tells animals,", 
+            "dur": "5.82", 
+            "start": "236.52"
+        }, 
+        {
+            "text": "including us, where they are. O&#39;Keefe discovered\nthe first clues to this system in 1971 while", 
+            "dur": "5.49", 
+            "start": "242.34"
+        }, 
+        {
+            "text": "studying rats. He noted that certain neurons\nin the upper hippocampus, the region of the", 
+            "dur": "4.26", 
+            "start": "247.83"
+        }, 
+        {
+            "text": "brain responsible for memory and organization,\nwere always activated when a rat was in a", 
+            "dur": "4.229", 
+            "start": "252.09"
+        }, 
+        {
+            "text": "particular place in a room. O&#39;Keefe named\nthese neurons &quot;place cells&quot;. As the rat moved", 
+            "dur": "5.29", 
+            "start": "256.319"
+        }, 
+        {
+            "text": "around the room, different &quot;place cells&quot; would\nfire. Through further research, O&#39;Keefe concluded", 
+            "dur": "3.801", 
+            "start": "261.609"
+        }, 
+        {
+            "text": "that these cells were responsible for building\nand storing mental maps. Then in 2005, May-Britt", 
+            "dur": "5.83", 
+            "start": "265.41"
+        }, 
+        {
+            "text": "and Edvard Moser conducted their own rat experiments\nand discovered another set of neurons called", 
+            "dur": "5.8", 
+            "start": "271.24"
+        }, 
+        {
+            "text": "&quot;grid cells&quot;. They&#39;re located in a part of\nthe brain called the entorhinal cortex, right", 
+            "dur": "4.18", 
+            "start": "277.04"
+        }, 
+        {
+            "text": "next to the hippocampus, and they&#39;re what\nyour brain uses to create a map-like grid", 
+            "dur": "4.54", 
+            "start": "281.22"
+        }, 
+        {
+            "text": "of any environment. The Mosers discovered\nthat these cells would not only fire whenever", 
+            "dur": "4.03", 
+            "start": "285.76"
+        }, 
+        {
+            "text": "a rat passed a particular location, but they\nwould go off again when it pointed its head", 
+            "dur": "5.03", 
+            "start": "289.79"
+        }, 
+        {
+            "text": "in the direction of that spot.", 
+            "dur": "1.59", 
+            "start": "294.82"
+        }, 
+        {
+            "text": "Together, these newly discovered sets of cells\nbasically make up the iPhone map in your brain", 
+            "dur": "4.78", 
+            "start": "296.41"
+        }, 
+        {
+            "text": "that you use to get around. O&#39;Keefe&#39;s &quot;place\ncells&quot; form the coordinates on that map, while", 
+            "dur": "4.19", 
+            "start": "301.19"
+        }, 
+        {
+            "text": "the Mosers&#39; &quot;grid cells&quot; create the little\nblue dot on the map that tells you where you", 
+            "dur": "4.22", 
+            "start": "305.38"
+        }, 
+        {
+            "text": "are.", 
+            "dur": "0.49", 
+            "start": "309.6"
+        }, 
+        {
+            "text": "So thanks to this year&#39;s Nobel laureates for\nhelping us see life at the microscopic level,", 
+            "dur": "4.46", 
+            "start": "310.09"
+        }, 
+        {
+            "text": "understand how we know where we are, and for\nmaking it possible for you to see me right", 
+            "dur": "5.35", 
+            "start": "314.55"
+        }, 
+        {
+            "text": "now. Thanks for watching this episode of SciShow\nNews. If you want us help us educate the world", 
+            "dur": "4.16", 
+            "start": "319.9"
+        }, 
+        {
+            "text": "on the awesomeness of science, which we couldn&#39;t\ndo without support from people like you, you", 
+            "dur": "4.2", 
+            "start": "324.06"
+        }, 
+        {
+            "text": "can become a supporting subscriber at subbable.com/scishow.\nAnd if you just want to keep getting smarter", 
+            "dur": "5.42", 
+            "start": "328.26"
+        }, 
+        {
+            "text": "with us, you can go to youtube.com/scishow\nand subscribe.", 
+            "dur": "7", 
+            "start": "333.68"
+        }
+    ], 
+    "title": "3 Great Discoveries of 2014", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0yq3q1b", 
+        "/m/0dzcf", 
+        "/m/07kcclw"
+    ], 
+    "number_views": 649953, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-30T21:34:43.367Z", 
+            "text": "Too bad China will steal these patents, and call it their own. They do that \nfor everything nowadays.\ufeff", 
+            "author": "robert williams"
+        }, 
+        {
+            "date": "2015-04-27T13:04:40.218Z", 
+            "text": "Is his shirt blue and black or white and gold? .....\ufeff", 
+            "author": "Liam ArnoldPK"
+        }, 
+        {
+            "date": "2015-04-23T21:29:55.817Z", 
+            "text": "i really hope out mind maps are better than apple maps\ufeff", 
+            "author": "Corbin Van Deventer"
+        }, 
+        {
+            "date": "2015-04-22T12:03:38.902Z", 
+            "text": "This yapping guy has got it all  wrong. It is not Gallium nitrate (GaNO3)   \nIT IS GALLIUM NITRIDE (GaN).\ufeff", 
+            "author": "Anil Elias"
+        }, 
+        {
+            "date": "2015-04-08T23:23:22.845Z", 
+            "text": "Definitely just got a question right on my physics test because of this \nvideo :D\ufeff", 
+            "author": "Mallory S"
+        }, 
+        {
+            "date": "2015-04-08T01:06:50.828Z", 
+            "text": "Stefan Hell master of the Luciferin\ufeff", 
+            "author": "Gabriel Freitas"
+        }, 
+        {
+            "date": "2015-04-05T15:10:07.370Z", 
+            "text": "where can i buy that white and gold shirt from?\ufeff", 
+            "author": "lordred12345"
+        }, 
+        {
+            "date": "2015-03-22T12:05:36.498Z", 
+            "text": "Thats a nice white and gold shirt he has on\ufeff", 
+            "author": "The Gozmos"
+        }, 
+        {
+            "date": "2015-03-15T23:43:47.903Z", 
+            "text": "ha ha ha.... is he wearing a blue/black shirt or a golden/white shirt???? \nhahaha\ufeff", 
+            "author": "Gerry One Kenobi"
+        }, 
+        {
+            "date": "2015-03-10T23:39:05.439Z", 
+            "text": "I like his white and gold shirt\ufeff", 
+            "author": "jackson waters"
+        }, 
+        {
+            "date": "2015-03-09T13:38:13.040Z", 
+            "text": "I liked Hanks white and gold shirt\ufeff", 
+            "author": "Heisenberg GB"
+        }, 
+        {
+            "date": "2015-03-06T20:07:55.726Z", 
+            "text": "I love Hank's white and gold shirt!\ufeff", 
+            "author": "natalie.d.02"
+        }, 
+        {
+            "date": "2015-03-06T00:30:55.681Z", 
+            "text": "I like his gold and white shirt\ufeff", 
+            "author": "jstyledipset"
+        }, 
+        {
+            "date": "2015-03-05T07:43:26.086Z", 
+            "text": "Is his top gold and white?\ufeff", 
+            "author": "Living Life"
+        }, 
+        {
+            "date": "2015-03-04T06:55:56.141Z", 
+            "text": "Is his shirt blue and black or white and gold? Haha (just had to haha)\ufeff", 
+            "author": "Isaiah N"
+        }, 
+        {
+            "date": "2015-03-01T01:27:08.956Z", 
+            "text": "That's a nice white and gold shirt\ufeff", 
+            "author": "Alec Bertoy"
+        }, 
+        {
+            "date": "2015-02-28T22:29:40.485Z", 
+            "text": "I like your white and gold shirt. Where can I get one?\ufeff", 
+            "author": "Kurtis Stell"
+        }, 
+        {
+            "date": "2015-02-11T07:48:44.182Z", 
+            "text": "3:57 the first time i heard \"brains.. have an energy BS\"\ufeff", 
+            "author": "flamshiz"
+        }, 
+        {
+            "date": "2015-02-10T15:48:46.892Z", 
+            "text": "Why this kind of clip . The people in it speaking like they will die in the \nnext 5 minutes later . They worry they don't have enough time to speak or \nwhat ? Speak slowLy if you still live man . \ufeff", 
+            "author": "Peter Chai"
+        }, 
+        {
+            "date": "2015-02-07T21:54:49.479Z", 
+            "text": "One of the physicists that invented blue LED lights works at my university, \nand in celebration of him winning the nobel prize, they installed blue LED \nlights to light up the archway going into our university :) It looks really \nnice. And it was certainly nice to have good news coming out of our \nuniversity, last year was a bit rough. Glad it was covered on scishow :)\ufeff", 
+            "author": "Jacqueline Comstock"
+        }, 
+        {
+            "date": "2015-02-01T14:00:46.579Z", 
+            "text": "My ultimate goal is to be awarded a Nobel prize for physics.\ufeff", 
+            "author": "Ta Baron"
+        }, 
+        {
+            "date": "2015-01-21T11:03:25.704Z", 
+            "text": "+SciShow  News explains the amazing discoveries behind this year\u2019s Nobel \nPrizes, from the invention that made LED bulbs possible to discovering how \nour \u201cinner GPS\u201d works!\ufeff", 
+            "author": "Eurogentec"
+        }, 
+        {
+            "date": "2015-01-20T01:08:55.303Z", 
+            "text": "There's no evidence for the fact that everybody else isn't just an \nautomaton and I'm the only real person alive.\ufeff", 
+            "author": "Carson Troeh"
+        }, 
+        {
+            "date": "2015-02-01T00:11:41.528Z", 
+            "text": "+jujuandjesus Yes, it is. My only friends are my own nihilistic emotions.", 
+            "author": "Carson Troeh"
+        }, 
+        {
+            "date": "2015-02-01T00:08:42.605Z", 
+            "text": "It must be lonely being the only Solipsist in the world.", 
+            "author": "jujuandjesus"
+        }, 
+        {
+            "date": "2015-01-15T12:02:50.695Z", 
+            "text": "umm.. i thought we already had white LEDs.. ive seen them everywhere.. like \nlight bars on cars etc\ufeff", 
+            "author": "Robert Grubb"
+        }, 
+        {
+            "date": "2015-01-11T00:02:05.986Z", 
+            "text": "Ha! Who said we live in a democracy any more? Obamas a whole lot better \nthan bush but this is no democracy\ufeff", 
+            "author": "shanterstheglowbug"
+        }, 
+        {
+            "date": "2015-01-10T10:47:58.989Z", 
+            "text": "hehe right before hank said as clearly as you see me now my laptop went to \nsleep\ufeff", 
+            "author": "Willow Hufflepuff"
+        }, 
+        {
+            "date": "2015-01-09T15:36:38.044Z", 
+            "text": "i have a question about the medicine part...would these \"place\" cells \nactivate even if the hippo wasnt aware of the rats presence in the room?? \nor do they activate with observation?  for example..if a dog came into the \nroom without me noticing would these cells that mark the dogs position \nstill be activated in my brain\ufeff", 
+            "author": "Ricku13"
+        }, 
+        {
+            "date": "2015-01-19T04:19:55.630Z", 
+            "text": "+TheMasterofPi oooh it seems I understood something completely different in \nthe first place....thank you!!!", 
+            "author": "Ricku13"
+        }, 
+        {
+            "date": "2015-01-19T04:15:55.882Z", 
+            "text": "What we are talking about isn't how the brain locates other objects in a \nroom, it's how the brain locates its own location in a room. And yes, the \ncells activate with observation, and maybe some other senses.", 
+            "author": "TheMasterofPi"
+        }, 
+        {
+            "date": "2015-01-07T23:06:36.000Z", 
+            "text": "3:58 - Hank Green = Zombie CONFIRMED\ufeff", 
+            "author": "Grrash The Gamer"
+        }, 
+        {
+            "date": "2015-01-04T09:53:18.125Z", 
+            "text": "What, no pictures of the cells? Aww...\ufeff", 
+            "author": "Philip Parkinson"
+        }, 
+        {
+            "date": "2014-12-30T03:26:00.089Z", 
+            "text": "more interestingly, if we figuer out how the hippo campus cells work with \nand communicate with the adjoining bodies and each other, does that mean \nthat  I won't get lost coming home from the dentists, and the police won't \nhave to call my kids?\ufeff", 
+            "author": "Timothy Dingman"
+        }, 
+        {
+            "date": "2014-12-27T00:21:42.226Z", 
+            "text": "*Gallium Nitride\ufeff", 
+            "author": "Michael Abramovitch"
+        }, 
+        {
+            "date": "2014-12-26T19:29:26.206Z", 
+            "text": "No gravitational waves?\ufeff", 
+            "author": "Samantha Barnhart"
+        }, 
+        {
+            "date": "2014-12-26T18:50:26.644Z", 
+            "text": "", 
+            "author": "Dan Mirica"
+        }, 
+        {
+            "date": "2014-12-16T18:11:39.985Z", 
+            "text": "Misleading title.\ufeff", 
+            "author": "Mustafa Konca"
+        }, 
+        {
+            "date": "2014-12-16T03:08:42.101Z", 
+            "text": "Huh. I not sure if discovering brain gps it's worth a novel prize. I mean I \nknew I have some ability to find my way around the city already. And it's \npretty obvious in animals. I guess explaining how and why is cool. But how \nlong did it take to figure that out? I mean this reminds me when someone in \nStanford figured out that windmills could prevent/weaken tornados and it \nprobably took only 5 minutes to figure that out. Why couldn't like the \nnatural disaster relief organization figure that out.\nI guess my point is that science can sometimes overshot their efforts when \nall you really need to do is observe. I mean brain cells fire off when you \nlook in that direction. That's generally how a brain works. You probably \ncould've guessed that.\nWhatever I guess a Nobel prize is also about timing. Like there isn't \nanything else to top that at the time being.\ufeff", 
+            "author": "Eric Thammavongsa"
+        }, 
+        {
+            "date": "2014-12-16T01:06:33.319Z", 
+            "text": "Wait answering machines lights were red? .-. \ufeff", 
+            "author": "truebloodish"
+        }, 
+        {
+            "date": "2015-01-10T18:04:58.915Z", 
+            "text": "Yeah the light that said how many people left a message that's usually in \nred. Just like clocks and that kinda stuff.", 
+            "author": "Sunil Jain"
+        }, 
+        {
+            "date": "2014-12-14T15:45:27.350Z", 
+            "text": "Hank's married?? NOOOOOOO!!! D:\ufeff", 
+            "author": "West&East"
+        }, 
+        {
+            "date": "2014-12-14T11:42:22.587Z", 
+            "text": "Who the eff is Hank?\ufeff", 
+            "author": "Titanicpassenger1"
+        }, 
+        {
+            "date": "2014-12-09T18:54:44.745Z", 
+            "text": "The amount of energy saved in using the Blue LED goes into Stefan Hell's \nlaser.\ufeff", 
+            "author": "IDisnotscience"
+        }, 
+        {
+            "date": "2014-12-09T18:06:36.952Z", 
+            "text": "Don't know if this has been mentioned, but think you mean Gallium *Nitride* \nfor blue LEDs :)\ufeff", 
+            "author": "Cat SMY"
+        }, 
+        {
+            "date": "2014-12-09T00:41:54.760Z", 
+            "text": "Simpsons did it\ufeff", 
+            "author": "g0phuckyourself"
+        }, 
+        {
+            "date": "2014-12-07T06:45:47.285Z", 
+            "text": "Shuji Nakamura is a professor at UCSB! So proud to have our 6th Nobel Prize \nwinner!\ufeff", 
+            "author": "drewadrawing"
+        }, 
+        {
+            "date": "2014-12-06T21:50:47.293Z", 
+            "text": "Their is also no evidence that flying pigs DONT exist\ufeff", 
+            "author": "kostantino pereira"
+        }, 
+        {
+            "date": "2014-12-06T20:35:11.872Z", 
+            "text": "Would it have really been to hard to show an example for the Nobel Prize in \nChemistry?  Learn through visual and audible.\ufeff", 
+            "author": "OneCanisLupus"
+        }, 
+        {
+            "date": "2014-12-05T19:37:21.257Z", 
+            "text": "Come, now, Hank, why would you liken our brain GPS thingy to iPhone maps? \nNot only is it the least established (you'd get a lot better brand \nrecognition, and thus mileage, from referring to Google maps, mapquest, or \neven TomToms) but the least successful.... XD\n\nPoint is, you could just as easily have said \"mapquest\" or even \"your \nsmartphone maps\" or any such thing...why you went with \"iPhone map\" I'll \nnever understand. \ufeff", 
+            "author": "Christopher Palmer"
+        }, 
+        {
+            "date": "2014-12-05T08:29:41.088Z", 
+            "text": "My mind.....expanded, again. Day is not complete until I learn outside my \ncomfort area.\ufeff", 
+            "author": "peterwXXX"
+        }, 
+        {
+            "date": "2014-12-05T03:58:08.493Z", 
+            "text": "Hanks family must be rich now\ufeff", 
+            "author": "Daniel Vu"
+        }, 
+        {
+            "date": "2014-12-03T12:12:17.486Z", 
+            "text": "I really like how practicle this years winners are. It makes me quite \nhappy. Especially if you compare it to the higgs boson disvovery, last \nyears physics winner. \ufeff", 
+            "author": "Emma Lindvall"
+        }, 
+        {
+            "date": "2014-12-03T08:11:47.377Z", 
+            "text": "3 Great Discoveries of 2014\ufeff", 
+            "author": "Hayder Abdulilah Abdulrahman"
+        }, 
+        {
+            "date": "2014-12-02T15:15:54.833Z", 
+            "text": "I have an iPhone map in my head? No wonder I always feel lost.\n\ufeff", 
+            "author": "Thomas Johns"
+        }, 
+        {
+            "date": "2014-12-02T04:52:13.778Z", 
+            "text": "Just one more episode!\ufeff", 
+            "author": "mesto wigge"
+        }, 
+        {
+            "date": "2014-12-02T02:47:11.613Z", 
+            "text": "That awkward moment when you realize that Hank green's brother wrote the \nfault in our stars...\ufeff", 
+            "author": "Mason Stuart"
+        }, 
+        {
+            "date": "2014-12-02T00:22:34.470Z", 
+            "text": "Why do we get scared?\ufeff", 
+            "author": "Reyvon Silva"
+        }, 
+        {
+            "date": "2014-12-02T02:39:22.087Z", 
+            "text": "Because your brain doesn't want you to die", 
+            "author": "StealthyTNT"
+        }, 
+        {
+            "date": "2014-11-30T20:48:00.023Z", 
+            "text": "Your telling me a guy named Hell found a way to see into the molecules of \nyour soul and light it up...\ufeff", 
+            "author": "Squeek Tate"
+        }, 
+        {
+            "date": "2014-12-05T03:13:48.229Z", 
+            "text": "No. ", 
+            "author": "Carson McCarty"
+        }, 
+        {
+            "date": "2014-11-30T01:49:18.905Z", 
+            "text": "Didn't know there were still smart people around lol\ufeff", 
+            "author": "MRE GAMING & MORE"
+        }, 
+        {
+            "date": "2014-11-29T14:14:26.662Z", 
+            "text": "bro, you could at least show some animations instead of standing and \ntalking the whole video making it boring. would be interesting to see those \ncells light up.\ufeff", 
+            "author": "Chuckie Gravesfield"
+        }, 
+        {
+            "date": "2014-11-28T11:35:20.100Z", 
+            "text": "Brain GPS or memory and reference?\ufeff", 
+            "author": "Penfore Penfore"
+        }, 
+        {
+            "date": "2014-11-28T00:35:54.720Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "kamran sahgal"
+        }, 
+        {
+            "date": "2014-11-25T13:28:00.165Z", 
+            "text": "Ever thought of doing a show on the National Radio Quiet Zone & radio \nastronomy?\ufeff", 
+            "author": "Greg Squires"
+        }, 
+        {
+            "date": "2014-11-25T13:02:12.240Z", 
+            "text": "When I heard about the blue LEDs a few weeks or months ago I was like HELL \nYEA!!!\nBlue LEDs would be so freakin cool instead of plain old blue non-power \nsaving lights,\nPlus blue is awesome for meh\ufeff", 
+            "author": "Miguel Torres"
+        }, 
+        {
+            "date": "2014-11-24T22:44:42.060Z", 
+            "text": "this is your job?\ufeff", 
+            "author": "peturs05"
+        }, 
+        {
+            "date": "2014-11-24T11:13:15.016Z", 
+            "text": "That feel when no warp drive inventor this year.\ufeff", 
+            "author": "The Flying Egg"
+        }, 
+        {
+            "date": "2014-11-24T05:22:19.900Z", 
+            "text": "Billions of dollars are donated to cancer and other disease research. I \nhave some questions for you.\n\n1. Where does the money go?\n2. How much of the money donated actually goes toward \"research\"?\n3. Can we see actual progress with the donations?\n4. With all the money donated why haven't we seen more \"cures\"?\n\nThoughts? \ufeff", 
+            "author": "Joe Steen"
+        }, 
+        {
+            "date": "2014-11-24T06:45:02.626Z", 
+            "text": "answers to 1-3:\nYou have to be more specific. If certain criteria are met, the organization \nconducting the research must disclose financial statements that you have \naccess to and can see for yourself. If the organization is profit driven \nand funds its own research, then there is a good chance that you cannot see \nhow the money is spent, just like they cant see how you spend your money. \n\nYou want to see how the Red Cross is spending their money from donations? \nThat information is available to you. \n\nYou want to see how a privately funded organization spends is $$$? That's \nnone of your business. \n\nIf you donate to a cause, you should always do research on that \norganization and find out if it is worth giving them your money. The \ninformation is nearly always available, but no one is going to spoon feed \nit to you, you have to go search for it yourself. \n\nAnswer to 4: Cures are hard and cost a lot of money. That said, there is a \nlot of duplication of resources in the current health care system and money \nisn't always spent as well as it could be.\n\nThe problem is that health care doesn't lend itself well to \nprivate-for-profit organizations. The bigger problem is that it is even \nworse when government gets a hold of it...", 
+            "author": "herranton1979"
+        }, 
+        {
+            "date": "2014-11-24T04:54:50.282Z", 
+            "text": "Any one else notice the shape in the left slowly changed color every time \nthey switched screen shots?\ufeff", 
+            "author": "Meggiemeg Curtis"
+        }, 
+        {
+            "date": "2014-11-24T00:11:41.333Z", 
+            "text": "Ugh! Another hateful top comment! What is wrong with people today!? I am so \nclose to losing all of my faith in humanity right now, that it's not even \nfunny!!!\ufeff", 
+            "author": "ElectroFlame 618"
+        }, 
+        {
+            "date": "2014-11-23T20:44:08.698Z", 
+            "text": "blue led not really a 2014 discovery tho....\ufeff", 
+            "author": "skuletom"
+        }, 
+        {
+            "date": "2014-11-23T15:47:55.035Z", 
+            "text": "He mentions the 1980's when talking about the blue LEDs (1:40). So why the \nnoble price in 2014? Did it take so long? I do not see the connection.\ufeff", 
+            "author": "blazebluebass"
+        }, 
+        {
+            "date": "2014-11-23T03:44:51.859Z", 
+            "text": "Hank, where can I get that shirt?\ufeff", 
+            "author": "marth1717"
+        }, 
+        {
+            "date": "2014-11-22T19:30:20.564Z", 
+            "text": "2015 medicine Nobel prize goes to cure for Ebola.\ufeff", 
+            "author": "Chris Qiao"
+        }, 
+        {
+            "date": "2014-11-22T17:27:55.357Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "Leon Tutors (Online Tutoring)"
+        }, 
+        {
+            "date": "2014-11-22T15:27:41.173Z", 
+            "text": "Please change the background color it just look like shit color and by the \nway I love your show very much\ufeff", 
+            "author": "\u202b\u0627\u0644\u0642\u062d\u0637\u0627\u0646\u064a \u0623\u0644\u0635\u0627\u0639\u0642\u0629\u202c\u200e"
+        }, 
+        {
+            "date": "2014-11-21T14:45:37.824Z", 
+            "text": "Typical LED lights don't use red, green and blue LED elements, but rather \njust a blue LED that has had phosphurs added to the plastic bulb, and those \nphosphurs absorb a portion of the blue light becoming energized and glowing \nred and green or other color combinations that produce whitish light when \ncombined with the unabsorbed blue light.\ufeff", 
+            "author": "Isaac Karjala"
+        }, 
+        {
+            "date": "2014-11-20T19:50:18.141Z", 
+            "text": "So do we have white led bulbs yet???\ufeff", 
+            "author": "jack \u201cof\u201d blades"
+        }, 
+        {
+            "date": "2014-11-20T17:19:25.599Z", 
+            "text": "This article assumes that I'm using an LED backlit display suggesting that \nI would be unable to watch the youtube broadcast. Many LCD monitors and \ntelevisions use cold cathode florescent backlit display and not LED; this \nwas common place just a few years ago. (these tend to get hotter and use a \nbit more energy though). \n\nYou also also managed to alienate Luddites still using CRT's as well. \n\nIn regard to the Nobel Price for the blue LED it is unfortunate that the \ninventors of the original LED types weren't acknowledged as their \ncontribution are effectively the basis for all other LED developments \nonward.\ufeff", 
+            "author": "Jim Taylor"
+        }, 
+        {
+            "date": "2014-11-19T20:20:48.032Z", 
+            "text": "SLOOOOOOOOOOOOOOOOOOW down. Remember: \"The tip of the tongue, the teeth, \nand the lips.\"\ufeff", 
+            "author": "David Jeys"
+        }, 
+        {
+            "date": "2014-11-19T03:37:47.939Z", 
+            "text": "Why do Americans say \"fourth\" instead of quarter, but still \"half\" not \n'twoth'\ufeff", 
+            "author": "Andrew Bulman"
+        }, 
+        {
+            "date": "2014-11-19T01:57:21.000Z", 
+            "text": "Wait, white LED bulbs were invented in 2014? what?\nI'm confused, if he invented blue LEDs in 2014, and we need them for white \nLED bulbs, then doesn't that mean white LED bulbs were invented this year? \nThis video is confusing. \ufeff", 
+            "author": "Amelia Hartman"
+        }, 
+        {
+            "date": "2014-11-20T21:22:32.000Z", 
+            "text": "+Amelia Hartman\u200b\nHaha, u were not alone who was confused :P", 
+            "author": "Sourabh jain"
+        }, 
+        {
+            "date": "2014-11-20T21:20:04.779Z", 
+            "text": "+Sourabh jain Ohhhh, that makes more sense now. I was really confused, I \nthought they just invented them. xD", 
+            "author": "Amelia Hartman"
+        }, 
+        {
+            "date": "2014-11-20T15:14:44.746Z", 
+            "text": "they made blue LED much before, in 80s i suppose, n from which white LEDs \nwere also made much before, bt they were given noble for that this year, \nmuch after their discovery ", 
+            "author": "Sourabh jain"
+        }, 
+        {
+            "date": "2014-11-20T14:04:51.381Z", 
+            "text": "+Amelia Hartman They do now, I believe", 
+            "author": "Echo Sniping"
+        }, 
+        {
+            "date": "2014-11-20T04:51:46.260Z", 
+            "text": "+Echo Sniping So white bulbs LEDs don't exist yet? ", 
+            "author": "Amelia Hartman"
+        }, 
+        {
+            "date": "2014-11-20T02:45:02.563Z", 
+            "text": "LEDs themselves were not invented in 2014. The bulbs that we will all soon \nbe using were. Now that they have gotten blue LEDs, we can combine the Red, \nBlue, and Green to make white LEDs", 
+            "author": "Echo Sniping"
+        }, 
+        {
+            "date": "2014-11-19T01:26:19.829Z", 
+            "text": "What... is this German Chemist seriously called Stefan HELL?\nFun fact, \"Hell\" in German means \"bright/light.\"  Cute coincidence that \nwhat he uses light in his studies.\ufeff", 
+            "author": "reicirith"
+        }, 
+        {
+            "date": "2014-11-18T02:45:19.025Z", 
+            "text": "+SciShow What does reading do for the mind or to the mind/brain ? \ufeff", 
+            "author": "Tsegay Belay"
+        }, 
+        {
+            "date": "2014-11-17T17:27:16.080Z", 
+            "text": "Not on my CRT monitor! :D\ufeff", 
+            "author": "Tim Pipp"
+        }, 
+        {
+            "date": "2014-11-17T15:05:09.433Z", 
+            "text": "My entorhinal cortex is a slackerpants and insists on being super slow when \nI'm trying to learn a new place. My upper hippocampus might have some \nproblems, too; I can see a location in my head and I can see my starting \nlocation, but sometimes the pathways between them aren't clear.\n\nAlso, HIPPOcampus? EntoRHINal cortex? ...Anyone?\ufeff", 
+            "author": "Kathryn A"
+        }, 
+        {
+            "date": "2014-11-17T11:45:07.717Z", 
+            "text": "About energy saving, in houses that require heating, lightbulbs based on \nelectrical resistance are more cost effective since the thermal energy will \nstack with heating.\nDon't know current production or material costs for led lights, but I \nassume they are still far more expensive to make and dispose of.\ufeff", 
+            "author": "quamBlithe"
+        }, 
+        {
+            "date": "2014-11-17T07:33:00.075Z", 
+            "text": "<b>Nobel prizes in Science awarded this year</b>", 
+            "author": "Mukesh Kumar"
+        }, 
+        {
+            "date": "2014-11-17T00:51:35.490Z", 
+            "text": "My iphone brain map is terrible.\ufeff", 
+            "author": "Artsy_Judoka"
+        }, 
+        {
+            "date": "2014-11-16T17:41:34.557Z", 
+            "text": "I'm very confused\ufeff", 
+            "author": "UpsideDownTiger"
+        }, 
+        {
+            "date": "2014-11-16T00:35:59.123Z", 
+            "text": "Is Hank actually this smart or is he just a face?\ufeff", 
+            "author": "AgentWashingtub"
+        }, 
+        {
+            "date": "2015-01-28T00:23:34.579Z", 
+            "text": "I'm sure he reads these.", 
+            "author": "juan balderas"
+        }, 
+        {
+            "date": "2014-11-17T22:25:57.478Z", 
+            "text": "+izybit izybit You know what I mean.", 
+            "author": "AgentWashingtub"
+        }, 
+        {
+            "date": "2014-11-17T21:57:29.185Z", 
+            "text": "No, he also has a torso and 4 to 5 limbs.", 
+            "author": "izybit izybit"
+        }, 
+        {
+            "date": "2014-11-15T22:45:49.966Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "freshastrology"
+        }, 
+        {
+            "date": "2014-11-15T22:19:32.420Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "Laura Funderburk"
+        }, 
+        {
+            "date": "2014-11-15T20:50:22.559Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "Marzia Boccone"
+        }, 
+        {
+            "date": "2014-11-15T19:18:19.759Z", 
+            "text": "", 
+            "author": "LP Kennedy"
+        }, 
+        {
+            "date": "2014-11-15T19:07:50.628Z", 
+            "text": "", 
+            "author": "Fikret Alp"
+        }, 
+        {
+            "date": "2014-11-15T17:59:26.014Z", 
+            "text": "", 
+            "author": "Verbal Swordsman"
+        }, 
+        {
+            "date": "2014-11-15T16:54:13.885Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "Ron Vincent"
+        }, 
+        {
+            "date": "2014-11-15T16:10:50.256Z", 
+            "text": "", 
+            "author": "Superman00221"
+        }, 
+        {
+            "date": "2014-11-15T13:59:33.061Z", 
+            "text": "\u00a0nobel prizes in science !!!", 
+            "author": "Gonzalez Gonzo"
+        }, 
+        {
+            "date": "2014-11-15T13:24:39.185Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "Captain Jack"
+        }, 
+        {
+            "date": "2014-11-15T13:08:43.848Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "Soumyarup Choudhury"
+        }, 
+        {
+            "date": "2014-11-15T09:58:33.749Z", 
+            "text": "TESLA NOT EDISONNNNNNN\ufeff", 
+            "author": "Booksteps *"
+        }, 
+        {
+            "date": "2014-11-15T08:36:05.739Z", 
+            "text": "Learn about the nobel prizes in science that were awarded this year which \nreward the invention of the LED bulb, the development of glowing molecules \nthat allow us to create detailed images of cells, and the discovery that \nbrains have an inner GPS. \n\n3 Great Discoveries of 2014\ufeff", 
+            "author": "Omar Abd El-Gaffer"
+        }
+    ]
+}

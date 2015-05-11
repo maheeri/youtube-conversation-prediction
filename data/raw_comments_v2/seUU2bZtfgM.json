@@ -1,0 +1,3101 @@
+{
+    "publish_date": "2013-06-12T12:55:12.000Z", 
+    "video_length": "PT13M41S", 
+    "captions": [
+        {
+            "text": "SIMON PAMPENA: It&#39;s\nmind blowing.", 
+            "dur": "2", 
+            "start": "0.47"
+        }, 
+        {
+            "text": "I learned this when I was\nat uni, the existence of", 
+            "dur": "3", 
+            "start": "2.47"
+        }, 
+        {
+            "text": "transcendental numbers.", 
+            "dur": "1.54", 
+            "start": "5.47"
+        }, 
+        {
+            "text": "And the name was a\nselling point.", 
+            "dur": "1.67", 
+            "start": "7.01"
+        }, 
+        {
+            "text": "Because I was like,\ntranscendental.", 
+            "dur": "1.05", 
+            "start": "8.68"
+        }, 
+        {
+            "text": "You know, it&#39;s a time when\nyou&#39;re really interested in,", 
+            "dur": "3.14", 
+            "start": "9.73"
+        }, 
+        {
+            "text": "like, out of body experiences\nand whatnot.", 
+            "dur": "2.53", 
+            "start": "12.87"
+        }, 
+        {
+            "text": "But the idea that mathematicians\ngave this name", 
+            "dur": "3.57", 
+            "start": "15.4"
+        }, 
+        {
+            "text": "to numbers, numbers, these\nare numbers that", 
+            "dur": "3.13", 
+            "start": "18.97"
+        }, 
+        {
+            "text": "you&#39;re familiar with.", 
+            "dur": "0.74", 
+            "start": "22.1"
+        }, 
+        {
+            "text": "Like pi, you can write down\nas a decimal expansion.", 
+            "dur": "3.68", 
+            "start": "22.84"
+        }, 
+        {
+            "text": "You&#39;ll never get it right, but\nit&#39;s just a number that you&#39;re", 
+            "dur": "2.55", 
+            "start": "26.52"
+        }, 
+        {
+            "text": "familiar with.", 
+            "dur": "1.06", 
+            "start": "29.07"
+        }, 
+        {
+            "text": "Has this property that we\njust didn&#39;t know about.", 
+            "dur": "3.1", 
+            "start": "30.13"
+        }, 
+        {
+            "text": "OK, we&#39;re going to play a game,\nand we&#39;re going to try", 
+            "dur": "1.62", 
+            "start": "33.23"
+        }, 
+        {
+            "text": "and understand transcendental\nnumbers with this game.", 
+            "dur": "3.75", 
+            "start": "34.85"
+        }, 
+        {
+            "text": "The game is reducing\ndown numbers to 0.", 
+            "dur": "3.55", 
+            "start": "38.6"
+        }, 
+        {
+            "text": "That&#39;s what you want to do.", 
+            "dur": "0.98", 
+            "start": "42.15"
+        }, 
+        {
+            "text": "So the rules are you can only\nuse whole numbers to do it,", 
+            "dur": "3.57", 
+            "start": "43.13"
+        }, 
+        {
+            "text": "and you can add, take, multiply,\nand put the whole", 
+            "dur": "5.27", 
+            "start": "46.7"
+        }, 
+        {
+            "text": "thing to any power you like,\nbut it has to be a whole", 
+            "dur": "2.09", 
+            "start": "51.97"
+        }, 
+        {
+            "text": "number power.", 
+            "dur": "0.96", 
+            "start": "54.06"
+        }, 
+        {
+            "text": "OK, so let&#39;s play the game.", 
+            "dur": "1.13", 
+            "start": "55.02"
+        }, 
+        {
+            "text": "OK, so do you have a\nfavorite number?", 
+            "dur": "2.613", 
+            "start": "56.15"
+        }, 
+        {
+            "text": "BRADY HARAN: Well, I\nlike the number 10.", 
+            "dur": "1.737", 
+            "start": "58.763"
+        }, 
+        {
+            "text": "SIMON PAMPENA: 10?", 
+            "dur": "0.49", 
+            "start": "60.5"
+        }, 
+        {
+            "text": "BRADY HARAN: Yeah, but that\nseems like quite an easy one.", 
+            "dur": "1.07", 
+            "start": "60.99"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Sure.", 
+            "dur": "0.56", 
+            "start": "62.06"
+        }, 
+        {
+            "text": "That&#39;s fine.", 
+            "dur": "0.69", 
+            "start": "62.62"
+        }, 
+        {
+            "text": "You mean 10 in base 10?", 
+            "dur": "1.709", 
+            "start": "63.31"
+        }, 
+        {
+            "text": "BRADY HARAN: 10 in base 10.", 
+            "dur": "0.791", 
+            "start": "65.019"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Yeah, OK.", 
+            "dur": "0.45", 
+            "start": "65.81"
+        }, 
+        {
+            "text": "So 10 in base 10.", 
+            "dur": "0.97", 
+            "start": "66.26"
+        }, 
+        {
+            "text": "OK, here we go.", 
+            "dur": "0.65", 
+            "start": "67.23"
+        }, 
+        {
+            "text": "Let&#39;s start the game.", 
+            "dur": "0.83", 
+            "start": "67.88"
+        }, 
+        {
+            "text": "So we want to get this down to\n0, so the first thing we could", 
+            "dur": "2.82", 
+            "start": "68.71"
+        }, 
+        {
+            "text": "do is multiply it by 0.", 
+            "dur": "3.16", 
+            "start": "71.53"
+        }, 
+        {
+            "text": "But that you can do with any\nnumber, because any number", 
+            "dur": "2.76", 
+            "start": "74.69"
+        }, 
+        {
+            "text": "times 0 is--", 
+            "dur": "1.5", 
+            "start": "77.45"
+        }, 
+        {
+            "text": "BRADY HARAN: 0.", 
+            "dur": "1.13", 
+            "start": "78.95"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Bingo.", 
+            "dur": "0.55", 
+            "start": "80.08"
+        }, 
+        {
+            "text": "You can do that, but that&#39;s\nnot very interesting.", 
+            "dur": "2.13", 
+            "start": "80.63"
+        }, 
+        {
+            "text": "But what is interesting is that\nif we try and use these", 
+            "dur": "3.03", 
+            "start": "82.76"
+        }, 
+        {
+            "text": "rules, we can go, OK, what\nhappens if I take", 
+            "dur": "2.89", 
+            "start": "85.79"
+        }, 
+        {
+            "text": "away 10 from this?", 
+            "dur": "2.81", 
+            "start": "88.68"
+        }, 
+        {
+            "text": "We&#39;re done.", 
+            "dur": "1.53", 
+            "start": "91.49"
+        }, 
+        {
+            "text": "So there you go.", 
+            "dur": "0.8", 
+            "start": "93.02"
+        }, 
+        {
+            "text": "So that sounds kind of trivial,\nbut it&#39;s a really", 
+            "dur": "3", 
+            "start": "93.82"
+        }, 
+        {
+            "text": "good start.", 
+            "dur": "1.25", 
+            "start": "96.82"
+        }, 
+        {
+            "text": "So we used a whole number,\nand we used the take.", 
+            "dur": "1.54", 
+            "start": "98.07"
+        }, 
+        {
+            "text": "What about something else?", 
+            "dur": "1", 
+            "start": "99.61"
+        }, 
+        {
+            "text": "How about 3/4?", 
+            "dur": "2.52", 
+            "start": "100.61"
+        }, 
+        {
+            "text": "First of all, let&#39;s\nmultiply it by 4.", 
+            "dur": "3.25", 
+            "start": "103.13"
+        }, 
+        {
+            "text": "OK, so these things\nwill cancel.", 
+            "dur": "1.41", 
+            "start": "106.38"
+        }, 
+        {
+            "text": "You get 3.", 
+            "dur": "0.95", 
+            "start": "107.79"
+        }, 
+        {
+            "text": "Now we can take away\n3, we&#39;ll get 0.", 
+            "dur": "3.38", 
+            "start": "108.74"
+        }, 
+        {
+            "text": "Excellent.", 
+            "dur": "0.8", 
+            "start": "112.12"
+        }, 
+        {
+            "text": "But what about something\ncrazier?", 
+            "dur": "1.56", 
+            "start": "112.92"
+        }, 
+        {
+            "text": "What about like a really\ncrazy number?", 
+            "dur": "1.74", 
+            "start": "114.48"
+        }, 
+        {
+            "text": "What about like, the\nsquare root of 2?", 
+            "dur": "3.6", 
+            "start": "116.22"
+        }, 
+        {
+            "text": "I think you guys know about\nthe square of 2.", 
+            "dur": "1.89", 
+            "start": "119.82"
+        }, 
+        {
+            "text": "BRADY HARAN: Yes, we do.", 
+            "dur": "0.57", 
+            "start": "121.71"
+        }, 
+        {
+            "text": "That&#39;s irrational, isn&#39;t it?", 
+            "dur": "1.28", 
+            "start": "122.28"
+        }, 
+        {
+            "text": "SIMON PAMPENA: It&#39;s an\nirrational number, and", 
+            "dur": "1.32", 
+            "start": "123.56"
+        }, 
+        {
+            "text": "irrational means it can&#39;t be\nexpressed as a fraction.", 
+            "dur": "2.87", 
+            "start": "124.88"
+        }, 
+        {
+            "text": "So the square root of 2 is kind\nof a very strange number,", 
+            "dur": "3.02", 
+            "start": "127.75"
+        }, 
+        {
+            "text": "and so this little thing here,\nI often say this little thing", 
+            "dur": "3.83", 
+            "start": "130.77"
+        }, 
+        {
+            "text": "here is like a little\nsentence.", 
+            "dur": "0.895", 
+            "start": "134.6"
+        }, 
+        {
+            "text": "It says, what number multiplied\nby itself gives you", 
+            "dur": "2.895", 
+            "start": "135.495"
+        }, 
+        {
+            "text": "this number?", 
+            "dur": "0.495", 
+            "start": "138.39"
+        }, 
+        {
+            "text": "That&#39;s the way I think of\nthe square root sign.", 
+            "dur": "2.625", 
+            "start": "138.885"
+        }, 
+        {
+            "text": "So I don&#39;t know what number\nmultiplied by itself gives me", 
+            "dur": "2.89", 
+            "start": "141.51"
+        }, 
+        {
+            "text": "2, but that doesn&#39;t matter.", 
+            "dur": "1.6", 
+            "start": "144.4"
+        }, 
+        {
+            "text": "Now, what we&#39;ll do is\nto try and get this", 
+            "dur": "1.85", 
+            "start": "146"
+        }, 
+        {
+            "text": "one down to 0, OK?", 
+            "dur": "2.11", 
+            "start": "147.85"
+        }, 
+        {
+            "text": "First of all, we&#39;ll have to--", 
+            "dur": "1.51", 
+            "start": "149.96"
+        }, 
+        {
+            "text": "BRADY HARAN: OK, that, I\nreckon I can do that.", 
+            "dur": "1.16", 
+            "start": "151.47"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Well, tell me.", 
+            "dur": "0.12", 
+            "start": "152.63"
+        }, 
+        {
+            "text": "BRADY HARAN: I reckon if we\nraise that to a power--", 
+            "dur": "4.03", 
+            "start": "152.75"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Yep.", 
+            "dur": "0.51", 
+            "start": "156.78"
+        }, 
+        {
+            "text": "What power?", 
+            "dur": "0.74", 
+            "start": "157.29"
+        }, 
+        {
+            "text": "BRADY HARAN: Let&#39;s raise\nit to the power of 2?", 
+            "dur": "2.88", 
+            "start": "158.03"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Correct,\nso that&#39;s", 
+            "dur": "0.75", 
+            "start": "160.91"
+        }, 
+        {
+            "text": "multiplying it by itself.", 
+            "dur": "1.24", 
+            "start": "161.66"
+        }, 
+        {
+            "text": "And then what do you\nget in the middle?", 
+            "dur": "2.678", 
+            "start": "162.9"
+        }, 
+        {
+            "text": "BRADY HARAN: You&#39;re going\nto get 2, I&#39;d bet.", 
+            "dur": "1.382", 
+            "start": "165.578"
+        }, 
+        {
+            "text": "SIMON PAMPENA: That&#39;s right.", 
+            "dur": "0.47", 
+            "start": "166.96"
+        }, 
+        {
+            "text": "So now you&#39;ve got 2 in there,\nso what are you going to do?", 
+            "dur": "1.79", 
+            "start": "167.43"
+        }, 
+        {
+            "text": "BRADY HARAN: Subtract 2.", 
+            "dur": "0.81", 
+            "start": "169.22"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Yes!", 
+            "dur": "0.81", 
+            "start": "170.03"
+        }, 
+        {
+            "text": "So look at that.", 
+            "dur": "0.56", 
+            "start": "170.84"
+        }, 
+        {
+            "text": "So you&#39;ve just taken an\nirrational number, and with", 
+            "dur": "2.95", 
+            "start": "171.4"
+        }, 
+        {
+            "text": "this game you&#39;ve brought\nit down to 0.", 
+            "dur": "1.52", 
+            "start": "174.35"
+        }, 
+        {
+            "text": "How about the square\nroot of negative 1?", 
+            "dur": "4.14", 
+            "start": "175.87"
+        }, 
+        {
+            "text": "We&#39;ve gone from numbers that\nyou know and love to", 
+            "dur": "3.01", 
+            "start": "180.01"
+        }, 
+        {
+            "text": "fractions, OK, to irrational.", 
+            "dur": "3.07", 
+            "start": "183.02"
+        }, 
+        {
+            "text": "This is irrational numbers.", 
+            "dur": "1.19", 
+            "start": "186.09"
+        }, 
+        {
+            "text": "Now we&#39;ve gone into what they\ncall complex, or some people", 
+            "dur": "3.25", 
+            "start": "187.28"
+        }, 
+        {
+            "text": "call imaginary, which is\na terrible name for it.", 
+            "dur": "2.9", 
+            "start": "190.53"
+        }, 
+        {
+            "text": "OK, so what can you do to\nthis one here to try and", 
+            "dur": "1.96", 
+            "start": "193.43"
+        }, 
+        {
+            "text": "get it down to 0?", 
+            "dur": "0.9", 
+            "start": "195.39"
+        }, 
+        {
+            "text": "BRADY HARAN: Well, I&#39;m just\ngoing to square it and add 1.", 
+            "dur": "2.615", 
+            "start": "196.29"
+        }, 
+        {
+            "text": "SIMON PAMPENA: There you go.", 
+            "dur": "1.235", 
+            "start": "198.905"
+        }, 
+        {
+            "text": "No flies on you, mate.", 
+            "dur": "1.73", 
+            "start": "200.14"
+        }, 
+        {
+            "text": "So there you go.", 
+            "dur": "0.6", 
+            "start": "201.87"
+        }, 
+        {
+            "text": "So we&#39;ve been able to play this\ngame with three or four", 
+            "dur": "3.99", 
+            "start": "202.47"
+        }, 
+        {
+            "text": "very different types of numbers,\nquite special.", 
+            "dur": "2.63", 
+            "start": "206.46"
+        }, 
+        {
+            "text": "But what about something else?", 
+            "dur": "1.08", 
+            "start": "209.09"
+        }, 
+        {
+            "text": "What about the square root of\n2 plus the square root of 3?", 
+            "dur": "4.56", 
+            "start": "210.17"
+        }, 
+        {
+            "text": "What can you do with that?", 
+            "dur": "1.78", 
+            "start": "214.73"
+        }, 
+        {
+            "text": "So, let&#39;s see.", 
+            "dur": "0.97", 
+            "start": "216.51"
+        }, 
+        {
+            "text": "The square root of 2 plus\nthe square root of 3.", 
+            "dur": "2.47", 
+            "start": "217.48"
+        }, 
+        {
+            "text": "Now we&#39;re gonna square it.", 
+            "dur": "1.95", 
+            "start": "219.95"
+        }, 
+        {
+            "text": "OK, so this is a little bit\nof high school maths.", 
+            "dur": "2.73", 
+            "start": "221.9"
+        }, 
+        {
+            "text": "2 plus 2 times this by this,\nwhich is 2 the square root of", 
+            "dur": "4.51", 
+            "start": "224.63"
+        }, 
+        {
+            "text": "2 times square root of\n3 plus this squared.", 
+            "dur": "2.87", 
+            "start": "229.14"
+        }, 
+        {
+            "text": "So that&#39;s 3.", 
+            "dur": "0.85", 
+            "start": "232.01"
+        }, 
+        {
+            "text": "So this reduces down to 5 plus\n2 by the square root of 2 by", 
+            "dur": "3.58", 
+            "start": "232.86"
+        }, 
+        {
+            "text": "the square root of 3.", 
+            "dur": "1.13", 
+            "start": "236.44"
+        }, 
+        {
+            "text": "OK, so this is what\nwe&#39;ve done.", 
+            "dur": "1.46", 
+            "start": "237.57"
+        }, 
+        {
+            "text": "We&#39;ve done that there, but\nlook what&#39;s popped out.", 
+            "dur": "2.8", 
+            "start": "239.03"
+        }, 
+        {
+            "text": "A number that we can use,\na whole number.", 
+            "dur": "1.61", 
+            "start": "241.83"
+        }, 
+        {
+            "text": "So what we&#39;ll do is on this\nside, we&#39;ll go 5 plus 2 by the", 
+            "dur": "3.05", 
+            "start": "243.44"
+        }, 
+        {
+            "text": "square root of 2 by the square\nroot of 3, and now", 
+            "dur": "1.67", 
+            "start": "246.49"
+        }, 
+        {
+            "text": "we&#39;ll take away 5.", 
+            "dur": "1.81", 
+            "start": "248.16"
+        }, 
+        {
+            "text": "So we&#39;ll end up getting 2 by\nthe square root of 2 by the", 
+            "dur": "2.68", 
+            "start": "249.97"
+        }, 
+        {
+            "text": "square root of 3.", 
+            "dur": "0.82", 
+            "start": "252.65"
+        }, 
+        {
+            "text": "And this is good, because\nthere&#39;s no", 
+            "dur": "2.09", 
+            "start": "253.47"
+        }, 
+        {
+            "text": "plus sign in the middle.", 
+            "dur": "1.5", 
+            "start": "255.56"
+        }, 
+        {
+            "text": "What can we do next?", 
+            "dur": "1.019", 
+            "start": "257.06"
+        }, 
+        {
+            "text": "Well, we&#39;re going to\nsquare all of that.", 
+            "dur": "2.26", 
+            "start": "258.079"
+        }, 
+        {
+            "text": "So 2 squared is 4, and the\nsquare root of 2 squared is 2.", 
+            "dur": "5.061", 
+            "start": "260.339"
+        }, 
+        {
+            "text": "And the square root\nof 3 squared is 3.", 
+            "dur": "3.19", 
+            "start": "265.4"
+        }, 
+        {
+            "text": "OK, so that dot is another\nway of saying times.", 
+            "dur": "2.45", 
+            "start": "268.59"
+        }, 
+        {
+            "text": "And so that one is 2/8,\ntwo 4&#39;s are eight,", 
+            "dur": "2.62", 
+            "start": "271.04"
+        }, 
+        {
+            "text": "eight 3&#39;s 24, done.", 
+            "dur": "2.32", 
+            "start": "273.66"
+        }, 
+        {
+            "text": "So if we go 24, take 24,\nboom, we get down to 0.", 
+            "dur": "5.03", 
+            "start": "275.98"
+        }, 
+        {
+            "text": "What I wanted to show you, the\nreason why I wanted to show", 
+            "dur": "1.64", 
+            "start": "281.01"
+        }, 
+        {
+            "text": "you this is because all these\ndifferent numbers look very", 
+            "dur": "2.12", 
+            "start": "282.65"
+        }, 
+        {
+            "text": "complicated, unrelated,\nbut let me show you.", 
+            "dur": "3.11", 
+            "start": "284.77"
+        }, 
+        {
+            "text": "Now, let&#39;s replace all the\nnumbers we put in with x.", 
+            "dur": "3.462", 
+            "start": "287.88"
+        }, 
+        {
+            "text": "x take 10 is 0, 4x take 3 is\n0, x squared take 2 is 0, x", 
+            "dur": "8.368", 
+            "start": "291.342"
+        }, 
+        {
+            "text": "squared plus 1 is 0, and this\none is x squared take 5, all", 
+            "dur": "4.98", 
+            "start": "299.71"
+        }, 
+        {
+            "text": "squared, take 24 equals\n0, which if we", 
+            "dur": "3.66", 
+            "start": "304.69"
+        }, 
+        {
+            "text": "expand out, so look.", 
+            "dur": "2.87", 
+            "start": "308.35"
+        }, 
+        {
+            "text": "These all look like\nalgebra problems.", 
+            "dur": "4.12", 
+            "start": "311.22"
+        }, 
+        {
+            "text": "So what we did was in our game,\nwe picked numbers, and", 
+            "dur": "3.02", 
+            "start": "315.34"
+        }, 
+        {
+            "text": "we tried to get them to 0.", 
+            "dur": "1.02", 
+            "start": "318.36"
+        }, 
+        {
+            "text": "But the opposite could have been\nhere, let&#39;s solve for x.", 
+            "dur": "4.71", 
+            "start": "319.38"
+        }, 
+        {
+            "text": "Now, this is the stuff that\nyou get taught in school.", 
+            "dur": "2.42", 
+            "start": "324.09"
+        }, 
+        {
+            "text": "This is algebra, and it so\nhappens that the family that", 
+            "dur": "4.87", 
+            "start": "326.51"
+        }, 
+        {
+            "text": "all these numbers belong to,\neven the square root of", 
+            "dur": "3", 
+            "start": "331.38"
+        }, 
+        {
+            "text": "negative 1, is algebraic\nnumbers.", 
+            "dur": "3.81", 
+            "start": "334.38"
+        }, 
+        {
+            "text": "So we&#39;ve actually found a home\nfor some of the biggest stars", 
+            "dur": "3.73", 
+            "start": "338.19"
+        }, 
+        {
+            "text": "of maths, the numbers that have\ncaused huge problems and", 
+            "dur": "3.39", 
+            "start": "341.92"
+        }, 
+        {
+            "text": "schisms, what is the square\nroot of negative 1?", 
+            "dur": "2.29", 
+            "start": "345.31"
+        }, 
+        {
+            "text": "Square root of 2 from\nthe ancient times,", 
+            "dur": "2.07", 
+            "start": "347.6"
+        }, 
+        {
+            "text": "the Pythagorean times.", 
+            "dur": "1.21", 
+            "start": "349.67"
+        }, 
+        {
+            "text": "People died because\nof this number.", 
+            "dur": "2.19", 
+            "start": "350.88"
+        }, 
+        {
+            "text": "But somehow we&#39;ve found a family\nfor these numbers,", 
+            "dur": "2.72", 
+            "start": "353.07"
+        }, 
+        {
+            "text": "algebraic numbers.", 
+            "dur": "1.36", 
+            "start": "355.79"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "1.04", 
+            "start": "357.15"
+        }, 
+        {
+            "text": "So next, we&#39;re going to need\nanother sheet of paper.", 
+            "dur": "3.5", 
+            "start": "358.19"
+        }, 
+        {
+            "text": "We&#39;ve chosen some numbers.", 
+            "dur": "2.08", 
+            "start": "361.69"
+        }, 
+        {
+            "text": "What about a special number?", 
+            "dur": "1.93", 
+            "start": "363.77"
+        }, 
+        {
+            "text": "What about e?", 
+            "dur": "2.14", 
+            "start": "365.7"
+        }, 
+        {
+            "text": "Now this number here--", 
+            "dur": "1.68", 
+            "start": "367.84"
+        }, 
+        {
+            "text": "if you&#39;re not familiar with\nit-- this number is a", 
+            "dur": "2.25", 
+            "start": "369.52"
+        }, 
+        {
+            "text": "fantastic number for maths.", 
+            "dur": "1.8", 
+            "start": "371.77"
+        }, 
+        {
+            "text": "And what it is is that if it&#39;s a\nfunction, a function of e to", 
+            "dur": "4.073", 
+            "start": "373.57"
+        }, 
+        {
+            "text": "the x, e to any number that\nyou raise it to, OK?", 
+            "dur": "3.297", 
+            "start": "377.643"
+        }, 
+        {
+            "text": "On the graph, when you graph\nit like so, the y value is", 
+            "dur": "4.85", 
+            "start": "380.94"
+        }, 
+        {
+            "text": "also at the slope of the\ntangent at that point.", 
+            "dur": "2.61", 
+            "start": "385.79"
+        }, 
+        {
+            "text": "So it&#39;s really, really important\nto natural growth.", 
+            "dur": "2.19", 
+            "start": "388.4"
+        }, 
+        {
+            "text": "It&#39;s like a really\nfantastic number.", 
+            "dur": "1.66", 
+            "start": "390.59"
+        }, 
+        {
+            "text": "It means a lot to life, really,\nbut it&#39;s actually a", 
+            "dur": "2.21", 
+            "start": "392.25"
+        }, 
+        {
+            "text": "super crazy number.", 
+            "dur": "1.54", 
+            "start": "394.46"
+        }, 
+        {
+            "text": "Super, super crazy.", 
+            "dur": "1.65", 
+            "start": "396"
+        }, 
+        {
+            "text": "One of the expressions I can\nshow you for it is actually an", 
+            "dur": "2.94", 
+            "start": "397.65"
+        }, 
+        {
+            "text": "infinite sum.", 
+            "dur": "0.9", 
+            "start": "400.59"
+        }, 
+        {
+            "text": "So I&#39;m going to blow you away.", 
+            "dur": "1.67", 
+            "start": "401.49"
+        }, 
+        {
+            "text": "It&#39;s 1 plus 1 on 1 plus 1 on 2\nplus 1 on 6 plus 1 on 20--", 
+            "dur": "9.21", 
+            "start": "403.16"
+        }, 
+        {
+            "text": "anyway, it keeps going\nforever and ever.", 
+            "dur": "1.35", 
+            "start": "412.37"
+        }, 
+        {
+            "text": "But can we play the game\nwith this number?", 
+            "dur": "2.26", 
+            "start": "413.72"
+        }, 
+        {
+            "text": "Can we bring this number\ndown to 0 using the", 
+            "dur": "3.52", 
+            "start": "415.98"
+        }, 
+        {
+            "text": "rules of our game?", 
+            "dur": "1.72", 
+            "start": "419.5"
+        }, 
+        {
+            "text": "BRADY HARAN: Can we do\nit with algebra?", 
+            "dur": "1.33", 
+            "start": "421.22"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Can we\ndo it with algebra?", 
+            "dur": "1.58", 
+            "start": "422.55"
+        }, 
+        {
+            "text": "That&#39;s right.", 
+            "dur": "0.27", 
+            "start": "424.13"
+        }, 
+        {
+            "text": "BRADY HARAN: All right.", 
+            "dur": "1.34", 
+            "start": "424.4"
+        }, 
+        {
+            "text": "Can we?", 
+            "dur": "0.72", 
+            "start": "425.74"
+        }, 
+        {
+            "text": "SIMON PAMPENA: Well, for ages\nand ages and ages, e&#39;s been", 
+            "dur": "2.61", 
+            "start": "426.46"
+        }, 
+        {
+            "text": "around for about 400 years.", 
+            "dur": "1.42", 
+            "start": "429.07"
+        }, 
+        {
+            "text": "Nobody really knew.", 
+            "dur": "1", 
+            "start": "430.49"
+        }, 
+        {
+            "text": "I mean, this number\nis really, really", 
+            "dur": "1.38", 
+            "start": "431.49"
+        }, 
+        {
+            "text": "important, and no one knew.", 
+            "dur": "2.04", 
+            "start": "432.87"
+        }, 
+        {
+            "text": "It so happens, we can&#39;t.", 
+            "dur": "2.58", 
+            "start": "434.91"
+        }, 
+        {
+            "text": "BRADY HARAN: It can&#39;t be done.", 
+            "dur": "1.32", 
+            "start": "437.49"
+        }, 
+        {
+            "text": "SIMON PAMPENA: It can&#39;t be done,\nand I&#39;ll show you why.", 
+            "dur": "2.15", 
+            "start": "438.81"
+        }, 
+        {
+            "text": "Well, I&#39;ll kind of try and show\nyou why, because it&#39;s", 
+            "dur": "1.77", 
+            "start": "440.96"
+        }, 
+        {
+            "text": "actually really tricky.", 
+            "dur": "1.445", 
+            "start": "442.73"
+        }, 
+        {
+            "text": "But it was a guy called Charles\nHermite, and he", 
+            "dur": "4.245", 
+            "start": "444.175"
+        }, 
+        {
+            "text": "basically showed--", 
+            "dur": "1.17", 
+            "start": "448.42"
+        }, 
+        {
+            "text": "right, so I&#39;m going to use these\nsymbols here, because I", 
+            "dur": "2.31", 
+            "start": "449.59"
+        }, 
+        {
+            "text": "don&#39;t know what the\nformula will be.", 
+            "dur": "2.49", 
+            "start": "451.9"
+        }, 
+        {
+            "text": "He basically showed if you try\nand play the game, right,", 
+            "dur": "2.75", 
+            "start": "454.39"
+        }, 
+        {
+            "text": "bringing e to any power that\nyou want, whole power and", 
+            "dur": "3.38", 
+            "start": "457.14"
+        }, 
+        {
+            "text": "timesing it by any\nwhole number.", 
+            "dur": "1.87", 
+            "start": "460.52"
+        }, 
+        {
+            "text": "So if you claim that there does\nexist some bit of algebra", 
+            "dur": "4.31", 
+            "start": "462.39"
+        }, 
+        {
+            "text": "that you can bring it down to 0,\nhe showed that you&#39;ll lead", 
+            "dur": "2.71", 
+            "start": "466.7"
+        }, 
+        {
+            "text": "to a contradiction.", 
+            "dur": "0.93", 
+            "start": "469.41"
+        }, 
+        {
+            "text": "Basically, he showed that there\nwas a number, a whole", 
+            "dur": "3.22", 
+            "start": "470.34"
+        }, 
+        {
+            "text": "number that existed\nbetween 0 and 1.", 
+            "dur": "2.12", 
+            "start": "473.56"
+        }, 
+        {
+            "text": "Obviously, there&#39;s not.", 
+            "dur": "2.74", 
+            "start": "475.68"
+        }, 
+        {
+            "text": "Obviously, there&#39;s not.", 
+            "dur": "1.12", 
+            "start": "478.42"
+        }, 
+        {
+            "text": "But this is what you do in\nmaths, is that if you want to", 
+            "dur": "2.95", 
+            "start": "479.54"
+        }, 
+        {
+            "text": "show you something is\nimpossible, you kind of assume", 
+            "dur": "4.39", 
+            "start": "482.49"
+        }, 
+        {
+            "text": "that it&#39;s true, and then you\nshow that it creates a", 
+            "dur": "2.37", 
+            "start": "486.88"
+        }, 
+        {
+            "text": "contradiction.", 
+            "dur": "1.38", 
+            "start": "489.25"
+        }, 
+        {
+            "text": "So this is amazing.", 
+            "dur": "1.1", 
+            "start": "490.63"
+        }, 
+        {
+            "text": "So this is what Hermite\ndiscovered, and this is", 
+            "dur": "3.11", 
+            "start": "491.73"
+        }, 
+        {
+            "text": "really, really a fantastic--", 
+            "dur": "1.58", 
+            "start": "494.84"
+        }, 
+        {
+            "text": "I mean, everyone should be\nexcited by this, because e is", 
+            "dur": "4.93", 
+            "start": "496.42"
+        }, 
+        {
+            "text": "not algebraic.", 
+            "dur": "2.74", 
+            "start": "501.35"
+        }, 
+        {
+            "text": "So what number is it?", 
+            "dur": "2.09", 
+            "start": "504.09"
+        }, 
+        {
+            "text": "Well, it somehow transcends what\nwe&#39;re capable of doing.", 
+            "dur": "2.87", 
+            "start": "506.18"
+        }, 
+        {
+            "text": "The thing with algebra is that&#39;s\nhow we build numbers.", 
+            "dur": "2.83", 
+            "start": "509.05"
+        }, 
+        {
+            "text": "Like, that&#39;s our world is\nbuilt with algebra.", 
+            "dur": "2.789", 
+            "start": "511.88"
+        }, 
+        {
+            "text": "Like, any number that you kind\nof deal with in your everyday", 
+            "dur": "3.481", 
+            "start": "514.669"
+        }, 
+        {
+            "text": "life has a lot to\ndo with algebra.", 
+            "dur": "1.665", 
+            "start": "518.15"
+        }, 
+        {
+            "text": "You&#39;re just adding, taking,\ndividing, things to the power,", 
+            "dur": "3.655", 
+            "start": "519.815"
+        }, 
+        {
+            "text": "but e is not.", 
+            "dur": "1.29", 
+            "start": "523.47"
+        }, 
+        {
+            "text": "So it somehow transcends\nmaths.", 
+            "dur": "2.63", 
+            "start": "524.76"
+        }, 
+        {
+            "text": "So that&#39;s what they called\nit. e is transcendental.", 
+            "dur": "3.27", 
+            "start": "527.39"
+        }, 
+        {
+            "text": "It&#39;s actually [INAUDIBLE]", 
+            "dur": "1.67", 
+            "start": "535.68"
+        }, 
+        {
+            "text": "show you other than e.", 
+            "dur": "1.08", 
+            "start": "537.35"
+        }, 
+        {
+            "text": "You know why, is because--", 
+            "dur": "1.97", 
+            "start": "538.43"
+        }, 
+        {
+            "text": "well, this is the interesting\nthing.", 
+            "dur": "1.88", 
+            "start": "540.4"
+        }, 
+        {
+            "text": "e wasn&#39;t the first\ntranscendental number.", 
+            "dur": "2.8", 
+            "start": "542.28"
+        }, 
+        {
+            "text": "They discovered a transcendental\nnumber,", 
+            "dur": "1.93", 
+            "start": "545.08"
+        }, 
+        {
+            "text": "Liouville, I think his\nname is, discovered a", 
+            "dur": "2.68", 
+            "start": "547.01"
+        }, 
+        {
+            "text": "transcendental number quite a\nlong way before this, 30 years", 
+            "dur": "4.62", 
+            "start": "549.69"
+        }, 
+        {
+            "text": "before this.", 
+            "dur": "1.02", 
+            "start": "554.31"
+        }, 
+        {
+            "text": "But it was like, through\nconstruction.", 
+            "dur": "1.43", 
+            "start": "555.33"
+        }, 
+        {
+            "text": "So he was actually trying to\nfind a number based on the", 
+            "dur": "2.51", 
+            "start": "556.76"
+        }, 
+        {
+            "text": "rules of the game\nthat didn&#39;t fit.", 
+            "dur": "2.31", 
+            "start": "559.27"
+        }, 
+        {
+            "text": "What&#39;s special is that e was\nalready, it&#39;s already a", 
+            "dur": "2.75", 
+            "start": "561.58"
+        }, 
+        {
+            "text": "superstar of maths, e.", 
+            "dur": "1.605", 
+            "start": "564.33"
+        }, 
+        {
+            "text": "Like, people knew about it.", 
+            "dur": "1.545", 
+            "start": "565.935"
+        }, 
+        {
+            "text": "So this was an extra piece\nof information.", 
+            "dur": "2.93", 
+            "start": "567.48"
+        }, 
+        {
+            "text": "But then people asked\nthis question.", 
+            "dur": "2.135", 
+            "start": "570.41"
+        }, 
+        {
+            "text": "What about pi?", 
+            "dur": "1.085", 
+            "start": "572.545"
+        }, 
+        {
+            "text": "BRADY HARAN: Superstar.", 
+            "dur": "1.19", 
+            "start": "573.63"
+        }, 
+        {
+            "text": "SIMON PAMPENA: The superstar.", 
+            "dur": "1.28", 
+            "start": "574.82"
+        }, 
+        {
+            "text": "This is the superstar of math.", 
+            "dur": "1.85", 
+            "start": "576.1"
+        }, 
+        {
+            "text": "2,000 years old.", 
+            "dur": "1.66", 
+            "start": "577.95"
+        }, 
+        {
+            "text": "What is pi?", 
+            "dur": "0.97", 
+            "start": "579.61"
+        }, 
+        {
+            "text": "Is pi algebraic or\ntranscendental?", 
+            "dur": "2.37", 
+            "start": "580.58"
+        }, 
+        {
+            "text": "So you&#39;ve got to imagine\nas a mathematician,", 
+            "dur": "2.14", 
+            "start": "582.95"
+        }, 
+        {
+            "text": "OK, you love pi.", 
+            "dur": "1.67", 
+            "start": "585.09"
+        }, 
+        {
+            "text": "Like, it comes with\nthe territory.", 
+            "dur": "1.5", 
+            "start": "586.76"
+        }, 
+        {
+            "text": "You cannot not like pi.", 
+            "dur": "2.77", 
+            "start": "588.26"
+        }, 
+        {
+            "text": "So this is the thing, is that\nyou could actually add to the", 
+            "dur": "2.23", 
+            "start": "591.03"
+        }, 
+        {
+            "text": "knowledge of pi.", 
+            "dur": "1.42", 
+            "start": "593.26"
+        }, 
+        {
+            "text": "You could add something new,\nwhich is incredible.", 
+            "dur": "2.82", 
+            "start": "594.68"
+        }, 
+        {
+            "text": "I mean, I would die a happy\nman if I could do that.", 
+            "dur": "3.49", 
+            "start": "597.5"
+        }, 
+        {
+            "text": "So this question came\nup, what is pi?", 
+            "dur": "2.18", 
+            "start": "600.99"
+        }, 
+        {
+            "text": "Is it algebraic or\ntranscendental?", 
+            "dur": "1.78", 
+            "start": "603.17"
+        }, 
+        {
+            "text": "And so it was about, probably\n1880s that a guy called", 
+            "dur": "4.83", 
+            "start": "604.95"
+        }, 
+        {
+            "text": "Lindemann actually came\nup with the answer.", 
+            "dur": "2.63", 
+            "start": "609.78"
+        }, 
+        {
+            "text": "He showed, and again, this is\na very tricky thing that he", 
+            "dur": "2.66", 
+            "start": "612.41"
+        }, 
+        {
+            "text": "showed, he showed e raised to\nany algebraic number is", 
+            "dur": "6.23", 
+            "start": "615.07"
+        }, 
+        {
+            "text": "transcendental.", 
+            "dur": "1.1", 
+            "start": "621.3"
+        }, 
+        {
+            "text": "So for example, e to the 1, e.", 
+            "dur": "2.69", 
+            "start": "622.4"
+        }, 
+        {
+            "text": "That&#39;s a good thing, because\ne should be transcendental,", 
+            "dur": "2.44", 
+            "start": "625.09"
+        }, 
+        {
+            "text": "because it&#39;s already\nbeen proven.", 
+            "dur": "1.51", 
+            "start": "627.53"
+        }, 
+        {
+            "text": "Because 1 is algebraic.", 
+            "dur": "1.54", 
+            "start": "629.04"
+        }, 
+        {
+            "text": "Your favorite number,\nBrady, e to the 10.", 
+            "dur": "2.73", 
+            "start": "630.58"
+        }, 
+        {
+            "text": "That&#39;s transcendental, right?", 
+            "dur": "1.96", 
+            "start": "633.31"
+        }, 
+        {
+            "text": "e to the square root\nof 2, e to the i.", 
+            "dur": "2.76", 
+            "start": "635.27"
+        }, 
+        {
+            "text": "Right?", 
+            "dur": "1.5", 
+            "start": "638.03"
+        }, 
+        {
+            "text": "What about pi?", 
+            "dur": "2.87", 
+            "start": "639.53"
+        }, 
+        {
+            "text": "So how could you use this fact\nhere, e to the a, so a is any", 
+            "dur": "3.69", 
+            "start": "642.4"
+        }, 
+        {
+            "text": "algebraic number, is\ntranscendental?", 
+            "dur": "1.04", 
+            "start": "646.09"
+        }, 
+        {
+            "text": "How can you use that fact\nto show that pi is", 
+            "dur": "2.54", 
+            "start": "647.13"
+        }, 
+        {
+            "text": "transcendental?", 
+            "dur": "0.62", 
+            "start": "649.67"
+        }, 
+        {
+            "text": "OK, so this is the thing.", 
+            "dur": "1.66", 
+            "start": "650.29"
+        }, 
+        {
+            "text": "Again, it&#39;s a proof\nby contradiction.", 
+            "dur": "2.77", 
+            "start": "651.95"
+        }, 
+        {
+            "text": "So, this is what he did.", 
+            "dur": "2.35", 
+            "start": "654.72"
+        }, 
+        {
+            "text": "He said, let&#39;s assume\npi is algebraic.", 
+            "dur": "4.55", 
+            "start": "657.07"
+        }, 
+        {
+            "text": "So pi is algebraic.", 
+            "dur": "0.75", 
+            "start": "661.62"
+        }, 
+        {
+            "text": "That means there&#39;s\na formula for it.", 
+            "dur": "1.81", 
+            "start": "662.37"
+        }, 
+        {
+            "text": "OK, what&#39;s that formula?", 
+            "dur": "1.65", 
+            "start": "664.18"
+        }, 
+        {
+            "text": "Who knows?", 
+            "dur": "1.4", 
+            "start": "665.83"
+        }, 
+        {
+            "text": "Because it doesn&#39;t exist.", 
+            "dur": "1.31", 
+            "start": "667.23"
+        }, 
+        {
+            "text": "But as an example, if you&#39;re\nan engineer, you&#39;d say, oh,", 
+            "dur": "2.52", 
+            "start": "668.54"
+        }, 
+        {
+            "text": "yeah, pi, 22 on 7.", 
+            "dur": "1.73", 
+            "start": "671.06"
+        }, 
+        {
+            "text": "All right?", 
+            "dur": "0.85", 
+            "start": "672.79"
+        }, 
+        {
+            "text": "OK, cool.", 
+            "dur": "0.73", 
+            "start": "673.64"
+        }, 
+        {
+            "text": "So that means pi times\n7 take 22 equals 0.", 
+            "dur": "5.65", 
+            "start": "674.37"
+        }, 
+        {
+            "text": "Right?", 
+            "dur": "0.76", 
+            "start": "680.02"
+        }, 
+        {
+            "text": "As an example.", 
+            "dur": "0.69", 
+            "start": "680.78"
+        }, 
+        {
+            "text": "That&#39;s not true, by the way.", 
+            "dur": "1.31", 
+            "start": "681.47"
+        }, 
+        {
+            "text": "There&#39;s no way I&#39;m claiming\nthat to be true.", 
+            "dur": "1.39", 
+            "start": "682.78"
+        }, 
+        {
+            "text": "Don&#39;t you dare cut it and say\nSimon thinks that&#39;s true.", 
+            "dur": "2.12", 
+            "start": "684.17"
+        }, 
+        {
+            "text": "It&#39;s not true.", 
+            "dur": "0.5", 
+            "start": "686.29"
+        }, 
+        {
+            "text": "Pi, 22 on 7.", 
+            "dur": "1.35", 
+            "start": "686.79"
+        }, 
+        {
+            "text": "Pi, 22 on 7.", 
+            "dur": "1.62", 
+            "start": "688.14"
+        }, 
+        {
+            "text": "I know pi to quite a few decimal\nplaces, and that&#39;s", 
+            "dur": "2.06", 
+            "start": "689.76"
+        }, 
+        {
+            "text": "obviously not true.", 
+            "dur": "0.9", 
+            "start": "691.82"
+        }, 
+        {
+            "text": "And an actual fact, just so I\ncan tell you, another really", 
+            "dur": "3.02", 
+            "start": "692.72"
+        }, 
+        {
+            "text": "nice approximation of pi\nis the cube root of 31.", 
+            "dur": "4.28", 
+            "start": "695.74"
+        }, 
+        {
+            "text": "It&#39;s actually pretty close.", 
+            "dur": "1.11", 
+            "start": "700.02"
+        }, 
+        {
+            "text": "So that could be another\nformula.", 
+            "dur": "2.55", 
+            "start": "701.13"
+        }, 
+        {
+            "text": "So that means if we cube\nthat and take away", 
+            "dur": "2.76", 
+            "start": "703.68"
+        }, 
+        {
+            "text": "31, that equals 0.", 
+            "dur": "3.01", 
+            "start": "706.44"
+        }, 
+        {
+            "text": "OK, so we&#39;ve got like these\nphony equations.", 
+            "dur": "2.68", 
+            "start": "709.45"
+        }, 
+        {
+            "text": "This is the big kicker.", 
+            "dur": "1.54", 
+            "start": "712.13"
+        }, 
+        {
+            "text": "This is the big kicker.", 
+            "dur": "1.7", 
+            "start": "713.67"
+        }, 
+        {
+            "text": "We&#39;re going to use another\nsuperstar equation, OK?", 
+            "dur": "5.06", 
+            "start": "715.37"
+        }, 
+        {
+            "text": "e to the i pi equals\nnegative 1.", 
+            "dur": "4.22", 
+            "start": "720.43"
+        }, 
+        {
+            "text": "So this is Euler&#39;s identity.", 
+            "dur": "3.17", 
+            "start": "724.65"
+        }, 
+        {
+            "text": "It&#39;s a famous one, isn&#39;t it?", 
+            "dur": "1.55", 
+            "start": "727.82"
+        }, 
+        {
+            "text": "But look at it.", 
+            "dur": "0.66", 
+            "start": "729.37"
+        }, 
+        {
+            "text": "Look what it says. e raised\nto the i pi is negative 1.", 
+            "dur": "5.1", 
+            "start": "730.03"
+        }, 
+        {
+            "text": "Now, i pi, OK, if we assume pi\nis algebraic, that means i pi", 
+            "dur": "5.8", 
+            "start": "735.13"
+        }, 
+        {
+            "text": "must be algebraic.", 
+            "dur": "1.65", 
+            "start": "740.93"
+        }, 
+        {
+            "text": "So e to an algebraic number\nhas to be transcendental.", 
+            "dur": "3.95", 
+            "start": "742.58"
+        }, 
+        {
+            "text": "But is negative 1\ntranscendental?", 
+            "dur": "3.31", 
+            "start": "746.53"
+        }, 
+        {
+            "text": "It&#39;s not, because we can\nplay the game, and we", 
+            "dur": "1.68", 
+            "start": "749.84"
+        }, 
+        {
+            "text": "can get it to 0.", 
+            "dur": "1.72", 
+            "start": "751.52"
+        }, 
+        {
+            "text": "So by using another increase\npiece of maths in your", 
+            "dur": "5.1", 
+            "start": "753.24"
+        }, 
+        {
+            "text": "formula, imagine this is like\nyou&#39;re making a film, like", 
+            "dur": "2.55", 
+            "start": "758.34"
+        }, 
+        {
+            "text": "you&#39;re doing a maths film, and\nyou&#39;ve just got the biggest", 
+            "dur": "2.35", 
+            "start": "760.89"
+        }, 
+        {
+            "text": "Hollywood star in the world\nto start in it.", 
+            "dur": "3.1", 
+            "start": "763.24"
+        }, 
+        {
+            "text": "In your proof.", 
+            "dur": "1.1", 
+            "start": "766.34"
+        }, 
+        {
+            "text": "Starring in your proof.", 
+            "dur": "1.51", 
+            "start": "767.44"
+        }, 
+        {
+            "text": "So this here, e to the\ni pi is negative 1.", 
+            "dur": "2.39", 
+            "start": "768.95"
+        }, 
+        {
+            "text": "If indeed this was algebraic,\nthis would have to be", 
+            "dur": "3.22", 
+            "start": "771.34"
+        }, 
+        {
+            "text": "transcendental, so that means\ni pi cannot be algebraic.", 
+            "dur": "6.71", 
+            "start": "774.56"
+        }, 
+        {
+            "text": "And who&#39;s the culprit?", 
+            "dur": "1", 
+            "start": "781.27"
+        }, 
+        {
+            "text": "Well, it&#39;s not the square\nroot of negative 1.", 
+            "dur": "2.58", 
+            "start": "782.27"
+        }, 
+        {
+            "text": "It&#39;s pi.", 
+            "dur": "1.13", 
+            "start": "784.85"
+        }, 
+        {
+            "text": "So pi cannot be algebraic,\nwhich means pi must be", 
+            "dur": "6.89", 
+            "start": "785.98"
+        }, 
+        {
+            "text": "transcendental.", 
+            "dur": "1.25", 
+            "start": "792.87"
+        }, 
+        {
+            "text": "So there&#39;s something really\ntricky going on, and that&#39;s", 
+            "dur": "4.25", 
+            "start": "799.85"
+        }, 
+        {
+            "text": "why I like it.", 
+            "dur": "0.72", 
+            "start": "804.1"
+        }, 
+        {
+            "text": "Because the tricky stuff\nis where all the", 
+            "dur": "2.34", 
+            "start": "804.82"
+        }, 
+        {
+            "text": "awesome maths is.", 
+            "dur": "1.2", 
+            "start": "807.16"
+        }, 
+        {
+            "text": "In maths, perfection\nis important.", 
+            "dur": "2.65", 
+            "start": "808.36"
+        }, 
+        {
+            "text": "But then, anyone who\nuses maths--", 
+            "dur": "2.21", 
+            "start": "811.01"
+        }, 
+        {
+            "text": "for physics or chemistry, or\nwhatever you want to do--", 
+            "dur": "3.34", 
+            "start": "813.22"
+        }, 
+        {
+            "text": "then they can kind of\nuse approximations.", 
+            "dur": "1.82", 
+            "start": "816.56"
+        }, 
+        {
+            "text": "I&#39;m not interested in\napproximations.", 
+            "dur": "1.25", 
+            "start": "818.38"
+        }
+    ], 
+    "title": "Transcendental Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/07gh6", 
+        "/m/05fwb", 
+        "/m/02mj0", 
+        "/m/04rjg", 
+        "/m/05dkb"
+    ], 
+    "number_views": 444611, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-09T22:39:56.481Z", 
+            "text": "along with numbers like e and pi is a number like sin(31) or log(9) (as \nlong as it isn't base 3 or 9) transcendental because it can also be \nrepresented by an infinite series that can't be reduced algebraically?\ufeff", 
+            "author": "The Flagged Dragon"
+        }, 
+        {
+            "date": "2015-05-07T22:21:46.651Z", 
+            "text": "but what is the root of -1?\n\nanything multiplied by itself once (squared), cannot equal a negative \nnumber. well, that's what i've learned or been taught. so, whats up here?\ufeff", 
+            "author": "Sergeant Doomkin"
+        }, 
+        {
+            "date": "2015-05-06T20:05:20.369Z", 
+            "text": "e - e = 0\n\n???\ufeff", 
+            "author": "itsVyfi"
+        }, 
+        {
+            "date": "2015-05-07T06:17:15.290Z", 
+            "text": "+itsVyfi The rules of the \"game\" are that you can only use whole numbers to \nget something down to zero. e isn't a whole number, so that's not allowed.", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-05-01T15:43:53.454Z", 
+            "text": "I love this.\ufeff", 
+            "author": "Nehemiah Thomas"
+        }, 
+        {
+            "date": "2015-04-28T23:04:15.319Z", 
+            "text": "10:10 according to that, 0 is not an algebraic number :D just nitpicking\ufeff", 
+            "author": "Csongor Kiss"
+        }, 
+        {
+            "date": "2015-04-23T08:24:52.000Z", 
+            "text": "hey i've got a question:\ndoes not the (square root of -1)\u00b2=|-1|=1?\ufeff", 
+            "author": "Alech \u201ci SuperWoWN\u201d incha"
+        }, 
+        {
+            "date": "2015-04-26T07:05:51.637Z", 
+            "text": "+Alech incha and let's not forget that the definition muffins has given is \nfor real numbers only, for complex a+bi we have |a+bi|=sqrt(a^2+b^2)", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-04-25T13:01:00.795Z", 
+            "text": "oh ok thanks ", 
+            "author": "Alech \u201ci SuperWoWN\u201d incha"
+        }, 
+        {
+            "date": "2015-04-25T11:35:56.242Z", 
+            "text": "+Alech incha Nope! \n\nI'm glad you remember your absolute value, but you remembered it for the \nwrong thing.\n\n\u221a(x^2) = |x|, but (\u221ax)^2 = x", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-04-23T03:05:45.451Z", 
+            "text": "Why can't you divide?\ufeff", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-16T16:49:44.795Z", 
+            "text": "11:51\n\"This is the big kicker.. This is the big kicker.. We're gonna use.. \nAnother piece of paper!\"\ufeff", 
+            "author": "MarioThaMonkey"
+        }, 
+        {
+            "date": "2015-04-14T05:58:26.795Z", 
+            "text": "Why not (e^0)-1? Any number raised to 0 is 1 and subtracting 1 is zero.\ufeff", 
+            "author": "turtleownage"
+        }, 
+        {
+            "date": "2015-04-26T07:06:11.001Z", 
+            "text": "+turtleownage you're not allowed to use 0 for that reason.", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-04-12T22:55:19.193Z", 
+            "text": "You guys have done a lot of videos on pi, you should do some with e. \ufeff", 
+            "author": "Aeroscience"
+        }, 
+        {
+            "date": "2015-04-09T06:04:33.834Z", 
+            "text": "what about Pie minus Pie?\ufeff", 
+            "author": "Eric Highsmith"
+        }, 
+        {
+            "date": "2015-04-26T07:06:43.934Z", 
+            "text": "+Eric Highsmith it leaves us all starving =O", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-04-06T10:44:01.077Z", 
+            "text": "Russel brand talking math?\ufeff", 
+            "author": "Shay Olawale"
+        }, 
+        {
+            "date": "2015-04-05T12:24:37.658Z", 
+            "text": "does that mean that e^0 is also transcendental?\ufeff", 
+            "author": "Zedriodor"
+        }, 
+        {
+            "date": "2015-04-05T03:22:19.056Z", 
+            "text": "Forgive me for being stupid, should it be the case, but wouldn't the square \nroot of -1 + 1 not equal 0? I mean we are essentially having two negative \nnumbers multiply, yes? So wouldn't this make it positive one at the end\n\nJust curious, I'm probably just over thinking things\ufeff", 
+            "author": "Franklin Personous"
+        }, 
+        {
+            "date": "2015-04-26T07:07:56.828Z", 
+            "text": "+Franklin Personous sqrt(-1)+1=i+1\u22600", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-04-02T03:27:18.269Z", 
+            "text": "73 is the best number\ufeff", 
+            "author": "Luis Hernandez"
+        }, 
+        {
+            "date": "2015-03-31T04:15:43.934Z", 
+            "text": "I only wish that this video was more elaborate with the proofs as opposed \nto just saying \"well basically the mathematician proved it by...\"\ufeff", 
+            "author": "Alan NotTryingToBeFound"
+        }, 
+        {
+            "date": "2015-04-26T07:09:02.849Z", 
+            "text": "+Alan NotTryingToBeFound The proof is too long and too advanced.", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-03-29T14:09:46.504Z", 
+            "text": "its pee not pi\ufeff", 
+            "author": "Fightclub1995"
+        }, 
+        {
+            "date": "2015-03-27T22:29:16.546Z", 
+            "text": "just raise them to the power of 0 and subtract 1...\ufeff", 
+            "author": "ProgramThis!"
+        }, 
+        {
+            "date": "2015-04-11T17:08:37.706Z", 
+            "text": "+ProgramThis! You can't use 0 at all, which he forgot to mention.", 
+            "author": "Zachary Mitchell"
+        }, 
+        {
+            "date": "2015-03-25T00:36:20.666Z", 
+            "text": "Well I got lost. I might have to watch it again.\ufeff", 
+            "author": "Timothy Rockwell"
+        }, 
+        {
+            "date": "2015-03-24T17:49:14.460Z", 
+            "text": "What about e minus e? Is it cheating. Well you can't divide e by e because \ndivision isn't on the list but what about this one?\ufeff", 
+            "author": "Tomasz Rajek"
+        }, 
+        {
+            "date": "2015-04-26T13:56:59.323Z", 
+            "text": "Why it must use integers? What's the difference?", 
+            "author": "Tomasz Rajek"
+        }, 
+        {
+            "date": "2015-04-26T07:09:27.745Z", 
+            "text": "+Tomasz Rajek Must use integers and not 0", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-03-23T18:33:22.208Z", 
+            "text": "I love this guy\ufeff", 
+            "author": "xXNobodynemoXx"
+        }, 
+        {
+            "date": "2015-03-23T02:35:31.793Z", 
+            "text": "You can totally not like \u03c0 as a mathematician. You can be frustrated that \nit has held back teaching math in an intuitable manner. But that's for \nanother video.\ufeff", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-27T05:28:08.206Z", 
+            "text": "+EmperorZelos Ah, not enough space here to explain fully, but all those \ndetails are here: http://tauday.com/tau-manifesto", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-26T15:04:22.211Z", 
+            "text": "+Anonymous User Pretty much all of it didn't I understand, what about Pi \nshouldn't mathematicians like? How is it frustrating etc?", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-04-26T14:46:08.338Z", 
+            "text": "+EmperorZelos Which part is confusing to you? Or did you not understand any \nof it?", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-26T07:09:46.704Z", 
+            "text": "+Anonymous User what?", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-03-20T17:19:00.125Z", 
+            "text": "so will it be safe to assume that Transcendental number to \nthe Transcendental number will be algebraic for example e to the e will be \nalgebraic or is e to the i times Pi is one of a kind equation or is Pi some \nthird sort of number not Transcendental and not algebraic? please answer. \ufeff", 
+            "author": "Stas Benko"
+        }, 
+        {
+            "date": "2015-04-26T07:12:17.274Z", 
+            "text": "+Stas Benko I'd love to, no trancendental with trancedental does not \nnecciserly equate algebraic just irrational and irrational doesn't \nnecciserly mean it'll still be irrational.\n\ne^pi for example is unknown\ne+pi is unknown etc\n\n\nmany combinations are, funny thing is that they can result in one another.\n\n\nFor example let a=sqrt(2)^(sqrt(2)\nnow take a^sqrt(2), you get 2 then, so an irrational number ot the power of \nan irrational number gives not only a rational number but an integer.", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-03-20T00:11:07.324Z", 
+            "text": "He looks like russell brand\ufeff", 
+            "author": "TheShockerKnocker"
+        }, 
+        {
+            "date": "2015-03-19T23:55:30.710Z", 
+            "text": "One thing what about e^0 isn't that algebraic\ufeff", 
+            "author": "Jerry Remig"
+        }, 
+        {
+            "date": "2015-03-19T21:54:57.322Z", 
+            "text": "Does every transcendetntal number rised to the power of other \ntranscendental number give you an algebraic number? Is there a proof or \nsomething for that?\ufeff", 
+            "author": "Andrzej Lipiec"
+        }, 
+        {
+            "date": "2015-03-19T06:17:11.093Z", 
+            "text": "Hi, Im looking for a beautiful mathematical proof or conjecture or solution \nto a problem that would fit on an A3 piece of paper. I'm renovating my \nroom, love maths and I want to frame the proof. Any suggestions for a proof \nthat looks beautiful, is super elegant and links seemingly unrelated areas \nof mathematics? (last one is that surprise factor some proofs have.)\ufeff", 
+            "author": "danobot"
+        }, 
+        {
+            "date": "2015-05-06T04:12:38.726Z", 
+            "text": "Here you have some beauties. \nhttp://m.livescience.com/26680-greatest-mathematical-equations.html", 
+            "author": "therealpepeu"
+        }, 
+        {
+            "date": "2015-04-23T03:34:47.732Z", 
+            "text": "+danobot Now that the golden ratio's mentioned, it follows a/b = b / (a - \nb), so you can prove that reducing such fractions infinitely is impossible \n(lower terms each time), and draw a bunch of spiraling golden rectangles lol", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-03-29T09:57:02.019Z", 
+            "text": "AFibonacci sequence and logharitmic spiral!\nOr maybe some platonic solids?", 
+            "author": "Tomasz Rajek"
+        }, 
+        {
+            "date": "2015-03-29T03:27:50.618Z", 
+            "text": "Well beauty is usually correlated with the golden ratio. So maybe the \ncalcution of phi?", 
+            "author": "neovictorius"
+        }, 
+        {
+            "date": "2015-03-25T10:15:27.675Z", 
+            "text": "Turns out (according to Wikipedia) that those ways are only 3 steps (which \ni find weird because i thought it would be more complicated)", 
+            "author": "danobot"
+        }, 
+        {
+            "date": "2015-03-24T17:47:19.341Z", 
+            "text": "Maybe just some ways to calculate e?", 
+            "author": "Tomasz Rajek"
+        }, 
+        {
+            "date": "2015-03-18T15:47:27.500Z", 
+            "text": "NO\ufeff", 
+            "author": "droleniacoc"
+        }, 
+        {
+            "date": "2015-03-18T15:46:56.270Z", 
+            "text": "No you dont know what e is not is. not knowing not knowing not not.\nnot not not knowing not doesnt know that it know it is not not AND not not \nnot. AND NOT NOT not NOT NOT. NOT. E IS NOT NOT; NOT IS E\ufeff", 
+            "author": "droleniacoc"
+        }, 
+        {
+            "date": "2015-05-02T09:22:16.781Z", 
+            "text": "+droleniacoc achieve DEATH through not, eternal life through not not and \nimmortality in e.", 
+            "author": "droleniacoc"
+        }, 
+        {
+            "date": "2015-05-02T09:21:29.936Z", 
+            "text": "+droleniacoc e is and e is not, and e is and e doesnt ever not exist AND \nnot not IS e, and NOT at the same time. the infinite boolean of not not. if \nyou dont understand EXACTLY what i mean then not doesnt mean exactly what \nyou think it means.", 
+            "author": "droleniacoc"
+        }, 
+        {
+            "date": "2015-05-02T09:19:30.250Z", 
+            "text": "+droleniacoc e is the truth the way and the life, e is everlasting and \nimmortal. e is love e is life. e really is transcendental to all phenomena \nin nature. After the destruction of earth e remains, before the big bang e \nis existing. e is GOD", 
+            "author": "droleniacoc"
+        }, 
+        {
+            "date": "2015-05-02T09:15:41.016Z", 
+            "text": "+droleniacoc i used to hate math all my life btw, after i realized what not \nACTUALLY means i got all the strengths of an autist, but none of the \nweaknesses.", 
+            "author": "droleniacoc"
+        }, 
+        {
+            "date": "2015-05-02T09:14:09.442Z", 
+            "text": "+EmperorZelos no, i know what not means, just like computers know what not \nmeans. Humans think they know what not means but they dont. and as such i \nknow what e IS, e is not 2.7....... 2.7 is a 99.999999 correct numerical \nrepresentation of e, only one 0.0000000000000001 % wrong, wich means it is \n100% wrong and not e. XD \neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee", 
+            "author": "droleniacoc"
+        }, 
+        {
+            "date": "2015-04-22T22:35:45.792Z", 
+            "text": "+droleniacoc sounds like we have a constructivist here", 
+            "author": "Daniel Simon"
+        }, 
+        {
+            "date": "2015-04-15T14:48:53.999Z", 
+            "text": "+droleniacoc This is why proof by contradiction is so nice; you just say \nthat e IS, and show you how that fucks things up :D\n\nBam. Done without all the nots.", 
+            "author": "Sethyboy0"
+        }, 
+        {
+            "date": "2015-04-15T07:29:31.373Z", 
+            "text": "+droleniacoc that doesn't make not sense.", 
+            "author": "xd3r 0N"
+        }, 
+        {
+            "date": "2015-04-11T17:49:30.142Z", 
+            "text": "What", 
+            "author": "Orion .Tf2"
+        }, 
+        {
+            "date": "2015-04-11T17:05:03.955Z", 
+            "text": "what", 
+            "author": "Zachary Mitchell"
+        }, 
+        {
+            "date": "2015-03-17T01:20:21.051Z", 
+            "text": "Aarrgghh!! Does that not mean that algebra is broken? :-P But seriously, \nnumbers like pi are actually meaningful (e.g. through its relation to the \ncircle)... shouldn't that be a number most obedient to algebraic rules? I \nknow I am phrasing this quite badly, but I know what I mean! :-)\ufeff", 
+            "author": "SeasickSailor76"
+        }, 
+        {
+            "date": "2015-03-16T07:46:34.706Z", 
+            "text": "MORE SIMON! I DEMAND MORE SIMON!!!\ufeff", 
+            "author": "Eran Boodnero"
+        }, 
+        {
+            "date": "2015-03-16T06:00:17.000Z", 
+            "text": "e*0=0. \ne^e*0=1-1=0.\n\nthere you go.\ufeff", 
+            "author": "Roosh"
+        }, 
+        {
+            "date": "2015-03-15T17:21:27.482Z", 
+            "text": "e is not constant?!!!\nThere's something i don't understand with e. According to what you're \nsaying, on the graph of f(x) = e^x\ny = slope of tangent\nf(x) = f ' (x)\ne^x = x * e^(x-1)\ne^x = x * e^x / e^1\ne^x = x * e^x / e\ne^x can't be equal to 0 so we can devide the whole equation by e^x and we \nwill get:\n1 = x / e\nx = e\nso e is not constant???\ufeff", 
+            "author": "Jacksug8X"
+        }, 
+        {
+            "date": "2015-05-06T20:46:00.132Z", 
+            "text": "+Isis Kearney thanks i thought wrong.", 
+            "author": "Arash Azizi"
+        }, 
+        {
+            "date": "2015-05-05T21:46:29.493Z", 
+            "text": "+Arash Azizi e is defined as the limit of (1+1/n)^n as n approaches \ninfinity. Proof is still necessary to show that (d/dx)e^x = e^x.", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-05-06T20:43:32.000Z", 
+            "text": "+Jacksug8X that's how you take a derivative! e is defined by the equation \nf(x)=f ' (x)! the only thing you CAN do is to solve the differential \nequation!", 
+            "author": "Arash Azizi"
+        }, 
+        {
+            "date": "2015-04-17T23:32:12.812Z", 
+            "text": "+Jacksug8X Ah, I see why you're confused. The differentiation you're \napplying is the general formula for x^n. The problem there though is, that \nif I have x^n, x is the variable, which is why I can differentiate it using \nthe typical ex^(n-1).\n\nThink about the proof for differentiation. You have x, you add a small \nchange (delta x), and then you calculate the gradient and then take the \nlimit. The proof for e is a little more complicated (though it depends how \nyou define e, if you think of it just as 'a number' then you'll need to \nprove it, if you think of it by its definition, a number such that its rate \nof change is equal to its change, then it's simpler). The point is though, \nthat when you add delta x, you're putting it into the exponent rather than \non to e, so the formula you're used to doesn't apply. What you end up with \nthough is the result,\nf (x) = e^x\nf ' (x) = e^x", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-04-02T19:38:17.066Z", 
+            "text": "Thats right :)", 
+            "author": "SuperDreamliner787"
+        }, 
+        {
+            "date": "2015-03-24T16:02:38.276Z", 
+            "text": "+SuperDreamliner787 So it's wrong to say that: f ' (x) = x * e^(x-1)\nassuming that f(x) = e^x\nbecause x is not constant. right?", 
+            "author": "Jacksug8X"
+        }, 
+        {
+            "date": "2015-03-21T17:01:47.495Z", 
+            "text": "+Jacksug8X He means, that you are differentiating wrong. Lets take any \npolynomial, for example f(x) = 2x\u00b3. When you are differentiating, you \ndifferentiate the variable. In this case it\u00b4s x, so f\u00b4(x) = df(x)/dx = \n6x\u00b2.But e^x has the variable x in the exponent, not the base! When you are \ndifferentiating any function type of g(x) = a*b^x with a and b being \nconstants, x is the variable. So you are differentiating the exponent is \nthis case, not the base, as it was in the first function f(x).If you \ndifferentiate any function type of g(x), the differentiation looks like \nthis:g\u00b4(x) = dg(x)/dx = a*b^x *ln b with ln being the logarithm of b to the \nbase e. So when you want to differentiate h(x)=e^x, you are differentiating \nthe exponent like this:h\u00b4(x) = dh(x)/dx = e^x * ln e , but ln e= 1, so \nh\u00b4(x) = e^x and thats why e^x is so special, because any differentiation \nwill result in e^x, it doesn\u00b4t matter how often you differentiate.You can \nsay : [d^n (e^x)]/d(x^n) = e^x for any natural n you choose. I hope I could \nhelp, greetings from Germany :)", 
+            "author": "SuperDreamliner787"
+        }, 
+        {
+            "date": "2015-03-21T14:17:03.981Z", 
+            "text": "+Kriatus Khayyam Thanks for your answer but I still don't understand. Where \nis my mistake? at what point it goes wrong?", 
+            "author": "Jacksug8X"
+        }, 
+        {
+            "date": "2015-03-17T20:26:49.033Z", 
+            "text": "You're differentiating incorrectly. You're trying to differentiate f(x) \nwith respect to e, not with respect to x. You're doing df(x)/de instead of \ndf(x)/dx. Think of differentiating as a way of quantifying this statement: \n\"How much will f(x) change for every small change I make to x?\" Since you \ncan't say \"How much will f(x) change for every small change I make to e?\" \nyou can't differentiate e^x with respect to e (you can only differentiate \nwith respect to a variable, and e is not a variable).\n\nIf you want df(x)/dx, you need to look up how to differentiate logarithmic \nand exponential equations, and you will see that d(e^x)/dx = e^x :)", 
+            "author": "Kriatus Khayyam"
+        }, 
+        {
+            "date": "2015-03-15T02:11:15.335Z", 
+            "text": "Does the value \"a\" used to prove e is transcendental have a theoretical \nvalue or use? I understand the the choice of the letter \"a\" was arbitrary. \nI am wondering if there is a way to use \"a\" to solve some problem in a \nsimilar way that Cardano used i to find cubic roots. \ufeff", 
+            "author": "Joe Collins"
+        }, 
+        {
+            "date": "2015-03-14T22:25:14.507Z", 
+            "text": "I wish I had had professors, like these guys starred in these videos, in \nschool. I would have probably done much, much better on my grades. Who \nknows, I might have become a math genius. All I know is that the way these \nguys describe numbers, I actually understand what they are saying.\ufeff", 
+            "author": "David Comeau"
+        }, 
+        {
+            "date": "2015-03-14T16:56:03.000Z", 
+            "text": "This man made math more fun to me.\ufeff", 
+            "author": "Caveman Al Toraboran"
+        }, 
+        {
+            "date": "2015-03-13T03:27:28.442Z", 
+            "text": "I would love to retake number theory with this guy\ufeff", 
+            "author": "Scott Rackley"
+        }, 
+        {
+            "date": "2015-03-11T01:15:58.105Z", 
+            "text": "That man's hair sells me on this video.\ufeff", 
+            "author": "zxb995511"
+        }, 
+        {
+            "date": "2015-03-10T02:00:32.844Z", 
+            "text": "Well, sure, just pull Euler's Identity out like that.\ufeff", 
+            "author": "tony romabarian"
+        }, 
+        {
+            "date": "2015-03-08T22:42:46.000Z", 
+            "text": "Okay So i think I figured this out guy!!! Pressed pause at 8:51,,,, The \nthing is,,, the E variable you speak of, is like Any other number, 1 \nrepresents 1, 2 represents 2, 3 represents 3 and etc and so on. But unlike \nthe others, E does not represent something Specific, it COULD* represent a \nvalue if, like Pi is a constant number, E was assigned a constant number.\n\nthis just challenges our way of thinking \"What is a number really\"?? it is \njust a representation, it is a variable, wich holds a value, that WE \ndeclare, and define, and is also CONSTANT. \n\nWhat has me really confused, are the numbers -7/4 and 63.... hear me out\n\nWhat if we didnt count from 1 to 10?\nwhat if we counted like this ,    0, 1, 2, 3, 4, 5, 6, 7, 8, 9, k, h, f, \n10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 1k, 1h, 1f, 20 etc etc and so on \nand so on.\n\nwould the numbers 63, -7/4, factorials, and all the math we know today \nstill hold up???\n\nAnother thing that has been bothering me.\n\nWhy do we use 0 in the number 10? does 0 represent 0 or the size of the \narray of numbers that we have? (0-9)<-size10\n\nanyhow, might be im going crazy hehe...\nAnyone who has any insight on this I would really appreciate any info :)\n\nThank you very nice video!\ufeff", 
+            "author": "Jonathan Mercure"
+        }, 
+        {
+            "date": "2015-04-01T17:52:13.778Z", 
+            "text": "well I understand hex numbers and all that, and binary too for that matter. \n(I code) just my head was making things too complicated", 
+            "author": "Jonathan Mercure"
+        }, 
+        {
+            "date": "2015-04-01T17:25:17.571Z", 
+            "text": "+Jonathan Mercure Not at all, number systems are a very basic and \nwell-understood yet fundamental concept in maths that has been around for \nhundreds of years. It's far from complex.", 
+            "author": "Charlie Beadle"
+        }, 
+        {
+            "date": "2015-04-01T17:21:06.392Z", 
+            "text": "I was over-complicating things again :P", 
+            "author": "Jonathan Mercure"
+        }, 
+        {
+            "date": "2015-04-01T17:07:33.110Z", 
+            "text": "+Jonathan Mercure What you're talking about is different base systems. We \ncount 0-9 because that's base-10 aka denary or decimal. Computers use \nbase-2, which is binary. Just like with base-10, once you've reached the \nlimit in base-2, you go in to the next column, which is a multiple of 2. So \ncounting in base-2 looks like 0, 1, 10, 11, 100, 101, 110, 111 (and so on), \nwhere each column is a multiple of 2 (1s, 2s, 4s, 8s). 101 would be (4 x 1) \n+ (2 x 0) + (1 x 1), which is clearly 5. So 101 in binary is 5 in denary.\n\nThe example you made is not dissimilar to base-16, which is hexadecimal. \nEach \"column\" goes from 0 to F: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, \nE, F, which is 16 in length. And instead of going from 1s to 10s to 100s, \nor going from 1s to 2s to 4s to 8s like in binary, you go 1s to 16s to \n256s. For example, 3A in hex would be (3x16) + (10x1), aka 58. This isn't \nexplained very well but if you don't understand it you can find more \nonline, it's just called a counting system.\n\nAs for your proposition, maths would work in exactly the same way. \nComputers use binary because it has 2 values, 1 and 0, whereas denary has \n10. Since computers use electricity, they can assign 0 to be \"off\" (no \nvoltage) and 1 to be \"on\" (high voltage). There can't be anything in \nbetween, so you can't have more than 2 values. Some things might be easier \nin different counting systems, but maths rules still apply.", 
+            "author": "Charlie Beadle"
+        }, 
+        {
+            "date": "2015-03-17T18:25:18.492Z", 
+            "text": "I was trying to break numbers lol!!! \n\nQuite a feat I was trying there :P", 
+            "author": "Jonathan Mercure"
+        }, 
+        {
+            "date": "2015-03-17T16:57:38.883Z", 
+            "text": "Numbers are quantative representations, yes. Just as much as letters are \nfonetic representations. There are many different alphabets, and words, yet \nthe same or equivalent meanings.", 
+            "author": "ErkaaJ"
+        }, 
+        {
+            "date": "2015-03-17T15:49:20.779Z", 
+            "text": "You got my drift!! so Pi would still be there, just as another \nrepresentation? (since numbers are just that, representations)", 
+            "author": "Jonathan Mercure"
+        }, 
+        {
+            "date": "2015-03-17T15:39:01.479Z", 
+            "text": "Depends on what you mean hold up. Pi would not be equal 3.1415... in your \nbase 13 system (..9,k,h,f), but its purpose in the equations would still \nremain since its definition is independent from our counting system. That's \nwhy mathematics are universal.\nThe human construction of numbers consists of counting the sum of all \n1-digit numbers, 2-digit numbers..., n-digit numbers. That is, in base x, \nwe would represent a number as: a*x^0 + b*x^1 + c*x^2 + \u2026 + z*x^n, where \na,b,c\u2026 < x are the amount of one m-digit, respectively. This way you only \nneed the finite set of numbers a,b,c\u2026 < x to construct any number. For \nexample, 104 in base ten, says that we've got 1*10^2 + 0*10^1 (i.e. no, 2 \ndigit numbers) + 4*10^0.", 
+            "author": "ErkaaJ"
+        }, 
+        {
+            "date": "2015-03-14T15:21:19.607Z", 
+            "text": "Thanks :) I figured I was wrong when I thought about it some more :P", 
+            "author": "Jonathan Mercure"
+        }, 
+        {
+            "date": "2015-03-14T15:17:29.446Z", 
+            "text": "E is not a variable, it's a constant. Sorry to de-bunk that one for you :'(", 
+            "author": "TheUpriseConvention"
+        }, 
+        {
+            "date": "2015-02-27T19:09:51.447Z", 
+            "text": "It's the whole numbers that are crazy, not the transcendental ones. Whole \nnumbers don't exist other than in our abstract theories.\nFor example \"2 apples\" can never exist. There aren't any 2 identical apples \nin the universe, so whichever one you use as your \"unit of applehood\", the \nother one will be different from it, so their sum cannot make 2 apples.\ufeff", 
+            "author": "Slawomir Chmielewski"
+        }, 
+        {
+            "date": "2015-04-27T23:47:40.640Z", 
+            "text": "+Slawomir Chmielewski If we could completely domain matter, we could do 2 \nexactly equal apples.", 
+            "author": "Ben Hur Bahia do Nascimento"
+        }, 
+        {
+            "date": "2015-04-23T16:28:03.799Z", 
+            "text": "+Cooper Gates , I'm not sure to be honest. What I mean by that is that \nrational numbers are rational. They are definitely rational and they fit \ninto the set of rational numbers. My point was more that the pure \nmathematical objects that they are isn't necessarily a bang on description \nof the physical world, because we can't measure the physical world to \ninfinite precision so we don't technically know if we're measuring 5 or \n5.0000000000000000000000000000000000000000 ... 000000000001\n\nThat's just how I think of maths, and that I don't need to necessarily \nthink of irrational numbers and transcendental numbers physically because \nnumbers aren't inherently physical objects.", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-04-23T03:31:25.000Z", 
+            "text": "+Isis Kearney Are infinitesimals transcendental? Irrational for sure. I \nagree, most existing numbers, if measured to infinite precision, would be \nirrational.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-17T23:22:58.559Z", 
+            "text": "+Slawomir Chmielewski I see your point, I suppose it comes down to \ndiscrete/continuous. When we first learn about numbers they're discrete \nobjects, so they make sense. But, as we learn more about mathematics, they \nbecome infinitesimally discrete points on a continuous line, so of course \nthey can't be measured because to do so we'd need infinite precision.\n\nIf I walk three miles, I know that at one point of my walk I was exactly on \nmile, to infinite precision, from my starting place, but if I was to try \nand find that point I couldn't, because I can't continue being infinitely \nprecise, now I suppose that point does exist, but it exists as a point; \nalmost nothing.\n\n\nIt's a weird one, people don't like these irrational numbers like root-two \nand pi because they just go on forever, and can never be expressed as an \nexact decimal, but really that holds much more relevance to the nature of \nreal-life values.", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-03-24T17:55:36.452Z", 
+            "text": "Two quarks? Czy pan jest Polakiem?", 
+            "author": "Tomasz Rajek"
+        }, 
+        {
+            "date": "2015-03-24T17:48:27.273Z", 
+            "text": "+Tomasz Rajek their position is not. all the energy that is connected to \ntheir surroundings is different.", 
+            "author": "Slawomir Chmielewski"
+        }, 
+        {
+            "date": "2015-03-24T17:46:09.173Z", 
+            "text": "But there are for example two atoms of helium wich ARE identical.", 
+            "author": "Tomasz Rajek"
+        }, 
+        {
+            "date": "2015-03-17T21:20:17.177Z", 
+            "text": "that is very good point. The space is our claim that more than one instance \nof an object exists.", 
+            "author": "Dimitar Dimitrakov"
+        }, 
+        {
+            "date": "2015-02-26T19:50:10.971Z", 
+            "text": "is he using foil at 3:50?\ufeff", 
+            "author": "jackobthesnakob"
+        }, 
+        {
+            "date": "2015-02-23T14:09:22.366Z", 
+            "text": "great transcendental story I have ever heard !!!\ufeff", 
+            "author": "Kuan Hoon"
+        }, 
+        {
+            "date": "2015-02-18T23:12:44.110Z", 
+            "text": "what on earth does it mean to take something to the i power?  When I \nexplained Euhlers Identity to my father, who is someone who figures out \nirrational square roots when he's bored,  he said he had no concept of an i \npower; quite frankly, neither do I.\ufeff", 
+            "author": "Insidious Records"
+        }, 
+        {
+            "date": "2015-02-19T13:29:10.993Z", 
+            "text": "It is indeed, rather difficult to understand how to take something to an \nimaginary or complex power.\n\nThe reason we can do it at all, in fact, follows from Euler's identity... \nwhich just so happens to work because of Maclaurin Series.\n\nThe relevant information is that:\n\ne^x = 1 + x + x^2/2! + x^3/3! + x^4/4! + ...\nsin(x) = x - x^3/3! + x^5/5! - x^7/7! + ...\ncos(x) = 1 - x^2/2! + x^4/4! - x^6/6! + ...\n\nIf we plug in \"yi\" for \"x\" in the e^x formula, we get...\n\ne^(yi) = 1 + yi + (yi)^2/2! + (yi)^3/3! + (yi)^4/4! + ...\n\ni^2 = -1, i^3 = -i, i^4 = 1, etc., so we can simplify a little bit:\n\ne^(yi) = 1 + yi - y^2/2! - iy^3/3! + y^4/4! + iy^5/5!\n\nYou rearrange things so that all the terms with i are grouped together and \nall of those without i are grouped together:\n\ne^(yi) = (1 - y^2/2! + y^4/4! - y^6/6! + ...) + i(y - y^3/3! + y^5/5! - \ny^7/7! + ...)\n\nBut we see that this is precisely cos(y) + i*sin(y)\n\nSo, we get e^(xi) = cos(x) + i*sin(x).\n\nSo, to get his identity, Euler was actually just messing around with \nseries.  To compute powers of complex numbers with complex exponents, we \npretty much use Euler's identity as the definition.\n\nIf r is a positive real number, then r = e^ln(r).  So, r^i = (e^ln(r))^i = \ne^(i*ln(r)) = cos(ln(r)) + i*sin(ln(r))\n\nEvery nonzero complex number can be written in the form r * e^(ix) for some \npositive real number r and some real number x.  Then, to raise it to a \ncomplex power, we just apply regular exponential rules and what we've \nmentioned above.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-02-16T18:40:10.991Z", 
+            "text": "This is awesome!\ufeff", 
+            "author": "Alfons Alexandru"
+        }, 
+        {
+            "date": "2015-02-11T22:00:26.918Z", 
+            "text": "Thanks - great explanation. I never properly understood what transcendental \nmeans until I watched this.\ufeff", 
+            "author": "CardiganBear"
+        }, 
+        {
+            "date": "2015-02-11T20:34:39.742Z", 
+            "text": "i felt a bit sick when he wrote those untrue equations involving pi\ufeff", 
+            "author": "Tom Burgess"
+        }, 
+        {
+            "date": "2015-04-11T17:07:27.344Z", 
+            "text": "+Tyloro person No, he means 22/7 and the like", 
+            "author": "Zachary Mitchell"
+        }, 
+        {
+            "date": "2015-04-06T21:13:40.430Z", 
+            "text": "what, euler's identity?", 
+            "author": "Tyloro person"
+        }, 
+        {
+            "date": "2015-02-11T00:55:51.681Z", 
+            "text": "I tried to do this game for the number \"7^(1/3)+i\", but i failed. Could \nanyone help me:)? I know it is algebraic, but i try to \"prove\" this by the \n\"+-*^\"-Game. thx\ufeff", 
+            "author": "Meier Benjamin"
+        }, 
+        {
+            "date": "2015-03-13T12:30:20.899Z", 
+            "text": "thx:D!", 
+            "author": "Meier Benjamin"
+        }, 
+        {
+            "date": "2015-03-09T04:10:34.611Z", 
+            "text": "7^1/3 + i or (3rd root 7 + i)^3 = 7 + 3iroot49 + 3root7 - i,\nminus 7 and then factoring a 3 out, 3(iroot49 + root7)^2 - i,\n9(-49 - iroot343 +7) - i, which is -298 - iroot343 - i,\n+ 298 and square it again and minus by whole, and you get 0.\nWow I have too much time.", 
+            "author": "commandotaco"
+        }, 
+        {
+            "date": "2015-02-08T22:31:28.320Z", 
+            "text": "I love number theory. It has many applications in making sense out of the \nreal and unreal. Transcendental numbers are \"uncountable\" numbers. Meaning, \nthey literally transcend human understanding. This makes me wonder: what is \npi? \ufeff", 
+            "author": "Ryan McCafferty"
+        }, 
+        {
+            "date": "2015-02-09T22:16:49.997Z", 
+            "text": "+Ryan McCafferty Seems like once upon a time I watched a tv show with that \ntitle.   I do seem to recall something about the number 23 in the writing \nof William s. Burroughs.\n\n \"I first heard of the 23 Enigma from William S. Burroughs, author of Naked \nLunch, Nova Express, etc. According to Burroughs, he had known a certain \nCaptain Clark, around 1960 in Tangier, who once bragged that he had been \nsailing 23 years without an accident. That very day, Clark\u2019s ship had an \naccident that killed him and everybody else aboard. Furthermore, while \nBurroughs was thinking about this crude example of the irony of the gods \nthat evening, a bulletin on the radio announced the crash of an airliner in \nFlorida, USA. The pilot was another Captain Clark and the flight was Flight \n23.\"  http://en.wikiquote.org/wiki/William_S._Burroughs", 
+            "author": "hermenutic"
+        }, 
+        {
+            "date": "2015-02-09T19:28:43.159Z", 
+            "text": "+hermenutic 42 is the meaning of life in \"Hitchhikers Guide to the Galaxy\"", 
+            "author": "Ryan McCafferty"
+        }, 
+        {
+            "date": "2015-02-09T17:59:54.525Z", 
+            "text": "+Peter van Rens I don't know anything about it.  What does 42 mean?", 
+            "author": "hermenutic"
+        }, 
+        {
+            "date": "2015-02-09T16:30:35.027Z", 
+            "text": "+Peter van Rens Why must you always bring the meaning of life into this? lol", 
+            "author": "Ryan McCafferty"
+        }, 
+        {
+            "date": "2015-02-09T11:46:38.791Z", 
+            "text": "+hermenutic isn't 42 the better number? ", 
+            "author": "Peter van Rens"
+        }, 
+        {
+            "date": "2015-02-09T04:46:01.963Z", 
+            "text": "Pi Day is March 14th.", 
+            "author": "Rua Brithem"
+        }, 
+        {
+            "date": "2015-02-09T01:12:29.198Z", 
+            "text": "what does 23 mean?", 
+            "author": "hermenutic"
+        }, 
+        {
+            "date": "2015-02-08T23:56:50.000Z", 
+            "text": "Here is one for you.. the jews consider the number 22 to be very sacred, in \nthe Kabbalah for example... Through painting I discovered hidden messages \nthat are based on numbers embedded within our english vocabulary. When I \nspoke of my findings with a person I knew who studied Kabbalah he told me \nof the connection between my own discovery and that which was written about \nin the Kabbalah that he saw, so I'll share it with you... \n22...Trust..Honestly..Compassion....22 letters in all...Love's \nfrequency...the keys needed to create love itself... Trust...4 letters yet \n5 forms...4 = physical plain...Heart centre/feeling....5 = Individual's \nUniverse.. the 5 gifts...2 feet..2 hands..1 head... creator of \nchange....the letter in the centre is U... as in you support Trust...Trust \nrepresents 5 numerically...Honesty...7 letters... the 7th centre is the \nMind...  higher self...Compassion... 10 letters... 10 = feminine force... \nnew beginnings... new stage...entrance into the double digit numeric \nsystem/ by it's very own nature it will always bring more; not less... \nbinary... Together these 3 words numerically create 22.", 
+            "author": "Ginga Man"
+        }, 
+        {
+            "date": "2015-02-08T21:06:14.882Z", 
+            "text": "Close your eyes and it's like Tim Minchin explaining maths to you\ufeff", 
+            "author": "Nathan Dwyer"
+        }, 
+        {
+            "date": "2015-02-06T07:12:27.996Z", 
+            "text": "I love Numberphile, but oh do I hate the sound of Sharpie on that paper. \nIt's so hard to get through your videos which are otherwise amazing. I \ncan't be the only one...it's like fingers on chalkboard to me. I appreciate \nthe videos but they're hard to listen to :|\ufeff", 
+            "author": "Matt Olenik"
+        }, 
+        {
+            "date": "2015-02-04T21:48:41.000Z", 
+            "text": "(x^0)-1=0, for all x... so e and {pi} are algebraic... did I miss \nsomething.?\ufeff", 
+            "author": "Peter Keogh"
+        }, 
+        {
+            "date": "2015-02-01T14:19:28.000Z", 
+            "text": " What about solutions of 'unsolvable' polynomials of degree 5 or higher \nwith rational coefficients? The abel-ruffini theorem states that there is \nno general solution to the 5th degree equation or any one higher than that. \nSo let's say if a^5+b^4+c^3+d\u00b2+e = 0 there is no general function \nf(a,b,c,d,e) that spits out a solution if a,b,c,d and e are given in terms \nof multiplication, addition, and taking n-th roots and n-th powers. \n\n Given a 5th degree polynomial with these properties(not a special one like \n(x-1)^5), you have to resort to numerical methods to solve it. But could \nthe exact roots(where computer programs try to find numerical \nopproximiations) of a function like this be trancendental? If they couldn't \nwouldn't that violate their unsolvability?\ufeff", 
+            "author": "dekippiesip"
+        }, 
+        {
+            "date": "2015-02-06T23:24:09.582Z", 
+            "text": "Yes, those numbers from polynomials that are not solvable by radicals are \nmuch more difficult to work with.\n\nThe notation Q(x) is tricky to explain.  It means the field extension \nobtained from Q by adjoining the element x.  It ends up being a vector \nspace over Q, so I'll give you a few examples:\n\nElements of Q(\u221a2) are of the form a + b\u221a2 where a and b are rational \nnumbers.\n\nElements of Q(2^(1/3)) are of the form a + b2^(1/3) + c2^(2/3) where a, b, \nand c are rational numbers.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-02-06T13:21:41.515Z", 
+            "text": "+MuffinsAPlenty Ok so the definition is not the set of numbers that can be \nwritten in terms of addition, multiplications, n-th roots and n-th powers \nof rational number. I thought that was the definition and that would imply \npolynomials that can't be solved in radicals could have trancendental \nsolutions.\n\n But with this definition those numbers won't be trancendental of course. \nStill it would be interesting to note the difference between algebraic \nnumbers that correspond to solvable equations and those that don't. \nSomething says me that the 2nd would come closer to being 'trancendental' \nand have more difficult properties. And for the record, with Q(x) you are \ntalking about the set of all numbers that can be written as a*x where a is \nrational?\n\n And yea my example was bad, but I just chose a random example without \nthinking about it too much :p", 
+            "author": "dekippiesip"
+        }, 
+        {
+            "date": "2015-02-06T12:47:15.313Z", 
+            "text": "Correct.  There are many, many polynomials which cannot be solved by \nradicals.  All of the roots of those polynomials are still considered to be \nalgebraic, because an algebraic number is defined to be a number which is \nthe root of a polynomial with integer (rational) coefficients.\n\nThe idea is that algebraic numbers satisfy some algebraic relation.\n\nLet's say you're looking at the field of rational numbers.  You can adjoin \na new complex number to this field, and see what relations it satisfies. \n For example, if \u03b1 = sqrt(2), then adjoining \u03b1 to the rational numbers, we \nhave that \u03b1 satisfies the algebraic relation \u03b1^2 - 2 = 0.\n\nThis makes Q(\u03b1) a finite-dimensional vector space over Q.  Thus, we can use \nlinear algebra techniques (and group theory) to study the structure of Q(\u03b1).\n\nFor a root \u03b2 of x^7 + 3x, we have the algebraic relation \u03b2^7 + 3\u03b2 = 0, so \nQ(\u03b2) is again a finite dimensional vector space over Q, which can be \nstudied using linear algebra and group theory.\n\nFor a number like \u03c0, though, it doesn't satisfy any nice algebraic \nrelations, so Q(\u03c0) is actually an infinite-dimensional vector space over Q. \n This makes it much more difficult to study, so we consider it a \ntranscendental number.\n\n(By the way, x^7 + 3x actually does happen to be solvable by radicals.  The \nroots are 0 and the 6 sixth roots of -3.)\n\nI guess the take away point is that we like algebraic numbers because when \nwe adjoin them to Q, they are relatively easy to study.  We really like \nroots that are solvable by radicals because we can very easily see what \npolynomial they satisfy, so we can know what algebraic relations they \nsatisfy.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-02-06T08:41:36.919Z", 
+            "text": "+MuffinsAPlenty but the roots of those polynomials that can't be solved by \nradicals? There are enough polynomials that can't be solved by radicals but \nhave only integer coefficients....\n\n Let's take x^7+3x = 0 for example. ", 
+            "author": "dekippiesip"
+        }, 
+        {
+            "date": "2015-02-06T05:14:12.397Z", 
+            "text": "The proper, technical definition of an algebraic number is that it is a \ncomplex number which is the root of a nonzero polynomial with rational \nnumber coefficients.  (Equivalently, we could assume the polynomial has \ninteger coefficients by multiplying through by the lcm of the denominators \nof the coefficients).\n\nSo, by definition, the actual roots of those polynomials which can be \nsolved for by radicals are, in fact, algebraic.\n\nThe little game that is used in this video is actually the process of \nfinding a polynomial which the number satisfies.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-01-23T22:06:06.000Z", 
+            "text": "quibble: \"hermite.\" being a french name. is pronounced\"air- MEET\"\ufeff", 
+            "author": "john landis"
+        }, 
+        {
+            "date": "2015-01-22T04:18:50.000Z", 
+            "text": "Zero is a whole number (or at least, it's not *not* a whole number; there \nis no universal agreement), and at 1:10 he presented multiplying by 0 as a \nvalid solution, suggesting he was treating 0 as a whole number. Yet later \nhe doesn't explain why you can't reduce pi or e to zero by way of x(0) or \nx^0 - 1. That's a rather glaring omission; it made the entire video \nunsatisfying. I guess we can assume 0 doesn't count according to this \nproof, but he should have stated that explicity, especially considering he \nseemed to contradict it early on.\ufeff", 
+            "author": "NoriMori"
+        }, 
+        {
+            "date": "2015-04-23T21:05:46.501Z", 
+            "text": "+NoriMori Agreed, his words of \"not very interesting\" did not explain that \nusing zero doesn't count since it nullifies the properties of the original \nnumber.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-23T03:37:58.000Z", 
+            "text": "+Brewsto x^3 + x^2 - x = 0 has zero as a root haha\n\nBut right, 0 won't count in the game", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-02-21T03:03:13.031Z", 
+            "text": "The \"game\" he presented was just a simple way of explaining what an \nalgebraic number is. As Brewsto pointed out, the more sophisticated \ndefinition as a root of a non-zero polynomial excludes numbers that can \nonly be \"made zero\" by, for example, multiplying by zero or raising to the \npower of zero and subtracting one in the game, since those solutions are \nnot particular to any number.", 
+            "author": "Sonny Garner"
+        }, 
+        {
+            "date": "2015-01-29T13:12:39.349Z", 
+            "text": "algebraic number is a number that is a root of a non-zero polynomial\nnon-zero polynomial\nnon-zero", 
+            "author": "Brewsto"
+        }, 
+        {
+            "date": "2015-01-27T21:55:02.069Z", 
+            "text": "+NoriMori  So maybe the guy used a slightly sloppy definition of \"whole \nnumber\".  Certainly he was forced to mention that when attempting to show a \nnumber as algebraic using algebraic operations, you can't do so by \nmultiplying by zero.\n\nHis basic point stands. \n\nI understand more about algebraic vs. transcendental than I did before.  \nAnd, while I probably would not be able to follow the math involved in the \nproof that for all algebraic a, e^a must be transcendental, I do get that a \nconsequence of that statement's truth is that \u03c0 must be transcendental.  \nAnd that's a pretty cool piece of logic, IMHO.\n--\nFurry cows moo and decompress.", 
+            "author": "I. Wyrd"
+        }, 
+        {
+            "date": "2015-01-25T11:09:58.284Z", 
+            "text": "That's not entirely true. He does say you can multiply 10 by zero and \nhereby satisfying to the game. Howevere, (roughly 2 seconds later) he \nexplicitly says that you can multiply any number by zero and still \nsatisfying to the game. Therefore zero is not an interesting number and NOT \nallowed to use in any equation related to the game. (english not my native \nlanguage).", 
+            "author": "Daan Smit"
+        }, 
+        {
+            "date": "2015-01-17T10:13:42.265Z", 
+            "text": "Is there a mathematical equation that proves that pi is delicious?\ufeff", 
+            "author": "Leo Jurgens"
+        }, 
+        {
+            "date": "2015-05-10T05:47:57.029Z", 
+            "text": "Can you disprove this?  (NASA \"Photos\" need not apply).", 
+            "author": "Leo Jurgens"
+        }, 
+        {
+            "date": "2015-05-10T05:44:58.510Z", 
+            "text": "+Kasran Fox The sun, moon, planets and all the universe contained within \nthe \"Concave Earth\".", 
+            "author": "Leo Jurgens"
+        }, 
+        {
+            "date": "2015-05-10T05:42:08.524Z", 
+            "text": "+Kasran Fox Understand, this is all hypothetical.  It is said... \"We live \non the surface of the inside of the global sphere\"\n\nHow do you like that?", 
+            "author": "Leo Jurgens"
+        }, 
+        {
+            "date": "2015-05-10T05:37:57.007Z", 
+            "text": "+Leo Jurgens But it is concave - those concave regions are what we call \n\"canyons\". ;D", 
+            "author": "Kasran Fox"
+        }, 
+        {
+            "date": "2015-05-10T05:30:47.822Z", 
+            "text": "+Kasran Fox Can you prove Earth is not  concave?", 
+            "author": "Leo Jurgens"
+        }, 
+        {
+            "date": "2015-05-10T02:08:24.000Z", 
+            "text": "+Leo Jurgens Here's a (silly) proof.\n\nThe volume P of a pepperoni pizza with radius z and thickness a is P = \npi*z*z*a.\n\nDividing both sides by z*z*a yields P/(z*z*a) = pi (you might read this as \n\"P on 'zza equals pi\").\nI like pepperoni on my 'zza, so P/(z*z*a) is delicious. So if P/(z*z*a) = \npi, pi must be delicious as well.", 
+            "author": "Kasran Fox"
+        }, 
+        {
+            "date": "2015-04-12T20:15:34.357Z", 
+            "text": "+LanceAtlas Uh, hate to break it to you, but Pi radians is only half a \ncircle. If you want to eat the whole pie, you're going to need Tau.", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-12T06:56:09.384Z", 
+            "text": "+SelfAudioBook TEXT WALL, COMPLEX STUFF, DONT READ IF YOU DONT WANT TO READ \nA COMPLEX PROOF THAT 7 IS NOT NECESSARILY A CANNIBAL \n\nDo we know that 7 and 9 are the same species, as would be implied by 7 \nbeing a cannibal for eating 9? Maybe the only numbers that are the same \nspecies are themselves, just like only Homo Sapiens are the same species as \nHomo Sapiens. To imply that just because they are both whole numbers that \nthey must be the same species, implying that 7 is a cannibal, implies that \n7 and 9 simply falling under the same category indicates a species \nrelationship. IT is equivalent to the philosophical fallacy \"Monkey is not \nhuman. Tiger is not human, therefore monkey is a tiger\". Both monkey and \ntiger are in the same category, not human, but are not the same species. \nTherefore, just like monkey is not necessarily the same species as tiger \n(and in fact it isnt) just because of a categorical relationship, neither \nis 7 necessarily the same species as 9. Furthermore, the argument saying \nthat the category \"number\" indicates a species relationship could also \nimply that any category that two beings share implies a species \nrelationship. All plants and animals are living things. Therefore, any \nplant or animal that eats plants or animals is a cannibal. Thus everyone \nhere is a cannibal necessarily because I found a category that both you, \nall other animals (humans are in the animal classification of nature) if \nthe argument that 7 is a cannibal because he ate a number (9) is valid. \nThis is obviously wrong. You are not a cannibal for eating a watermelon \nunless you are a watermelon. Therefore, only one very specific \nclassification between 7 and 9 can indicate that 7 is a cannibal. Since a 9 \nis not a 7, just like a human is not a watermelon, 7 is not a cannibal.\n\n\n\nAlso, PI is in fact delicious. The area of a circle is A = PI*r^2 . \nTherefore all perfect circles contain PI. Furthermore, PIE is perfect and \nis a circle, and is delicious and contains PI in the area of PIE that you \neat. Therefore, PI is delicious, at least when contained within PIE.", 
+            "author": "LanceAtlas"
+        }, 
+        {
+            "date": "2015-03-23T22:00:55.998Z", 
+            "text": "+Leo Jurgens 69 has the taste of delight!\nAnd yes, seven IS a cannibal!!", 
+            "author": "SelfAudioBook"
+        }, 
+        {
+            "date": "2015-03-23T16:50:11.116Z", 
+            "text": "If seven 8 nine, does that make seven a cannibal?\nAnd what does 69 taste like? ", 
+            "author": "Leo Jurgens"
+        }, 
+        {
+            "date": "2015-03-23T08:12:46.820Z", 
+            "text": "+Anonymous User But do you know, what the complex numbers taste like?\nI always wanted to try them but never got the chance to see one! -.-", 
+            "author": "SelfAudioBook"
+        }, 
+        {
+            "date": "2015-03-23T08:00:45.219Z", 
+            "text": "+SelfAudioBook XD", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-03-23T07:42:39.373Z", 
+            "text": "+Anonymous User Then you must have REEALLY big stomach! :D", 
+            "author": "SelfAudioBook"
+        }, 
+        {
+            "date": "2015-03-23T02:47:39.726Z", 
+            "text": "+SelfAudioBook False premise, whole numbers are rational numbers, and I \nalways like to eat the whole thing.\n\nAlso, pi has nothing to do with pie, so again, false premise.\n\nAlso, tau is the one true circle constant. All hail the hypno tau.", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-01-19T21:36:03.184Z", 
+            "text": "+SelfAudioBook Nice.", 
+            "author": "Leo Jurgens"
+        }, 
+        {
+            "date": "2015-01-19T12:00:15.000Z", 
+            "text": "Well lets say, that all rational numbers are disgusting, due to the fact, \nthat they can be calculated in one single fraction. Because Pi is not a \nrational number, it is irrational. All irrational numbers are the opposite \nof rational numbers, so do delicious and disgusting. So it is proven that \nPi must be delicious!\nEnjoy your meal!", 
+            "author": "SelfAudioBook"
+        }, 
+        {
+            "date": "2015-01-13T18:28:59.011Z", 
+            "text": "ultimate pi day\n3/14/15 @ 9:26:53\nonly 2 months away\ufeff", 
+            "author": "Alejandro Murguia"
+        }, 
+        {
+            "date": "2015-01-07T21:58:48.549Z", 
+            "text": "he really, really loves math. And watching him is kind of exciting. But \nsometimes (not this time) he is really hard to follow. Just like an excited \npuppy that is jumping around you is hard to follow... *G*\ufeff", 
+            "author": "methanbreather"
+        }, 
+        {
+            "date": "2015-01-07T17:23:07.691Z", 
+            "text": "Whoa, why is he saying maths?\ufeff", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-03-06T02:38:47.503Z", 
+            "text": "+Skindoggiedog There is no point in getting upset by this - people speak \nEnglish slightly differently to each other in different regions of the \nworld. There is no absolutely \"correct\" version.\nIt sounds odd to us to say \"math\" because we have grown up in a country \nwhere people say \"maths\" - that is all.\nIt is simply a matter of familiarity.\nAll the arguments about abbreviations and plurals and what-not are just \npost-hoc rationalizations - and totally pointless.\nLinkBulletBill can say \"math\" as much as he likes!\nNow we can move onto more trivial topics - like securing the world from \npoverty and war!\n8-)", 
+            "author": "richo61"
+        }, 
+        {
+            "date": "2015-03-05T22:49:35.439Z", 
+            "text": "+Skindoggiedog No, I legit saw it: \nhttps://www.youtube.com/watch?v=SbZCECvoaTA", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-03-05T08:48:24.345Z", 
+            "text": "+LinkBulletBill It didn't happen. You were out of arguments so instead of \ncapitulating, you made something up.", 
+            "author": "Skindoggiedog"
+        }, 
+        {
+            "date": "2015-02-28T18:06:53.554Z", 
+            "text": "+Skindoggiedog Isn't from the same user: Numberphile? Or another of his \nchannels?", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-02-28T13:42:13.579Z", 
+            "text": "+LinkBulletBill I believe I've seen a video that proves everything I've \never said or thought correct. Damned if I can find a link to it, though. \nFunny, that.", 
+            "author": "Skindoggiedog"
+        }, 
+        {
+            "date": "2015-02-28T09:02:19.572Z", 
+            "text": "+Skindoggiedog I believe I've seen a video showing that the origin of the \nshortened-version of mathematics started with \"math\" and then later \ndeveloped in \"maths\".", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-02-27T03:44:06.545Z", 
+            "text": "+LinkBulletBill Juvenile attempts at mockery aside, when the full word ends \nwith an 's' for plurality the shortened version standardly maintains this. \nPlurals without the ending 's' maintain this structure, omitting the 's' in \nboth forms.\n\nThis is not something particular to one area of the world. It's standard \nform. The corruption, however, is. Americans don't care. They just fuck \neverything up and then leave it that way.\n\n\"Is this India? Are you Indians?\"\n\"No, this is not India and we're not Indians.\"\n\"Yeah well, fuck it. You are now.\"", 
+            "author": "Skindoggiedog"
+        }, 
+        {
+            "date": "2015-02-21T22:04:29.810Z", 
+            "text": "+Skindoggiedog I say mathematics, and in short it's math and not \nmathsematics, unless that's how it works with you. I don't know.", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-02-21T15:47:05.376Z", 
+            "text": "+LinkBulletBill Why would you say 'math'? You wouldn't say 'physic' when \nspeaking of physics. The topic is mathematics, not mathematic.", 
+            "author": "Skindoggiedog"
+        }, 
+        {
+            "date": "2015-01-22T16:41:14.316Z", 
+            "text": "+NoriMori explained to me already, but thank you XD still sounds incredibly \nodd to me. Maths. Mathsss... Odd. XD", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-01-22T04:07:45.666Z", 
+            "text": "Because he's not North American. In the UK, Australia, and probably \nelsewhere (but I wouldn't know), they say \"maths\", short for \"mathematics\".", 
+            "author": "NoriMori"
+        }, 
+        {
+            "date": "2015-01-15T00:02:34.000Z", 
+            "text": "+LinkBulletBill Its not treated as a plural - I would say \"maths is my \nfavourite subject\" - not \"maths are\" - that would sound wrong to me too. 8-)", 
+            "author": "richo61"
+        }, 
+        {
+            "date": "2015-01-14T15:50:13.653Z", 
+            "text": "+richo61 For me it sounds like Math has been pluralized by saying Maths. \nPlease don't tell me people not in North America, yet in GB or Australia \nsay stuff like \"Maths are\". That would be very unpleasant for my ears, but \nhey it could be true and just different. ", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-01-14T09:33:11.003Z", 
+            "text": "It really is just a matter of what you are used to - I grew up in Australia \nand everyone here says maths. \"I had a maths test today!\" - then I would \nwatch american TV shows and people would say math - and it sounds ... too \nshort! 8-)\nThere is no right or wrong to it - and English language is ever changing \nand evolving.\nI wonder what they say in India? With almost 1 billion english speakers \nthey will have a huge effect on the future of the language.", 
+            "author": "richo61"
+        }, 
+        {
+            "date": "2015-01-14T02:38:50.804Z", 
+            "text": "+richo61 Why is it odd to say Math for Mathematics?", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-01-12T21:08:20.912Z", 
+            "text": "+Squeakerification Odd...", 
+            "author": "LinkBulletBill"
+        }, 
+        {
+            "date": "2015-01-10T20:28:53.066Z", 
+            "text": "People from GB say Maths", 
+            "author": "Squeakerification"
+        }, 
+        {
+            "date": "2015-01-10T20:19:21.417Z", 
+            "text": "Cause he\u00b4s got so many of them you don\u00b4t even know.", 
+            "author": "Kabitu1"
+        }, 
+        {
+            "date": "2015-01-07T14:26:47.000Z", 
+            "text": "https://www.youtube.com/watch?v=seUU2bZtfgM\nHaha this guy's halarious. Rational #= whole #'s, fractions, mixed \nfractions, improper fractions and repeating decimals. \nIrrational= non repeating decimals(and or any #'s) with no pattern. \ufeff", 
+            "author": "Angelina Rodriguez"
+        }, 
+        {
+            "date": "2015-01-02T14:20:05.004Z", 
+            "text": "Writing root square of -1 in a mathematic video is a felony ... !\ufeff", 
+            "author": "Louis Barjon"
+        }, 
+        {
+            "date": "2015-01-06T12:58:19.014Z", 
+            "text": "The square root of -1 is one of the most important numbers in mathematics. \n There are whole branches of mathematics devoted to studying what happens \nwhen we allow this number.  So no, it isn't a felony.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2014-12-30T08:34:31.056Z", 
+            "text": "Did anyone else pause just after 2:02 and look up that video?\ufeff", 
+            "author": "99hourvideos"
+        }, 
+        {
+            "date": "2014-12-29T03:10:08.001Z", 
+            "text": "The Russell Brand of mathematics?\ufeff", 
+            "author": "strangerhythm"
+        }, 
+        {
+            "date": "2014-12-26T10:25:10.537Z", 
+            "text": "You guys will never know how cool you are, whats bugging the guy doing the \nmath in this video is that he still has faith in numbers when he clearly is \napproaching enlightenment. Before you guys resolve this would you help me \nresolve some other issues that i have?\n1. Arent all integers kinda fake being that you technnically cant count all \nnumbers from 1 to 2 or 0 to 1 for that matter as you will get caught in an \ninfinite counting loop.\n\n2. In our shame just saying ok we are allowed to count \"1,2,3,4,5,6,7,8,9 \nand 10 which you should literally taken ass \"One Zero\" as in one of \nthese.---doesnt this increase the margin of error for dealing with decimals.\n\n3.Integer groups should be classified strictly as 0-9 or 1-10, 0-10 being \nresricted because you are saying a 0 origin and the one zero after 9 which \nis \"10\" but thats actually the second zero which makes 0-10 11 numbers and \nprobably the problem with 0<a<1 where a is a whole number.\n\n4.wanna hear a joke? how far can you run into the woods?-half way then you \nare running out. whats the sum of all integers?-1.\n\n5.if e=mc^2 and you can either know somethings location or how fast its \ngoing but not both why is it expected that and an algebraic equation would \ndescribe everything in the universe when c is part particle and part wave.- \na side bit of fringe e=piphi^2\nwe a a state function preceding a state function where life is all lights \npaths inbetween.\n\n6. The holy transcendentals E, Phi, Pi.\n\n7. my last one before im cast to the outskirts. the decimal 1.0 should be \nwritten as 0.1.0, lmao.\ufeff", 
+            "author": "Sage of The Lotus"
+        }, 
+        {
+            "date": "2014-12-24T06:55:23.758Z", 
+            "text": "03:15\n(Sqrt(-1)^2)+1=0\n????\n7u7\ufeff", 
+            "author": "Sebasti\u00e1n Cer\u00f3n"
+        }, 
+        {
+            "date": "2014-12-23T19:45:57.741Z", 
+            "text": "My favorite part of these videos is how excited each mathematician gets \nabout their particular number. Other people feel how I feel!\ufeff", 
+            "author": "Geldarion Degana (The Fanatical Swordsman)"
+        }, 
+        {
+            "date": "2015-02-14T21:46:44.615Z", 
+            "text": "Sure!", 
+            "author": "G-gamer"
+        }, 
+        {
+            "date": "2014-12-17T10:20:18.852Z", 
+            "text": "why not e-e?\ufeff", 
+            "author": "Aidan Davis"
+        }, 
+        {
+            "date": "2014-12-17T19:49:21.677Z", 
+            "text": "whole numbers only, e is irrational", 
+            "author": "Nepz pro"
+        }, 
+        {
+            "date": "2014-12-14T09:53:52.505Z", 
+            "text": "e is also the limit of the function (1+x^-x)^x^x as x approaches infinity.\ufeff", 
+            "author": "Jackalope"
+        }, 
+        {
+            "date": "2014-12-12T03:22:57.424Z", 
+            "text": "I have no idea what he said\ufeff", 
+            "author": "jennyhart22"
+        }, 
+        {
+            "date": "2014-12-09T22:00:36.916Z", 
+            "text": "I want this guy as my math teacher!\ufeff", 
+            "author": "563985j"
+        }, 
+        {
+            "date": "2014-12-05T02:55:10.904Z", 
+            "text": "i lost the game\ufeff", 
+            "author": "sxwrthegamer1"
+        }, 
+        {
+            "date": "2014-12-05T02:31:23.477Z", 
+            "text": "A number is algebraic if it is the root of a nonzero polynomial with \ninteger coefficients.  It may be true that e^0 - 1 = 0, but x^0 - 1 = 1 - 1 \n= 0 is NOT nonzero, so being a root of this polynomial does not make e \nalgebraic.\ufeff", 
+            "author": "Sean Legge"
+        }, 
+        {
+            "date": "2014-11-22T01:48:43.302Z", 
+            "text": "(pi^0)-1=0.\ufeff", 
+            "author": "CamVid100"
+        }, 
+        {
+            "date": "2014-11-22T01:47:10.889Z", 
+            "text": "The number \"e\" may not be transcendental. If we are using simply integers, \nwe can make \"e\" algebraic. To make e = 0 without multiplying by zero, we \ncould simply apply the following equation: e^0 = 1. Then, we do (e^0)-1; \nthis is equivalent to zero. So is \"e\" transcendental if we can raise it to \nan integer power and get and algebraic result?\ufeff", 
+            "author": "CamVid100"
+        }, 
+        {
+            "date": "2015-01-01T16:59:55.486Z", 
+            "text": "The stipulation is that it must be whole numbers. That's every integer \nexcept for zero. Otherwise the entire exercise is meaningless because you \ncould just raise any value to the 0th power and subtract by 1.", 
+            "author": "Maven Dissector"
+        }, 
+        {
+            "date": "2014-11-16T16:18:43.000Z", 
+            "text": "Imaginary is a perfect name for it, like I've said time and time \nagain....these are place holders for imaginary things. Because things \nexists as functions but we want to speak about pieces so we make it complex \n(ie e^j*x)\ufeff", 
+            "author": "Andy Payne"
+        }, 
+        {
+            "date": "2014-11-15T19:48:47.176Z", 
+            "text": "What about e^0=1 ? \ufeff", 
+            "author": "Nater Fernat"
+        }, 
+        {
+            "date": "2014-11-15T04:36:57.004Z", 
+            "text": "are you allowed to use 0 in the game? cuase if u do 0 times pi or 0 times \ne, then u get 0 meaning that they are algebraic. he said u can use 0, but \nits boring (did he make a mistake there)?\ufeff", 
+            "author": "Sriteja Chavva"
+        }, 
+        {
+            "date": "2014-11-15T02:09:12.892Z", 
+            "text": "Anything raised to the 0 power is equal to one.\nTherefore, 1 ^ 0 = 1 \n88 ^ 0 = 1\n21093402910210492 ^ 0 = 1\n\nThis includes these so-called transcendental numbers.\n\n(e ^ 0) - 1 = 0\n(pi ^ 0) - 1 = 0\ufeff", 
+            "author": "Firewarrior321"
+        }, 
+        {
+            "date": "2015-04-24T22:40:15.886Z", 
+            "text": "+Cooper Gates Yes", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-24T21:20:07.647Z", 
+            "text": "+Anonymous User I need to make another note - zero can only be raised to \npositive powers (of course not zero). Let a = some positive number...\n\n0^(-a) = 1 / (0^a) = dividing by zero again.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-24T13:07:34.337Z", 
+            "text": "+Cooper Gates Heh, yeah, well... happy to be more clear next time ;)", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-24T05:16:44.939Z", 
+            "text": "+Anonymous User You called it \"silly\" and apparently Bonne did not \nunderstand that lol", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-24T03:10:52.687Z", 
+            "text": "+Cooper Gates +Isis Kearney Yes, in my original statement I agreed with you \nand said it's a fallacy.", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-23T21:01:40.427Z", 
+            "text": "+B\u00f3nne B 0^a = zero, 0 to any power (except zero) is zero. 0^0 is undefined.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-23T19:04:55.636Z", 
+            "text": "+Isis Kearney That's another good paradox; if you raise something to the \n1/20th power, the inverse is the 20th power, and as you wrote you'd do the \n1/0 power (undefined) for the opposite of the zero power. The zeroth power \ndoes yield 1 for any input except 0.\n\nEven with roots aside, using the zero power has no dependence on the input \nso it's not a valid solution anyway.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-25T16:29:02.000Z", 
+            "text": "+Anonymous User, I think I've spotted a mathematical flaw in your argument.\n\nYou go from e^0 = pi^0,\nAnd then, e = pi.\n\nI think the problem with that is you're taking the zeroth power of \nsomething and I'm not sure that can be done. You can put something to the \npower of zero,  but if you try and find the zeroth route of something \nyou're essentially raising it to the inverse of zero. 1/0 is undefined \nwhich brings an error in itself, and also that with e^0 being 1, even if \nyou could take it to the power of 1/0 there's no proof it'd be e - it could \nbe anything essentially because anything to the power of zero is one.\n\nI think there are certain things you can't do with zeros. Dividing by zeros \nis impossible, and I'd think taking the zeroth route (or raising to the \npower of 1/0) also is.\n\nI'm not a mathematician though. This isn't something I've studied or \nanything, but just from my own thoughts I don't think your maths makes \nsense.", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-04-23T18:47:56.648Z", 
+            "text": "+Anonymous User The point is that you can't say two original numbers are \nequal after doing an operation that nullifies some or all of the \ninformation, and then getting an equality. Even just squaring the number is \nan example. (-2)^2 = 2^2 = 4, but obviously 2 =/= -2.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-23T16:41:02.795Z", 
+            "text": "+B\u00f3nne B What would you like me to stop? I don't see any continuing action. \nI called you out for name calling, please don't do it again.", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-23T16:18:02.771Z", 
+            "text": "+B\u00f3nne B Please, tell me more about how angry you are. Call more names and \ntell people to shut up, it really gets your argument through.", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-23T03:52:33.961Z", 
+            "text": "+Cooper Gates And yet that's how the math works out and it's precisely why \nthe rule is in place.", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-04-23T03:26:34.899Z", 
+            "text": "+Anonymous User Who would be thinking that a^0 = b^0 means that a = b? It's \nlike 0^a = 0^b means a = b hahaha", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-18T15:07:00.699Z", 
+            "text": "+Daniel Ferrari Actually I should correct myself. There's a lot of debate \nas to whether zero is a natural number. The maths books I've read \ndescribing set theory have not included zero in the set of natural numbers, \nso for that reason I don't. I suppose it would also be quite dubious to \ninclude it in the proof if it's not even known whether it's a natural \nnumber or not.", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-04-18T15:04:49.723Z", 
+            "text": "+Daniel Ferrari No, the set of natural numbers are from one onwards, zero \nis an integer, but it's not a natural number.", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-04-18T01:49:45.433Z", 
+            "text": "Zero IS a natural number.", 
+            "author": "Daniel Ferrari"
+        }, 
+        {
+            "date": "2015-04-17T23:14:42.654Z", 
+            "text": "+Firewarrior321 Also with regards to e^(1-1), the reason why that wouldn't \nwork is because that's actually equal to e^1 / e^1, in which case what \nyou're actually doing is dividing the irrational number by an irrational \nnumber, rather than using integers.", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-04-17T23:14:56.000Z", 
+            "text": "+Firewarrior321 zero isn't a natural number.", 
+            "author": "Isis Kearney"
+        }, 
+        {
+            "date": "2015-04-07T17:16:13.694Z", 
+            "text": "nothing better than a clown with a calculator ahaha +Firewarrior321  ", 
+            "author": "Tim Vedel"
+        }, 
+        {
+            "date": "2015-03-23T16:03:48.063Z", 
+            "text": "It's cheating.", 
+            "author": "Tordah!"
+        }, 
+        {
+            "date": "2014-11-15T01:33:03.548Z", 
+            "text": "Can't anyone discover a transcendental number?  Here: \n4.59654654654745784978450733349203859 and it goes on forever, no pattern. \nIt's transcendental.\ufeff", 
+            "author": "QuantumBraced"
+        }, 
+        {
+            "date": "2015-02-27T20:34:29.000Z", 
+            "text": "Interestingly enough, a great approximation to your number is the discrete \nfraction 30613 / 6660. It differs from your original number by almost \n0.0000000000009", 
+            "author": "Enlightened Penguin"
+        }, 
+        {
+            "date": "2015-02-27T20:25:35.265Z", 
+            "text": "That number doesn't go on forever though. That number is \n4.59654654654745784978450733349203859 and it is equivalent to \n1936270620734791454 / 421244645545720917,  or 4 + 251292038551907786 / \n421244645545720917. It is the solution to the equation ( (x - \n4)*421244645545720917 ) / 251292038551907786.\nIn order to prove that your number is transcendental you need to create a \nway to generate your number. For example, e is equivalent to lim \n(1+(1/x))^(x) as [x --> inf]", 
+            "author": "Enlightened Penguin"
+        }, 
+        {
+            "date": "2014-12-21T08:59:41.952Z", 
+            "text": "You need to either write out all the digits or give an algorithm to find \nall the digits or you haven't discovered shit.", 
+            "author": "Fronk Donk"
+        }, 
+        {
+            "date": "2014-11-26T14:40:59.302Z", 
+            "text": "You cant \"just\" write down a transcendental number, you'd have to be able \nto write the number in some manner of form, mostly in the sense of a rule. \nLike with e it is that f(x)=e^x gives f ' (x)=e^x, or pi is the \ncircumference of a circle divided by its diameter. For a random number you \nwrite down it does not go on forever, since it will only go on for as long \nas you have defined it.\n\nHave a rule in your number and you could potentionally have a \ntranscendental number. Say for instance, a number where the decimals are \nnumbers from the fibonacci sequence, like 0,1123581321345589... it will go \non forever, since the fibonacci sequence goes on forever.", 
+            "author": "debries"
+        }, 
+        {
+            "date": "2014-11-26T04:08:46.859Z", 
+            "text": "+QuantumBraced This kinda sums up my point\nhttp://scienceblogs.com/goodmath/2006/08/04/irrational-and-transcendental/", 
+            "author": "Andrew Tofelt"
+        }, 
+        {
+            "date": "2014-11-26T03:58:38.843Z", 
+            "text": "+QuantumBraced Sure. In answer to your original question; yes, anyone can \ndiscover a transcendental number. And frankly, \"being transcendental\" I \ndon't think makes a number interesting or meaningful.\n\nI think the interesting bit was we didn't expect (400 years ago or \nwhatever) to have any *meaningful* numbers outside the bounds of Algebra, \nand yet it turns out that our two awesomest numbers (e and pi) are.", 
+            "author": "Andrew Tofelt"
+        }, 
+        {
+            "date": "2014-11-26T03:24:13.090Z", 
+            "text": "+Andrew Tofelt Right, but isn't coming up with these formulas easy? \nCouldn't you for instance just take the formula for pi and change it a \nlittle?", 
+            "author": "QuantumBraced"
+        }, 
+        {
+            "date": "2014-11-26T02:52:53.897Z", 
+            "text": "Indeed, continuing forever without repeating is (a consequence of) the \ndefinition of irrational, but not transcendental. In truth, it's *probably* \ntranscendental as well, since most numbers are. But without a specific \nformulaic way to write your number, it's impossible to tell.", 
+            "author": "Andrew Tofelt"
+        }, 
+        {
+            "date": "2014-11-25T19:19:04.694Z", 
+            "text": "It might be just irrational like sqrt 2", 
+            "author": "Jokiae"
+        }, 
+        {
+            "date": "2014-11-10T23:44:53.639Z", 
+            "text": "fantastic!!!!\ufeff", 
+            "author": "Leandro Suzano"
+        }, 
+        {
+            "date": "2014-11-10T16:39:30.000Z", 
+            "text": "Man, this feels like a wierd thing to comment on, but I'm just stunned by \nhow perfect of a zero he wrote in that first number 10 around a minute in. \nJust... wow.\ufeff", 
+            "author": "GoneZombie"
+        }, 
+        {
+            "date": "2014-11-09T06:34:08.505Z", 
+            "text": "\u03c0 to 0? soft\n\u03c0^0-1=0\nlol any number to the power of 0 is 1 so theoretically u can do the same \nwith e\ne^0-1=0\nI FEEL SMART :D\ufeff", 
+            "author": "YOUWEPAPA"
+        }, 
+        {
+            "date": "2015-01-07T01:30:38.241Z", 
+            "text": "The problem with this is if you then turn it to an algebraic expression you \nwould have x^0 - 1 = 0, which if you applied anything to the power of 0 is \n1 then you can't solve for x. If you decided to rearrange for x, you would \nget x = 1^(1/0)\nwhich highlights the problem. You're dividing by zero.", 
+            "author": "OmegaCraftable"
+        }, 
+        {
+            "date": "2015-01-01T17:01:17.189Z", 
+            "text": "+YOUWEPAPA 1-1 evaluates to 0. The video didn't state this, but your \noperators can't evaluate to zero.", 
+            "author": "Maven Dissector"
+        }, 
+        {
+            "date": "2014-11-09T06:36:48.816Z", 
+            "text": "or if u cant use 0s then\n\u03c0^(1-1)-1\ne^(1-1)-1\nlol", 
+            "author": "YOUWEPAPA"
+        }, 
+        {
+            "date": "2014-11-06T09:14:34.860Z", 
+            "text": "I've learned somthing :-)\ufeff", 
+            "author": "Searcher123456789"
+        }, 
+        {
+            "date": "2014-11-05T22:16:31.656Z", 
+            "text": "lets just all agree math is some form of alien language sometimes. I love \nmath but sometimes i step back and look at it and go,,,For real, why, how \nand for what reasons does this gibber gabber always seem to make rational \nsense out of stuff that otherwise shouldnt even exist. \ufeff", 
+            "author": "Curtis Zaleski"
+        }, 
+        {
+            "date": "2014-12-12T02:30:42.483Z", 
+            "text": "Why shouldn't it exist?", 
+            "author": "Daryll \"Coop\" Cooper"
+        }, 
+        {
+            "date": "2014-11-05T18:27:11.420Z", 
+            "text": "GOTCHA! 6:51\n!4 is not equal to 29, 1*2*3*4 = 24 ;)\ufeff", 
+            "author": "TheAlmostTV"
+        }, 
+        {
+            "date": "2014-12-06T19:51:41.479Z", 
+            "text": "Its R!, not 4!.", 
+            "author": "Gustavo Belotto"
+        }, 
+        {
+            "date": "2014-11-05T17:43:16.658Z", 
+            "text": "This guy reminds me of Russell Brand, if Brand were actually smart.\ufeff", 
+            "author": "Maurice Webb"
+        }, 
+        {
+            "date": "2015-03-13T20:56:39.403Z", 
+            "text": "Actually, if you go to Brand's youtube channel, you'll find really \ninteresting videos about social problems and news, he might not be a \nmathematician but he's an interesting man, usually he makes really good \npoints and he's great at analysing news and situations, he's quite \ndifferent from what he seems to be on tv.", 
+            "author": "Valeria Ibarra"
+        }, 
+        {
+            "date": "2015-01-23T13:17:52.576Z", 
+            "text": "Spoken like a true man... computer... thing", 
+            "author": "Sarah Kempenaar"
+        }, 
+        {
+            "date": "2014-11-02T11:24:53.131Z", 
+            "text": "Why is portrait going down at 09:07?\ufeff", 
+            "author": "Andrey Rybak"
+        }, 
+        {
+            "date": "2014-11-01T12:44:29.194Z", 
+            "text": "what about e*0 or (e^0) - 1\ufeff", 
+            "author": "Jean Reve"
+        }, 
+        {
+            "date": "2014-10-30T20:26:38.000Z", 
+            "text": "sqrt(2)^2 is not 2. it's 2 or -2. sqrt(n)^2 is not n. it's n or -n, for any \nn>0. why do people always seem to forget, or pay less attention to the \nnegative number? to me, both solutions are equally important.\ufeff", 
+            "author": "n0fucks"
+        }, 
+        {
+            "date": "2014-10-31T09:45:31.747Z", 
+            "text": "Squaring a (real) number always results in a positive number. You may be \nconfusing it with square rooting: square rooting a positive number (like 2) \ngives you a positive and negative solution (in this case sqrt(2) and - \nsqrt(2)).", 
+            "author": "Mad Scientist of Amber"
+        }, 
+        {
+            "date": "2014-10-29T20:30:59.364Z", 
+            "text": "why did it take 9 years for them to realise pi is trancendental after \nproving e was. surely its obvious the e^x is trancendental if x is \nalgebraic as you can simply take the \"x\" root of e^x, and eulers identity \nhad been around for ages then\ufeff", 
+            "author": "Liam Toebes"
+        }, 
+        {
+            "date": "2014-10-27T10:53:01.547Z", 
+            "text": "But e^\u03c0  is transcendental and \u03c0  is not algebric as must be in the formula \ne^a=trascendental\ufeff", 
+            "author": "Itsiwhatitsi"
+        }, 
+        {
+            "date": "2014-10-23T13:50:11.968Z", 
+            "text": "Although isn't e transcendental out of simply not defining our axioms well \nenough?\nRules of the game were to take +, -, *, / and ()^n \nbut for some numbers such as rt2, if it weren't known that the square of \nany sqrt is the number itself, it would in that case be transcendental.\n\nIn other words....if rt2 was some letter like r, where r \nis 1.41421356237...and one axiom wasn't known, namely...the ability to \nsquare numbers by an integer. Wouldn't that be considered transcendental?\n\nSaying e is transcendental because you cannot bring it to 0 with certain \nmathematical functions that are limited simply because they have been \npreviously arbitrarily defined, isn't universal. \nHow do we know that there isn't some function or manipulation of numbers \nthat we don't know of yet, that is able to bring known transcendental \nnumbers such as e and pi, to 0? \ufeff", 
+            "author": "entoris476"
+        }, 
+        {
+            "date": "2014-10-24T19:12:28.969Z", 
+            "text": "If having an answer to your final question is sufficiently important to \nyou, then you might wish to familiarise yourself with the the \nLindemann\u2013Weierstrass theorem, along with wherever else that that may lead \nyou. For me, it is not.", 
+            "author": "Jack Sainthill"
+        }, 
+        {
+            "date": "2014-10-20T03:04:10.028Z", 
+            "text": "11:27 I see what you did there\ufeff", 
+            "author": "MC Peach"
+        }, 
+        {
+            "date": "2014-10-19T09:31:46.696Z", 
+            "text": "Isn't any infinite sum a transcendental number? e is an infinite sum. pi is \nan infinite sum. \ufeff", 
+            "author": "RJ M"
+        }, 
+        {
+            "date": "2014-10-24T18:59:15.903Z", 
+            "text": "No. 1 + 1/2 + 1/4 + ... = 2, an algebraic number.", 
+            "author": "Jack Sainthill"
+        }, 
+        {
+            "date": "2014-10-17T21:18:27.769Z", 
+            "text": "13:10 Checkmate!\ufeff", 
+            "author": "NeedsContent"
+        }, 
+        {
+            "date": "2014-10-24T22:07:16.836Z", 
+            "text": "Rather, the point was more *obvious* in your head than it was in other \npeople's, perhaps.\n\nAnyway, I've plussed it, albeit only because of your boldness in granting \nthe community the intelligence to work it out for itself - an excellent \ncomedic device when it can be brought off, but which is also, alas,very \ndifficult to judge properly.", 
+            "author": "Jack Sainthill"
+        }, 
+        {
+            "date": "2014-10-24T21:34:03.534Z", 
+            "text": "+Jack Sainthill Im just commenting on the finality of his delivery. \n Probably sounded funnier in my head than it did in text.", 
+            "author": "NeedsContent"
+        }, 
+        {
+            "date": "2014-10-24T19:18:24.812Z", 
+            "text": "What do you mean?", 
+            "author": "Jack Sainthill"
+        }, 
+        {
+            "date": "2014-10-01T17:12:08.511Z", 
+            "text": "i can do it e^0-1=0 :D\ufeff", 
+            "author": "BadgerGamePlay"
+        }, 
+        {
+            "date": "2014-09-27T22:12:49.039Z", 
+            "text": "(e^pi)-pi=20\ufeff", 
+            "author": "David Myer"
+        }, 
+        {
+            "date": "2014-09-26T22:49:59.000Z", 
+            "text": "Can a combination of to or more trenscendental numbers form a algebraic \nnumber, like e and pi?!\ufeff", 
+            "author": "Infinite Wisdom"
+        }, 
+        {
+            "date": "2014-09-26T04:14:01.343Z", 
+            "text": "You can not do \"e-e=0\" because e is not a whole number which is one of the \nrules. e is approximately equal to 2.71828......... which is not a whole \nnumber.\ufeff", 
+            "author": "Information Security Group - ISG"
+        }
+    ]
+}

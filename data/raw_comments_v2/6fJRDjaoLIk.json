@@ -1,0 +1,847 @@
+{
+    "publish_date": "2014-12-02T06:13:26.000Z", 
+    "video_length": "PT4M5S", 
+    "captions": [
+        {
+            "text": "I got an electronic kit just in time for my\nbirthday, so in this project let\u2019s open", 
+            "dur": "3.83", 
+            "start": "0.19"
+        }, 
+        {
+            "text": "it up and explore some of the things we can\ndo with LittleBits", 
+            "dur": "2.96", 
+            "start": "4.02"
+        }, 
+        {
+            "text": "To start this project, I\u2019m using the CloudBit\nstarter kit, and the LittleBits space kit.", 
+            "dur": "4.22", 
+            "start": "15.059"
+        }, 
+        {
+            "text": "Opening it up, you can see all kinds of sensors,\nswitches and motors, including this little", 
+            "dur": "4.04", 
+            "start": "19.28"
+        }, 
+        {
+            "text": "power module, that hooks to a USB cable or\na 9 volt battery for power. Each little module", 
+            "dur": "5.42", 
+            "start": "23.32"
+        }, 
+        {
+            "text": "has magnets built into the ends so you can\u2019t\nconnect them the wrong way. Instead, they", 
+            "dur": "4.15", 
+            "start": "28.74"
+        }, 
+        {
+            "text": "click themselves into position for you, making\nsimple circuit building a snap.", 
+            "dur": "4.46", 
+            "start": "32.89"
+        }, 
+        {
+            "text": "Now if we connect an LED to the end of the\nbutton module, you can see in less than 5", 
+            "dur": "3.759", 
+            "start": "37.35"
+        }, 
+        {
+            "text": "seconds we\u2019ve made a flashlight, that works\neach time we press the button.", 
+            "dur": "3.121", 
+            "start": "41.109"
+        }, 
+        {
+            "text": "If we switch out the button with the sound\ntrigger module, we can turn on the light with", 
+            "dur": "3.789", 
+            "start": "44.23"
+        }, 
+        {
+            "text": "a snap or a clap.", 
+            "dur": "1.54", 
+            "start": "48.019"
+        }, 
+        {
+            "text": "Alright, let\u2019s take this to the next level\nwith the CloudBit module. This little piece", 
+            "dur": "4.01", 
+            "start": "49.559"
+        }, 
+        {
+            "text": "snaps just about anything to the internet,\nand you\u2019ll see how it works in just a second.", 
+            "dur": "3.44", 
+            "start": "53.569"
+        }, 
+        {
+            "text": "Now if we bring in a remote trigger and this\nowl puppet I found laying in the kids play", 
+            "dur": "3.789", 
+            "start": "57.78"
+        }, 
+        {
+            "text": "room, we can build a secret circuit to monitor\nthe kids.", 
+            "dur": "3.321", 
+            "start": "61.569"
+        }, 
+        {
+            "text": "First off, let\u2019s cut a small hole in the\nfeathers of the puppet, just big enough to", 
+            "dur": "2.62", 
+            "start": "64.89"
+        }, 
+        {
+            "text": "expose the sensor.", 
+            "dur": "1.87", 
+            "start": "67.51"
+        }, 
+        {
+            "text": "This little device is going to let us know\nwhen someone\u2019s using a remote control. So", 
+            "dur": "3.52", 
+            "start": "69.38"
+        }, 
+        {
+            "text": "let\u2019s snap some wires to either side of\nthe sensor, then snap it to the CloudBit module,", 
+            "dur": "4.36", 
+            "start": "72.9"
+        }, 
+        {
+            "text": "making this circuit wifi compatible.", 
+            "dur": "2.49", 
+            "start": "77.26"
+        }, 
+        {
+            "text": "I chose to snap my circuit to a mounting board\nfor convenience, and added a little bit of", 
+            "dur": "3.75", 
+            "start": "79.75"
+        }, 
+        {
+            "text": "duct tape, to keep the 9 volt battery beside\nthe circuit.", 
+            "dur": "2.48", 
+            "start": "83.5"
+        }, 
+        {
+            "text": "Our remote detector circuit is complete, and\nnow all we need to do is hide it. You can", 
+            "dur": "4.36", 
+            "start": "86.71"
+        }, 
+        {
+            "text": "see the sensor hides pretty well in the forehead,\nand to get it all working, all we\u2019ll need", 
+            "dur": "3.57", 
+            "start": "91.07"
+        }, 
+        {
+            "text": "to do is throw the power switch.", 
+            "dur": "1.84", 
+            "start": "94.64"
+        }, 
+        {
+            "text": "Alright, let\u2019s go ahead and tuck everything\ninside the puppet so it\u2019s snug and secure,", 
+            "dur": "4.36", 
+            "start": "96.48"
+        }, 
+        {
+            "text": "and completely concealed.", 
+            "dur": "1.86", 
+            "start": "100.84"
+        }, 
+        {
+            "text": "Now I set this one beside the TV in our kids\nplayroom because our kids are in the habit", 
+            "dur": "3.79", 
+            "start": "102.7"
+        }, 
+        {
+            "text": "of sneaking up to watch TV after we\u2019ve all\ngone to bed. The difference now is that when", 
+            "dur": "3.76", 
+            "start": "106.49"
+        }, 
+        {
+            "text": "they press any button on the remote, the sensor\nin the puppet triggers the circuit, and sends", 
+            "dur": "3.89", 
+            "start": "110.25"
+        }, 
+        {
+            "text": "a text message to my phone, letting us know\nthat some little body is watching TV.", 
+            "dur": "4.41", 
+            "start": "114.14"
+        }, 
+        {
+            "text": "I also found these could be used to detect\na thief. I made this circuit, in less than", 
+            "dur": "4.66", 
+            "start": "118.55"
+        }, 
+        {
+            "text": "10 seconds, by replacing the remote sensor\nwith a light sensor and an LED. When the light", 
+            "dur": "4.71", 
+            "start": "123.21"
+        }, 
+        {
+            "text": "sensor is covered, you can see the circuit\ngoes into standby mode, but reactivates when", 
+            "dur": "4.03", 
+            "start": "127.92"
+        }, 
+        {
+            "text": "light hits it again.", 
+            "dur": "1.44", 
+            "start": "131.95"
+        }, 
+        {
+            "text": "I tried taping this inside my safe, along\nwith a little note for any would-be intruder,", 
+            "dur": "3.55", 
+            "start": "133.39"
+        }, 
+        {
+            "text": "and if you watch carefully, you can see that\nwhen the door closes, the LED shuts off and", 
+            "dur": "4.57", 
+            "start": "136.94"
+        }, 
+        {
+            "text": "the circuit switches to standby.", 
+            "dur": "2.09", 
+            "start": "141.51"
+        }, 
+        {
+            "text": "Now if anyone gets inside it lights up, scaring\naway a potential thief, and sending an alert", 
+            "dur": "4.79", 
+            "start": "143.6"
+        }, 
+        {
+            "text": "that someone just opened your safe.", 
+            "dur": "1.54", 
+            "start": "148.39"
+        }, 
+        {
+            "text": "Now there are over a million circuit combinations\nthat you could make with these snap together", 
+            "dur": "3.66", 
+            "start": "151.12"
+        }, 
+        {
+            "text": "circuits, and for one final project, I tried\nconnecting a LittleBits AC switch inline with", 
+            "dur": "4.6", 
+            "start": "154.78"
+        }, 
+        {
+            "text": "a small space heater. The circuit uses an\ninfrared transmitter to activate the switch,", 
+            "dur": "4.49", 
+            "start": "159.38"
+        }, 
+        {
+            "text": "which can be done remotely by setting a few\nsimple commands on www.ifttt.com. So now instead", 
+            "dur": "4.82", 
+            "start": "163.87"
+        }, 
+        {
+            "text": "of heating an empty house all day, simply\nsend a text message on your way home from", 
+            "dur": "3.629", 
+            "start": "168.69"
+        }, 
+        {
+            "text": "work, to turn on the heater. This way you\u2019ll\nsave energy, and and still come home, to a", 
+            "dur": "4.211", 
+            "start": "172.319"
+        }, 
+        {
+            "text": "nice warm room.", 
+            "dur": "1.9", 
+            "start": "176.53"
+        }, 
+        {
+            "text": "Well there are a few projects I tried with\na LittleBits electronics kit, to solve some", 
+            "dur": "3.73", 
+            "start": "178.43"
+        }, 
+        {
+            "text": "everyday challenges, and learn more about\nelectronics in the process. Well that\u2019s", 
+            "dur": "4.01", 
+            "start": "182.16"
+        }, 
+        {
+            "text": "it for now. If you liked this project, perhaps\nyou\u2019ll like some of my others. Check them", 
+            "dur": "3.63", 
+            "start": "186.17"
+        }, 
+        {
+            "text": "out at www.thekingofrandom.com", 
+            "dur": "2.18", 
+            "start": "189.8"
+        }
+    ], 
+    "title": "Electronics Projects, with LittleBits", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02mrp"
+    ], 
+    "number_views": 975716, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T12:49:01.129Z", 
+            "text": "PLEASE PLEASE DO MORE WITH LITTLE BITS\ufeff", 
+            "author": "Johnathan Schoen (keep calm and random)"
+        }, 
+        {
+            "date": "2015-05-09T12:31:06.303Z", 
+            "text": "can i get one my parents wont let me get it for money problems\ufeff", 
+            "author": "Ibby Ahsani"
+        }, 
+        {
+            "date": "2015-05-09T02:32:14.252Z", 
+            "text": " Happy bday\ufeff", 
+            "author": "andrew delisle"
+        }, 
+        {
+            "date": "2015-05-08T01:15:04.072Z", 
+            "text": "How much was that I would very much like to know\ufeff", 
+            "author": "Kristian Turner"
+        }, 
+        {
+            "date": "2015-05-07T03:19:01.050Z", 
+            "text": "i want that!!!lol\ufeff", 
+            "author": "Ark Shem E. Catada"
+        }, 
+        {
+            "date": "2015-05-05T23:51:17.812Z", 
+            "text": "That song sounded sort of like nirvana's smells like teen spirit.  anyone \nelse agree?\ufeff", 
+            "author": "Theminecraftian772"
+        }, 
+        {
+            "date": "2015-05-04T17:33:08.815Z", 
+            "text": "Try snap circuits!\ufeff", 
+            "author": "A Mentally Disturbed Jacksfilms"
+        }, 
+        {
+            "date": "2015-05-03T02:19:54.732Z", 
+            "text": "hart!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! eeeerrrrrrrrrrrrrrr\ufeff", 
+            "author": "Michele Berends"
+        }, 
+        {
+            "date": "2015-05-01T10:42:13.413Z", 
+            "text": "+Grant Thompson - \"The King of Random\" you're awsome hope I got some gotta \nwish for my birth day at June 10\ufeff", 
+            "author": "Axel Sundqvist"
+        }, 
+        {
+            "date": "2015-04-29T18:27:00.133Z", 
+            "text": "i love the little bits so much and your videos\ufeff", 
+            "author": "arcelia cabrera"
+        }, 
+        {
+            "date": "2015-04-29T04:32:30.367Z", 
+            "text": "Wow can u do more on this was amazing \ufeff", 
+            "author": "Isaac Salinas"
+        }, 
+        {
+            "date": "2015-04-29T02:21:19.179Z", 
+            "text": "LittleBits are so cool\ufeff", 
+            "author": "Maiko The Wolf"
+        }, 
+        {
+            "date": "2015-04-26T20:49:37.174Z", 
+            "text": "Blaze Aguirre at 8179648996 smart home system\ufeff", 
+            "author": "Blaze Aguirre"
+        }, 
+        {
+            "date": "2015-04-24T07:45:09.819Z", 
+            "text": "I really want a win this \ufeff", 
+            "author": "Nell joseph Piocos"
+        }, 
+        {
+            "date": "2015-04-24T07:38:28.638Z", 
+            "text": "Nell joseph \ufeff", 
+            "author": "Nell joseph Piocos"
+        }, 
+        {
+            "date": "2015-04-24T00:04:18.183Z", 
+            "text": "Wait your kids watching Johnny test\ufeff", 
+            "author": "Emily Szabunia"
+        }, 
+        {
+            "date": "2015-04-20T11:50:01.158Z", 
+            "text": "", 
+            "author": "Cipriano Loreto"
+        }, 
+        {
+            "date": "2015-04-17T19:15:27.912Z", 
+            "text": "", 
+            "author": "Truongnhat Le"
+        }, 
+        {
+            "date": "2015-04-17T06:32:00.187Z", 
+            "text": "can you do a laser hack to make it burn\ufeff", 
+            "author": "Amir A"
+        }, 
+        {
+            "date": "2015-04-17T01:31:18.926Z", 
+            "text": "Is the little bits basic kit have all the pieces or do I have to get \npremium to get all pieces and if the premium has all the pieces what does \nthe premium have that the basic does not have\ufeff", 
+            "author": "Mario 64"
+        }, 
+        {
+            "date": "2015-04-16T18:07:24.788Z", 
+            "text": "Happy birthday\ufeff", 
+            "author": "Aliya Bck"
+        }, 
+        {
+            "date": "2015-04-16T09:27:10.284Z", 
+            "text": "", 
+            "author": "Aliya Bck"
+        }, 
+        {
+            "date": "2015-04-14T20:17:18.667Z", 
+            "text": "They are so expensive for something so simple\ufeff", 
+            "author": "Chaotic Impulse"
+        }, 
+        {
+            "date": "2015-04-12T04:42:53.138Z", 
+            "text": "OMG THESE ARE SO COOL I HAVE THESE i wish i hade more\ufeff", 
+            "author": "Austin Johanningmeier"
+        }, 
+        {
+            "date": "2015-04-11T22:23:08.463Z", 
+            "text": "does anyone else notice that he had a cold? XD\ufeff", 
+            "author": "O RP"
+        }, 
+        {
+            "date": "2015-04-11T13:35:51.004Z", 
+            "text": "cool vid grant thomson i relly liked it\ufeff", 
+            "author": "Brenden Washington"
+        }, 
+        {
+            "date": "2015-04-11T06:16:11.341Z", 
+            "text": "Banana \ufeff", 
+            "author": "Jayden Ybarra"
+        }, 
+        {
+            "date": "2015-04-11T00:49:29.629Z", 
+            "text": "Hi\ufeff", 
+            "author": "Emiliano Solache"
+        }, 
+        {
+            "date": "2015-04-11T00:08:32.767Z", 
+            "text": "You're really cool!\ufeff", 
+            "author": "Truongnhat Le"
+        }, 
+        {
+            "date": "2015-04-11T00:06:32.502Z", 
+            "text": "Can you send me something because in 3 days, its my birthday! Thank you!\ufeff", 
+            "author": "Truongnhat Le"
+        }, 
+        {
+            "date": "2015-04-10T06:27:39.355Z", 
+            "text": "Happy late birt day\ufeff", 
+            "author": "Lucas Orisio"
+        }, 
+        {
+            "date": "2015-04-09T12:46:27.558Z", 
+            "text": "Hi my name is Felipe and I want to be in the drawing for a little bit\ufeff", 
+            "author": "Felipe Deavila"
+        }, 
+        {
+            "date": "2015-04-08T10:39:58.571Z", 
+            "text": "Wow\n\ufeff", 
+            "author": "TheMinecraft Gamer (TheMinecraftGamer)"
+        }, 
+        {
+            "date": "2015-04-08T06:53:45.880Z", 
+            "text": "i liked all your vidssss :)\nGOODJOB!!!!\ufeff", 
+            "author": "maxbo321 1"
+        }, 
+        {
+            "date": "2015-04-07T22:09:56.397Z", 
+            "text": "My name is Bryan \ufeff", 
+            "author": "Bryan Vicens"
+        }, 
+        {
+            "date": "2015-04-07T00:47:35.477Z", 
+            "text": "Or did you pick someone yet I love biulding stuff \ufeff", 
+            "author": "Linda Kiki"
+        }, 
+        {
+            "date": "2015-04-07T00:47:00.362Z", 
+            "text": "Aspenkiki\n\ufeff", 
+            "author": "Linda Kiki"
+        }, 
+        {
+            "date": "2015-04-06T19:00:01.776Z", 
+            "text": "Nice video your the best youtuber I ever seen\ufeff", 
+            "author": "HB YouTube subjects gaming,vlogs,and more"
+        }, 
+        {
+            "date": "2015-04-06T13:57:24.562Z", 
+            "text": "where can you buy this\ufeff", 
+            "author": "Yash Grover"
+        }, 
+        {
+            "date": "2015-04-05T04:44:49.956Z", 
+            "text": "Me\ufeff", 
+            "author": "Dallas Dawkins"
+        }, 
+        {
+            "date": "2015-04-05T02:20:13.134Z", 
+            "text": "I like your videos \ufeff", 
+            "author": "Jorge Lara"
+        }, 
+        {
+            "date": "2015-04-03T10:54:14.828Z", 
+            "text": "Logan\n\ufeff", 
+            "author": "Logan tarsh"
+        }, 
+        {
+            "date": "2015-04-02T23:20:47.908Z", 
+            "text": "i like electronics video even before watching them , thanks Grant :) \ni'm waiting for more electronics a electricity video ;)\ufeff", 
+            "author": "Peace and Love"
+        }, 
+        {
+            "date": "2015-04-02T21:53:26.058Z", 
+            "text": "Amy\ufeff", 
+            "author": "Amy Dabbs"
+        }, 
+        {
+            "date": "2015-04-02T20:34:38.635Z", 
+            "text": "Oh, and HAPPY BIRTHDAY!!\ud83c\udf89\ufeff", 
+            "author": "Keira Lynn"
+        }, 
+        {
+            "date": "2015-04-02T20:32:05.228Z", 
+            "text": "I also LOVE the hidden TV sensor, great idea!\ufeff", 
+            "author": "Keira Lynn"
+        }, 
+        {
+            "date": "2015-04-02T20:31:13.236Z", 
+            "text": "Hi King of Random! Have you ever tried Makey Makey? I have one and I think \nyou would like it.\n\ufeff", 
+            "author": "Keira Lynn"
+        }, 
+        {
+            "date": "2015-04-02T08:02:35.161Z", 
+            "text": "can u help me make something like a laser glasses for a Nerf gun to get a \naccurate hit for a target and if u decided too help me thanks u\ufeff", 
+            "author": "khoo yan zhi"
+        }, 
+        {
+            "date": "2015-04-01T15:43:39.315Z", 
+            "text": "Very shocking\ufeff", 
+            "author": "Brendan Sapp"
+        }, 
+        {
+            "date": "2015-04-01T16:50:57.840Z", 
+            "text": "Nice..", 
+            "author": "Dale Sapp"
+        }, 
+        {
+            "date": "2015-04-01T15:44:04.327Z", 
+            "text": "Get it?", 
+            "author": "Brendan Sapp"
+        }, 
+        {
+            "date": "2015-04-01T06:32:26.280Z", 
+            "text": "happy birthday man\ufeff", 
+            "author": "Junia Gialogo"
+        }, 
+        {
+            "date": "2015-03-31T17:26:17.270Z", 
+            "text": "Hey, I work at Goddard!\ufeff", 
+            "author": "kbent88"
+        }, 
+        {
+            "date": "2015-03-31T11:44:47.642Z", 
+            "text": "Ive got some too... And there from my birthday\n\ufeff", 
+            "author": "guy 535353"
+        }, 
+        {
+            "date": "2015-03-31T04:36:46.605Z", 
+            "text": "Can u send me one little bits\ufeff", 
+            "author": "Nnf Fernandes"
+        }, 
+        {
+            "date": "2015-03-30T09:21:24.838Z", 
+            "text": "Happy birthday! \ud83d\ude04\ufeff", 
+            "author": "Gracie' Views"
+        }, 
+        {
+            "date": "2015-03-30T06:14:08.324Z", 
+            "text": "you're too cruel to mr. owl.. >w<\ufeff", 
+            "author": "Tatas Fachrul"
+        }, 
+        {
+            "date": "2015-03-29T06:46:02.708Z", 
+            "text": "Hey grant I love your videos how do you add words and power point slides on \nyour videos \ufeff", 
+            "author": "jose Torres"
+        }, 
+        {
+            "date": "2015-03-29T02:03:17.988Z", 
+            "text": "LittleBits prices way to high\ufeff", 
+            "author": "fung whyou"
+        }, 
+        {
+            "date": "2015-03-28T16:49:05.272Z", 
+            "text": "can you buy the matchstick  rocket kit \ufeff", 
+            "author": "Yash Grover"
+        }, 
+        {
+            "date": "2015-03-28T14:55:12.553Z", 
+            "text": "Send it here p.s.you rock!!\n\ufeff", 
+            "author": "Masen Kay"
+        }, 
+        {
+            "date": "2015-03-28T00:38:05.018Z", 
+            "text": "Why a thief should be scared of a led?\ufeff", 
+            "author": "Arcaico Raven"
+        }, 
+        {
+            "date": "2015-05-03T08:25:53.370Z", 
+            "text": "+sebast0409 An *aluminium* gun!", 
+            "author": "Stanley Palin"
+        }, 
+        {
+            "date": "2015-03-28T22:04:58.369Z", 
+            "text": "+Arcaico Raven because he knows grant is coming with a gun ;)", 
+            "author": "sebast0409"
+        }, 
+        {
+            "date": "2015-03-26T19:05:01.415Z", 
+            "text": "I like your videos!! Keep making them.....especially this ones....\ufeff", 
+            "author": "Yashmit Agarwal"
+        }, 
+        {
+            "date": "2015-03-26T03:41:14.079Z", 
+            "text": "Jose\ufeff", 
+            "author": "Jose M.  Vergarajr"
+        }, 
+        {
+            "date": "2015-03-25T12:33:35.789Z", 
+            "text": "This is not electronics it's plug n play .There is no learning ,doesn't \nexplain how they work its a expensive McDonald's toy just follow \ninstructions. I would not buy this .\nIf you want a remote sensor buy a built one\nIt would be 10x cheaper and if you go by the video you would use the whole \nkit just to send a message to ur phone \nBy a kiddy cam for a a few quid and with the money you save take them out \nor buy them a soldering iron and some components which will teach them \nsomething \nThis is a gimmick and a waste of money\ufeff", 
+            "author": "Wayne Turner"
+        }, 
+        {
+            "date": "2015-03-25T00:08:43.111Z", 
+            "text": "Happy birthday, even though this might be a little late. ;)\ufeff", 
+            "author": "X Beech"
+        }, 
+        {
+            "date": "2015-03-23T20:15:20.948Z", 
+            "text": "While looking for science fair projects my eX-y came across this. OMFG! \nSpectacular...So, nerd out with us... this is worth it.\nElectronics Projects, with LittleBits | The King of Random \n(@GrantsProjects) https://youtu.be/6fJRDjaoLIk \n#nerdsrule #Science\ufeff", 
+            "author": "Mom Of All Capes"
+        }, 
+        {
+            "date": "2015-03-22T19:28:18.650Z", 
+            "text": "Me\ufeff", 
+            "author": "garrett schoeb"
+        }, 
+        {
+            "date": "2015-03-22T13:07:48.909Z", 
+            "text": "Jobe\ufeff", 
+            "author": "Peggy Redwine"
+        }, 
+        {
+            "date": "2015-03-20T22:35:27.158Z", 
+            "text": "Can I get little bit box\ufeff", 
+            "author": "Shak Fos"
+        }, 
+        {
+            "date": "2015-03-18T11:47:01.686Z", 
+            "text": "Cool\ufeff", 
+            "author": "Enrique michael sutio"
+        }, 
+        {
+            "date": "2015-03-16T09:34:48.510Z", 
+            "text": "Bro you are a genius\ufeff", 
+            "author": "Peter Heun"
+        }, 
+        {
+            "date": "2015-03-16T06:00:39.803Z", 
+            "text": "now i want the arduino kit!\ufeff", 
+            "author": "Argonaut22j"
+        }, 
+        {
+            "date": "2015-03-16T00:03:15.828Z", 
+            "text": "Happy birthday grant\ufeff", 
+            "author": "Jake Pifher"
+        }, 
+        {
+            "date": "2015-03-15T22:30:48.573Z", 
+            "text": "How do you make it know to say something like \"Someone opened your safe.\" ?\ufeff", 
+            "author": "TheBeast iiBallotelli"
+        }, 
+        {
+            "date": "2015-03-14T22:58:14.262Z", 
+            "text": "When is your birthday Grant\ufeff", 
+            "author": "sciencenerds"
+        }, 
+        {
+            "date": "2015-03-14T15:36:41.177Z", 
+            "text": "Happy birthday\ud83d\ude03\ud83d\ude04\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ufeff", 
+            "author": "Rasmus Jacobsen"
+        }, 
+        {
+            "date": "2015-04-22T18:28:23.837Z", 
+            "text": "+Rasmus Jacobsen to you.", 
+            "author": "Monty Pig Of The Doodle Clan"
+        }, 
+        {
+            "date": "2015-03-14T07:31:53.600Z", 
+            "text": "Creating a bomb is possible with that.....\ufeff", 
+            "author": "Delta V (Muniif10)"
+        }, 
+        {
+            "date": "2015-03-14T02:50:15.172Z", 
+            "text": "Ma names Noah\ufeff", 
+            "author": "XandZerothemaverick hunters (The monkeyheads)"
+        }, 
+        {
+            "date": "2015-03-14T02:24:37.329Z", 
+            "text": "The problem is they can use the roku and you cant know because the roku \nuses Bluetooth, not infrared.\ufeff", 
+            "author": "SuparCraft"
+        }, 
+        {
+            "date": "2015-05-06T21:59:10.153Z", 
+            "text": "+Angela Busch\nAfter research it seems we are all right, all wrong, and all not wrong, and \nall not right. There are multiple remotes, some use WiFi, one uses \nBluetooth, one uses Infared. \nhttp://support.roku.com/entries/22282324-Roku-remotes-overview", 
+            "author": "SuparCraft"
+        }, 
+        {
+            "date": "2015-05-05T23:47:07.749Z", 
+            "text": "The roku remote has an infrared sensor. Any remote has an infrared sensor.", 
+            "author": "Angela Busch"
+        }, 
+        {
+            "date": "2015-04-08T00:04:34.000Z", 
+            "text": "still they wont know. But it is actually bluetooth.\n the proof is that when you start up the roku for the first time your not \nusing wifi so how could the remote connect?", 
+            "author": "SuparCraft"
+        }, 
+        {
+            "date": "2015-04-05T03:17:22.447Z", 
+            "text": "+SuparCraft it uses wifi", 
+            "author": "Tanner Aldrich"
+        }, 
+        {
+            "date": "2015-03-13T16:30:06.685Z", 
+            "text": "Can I have 1 I am a youth\ufeff", 
+            "author": "HELEN CARANTO"
+        }, 
+        {
+            "date": "2015-03-15T13:40:06.465Z", 
+            "text": "You wont get it for free kid, fuck off.", 
+            "author": "ccr12345productions"
+        }, 
+        {
+            "date": "2015-03-13T00:09:33.908Z", 
+            "text": "Happae Budday\ufeff", 
+            "author": "Ravi Patel"
+        }, 
+        {
+            "date": "2015-03-12T22:21:40.364Z", 
+            "text": "Jon michael\ufeff", 
+            "author": "Jon Michael"
+        }, 
+        {
+            "date": "2015-03-12T21:45:39.998Z", 
+            "text": "where can u get the little bits kits\ufeff", 
+            "author": "superfroggy mega"
+        }, 
+        {
+            "date": "2015-03-11T22:42:21.736Z", 
+            "text": "Me\n\ufeff", 
+            "author": "Carson Schneider"
+        }, 
+        {
+            "date": "2015-03-11T15:31:59.849Z", 
+            "text": "\"it lights up scaryng away an potentail thief\" love this guy\ufeff", 
+            "author": "MultiChannel71"
+        }, 
+        {
+            "date": "2015-03-28T22:06:37.838Z", 
+            "text": "+MultiChannel71 a light showing grant is coming with the gun :)", 
+            "author": "sebast0409"
+        }, 
+        {
+            "date": "2015-03-15T13:39:17.112Z", 
+            "text": "\"It lights scaring away any potential thief\"*", 
+            "author": "ccr12345productions"
+        }, 
+        {
+            "date": "2015-03-11T02:00:12.687Z", 
+            "text": "I want them\ufeff", 
+            "author": "MonkeyGirl Groves"
+        }, 
+        {
+            "date": "2015-03-10T16:41:21.240Z", 
+            "text": "so expensive .-.\ufeff", 
+            "author": "HerobrinePlays"
+        }, 
+        {
+            "date": "2015-03-10T02:00:14.938Z", 
+            "text": "1:04 You monster...\ufeff", 
+            "author": "Awsum Guy from the Corner"
+        }, 
+        {
+            "date": "2015-03-07T20:36:55.862Z", 
+            "text": "wow, i like \"Someone just opened your safe\". I want to buy your product, \nbut i'm in vietnam. how to buy that?\ufeff", 
+            "author": "Nguyen Huy Anh"
+        }, 
+        {
+            "date": "2015-03-24T06:12:03.832Z", 
+            "text": "", 
+            "author": "usman shahid"
+        }, 
+        {
+            "date": "2015-03-15T17:55:33.414Z", 
+            "text": "oh, thanks ! i don't hear to know  english language !!! ", 
+            "author": "Nguyen Huy Anh"
+        }, 
+        {
+            "date": "2015-03-15T13:38:03.317Z", 
+            "text": "it's not his product.", 
+            "author": "ccr12345productions"
+        }, 
+        {
+            "date": "2015-03-12T00:39:17.171Z", 
+            "text": "Hi uhhmmm probably try to go to the website", 
+            "author": "Matthew Paul"
+        }, 
+        {
+            "date": "2015-03-07T16:55:24.536Z", 
+            "text": "completely concealed!... until someone plays with it.\ufeff", 
+            "author": "Teresa Zhang"
+        }, 
+        {
+            "date": "2015-03-07T10:05:46.429Z", 
+            "text": "Ever herd of an Arduino?\ufeff", 
+            "author": "Reddy23"
+        }, 
+        {
+            "date": "2015-03-06T22:17:40.362Z", 
+            "text": "Great kits,for disable vets,but i think to exspensive for most,i would love \nto have one of your kits for hospitalize vets to see what they think.\ufeff", 
+            "author": "Ron Thompson"
+        }, 
+        {
+            "date": "2015-03-06T05:29:54.461Z", 
+            "text": "+Aarynn Stinnett \n\nNeat\ufeff", 
+            "author": "Adam Stinnett (Kinsata)"
+        }, 
+        {
+            "date": "2015-03-06T02:12:25.149Z", 
+            "text": "You killed the owl\ufeff", 
+            "author": "Codey Steuer"
+        }, 
+        {
+            "date": "2015-03-05T22:48:29.436Z", 
+            "text": "Reggie kid\n\ufeff", 
+            "author": "Claire Williams"
+        }, 
+        {
+            "date": "2015-03-03T10:23:11.172Z", 
+            "text": "What's the kit you used called?\ufeff", 
+            "author": "Zac Whitefield"
+        }, 
+        {
+            "date": "2015-03-03T10:22:40.538Z", 
+            "text": "HB!\ufeff", 
+            "author": "Zac Whitefield"
+        }, 
+        {
+            "date": "2015-03-02T18:05:07.053Z", 
+            "text": "I want to get them but there loads of money \ud83d\ude22\ufeff", 
+            "author": "aaron*savannah08 VLOGS"
+        }, 
+        {
+            "date": "2015-03-02T16:54:01.832Z", 
+            "text": "", 
+            "author": "david Antonenko"
+        }, 
+        {
+            "date": "2015-03-02T16:53:45.896Z", 
+            "text": "I could use some littlebits what do I do\ufeff", 
+            "author": "david Antonenko"
+        }
+    ]
+}

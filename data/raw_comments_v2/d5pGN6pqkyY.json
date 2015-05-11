@@ -1,0 +1,972 @@
+{
+    "publish_date": "2012-12-13T15:20:42.000Z", 
+    "video_length": "PT5M14S", 
+    "captions": [
+        {
+            "text": "In \na previous video I used a modified Microwave\nOven Transformer as an electrical metal melter.", 
+            "dur": "5.48", 
+            "start": "8.5"
+        }, 
+        {
+            "text": "In this video you&#39;ll learn step by step how\nit was made, and what I&#39;m using it for now.", 
+            "dur": "4.64", 
+            "start": "13.98"
+        }, 
+        {
+            "text": "In a previous project, I found an old microwave\nin a dumpster and hacked it open to see what", 
+            "dur": "4.04", 
+            "start": "33.92"
+        }, 
+        {
+            "text": "components I could salvage. This power transformer\nwas one of my favorites, and got used in many", 
+            "dur": "4.73", 
+            "start": "37.96"
+        }, 
+        {
+            "text": "other projects, like high voltage electrical\narcs, making a homemade stick welder, and", 
+            "dur": "5.36", 
+            "start": "42.69"
+        }, 
+        {
+            "text": "melting metal. In it&#39;s current condition,\nthe transformer produces a deadly high voltage", 
+            "dur": "4.8", 
+            "start": "48.05"
+        }, 
+        {
+            "text": "that&#39;s enough to kill a person on contact.\nBut it won&#39;t melt metal. To do that, we have", 
+            "dur": "4.5", 
+            "start": "52.85"
+        }, 
+        {
+            "text": "to modify the transformer by rewinding the\ncoils. Looking at the sides of this transformer,", 
+            "dur": "4.849", 
+            "start": "57.35"
+        }, 
+        {
+            "text": "you can see that these shallow welds are the\nonly thing holding this together. I&#39;m gonna", 
+            "dur": "3.63", 
+            "start": "62.199"
+        }, 
+        {
+            "text": "use my bench vice to secure this in place\nwith one end of the welded sides facing up,", 
+            "dur": "4.36", 
+            "start": "65.829"
+        }, 
+        {
+            "text": "and try using a hacksaw to cut it open. This\nis a fairly weak weld, and a hacksaw will", 
+            "dur": "4.801", 
+            "start": "70.189"
+        }, 
+        {
+            "text": "work, but a quick buzz with an angle grinder\nworks a lot better. Now that that&#39;s ground", 
+            "dur": "4.419", 
+            "start": "74.99"
+        }, 
+        {
+            "text": "off, a hammer and chisel can be used to crack\nthe gap and pry the pieces apart. The rest", 
+            "dur": "4.5", 
+            "start": "79.409"
+        }, 
+        {
+            "text": "can be removed by hand. With the bottom off,\nI&#39;ve got access to the 3 coils of wire wrapped", 
+            "dur": "4.57", 
+            "start": "83.909"
+        }, 
+        {
+            "text": "around the core. The top coil is the primary\nwinding and I want to take very good care", 
+            "dur": "4.28", 
+            "start": "88.479"
+        }, 
+        {
+            "text": "of that, so I&#39;ve wrapped a cloth over my chisel\nto protect it as I pry up on the winding.", 
+            "dur": "4.599", 
+            "start": "92.76"
+        }, 
+        {
+            "text": "It&#39;s in there pretty snug, but prying it slowly\nand gently from both sides gets it to the", 
+            "dur": "3.83", 
+            "start": "97.359"
+        }, 
+        {
+            "text": "point where I can put the chisels down and\npull it off by hand. These metal shunts can", 
+            "dur": "4.191", 
+            "start": "101.189"
+        }, 
+        {
+            "text": "get knocked out now, and amazingly, this is\nthe only form of current limiting this transformer", 
+            "dur": "4.14", 
+            "start": "105.38"
+        }, 
+        {
+            "text": "has. The middle coil is junk, and it all comes\nout. Then to get the secondary coil off, I&#39;m", 
+            "dur": "4.87", 
+            "start": "109.52"
+        }, 
+        {
+            "text": "setting it with the coil resting on the jaws\nof my vise, and then hitting the middle of", 
+            "dur": "3.89", 
+            "start": "114.39"
+        }, 
+        {
+            "text": "the core with a rubber hammer until the winding\nis free. This got pretty beat up, but that&#39;s", 
+            "dur": "4.509", 
+            "start": "118.28"
+        }, 
+        {
+            "text": "ok because luckily I don&#39;t need it. A chisel\nworks great for scraping off any excess paper", 
+            "dur": "4.87", 
+            "start": "122.789"
+        }, 
+        {
+            "text": "and glue stuck on the sides, and now we&#39;ve\ngot ourselves a naked transformer core. You&#39;re", 
+            "dur": "4.741", 
+            "start": "127.659"
+        }, 
+        {
+            "text": "looking at the &quot;E&quot; and &quot;I&quot; sections of the\ncore, and at this point we&#39;re ready to reinstall", 
+            "dur": "4.3", 
+            "start": "132.4"
+        }, 
+        {
+            "text": "our primary coil. This coil has about 100\nturns of insulated copper wire, and needs", 
+            "dur": "4.78", 
+            "start": "136.7"
+        }, 
+        {
+            "text": "to be replaced gently to avoid damaging it,\nor scraping the wires. That&#39;s why I&#39;m using", 
+            "dur": "4.11", 
+            "start": "141.48"
+        }, 
+        {
+            "text": "a rubber hammer so I can still get it in nice\nand tight. OK, it&#39;s looking like it&#39;s supposed", 
+            "dur": "4.39", 
+            "start": "145.59"
+        }, 
+        {
+            "text": "to, so now we can add a secondary winding\nmade from this thick 2 gauge copper cable.", 
+            "dur": "4.17", 
+            "start": "149.98"
+        }, 
+        {
+            "text": "I was lucky and got this from a scrap pile\nmy brother had at work. Looking inside, you", 
+            "dur": "4.65", 
+            "start": "154.15"
+        }, 
+        {
+            "text": "can see it&#39;s made of stranded copper wire,\ninsulated by a thick rubber coating. My brother", 
+            "dur": "4.5", 
+            "start": "158.8"
+        }, 
+        {
+            "text": "got me a heavy duty copper lug, and crimped\nit in place on the end of the cable. Next,", 
+            "dur": "4.38", 
+            "start": "163.3"
+        }, 
+        {
+            "text": "he added a little shrink-wrap to protect the\nconnection, and hit it with a heat gun to", 
+            "dur": "3.54", 
+            "start": "167.68"
+        }, 
+        {
+            "text": "shrink it down and finish it off. Alright,\nso with the cable bent in half, I can move", 
+            "dur": "4.44", 
+            "start": "171.22"
+        }, 
+        {
+            "text": "it up next to the transformer and tuck it\ndown into the gaps. The wire&#39;s so thick it&#39;s", 
+            "dur": "4.59", 
+            "start": "175.66"
+        }, 
+        {
+            "text": "a pretty tight fit and probably couldn&#39;t be\nany bigger. I&#39;m pulling one end of the cable", 
+            "dur": "4.26", 
+            "start": "180.25"
+        }, 
+        {
+            "text": "back around the transformer, and I decided\nto switch the positions of these two so that", 
+            "dur": "3.86", 
+            "start": "184.51"
+        }, 
+        {
+            "text": "it forms more of an ascending coil. Now I\ncan press the other side into place, and the", 
+            "dur": "4.78", 
+            "start": "188.37"
+        }, 
+        {
+            "text": "secondary coil is wrapped, as easy as that.\nThe last step is to put this back together.", 
+            "dur": "4.49", 
+            "start": "193.15"
+        }, 
+        {
+            "text": "I don&#39;t have anything to re-weld the seems\nI broke apart, so I&#39;m going to try using this", 
+            "dur": "4.23", 
+            "start": "197.64"
+        }, 
+        {
+            "text": "2 part epoxy glue to see if I can make it\nwork. Both the components get mixed equally,", 
+            "dur": "4.93", 
+            "start": "201.87"
+        }, 
+        {
+            "text": "then I&#39;ll add the glue to all the exposed\nsurfaces at the top here, and find a way to", 
+            "dur": "3.4", 
+            "start": "206.8"
+        }, 
+        {
+            "text": "clamp this down. It turns out my bench vise\nhas a gap wide enough to fit the entire assembly,", 
+            "dur": "4.95", 
+            "start": "210.2"
+        }, 
+        {
+            "text": "and after double checking the alignment on\nthe connection, I&#39;ll synch it up tight. I&#39;m", 
+            "dur": "4.51", 
+            "start": "215.15"
+        }, 
+        {
+            "text": "adding the leftover glue to the gaps on the\nedges and everything is looking as expected,", 
+            "dur": "3.89", 
+            "start": "219.66"
+        }, 
+        {
+            "text": "so that can be left to set. Ok, it&#39;s 2 hours\nlater, and our modification is complete! There&#39;s", 
+            "dur": "5.56", 
+            "start": "223.55"
+        }, 
+        {
+            "text": "actually no physical connection between the\ntwo coils, yet this will pump out around 800", 
+            "dur": "4.71", 
+            "start": "229.11"
+        }, 
+        {
+            "text": "amps! To bench-test the device, I&#39;m carefully\nhooking clips to both leads of the primary", 
+            "dur": "4.25", 
+            "start": "233.82"
+        }, 
+        {
+            "text": "winding, and then adding power. Using my multimeter\nI&#39;m showing just over 2 volts now, which is", 
+            "dur": "5.61", 
+            "start": "238.07"
+        }, 
+        {
+            "text": "a lot lower than the 1000 volts this used\nto throw out. But instead of putting out 1", 
+            "dur": "4.43", 
+            "start": "243.68"
+        }, 
+        {
+            "text": "amp, now I&#39;m getting closer 800!! What can\nyou do with that many amps? I thought it would", 
+            "dur": "5.1", 
+            "start": "248.11"
+        }, 
+        {
+            "text": "be fun to try melting some metal, which you\ncan see this does easily. The metal melts", 
+            "dur": "4.72", 
+            "start": "253.21"
+        }, 
+        {
+            "text": "because its not as conductive as copper wire.\nIt acts like a resistor, and heats up from", 
+            "dur": "4.63", 
+            "start": "257.93"
+        }, 
+        {
+            "text": "the electrical friction until it reaches its\nmelting point. Or until the insulation on", 
+            "dur": "4.04", 
+            "start": "262.56"
+        }, 
+        {
+            "text": "the lead wires melt and the system shorts\nout. Well not only was this a fun modification,", 
+            "dur": "4.41", 
+            "start": "266.6"
+        }, 
+        {
+            "text": "but I found a practical application for it\nin making a spot welder like this one. The", 
+            "dur": "4.76", 
+            "start": "271.01"
+        }, 
+        {
+            "text": "high current can be directed to fuse sheets\nof metal together at one precise location.", 
+            "dur": "4.38", 
+            "start": "275.77"
+        }, 
+        {
+            "text": "Look for how to make that in another project.\nWell now you know how to build the metal melter.", 
+            "dur": "5.43", 
+            "start": "280.15"
+        }, 
+        {
+            "text": "If you liked this video perhaps you&#39;ll like\nsome of my others. Check them out at www.thekingofrandom.com", 
+            "dur": "5.66", 
+            "start": "285.58"
+        }
+    ], 
+    "title": "How to Make The Metal Melter", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04t7l"
+    ], 
+    "number_views": 3762073, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-09T05:37:34.312Z", 
+            "text": "i wish he was my dad\ufeff", 
+            "author": "josh ortega"
+        }, 
+        {
+            "date": "2015-05-08T20:52:58.395Z", 
+            "text": "love it\ufeff", 
+            "author": "L_for_Landen"
+        }, 
+        {
+            "date": "2015-05-07T05:29:29.878Z", 
+            "text": "I like this guys mindset.\ufeff", 
+            "author": "Tyler Andrews"
+        }, 
+        {
+            "date": "2015-05-04T12:22:23.699Z", 
+            "text": "This is perfect. Thank you!!\ufeff", 
+            "author": "Todd Olson"
+        }, 
+        {
+            "date": "2015-05-04T08:10:51.264Z", 
+            "text": "Arizona \ufeff", 
+            "author": "jeremy Johnson"
+        }, 
+        {
+            "date": "2015-05-04T03:36:04.780Z", 
+            "text": "What's the duty on the copper wire\ufeff", 
+            "author": "Robert lockhurst"
+        }, 
+        {
+            "date": "2015-05-03T21:26:01.397Z", 
+            "text": "Wonder how many people have electrocuted themselves or received 3rd degree \nburns trying this??\ufeff", 
+            "author": "jdj62464"
+        }, 
+        {
+            "date": "2015-05-03T07:44:15.289Z", 
+            "text": "lol im a kid and i dismounted the microwave all my self and didn't even get \nshocked or hurt and it got out with a hammer and screwdriver the reason i \nused a hammer because it has a screw i couldn't open and btw its super \nheavy\ufeff", 
+            "author": "Geometry Beast"
+        }, 
+        {
+            "date": "2015-05-02T23:26:14.926Z", 
+            "text": "When I tried to do it the microwave transformer was making a buzzing sound \nis that supposed to happen? Please help me. \ufeff", 
+            "author": "Joel Alvarez"
+        }, 
+        {
+            "date": "2015-05-01T13:56:07.218Z", 
+            "text": "Oh my GOD i love your vids so MUCH!!!\ufeff", 
+            "author": "Evan V"
+        }, 
+        {
+            "date": "2015-04-30T07:45:09.435Z", 
+            "text": "i dont see a transformer there, there are no robots in the video. a bit \ndisappointing\ufeff", 
+            "author": "Raka Gunawan"
+        }, 
+        {
+            "date": "2015-04-29T18:04:17.047Z", 
+            "text": "wonder how many idiots have died trying this out LOL\ufeff", 
+            "author": "RUTGERMORTENSEN"
+        }, 
+        {
+            "date": "2015-04-29T03:00:20.566Z", 
+            "text": "Dude why would you want this if it can kill someone\n\ufeff", 
+            "author": "taylor richard"
+        }, 
+        {
+            "date": "2015-05-08T10:06:16.523Z", 
+            "text": "Rekt.", 
+            "author": "XfG"
+        }, 
+        {
+            "date": "2015-04-30T22:44:03.475Z", 
+            "text": "+taylor richard to melt scrap metals into weapons that can kill you and \ncreate generators and other devices to relax at my home and enjoy killing a \nuseless dumbass like you.", 
+            "author": "anothaview"
+        }, 
+        {
+            "date": "2015-04-27T21:28:08.746Z", 
+            "text": "r u cops?\ufeff", 
+            "author": "El Vinel Halilagic"
+        }, 
+        {
+            "date": "2015-04-27T19:53:21.917Z", 
+            "text": "Can you put your finger on the wire ends?.. We have spot welders at work \nand there is no danger touching the electrodes while welding.. \nI don't know how they are buildt.. If its the same thing.. Bot ours are a \nlot bigger ;)\ufeff", 
+            "author": "Workshop projects"
+        }, 
+        {
+            "date": "2015-04-27T00:17:27.359Z", 
+            "text": "guys Too dangerous for kids.\ufeff", 
+            "author": "koojadoo"
+        }, 
+        {
+            "date": "2015-04-27T00:11:33.231Z", 
+            "text": "Hmmm, must run in the family \ufeff", 
+            "author": "Grace Maplegem"
+        }, 
+        {
+            "date": "2015-04-24T06:17:58.236Z", 
+            "text": "Easily my favorite Youtuber!\ufeff", 
+            "author": "YYC650CC"
+        }, 
+        {
+            "date": "2015-04-23T22:51:01.395Z", 
+            "text": "Christ! That WILL kill you if you make it. Be careful please kids.\ufeff", 
+            "author": "Josh Pickles"
+        }, 
+        {
+            "date": "2015-04-23T19:19:57.400Z", 
+            "text": "", 
+            "author": "clint b"
+        }, 
+        {
+            "date": "2015-04-23T06:55:08.453Z", 
+            "text": "Don't do this at home. It's EXTREMLY dangerous!\ufeff", 
+            "author": "TheZeyon"
+        }, 
+        {
+            "date": "2015-04-23T02:50:15.617Z", 
+            "text": "make more cool wapones\ufeff", 
+            "author": "Ashot \u201cAsshot the 1st\u201d Avanesyan"
+        }, 
+        {
+            "date": "2015-04-23T02:41:27.505Z", 
+            "text": "This is just awesome I keep watching this because it's just an awesome \ntutorial I would love to see other microwave transformers being used for \nthis to see different ones outputs and dissambly. Would you make a video \nusing this to pump it to some 316L stainless steel plates for HHO to see \nhow much you can produce with a basic tube setup of them.\ufeff", 
+            "author": "Gabriel Heredia"
+        }, 
+        {
+            "date": "2015-04-22T13:42:41.655Z", 
+            "text": "try adding dubstep  music or electro\ufeff", 
+            "author": "A . F . Kgamezone"
+        }, 
+        {
+            "date": "2015-04-21T23:05:50.488Z", 
+            "text": "when you put the secondary big thick coil on, will it still do the arc \nthing showed at 0:44 in the video?\ufeff", 
+            "author": "james alexander (redstonedcreeper)"
+        }, 
+        {
+            "date": "2015-04-21T09:45:25.884Z", 
+            "text": "If the new coil was insulated and had no physical connection how did you \nget a current?\ufeff", 
+            "author": "bibity74"
+        }, 
+        {
+            "date": "2015-04-18T17:19:12.839Z", 
+            "text": "that glue makes it less effective. better veld it\ufeff", 
+            "author": "IT- Master"
+        }, 
+        {
+            "date": "2015-04-17T16:07:42.552Z", 
+            "text": "I tried this experiment. Then I woke up.\ufeff", 
+            "author": "n1u2t3z4"
+        }, 
+        {
+            "date": "2015-04-11T21:12:34.134Z", 
+            "text": "It's always cool to find someone on YouTube that should have been a \nmythbuster.\ufeff", 
+            "author": "The Florida Guy"
+        }, 
+        {
+            "date": "2015-04-11T01:22:26.987Z", 
+            "text": "Can I use this to melt any fool who dare stand in my way of world \ndomination?\ufeff", 
+            "author": "Dark0nix"
+        }, 
+        {
+            "date": "2015-04-10T23:30:46.756Z", 
+            "text": "Great Video\ufeff", 
+            "author": "Earth's Organic"
+        }, 
+        {
+            "date": "2015-04-04T16:02:05.181Z", 
+            "text": "Ey dude what do u do for a living? Or does youtube make u enough money to \nlive off?\ufeff", 
+            "author": "smartcow360"
+        }, 
+        {
+            "date": "2015-04-03T23:28:41.634Z", 
+            "text": "i bet he is the little brother\ufeff", 
+            "author": "Ian Harper"
+        }, 
+        {
+            "date": "2015-04-02T02:06:32.494Z", 
+            "text": "Wait why was he in the dumpster \ufeff", 
+            "author": "Carlos Mendoza"
+        }, 
+        {
+            "date": "2015-04-01T19:31:57.786Z", 
+            "text": "In a zombie apocalypse I want you in my team\ufeff", 
+            "author": "02denis02"
+        }, 
+        {
+            "date": "2015-03-31T23:05:40.815Z", 
+            "text": "Jet fuel can't melt steel beems\ufeff", 
+            "author": "EliteGaming"
+        }, 
+        {
+            "date": "2015-03-31T22:32:04.162Z", 
+            "text": "Because everyone obviously has all these tools ready to use\ufeff", 
+            "author": "Jaetpack"
+        }, 
+        {
+            "date": "2015-04-01T01:50:58.176Z", 
+            "text": "+Jaetpack not like he's forcing you to make it", 
+            "author": "MrBoswerjr"
+        }, 
+        {
+            "date": "2015-03-30T01:52:56.557Z", 
+            "text": "GOD REVEALS SECRETS ,FROM AIR SUN WATER METAL GRASS ,WE HAVE \nENERGY,ALLELUIA  ,WORLD LETS MAKE IT WORK,\ufeff", 
+            "author": "LOVE GOD"
+        }, 
+        {
+            "date": "2015-03-29T19:18:01.046Z", 
+            "text": "I love the okay at 2:02\ufeff", 
+            "author": "Jaslyn Hugli"
+        }, 
+        {
+            "date": "2015-03-29T03:38:45.468Z", 
+            "text": "I wonder why they're called the E and I sections...\ufeff", 
+            "author": "DJ BroniX"
+        }, 
+        {
+            "date": "2015-03-27T23:10:33.630Z", 
+            "text": "So it's like just an AA battery, except the source is infinite and it makes \nother stuff heat up, but it can make anything conductive go to melting \npoint in just a bit. OKAY!\ufeff", 
+            "author": "Noorquacker Ind."
+        }, 
+        {
+            "date": "2015-03-27T21:28:29.900Z", 
+            "text": "me and my brother tried building this he got and electric shock and got his \nbrain fried. Thats fine tho i didnt like that son of a bitch anyways\ufeff", 
+            "author": "Isak p\u00e5lsson"
+        }, 
+        {
+            "date": "2015-03-27T16:35:26.051Z", 
+            "text": "Two questions.\n\n1) How long can you use this setup before the heavy copper wire insulation \nburns off?\n\n2) How can you prevent this from happening?\ufeff", 
+            "author": "NightScrawler1"
+        }, 
+        {
+            "date": "2015-03-25T16:51:41.446Z", 
+            "text": "I'd be to scared of that if I had one xD\ufeff", 
+            "author": "Buak Buak"
+        }, 
+        {
+            "date": "2015-03-25T09:03:49.439Z", 
+            "text": "Don't try this at home...\n\n\n\n\nTry it at school instead\ufeff", 
+            "author": "Your Stalker!"
+        }, 
+        {
+            "date": "2015-03-24T20:01:43.433Z", 
+            "text": "will it work with 230 Volts?\ufeff", 
+            "author": "Sloven\u0161\u010dina K"
+        }, 
+        {
+            "date": "2015-03-23T06:34:24.168Z", 
+            "text": "Is there a way to control the amount of amps coming out of the transformer \nwithout changing the 2 gauge cable? I'm afraid 800amps for smaller spot \nwelds would be too much...\ufeff", 
+            "author": "Truth Be Told"
+        }, 
+        {
+            "date": "2015-03-22T20:32:54.395Z", 
+            "text": "This is Caleb. I made one of these and mine makes a loud humming noise, is \nthat normal?\ufeff", 
+            "author": "Kirsten McGinnis"
+        }, 
+        {
+            "date": "2015-03-22T10:46:12.809Z", 
+            "text": "before i go anyfuther into this video, it is illegal to modify a microwave \nand magnetron...just a random thing i learned lol\ufeff", 
+            "author": "MindFood"
+        }, 
+        {
+            "date": "2015-03-21T10:56:02.060Z", 
+            "text": "If I made this in Australia where there is 240volts coming from the power \npoint, would it still be safe or would i need a transformer???\nPlease someone answer\ufeff", 
+            "author": "Timothy 1"
+        }, 
+        {
+            "date": "2015-03-20T19:03:43.063Z", 
+            "text": "I always thought microwaves emit radiation :/ is that a different part of \nit or something? \ufeff", 
+            "author": "eh dollet"
+        }, 
+        {
+            "date": "2015-04-03T01:38:15.970Z", 
+            "text": "+Leestons ahh, thanks :)", 
+            "author": "eh dollet"
+        }, 
+        {
+            "date": "2015-04-02T21:39:46.935Z", 
+            "text": "+eh dollet Yep :) The transformer is the thing that powers that part.", 
+            "author": "Leestons"
+        }, 
+        {
+            "date": "2015-03-19T10:10:39.342Z", 
+            "text": "How to Make The Metal Melter\ufeff", 
+            "author": "ShadowGuy"
+        }, 
+        {
+            "date": "2015-03-18T13:19:28.079Z", 
+            "text": "4:10 what you came here for.. >:)\ufeff", 
+            "author": "Fletcher"
+        }, 
+        {
+            "date": "2015-03-17T02:08:25.794Z", 
+            "text": "I home made spot welder? That's badass\ufeff", 
+            "author": "longshorebeef"
+        }, 
+        {
+            "date": "2015-03-16T15:43:13.981Z", 
+            "text": "S-S-So...are you telling me I could possibly make a sword now!!\ufeff", 
+            "author": "Sonta Yoshii"
+        }, 
+        {
+            "date": "2015-03-16T05:16:56.068Z", 
+            "text": "why did you make fire with pee\ufeff", 
+            "author": "Farano Lebe"
+        }, 
+        {
+            "date": "2015-03-14T10:07:41.897Z", 
+            "text": "MICROWAVE FUEL CANT MELT STEAL BEAMS\ufeff", 
+            "author": "Marnus van Lille"
+        }, 
+        {
+            "date": "2015-03-14T02:41:41.676Z", 
+            "text": "i tried taking one apart and scared up the coil a bit, will it still work ?\ufeff", 
+            "author": "zach carl"
+        }, 
+        {
+            "date": "2015-03-30T06:46:53.196Z", 
+            "text": "+zach carl he probs tot it was instagram", 
+            "author": "HomelessLoner"
+        }, 
+        {
+            "date": "2015-03-15T02:01:38.868Z", 
+            "text": "+DeMo64738 how do you post a pic on here ? in the comment section ?", 
+            "author": "zach carl"
+        }, 
+        {
+            "date": "2015-03-14T18:23:15.975Z", 
+            "text": "Can you post a pic?", 
+            "author": "DeMo64738"
+        }, 
+        {
+            "date": "2015-03-13T21:07:09.236Z", 
+            "text": "can you try to melt magnets??\ufeff", 
+            "author": "icaromc"
+        }, 
+        {
+            "date": "2015-03-13T14:02:31.419Z", 
+            "text": "so wait u could kill yourself in micro secs with this? NOPE NOPE NOPE NOPE \nNOPE SO MUCH NOPE\ufeff", 
+            "author": "Le epic Troll"
+        }, 
+        {
+            "date": "2015-03-13T07:13:55.744Z", 
+            "text": "And can i melt steel with this\ufeff", 
+            "author": "Alex Bounmiswang"
+        }, 
+        {
+            "date": "2015-03-13T07:12:00.951Z", 
+            "text": "In your electric arc furnace can you be killed by the current as well?\n\ufeff", 
+            "author": "Alex Bounmiswang"
+        }, 
+        {
+            "date": "2015-03-13T05:11:37.308Z", 
+            "text": "You really need to put a disclaimer on this video. Only certified \ntechnicians should open a microwave. There are some seriously deadly \ncomponents inside a microwave. Touch the wrong part and it can kill you \ninstantly. Like a capacitor inside a AC unit, the capacitors inside a \nmicrowave are much deadlier. Is deadlier even a word? But seriously a \nmicrowave is the hardest appliance to repair and there's a reason there are \ntechnicians trained for these repairs. I enjoyed the video and see you give \nwarnings for the experiment, but please put a disclaimer up for people that \nopening a microwave is not safe. Ive been in residential maintenance and \nrepairs for a long time, not once at any company do we allow maintenance \ntechs to open or work on a microwave, only certified techs. Cover your butt \nfor this as well, they are nothing to play around with and no one should \nopen one under any circumstance unless they know what they are doing. \ufeff", 
+            "author": "Jason Evans"
+        }, 
+        {
+            "date": "2015-04-28T00:27:19.998Z", 
+            "text": "Lol, I'm 10 and I did this", 
+            "author": "aryan khatri"
+        }, 
+        {
+            "date": "2015-03-12T23:08:46.350Z", 
+            "text": "Your an a whole for saying that\ufeff", 
+            "author": "Trego Triplett"
+        }, 
+        {
+            "date": "2015-03-11T20:42:20.232Z", 
+            "text": "im sorry ... but voltage don't kill... current does...\ufeff", 
+            "author": "Lars Birger Bergm\u00e5l (LBB)"
+        }, 
+        {
+            "date": "2015-03-10T23:03:54.833Z", 
+            "text": "This is a death machine. Im pretty sure over 50% of people will die trying \nto make it.\ufeff", 
+            "author": "Icky Spliff"
+        }, 
+        {
+            "date": "2015-03-10T22:16:23.213Z", 
+            "text": "you should make a video of how to make a knife\ufeff", 
+            "author": "Ely ovalle"
+        }, 
+        {
+            "date": "2015-03-09T14:24:31.192Z", 
+            "text": "I doubt from all the videos he s made noone has ever died attempting one of \nthe expiriements. i think its impossible that's not the case\ufeff", 
+            "author": "Stelios Ktenios"
+        }, 
+        {
+            "date": "2015-03-09T14:19:40.485Z", 
+            "text": "that primary coil is aluminum.\ufeff", 
+            "author": "imatelly"
+        }, 
+        {
+            "date": "2015-03-09T13:28:39.450Z", 
+            "text": "Might as well just build this in the hospital parking lot. It will save a \nlot of time for the paramedics when they have to cut off my hand because of \nsevere 3rd degree burns.\ufeff", 
+            "author": "ReplaceInkCartridges"
+        }, 
+        {
+            "date": "2015-03-09T00:24:13.779Z", 
+            "text": "", 
+            "author": "kim hetrick"
+        }, 
+        {
+            "date": "2015-03-08T23:52:06.233Z", 
+            "text": "Why this WONT kill you......with the low voltage it creates, it won't be \nable to apply all 800 amps of current through your skin, due to the natural \nresistance of your skin. Between DRY fingertips, there is roughly 300-500 \nkohms (300,000-500,000 ohms) of resistance. Now according to ohms law, the \namount of amperage is equal to the voltage divided by the resistance...so \nsince we know this creates 2 volts, if you were to touch this with dry \nhands or wet hands which are about 100 kohms of resistance, regardless of \nthe 800 amps, the resistance of the body would only allow 1/250,000 of an \namp to pass through you which you wouldn't even feel. it takes a minimum of \n1 miliamp (.001 or 1/1000 amps) to throw off your heartbeat and kill you \nand that's if you hold onto both leads with seperate hands. \n\nWhy this WILL kill you......if he held the bare metal of anything, say two \nscrews in separate hands, then touched those two screws to the two separate \nleads, it would lower the resistance of his body to extremely low levels, \nroughly 500 ohms, thus allowing more current through. 2/500 = 4 miliamps, \nwhich still on a scale isn't a ton of power, the metal of whatever you were \nholding onto would get extremely hot though because there is a lot more \npower passing through it due to it's resistance being around 1 ohm. If it \nwasn't AC voltage and passing through your heart, it probably wouldn't kill \nyou. For example, DC voltage takes 30 mA to be considered deadly. \ufeff", 
+            "author": "Austin Piper"
+        }, 
+        {
+            "date": "2015-03-08T05:59:29.251Z", 
+            "text": "How did he get the alligator clips from the primary coil into a plug into \nthe power bar?\ufeff", 
+            "author": "Jonn Ballehr"
+        }, 
+        {
+            "date": "2015-03-08T03:09:19.840Z", 
+            "text": "What dose your brother do for a living \ufeff", 
+            "author": "The Super Snorlax"
+        }, 
+        {
+            "date": "2015-03-07T20:27:30.506Z", 
+            "text": "Any idea how to make this last longer? I have an old microwave and would \nlike to use it to do this, but instead of just playing with it like this I \nwant to use it to heat up the metal I use to forge knives and horseshoes. I \nfigure it is more cost effective than the gas forge I have. Any ideas?\ufeff", 
+            "author": "ERprepper"
+        }, 
+        {
+            "date": "2015-03-06T19:05:23.749Z", 
+            "text": "Most complicated suicide ever.\ufeff", 
+            "author": "Mark EM"
+        }, 
+        {
+            "date": "2015-04-16T20:07:04.909Z", 
+            "text": "+Mark EM Most complicated comment ever. Oh w8 m8 les r8 8/8 for tis vide8. \nx3", 
+            "author": "TheMan OfFNAF"
+        }, 
+        {
+            "date": "2015-03-19T07:04:50.315Z", 
+            "text": "Made me chuckle dude, good stuff.", 
+            "author": "David Ridout"
+        }, 
+        {
+            "date": "2015-03-13T14:03:13.016Z", 
+            "text": "LOL", 
+            "author": "Le epic Troll"
+        }, 
+        {
+            "date": "2015-03-06T00:29:48.971Z", 
+            "text": "Humm it did not work\ud83d\ude40\ufeff", 
+            "author": "Jessie Porter"
+        }, 
+        {
+            "date": "2015-03-05T17:26:55.603Z", 
+            "text": "So good man you're amazing dude\ufeff", 
+            "author": "\u202b\u0628\u063a\u062f\u0627\u062f \u0627\u0644\u0631\u0634\u064a\u062f\u202c\u200e"
+        }, 
+        {
+            "date": "2015-03-05T14:11:08.770Z", 
+            "text": "lol that looks cool but id rather pay the 80bux n get a cheap stick welder \ufeff", 
+            "author": "ironlungdtoker"
+        }, 
+        {
+            "date": "2015-03-05T00:38:11.783Z", 
+            "text": "Wonder if you can heat a  metal so much that it glows blue!! Now that will \nbe random and difficult!\ufeff", 
+            "author": "Kenny Carter"
+        }, 
+        {
+            "date": "2015-03-04T17:36:24.897Z", 
+            "text": "muy util\ufeff", 
+            "author": "ivan pe\u00f1a"
+        }, 
+        {
+            "date": "2015-03-03T04:32:09.145Z", 
+            "text": "How to Make The Metal Melter: http://youtu.be/d5pGN6pqkyY\ufeff", 
+            "author": "Janie Banuelos"
+        }, 
+        {
+            "date": "2015-03-02T20:50:10.198Z", 
+            "text": "Still, voltage doesnt kill Grant.. it's the current\ufeff", 
+            "author": "Northstrm"
+        }, 
+        {
+            "date": "2015-03-01T23:04:18.618Z", 
+            "text": "This sounds incredibly dangerous....\ufeff", 
+            "author": "alex barmash"
+        }, 
+        {
+            "date": "2015-03-16T19:22:58.199Z", 
+            "text": "+alex barmash It's not enough to kill.", 
+            "author": "Henrik Lastname"
+        }, 
+        {
+            "date": "2015-03-13T21:17:59.395Z", 
+            "text": "Have fun playing with enough electricity to kill you dickhead.", 
+            "author": "alex barmash"
+        }, 
+        {
+            "date": "2015-03-13T21:13:52.180Z", 
+            "text": "You sound incredibly ignorant.", 
+            "author": "Flint Beastwood"
+        }, 
+        {
+            "date": "2015-03-01T19:30:03.601Z", 
+            "text": "i don't get how this works, electricity goes into a coil, is amplified, and \nthen comes out of another coil with absolutely no connection? am i missing \nsomething?\ufeff", 
+            "author": "Evan Bohlman"
+        }, 
+        {
+            "date": "2015-03-01T15:18:29.702Z", 
+            "text": "No one is going to build that\ufeff", 
+            "author": "Innovation"
+        }, 
+        {
+            "date": "2015-02-28T09:15:15.525Z", 
+            "text": "It's actually not amps or voltage that kills people. Death does!\ufeff", 
+            "author": "Divvy"
+        }, 
+        {
+            "date": "2015-02-27T10:00:59.016Z", 
+            "text": "How hot is the heat to melt those metal nails so easily ?\ufeff", 
+            "author": "tsuneo ando"
+        }, 
+        {
+            "date": "2015-02-28T23:11:28.297Z", 
+            "text": "ca. 1538 degree Celcius", 
+            "author": "fritzcat1997"
+        }, 
+        {
+            "date": "2015-02-26T23:11:52.185Z", 
+            "text": "Yeah don't try it at home...Try it outside.\ufeff", 
+            "author": "Dadax9398"
+        }, 
+        {
+            "date": "2015-02-25T20:14:36.152Z", 
+            "text": "Ttansformers can only change voltage or current not power and frequency. \nThe output will hav low current n high voltage. Currents above 40mA will \nonly kill u. Voltage has no role in electric death.. \ufeff", 
+            "author": "Gopikrishnan A"
+        }, 
+        {
+            "date": "2015-02-25T09:41:17.368Z", 
+            "text": "Anyone else slightly terrified by this? I honestly would never attempt to \nbuild anything like this without a proper grounding (!) in how electricity \nworks. I swear I would kill myself if I attempted to make one of these.\ufeff", 
+            "author": "SethHesio"
+        }, 
+        {
+            "date": "2015-04-25T19:00:52.973Z", 
+            "text": "+Jonathan Lewis In this case, amps cant even touch u, because the voltage \nis low (its a perfect example of a shourt circuit of a TR). You need \nVOLTAGE to cause the current for flow.  If the terminals have wire sticking \nout the breaks the skin, the RESISTANCE is lowered and it takes less \nvoltage to get a killing current. Most dangerous and most common path is \nthrough the hart, arm to arm, or arm to leg. (try to change a lightthub \nstanding on your bouth feet). Amount of current:\nPerception - tingling - about 1mA, Let-go currents - about 1...6mA, \nPainful, difficult to release energized objects - 9...25mA\nMuscular contractions, breathing difficult - 25...60mA, Ventricular \nfibrillation - 60...100mA....\nBasically the 50V is roughly 80% of 60V, which is the lowest documented \n\"lethal\" voltage. There have been fatalities involved with voltages below \n60V. however they have not been proven to be the actual cause of death. \nPERIOD! (sorry for bad english)", 
+            "author": "Inline Macedonia"
+        }, 
+        {
+            "date": "2015-04-25T16:24:32.137Z", 
+            "text": "+Inline Macedonia you must be a waste management engineer because you know \nnothing of electricity, current (amps) is what kills you and then even that \nvaries greatly depending upon the course it travels through you body. 1/ \n1000 of an amp can kill you ear to ear", 
+            "author": "Jonathan Lewis"
+        }, 
+        {
+            "date": "2015-04-23T20:04:41.633Z", 
+            "text": "+Jaco Cronje Lol :D What have i said wrong ?", 
+            "author": "Inline Macedonia"
+        }, 
+        {
+            "date": "2015-04-23T19:58:25.440Z", 
+            "text": "+Inline Macedonia you just failed the test. lol", 
+            "author": "Jaco Cronje"
+        }, 
+        {
+            "date": "2015-03-23T11:49:19.859Z", 
+            "text": "+MaeLSTRoM1997 Bro, english isnt my native language. And voltage is the one \nkilling u! Trust me im an engineer", 
+            "author": "Inline Macedonia"
+        }, 
+        {
+            "date": "2015-03-21T07:27:54.189Z", 
+            "text": "+Inline Macedonia No, Currency doesn't kill. Current does. ;)", 
+            "author": "MaeLSTRoM1997"
+        }, 
+        {
+            "date": "2015-03-19T21:13:05.341Z", 
+            "text": "+Inline Macedonia No there's a 110 volts. This was made in the US", 
+            "author": "Carsten Svendsen"
+        }, 
+        {
+            "date": "2015-03-09T00:18:27.000Z", 
+            "text": "Humans body has 1000om resistence in general. Curency is not what kills u, \nvotlage does. U see on the secondary coil he measured 2 volts. Thats not \ndangerous. But 35 Volts and 800 amps might kill u :D Try not to touch the \nprimary coil (that one he took out of the microwave) because there s 230V \nof phase voltage. ", 
+            "author": "Inline Macedonia"
+        }, 
+        {
+            "date": "2015-02-24T22:11:46.260Z", 
+            "text": "That music though\ufeff", 
+            "author": "David Evans"
+        }, 
+        {
+            "date": "2015-02-24T18:45:29.694Z", 
+            "text": "This DO IT YOURSELF video should come with a DON'T TRY THIS AT HOME \nwarning.\ufeff", 
+            "author": "Arif Kazi"
+        }, 
+        {
+            "date": "2015-04-04T10:39:34.434Z", 
+            "text": "+Arif Kazi okay dont try this at home. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nill do it by my friend lel", 
+            "author": "Justin Horst"
+        }, 
+        {
+            "date": "2015-04-03T16:30:38.874Z", 
+            "text": "+Arif Kazi Look closer. In the description: WARNING: \nBurning galvanized metal may release toxic Zinc Oxide fumes. This project \nis extremely dangerous and >>>>>>>>>>>>>>should not be attempted without \nadult supervision and adequate training<<<<<<<<<<. Misuse, or careless use, \nof tools or projects may result in severe electric shock, cardiac arrest, \nserious injury, permanent damage to equipment and property, and/or death. \nUse of this video content is at your own risk.", 
+            "author": "Doggy Rampage"
+        }, 
+        {
+            "date": "2015-03-17T04:42:11.108Z", 
+            "text": "I think he has that for kids watching the video, although youre right. Its \na bit ironic.", 
+            "author": "MandyPandy 089"
+        }, 
+        {
+            "date": "2015-02-24T06:49:59.366Z", 
+            "text": "thats cool but in the philippines the microwave is very very expensive\ufeff", 
+            "author": "Jacob Mirador"
+        }, 
+        {
+            "date": "2015-02-21T08:10:19.967Z", 
+            "text": "what reason you need to melt metal ?^^\ufeff", 
+            "author": "Mega man"
+        }, 
+        {
+            "date": "2015-04-16T20:07:46.366Z", 
+            "text": "+Bill Blakely Yes. No? Yes.", 
+            "author": "TheMan OfFNAF"
+        }, 
+        {
+            "date": "2015-03-08T23:05:59.070Z", 
+            "text": "You use it to make a plasma rifle for Sarah Connor.", 
+            "author": "Bill  Blakely"
+        }, 
+        {
+            "date": "2015-03-04T21:19:12.692Z", 
+            "text": "Do you really even need a reason?!", 
+            "author": "suspectsn0thing"
+        }, 
+        {
+            "date": "2015-02-22T17:22:51.776Z", 
+            "text": "Crafts and projects obviously", 
+            "author": "PaperWeaponry"
+        }, 
+        {
+            "date": "2015-02-21T07:18:18.616Z", 
+            "text": "You've basically made an arc welder. Your increased the voltage and \ncompleting a circuit thats it. You could've used a car battery.\ufeff", 
+            "author": "goes withit"
+        }, 
+        {
+            "date": "2015-02-25T23:42:05.523Z", 
+            "text": "+PaperWeaponry\nI would like to know as well. ", 
+            "author": "bugattikid2012"
+        }, 
+        {
+            "date": "2015-02-22T17:23:26.263Z", 
+            "text": "He said that volts decreased, but amps increased. How does that work?", 
+            "author": "PaperWeaponry"
+        }, 
+        {
+            "date": "2015-02-20T20:27:20.502Z", 
+            "text": "What happens if I touch it?\ufeff", 
+            "author": "Anton Helsgaun"
+        }, 
+        {
+            "date": "2015-02-18T06:20:02.302Z", 
+            "text": "HIS VOICE IS SO DIFFERENT\ufeff", 
+            "author": "Allen \u201cPoker1059\u201d Wilson"
+        }, 
+        {
+            "date": "2015-02-18T03:02:50.116Z", 
+            "text": "2 gauge is how many mm?\ufeff", 
+            "author": "Possum-Productions nz"
+        }
+    ]
+}

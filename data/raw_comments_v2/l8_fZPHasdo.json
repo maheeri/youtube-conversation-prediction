@@ -1,0 +1,962 @@
+{
+    "publish_date": "2013-01-08T16:27:12.000Z", 
+    "video_length": "PT3M44S", 
+    "captions": [
+        {
+            "text": "You might have heard that light is a kind of wave", 
+            "dur": "2.119", 
+            "start": "15.33"
+        }, 
+        {
+            "text": "and that the color of an object", 
+            "dur": "1.498", 
+            "start": "17.449"
+        }, 
+        {
+            "text": "is related to the frequency of light waves it reflects.", 
+            "dur": "3.186", 
+            "start": "18.947"
+        }, 
+        {
+            "text": "High-frequency light waves look violet,", 
+            "dur": "2.083", 
+            "start": "22.133"
+        }, 
+        {
+            "text": "low-frequency light waves look red,", 
+            "dur": "1.803", 
+            "start": "24.216"
+        }, 
+        {
+            "text": "and in-between frequencies look yellow,", 
+            "dur": "1.912", 
+            "start": "26.019"
+        }, 
+        {
+            "text": "green,", 
+            "dur": "0.452", 
+            "start": "27.931"
+        }, 
+        {
+            "text": "orange,", 
+            "dur": "0.637", 
+            "start": "28.383"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.642", 
+            "start": "29.02"
+        }, 
+        {
+            "text": "You might call this idea physical color", 
+            "dur": "2.326", 
+            "start": "30.662"
+        }, 
+        {
+            "text": "because it says that color is a physical property of light itself.", 
+            "dur": "3.689", 
+            "start": "32.988"
+        }, 
+        {
+            "text": "It&#39;s not dependent on human perception.", 
+            "dur": "2.408", 
+            "start": "36.677"
+        }, 
+        {
+            "text": "And, while this isn&#39;t wrong,", 
+            "dur": "2.16", 
+            "start": "39.085"
+        }, 
+        {
+            "text": "it isn&#39;t quite the whole story either.", 
+            "dur": "2.503", 
+            "start": "41.245"
+        }, 
+        {
+            "text": "For instance, you might have seen this picture before.", 
+            "dur": "3.574", 
+            "start": "43.748"
+        }, 
+        {
+            "text": "As you can see, the region where the red and green lights overlap is yellow.", 
+            "dur": "4.459", 
+            "start": "47.322"
+        }, 
+        {
+            "text": "When you think about it, this is pretty weird.", 
+            "dur": "2.375", 
+            "start": "51.781"
+        }, 
+        {
+            "text": "Because light is a wave, two different frequencies", 
+            "dur": "2.577", 
+            "start": "54.156"
+        }, 
+        {
+            "text": "shouldn&#39;t interact with each other at all,", 
+            "dur": "2.162", 
+            "start": "56.733"
+        }, 
+        {
+            "text": "they should just co-exist", 
+            "dur": "1.317", 
+            "start": "58.895"
+        }, 
+        {
+            "text": "like singers singing in harmony.", 
+            "dur": "2.256", 
+            "start": "60.212"
+        }, 
+        {
+            "text": "So, in this yellow looking region,", 
+            "dur": "2.033", 
+            "start": "62.468"
+        }, 
+        {
+            "text": "two different kinds of light waves are present:", 
+            "dur": "2.871", 
+            "start": "64.501"
+        }, 
+        {
+            "text": "one with a red frequency,", 
+            "dur": "1.535", 
+            "start": "67.372"
+        }, 
+        {
+            "text": "and one with a green frequency.", 
+            "dur": "1.76", 
+            "start": "68.907"
+        }, 
+        {
+            "text": "There is no yellow light present at all.", 
+            "dur": "2.455", 
+            "start": "70.667"
+        }, 
+        {
+            "text": "So, how come this region,", 
+            "dur": "1.351", 
+            "start": "73.122"
+        }, 
+        {
+            "text": "where the red and green lights mix,", 
+            "dur": "2.147", 
+            "start": "74.473"
+        }, 
+        {
+            "text": "looks yellow to us?", 
+            "dur": "1.922", 
+            "start": "76.62"
+        }, 
+        {
+            "text": "To understand this, you have to understand a little bit about biology,", 
+            "dur": "3.512", 
+            "start": "78.542"
+        }, 
+        {
+            "text": "in particular, about how humans see color.", 
+            "dur": "3.077", 
+            "start": "82.054"
+        }, 
+        {
+            "text": "Light perception happens in a paper-thin layer of cells,", 
+            "dur": "3.332", 
+            "start": "85.131"
+        }, 
+        {
+            "text": "called the retina,", 
+            "dur": "0.959", 
+            "start": "88.463"
+        }, 
+        {
+            "text": "that covers the back of your eyeball.", 
+            "dur": "2.25", 
+            "start": "89.422"
+        }, 
+        {
+            "text": "In the retina, there are two different types of light-detecting cells:", 
+            "dur": "3.86", 
+            "start": "91.672"
+        }, 
+        {
+            "text": "rods and cones.", 
+            "dur": "2.323", 
+            "start": "95.532"
+        }, 
+        {
+            "text": "The rods are used for seeing in low-light conditions,", 
+            "dur": "2.582", 
+            "start": "97.855"
+        }, 
+        {
+            "text": "and there is only one kind of those.", 
+            "dur": "2.243", 
+            "start": "100.437"
+        }, 
+        {
+            "text": "The cones, however, are a different story.", 
+            "dur": "2.992", 
+            "start": "102.68"
+        }, 
+        {
+            "text": "There three kinds of cone cells that roughly correspond", 
+            "dur": "2.312", 
+            "start": "105.672"
+        }, 
+        {
+            "text": "to the colors red,", 
+            "dur": "1.354", 
+            "start": "107.984"
+        }, 
+        {
+            "text": "green,", 
+            "dur": "0.486", 
+            "start": "109.338"
+        }, 
+        {
+            "text": "and blue.", 
+            "dur": "1.494", 
+            "start": "109.824"
+        }, 
+        {
+            "text": "When you see a color,", 
+            "dur": "1.616", 
+            "start": "111.318"
+        }, 
+        {
+            "text": "each cone sends its own distinct signal to your brain.", 
+            "dur": "3.824", 
+            "start": "112.934"
+        }, 
+        {
+            "text": "For example, suppose that yellow light,", 
+            "dur": "2.227", 
+            "start": "116.758"
+        }, 
+        {
+            "text": "that is real yellow light, with a yellow frequency,", 
+            "dur": "2.563", 
+            "start": "118.985"
+        }, 
+        {
+            "text": "is shining on your eye.", 
+            "dur": "1.607", 
+            "start": "121.548"
+        }, 
+        {
+            "text": "You don&#39;t have a cone specifically for detecting yellow,", 
+            "dur": "2.897", 
+            "start": "123.155"
+        }, 
+        {
+            "text": "but yellow is kind of close to green", 
+            "dur": "2.036", 
+            "start": "126.052"
+        }, 
+        {
+            "text": "and also kind of close to red,", 
+            "dur": "1.465", 
+            "start": "128.088"
+        }, 
+        {
+            "text": "so both the red and green cones get activated,", 
+            "dur": "2.599", 
+            "start": "129.553"
+        }, 
+        {
+            "text": "and each sends a signal to your brain saying so.", 
+            "dur": "4.027", 
+            "start": "132.152"
+        }, 
+        {
+            "text": "Of course, there is another way to activate", 
+            "dur": "1.966", 
+            "start": "136.179"
+        }, 
+        {
+            "text": "the red cones and the green cones simultaneously:", 
+            "dur": "2.997", 
+            "start": "138.145"
+        }, 
+        {
+            "text": "if both red light and green light are present at the same time.", 
+            "dur": "3.6", 
+            "start": "141.142"
+        }, 
+        {
+            "text": "The point is, your brain receives the same signal,", 
+            "dur": "3.378", 
+            "start": "144.742"
+        }, 
+        {
+            "text": "regardless of whether you see light that has the yellow frequency", 
+            "dur": "3.522", 
+            "start": "148.12"
+        }, 
+        {
+            "text": "or light that is a mixture of the green and red frequencies.", 
+            "dur": "3.547", 
+            "start": "151.642"
+        }, 
+        {
+            "text": "That&#39;s why, for light, red plus green equals yellow.", 
+            "dur": "4.139", 
+            "start": "155.189"
+        }, 
+        {
+            "text": "And, how come you can&#39;t detect colors when it&#39;s dark?", 
+            "dur": "3.453", 
+            "start": "159.328"
+        }, 
+        {
+            "text": "Well, the rod cells in your retina take over", 
+            "dur": "2.579", 
+            "start": "162.781"
+        }, 
+        {
+            "text": "in low-light conditions.", 
+            "dur": "1.627", 
+            "start": "165.36"
+        }, 
+        {
+            "text": "You only have one kind of rod cell,", 
+            "dur": "2.002", 
+            "start": "166.987"
+        }, 
+        {
+            "text": "and so there is one type of signal", 
+            "dur": "1.987", 
+            "start": "168.989"
+        }, 
+        {
+            "text": "that can get sent to your brain:", 
+            "dur": "1.622", 
+            "start": "170.976"
+        }, 
+        {
+            "text": "light or no light.", 
+            "dur": "1.993", 
+            "start": "172.598"
+        }, 
+        {
+            "text": "Having only one kind of light detector", 
+            "dur": "2.468", 
+            "start": "174.591"
+        }, 
+        {
+            "text": "doesn&#39;t leave any room for seeing color.", 
+            "dur": "2.654", 
+            "start": "177.059"
+        }, 
+        {
+            "text": "There are infinitely many different physical colors,", 
+            "dur": "2.409", 
+            "start": "179.713"
+        }, 
+        {
+            "text": "but, because we only have three kinds of cones,", 
+            "dur": "2.708", 
+            "start": "182.122"
+        }, 
+        {
+            "text": "the brain can be tricked into thinking it&#39;s seeing any color", 
+            "dur": "2.914", 
+            "start": "184.83"
+        }, 
+        {
+            "text": "by carefully adding together the right combination", 
+            "dur": "3.069", 
+            "start": "187.744"
+        }, 
+        {
+            "text": "of just three colors:", 
+            "dur": "1.606", 
+            "start": "190.813"
+        }, 
+        {
+            "text": "red, green, and blue.", 
+            "dur": "1.646", 
+            "start": "192.419"
+        }, 
+        {
+            "text": "This property of human vision is really useful in the real world.", 
+            "dur": "3.724", 
+            "start": "194.065"
+        }, 
+        {
+            "text": "For example, TV manufacturing.", 
+            "dur": "2.29", 
+            "start": "197.789"
+        }, 
+        {
+            "text": "Instead of having to put infinitely many colors in your TV set", 
+            "dur": "3.077", 
+            "start": "200.079"
+        }, 
+        {
+            "text": "to simulate the real world,", 
+            "dur": "1.444", 
+            "start": "203.156"
+        }, 
+        {
+            "text": "TV manufacturers only have to put three:", 
+            "dur": "2.554", 
+            "start": "204.6"
+        }, 
+        {
+            "text": "red, green, and blue,", 
+            "dur": "2.137", 
+            "start": "207.154"
+        }, 
+        {
+            "text": "which is lucky for them, really.", 
+            "dur": "2.323", 
+            "start": "209.291"
+        }
+    ], 
+    "title": "How we see color - Colm Kelleher", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/01sdr", 
+        "/m/01s337"
+    ], 
+<<<<<<< HEAD
+    "number_views": 159978, 
+=======
+    "number_views": 160011, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-03-20T02:22:39.401Z", 
+            "text": "How come every time i see this weird black them like a shadow like it \nflashes. Hard to explail but ya\ufeff", 
+            "author": "marisol alaniz"
+        }, 
+        {
+            "date": "2015-03-16T01:31:08.780Z", 
+            "text": "YOU ROCK SOCKS\ufeff", 
+            "author": "S.T Zed"
+        }, 
+        {
+            "date": "2015-03-06T23:33:48.380Z", 
+            "text": "Im sure that narrator is 100% from Australia ! :D\ufeff", 
+            "author": "Default IG"
+        }, 
+        {
+            "date": "2015-04-29T09:54:58.615Z", 
+            "text": "+Default IG He's Irish.", 
+            "author": "HorridDave"
+        }, 
+        {
+            "date": "2015-03-06T15:22:45.642Z", 
+            "text": "#SSCconsiglia #TEDEd \"How we see #color\"\nDopo #TheDress non vuoi sapere come l'#occhio percepisce i colori?\ufeff", 
+            "author": "Scuola Superiore di Catania"
+        }, 
+        {
+            "date": "2014-12-18T18:05:36.891Z", 
+            "text": "so its true that we only see 3 colors \ufeff", 
+            "author": "wolfgang15425"
+        }, 
+        {
+            "date": "2015-03-07T19:28:08.000Z", 
+            "text": "We have three types of cones, colour receptors in our retina, in the back \nof our eye. Each type of cone is optimally sensitive to a certain \nwavelength/colour, but when they're are not being optimally activated, they \nare still being activated to some degree. So we have the ability to \nsee/perceive a range of colours, not just three.", 
+            "author": "Riley Roe"
+        }, 
+        {
+            "date": "2014-12-14T13:37:01.945Z", 
+            "text": "Tolles Video, sehr Informativ", 
+            "author": "Frank B."
+        }, 
+        {
+            "date": "2014-11-28T20:42:11.223Z", 
+            "text": "This lesson is profoundly mistaken. \"There are no colors in the \nwavelengths,\" as Newton himself said. Color exists in the brain. If color \nwere dependent on wavelength, then the color of objects would change \nconstantly given that                  illumination changes moment to \nmoment. The Young-Helmholz theory that Kelleher erroneously promotes cannot \nexplaikn either color constancy or color shadows, two fundamental problems \nin vision science that have produced shelves of book.\n   But \"An object is red because it reflects more red wavelengths\" is soo \noff base that it isn't even wrong.\ufeff", 
+            "author": "Richard E. Cytowic"
+        }, 
+        {
+            "date": "2015-04-03T16:44:00.073Z", 
+            "text": "+Rock Anderson You describe the age-old problems of color constancy and \ncolored shadows. But you are mistaken that a certain wavelength of light \nwill be \"green.\" I refer to Edwin Land's Retinex theory. Human color vision \nis not wavelength-dependent, as many clinical studies have shown. If it \nwere, then the colors of objects would change moment to moment as the \nillumination varied. Some patients with V4 lesions do in fact have \nremaining color vision that IS wavelength-dependent. And they show marked \nabnormalaties in color perception as expected.", 
+            "author": "Richard E. Cytowic"
+        }, 
+        {
+            "date": "2015-04-03T09:08:39.341Z", 
+            "text": "We understand that objects can change color based on illumination.  If I \nshine a white light on an object, I get a color.  If I shine a red light on \nan object, I can get a different color.  A green laser emits 532nm \nwavelength electromagnetic radiation.  But, if I was talking about color, I \nmight say it has a green frequency even though we both know it's 532nm \nfrequency electromagnetic radiation.\nThe color we perceive is dependent upon the frequencies of light striking \nour cones and our brains perception of these signals.\n\nRemember the old saw..\"if a tree fell and no one was there to hear it, did \nit make a sound?\"  Perhaps a better question would be..\"is there color \nwithout a brain to perceive it?  In other words, color is not a fundamental \ncharacter of an object as it only exists when we look upon it.  Newton was \nright.", 
+            "author": "Rock Anderson"
+        }, 
+        {
+            "date": "2014-10-04T20:20:12.854Z", 
+            "text": "His voice drives me crazy!\ufeff", 
+            "author": "Kyle Gailey"
+        }, 
+        {
+            "date": "2014-08-04T09:42:03.652Z", 
+            "text": "Question- why dose that happen\ufeff", 
+            "author": "Phoenix Fire"
+        }, 
+        {
+            "date": "2014-08-04T09:40:53.971Z", 
+            "text": "I have a question when I'm in.my room in the dark I look at the sealing and \nthen colors start to appear like the dark starts to have a color change \nlike in a picture where you change it to a shade of green blue etc. I see \nthe darkness become green or red or blue or become pinch black when it's \njust the same. Can you answer.my.question please\ufeff", 
+            "author": "Phoenix Fire"
+        }, 
+        {
+            "date": "2015-03-14T10:46:05.584Z", 
+            "text": "+Tumbolisu Vsauce knows nothing, he talks a lot of nonsense.", 
+            "author": "Memori Remov"
+        }, 
+        {
+            "date": "2014-09-23T16:39:12.307Z", 
+            "text": "I give up. Too many videos.", 
+            "author": "Tumbolisu"
+        }, 
+        {
+            "date": "2014-09-23T15:27:19.229Z", 
+            "text": "I remember a VSauce video talking about that for a second. I'm gonna try \nfinding it.", 
+            "author": "Tumbolisu"
+        }, 
+        {
+            "date": "2014-05-26T06:34:22.978Z", 
+            "text": "Guillermo Gonz\u00e1lez Camarena was the mexican inventor that made the first \ncolor TV :) .\ufeff", 
+            "author": "Javier Reyna"
+        }, 
+        {
+            "date": "2014-04-05T15:44:24.024Z", 
+            "text": "", 
+            "author": "Mario Padron"
+        }, 
+        {
+            "date": "2014-03-05T10:42:34.019Z", 
+            "text": "A tiny bit of education to start your day.\ufeff", 
+            "author": "Tom Webster (SamuraiLink3)"
+        }, 
+        {
+            "date": "2014-02-11T22:30:10.366Z", 
+            "text": "thank you for presentation.\ufeff", 
+            "author": "Goz David"
+        }, 
+        {
+            "date": "2014-01-23T02:00:10.217Z", 
+            "text": "But those red, green and blue phosphors on a TV screen cannot trick your \neye into seeing true violet.  Magenta (pinkish purple) is the best that can \ndo.  So no TV images have violet parts.\ufeff", 
+            "author": "jpopelish"
+        }, 
+        {
+            "date": "2013-12-10T08:33:52.352Z", 
+            "text": "Light has no colors. It's the brain that makes colors and no one knows how \nit does that. The same goes for all the other senses. How does the brain \nmake sound out of varying air pressure? No one knows.\ufeff", 
+            "author": "Dan Jacob"
+        }, 
+        {
+            "date": "2015-01-22T21:05:12.303Z", 
+            "text": "Ofcourse light has no colors. But light comes in a range of frequencies and \neach frequency arouses the photoreceptors of the eye in different levels. \nWhat we perceive as color is made by our brain.", 
+            "author": "Manos Seferidis"
+        }, 
+        {
+            "date": "2013-11-29T19:22:09.652Z", 
+            "text": "First I always think the natural world is beautiful. But in a way, the act \nof us learning something is just as beautiful\ufeff", 
+            "author": "Danial Quek"
+        }, 
+        {
+            "date": "2013-11-25T21:44:23.733Z", 
+            "text": "this fascinating! but then I started to wonder... what if someone \ngenetically engineered a people with retina cone cells for other light \nwaves? like ultraviolet or radio waves. would those guys think the rest of \nus color blind? and how might their perception of color be different from \nours?  Makes you think doesn't it?\ufeff", 
+            "author": "Nathan Ricard"
+        }, 
+        {
+            "date": "2013-11-24T08:47:20.037Z", 
+            "text": "Interesting\ufeff", 
+            "author": "Nicole Kaylor"
+        }, 
+        {
+            "date": "2013-11-01T10:03:01.923Z", 
+            "text": "I\u2019m displeased. My brother lives above me. I\u2019m displeased because he just \ngot excellent at seducing all women. The guy went to the Master Attraction \nwebsite (Google it) by Jake Ayres. Now I hear him bringing girls back. He\u2019s \ncontinually pulling chicks back and I can\u2019t help but hear it, which is \nyucky and If only he had not discovered that site. My good friend just \nsigned up and got a blowjob a week later.", 
+            "author": "Aasamapto2"
+        }, 
+        {
+            "date": "2013-10-26T14:19:54.353Z", 
+            "text": "I think it's the same thing of how blind people who never see a light, \ncould 'see' or experience the same with directly stimulates the brain \nregion responsible for that. Because of how the brain functions don't \nreside only on a very specific region, it's likely that the region \nresponsible for seeing colors being shared with other functions. So I don't \nthink it will develop into not being able to see colors at all by not using \nit in not seeing colors. ", 
+            "author": "Vrijman"
+        }, 
+        {
+            "date": "2013-10-24T01:00:39.903Z", 
+            "text": "i dont know about you guys, but that last statement was fucking \nincredible...", 
+            "author": "1y9b9b"
+        }, 
+        {
+            "date": "2013-10-19T09:52:37.101Z", 
+            "text": "Is he Canadian?", 
+            "author": "Adam Stockton"
+        }, 
+        {
+            "date": "2013-10-09T10:55:03.773Z", 
+            "text": "You know that infuriating occasion when your close friend (who's been a \nloser permanently, I've gotta tell you) gets a beautiful girl to fall in \nlove with him in like a couple of weeks? Yeah, that basically happened. I \nam aware I ought to be happy but I would rather it to be me. He stated he \nlearned from the Cupid Love System (Search in Google for it). I would like \nto hide out inside a cave at present...", 
+            "author": "sabita basnet"
+        }, 
+        {
+            "date": "2013-09-23T03:47:56.285Z", 
+            "text": "Cool video on how we see color from TED Ed\ufeff", 
+            "author": "Sara Lowder"
+        }, 
+        {
+            "date": "2013-08-28T20:35:40.189Z", 
+            "text": "Thank you. Do you know of any article or research on the topic specific to \nmy question? I think I saw somthing on the brain being formed diferently \nbased upon usage of organs throughout animal growth since birth. Is it \npossible that the brain may not form \"color stimulus\"? \nhubel.med.harvard.edu/papers/HubelWiesel1964NaunynSchmiedebergsArchExpPatholPharmakol.pdf \nthis is what I found", 
+            "author": "Cair Vazio"
+        }, 
+        {
+            "date": "2013-08-28T15:43:38.553Z", 
+            "text": "someone didn't pay attention!", 
+            "author": "The Top 100 AMVs of all time!"
+        }, 
+        {
+            "date": "2013-08-23T22:29:51.489Z", 
+            "text": "Yes there is. In this video, he said in his irish accent specifically that \nyellow light existed, just that we didn't directly detect it. Pink, on the \nother hand, does not actually exist. It's just everything that isn't green.", 
+            "author": "Tragono"
+        }, 
+        {
+            "date": "2013-08-23T22:27:04.939Z", 
+            "text": "Well, if it's just their eyes then there would be no reason you can't give \nthe brain signals that eyes would normally give, because the brain would \nstill be set up properly to recognize visual data. There are a lot of types \nof blindness, it's a very diverse thing.", 
+            "author": "Tragono"
+        }, 
+        {
+            "date": "2013-08-23T16:48:33.421Z", 
+            "text": "Can a person born without eyes see color through neural stimulation? ", 
+            "author": "Cair Vazio"
+        }, 
+        {
+            "date": "2013-08-23T16:46:11.912Z", 
+            "text": "so? ", 
+            "author": "Cair Vazio"
+        }, 
+        {
+            "date": "2013-08-19T01:37:32.536Z", 
+            "text": "true that is the eye deeps the oposite of it that is the 3 primary colors, \nenergys, lights, are in the space, ciano, magenta and yellow, :)", 
+            "author": "Water life"
+        }, 
+        {
+            "date": "2013-07-23T04:01:57.685Z", 
+            "text": "is colour blind people lack of one cone? they can only see yellow and blue, \nbut human eye has red, green and blue cones instead. how does it work?", 
+            "author": "Ru Hui Kam"
+        }, 
+        {
+            "date": "2013-07-09T20:54:19.318Z", 
+            "text": "This video should be titled 'How We See Kelleher' by Colm Kelleher.", 
+            "author": "Cameron Gagnon"
+        }, 
+        {
+            "date": "2013-07-08T07:20:14.357Z", 
+            "text": "Actually just like yellow, there is no such color as pink.", 
+            "author": "bomba6ko"
+        }, 
+        {
+            "date": "2013-06-01T16:35:26.602Z", 
+            "text": "I found that really helpful. I stumbled upon this because my friend evolved \ninto a lady-magnet - and he's obese He began getting girls overnight. I was \nstunned. He acted like it was standard for a little bit. He then smiled and \ntold me while he was wasted. Turns out he uses the Jake Ayres Master \nAttraction Formula. Google it if you'd like to learn about it... He's \nseeing a beauty... ", 
+            "author": "jambang garis"
+        }, 
+        {
+            "date": "2013-05-17T17:33:13.497Z", 
+            "text": "WOOT!", 
+            "author": "Ada Creates"
+        }, 
+        {
+            "date": "2013-05-08T22:41:28.459Z", 
+            "text": "This channel should be called TEDucation, not TEDeducation.", 
+            "author": "Numbnoone"
+        }, 
+        {
+            "date": "2013-04-27T11:18:17.645Z", 
+            "text": "Wow. Even yellow light isn't yellow.", 
+            "author": "L00NGB00W"
+        }, 
+        {
+            "date": "2013-04-25T00:34:36.281Z", 
+            "text": "Thats not yellow - vsaurce The \"cancelling\" only happens to waves of the \nsame frequency and opposite phases (not amplitudes, amplitude is always \npositive by definition). So waves of the same or very close frequencies do \n\"interact\" with each other (scientifically speaking, they make an \ninterference pattern), but waves of different frequencies propagate mostly \nindependently from one another. See Wikipedia page on Interference", 
+            "author": "JJ George"
+        }, 
+        {
+            "date": "2013-04-24T15:37:36.128Z", 
+            "text": "what about pink?", 
+            "author": "jojo johnson"
+        }, 
+        {
+            "date": "2013-04-20T02:10:21.403Z", 
+            "text": "the frequency of light waves don't have colors - they are just frequencies. \nIt is only when they stimulate the cones in our retina that we \"see\" color.", 
+            "author": "SSJ5Goton"
+        }, 
+        {
+            "date": "2013-04-06T11:28:31.086Z", 
+            "text": "", 
+            "author": "andr\u00e9s de hoz"
+        }, 
+        {
+            "date": "2013-03-27T07:48:07.358Z", 
+            "text": "ROY G. BIV one way to remember visible spectrum", 
+            "author": "JZoidberg"
+        }, 
+        {
+            "date": "2013-03-19T18:42:50.348Z", 
+            "text": "The \"cancelling\" only happens to waves of the same frequency and opposite \nphases (not amplitudes, amplitude is always positive by definition). So \nwaves of the same or very close frequencies do \"interact\" with each other \n(scientifically speaking, they make an interference pattern), but waves of \ndifferent frequencies propagate mostly independently from one another. See \nwikipedia page on Interference.", 
+            "author": "QuantumSong"
+        }, 
+        {
+            "date": "2013-03-16T14:18:00.958Z", 
+            "text": "No superposition is a theory that when you aren't looking at something it \nexist in all states in nature. Just look up scrodiger's cat.", 
+            "author": "Hexbuggaming"
+        }, 
+        {
+            "date": "2013-03-13T06:01:33.879Z", 
+            "text": "Superposition? I thought superposition was when an electron occupied many \nplaces at once. I think the word you're looking for is \"destructive \ninterference\"", 
+            "author": "paraiks"
+        }, 
+        {
+            "date": "2013-03-13T03:11:20.088Z", 
+            "text": "People who are color blind can only see shades of gray. They should be \nthankful that their rod cells are working otherwise they would be blind all \ntogether. If you know someone like this please tell them to take very good \ncare of their eyes and always wear protection on them when working around \nhazardous materials or going out into the bright sun.", 
+            "author": "Mark Henry"
+        }, 
+        {
+            "date": "2013-03-11T15:04:40.594Z", 
+            "text": "Learn how your eyes see colour\nhttp://youtu.be/l8_fZPHasdo\ufeff", 
+            "author": "Ian Farrow"
+        }, 
+        {
+            "date": "2013-03-01T20:10:28.787Z", 
+            "text": "", 
+            "author": "Yaser Alraddadi"
+        }, 
+        {
+            "date": "2013-03-01T17:20:23.457Z", 
+            "text": "How we see color - Colm Kelleher\ufeff", 
+            "author": "Lee Midi"
+        }, 
+        {
+            "date": "2013-03-01T12:33:36.039Z", 
+            "text": "vsauce", 
+            "author": "GCupfishball"
+        }, 
+        {
+            "date": "2013-03-01T02:02:24.514Z", 
+            "text": "", 
+            "author": "Aalok Trivedi"
+        }, 
+        {
+            "date": "2013-02-24T04:27:23.486Z", 
+            "text": "What about people who are colorblind", 
+            "author": "Talon Krummelwalter"
+        }, 
+        {
+            "date": "2013-02-16T06:44:00.640Z", 
+            "text": ".... u missed \"different frequencies\". Noise cancellation works with waves \nof the same freq with a pi rad phase shift.", 
+            "author": "angrymoth2"
+        }, 
+        {
+            "date": "2013-02-15T23:36:18.976Z", 
+            "text": "The yellow is actually just red and green pixels close to eachother to \nactivate both of the cones at once. ", 
+            "author": "Love1War"
+        }, 
+        {
+            "date": "2013-02-11T16:08:02.414Z", 
+            "text": "", 
+            "author": "\u0411\u0438\u043b\u0458\u0430\u043d\u0430 \u0422\u0430\u043b\u0435\u0432\u0441\u043a\u0430"
+        }, 
+        {
+            "date": "2013-02-10T04:04:59.841Z", 
+            "text": "You talk like the cucumber from veggie tales! Haha", 
+            "author": "Felix Barrera"
+        }, 
+        {
+            "date": "2013-02-06T03:48:16.550Z", 
+            "text": "Why is he called Pizza?", 
+            "author": "Username"
+        }, 
+        {
+            "date": "2013-02-01T18:20:49.660Z", 
+            "text": "I'm a little confused? Red, *Yellow, and Blue are primary colors in art. \nThat is when painting, coloring, and so on. But, here the colors we see are \na mixture of Red, *Green, and Blue. After some research I have come to \nrealize this is the truth, but why is it not Red, *Yellow, and Blue. After \nall, Yellow and Blue paints mixed creates different shades of Green... I've \nnever thought of Red and Green as coming together and creating shades of \nYellow?", 
+            "author": "Nate Shoe"
+        }, 
+        {
+            "date": "2013-01-31T23:57:11.322Z", 
+            "text": "Instead of writing a wall of text, I'll just tell you that you have to go \nstudy some physics (in particular; quantum physics). Your argument is \nflawed but also contradictive.", 
+            "author": "Nicolas Essipova"
+        }, 
+        {
+            "date": "2013-01-31T15:50:07.695Z", 
+            "text": "is colm irish?", 
+            "author": "MinecraftCreeper97"
+        }, 
+        {
+            "date": "2013-01-30T08:55:54.600Z", 
+            "text": "xperia p has white pixel on the screen :)", 
+            "author": "KirkSaysYes"
+        }, 
+        {
+            "date": "2013-01-23T16:08:35.408Z", 
+            "text": "Primary colors (magenta, yellow, cyan) work by removing light from a white \nsubstrate (a piece of paper). So when you paint cyan on a white surface you \nare actually removing the red light from the paper. Google: Subtractive \ncolor theory", 
+            "author": "German Silva"
+        }, 
+        {
+            "date": "2013-01-23T02:37:09.147Z", 
+            "text": "Sharp TVs have Red,Green,Blue,and Yellow for somereason.", 
+            "author": "MarlonBitoy"
+        }, 
+        {
+            "date": "2013-01-20T22:16:11.719Z", 
+            "text": "\"There is no such thing as pink.\" I disagree. There is such a thing as pink \n- it is just white light with the absence of green (or red combined with \nblue). Arguing that there is no pink is like arguing that there is no \nblack. There is, because we have experienced and named that concept, even \nthough there may not be a single wavelength of light associated with that \ncolor.", 
+            "author": "Yingsta8"
+        }, 
+        {
+            "date": "2013-01-20T19:35:31.223Z", 
+            "text": "Thanks! ", 
+            "author": "frida schuldt"
+        }, 
+        {
+            "date": "2013-01-20T06:36:28.362Z", 
+            "text": "Sometimes when you shake your head at computers and other digital stuff you \ncan see red, green, and blue.", 
+            "author": "Guru of Random"
+        }, 
+        {
+            "date": "2013-01-20T01:49:25.455Z", 
+            "text": "Thank you! I was about to tell Smith something myself but then I saw your \ncomment. You actually said more than what I was about to x)", 
+            "author": "Kibari2600"
+        }, 
+        {
+            "date": "2013-01-19T17:18:41.064Z", 
+            "text": "", 
+            "author": "Saurabh Patil"
+        }, 
+        {
+            "date": "2013-01-19T06:27:50.931Z", 
+            "text": "11 colour-blind people disagree with this video.", 
+            "author": "DungeonFreak"
+        }, 
+        {
+            "date": "2013-01-19T00:26:06.802Z", 
+            "text": "Ahhh. Okay the way it was presented in this confused me to an extant. \nThanks:)", 
+            "author": "monkgot45"
+        }, 
+        {
+            "date": "2013-01-16T06:59:02.150Z", 
+            "text": "Thats not yellow - vsaurce", 
+            "author": "PandaNoName"
+        }, 
+        {
+            "date": "2013-01-15T21:38:08.528Z", 
+            "text": "You do not disagree with that. You quoted \"frequencies\", but retorted with \n\"amplitudes\". It is weird that the \"pink\" wave length does not exist, but \nthe color does. Since color is just perception of our striate cortex, no \ncolor actually exists in a physical sense.", 
+            "author": "Valentin Dinu"
+        }, 
+        {
+            "date": "2013-01-15T20:36:29.449Z", 
+            "text": "RGB is an additive color system, where the colors combine together at the \nsame time. Red blue and yellow form the basis of a subtractive color \nsystem. Each dye works by absorbing colors, but reflecting a certain \nfrequency well in order to give it its color. When you combine them, the \ntwo dyes each absorb some of each others frequencies, which causes them to \nreduce the strength of the two. The primary colors in each are really \ndetermined by several things and I don't have room here for it.", 
+            "author": "Umbrall"
+        }, 
+        {
+            "date": "2013-01-15T13:47:23.857Z", 
+            "text": "You're totally right.", 
+            "author": "Randal Z"
+        }, 
+        {
+            "date": "2013-01-14T23:41:57.127Z", 
+            "text": "the color wheel in the vid is based on combining light, which combines \ndifferently than pigments/materials... why? because pigments REFLECT light..", 
+            "author": "DjDedan"
+        }, 
+        {
+            "date": "2013-01-14T23:39:04.036Z", 
+            "text": "it's kinda of misleading, we are seeing different values of 3 major colors, \nand our brain than constructs this into millions of colors, for example \nr=100, g = 50, b = 0 is different than r=50, g=50, b=0... (r meaning red, g \nmeaning green and b is blue)... what's amazing is that some reptiles \nactually see w/ 4 components (r,g,b + 1 more) - they would think our vision \nwas very colorless, much like we think of sepia tone, grey scale and other \nmonotone imaging paradigms...", 
+            "author": "DjDedan"
+        }, 
+        {
+            "date": "2013-01-14T12:45:58.417Z", 
+            "text": "Wouldn't noise cancellation require both waves to have the same frequency? \nSo that, like you said, the opposite amplitudes coincide. This gets me \nthinking though: If waves of diff frequencies superpose, then shouldn't we \nalways just see one resultant wave? Rather than seeing discrete colors and \nobjects, shouldn't we just see one \"final\" wave as given by the \nsuperposition formula?", 
+            "author": "indebtanup"
+        }, 
+        {
+            "date": "2013-01-14T03:02:46.033Z", 
+            "text": "WHY ?", 
+            "author": "Gustavo Lorenzoni"
+        }, 
+        {
+            "date": "2013-01-13T14:16:33.020Z", 
+            "text": "Incase you didn't know, It's interesting.\ufeff", 
+            "author": "Lesley Wilson"
+        }, 
+        {
+            "date": "2013-01-13T16:28:16.542Z", 
+            "text": "I knew, but it's still interesting. :)", 
+            "author": "Jay Bryant"
+        }, 
+        {
+            "date": "2013-01-13T12:39:56.469Z", 
+            "text": "how can i find more about this combination the brain does, whats the name \nof this phenomena ? I have heard of this no pink thing but i would like to \nknow thesicence that makes it", 
+            "author": "Carlos Alberto R"
+        }, 
+        {
+            "date": "2013-01-13T10:15:44.865Z", 
+            "text": "How does our brain understand the colors\n\nEnjoy\ufeff", 
+            "author": "Omar GT"
+        }, 
+        {
+            "date": "2013-01-13T08:51:42.101Z", 
+            "text": "Incase you didn't know, It's interesting.\ufeff", 
+            "author": "Daniel Young"
+        }, 
+        {
+            "date": "2013-01-12T18:48:19.481Z", 
+            "text": "So we are seeing only 3 colours? Interesting...", 
+            "author": "Shanti Keighery"
+        }, 
+        {
+            "date": "2013-01-12T17:31:48.337Z", 
+            "text": "Isn't it also true that our eyes sense light in a completely different way \nthan our ears sense sound? Superposition doesn't occur in audition because \nthe waves \"interact with each other\", they merely interact with the eardrum \nin such precise opposition as to not procude vibration in the eardrum.", 
+            "author": "bombydruful"
+        }, 
+        {
+            "date": "2013-01-12T14:12:52.005Z", 
+            "text": "You disagree with the statement that \"two different frequencies shouldn't \ninteract at all\" yet give as a counterexample the case when \"two waves of \nopposite amplitude coincide\" to produce noise cancellation. Opposite \namplitude yes, but they need to be of the SAME FREQUENCY for it to work. \nThe man in the video is wholly correct.", 
+            "author": "melancholiac"
+        }, 
+        {
+            "date": "2013-01-12T12:51:19.935Z", 
+            "text": "that colour wheel is based in art not light", 
+            "author": "bluebillbo"
+        }, 
+        {
+            "date": "2013-01-11T19:13:38.059Z", 
+            "text": "\u0424\u0443\u043d\u043a\u0446\u0438\u044f \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430? \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0434\u043b\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0430\u0431\u0441\u0442\u0440\u0430\u043a\u0442\u043d\u043e\u0433\u043e \u043c\u044b\u0448\u043b\u0435\u043d\u0438\u044f. \u0424\u0443\u043d\u043a\u0446\u0438\u044f \n\u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0438? \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0434\u043b\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043c\u044b\u0441\u043b\u0438. \u0424\u0443\u043d\u043a\u0446\u0438\u044f \u0434\u0440\u0443\u0433 \u043e\u0442 \u0434\u0440\u0443\u0433\u0430? \n\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 Hybrid. \u041d\u0430\u0443\u043a\u0430 \u043d\u0443\u0436\u0434\u0430\u0435\u0442\u0441\u044f \u0432 \u043e\u0431\u043e\u0438\u0445.", 
+            "author": "TheBelmontClan"
+        }, 
+        {
+            "date": "2013-01-11T16:28:08.955Z", 
+            "text": "Well actually. red and green make a brown color while blue and yellow make \ngreen. isn't that like elementary stuff where you can't make primary colors \nand yellow is a primary color?", 
+            "author": "Beau Shishido"
+        }, 
+        {
+            "date": "2013-01-11T16:01:58.304Z", 
+            "text": "", 
+            "author": "Abhilash D"
+        }, 
+        {
+            "date": "2013-01-11T12:20:33.308Z", 
+            "text": "oh... yeah :( I know those.. thanks for helping me with the definition", 
+            "author": "daddyleon"
+        }, 
+        {
+            "date": "2013-01-11T05:53:14.982Z", 
+            "text": "adjacent, not overlapped? Because we also see \"shape\". \"Shape\" is the \ncollection of information about where each points of light sources are \nlocated. If your monitor displays blue on the right and red on the left, \nyour brain knows that blue colors are at the right side and red at the \nleft, so your brain doesn't just mix them up. On the other hand, if your \nwhole monitor turns on both red and blue lightsources, we see it as full of \npurple color, because both come from same directions.", 
+            "author": "HM Jang"
+        }, 
+        {
+            "date": "2013-01-11T05:44:45.368Z", 
+            "text": "If the red and green christmas lights are overlapped and neither blocks \neach other(not realistic assumption), it will look like a piece of yellow \nlightsource. But you see a red light and a green light at [different \nlocations]. Beams of light coming from different locations arrive at \ndifferent points on retina, thus stimulating different cells of different \npoints. Brain can interprete both color and \"location\"(or rather, \n\"direction\") of the light source, not only the color.", 
+            "author": "HM Jang"
+        }, 
+        {
+            "date": "2013-01-11T05:28:08.959Z", 
+            "text": "Why is it we do not see yellow light when we see, for example, red and \ngreen Christmas lights? Wouldn't both the red and green cones be activated \nat the same time? Hypothesis is that the frequency hitting your eyes at \ndifferent times activates the cones at the perfect rate to each other \n(because red light moves slightly slower than yellow light). Anyone willing \nto explain this odd thought to me?", 
+            "author": "monkgot45"
+        }, 
+        {
+            "date": "2013-01-11T01:56:21.902Z", 
+            "text": "I'm so confused. haha. ", 
+            "author": "Christopher Hattery"
+        }, 
+        {
+            "date": "2013-01-11T01:51:55.591Z", 
+            "text": "They're videos (usually unintentional) where the viewer happens to be \nwearing headphones and the video audio is incredibly loud (usually because \nthe viewer has their volume too high) and it's painful to one's ears. Thus \nthe raping of the ears.", 
+            "author": "codenine1"
+        }
+    ]
+}

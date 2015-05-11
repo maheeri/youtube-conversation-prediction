@@ -1,0 +1,944 @@
+{
+    "publish_date": "2012-02-19T13:00:00.000Z", 
+    "video_length": "PT1M40S", 
+    "captions": [
+        {
+            "text": "Suppose you&#39;re ambitious enough to try to\ndescribe everything in the observable universe", 
+            "dur": "3.289", 
+            "start": "0.12"
+        }, 
+        {
+            "text": "in one single mathematical equation.\nDONE.", 
+            "dur": "2.84", 
+            "start": "3.409"
+        }, 
+        {
+            "text": "OK, so that doesn&#39;t include gravity or a few\nother little things\u2026 but the point is, this", 
+            "dur": "4.831", 
+            "start": "6.249"
+        }, 
+        {
+            "text": "equation describes, with incredible precision,\nwhat the earth is made of, what keeps the", 
+            "dur": "3.969", 
+            "start": "11.08"
+        }, 
+        {
+            "text": "sun burning, what allows us to breath, taste,\nmow the lawn, blow things up, and watch internet", 
+            "dur": "4.971", 
+            "start": "15.049"
+        }, 
+        {
+            "text": "videos\u2026 all in one equation. And it&#39;s humbly\ncalled &quot;The Standard Model&quot; - because even", 
+            "dur": "5.42", 
+            "start": "20.02"
+        }, 
+        {
+            "text": "when they discover the most accurate scientific\ntheory known to man, physicists are modest.", 
+            "dur": "4.28", 
+            "start": "25.44"
+        }, 
+        {
+            "text": "Now, the universe is a pretty big place (maybe\neven infinitely big), so it&#39;s reasonable to", 
+            "dur": "4.959", 
+            "start": "29.72"
+        }, 
+        {
+            "text": "think that you might need a lot more than\njust one equation to describe it all - so", 
+            "dur": "3.34", 
+            "start": "34.679"
+        }, 
+        {
+            "text": "why is the standard model so simple? For starters,\nit&#39;s more like a recipe - and just as a recipe", 
+            "dur": "5.211", 
+            "start": "38.019"
+        }, 
+        {
+            "text": "for cake assumes you already know how to sift\nflour, beat egg whites, build an oven and", 
+            "dur": "4.399", 
+            "start": "43.23"
+        }, 
+        {
+            "text": "grow wheat, this equation assumes you already\nknow about path integrals, gauge theories", 
+            "dur": "3.96", 
+            "start": "47.629"
+        }, 
+        {
+            "text": "and so on - so there&#39;s a lot more than meets\nthe eye.", 
+            "dur": "2.461", 
+            "start": "51.589"
+        }, 
+        {
+            "text": "As for why an incredibly small set of mathematical\nrules appear to govern the universe? Well,", 
+            "dur": "4.98", 
+            "start": "54.05"
+        }, 
+        {
+            "text": "that&#39;s a deep and unanswered question. But\nthe data show that math is the language of", 
+            "dur": "3.91", 
+            "start": "59.03"
+        }, 
+        {
+            "text": "the cosmos \u2013 pick a few elementary particles,\nset them on a high-energy collision course,", 
+            "dur": "5", 
+            "start": "62.94"
+        }, 
+        {
+            "text": "and BAM! When the sparks fly, the standard\nmodel will describe the fireworks \u2013 to twelve-decimal", 
+            "dur": "4.44", 
+            "start": "67.94"
+        }, 
+        {
+            "text": "places of precision!", 
+            "dur": "1.13", 
+            "start": "72.38"
+        }, 
+        {
+            "text": "Anyway, in the next few MinutePhysics videos\nwe&#39;ll explain all sorts of the cool ingredients", 
+            "dur": "4.25", 
+            "start": "73.51"
+        }, 
+        {
+            "text": "that make up the standard model, like quantum\nfields, fundamental forces, quarks, gluons,", 
+            "dur": "4.53", 
+            "start": "77.76"
+        }, 
+        {
+            "text": "ghost particles, and of course, the higgs\nfield. It&#39;s an ambitious task, and I hope", 
+            "dur": "4.25", 
+            "start": "82.29"
+        }, 
+        {
+            "text": "you&#39;re ready for it!", 
+            "dur": "7", 
+            "start": "86.54"
+        }
+    ], 
+    "title": "Theory of Everything (intro)", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/07hbx", 
+        "/m/0m08c9y", 
+        "/m/05qjt", 
+        "/m/0ct8_"
+    ], 
+<<<<<<< HEAD
+    "number_views": 1255894, 
+=======
+    "number_views": 1255905, 
+>>>>>>> 9ec87114ed82b03269c4d36d892dbd4b7b183f89
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-26T18:49:01.960Z", 
+            "text": "LOGIC is the language of the cosmos, mathematics is simply our translation \nof it.\ufeff", 
+            "author": "VexylMusic"
+        }, 
+        {
+            "date": "2015-04-19T22:39:59.123Z", 
+            "text": "Minute Physics takes on the theory of nearly everything: the Standard \nModel. Theory of Everything (intro)\ufeff", 
+            "author": "Paul Booker"
+        }, 
+        {
+            "date": "2015-04-10T23:17:52.676Z", 
+            "text": "At 0:37, you forgot +C on the integral of e^x (and the dx).\ufeff", 
+            "author": "Jeremy Cummings"
+        }, 
+        {
+            "date": "2015-03-22T23:11:38.510Z", 
+            "text": "Sooo, b\u00f3sons aren't matter? Because I heard tha they can occupy the same \nspace, Mike photons\ufeff", 
+            "author": "gustavo soares"
+        }, 
+        {
+            "date": "2015-02-11T17:06:31.763Z", 
+            "text": "Oooh yes. The standard model is super simple. That's why left handed quarks \nare in an SU(2) doublet but right handed quarks are singlets. That's why \nthey have different hypercharges too. And that's why almost as if by \nmiracle they become components of the same massive particle after symmetry \nbreaking. \n\nIt's so simple that every particle physicist hates it and wants to see how \nall the bullshit in it comes about in a more fundamental way.\ufeff", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2015-02-05T20:39:17.155Z", 
+            "text": "42. Anyone, anyone!\ufeff", 
+            "author": "Alex Jackson"
+        }, 
+        {
+            "date": "2015-04-09T08:10:22.586Z", 
+            "text": "Aswell as 43... Because 42=43 because of the existance of the z\u00f6- numbers", 
+            "author": "FireHunter258"
+        }, 
+        {
+            "date": "2015-03-28T14:26:39.907Z", 
+            "text": "42 : The answer to everything... That might become a minecraft puzzle map!", 
+            "author": "Hardcore Uranium"
+        }, 
+        {
+            "date": "2015-03-21T12:46:22.082Z", 
+            "text": "42.3 .. actually", 
+            "author": "Anurag Baundwal"
+        }, 
+        {
+            "date": "2015-02-09T13:24:28.113Z", 
+            "text": "So, I guess the robot was right", 
+            "author": "Vasile Nagacevschi"
+        }, 
+        {
+            "date": "2015-01-25T08:36:28.018Z", 
+            "text": "Standard Model is love, Standard Model is life.\ufeff", 
+            "author": "Rednidedni"
+        }, 
+        {
+            "date": "2015-01-15T10:13:44.720Z", 
+            "text": "That 42\ufeff", 
+            "author": "Daniel McIntyre"
+        }, 
+        {
+            "date": "2014-12-29T00:22:34.890Z", 
+            "text": "You nerd 111.36 gigawats to go back or forward in time \ntrust me\n\ufeff", 
+            "author": "Michal Rudzki"
+        }, 
+        {
+            "date": "2015-01-26T05:15:45.454Z", 
+            "text": "Nerds can have an better job then you", 
+            "author": "eetu tanhuanp\u00e4\u00e4"
+        }, 
+        {
+            "date": "2014-12-29T00:20:18.296Z", 
+            "text": "The cosmos have 13007 galaxies 1110875543674 planets and \n10000000000000000000000000000000000s of stars\nif you font Belice country it tour self Belice me is true\n\ufeff", 
+            "author": "Michal Rudzki"
+        }, 
+        {
+            "date": "2014-12-29T00:16:40.906Z", 
+            "text": "Lol\n\ufeff", 
+            "author": "Michal Rudzki"
+        }, 
+        {
+            "date": "2014-12-26T02:26:54.544Z", 
+            "text": "What does the L thing stand for\ufeff", 
+            "author": "Sam Heidari"
+        }, 
+        {
+            "date": "2015-02-11T17:07:14.021Z", 
+            "text": "Lagrangian density, to be pedantic.", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2014-12-28T04:30:49.962Z", 
+            "text": "I'm pretty sure that is a Lagrangian. ", 
+            "author": "bugzbunny109"
+        }, 
+        {
+            "date": "2014-12-23T18:50:55.152Z", 
+            "text": "42...42 is the answer to everything.... and it is in that video at 0:35\ufeff", 
+            "author": "Mohammad Ahmad"
+        }, 
+        {
+            "date": "2014-12-07T19:44:57.776Z", 
+            "text": "I'm not so sure that math is the universal language of the Cosmos... I'm \npretty sure it's pig Latin \ufeff", 
+            "author": "Russ Pressley"
+        }, 
+        {
+            "date": "2015-02-10T06:41:49.415Z", 
+            "text": "Ah pig latin. Haven't hear of that since 4th grade. I was one of those kids \nwho never got it.", 
+            "author": "Hannah Kahrs"
+        }, 
+        {
+            "date": "2014-12-31T14:39:39.522Z", 
+            "text": "Hii I wanna be your friend", 
+            "author": "Tarun Singh"
+        }, 
+        {
+            "date": "2014-11-30T20:09:54.734Z", 
+            "text": "0:36 Answer to life, the universe, and everything\ufeff", 
+            "author": "19billdong96"
+        }, 
+        {
+            "date": "2014-11-20T04:29:29.945Z", 
+            "text": "It's God, you satanics. I hope you burn in hell for saying this blasphemy, \ufeff", 
+            "author": "Hercados P."
+        }, 
+        {
+            "date": "2015-04-09T08:11:50.363Z", 
+            "text": "Onviously ironic... Who the hell thinks you mean rhis seriously serious?", 
+            "author": "FireHunter258"
+        }, 
+        {
+            "date": "2015-02-10T06:39:40.408Z", 
+            "text": "Here's an example of someone that is trying to ruin the reputation of \nchristian by posing as a christian and saying terrible things. This is \nsomeone who has no honor nor shame. A fraud as well. God help him.", 
+            "author": "Hannah Kahrs"
+        }, 
+        {
+            "date": "2014-11-23T05:18:13.685Z", 
+            "text": "You were*", 
+            "author": "Hercados P."
+        }, 
+        {
+            "date": "2014-11-23T05:16:43.862Z", 
+            "text": "Wait, you was kidding? :( I thought my imitation of the people that treats \nme like I just imitated was good enough... Maybe I'll get out today and try \nto improve my imitation by experience, I only hope not to get killed by one \nof those Islami-terrorist states. Like last week...", 
+            "author": "Hercados P."
+        }, 
+        {
+            "date": "2014-11-22T17:31:52.427Z", 
+            "text": "+Shahaed Hasan \nWhat makes you think I wasn't?", 
+            "author": "Pinkie Pie"
+        }, 
+        {
+            "date": "2014-11-22T09:25:58.074Z", 
+            "text": "+Pinkie Pie This nigga was obviously kidding. idiot.", 
+            "author": "Shahaed Hasan"
+        }, 
+        {
+            "date": "2014-11-22T09:10:10.461Z", 
+            "text": "+Pinkie Pie *standing ovation* one of the best comments I have ever seen.", 
+            "author": "NotTheRealBassKitten"
+        }, 
+        {
+            "date": "2014-11-21T18:07:49.194Z", 
+            "text": "Fascinating how some people, despite living in a world of exponential \ntechnological growth and scientific advancment, can still be mentally stuck \nin the bronze ages.", 
+            "author": "Pinkie Pie"
+        }, 
+        {
+            "date": "2014-11-04T12:03:23.790Z", 
+            "text": "I've done a bit of physics but mostly work with much more practical \nchemistry where the most complex thing in the equation might be a constant, \nit's all very obvious what it describes. Can anyone go into how an equation \npredicts all that? I've got an amateur interest in things like mathematics \nso I'd like to think i could follow along\ufeff", 
+            "author": "Adam Lees"
+        }, 
+        {
+            "date": "2014-10-30T07:52:49.974Z", 
+            "text": "My theory of everything \nhttp://www.academia.edu/8991727/Phenomenal_World_as_an_Output_of_Cognitive_Quantum_Grid_Theory_of_Everything_using_Leibniz_Kant_and_German_Idealism\n\ufeff", 
+            "author": "Volatile World"
+        }, 
+        {
+            "date": "2015-03-08T14:18:38.685Z", 
+            "text": "tl;dr", 
+            "author": "Daffana Studios"
+        }, 
+        {
+            "date": "2015-02-23T00:30:45.513Z", 
+            "text": "I have one to only 3 quadrillion pages. Just nothing:)", 
+            "author": "jaap aarts"
+        }, 
+        {
+            "date": "2015-02-21T18:58:15.596Z", 
+            "text": "Didn't read\nLOL", 
+            "author": "katten elvis"
+        }, 
+        {
+            "date": "2014-10-23T23:19:00.195Z", 
+            "text": "", 
+            "author": "Mafalda Alves"
+        }, 
+        {
+            "date": "2014-10-23T05:11:31.354Z", 
+            "text": "Oh my I need to watch this video with a scientist to understand it...\nBut.. I like it!\ufeff", 
+            "author": "Peace Yin"
+        }, 
+        {
+            "date": "2014-10-17T17:32:33.855Z", 
+            "text": "Is it possible to see what the formula looks like in normal letters plz?\ufeff", 
+            "author": "sarrokage"
+        }, 
+        {
+            "date": "2015-02-23T01:31:17.841Z", 
+            "text": "Oh, I understand what you mean now. That's not a bad idea.", 
+            "author": "Stephano Zogas"
+        }, 
+        {
+            "date": "2015-02-19T10:28:50.728Z", 
+            "text": "+Stephano Zogas instead of writing on a whiteboard with a marker, actual \nletters like \u03a8. I want to see the formula in latin or greek letters to say \nit the easy way", 
+            "author": "sarrokage"
+        }, 
+        {
+            "date": "2015-02-19T00:39:29.134Z", 
+            "text": "That doesn't make sense. They're variables. Also, which normal letters?", 
+            "author": "Stephano Zogas"
+        }, 
+        {
+            "date": "2014-10-16T17:56:37.915Z", 
+            "text": "Only twelve places? guess that is why its the theory of everything not the \nlaw...\ufeff", 
+            "author": "Gabriel Pendragon"
+        }, 
+        {
+            "date": "2014-10-13T02:32:39.669Z", 
+            "text": "That's not a theory of everything... the theory of everything needs to \ninclude gravity!\ufeff", 
+            "author": "electrocat1"
+        }, 
+        {
+            "date": "2014-09-22T23:53:40.011Z", 
+            "text": "A theory of everthing? DONE! (loved that part lol)\ufeff", 
+            "author": "Ian Zainea"
+        }, 
+        {
+            "date": "2014-08-19T08:20:39.785Z", 
+            "text": "Well if we find proof for string theory i belief we already have a theory \nof everything.\ufeff", 
+            "author": "joey speel"
+        }, 
+        {
+            "date": "2014-08-12T23:15:23.383Z", 
+            "text": "", 
+            "author": "Josh xu"
+        }, 
+        {
+            "date": "2014-07-09T02:32:27.174Z", 
+            "text": "What about string theory.\ufeff", 
+            "author": "Science Now"
+        }, 
+        {
+            "date": "2014-06-28T23:49:42.758Z", 
+            "text": "Refill your pen.\n:)\ufeff", 
+            "author": "\u00f6. . ,"
+        }, 
+        {
+            "date": "2014-06-19T23:14:22.120Z", 
+            "text": "It's funny that the physicists think they have found the theory to \neverything. That assumes that we know everything, which is quite arrogant. \nClaiming to have discovered the most fundamental particle of the universe \nis similar to how scientists in the previous century believed that atoms \nwere the most fundamental particle in the universe. But what are they made \nout of? more particles! What do you presume these Higgs bosons are made out \nof? Probably more particles. What are black holes? What is this dark matter \nand dark energy that makes up most of the universe? Where do we go when we \ndie? Are there other dimensions? What do the stars and planets have in \ncommon with the atoms and electrons? We don't know everything. If you want \na more comprehensive understanding of the universe, understand that the \nuniverse is truly infinite. Think of the universe not just as particles but \nas waves of particles. Understand that 150 years ago we were still \ntraveling in covered wagons pulled by horses. We still don't understand the \nspirit, or how consciousness is generated. Understand that everything only \nexists relative to something else. Try some LSD and you'll understand that \nwe don't know anything.\ufeff", 
+            "author": "Brendan Mullen"
+        }, 
+        {
+            "date": "2014-12-26T17:48:32.128Z", 
+            "text": "Space have 24 dimensional, decays down to 8 cube of 3 dimension, 4 of them \nhit eachother when start a spin that's50% a dark enegy, 2 of them rotate in \nthe direction that called the pass but it's move backward, that's another \n25 % of dark particles, 2 particle you will find next year by SUSY, is just \na beginning.. Hahaha", 
+            "author": "Waroon H"
+        }, 
+        {
+            "date": "2014-11-20T13:44:15.624Z", 
+            "text": "Like it's beining said, it's the THEORY! We basicly don't know if it's true \nor not. We know that the most things we know ARE true but we have a lot \nmore to discover :D", 
+            "author": "TheChell2000"
+        }, 
+        {
+            "date": "2014-11-05T16:23:51.943Z", 
+            "text": "It's as good as name as any; I was mostly responding to the OP claiming \nthat scientists assert that they know everything via the Standard Model.", 
+            "author": "Conner Howell"
+        }, 
+        {
+            "date": "2014-11-05T08:17:07.050Z", 
+            "text": "+Conner Howell Well... let's call it the 'Theory of a Lot of Things' then.", 
+            "author": "Blank \u115a"
+        }, 
+        {
+            "date": "2014-11-04T14:36:47.576Z", 
+            "text": "It doesn't describe gravity, dark matter, or dark energy just to name a few.", 
+            "author": "Conner Howell"
+        }, 
+        {
+            "date": "2014-11-04T11:37:55.738Z", 
+            "text": "Standard Model describes everything, it does not prove everything.", 
+            "author": "Blank \u115a"
+        }, 
+        {
+            "date": "2014-07-20T20:03:50.597Z", 
+            "text": "+Pablo Ortega I probably should have as well.", 
+            "author": "Conner Howell"
+        }, 
+        {
+            "date": "2014-07-20T03:05:58.902Z", 
+            "text": "+Conner Howell \"Where do we go when we die?\" i stopped reading after that", 
+            "author": "Pablo Ortega"
+        }, 
+        {
+            "date": "2014-07-14T01:00:55.596Z", 
+            "text": "No physicist claims that the Standard Model describes everything in our \nuniverse, which was covered in the beginning of the video.", 
+            "author": "Conner Howell"
+        }, 
+        {
+            "date": "2014-06-08T23:37:23.117Z", 
+            "text": "The standard model is awesome \ufeff", 
+            "author": "David Poa"
+        }, 
+        {
+            "date": "2014-06-01T10:36:11.113Z", 
+            "text": "But where is the Dashy Geometry?!\ufeff", 
+            "author": "Joxundo BT"
+        }, 
+        {
+            "date": "2014-05-31T19:49:32.937Z", 
+            "text": "interesting\ufeff", 
+            "author": "Michael Serrant"
+        }, 
+        {
+            "date": "2014-05-21T21:01:58.566Z", 
+            "text": "I dont get it... So we want an equation with everything in it and... then \nwhat... We get a number? Is that number suppose to be 42? \ufeff", 
+            "author": "James Last"
+        }, 
+        {
+            "date": "2014-07-01T11:09:29.137Z", 
+            "text": "No, you don't get a number. You get behavior. This fuction/equation will \nbehave in a way to allow us to predict certain things in this universe. (If \nwe knew all that going on around us we could predict the future. But the \nuncertainty principle luckily probhibits that us from doing so.)", 
+            "author": "Achim Hanischd\u00f6rfer"
+        }, 
+        {
+            "date": "2014-05-19T05:00:05.122Z", 
+            "text": "I feel like the reason, math can describe everything, is because math is a \nmanmade language, and this equation is a description of everything.Not to \ndiminish the impressiveness of it. :o  \ufeff", 
+            "author": "Zach Miles"
+        }, 
+        {
+            "date": "2014-05-01T03:23:23.000Z", 
+            "text": "you talk too fast like gossip girls, but I enjoy the videos.\ufeff", 
+            "author": "Mark R"
+        }, 
+        {
+            "date": "2014-04-12T14:05:12.973Z", 
+            "text": "What's with that dog everywhere?\ufeff", 
+            "author": "Derek Jay"
+        }, 
+        {
+            "date": "2015-04-22T21:56:09.116Z", 
+            "text": "+Derek Jay It's a cat. Just a thing he likes to use as an easter egg or \nexample :3", 
+            "author": "Natzki | Randomness"
+        }, 
+        {
+            "date": "2014-03-27T15:11:55.780Z", 
+            "text": "Typo at 1:06. He said elementary particles but wrote protons which aren't \nelementary \ufeff", 
+            "author": "Zach McCauley"
+        }, 
+        {
+            "date": "2014-03-27T12:19:07.592Z", 
+            "text": "0:37 that integral is wrong!! it's missing a dx and missing a constant!!\ufeff", 
+            "author": "Abel De Castro"
+        }, 
+        {
+            "date": "2014-03-26T18:53:27.363Z", 
+            "text": "can someone make that law and point out what each thing is! please and \nthank you\ufeff", 
+            "author": "shilo sinjari"
+        }, 
+        {
+            "date": "2015-02-19T00:41:52.327Z", 
+            "text": "Good idea for a video.", 
+            "author": "Stephano Zogas"
+        }, 
+        {
+            "date": "2014-03-16T15:03:07.000Z", 
+            "text": "so we have the theory of everything, how about the theory of nothing?\ufeff", 
+            "author": "wizzzer1337"
+        }, 
+        {
+            "date": "2014-11-22T15:17:55.142Z", 
+            "text": "Quantum mechanics , quantum principle, quantum physics. Saying technically \nnothing is something. It's the absence of something. It has no principles, \nGiving it a principle. An from a quantum perspective subatomic particles go \nin and out of existence from that level. So technically nothing can be \nsomething.", 
+            "author": "David Barley"
+        }, 
+        {
+            "date": "2014-11-20T13:41:44.610Z", 
+            "text": "There can't be nothing because even in the \"empty\" spaces of the Universe \nis stuff like dark matter or gluons. Theory of nothing done!", 
+            "author": "TheChell2000"
+        }, 
+        {
+            "date": "2014-11-04T11:35:52.955Z", 
+            "text": " =", 
+            "author": "Blank \u115a"
+        }, 
+        {
+            "date": "2014-09-18T00:54:53.707Z", 
+            "text": "+ViixEdits\noh shit i just got it =S", 
+            "author": "captainplanet999"
+        }, 
+        {
+            "date": "2014-09-07T00:01:44.310Z", 
+            "text": "+ViixEdits Fair deuce, sir.", 
+            "author": "Aaron Park"
+        }, 
+        {
+            "date": "2014-09-06T21:38:00.665Z", 
+            "text": "+Aaron Park wtf are you babbling about you spastic twat haha, I never \nimplied our minds are alike, our no mind, however, is.", 
+            "author": "ViixEdits"
+        }, 
+        {
+            "date": "2014-09-05T01:08:12.272Z", 
+            "text": "+ViixEdits I beg to differ, your mind is clearly different than mine, or \nanyone's. If it wasn't, everyone would have the same thought process, \nlogic, learning speed, same way of learning most advantageously, and other \nthings... which we clearly don't. Your mind stops at least at the edge of \nyour brain, where it cannot influence anything else other than using \nlanguage to interact with other minds.", 
+            "author": "Aaron Park"
+        }, 
+        {
+            "date": "2014-08-08T01:30:01.935Z", 
+            "text": "+ViixEdits\nwtf does that even mean?", 
+            "author": "captainplanet999"
+        }, 
+        {
+            "date": "2014-07-31T15:09:23.770Z", 
+            "text": "No mind. Your no mind is no different to mine, as opposed to your mind, \nwhich differs from mine.\nWhere does your no mind stop and mine begin? Nowhere, we've all got the \nsame silence inside of us.\np.s. fuck religion.", 
+            "author": "ViixEdits"
+        }, 
+        {
+            "date": "2014-05-16T16:06:58.890Z", 
+            "text": "'Theory of nothing' is one of those things that sounds meaningful but \nisn't. You might confuse it with a 'theory of the vacuum' \u2013 a theory \ndescribing the absence of 'stuff', but that actually comes under a theory \nof everything (I should clarify we *don't* have a complete theory of \neverything).\nThe only other thing I could understand by a 'theory of nothing' is a \ntheory that describes nothing, which would be, by definition, utterly \nuseless.\n\nSorry for the rant, have a nice day.", 
+            "author": "Oscar Heath"
+        }, 
+        {
+            "date": "2014-03-29T08:50:04.822Z", 
+            "text": "+Richdude125 The theory of nothings lies within the absolute framework of \nthe mind. ", 
+            "author": "Linus"
+        }, 
+        {
+            "date": "2014-03-29T00:34:19.311Z", 
+            "text": "+MonkeyBazinga1 Sigh....LET THE RELIGIOUS BATTLE BEGIN.", 
+            "author": "The Spicy Donut"
+        }, 
+        {
+            "date": "2014-03-24T19:38:00.157Z", 
+            "text": "+captainplanet999 Religion is Blasphamy", 
+            "author": "Eishwar Pawar"
+        }, 
+        {
+            "date": "2014-03-20T22:03:01.701Z", 
+            "text": "religion?", 
+            "author": "captainplanet999"
+        }, 
+        {
+            "date": "2014-02-19T18:53:33.958Z", 
+            "text": "The next Theory of Everything video is called \"What is matter?\".\ufeff", 
+            "author": "MystyrNile"
+        }, 
+        {
+            "date": "2014-02-13T15:34:28.000Z", 
+            "text": "However useful, the standard model or string theory can never be a complete \nTheory of Everything. Find out what can-\nhttps://drive.google.com/file/d/0B-ieLz0_wkCkSnFUZllnbnVtMDg/edit?usp=sharing\n\ufeff", 
+            "author": "Md Sheraj"
+        }, 
+        {
+            "date": "2014-02-08T20:12:26.745Z", 
+            "text": "0:37 - typo on the schr\u00f6dinger (i think)\nIt should be \u2202/\u2202t not \u2202/\u22022\ufeff", 
+            "author": "The Intelligent Fool"
+        }, 
+        {
+            "date": "2014-07-15T00:30:38.496Z", 
+            "text": "It's not typo, it's writo XD", 
+            "author": "Ooker"
+        }, 
+        {
+            "date": "2014-04-14T11:36:41.000Z", 
+            "text": "But the schr\u00f6dinger equation is first order", 
+            "author": "The Intelligent Fool"
+        }, 
+        {
+            "date": "2014-04-07T13:37:46.028Z", 
+            "text": "That's \u2202/\u2202t^2. It's a second order equation; meaning you have to \ndifferentiate the equation two times with to respect to time.", 
+            "author": "Jayraj G"
+        }, 
+        {
+            "date": "2014-01-10T03:37:38.976Z", 
+            "text": "whats with all the cats?\ufeff", 
+            "author": "Michael Prater"
+        }, 
+        {
+            "date": "2014-02-07T17:12:47.834Z", 
+            "text": "+Tyler Macey Isn't  it a thought experiment of Quantum Superposition? ", 
+            "author": "ConnerBosley"
+        }, 
+        {
+            "date": "2014-01-08T17:31:42.381Z", 
+            "text": "what does the fox say?\ufeff", 
+            "author": "kmpisces"
+        }, 
+        {
+            "date": "2014-01-05T11:42:20.115Z", 
+            "text": "Do you speak this fast when you are talking to your friends or grandmother?\ufeff", 
+            "author": "alien9000555"
+        }, 
+        {
+            "date": "2014-01-03T00:07:58.709Z", 
+            "text": "Remember, the Standard Model of Particle Physics is the Theory of ALMOST \nEverything!\ufeff", 
+            "author": "Mrdenverfan01"
+        }, 
+        {
+            "date": "2013-12-29T23:04:42.300Z", 
+            "text": "wait... WHAT?\ufeff", 
+            "author": "Lexindra"
+        }, 
+        {
+            "date": "2013-12-23T20:07:38.510Z", 
+            "text": "wait...do you put salt in a cake?._.\ufeff", 
+            "author": "ahamdapeynir"
+        }, 
+        {
+            "date": "2013-12-17T16:16:57.755Z", 
+            "text": "lol @0:37! 42!\ufeff", 
+            "author": "Justin Drobey"
+        }, 
+        {
+            "date": "2014-06-29T04:03:16.818Z", 
+            "text": "42 is the number for life .", 
+            "author": "lol some"
+        }, 
+        {
+            "date": "2014-05-26T23:29:02.972Z", 
+            "text": "So long and thanks for all the fish!", 
+            "author": "The Idiot Files"
+        }, 
+        {
+            "date": "2014-02-18T09:30:04.308Z", 
+            "text": "Ayeeeeeeeeeeeeee", 
+            "author": "thatasiankid45"
+        }, 
+        {
+            "date": "2013-12-07T05:32:49.534Z", 
+            "text": "42\ufeff", 
+            "author": "Onjit"
+        }, 
+        {
+            "date": "2013-12-03T15:35:48.889Z", 
+            "text": "Physicists are sorcerers, got it. \ufeff", 
+            "author": "Javelin09"
+        }, 
+        {
+            "date": "2013-12-02T03:08:02.868Z", 
+            "text": "#42\ufeff", 
+            "author": "Josh D"
+        }, 
+        {
+            "date": "2014-10-21T19:58:35.000Z", 
+            "text": "\nIn the future the Theory Of Everything will be formulated by:\n(((( A Locational 4pi Spherical Inward Absorption +1=0 now -1 Outward \nEmission Of Electromagnetic Waves))))\nAll motion is 2pi spiral.. .  .And all direction is 4pi spherically \ncurved.. .  .\nVibrating sinusoidal spherical wave-fronts of only motion forms Einstein's \ncurvature of space-time.. .  .\n\nLight waves from all time dilating inertial ref-frames (within every \nobservable spherical region of the infinite universe) cascading downward \nfrom a distance radius combine forming the sinusoidal wave medium density \n(space) compressing and de-compressing two opposing vortices at each and \nevery point of space, or contracting and expanding virtual pair's popping \nout of existence.. .  .\n\nThe total amplitude formed by a rings series of inward spherical waves \ncoming into every point.  . ..Colliding at maximum compression points at \nwave crests and wave troughs always seeks a minimum.  . ..Are equally \nbalanced by opposite expansion at interchanging compression points.  . ..As \ntrillions of waves cancel the sum of opposite vectors mathematically is \nalways zero.  . ..Leaving space with an average temperature, or pressure \nstillness of the wave amplitude squared.. .  .\n\nThis polarized superposition of the wave amplitude squared is the reason \nfor entanglement for the symmetry or conservation laws in human physics or \nwhy, at the speed of C, time and space are zero due to length contraction \nand time dilation.. .  .Or why, the point of charge Q is the same for the \nentire surface of an expanding light sphere.. .  .Because the polarization \nbetween the crests and troughs will remain the same (sharing the same \nexpanding moment of time) no matter how large it becomes until acted upon \nby an external force.. .  .\n\nVibrating sinusoidal spherical wavefronts always transverse one unit of \nspace/ per one unit of time.  . ..Huygens wavelets forming the wavefronts \nare rather like drops of water into a pond dividing one unit of space/ \nmultiplied by one unit of time.. .  .Like the bits, or zeros and ones of a \ncomputer screen the Planck's constant is continuously forming a blank \ncanvas in a sense they are vibrations on the edge between space and time.. \n.  .As time unfolds light is simply space divided by time entanglement and \nnothing else.. .  .That implies a strict equivalence between time and space \nwith light as a constant conversion unit between the two.. .  .\n\nElectrical potential is the same as future potential imploding within a \nref-frame or object.  . ..And therefore the Lorentz contraction of time and \nspace is infinite in our universe within the active cores of galaxies.. .  .\n\nImplosive inward energy compression contracting time and space where the \nvirtual pair's formed by 4pi R2's cannot escape from being multiplied to \ninfinity t=0.  . ..forming an equal and opposite explosive de-compression \nof Cosmic ray jets and Synchrotron radiation expanding outward via the \npoles.. .  .\nA sort of fusion of wave and emission of new Cosmic rays.. .  .Cosmic rays \nare 89% hydrogen nuclei, 10% helium nuclei, and 1% everything else!!\n\nAtomic particles are really high wave amplitude wave centres of pure \nvibration from regions of intense wave pressure made of vibrating \nwavefronts called shells in particle physics, or spherical standing wave \nstructures over a period of time.. .  .\n\nAll particles are 3D wave centres of pure vibration!!.. .  .Their output \nwas the negation of their input: 0 goes to 1,1 to 0.. .  .the start of a \nFibonacci spiral.. .  .\n\nAll motion is 2pi spiral.. .  .And all direction is 4pi spherically \ncurved.. .  .\nVibrating sinusoidal spherical wave-fronts of only motion forms Einstein's \ncurvature of spacetime.. .  . \n\nAnd thereafter on another fractal level.  . ..Stimulated emission is a \nprocess by the way of which a higher energy quantum mechanical state of an \natomic particle absorbing energy +1=0 now is being converted to a lower \nlevel -1 resulting in the production of light photon oscillations, or new \nelectromagnetic vibrations.. .  .\nA sort of fusion of wave and emission of new quantized spherical wavefronts \nof electromagnetic radiation independent of the motion of its source.. .  . \n\nThe One electromagnetic spectrum is a continuous flow of vibrating energy \ntherefore light is a wave and it was time that was quantized.. .  .\nSpacetime was quantized into moments.. .  .Only the frequency now \nis relative at each dipole moment of time.. .  . \n\nBecause everything is formed by a locational 4pi spherical inward \nabsorption t=0 and outward emission of electromagnetic waves that's forming \nresonance antimatter matter annihilation forming positive and negative \nelectric charge and electromagnetic interference fields as time unfolds \nC2 transverses the inward acceleration or gravitation wavefront by \nwavefront as time unfolds.. .  .\n\nSpace is a division of solidity into entropy C2 the second law of \nthermodynamics.. .  .But also E2= a multiplication of volume at the expense \nof gravitational potential.. .  .\n\nThe fact that this tiny spherical region of the infinite universe has a \nlimited observable range as the waves come from a distance radius, now is \nobservable in the shape of an inverse sphere.  . ..4pi R2.. .  .\nAnd the fact that the electron is a perfectly round vibrating sphere.. .  \n.Are two sides of the same + and - coin!!\n\nThere exists only two combinations of these two spherical + and - \nelectromagnetic sine waves, or wavefronts multiplying inward =1=0 now \n-1 dividing at right angles from their sources.. .  .\nThey have opposite vectors and quantum spin forming the positron and \nelectron wave centre.. .  .4pi R2=/N pi Re2.. .  .\nOr \"the two dipole energy states of Qubit's\" in quantum computing which can \nbe such things as photons, trapped ions, atoms, electrons, and nuclear \nspins, made of vibrating wavefronts called shells in particle physics, or \nspherical standing wave structures over a period of time.. .  .Their output \nwas the negation of their input: 0 goes to 1,1 to 0.. . .the start of a \nFibonacci spiral.. .  .\nTherefore generation of \"any information exceeds radiation during the first \nhalf of the cycle +1=0 now radiation exceeds generation during the second \nhalf of the cycle.. .  . \n\nTime is inverse multiplying +4-0-4+- dividing like frequency and \nwavelength.. .  .\n\nTime is shorter at one's feet than at their head, because of the geometry \nbasically the greater the energy compression contracting spacetime=0 now \nthe shorter the expanding wavelengths dividing acceleration or gravitation \naway from its source in unison.. .  .\nThe amount of radiation compressing the wave amplitude reaching 1 meter, \nthen will be one-fourth as much at 2 meters, hence one-fourth the \nintensity.. .  .Thus objects just free fall towards the greatest energy \ncompression, or shortest rate that time flows.. .  .  \nSimply because generation of \"any information\" exceeds radiation during the \nfirst half of the cycle +1=0 now -1 radiation exceeds generation during the \nsecond half of the cycle.. .  .\nGravitational systems -1 are the ashes from prior electrical systems +1=0.  \n. ..as the surface of the light sphere increases with the square of the \nradius the strength of the gravitational field transverse Q inversely \nproportional to the square of the distance from the source of that constant \nexpanding light sphere.. .  .\n\nConcentrated spheres at right angles such as electrons, onions, the Earth \nand Sun, are surrounded by now slice layers of light of equal pressures.. \n.  .Clouds float around the Earth in them.. .  .The reason they float in \ncurves parallel to the Earth is because of these equipotential planes of \npressures which curve as the Earth curves.. .  .\nSpherically curved planes of pressures act as lenses to multiply and divide \nlight radially because everything is contracting and expanding a locational \n4pi spherical inward absorption t=0 and outward emission of electromagnetic \nwaves.. .  .\n\nAnd that constant outward division now from the Sun transverses the inward \nforce called gravity as time unfolds C2 takes about eight minutes to reach \nEarth.. .  .\nAnd likewise the constant outward momentum of the light from Earth forms \nthe inward acceleration in unison as time unfolds C2 from the continuous \nstimulated emissions.. .  .and contracting spacetime at the bare clay \ncentres within the solar vortex where the solar and planetary gravities \nmeet within the solar vortex.. .  .\n \nAs their individual light spheres super impose crests and troughs become in \nphase now, their space time line symmetries will synchronize, or amplify by \nmultiplying electrical potential along cubic dynameters compressing the \nwave amplitude +4-0-4+- now the shorter the expanding wavelengths dividing \nacceleration or gravitation away from its source in unison.. .  .\n\nAnd as all the light spheres from all the stars of a galaxy.. .  \n. eventually all their spheres will super impose as crests and troughs \nbecome in phase now, their space time line symmetries will synchronize, or \namplify by compressing the wave amplitude +4-0-4+- now the shorter the \nexpanding wavelengths dividing acceleration away from its source in \nunison.. .  . \n\nTherefore relative to the perspective of an outside observer at the centre \nof their own time line of broken symmetry, there is no dark matter!\n\nAnd as those vibrating sinusoidal spherical wavefronts propagate through \nextremely cold low pressure density regions of space acting upon the wave \namplitude the wavelengths simply become longer as they spread out over \nbillions of light years.. .   .Therefore the big bang never happened.. .  \n.And the cosmic microwave background radiation mainly comes from all the \ncold hydrogen at the centre of their own 3D ref-frames spherically \ndistributed around us.. .  .\n\nIn other words this an energy displacement called a redshift interpreted as \nreceding velocities of galaxies is actually a consequence of less energy \nexchange with distance, less wave interactions oscillating in between time \ndilating gravitational gradients with distance.. .  .And Doppler causes a \nredshift because light in a vacuum is a constant wave chain reaction from A \nto B.. .  .\n\nBut what if the big bang really did happen?\nLight emitted now from all matter, from the star's, and the galaxies of \nperpetual systems are forever passing out into the infinite ocean of Zero \nKelvin, of 'empty space' never to return and without ever coming into \ncontact with objects of that nature.. .  .\nThat kind of tiny finite island big bang material universe would be \ndestined to become gradually but systematically impoverished and the \nevolution of perpetual systems would never had happened.. .  .\nBut luckily for us our universe is not like this.. .  . Since Mach's \nPrinciple: \"All inertial ref-frames are determined by the composite matter \nof the universe\", was the basis for Einstein's theory of relativity.. .  .\n\nAll things come out from the One and the One out from all things.. .  .\n\nI only see becoming.  . ..Be not deceived.. .  .It is not the fault of the \nessence of vibration!!\nBut it is the fault of your limited outlook.. .  . if you see firm land \neverywhere within the oceans of becoming and passing.. .  .You need names \nfor things just as if they had a rigid permanence.. .  .But the very river \nin which you bathe a second time in the future.. .  . is no longer the same \nwater that you entered before in the past.. .  .\n\nVibrating matter is simulating rest and balance now through violent motion!!\n\nVibrating matter is a fine mixture of + and - electric charges coming into \nand out of existence.. .  .\nAntimatter positive electric charge and Matter negative electric charge \nforms a profound and perfect symmetry forming and breaking and when that \nsymmetry is broken forms the imperfect spiral symmetry of the Fibonacci \nsequence.. .  .\n\nEinstein believed out of the worlds religions Buddhism was the closest to \nthe truth!\nBuddha said a long time ago, that it was rather like looking a the waves \ncoming to a sea shore!! \n\nThe magnetic fields are always at right angles to the direction of the \nelectric current.. .  .And this is rather like a series of wavefronts at \nright angles coming to a seashore.. .  .\n\nAntimatter matter annihilation is like looking at the water receding from \nthe seashore (universe) +1 into the bass of each wavefront forming t=0 and \nbreaking at the crest of time p0p-1 resulting in the production of \nexpanding bubbles +4-0-4+- independent of the motion of its source.. .  .\nA wave comes +1=0 and breaks now, it withdraws or contracts as another wave \ncomes +1=0 and breaks now, it withdraws or contracts as another wave comes \n+1=0 and breaks now, it withdraws or contacts as another wave comes +1=0 \nwhich may contain much of the same water as before.. .  .Generation of any \ninformation exceeds radiation during the first half of the cycle +1=0 now \nradiation exceeds generation during the second half of the cycle.. .  \n. Only the two dipole energy states of an electron is a 3D wave centre made \nof vibrating wavefronts concentrically layered in shape, rather like an \nonion!!\n\nInput and output is a process of spherical symmetry forming and breaking.. \n.  .\n\nAll information is recorded electro dipole magnetically via two equal \npair's of opposite expression.. .  .Each of the pair cancels the other out \nin cyclic periodicities.. .  .Each of the pair then becomes what the other \nwas..  . .\nAs the frequency gets higher the Planck's constant will be multiplied by a \nlarger amount and the time period will slow down within that ref-frame.. .  \n.\n\nStimulated emission is a process by the way of which a higher energy \nquantum mechanical state of an atomic particle absorbing energy +1=0 now \nbeing converted to a lower level resulting in the production of light \nphoton oscillations, or new electromagnetic vibrations.. .  .\nA sort of fusion of wave and emission of new quantized spherical wavefronts \nof electromagnetic radiation independent of the motion of its source.. .  .\n\nBecause everything is formed by a locational 4pi spherical inward \nabsorption t=0 and outward emission of electromagnetic waves that's forming \nresonance antimatter matter annihilation, forming positive and negative \nelectric charge and.. .  . electromagnetic interference fields as time \nunfolds C2.. .  .\n\nThe Fourier Transforms actually proves that the big bang theory is wrong \nbecause time, is in fact, inverse multiplying and dividing like frequency \nand wavelength.. .  .\n\nTherefore It all started with a big bang output division.. .  . By tracing \ntime back to a point in the past was a huge misconception!!!\n\nSince Dirac's discovery of antimatter E=+m.c2.. .  .The conversion is a \nratio between opposite vectors interpreted as distance and time, physical \nreality and spiritual reality, annihilation and creation, matter and \nantimatter, mass and energy, or interference and resonance within an \nabstract arrow of time of Cnow at the centre of their own 3D ref-frames \nwithin the One Infinite Universe.. .  .\n\nAnd therefore the traditional assumption where space is three dimensional, \nand time plays the role of a fourth dimension is inaccurate.. .  .\n\nIf we would want to study the origin's of the universe we would actually \nhave to look \"forward,\" since Cnow's time input resonance vector direction \n+1=0 now is opposite to -1 the arrow of distance as time unfolds all the \ninterference from their sources that we then perceive as an expanding \nuniverse.. .  .\n\nSee: E=mc2 is wrong Sixty Symbols, and Quantum Atom Theory!\n\nThe Higgs bosons from Higgs filed are actually just photon oscillations, or \nelectromagnetic vibrations.. .  .Which is the same as the future \nprobability wave function in quantum physics.. .  . \nMilo Wolff called them Positron Waves from the Universe.  . .. And remember \nin 3D space there exists only two spherical waves at right angles \nmultiplying inward + and - dividing outward at right angles from its \nsource.. .  .\nWalter Russel called them Cathode waves.  . ..And the Master Minds of \nancient India where all our modern mathematics comes from called them \"Gift \nWaves from the Cosmic whole.\"\n\nThis zero point field gives us a starting point or concept of zero in \nmathematics.\n \nBecause everything is formed by a locational 4pi spherical inward \nabsorption +1=0 now -1 outward emission of electromagnetic waves.. .  \n.That's enfolding the organization process for the continuous \ndisorganization of statistical entropy as time unfolds.. .  .Their output \nwas the negation of their input: 0 goes to 1,1 to 0.. .  .the start of \na Fibonacci spiral.. .  .Spherical logarithms forming and breaking \nexponential spirals.. .  .Therefore Mass is a Constant De-compression.. .  \n. as the constant outward momentum of EMR repels like charged particles \nabsorbing energy compression +1=0 and emitting the density from the two \nprevious vectors spiralling out the Fibonacci sequence seen \nalmost everywhere in nature.. .  . from spirals of elements, to DNA, \nand billions of microfilaments spiralling out from the zero point field now \nwithin each neuron of the brain into microtubule lattice structures.. .  .\n\nAnd the human brain consists of approximately one hundred billion neurons.. \n.  .\n(Mans mind mirrors a Universe that mirrors mans Mind)\nEach neuron has a voltage which changes when ions flow inward and outward \nfrom a cell.. .  .\nOnce a neurons voltage reaches a certain level of subconscious energy \ncompression t=0 now it will consciously fire (C) a new electrical signal to \nother cells, which will then repeat the process.. .  .\n\nTherefore we all have free will to consciously project new electrical \nsignals as time unfolds.. .  .And depending which neurons gets stimulated \nthrough repetition, certain neural connections may become stronger and more \nefficient, whilst others may become weaker as time unfolds statistical \nentropy.. .  .This is called Neuroplasticity.. .  .\n\nThe mirror neuron dose not know the difference between it and others.. .  .\nBecause antimatter energy input is just the opposite phase represents the \npast, and is always instantaneously cancelled out relative to background \nwaves in the future, that must propagate non linearly at the central region \nproducing two coupling resonance.. .  .We then upon observing the outward \nwaves from their sources call that process of change \"charge.\" \n\nEnergy is vibrating sinusoidal spherical wave-fronts of only motion \nmultiplying inward +1=0 now 1 dividing outward at right angles from their \nsources.. .  .All motion is 2pi spiral.. .  .And all direction is 4pi \nspherically curved.. .  .Mass plasma field vector of every observable \nspherical region of the infinite universe +Mu acting upon every point of \nspace accelerating mass +/-m from a distance radius.. .  .Energy of \nGravitation =Eg= +m. +Mu G/r2.. .  .Gravitational systems -1 are the ashes \nfrom prior electrical systems +1=0.  . ..As the frequency gets higher the \nPlanck's constant will be multiplied by a larger amount oscillating photons \nwithin that 3D centred ref-frame the time period will slow down from that \nobject relative to an observer at the centre of their own time line of \nbroken symmetry.\"\ufeff", 
+            "author": "Seamless Robe"
+        }, 
+        {
+            "date": "2014-08-29T21:38:13.000Z", 
+            "text": "+Oscar Heath The fact that this region universe in the shape of an inverse \nsphere 4pi R2, has a limited observable range as the waves come from a \ndistance radius.  . ..And the fact that the electron is a perfectly round \nsphere.. .  .Are two sides of the same + and - coin.. .  .4pi R2=/N Re2.. \n.  .Inward spherical waves from the universe multiplying at right angles \ncompress E  +1=0 now outward waves expand C2 dividing at right angles from \nits source.. .  .There exists only two combinations of these two Spherical \n+ and - electromagnetic sine waves, or wavefronts multiplying and dividing \nat right angles.. .  .They have opposite vectors and quantum spin forming \nthe positron and electron wave centre.. .  .Or the two energy states of \nQubits in quantum computing which can be such things as photons, trapped \nions, atoms, electrons, and nuclear spins.. .  .Only difference is time \ndilating Volume!!\nTheir output was the negation of their input: 0 goes to 1,1 to 0.. .  .the \nstart of the Fibonacci spiral!!!\nTherefore generation of any information exceeds radiation during the first \nhalf of the cycle.  . ..Radiation now exceeds radiation during the second \nhalf of the cycle.. .  .as the constant outward momentum of EMR repels like \ncharged particles absorbing energy and emitting the density from the two \nprevious vectors spiralling out the Fibonacci sequence seen everywhere in \nnature from spirals of elements, to DNA, from seashells, to the rings of \nSaturn and living cells, to billions of microfilaments spiralling out from \nthe zero point field now within each neuron of the brain.. .  .The human \nbrain consists of approximately one hundred billion neurons.. .  .(Mans \nmind mirrors a Universe that mirrors mans Mind)\nEach neuron has a voltage which changes when ions flow inward and outward \nfrom a cell.. .  .Once a neurons voltage reaches a certain level of \nsubconscious energy compression +1=0 now it will consciously fire (C) a new \nelectrical signal to other cells which will repeat the process.. .  .And \ndepending which neurons gets stimulated through repetition, certain neural \nconnections may become stronger and more efficient, whilst others may \nbecome weaker as time unfolds statistical entropy.. .  .This is called \nneuroplasticity.. .  .\n\nEverything is formed by a locational 4pi spherical inward absorption t=0 \nand outward emission of EMR that's forming antimatter matter annihilation \nforming positive and negative electric charge and electromagnetic fields as \ntime unfolds C2.. .  .\nThere exists a profound and perfect symmetry 4pi between positive and \nnegative electric charge.  . ..And when that symmetry is broken forms 2pi \nspiral symmetry and we get the imperfect spiral symmetry of the Fibonacci \nsequence seen everywhere in nature.. .  .From virtual pair's of plasma, to \ngases, liquids, and solid Fibonacci fractal's.. .  .Only difference is time \ndilating Volume, or their rate of vibration at the centre of their own 3D \nref-frames within the One Infinite Universe.. .  . and therein lies the \nsecret of the universal pulse beat.. .  .\nWhat seems to be a conversion is a ratio between opposite vectors \ninterpreted as distance and time, physical reality and spiritual reality, \nannihilation and creation, matter and antimatter, mass and energy, or \ninterference and resonance within an abstract arrow of time of Cnow from \nthe centre of their own 3D ref-frames relative to their own energy or \nmass.. .  .E2=mc2c4+p2c2.. .  .", 
+            "author": "Seamless Robe"
+        }, 
+        {
+            "date": "2014-05-18T15:48:26.909Z", 
+            "text": "\"All motion is spiral\"? In what sense? What does that actually mean?!?\n\n\"All direction is spherically curved\"? Do you mean space is curved \nspherically in all directions? That might plausibly be true in a \ncosmological sense, although the evidence isn't so hot on that one, but its \ncertainly not true in the local sense of stars and galaxies. Or do you mean \nthat *direction* is spherically curved? Because that simply isn't the case\n\n\n\"Sinusoidal waves form Einstein's curvature of space-time\" in a sense, but \nonly in a vacuum. Also, the evidence on this one is again contended. Plus \nsinusoidal is an oversimplification", 
+            "author": "Oscar Heath"
+        }, 
+        {
+            "date": "2014-05-18T04:30:10.099Z", 
+            "text": "\"All motion is spiral.. .  .And all direction is spherically curved.. .  \n.Sinusoidal waves forms Einstein's curvature of spacetime.\"", 
+            "author": "Seamless Robe"
+        }, 
+        {
+            "date": "2014-05-16T16:04:49.767Z", 
+            "text": "Well done! You can use words! Now try and make sentences.", 
+            "author": "Oscar Heath"
+        }, 
+        {
+            "date": "2014-03-20T22:14:59.660Z", 
+            "text": "\"Everything is contracting and expanding a locational 4pi spherical inward \nabsorption t=0 and outward emission of electromagnetic waves.\" ", 
+            "author": "Seamless Robe"
+        }, 
+        {
+            "date": "2014-03-20T22:03:53.248Z", 
+            "text": "duh......", 
+            "author": "captainplanet999"
+        }, 
+        {
+            "date": "2013-11-30T14:27:35.233Z", 
+            "text": "", 
+            "author": "Harish Sharma"
+        }, 
+        {
+            "date": "2013-11-28T21:38:44.710Z", 
+            "text": "Please do this in german :D\ufeff", 
+            "author": "Blockkasten"
+        }, 
+        {
+            "date": "2013-11-23T15:48:22.245Z", 
+            "text": "Did anyone spot the 42?\ufeff", 
+            "author": "AvZ \u201cAstatine\u201d NaV"
+        }, 
+        {
+            "date": "2013-11-23T06:50:40.118Z", 
+            "text": "I definitely understood all of that\n \ufeff", 
+            "author": "Edward BB"
+        }, 
+        {
+            "date": "2014-03-26T18:56:11.565Z", 
+            "text": "im new to this! so if you could help me out? please", 
+            "author": "shilo sinjari"
+        }, 
+        {
+            "date": "2013-11-19T01:17:52.147Z", 
+            "text": "42\ufeff", 
+            "author": "IfPenguinsCanFly"
+        }, 
+        {
+            "date": "2013-11-15T14:26:24.960Z", 
+            "text": "\u2591\u2591\u2591\u2591\u2588\u2588\u2588\u2588\u2588\u2588\u2588 ]\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584          Bob is building an army.\n\u2582\u2584\u2585\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2585\u2584\u2583\u2582           \u263b/   This tank & Bob are against Google+\nIl\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588].      /\u258c    Copy and Paste this all over\n  \u25e5\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25e4..      / \\     Youtube if you are with us\ufeff", 
+            "author": "Aditya Verma"
+        }, 
+        {
+            "date": "2013-11-14T09:16:57.572Z", 
+            "text": "thats the theory... the answer of everything is 42!\ufeff", 
+            "author": "Leo Stahlheuer"
+        }, 
+        {
+            "date": "2013-11-14T01:12:53.461Z", 
+            "text": "L is stuff...ok now ima say L not stuff (0:48)\ufeff", 
+            "author": "William Roberts"
+        }, 
+        {
+            "date": "2013-11-13T19:06:12.847Z", 
+            "text": "L=42\nGreat!\ufeff", 
+            "author": "Isaac Thefallenapple"
+        }, 
+        {
+            "date": "2013-11-09T23:15:45.153Z", 
+            "text": "do you ever name the variables in the equation in any video?\ufeff", 
+            "author": "sicktoaster"
+        }, 
+        {
+            "date": "2013-11-04T04:33:13.861Z", 
+            "text": "You may not be a troll, but you are insecure about your (non existing) god, \nbecause you try to cram him into every place even that which ignores him \ncompletely like this video.", 
+            "author": "Dangerous Amoeba"
+        }, 
+        {
+            "date": "2013-11-02T10:41:14.135Z", 
+            "text": "and to the person who keeps flooding my inbox and calling me a \"troll\", a \nquick question, why so defensive? why so insecure? You think you really do \nknow it all lol! You are still searching and that is GOOD but listen to \nthat little angel on your shoulder because hes right. God is the only thing \nthat is real and lasts forever. I dont mind being called names and ive \ncertainly been called a lot worse than a troll. I believe your the type \ncomes to God at the last minute better late than never ;)", 
+            "author": "deretreivels44"
+        }, 
+        {
+            "date": "2013-11-02T10:37:06.652Z", 
+            "text": "LifeBalanceHD unknowingly or not has made the best comment here. Do you \nreally think God is a mathematician? All the so called humanist wana be \nphysicists and wanna be scientitist on here are only making a mockery of \nhumanism...and rightfully so. God is no more a physicist than a buddhist or \nnew ager. Man has twisted the whole cosmos into his little math puzzle with \ninfinity thrown in to boot. I MAJORED in advanced calculus in college AND \nstudied all the false religions to better know the enemy", 
+            "author": "deretreivels44"
+        }, 
+        {
+            "date": "2013-11-02T08:04:43.649Z", 
+            "text": "lololol, troll detected!", 
+            "author": "Joffrerap"
+        }, 
+        {
+            "date": "2013-10-31T20:22:51.995Z", 
+            "text": "\"Everything is formed by: A locational spherical inward absorption density \nand now outward emission density of Electromagnetic Wavefront's forming \nresonance antimatter+/-matter interference, forming + and -electric charge \nand electromagnetic fields. Spherical logarithm's forming and breaking \nexponential spirals \"Fibonacci.\" We feel and see this process as the \nforward passage of time. The interchange between these two unbalanced \nopposites is the basis of all motion within this rhythmic Universe. ", 
+            "author": "Seamless Robe"
+        }, 
+        {
+            "date": "2013-10-31T01:14:27.337Z", 
+            "text": "42 LOL 0:37", 
+            "author": "ZarqxKombat"
+        }, 
+        {
+            "date": "2013-10-30T18:17:56.652Z", 
+            "text": "Dont start.", 
+            "author": "The W.O.O.D."
+        }, 
+        {
+            "date": "2013-10-30T05:26:20.210Z", 
+            "text": "lol math is NOT the language of the cosmos, it's the language that we \ncreated to understand the cosmos. There were no numbers and no time. Well \nthere's time, but we created clocks and measurements for our convenience \nand understanding. It's still crazy to think about how we first started \ncounting, like before language we couldn't just say \"one, two, three\" lol \nhow the hell did we do it?", 
+            "author": "Life Balance"
+        }, 
+        {
+            "date": "2013-10-28T22:41:48.979Z", 
+            "text": "I think you are targeting the wrong audience with your comments. If \"God\" \nis the explanation, that gives you the best understanding you have of the \nuniverse, then good for you. I get the feeling Physicists would like better \nanswers.", 
+            "author": "Giles Bathgate"
+        }, 
+        {
+            "date": "2013-10-27T23:11:51.201Z", 
+            "text": "You are making a fundamentally unverifiable positive claim, and thus have a \nburden of proof that is impossible to take. And if you could prove this \nconsciousness, why would it have any moral authority? Is something good \nbecause god(s) say it is or do god(s) say it is because it is inherently \ngood no matter they're judgement?", 
+            "author": "dan B"
+        }, 
+        {
+            "date": "2013-10-27T18:27:15.974Z", 
+            "text": "oh it was a reply to you", 
+            "author": "Luis Elizondo"
+        }, 
+        {
+            "date": "2013-10-27T11:28:54.688Z", 
+            "text": "Right....", 
+            "author": "Darkmoon Baron"
+        }, 
+        {
+            "date": "2013-10-27T08:48:57.584Z", 
+            "text": "i feel sorry for idiot theists like you...", 
+            "author": "Naum Tomov"
+        }, 
+        {
+            "date": "2013-10-25T23:05:27.732Z", 
+            "text": "hate is your problem ", 
+            "author": "deretreivels44"
+        }, 
+        {
+            "date": "2013-10-25T04:33:14.875Z", 
+            "text": "I love the 42 in rules of the universe...and then later he mentions a deep \nunanswerable question...sound familiar anyone?", 
+            "author": "ThePCguy17"
+        }, 
+        {
+            "date": "2013-10-25T00:13:26.367Z", 
+            "text": "I hate people that are stuck in a primitive mindset. Why are there these \npeople in our world? Oh right. Religion fucked shit up.", 
+            "author": "Darkmoon Baron"
+        }, 
+        {
+            "date": "2013-10-24T17:23:04.427Z", 
+            "text": "i am not a god, and don't hate god like so many. ( they dont disbelieve in \nhim really, they just hate that he's god and theyre not).. but if you love \nhim in your heart he'll prove it to you indeed!", 
+            "author": "deretreivels44"
+        }, 
+        {
+            "date": "2013-10-24T09:44:53.650Z", 
+            "text": "the irony is that quantum physics proves God exists...but the faithful \ndidnt need that !", 
+            "author": "deretreivels44"
+        }, 
+        {
+            "date": "2013-10-24T03:31:49.204Z", 
+            "text": "but can you prove it?", 
+            "author": "gonorrheaagorgonzola"
+        }, 
+        {
+            "date": "2013-10-18T14:58:28.853Z", 
+            "text": "yes, however God created the man who thought up the equation ( which God \nmade long before man did) . Funny that the athiest thinks in human years \nwhen God was around before the stars and planets ( see wikipedia)", 
+            "author": "deretreivels44"
+        }, 
+        {
+            "date": "2013-10-17T17:51:05.626Z", 
+            "text": "Can anyone tell me the name of the equations being used? I want to print \nand frame them.", 
+            "author": "Nate Wynd"
+        }, 
+        {
+            "date": "2013-10-15T15:09:35.501Z", 
+            "text": "As a Greek i want to say sorry to all of you for the appearing comment.", 
+            "author": "NostalgiaOfRock"
+        }, 
+        {
+            "date": "2013-10-12T10:31:06.505Z", 
+            "text": "You sir, are what we call a retard. ", 
+            "author": "marleycake"
+        }, 
+        {
+            "date": "2013-10-12T05:24:56.661Z", 
+            "text": "Nope, I'm going to turn back while my brain is still alive.", 
+            "author": "SmoshLuber2000"
+        }, 
+        {
+            "date": "2013-10-11T11:23:16.872Z", 
+            "text": "someone explain the 42 stuff please", 
+            "author": "dragionic"
+        }, 
+        {
+            "date": "2013-10-03T00:04:03.833Z", 
+            "text": "this chanel made realise that i should have picked physics to study not \nstupid engineering", 
+            "author": "manaraslespaul"
+        }, 
+        {
+            "date": "2013-09-30T03:08:43.463Z", 
+            "text": "Aristotle was mainly wrong in everything he thought of. Including physics, \ndoes this make you dumb? No, you're just, simply, dumb.", 
+            "author": "MelancholyImbecilism"
+        }, 
+        {
+            "date": "2013-09-29T00:52:36.131Z", 
+            "text": "Whats with all the caps?? like you need to yell or something? Also \nEinstein's nationality was german, he lived there at the beginning of his \nlife, but moved around europe. He studied physics in switzerland but came \nback to germany later on, because at the time, germany was the nucleous of \nthe scientific world...... so yes he was German, its like stating that \nevery jewsih person is from Israel.....he was born German, he did gave up \nhis german nationality status, but still is a german.", 
+            "author": "plbpardo"
+        }, 
+        {
+            "date": "2013-09-26T15:24:41.251Z", 
+            "text": "Yes.", 
+            "author": "Renato Luiz Mendes Lopes"
+        }, 
+        {
+            "date": "2013-09-25T20:49:03.928Z", 
+            "text": "A scientist? I'm afraid you will embarass all the other scientists with \nyour arrogance and your nose, high up in the sky,...", 
+            "author": "MonaHerSelf"
+        }, 
+        {
+            "date": "2013-09-24T06:24:43.462Z", 
+            "text": "Love that hidden 42", 
+            "author": "VoidHugger"
+        }, 
+        {
+            "date": "2013-09-20T16:49:31.016Z", 
+            "text": "Why does your potential in the Lagrangian only depend on the values of the \nfields and not the derivatives of the fields?", 
+            "author": "Robert Taylor"
+        }, 
+        {
+            "date": "2013-09-17T16:04:28.584Z", 
+            "text": "yes. ", 
+            "author": "kaz kraft"
+        }, 
+        {
+            "date": "2013-09-16T11:42:18.893Z", 
+            "text": "I like these, but my brain feels like it's about to explode after every \nvideo. Not to mention repeating it 2 or 3 times to finally get it. ", 
+            "author": "Scarlattino Jacob"
+        }, 
+        {
+            "date": "2013-09-08T17:12:04.789Z", 
+            "text": "Nope, what is the '42' joke about?", 
+            "author": "Angel Rai"
+        }
+    ]
+}

@@ -1,0 +1,873 @@
+{
+    "publish_date": "2014-09-14T20:00:03.000Z", 
+    "video_length": "PT3M50S", 
+    "captions": [
+        {
+            "text": "Wireless charging seems so great, I plug this\nthingy in and then set this other thingy on", 
+            "dur": "4.111", 
+            "start": "0.179"
+        }, 
+        {
+            "text": "it\u2026 BAM power! But how the heck does electricity\nget from the wall into my phone?", 
+            "dur": "7", 
+            "start": "4.29"
+        }, 
+        {
+            "text": "Hello everyone! Trace here for DNews, thanks\nfor stopping by! You&#39;re probably watching", 
+            "dur": "7", 
+            "start": "12.47"
+        }, 
+        {
+            "text": "this show via a device that has a battery.\nLaptops, mobile phones, toothbrushes, though\u2026", 
+            "dur": "5.51", 
+            "start": "20.72"
+        }, 
+        {
+            "text": "not this new watch everyone&#39;s talking about\nfor some reason\u2026 All these things need charging", 
+            "dur": "4.719", 
+            "start": "26.23"
+        }, 
+        {
+            "text": "and for the moment we&#39;re still using cords\nand plugs for this\u2026 Inductive charging isn&#39;t", 
+            "dur": "6.141", 
+            "start": "30.949"
+        }, 
+        {
+            "text": "new, it&#39;s been used since the early 1990s\nin electric toothbrushes, and for surgically", 
+            "dur": "4.27", 
+            "start": "37.09"
+        }, 
+        {
+            "text": "implanted devices like artificial hearts.\nYou&#39;ve even heard of this in pop culture!", 
+            "dur": "3.859", 
+            "start": "41.36"
+        }, 
+        {
+            "text": "In the late 1800s, Tesla was allegedly able\nto power light bulbs with no wires, and claimed", 
+            "dur": "5.491", 
+            "start": "45.219"
+        }, 
+        {
+            "text": "to be able to transmit power from one location\nto another with no wires\u2026", 
+            "dur": "6.74", 
+            "start": "50.71"
+        }, 
+        {
+            "text": "To make it work relies on simple physics.\nIf you ever wrapped a coil of wire around", 
+            "dur": "3.769", 
+            "start": "57.45"
+        }, 
+        {
+            "text": "a nail and attached a battery, then you know\nthe electricity in the battery runs through", 
+            "dur": "5.641", 
+            "start": "61.219"
+        }, 
+        {
+            "text": "the wire creating an electromagnetic field,\nor flux. Do it at home, it&#39;s fun and you can", 
+            "dur": "4.48", 
+            "start": "66.86"
+        }, 
+        {
+            "text": "use it to pick up paperclips or whatever.", 
+            "dur": "1.6", 
+            "start": "71.34"
+        }, 
+        {
+            "text": "With that same principle, a coil of wire\u2026\nmagnet\u2026 battery\u2026 you can make it go the", 
+            "dur": "3.77", 
+            "start": "72.94"
+        }, 
+        {
+            "text": "other way too. Spin a magnet in the coil and\nyou&#39;ll GENERATE electricity by taking that", 
+            "dur": "4.97", 
+            "start": "76.71"
+        }, 
+        {
+            "text": "magnetic flux and moving it through that coil\nto create electricity.", 
+            "dur": "4.29", 
+            "start": "81.68"
+        }, 
+        {
+            "text": "The battery creates a stable electromagnet\nbecause it&#39;s direct current, it&#39;s going one", 
+            "dur": "3.66", 
+            "start": "85.97"
+        }, 
+        {
+            "text": "way. The power from your walls is alternating\ncurrent, changes direction 60 times a second", 
+            "dur": "5.61", 
+            "start": "89.63"
+        }, 
+        {
+            "text": "-- or cycles at 60 hertz -- so the electrons\nare moving back and forth -- remember that", 
+            "dur": "4.68", 
+            "start": "95.24"
+        }, 
+        {
+            "text": "because that&#39;s the key to the charging.", 
+            "dur": "2.809", 
+            "start": "99.92"
+        }, 
+        {
+            "text": "Wireless inductive charging gets its name\nfrom that magnetic field interaction, called", 
+            "dur": "4.1", 
+            "start": "102.729"
+        }, 
+        {
+            "text": "induction. Inside of the charging pad, and\nthe inductive charging device are tiny coils", 
+            "dur": "5.121", 
+            "start": "106.829"
+        }, 
+        {
+            "text": "of wire. The pad, being plugged into the wall,\nis fully powered -- and the power is cycling.", 
+            "dur": "6.809", 
+            "start": "111.95"
+        }, 
+        {
+            "text": "When the other coils come within a short distance\ntheir flux will interact with the flux in", 
+            "dur": "4.57", 
+            "start": "118.759"
+        }, 
+        {
+            "text": "the device, move the electrons around and\ncharge the battery.", 
+            "dur": "3.97", 
+            "start": "123.329"
+        }, 
+        {
+            "text": "Chances are, the number of cycles per second\nisn&#39;t going to be 60 hertz, but like, 5 or", 
+            "dur": "4.7", 
+            "start": "127.299"
+        }, 
+        {
+            "text": "10, so it doesn&#39;t mess up other things in\nyour house. Your WiFi network cycles at 2.4", 
+            "dur": "5.16", 
+            "start": "131.999"
+        }, 
+        {
+            "text": "gigahertz or 2.4 billion cycles per second,\nso it&#39;s DEFINITELY not going to mess THAT", 
+            "dur": "5.071", 
+            "start": "137.159"
+        }, 
+        {
+            "text": "up, but with all the radio waves flying around,\nyou can&#39;t be too careful.", 
+            "dur": "3.659", 
+            "start": "142.23"
+        }, 
+        {
+            "text": "If it&#39;s that easy, you&#39;d think it would be\neverywhere, but the problem is efficiency.", 
+            "dur": "5.07", 
+            "start": "145.889"
+        }, 
+        {
+            "text": "You waste a lot of power filling up two coils\nand letting them talk to each other. It&#39;s", 
+            "dur": "5.42", 
+            "start": "150.959"
+        }, 
+        {
+            "text": "SO much better to just plug right in.", 
+            "dur": "2.461", 
+            "start": "156.379"
+        }, 
+        {
+            "text": "The future of wireless charging is unclear.\nIt seems like a great idea, but it&#39;s still", 
+            "dur": "4.7", 
+            "start": "158.84"
+        }, 
+        {
+            "text": "going to be a short-distance system for a\nwhile. In 2006, MIT found if you match the", 
+            "dur": "5.459", 
+            "start": "163.54"
+        }, 
+        {
+            "text": "frequencies of the devices, you can make the\npower go a few METERS -- so if you were in", 
+            "dur": "4.81", 
+            "start": "168.999"
+        }, 
+        {
+            "text": "your living room, and a charger was there\n-- your phone would charge right in your pocket\u2026", 
+            "dur": "4.231", 
+            "start": "173.809"
+        }, 
+        {
+            "text": "They&#39;re working on marketing the technology\nnow, but it&#39;s still not everywhere\u2026", 
+            "dur": "4.799", 
+            "start": "178.04"
+        }, 
+        {
+            "text": "Mr. Tesla, we&#39;re getting there, man.", 
+            "dur": "2.04", 
+            "start": "182.839"
+        }, 
+        {
+            "text": "Speaking of awesome innovations - how about\nones that make flying a little less suckier?", 
+            "dur": "4.67", 
+            "start": "184.879"
+        }, 
+        {
+            "text": "That happens to be the focus of discussion\non THIS episode of Anyhoo, hosted by my friend", 
+            "dur": "3.84", 
+            "start": "189.549"
+        }, 
+        {
+            "text": "Catie Wayne. Check it out!", 
+            "dur": "7", 
+            "start": "193.389"
+        }, 
+        {
+            "text": "Back to wireless charging - what would you\nwant to power wirelessly? I&#39;d love to beam", 
+            "dur": "5.83", 
+            "start": "211.909"
+        }, 
+        {
+            "text": "power to my TV! Then I could put it anywhere!\nDown with cables! Leave your comments down", 
+            "dur": "5.81", 
+            "start": "217.739"
+        }, 
+        {
+            "text": "below, Please subscribe and thanks for watching!", 
+            "dur": "3.33", 
+            "start": "223.549"
+        }
+    ], 
+    "title": "How Does Wireless Charging Work?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0g23r2", 
+        "/m/019dhf"
+    ], 
+    "number_views": 242088, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-07T03:09:14.740Z", 
+            "text": "wireless charging should be used in today's world of technology\ufeff", 
+            "author": "Ger Hang"
+        }, 
+        {
+            "date": "2015-05-04T11:13:21.524Z", 
+            "text": "\ud83d\ude45 when people leave comments that have nothing to do with the video \ud83d\ude2b. In \nother news I hear a dripping noise coming from my bedroom walls should I be \nconcerned?\ufeff", 
+            "author": "dedie Richemond"
+        }, 
+        {
+            "date": "2015-05-02T01:21:48.989Z", 
+            "text": "As an electrician these comment sections make my day LOL !\ufeff", 
+            "author": "Kamo_ardu"
+        }, 
+        {
+            "date": "2015-04-27T01:57:36.881Z", 
+            "text": "Is that boxy??\ufeff", 
+            "author": "icytea5"
+        }, 
+        {
+            "date": "2015-04-20T14:00:59.419Z", 
+            "text": "Not efficient. B... but.. in south Korea, it's already implemented for bus \nthat charge using wireless power.\ufeff", 
+            "author": "011azr"
+        }, 
+        {
+            "date": "2015-04-20T00:53:31.325Z", 
+            "text": "I have wireless charging for both my Samsung Galaxy s5's and Note 4 and my \nLG G3 came with it. But I never knew how it worked. Thank you for \nexplaining it. \ufeff", 
+            "author": "Garriett Menzies"
+        }, 
+        {
+            "date": "2015-04-15T01:03:54.018Z", 
+            "text": "Wh WHAT!\ufeff", 
+            "author": "Chris Rivera"
+        }, 
+        {
+            "date": "2015-04-13T18:28:31.227Z", 
+            "text": "it's not wireless if you have to plug in the charging pad... can you use \nthe charging pad withOUT plugging it in?  that's wireless.\ufeff", 
+            "author": "kissitoxo"
+        }, 
+        {
+            "date": "2015-04-13T09:10:59.116Z", 
+            "text": "One word: Efficiency\ufeff", 
+            "author": "Florin Chirica"
+        }, 
+        {
+            "date": "2015-04-12T17:54:26.091Z", 
+            "text": "I'm sorry to be the bringer of bad news, or \"mister know it all\", but, I \njust wanted to point out that the power running through your walls is DC \n(NOT AC)! while the power running through the power-lines is AC, since AC \nis great for long distance packaging of high-voltages using power-stations, \ncontaining \"Transformers\". If the power-lines were DC, you'd need a \npower-station every so many blocks.\nJust prior to getting to it's destination (for example, your house), the AC \nis converted to DC, using a \"Rectifier\" and stepped down to 120 volts (240 \nvolts in Europe), which is what is running through the wires in our walls \nand also what we receive from our sockets, to power our electrical \nappliances.\nThanks!\ufeff", 
+            "author": "Matti pedersen"
+        }, 
+        {
+            "date": "2015-04-06T13:02:00.599Z", 
+            "text": "this is just an beginning in future there wont be enough electricity to \npower up any thing wireless or with cables we need an alternate source of \nelectricity and not alternate way of wasting electricity\ufeff", 
+            "author": "Varghese Bernard"
+        }, 
+        {
+            "date": "2015-04-06T01:21:46.390Z", 
+            "text": "How is wireless charging even good? Its useless. People say \"no more cables \nor mess.\" There still will be cables because you need a cable to be \ncharging the charger.\ufeff", 
+            "author": "The Dude"
+        }, 
+        {
+            "date": "2015-04-01T15:38:17.821Z", 
+            "text": "Lights, alarm clock, wireless headphones, and laptops even though there are \nbatterys its still a hastle charging or replacing just set and forget no \nmore cords could you imagine a world like that\ufeff", 
+            "author": "cdude100"
+        }, 
+        {
+            "date": "2015-03-25T22:35:28.726Z", 
+            "text": "so if we match the herzts to 2.4 g herz would that mean my phone be \ncharging and using wifi at the same time\ufeff", 
+            "author": "Shivam Patel"
+        }, 
+        {
+            "date": "2015-03-23T17:43:02.059Z", 
+            "text": "Matching resonant frequencies wasn't discovered in 2006 (that's pretty \nbasic EE)... That MIT teams advancement was deciding to choose a frequency \nthat gave them about a 2m distance in the near field. They also proved that \nby adjusting the resonant frequencies, the near field size can be changed. \nAlso, the future is wireless power transmission. As an Electrical & \nComputer Engineering undergrad I made a wireless charging system for cell \nphones (not surface to surface induction mat style, but free space). This \nis getting easier and easier to do.\ufeff", 
+            "author": "Hemuro4ever"
+        }, 
+        {
+            "date": "2015-03-23T16:45:09.234Z", 
+            "text": "wow, not bad eh e_e ... wireless charging. that was Fast. What else is \nfast? O_O Martian's Head who have no eye lids, Bitches who look pretty but \naren't. that kindda shit... e_O .. yea my eye twitches when I can't figure \nshit out. You hear? ...  \ufeff", 
+            "author": "TheShotokanWarrior"
+        }, 
+        {
+            "date": "2015-03-21T02:07:23.139Z", 
+            "text": "great\ufeff", 
+            "author": "Rahul P Diggi"
+        }, 
+        {
+            "date": "2015-03-16T17:07:44.508Z", 
+            "text": "Imma just state this upfront this is soo inaccurate\ufeff", 
+            "author": "Q.M"
+        }, 
+        {
+            "date": "2015-03-12T16:29:12.016Z", 
+            "text": "", 
+            "author": "jesse light"
+        }, 
+        {
+            "date": "2015-03-12T16:29:03.514Z", 
+            "text": "My chicken phone \ufeff", 
+            "author": "jesse light"
+        }, 
+        {
+            "date": "2015-03-07T19:35:52.394Z", 
+            "text": "They don't know how to do it\ufeff", 
+            "author": "Linda G"
+        }, 
+        {
+            "date": "2015-03-04T08:48:38.234Z", 
+            "text": "If wireless power really kicks off, one great area of implementation could \nbe transportation. Imagine a car that runs on electricity but has no \nbatteries as it would be drawing power from a smart wireless power grid.\ufeff", 
+            "author": "aussadroid"
+        }, 
+        {
+            "date": "2015-03-03T15:27:36.123Z", 
+            "text": "what I want wirelessly charged?...\nXD here is a silly idea, remember those blinking shoos in the 90's?\nwell, a shoo shelf that wirelessly charge the shoos after use XD\ufeff", 
+            "author": "ThePaalanBoy"
+        }, 
+        {
+            "date": "2015-03-03T04:28:13.199Z", 
+            "text": "So the charging pad has to be plugged into the wall and the phone has to be \nset onto the pad? Why not just plug the phone in then? \ufeff", 
+            "author": "Jason Ries"
+        }, 
+        {
+            "date": "2015-05-05T14:46:36.436Z", 
+            "text": "+Kevin Miller I didn't know that. Now that's useful.", 
+            "author": "Jason Ries"
+        }, 
+        {
+            "date": "2015-05-05T06:51:54.380Z", 
+            "text": "+Jason Ries You can charge multiple devices at one time, an advantage over \nplugging them all in and taking up 3 ports.", 
+            "author": "Kevin Miller"
+        }, 
+        {
+            "date": "2015-04-26T13:21:35.839Z", 
+            "text": "+Jason Ries Mini USBs have a bad tendency of wearing out very quickly. I \njust put my Galaxy S3 in the shop to get the charge port replaced, cost \n$55. Then I saw inductive chargers on ebay for $10. Not plugging it in \nanymore except for data transfer or once in a while for faster charging.", 
+            "author": "Jaytheredneck1"
+        }, 
+        {
+            "date": "2015-04-11T02:36:05.869Z", 
+            "text": "+THEOAKLANDBABY510 my zte sonata did that so im selling it and buying an lg \noptimus l70...", 
+            "author": "I'm a frog Nice? (Jorkus)"
+        }, 
+        {
+            "date": "2015-04-11T02:34:47.284Z", 
+            "text": "+posting id my zte sonata did that in 3 months so i am just going to sell \nit to someone or a machine and going to buy a lg optimus l70", 
+            "author": "I'm a frog Nice? (Jorkus)"
+        }, 
+        {
+            "date": "2015-04-07T19:01:22.072Z", 
+            "text": "+THEOAKLANDBABY510 \nMy cell phone (Motorola Droid X) did that a year after the factory warranty \nexpired. The data/charging port quit working. I can't tell you what a pain \nit was to buy a second battery and a charger for those batteries; \nconstantly switching them out while the other charges. This is why I can't \nunderstand why people buy cell phones with integrated batteries and \nintegrated memory only. I had my eye on the Samsung Galaxy S6 until I found \nout that it featured both of those bad traits.", 
+            "author": "posting id"
+        }, 
+        {
+            "date": "2015-04-06T05:14:11.513Z", 
+            "text": "Might not the charging pad's port break and/or wear out? Perhaps someone \nwould need a charging pad to charge a broken pad.", 
+            "author": "Jason Ries"
+        }, 
+        {
+            "date": "2015-04-05T14:44:37.543Z", 
+            "text": "If you don't have the cable, this would be an alternative to charge your \nphone. ", 
+            "author": "Benjamin Gutman"
+        }, 
+        {
+            "date": "2015-04-04T21:15:09.773Z", 
+            "text": "+Jason Ries so the port dosen't wear out", 
+            "author": "Cody Cullum"
+        }, 
+        {
+            "date": "2015-03-25T22:36:02.381Z", 
+            "text": "+Jason Ries its easier", 
+            "author": "Shivam Patel"
+        }, 
+        {
+            "date": "2015-03-11T04:17:52.966Z", 
+            "text": "Maybe the ports broken?", 
+            "author": "THEOAKLANDBABY510"
+        }, 
+        {
+            "date": "2015-03-02T16:27:18.896Z", 
+            "text": "laptop/pc speaker/lamp bulb /television / electricity plug /\ufeff", 
+            "author": "Christophe Pitchen"
+        }, 
+        {
+            "date": "2015-02-24T01:46:33.255Z", 
+            "text": "What about genetically modified trees that converts sunlight into wireless \nenergy? \ufeff", 
+            "author": "Bol\u00edvar David"
+        }, 
+        {
+            "date": "2015-02-22T16:35:19.458Z", 
+            "text": "I didn't understand shit\ufeff", 
+            "author": "Aki Hauru"
+        }, 
+        {
+            "date": "2015-05-05T06:58:02.591Z", 
+            "text": "+Aki Hauru When a current is passed through a coil, it produces an magnetic \nfield (hence the term, electromagnetic). This magnetic field can also \ninduce (hence the term, inductive charging) the flow of current, or \nelectricity in a nearby coil, thus charging your phone wirelessly.", 
+            "author": "Kevin Miller"
+        }, 
+        {
+            "date": "2015-02-20T21:14:54.499Z", 
+            "text": "Would still need wires going to your TV? \n\nLaptop would be good.\ufeff", 
+            "author": "Tommy T"
+        }, 
+        {
+            "date": "2015-02-18T00:16:09.608Z", 
+            "text": "i would use that technology to run my portable HERF gun!!\ufeff", 
+            "author": "coler154"
+        }, 
+        {
+            "date": "2015-02-17T04:52:45.120Z", 
+            "text": "Wireless charging sounds like some cancerous stuff\ufeff", 
+            "author": "Macsk8ing"
+        }, 
+        {
+            "date": "2015-02-15T07:52:49.170Z", 
+            "text": "If Aziz Ansari and Jack black had a baby\ufeff", 
+            "author": "dillykins"
+        }, 
+        {
+            "date": "2015-02-14T16:12:57.437Z", 
+            "text": "nikola tesla is still the best\ufeff", 
+            "author": "Seth Banosan"
+        }, 
+        {
+            "date": "2015-02-09T06:33:12.753Z", 
+            "text": "literally electricity in the air? sounds sketchy.\ufeff", 
+            "author": "joseph pulaski"
+        }, 
+        {
+            "date": "2015-02-06T09:52:13.368Z", 
+            "text": "Wireless charging electric cars parking lot\ufeff", 
+            "author": "momoktomok"
+        }, 
+        {
+            "date": "2015-01-31T12:50:44.000Z", 
+            "text": "FLUX (Free Energy) is everywhere but some powerful people of the world \nSTOPS the technologies to prevent the fossil business and other man made \nenergy runs out. Especically the governments need big money daily.\ufeff", 
+            "author": "terastarship2"
+        }, 
+        {
+            "date": "2015-01-27T23:10:03.105Z", 
+            "text": "I use wireless charging its awesome. No more broken cables.\ufeff", 
+            "author": "gareth squires"
+        }, 
+        {
+            "date": "2015-01-27T01:28:18.641Z", 
+            "text": "inductive charging still requires a plugged in power source.This vid is \nmisleading.Toothbrushes dont have any wires coming out of them but their \nchargers that they sit on are plugged in.\ufeff", 
+            "author": "738polarbear"
+        }, 
+        {
+            "date": "2015-01-21T04:55:34.446Z", 
+            "text": "At 1:57 \n\" 60Hz per second \"\nHhhmmmm \nThis is a brand new concept ;)\ufeff", 
+            "author": "Lokmane Redjemi"
+        }, 
+        {
+            "date": "2015-01-20T01:29:41.183Z", 
+            "text": "she reminds me of boxy lol\ufeff", 
+            "author": "Quenton Millstid"
+        }, 
+        {
+            "date": "2015-01-15T22:24:55.651Z", 
+            "text": "", 
+            "author": "\u738b\u8574\u5b81"
+        }, 
+        {
+            "date": "2014-12-30T18:35:16.066Z", 
+            "text": "Personally I would want wireless power for my guitar pedals, and for \npowered speakers. That would make for a nice, spaghetti-free music room!\ufeff", 
+            "author": "Kirin Kapin"
+        }, 
+        {
+            "date": "2014-12-27T22:10:33.056Z", 
+            "text": "one problem is the power grid in america.\n110 Volts. nuff said.\ufeff", 
+            "author": "martinxXsuto"
+        }, 
+        {
+            "date": "2014-12-25T12:21:23.568Z", 
+            "text": "Is it possible to transfer/share charge stored in battery of one mobile to \nanother mobile\ufeff", 
+            "author": "Naveen Kumar"
+        }, 
+        {
+            "date": "2014-12-23T00:14:34.184Z", 
+            "text": "My wife's vibrator \ufeff", 
+            "author": "rudy vasquez"
+        }, 
+        {
+            "date": "2014-12-11T20:47:41.837Z", 
+            "text": "My Xbox one controller\ufeff", 
+            "author": "gunnar stahl"
+        }, 
+        {
+            "date": "2014-11-26T08:56:51.057Z", 
+            "text": "I want to pee wirelessly :)\ufeff", 
+            "author": "Ben Bee"
+        }, 
+        {
+            "date": "2014-11-22T21:55:09.955Z", 
+            "text": "Speak English!!\ufeff", 
+            "author": "MegaSalman1111"
+        }, 
+        {
+            "date": "2014-11-19T04:22:25.281Z", 
+            "text": "I dont need to charge myself\ufeff", 
+            "author": "rolex"
+        }, 
+        {
+            "date": "2014-11-11T01:15:00.988Z", 
+            "text": " I would love my iPad to charge without wires so that when I forget to \ncharge it it is charged\ufeff", 
+            "author": "Zoe Akinbodunse"
+        }, 
+        {
+            "date": "2014-10-31T20:55:05.333Z", 
+            "text": "What the hell is wireless charging? This video doesn't show nothing... THE \nFUCK AM I WATCHING.\ufeff", 
+            "author": "David K"
+        }, 
+        {
+            "date": "2014-10-28T23:58:44.000Z", 
+            "text": "I thought this video was about how cellphone companies scam you.\n\nBTW I'd make wireless powered electric cars.\ufeff", 
+            "author": "leerman22"
+        }, 
+        {
+            "date": "2014-10-12T14:35:55.169Z", 
+            "text": "My tv,laptop,phone,tablet, and electric lock on our door\ufeff", 
+            "author": "Gabe Pennington"
+        }, 
+        {
+            "date": "2014-10-08T20:11:41.189Z", 
+            "text": "Unfortunate for you #Dnews  or DICKnews, wireless mobile charging is \nalready been invented while you are searching for some reasons to show your \ndumb face and wannabe scientist ideas... by the way, your video is so \nboring, make some videos related to why you are so boring... oh i forgot, \nyou must be the guy from the planet Mars, that's why you looks dumb and \nboring, you came to earth with some \"yet unknown new technology\"...???\ufeff", 
+            "author": "Aboy Kh"
+        }, 
+        {
+            "date": "2014-10-08T19:05:37.730Z", 
+            "text": "Was that Boxxy?\ufeff", 
+            "author": "ROBST3R"
+        }, 
+        {
+            "date": "2015-03-12T07:32:39.760Z", 
+            "text": "Yes!! Yes it is", 
+            "author": "Nathan Abraham"
+        }, 
+        {
+            "date": "2014-10-08T03:33:32.211Z", 
+            "text": "The words \"Waste of energy\" caught my attention. Is it still a waste for \nthose charging pads that charge by simply placing something against it? \nLike the Galaxy S5's charging case? It doesn't dock in or anything; you \nsimply lay it down on top of the charger. I mean, still wireless, but not \nover a distance. Still a waste?\ufeff", 
+            "author": "Mark Belain"
+        }, 
+        {
+            "date": "2014-10-02T12:18:44.627Z", 
+            "text": "i want a 3km radius wireless charger for my laptop\ufeff", 
+            "author": "NeoUsui"
+        }, 
+        {
+            "date": "2014-10-01T01:02:04.279Z", 
+            "text": "i have a wireless charger\ufeff", 
+            "author": "Remi Ichinose"
+        }, 
+        {
+            "date": "2014-10-01T01:02:05.691Z", 
+            "text": "i have a wireless charger\ufeff", 
+            "author": "Remi Ichinose"
+        }, 
+        {
+            "date": "2014-09-29T08:07:16.444Z", 
+            "text": "Could this be used for pacemakers?\ufeff", 
+            "author": "Riley Purcell"
+        }, 
+        {
+            "date": "2014-09-29T04:38:26.174Z", 
+            "text": "@ 0:47, was that a picture of Trace himself, rather than Tesla?\ufeff", 
+            "author": "Cynthia Avishegnath"
+        }, 
+        {
+            "date": "2014-09-27T22:08:46.000Z", 
+            "text": "wirelessly charging laptop\ufeff", 
+            "author": "Christian Castillo"
+        }, 
+        {
+            "date": "2014-09-25T21:05:44.799Z", 
+            "text": "Laptop\ufeff", 
+            "author": "Mitz Productions"
+        }, 
+        {
+            "date": "2014-09-25T04:58:19.062Z", 
+            "text": "This will be great when we all become cyborgs and need to charge our \ncomputer brains\ufeff", 
+            "author": "Niahc"
+        }, 
+        {
+            "date": "2014-09-24T19:47:23.027Z", 
+            "text": "Charging a ps4 controller\ufeff", 
+            "author": "Francisco Gallegos"
+        }, 
+        {
+            "date": "2014-09-24T16:23:57.217Z", 
+            "text": "I'd like to have a wireless charger for my iPad. I charge it next to my bed \nat night, but the plug-in is on the opposite end of my nightstand causing \nthe wire to get bent.\ufeff", 
+            "author": "biosonic100"
+        }, 
+        {
+            "date": "2014-09-23T15:54:00.683Z", 
+            "text": "power a sex toy wirelesly\ufeff", 
+            "author": "TheOnlyIcepirate"
+        }, 
+        {
+            "date": "2014-09-23T07:31:20.930Z", 
+            "text": "A wireless charger at 60Hz would be bulky and make your phone twice as \nheavy.That's the real and first reason why it uses higher frequency's.\ufeff", 
+            "author": "Picobyte"
+        }, 
+        {
+            "date": "2014-09-23T00:20:43.645Z", 
+            "text": "Wirelessly charging my dildo, so i can have it 24 hours a day in my puss :D\ufeff", 
+            "author": "Joong So Min"
+        }, 
+        {
+            "date": "2014-09-22T21:03:01.120Z", 
+            "text": "Tesla <3\ufeff", 
+            "author": "XXXPEACEXXX7"
+        }, 
+        {
+            "date": "2014-09-22T15:56:13.905Z", 
+            "text": "The quick explanation is that the wireless charger is a transformer.  The \nprimary coil is in the charger, and the secondary is in the phone.\ufeff", 
+            "author": "Ray Drouillard"
+        }, 
+        {
+            "date": "2014-09-22T15:39:48.135Z", 
+            "text": "My car.\ufeff", 
+            "author": "Mike Santos"
+        }, 
+        {
+            "date": "2014-09-22T12:03:03.793Z", 
+            "text": "Where are you putting your TV, and how small is it, that you think wireless \npower is going to be useful for it?\ufeff", 
+            "author": "Blood Angel"
+        }, 
+        {
+            "date": "2014-09-22T10:42:41.034Z", 
+            "text": "What about using microwaves\ufeff", 
+            "author": "noooreally"
+        }, 
+        {
+            "date": "2014-09-22T04:35:09.978Z", 
+            "text": "My Nokia... oh wait, it already is... Even if it isn't fully standard yet \nlike on my 920, I want to see it that way. It is convenient to not find a \nwire after I am already in bed and ready to sleep.\ufeff", 
+            "author": "Jonathon Mullin"
+        }, 
+        {
+            "date": "2014-09-21T21:31:31.146Z", 
+            "text": "i would charge my macbook air\ufeff", 
+            "author": "ipodcake"
+        }, 
+        {
+            "date": "2014-09-21T19:33:56.697Z", 
+            "text": "mouse and keyboard\ufeff", 
+            "author": "Jeremiah Link"
+        }, 
+        {
+            "date": "2014-09-21T16:30:54.180Z", 
+            "text": "actually it's more efficient as most if not all inductive chargers shut off \nwhen the battery is full unlike a AC adapter which constantly gives off a \ncurrent and thus constantly uses power\ufeff", 
+            "author": "darkheat246"
+        }, 
+        {
+            "date": "2014-09-21T04:15:46.009Z", 
+            "text": "Mmm, Dat flux interaction.\ufeff", 
+            "author": "Solokeh Krontos"
+        }, 
+        {
+            "date": "2014-09-21T03:14:50.192Z", 
+            "text": "This is not wireless chargibg lol. you still plug it into the wall like \nthe\" old\" method as well as a wire commibg from it.. you cant walk around \nthe house and charge youre phone while its not plugged in lol. you have to \nkeep t on the pad to charge . infact its worse with that method. The plug \nyou have right now that it plugged directly into yor phone will stsy \nattacched so you can use your phone more easily. the other way requires you \nto hold tge chsrgibg base and tge phone together at all times. its a bit \nawkward direct plug moves with the phone. unles you have the w\nireless charging devise attached to the phone tgen you can manuver th\ne phone with having to hold the charging base to it. it shoulf be marjeyed \nas a \nway so you dont need as many porys expoding the inside of your phpne to \ndirt and you wont have to worry about the charging connections getting worn \nout since they are no longer needed. but wireless.. yea right thats like \ncalling dialup wireless lol you got tge cable going right into the pc. \nWireless ny ass. you wabt to knpw wgat wireless is... its wifi. Being able \nto walk damb near aby where abd being able to use tge inyernet with no \ncableattached to you device. if tgey could increase the range a device \ncould be charged at then yes thats wireless. this crap ... no . laughable \nthat they even claim its wireless. nice effort tho haha\ufeff", 
+            "author": "NoVaKane"
+        }, 
+        {
+            "date": "2014-09-21T02:10:11.327Z", 
+            "text": "Your phone would charge right in your pocket, where the fire is!  lol. \n Idk.  I don't see wireless charging safely arriving at it's only \nmeaningful form, contactless charging, which scares the tar out of me \nanyways so whooptydoo! That's the rare, sincere \"whootydoo\".\ufeff", 
+            "author": "George Carlos"
+        }, 
+        {
+            "date": "2014-09-21T01:49:10.405Z", 
+            "text": "I think is a good idea for airports. You can sit down wherever you want \navoiding being chain to a charging port.\ufeff", 
+            "author": "Javier Su\u00e1rez"
+        }, 
+        {
+            "date": "2014-09-21T01:25:41.129Z", 
+            "text": "I'd like a HUGE tower emitting these powering waves (assuming it doesn't \ngive us all cancer) that runs on green energy like city wide array of solar \npanels that powers all the electrical powered cars within a 10 mile radius. \nThen all the cars will be charged as they're in the area\ufeff", 
+            "author": "spurgeon wright"
+        }, 
+        {
+            "date": "2014-09-20T20:16:49.772Z", 
+            "text": "soon in near future we can create battery less devices by hooking up whole \ncities with wireless charging capabilities...\nimagine life without those annoying batteries ...\ufeff", 
+            "author": "Hari Praveen"
+        }, 
+        {
+            "date": "2014-09-20T18:25:17.046Z", 
+            "text": "Charging a portable computer, or anything +/- big but portable wuold be \ncool!\ufeff", 
+            "author": "Pedro Carnide"
+        }, 
+        {
+            "date": "2014-09-20T15:26:41.687Z", 
+            "text": "Wirelessly charged electric car. It would charge on the road or in your \ndriveway on in a parking lot. Charging stations could be everywhere and \nthis would salve the battery problem!\ufeff", 
+            "author": "Kris S"
+        }, 
+        {
+            "date": "2014-12-31T08:07:27.220Z", 
+            "text": "+owen west\n I mentioned in another post that wireless charging for cars right now is \nsimply done by parking over a specialized mat or pad in one's garage and \nthey've achieved efficiencies very close to traditional wired connection \n(just above 90%) and experimental systems using a cable embedding in the \nroad to wireless run electric buses while driving are underway. Yes, the \ncost of the vehicles are higher when compared to traditional gas powered \nones, but that will really only be true until the technology becomes more \ncommon place, plus most governments offer subsidies or tax write-offs on \nhybrid and electric cars to offset some of the difference (the price \ndifference.for hybrids has decreased since their introduction). Plus with \nTesla Motors effectively putting the technology for the electric car into \nthe public domain, within a few years we should be seeing all sorts of new \ntechnology on the market that'll only serve to drive down prices. Besides, \nwith fuel prices being what they are these days, the cost of the \nelectricity needed is likely less than that of gasoline (though I don't \nfeel like searching for figures at the moment). Charging stations already \nexisting in parking lots and parking decks that electric car owners can \nplug their cars into while they're parked (my 'local' mall has two such \nspaces and I live in the middle of nowhere, hence the 'local', so I imagine \nthey are more prevalent in more populous areas). They will only become more \nprevalent as electric cars become more prevalent and while not wireless \nright now, the technology exists and is efficient enough that there's no \nreason to assume we won't be seeing a shift in that direction in the next \ndecade (I mean, hell, it's not even theoretical- wireless charging stations \nare already out there. That's what +Hirsh Kabaria and I were referring to.)\n\nI'm not intentionally trying to attack your every post or anything. I just \nthink this has so many exciting ramifications and the technology exists to \nmake this happen (and it is happening on a small scale). Yes, some of the \nthings I've mentioned aren't all that practical yet, but they easily could \nbe on the market within a decade. The only thing that'll keep that from \nhappening is if this current iteration of the technology doesn't see more \nwidespread adoption, which won't happen if everyone just assumes it's not \npractical and is prohibitively expensive (while shelling out 300-500USD for \na new iphone every two years... sorry, that's another rant all together).", 
+            "author": "finnmaura"
+        }, 
+        {
+            "date": "2014-12-06T01:09:11.576Z", 
+            "text": "+Hirsh Kabaria I've heard about the Nissan Leaf, I'll have to check out \nwhat Toyota's doing.", 
+            "author": "finnmaura"
+        }, 
+        {
+            "date": "2014-11-30T19:31:54.736Z", 
+            "text": "We already have this, at Toyota in Japan. ", 
+            "author": "Hirsh Kabaria"
+        }, 
+        {
+            "date": "2014-11-28T01:12:25.509Z", 
+            "text": "+owen west my tablet charges slightly faster with its wireless charger than \nUSB. Same 2amp USB port. You are ignorant. You waste more energy converting \nfrom 120v AC to 5v DC than transmitting. ", 
+            "author": "Kris S"
+        }, 
+        {
+            "date": "2014-11-27T23:36:07.724Z", 
+            "text": "+finnmaura thats definitely not practical right know. Wirelessly chargeing \na phone isn't practical consider how long it takes. Let alone 1 car. Also \npepole would need to put that in there houses on there own terms. It will \ncost alot of money. Not to mention, what if you what to go onto vacation? \nParking stations wouldn't be practical because they would be extremely \ncrowded. Not to mention the starting price for these cars.", 
+            "author": "owen west"
+        }, 
+        {
+            "date": "2014-11-27T19:07:56.000Z", 
+            "text": "+owen west Charging would be done in your garage with induction coils \nbeneath the floor, while you sleep, and hey! off peak hours too (plus \nelectric cars also charge their batteries from the braking force). Yes, you \nwould still have to pay your own electric bill but it takes almost no \nelectricity to maintain the field so you're kinda only paying when you're \nrunning a device and you do that anyway. You could easily power an iphone \nwirelessly, the problem is we suck at storing energy and batteries are not \nonly super inefficient but they are thrown out by the billions each year \njust because they're easier than getting a cord and plugging something in. \nWith manufacturing, shipping, packaging, distribution, etc. along with \ntheir inefficiency 1kw/hr from an iphone battery costs roughly $24. If you \nhad it plugged into the wall 1 kw/hr would cost about $0.19. Sure it'll \ntake awhile (honestly 10-15 yrs before houses start being built with \nmagnetic induction coils in the floors, walls, and ceilings) but once your \nhouse and your office and the coffee place all have them installed (think \nwifi) then it will be like your devices are always plugged directly into \nthe wall. We will use less electricity, it will be cheaper, and renewable \nenergy sources will become a hell of a lot more practical.", 
+            "author": "finnmaura"
+        }, 
+        {
+            "date": "2014-10-27T21:52:52.493Z", 
+            "text": "+Kris Shellman Generateing enough electricity to power to these cars. You \nwou need a tremendous amount of power for one car let alone thousands. We \ncan't even efficiently power a iphone wirelessly let alone a moveing car. \nNot to mention we would need hundreds of thousands of these charging \nstations everywere so pepole could actually go places. The cost to make \nthese cars would be extreme. Therefore there price would be in the hundreds \nof millions. So yes we don't even have the technology for this and more \nthen likely won't in our children's children's life time. ", 
+            "author": "owen west"
+        }, 
+        {
+            "date": "2014-10-27T21:44:41.316Z", 
+            "text": "Maybe you don't understand how much money is in the world... ", 
+            "author": "Kris S"
+        }, 
+        {
+            "date": "2014-10-16T22:01:47.998Z", 
+            "text": "If only that wouldn't cost more money then we have in the world.", 
+            "author": "owen west"
+        }, 
+        {
+            "date": "2014-09-20T22:07:35.432Z", 
+            "text": "I said that to make fun of the governments spending... Obviously I don't \nbelieve that...  As far as who would pay for it,  I have not a clue,  I was \njust putting forth my Idea. ", 
+            "author": "Kris S"
+        }, 
+        {
+            "date": "2014-09-20T21:17:58.771Z", 
+            "text": "yeah sure, the government is supposed to give us free food, free money, \nfree water, and pretty much everything. If energy is free, what stops us \nfrom wasting it? We dont have the technology to produce insane amount of \nenergy yet", 
+            "author": "de0509"
+        }, 
+        {
+            "date": "2014-09-20T21:14:50.000Z", 
+            "text": "+de0509 the government pays for stupider thongs... \ufeff ", 
+            "author": "Kris S"
+        }, 
+        {
+            "date": "2014-09-20T21:12:55.074Z", 
+            "text": "now that leaves the question of whos paying for it.", 
+            "author": "de0509"
+        }, 
+        {
+            "date": "2014-09-20T15:11:43.089Z", 
+            "text": "Wireless powered cars... cars that run on electricity powered via a tower ( \nlike a cellphone tower) from a power company.\ufeff", 
+            "author": "Chris Faerguson"
+        }, 
+        {
+            "date": "2014-09-20T15:07:55.707Z", 
+            "text": "Wouldnt this cause a bunch of radiation FOR YOUR BODY? Like a magnet field \nis charging in the air for electronic devices.. what about living people or \npets..Ive been readings bout how wifi rays can affect your sleep patterns \nand levels in your brain.\ufeff", 
+            "author": "Hidden Concept"
+        }, 
+        {
+            "date": "2014-09-20T15:07:03.122Z", 
+            "text": "long range wireless charging to an electric car is what i want :D\ufeff", 
+            "author": "McCadabolg"
+        }, 
+        {
+            "date": "2014-09-20T13:48:07.057Z", 
+            "text": "(Please help me re-power my mind; it got lost in the election ads and \nemails....)\ufeff", 
+            "author": "david5372"
+        }, 
+        {
+            "date": "2014-09-20T11:27:12.000Z", 
+            "text": "in Europe the socket Voltage is 220V and 50 Hz.\ufeff", 
+            "author": "MrKefaspeter"
+        }, 
+        {
+            "date": "2014-09-20T02:35:41.817Z", 
+            "text": "You can watch youtube on a toothbrush?\ufeff", 
+            "author": "Telepian"
+        }, 
+        {
+            "date": "2014-09-20T02:01:13.038Z", 
+            "text": "i saw one battery ones in aldi was on sale wireles charger wish i bought it \nbut i missed it was around 10 dollars that was good idea invent new ideas \nto save electricity really that be good idea and every one be happy save \nsome cash even free internet google invented in some country pay 299 last \nlife time fastest internet you dont need pay ever agein i can not wait that \n :)\ufeff", 
+            "author": "Adis Babaca"
+        }, 
+        {
+            "date": "2014-09-20T01:58:38.400Z", 
+            "text": "exactly same here i wanna put my tv anywhere i want because im bored same \nspot yes i would love that yes im bored same thing all over yes i keep \norganizing my room more than ones because im bored wish i had allots cores \nin wall every direction if im bored one spot i switch different one who \nwouldnt do that i would do the all the time that be fun as long i dont get \nbored same spot which i am bored allready you have good idea i lke that \nallot glad i am not only one hehehe :) \ufeff", 
+            "author": "Adis Babaca"
+        }, 
+        {
+            "date": "2014-09-20T00:49:36.937Z", 
+            "text": "You know how hammers are metal are they metal because of something like \nmagnetic field or something else or is it just because metal is really \nstrong\ufeff", 
+            "author": "awesome ginger"
+        }, 
+        {
+            "date": "2014-09-19T23:44:28.940Z", 
+            "text": "Does anyone else hear the alarm clock at 2:40 its like way on the background\n\ufeff", 
+            "author": "Monsieur Grey"
+        }, 
+        {
+            "date": "2014-09-19T02:01:07.805Z", 
+            "text": "I don't get why I can't charge any old thing with rechargeable batteries \nthat can accept inductive charging on say, a Wiimote charging pad. My Nexus \n7, for example. Why can't I just put the Nexus on the pad and it'll charge. \nToo wide a frequency difference or something?\ufeff", 
+            "author": "Mike Paquette"
+        }, 
+        {
+            "date": "2014-09-18T23:22:40.402Z", 
+            "text": "I would use wireless charging for my crappy iPhone 5s that does not want to \ncharge any more.\ufeff", 
+            "author": "James Van Bogaert"
+        }, 
+        {
+            "date": "2014-09-18T21:14:00.366Z", 
+            "text": "Got an advertisement for Dnews... On a Dnews video.\ufeff", 
+            "author": "Clockwork 2"
+        }, 
+        {
+            "date": "2014-09-18T19:32:11.782Z", 
+            "text": "Wireless Charging for Electric cars... It's the future.\n\nIf anyone wants to give me $10 billion dollars, I can deliver you that \nfuture!\ufeff", 
+            "author": "Shahe"
+        }, 
+        {
+            "date": "2014-09-18T08:04:35.959Z", 
+            "text": "Now I can lose my charger easier :D\ufeff", 
+            "author": "kallista metropoulos"
+        }
+    ]
+}

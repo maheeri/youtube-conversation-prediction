@@ -1,0 +1,885 @@
+{
+    "publish_date": "2014-06-09T23:12:07.000Z", 
+    "video_length": "PT4M36S", 
+    "captions": [
+        {
+            "text": "[Intro]", 
+            "dur": "2.201", 
+            "start": "0.599"
+        }, 
+        {
+            "text": "Hank Green: What you&#39;re about to see in this\nSciShow Dose may shock you. There are about", 
+            "dur": "7", 
+            "start": "2.8"
+        }, 
+        {
+            "text": "8600 animals in the world that are electroreceptive.\nThey can feel electric fields. Like the sense", 
+            "dur": "5.91", 
+            "start": "15.22"
+        }, 
+        {
+            "text": "of touch, eletroreceptivity carries information\nabout the shape, size, and texture of things", 
+            "dur": "5.06", 
+            "start": "21.13"
+        }, 
+        {
+            "text": "in the environment, and like hearing or vision,\nit works at a distance, but what it actually", 
+            "dur": "3.97", 
+            "start": "26.19"
+        }, 
+        {
+            "text": "feels like is something that we will never\nbe able to even imagine.", 
+            "dur": "3.6", 
+            "start": "30.16"
+        }, 
+        {
+            "text": "For electroreceptive animals, electric currents\nand electric fields are as real and immediate", 
+            "dur": "4.18", 
+            "start": "33.76"
+        }, 
+        {
+            "text": "as color or music are for us. Most electroreceptive\nanimals are amphibians or fish, though there", 
+            "dur": "4.82", 
+            "start": "37.94"
+        }, 
+        {
+            "text": "are rare exceptions, including the duck-billed\nplatypus, because everything that could possibly", 
+            "dur": "4.169", 
+            "start": "42.76"
+        }, 
+        {
+            "text": "be weird about the platypus is weird. Electroreceptivity\nhas evolved over and over again, totally independently,", 
+            "dur": "6.47", 
+            "start": "46.929"
+        }, 
+        {
+            "text": "in a global act of convergent evolution. Animals\nthat live and hunt in murky water where they", 
+            "dur": "3.631", 
+            "start": "53.399"
+        }, 
+        {
+            "text": "might not be able to see or hear very well\ngain advantage if they can feel their surroundings", 
+            "dur": "4.5", 
+            "start": "57.03"
+        }, 
+        {
+            "text": "through special electroreceptive cells in\ntheir skin. And a few animals take it even", 
+            "dur": "4.42", 
+            "start": "61.53"
+        }, 
+        {
+            "text": "further. There are 716 known species of fish\ncapable of electrogenesis, the creation of", 
+            "dur": "6.75", 
+            "start": "65.95"
+        }, 
+        {
+            "text": "electric fields and even strong electric shocks.\nAnd these fish don&#39;t have a common ancestor", 
+            "dur": "4.89", 
+            "start": "72.7"
+        }, 
+        {
+            "text": "either. Biologists believe that electrogenesis\nhas evolved separately at least 11 different", 
+            "dur": "5.12", 
+            "start": "77.59"
+        }, 
+        {
+            "text": "times in places as isolated from each other\nas the African interior, the Amazon basin,", 
+            "dur": "5.009", 
+            "start": "82.71"
+        }, 
+        {
+            "text": "and the coral-rich waters of Australia.", 
+            "dur": "1.75", 
+            "start": "87.719"
+        }, 
+        {
+            "text": "The most famous electric fish is the electric\neel, which is electric but is not an eel--it&#39;s", 
+            "dur": "5.121", 
+            "start": "89.469"
+        }, 
+        {
+            "text": "actually a kind of knifefish that lives in\nSouth America and can produce an electric", 
+            "dur": "4.11", 
+            "start": "94.59"
+        }, 
+        {
+            "text": "shock up to 600 volts--enough to hurt, but\nnot seriously injure, something as big as", 
+            "dur": "4.629", 
+            "start": "98.7"
+        }, 
+        {
+            "text": "a human, but if you&#39;re an itty bitty tiny\nfish trying to go about your daily business", 
+            "dur": "3.021", 
+            "start": "103.329"
+        }, 
+        {
+            "text": "of swimming and eating and not dying, yeah,\n600 volts is the last problem you&#39;ll ever", 
+            "dur": "4.74", 
+            "start": "106.35"
+        }, 
+        {
+            "text": "have.", 
+            "dur": "0.22", 
+            "start": "111.09"
+        }, 
+        {
+            "text": "All cells in living things produce an electric\ncharge; it&#39;s a normal part of cell biology.", 
+            "dur": "4.39", 
+            "start": "111.31"
+        }, 
+        {
+            "text": "They do this by pumping positive ions of metals\nlike sodium, potassium, and calcium outside", 
+            "dur": "4.82", 
+            "start": "115.7"
+        }, 
+        {
+            "text": "the cell membrane. So the outside of your\ncells are slightly positive compared to the", 
+            "dur": "3.779", 
+            "start": "120.52"
+        }, 
+        {
+            "text": "insides. Every cell in your body has a resting\nvoltage of about 0.085 volts. Of course, my", 
+            "dur": "5.781", 
+            "start": "124.299"
+        }, 
+        {
+            "text": "cells aren&#39;t organized in a way that would\nlet me add those voltages together, but this", 
+            "dur": "3.92", 
+            "start": "130.08"
+        }, 
+        {
+            "text": "fish have special cells called electrocytes,\nthey&#39;re stacked in long chains like the batteries", 
+            "dur": "5.36", 
+            "start": "134"
+        }, 
+        {
+            "text": "inside a flashlight. And each one of those\ncells is connected on one side to a nerve", 
+            "dur": "4.22", 
+            "start": "139.36"
+        }, 
+        {
+            "text": "fiber. When an electric eel charges up, its\nbrain sends a signal down those nerve fibers.", 
+            "dur": "4.43", 
+            "start": "143.58"
+        }, 
+        {
+            "text": "When the signal hits the electrocytes, little\npores open up in their cell membranes, allowing", 
+            "dur": "3.84", 
+            "start": "148.01"
+        }, 
+        {
+            "text": "those positive ions to rush into the cell.\nEach cell becomes like a little tiny battery.", 
+            "dur": "5.12", 
+            "start": "151.85"
+        }, 
+        {
+            "text": "Instead of having a negative inside and a\npositive outside, the cell now has a negative", 
+            "dur": "4.2", 
+            "start": "156.97"
+        }, 
+        {
+            "text": "left side and a positive right side. And just\nlike in a battery, electrons flow between", 
+            "dur": "4.35", 
+            "start": "161.17"
+        }, 
+        {
+            "text": "the two ends to equalize the charge. Since\nthe cells are stacked in chains, positive", 
+            "dur": "4.2", 
+            "start": "165.52"
+        }, 
+        {
+            "text": "to negative to positive and so on, the voltage\nof each cell adds up with every other cell", 
+            "dur": "4.54", 
+            "start": "169.72"
+        }, 
+        {
+            "text": "in the chain. String enough of those chains\ntogether and fire them all at once, and bleaughh,", 
+            "dur": "3.53", 
+            "start": "174.26"
+        }, 
+        {
+            "text": "underwater barbecue.", 
+            "dur": "0.87", 
+            "start": "177.79"
+        }, 
+        {
+            "text": "But this arrangement of electrocytes doesn&#39;t\nhave to be used offensively, and in most electric", 
+            "dur": "4.72", 
+            "start": "178.66"
+        }, 
+        {
+            "text": "fish, it isn&#39;t. Instead, they create a constant\nelectric field around themselves, usually", 
+            "dur": "4.71", 
+            "start": "183.38"
+        }, 
+        {
+            "text": "with the power of only a few millivolts. They\nuse this to sense their immediate environments", 
+            "dur": "4.86", 
+            "start": "188.09"
+        }, 
+        {
+            "text": "so they know when food or predators are nearby,\neven in total darkness. And some species of", 
+            "dur": "4.5", 
+            "start": "192.95"
+        }, 
+        {
+            "text": "fish use these electric fields to like, communicate\nwith each other. Using distinct patterns of", 
+            "dur": "4.21", 
+            "start": "197.45"
+        }, 
+        {
+            "text": "discharges, they can signal aggression, submission,\nalarm, even courtship. When they&#39;re ready", 
+            "dur": "4.74", 
+            "start": "201.66"
+        }, 
+        {
+            "text": "to mate, the males and females of many kinds\nof electric fish will perform electric duets.", 
+            "dur": "5.67", 
+            "start": "206.4"
+        }, 
+        {
+            "text": "Electric boogie!", 
+            "dur": "0.49", 
+            "start": "212.07"
+        }, 
+        {
+            "text": "So if you feel like you&#39;re missing out, you\nmight be wondering, why didn&#39;t we evolve to", 
+            "dur": "4.07", 
+            "start": "212.56"
+        }, 
+        {
+            "text": "create awesome electric fields that we can\ncontrol with our minds? Well, because we can", 
+            "dur": "4.1", 
+            "start": "216.63"
+        }, 
+        {
+            "text": "see and hear. Seeing and hearing may seem\nkind of boring compared to being like, electric", 
+            "dur": "4.84", 
+            "start": "220.73"
+        }, 
+        {
+            "text": "fish Magneto, but they use a lot less energy\nthan electrogenesis. Plus, one of the most", 
+            "dur": "4.95", 
+            "start": "225.57"
+        }, 
+        {
+            "text": "common questions people ask about electric\neels is &#39;why don&#39;t they electrocute themselves?&#39;", 
+            "dur": "4.1", 
+            "start": "230.52"
+        }, 
+        {
+            "text": "The answer being that they do. When an electric\neel fires, you can actually see it flinch.", 
+            "dur": "4.95", 
+            "start": "234.62"
+        }, 
+        {
+            "text": "I don&#39;t know about you, but I think I&#39;ll stick\nwith my senses since they don&#39;t actually cause", 
+            "dur": "3.74", 
+            "start": "239.57"
+        }, 
+        {
+            "text": "physical pain to use.", 
+            "dur": "1.35", 
+            "start": "243.31"
+        }, 
+        {
+            "text": "Thanks for watching this electrifying SciShow\nDose, and if you&#39;d like to help us keep sharing", 
+            "dur": "3.74", 
+            "start": "244.66"
+        }, 
+        {
+            "text": "natural wonders like this, go to Subbable.com/SciShow\nto find out how you can help us keep our batteries", 
+            "dur": "5.68", 
+            "start": "248.4"
+        }, 
+        {
+            "text": "charged, and don&#39;t forget to go to YouTube.com/SciShow\nand subscribe.", 
+            "dur": "3.26", 
+            "start": "254.08"
+        }, 
+        {
+            "text": "[Endscreen]", 
+            "dur": "0.45", 
+            "start": "257.34"
+        }
+    ], 
+    "title": "The Shocking Truth About Electric Animals!", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/01gtwf", 
+        "/m/0yq3q1b", 
+        "/m/02lts", 
+        "/m/03sq53"
+    ], 
+    "number_views": 412782, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-08T00:55:21.424Z", 
+            "text": "", 
+            "author": "Bianca Brillos"
+        }, 
+        {
+            "date": "2015-05-03T05:20:08.037Z", 
+            "text": "Electric Boogie!\ufeff", 
+            "author": "Marin Netterfield"
+        }, 
+        {
+            "date": "2015-05-03T05:17:19.778Z", 
+            "text": "All of those puns got lame sometime around the second one was posted\ufeff", 
+            "author": "Marin Netterfield"
+        }, 
+        {
+            "date": "2015-05-03T05:16:00.709Z", 
+            "text": "Because everything that could possibly be weird about the platypus is \nweird!\ufeff", 
+            "author": "Marin Netterfield"
+        }, 
+        {
+            "date": "2015-04-23T12:09:07.783Z", 
+            "text": "I see what you did in the title o:\ufeff", 
+            "author": "owned2death"
+        }, 
+        {
+            "date": "2015-04-20T04:28:44.239Z", 
+            "text": "need electric fish/human hybrids\ufeff", 
+            "author": "RandomUser043"
+        }, 
+        {
+            "date": "2015-03-28T09:01:36.273Z", 
+            "text": "We are electric \\o/ dota song\ufeff", 
+            "author": "blaze armoru"
+        }, 
+        {
+            "date": "2015-03-24T04:38:18.555Z", 
+            "text": "I didn't know that electric show for eels is a double edged sword..\ufeff", 
+            "author": "Mon G"
+        }, 
+        {
+            "date": "2015-03-16T12:28:57.852Z", 
+            "text": "Thank you, tried to get this info from vids (cuz I'm lazy) but instead ran \ninto too many self artistic indie documentary shows.\ufeff", 
+            "author": "V magna"
+        }, 
+        {
+            "date": "2015-03-13T15:37:49.438Z", 
+            "text": "Cant we use their electrical charge to supply human electricity needs?\ufeff", 
+            "author": "Melvin Koopmans"
+        }, 
+        {
+            "date": "2015-03-12T00:59:20.024Z", 
+            "text": "Is this video CURRENT in These times?\ufeff", 
+            "author": "Aiden Anderson"
+        }, 
+        {
+            "date": "2015-03-11T23:12:12.087Z", 
+            "text": "This video shocked me like an electric eel.\ufeff", 
+            "author": "sammythesnake1986"
+        }, 
+        {
+            "date": "2015-03-09T23:35:50.315Z", 
+            "text": "The SHOCKING truth lol\ufeff", 
+            "author": "Thomas Yang"
+        }, 
+        {
+            "date": "2015-03-06T05:02:25.296Z", 
+            "text": "Is there a SciShow episode...Scisode...dedicated to the greatest animal, \ntruly built in the image of God, the platypus? (Yes I just said God is a \nplatypus) If not there should be. \ufeff", 
+            "author": "Bianca LeDee"
+        }, 
+        {
+            "date": "2015-03-02T01:15:53.861Z", 
+            "text": "Electric BOOGGOOOEE!! Sounds fun!\ufeff", 
+            "author": "blandantey"
+        }, 
+        {
+            "date": "2015-02-21T00:53:31.741Z", 
+            "text": "3:27 now thts wat i call sparks flying!\ufeff", 
+            "author": "TheGamingLogician"
+        }, 
+        {
+            "date": "2015-02-18T09:48:53.165Z", 
+            "text": "Adding this to my Favorites for electric boogie\ufeff", 
+            "author": "Dyllane Myst"
+        }, 
+        {
+            "date": "2015-02-11T00:46:31.726Z", 
+            "text": "all those pics of \"electric eels \"weren\u00b4t electric eels.\ufeff", 
+            "author": "peje tanque ctenopoma"
+        }, 
+        {
+            "date": "2015-02-10T05:02:21.959Z", 
+            "text": "One minor correction... You only can be electrocuted once. The \"cuted\" \nmeans to kill. They electrify themselves. \ufeff", 
+            "author": "David Dzado"
+        }, 
+        {
+            "date": "2015-02-06T04:50:00.879Z", 
+            "text": "electric boogey made my day\ufeff", 
+            "author": "Johnney Sung"
+        }, 
+        {
+            "date": "2015-01-31T11:17:54.089Z", 
+            "text": "You are wrong the electric eel is a flat fish from the catfish family and \nsouth American is the same of the African\ufeff", 
+            "author": "wildoxidizer"
+        }, 
+        {
+            "date": "2015-01-27T01:47:53.140Z", 
+            "text": "Hank says 600 Volts but how many Amps.\ufeff", 
+            "author": "TheSilverSmith"
+        }, 
+        {
+            "date": "2015-01-26T06:38:11.004Z", 
+            "text": "Electric eels are extremely capable of killing humans, caiman, and even \nhorses. There are also documented cases of electric eels putting out enough \npower over enough time that they have caused severe burns and charred \nflesh. \ufeff", 
+            "author": "Kur Norock"
+        }, 
+        {
+            "date": "2015-01-23T17:42:44.769Z", 
+            "text": "3:15 Like Pikachu!!\ufeff", 
+            "author": "miles bush"
+        }, 
+        {
+            "date": "2015-01-17T18:29:08.758Z", 
+            "text": "There are so many things not true in this video!!\nMoray eels aren't electric, and it IS a true eel!\nThe electric eels aren't true eels, they don't even look like true eels. \nThey have a wide snout covered with dimples and tiny eyes, and live in the \namazon and not open water...\ufeff", 
+            "author": "Nemo Fil (\u202b\u05e0\u05d9\u05de\u05e8\u05d5\u05d3 \u05e4\u05d9\u05dc\u05d9\u05d1\u05d4\u202c\u200e)"
+        }, 
+        {
+            "date": "2015-01-07T23:41:35.135Z", 
+            "text": "I wish I had electric sex \ufeff", 
+            "author": "John Doradea"
+        }, 
+        {
+            "date": "2014-12-30T00:14:06.848Z", 
+            "text": "That boogy is the funniest s*** I've seen in a long time\ufeff", 
+            "author": "N Garcia"
+        }, 
+        {
+            "date": "2014-12-05T23:29:21.234Z", 
+            "text": ".\ufeff", 
+            "author": "Nandrew Plays"
+        }, 
+        {
+            "date": "2014-12-05T04:05:40.724Z", 
+            "text": "Another reason humans may not have evolved these electric abilities/sense \nis simply because we don't live in water. The aquatic creatures have a \nmedium which allows these traits to be a lot more beneficial than they \nwould be on land.\ufeff", 
+            "author": "Daniel Ramirez"
+        }, 
+        {
+            "date": "2014-12-02T00:52:56.657Z", 
+            "text": "Electrogenesis. Dibs on the band name.\ufeff", 
+            "author": "CarlosBeo"
+        }, 
+        {
+            "date": "2014-11-20T15:47:42.231Z", 
+            "text": "if you could just speak a little bit slower :) \ufeff", 
+            "author": "Tom\u00e1s Cejas Hernandez"
+        }, 
+        {
+            "date": "2014-11-14T17:51:55.258Z", 
+            "text": "Please scishow, when talking about electric eels, don't show a moray eel. \ufeff", 
+            "author": "Nathanial Hesse"
+        }, 
+        {
+            "date": "2014-11-12T03:29:43.839Z", 
+            "text": "use the force platypus, USE THE FORCE \ufeff", 
+            "author": "Jacob Wythe"
+        }, 
+        {
+            "date": "2014-11-09T15:05:34.578Z", 
+            "text": "how much weight can a human lift with proper diet and training  and I mean \nmax weight not for example 25 reps low weight 5 sets or the other method \nfor strength training 8 or 12 reps high weight??   \ufeff", 
+            "author": "randall timothy"
+        }, 
+        {
+            "date": "2014-11-09T04:02:16.783Z", 
+            "text": "That title pun doe\ufeff", 
+            "author": "jonathan lopez (gogo1778)"
+        }, 
+        {
+            "date": "2014-11-08T20:01:50.167Z", 
+            "text": "ELECTIC BOOGIE!!! \ufeff", 
+            "author": "Ben Dades"
+        }, 
+        {
+            "date": "2014-11-08T17:38:50.560Z", 
+            "text": "You tell some funny jokes man every time I watch a video is a crack up. \nLove this channel x'D\ufeff", 
+            "author": "irving padilla"
+        }, 
+        {
+            "date": "2014-10-29T03:01:02.451Z", 
+            "text": "3:30  well, that's enough internet for today.....\ufeff", 
+            "author": "hossen alyazgi"
+        }, 
+        {
+            "date": "2014-10-25T09:08:43.309Z", 
+            "text": "So there overgrown, under water pichu's? \ufeff", 
+            "author": "Bobby Coghlan"
+        }, 
+        {
+            "date": "2014-10-23T14:53:20.714Z", 
+            "text": "because all mammals can do that, just not very well compared to the ones \nthat utilize this ability as a primary sense\n.\ufeff", 
+            "author": "Erich Horn"
+        }, 
+        {
+            "date": "2014-10-23T05:52:11.154Z", 
+            "text": "I wonder if we could one day adapt the production of electricity into human \nphysicology? It's the most scientifically feasible superpower I've seen \nyet.\ufeff", 
+            "author": "Mark"
+        }, 
+        {
+            "date": "2014-10-21T07:58:19.080Z", 
+            "text": "I stepped on a coffin ray recently. The most unwelcome 200 volts I've ever \nreceived...\ufeff", 
+            "author": "Phaneron"
+        }, 
+        {
+            "date": "2014-10-18T03:12:24.307Z", 
+            "text": "lol I'm assuming SHOCKING truth about ELECTRIC animals was an intentional \npun...\ufeff", 
+            "author": "Garrett Winter"
+        }, 
+        {
+            "date": "2014-10-14T22:42:35.832Z", 
+            "text": "The species of catfish shown is a red tail catfish there cool they just get \nreally big\ufeff", 
+            "author": "Da budderman"
+        }, 
+        {
+            "date": "2014-10-12T19:03:50.299Z", 
+            "text": "None of the eels shown are electric eels, but rather Moray eels. Not even \nclose.\ufeff", 
+            "author": "Randyc2800"
+        }, 
+        {
+            "date": "2014-10-02T17:01:10.620Z", 
+            "text": "SciShow: \"Why don't electric eels hurt themselves when they use their \nelectric sense?\"\nMe: \"Yeah, why don't they?\"\nSciShow: \"They do\"\nMe: \"oh\"\ufeff", 
+            "author": "Neil O' Patterson"
+        }, 
+        {
+            "date": "2014-09-24T03:29:16.406Z", 
+            "text": "why do people outside Australia call the platypus the duckbilled platypus, \ni mean  theres only one and thats what it looks like furthermore it's \nnative to Australia and over here only ever called simply The platypus, its \nnot as if there is a species of platypus without a bill warranting a \ndifferent name. i really don't get why it is called a duck billed platypus( \nyes im aware when first discovered they thought it was several animals \nincluding a duck's bill that had been stitched together) \ufeff", 
+            "author": "captain thundatits"
+        }, 
+        {
+            "date": "2014-09-13T22:00:02.543Z", 
+            "text": "I like this show because I learn something and can have a good laugh too\ufeff", 
+            "author": "Nicholas Grisanzio"
+        }, 
+        {
+            "date": "2014-09-11T02:59:48.751Z", 
+            "text": "The comments section is full of electrifying conversations.\ufeff", 
+            "author": "Eternal Light"
+        }, 
+        {
+            "date": "2014-09-03T07:59:32.844Z", 
+            "text": "lol, \"... 600 volts is the last problem you'll ever have.\" Loved this line. \n\ufeff", 
+            "author": "Nick V"
+        }, 
+        {
+            "date": "2014-09-03T07:57:31.802Z", 
+            "text": "Weren't all the video clips of non-electric moray eels? \ufeff", 
+            "author": "Nick V"
+        }, 
+        {
+            "date": "2014-09-03T02:03:44.438Z", 
+            "text": "Eels scare the crap out of me\ufeff", 
+            "author": "BudderNinja1025"
+        }, 
+        {
+            "date": "2014-09-03T00:09:17.287Z", 
+            "text": "Amazing\ufeff", 
+            "author": "Bob Le"
+        }, 
+        {
+            "date": "2014-09-02T20:52:51.797Z", 
+            "text": "There is evolution, an opening up of, within a species, this why finches \nhave so many different beaks. But in the end they are still finches and \nultimately birds! \nSpecies reproduce after themselves, any mutation within a cell has been and \nwill be detrimental usually causing death or practically harmless. BUT \nnever any mutation recorded has been so extreme to classify another \nspecies. Anything including MACROEVOLUTION makes sense when you peer at it \nthrough subjective goggles.\ufeff", 
+            "author": "Sebastian m (alpine1600s)"
+        }, 
+        {
+            "date": "2015-02-19T05:14:41.382Z", 
+            "text": "Captain Obvious, AWAY!!!", 
+            "author": "Kyler Lumpkin"
+        }, 
+        {
+            "date": "2014-09-23T14:55:10.066Z", 
+            "text": "Macroevolution is identical to Microevolution... just the timeframe's longer", 
+            "author": "jichaelmackson1958"
+        }, 
+        {
+            "date": "2014-09-01T04:31:29.656Z", 
+            "text": "Ooo girl , you shock me like an electric eel\ufeff", 
+            "author": "GREASERVILLA"
+        }, 
+        {
+            "date": "2014-08-20T16:33:21.000Z", 
+            "text": "I think its a bit misleading to say \"electrons flow from the left to the \nright\" since its not free electrons that flow but negatively charged ions.\ufeff", 
+            "author": "Kenneth Wilkins"
+        }, 
+        {
+            "date": "2014-08-20T13:13:58.000Z", 
+            "text": "Why do you keep showing footage of moray eels when talking about electric \neels? I mean, it is mentioned that they are a species of knife fish, not in \nfact eels. But why not show an actual electric eel then? Plenty of footage \naround. Also the animated video shows moray eels using electrogenesis on a \nreef with sharks swimming about. This is misleading when they in fact live \nin the fresh waters of South America. I find it odd considering this is a \nScience show. Just wondering? besides that - thanks for an enlightening \nshow.  \ufeff", 
+            "author": "Peter K J"
+        }, 
+        {
+            "date": "2014-08-09T18:39:47.208Z", 
+            "text": "What if humans evolved to manipulate electric fields? We would be mages :D\ufeff", 
+            "author": "Jmack1lla"
+        }, 
+        {
+            "date": "2014-08-08T05:00:32.765Z", 
+            "text": "This thumbnail will give me nightmares.\ufeff", 
+            "author": "Stephanie Williams"
+        }, 
+        {
+            "date": "2014-08-06T12:47:33.769Z", 
+            "text": "Lovely stuff!\ufeff", 
+            "author": "S Jones"
+        }, 
+        {
+            "date": "2014-08-05T02:56:06.854Z", 
+            "text": "Every time you said 'nerve fibers' I thought you were saying 'nerdfighters' \n\ufeff", 
+            "author": "Danielle Pearce"
+        }, 
+        {
+            "date": "2014-08-04T00:56:10.582Z", 
+            "text": "Thumbs up for platypuses!!\ufeff", 
+            "author": "Josh Hummel"
+        }, 
+        {
+            "date": "2014-08-03T19:01:17.897Z", 
+            "text": "electric boogie! xD\ufeff", 
+            "author": "213fritzy"
+        }, 
+        {
+            "date": "2014-08-03T03:44:59.343Z", 
+            "text": "Al I the only one who laugh at the electro-boggie?\ufeff", 
+            "author": "Hyasconi"
+        }, 
+        {
+            "date": "2014-07-26T04:04:47.815Z", 
+            "text": "4:04 - WRONG! The senses that cause us to feel pain do indeed, cause pain \nto use.\ufeff", 
+            "author": "hexatentacle"
+        }, 
+        {
+            "date": "2014-07-25T04:57:10.827Z", 
+            "text": "So if we could add up all of our cell's electrical charge into one burst it \nwould be massive... 0.085 volts x several billion cells..\nOuch.\ufeff", 
+            "author": "UnknownXV"
+        }, 
+        {
+            "date": "2014-07-18T09:50:59.712Z", 
+            "text": "3:31\ufeff", 
+            "author": "Levi H"
+        }, 
+        {
+            "date": "2014-07-16T03:31:37.932Z", 
+            "text": "Electric Animals?!\nOh, *that* way.\nAlso, did you just say you want us to help charge your batteries?\ufeff", 
+            "author": "Darian Stephens"
+        }, 
+        {
+            "date": "2014-07-15T08:39:30.340Z", 
+            "text": "\" electric booogiieee\" lol\ufeff", 
+            "author": "frankie Johnson"
+        }, 
+        {
+            "date": "2014-07-15T07:54:20.878Z", 
+            "text": "cool !\ufeff", 
+            "author": "Angjelo Kuka"
+        }, 
+        {
+            "date": "2014-07-13T05:05:24.406Z", 
+            "text": "Yeah don't hurt\n\nRosanne porn while listening to Baby\n\nWreath in pain\ufeff", 
+            "author": "TheBigAEC"
+        }, 
+        {
+            "date": "2014-07-12T21:42:13.317Z", 
+            "text": "I want that poster so imma save up\ufeff", 
+            "author": "Phoenix Ever"
+        }, 
+        {
+            "date": "2014-07-12T13:34:14.343Z", 
+            "text": "Hank is awesome.\ufeff", 
+            "author": "Ciar\u00e1n Myers"
+        }, 
+        {
+            "date": "2014-07-12T00:28:58.791Z", 
+            "text": "That is so fucking cool omg :(\ufeff", 
+            "author": "Isaias Jacinto"
+        }, 
+        {
+            "date": "2014-07-11T22:48:18.908Z", 
+            "text": "ELECTIC BOGI\ufeff", 
+            "author": "darius king"
+        }, 
+        {
+            "date": "2014-07-10T02:22:05.814Z", 
+            "text": "Electric Boogie!\ufeff", 
+            "author": "TheGudih"
+        }, 
+        {
+            "date": "2014-07-09T20:03:48.751Z", 
+            "text": "We also don't have electric stuff because it's much less useful when you're \nnot dipped in salty water.\ufeff", 
+            "author": "Altrantis"
+        }, 
+        {
+            "date": "2014-07-09T15:34:43.679Z", 
+            "text": "Wow!\ufeff", 
+            "author": "Ben Watkins"
+        }, 
+        {
+            "date": "2014-07-08T16:58:49.975Z", 
+            "text": "A bit off topic, but am I the only one who heard \"nerdfighters\" when he \nsaid \"nerve fibers\"?\ufeff", 
+            "author": "Dracarmen Winterspring"
+        }, 
+        {
+            "date": "2014-07-08T11:39:07.000Z", 
+            "text": "I mentioned my interest in this scientific channel in my personal \nstatement... *Really* hoping my interviewers don't see 3:31\ufeff", 
+            "author": "TheRABIDdude"
+        }, 
+        {
+            "date": "2014-07-08T08:49:54.430Z", 
+            "text": "Electric boogie!!!\ufeff", 
+            "author": "Cole Vetter"
+        }, 
+        {
+            "date": "2014-07-07T21:16:35.927Z", 
+            "text": "platypus happen that time god try meth\ufeff", 
+            "author": "devilfoxe"
+        }, 
+        {
+            "date": "2014-07-07T20:05:04.511Z", 
+            "text": "When he said \"nerve fibres\" i totally thought he had said \"nerdfighters\" \nhaha :P\ufeff", 
+            "author": "Vania Angelus"
+        }, 
+        {
+            "date": "2014-07-07T11:34:03.840Z", 
+            "text": "I don't like this guy for some reason. I think it's because he seems so \nsmug.  I know I don't really know the guy, but it's the impression I get... \nIs it just me?\ufeff", 
+            "author": "brokenbeforetime"
+        }, 
+        {
+            "date": "2014-07-07T08:58:15.777Z", 
+            "text": "lmao, electric boogie! \ufeff", 
+            "author": "Beverly Luna"
+        }, 
+        {
+            "date": "2014-07-07T05:20:53.202Z", 
+            "text": "Actually humans can train themselves to be electrosensitive and to echo \nlocate. It is easy to pump up your electrostatic field, much easier than \necho location, let me tell you.  I have taught myself both techniques. \ufeff", 
+            "author": "formless777"
+        }, 
+        {
+            "date": "2014-07-13T16:14:01.061Z", 
+            "text": "+joshua delaney\n biotech and biological electrical systems are a completely different \nthing. Don't be surprised by the end of 2030-2050 if we start seeing brain \nimplants with tech body modifications being publicly available before then. \nHuge leaps and bounds in neuroscience and biotech these days.", 
+            "author": "Doom Guy"
+        }, 
+        {
+            "date": "2014-07-13T16:47:54.000Z", 
+            "text": "+TheRABIDdude \nhttp://gizmodo.com/5895555/i-have-a-magnet-implant-in-my-finger\n\nHe talks about reading an article about another guy getting the implant and \nthat's what interested him, I read the article he's talking about, I found \nthis one just by googling rare earth magnet implant. ", 
+            "author": "joshua delaney"
+        }, 
+        {
+            "date": "2014-07-13T13:48:08.523Z", 
+            "text": "+joshua delaney Yes I know about the echolocation, but only a handful of \npeople in the entire human race have managed to achieve that (the best user \ndied recently I think). So when I read formless777's comment where he \nclaimed to have casually taught himself that AND another ridiculous \nability, obviously that's bs. The magnetic implant thing sounds really \nawesome tho, can you give me a source on that??", 
+            "author": "TheRABIDdude"
+        }, 
+        {
+            "date": "2014-07-13T11:18:55.371Z", 
+            "text": "Hahaha. My phone auto corrected it and I don't even notice lol. *magnet ", 
+            "author": "joshua delaney"
+        }, 
+        {
+            "date": "2014-07-13T10:56:27.651Z", 
+            "text": "+joshua delaney A small magnate implanted in my pinky? Like, a tiny Bill \nGates? :P", 
+            "author": "Alex Wegenschimmel"
+        }, 
+        {
+            "date": "2014-07-12T01:58:08.868Z", 
+            "text": "You're both right and wrong. Humans can train themselves to use \necholocation but so far the only person/people to learn this to a useful \ndegree has been blind. Humans can not naturally learn to be electro \nsensitive but it is possible to have a small magnate surgically implanted \ninto your pinky finger allowing you to feel magnetic and electric fields \nand thought this you can learn what each feeling from the magnet means.", 
+            "author": "joshua delaney"
+        }, 
+        {
+            "date": "2014-07-08T15:05:38.168Z", 
+            "text": "+TheRABIDdude\n ssssh just let him be a pretty electric butterfly. He probably didn't even \nwatch the video or can't understand high school biology.", 
+            "author": "Doom Guy"
+        }, 
+        {
+            "date": "2014-07-08T11:35:15.362Z", 
+            "text": "BULLSHIT. (over 9000 decibelvolts)", 
+            "author": "TheRABIDdude"
+        }, 
+        {
+            "date": "2014-07-06T21:12:15.613Z", 
+            "text": "this was awesome!!\ufeff", 
+            "author": "Sandra Cifuentes"
+        }, 
+        {
+            "date": "2014-07-06T18:52:33.783Z", 
+            "text": "Who's wiling to donate their future children to science?! \nLet's genetically engineer some human offspring with their DNA! We have \nspider siln protein goats. Why not this?! \ufeff", 
+            "author": "u wot m8"
+        }, 
+        {
+            "date": "2014-07-06T05:40:11.623Z", 
+            "text": "Could an insect evolve to sense electricity? I forgot what the process is \ncalled already.\ufeff", 
+            "author": "Xor'Kov"
+        }, 
+        {
+            "date": "2014-07-05T22:34:16.043Z", 
+            "text": "If only in the future a machine is capable of harvesting humans for power. \ufeff", 
+            "author": "bin1127"
+        }, 
+        {
+            "date": "2014-07-05T20:16:06.407Z", 
+            "text": "I got a charge out of this episode...\ufeff", 
+            "author": "Waltham1892"
+        }, 
+        {
+            "date": "2014-07-05T19:33:15.017Z", 
+            "text": "Could you make a video on extinction events? Most people know about them, \nbut I have never really seen a good explaination of them anywhere.\ufeff", 
+            "author": "Mr. Hammer"
+        }, 
+        {
+            "date": "2014-07-04T18:10:40.046Z", 
+            "text": "What about electric sheep?\ufeff", 
+            "author": "Matt G"
+        }, 
+        {
+            "date": "2014-07-11T00:04:48.386Z", 
+            "text": "ah the rare species of mareep, quite a natural wonder. ", 
+            "author": "Pyrguiin Y"
+        }, 
+        {
+            "date": "2014-07-08T20:39:43.935Z", 
+            "text": "it's a literary reference. the movie Bladerunner is based on a book called \n'Do Androids Dream of Electric Sheep', so yes, i'm joking. but wouldn't \nelectric sheep be awesome?", 
+            "author": "Matt G"
+        }, 
+        {
+            "date": "2014-07-04T20:14:07.819Z", 
+            "text": "I hope you're joking man.", 
+            "author": "King Vaas (OverZealous)"
+        }, 
+        {
+            "date": "2014-07-04T05:27:04.254Z", 
+            "text": "The eel mating ritual part 2: Electric Boogie-loo.\ufeff", 
+            "author": "Eric Vilas"
+        }, 
+        {
+            "date": "2014-07-03T18:57:39.959Z", 
+            "text": "Why can you some times shock other people?\ufeff", 
+            "author": "Cobalt Tiger"
+        }, 
+        {
+            "date": "2014-07-03T14:51:37.419Z", 
+            "text": "Dear Scishow,\n\nDoes our brain have a memory limit?\ufeff", 
+            "author": "dudz dudz"
+        }, 
+        {
+            "date": "2014-07-03T13:28:25.540Z", 
+            "text": "Fishies go super sayan\ufeff", 
+            "author": "Frisky Dingo"
+        }, 
+        {
+            "date": "2014-07-02T20:25:53.043Z", 
+            "text": "I have two large Knife Fish, a female BGK and a male Zeb in a very large \ncommunity aquarium. They dance with one another from lights-off to dawn \nevery night, foraging and hunting as they go. I've seen them work together \nmany times hunting the feeder fish to.\ufeff", 
+            "author": "Karl Slicher"
+        }, 
+        {
+            "date": "2014-07-02T18:06:38.722Z", 
+            "text": "1:39 haha \"enough to Hert\"\ufeff", 
+            "author": "Nathan Szpakowski"
+        }, 
+        {
+            "date": "2014-07-02T12:39:39.217Z", 
+            "text": "Electrical animals are the best!\ufeff", 
+            "author": "arsviatticae"
+        }
+    ]
+}
