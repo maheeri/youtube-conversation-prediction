@@ -1,0 +1,1635 @@
+{
+    "publish_date": "2013-08-19T07:18:35.000Z", 
+    "video_length": "PT7M54S", 
+    "captions": [
+        {
+            "text": "So you&#39;re me and\nyou&#39;re in math class,", 
+            "dur": "1.583", 
+            "start": "0.097"
+        }, 
+        {
+            "text": "and you&#39;re supposed to be\nlearning about logarithms,", 
+            "dur": "2.1", 
+            "start": "1.68"
+        }, 
+        {
+            "text": "which you figure is\nprobably something", 
+            "dur": "1.39", 
+            "start": "3.78"
+        }, 
+        {
+            "text": "to do with avant-garde\npercussion performances.", 
+            "dur": "2.14", 
+            "start": "5.17"
+        }, 
+        {
+            "text": "But every time you\ntry to pay attention,", 
+            "dur": "1.71", 
+            "start": "7.31"
+        }, 
+        {
+            "text": "you find that your teacher&#39;s\nexplanations of logarithms", 
+            "dur": "2.37", 
+            "start": "9.02"
+        }, 
+        {
+            "text": "inspires nothing but a bit\nof performance art involving", 
+            "dur": "2.87", 
+            "start": "11.39"
+        }, 
+        {
+            "text": "drumming on wood.", 
+            "dur": "1.287", 
+            "start": "14.26"
+        }, 
+        {
+            "text": "Anyway, your teacher\ngives you a dirty look.", 
+            "dur": "1.833", 
+            "start": "15.547"
+        }, 
+        {
+            "text": "So you stop drumming\nand start doodling.", 
+            "dur": "2.56", 
+            "start": "17.38"
+        }, 
+        {
+            "text": "You feel a need for\nmotion, excitement,", 
+            "dur": "1.765", 
+            "start": "19.94"
+        }, 
+        {
+            "text": "so you decide to do a flip book\non the corner of your notebook.", 
+            "dur": "2.625", 
+            "start": "21.705"
+        }, 
+        {
+            "text": "It&#39;s pretty easy because\nthe paper is thin.", 
+            "dur": "1.96", 
+            "start": "24.33"
+        }, 
+        {
+            "text": "You can trace the\nprevious frame,", 
+            "dur": "1.64", 
+            "start": "26.29"
+        }, 
+        {
+            "text": "modifying it just a little.", 
+            "dur": "1.78", 
+            "start": "27.93"
+        }, 
+        {
+            "text": "And if you really want\nto get into the Zen", 
+            "dur": "1.78", 
+            "start": "29.71"
+        }, 
+        {
+            "text": "zone of doodle bliss, you\ncan make each new frame", 
+            "dur": "2.82", 
+            "start": "31.49"
+        }, 
+        {
+            "text": "be modified according to\nsome simple rule like,", 
+            "dur": "2.54", 
+            "start": "34.31"
+        }, 
+        {
+            "text": "keep adding one new\npetal around a spiral,", 
+            "dur": "2.48", 
+            "start": "36.85"
+        }, 
+        {
+            "text": "or add another dot in the\nnext place in the spiral.", 
+            "dur": "3.02", 
+            "start": "39.33"
+        }, 
+        {
+            "text": "Or how about, keep making\nthe squiggle squigglier.", 
+            "dur": "3.219", 
+            "start": "42.35"
+        }, 
+        {
+            "text": "But what does\nsquigglier really mean?", 
+            "dur": "1.541", 
+            "start": "45.569"
+        }, 
+        {
+            "text": "Like you could just increase\nthe curvature of the squiggle,", 
+            "dur": "2.51", 
+            "start": "47.11"
+        }, 
+        {
+            "text": "or you could make it squiggle\nmore between the squiggles.", 
+            "dur": "2.83", 
+            "start": "49.62"
+        }, 
+        {
+            "text": "You want to figure out\nan exact squiggle rule", 
+            "dur": "2.17", 
+            "start": "52.45"
+        }, 
+        {
+            "text": "so that you can really get\ninto the squiggle zone.", 
+            "dur": "2.28", 
+            "start": "54.62"
+        }, 
+        {
+            "text": "So you discretize the\nsquiggle into a zigzag line.", 
+            "dur": "2.88", 
+            "start": "56.9"
+        }, 
+        {
+            "text": "On the next layer, you\ncould just deepen the zag,", 
+            "dur": "2.48", 
+            "start": "59.78"
+        }, 
+        {
+            "text": "or you could put a new zigzag\non each old zig and zag.", 
+            "dur": "3.66", 
+            "start": "62.26"
+        }, 
+        {
+            "text": "Or maybe zig&#39;s too\ngood to zig zag,", 
+            "dur": "1.77", 
+            "start": "65.92"
+        }, 
+        {
+            "text": "and zag&#39;s too good to zag zig.", 
+            "dur": "2.38", 
+            "start": "67.69"
+        }, 
+        {
+            "text": "So the next would be, zigzag\nzag zig, zigza-- wait, no.", 
+            "dur": "3.79", 
+            "start": "70.07"
+        }, 
+        {
+            "text": "That was a zag, and those\nget turned into zags zigs.", 
+            "dur": "2.96", 
+            "start": "73.86"
+        }, 
+        {
+            "text": "So it should be zigzag,\nzag zig zag zig zig zag.", 
+            "dur": "3.26", 
+            "start": "76.82"
+        }, 
+        {
+            "text": "And next, zig zag zag zigzag,\nzig zig zigzag, zag zig-- wait,", 
+            "dur": "3.06", 
+            "start": "80.08"
+        }, 
+        {
+            "text": "was this a zig?", 
+            "dur": "2.652", 
+            "start": "83.14"
+        }, 
+        {
+            "text": "Maybe if we put it all onto\nsome sort of reference diagram,", 
+            "dur": "2.458", 
+            "start": "85.792"
+        }, 
+        {
+            "text": "that generates each new\npattern based on-- No!", 
+            "dur": "2.297", 
+            "start": "88.25"
+        }, 
+        {
+            "text": "This was supposed\nto be about mindless", 
+            "dur": "1.583", 
+            "start": "90.547"
+        }, 
+        {
+            "text": "zigging in the squiggle zone.", 
+            "dur": "1.45", 
+            "start": "92.13"
+        }, 
+        {
+            "text": "This is unacceptable.", 
+            "dur": "1.87", 
+            "start": "93.58"
+        }, 
+        {
+            "text": "So maybe just pretend each\ntime you get to a new stage,", 
+            "dur": "2.82", 
+            "start": "95.45"
+        }, 
+        {
+            "text": "the old path is all just\nzigzag zigzag zigzag zigzag.", 
+            "dur": "3.67", 
+            "start": "98.27"
+        }, 
+        {
+            "text": "And to keep it all\nneat and orderly,", 
+            "dur": "1.5", 
+            "start": "101.94"
+        }, 
+        {
+            "text": "you decide to try to make all\nthe lines the same length,", 
+            "dur": "2.6", 
+            "start": "103.44"
+        }, 
+        {
+            "text": "always with right\nangles between them.", 
+            "dur": "2.25", 
+            "start": "106.04"
+        }, 
+        {
+            "text": "Here we go.", 
+            "dur": "0.88", 
+            "start": "108.29"
+        }, 
+        {
+            "text": "[SINGING]", 
+            "dur": "22.63", 
+            "start": "109.17"
+        }, 
+        {
+            "text": "Wait, how did this-- Huh.", 
+            "dur": "2.999", 
+            "start": "131.8"
+        }, 
+        {
+            "text": "What if we tried starting\nwith three lines?", 
+            "dur": "1.791", 
+            "start": "134.799"
+        }, 
+        {
+            "text": "Zig zag zug.", 
+            "dur": "1.89", 
+            "start": "136.59"
+        }, 
+        {
+            "text": "OK.", 
+            "dur": "0.54", 
+            "start": "138.48"
+        }, 
+        {
+            "text": "So then each zig should\nget a zig zag zug,", 
+            "dur": "2.41", 
+            "start": "139.02"
+        }, 
+        {
+            "text": "and each zag a zug zag zig?", 
+            "dur": "3.39", 
+            "start": "141.43"
+        }, 
+        {
+            "text": "And then the zug gets,\nwell, maybe it just", 
+            "dur": "2.99", 
+            "start": "144.82"
+        }, 
+        {
+            "text": "goes back and forth,\nwhether it goes", 
+            "dur": "1.93", 
+            "start": "147.81"
+        }, 
+        {
+            "text": "on the inside or the outside.", 
+            "dur": "2.62", 
+            "start": "149.74"
+        }, 
+        {
+            "text": "OK, wait now where did it start?", 
+            "dur": "1.38", 
+            "start": "152.36"
+        }, 
+        {
+            "text": "And everything&#39;s running into\nitself, and getting bigger,", 
+            "dur": "1.64", 
+            "start": "153.74"
+        }, 
+        {
+            "text": "and doesn&#39;t fit on the paper.", 
+            "dur": "1.04", 
+            "start": "155.38"
+        }, 
+        {
+            "text": "OK, maybe if it were\na little more open", 
+            "dur": "1.625", 
+            "start": "156.42"
+        }, 
+        {
+            "text": "it wouldn&#39;t run into itself.", 
+            "dur": "1.275", 
+            "start": "158.045"
+        }, 
+        {
+            "text": "Say like, half a\nhexagon, so you can", 
+            "dur": "2.13", 
+            "start": "159.32"
+        }, 
+        {
+            "text": "keep all the angles perfect.", 
+            "dur": "1.389", 
+            "start": "161.45"
+        }, 
+        {
+            "text": "And then trapezoids in and out.", 
+            "dur": "1.291", 
+            "start": "162.839"
+        }, 
+        {
+            "text": "Yeah, this is totally\ngoing to work.", 
+            "dur": "1.5", 
+            "start": "164.13"
+        }, 
+        {
+            "text": "Lookit.", 
+            "dur": "0.51", 
+            "start": "165.63"
+        }, 
+        {
+            "text": "In fact, like this, you could\neven make it go inside first,", 
+            "dur": "2.81", 
+            "start": "166.14"
+        }, 
+        {
+            "text": "and back and forth, and it\nwouldn&#39;t run into itself.", 
+            "dur": "2.662", 
+            "start": "168.95"
+        }, 
+        {
+            "text": "Next, you could make it go\neven closer together here,", 
+            "dur": "2.208", 
+            "start": "171.612"
+        }, 
+        {
+            "text": "and still not run into itself.", 
+            "dur": "1.56", 
+            "start": "173.82"
+        }, 
+        {
+            "text": "Except that means you&#39;d have to\nstart on the outside this time.", 
+            "dur": "2.93", 
+            "start": "175.38"
+        }, 
+        {
+            "text": "But that&#39;s OK, because next time\nyou can go on the inside again.", 
+            "dur": "2.68", 
+            "start": "178.31"
+        }, 
+        {
+            "text": "And now it&#39;s an easy pattern.", 
+            "dur": "1.29", 
+            "start": "180.99"
+        }, 
+        {
+            "text": "Trapezoid in, trapezoid out,\ntrapezoid in, trapezoid out.", 
+            "dur": "4.26", 
+            "start": "182.28"
+        }, 
+        {
+            "text": "Back and forth until\nthe last trapezoid in.", 
+            "dur": "2.65", 
+            "start": "186.54"
+        }, 
+        {
+            "text": "And then the next time\nstarts with trapezoid out.", 
+            "dur": "2.615", 
+            "start": "189.19"
+        }, 
+        {
+            "text": "Although it&#39;s hard\nto tell what&#39;s", 
+            "dur": "1.375", 
+            "start": "191.805"
+        }, 
+        {
+            "text": "in and what&#39;s out now that\nit&#39;s getting so squiggly.", 
+            "dur": "1.97", 
+            "start": "193.18"
+        }, 
+        {
+            "text": "So you&#39;re just focusing\non going on one", 
+            "dur": "1.55", 
+            "start": "195.15"
+        }, 
+        {
+            "text": "side of the line,\nand then the other.", 
+            "dur": "1.34", 
+            "start": "196.7"
+        }, 
+        {
+            "text": "And wait.", 
+            "dur": "0.5", 
+            "start": "198.04"
+        }, 
+        {
+            "text": "This looks familiar.", 
+            "dur": "1.98", 
+            "start": "198.54"
+        }, 
+        {
+            "text": "Is that, Sierpinski&#39;s triangle?", 
+            "dur": "3.357", 
+            "start": "200.52"
+        }, 
+        {
+            "text": "The fractal you get when you put\na triangle inside a triangle,", 
+            "dur": "2.583", 
+            "start": "203.877"
+        }, 
+        {
+            "text": "and then triangles\ninside the new triangles", 
+            "dur": "1.51", 
+            "start": "206.46"
+        }, 
+        {
+            "text": "you made, and then triangles\ninside those new triangles--", 
+            "dur": "2.374", 
+            "start": "207.97"
+        }, 
+        {
+            "text": "and why would filling\ntriangles into triangles", 
+            "dur": "2.916", 
+            "start": "210.344"
+        }, 
+        {
+            "text": "give you the same thing as\na trapezoidal meta squiggle?", 
+            "dur": "2.81", 
+            "start": "213.26"
+        }, 
+        {
+            "text": "Or is it the same thing?", 
+            "dur": "1.562", 
+            "start": "216.07"
+        }, 
+        {
+            "text": "Which reminds me\nof another fractal", 
+            "dur": "1.458", 
+            "start": "217.632"
+        }, 
+        {
+            "text": "made of triangles, where you\nmake this snowflake by adding", 
+            "dur": "2.58", 
+            "start": "219.09"
+        }, 
+        {
+            "text": "triangles to triangles.", 
+            "dur": "1.11", 
+            "start": "221.67"
+        }, 
+        {
+            "text": "Each one in the middle third\nof each piece of edge, which", 
+            "dur": "2.71", 
+            "start": "222.78"
+        }, 
+        {
+            "text": "you realize you could totally\nget with your tracing method.", 
+            "dur": "2.93", 
+            "start": "225.49"
+        }, 
+        {
+            "text": "Start with one line\nwith a bump, then", 
+            "dur": "2.52", 
+            "start": "228.42"
+        }, 
+        {
+            "text": "trace each line to be a\nline with a bump, and so on.", 
+            "dur": "3.454", 
+            "start": "230.94"
+        }, 
+        {
+            "text": "Which is interesting,\nbecause this time you&#39;re", 
+            "dur": "1.916", 
+            "start": "234.394"
+        }, 
+        {
+            "text": "not squiggling back and\nforth, or forth and back,", 
+            "dur": "2.54", 
+            "start": "236.31"
+        }, 
+        {
+            "text": "but bumping out the\nsame way each time.", 
+            "dur": "2.5", 
+            "start": "238.85"
+        }, 
+        {
+            "text": "Though, you could try\ndoing it the other way.", 
+            "dur": "2.152", 
+            "start": "241.35"
+        }, 
+        {
+            "text": "Which makes you\nreally want to know", 
+            "dur": "1.458", 
+            "start": "243.502"
+        }, 
+        {
+            "text": "what you get if you\ndo the first thing.", 
+            "dur": "1.85", 
+            "start": "244.96"
+        }, 
+        {
+            "text": "But instead of always\nstarting with zigging out,", 
+            "dur": "2", 
+            "start": "246.81"
+        }, 
+        {
+            "text": "you alternate starting\nzig out and zig in.", 
+            "dur": "1.91", 
+            "start": "248.81"
+        }, 
+        {
+            "text": "And it&#39;s kind of\nbumping into itself.", 
+            "dur": "2.244", 
+            "start": "250.72"
+        }, 
+        {
+            "text": "And this would definitely be\nmore perfect with graph paper", 
+            "dur": "2.416", 
+            "start": "252.964"
+        }, 
+        {
+            "text": "or something.", 
+            "dur": "0.57", 
+            "start": "255.38"
+        }, 
+        {
+            "text": "OK, now it&#39;s starting\nto look like a triangle?", 
+            "dur": "3.639", 
+            "start": "255.95"
+        }, 
+        {
+            "text": "On the one hand, not nearly\nas cool as a spirally thing", 
+            "dur": "3.261", 
+            "start": "259.589"
+        }, 
+        {
+            "text": "you get when your zigs\nalways go the same way.", 
+            "dur": "2.44", 
+            "start": "262.85"
+        }, 
+        {
+            "text": "On the other hand, why\nwould you get a triangle?", 
+            "dur": "2.92", 
+            "start": "265.29"
+        }, 
+        {
+            "text": "And it&#39;s like a\nsolid triangle too.", 
+            "dur": "1.507", 
+            "start": "268.21"
+        }, 
+        {
+            "text": "If you kept doing this\nforever, would the triangle", 
+            "dur": "2.083", 
+            "start": "269.717"
+        }, 
+        {
+            "text": "just fill up completely?", 
+            "dur": "2.12", 
+            "start": "271.8"
+        }, 
+        {
+            "text": "These didn&#39;t do that.", 
+            "dur": "1.191", 
+            "start": "273.92"
+        }, 
+        {
+            "text": "Although with this\nthing you have sections", 
+            "dur": "1.749", 
+            "start": "275.111"
+        }, 
+        {
+            "text": "that are starting to fill up.", 
+            "dur": "1.35", 
+            "start": "276.86"
+        }, 
+        {
+            "text": "Maybe here at some\npoint that will happen,", 
+            "dur": "1.91", 
+            "start": "278.21"
+        }, 
+        {
+            "text": "though it seems like it&#39;s\njust full of holes forever.", 
+            "dur": "3.22", 
+            "start": "280.12"
+        }, 
+        {
+            "text": "You kind of wish you had a\nway to take some graph paper", 
+            "dur": "2.57", 
+            "start": "283.34"
+        }, 
+        {
+            "text": "and skip all the way to what\nhappens later in the sequence.", 
+            "dur": "2.55", 
+            "start": "285.91"
+        }, 
+        {
+            "text": "Maybe if you had some sort\nof diagram, like-- this", 
+            "dur": "3.77", 
+            "start": "288.46"
+        }, 
+        {
+            "text": "has a line with one right turn.", 
+            "dur": "1.64", 
+            "start": "292.23"
+        }, 
+        {
+            "text": "The next one goes\nright, right, left.", 
+            "dur": "1.542", 
+            "start": "293.87"
+        }, 
+        {
+            "text": "And then the next goes right,\nright, left, right, right,", 
+            "dur": "2.333", 
+            "start": "295.412"
+        }, 
+        {
+            "text": "left, left.", 
+            "dur": "0.575", 
+            "start": "297.745"
+        }, 
+        {
+            "text": "Is there a rule?", 
+            "dur": "1.69", 
+            "start": "298.32"
+        }, 
+        {
+            "text": "Maybe it&#39;s just like\nthe zig zag zag zigs.", 
+            "dur": "1.98", 
+            "start": "300.01"
+        }, 
+        {
+            "text": "Or maybe not.", 
+            "dur": "1.8", 
+            "start": "301.99"
+        }, 
+        {
+            "text": "OK, but there&#39;s\nprobably some rule.", 
+            "dur": "2.1", 
+            "start": "303.79"
+        }, 
+        {
+            "text": "Suddenly, a note lands on your\ndesk from your friend Sam.", 
+            "dur": "2.85", 
+            "start": "305.89"
+        }, 
+        {
+            "text": "Who writes, looks like you&#39;re\nconcentrating pretty hard.", 
+            "dur": "3.23", 
+            "start": "308.74"
+        }, 
+        {
+            "text": "Don&#39;t tell me you&#39;re\nactually doing math.", 
+            "dur": "2.26", 
+            "start": "311.97"
+        }, 
+        {
+            "text": "As, if.", 
+            "dur": "1.03", 
+            "start": "314.23"
+        }, 
+        {
+            "text": "You write back, no way.", 
+            "dur": "1.48", 
+            "start": "315.26"
+        }, 
+        {
+            "text": "I&#39;m just doodling this.", 
+            "dur": "1.65", 
+            "start": "316.74"
+        }, 
+        {
+            "text": "And just to make extra\nclear it&#39;s not math,", 
+            "dur": "2.44", 
+            "start": "318.39"
+        }, 
+        {
+            "text": "you turn it into a dragon,\nand name it the dragon curve.", 
+            "dur": "2.63", 
+            "start": "320.83"
+        }, 
+        {
+            "text": "Yes.", 
+            "dur": "0.987", 
+            "start": "323.46"
+        }, 
+        {
+            "text": "You don&#39;t want to crumple up\nyour awesome dragon doodle,", 
+            "dur": "2.333", 
+            "start": "324.447"
+        }, 
+        {
+            "text": "but you do have to\nthrow it two rows over.", 
+            "dur": "2.08", 
+            "start": "326.78"
+        }, 
+        {
+            "text": "So you neatly fold\nit into a note spear.", 
+            "dur": "1.667", 
+            "start": "328.86"
+        }, 
+        {
+            "text": "Which just means\nyou&#39;re folding it", 
+            "dur": "1.416", 
+            "start": "330.527"
+        }, 
+        {
+            "text": "in half again and\nagain, until it&#39;s", 
+            "dur": "1.497", 
+            "start": "331.943"
+        }, 
+        {
+            "text": "easy to javelin across the room\nthe moment the teachers back", 
+            "dur": "3.09", 
+            "start": "333.44"
+        }, 
+        {
+            "text": "is turned-- Bam!", 
+            "dur": "1.85", 
+            "start": "336.53"
+        }, 
+        {
+            "text": "Yes!", 
+            "dur": "0.73", 
+            "start": "338.38"
+        }, 
+        {
+            "text": "Perfect landing.", 
+            "dur": "1.59", 
+            "start": "339.11"
+        }, 
+        {
+            "text": "You watch as Sam unfolds it.", 
+            "dur": "1.78", 
+            "start": "340.7"
+        }, 
+        {
+            "text": "And suddenly you feel like\nyou see something familiar.", 
+            "dur": "2.46", 
+            "start": "342.48"
+        }, 
+        {
+            "text": "Some sort of similarity\nbetween the paper", 
+            "dur": "2.71", 
+            "start": "344.94"
+        }, 
+        {
+            "text": "and-- is that possible?", 
+            "dur": "2.18", 
+            "start": "347.65"
+        }, 
+        {
+            "text": "You take your diagram,\nand fold it in half.", 
+            "dur": "2.39", 
+            "start": "349.83"
+        }, 
+        {
+            "text": "And half again.", 
+            "dur": "1.69", 
+            "start": "352.22"
+        }, 
+        {
+            "text": "And again.", 
+            "dur": "1.34", 
+            "start": "353.91"
+        }, 
+        {
+            "text": "And wow, not only does it look\nlike it&#39;s doing the same thing,", 
+            "dur": "4.02", 
+            "start": "355.25"
+        }, 
+        {
+            "text": "probably, but it&#39;s also\nshowing a new way to do it.", 
+            "dur": "3.29", 
+            "start": "359.27"
+        }, 
+        {
+            "text": "Instead of keeping\ntrack of zigs and zags,", 
+            "dur": "1.99", 
+            "start": "362.56"
+        }, 
+        {
+            "text": "you can just copy\nthe old one, and add", 
+            "dur": "1.83", 
+            "start": "364.55"
+        }, 
+        {
+            "text": "it 90 degrees from the other,\nwhich is totally traceable.", 
+            "dur": "3.21", 
+            "start": "366.38"
+        }, 
+        {
+            "text": "Bam.", 
+            "dur": "0.6", 
+            "start": "369.59"
+        }, 
+        {
+            "text": "Easy.", 
+            "dur": "0.74", 
+            "start": "370.19"
+        }, 
+        {
+            "text": "Well, as long as\nyou can keep track", 
+            "dur": "1.73", 
+            "start": "370.93"
+        }, 
+        {
+            "text": "of what end to start from.", 
+            "dur": "1.089", 
+            "start": "372.66"
+        }, 
+        {
+            "text": "And you don&#39;t even\nhave to keep track", 
+            "dur": "1.541", 
+            "start": "373.749"
+        }, 
+        {
+            "text": "of what order to\ndraw the lines in.", 
+            "dur": "1.64", 
+            "start": "375.29"
+        }, 
+        {
+            "text": "You just need to keep things\nroughly on a square grid", 
+            "dur": "2.22", 
+            "start": "376.93"
+        }, 
+        {
+            "text": "so things line up.", 
+            "dur": "1.08", 
+            "start": "379.15"
+        }, 
+        {
+            "text": "Easy.", 
+            "dur": "0.71", 
+            "start": "380.23"
+        }, 
+        {
+            "text": "Until it gets too big\nfor your paper and you", 
+            "dur": "1.9", 
+            "start": "380.94"
+        }, 
+        {
+            "text": "have to dragon-ize it.", 
+            "dur": "2.03", 
+            "start": "382.84"
+        }, 
+        {
+            "text": "It&#39;s funny, because one way\nit gets bigger and bigger.", 
+            "dur": "3.06", 
+            "start": "384.87"
+        }, 
+        {
+            "text": "If you go on forever,\nit&#39;ll be infinitely big.", 
+            "dur": "3", 
+            "start": "387.93"
+        }, 
+        {
+            "text": "But with the first way, it\nstays basically the same size.", 
+            "dur": "3.07", 
+            "start": "390.93"
+        }, 
+        {
+            "text": "You just draw more details.", 
+            "dur": "1.996", 
+            "start": "394"
+        }, 
+        {
+            "text": "Which means if\nyou do it forever,", 
+            "dur": "1.374", 
+            "start": "395.996"
+        }, 
+        {
+            "text": "the line will still\nget infinitely long,", 
+            "dur": "2.16", 
+            "start": "397.37"
+        }, 
+        {
+            "text": "but the total size\nwill stay the same.", 
+            "dur": "2.33", 
+            "start": "399.53"
+        }, 
+        {
+            "text": "Will that even work?", 
+            "dur": "1.13", 
+            "start": "401.86"
+        }, 
+        {
+            "text": "An infinitely long\nline all squiggled up", 
+            "dur": "2.06", 
+            "start": "402.99"
+        }, 
+        {
+            "text": "into a finite area?", 
+            "dur": "1.777", 
+            "start": "405.05"
+        }, 
+        {
+            "text": "And then with folding\npaper, the whole thing", 
+            "dur": "1.833", 
+            "start": "406.827"
+        }, 
+        {
+            "text": "gets smaller and smaller until\nmaybe it disappears entirely.", 
+            "dur": "3.43", 
+            "start": "408.66"
+        }, 
+        {
+            "text": "Which you suppose makes sense\nbecause the edge of the paper", 
+            "dur": "2.5", 
+            "start": "412.09"
+        }, 
+        {
+            "text": "stays the same length, no\nmatter how you fold it.", 
+            "dur": "2.39", 
+            "start": "414.59"
+        }, 
+        {
+            "text": "You can&#39;t make it longer\nand longer like copying it,", 
+            "dur": "2.28", 
+            "start": "416.98"
+        }, 
+        {
+            "text": "where the length\ndoubles each time.", 
+            "dur": "1.75", 
+            "start": "419.26"
+        }, 
+        {
+            "text": "So instead, the whole thing\ngets smaller and smaller.", 
+            "dur": "3.42", 
+            "start": "421.01"
+        }, 
+        {
+            "text": "Maybe this grid\nreally would fill up", 
+            "dur": "1.79", 
+            "start": "424.43"
+        }, 
+        {
+            "text": "until that infinitely\nlong line is squiggled up", 
+            "dur": "2.33", 
+            "start": "426.22"
+        }, 
+        {
+            "text": "into an actual solid\ntwo dimensional triangle", 
+            "dur": "2.6", 
+            "start": "428.55"
+        }, 
+        {
+            "text": "with no empty space left in it.", 
+            "dur": "2.36", 
+            "start": "431.15"
+        }, 
+        {
+            "text": "Maybe that would make sense.", 
+            "dur": "1.51", 
+            "start": "433.51"
+        }, 
+        {
+            "text": "Or be crazy.", 
+            "dur": "1.31", 
+            "start": "435.02"
+        }, 
+        {
+            "text": "You know lines are\ninfinitely thin,", 
+            "dur": "2.1", 
+            "start": "436.33"
+        }, 
+        {
+            "text": "but if you had\ninfinitely much of it,", 
+            "dur": "2.02", 
+            "start": "438.43"
+        }, 
+        {
+            "text": "maybe the infinities would\ncancel out or something.", 
+            "dur": "2.78", 
+            "start": "440.45"
+        }, 
+        {
+            "text": "Like the line gets closer\nand closer to itself", 
+            "dur": "2.267", 
+            "start": "443.23"
+        }, 
+        {
+            "text": "until it actually\ntouches, but doesn&#39;t", 
+            "dur": "1.583", 
+            "start": "445.497"
+        }, 
+        {
+            "text": "overlap, but with\nno space between.", 
+            "dur": "2.37", 
+            "start": "447.08"
+        }, 
+        {
+            "text": "Which would make no sense,\nunless you do it everywhere", 
+            "dur": "2.464", 
+            "start": "449.45"
+        }, 
+        {
+            "text": "at once, so who can\ntell the difference.", 
+            "dur": "1.666", 
+            "start": "451.914"
+        }, 
+        {
+            "text": "Yeah, that totally sounds legit.", 
+            "dur": "2.43", 
+            "start": "453.58"
+        }, 
+        {
+            "text": "Although, in this\none, there&#39;s holes", 
+            "dur": "1.84", 
+            "start": "456.01"
+        }, 
+        {
+            "text": "that never get\nfilled at any point,", 
+            "dur": "1.48", 
+            "start": "457.85"
+        }, 
+        {
+            "text": "so you&#39;d still have\nan infinite line,", 
+            "dur": "1.38", 
+            "start": "459.33"
+        }, 
+        {
+            "text": "but it doesn&#39;t fill up space,\nit&#39;s just all holes forever,", 
+            "dur": "2.16", 
+            "start": "460.71"
+        }, 
+        {
+            "text": "but it also never\noverlaps, So where", 
+            "dur": "1.545", 
+            "start": "462.87"
+        }, 
+        {
+            "text": "is all that infinite line going?", 
+            "dur": "3.435", 
+            "start": "464.415"
+        }, 
+        {
+            "text": "Anyway, class is over, so you\npack up and save the question.", 
+            "dur": "2.92", 
+            "start": "467.85"
+        }, 
+        {
+            "text": "After all, you&#39;ve got\nmath class again tomorrow.", 
+            "dur": "3.41", 
+            "start": "470.77"
+        }
+    ], 
+    "title": "Doodling in Math Class: DRAGONS", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04rjg", 
+        "/m/0mfx0", 
+        "/m/0202fh", 
+        "/m/02yfd"
+    ], 
+    "number_views": 1018103, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-08T17:34:40.780Z", 
+            "text": "Whoa #SickBrainOverload  \ufeff", 
+            "author": "ArtsySimmer"
+        }, 
+        {
+            "date": "2015-05-04T22:46:56.244Z", 
+            "text": "This is cool.........but....... where are the dragons?\ufeff", 
+            "author": "ANIMoN"
+        }, 
+        {
+            "date": "2015-05-04T22:42:20.747Z", 
+            "text": "LOL THIS WAS TOTALLY ME IN SCHOOL XDDDD\ufeff", 
+            "author": "ANIMoN"
+        }, 
+        {
+            "date": "2015-05-03T19:08:20.095Z", 
+            "text": "This is so random\ufeff", 
+            "author": "CoPezz"
+        }, 
+        {
+            "date": "2015-05-03T07:01:29.523Z", 
+            "text": "Shh little girl you would learn so much more if you fully comitted to \nsilence...\ufeff", 
+            "author": "John Morrow"
+        }, 
+        {
+            "date": "2015-05-01T14:15:41.753Z", 
+            "text": "mindblowing! :O :D\ufeff", 
+            "author": "WvvW XxxX"
+        }, 
+        {
+            "date": "2015-04-30T21:24:09.620Z", 
+            "text": "LMAO OMG this girl is just so cute it's incredible :D\ufeff", 
+            "author": "Hussein Khalife"
+        }, 
+        {
+            "date": "2015-04-28T12:20:21.743Z", 
+            "text": "This reminds me of Ziggs Boson\ufeff", 
+            "author": "Hay_ImKeyser_S\u00f6ze"
+        }, 
+        {
+            "date": "2015-04-25T14:09:38.274Z", 
+            "text": "I FIGURED OUT THE RULE.\n\n1. Take the current pattern you have (for example, R, which is the start) \nand put spaces between the letters if necessary. The spaces on the ends \ncount as spaces too.\n\n2. Alternate R and L in the spaces. In this case, R becomes RRL.\n\n3. Repeat.\n\nRRL\n\n( R R L ) (parentheses used to show spaces on ends)\n\nRRLRRLL\n\n( R R L R R L L )\n\nRRLRRLLRRRLLRLL\n\nIf you don't believe me, you can go ahead and check the patterns Vi wrote \nhere: 4:52\ufeff", 
+            "author": "Chrnan6710"
+        }, 
+        {
+            "date": "2015-04-24T07:16:47.196Z", 
+            "text": "What did i just watch 0-0 enough internet for today \ufeff", 
+            "author": "DanSepticEye TheSepticArmy"
+        }, 
+        {
+            "date": "2015-04-24T04:22:39.977Z", 
+            "text": "nice channel\ufeff", 
+            "author": "Creative Chev"
+        }, 
+        {
+            "date": "2015-04-22T00:49:46.951Z", 
+            "text": "I don't understand most of the things you say but I like it nonetheless\ufeff", 
+            "author": "Abominatrix650"
+        }, 
+        {
+            "date": "2015-04-21T03:43:52.135Z", 
+            "text": "This was literally the best thing I've ever seen. And I mean literally in \nthe exact meaning of the word. I have never seen anything better than this \nin all of my existence.\ufeff", 
+            "author": "Cody Edwards"
+        }, 
+        {
+            "date": "2015-04-16T17:06:47.416Z", 
+            "text": "Ziggs Zac Ziggs Zac...\ufeff", 
+            "author": "I'm Batman"
+        }, 
+        {
+            "date": "2015-04-20T21:13:21.098Z", 
+            "text": "+Blinkert Bacon thats it :D", 
+            "author": "I'm Batman"
+        }, 
+        {
+            "date": "2015-04-20T16:36:31.529Z", 
+            "text": "+I'm Batman LoL", 
+            "author": "Blinkert Bacon"
+        }, 
+        {
+            "date": "2015-04-15T13:53:32.402Z", 
+            "text": "Anyone think of the triforce when she did the triangles\ufeff", 
+            "author": "Rodney Evans"
+        }, 
+        {
+            "date": "2015-04-15T02:26:20.816Z", 
+            "text": "HOLY COW, what?!\ufeff", 
+            "author": "Chye Yi Leow"
+        }, 
+        {
+            "date": "2015-04-13T20:12:50.625Z", 
+            "text": "I do the same drawings \ufeff", 
+            "author": "aaron sesay"
+        }, 
+        {
+            "date": "2015-04-11T23:25:23.244Z", 
+            "text": "OMG I've been thinking about these things all my life... I finally managed \nto find something entertaining that I enjoy watching in youtube. Nice \nvids!!!\ufeff", 
+            "author": "lmi7kol"
+        }, 
+        {
+            "date": "2015-04-06T21:38:19.958Z", 
+            "text": "Mind=blown\ufeff", 
+            "author": "Whiteside"
+        }, 
+        {
+            "date": "2015-04-03T02:34:22.292Z", 
+            "text": "Do NOT, under any circumstances, watch this while you are stoned. Your \nbrain will bleed as you begin to relate how the Triforce was actually \nrelated to aliens that visited from some planet only Kurt Vonnegut could \nhave dreamed up and left instructions on how to build the pyramids of Giza, \nwhich, obviously, correspond perfectly to the three stars on Orion's Belt.\ufeff", 
+            "author": "Ryan Smith"
+        }, 
+        {
+            "date": "2015-04-03T02:15:35.475Z", 
+            "text": "I love u! Loooove u!\ufeff", 
+            "author": "Christian Randez"
+        }, 
+        {
+            "date": "2015-04-01T18:47:03.883Z", 
+            "text": "what\ufeff", 
+            "author": "Subar Jansens"
+        }, 
+        {
+            "date": "2015-03-31T20:37:38.946Z", 
+            "text": "My brain exploded\ufeff", 
+            "author": "Anna Jones"
+        }, 
+        {
+            "date": "2015-03-31T14:24:38.824Z", 
+            "text": "The fact that I'm enjoying this is so weird...\ufeff", 
+            "author": "HJSDGCE"
+        }, 
+        {
+            "date": "2015-03-30T04:17:47.021Z", 
+            "text": "I hate mathematics and other forms of it but I love your videos\ufeff", 
+            "author": "lostone13"
+        }, 
+        {
+            "date": "2015-03-28T14:15:17.372Z", 
+            "text": "Fun stuff\ufeff", 
+            "author": "Minetime XxEliteProxX"
+        }, 
+        {
+            "date": "2015-03-28T23:28:46.000Z", 
+            "text": "*Awesome, random math stuff!*\n\nWho likes dragons! Then watch this video! It's all about math, dragons, \nand....   awesome stuff. #math #awesomeness  \ufeff", 
+            "author": "Johnathan Leung"
+        }, 
+        {
+            "date": "2015-03-27T21:29:50.599Z", 
+            "text": "This video just blew my mind.\ufeff", 
+            "author": "Allyana Brady"
+        }, 
+        {
+            "date": "2015-03-27T16:37:46.661Z", 
+            "text": "im really surprised she's not doing all this on graph paper.  \ufeff", 
+            "author": "Dennis Davis"
+        }, 
+        {
+            "date": "2015-03-27T13:04:52.156Z", 
+            "text": "It was obviously all the illuminati, with all the triangles and that.\n\ufeff", 
+            "author": "PewDiePie"
+        }, 
+        {
+            "date": "2015-03-26T23:52:08.640Z", 
+            "text": "My math homework was to doodle one of your things lol\ufeff", 
+            "author": "alina garcia"
+        }, 
+        {
+            "date": "2015-03-26T21:00:02.289Z", 
+            "text": "The comment at the end is awesome!\nShe asks herself the question \"where is all that infinite line going?\". \nAnyway, class is over...\nSounds like a side blow an math classes to me...\ufeff", 
+            "author": "PolarisAT"
+        }, 
+        {
+            "date": "2015-03-26T00:55:30.144Z", 
+            "text": "Lol did I actually watch this for eight minutes\ufeff", 
+            "author": "Reggie b"
+        }, 
+        {
+            "date": "2015-03-25T18:57:15.491Z", 
+            "text": "This is amazing\ufeff", 
+            "author": "scares009"
+        }, 
+        {
+            "date": "2015-03-25T10:18:22.127Z", 
+            "text": "What just happened?\ufeff", 
+            "author": "Uncreative Name"
+        }, 
+        {
+            "date": "2015-03-25T06:22:21.843Z", 
+            "text": "I love the way you put math into art. There's something satisfying about \nphysically seeing what you're learning. Actually comprehending is way \nbetter than just memorizing formulas.\ufeff", 
+            "author": "Goatmeal"
+        }, 
+        {
+            "date": "2015-04-16T00:03:57.565Z", 
+            "text": "+MarioThaMonkey I never said I just memorize formulas. I specifically hate \ndoing that, which is why I'm successful in math. If I don't understand the \nconcept and see it in my mind, it bugs me. To understand the concept is ten \ntimes more effective at applying it in real life.", 
+            "author": "Goatmeal"
+        }, 
+        {
+            "date": "2015-04-14T10:00:18.748Z", 
+            "text": "Why are you just memorizing and not trying to understand them? Lol do you \nhave no sense of imagination?", 
+            "author": "MarioThaMonkey"
+        }, 
+        {
+            "date": "2015-03-24T23:16:50.091Z", 
+            "text": "is she autistic or something\n>>>>>???????????\ufeff", 
+            "author": "By clame"
+        }, 
+        {
+            "date": "2015-03-23T19:48:48.008Z", 
+            "text": "How much paper do you go through from this channel?\nSeriously, don't go and kill our forests, but seriously huge fan\ufeff", 
+            "author": "Lion Bryce"
+        }, 
+        {
+            "date": "2015-03-19T17:12:26.883Z", 
+            "text": "#squiglezone\ufeff", 
+            "author": "Scythe Penguin"
+        }, 
+        {
+            "date": "2015-03-19T09:10:57.232Z", 
+            "text": "Huh, all I did was write 10 to the ten thousandth power when I was bored in \nmath. It took up about 5 pages.\ufeff", 
+            "author": "Stenstorp"
+        }, 
+        {
+            "date": "2015-03-18T19:16:30.109Z", 
+            "text": "Illuminati confirmed!! XD\ufeff", 
+            "author": "Alex and Billy's super reveiwing channel"
+        }, 
+        {
+            "date": "2015-03-16T17:56:09.833Z", 
+            "text": "XD FANTASTIC. \"Whaaat?, Lessons over....,.. what lesson!?\"\ufeff", 
+            "author": "Paul Adriaanse"
+        }, 
+        {
+            "date": "2015-03-14T20:31:43.369Z", 
+            "text": "this is amazing you should be a maths teacher and theach FUN STUFF UNLIKE \nOTHER MATH TEACHERS;) :)\ufeff", 
+            "author": "jaimie-leigh Jarvis"
+        }, 
+        {
+            "date": "2015-03-14T15:41:41.981Z", 
+            "text": "Who has time to do this? Please I would like to know. The 46 minute class \nperiods are not long enough. \ufeff", 
+            "author": "TheMappMakker"
+        }, 
+        {
+            "date": "2015-03-14T14:18:20.379Z", 
+            "text": "your genius genuinely scares me\ufeff", 
+            "author": "conagorn"
+        }, 
+        {
+            "date": "2015-03-14T12:33:35.549Z", 
+            "text": "I laugh more than I should have at the log rhythms joke \ud83d\ude02\ud83d\ude02\ufeff", 
+            "author": "Elliott Firth"
+        }, 
+        {
+            "date": "2015-03-14T06:26:09.619Z", 
+            "text": "i came\ufeff", 
+            "author": "fetch300"
+        }, 
+        {
+            "date": "2015-03-14T04:21:40.418Z", 
+            "text": "I just see a Tri-Force... How did I even get here?\ufeff", 
+            "author": "U.N.D.Y.S. Productions"
+        }, 
+        {
+            "date": "2015-03-11T22:16:10.139Z", 
+            "text": "3:25  It's the triforce!\ufeff", 
+            "author": "Chasm 95"
+        }, 
+        {
+            "date": "2015-03-09T22:24:34.653Z", 
+            "text": "trapezoidal mega squiggle... lel \ufeff", 
+            "author": "Baby Face's Backburner"
+        }, 
+        {
+            "date": "2015-03-09T20:27:05.083Z", 
+            "text": "Cool\ufeff", 
+            "author": "Nika_ Gaponova_76"
+        }, 
+        {
+            "date": "2015-03-09T08:16:34.062Z", 
+            "text": "I want to marry you.\ufeff", 
+            "author": "bopeton"
+        }, 
+        {
+            "date": "2015-03-07T05:45:55.534Z", 
+            "text": "Illuminati confirmed \ufeff", 
+            "author": "Mia Morningstar"
+        }, 
+        {
+            "date": "2015-03-07T04:55:46.038Z", 
+            "text": "When you the thing about it not making sense then you don't make sense. \nThings choice with little to no empty space all the time. like within \nhouses or blocks of wood being pushed together until the stuck or together \nwith some sort of adhesive binding it together\ufeff", 
+            "author": "Parker Sutherland"
+        }, 
+        {
+            "date": "2015-03-05T05:19:46.561Z", 
+            "text": "My head exploded\ufeff", 
+            "author": "Jack Simpleco"
+        }, 
+        {
+            "date": "2015-03-02T07:09:00.241Z", 
+            "text": "This video is actually very interesting. It inspires me to try something \nlike this, but what is really amazing is how she's able to take two lines \nand turn it into a whole new piece of artwork. Although the zig zags and in \nand out squiggles seem easy just watching her do it herself confuses me! \ufeff", 
+            "author": "Kariss Dunson"
+        }, 
+        {
+            "date": "2015-02-28T02:38:54.831Z", 
+            "text": "I subscribed to you because you are smart!!!!!!!!!!!!\ufeff", 
+            "author": "HorsesGoMoo"
+        }, 
+        {
+            "date": "2015-02-27T14:55:04.116Z", 
+            "text": "This is actually really cool and gives me some ideas on how to distract \nmyself in math. \ufeff", 
+            "author": "walkervc24"
+        }, 
+        {
+            "date": "2015-02-27T07:09:12.879Z", 
+            "text": "This was actually very interesting. I've never realized how so many things \nin math are so closely related. Like Sierpinski's Triangle being created by \nmaking a back and forth pattern with any shape. How you figured out that \nfolding your paper in half over and over actually made your in and out \nsquare pattern confused me. I don't get how you even thought of that. It's \namazing how you took something as simple as two lines and created a \ncomplicated, infinite pattern. This has made me wonder what I can find that \nI see every day but have never notices how it relates to mathematics.\ufeff", 
+            "author": "MrDodo191"
+        }, 
+        {
+            "date": "2015-02-27T04:21:39.447Z", 
+            "text": "I liked this YouTube video by Vihart because it shows you how you can \nrelate math to other subjects, such as art. I have always seen math as just \nnumbers, data, formulas, and graphs. Drawing is not one of my fortes, but I \ncan say math is. I never thought that because I was good at math, I could \npotentially be good at drawing. I was confused by how some of these shapes \nwere made, mainly because at the fast pace the video was going. What \ninspired me the most about this video is how math can be related to other \nsubjects, such as in fields of music and architecture. \ufeff", 
+            "author": "Wisam Ahmad"
+        }, 
+        {
+            "date": "2015-02-25T18:54:30.547Z", 
+            "text": "Doodling with math, or in math, or in math with math...\ufeff", 
+            "author": "Ty Wilkinson"
+        }, 
+        {
+            "date": "2015-02-24T21:19:34.700Z", 
+            "text": "I love you. Math, :*\ufeff", 
+            "author": "muhammad ali"
+        }, 
+        {
+            "date": "2015-02-24T20:26:26.208Z", 
+            "text": "I liked this video because it shows how you can connect to math other \ninteresting subjects, like art, that you never thought you would be able \nto. This video inspired me to try these different art shapes and to explore \nwhat other subjects might be able to be connected with math. however, some \nof these methods of making the shapes were a little confusing, but I feel \nlike if I tried them myself I would better understand.\ufeff", 
+            "author": "Lexi Pollard"
+        }, 
+        {
+            "date": "2015-02-24T18:18:12.371Z", 
+            "text": "Holy Feces! The trees probably detest you!\ufeff", 
+            "author": "Kostadin Petkov"
+        }, 
+        {
+            "date": "2015-02-24T17:22:11.490Z", 
+            "text": "girl u just fucked up my mind\ufeff", 
+            "author": "Sho"
+        }, 
+        {
+            "date": "2015-02-24T16:54:35.573Z", 
+            "text": "Okay: I love you! \ufeff", 
+            "author": "Amir All (\u202b\u0627\u0645\u06cc\u0631 \u0622\u0644\u202c\u200e)"
+        }, 
+        {
+            "date": "2015-02-24T11:41:42.366Z", 
+            "text": "Her fingers are so beautiful\ufeff", 
+            "author": "Joong So Min"
+        }, 
+        {
+            "date": "2015-02-25T05:05:48.955Z", 
+            "text": "I think u r beautiful as well", 
+            "author": "mario cruz"
+        }, 
+        {
+            "date": "2015-02-24T04:45:33.737Z", 
+            "text": "all i heard was \"zig zag zig zig zag zig\"\ufeff", 
+            "author": "CarterCoinClub CCC"
+        }, 
+        {
+            "date": "2015-02-23T16:49:00.702Z", 
+            "text": "zag means shit or poop in saudi :D\ufeff", 
+            "author": "Diamond In The Rough"
+        }, 
+        {
+            "date": "2015-02-22T21:15:57.586Z", 
+            "text": "*mind blown* (:-l\ufeff", 
+            "author": "Tbro520"
+        }, 
+        {
+            "date": "2015-02-22T05:50:00.595Z", 
+            "text": "just subscribed. great video. really enjoyed. \ufeff", 
+            "author": "Andres E."
+        }, 
+        {
+            "date": "2015-02-18T02:41:40.438Z", 
+            "text": "for some reason i was waiting for her to somehow connect the squigle stuff \nto logarithims XD\ufeff", 
+            "author": "Puddi Kat"
+        }, 
+        {
+            "date": "2015-05-01T05:38:51.118Z", 
+            "text": "+Joe Cobb thanks", 
+            "author": "Puddi Kat"
+        }, 
+        {
+            "date": "2015-04-30T03:20:42.256Z", 
+            "text": "+Puddi Kat luv ur profile pic", 
+            "author": "Joe Cobb"
+        }, 
+        {
+            "date": "2015-03-04T20:09:12.859Z", 
+            "text": "+OnlyKoolaid\nDon't know what you mean, I'll just leave this here: \nhttp://en.wikipedia.org/wiki/Koch_snowflake", 
+            "author": "Benjamin Pollitt"
+        }, 
+        {
+            "date": "2015-03-03T23:16:25.281Z", 
+            "text": "+Benjamin Pollitt\nLine segment?", 
+            "author": "OnlyKoolaid"
+        }, 
+        {
+            "date": "2015-02-21T14:06:17.181Z", 
+            "text": "with logarithms you can actually calculate the dimension of the curve. e.g. \nif you take a third of the Koch snowflake it would be log4/log3 so about \n1.26. this means the curve has a dimension somewhere between that of a \nstraight line and a plane but closer to a line", 
+            "author": "Benjamin Pollitt"
+        }, 
+        {
+            "date": "2015-02-17T11:06:02.693Z", 
+            "text": " Where's my mind? ***points in various places around the room*** over \nthere, over there, and up there. \ufeff", 
+            "author": "Rainbow Flash"
+        }, 
+        {
+            "date": "2015-02-17T10:39:09.545Z", 
+            "text": "No! It is the triforce!\ufeff", 
+            "author": "The Great British Monkey"
+        }, 
+        {
+            "date": "2015-02-17T08:11:33.335Z", 
+            "text": "3:22\nIlluminati Confirmed\ufeff", 
+            "author": "Luk Yat Ming"
+        }, 
+        {
+            "date": "2015-02-17T01:52:58.932Z", 
+            "text": "fractals :D thats what I do in class :D\ufeff", 
+            "author": "John Sherfey"
+        }, 
+        {
+            "date": "2015-02-16T18:44:28.817Z", 
+            "text": "That was really amazing.\ufeff", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-02-16T03:11:36.326Z", 
+            "text": "+1COOOOOL Math is awesome\ufeff", 
+            "author": "ABOODY"
+        }, 
+        {
+            "date": "2015-02-15T19:00:38.052Z", 
+            "text": "You go girl\ud83d\ude1c\ud83d\ude1c\ud83d\ude1b\ud83d\ude09\ud83d\udc4d\ud83d\udc4d\u270c\u270c\u270c\ufeff", 
+            "author": "Jonathan Myles"
+        }, 
+        {
+            "date": "2015-02-15T15:13:39.699Z", 
+            "text": "Literally, Mind Blown\ud83d\ude28\ufeff", 
+            "author": "Shelby Little Shield"
+        }, 
+        {
+            "date": "2015-02-14T10:56:10.111Z", 
+            "text": "and we stupid computer scientists implement l-systems to draw these shapes \n:-/ pwned by pen and paper\ufeff", 
+            "author": "Banjo"
+        }, 
+        {
+            "date": "2015-02-14T02:19:13.783Z", 
+            "text": "I don't even know how I feel about these videos. I'm going to be in a \ncorner rocking back and forth if anyone needs me.\ufeff", 
+            "author": "Alex Reidy"
+        }, 
+        {
+            "date": "2015-02-10T22:27:00.346Z", 
+            "text": "Vihart is AWESOME <3\ufeff", 
+            "author": "Jared Harding"
+        }, 
+        {
+            "date": "2015-02-07T18:44:36.892Z", 
+            "text": "I never thought the words \"Having fun with math\" would come out of my \nmouth.\ufeff", 
+            "author": "Kaylyn Yeager"
+        }, 
+        {
+            "date": "2015-02-07T18:18:41.716Z", 
+            "text": "My head started to hurt\ufeff", 
+            "author": "augustinas voskan"
+        }, 
+        {
+            "date": "2015-02-07T18:05:35.406Z", 
+            "text": "And this is how great mathematicians were born.\ufeff", 
+            "author": "Khanh Tran"
+        }, 
+        {
+            "date": "2015-02-06T06:25:21.531Z", 
+            "text": " This video is really interesting because I've always seen math as my \nweakest subject, but i love to draw. I guess i just never realized that \nthey coincide. Whenever i hear math, it sounds like a different language, \nbut maybe if i were to draw it out more, it would actually make sense! I am \ncurious as to why triangles are such an important shape in math. it seems \nlike everything always comes back to them. Also, how could you prove that \neventually the triangle would become solid if you continued adding more \npatterns?\ufeff", 
+            "author": "Beth B. Anderson"
+        }, 
+        {
+            "date": "2015-02-06T04:32:51.495Z", 
+            "text": "The line gets infinitely long, and would eventually, after an infinity fill \nup the two dimensional shape, but the total size will stay the same. Math \nis infinitely mind blowing.\ufeff", 
+            "author": "Faith Nichols"
+        }, 
+        {
+            "date": "2015-02-06T03:35:37.219Z", 
+            "text": " This video showed me that doodling in class actually can be helpful. I \nreally was fascinated by the usage of fractals and zig-zags. The dragon \npart was actually a part that really intrigued me as well. I wish I was \nthat good of an artist. If I was, I would probably try (I might even try it \nanyways\u2026) to remake my own version of it and create a different character \nother than just a dragon. This video was very interesting! \ufeff", 
+            "author": "Wyatt Waterman"
+        }, 
+        {
+            "date": "2015-02-06T03:09:30.488Z", 
+            "text": "She's very smart coming up with the different patterns on the spot. I get \nit's easy, but for some that takes more thought than traditional doodling. \nHonestly I did get a little lost when she would change from zig zag to \nfractals, but I caught back on fairly quickly. I'm kind of more inspired to \ndoodle in class now, but that might be the smartest thing for me to do. \ufeff", 
+            "author": "cayla plummer"
+        }, 
+        {
+            "date": "2015-02-06T00:45:39.590Z", 
+            "text": "This video is so cool! It makes me want to doodle in class now.  I think I \nhave to try out the dragon.  I never knew that just continuing that many \nlines could create something so interesting.  \ufeff", 
+            "author": "Emily Beach"
+        }, 
+        {
+            "date": "2015-02-05T23:03:45.222Z", 
+            "text": "That... was... crazy!\ufeff", 
+            "author": "colin clabo"
+        }, 
+        {
+            "date": "2015-02-05T21:51:13.039Z", 
+            "text": " People always talk about how math is stupid and won't really help you in \nlife later on, so why bother to learn it? But you can be doing something, \nlike doodling, and won't realize that it has math in it. What people don't \nrealize is that math is literally everywhere.\ufeff", 
+            "author": "patty"
+        }, 
+        {
+            "date": "2015-02-05T12:29:12.521Z", 
+            "text": "THIS IS SO FUNNY:D\ufeff", 
+            "author": "Jaylan Sims"
+        }, 
+        {
+            "date": "2015-02-05T00:43:22.130Z", 
+            "text": "This girl (Probably) Gets paid for doodling. This is actually smart. lol\ufeff", 
+            "author": "The Gamestas"
+        }, 
+        {
+            "date": "2015-02-04T07:09:00.310Z", 
+            "text": "Can anyone help me? Me friend is convinced that sierpinski's triangle \noriginated from Zelda. Even though it was merely used in it. He also \ndoesn't believe that math has anything to do with art, even though I have \nshown him three of Vi's videos.\ufeff", 
+            "author": "SockBadger 24601"
+        }, 
+        {
+            "date": "2015-02-03T02:12:42.947Z", 
+            "text": "you hate your math teacher? \ufeff", 
+            "author": "oldcowbb"
+        }, 
+        {
+            "date": "2015-02-02T03:22:06.219Z", 
+            "text": "Is that weird I understand that. \ufeff", 
+            "author": "Ataya Sigler"
+        }, 
+        {
+            "date": "2015-02-01T03:59:43.742Z", 
+            "text": "Does she upload often anymore?\ufeff", 
+            "author": "Leumas Zamzite"
+        }, 
+        {
+            "date": "2015-01-30T01:01:41.059Z", 
+            "text": "Mine.... Blown.....\ufeff", 
+            "author": "JoeyJnd"
+        }, 
+        {
+            "date": "2015-02-03T01:28:48.469Z", 
+            "text": "You spelled mind wrong, but I guess that's fine because your mind blew \naway. I wouldn't expect you to be able to spell well.", 
+            "author": "John Kat"
+        }
+    ]
+}

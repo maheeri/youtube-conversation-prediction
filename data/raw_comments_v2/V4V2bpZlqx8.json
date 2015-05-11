@@ -1,0 +1,2336 @@
+{
+    "publish_date": "2013-01-14T18:02:57.000Z", 
+    "video_length": "PT10M59S", 
+    "captions": [
+        {
+            "text": "DR. JAMES GRIME: So in our first\nEnigma video, we left", 
+            "dur": "2.53", 
+            "start": "0.81"
+        }, 
+        {
+            "text": "you on a bit of a cliffhanger.", 
+            "dur": "1.3", 
+            "start": "3.34"
+        }, 
+        {
+            "text": "I was just about to\nshow you the flaw", 
+            "dur": "2.27", 
+            "start": "4.64"
+        }, 
+        {
+            "text": "in the Enigma machine.", 
+            "dur": "1.53", 
+            "start": "6.91"
+        }, 
+        {
+            "text": "Now, that video was only meant\nto be a short follow-up video.", 
+            "dur": "4.5", 
+            "start": "8.44"
+        }, 
+        {
+            "text": "But when we saw the reaction to\nour first Enigma video, we", 
+            "dur": "3.29", 
+            "start": "12.94"
+        }, 
+        {
+            "text": "decided to come in and film\nagain to show you how that", 
+            "dur": "3.65", 
+            "start": "16.23"
+        }, 
+        {
+            "text": "flaw worked and how they\nbroke the Enigma code.", 
+            "dur": "3.46", 
+            "start": "19.88"
+        }, 
+        {
+            "text": "Now, if you want to see the\noriginal Enigma video--", 
+            "dur": "2.59", 
+            "start": "23.34"
+        }, 
+        {
+            "text": "it shows you how the Enigma\nmachine worked--", 
+            "dur": "2.09", 
+            "start": "25.93"
+        }, 
+        {
+            "text": "go check that out.", 
+            "dur": "0.81", 
+            "start": "28.02"
+        }, 
+        {
+            "text": "We&#39;ll put the links in\nthe description.", 
+            "dur": "2.34", 
+            "start": "28.83"
+        }, 
+        {
+            "text": "But now let&#39;s have a\nlook at that flaw.", 
+            "dur": "2.44", 
+            "start": "31.17"
+        }, 
+        {
+            "text": "So here&#39;s the Enigma\nmachine again.", 
+            "dur": "2.14", 
+            "start": "36.12"
+        }, 
+        {
+            "text": "Now, if I press the letter K--", 
+            "dur": "3.322", 
+            "start": "38.26"
+        }, 
+        {
+            "text": "there we go-- the letter\nQ lights up this time.", 
+            "dur": "3.098", 
+            "start": "41.582"
+        }, 
+        {
+            "text": "Now, if I keep pressing the\nletter K, a different letter", 
+            "dur": "6.74", 
+            "start": "44.68"
+        }, 
+        {
+            "text": "lights up each time.", 
+            "dur": "1.74", 
+            "start": "51.42"
+        }, 
+        {
+            "text": "So a double-letter\nwould not be a", 
+            "dur": "1.59", 
+            "start": "53.16"
+        }, 
+        {
+            "text": "double-letter in the code.", 
+            "dur": "1.72", 
+            "start": "54.75"
+        }, 
+        {
+            "text": "So it&#39;s a very good\ncode indeed.", 
+            "dur": "3.3", 
+            "start": "56.47"
+        }, 
+        {
+            "text": "But it is never K itself.", 
+            "dur": "2.63", 
+            "start": "59.77"
+        }, 
+        {
+            "text": "So this was the flaw.", 
+            "dur": "2.1", 
+            "start": "62.4"
+        }, 
+        {
+            "text": "A letter never becomes itself.", 
+            "dur": "2.19", 
+            "start": "64.5"
+        }, 
+        {
+            "text": "So A is not A, B is\nnot B, and so on.", 
+            "dur": "2.76", 
+            "start": "66.69"
+        }, 
+        {
+            "text": "Z is not Z. This is a clue.", 
+            "dur": "2.17", 
+            "start": "69.45"
+        }, 
+        {
+            "text": "So the way you break the Enigma\ncode is, if you imagine", 
+            "dur": "2.75", 
+            "start": "71.62"
+        }, 
+        {
+            "text": "you have an Enigma message, you\ntry and guess a word or a", 
+            "dur": "3.69", 
+            "start": "74.37"
+        }, 
+        {
+            "text": "phrase that might appear\nin that message.", 
+            "dur": "2.75", 
+            "start": "78.06"
+        }, 
+        {
+            "text": "Now, every morning, 6 o&#39;clock\nin the morning, the Germans", 
+            "dur": "3.25", 
+            "start": "80.81"
+        }, 
+        {
+            "text": "would send a weather report.", 
+            "dur": "1.83", 
+            "start": "84.06"
+        }, 
+        {
+            "text": "Now, that was a standard form.", 
+            "dur": "1.39", 
+            "start": "85.89"
+        }, 
+        {
+            "text": "That was always the same\nevery day, apart", 
+            "dur": "1.75", 
+            "start": "87.28"
+        }, 
+        {
+            "text": "from the actual weather.", 
+            "dur": "1.24", 
+            "start": "89.03"
+        }, 
+        {
+            "text": "It was always a standard\nformat.", 
+            "dur": "1.7", 
+            "start": "90.27"
+        }, 
+        {
+            "text": "So we can pick a word that&#39;s\ngoing to be in", 
+            "dur": "2.48", 
+            "start": "91.97"
+        }, 
+        {
+            "text": "that weather report.", 
+            "dur": "1.03", 
+            "start": "94.45"
+        }, 
+        {
+            "text": "We might pick the word or phrase\n&quot;weather report,&quot; or", 
+            "dur": "3.77", 
+            "start": "95.48"
+        }, 
+        {
+            "text": "&quot;Wetterbericht&quot; in German.", 
+            "dur": "2", 
+            "start": "99.25"
+        }, 
+        {
+            "text": "And I apologize now if I&#39;ve\ntranslated that badly.", 
+            "dur": "2.71", 
+            "start": "101.25"
+        }, 
+        {
+            "text": "[SPEAKING GERMAN].", 
+            "dur": "2.24", 
+            "start": "103.96"
+        }, 
+        {
+            "text": "Now, I&#39;m going to write\n&quot;Wetterbericht&quot;", 
+            "dur": "3.74", 
+            "start": "106.2"
+        }, 
+        {
+            "text": "on a piece of paper.", 
+            "dur": "1.1", 
+            "start": "109.94"
+        }, 
+        {
+            "text": "BRADY HARAN: That&#39;s\n&quot;weather report.&quot;", 
+            "dur": "1", 
+            "start": "111.04"
+        }, 
+        {
+            "text": "DR. JAMES GRIME:\nThat&#39;s &quot;weather", 
+            "dur": "0.55", 
+            "start": "112.04"
+        }, 
+        {
+            "text": "report&quot; there in German.", 
+            "dur": "1.43", 
+            "start": "112.59"
+        }, 
+        {
+            "text": "Here, I&#39;ve got an Enigma code.", 
+            "dur": "2.67", 
+            "start": "114.02"
+        }, 
+        {
+            "text": "And I&#39;m going to slide my guess\nunderneath the code.", 
+            "dur": "4.62", 
+            "start": "116.69"
+        }, 
+        {
+            "text": "Now, I&#39;m going to try\nand find where this", 
+            "dur": "1.68", 
+            "start": "121.31"
+        }, 
+        {
+            "text": "phrase fits in the message.", 
+            "dur": "2.1", 
+            "start": "122.99"
+        }, 
+        {
+            "text": "Now, I know a letter can&#39;t\nbecome itself.", 
+            "dur": "3.22", 
+            "start": "125.09"
+        }, 
+        {
+            "text": "So it can&#39;t fit here, because\nI have a T becoming T. So", 
+            "dur": "4.24", 
+            "start": "128.31"
+        }, 
+        {
+            "text": "that&#39;s not where it fits.", 
+            "dur": "1.67", 
+            "start": "132.55"
+        }, 
+        {
+            "text": "Let&#39;s try this.", 
+            "dur": "1.72", 
+            "start": "134.22"
+        }, 
+        {
+            "text": "Can it fit here?", 
+            "dur": "0.48", 
+            "start": "135.94"
+        }, 
+        {
+            "text": "No.", 
+            "dur": "0.1", 
+            "start": "136.42"
+        }, 
+        {
+            "text": "I&#39;ve got this T matching\nwith T again.", 
+            "dur": "2.57", 
+            "start": "136.52"
+        }, 
+        {
+            "text": "Let&#39;s try here.", 
+            "dur": "2.29", 
+            "start": "139.09"
+        }, 
+        {
+            "text": "No, I&#39;ve got no matching,\nno matching.", 
+            "dur": "3.51", 
+            "start": "141.38"
+        }, 
+        {
+            "text": "From what I can see, no matching\nletters there.", 
+            "dur": "2.225", 
+            "start": "144.89"
+        }, 
+        {
+            "text": "So it might fit there.", 
+            "dur": "1.295", 
+            "start": "147.115"
+        }, 
+        {
+            "text": "If I tried that--", 
+            "dur": "1.19", 
+            "start": "148.41"
+        }, 
+        {
+            "text": "see, those R&#39;s match up,\nso it can&#39;t fit there.", 
+            "dur": "2.79", 
+            "start": "149.6"
+        }, 
+        {
+            "text": "So maybe it&#39;s here.", 
+            "dur": "0.92", 
+            "start": "152.39"
+        }, 
+        {
+            "text": "Maybe this is the phrase\n&quot;weather report.&quot; Now, from", 
+            "dur": "3.35", 
+            "start": "153.31"
+        }, 
+        {
+            "text": "this point, we can start\nbreaking the Enigma code.", 
+            "dur": "3.07", 
+            "start": "156.66"
+        }, 
+        {
+            "text": "So you could use different\nphrases.", 
+            "dur": "2.09", 
+            "start": "159.73"
+        }, 
+        {
+            "text": "Try and imagine what a German\nofficer would send", 
+            "dur": "2.41", 
+            "start": "161.82"
+        }, 
+        {
+            "text": "in World War II.", 
+            "dur": "1.12", 
+            "start": "164.23"
+        }, 
+        {
+            "text": "So for example, messages would\nend with &quot;Heil Hitler.&quot; So is", 
+            "dur": "2.98", 
+            "start": "165.35"
+        }, 
+        {
+            "text": "it &quot;Heil Hitler&quot; at the\nend of the message?", 
+            "dur": "2", 
+            "start": "168.33"
+        }, 
+        {
+            "text": "Now, if it is, we shouldn&#39;t have\nany letters matching with", 
+            "dur": "3.4", 
+            "start": "170.33"
+        }, 
+        {
+            "text": "&quot;Heil Hitler&quot;--", 
+            "dur": "0.9", 
+            "start": "173.73"
+        }, 
+        {
+            "text": "H&#39;s, E&#39;s, I&#39;s, L&#39;s.", 
+            "dur": "2.23", 
+            "start": "174.63"
+        }, 
+        {
+            "text": "What the British code breaker\nAlan Turing had to do was find", 
+            "dur": "3.79", 
+            "start": "176.86"
+        }, 
+        {
+            "text": "a way to use this flaw to\nbreak Enigma messages.", 
+            "dur": "5.18", 
+            "start": "180.65"
+        }, 
+        {
+            "text": "So he built a huge machine\ncalled the Bombe machine.", 
+            "dur": "3.25", 
+            "start": "185.83"
+        }, 
+        {
+            "text": "It was designed by Alan Turing\nand another code breaker", 
+            "dur": "2.34", 
+            "start": "189.08"
+        }, 
+        {
+            "text": "called Gordon Welchman.", 
+            "dur": "1.7", 
+            "start": "191.42"
+        }, 
+        {
+            "text": "It was a big machine,\nnoisy thing.", 
+            "dur": "1.8", 
+            "start": "193.12"
+        }, 
+        {
+            "text": "It would rattle around.", 
+            "dur": "1.81", 
+            "start": "194.92"
+        }, 
+        {
+            "text": "And this could help you break\nthe code in under 20 minutes.", 
+            "dur": "6.65", 
+            "start": "196.73"
+        }, 
+        {
+            "text": "So you would have to break\nthe code every morning.", 
+            "dur": "2.73", 
+            "start": "203.38"
+        }, 
+        {
+            "text": "So every morning, the settings\nfor the Enigma", 
+            "dur": "2.28", 
+            "start": "206.11"
+        }, 
+        {
+            "text": "machine would change.", 
+            "dur": "1.54", 
+            "start": "208.39"
+        }, 
+        {
+            "text": "So all the Enigma\nmachines would", 
+            "dur": "1.57", 
+            "start": "209.93"
+        }, 
+        {
+            "text": "change stroke of midnight.", 
+            "dur": "1.59", 
+            "start": "211.5"
+        }, 
+        {
+            "text": "So that&#39;s why a machine that\ncould break the code that", 
+            "dur": "2.81", 
+            "start": "213.09"
+        }, 
+        {
+            "text": "quickly was so important.", 
+            "dur": "1.94", 
+            "start": "215.9"
+        }, 
+        {
+            "text": "So the Bombe machine tried to\nwork out the plug board at the", 
+            "dur": "3.07", 
+            "start": "217.84"
+        }, 
+        {
+            "text": "front of the Enigma machine.", 
+            "dur": "1.3", 
+            "start": "220.91"
+        }, 
+        {
+            "text": "If we go back, at the front of\nthe Enigma machine, we have", 
+            "dur": "3.15", 
+            "start": "222.21"
+        }, 
+        {
+            "text": "this thing called the plug board\nthat connects letters", 
+            "dur": "2.37", 
+            "start": "225.36"
+        }, 
+        {
+            "text": "into pairs.", 
+            "dur": "0.85", 
+            "start": "227.73"
+        }, 
+        {
+            "text": "You actually make 10\npairs of letters.", 
+            "dur": "2.64", 
+            "start": "228.58"
+        }, 
+        {
+            "text": "When I press a letter, the\nsignal first goes through the", 
+            "dur": "3.57", 
+            "start": "231.22"
+        }, 
+        {
+            "text": "plug board.", 
+            "dur": "1.16", 
+            "start": "234.79"
+        }, 
+        {
+            "text": "It then goes through the first\nrotor, through the second", 
+            "dur": "2.94", 
+            "start": "235.95"
+        }, 
+        {
+            "text": "rotor, through the\nthird rotor.", 
+            "dur": "2", 
+            "start": "238.89"
+        }, 
+        {
+            "text": "It then loops back, and it goes\nthrough the machine again", 
+            "dur": "3.08", 
+            "start": "240.89"
+        }, 
+        {
+            "text": "in reverse order.", 
+            "dur": "1", 
+            "start": "243.97"
+        }, 
+        {
+            "text": "So then it goes through the\nthird rotor, the second rotor,", 
+            "dur": "3.1", 
+            "start": "244.97"
+        }, 
+        {
+            "text": "the first rotor.", 
+            "dur": "1.25", 
+            "start": "248.07"
+        }, 
+        {
+            "text": "And finally, it goes through the\nplug board one more time,", 
+            "dur": "4.02", 
+            "start": "249.32"
+        }, 
+        {
+            "text": "and it lights up one\nof these bulbs.", 
+            "dur": "2.45", 
+            "start": "253.34"
+        }, 
+        {
+            "text": "Now, I&#39;m going to try and\ndraw it up for you.", 
+            "dur": "1.37", 
+            "start": "255.79"
+        }, 
+        {
+            "text": "But I&#39;m going to make it\nas simple as I can.", 
+            "dur": "2.359", 
+            "start": "257.16"
+        }, 
+        {
+            "text": "Let&#39;s try and do that.", 
+            "dur": "1.235", 
+            "start": "259.519"
+        }, 
+        {
+            "text": "So first of all, it goes\nthrough the plug board.", 
+            "dur": "2.106", 
+            "start": "260.754"
+        }, 
+        {
+            "text": "Then it goes through\nall the rotors.", 
+            "dur": "1.9", 
+            "start": "262.86"
+        }, 
+        {
+            "text": "And I&#39;m going to call that just\none big magic box called", 
+            "dur": "2.8", 
+            "start": "264.76"
+        }, 
+        {
+            "text": "R for rotors.", 
+            "dur": "1.7", 
+            "start": "267.56"
+        }, 
+        {
+            "text": "And the last thing it\ndoes is it goes", 
+            "dur": "1.69", 
+            "start": "269.26"
+        }, 
+        {
+            "text": "through the plug board.", 
+            "dur": "0.96", 
+            "start": "270.95"
+        }, 
+        {
+            "text": "If we look at our weather report\nhere, let&#39;s look in the", 
+            "dur": "3.2", 
+            "start": "271.91"
+        }, 
+        {
+            "text": "second place.", 
+            "dur": "1.26", 
+            "start": "275.11"
+        }, 
+        {
+            "text": "T becomes E. Let me do that.", 
+            "dur": "2.45", 
+            "start": "276.37"
+        }, 
+        {
+            "text": "If I press T, it goes through\nthe plug board, through all", 
+            "dur": "4.19", 
+            "start": "278.82"
+        }, 
+        {
+            "text": "the rotors, through the plug\nboard again, and out comes E.", 
+            "dur": "5.04", 
+            "start": "283.01"
+        }, 
+        {
+            "text": "Now, we&#39;re going to use this\nto work out the plug board.", 
+            "dur": "3.18", 
+            "start": "288.05"
+        }, 
+        {
+            "text": "I&#39;m going to make one guess.", 
+            "dur": "1.76", 
+            "start": "291.23"
+        }, 
+        {
+            "text": "I&#39;m going to guess\nT is connected to", 
+            "dur": "3.11", 
+            "start": "292.99"
+        }, 
+        {
+            "text": "A on the plug board.", 
+            "dur": "1.29", 
+            "start": "296.1"
+        }, 
+        {
+            "text": "That&#39;s a guess, but I&#39;m\ngoing to use it.", 
+            "dur": "1.96", 
+            "start": "297.39"
+        }, 
+        {
+            "text": "So let&#39;s say that means that T\ngoes through the plug board,", 
+            "dur": "3.88", 
+            "start": "299.35"
+        }, 
+        {
+            "text": "and out comes A.", 
+            "dur": "2.02", 
+            "start": "303.23"
+        }, 
+        {
+            "text": "Now, A goes through\nthe rotors.", 
+            "dur": "2.04", 
+            "start": "305.25"
+        }, 
+        {
+            "text": "Now, we know how the rotors\nare wired up.", 
+            "dur": "2.22", 
+            "start": "307.29"
+        }, 
+        {
+            "text": "So we know that.", 
+            "dur": "0.77", 
+            "start": "309.51"
+        }, 
+        {
+            "text": "We pick a position and find out\nwhat happens to A. That&#39;s", 
+            "dur": "2.84", 
+            "start": "310.28"
+        }, 
+        {
+            "text": "not hard to do.", 
+            "dur": "1.18", 
+            "start": "313.12"
+        }, 
+        {
+            "text": "And I don&#39;t know-- let&#39;s\nmake something up.", 
+            "dur": "2.31", 
+            "start": "314.3"
+        }, 
+        {
+            "text": "Let&#39;s say it comes out as P. But\nif I do that, I can deduce", 
+            "dur": "6.15", 
+            "start": "316.61"
+        }, 
+        {
+            "text": "that P goes through the plug\nboard and becomes E, which", 
+            "dur": "4.67", 
+            "start": "322.76"
+        }, 
+        {
+            "text": "means I can deduce that\nP is connected to", 
+            "dur": "4.83", 
+            "start": "327.43"
+        }, 
+        {
+            "text": "E on the plug board.", 
+            "dur": "2.32", 
+            "start": "332.26"
+        }, 
+        {
+            "text": "Now, that&#39;s pretty cool.", 
+            "dur": "1.19", 
+            "start": "334.58"
+        }, 
+        {
+            "text": "So you&#39;ve worked out one of\nthe plug board settings.", 
+            "dur": "2.51", 
+            "start": "335.77"
+        }, 
+        {
+            "text": "If that diagram works, P\nmust be connected to E.", 
+            "dur": "4.11", 
+            "start": "338.28"
+        }, 
+        {
+            "text": "So I&#39;ve done this a few more\ntimes doing the same method,", 
+            "dur": "3.14", 
+            "start": "342.39"
+        }, 
+        {
+            "text": "using my weather report crib.", 
+            "dur": "1.67", 
+            "start": "345.53"
+        }, 
+        {
+            "text": "And I&#39;ve discovered a few more\nplug board settings.", 
+            "dur": "2.67", 
+            "start": "347.2"
+        }, 
+        {
+            "text": "So the first one we discovered\nwas P-E. Now I&#39;ve discovered K", 
+            "dur": "3.525", 
+            "start": "349.87"
+        }, 
+        {
+            "text": "and Q are connected\non the plug board.", 
+            "dur": "2.325", 
+            "start": "353.395"
+        }, 
+        {
+            "text": "I&#39;ve discovered X and B are\nconnected on the plug board.", 
+            "dur": "2.56", 
+            "start": "355.72"
+        }, 
+        {
+            "text": "And I&#39;ve discovered T and G are", 
+            "dur": "1.93", 
+            "start": "358.28"
+        }, 
+        {
+            "text": "connected on the plug board.", 
+            "dur": "1.47", 
+            "start": "360.21"
+        }, 
+        {
+            "text": "But this last one\nis a problem.", 
+            "dur": "2.19", 
+            "start": "361.68"
+        }, 
+        {
+            "text": "I&#39;ve discovered that\nT and G are", 
+            "dur": "1.33", 
+            "start": "363.87"
+        }, 
+        {
+            "text": "connected on the plug board.", 
+            "dur": "1.55", 
+            "start": "365.2"
+        }, 
+        {
+            "text": "But I guessed that T and A were", 
+            "dur": "2.61", 
+            "start": "366.75"
+        }, 
+        {
+            "text": "connected on the plug board.", 
+            "dur": "1.42", 
+            "start": "369.36"
+        }, 
+        {
+            "text": "And it can&#39;t be both.", 
+            "dur": "1.91", 
+            "start": "370.78"
+        }, 
+        {
+            "text": "This is called a\ncontradiction.", 
+            "dur": "1.86", 
+            "start": "372.69"
+        }, 
+        {
+            "text": "It can&#39;t be both T-A and\nT-G at the same time.", 
+            "dur": "4.62", 
+            "start": "374.55"
+        }, 
+        {
+            "text": "This means my guess,\nthe T-A, was wrong.", 
+            "dur": "3.97", 
+            "start": "379.17"
+        }, 
+        {
+            "text": "Throw it away.", 
+            "dur": "1.31", 
+            "start": "383.14"
+        }, 
+        {
+            "text": "I got it wrong.", 
+            "dur": "1.22", 
+            "start": "384.45"
+        }, 
+        {
+            "text": "Now I&#39;m going to check the\nnext one-- what, T-B?", 
+            "dur": "3.48", 
+            "start": "385.67"
+        }, 
+        {
+            "text": "I might check T-C, T-D. I have\nto do all 26 options--", 
+            "dur": "4.05", 
+            "start": "389.15"
+        }, 
+        {
+            "text": "T-A, T-B, T-D, T-Z. If all the\n26 options are wrong, that", 
+            "dur": "6.42", 
+            "start": "393.2"
+        }, 
+        {
+            "text": "means your rotor position\nis wrong.", 
+            "dur": "2.16", 
+            "start": "399.62"
+        }, 
+        {
+            "text": "And what do is you go, click.", 
+            "dur": "1.796", 
+            "start": "401.78"
+        }, 
+        {
+            "text": "You check the next rotor\nposition, and you go through", 
+            "dur": "2.434", 
+            "start": "403.576"
+        }, 
+        {
+            "text": "all that again.", 
+            "dur": "1.96", 
+            "start": "406.01"
+        }, 
+        {
+            "text": "Now, that would take\na very long time.", 
+            "dur": "2.33", 
+            "start": "407.97"
+        }, 
+        {
+            "text": "So Alan Turing came up\nwith two ways to", 
+            "dur": "2.41", 
+            "start": "410.3"
+        }, 
+        {
+            "text": "make this a bit quicker.", 
+            "dur": "1.64", 
+            "start": "412.71"
+        }, 
+        {
+            "text": "The first one--", 
+            "dur": "1.315", 
+            "start": "414.35"
+        }, 
+        {
+            "text": "a really clever idea.", 
+            "dur": "1.975", 
+            "start": "415.665"
+        }, 
+        {
+            "text": "He noticed that once you&#39;ve\nfound one mistake, like T-A", 
+            "dur": "4.67", 
+            "start": "417.64"
+        }, 
+        {
+            "text": "and T-G, this means that all\nthese other deductions are", 
+            "dur": "4.14", 
+            "start": "422.31"
+        }, 
+        {
+            "text": "also wrong, and they don&#39;t\nneed to be checked.", 
+            "dur": "3.3", 
+            "start": "426.45"
+        }, 
+        {
+            "text": "So they&#39;re all fruit\nof a poisoned tree.", 
+            "dur": "2.37", 
+            "start": "429.75"
+        }, 
+        {
+            "text": "They can all be rejected\nat the same time.", 
+            "dur": "2.29", 
+            "start": "432.12"
+        }, 
+        {
+            "text": "And you don&#39;t need to\ncheck them again.", 
+            "dur": "2.21", 
+            "start": "434.41"
+        }, 
+        {
+            "text": "So that really speeds it up.", 
+            "dur": "2.13", 
+            "start": "436.62"
+        }, 
+        {
+            "text": "The other way to speed it\nup is you can do this", 
+            "dur": "2.06", 
+            "start": "438.75"
+        }, 
+        {
+            "text": "instantaneously with electrical\ncircuits.", 
+            "dur": "3.13", 
+            "start": "440.81"
+        }, 
+        {
+            "text": "So that&#39;s what the Bombe\nmachine did.", 
+            "dur": "1.74", 
+            "start": "443.94"
+        }, 
+        {
+            "text": "It applied an electrical current\nto my assumption, T-A.", 
+            "dur": "4.78", 
+            "start": "445.68"
+        }, 
+        {
+            "text": "The electrical current flows\nthrough the machine.", 
+            "dur": "2.865", 
+            "start": "450.46"
+        }, 
+        {
+            "text": "It flows through T-G,\nwhich means wrong.", 
+            "dur": "4.425", 
+            "start": "453.325"
+        }, 
+        {
+            "text": "But it&#39;ll also flow through all\nthese other deductions,", 
+            "dur": "2.84", 
+            "start": "457.75"
+        }, 
+        {
+            "text": "which means I can find all my\ndeductions, which are all", 
+            "dur": "2.8", 
+            "start": "460.59"
+        }, 
+        {
+            "text": "wrong, and I can do it\ninstantaneously with", 
+            "dur": "3.02", 
+            "start": "463.39"
+        }, 
+        {
+            "text": "electrical circuits.", 
+            "dur": "1.49", 
+            "start": "466.41"
+        }, 
+        {
+            "text": "And then it will go, click,\nand check the next.", 
+            "dur": "2.52", 
+            "start": "467.9"
+        }, 
+        {
+            "text": "And it could go through all the\nrotor positions in about", 
+            "dur": "2.91", 
+            "start": "470.42"
+        }, 
+        {
+            "text": "20 minutes.", 
+            "dur": "1.36", 
+            "start": "473.33"
+        }, 
+        {
+            "text": "So the main thing to remember is\nthe Bombe machine is built", 
+            "dur": "3.24", 
+            "start": "474.69"
+        }, 
+        {
+            "text": "a little bit backwards.", 
+            "dur": "1.29", 
+            "start": "477.93"
+        }, 
+        {
+            "text": "It&#39;s a process of elimination.", 
+            "dur": "2.49", 
+            "start": "479.22"
+        }, 
+        {
+            "text": "So what you&#39;re left with\nis what wasn&#39;t wrong.", 
+            "dur": "3.98", 
+            "start": "481.71"
+        }, 
+        {
+            "text": "And you would actually\ncheck that by hand", 
+            "dur": "1.48", 
+            "start": "485.69"
+        }, 
+        {
+            "text": "and see if it works.", 
+            "dur": "1.05", 
+            "start": "487.17"
+        }, 
+        {
+            "text": "The Bombe machine was named\nin honor of a Polish code", 
+            "dur": "4.37", 
+            "start": "488.22"
+        }, 
+        {
+            "text": "breaking machine,\ncalled Bomba.", 
+            "dur": "2.41", 
+            "start": "492.59"
+        }, 
+        {
+            "text": "Bomba was a completely different\nmachine, worked on a", 
+            "dur": "2.31", 
+            "start": "495"
+        }, 
+        {
+            "text": "completely different\nprinciple.", 
+            "dur": "1.76", 
+            "start": "497.31"
+        }, 
+        {
+            "text": "It wasn&#39;t a huge machine.", 
+            "dur": "1.33", 
+            "start": "499.07"
+        }, 
+        {
+            "text": "You could sit it on your\ndesk if you wanted to.", 
+            "dur": "2.17", 
+            "start": "500.4"
+        }, 
+        {
+            "text": "And it exploited a flaw in\nthe German procedures.", 
+            "dur": "3.64", 
+            "start": "502.57"
+        }, 
+        {
+            "text": "Now, they could use Bomba, the\nPolish could use Bomba, to", 
+            "dur": "3.51", 
+            "start": "506.21"
+        }, 
+        {
+            "text": "break army and air force\nEnigma codes.", 
+            "dur": "2.65", 
+            "start": "509.72"
+        }, 
+        {
+            "text": "But they couldn&#39;t break\nnaval Enigma codes.", 
+            "dur": "2.7", 
+            "start": "512.37"
+        }, 
+        {
+            "text": "So what Alan Turing had to do\nwas find a way to break army,", 
+            "dur": "3.45", 
+            "start": "515.07"
+        }, 
+        {
+            "text": "air force, and navy\nEnigma codes.", 
+            "dur": "2.74", 
+            "start": "518.52"
+        }, 
+        {
+            "text": "And it had to be a bit more\nrobust so that if the Germans", 
+            "dur": "3.05", 
+            "start": "521.26"
+        }, 
+        {
+            "text": "choose to change their\nprocedures, that this method", 
+            "dur": "3.5", 
+            "start": "524.31"
+        }, 
+        {
+            "text": "would still work.", 
+            "dur": "1.17", 
+            "start": "527.81"
+        }, 
+        {
+            "text": "What the navy was doing\ndifferently is the rotor", 
+            "dur": "2.31", 
+            "start": "528.98"
+        }, 
+        {
+            "text": "starting positions were actually\nsent at the beginning", 
+            "dur": "3.4", 
+            "start": "531.29"
+        }, 
+        {
+            "text": "of each message, but they were\nsent in another code entirely.", 
+            "dur": "4.52", 
+            "start": "534.69"
+        }, 
+        {
+            "text": "So it was a completely different\ncode just to send", 
+            "dur": "4.01", 
+            "start": "539.21"
+        }, 
+        {
+            "text": "the rotor starting positions.", 
+            "dur": "2.08", 
+            "start": "543.22"
+        }, 
+        {
+            "text": "So you needed to work out how\nthat worked, as well, before", 
+            "dur": "4.13", 
+            "start": "545.3"
+        }, 
+        {
+            "text": "you could even start breaking\nthe naval code.", 
+            "dur": "3.86", 
+            "start": "549.43"
+        }, 
+        {
+            "text": "BRADY HARAN: Is there anything\nthat the makers of the Enigma", 
+            "dur": "2.25", 
+            "start": "553.29"
+        }, 
+        {
+            "text": "machine could have done to have\navoided this problem?", 
+            "dur": "3.23", 
+            "start": "555.54"
+        }, 
+        {
+            "text": "Was there some simple thing that\nthe Enigma makers could", 
+            "dur": "3.05", 
+            "start": "558.77"
+        }, 
+        {
+            "text": "have put into that device there,\nand it would have not", 
+            "dur": "3.135", 
+            "start": "561.82"
+        }, 
+        {
+            "text": "been broken like this?", 
+            "dur": "1.495", 
+            "start": "564.955"
+        }, 
+        {
+            "text": "DR. JAMES GRIME: Well, hindsight\nis a fabulous thing.", 
+            "dur": "3.94", 
+            "start": "566.45"
+        }, 
+        {
+            "text": "You wanted to make it so that a\nletter could become itself.", 
+            "dur": "2.95", 
+            "start": "570.39"
+        }, 
+        {
+            "text": "That was the flaw.", 
+            "dur": "1.18", 
+            "start": "573.34"
+        }, 
+        {
+            "text": "And so the British saw Enigma.", 
+            "dur": "2.59", 
+            "start": "574.52"
+        }, 
+        {
+            "text": "They said, that&#39;s a good idea.", 
+            "dur": "1.16", 
+            "start": "577.11"
+        }, 
+        {
+            "text": "We&#39;ll have that.", 
+            "dur": "0.63", 
+            "start": "578.27"
+        }, 
+        {
+            "text": "They nicked the idea.", 
+            "dur": "1.36", 
+            "start": "578.9"
+        }, 
+        {
+            "text": "We saw Enigma, and we decided\nto make one of our own.", 
+            "dur": "2.53", 
+            "start": "580.26"
+        }, 
+        {
+            "text": "We called it the Typex\nmachine, except we", 
+            "dur": "3.32", 
+            "start": "582.79"
+        }, 
+        {
+            "text": "took out the flaw.", 
+            "dur": "1.32", 
+            "start": "586.11"
+        }, 
+        {
+            "text": "So a letter could sometimes\nbecome itself.", 
+            "dur": "3.26", 
+            "start": "587.43"
+        }, 
+        {
+            "text": "This made it a more\nsecure machine.", 
+            "dur": "2.36", 
+            "start": "590.69"
+        }, 
+        {
+            "text": "Now, from what I&#39;ve heard,\nthe Germans tried", 
+            "dur": "2.3", 
+            "start": "593.05"
+        }, 
+        {
+            "text": "to break our code.", 
+            "dur": "1.88", 
+            "start": "595.35"
+        }, 
+        {
+            "text": "But they concluded that it was\nbetter than the Enigma", 
+            "dur": "2.87", 
+            "start": "597.23"
+        }, 
+        {
+            "text": "machine, so they\ngave up trying.", 
+            "dur": "3.33", 
+            "start": "600.1"
+        }, 
+        {
+            "text": "At least that&#39;s what\nI&#39;ve heard.", 
+            "dur": "1.14", 
+            "start": "603.43"
+        }, 
+        {
+            "text": "It&#39;s very difficult\nto know for sure.", 
+            "dur": "1.48", 
+            "start": "604.57"
+        }, 
+        {
+            "text": "It was all very secret.", 
+            "dur": "2.74", 
+            "start": "606.05"
+        }, 
+        {
+            "text": "BRADY HARAN: So if you&#39;ve\nwatched our original video", 
+            "dur": "1.71", 
+            "start": "608.79"
+        }, 
+        {
+            "text": "about how the code machine works\nand this one, and you", 
+            "dur": "3.21", 
+            "start": "610.5"
+        }, 
+        {
+            "text": "still want more, I&#39;ve got a\nthird video with all the extra", 
+            "dur": "3.49", 
+            "start": "613.71"
+        }, 
+        {
+            "text": "material and off-cuts, which\nisn&#39;t listed, but you can find", 
+            "dur": "3.09", 
+            "start": "617.2"
+        }, 
+        {
+            "text": "the links here on the\nscreen and in the", 
+            "dur": "1.66", 
+            "start": "620.29"
+        }, 
+        {
+            "text": "video description below.", 
+            "dur": "1.51", 
+            "start": "621.95"
+        }, 
+        {
+            "text": "The bits of brown paper used\nin these videos can also be", 
+            "dur": "2.57", 
+            "start": "623.46"
+        }, 
+        {
+            "text": "found on our eBay site for\npeople who like to get their", 
+            "dur": "2.53", 
+            "start": "626.03"
+        }, 
+        {
+            "text": "hands on them.", 
+            "dur": "1.01", 
+            "start": "628.56"
+        }, 
+        {
+            "text": "And if you&#39;ve watched all the\nEnigma videos and all the", 
+            "dur": "1.94", 
+            "start": "629.57"
+        }, 
+        {
+            "text": "Numberphile videos and you\nstill want more, can I", 
+            "dur": "2.38", 
+            "start": "631.51"
+        }, 
+        {
+            "text": "recommend my chemistry channel,\nPeriodicvideos?", 
+            "dur": "3.45", 
+            "start": "633.89"
+        }, 
+        {
+            "text": "Because recently, we got our\nhands on a super high-speed", 
+            "dur": "3.03", 
+            "start": "637.34"
+        }, 
+        {
+            "text": "camera and filmed a bunch of\nreactions so we can show them", 
+            "dur": "3.11", 
+            "start": "640.37"
+        }, 
+        {
+            "text": "in ultra slow motion.", 
+            "dur": "1.74", 
+            "start": "643.48"
+        }, 
+        {
+            "text": "The videos are really\ncool, and there&#39;s", 
+            "dur": "1.76", 
+            "start": "645.22"
+        }, 
+        {
+            "text": "loads more to come.", 
+            "dur": "1.64", 
+            "start": "646.98"
+        }, 
+        {
+            "text": "Go and have a look if it sounds\nlike something you", 
+            "dur": "1.58", 
+            "start": "648.62"
+        }, 
+        {
+            "text": "might like.", 
+            "dur": "1", 
+            "start": "650.2"
+        }, 
+        {
+            "text": "All the links are below in the\nvideo description and here on", 
+            "dur": "2.55", 
+            "start": "651.2"
+        }, 
+        {
+            "text": "the screen.", 
+            "dur": "0.81", 
+            "start": "653.75"
+        }, 
+        {
+            "text": "And as usual, thanks so\nmuch for watching.", 
+            "dur": "2.37", 
+            "start": "654.56"
+        }, 
+        {
+            "text": "Talk to you again soon.", 
+            "dur": "1.25", 
+            "start": "656.93"
+        }
+    ], 
+    "title": "Flaw in the Enigma Code - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02jgc", 
+        "/m/0n00", 
+        "/m/07h4k", 
+        "/m/03kf41", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 1152383, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-08T03:57:36.141Z", 
+            "text": "If each letter translates to a different letter every time you type it, how \ncome you can type in the code and the original word comes out?\ufeff", 
+            "author": "Jeremiah Brand"
+        }, 
+        {
+            "date": "2015-05-06T02:18:15.837Z", 
+            "text": "This is really cool! I never realized the depth and complexity involved \nwith the enigma machine. Truly an amazing story\ufeff", 
+            "author": "digimondudeify"
+        }, 
+        {
+            "date": "2015-05-02T18:45:37.124Z", 
+            "text": "sein Deuts is sehr scheckt!\ufeff", 
+            "author": "Pro Gamer"
+        }, 
+        {
+            "date": "2015-05-01T04:58:51.353Z", 
+            "text": "very cool video, very fascinating.\ufeff", 
+            "author": "Gristle Von Raben"
+        }, 
+        {
+            "date": "2015-05-01T03:32:02.340Z", 
+            "text": "It's decided; I' watching the Imitation Game.\ufeff", 
+            "author": "Tao Zhang"
+        }, 
+        {
+            "date": "2015-04-29T23:16:14.798Z", 
+            "text": "Great video!\ufeff", 
+            "author": "walt7500"
+        }, 
+        {
+            "date": "2015-04-28T14:46:28.000Z", 
+            "text": "This seems complex TODAY....IMAGINE how daunting this was back in the 30's \nwith no computers....NOR any COMPUTER LOGIC Thought processes that almost \nall of us have a smidgen of today.  I meant at least we can theorize that \nthis must be some kind of early computer even if we dont know how thats \ndone...we are modernized in thought.   THIS WAS A MONSTER back in the \nday...and it took TEAMS OF BRILLIANT GUYS N GALS TO CRACK.  AMAZING...Just \nmy 2 cents\ufeff", 
+            "author": "SquillyMon"
+        }, 
+        {
+            "date": "2015-04-25T22:35:09.075Z", 
+            "text": "Wait, I have just one question. What if a letter was NOT connected to the \nplugboard? For example, if I pushed the letter \"E\", but it was one of the 6 \nletters not connected with another letter via a two-way wire, what would \nthe circuit look like?\ufeff", 
+            "author": "Siyu Jiang"
+        }, 
+        {
+            "date": "2015-04-18T05:51:22.959Z", 
+            "text": "This computer engineer/systems analyst was exposed to the term \"Turing \nMachine\" early on in his technical education. There was no mention of the \nfact that it was a reprogrammable device which is how we fundamentally \ndefined a general-purpose computer that he created out of whole cloth. \nThere is no doubt that Turing was a genius and that means that he could \ninvent things that no one else at the time could understand let alone \ndesign. My understanding is that the Lorenz machine was orders of magnitude \nmore complex than the enigma. The machines were used to determine the daily \nsettings of the Enigma and Lorenz machines by what we call today brute \nforce. The man that built the bombs was an employee of the British post \noffice research lab. Interestingly those bombs (\"computers\") had less power \nthan 300 or so transistors.\ufeff", 
+            "author": "Dave McIntyre"
+        }, 
+        {
+            "date": "2015-04-18T04:01:50.362Z", 
+            "text": "I would like to know a few things.\n\n1) Can Enigma be cracked by brute force? That is, trying every possible \ncombination. How long would it take for a modern computer to do it?\n2) How much does the ability of a letter to become itself strenghtens the \ncode? Could Bletchley Park retool their machines to counter this?\ufeff", 
+            "author": "Richardsen"
+        }, 
+        {
+            "date": "2015-05-07T16:45:41.027Z", 
+            "text": "+roofztop\nThank you for your answer. I guess the letter becoming itself would have \nbought the Germans more time.", 
+            "author": "Richardsen"
+        }, 
+        {
+            "date": "2015-05-07T15:45:48.457Z", 
+            "text": "+Richardsen \n1. Not so sure about how many possible that a single computer can try per \nsecond, but I assume that it is 1 billion / sec, then it'll take maximum 44 \nhours to try every possible. It's not fast enough huh.\n2. It would be much more difficult since the \"weather report\" trick \ncouldn't work.", 
+            "author": "roofztop"
+        }, 
+        {
+            "date": "2015-04-15T22:55:51.347Z", 
+            "text": "in my opinion trhe enigma machine is unbreakable without german fault ,,, \nthey send the same report everymorning , that give allies aclue and a long \ntime before chaging settings at midhnight , second fault the hailhitler end \n,,,, wich mean without guessing and without fault this machine cant be \ndecoded ,,, and even if its used today they cant break it without hasard \nand guessing and enemy faults\ufeff", 
+            "author": "nabil fennia"
+        }, 
+        {
+            "date": "2015-04-13T19:38:26.502Z", 
+            "text": "i love that dude\ufeff", 
+            "author": "GtaRockt"
+        }, 
+        {
+            "date": "2015-04-13T18:25:32.013Z", 
+            "text": "How could you break enigma by guessing? If weatherreport was for example \nYHPOIMZSDFGQW in code, the next message would contain these letters but \nthey would have a different meaning every time. So it's fun that \nwetterbericht fits in that code but the next message the same letters will \nappear with a different meaning. Anyone explain please?\ufeff", 
+            "author": "James Youngman"
+        }, 
+        {
+            "date": "2015-04-28T06:21:09.000Z", 
+            "text": "+James Youngman But in the next message in the spot where Wetterbericht \nwere there is another encrypted word which also does not have any letters \non the spots where the original letters were.\n\nlets say hello is the first word of every message.\n\n\nIts can be jioku, grnfu, badju, but never ,jekhu, dfklb, fasto.\n\n\nBecause letters of Hello and fasto would be on the same spot, which can not \nhappen because a letter can't be itself with this machine.\n\nYou dont look for similaritys of encoded letters but for missing letters of \nthe probable word it originated from.\nLike there will never be a W on the first place of the encrypted \nweatherreport or a T at the end.\n\n\nGet it?", 
+            "author": "Darson Idomar"
+        }, 
+        {
+            "date": "2015-04-12T01:13:55.671Z", 
+            "text": "Why the Nazis used the ENIGMA to encrypt and send weather reports beats me. \nAnyway weather reports are seldom accurate. And why put phrases like 'Hail \nHitler' into the message! Over confidence is a bad thing! So does this \nimply that but for this goof up, the flaw in the ENIGMA could never have \nbeen exploited. Also the plug board was supposed to enhance the encryption \nbut it seems to have helped in decryption as well.\ufeff", 
+            "author": "balachandra rao"
+        }, 
+        {
+            "date": "2015-04-11T08:34:24.977Z", 
+            "text": "Entschuldigung, mein Deutsch ist sehr gut :D\ufeff", 
+            "author": "Joel Chr"
+        }, 
+        {
+            "date": "2015-04-09T12:30:54.005Z", 
+            "text": "Your German is great!!! :) i love your videos! keep doing that!\ufeff", 
+            "author": "Polyktor"
+        }, 
+        {
+            "date": "2015-04-04T23:22:59.999Z", 
+            "text": "It still makes me so angry about how Turing (along with thousands of other \ngay people) was treated. One of the greatest minds our civilisation has \never known and they did this to him. Who knows how much further he could \nhave pushed our understanding of computing if he hadn't been so shamefully \npersecuted. I just hope his case can be used as an example of how \nHomophobia belongs to the last century and how illogical and stupid it \nreally is.\ufeff", 
+            "author": "fuzzface100"
+        }, 
+        {
+            "date": "2015-04-04T15:00:04.156Z", 
+            "text": "the case of being too \"clever\" for your own good. not allowing a letter to \nbe coded as itself eliminated the \"randomness\" of the process. Alan Turing \ndeserves a hero's treatment, nothing less. instead we get to hear about him \nfrom a Hollywood movie. what a shame and only goes to show that the people \nand the politicians he helped are ungrateful swine.\ufeff", 
+            "author": "Major Rugburn"
+        }, 
+        {
+            "date": "2015-04-01T06:56:52.202Z", 
+            "text": "I liked The Imitation Game but honestly this was more entertaining. James \nGrime FTW\ufeff", 
+            "author": "batchout"
+        }, 
+        {
+            "date": "2015-03-31T14:13:14.683Z", 
+            "text": ".... And more fascinating still, the flaw in the Enigna machine that \nallowed Turing and his team to break  the code (Sheer mathematical genius).\ufeff", 
+            "author": "Pedro Chac\u00f3n"
+        }, 
+        {
+            "date": "2015-03-31T12:19:56.000Z", 
+            "text": ".... And more fascinating still, the flaw in the Enigna machine that \nallowed Turing and his team to break  the code (Sheer mathematical genius).\ufeff", 
+            "author": "Gabriel Chac\u00f3n"
+        }, 
+        {
+            "date": "2015-03-30T16:25:08.166Z", 
+            "text": "+Numberphile\nHmm, I'm wondering if the Allies could have broken Enigma if the Germans \nwould have included their special characters (\u00c4,\u00d6,\u00dc,\u00e4,\u00fc,\u00f6 and the \u00df)^^\ufeff", 
+            "author": "Swiss Man 18"
+        }, 
+        {
+            "date": "2015-04-29T20:42:43.000Z", 
+            "text": "+JeddHampton The way they broke it was still based on a trial and error \napproach for the settings, so even seemingly small changes to the \npossibilities could make the difference between solving it in 20 minutes, \n200 minutes or 2000 minutes (2000 minutes>1day, meaning the settings \nalready changed by then). So while making it more complex doesn't remove \nthe flaw of how they can break it, it can still increase the time they need \nto the point where breaking it becomes pointless.\n\nMany modern ciphers are based pretty much on that principle, where most \ncryptographers know exactly how you can break them, but you need to do \nstuff like finding the prime factors of really really large numbers which \ntake decades (or more) to calculate.", 
+            "author": "Louigi36"
+        }, 
+        {
+            "date": "2015-04-25T23:59:31.130Z", 
+            "text": "+Swiss Man 18 these are not the reasons germany didnt invent \nswitzerland...i will ask you some things: 1)tell me why hitler didnt touch \nANY of the wealthiest Jews in Europe at the time and was killing just \nmiddle class. normally, since he wanted to exterminate them, he should \nstart from the wealthiest. 2)where did the wealthiest jews had at the time \ntheir money? Right in Switzerland,like they do now. 3)What country did jews \nhave untill then? NONE. 4)What sympathy did the planet have for the jews \nuntill then? Again NONE. see a pattern here? you see that something doesnt \nstick...?? you got a hitler who doesnt kill the immediate threat jews, \ndoesnt invade the country where they keep their money and after the war \nsuddenly jews have country and all the planet sympathizes them.......... \ncant deny it there is something ODD here isnt it..??", 
+            "author": "zavaroudikos1"
+        }, 
+        {
+            "date": "2015-04-06T17:00:34.148Z", 
+            "text": "+JeddHampton\nMakes sense. I was just thinking:\n\n-More characters = new morse code signals to transmit them in.\n-More combinations = more safety\n\nI guess I was wrong.", 
+            "author": "Swiss Man 18"
+        }, 
+        {
+            "date": "2015-04-06T16:47:40.833Z", 
+            "text": "+Swiss Man 17 adding characters makes it more complex, but the flaw would \nstill remain. It is similar to adding more characters to your password. \nIt's better, but any flaw in the actual system of storing/using the \npassword would circumvent the added security.", 
+            "author": "JeddHampton"
+        }, 
+        {
+            "date": "2015-03-30T17:12:05.429Z", 
+            "text": "+swiss Man 17 nice", 
+            "author": "The Illuminati"
+        }, 
+        {
+            "date": "2015-03-30T16:51:40.001Z", 
+            "text": "+The Illuminati\n- Mountains, which would be great for long resistance and guerilla warfare\n- The well trained Swiss army\n- storing gold for Germany\n ", 
+            "author": "Swiss Man 18"
+        }, 
+        {
+            "date": "2015-03-30T16:36:24.350Z", 
+            "text": "Sooo.... Why didn't Germany took over Switzerland, again?", 
+            "author": "The Illuminati"
+        }, 
+        {
+            "date": "2015-03-30T11:07:39.219Z", 
+            "text": "now i wanna watch the imitation game ^^\ufeff", 
+            "author": "HerrProfDrGuenther"
+        }, 
+        {
+            "date": "2015-03-28T08:17:20.678Z", 
+            "text": "Damn! Talk about a master cracker/hacker O_O\nAlan Turing was a *GIANT* among men!\ufeff", 
+            "author": "Mark Strong"
+        }, 
+        {
+            "date": "2015-03-26T21:34:19.425Z", 
+            "text": "Your translation was flawless (except for the pronunciation:D). Dein \nDeutsch ist gar nicht allzu schlecht.\ufeff", 
+            "author": "Eros Ramazotti"
+        }, 
+        {
+            "date": "2015-03-26T15:09:13.002Z", 
+            "text": "Nice video, I was confused on how everything worked out, but after watching \nthis video I understood alot better.\ufeff", 
+            "author": "Rohit Kumar"
+        }, 
+        {
+            "date": "2015-03-24T00:52:36.052Z", 
+            "text": "Reminds me a lot of the modern WiFi encryption, the way you take advantage \nof the same invariant message (ACK packet) to break down the code.\ufeff", 
+            "author": "sukhoy"
+        }, 
+        {
+            "date": "2015-03-23T16:59:42.355Z", 
+            "text": "to the guy who couldn't find the imitation game, look for it on yify \ntorrents\ufeff", 
+            "author": "Mohammed Sakandar"
+        }, 
+        {
+            "date": "2015-03-22T18:44:33.873Z", 
+            "text": "The computer that Alan Turing built was called Christopher because his \nfriend died in school in 1921 with a sickness but Alan never knew he had \nthe sickness. \n\nAlan Turing committed suicied in 1951 because he was gay and they chopped \nhis balls off but Alan couldn't live with that. \n\nR.I.P Alan Turing \n\nWe wouldn't of been here if it wasn't for you.\ufeff", 
+            "author": "Penny 4 Life"
+        }, 
+        {
+            "date": "2015-03-22T12:42:18.844Z", 
+            "text": "i don't understand why you dumb people keep calling this a computer, its \njust a bunch of electrical circuits, it doesn't make any calculation.\ufeff", 
+            "author": "Nereus"
+        }, 
+        {
+            "date": "2015-03-21T00:19:27.106Z", 
+            "text": "Trotzdem Dauben hoch! :D\nthough thumb up! :D\ufeff", 
+            "author": "Benjamin Kempkens"
+        }, 
+        {
+            "date": "2015-03-20T02:00:40.408Z", 
+            "text": "The breaking of the Enigma Code is truly an awe-inspiring story. It is a \nshame, however, that the genius behind the construction of this grand \nmachine, Alan Turing, was initially only acknowledged for his sexual \norientation, rather than the monumental contributions that he made to the \nfield of Computer Science. It\u2019s upsetting to know that although he had a \nmassive role in the turnout of WWII he was still persecuted until the point \nwhere he took his own life. I dream of a day where people are recognized \nfor the contributions they make during their life, and not by the manner in \nwhich they live their life.\ufeff", 
+            "author": "James Setola"
+        }, 
+        {
+            "date": "2015-03-19T17:01:26.958Z", 
+            "text": "Ffff\ufeff", 
+            "author": "xXNobodynemoXx"
+        }, 
+        {
+            "date": "2015-03-18T12:52:01.062Z", 
+            "text": "Alan Turin's Bombe machine albeit a substantial help, was really only an \nextension and development from a device that had been first designed in \n1938 in Poland at the Biuro Szyfr\u00f3w (Cipher Bureau) by cryptologist Marian \nRejewski, and known as the \"cryptologic bomb\" (Polish: bomba \nkryptologiczna).\ufeff", 
+            "author": "alan thomas"
+        }, 
+        {
+            "date": "2015-03-17T19:54:06.463Z", 
+            "text": "Why 36 drum variations? Shouldn't it be 60 (3 of 5 possible rotors)\ufeff", 
+            "author": "ranbena"
+        }, 
+        {
+            "date": "2015-03-16T23:39:10.843Z", 
+            "text": "Jesus H Christ.  I thought my girlfriend was complicated but holy moly.\ufeff", 
+            "author": "stnicholas54"
+        }, 
+        {
+            "date": "2015-03-16T06:44:51.120Z", 
+            "text": "its probably way past it time, but how about instead of pairs that switch \nbetween themselves, mixing up the pairs of two switched numbers with three \nor four or five. Or running it through enigma more times?\ufeff", 
+            "author": "Maax Doowell (BL00DB4N3)"
+        }, 
+        {
+            "date": "2015-03-15T20:37:19.404Z", 
+            "text": "Z Is not \"Zed, it's Zee.\ufeff", 
+            "author": "Eric Taylor"
+        }, 
+        {
+            "date": "2015-03-15T02:35:12.477Z", 
+            "text": "Became aware of the enigma through the story of the U-505 (captured U-boat \nin Chicago, Ill).  Then saw the movie \"The Imitation Game\".  Thanks for \nadding to the wonder of the story.\ufeff", 
+            "author": "Kent Purrington"
+        }, 
+        {
+            "date": "2015-03-15T00:01:27.862Z", 
+            "text": "Flaw in the Enigma Code - Numberphile: https://youtu.be/V4V2bpZlqx8\ufeff", 
+            "author": "Adhytia Wisnu Sasmita"
+        }, 
+        {
+            "date": "2015-03-12T16:01:08.044Z", 
+            "text": "and at 1:28 you can see vitaly being a nazi general as usual \ufeff", 
+            "author": "hisham borgol"
+        }, 
+        {
+            "date": "2015-03-12T11:50:18.600Z", 
+            "text": "You think breaking that code saved lives.\nIt's actually the opposite.\nAnd the worst result of this so called victory is still to come. It wont be \nlong now.\ufeff", 
+            "author": "Boom Stick"
+        }, 
+        {
+            "date": "2015-03-12T07:16:15.413Z", 
+            "text": "u just nailed it dude. u explained such a hard enigma in so simple \nway......\ufeff", 
+            "author": "Ajay Vishwakarma"
+        }, 
+        {
+            "date": "2015-03-10T10:40:26.360Z", 
+            "text": "Poles broke enigma before war for the first time 31 december 1932. We held \nnumerous conferences for 'allies' on this topic\ufeff", 
+            "author": "VforArt"
+        }, 
+        {
+            "date": "2015-03-09T02:39:13.020Z", 
+            "text": "I actually finish the whole video even if I was so confuse the very moment \nhe was explaining this. LOL\ufeff", 
+            "author": "Jayel Valdez"
+        }, 
+        {
+            "date": "2015-03-07T14:50:45.693Z", 
+            "text": "If there were no \"flaws\" in a code you wouldn't be able to decipher it...so \nit's wrong to assume that it's a flaw. \ufeff", 
+            "author": "Chris Lee"
+        }, 
+        {
+            "date": "2015-03-07T14:25:40.631Z", 
+            "text": "Ultimate machine:\nYou use some sort of new language (for example elvish) for enigma\nYou use different type of language for encrypted message for enigma \nsettings (dwarfish)\nYou exchange letters in your message so weather report would be  ortrep \nhertwea and aslo change some letters with numbers like e=3 etc. but all \nthose letters and numbers would look like chinese to english \nspeakers......also add few more rotors :D\ufeff", 
+            "author": "Moangus PIckard"
+        }, 
+        {
+            "date": "2015-03-07T11:41:31.326Z", 
+            "text": "Ich finds genial wenn jemand versucht deutsch zu reden.\n\ufeff", 
+            "author": "MrDersiffer"
+        }, 
+        {
+            "date": "2015-03-06T14:41:12.485Z", 
+            "text": "It's kinda disturbing to see you smiling all the time... :S\ufeff", 
+            "author": "DixxieDuck"
+        }, 
+        {
+            "date": "2015-03-07T02:53:44.366Z", 
+            "text": "Well, it is a *really* facinating subject to discuss and learn about..", 
+            "author": "sanderh123_"
+        }, 
+        {
+            "date": "2015-03-05T16:17:06.000Z", 
+            "text": "How to break the Enigma code\ufeff", 
+            "author": "Evino Huang"
+        }, 
+        {
+            "date": "2015-03-05T15:52:05.845Z", 
+            "text": "Minor point, Wetterbericht is a compound word, so it's pronounced like \n\"Wetter-Bericht\" (minor stop between the two, not as if it were two \ndistinct words) and the pronunciation is akin to \"vetter\" (double tee is \nactually pronounced) and \"bericht,\" where \"ch\" is a thick \"h\" (like in \n\"he\"); finally, it's the \"i\" that's stressed.\ufeff", 
+            "author": "Panagiotes Koutelidakes"
+        }, 
+        {
+            "date": "2015-03-16T20:10:46.000Z", 
+            "text": "+Panagiotes Koutelidakes\nI know that Wetterbericht is a compound word - I am a german. But I never \nmet a fellow german who would make a pause in such a word between the \ncompounds - hence my \"Wetterbericht is one word, there's no pause in it.\" \nIt is made up out of two nouns - Wetter and Bericht - but if you write or \nsay Wetterbericht, it becomes only one word. The same goes for all other \nwords of this nature like Zeitungsartikel (Zeitung - Artikel), B\u00fccherregal \n(B\u00fccher, plural of Buch - Regal), &c.\nIn the pronunciation, there's no pause in it.", 
+            "author": "Scry .Dream"
+        }, 
+        {
+            "date": "2015-03-16T09:22:53.071Z", 
+            "text": "+Scry .Dream\n\"Wetterbericht\" is *one* word, but that is a *compound* word; and there is \nminor pause between the two, officially termed a \"glottal stop\" \u2014 which is \nvery common in German.\n\nAnd, yes, I agree that describing \"ch\" as the aytch in \"he\" is not ideal, I \nam not sure it is going to be understood very well otherwise.", 
+            "author": "Panagiotes Koutelidakes"
+        }, 
+        {
+            "date": "2015-03-15T01:07:44.144Z", 
+            "text": "No. Wetterbericht is one word, there's no pause in it. The 'ch' sound isn't \npronounced as in 'he' - I don't think there's a good comparison of the 'ch' \nsound as in 'Bericht' or 'Ich' (or 'sich' or.. more words) in the english \nlanguage. The closest sound of the 'ch' in those words in the english \nlanguage may be a somewhat hissed (in lack of a better verb) version of the \n'sh' sound. But that's only for the 'ch' sound as in the words mentioned \nabove, there's an entirely other group of words like 'nach', 'achso', \n'acht' (and more) where the 'ch' sound is different from the one mentioned \nabove - the 'ch' sound in those words are something you could describe as a \nguttural thick 'h'.", 
+            "author": "Scry .Dream"
+        }, 
+        {
+            "date": "2015-03-04T16:49:52.183Z", 
+            "text": "hmm Polish guy  Marian Rejewski invented the bombe maschine. Alan it make \nit better or am I wrong?\ufeff", 
+            "author": "manzarek74"
+        }, 
+        {
+            "date": "2015-03-01T00:38:57.771Z", 
+            "text": "Its kinda endearing how excited he is/seems about the machine and the \nmathematics behind it\ufeff", 
+            "author": "Kira B"
+        }, 
+        {
+            "date": "2015-02-28T17:27:51.927Z", 
+            "text": "Wouldn't the pair thing make it so that a letter could become itself? \ufeff", 
+            "author": "Blake Young"
+        }, 
+        {
+            "date": "2015-02-27T09:03:29.000Z", 
+            "text": "As I understand it, the patched letters can never become themselves because \nthe patching swaps the same two letters over on the way into the rotors and \nback out of the rotors (and the rotors always change the letter). So for \nexample, if you swapped A and B over, when you type A in it first gets \nrouted to the B input. And to get A back out at the end the rotor would \nhave to return B (which it won't do). So one very simple improvement would \nbe to separate the patch cables into inward swaps and outward swaps, rather \nthan the double patch cables used. Thus any letter out of the rotors could \npotentially end up as any other letter. The machine itself would be the \nsame, it would just need new patch cables - think pin cables and thin pin \ncables. \n\nI appreciate this isn't a complete fix tho, because the completely \nunpatched letters still exhibit the original fault due to the rotors.\ufeff", 
+            "author": "chrisofnottingham"
+        }, 
+        {
+            "date": "2015-02-23T01:31:16.562Z", 
+            "text": "So.... If the Enigma Code had never had this flaw.\nThe Bombe machine would have never been created.\nThe Germans would have never figured out the code.\nThey would have never known what was going on.\nAND THEN WHAT?\ufeff", 
+            "author": "Chris Blananas2"
+        }, 
+        {
+            "date": "2015-02-23T00:05:22.880Z", 
+            "text": "While this is a great acomplishment, I think Sweden has an even more \namazing story about the code cracking of the nazis messages.\n\nCheck out the story about Arne Beurling. He managed to decipher the \nmessages created by their \"secret teletypewriter\" (a machine even more \nadvanced than the enigma machine) - all by himself using nothing but pen \nand paper. And the most amazing thing was that he did it in only two \nweeks. \ufeff", 
+            "author": "Andreas Forsl\u00f6w"
+        }, 
+        {
+            "date": "2015-02-22T11:12:21.126Z", 
+            "text": "French sub plz .\ufeff", 
+            "author": "Jimmy Neutronique"
+        }, 
+        {
+            "date": "2015-02-20T05:17:01.156Z", 
+            "text": "enigma code\ufeff", 
+            "author": "Danielly Nicoleau"
+        }, 
+        {
+            "date": "2015-02-17T06:44:04.860Z", 
+            "text": "And how did we even get to assume that letters don't get repeated and that \nthe circuit goes through a plug board, rotors, and a plug board?\ufeff", 
+            "author": "Michael Sawyer"
+        }, 
+        {
+            "date": "2015-02-24T17:20:03.594Z", 
+            "text": "Allies captured enigma machines and study them.", 
+            "author": "Roy Rki"
+        }, 
+        {
+            "date": "2015-02-17T06:42:20.600Z", 
+            "text": "I don't understand the process at all.\n\nSo this guy makes a totally arbitrary guess like (ta) and just keeps going \nuntil a contradiction? And then if all the other guesses on the other \nletters are equally arbitrary, how do they all get thrown out at once?\ufeff", 
+            "author": "Michael Sawyer"
+        }, 
+        {
+            "date": "2015-04-06T16:45:21.169Z", 
+            "text": "+Michael Sawyer It's a proof by contradiction. It's a logical method to \nprove what something isn't. You start with an assumption, and you build a \nproof from that assumption that creates a contradiction. At this point, you \nknow that your assumption is not valid.\n\nThey all get thrown out at once for the same reason. For any of those \ndeductions to be true, the original assumption had to be true. That \nassumption was already proven false.", 
+            "author": "JeddHampton"
+        }, 
+        {
+            "date": "2015-03-10T14:27:15.193Z", 
+            "text": "+ralusek Admittedly, after watching this the second time it made sense. I \njust had a few questions from the first time around. Thanks though", 
+            "author": "Michael Sawyer"
+        }, 
+        {
+            "date": "2015-02-23T22:00:59.064Z", 
+            "text": "Arbitrary guesses seem less ridiculous when you consider that the computer \njust did every arbitrary combination of the letter pairings. It's just a \nmatter of all possible permutations of pairings (sped up greatly by the \nfact that they were able to remove batches of possibilities each time \nthrough).", 
+            "author": "ralusek"
+        }, 
+        {
+            "date": "2015-02-16T19:59:52.279Z", 
+            "text": "the maker of the bomb machine deserves a cookie!\ufeff", 
+            "author": "Terry Hoekstra"
+        }, 
+        {
+            "date": "2015-02-15T20:06:01.081Z", 
+            "text": "So how did the Germans read the enigma code? On Wikipedia it says that you \ncan read the code if you have a identical enigma machine, but how is that \ngonna help if the settings change every day randomly? Also, in \"The \nImitation Game\", they actually had a identical enigma machine, but lituraly \nsaid it wasn't of any use in translating the code. Or is the change of \nsettings not random? Is all you need just two enigma machines that, with \nevery change, change the same way?\ufeff", 
+            "author": "Maarten DJ"
+        }, 
+        {
+            "date": "2015-03-05T20:47:10.837Z", 
+            "text": "In the last video they said that the Germans sent a monthly sheet that \nshowed the setting for every day", 
+            "author": "caloricfoil98"
+        }, 
+        {
+            "date": "2015-03-02T23:53:41.559Z", 
+            "text": "you need to know which 3 rotors (out of 5) are in the machine, and what the \nstarting position of each of the rotors (and the plugboard settings), the \ncode is different each time you press a key, because the rotors turn each \ntime.\nAt the start of the war, the start settings were in the code book sent to \nevery unit each month, i think that was changed later.", 
+            "author": "Speedbird996"
+        }, 
+        {
+            "date": "2015-02-15T00:45:13.547Z", 
+            "text": "I hate doing maths and I subbed. Well done.\ufeff", 
+            "author": "Beau Daniel"
+        }, 
+        {
+            "date": "2015-02-15T00:00:41.973Z", 
+            "text": "Polacy odkodowali maszyn\u0119 i zbudowali do tego Kryptologiczn\u0105 bomb\u0119\n\nCryptologic bombs is an invention of Polish bombs machine they did Poles \nnot english\n\nhe called it a bomb because is ticking like a bomb\ufeff", 
+            "author": "POLSKARZECZPOSPOLIT"
+        }, 
+        {
+            "date": "2015-02-12T12:13:32.748Z", 
+            "text": "What mechanism made impossible for enigma to codify a letter to itself?\ufeff", 
+            "author": "Andrea Febbo"
+        }, 
+        {
+            "date": "2015-02-11T13:51:35.083Z", 
+            "text": "The sad part is that nothing has really changed.. Only the targeting?\ufeff", 
+            "author": "Chris Summerfield"
+        }, 
+        {
+            "date": "2015-02-10T01:27:42.463Z", 
+            "text": " Did the  american break the enigma code too?\ufeff", 
+            "author": "juggerknot100"
+        }, 
+        {
+            "date": "2015-02-08T18:13:51.333Z", 
+            "text": "Thumbs up to all the people that came here because they are subscribed to \nnumberphile, and didn't just watch The Imitation Game!\ufeff", 
+            "author": "whydontiknowthat"
+        }, 
+        {
+            "date": "2015-02-06T23:56:04.112Z", 
+            "text": "what about  \u00dc \u00d6 \u00c4 ????\ufeff", 
+            "author": "Whitee Gohsts"
+        }, 
+        {
+            "date": "2015-02-06T10:00:30.542Z", 
+            "text": "I'm german myself and I have to say that using \"Heil Hitler\" in every \ngerman code was Germany's downfall. \ufeff", 
+            "author": "Patrick HotelEchoRomeo (PatrickHotelEchoRomeo)"
+        }, 
+        {
+            "date": "2015-02-06T06:54:01.005Z", 
+            "text": "", 
+            "author": "Jason Lundquist"
+        }, 
+        {
+            "date": "2015-02-04T19:14:14.899Z", 
+            "text": "Well done Alan Turing !\ufeff", 
+            "author": "Mer kaba"
+        }, 
+        {
+            "date": "2015-02-03T08:55:17.172Z", 
+            "text": "I think this guy is just as much of a genius as Alan Turing haha. Just for \nhis ability to explain something that he clearly understands so well, to us \nidiots, it's a very hard thing to do haha\ufeff", 
+            "author": "David Williams"
+        }, 
+        {
+            "date": "2015-02-01T15:38:33.589Z", 
+            "text": "Wetterbericht: Es regnet M\u00e4nner\ufeff", 
+            "author": "Doug Walker"
+        }, 
+        {
+            "date": "2015-01-29T21:19:28.370Z", 
+            "text": "7:00 I dont understand why the other deductions are wrong as well?? :(\ufeff", 
+            "author": "Martin Hedin"
+        }, 
+        {
+            "date": "2015-01-29T20:47:31.116Z", 
+            "text": "But Turing was gay, so he shouldn't have been allowed to work for the \nmilitary. Could have been bad for morale. What is wrong with people?\ufeff", 
+            "author": "biscuitdave"
+        }, 
+        {
+            "date": "2015-01-29T00:22:06.941Z", 
+            "text": "For those of you wondering, James said \"Mein Deutsch ist sehr schlecht. \nEntschuldigung!\" That literally means \"My german is very bad. Excuse me!\"\ufeff", 
+            "author": "Some Random Fellow"
+        }, 
+        {
+            "date": "2015-02-28T21:43:21.105Z", 
+            "text": "+Garen Crownguard lol", 
+            "author": "Some Random Fellow"
+        }, 
+        {
+            "date": "2015-02-28T20:05:10.649Z", 
+            "text": "Mfw even Google can translate that properly ;p", 
+            "author": "Garen Crownguard"
+        }, 
+        {
+            "date": "2015-02-11T23:10:49.078Z", 
+            "text": "+David Satya Ha, thanks!", 
+            "author": "Some Random Fellow"
+        }, 
+        {
+            "date": "2015-02-11T07:51:38.449Z", 
+            "text": "+Paul Kelly, keep it up. German is a great language to begin with. I tried \nto learn it, but I couldn't grasp another language as easy as I was in \nelementary school. I speak in three languages, but that was because I live \nin Indonesia, where you have to study both local languages and Indonesian \nplus English. Local languages, it was easy (I speak Javanese). Indonesian? \nLove it, the language was flexible since I could easily integrate my local \nlanguage to Indonesian. English? Thanks to the internet and video games.", 
+            "author": "David Satya"
+        }, 
+        {
+            "date": "2015-02-04T00:08:19.571Z", 
+            "text": "+borisjo13 You'd be surprised. People may not get that because of \nhis horrible pronounciation (no offense, James), but yes,people could get \nthat he's bad at German without understanding what he said. I just felt lke \nsaying that because I had the physical ability to do so and absolutely \nnothing was stopping me ", 
+            "author": "Some Random Fellow"
+        }, 
+        {
+            "date": "2015-02-03T23:37:01.060Z", 
+            "text": "Lol everyone knows that, you don't need to say that. And if someone doesn't \nknow that they are just too dumb for channels like Numberphile.", 
+            "author": "borisjo13"
+        }, 
+        {
+            "date": "2015-01-31T15:11:20.450Z", 
+            "text": "+biscuitdave Spanish never interested me, and the teacher was extremely \neasy, so she quizzed us on like 5 words, so I always aced it without \nstudying. After that, we never brought up those words again. THe day after \nthe test I forgot all the words because we never used them again and I \ndidnt really want to remember them. German really interested me, and I'm \nglad I took it. In my high school, you are only required to take 2 years of \na foreign language, but I am going to take all 4 and get in the German \nHonors Soceity in my Sophomore year because I love German so much.", 
+            "author": "Some Random Fellow"
+        }, 
+        {
+            "date": "2015-01-31T03:45:25.229Z", 
+            "text": "+Paul Kelly Well, it is usable in the U.S. Helps later with employment \napplications, trust me. But I do want to do something different. Maybe I'll \nuse Rosetta Stone or an app. ", 
+            "author": "biscuitdave"
+        }, 
+        {
+            "date": "2015-01-29T20:59:01.397Z", 
+            "text": "+biscuitdave Most of the people are taking spanish at my school solely \nbecause they had it shoved down their throats for the past 8 years (it was \npretty much forced upon us for some strange reason) ", 
+            "author": "Some Random Fellow"
+        }, 
+        {
+            "date": "2015-01-29T20:56:25.567Z", 
+            "text": "Keep it up. I wish I'd taken more languages back then. Four years of \nSpanish, but it was pretty basic even at that. I still want to learn some \nFrench and Arabic because they are so beautiful.", 
+            "author": "biscuitdave"
+        }, 
+        {
+            "date": "2015-01-29T20:52:42.958Z", 
+            "text": "+biscuitdave lol. I'm taking German in high school (Im a Freshman btw) ", 
+            "author": "Some Random Fellow"
+        }, 
+        {
+            "date": "2015-01-29T20:50:31.657Z", 
+            "text": "And it's better than mine. I know about twenty words my grandma taught me. \nI can say the key is under the flower pot, but it has very limited value.", 
+            "author": "biscuitdave"
+        }, 
+        {
+            "date": "2015-01-28T15:20:10.245Z", 
+            "text": "For anybody wondering, \"But wouldn't the plug board allow you to cause a \nletter to encrypt as itself? Imagine K after the rotors maps to U. Why not \njust route U to K via the plug board so that pressing K results in K (in \nthis particular button push)?\" \n\nHere's why not: The plug board is used both directions. So that U->K \nmapping on the output would also be a K->U mapping on the input. So that K \nyou entered and hoped to get back out (to avoid this flaw) would become a U \nbefore entering the rotors. Now, to get K back as the final answer you \nstill need to get U out of the rotors because of that U->K in the plug \nboard. So, you're left with needing U->U coming from the rotors, which is \nno different than needing K->K coming from the rotors. The plug board \ndoesn't add the ability for a letter to map to itself, and given that it \nwon't happen in the rotors it won't happen via Enigma.\ufeff", 
+            "author": "Brian Murray"
+        }, 
+        {
+            "date": "2015-01-26T15:33:58.388Z", 
+            "text": "1 who won the war? the russian bad ass red army , 2 who broke the first \n code? the 3 polish programmers, 3 who broke the impossible Uboat Code? the \nBritish using a machine called the bombdesign by turing  ...and who won the \nlast cricket game against pakistan? NOT the french\ufeff", 
+            "author": "callasexperience"
+        }, 
+        {
+            "date": "2015-03-05T11:26:32.969Z", 
+            "text": "+hailmary7283 And with out the British the Americans would be speaking \nFrench :D We can point score too....", 
+            "author": "Tommy England"
+        }, 
+        {
+            "date": "2015-03-05T07:52:50.856Z", 
+            "text": "+Tommy England And without American Industry you would be speaking German. ", 
+            "author": "hailmary7283"
+        }, 
+        {
+            "date": "2015-01-27T07:02:58.274Z", 
+            "text": "With out the brain of Britain all you fuckers would have died. Get over it.", 
+            "author": "Tommy England"
+        }, 
+        {
+            "date": "2015-01-26T15:27:54.556Z", 
+            "text": "Ok if I understand, the polish broke the enigma code in 1934 and passed on \nthe details to the british to carry on the work , the red army was too \ntough for  the the german army not used to -50c in winter  and kicked the \nnazi ass and destroyed their moral ..allan turing and his team designed a \ncomputer to break the german communication Uboat code (as it was made more \nand more difficult)    with this huge computerwhich  broke the code in 20mn \nevery morning  \ufeff", 
+            "author": "callasexperience"
+        }, 
+        {
+            "date": "2015-01-26T15:17:18.429Z", 
+            "text": "Zut alors il y a 2 m a programmers\ufeff", 
+            "author": "callasexperience"
+        }, 
+        {
+            "date": "2015-01-26T15:15:09.334Z", 
+            "text": "hi to polish computer programers!!!\ufeff", 
+            "author": "callasexperience"
+        }, 
+        {
+            "date": "2015-01-25T18:00:03.928Z", 
+            "text": "You'd make a great professor. Can I attend your code breaking class? \ufeff", 
+            "author": "Jennifer Lau"
+        }, 
+        {
+            "date": "2015-01-25T14:55:21.617Z", 
+            "text": "Maybe I missed it, but why can't a letter become it self?\ufeff", 
+            "author": "Lock Picker"
+        }, 
+        {
+            "date": "2015-01-23T18:35:55.289Z", 
+            "text": "so it wasnt called christopher\ufeff", 
+            "author": "zonatedproduct"
+        }, 
+        {
+            "date": "2015-01-22T20:11:50.355Z", 
+            "text": "Poles broke the Enigma code, but as usual Brits are the best of the best is \nthe usual distorting History.\ufeff", 
+            "author": "Paraselcus1"
+        }, 
+        {
+            "date": "2015-04-21T10:39:55.000Z", 
+            "text": "+dporiua You answered the question who really cracked the code. 1932 Poles \n(in fact Rejewski, Zygalski and R\u00f3\u017cycki) already cracked modified Military \nEnigma. Rest of the World reads none of Enigma back then. Rejewski was \nbrilliant enough to use mathematics where British were using word riddles.\n1938 Poles had all- Bomba, calculating tools and ideas - but missing \nresources. It was a WWII blast and intelligence evacuation which \ndiscontinued efforts.\nThey luckly passed it to Allies in last moment - July 1939.\nWhat dou you think - which step is a crucial step in cracking - 0-3 \n(rotors) or 3-4. Would Alan Turing crack a 3-4 rotors without clue to crack \n3??", 
+            "author": "Mi Ga"
+        }, 
+        {
+            "date": "2015-04-09T06:51:51.854Z", 
+            "text": "+Paraselcus1 this comment chain perfectly demonstrates the problem with the \nhuman race. no matter how much progress we make, we always resort to petty \ntribalism. the day we get over it is the day we solve all our problems.", 
+            "author": "quigrem"
+        }, 
+        {
+            "date": "2015-04-02T23:00:41.252Z", 
+            "text": "+dporiua According to resources I've read, the Poles were able to read \nNaval Enigma (M4) encrypted messages, just not as often or as reliably as \nthey could read Wehrmacht (M3) cipher-text.", 
+            "author": "Richard Wielgosz"
+        }, 
+        {
+            "date": "2015-04-02T11:40:23.686Z", 
+            "text": "+Paraselcus1 its funny because if you watched the video and knew anything \nabout the machine used to break the secondary video you'd know they both \npay homage to the polish who broke the first code", 
+            "author": "Brenton \u201cBrentos\u201d Casey"
+        }, 
+        {
+            "date": "2015-03-29T17:28:13.006Z", 
+            "text": "+Paraselcus1\njust watch 8:14 , the polish one couldn't break the kriegsmarine codes, \nwhich was the most important arm of the German Army.\ufeff\ntheir machine wasn't nearly as complicated as the british one\nThe Polish cryptologic bomba  had been useful only as long as three \nconditions were met. First, the form of the indicator had to include the \nrepetition of the message key; second, the number of rotors available had \nto be limited to three, giving six different \"wheel orders\" (the three \nrotors and their order within the machine); and third, the number of \nplug-board leads had to remain relatively small so that the majority of \nletters were unsteckered.\nSix machines were built, one for each possible rotor order. The bomby were \ndelivered in November 1938, but barely a month later the Germans introduced \ntwo additional rotors for loading into the Enigma scrambler, increasing the \nnumber of wheel orders by a factor of ten. Building another 54 bomby was \nbeyond the Poles' resources. Also, on 1 January 1939, the number of \nplug-board leads was increased to ten. The Poles therefore had to return to \nmanual methods", 
+            "author": "dporiua"
+        }, 
+        {
+            "date": "2015-03-29T16:48:04.670Z", 
+            "text": "+jimkillerx??????? Hahahaha LoL!!! different enigma code ahahahah!!! ", 
+            "author": "Paraselcus1"
+        }, 
+        {
+            "date": "2015-03-29T13:52:47.075Z", 
+            "text": "The poles broke a different enigma code", 
+            "author": "jimkillerx"
+        }, 
+        {
+            "date": "2015-03-25T12:06:04.113Z", 
+            "text": "just watch 8:14 , the polish one couldn't break the kriegsmarine codes, \nwhich was the most important arm of the German Army.", 
+            "author": "dporiua"
+        }, 
+        {
+            "date": "2015-03-20T08:40:16.343Z", 
+            "text": "+Pete Allen Well said! As another Englishman I have stand with you on that \none. Thankfully he is in the minority, unfortunately a minority which gets \nfar too much exposure on these type of forums and influences opinions \naround the world.", 
+            "author": "Simon Robbins"
+        }, 
+        {
+            "date": "2015-03-14T01:50:56.253Z", 
+            "text": "+Phoenix Algerian :D Mute this post then you inferior being.", 
+            "author": "Tommy England"
+        }, 
+        {
+            "date": "2015-03-13T14:09:18.000Z", 
+            "text": "+Tommy England LOL, does it hurt my butt ?? LOOOL, what I already said to \nyou, DOES hurt your butt, wow, what a sensitive anus. I'm laughing so hard. \nMoreover, english is wide spoke, thanks to the yankees for voted it as an \nofficial language, against german language, there is nothing for englishmen \nto be proud of, Now I see the dildo come out of your mouth from your anus, \noh gross, looooool. anyway, I disagree, and I muting this post, turn you \nanger elsewere.", 
+            "author": "Phoenix Algerian"
+        }, 
+        {
+            "date": "2015-03-13T13:27:56.126Z", 
+            "text": "+Phoenix Algerian English language is most spoken in the world. Does that \nfact hurt your butt? If the English disappeared tomorrow we would NEVER be \nforgotten. ", 
+            "author": "Tommy England"
+        }, 
+        {
+            "date": "2015-03-13T11:52:30.538Z", 
+            "text": "+Tommy England\nI gave a thumb up for the troll response, but quite frankly, 72% of your \nwords are french, few arab, other german, but a variation of german grammar \nand syntax, can you call it a language ? I would day No !", 
+            "author": "Phoenix Algerian"
+        }, 
+        {
+            "date": "2015-03-11T09:11:20.836Z", 
+            "text": "+Curtis I also any chance for Poles to work further on breaking enigma \nended in Sept '39 as Warsaw was demolished and Cipher Bureau was evacuated \n/ all materials destroyed.", 
+            "author": "boggy81"
+        }, 
+        {
+            "date": "2015-03-11T09:07:11.149Z", 
+            "text": "They broke the land one, but not the naval one (the british got the naval \none) which was more vital than the land one, but yes poles were first to \ninvent the bombe. Is just the british one is a more advanced one to crack \nthe naval (improved one)", 
+            "author": "Curtis I"
+        }, 
+        {
+            "date": "2015-03-10T00:11:18.901Z", 
+            "text": "Wow, never saw to arguments in one comment before.", 
+            "author": "Henry Chou"
+        }, 
+        {
+            "date": "2015-03-08T19:37:32.421Z", 
+            "text": "Brits sodomized Poles, end of story.", 
+            "author": "Winny  Han"
+        }, 
+        {
+            "date": "2015-03-06T19:00:28.230Z", 
+            "text": "+Dave Wise India is teaching English to new English speakers. Some American \ntourists have been known to go to England and tell them to speak \"English.\" \nNo Brits come over here and tell us to speak \"English.\" We are the world's \n\"daddy\" that's why the world knows to properly describe our English as \n\"American\" English. \"Daddy\" does not pay respect to England. Even Bush \ntreated Blair as a \"good boy.\"", 
+            "author": "R2Mintus"
+        }, 
+        {
+            "date": "2015-03-06T15:03:44.153Z", 
+            "text": "+R2Mintus\nWho cares that English is spoken in China and India. Those aliens would \neventually learn that it originated from England and would pay their \nrespects to them, not to some third world Asians", 
+            "author": "Dave Wise"
+        }, 
+        {
+            "date": "2015-03-06T06:54:01.046Z", 
+            "text": "+Lia Edwards Don't really know why you feel the need to repeat me...to me.", 
+            "author": "R2Mintus"
+        }, 
+        {
+            "date": "2015-01-22T11:45:48.633Z", 
+            "text": "ENIGMA CODE BREAK  Marian Rejewski ; Henryk Zygalski;  Jerzy R\u00f3\u017cycki  NOT \nALAN TUNING !!!!!!!!!!!!!!!!!\ufeff", 
+            "author": "Marek Wolosz"
+        }, 
+        {
+            "date": "2015-01-22T01:52:26.395Z", 
+            "text": "The question is: why one letter becomes different when you press it one \nmore time if the codes changed only once every day.\ufeff", 
+            "author": "Artem Cobalt"
+        }, 
+        {
+            "date": "2015-01-29T13:02:11.711Z", 
+            "text": "Because the rotors move every time a letter is pressed", 
+            "author": "xXMangoMan"
+        }, 
+        {
+            "date": "2015-01-21T23:31:47.187Z", 
+            "text": "", 
+            "author": "Danny Lade"
+        }, 
+        {
+            "date": "2015-01-18T01:16:36.603Z", 
+            "text": "It's so sad what happened to Alan Turing after the war.\ufeff", 
+            "author": "Skeeter Sorenson"
+        }, 
+        {
+            "date": "2015-05-01T13:25:15.828Z", 
+            "text": "+BeeAre I hope so.", 
+            "author": "ALackOfLife"
+        }, 
+        {
+            "date": "2015-05-01T08:09:54.833Z", 
+            "text": "+ALackOfLife I believe Major Rugburn is referring to the people who \ncondemned Turing, not Turing himself. >_>", 
+            "author": "BeeAre"
+        }, 
+        {
+            "date": "2015-04-30T23:06:26.861Z", 
+            "text": "+MadMargaretGaming All happiness leading up to and during his treatment. \nYes, it was dumb that he was treated this way, but I think it unfair to him \nto view him as some depressed and gloomy guy. Especially during the time \nwhich we was treated. No one thing \"ruined\" his life, the treatment was an \ninconvenience. He was still very scientifically involved.", 
+            "author": "Audiack"
+        }, 
+        {
+            "date": "2015-04-30T22:50:40.000Z", 
+            "text": "+Major Rugburn crime? Please go back to the 1950s and stay there.", 
+            "author": "ALackOfLife"
+        }, 
+        {
+            "date": "2015-04-04T15:25:05.315Z", 
+            "text": "+Audiack Alan was probably quite happy before he was forced to ruin his own \nlife.", 
+            "author": "MadMargaretGaming"
+        }, 
+        {
+            "date": "2015-04-04T15:01:25.693Z", 
+            "text": "+Skeeter Sorenson sad? it's a bloody crime and people responsible should \nhave been hung for it.", 
+            "author": "Major Rugburn"
+        }, 
+        {
+            "date": "2015-03-30T00:08:48.508Z", 
+            "text": "Imitation Game = Dramatized Version. It is said that Alan was quite happy \nwith his life.", 
+            "author": "Audiack"
+        }, 
+        {
+            "date": "2015-03-16T16:43:01.020Z", 
+            "text": "+Skeeter Sorenson\nIt's not known whether it was suicide or accidental poisoning, but he did \ndie from cyanide poisoning.", 
+            "author": "MadMargaretGaming"
+        }, 
+        {
+            "date": "2015-03-01T03:16:10.000Z", 
+            "text": "+Garen Crownguard He was found to be homosexual, and was forced to take \nhormonal medications or something. He committed suicide.", 
+            "author": "Skeeter Sorenson"
+        }, 
+        {
+            "date": "2015-02-28T20:06:18.363Z", 
+            "text": "?", 
+            "author": "Garen Crownguard"
+        }, 
+        {
+            "date": "2015-01-17T13:23:09.326Z", 
+            "text": "thanxxxxxxx\ufeff", 
+            "author": "rocky jain"
+        }, 
+        {
+            "date": "2015-01-16T09:39:33.764Z", 
+            "text": "If this is exciting to you, then Imitation game will be an interesting film \nto see. \ufeff", 
+            "author": "Kristina Nyberg"
+        }, 
+        {
+            "date": "2015-01-19T00:37:26.128Z", 
+            "text": "+Ji Yong Dijkhuis you may be right, but the film despite added drama was \ngreat too. ", 
+            "author": "Kristina Nyberg"
+        }, 
+        {
+            "date": "2015-01-16T20:47:39.104Z", 
+            "text": "Well, people who like this, are not interested in dramatized history, but \nmore in facts. ;-)\n\nIt's good that this Youtube movie does credit the Polish Cipher Bureau, but \nthey were only able to crack the code with information from a German spy.\n\nThis doesn't mean that Turing had no part in deciphering Enigma messages, \nbut his major contribution was speeding up the deciphering.\n\nhttp://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma\n\nhttp://www.slate.com/blogs/browbeat/2014/12/03/the_imitation_game_fact_vs_fiction_how_true_the_new_movie_is_to_alan_turing.html", 
+            "author": "Ji Yong Dijkhuis"
+        }, 
+        {
+            "date": "2015-01-15T02:39:46.142Z", 
+            "text": "This is awesome. Great Explanation.\ufeff", 
+            "author": "sachin thigale"
+        }, 
+        {
+            "date": "2015-01-14T23:57:30.892Z", 
+            "text": "Dear Dr Turing ,\nWE want to thank you for your enormous contribution & for your work \nrelating to breaking the\nGerman Military codes & to acknowledge your unique input into developing \nthe very first computer.\nNow -- this won't hurt at all -- Dr Turing. -  We just want to CHEMICALLY \nCASTRATE you.\nYou won't feel a thing.\ufeff", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-04-04T10:59:33.054Z", 
+            "text": "Turing will pay for what he have done to Germany. those British dare \nrejected my nicely request ", 
+            "author": "Adolf Hitler (Der F\u00fchrer)"
+        }, 
+        {
+            "date": "2015-03-08T02:56:09.497Z", 
+            "text": "+jbyeats ohhhh never mind xD", 
+            "author": "ZakX11"
+        }, 
+        {
+            "date": "2015-03-08T01:40:02.191Z", 
+            "text": "That's the UK -- OFFICIAL STORY of how the man died.\nDo you know anything about his death & all\nof the huge number of anomalies which surround it. ?\nI suppose you don't care --- just like\nDr Turing -- you believe the OFFICIAL STORY .\n\nJust as a matter of interest -- does the British Government or one of its \nagencies pay your salary ???", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-03-07T23:58:23.073Z", 
+            "text": "+jbyeats Dr David Kelly committed suicide by cutting his wrists. End of the \nstory", 
+            "author": "VeteranCape"
+        }, 
+        {
+            "date": "2015-03-05T19:29:31.336Z", 
+            "text": "Say what about Alan Turing ?", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-03-05T03:21:40.835Z", 
+            "text": "Why would you say that about Alan Turing ? I haven't seen the movie and \ndon't know much about him except that he cracked the code , so I'm \ngenuinely asking why would you say that.", 
+            "author": "ZakX11"
+        }, 
+        {
+            "date": "2015-02-26T19:40:36.924Z", 
+            "text": "What has Alan Turing got to do with Ukraine ?\nIs someone spiking my TEA  ?", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-02-26T19:55:37.000Z", 
+            "text": "bla", 
+            "author": "Robert Winkler"
+        }, 
+        {
+            "date": "2015-02-25T00:24:30.803Z", 
+            "text": "+any vonab\n\nThe penny has just dropped .", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-02-24T22:36:53.770Z", 
+            "text": "Has someone spiked your tea or coffee ----\n\nWhat does this mean   ---- your words ---\n\" mentally unable troll \"\nWhat sense is in this statement ???\nDoes it make sense to you ???\nIf it does --  then someone has definitely spiked your tea or coffee.", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-02-24T22:28:19.000Z", 
+            "text": "I don't care if you care what age I am. I don't care if I started it. \nEither way, that comment wasn't meant to be perturbing. I reiterate this \nonce more, my spelling is *not* a disaster.\n\n\nEs ist mir egal , wenn Sie darauf , wie alt ich bin. Es ist mir egal , ob \nich damit angefangen. So oder so, dass Kommentar sollte nicht st\u00f6render \nsein. Ich wiederhole diesen Punkt nochmals, meine Rechtschreibung *nicht* \neine Katastrophe ist.\n\nNu \u00eemi pas\u0103 dac\u0103 \u00ee\u0163i pas\u0103 dumneavoastr\u0103 despre c\u00e2\u0163i ani am. Ori cum, nu \u00eemi \nerea inten\u0163ia s\u0103 fac un comentariul enervant. Eu \u00eeti mai spun \u00eenc\u0103 o dat\u0103: \nortografia mea *nu* este un dizastru.\n\n\n\n\n\n\n-_-   ^_^ ", 
+            "author": "any vonab"
+        }, 
+        {
+            "date": "2015-02-24T21:18:18.982Z", 
+            "text": "I don't care what age you are ---\nYOU are the one who started with the\npoor sarcasm & twisted wit.", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-02-24T20:29:29.488Z", 
+            "text": "+jbyeats If you think my spelling is a disaster, bitch, you must haven't \ngone to *elementary* school. As for the day job, do you have any clue as to \nhow old I am?", 
+            "author": "any vonab"
+        }, 
+        {
+            "date": "2015-02-24T15:01:58.056Z", 
+            "text": "Don't give up the day job .\nYour level of wit rates =  ONE out of TEN .\n\nYou get the ONE for using Capital letters -- --- your spelling is a \ndisaster.\n\n\" mentally unable troll \"  ---- ????????", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-02-25T00:00:03.000Z", 
+            "text": "Dear Dr. Whosis\nWE want to thank you for your enormous contribution & for your work \nrelating to trolling on Youtube & to acknowledge your unique input into \nbecoming the first mentally disabled troll on Youtube. \nNow -- this won't hurt at all -- Dr. Whosis -- We just want to CHEMICALLY \nSPAY you.\nYou won't feel a thing.... PS Dr Turing is a lady.", 
+            "author": "any vonab"
+        }, 
+        {
+            "date": "2015-02-22T10:34:39.861Z", 
+            "text": "", 
+            "author": "Francis Maker"
+        }, 
+        {
+            "date": "2015-02-20T08:28:36.085Z", 
+            "text": "100% correct.\nNOT only was Turing their greatest scientific asset -- he was also their \ngreatest liability.\nThe Brits are ruthless dealing with THREATS -\naccurately perceived or not.\n( eg.--  Dr David Kelly  assassinated in 2003 )", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-02-20T03:02:21.470Z", 
+            "text": "I have to say this: homosexuality was only banned or atleast the main \nreason was because homosexuals are easily blackmailed.", 
+            "author": "B E A R"
+        }, 
+        {
+            "date": "2015-02-11T23:02:16.407Z", 
+            "text": "What is happening in Ukraine.\nIs that the country which is immediately adjacent to RUSSIA ?", 
+            "author": "jbyeats"
+        }, 
+        {
+            "date": "2015-02-11T20:59:23.261Z", 
+            "text": "+jbyeats hahaha English isn't my mother language yet I am not only decent \nat the language but I also write poetry in English \n\nIn any case has anyone seen what is happening in Ukraine?", 
+            "author": "Kent"
+        }, 
+        {
+            "date": "2015-01-14T13:09:26.961Z", 
+            "text": "Credits should go to the person who created that machine not only to the \none who broke the code...\ufeff", 
+            "author": "NaderR"
+        }, 
+        {
+            "date": "2015-04-24T22:26:12.361Z", 
+            "text": "+Gabzo Avro Are you speaking in code ? as I have no idea what you are \ntrying to say. Also any code can be broken but that does not matter in a \nwar as long as you get the message and act out the command before your \nenemy has caught on to what you are doing.", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2015-04-24T16:28:13.113Z", 
+            "text": "+Paul L well techncally all codes can eventually be cracked depending on \ntechnology and our understanding of math. That's one of the reasons why \nhashes have to be updated every once in a while because or else they'd be \ntoo easy to crack even with the added salts", 
+            "author": "Gabzo Avro"
+        }, 
+        {
+            "date": "2015-04-05T17:24:11.415Z", 
+            "text": "I'm sure no one is discrediting the inventor of the enigma machine, but \nit's much easier to create a problem than it is to solve one.", 
+            "author": "Harrison Knope"
+        }, 
+        {
+            "date": "2015-03-18T11:07:24.542Z", 
+            "text": "+Jason Nung It was cracked !! So it is a failure. Churchill said it \nshortened the war by a couple of years. The war lasted 5 years and we \ncracked every single machine so wtf are you talking about 29 years. \nRemember you believe he deserves credit. I repeat we broke every single \nenigma machine even Hitler's personal machine with 10 rotors.\nTwist the words all you like but Alan Turing was 6 in 1918 so I doubt he \nstarted work on it then. Unless you know some thing I don't.", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2015-03-18T10:44:13.676Z", 
+            "text": "It wasn't. It was created near the end of the First World War, and was \noriginally for commercial purposes. During WWII it was adapted for military \nuse, and extra rotors and a plug board was added to increase the number of \ncode combinations by several thousand times.\n\nIt took until just before Poland was occupied by Germany before Polish \ncryptographers were able to solve the 3-rotor version of the Enigma. But it \nwas not until the early 1940s for the 5-rotor version to be solved by \nTuring. 1941-1918= 29 years of it being the most perplexing code in the \nWestern World, the apex of science and technology at the time. I think \nthat's quite impressive. ", 
+            "author": "Jason Nung"
+        }, 
+        {
+            "date": "2015-03-18T10:31:03.355Z", 
+            "text": "+Jason Nung Lol. But why should some one be credited for making a  code \nmachine that was broken almost immediately. ", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2015-03-16T02:38:48.135Z", 
+            "text": "Credits would go to German engineer Arthur Scherbius", 
+            "author": "Jason Nung"
+        }, 
+        {
+            "date": "2015-03-14T00:20:09.332Z", 
+            "text": "+Vlad Kypyla Are you talking to me ?", 
+            "author": "Paul L"
+        }, 
+        {
+            "date": "2015-03-10T00:52:40.182Z", 
+            "text": "So...Alan Turing?", 
+            "author": "Vlad Kypyla"
+        }, 
+        {
+            "date": "2015-01-13T00:39:25.731Z", 
+            "text": "How very interesting, I don't think any machine can break my code : Id on \nthi nkan yon nec anb rea kemco de ! he he !\ufeff", 
+            "author": "samdomding"
+        }, 
+        {
+            "date": "2015-01-12T02:42:11.111Z", 
+            "text": "A M\u00e1quina ENIGMA descodificada pelo matem\u00e1tico e l\u00f3gico ALAN TURING (o \nfilme \"Jogo de Imita\u00e7\u00e3o\" trata deste assunto). CHECK IT oOOOUUUUUT!!!!\ufeff", 
+            "author": "Lurdes Queiroz"
+        }, 
+        {
+            "date": "2015-01-11T10:21:23.380Z", 
+            "text": "Pretty fascinating.  Check out the associated video about the Enigma \nmachine works.\ufeff", 
+            "author": "Joe Saunders"
+        }, 
+        {
+            "date": "2015-01-11T02:45:47.362Z", 
+            "text": "Such a coincidence that I find these two videos right after I get back from \nwatching The Imitation Game.\n\nWonderful movie, and a wonderful story. I highly recommend it.\ufeff", 
+            "author": "\u300cS\u300d"
+        }, 
+        {
+            "date": "2015-04-04T17:36:58.219Z", 
+            "text": "+\u300cS\u300d Coincidence, or Youtube spying on you? :)", 
+            "author": "Juha Siren"
+        }
+    ]
+}

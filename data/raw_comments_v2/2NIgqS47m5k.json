@@ -1,0 +1,1684 @@
+{
+    "publish_date": "2014-07-31T23:28:42.000Z", 
+    "video_length": "PT10M37S", 
+    "captions": [
+        {
+            "text": "Hi, I&#39;m John Green, this is Crash Course World History,", 
+            "dur": "2.9", 
+            "start": "0"
+        }, 
+        {
+            "text": "and today we&#39;re going to respond to your many requests and talk about a controversial subject:", 
+            "dur": "4.26", 
+            "start": "2.9"
+        }, 
+        {
+            "text": "War.", 
+            "dur": "1.2", 
+            "start": "7.16"
+        }, 
+        {
+            "text": "So here at Crash Course we&#39;re really not that into the history of war,", 
+            "dur": "2.8", 
+            "start": "8.36"
+        }, 
+        {
+            "text": "partly because we feel it&#39;s been discussed well elsewhere", 
+            "dur": "2.7", 
+            "start": "11.16"
+        }, 
+        {
+            "text": "and partly because we haven&#39;t really figured out a way to tackle it.", 
+            "dur": "2.48", 
+            "start": "13.86"
+        }, 
+        {
+            "text": "Mr. Green! Mr. Green! Nonononono, that&#39;s all history is:", 
+            "dur": "2.84", 
+            "start": "16.34"
+        }, 
+        {
+            "text": "It&#39;s a series of wars.", 
+            "dur": "1.3", 
+            "start": "19.18"
+        }, 
+        {
+            "text": "Well, me-from-the-past, I can certainly see why you would think that,", 
+            "dur": "2.88", 
+            "start": "20.48"
+        }, 
+        {
+            "text": "because that&#39;s how many history classes are organized.", 
+            "dur": "2.22", 
+            "start": "23.36"
+        }, 
+        {
+            "text": "But, in fact, I don&#39;t think that history is primarily about war.", 
+            "dur": "3.56", 
+            "start": "25.58"
+        }, 
+        {
+            "text": "But, I mean, humans find all kinds of ways to die,", 
+            "dur": "2.34", 
+            "start": "29.14"
+        }, 
+        {
+            "text": "like, you could teach a whole Crash Course World History on smallpox.", 
+            "dur": "2.86", 
+            "start": "31.48"
+        }, 
+        {
+            "text": "In fact, we kind of did that last week.", 
+            "dur": "1.54", 
+            "start": "34.34"
+        }, 
+        {
+            "text": "Ultimately, I find cooperation and trade more interesting", 
+            "dur": "3.42", 
+            "start": "35.88"
+        }, 
+        {
+            "text": "than the violent and destructive aspects of world history", 
+            "dur": "2.42", 
+            "start": "39.3"
+        }, 
+        {
+            "text": "because I think they probably, ultimately, matter more.", 
+            "dur": "2.66", 
+            "start": "41.72"
+        }, 
+        {
+            "text": "But I do have to admit that war is a pretty big deal in world history.", 
+            "dur": "4.6", 
+            "start": "44.38"
+        }, 
+        {
+            "text": "So we better spend some time talking about it, at least in the abstract.", 
+            "dur": "3.68", 
+            "start": "48.98"
+        }, 
+        {
+            "text": "[Intro]", 
+            "dur": "6.98", 
+            "start": "52.66"
+        }, 
+        {
+            "text": " So today we&#39;re gonna focus on the question of why people fight.", 
+            "dur": "3.58", 
+            "start": "60.86"
+        }, 
+        {
+            "text": "And, more specifically, why human beings go to war.", 
+            "dur": "2.72", 
+            "start": "64.44"
+        }, 
+        {
+            "text": "Like, to put it in another way, we&#39;re going to look at", 
+            "dur": "1.9", 
+            "start": "67.16"
+        }, 
+        {
+            "text": "whether making war is part of &quot;human nature&quot;.", 
+            "dur": "3.44", 
+            "start": "69.06"
+        }, 
+        {
+            "text": "This gets into some nit-picky &quot;How many angels can you fit on the head of a pin?&quot; questions about nature,", 
+            "dur": "4.32", 
+            "start": "72.5"
+        }, 
+        {
+            "text": "but we&#39;re just gonna put those aside for now.", 
+            "dur": "1.68", 
+            "start": "76.82"
+        }, 
+        {
+            "text": "So are human being hard-wired to fight and kill each other?", 
+            "dur": "3.28", 
+            "start": "78.5"
+        }, 
+        {
+            "text": "Well that&#39;s a question that philosophers have been asking for a long time.", 
+            "dur": "3.52", 
+            "start": "81.78"
+        }, 
+        {
+            "text": "Like, Nietzsche summed it up this way:", 
+            "dur": "1.94", 
+            "start": "85.3"
+        }, 
+        {
+            "text": "&quot;I am by nature war-like. To attack is among my instincts.&quot;", 
+            "dur": "4.54", 
+            "start": "87.24"
+        }, 
+        {
+            "text": "But he was Nietzsche.  He had a number of instincts that I&#39;m pretty sure were not universal.", 
+            "dur": "3.78", 
+            "start": "91.78"
+        }, 
+        {
+            "text": "Anyway, that attitude might explain why Nietzsche is", 
+            "dur": "2.12", 
+            "start": "95.56"
+        }, 
+        {
+            "text": "so popular among the group most likely to go to war: Young men.", 
+            "dur": "3.7", 
+            "start": "97.68"
+        }, 
+        {
+            "text": "Now among slightly less scary philosophers,", 
+            "dur": "2.26", 
+            "start": "101.38"
+        }, 
+        {
+            "text": "the question of humans&#39; war-like nature is often described as", 
+            "dur": "3.08", 
+            "start": "103.64"
+        }, 
+        {
+            "text": "a debate between Hobbes, who saw humans as war-like and violent,", 
+            "dur": "3.9", 
+            "start": "106.72"
+        }, 
+        {
+            "text": "and Rousseau, who thought that humanity was naturally peaceful until civilization came along.", 
+            "dur": "4.78", 
+            "start": "110.62"
+        }, 
+        {
+            "text": "And we&#39;ve heard echoes of this debate throughout our study of world history.", 
+            "dur": "2.52", 
+            "start": "115.4"
+        }, 
+        {
+            "text": "Like, were we better off as foragers, when we had way more time for scoodlypooping?", 
+            "dur": "4", 
+            "start": "117.92"
+        }, 
+        {
+            "text": "Stupid civilization, always ruining everything. Let&#39;s go to the thought bubble.", 
+            "dur": "3.5", 
+            "start": "121.92"
+        }, 
+        {
+            "text": "So was Hobbes right that life in the so-called &quot;state of nature&quot; was nasty, brutish and short,", 
+            "dur": "4.22", 
+            "start": "125.42"
+        }, 
+        {
+            "text": "or was Rousseau right that it was amazing?", 
+            "dur": "2.6", 
+            "start": "129.64"
+        }, 
+        {
+            "text": "Well, without a time machine which would settle a lot of vexing historical questions", 
+            "dur": "3.28", 
+            "start": "132.24"
+        }, 
+        {
+            "text": "and would also allow me to go back and fix my terrible, terrible mistakes at the eighth grade cotillion,", 
+            "dur": "4.18", 
+            "start": "135.52"
+        }, 
+        {
+            "text": "our best guide to what people were like in the &quot;state of nature&quot; comes from anthropology.", 
+            "dur": "4.34", 
+            "start": "139.7"
+        }, 
+        {
+            "text": "Making guesses about the very distant past based on observations of modern hunter-gatherers", 
+            "dur": "4.82", 
+            "start": "144.04"
+        }, 
+        {
+            "text": "is extremely problematic, but it&#39;s the best we have to go on.", 
+            "dur": "3.22", 
+            "start": "148.86"
+        }, 
+        {
+            "text": "Well, that and archaeology.", 
+            "dur": "1.36", 
+            "start": "152.08"
+        }, 
+        {
+            "text": "So, what do anthropologists tell us?", 
+            "dur": "1.34", 
+            "start": "153.44"
+        }, 
+        {
+            "text": "Well, it doesn&#39;t look so good for Rousseau.", 
+            "dur": "2", 
+            "start": "154.78"
+        }, 
+        {
+            "text": "Many anthropologists suggest that in pre-civilization social orders, things were pretty violent.", 
+            "dur": "5.36", 
+            "start": "156.78"
+        }, 
+        {
+            "text": "In Australia, for example, killing and fighting was among the main causes of mortality,", 
+            "dur": "4.4", 
+            "start": "162.14"
+        }, 
+        {
+            "text": "and archaeology has revealed evidence of warfare going back thousands of years.", 
+            "dur": "4.62", 
+            "start": "166.54"
+        }, 
+        {
+            "text": "Now, some of these anthropological conclusions are controversial,", 
+            "dur": "2.46", 
+            "start": "171.16"
+        }, 
+        {
+            "text": "but when combined with cave paintings and fossils of humans", 
+            "dur": "2.9", 
+            "start": "173.62"
+        }, 
+        {
+            "text": "who pretty obviously were killed by other humans,", 
+            "dur": "2.54", 
+            "start": "176.52"
+        }, 
+        {
+            "text": "it seems clear that we&#39;ve been killing each other for what historians like to call &quot;a long-ass-time&quot;.", 
+            "dur": "5.32", 
+            "start": "179.06"
+        }, 
+        {
+            "text": "So Hobbes seems to be right that life in the &quot;state of nature&quot; was probably violent and brief.", 
+            "dur": "4.24", 
+            "start": "184.38"
+        }, 
+        {
+            "text": "But was it war?", 
+            "dur": "1.42", 
+            "start": "188.62"
+        }, 
+        {
+            "text": "Again, anthropologists can give us some guidance here.", 
+            "dur": "2.58", 
+            "start": "190.04"
+        }, 
+        {
+            "text": "Some studies have reported relatively large-scale group confrontations similar to battles,", 
+            "dur": "4.3", 
+            "start": "192.62"
+        }, 
+        {
+            "text": "but these tend to be largely symbolic, and they often don&#39;t result in much killing.", 
+            "dur": "4.04", 
+            "start": "196.92"
+        }, 
+        {
+            "text": "Most of the actual violence that hunter-gatherers commit against each other takes place during raids,", 
+            "dur": "5.1", 
+            "start": "200.96"
+        }, 
+        {
+            "text": "in which one group sneaks up upon another and attacks.", 
+            "dur": "2.9", 
+            "start": "206.06"
+        }, 
+        {
+            "text": "So in the end there may be like a very violent middle path", 
+            "dur": "2.9", 
+            "start": "208.96"
+        }, 
+        {
+            "text": "between the individual killings and like, Cain v. Abel,", 
+            "dur": "3.22", 
+            "start": "211.86"
+        }, 
+        {
+            "text": "and the modern wars that we see today.", 
+            "dur": "2", 
+            "start": "215.08"
+        }, 
+        {
+            "text": "But why are we seemingly so hard-wired toward violence?", 
+            "dur": "2.44", 
+            "start": "217.08"
+        }, 
+        {
+            "text": "Well, it might be evolution.", 
+            "dur": "1.66", 
+            "start": "219.52"
+        }, 
+        {
+            "text": "Thanks, thought bubble.", 
+            "dur": "0.64", 
+            "start": "221.18"
+        }, 
+        {
+            "text": "So, I wanna be really clear about something.", 
+            "dur": "2.14", 
+            "start": "221.82"
+        }, 
+        {
+            "text": "We may have aggression &quot;in our genes&quot;, but you can&#39;t kill people!", 
+            "dur": "3.66", 
+            "start": "223.96"
+        }, 
+        {
+            "text": "And also, you don&#39;t have to.", 
+            "dur": "2", 
+            "start": "227.62"
+        }, 
+        {
+            "text": "Many of us - most of us, in fact - make it all the way through life without killing a single person.", 
+            "dur": "5.4", 
+            "start": "229.62"
+        }, 
+        {
+            "text": "So I think it&#39;s going too far to say that our genes have, like, made us into stone-cold killers,", 
+            "dur": "5.06", 
+            "start": "235.02"
+        }, 
+        {
+            "text": "but it is possible that aggression is an innate trait in humans.", 
+            "dur": "4.1", 
+            "start": "240.08"
+        }, 
+        {
+            "text": "And under the right conditions, maybe it finds its expression in violence and war.", 
+            "dur": "4.28", 
+            "start": "244.18"
+        }, 
+        {
+            "text": "Now, we should all be very skeptical about", 
+            "dur": "2.26", 
+            "start": "248.46"
+        }, 
+        {
+            "text": "applying evolutionary biology to cultural characteristics like warlike behavior,", 
+            "dur": "3.62", 
+            "start": "250.72"
+        }, 
+        {
+            "text": "because Darwin&#39;s ideas have been misused to explain all sorts of unpleasant things.", 
+            "dur": "4.6", 
+            "start": "254.34"
+        }, 
+        {
+            "text": "Especially in nineteenth-century concepts about race.", 
+            "dur": "3.02", 
+            "start": "258.94"
+        }, 
+        {
+            "text": "You know, if you&#39;re in a structurally privileged position in the social order, it&#39;s easy enough to be like, ", 
+            "dur": "4.36", 
+            "start": "261.96"
+        }, 
+        {
+            "text": "&quot;Huh, I wonder how I got here.", 
+            "dur": "1.86", 
+            "start": "266.32"
+        }, 
+        {
+            "text": "Probably natural selection.&quot;", 
+            "dur": "1.46", 
+            "start": "268.18"
+        }, 
+        {
+            "text": "When in fact, you know, slavery was not a function of biology;", 
+            "dur": "3.38", 
+            "start": "269.64"
+        }, 
+        {
+            "text": "it was a function of oppression.", 
+            "dur": "1.52", 
+            "start": "273.02"
+        }, 
+        {
+            "text": "And another reason we should be aware", 
+            "dur": "1.26", 
+            "start": "274.54"
+        }, 
+        {
+            "text": "is that we often refer to cultures &quot;evolving&quot; very quickly", 
+            "dur": "3.48", 
+            "start": "275.8"
+        }, 
+        {
+            "text": "like often in a generation,", 
+            "dur": "1.82", 
+            "start": "279.28"
+        }, 
+        {
+            "text": "but biological evolution takes a lot longer.", 
+            "dur": "3.16", 
+            "start": "281.1"
+        }, 
+        {
+            "text": "That said, there are a few ways that evolutionary imperatives could contribute to a warlike human nature.", 
+            "dur": "5.24", 
+            "start": "284.26"
+        }, 
+        {
+            "text": "We&#39;ll start with the idea that it is a biological imperative to pass on genetic traits to successive generations.", 
+            "dur": "6.6", 
+            "start": "289.5"
+        }, 
+        {
+            "text": "Because our close relatives and kin contain the most genetic material in common,", 
+            "dur": "4.3", 
+            "start": "296.1"
+        }, 
+        {
+            "text": "we naturally want to protect them and ensure the continued survival of our genes.", 
+            "dur": "4.52", 
+            "start": "300.4"
+        }, 
+        {
+            "text": "So we might be expected to fight in order to protect members of our kin group.", 
+            "dur": "4.42", 
+            "start": "304.92"
+        }, 
+        {
+            "text": "But then again, trying to protect your family from harm is somewhat different from killing other people&#39;s families.", 
+            "dur": "5.48", 
+            "start": "309.34"
+        }, 
+        {
+            "text": "Well, here&#39;s where it&#39;s helpful to remember that for the vast majority of human history,", 
+            "dur": "4.12", 
+            "start": "314.82"
+        }, 
+        {
+            "text": "war consisted of raiding.", 
+            "dur": "2", 
+            "start": "318.94"
+        }, 
+        {
+            "text": "It was about taking stuff from other people&#39;s kin group so that your kin group could have that stuff.", 
+            "dur": "5.38", 
+            "start": "320.94"
+        }, 
+        {
+            "text": "For 99% of human history, that&#39;s how we fought.", 
+            "dur": "3.82", 
+            "start": "326.32"
+        }, 
+        {
+            "text": "Not as organized states warring with each other.", 
+            "dur": "2.78", 
+            "start": "330.14"
+        }, 
+        {
+            "text": "So let&#39;s stop even thinking about, like, groups of humans or even individual humans", 
+            "dur": "3.86", 
+            "start": "332.92"
+        }, 
+        {
+            "text": "and think for a second about genes.", 
+            "dur": "2.16", 
+            "start": "336.78"
+        }, 
+        {
+            "text": "Insofar as genes want anything, they want to go on.", 
+            "dur": "3.38", 
+            "start": "338.94"
+        }, 
+        {
+            "text": "Life wishes to continue.", 
+            "dur": "1.72", 
+            "start": "342.32"
+        }, 
+        {
+            "text": "And for those human genes to go on, they needed humans to go on,", 
+            "dur": "3.14", 
+            "start": "344.04"
+        }, 
+        {
+            "text": "and for that, we need two resources:", 
+            "dur": "2.36", 
+            "start": "347.18"
+        }, 
+        {
+            "text": "Food and sex.", 
+            "dur": "1.44", 
+            "start": "349.54"
+        }, 
+        {
+            "text": "Both of which could be quite scarce", 
+            "dur": "1.82", 
+            "start": "350.98"
+        }, 
+        {
+            "text": "in the many millennia before we settled down into agricultural-based societies.", 
+            "dur": "3.74", 
+            "start": "352.8"
+        }, 
+        {
+            "text": "It occurs to me they are also quite scarce in most American high schools", 
+            "dur": "3.36", 
+            "start": "356.54"
+        }, 
+        {
+            "text": "unless you consider cheetos food.", 
+            "dur": "1.74", 
+            "start": "359.9"
+        }, 
+        {
+            "text": "So you can easily see how the competition for these two resources could become violent.", 
+            "dur": "4.16", 
+            "start": "361.64"
+        }, 
+        {
+            "text": "It might provide an evolutionary explanation for war.", 
+            "dur": "2.42", 
+            "start": "365.8"
+        }, 
+        {
+            "text": "Like, skill in fighting meant more access to food in the form of better hunting grounds.", 
+            "dur": "4.36", 
+            "start": "368.22"
+        }, 
+        {
+            "text": "It also meant more food, because you were better at fighting the food, too.", 
+            "dur": "3.78", 
+            "start": "372.58"
+        }, 
+        {
+            "text": "And there&#39;s a more horrifying aspect to this as well,", 
+            "dur": "2.42", 
+            "start": "376.36"
+        }, 
+        {
+            "text": "which is that in many of these raids, women were the principal goal.", 
+            "dur": "3.58", 
+            "start": "378.78"
+        }, 
+        {
+            "text": "They were to be acquired.", 
+            "dur": "1.82", 
+            "start": "382.36"
+        }, 
+        {
+            "text": "Also, as we know from the Odyssey, fighting has a tendency to breed more fighting.", 
+            "dur": "4.76", 
+            "start": "384.18"
+        }, 
+        {
+            "text": "Like, you kill my friend, it makes it more likely that I&#39;m going to kill you.", 
+            "dur": "4.22", 
+            "start": "388.94"
+        }, 
+        {
+            "text": "I&#39;m not going to kill you, but seriously, don&#39;t kill any of my friends.", 
+            "dur": "2.22", 
+            "start": "393.16"
+        }, 
+        {
+            "text": "We see a bit of this phenomenon in a description of", 
+            "dur": "1.92", 
+            "start": "395.38"
+        }, 
+        {
+            "text": "intertribal warfare among North American Plains Indians.", 
+            "dur": "2.92", 
+            "start": "397.3"
+        }, 
+        {
+            "text": "&quot;In an atmosphere charged with intertribal distrust,", 
+            "dur": "2.78", 
+            "start": "400.22"
+        }, 
+        {
+            "text": "even an imaged slight by an outsider could lead to retaliation against other members of his tribe...", 
+            "dur": "5.64", 
+            "start": "403"
+        }, 
+        {
+            "text": "It was much easier to start a war than to end one.&quot;", 
+            "dur": "3.5", 
+            "start": "408.64"
+        }, 
+        {
+            "text": "And as you may have noticed, that&#39;s still true today.", 
+            "dur": "2.46", 
+            "start": "412.14"
+        }, 
+        {
+            "text": "But okay, if war was a response to scarce resources, why do we have wars now?", 
+            "dur": "4.68", 
+            "start": "414.6"
+        }, 
+        {
+            "text": "Resources are relatively easy to acquire.", 
+            "dur": "2.48", 
+            "start": "419.28"
+        }, 
+        {
+            "text": "Well, that&#39;s a complicated question,", 
+            "dur": "1.4", 
+            "start": "421.76"
+        }, 
+        {
+            "text": "and we&#39;re going to talk next week about how war may actually have contributed to civilization", 
+            "dur": "4.16", 
+            "start": "423.16"
+        }, 
+        {
+            "text": "and proven socially useful by helping us create kingdoms and states.", 
+            "dur": "3.84", 
+            "start": "427.32"
+        }, 
+        {
+            "text": "But another way to examine the question of why we fight", 
+            "dur": "3.12", 
+            "start": "431.16"
+        }, 
+        {
+            "text": "is to examine what soldiers have said about why they fight.", 
+            "dur": "3.12", 
+            "start": "434.28"
+        }, 
+        {
+            "text": "So here&#39;s one such voice, although I wanna be clear that there are millions of them.", 
+            "dur": "3.78", 
+            "start": "437.4"
+        }, 
+        {
+            "text": "Karl Marlantes was a Marine lieutenant in Vietnam who wrote about his experience", 
+            "dur": "3.98", 
+            "start": "441.18"
+        }, 
+        {
+            "text": "in the novel &quot;Matterhorn&quot; and a memoir called &quot;What It Is Like to Go to War&quot;.", 
+            "dur": "3.46", 
+            "start": "445.16"
+        }, 
+        {
+            "text": "That book includes a number of uncomfortable revelations", 
+            "dur": "3.5", 
+            "start": "448.62"
+        }, 
+        {
+            "text": "about the way soldiers often think and feel about war.", 
+            "dur": "3.74", 
+            "start": "452.12"
+        }, 
+        {
+            "text": "For one thing, Marlantes tells us that soldiers achieve a sense of transcendence through fighting,", 
+            "dur": "4.56", 
+            "start": "455.86"
+        }, 
+        {
+            "text": "by becoming part of something bigger than themselves.", 
+            "dur": "2.44", 
+            "start": "460.42"
+        }, 
+        {
+            "text": "Also, he says:", 
+            "dur": "1.22", 
+            "start": "462.86"
+        }, 
+        {
+            "text": "&quot;There is a deep savage joy in destruction,", 
+            "dur": "2.94", 
+            "start": "464.08"
+        }, 
+        {
+            "text": "a joy that goes beyond ego enhancement.&quot;", 
+            "dur": "3.02", 
+            "start": "467.02"
+        }, 
+        {
+            "text": "Now, today&#39;s soldiers rarely fight for food or mates, but they do fight for each other.", 
+            "dur": "4.5", 
+            "start": "470.04"
+        }, 
+        {
+            "text": "And not wanting to let your comrades down, feeling loyal to the group,", 
+            "dur": "3.68", 
+            "start": "474.54"
+        }, 
+        {
+            "text": "those are powerful motivators.", 
+            "dur": "1.42", 
+            "start": "478.22"
+        }, 
+        {
+            "text": "More viscerally, fighting is exciting to humans.", 
+            "dur": "2.9", 
+            "start": "479.64"
+        }, 
+        {
+            "text": "It gets the adrenaline pumping.", 
+            "dur": "1.36", 
+            "start": "482.54"
+        }, 
+        {
+            "text": "According to Marlantes, &quot;Combat is the crack cocaine of all excitement highs.&quot;", 
+            "dur": "4.6", 
+            "start": "483.9"
+        }, 
+        {
+            "text": "Neither of those things sound at all fun to me, but I guess we&#39;re all wired differently.", 
+            "dur": "4.16", 
+            "start": "488.5"
+        }, 
+        {
+            "text": "So what do we do with the fact that for many of us, there is joy and power in killing?", 
+            "dur": "4.4", 
+            "start": "492.66"
+        }, 
+        {
+            "text": "How do we respond when a former pilot tells us, as he whispered to Marlantes,", 
+            "dur": "4.42", 
+            "start": "497.06"
+        }, 
+        {
+            "text": "that he enjoyed napalming the enemy, saying: &quot;I loved it. I lit up the entire valley.&quot;", 
+            "dur": "5.14", 
+            "start": "501.48"
+        }, 
+        {
+            "text": "How do we respond to Marlantes&#39;s revelation that during Vietnam, he", 
+            "dur": "3.7", 
+            "start": "506.62"
+        }, 
+        {
+            "text": "&quot;ran toward the fighting with the same excitement, trembling and thrill as a lover rushing to the beloved&quot;?", 
+            "dur": "6.06", 
+            "start": "510.32"
+        }, 
+        {
+            "text": "Well, I think Marlantes reminds us that despite our biology,", 
+            "dur": "3.28", 
+            "start": "516.38"
+        }, 
+        {
+            "text": "soldiers, just like the rest of us, have free will.", 
+            "dur": "3.22", 
+            "start": "519.66"
+        }, 
+        {
+            "text": "They make choices.", 
+            "dur": "1.42", 
+            "start": "522.88"
+        }, 
+        {
+            "text": "Marlantes also notes: &quot;Choosing sides is the fundamental first choice that a warrior makes...", 
+            "dur": "6.1", 
+            "start": "524.3"
+        }, 
+        {
+            "text": "The second fundamental choice of the warrior is to be willing to use violence to protect someone", 
+            "dur": "5.02", 
+            "start": "530.4"
+        }, 
+        {
+            "text": "against intended or implied violence.&quot;", 
+            "dur": "2.18", 
+            "start": "535.42"
+        }, 
+        {
+            "text": "Now, for many humans over millennia, that choice hasn&#39;t been much of a choice.", 
+            "dur": "3.62", 
+            "start": "537.6"
+        }, 
+        {
+            "text": "You fight for your kin group.", 
+            "dur": "1.44", 
+            "start": "541.22"
+        }, 
+        {
+            "text": "But in at least many parts of the world today, that choice is a choice.", 
+            "dur": "3.88", 
+            "start": "542.66"
+        }, 
+        {
+            "text": "Now, it may be that these uncomfortable revelations help to explain", 
+            "dur": "3.22", 
+            "start": "546.54"
+        }, 
+        {
+            "text": "why we might want to search for a biological or evolutionary explanation for why humans go to war.", 
+            "dur": "5.94", 
+            "start": "549.76"
+        }, 
+        {
+            "text": "Maybe that&#39;s preferable to the idea that humans just take pleasure in the activity of fighting", 
+            "dur": "5.4", 
+            "start": "555.7"
+        }, 
+        {
+            "text": "and pursue it merely for its own sake.", 
+            "dur": "2.16", 
+            "start": "561.1"
+        }, 
+        {
+            "text": "But just as there&#39;s a danger in celebrating warfare and its transcendence,", 
+            "dur": "3.96", 
+            "start": "563.26"
+        }, 
+        {
+            "text": "we need to be careful of explaining war merely as an outgrowth of evolutionary necessities", 
+            "dur": "4.72", 
+            "start": "567.22"
+        }, 
+        {
+            "text": "because such explanations can lead to a fatalistic conclusion that war is inevitable.", 
+            "dur": "4.66", 
+            "start": "571.94"
+        }, 
+        {
+            "text": "But it&#39;s not. The cycle of violence that you see in the Odyssey", 
+            "dur": "3.42", 
+            "start": "576.6"
+        }, 
+        {
+            "text": "gets broken all the time in human history.", 
+            "dur": "2.46", 
+            "start": "580.02"
+        }, 
+        {
+            "text": "And yes, it is much harder to end a war than it is to start one,", 
+            "dur": "3.28", 
+            "start": "582.48"
+        }, 
+        {
+            "text": "but it is not impossible.", 
+            "dur": "1.76", 
+            "start": "585.76"
+        }, 
+        {
+            "text": "When we get carried away by biological explanations,", 
+            "dur": "2.36", 
+            "start": "587.52"
+        }, 
+        {
+            "text": "we forget that while humans may not have evolved all that much in the past one thousand years,", 
+            "dur": "4.24", 
+            "start": "589.88"
+        }, 
+        {
+            "text": "our institutions have.", 
+            "dur": "1.48", 
+            "start": "594.12"
+        }, 
+        {
+            "text": "And that&#39;s happened because of human choices", 
+            "dur": "2.48", 
+            "start": "595.6"
+        }, 
+        {
+            "text": "that go far beyond the desire for food or the need to reproduce.", 
+            "dur": "4.5", 
+            "start": "598.08"
+        }, 
+        {
+            "text": "Thanks for watching. I&#39;ll see you next week.", 
+            "dur": "2.08", 
+            "start": "602.58"
+        }, 
+        {
+            "text": "Crash Course is produced here in the Chad and Stacey Emigholz Studio in Indianapolis", 
+            "dur": "4.92", 
+            "start": "604.66"
+        }, 
+        {
+            "text": "and is made possible with the help of all of these nice people,", 
+            "dur": "2.98", 
+            "start": "609.58"
+        }, 
+        {
+            "text": "and with your help through Subbable.com", 
+            "dur": "2.44", 
+            "start": "612.56"
+        }, 
+        {
+            "text": "Subbable is a voluntary subscription service that allows you to support Crash Course directly,", 
+            "dur": "3.72", 
+            "start": "615"
+        }, 
+        {
+            "text": "so we can keep making these educational videos free, for everyone, forever.", 
+            "dur": "4.52", 
+            "start": "618.72"
+        }, 
+        {
+            "text": "Thanks to all of our Subbable subscribers, thanks to you for watching,", 
+            "dur": "2.7", 
+            "start": "623.24"
+        }, 
+        {
+            "text": "and as we say in my hometown: Don&#39;t forget to be awesome.", 
+            "dur": "2.94", 
+            "start": "625.94"
+        }
+    ], 
+    "title": "War & Human Nature: Crash Course World History 204", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0k3p2y_", 
+        "/m/0285h6", 
+        "/m/03g3w"
+    ], 
+    "number_views": 788929, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T21:33:13.970Z", 
+            "text": "Additionally, if young men \"are the most likely to go to war\" and they \n\"take pleasure in the activity of fighting\", why do they have to be \npropagandized and conscripted in order to get them to go?\ufeff", 
+            "author": "Joseph Herrle"
+        }, 
+        {
+            "date": "2015-05-10T21:29:53.703Z", 
+            "text": "The jump to suggesting that ancient \"war\" was about scarce resources \nactually flies in the face of anthropological evidence. Primitive people \ntake very few resources during a raid (usually only luxury goods). The \nprimary goal seems to be killing, per se. The film Dead Birds has a very \ninteresting presentation of this.\ufeff", 
+            "author": "Joseph Herrle"
+        }, 
+        {
+            "date": "2015-05-09T14:02:38.980Z", 
+            "text": "Genes don't compete organism do, Dawkins sold too many souls...haha.\ufeff", 
+            "author": "Tyler Daigle"
+        }, 
+        {
+            "date": "2015-05-08T22:31:37.185Z", 
+            "text": "Wooaaah sex isn't scarce with me hahah get it no ok\ufeff", 
+            "author": "TimelordDagas"
+        }, 
+        {
+            "date": "2015-05-05T22:49:34.537Z", 
+            "text": "So the question isn't why we fight. It's what's worth fighting for...\ufeff", 
+            "author": "ItsMudshrk"
+        }, 
+        {
+            "date": "2015-05-05T22:48:58.915Z", 
+            "text": "So the question isn't why we fight. It's what's worth fighting for.\ufeff", 
+            "author": "ItsMudshrk"
+        }, 
+        {
+            "date": "2015-05-05T13:03:17.157Z", 
+            "text": "if you say that war can bring good feeling to men, then what about people \ngetting traumatized (PTSD) after going to war? is it really exciting to go \nkilling people in war?\ufeff", 
+            "author": "Gunadi Wibowo"
+        }, 
+        {
+            "date": "2015-05-04T02:30:01.721Z", 
+            "text": "Awesome\ufeff", 
+            "author": "Amani Nelson"
+        }, 
+        {
+            "date": "2015-04-29T21:09:03.740Z", 
+            "text": "Brilliant crash course.\ufeff", 
+            "author": "Stakhanovites"
+        }, 
+        {
+            "date": "2015-04-24T07:13:21.519Z", 
+            "text": "Chimps wage wars, and they are our closest relatives. So i think yes, we \nare hardwired to do killy stuff and should account for this hardwiring.\ufeff", 
+            "author": "Self-replicating whatnot"
+        }, 
+        {
+            "date": "2015-05-09T08:58:02.670Z", 
+            "text": "+Catbug de Derp\nAre you trying to say we have not descended from apes? That would be silly. \nBy any metric, our last common ancestor with modern apes was itself an ape. \nDitto for our last common ancestor with monkeys - it was a monkey.", 
+            "author": "Self-replicating whatnot"
+        }, 
+        {
+            "date": "2015-05-09T02:24:17.749Z", 
+            "text": "+Self-replicating whatnot I'll give you the benefit of doubt, but I \nexplicitly said that I didn't think that you were implying we descended \nfrom apes... just a bit of something I wanted to write. Also, I guess it \nwasn't very clear, but when I wrote \"gorillas\" I meant it as an example of \nthe ape family :/\nSo sorry if I made you misunderstand something, heh. Didn't mean it.", 
+            "author": "Catbug de Derp"
+        }, 
+        {
+            "date": "2015-05-08T08:06:48.868Z", 
+            "text": "+Catbug de Derp\nI know we are not descended from chimps. No more than they are descended \nfrom us. As far as i can tell our common ancestor with them was in many \nways more human-like than modern chimp, and after the split each line \ncontinued in a different direction.\nAlso, \"apes or gorillas\" is a silly wording. Gorillas are apes.", 
+            "author": "Self-replicating whatnot"
+        }, 
+        {
+            "date": "2015-05-08T04:43:53.723Z", 
+            "text": "Not necessarily saying that that's what you're implying, but I hate how \nsome people think that humans descended from apes... or gorillas. We \ndidn't; they are simply our very close relatives, or on a very close branch \nto us on the \"tree of life\". Although the very concept of the tree of life \nis super interesting... I could go on for ages.", 
+            "author": "Catbug de Derp"
+        }, 
+        {
+            "date": "2015-04-17T18:25:44.368Z", 
+            "text": "DUDE... bravo! I've just stumbled across this youtube channel and I gained \nsome great insights from it and, without a doubt, will continue to do so \nfor many people. thank you and your crew so much. keep doing what youre \ndoing!\ufeff", 
+            "author": "Lokal Syn"
+        }, 
+        {
+            "date": "2015-04-17T11:25:37.006Z", 
+            "text": "War, war never changes.\ufeff", 
+            "author": "Yvonne K (Yvonneka)"
+        }, 
+        {
+            "date": "2015-04-17T04:39:50.152Z", 
+            "text": "I'm having a hard time grasping the concept that our biology plays such a \nhuge factor in our subconscious at the species level. Is there a body of \nevidence that suggests that my decisions are based on some altruistic \nmeta-narrative of \"furthering my species\" or is that all speculation? I've \nheard the argument made time and time again, yet it is counter-intuitive to \nwhat I think is the norm: that humans act in such a way to benefit \nthemselves and create the most positive feelings within themselves. In \nshort, my choices aren't at all with the goal to biologically make sure my \nrace doesn't die out, but rather to make myself feel good in the moment or \nthroughout my lifespan.\ufeff", 
+            "author": "Jake Everts"
+        }, 
+        {
+            "date": "2015-04-17T03:05:44.324Z", 
+            "text": "I don't like the \"in our nature\" term, what the hell does that even mean? \nThere is a lot of war going on sure, so that means it's in our nature to \nmake war? Well, there is a lot of peace going on too, so that means it's in \nour nature to make peace? That's contradictory!\nAlso, why is it that it's almost always used as an excuse, usually by \npeople who are pro a certain war.\nWhen did you last hear \"it's human nature to love and want to be loved\"? \nEven though that's far more true than wanting war.\ufeff", 
+            "author": "Salty Admiral"
+        }, 
+        {
+            "date": "2015-04-16T16:02:18.770Z", 
+            "text": "War! What is it good for?\ufeff", 
+            "author": "Maya Rosales"
+        }, 
+        {
+            "date": "2015-04-15T00:41:18.440Z", 
+            "text": "I've been looking for a documentary about war in general or at least the \nhistory of war.\n\nI've found nothing even CLOSE to what I'm looking for.\n\nI've always been interested with the idea of war. Cultures, why we fight, \nwhat are the good things to come from war? why do we fight wars? How long \nhave we fought war? These are just a few of the things I want to learn \nabout the human concept of *war.*\ufeff", 
+            "author": "MartianManFromMars"
+        }, 
+        {
+            "date": "2015-04-13T23:21:30.337Z", 
+            "text": "Liked for \"Long-Ass Time\"\ufeff", 
+            "author": "Tharsis Rise"
+        }, 
+        {
+            "date": "2015-04-11T16:03:32.121Z", 
+            "text": "Doesn't it make sense that when groups of people were competing for \nresources things got violent? And now, I'd guess that politics and the wide \nrange of religions we have today play a role in wars.\n\nViolence used to be necessary to survive, but now it's differing ideals \nthat cause unnecessary violence. \ufeff", 
+            "author": "gingergamergirl98"
+        }, 
+        {
+            "date": "2015-04-10T01:31:15.968Z", 
+            "text": "john how is you from the past wearing a 2014 world cup shirt? plot hole \nconfirmed??\ufeff", 
+            "author": "liam smalley"
+        }, 
+        {
+            "date": "2015-04-09T16:13:09.096Z", 
+            "text": "As great enthusiast of memetic theory - ask yourself: which idea will \nprevail in closed teritory \"be happy\" or \"rape everyone's daughter and kill \neveryone who is not from your tribe\" ? What pushes the first one to \nproliferation?\ufeff", 
+            "author": "Marek Psota"
+        }, 
+        {
+            "date": "2015-04-09T05:22:42.309Z", 
+            "text": "Humans are predators, also social beings plus intelligent.  Those traits \nalone make mankind potentially dangerous.  But you can't discount thousands \nof years of evolution..  Not that there is a \"kill\" gene but how people \nrespond to a given situation is hardwired in humans.. \n\nI played football and gone off to war.  Both are exciting and emotionally \ncharged activities--heightened levels of aggression, the collective bond of \nbeing part of a group striving toward a common objective and the over all \n\"thrill\" of both activities are as much a part of our biology as well as \nour phycology.  In the moment, you don't see your opponent/enemy as another \nbeing like you but an object to overcome. \n \nSo to argue that humans are not warlike by nature is to be fooling \nyourself.  Look at Japan--a nation who has outlawed war and generally \npeaceful, yet many of their forums of entertainment are violent in their \ncontent.\n \nIntelligent social predators are killers.  Granted wolves, Lions, and \nChimps may often kill for pleasure, but biology keeps that part of their \nnature under control, since hunting is dangerous to them that can lead to \ninjury.  Humans are just as territorial as any pack-pride-troop and like \nlions, wolves, or Chimps stresses for food and sex often drive us and them \ninto interspecies warfare--sadly for all us social predators, biology has \ngiven us a means to deal with these problems--WAR\ufeff", 
+            "author": "drakken717"
+        }, 
+        {
+            "date": "2015-04-07T03:43:29.751Z", 
+            "text": "Love your classes mate. Keep up the good work.\ufeff", 
+            "author": "NecroFist"
+        }, 
+        {
+            "date": "2015-04-06T21:29:25.376Z", 
+            "text": "How I view war:\n'Hey, you're not from my tribe and you're interfering with my existence. \nBack off or we'll kill you!' And vice versa for the other tribe. It doesn't \neven have to be with countries, it's the same thing with gangs. People want \nthe best for their tribe so they're willing to fight for it.\ufeff", 
+            "author": "Royale Cheese"
+        }, 
+        {
+            "date": "2015-04-05T18:25:45.833Z", 
+            "text": "It's about dominance and control.\ufeff", 
+            "author": "EveryTimeV2"
+        }, 
+        {
+            "date": "2015-04-05T15:18:44.536Z", 
+            "text": "Wait, John from the past is wearing 2014 World Cup shirt... What could this \nmean?!?\ufeff", 
+            "author": "Wendy Han"
+        }, 
+        {
+            "date": "2015-04-04T22:23:43.010Z", 
+            "text": "War. When great leaders words. Result in conflict. \ufeff", 
+            "author": "Riddle6EOS"
+        }, 
+        {
+            "date": "2015-04-02T22:48:58.744Z", 
+            "text": "oil ftw\ufeff", 
+            "author": "Gunawan Wibisono"
+        }, 
+        {
+            "date": "2015-04-02T08:49:24.164Z", 
+            "text": "Great points there, profound yet easy to comprehend. thumbs up!\ufeff", 
+            "author": "Li Haotong"
+        }, 
+        {
+            "date": "2015-03-31T15:41:53.093Z", 
+            "text": "Was that raider in the tought bubble a referensse to tf2 (cloaked \nbackstabin snakes, I HATE THEM!)\ufeff", 
+            "author": "Marco Zwinkels"
+        }, 
+        {
+            "date": "2015-03-31T15:42:58.806Z", 
+            "text": "It looked like he was using a spy-cicle", 
+            "author": "Marco Zwinkels"
+        }, 
+        {
+            "date": "2015-03-30T22:03:51.000Z", 
+            "text": "Today most people simply cannot comprehend the truth that fighting is hard \nwired to humans, well at least ones who carry genes of warriors. Then we \nare talking about effects of genes we must acknowledge that it's society \nwhich molds our nature into specific path, genes only encourage and give \ngrounds for something. For example, I enjoy fighting, I fought more than I \ncan count and never lost. I have immense strength compared to random person \nand I love conflict. Just hope that fabric of society will never break down \nor else our societal hierarchy will shift extremely quickly...\ufeff", 
+            "author": "REgamesplayer"
+        }, 
+        {
+            "date": "2015-03-27T06:19:01.505Z", 
+            "text": "I do believe that some people (myself included) possess some type of \n\"warrior-gene\". As a kid I usually fell back on aggression to express \nmyself when I felt like my words weren't getting across. As I got older I \nstart doing martial arts which my father did as well (though we aren't \ncool) and my physique seemed to just mold itself and line up with my crazy \nfast metabolism. I also progressed faster than most the people I trained \nwith and enjoy the hell out of the act of fighting. Yes, I know my grammar \nis probably awful but bottom line is I believe it's apart of nature.\ufeff", 
+            "author": "Dominique Dorsinville"
+        }, 
+        {
+            "date": "2015-04-22T21:12:34.781Z", 
+            "text": "You must have the special snowflake gene as well.", 
+            "author": "jakegamesnake"
+        }, 
+        {
+            "date": "2015-03-26T23:41:38.000Z", 
+            "text": "War is inevitable... until resistance becomes futile.. lol... once my \nopinion differs from yours we are already at war... war is life life is \nwar... nothing we can do... except manage it\ufeff", 
+            "author": "Remy Cutter"
+        }, 
+        {
+            "date": "2015-03-26T11:18:46.787Z", 
+            "text": "its like to go to war is a spectacular book.\nReally puts war into perspective\ufeff", 
+            "author": "Bre Ziegler"
+        }, 
+        {
+            "date": "2015-03-25T11:49:13.838Z", 
+            "text": "War is essentially an extension of our tribalism nature; that us vs them \nmentality from 100,000 years ago that we still express today in every part \nof our modern society (between income class, race, ideological beliefs, \npolitics, sports, etc). Almost every war in history from pre-history to \ntoday basically boils down to \"they are a different tribe than us, so let's \nkill them to get what our tribe wants\". You see less war today because \nwe've become much more cooperative with globalization. It's not so much \nthat war is in us, though we do get an adrenaline joy, but the us vs them \nmentality which is expressed through war. \ufeff", 
+            "author": "Blackdays"
+        }, 
+        {
+            "date": "2015-03-22T14:24:08.116Z", 
+            "text": "I want to war because I just want do so \\\nWTF\ufeff", 
+            "author": "rohan nathani"
+        }, 
+        {
+            "date": "2015-03-21T08:58:26.093Z", 
+            "text": "what kind of pussy is this guy?\ufeff", 
+            "author": "Jay Ray"
+        }, 
+        {
+            "date": "2015-04-25T02:13:51.848Z", 
+            "text": "+Cool Blue\nwhat you are saying does not make sense. Is English your second language?", 
+            "author": "Jay Ray"
+        }, 
+        {
+            "date": "2015-04-24T20:38:56.378Z", 
+            "text": "Not a pussy to take you out of your virginity\u2122\u00a9.", 
+            "author": "Cool Blue"
+        }, 
+        {
+            "date": "2015-04-13T06:39:58.928Z", 
+            "text": "+NeonGlowment hey - when you do what you love you never work a day in your \nlife...", 
+            "author": "Jay Ray"
+        }, 
+        {
+            "date": "2015-04-13T05:35:48.168Z", 
+            "text": "+Jay Ray Lol, doesn't sound like it makes much...", 
+            "author": "NeonGlowment"
+        }, 
+        {
+            "date": "2015-04-10T06:04:29.110Z", 
+            "text": "+NeonGlowment you and your town sound like pussies. How do you know this \nguy is smarter than me? I was grade 6 chess champion 2 years in a row. How \ndo you know he has a better job than me? I kill feral cats and dogs for a \nliving. Top that. ", 
+            "author": "Jay Ray"
+        }, 
+        {
+            "date": "2015-04-10T05:52:34.265Z", 
+            "text": "+Jay Ray This guy is smarter than you are.\nHe has a better job than you, and even if he isn't \"man\" he is smarter and \nhave a good paying job, he is freaking famous for god sake!\nHe made a movie that made loads of people from my home town cry and he made \nhis own memes.\n#Faultinourstarsbelike  ", 
+            "author": "NeonGlowment"
+        }, 
+        {
+            "date": "2015-03-31T04:40:55.264Z", 
+            "text": "+NeonGlowment\n yeah! not pussies like this guy", 
+            "author": "Jay Ray"
+        }, 
+        {
+            "date": "2015-03-31T04:07:52.462Z", 
+            "text": "+Jay Ray Yea men are smart people,\nthey do what they want, they work in any dream job.\nAnd they are smart.\nMen aren't fucking stereotypes\nthey are grown males! ", 
+            "author": "NeonGlowment"
+        }, 
+        {
+            "date": "2015-03-29T09:13:23.732Z", 
+            "text": "+NeonGlowment\nthat is what real men are? jesus! i have never been so happy to be fake", 
+            "author": "Jay Ray"
+        }, 
+        {
+            "date": "2015-03-29T08:36:19.655Z", 
+            "text": "A true man", 
+            "author": "NeonGlowment"
+        }, 
+        {
+            "date": "2015-03-20T23:02:37.075Z", 
+            "text": "if you want peace, prepare for war\ufeff", 
+            "author": "SynthJunk"
+        }, 
+        {
+            "date": "2015-03-20T21:08:19.286Z", 
+            "text": "I don't believe in evolution. and proud of it!\ufeff", 
+            "author": "Robert True"
+        }, 
+        {
+            "date": "2015-03-19T21:53:44.713Z", 
+            "text": "i don't want to sound emo but i'm related to rousseau\ufeff", 
+            "author": "Lara Hurst"
+        }, 
+        {
+            "date": "2015-03-18T21:44:45.070Z", 
+            "text": "I miss the magical yellow chair.\ufeff", 
+            "author": "Jesica Engle"
+        }, 
+        {
+            "date": "2015-03-16T23:24:05.474Z", 
+            "text": "I'm just thrilled that this is back. The other Crash Course series were \ngreat, but World History is by far the most fascinating. And this new \nseries takes it to a new level. Thank you so much, John and Raoul :-)\ufeff", 
+            "author": "Anthony Cook"
+        }, 
+        {
+            "date": "2015-03-16T22:36:17.571Z", 
+            "text": "RFID\ufeff", 
+            "author": "Coleman Snell"
+        }, 
+        {
+            "date": "2015-03-16T05:19:35.153Z", 
+            "text": "If you like violent video games, like I do, then you understand why human \nnature leads to war.\ufeff", 
+            "author": "Lucas Johnson"
+        }, 
+        {
+            "date": "2015-03-15T19:29:37.682Z", 
+            "text": "I started watching these in High School to prepare for my finals, now I'm \ngraduated but I still watch these just because they're just the coolest, \nmost informative things to watch!\ufeff", 
+            "author": "Chris Eastman"
+        }, 
+        {
+            "date": "2015-03-11T13:00:59.479Z", 
+            "text": "Raiders look like Fallout Tactics raiders. Genious.\ufeff", 
+            "author": "oKOMAPo"
+        }, 
+        {
+            "date": "2015-03-10T16:50:20.450Z", 
+            "text": "you forgot water $LOL$\ufeff", 
+            "author": "BALLISTIC__ZONE ______________________________"
+        }, 
+        {
+            "date": "2015-03-10T03:33:22.670Z", 
+            "text": "I would like to hear a quote from a non-American soldier.\ufeff", 
+            "author": "DoberFrann"
+        }, 
+        {
+            "date": "2015-03-13T23:21:52.969Z", 
+            "text": "Demoralize the enemy from within by surprise, terror, sabotage, \nassassination. This is the war of the future.\n-Adolf Hitler", 
+            "author": "Mr. Duck"
+        }, 
+        {
+            "date": "2015-03-09T12:17:34.632Z", 
+            "text": "is that India is 3:49\ufeff", 
+            "author": "Russell Fernandez"
+        }, 
+        {
+            "date": "2015-03-08T18:02:39.515Z", 
+            "text": "http://en.wikipedia.org/wiki/Gombe_Chimpanzee_War\ufeff", 
+            "author": "Zack Balent"
+        }, 
+        {
+            "date": "2015-03-08T03:16:58.406Z", 
+            "text": "Funny thing: Scarcity of ressources might have been, to the contrary of \nwhat is said here, a catalyser of human cooperation. Hunting and gathering \nressources would require vast networks of assistance and trade, and hunter \ngatherer societies that have lived in a \"linear nomadism\" were less likely \nto raid each other. Alliances were necessary for everyone.\nHowever, as soon as nomadism becomes more \"circular\" and that ressources \nare easier to get, large networks of cooperation isn't necessary anymore, \nbut as soon as the limited region with A LOT of ressources get... empty. \npeople who are not enclined to help other people will get attacked.\n\nhttp://www.dispatch.com/content/stories/science/2013/08/04/1-bow-and-arrow-forever-changed-ancient-cultures.html\n \n\nHere is an article about a study on how Bow and arrows changed ancient \ncultures and destroyed trade network.\ufeff", 
+            "author": "maaderllin"
+        }, 
+        {
+            "date": "2015-03-05T08:14:44.899Z", 
+            "text": "har har har. I don't even KNOW your friends,Mr. I-hate-you,Me from the \npast!.\ufeff", 
+            "author": "mali KewlPool"
+        }, 
+        {
+            "date": "2015-03-02T20:03:52.801Z", 
+            "text": "Free will doesn't exist.\ufeff", 
+            "author": "Dejan Swiegers"
+        }, 
+        {
+            "date": "2015-03-01T20:30:43.834Z", 
+            "text": "War & Human Nature: Crash Course World History 204: \nhttp://youtu.be/2NIgqS47m5k\ufeff", 
+            "author": "shon esparza"
+        }, 
+        {
+            "date": "2015-03-01T13:03:18.615Z", 
+            "text": "*There is no hunting like the hunting of man. Those who have hunted armed \nmen long enough and liked it, never cared for anything else there after*. *Ernest \nHemingway*\ufeff", 
+            "author": "Unboundedominion"
+        }, 
+        {
+            "date": "2015-02-26T23:04:47.587Z", 
+            "text": "It might not necessarily be that humans take pleasure from *fighting*, but \nrather, that they take pleasure from *competition*. This would explain the \nappeal and popularity of sports, hunting, games, and even debate - none of \nwhich is necessarily violent. They all provide similar adrenaline rushes. \nFighting is just one way to put oneself in competition with another, and \nthe risk of death probably just amplifies the excitement and desire to win. \nAnd the phenomenon of nationalism and patriotism definitely suggest that \nthere is an element of competition in all wars between states or cultures.\ufeff", 
+            "author": "Jason Grade"
+        }, 
+        {
+            "date": "2015-02-26T12:42:30.356Z", 
+            "text": "Marlintis is a sick psycho \ufeff", 
+            "author": "Roman Soiko"
+        }, 
+        {
+            "date": "2015-02-22T17:09:36.427Z", 
+            "text": "we won't even exist if we don't have war or fightings.\nIts so simple\ufeff", 
+            "author": "casdzcs ecedc"
+        }, 
+        {
+            "date": "2015-02-22T08:58:54.287Z", 
+            "text": "I love crash course so much! A whole video about war and not even once was \nthe word \"dominance\" mentioned. Respect! For me it was always clear that \nwar/fighting = proof of dominance. Males want to dominate (nowadays females \ndo too) and what is the best way to prove that you are better than someone \nelse? Kick the crap outta him.\ufeff", 
+            "author": "H. Shane"
+        }, 
+        {
+            "date": "2015-02-22T01:04:52.183Z", 
+            "text": "http://www.irishcentral.com/roots/history/Little-known-tale-of-generous-Turkish-aid-to-the-Irish-during-the-Great-Hunger.html\n\ufeff", 
+            "author": "Dimas Fajar"
+        }, 
+        {
+            "date": "2015-02-21T20:11:58.401Z", 
+            "text": "Eeeew! It's John Green! If you look up the words \"pretentious\", \"arrogant\" \nand \"faggot\" you will find a picture of him next to the description...\ufeff", 
+            "author": "Bob Dole"
+        }, 
+        {
+            "date": "2015-02-21T13:40:59.822Z", 
+            "text": "Small children fight over toys before they can walk or talk, so violence \nand aggression is a part of our biology. I sometimes get an urge to punch \nspecific people in the mouth. The reason I don't do it, as a general thing, \nis because there are other parts of me that override that desire.\ufeff", 
+            "author": "Metal Gamer"
+        }, 
+        {
+            "date": "2015-02-20T23:08:06.117Z", 
+            "text": "Mr. John Green shares with us his worldview. Not factual\ufeff", 
+            "author": "thebullybuffalo"
+        }, 
+        {
+            "date": "2015-03-14T09:55:49.000Z", 
+            "text": "+Mr. Duck Those aren't mutually exclusive choices. \"Up to date\" what does \nthat mean in this context? The most recent trend in scholarship? The facts \nof history haven't changed.\n\nWhat you believe about human nature IS your worldview", 
+            "author": "thebullybuffalo"
+        }, 
+        {
+            "date": "2015-03-13T23:20:33.721Z", 
+            "text": "Hmm, should i listen to you, or should i listen to 3 historians with up to \ndate history books? I'm not sure.", 
+            "author": "Mr. Duck"
+        }, 
+        {
+            "date": "2015-02-20T09:35:53.026Z", 
+            "text": "I did two tours in Afghanistan, infantry.  I'd say 3 of 4 of the soldiers I \nwas with panicked, screamed, and tried to bury themselves in the dirt.  \nEveryone shoots blindly, and then thumps his chest when the shootout is \nover, usually after 30 seconds.  The only enemies we charged were those we \noutnumbered at least 10 to 1, but everyone loved to brag about getting \nkills.\ufeff", 
+            "author": "Rue Abramov"
+        }, 
+        {
+            "date": "2015-02-20T08:23:44.946Z", 
+            "text": "Our species likes to stack up social dynamite (overpopulation, \nbig-foot-consuming) and sure produces alot of neural sub-castes who \nspecialize  into murdering, torturing, keeping people in check (group \ninfights are bad for everyones tickes in the gene-lottery called war) or \nsimply beeing indifferent.\nBut that doesent lead to the conclusion that we are all just muderous \nbastards, voting with out feet, by behaving exponential in a logarithmic \nressourced world.\nAnd we are not in denial.\n\nWe are peacefull, not just suspended via science from a nature that blindly \nadapted us to speed up that flywheel into oblivion, with as many lottery \nticks as possible on it until all that remains is, a animal on a rock, \nfighting to see the asteroid in the sky coming down.\n\nSo you can not alter your nature. So not alter this cycle. What one can do \nis work very hard, to harden civilisation against the fall.\nWikipedia copy on every cellphone.\nVideo Classes that in theory could be watched in a shelled city.\nSocial Networks that prevent dehumanizing the opponent, by force joining \nideological bubbles.\nFiltering out people with mental conditions that are adaptions to this \ncycle and stop them before they can aggregate \"followers\".\nWe have a long way to go, before this coment flamewar can go on even with \nthe oil gone.\ufeff", 
+            "author": "Picasso CT"
+        }, 
+        {
+            "date": "2015-02-19T09:18:00.083Z", 
+            "text": "yeah i really take pleasure in fighting i am a boxer and i love this sport \nso much specially when you win it give you a feeling of vicotry and \ngreatness i can only imagine a general or a warlord have the same feelings \nx100 times stronger than a boxer \nthat's explain why we go to war i guess \ufeff", 
+            "author": "Hiwa Joe"
+        }, 
+        {
+            "date": "2015-02-17T23:45:50.038Z", 
+            "text": "Someone please discuss this, how is War relevant to women, if you look back \nat all those old paintings on war there is never any women. So would it \nperhaps only be a male thing? What do women make of fighting and killing? \nWhat is their perspective?\ufeff", 
+            "author": "XxKINGatLIFExX"
+        }, 
+        {
+            "date": "2015-02-17T07:10:14.888Z", 
+            "text": "I love all the kubric references \ufeff", 
+            "author": "Youtube Commenter"
+        }, 
+        {
+            "date": "2015-02-17T03:44:44.884Z", 
+            "text": "Futurama reference!\ufeff", 
+            "author": "SignaI Found"
+        }, 
+        {
+            "date": "2015-02-16T18:41:12.565Z", 
+            "text": "Today's soldiers are sent to wars to die so that old rich men get richer. \nWe invade countries, kill the native people and strip them from their \nnatural resources. Then finally, when those people raise against their \noppressors, they are labeled as terrorists. Times have changed indeed.\ufeff", 
+            "author": "Sarah Lynn (Noodle)"
+        }, 
+        {
+            "date": "2015-02-16T02:32:14.000Z", 
+            "text": "I feel the quotes from Tim O'Brien sums up war quiet nicely:\n\"To generalize about war is like generalizing about peace. Almost \neverything is true. Almost nothing is true. At its core, perhaps, war is \njust another name for death, and yet any soldier will tell you, if he tells \nthe truth, that proximity to death brings with it a corresponding proximity \nto life. After a firefight, there is always the immense pleasure of \naliveness. The trees are alive. The grass, the soil\u2014everything. All around \nyou things are purely living, and you among them, and the aliveness makes \nyou tremble. You feel an intense, out-of-the-skin awareness of your living \nself\u2014your truest self, the human being you want to be and then become by \nthe force of wanting it. In the midst of evil you want to be a good man. \nYou want decency. You want justice and courtesy and human concord, things \nyou never knew you wanted. There is a kind of largeness to it, a kind of \ngodliness. Though it\u2019s odd, you\u2019re never more alive than when you\u2019re almost \ndead. You recognize what\u2019s valuable. Freshly, as if for the first time, you \nlove what\u2019s best in yourself and in the world, all that might be lost. At \nthe hour of dusk you sit at your foxhole and look out on a wide river \nturning pinkish red, and at the mountains beyond, and although in the \nmorning you must cross the river and go into the mountains and do terrible \nthings and maybe die, even so, you find yourself studying the fine colors \non the river, you feel wonder and awe at the setting of the sun, and you \nare filled with a hard, aching love for how the world could be and always \nshould be, but now is not.\"\ufeff", 
+            "author": "Joey Skylynx"
+        }, 
+        {
+            "date": "2015-03-26T22:58:56.163Z", 
+            "text": "\"I just fucking love killing people!\" \nQuoted by sadistic sociopaths. ", 
+            "author": "ProfileUser"
+        }, 
+        {
+            "date": "2015-02-15T23:45:10.519Z", 
+            "text": "RE: 8:00 \n\n\"Let me have war, say I; it exceeds peace as far as day does night; it\u2019s \nspritely, waking, audible, and full of vent.\"\nShakespeare\ufeff", 
+            "author": "Grindstone Gaming"
+        }, 
+        {
+            "date": "2015-02-15T20:57:03.511Z", 
+            "text": "Humans are Violent, beacuse humans have SIN.\nread the Bible, it has all the answers.\n(Shields up!)\ufeff", 
+            "author": "SirOrrin Freeman"
+        }, 
+        {
+            "date": "2015-03-26T23:00:24.721Z", 
+            "text": "(pierces shield with a pike)\nYou're an idiot if you think an old book is real. ", 
+            "author": "ProfileUser"
+        }, 
+        {
+            "date": "2015-02-15T15:39:36.000Z", 
+            "text": "I really want the paintings of Cain and Abel at 3:30 to become a poster. Is \nthis just based on the artwork from Batman Arkham City or is there another \nolder version? \ufeff", 
+            "author": "E.Holms"
+        }, 
+        {
+            "date": "2015-02-15T05:00:00.511Z", 
+            "text": "What about the mongols\ufeff", 
+            "author": "7Ghos"
+        }, 
+        {
+            "date": "2015-02-15T02:55:50.701Z", 
+            "text": "Futurama time machine!\ufeff", 
+            "author": "Justin P"
+        }, 
+        {
+            "date": "2015-02-15T01:36:30.338Z", 
+            "text": "But, evolution is incorrect. No flame war, please. Just the bible, which is \ncorrect. \ufeff", 
+            "author": "Taylor Smith"
+        }, 
+        {
+            "date": "2015-02-14T09:53:17.643Z", 
+            "text": "Archeology is a branch of anthropology brow. Great video.\ufeff", 
+            "author": "Eccentricmuse21"
+        }, 
+        {
+            "date": "2015-02-10T02:56:31.324Z", 
+            "text": "Are you sure that when soldier go throw themselves into battle are in the \ntotal posetion of their minds?\n\nBeing into a war within a state of perpetual alert it's not regular \nconditions\ufeff", 
+            "author": "Rafa G\u00f3mez"
+        }, 
+        {
+            "date": "2015-02-09T16:58:20.560Z", 
+            "text": "Soldiers go to war and come back in 10 year .mean whil we should make their \nwifes pregnant. So soldirs have les children and we have more .\nIn the end they will go extinct. \ufeff", 
+            "author": "hu man"
+        }, 
+        {
+            "date": "2015-02-09T01:48:47.075Z", 
+            "text": "What if I consider cheetos sex\ufeff", 
+            "author": "Mauricio Franco"
+        }, 
+        {
+            "date": "2015-02-08T17:44:11.452Z", 
+            "text": "Those Vietnam quotes were just... insane. What the hell is wrong with \npeople?\ufeff", 
+            "author": "JooJoona"
+        }, 
+        {
+            "date": "2015-02-07T12:55:33.000Z", 
+            "text": "Perhaps it depends on the time and the place if you want to know if a human \nis peacefull or violent. In europe for example, the fossiles indicates a \nless violent period during the stone ages. And also in the pacific area. \nPerhaps it depends on the ammount of recources and the number of the people \nto support.\n\nOr on the cultural self-esteem? You are what you think you are.\ufeff", 
+            "author": "TOFKAS01"
+        }, 
+        {
+            "date": "2015-02-06T15:57:03.756Z", 
+            "text": "Americans typically think history is about war.  It has a lot to do with \nhow we are educated on American history. There really was only a few \nperiods in US history when America wasn't at war or adverse to it. \ufeff", 
+            "author": "lordblazer"
+        }, 
+        {
+            "date": "2015-02-06T08:51:25.504Z", 
+            "text": "I will go to war for chocolate chip cookies.\ufeff", 
+            "author": "Chu Kim"
+        }, 
+        {
+            "date": "2015-02-05T03:33:16.422Z", 
+            "text": "Do the Imjin War, please.  \nhttp://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_%281592%E2%80%9398%29\n\ufeff", 
+            "author": "Stephen Lam"
+        }, 
+        {
+            "date": "2015-02-03T21:25:44.402Z", 
+            "text": "I do not agree with the view that genes need to go on, please read the \nselfish gene more carefully before making that statement.\ufeff", 
+            "author": "KSnashall"
+        }, 
+        {
+            "date": "2015-01-31T22:52:06.256Z", 
+            "text": "LOL at Bono with the baby dinosaur\ufeff", 
+            "author": "Hoon Enzo"
+        }, 
+        {
+            "date": "2015-01-29T02:04:46.373Z", 
+            "text": "this whole \"psychology of the soldier\" ignores that soldiers don't decide \non nations going to war\ufeff", 
+            "author": "bleggsbleggs"
+        }, 
+        {
+            "date": "2015-01-28T23:09:21.840Z", 
+            "text": "\"Humans love fighting\" is a misquote from this video, but close enough for \nmy purposes. The author may, or may not, agree with this notion, but I sure \ndo. We've just gotten better at doing it without actually hurting each \nother. Sure, we still have actual wars wherein actual people die and \nsuffer; but more and more the motives and gains/vs/losses for this are \nquestioned. So we put our outlets into other things that scratch the same \nitch. Dueling (people actually died! A lot!) becomes becomes \nbare-knuckle-boxing(people actually died!), turns to classic boxing (people \nstilled died, but less often!), turns to MMA (according to wikipedia: \n\"...little statistical inference can be drawn...\"!). I myself am a former \nwrestler, and I fought most often with my friends (one time I kinda-sorta \ntwisted my ankle, and another I got a nose bleed! Horrific!)\n\nWe crave violence, but we are also empathetic beings. What we once enjoyed \ndue to the aftereffects of adrenaline and endorphins, we still enjoy. But \nto play that up without also speaking of out interconnectedness and love \nfor our fellow humans is folly. A wider perspective is required.\n\nI love this show, please keep the awesome content coming. History 200 is my \nfavorite so far. ^_^\ufeff", 
+            "author": "Laquisha Adams"
+        }, 
+        {
+            "date": "2015-01-28T08:15:06.956Z", 
+            "text": "1:26 Hearthstone reference.\ufeff", 
+            "author": "Dennis Chiu"
+        }, 
+        {
+            "date": "2015-01-27T09:32:25.870Z", 
+            "text": "People look upon anger and destruction as something bad and that it doesn't \nsolve anything. But I love to break things when I get filled with anger, \nit's fun and people refuse to understand that. Sure it doesn't serve a \npurpose, but it's like a joy ride.\nJust like War. Or if you watch Fight Club, you'll see that it's a little \nsomething like that.\ufeff", 
+            "author": "ValknutGaming"
+        }, 
+        {
+            "date": "2015-01-26T10:00:05.939Z", 
+            "text": "I like how you can always see stain on the scanner :)\ufeff", 
+            "author": "I know write"
+        }, 
+        {
+            "date": "2015-01-25T19:12:20.690Z", 
+            "text": "this guy's vids have a lot of factual stuff, but he mixes it a lot with his \nown biases....history isn't really a true science..\ufeff", 
+            "author": "coalikesdesi"
+        }, 
+        {
+            "date": "2015-01-28T08:51:05.000Z", 
+            "text": "Just because history requires some degree of interpretation (and by \nextension, bias) doesn't mean it can't be objective or scientific in its \ndiscussion. I think this is something John does quite effectively.", 
+            "author": "Dennis Chiu"
+        }, 
+        {
+            "date": "2015-01-24T12:32:48.938Z", 
+            "text": "soooo... your saying to end war we should make internet porn access bound \nto egoshooter gaming skills?\ufeff", 
+            "author": "hans wurst"
+        }, 
+        {
+            "date": "2015-01-24T09:57:58.424Z", 
+            "text": "Pure and simple, enemies of our kin group, real or perceived, is the basis \nof xenophobia, the same thing as prejudice. It's written into our code, and \nwhile most of us seem to be capable of overcoming that nature with \nenlightenment and compassion, it's an uphill struggle. We subconsciously \nuse visual cues to perceive threats and use stereotyping and profiling to \ndecide if someone is dangerous or unfavorable. I do believe humanity is on \nthe path to overcoming this nature though, and I think technology will be \nour salvation.\ufeff", 
+            "author": "skykid"
+        }, 
+        {
+            "date": "2015-04-10T18:59:08.734Z", 
+            "text": "+Theodore Ward Yea it is the ability to distance yourself from the \nemotional shock of violence while still committing said violence that is so \ndangerous. I don't necessarily agree with his assumption that differences \nin inter societal outcomes is entirely due to oppression though. It seems \nto me that like most complex phenomena the causes are split between some \nratio of social, biological and environmental factors.", 
+            "author": "D Bojangles"
+        }, 
+        {
+            "date": "2015-04-05T01:44:27.671Z", 
+            "text": "+Da ve Dude im not heading there your just taking it the wrong way, I am \njust saying if you only had to kill someone with a controller (like it was \na video game) would you not feel like it was a video game.  \n\nYou could still be a freedom loving country if you attack someone, since \nyour saving freedom if your killing Gandhi, that evil motherfucker. ", 
+            "author": "Theodore Ward"
+        }, 
+        {
+            "date": "2015-04-03T15:13:56.107Z", 
+            "text": "+Theodore Ward Don't go there - dozens of academic studies have found NO \ncorrelation between gaming violence and actual violence, perhaps, like \nviolence itself, people know there's a difference? Shocking!\n\nOr are you implying if I attack another civ in Civilisation then I must be \na murderous dictator, like a Stalin in waiting?", 
+            "author": "Da ve"
+        }, 
+        {
+            "date": "2015-03-31T20:15:45.492Z", 
+            "text": "+skykid Are institutions are trying but they only keep us this way for so \nlong. Humans don't need a reason when they only have to press a button like \nits a goddamn video game, and for those who want a reason tell them they \nwill get 10 points, side money is still around so I don't see killing going \nanywhere.", 
+            "author": "Theodore Ward"
+        }, 
+        {
+            "date": "2015-03-31T19:26:10.477Z", 
+            "text": "+Theodore Ward yes it will, but it will also start to eliminate our reasons \nfor killing each other. You might say that humans dont need a reason, and I \nwould answer that our caveman minds dont, but we are changing. trust me, we \nare.", 
+            "author": "skykid"
+        }, 
+        {
+            "date": "2015-03-25T20:20:51.782Z", 
+            "text": "Technology will make it easier for us to kill more people without even \nfeeling like we killed anyone. Saying technology will save us is far from \nit.", 
+            "author": "Theodore Ward"
+        }, 
+        {
+            "date": "2015-01-22T05:43:32.238Z", 
+            "text": "I love how John is a white man who isn't afraid to check his privilege.\ufeff", 
+            "author": "Fuck Google+"
+        }, 
+        {
+            "date": "2015-01-22T00:56:35.578Z", 
+            "text": "", 
+            "author": "lilet delos reyes"
+        }, 
+        {
+            "date": "2015-01-21T21:36:53.808Z", 
+            "text": "As someone who has studied biology, I am baffled that some people insist \nevery behavior a person has must be prescribed by genetics. Environment has \na bigger role in determining behavior than genetics. If humans are in a \nsituation where food is scarce, they may decide that the only possible \nsolution is to kill and steal from their neighbors. It doesn't have to be \nbecause their genes told them to do it. The environment made them do it.\ufeff", 
+            "author": "tempo3rd"
+        }, 
+        {
+            "date": "2015-01-21T09:29:17.340Z", 
+            "text": "OMG, is it true what the soldier of vietnam war said? It's sad, terribly \nsad. Why do we still let these psychos doing what they do?\ufeff", 
+            "author": "011azr"
+        }, 
+        {
+            "date": "2015-04-24T17:43:41.886Z", 
+            "text": "It's interesting to note that we are one of the few cultures ever known to \nteach people that going to war and fighting the Other is good but also \nteaching that violence itself as a thing is shameful and wrong", 
+            "author": "Deshara"
+        }, 
+        {
+            "date": "2015-04-05T10:04:37.026Z", 
+            "text": "+011azr I think you would do the same.", 
+            "author": "knuppelgast"
+        }, 
+        {
+            "date": "2015-04-02T03:34:08.235Z", 
+            "text": "i guess they are boring being unemployed in homeland, consume drugs and \nalchohol, depressed, sad live in the mum basement and lonely", 
+            "author": "komodo ok"
+        }, 
+        {
+            "date": "2015-04-02T02:29:38.837Z", 
+            "text": "+red So what? It's designed for survival. I mean, let's see what happens if \nthere's food shortage one day, the STRONGEST will survive, and therefore \nthose people with weak genetics would extinct and it's good for our \nevolution. But war? Really? You drop atomic bomb on some cities and killing \nthousands of random innocent people (some of them might be the genius, \nstrong people). I mean, let people breed with each other because that way, \nwe could select which one suited and adapt better to our environment. Like \nfor instance, the world global warming, climate change and pollution is \ngetting crazier. Also the disease starts spreading like crazy. Just let \nthese breeding happen so that the humanity would be stronger than ever by \nyears coming. Let natural selection do its job. And the thing about natural \nselection is that, it can't be obtained by killing people through war and \nbombing. If anything, it would just kill innocent people and left you with \ncruel, disgusting psychos. Okay, so it's settled. I have my own life to pay \nattention too. So yeah.", 
+            "author": "011azr"
+        }, 
+        {
+            "date": "2015-04-02T02:07:35.169Z", 
+            "text": "+011azr you want people to hold back their need for war because it harms \npeople. but having sex and increasing the population leads to \noverpopulation, which leads to poverty, which leads to more death and \nanyone one modern war can cause.....so that being said shouldnt people hold \nback the need to reproduce if its for the greater good of humanity? my \npoint is people are who they are simple as that. you might not like it but \nin  all honestly your opinion and my opinion dont matter in the grand \nscheme of things, why? because no matter what we say or do people will \nstill kill each others and they will to reproduce out of \ncontrol...........and i personally think being a pedophile is a \nchoice....you dont have to agree with me. to be honest i dont give 2 shits \neither way.....now if you will excuse me my niece and nephew are hungry so \nim going to go to the store to buy them some food.................so ya", 
+            "author": "red"
+        }, 
+        {
+            "date": "2015-04-02T01:22:28.711Z", 
+            "text": "+red So what exactly is your point? People have sex because it's instinct. \nSo you got to tolerate people who fight with each other because, for some \npeople, they're wired to do that too? Using your logic, you should tolerate \npedophile because they're wired to do that to kids and it's been there for \nthousands of years of humanity (look it up on any history book).", 
+            "author": "011azr"
+        }, 
+        {
+            "date": "2015-04-02T00:59:45.421Z", 
+            "text": "+011azr the fuck are you talking about? you have gone way off topic. and im \npretty such you missed the point i was making when i was talking about sex \nand reproduction...soooooooo i really dont see a point in continueing this \nconversation", 
+            "author": "red"
+        }, 
+        {
+            "date": "2015-04-02T00:55:13.871Z", 
+            "text": "+red Your argument is flawed and how you absorb my statement is wrong. I \nDID say that war create lots of damage and disadvantage toward the one who \nis involved in the war? Can you please give me more detail, how it is \nrelated to sex and food which is the basis of human survival and don't even \nharm others? Some primitive instinct should be just, well, extinct, because \nit doesn't fit with the age we're in. And no, sex and food is still fucking \nimportant. War? No!\n\nI didn't refer to the war when you're attacked or to protect the weak. I \nrefer to how the US claim about the weapon of mass destruction (when \nthere's none) and keep messing around with Middle East (where there are \ntons of oil and $$$).\n\nAlso, yes, you do force your way of \"democracy\" and shove it up on other \ncountries's face. I mean, have some respect toward other \"way of living\" \nplease. Don't act like your way is the most superior ever and think of \nsomething like \"We're holier and better than thou\". Do you realize how \nfucked up the US system is? I mean, look at capitalism and how it has \nscrewed millions of American itself (many of them complaining about the \nevil and cruelty of that, yet no one o anything). Also, the thing is that, \nfamous economist even say that the US economy WILL going downhill. Only a \nMIRACLE could save the economy.", 
+            "author": "011azr"
+        }, 
+        {
+            "date": "2015-04-02T00:51:58.000Z", 
+            "text": "+011azr so you want others to fall in line with your beliefs? i never said \nwar was a good or bad thing. i simply stated a fact. which is some people \nare born to be warriors. its been that way for thousands of years. and \npeople should be ashamed of their primitve instinct of going to war?  i \ndont think going to war is a instinct, and using that logic people should \nbe ashamed of their primitve insinct of want to have sex and reproduce \nbecause the more people we have in the world the more poverty will follow. \nand you cant justify a war? so there was a more peaceful way to end the \nholocaust and stop hitler?  also the US doesnt force countries to do \nanything.....do i believe we waste alot of money? yes but we dont force \nanyone to do anything", 
+            "author": "red"
+        }, 
+        {
+            "date": "2015-04-02T00:18:53.643Z", 
+            "text": "+red The thing is that, it's fine to do anything that makes you happy as \nlong as it doesn't harm other people. No matter what you say, you can NOT \njust justify a war. It's bad and I think everyone with a common sense know \nthat war would destroy both sides in war. I don't care if you're more alive \nor something, but I think people have something called \"self-control, \nself-restriction\" from doing any bad deeds. It's something that differs us \nfrom other animal. Of course, you should be ashamed of letting your \nprimitive instinct of going to war without holding it back. I mean, look, \nif for instance, the US would press their need to be in war with other \ncountries and use their money for other stuff like education, healthcare, \nand better public infrastructure, those would be greater. However, they \njust like to be a 'world police' when they themselves had tons of unsolved \nproblem and facing an endless crisis. Why would they bother and try to get \ninvolved in other countries business? No other countries want to fall under \nUS pressure to do something. ", 
+            "author": "011azr"
+        }, 
+        {
+            "date": "2015-04-01T23:50:19.922Z", 
+            "text": "+011azr ....some people are born to be soldiers and warriors, i dont think \nits something to be ashamed of. if you feel more alive on a battlefield \nthen in a office then why not do what makes you happy", 
+            "author": "red"
+        }, 
+        {
+            "date": "2015-03-31T19:36:59.479Z", 
+            "text": "+Katrik3571 I know. I wonder if I could hear what inside George W Bush \nhead. He might be a psycho as well, just like Hitler, Stalin, and Napoleon.", 
+            "author": "011azr"
+        }, 
+        {
+            "date": "2015-03-31T19:29:50.651Z", 
+            "text": "+011azr Not really saying it is or isn't right. Just that is the case.", 
+            "author": "Katrik3571"
+        }, 
+        {
+            "date": "2015-03-31T19:27:31.375Z", 
+            "text": "+Katrik3571 I know, but it's not something to preach nor to be proud of. \nEven if this is a \"instinct\" and something that your brain is wired of, \nyour neocortex should realize that it's just a wrong thing to do.", 
+            "author": "011azr"
+        }, 
+        {
+            "date": "2015-03-31T13:44:16.109Z", 
+            "text": "+011azr  It's actually not that uncommon. There are many soldiers who \nimmediately upon finishing a tour, sign up for another one. It's not a \nresult of mental illness, humans enjoy competition and conflict. It is rare \nhowever to find people like this guy who can openly admit it.", 
+            "author": "Katrik3571"
+        }, 
+        {
+            "date": "2015-01-20T08:06:51.646Z", 
+            "text": "John, thanks for covering this.  Thanks, too, for keeping it factual.  Well \ndone.  I've been to war, and I've had to kill.  I respect Marlantes (based \non his Wikipedia bio).  i think Grossman's \"On Killing\" (which was required \nreading for Marine Officers) might be a good resource in opposition to any \npositive feelings associated with killing -- covered well how few people \nwanted to fight in modern wars even after enlisting.  I know (hope) the \nemotions of war (especially today) wouldn't be treated from a \nsingle-source.  Keep up the good work!\ufeff", 
+            "author": "appelwa"
+        }
+    ]
+}

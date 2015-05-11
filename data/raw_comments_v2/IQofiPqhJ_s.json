@@ -1,0 +1,1564 @@
+{
+    "publish_date": "2012-02-03T15:31:43.000Z", 
+    "video_length": "PT5M22S", 
+    "captions": [
+        {
+            "text": "BRADY HARAN: We did a video.", 
+            "dur": "1.71", 
+            "start": "0.36"
+        }, 
+        {
+            "text": "I&#39;d done it some time ago\nabout Mersenne primes.", 
+            "dur": "2.78", 
+            "start": "2.07"
+        }, 
+        {
+            "text": "And offhandedly, just\noff the cuff, I said", 
+            "dur": "3.37", 
+            "start": "4.85"
+        }, 
+        {
+            "text": "that 1 wasn&#39;t a prime.", 
+            "dur": "3.82", 
+            "start": "8.22"
+        }, 
+        {
+            "text": "Now, if I&#39;m honest, we\ndon&#39;t say 1 is prime.", 
+            "dur": "2.46", 
+            "start": "12.04"
+        }, 
+        {
+            "text": "There&#39;s a special\nreason for that.", 
+            "dur": "1.42", 
+            "start": "14.5"
+        }, 
+        {
+            "text": "And we noticed that some people\nin the comments said,", 
+            "dur": "2.6", 
+            "start": "15.92"
+        }, 
+        {
+            "text": "well, I think I&#39;ve heard of this\nbefore, but why is that?", 
+            "dur": "3.53", 
+            "start": "18.52"
+        }, 
+        {
+            "text": "Why isn&#39;t 1 a prime?", 
+            "dur": "3.53", 
+            "start": "22.05"
+        }, 
+        {
+            "text": "So what is a prime number?", 
+            "dur": "1.03", 
+            "start": "25.58"
+        }, 
+        {
+            "text": "Let&#39;s think of the definition.", 
+            "dur": "1.36", 
+            "start": "26.61"
+        }, 
+        {
+            "text": "You probably know\nthe definition.", 
+            "dur": "1.56", 
+            "start": "27.97"
+        }, 
+        {
+            "text": "A prime number is a number that\ncan only be divided by 1", 
+            "dur": "4.9", 
+            "start": "29.53"
+        }, 
+        {
+            "text": "and itself.", 
+            "dur": "1.12", 
+            "start": "34.43"
+        }, 
+        {
+            "text": "So the prime numbers are\n2, 3, 5, 7, 11, 13.", 
+            "dur": "5.93", 
+            "start": "35.55"
+        }, 
+        {
+            "text": "You know these numbers.", 
+            "dur": "1.41", 
+            "start": "41.48"
+        }, 
+        {
+            "text": "So it sounds like 1 should\nbe a prime number, right?", 
+            "dur": "3.8", 
+            "start": "42.89"
+        }, 
+        {
+            "text": "It fits the definition\nof the prime number.", 
+            "dur": "3.38", 
+            "start": "46.69"
+        }, 
+        {
+            "text": "You can divide by 1, and\nyou can divide by", 
+            "dur": "1.86", 
+            "start": "50.07"
+        }, 
+        {
+            "text": "itself, which is 1.", 
+            "dur": "1.51", 
+            "start": "51.93"
+        }, 
+        {
+            "text": "And historically, it was\nconsidered a prime number.", 
+            "dur": "3.98", 
+            "start": "53.44"
+        }, 
+        {
+            "text": "So if you&#39;re thinking, hmm, it\nsounds like it should be.", 
+            "dur": "2.33", 
+            "start": "57.42"
+        }, 
+        {
+            "text": "Well, that&#39;s what they\nused to think.", 
+            "dur": "1.64", 
+            "start": "59.75"
+        }, 
+        {
+            "text": "That&#39;s what mathematicians\nused to think as well.", 
+            "dur": "2.1", 
+            "start": "61.39"
+        }, 
+        {
+            "text": "But in the end, they\nhad to exclude it", 
+            "dur": "3.77", 
+            "start": "63.49"
+        }, 
+        {
+            "text": "from the prime numbers.", 
+            "dur": "1.33", 
+            "start": "67.26"
+        }, 
+        {
+            "text": "Oh poor old 1, 1 is the\nloneliest number, the", 
+            "dur": "2.99", 
+            "start": "68.59"
+        }, 
+        {
+            "text": "loneliest number\nyou&#39;ll ever do.", 
+            "dur": "1.81", 
+            "start": "71.58"
+        }, 
+        {
+            "text": "So it&#39;s excluded for a reason.", 
+            "dur": "2.03", 
+            "start": "73.39"
+        }, 
+        {
+            "text": "There&#39;s a really important\ntheorem in mathematics.", 
+            "dur": "3.53", 
+            "start": "75.42"
+        }, 
+        {
+            "text": "It&#39;s called the Fundamental\nTheorem of Arithmetic.", 
+            "dur": "4.5", 
+            "start": "78.95"
+        }, 
+        {
+            "text": "Now, it says that every positive\nwhole number can be", 
+            "dur": "3.87", 
+            "start": "83.45"
+        }, 
+        {
+            "text": "written as a product by\nmultiplying prime numbers.", 
+            "dur": "4.46", 
+            "start": "87.32"
+        }, 
+        {
+            "text": "So here it is.", 
+            "dur": "0.77", 
+            "start": "91.78"
+        }, 
+        {
+            "text": "I didn&#39;t want to write it\nout, so here it is.", 
+            "dur": "2.25", 
+            "start": "92.55"
+        }, 
+        {
+            "text": "Every positive whole number, or\ninteger, if you like, can", 
+            "dur": "4.32", 
+            "start": "94.8"
+        }, 
+        {
+            "text": "be written as a unique\nproduct of primes.", 
+            "dur": "4.39", 
+            "start": "99.12"
+        }, 
+        {
+            "text": "So you can tell this is an\nimportant theorem because it", 
+            "dur": "3.02", 
+            "start": "103.51"
+        }, 
+        {
+            "text": "has a name.", 
+            "dur": "1.08", 
+            "start": "106.53"
+        }, 
+        {
+            "text": "And you can tell it&#39;s a very\nimportant theorem because it", 
+            "dur": "2.54", 
+            "start": "107.61"
+        }, 
+        {
+            "text": "has a pompous name.", 
+            "dur": "1.18", 
+            "start": "110.15"
+        }, 
+        {
+            "text": "So what this means is prime\nnumbers are our atoms, like", 
+            "dur": "4.34", 
+            "start": "111.33"
+        }, 
+        {
+            "text": "atoms in chemistry.", 
+            "dur": "1.38", 
+            "start": "115.67"
+        }, 
+        {
+            "text": "They can be used to make other\nnumbers by multiplying these", 
+            "dur": "4.55", 
+            "start": "117.05"
+        }, 
+        {
+            "text": "primes together.", 
+            "dur": "1.5", 
+            "start": "121.6"
+        }, 
+        {
+            "text": "So for example, 15\nis 3 times 5.", 
+            "dur": "6.016", 
+            "start": "123.1"
+        }, 
+        {
+            "text": "3 and 5 are prime.", 
+            "dur": "1.734", 
+            "start": "129.116"
+        }, 
+        {
+            "text": "And you can make 15 from\nmultiplying primes together.", 
+            "dur": "4.12", 
+            "start": "130.85"
+        }, 
+        {
+            "text": "But there&#39;s a very important\nword here in this theorem.", 
+            "dur": "3.75", 
+            "start": "134.97"
+        }, 
+        {
+            "text": "Look at this word, unique.", 
+            "dur": "3.72", 
+            "start": "138.72"
+        }, 
+        {
+            "text": "Now that&#39;s not just there\nfor decoration.", 
+            "dur": "2.58", 
+            "start": "142.44"
+        }, 
+        {
+            "text": "Every word is important,\nunique.", 
+            "dur": "2.47", 
+            "start": "145.02"
+        }, 
+        {
+            "text": "It has to be a unique product.", 
+            "dur": "1.34", 
+            "start": "147.49"
+        }, 
+        {
+            "text": "There&#39;s only one way to do it.", 
+            "dur": "1.84", 
+            "start": "148.83"
+        }, 
+        {
+            "text": "Now we know, of course, that\n15 is also 5 times 3.", 
+            "dur": "5.38", 
+            "start": "150.67"
+        }, 
+        {
+            "text": "We don&#39;t mind that,\nthat&#39;s allowed.", 
+            "dur": "1.56", 
+            "start": "156.05"
+        }, 
+        {
+            "text": "We don&#39;t mind that.", 
+            "dur": "1.15", 
+            "start": "157.61"
+        }, 
+        {
+            "text": "What we don&#39;t like is that\n15 is 1 times 3 times 5.", 
+            "dur": "7.22", 
+            "start": "158.76"
+        }, 
+        {
+            "text": "Not only that, but it&#39;s also\n1 times 1 times 3 times 5.", 
+            "dur": "5.62", 
+            "start": "165.98"
+        }, 
+        {
+            "text": "And it&#39;s 1 times 1 times 1 times\n3 times 5, and so on.", 
+            "dur": "4.26", 
+            "start": "171.6"
+        }, 
+        {
+            "text": "If 1 was a prime, then we\nwouldn&#39;t have a unique way of", 
+            "dur": "5.42", 
+            "start": "175.86"
+        }, 
+        {
+            "text": "writing 15 as a product\nof prime numbers.", 
+            "dur": "5.01", 
+            "start": "181.28"
+        }, 
+        {
+            "text": "So what this meant was, when\nthey used to think it was", 
+            "dur": "3.66", 
+            "start": "186.29"
+        }, 
+        {
+            "text": "prime, they had to keep", 
+            "dur": "1.54", 
+            "start": "189.95"
+        }, 
+        {
+            "text": "excluding 1 from your theorems.", 
+            "dur": "2.64", 
+            "start": "191.49"
+        }, 
+        {
+            "text": "You would have to keep saying,\ntake all the prime numbers,", 
+            "dur": "2.62", 
+            "start": "194.13"
+        }, 
+        {
+            "text": "except for 1.", 
+            "dur": "1.67", 
+            "start": "196.75"
+        }, 
+        {
+            "text": "And we just got tired\nof doing that.", 
+            "dur": "2.14", 
+            "start": "198.42"
+        }, 
+        {
+            "text": "So we just decided to exclude 1\nfrom our definition of prime", 
+            "dur": "4.64", 
+            "start": "200.56"
+        }, 
+        {
+            "text": "to begin with.", 
+            "dur": "0.64", 
+            "start": "205.2"
+        }, 
+        {
+            "text": "So 1 isn&#39;t a prime number.", 
+            "dur": "2.22", 
+            "start": "205.84"
+        }, 
+        {
+            "text": "It isn&#39;t considered a composite\nnumber, where you", 
+            "dur": "3.45", 
+            "start": "208.06"
+        }, 
+        {
+            "text": "make the other numbers\nfrom primes.", 
+            "dur": "2.59", 
+            "start": "211.51"
+        }, 
+        {
+            "text": "No, it has a category all of\nits own, where it sits, all", 
+            "dur": "4.39", 
+            "start": "214.1"
+        }, 
+        {
+            "text": "lonely by itself.", 
+            "dur": "1.45", 
+            "start": "218.49"
+        }, 
+        {
+            "text": "MALE SPEAKER: But why does\nthis mean 1&#39;s not prime?", 
+            "dur": "1.78", 
+            "start": "219.94"
+        }, 
+        {
+            "text": "Maybe it&#39;s just a\nstupid theorem.", 
+            "dur": "1.74", 
+            "start": "221.72"
+        }, 
+        {
+            "text": "Maybe the theorem&#39;s no good.", 
+            "dur": "2.08", 
+            "start": "223.46"
+        }, 
+        {
+            "text": "Why does the theorem\nbeat number 1 out?", 
+            "dur": "2.96", 
+            "start": "225.54"
+        }, 
+        {
+            "text": "BRADY HARAN: We have a choice.", 
+            "dur": "0.66", 
+            "start": "228.5"
+        }, 
+        {
+            "text": "We have a choice to include\nit in that category", 
+            "dur": "2.31", 
+            "start": "229.16"
+        }, 
+        {
+            "text": "if we wanted to.", 
+            "dur": "2.52", 
+            "start": "231.47"
+        }, 
+        {
+            "text": "Prime&#39;s just a word, it&#39;s\njust a category.", 
+            "dur": "2.23", 
+            "start": "233.99"
+        }, 
+        {
+            "text": "And it&#39;s more useful for us to\nsay, take this list, which is", 
+            "dur": "4.93", 
+            "start": "236.22"
+        }, 
+        {
+            "text": "the list of all the primes.", 
+            "dur": "1.51", 
+            "start": "241.15"
+        }, 
+        {
+            "text": "And it doesn&#39;t have 1 on it.", 
+            "dur": "1.39", 
+            "start": "242.66"
+        }, 
+        {
+            "text": "It&#39;s more useful to say,\ntake this list.", 
+            "dur": "2.42", 
+            "start": "244.05"
+        }, 
+        {
+            "text": "And that list is 2, 3, 5,\n7, 11, blah, blah, blah.", 
+            "dur": "5.55", 
+            "start": "246.47"
+        }, 
+        {
+            "text": "MALE SPEAKER: Looking at that\ntheorem, doesn&#39;t that mean", 
+            "dur": "2.91", 
+            "start": "252.02"
+        }, 
+        {
+            "text": "that 1 isn&#39;t a whole number\nbecause 1, surely 1 can&#39;t be", 
+            "dur": "4.613", 
+            "start": "254.93"
+        }, 
+        {
+            "text": "made as a unique product\nof primes?", 
+            "dur": "1.666", 
+            "start": "259.543"
+        }, 
+        {
+            "text": "BRADY HARAN: OK.", 
+            "dur": "0.241", 
+            "start": "261.209"
+        }, 
+        {
+            "text": "Well, let&#39;s have a look.", 
+            "dur": "1.69", 
+            "start": "261.45"
+        }, 
+        {
+            "text": "Let&#39;s take--", 
+            "dur": "1.085", 
+            "start": "263.14"
+        }, 
+        {
+            "text": "I&#39;ll start with 16.", 
+            "dur": "2.855", 
+            "start": "264.225"
+        }, 
+        {
+            "text": "16 is a product of primes\nbecause it&#39;s 2 times 2", 
+            "dur": "3.53", 
+            "start": "267.08"
+        }, 
+        {
+            "text": "times 2 times 2.", 
+            "dur": "1.66", 
+            "start": "270.61"
+        }, 
+        {
+            "text": "It&#39;s four primes.", 
+            "dur": "2.23", 
+            "start": "272.27"
+        }, 
+        {
+            "text": "8 is a product of primes.", 
+            "dur": "2.48", 
+            "start": "274.5"
+        }, 
+        {
+            "text": "It&#39;s 2 times 2 times 2.", 
+            "dur": "2.22", 
+            "start": "276.98"
+        }, 
+        {
+            "text": "So I&#39;ve just divided\nby 2 there.", 
+            "dur": "1.99", 
+            "start": "279.2"
+        }, 
+        {
+            "text": "4 is a product of two primes.", 
+            "dur": "3.97", 
+            "start": "281.19"
+        }, 
+        {
+            "text": "The number 2, the prime number\n2, is a product of just one", 
+            "dur": "3.9", 
+            "start": "285.16"
+        }, 
+        {
+            "text": "prime number.", 
+            "dur": "1.65", 
+            "start": "289.06"
+        }, 
+        {
+            "text": "And then if I divide by 2 again,\nI get 1, which is the", 
+            "dur": "4.12", 
+            "start": "290.71"
+        }, 
+        {
+            "text": "product of zero prime numbers.", 
+            "dur": "2.94", 
+            "start": "294.83"
+        }, 
+        {
+            "text": "It&#39;s called an empty product.", 
+            "dur": "2.59", 
+            "start": "297.77"
+        }, 
+        {
+            "text": "So we&#39;ve got a product of 4\nprimes, 3 primes, 2 primes,", 
+            "dur": "4.48", 
+            "start": "300.36"
+        }, 
+        {
+            "text": "continue the pattern, 1\nprime, and 0 primes.", 
+            "dur": "5.13", 
+            "start": "304.84"
+        }, 
+        {
+            "text": "It&#39;s 1, and it&#39;s not 0.", 
+            "dur": "1.58", 
+            "start": "309.97"
+        }, 
+        {
+            "text": "It&#39;s 1, it&#39;s called\nan empty product.", 
+            "dur": "1.84", 
+            "start": "311.55"
+        }, 
+        {
+            "text": "Oh, that won&#39;t be it\nfor the number 1.", 
+            "dur": "1.57", 
+            "start": "316.16"
+        }, 
+        {
+            "text": "We&#39;ll be hearing from the number\n1 again soon, I&#39;m sure.", 
+            "dur": "3.07", 
+            "start": "317.73"
+        }
+    ], 
+    "title": "1 and Prime Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05x5j", 
+        "/m/0vb40_n", 
+        "/m/05fwb"
+    ], 
+    "number_views": 720109, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T12:37:45.092Z", 
+            "text": "I mean 2 is just upper side of 1 on the lower side. It can't help it is \ndeemed  as prime number. With all respect, it seens to me you try to make \ndeffinitions were there is non ;-)\ufeff", 
+            "author": "hklausen"
+        }, 
+        {
+            "date": "2015-05-10T12:27:33.071Z", 
+            "text": "But 2 is an even number. You clever people can may be explain why this is a \nprime? :-)\ufeff", 
+            "author": "hklausen"
+        }, 
+        {
+            "date": "2015-05-10T12:21:57.932Z", 
+            "text": "Well, 1 is the unit, so it's ok it's not per definiton is not a prime ;)\ufeff", 
+            "author": "hklausen"
+        }, 
+        {
+            "date": "2015-05-10T01:14:26.259Z", 
+            "text": "1:10 That Refrence and the way you said it was funny\ufeff", 
+            "author": "TheMaster Of Minecraft"
+        }, 
+        {
+            "date": "2015-05-07T21:21:47.000Z", 
+            "text": "Man these definitions are so contrived.\ufeff", 
+            "author": "peanutaxis"
+        }, 
+        {
+            "date": "2015-05-07T02:30:35.009Z", 
+            "text": "4:48 how can you have the product of one number? It's ONE number that's \nlike the opposite of what product means. Product is the multiplication of \ntwo or more numbers. This isn't exponents\ufeff", 
+            "author": "Desi Pilla"
+        }, 
+        {
+            "date": "2015-05-05T22:12:07.123Z", 
+            "text": "So you're saying that the number 1, while not a prime itself, is still the \nunique product of primes by being the product of NO PRIMES? That seems a \nbit of a stretch. Why not just say that every positive whole number greater \nthan 1 can be written as the unique product of primes?\ufeff", 
+            "author": "Mi St"
+        }, 
+        {
+            "date": "2015-05-05T17:40:36.466Z", 
+            "text": "4:43 i personally think you are wrong here, because the definition \nspecifies a PRODUCT of prime numbers, and in 2=2 there is no product if 1 \nis not included as a prime number\ufeff", 
+            "author": "ElTito Alberto"
+        }, 
+        {
+            "date": "2015-05-04T00:56:03.000Z", 
+            "text": "6x3=3x6x1\n6x1x1x1x1x1x1=6\n8x3=8x3x1x1x1x1x1x1\neverything is 1^(infinity) times everything, if and only if, there is no \nsuch thing a a unique product of primes. if that is false or if that is \ntrue, then the Fundamental Theorem of Arithmetic is wrong. The Fundamental \nTheorem of Arithmetic is true, if and only if, false does not exist. Now \nyou have two options, the theorem is false, or the universe is a paradox, \nbut they cannot be both. If the universe is a paradox and the theorem is \nfalse, then that in itself would also be a paradox, and therefore you would \nhave a paradox in a paradox. If a paradox is in a paradox, then you would \nhave a paradox*4 since it is a paradox for a paradox to exist, so then you \nwould go down the path unti you have a paradox*infinity, now, what is the \nbetter choice now? a infinite paradox, or a non-paradox?\nso 1 is a prime number, and that theorem is wrong.\ufeff", 
+            "author": "azrael300s"
+        }, 
+        {
+            "date": "2015-05-03T19:18:23.876Z", 
+            "text": "So...what about 2? 2x1=2, 2x1x1x1x1x1x1x1x1x1=2 What am I missing?\ufeff", 
+            "author": "jedkleppen"
+        }, 
+        {
+            "date": "2015-05-04T03:06:14.882Z", 
+            "text": "+jedkleppen 2 written as a product of primes is just 2, because 2 is a \nprime itself.", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-05-02T22:56:42.542Z", 
+            "text": "The whole Empty Product thing kind of seems like a cop out to me.\ufeff", 
+            "author": "AllExpensesPayed"
+        }, 
+        {
+            "date": "2015-05-04T03:08:30.673Z", 
+            "text": "+AllExpensesPayed Yeah, it shouldn't make sense why a product of nothing is \nequal to 1, but you can see it with the following:\n\n\n30 = 2 x 3 x 5\n= product(2, 3, 5)\n= product(2, 3) x 5\n= product(2) x 3 x 5\n= product() x 2 x 3 x 5 = 30\n\n\nSo product() = 1. This isn't a proof, but it's not something mathematicians \njust made up because they want it to be true :P", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-05-02T19:17:15.814Z", 
+            "text": "\"How inconvenient, let's redefine the rules to fit... Aren't we clever.\"\ufeff", 
+            "author": "LoMpact"
+        }, 
+        {
+            "date": "2015-05-02T19:26:29.654Z", 
+            "text": "+LoMpact Funny how we can do that with concepts that we defined ourselves :P", 
+            "author": "Gregory Page"
+        }, 
+        {
+            "date": "2015-05-02T18:07:20.746Z", 
+            "text": "If one fits the definition it's still actually prime, in the sense it was \nfrom the beginning. Because a definition is a definition. The theory \nshouldn't include the word unique, instead. Moreover, with that done, one \ncan see that there is simply the best number at being a multiple for those \nproduct. And that is one, which is thereby the most prime of all numbers!\ufeff", 
+            "author": "TheIKlAI"
+        }, 
+        {
+            "date": "2015-05-05T08:55:48.520Z", 
+            "text": "+TheIKlAI Thereby, other prime numbers can be called trivial. The trivial \nprime numbers, only, combine uniquely for each whole number. It's not the \ntheory, but it's practical essence that is behind that it's not admitted \nthat prime numbers are not being viewed as what they actually are.", 
+            "author": "TheIKlAI"
+        }, 
+        {
+            "date": "2015-05-02T05:00:33.052Z", 
+            "text": "1 is neither even nor odd either.  Unless these guys think they are smarter \nthan the accumulated wisdom of ancient greek the greatest center of \nlearning in history.\ufeff", 
+            "author": "Graham6762"
+        }, 
+        {
+            "date": "2015-05-07T21:17:08.100Z", 
+            "text": "+Graham6762 They most certainly are! Just like I know more physics that \nIsaac Newton.", 
+            "author": "peanutaxis"
+        }, 
+        {
+            "date": "2015-05-04T06:22:16.707Z", 
+            "text": "+Matt L It use to be taught in public schools as neither odd nor even but \nits own category.", 
+            "author": "Graham6762"
+        }, 
+        {
+            "date": "2015-05-04T03:08:57.219Z", 
+            "text": "+Graham6762 1 is an odd number...", 
+            "author": "Matt L"
+        }, 
+        {
+            "date": "2015-05-01T13:46:24.596Z", 
+            "text": "3:43 omg when he suddenly stopped smiling XDDDDDDDD it was ike U Fokin Wot \nM8?!\ufeff", 
+            "author": "Try To Be Different"
+        }, 
+        {
+            "date": "2015-04-30T14:09:09.748Z", 
+            "text": "One is not alone, it has -1 to play with :D\ufeff", 
+            "author": "cyan cast mattkew"
+        }, 
+        {
+            "date": "2015-04-30T13:19:00.641Z", 
+            "text": "You said that all whole numbers greater 1 are made of prime numbers. And I \nfind it kind of funny thinking about mathematics evolving different: Using \nprime numbers to define numbers.\n\nI could think of a system like this:\n(...) means the prime number number...\n... ... means ... * ...\ne.g.: 2 would be 1 => first prime number\n3 would be (1) => second prime number\n4 : (would be) 1 1 => 2 * 2\n5 : ((1)) => 3rd prime number\n6 : 1 (1)\n7 : (1 1)\n8 : 1 1 1 => 2 * 2 * 2\n9 : (1) (1)\n10 : 1 ((1))\n11 : (((1)))\n12 : 1 1 (1)\n13 : (1 (1))\n14 : 1 (1 1)\n15 : (1) ((1))\n16 : 1 1 1 1\n17 : ((1 1))\n18 : 1 (1) (1)\n19 : (1 1 1)\n20 : 1 1 ((1))\n21 : (1) (1 1)\n22 : 1 (((1)))\n23 : ((1) (1))\n24 : 1 1 1 (1)\n25 : ((1)) ((1))\n\nWould be just a little bit difficult to count...\ufeff", 
+            "author": "CodenameLambda"
+        }, 
+        {
+            "date": "2015-04-28T14:45:11.611Z", 
+            "text": "Optimus Prime?\ufeff", 
+            "author": "CjPieguy KA"
+        }, 
+        {
+            "date": "2015-04-20T18:11:31.603Z", 
+            "text": "i didnt understand the theoreme !!\ufeff", 
+            "author": "chaimoss"
+        }, 
+        {
+            "date": "2015-04-18T05:05:26.244Z", 
+            "text": "isnt 1 in multiplication just excluded anyway though? If i have 1x im just \ngoing to write x not 1x.. so if i have 1x3x5 im just going to write 3x5\ufeff", 
+            "author": "2010RSHACKS"
+        }, 
+        {
+            "date": "2015-04-17T19:25:14.929Z", 
+            "text": "1 is not a prime number. (WHAT?) #unlearning  #math\n\nI came across this while reading a GRE review book. I thought it was a typo \nat first, but it turns out that it's true. I find this happens more and \nmore now, that adulthood seems to consist of unlearning things you've \nlearned before.\n\nIn this case, I distinctly remember learning in grade school that 1 was a \nprime number. Had I just been taught wrong? Well, not really, but maybe it \ntook a while for the updated information to reach math teachers in the \nPhilippines. 1 was historically considered a prime number. According to \nWikipedia, the last professional mathematician to consider 1 a prime number \nwas Henri Lebesgue, and he died in 1941. :/\ufeff", 
+            "author": "Stefanie Jacinto Deo"
+        }, 
+        {
+            "date": "2015-04-17T07:01:04.361Z", 
+            "text": "Sophistry.\ufeff", 
+            "author": "Clinton Johnson"
+        }, 
+        {
+            "date": "2015-04-17T12:01:50.040Z", 
+            "text": "+Clinton Johnson What in the video is fallacious?", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-04-11T21:55:43.950Z", 
+            "text": "If 1 was a prime number, then all prime number will chase to exist as such \nbecause 3X1=3 and three is a product of two prime numbers. This just blew \nmy mind...\ufeff", 
+            "author": "Daniel Mestriner"
+        }, 
+        {
+            "date": "2015-04-11T05:05:04.989Z", 
+            "text": "so weit, so gut\ufeff", 
+            "author": "Martin Renner"
+        }, 
+        {
+            "date": "2015-04-10T13:34:50.548Z", 
+            "text": "So is 1 a whole number or not? And then it doesn't seem like prime numbers \nwould fall under that category either as their only two factors consist of \nan apparently non-prime number.\ufeff", 
+            "author": "Josh Bjelovuk"
+        }, 
+        {
+            "date": "2015-04-14T23:56:05.682Z", 
+            "text": "+Josh Bjelovuk I don't understand what you're asking.", 
+            "author": "Jakromha"
+        }, 
+        {
+            "date": "2015-04-07T12:56:08.333Z", 
+            "text": "That last one feels like cheating...\ufeff", 
+            "author": "ComandanteJ"
+        }, 
+        {
+            "date": "2015-04-15T15:53:23.994Z", 
+            "text": "+ComandanteJ It feels like that, but if you look at a bunch of other stuff \nin maths you'll find that defining the empty product as \"1\" fits perfectly \nin every case you can possibly use it in. It's really interesting to study \nvarious formulas and models and you discover that defining the empty \nproduct as 1 just makes all of them work flawlessly. It really seems to be \na universal truth for some reason, even if it might be difficult to \nunderstand why.", 
+            "author": "MasterOfTheChainsaw"
+        }, 
+        {
+            "date": "2015-04-06T04:47:25.252Z", 
+            "text": "welll, is optimus a prime?\ufeff", 
+            "author": "damafkinguy"
+        }, 
+        {
+            "date": "2015-04-04T21:42:07.196Z", 
+            "text": "I love this channel and have learned lots. Thank you Brady and everyone \ninvolved. \n\nDid anyone notice it says \"written as a unique...\"? Shouldn't it be \"...an \nunique?\" or am I missing something?\ufeff", 
+            "author": "Trip75"
+        }, 
+        {
+            "date": "2015-04-05T23:23:33.190Z", 
+            "text": "+MuffinsAPlenty I had a feeling that I misunderstood. I'm glad I asked and \nthank you for taking the time to explain. Much appreciated!", 
+            "author": "Trip75"
+        }, 
+        {
+            "date": "2015-04-05T19:04:55.380Z", 
+            "text": "We use a or an depending on the first *sound* of the next word.  \n\n\"Unique,\" although starting with a vowel, actually begins with a consonant \nsound in its pronunciation, so it is properly written as \"a unique\" rather \nthan \"an unique.\"  \n\nThe opposite situation can be seen with words like \"hour.\"  Even though \n\"hour\" begins with a consonant, the pronunciation begins with a vowel \nsound, and so one would say \"an hour\" rather than \"a hour.\"\n\nAlthough there are sometimes exceptions to this rule.  \"A historical\" and \n\"an historical\" are often both accepted.\n\nhttp://english.stackexchange.com/questions/152/when-should-i-use-a-vs-an", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-04-01T04:32:24.840Z", 
+            "text": "Sorry, one is still prime. Because if you have to wait until everything \naligns with all discovered and unknown theorems, nothing would ever be \nsettled. \ufeff", 
+            "author": "nosuchthing8"
+        }, 
+        {
+            "date": "2015-03-31T01:13:31.831Z", 
+            "text": "Could you not also define 1 to be the lim(n->inf) [1x1x1x...xn]?  would \nthat not be an equally valid defintion of a unique product of primes?\ufeff", 
+            "author": "Evan Fabri"
+        }, 
+        {
+            "date": "2015-03-31T01:14:38.444Z", 
+            "text": "I already feel kinda stupid.  Treat it as a retracted musing.", 
+            "author": "Evan Fabri"
+        }, 
+        {
+            "date": "2015-03-30T04:34:12.738Z", 
+            "text": "what about 1*2?\ufeff", 
+            "author": "Timmy Bacon"
+        }, 
+        {
+            "date": "2015-03-29T20:38:35.297Z", 
+            "text": "empty product....that is some dodgy maths\ufeff", 
+            "author": "thatsnotmyname"
+        }, 
+        {
+            "date": "2015-03-29T18:00:33.353Z", 
+            "text": "why 1 is not a prime number\ufeff", 
+            "author": "Abi Martinez"
+        }, 
+        {
+            "date": "2015-03-28T20:23:55.447Z", 
+            "text": "This guy blows my mind every time I watch his videos\ufeff", 
+            "author": "Anirudh Kalkotwar"
+        }, 
+        {
+            "date": "2015-03-24T06:00:48.600Z", 
+            "text": "I understand all that BUT, whats the use of prime numbers?, i never get \nthat\ufeff", 
+            "author": "KaelDragon"
+        }, 
+        {
+            "date": "2015-03-28T23:32:42.413Z", 
+            "text": "Cryptography. ", 
+            "author": "Yuri de Castro"
+        }, 
+        {
+            "date": "2015-03-22T02:14:00.211Z", 
+            "text": "If \"every positive whole number can be written as a unique product of \nprimes\" - what about prime numbers themselves? They are positive whole \nnumbers, and they can only be written as a unique (integer) product of \nthemselves and one. If one isn't prime, then they can't be written as \"a \nunique product of *primes*,\" but rather as a unique product of *a prime* \nand one.\ufeff", 
+            "author": "A. Joe"
+        }, 
+        {
+            "date": "2015-03-24T00:23:30.133Z", 
+            "text": "+MuffinsAPlenty Again, thanks for taking the time to respond.", 
+            "author": "A. Joe"
+        }, 
+        {
+            "date": "2015-03-24T00:17:43.608Z", 
+            "text": "+A. Joe Generally, people do the latter.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-03-23T22:07:50.000Z", 
+            "text": "+MuffinsAPlenty Thanks for the explanation.\n\nDoes the Fundamental Theorem of Arithmetic then need to be restated as \nwell? After all, the term \"primes\" *is* plural, and the distinction between \nunity and plurality seems to be a rather important one ... or should we \nsimply read it to mean (if it were fully expounded) \"one or more primes?\"", 
+            "author": "A. Joe"
+        }, 
+        {
+            "date": "2015-03-23T12:40:01.322Z", 
+            "text": "For this theorem, we are using a generalized notion of \"product.\" \n Technically, a product is the result of multiplying *two* numbers \ntogether.  No less, but no more either.  Obviously, seeing the statement of \nthe theorem, this is not the notion of product we are using.  (Think: 12 = \n2*2*3, a product of 3 primes.)\n\nSo we generalize the notion of product to be for any finite set of natural \nnumbers (this works well because of the commutative and associative \nproperties of multiplication).  So this allows us to multiply more than 2 \nnumbers together at a time, but we also extend the definition in the other \nway.  A product of one number is that number itself, and a product of zero \nnumbers (the empty product) is 1.\n\nSo 2 = 2 is writing 2 as a product of primes.  It is a unary product, \nhaving just one input.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-03-22T02:05:11.805Z", 
+            "text": "Also, I still say Pluto is a planet!!\ufeff", 
+            "author": "tjperez69"
+        }, 
+        {
+            "date": "2015-03-20T22:58:14.009Z", 
+            "text": "so you know about the empty product. now apply that to 0^0 and 0!.\ufeff", 
+            "author": "p0gr"
+        }, 
+        {
+            "date": "2015-03-19T23:22:45.890Z", 
+            "text": "This man is clearly psychotic. 3:39\ufeff", 
+            "author": "Jackie M"
+        }, 
+        {
+            "date": "2015-03-16T19:09:06.303Z", 
+            "text": "1 is like pluto?\ufeff", 
+            "author": "Brainiaco"
+        }, 
+        {
+            "date": "2015-03-15T14:26:36.492Z", 
+            "text": "its not important whether 1 is prime number or not. 1 plus 1 equals fixed \n2! hahah\ufeff", 
+            "author": "aghaanantyab"
+        }, 
+        {
+            "date": "2015-03-15T04:15:01.000Z", 
+            "text": "+Numberphile I think there is an easier way to describe why 1 isn't a prim \nnumber.\n\nThere are 4 categories of Numbers:\n0: Can't be divided by any Number to create something else then 0, and 0 \ndoesn\u2019t count\n1: Can only be divided by 1 Number, which is 1 by the way\nPrim Numbers: Can only be divided by 2 Numbers\nAny Other Number: Can be divided by 3 and more Numbers, but there is an \nfinite amount of Numbers\n \nThere are other \u201cspecial\u201d Numbers how would maybe also need an own \ncategory, like Infinity, because I think Infinity can theoretically be \ndivided by every Number. Also I don't know if negativ Numbers count as \nwell, but I don't think so.\n\nSo 1 is clearly not a prime becose it has only 1 factor. With other words \nthe definicion of prims is wrong, just a little tiny bit. New difinition: A \nprim Number is a Number that can exactly be divided by 2 diffrent factors. \nNot more, not less.\ufeff", 
+            "author": "Komory"
+        }, 
+        {
+            "date": "2015-03-10T21:13:07.516Z", 
+            "text": "But.... What about 0 and -1? What do they fit in as? Can negativ numbers be \nprime numbers at all? Hoped for ansawer in this video, but I try my luck in \ncomments insted.\ufeff", 
+            "author": "Seacon"
+        }, 
+        {
+            "date": "2015-05-08T00:16:54.286Z", 
+            "text": "No the current definition of a prime number is a positive number which is \ndividable by exactly two things.", 
+            "author": "Koen Looijmans"
+        }, 
+        {
+            "date": "2015-03-10T01:38:25.802Z", 
+            "text": "I guess I'm not seeing something here.  Did he concede at the very end that \n1 is not an integer?\ufeff", 
+            "author": "tony romabarian"
+        }, 
+        {
+            "date": "2015-03-15T04:05:01.109Z", 
+            "text": "thanks.", 
+            "author": "tony romabarian"
+        }, 
+        {
+            "date": "2015-03-13T13:22:17.392Z", 
+            "text": "No, not at all.\n\nHe said that 1 is the empty product, so it can be written as a unique \nproduct of primes, and so it fits with the theorem just fine.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-03-09T05:28:19.000Z", 
+            "text": "You should define prime numbers as a number which has exactly two factors. \nThat way, 1 is not a prime because 1 only has one factor, itself.\ufeff", 
+            "author": "smawzyv"
+        }, 
+        {
+            "date": "2015-03-19T06:43:53.914Z", 
+            "text": "+Simone Noli 6 has 4 factors:1,2,3, and 6.", 
+            "author": "Lexivor"
+        }, 
+        {
+            "date": "2015-03-19T00:22:14.551Z", 
+            "text": "You may wanna rephrase that. Your definition implies 6 to be prime.", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-03-14T15:20:49.567Z", 
+            "text": "1x1 = 1\n1 is a sneaky bastard.", 
+            "author": "soylentgreenb"
+        }, 
+        {
+            "date": "2015-03-08T12:52:37.169Z", 
+            "text": "imagine how people will feel when they find out that 2 isn't a prime too.\n\n; )\ufeff", 
+            "author": "daniel saavedra"
+        }, 
+        {
+            "date": "2015-03-08T11:38:52.409Z", 
+            "text": "I was taught that 1 isn't prime because primes have 2 factors, and 1 only \nhas 1.\ufeff", 
+            "author": "LexPro"
+        }, 
+        {
+            "date": "2015-05-08T23:13:15.000Z", 
+            "text": "+Allan Floyd the video is talking about why 1 is not prime.\ufeff Don't talk \ndown to me because you didn't read my original comment.", 
+            "author": "LexPro"
+        }, 
+        {
+            "date": "2015-05-02T16:06:23.503Z", 
+            "text": "+LexPro ...But the video is talking about prime factors, thats the whole \ndefinition that we're talking about here.\nDo try to keep up.", 
+            "author": "Allan Floyd"
+        }, 
+        {
+            "date": "2015-05-02T10:45:25.000Z", 
+            "text": "+Allan Floyd I'm not talking about prime factors, I'm talking about factors \nof primes.", 
+            "author": "LexPro"
+        }, 
+        {
+            "date": "2015-05-02T06:00:41.331Z", 
+            "text": "+LexPro Two primes is not part of the definition. Larger numbers have to be \nmade with many prime factors. 16 = 2x2x2x2", 
+            "author": "Allan Floyd"
+        }, 
+        {
+            "date": "2015-04-01T09:01:14.000Z", 
+            "text": "Sorry, got primes confused.", 
+            "author": "RTKeulen"
+        }, 
+        {
+            "date": "2015-03-31T17:59:47.684Z", 
+            "text": "+RTKeulen 2 has two factors. 1, and 2. (Facepalm)", 
+            "author": "LexPro"
+        }, 
+        {
+            "date": "2015-03-31T17:45:31.290Z", 
+            "text": "Then 2 wouldnt be a prime either.", 
+            "author": "RTKeulen"
+        }, 
+        {
+            "date": "2015-03-19T16:59:08.529Z", 
+            "text": "That's what i thought, 1 is not a prime, cause primes have 2 factors", 
+            "author": "NumberHunterP (old channel)"
+        }, 
+        {
+            "date": "2015-03-06T11:31:19.532Z", 
+            "text": "How can 2 be a product of itself?\ufeff", 
+            "author": "marshalt"
+        }, 
+        {
+            "date": "2015-03-03T22:04:48.136Z", 
+            "text": "according to that theory 15=3x5 ok that's the unique wayfor 15 but what \nabout 5? 5=5x1 but 1 is not prime\ufeff", 
+            "author": "powerspiros"
+        }, 
+        {
+            "date": "2015-03-03T20:54:34.675Z", 
+            "text": "how do u make 1?\ufeff", 
+            "author": "evanbuildz1234"
+        }, 
+        {
+            "date": "2015-03-03T08:42:56.573Z", 
+            "text": "number one, you have the bridge!\ufeff", 
+            "author": "trisymphony"
+        }, 
+        {
+            "date": "2015-02-28T17:37:00.262Z", 
+            "text": "0=1 what???\ufeff", 
+            "author": "Manhattan Madness"
+        }, 
+        {
+            "date": "2015-02-28T13:39:02.828Z", 
+            "text": "1 is not a prime number because 1^everything=1 \nEverything^0=1,2^0=2/2=1,(-6)^0=(-6)/(-6)=1\nIf 0^0=0/0 it should be undefined but if you press calculator 0^0 it will \ndisplay 1\nMay be 2!=1X2 1!=1 0!=1!/1=1/1=1 so 0!=0^0=1\nBut 0^positive number=0 but 0^negative number is undefined\nIt is so funny and interesting\n0 is not a prime number because 0 times everything is equal to 0\nBut everything divided by 0 is undefined infinity positive and negative or \nall (because 0 times everything is equal to 0) 0X5=0X0=0X(-17)=0 so 0 is \nnot composite number\ufeff", 
+            "author": "cheuk chi wong"
+        }, 
+        {
+            "date": "2015-02-25T10:50:43.199Z", 
+            "text": "One IS a prime number by definition, and anyone reading the theorem should \nknow that multiplying by one is.. a null operation. That means that \nmultiplying by one doesn't really touch the uniqueness of the product, not \nreally. It's like saying that adding a zero changes the uniqueness of a sum.\n\nOh, and PI is still wrong.\ufeff", 
+            "author": "Thomas Anderson"
+        }, 
+        {
+            "date": "2015-04-07T07:26:55.051Z", 
+            "text": "+Nikolaus Yochum\nCorrection, I said \"PI is still wrong\"\nGoogle Tau Manifesto to learn more.", 
+            "author": "Thomas Anderson"
+        }, 
+        {
+            "date": "2015-04-07T00:48:15.340Z", 
+            "text": "why do you think Pi is wrong?", 
+            "author": "Nikolaus Yochum"
+        }, 
+        {
+            "date": "2015-02-28T03:05:38.498Z", 
+            "text": "Most definitions of prime specifically exclude 1.\n\nAnd, if 1 were a prime number, it absolutely would touch the uniqueness of \nthe product.  I think you're confusing the word \"uniqueness\" with \"value.\"", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-02-22T07:40:28.463Z", 
+            "text": "aaaaaaaaaaaaaawwwwwwwwwwwww, we had a happy ending after all ... maybe?\ufeff", 
+            "author": "MoveLookListen"
+        }, 
+        {
+            "date": "2015-02-19T02:44:08.781Z", 
+            "text": "Another way to state the FTA is as follows:\n\n\"Let P be the set of prime numbers. Then for any positive whole number N \nthere is a unique subset K of P such that N is the product of the elements \nof K.\"\n\nThe set of primes such that 1 is the product of its elements is empty, and \nthe empty set is a subset of any set, including P.\ufeff", 
+            "author": "Fauxe Fox"
+        }, 
+        {
+            "date": "2015-02-18T23:51:28.828Z", 
+            "text": "Lol. \"Can only de bivided by...\"\ufeff", 
+            "author": "Nicholas Hajek"
+        }, 
+        {
+            "date": "2015-02-14T02:31:09.000Z", 
+            "text": "there are primes, composites and units. 1 is a unit number. \nIs zero a number? Or is it more like infinity, a concept?\ufeff", 
+            "author": "GPC\u2122"
+        }, 
+        {
+            "date": "2015-02-15T04:45:53.544Z", 
+            "text": "0 is a number.  It is another category of number.  It is a \"zero divisor.\"\n\nI guess, technically, some people require that zero divisors be non-zero, \nbut people who study commutative ring theory and commutative algebra \ngenerally consider zero to be a \"zero divisor\" (except in the 0 ring).", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-02-13T13:48:53.074Z", 
+            "text": "This is so cool! I once thought of the fundamental theorem of arithmetic \nwhen trying to estimate logs without using a calculator (well, not \ncompletely) by remembering the (approximate) logs of basic primes, like 2, \n3, 5, 7 ..., because any number I saw could be written as a product of \nthese primes and then using the log rule for addition, find the log.\ufeff", 
+            "author": "Abdullah Almosalami"
+        }, 
+        {
+            "date": "2015-02-13T00:08:54.095Z", 
+            "text": "If 1 isn't a prime nor a composite, what's 0 then?\ufeff", 
+            "author": "Cakeless Gaming"
+        }, 
+        {
+            "date": "2015-02-16T05:14:56.209Z", 
+            "text": "I feel like that -1 is also a prime", 
+            "author": "aq"
+        }, 
+        {
+            "date": "2015-02-15T04:46:07.568Z", 
+            "text": "0 is also neither prime nor composite.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-02-11T02:31:53.090Z", 
+            "text": "What makes a number a prime number?!\ufeff", 
+            "author": "Stevesrssrssrs"
+        }, 
+        {
+            "date": "2015-03-06T23:51:06.000Z", 
+            "text": "Having exactly two unique factors; no more and no less.  Those two factors \nbeing the prime itself and the unit number (1).  Since 1 has a factor only \nof the unit number (1), it is not prime.  It's a shame he didn't explain it \nthat way.", 
+            "author": "The Science Of..."
+        }, 
+        {
+            "date": "2015-02-10T01:54:36.497Z", 
+            "text": "Ha, when he mentioned the definition for the Theory of a Arithmetic, I \nimmediately thought \"hang on, the doesn't work for prime numbers \nthemselves. 2x1 isn't unique\". Then the last few seconds of the video blew \nmy tiny little mind! \ufeff", 
+            "author": "14loosecannon"
+        }, 
+        {
+            "date": "2015-01-28T23:27:39.278Z", 
+            "text": "i like dis guy\ufeff", 
+            "author": "MrAquaX"
+        }, 
+        {
+            "date": "2015-01-28T12:03:23.632Z", 
+            "text": "A example illustrating that the empty product = 1 (using 2, 3, 5 and 7 as \nsample multipliers):\n\nproduct(2, 3, 5, 7)\n= product(2, 3, 5) x 7\n= product(2, 3) x 5 x 7\n= product(2) x 3 x 5 x 7\n= product() x 2 x 3 x 5 x 7\n\n... so the remaining empty product on the left must = 1.\n\nThe empty sum can be shown to be zero by similar means.\ufeff", 
+            "author": "Will Pugh-Calotte"
+        }, 
+        {
+            "date": "2015-01-26T18:16:20.580Z", 
+            "text": "This may be a stupid question, but if they exclude 1 from the primes then \nhow can 1 be written as a product of primes? \ufeff", 
+            "author": "Axl Roos"
+        }, 
+        {
+            "date": "2015-01-23T01:00:33.000Z", 
+            "text": "1 is the Pluto of prime numbers\n\n\nnot sure if I'm happier with saying that 1 is an empty product rather than \nsaying that every whole number is a product of  prime numbers except 1\ufeff", 
+            "author": "Marc Rindermann"
+        }, 
+        {
+            "date": "2015-01-21T06:35:32.850Z", 
+            "text": "uhh 30 isnt a prime number\ufeff", 
+            "author": "KINGOFTHECREED"
+        }, 
+        {
+            "date": "2015-01-18T12:34:41.264Z", 
+            "text": "mmm something sounds wrong because in the expression 2=2 where is the \nproduct?\n\nWhen I studied mathematics 1 was a prime, it fits the definition. Now it is \nnow more but the definition hasn't changed, why? I think the theorem \nformulation (or primes definition) must be revised.\ufeff", 
+            "author": "kowalski2015"
+        }, 
+        {
+            "date": "2015-02-13T19:08:56.000Z", 
+            "text": "there is a difference between the product as an opperation (needs 2 numbers \nas input, gives 1 number as result)\nand a sequence of products(takes a sequence as input)\n2=2 is a sequence of products where the sequence is only 1 number\nbut yeah noone says sequence of products or sequence of sums out there. its \njust the product and the sum", 
+            "author": "Banjo"
+        }, 
+        {
+            "date": "2015-02-01T14:20:50.566Z", 
+            "text": "+kowalski2015 Most definitions of prime you see will specifically exclude 1 \nfrom the definition.  \n\nFor example, Wikipedia gives this definition:\n\"A prime number (or a prime) is a natural number greater than 1 that has no \npositive divisors other than 1 and itself.\"\n\nWolfram MathWorld gives this definition:\n\"A prime number (or prime integer, often simply called a \"prime\" for short) \nis a positive integer p>1 that has no positive integer divisors other than \n1 and p itself. (More concisely, a prime number p is a positive integer \nhaving exactly one positive divisor other than 1.)\"\n\nAnd even if you're dealing with abstractions of the concept of prime in \nsubjects like abstract algebra, units are specifically excluded from the \ndefinition of a prime (in any commutative ring where 1 exists, 1 is a unit, \nand so is excluded from the definition of prime).  Wikipedia gives this \ndefinition for a prime element of a commutative ring:\n\"An element p of a commutative ring R is said to be prime if it is not zero \nor a unit and whenever p divides ab for some a and b in R, then p divides a \nor p divides b.\"", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-01-24T07:50:51.404Z", 
+            "text": "+Sting Ray first of all thanks for the respect shown, then I just said to \nreview the definition not one, the other or both.....change what you want, \nit's not my job to do that! Now, 1 fits the definition, the speaker said \n\"mathematicians\" were bored to repeat every time in theorems that 1 must be \nexcluded so they excluded 1 from primes. For me that's ok...but where is it \nwritten?????? Change the definition  of prime number!  ", 
+            "author": "kowalski2015"
+        }, 
+        {
+            "date": "2015-01-14T21:46:29.104Z", 
+            "text": "3:44 the laugh then the straight face immediately after...\ufeff", 
+            "author": "Scott Boyd"
+        }, 
+        {
+            "date": "2015-01-24T11:09:13.266Z", 
+            "text": "He's a mathematician, he almost certainly has to act out all shows of \nemotion in order to interact in a socially normal manner.", 
+            "author": "Capi Swift"
+        }, 
+        {
+            "date": "2015-01-14T21:18:50.708Z", 
+            "text": "What do they call the sequence of numbers that progress by doubling? \nSequence=1,2,4,8,16,32,64,128, 256,512,1024,2048 to infinity? What's the \nterm for them? They're too unique to not be a special category..\ufeff", 
+            "author": "ROGER FANCHER"
+        }, 
+        {
+            "date": "2015-01-20T21:30:05.000Z", 
+            "text": "That's just the sequence of form 2^n, where n > or = 0\n\n2^0=1   2^1=2   2^2=4   2^3=8   and so on", 
+            "author": "Brettorini"
+        }, 
+        {
+            "date": "2015-01-14T21:31:21.442Z", 
+            "text": "Another property is that there's a pattern of  @ the last \ncharacter-2,4,8,1(6),3(2),6(4),12(8),25(6),102(4), Again what,s the name of \nthose numbers?", 
+            "author": "ROGER FANCHER"
+        }, 
+        {
+            "date": "2015-01-13T15:29:11.090Z", 
+            "text": "And that is why mathematics should have nothing to do with physics.\ufeff", 
+            "author": "psilocyberspaceman"
+        }, 
+        {
+            "date": "2015-01-11T21:38:47.000Z", 
+            "text": "Why is 1 the result of an empty product? Here's why:\n\n2^3 = 2x2x2 = 8\n2^2 = 2x2 = 4\n2^1 = 2 = 2\n2^0 = __ = 1\n3^0 = __ = 1\nn^0 = __ = 1 (any number multiplied by itself 0 times is always 1 -- that \nwas just decided some time, and I'm sure it's since been thoroughly proven, \nhowever counter intuitive it may be).\n\nI wish they included the P^0 part in the video, because that would have \nhelped clear up why the empty product is 1.\n\nEven 0 can be excluded by this definition, because while in theory it can \nbe divided by itself (0/0 = 0) and 1 (0/1 = 0), there is no product of \nprimes that results in 0, even the empty product stops at 1.\ufeff", 
+            "author": "athox"
+        }, 
+        {
+            "date": "2015-05-06T08:12:54.069Z", 
+            "text": "+MultiOmps\nNo loops are needed. Increasing number of bits allowed in the answer is \njust to show that you are responsible for define the maximums.", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-05-06T06:39:04.967Z", 
+            "text": "+Frank Sacksen In software though we just learned about forever loops in \ncoding, so if power was continually supplied to a computer to repeat that \ncode, then it will never stop. This chain is more about how we should aim \nto make maths more applicable in the practical world. The 1/0 problem in \nmathematics just makes it impractical. There might be a situation where you \nmight have to divide by zero (perhaps in chemistry or maybe physics). What \nmakes this worse is that many mathematicians don't consider infinity to be \n\"real\" which makes it hard. If we define the largest number to be 130 and \nwe do 2/0 = 130 then it is technically wrong because in the practical world \nit won't match up.", 
+            "author": "MultiOmps"
+        }, 
+        {
+            "date": "2015-05-05T18:26:42.296Z", 
+            "text": "+ElTito Alberto Sure you can and the answer is always either positive or \nnegative infinity or more precisely, positive or negative x where x is the \nmaximum value you defined prior to yor calculation. Thus, if you have 8 \nbits as your limit and want to represent both negative and positive number \nwith the use of two compliment aritmetic then ?/0 equals -128 or +127. It \ndepends if ? is negative or positive. Any other aritmetic is incoherent \nrant.\n\nWhat does this means? Well, it means you must be careful when your result \nreach absolute maximum. Then the result may be corrupt. The solution may be \nto increase the absolute maximums. You may do this as many times you like, \nbut the maximums must be a const for each iteration of your calculation.\n\nInfinite doesn't exist. It's just a mind construction to refer to something \nthat has no limit. Just like unicorns. You never need infinite to calculate \nsomething. If your axioms dictates you do, then there is something wrong \nwith the axioms. Fix them. (To get rid of axiom of choice is not enough).", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-05-05T17:42:12.044Z", 
+            "text": "+athox you cannot divide any number by 0", 
+            "author": "ElTito Alberto"
+        }, 
+        {
+            "date": "2015-04-03T13:05:11.000Z", 
+            "text": "+MultiOmps\nYou have absolutely nothing to be sorry about. You show all honest signs of \nwanting to come to terms of how consistent math must look like. This in a \nworld that practise inconsistent Cantor rant. You're a rare person. Even \nthough this may look simple, still it is exactly at the most simplistic \ncore it is the most important to be sure one has not gone wrong, already. \nCarefulness is of the essence. Futher more, it is no only the axiom of \nchoice that makes math inconsistent. Almost all the axioms do. We actally \nneed to start all over. We will not get a fundamentally new math from such \nwork. It will be clearer and much easier to learn. Above all, it will be \nconsistent, but not complete.", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-04-03T12:48:29.119Z", 
+            "text": "+Frank Sacksen Sorry about that, I may have made myself sound incompetent \nwhen I was just trying to understand and come in terms with something. \nAlso, I do know how to draw a number plane it was just the concept of \ndivision by zero which was the problem. In summary, my problem is solved. ", 
+            "author": "MultiOmps"
+        }, 
+        {
+            "date": "2015-04-03T12:29:52.905Z", 
+            "text": "+MultiOmps I thought I had been the clearest I could be. Anyways. Lets have \nsome more for the sake of clearity. You are allowed to make any number line \nyou want only limited by this:\n- draw a line as long as you wish.\n- Mark the start as zero.\n- Mark where you want the base to be and make sure it is distinct from zero.\n- with the same distance add more numbers, as many you like.\n\nWhen finish with as many numbers you like you are allowed to add names to \nany position you like. Where on the line you want to call infinite is \ntotally up to you if you only follow the rules. Obviously you are not \nallowed to add more numbers after the place on the line you call infinite. \nIt follows from the definition of infinite.", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-04-03T11:55:12.164Z", 
+            "text": "+Frank Sacksen That is a very good point and just to be clear, can I define \nmy largest number as infinity? This is the last question I ask because I am \nstarting to understand your view.", 
+            "author": "MultiOmps"
+        }, 
+        {
+            "date": "2015-04-03T09:20:15.000Z", 
+            "text": "+MultiOmps Maybe my analogy can shine some light on this topic. It also \nlooks like you would be able to devide a meter in half more than 116 times, \nbut you can't. The smallest possible length is planck's. When you have \ndevided a meter in half 116 times and if you try one more time it will get \nunder planck's and this is impossible. This is basically the same thing, \nonly in the other end of infinite: infinitesimal.\nWhen you define your largest number to be 9000 there is no such thing as a \nnumber larger than 9000. You may define it as any size you want, but it \nmust be finite for your math to be consistent.\nAn another important thing to consider is the fact that math is not part of \nreality. The fact that much math can be used on reality with great success \nis more or less a coincidence, an accident.\nMath is just a thought system and if we want it to be consistent, we are \nforced to define everything a priori taking this system into use. What you \nreally say when you kind of feel the answer should be larger than 9000 is \nnothing less than your intuition telling you that your largest number could \nbe one more than the number you are have chosen, and you would be perfectly \nright, but that doesn't free you from the obligation to define your largest \nnumber and feel the obligation to keep to your definition until your \ncalculation is done.", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-04-03T08:34:41.056Z", 
+            "text": "+Frank Sacksen I am trying to prove a mathematical concept through \npractically proving it in the real world. A lot of mathematical theory \nwould say \"MultiOmps you sir cannot say infinity is a real number\" while in \nreal life things look like they hint otherwise. This sure is a complex \ntopic but say I defined 9000 as the highest number and performed the \nfunction x/0, say x=1. I will get 9000 right? But in real life when I walk \nup to 0 people and share 1 orange with them, I will be able to share it \nmuch more than just 9000 times. This is where the core of this discussion \nlies.", 
+            "author": "MultiOmps"
+        }, 
+        {
+            "date": "2015-04-03T07:48:40.000Z", 
+            "text": "+MultiOmps\nThat's just semantic. Just because no people can finish an orange doesn't \nmean an orange can be shared infinite amount of times. The only way to make \nsense of such arithmetic is to demand you owe to define the upper and lower \nlimits of your set of numbers to a finite. Then the answer of your division \nby zero will then be the number you have chosen to be the largest in your \nset of numbers. This can easily be shown instructively with the most basic \ncomponents of operation, ex in a computer. If a computer was not allowed to \nscream exception the answer would be the largest number it is allowed to \nhold in the accumulator.", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-04-03T07:05:42.181Z", 
+            "text": "+Frank Sacksen Okay but if there is 0 people then how can 0 people finish \nan orange? Won't 0 people continually take 0 parts of the orange and so \nthat means 0 people will forever take 0 parts of the orange and this very \nprocess is infinite. I think I might need an explanation here? ", 
+            "author": "MultiOmps"
+        }, 
+        {
+            "date": "2015-04-03T07:31:42.000Z", 
+            "text": "+MultiOmps\nIs there a negation too many or too few in your text?\nAnyways, there is only when you define a finite set of numbers a priori to \nyour calculations you actually can have an end number. You write the \nopposite.\nThere is impossible to share anything, infinite amount of times, so no, \ninfinite is not part of our life. If you like, feel free to try. No, I mean \nit, actually try to share something infinite amount of times. We can't even \ncut in half, infinite amount of times. We will very soon get to planck's \nlength and then our half cutting comes to an end. If we start with a meter, \nwe can cut it in half 116 times. At the 117 time, we have reached planck's \nlength and what we have can not be any smaller. This is the very reason of \nmy criticism of arithmetics of today. Cantor's infinite sets is a bad way \nto understand math. Cantor's infinite sets is also a bad way to try to \nunderstand the world. It's not a huge mistake so that all modern maths get \nuseless. It's a matter of teaching in a sensible manner. It equals teaching \nstudents Pi when they should learn Tau with an analogy to geometry.", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-04-02T23:28:30.308Z", 
+            "text": "+Frank Sacksen But the flaw with using *only* finite numbers is that you \ncan't mark an \"end\" number. You have a beginning number (which is 0) but no \nend...how do you expect maths to be properly defined arithmetically if you \ncan say there is an end number when there is. I think infinity is a number \nbut it just isn't countable which shouldn't be counted as a flaw. Infinity \nis a real number because it can exist in real life. Think about it, I walk \nup to 0 people and give 0 people 1 orange because I can share that 1 orange \nan infinite amount of times with 0 people, it is therefore a real number \nbecause it exists in the real world. \u221a-1 isn't real because we can't square \nroot a negative number in the real world but infinity does exist in the \nreal world so it should be a real number and the inability to physically or \ntheoretically count it should not stop it from its inclusion in the real \nnumber line. ", 
+            "author": "MultiOmps"
+        }, 
+        {
+            "date": "2015-04-02T12:49:29.339Z", 
+            "text": "+MultiOmps The idea is good, but there is a problem when we define \u221e as \nanything else but a number. You are allowed to have as many numbers you \nlike in the set of all numbers, but that number itself must be a number, a \ncountable number. Infinite is not a number, but an idea that tells you, you \nare allowed to have any finite number of numbers in your set of numbers and \nthis must be defined a priori to any calculation or a finite set of \ncalculations.", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-04-02T07:14:28.838Z", 
+            "text": "+Frank Sacksen So when people say any number (n) divided by zero is \nundefined, they are saying it is an undefined number but can't we define \u221e \nas the largest number in maths and -\u221e as the smallest? So then n/0 is \ndefined as infinity and -n/0 is defined as -\u221e.", 
+            "author": "MultiOmps"
+        }, 
+        {
+            "date": "2015-04-02T01:07:45.036Z", 
+            "text": "+Simone Noli\nOh no, it's a serious question.", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-04-02T01:03:59.565Z", 
+            "text": "+Frank Sacksen wow. Got slapped in the face one time too many huh? you \ncould suck a dick just by swallowing.", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-04-02T00:56:12.670Z", 
+            "text": "+Simone Noli\nAre you able to bend your back enough to suck your own dick?", 
+            "author": "Frank Sacksen"
+        }, 
+        {
+            "date": "2015-04-02T00:39:41.648Z", 
+            "text": "+Frank Sacksen oh i came across the real definition of prime in maths. Its \non wikipedia lol. seems this way its an old school definition.", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-01-11T17:26:17.793Z", 
+            "text": "I don't like this formulation of the theorem, it means that \"2\" is a \n\"product\" of one number.  I think the theorem is better formulated that \nevery number is either PRIME ITSELF or the product of primes.\ufeff", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-02-13T19:00:11.329Z", 
+            "text": "+greg55666  i think this is more lazy maths, i think they are talking about \nProduct of sequences , in germany we also call this just product and dont \nsay Product of sequences(And we also dont say Sum of sequences).\nProduct of sequence with 1 number is the number itself\nProduct of sequences with 0 numbers is empty product and 1 by definition...\n\nyou think of the product as the operation.\nbut this operation is also just defined for 2 numbers so its not the \nproduct(opperation) they are talking about its the PRODUCT (does this make \nsence? xD )", 
+            "author": "Banjo"
+        }, 
+        {
+            "date": "2015-01-24T20:12:54.826Z", 
+            "text": "+athox n^1 \"must\" also be a valid product is just circular--I'm questioning \nwhether it should be included.\n\nI think your digression proves my point.  I'm saying \"n^1\" is not a \nproduct.  Let's get back to that in a moment.  You say, not only is n^1 a \nproduct, but so is n^0.\n\nIf you count n^0 as a product, you have broken the theorem.  Because then \n1=5^0, 1=10^0, 1=453235^0, etc.  So you MUST exclude n^0--n^0 cannot be a \n\"product\" for the purposes of this definition.\n\nWhy are you excluding n^0 as a \"product,\" but then objecting to me wanting \nto exclude n^1 as a \"product\"?  You've lost whatever principle you were \ngoing by.\n\nThe point of this theorem, as I understand it, is that there are two kinds \nof whole numbers:  prime numbers and composite numbers.  The point is that \nthere is no number that is NOT either prime or composite.  By not saying \nevery number is either prime or the product of primes, it seems to me you \nlose the entire point of the theorem.\n\nI think a better explanation is that saying \"a prime number is a product of \nitself\" is trivial, so it's unimportant either way.  Stating it as it is in \nthe video is more concise at the loss perhaps of a little more insight into \nits point; saying \"either prime itself or a product\" is more words, hence \nperhaps less clear even though perhaps it points more to the meaning of the \ntheorem.  But either way, the statement that a prime is a product of itself \nis trivial, so it is the author's choice.\n\nAs I said in my original post, I would have chosen the more words with the \ndeeper meaning.", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-01-24T11:05:34.994Z", 
+            "text": "I think it kinda goes without saying seeing as the *definition* of primes \nis that they are explicitly not made up of a product of any two other \nnumbers except themselves and 1. Seeing as the theorem includes the use of \nthe idea of prime numbers then it implicitly also excludes primes from \nneeding to comply with its stated definition.", 
+            "author": "Capi Swift"
+        }, 
+        {
+            "date": "2015-01-12T00:24:47.000Z", 
+            "text": "+greg55666 Why shouldn't prime numbers be included? The prime numbers have \na prime product too.\n\nYou can agree that n^2 is the same as n x n, right? As in, n multiplied by \nitself twice.\n\nEqually, n multiplied by itself once, must also be a valid product, namely \nn.\n\nn = n^1 = n\n\nSee? You cannot get past the n^1 as being a valid multiplication, even if \nit only has one factor.\n\n-------\n\nDigression:\n\nAlso, n multiplied by itself never, is also a valid product. Which is why \nn^0 = 1 has no factors, prime or otherwise... If you include 1 in primes \nthen you can do 1^1 = 1, but then we're back to intentionally excluding it \nfor practical purposes.", 
+            "author": "athox"
+        }, 
+        {
+            "date": "2015-01-11T23:34:22.203Z", 
+            "text": "+athox No, you're missing my point.  1 fits with the definition here too. \n Whether 1 should or should not be included in the definition is a separate \nquestion.  I'm saying the definition James gives here forgets to mention \nthat prime numbers should not be included.  (That is the definition I have \nseen, I'm saying, I do not doubt James has some justification for writing \nit as he did.)", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-01-11T21:35:19.299Z", 
+            "text": "But then you'd have to include 1, which they have decided is just in the \nway of most calculations using primes as a set. So when you want 1 removed \nfrom the set in the majority of the cases, that's a strong case for it not \nbelonging there...", 
+            "author": "athox"
+        }, 
+        {
+            "date": "2015-01-11T06:02:36.152Z", 
+            "text": "Perhaps you could say 1 doesn't fit the definition, \"one AND itself\".\nIts only factor is itself, and its 1, but there is only one factor not two. \nIt fits it in a way no other prime does, it is unique from the rest of \nthem.\ufeff", 
+            "author": "David North"
+        }, 
+        {
+            "date": "2015-01-09T23:54:12.407Z", 
+            "text": "Doesn't this leave a problem with the \"every number\" part since it means \nthat there is no way to write the number 1 if 1 itsself is not a prime. 1 \ncannot be a product of primes if it is not a prime itsself. \ufeff", 
+            "author": "kyatzz"
+        }, 
+        {
+            "date": "2015-01-09T18:59:33.212Z", 
+            "text": "I wish he had shown this process of factoring with a prime number, I feel \nlike if we state that 1 is not prime then there would not be a unique way \nof righting a prime number as a product of primes, as the only factors of a \nprime are itself and 1\ufeff", 
+            "author": "Chase Smith"
+        }, 
+        {
+            "date": "2015-01-06T02:52:28.637Z", 
+            "text": "Hmm, is it just me or did they break math? The fundamental mathematical \noperations (+ - * /) all have 2 arguments so a 0-length multiplication is \nbaloney... or for that matter a 1-length multiplication is also \"reaching\". \nEither 1 is prime or 1 and 2 are not positive whole numbers. In the case of \n+ an - there is always an implied 0 for operation, so -4 is actually 0-4 or \n4 units to the left of the 0. You NEVER have fundamental mathematical \noperators with just 1 argument there is always 2 arguments just like for \nnegative numbers there is an implied 0 minus the number.\ufeff", 
+            "author": "Igor Petrusky"
+        }, 
+        {
+            "date": "2015-01-06T02:56:06.826Z", 
+            "text": "How about simply rephrasing the fundamental theorem to state that it must \nbe irreducible product of prime numbers. This way prime numbers will become \nnumbers again and we don't have infinite number of unique multiplications \nwith a bunch on 1s since 1s will reduce to a single 1.", 
+            "author": "Igor Petrusky"
+        }, 
+        {
+            "date": "2015-01-04T13:09:36.896Z", 
+            "text": "Better definition of primes, that excludes 1: a natural number is called a \nprime number if it is only divisible by two different natural numbers. \ufeff", 
+            "author": "manu el"
+        }, 
+        {
+            "date": "2015-02-08T12:43:32.678Z", 
+            "text": "It does not hold for 6. 6 is divisible by 1, 2, 3 and 6.", 
+            "author": "manu el"
+        }, 
+        {
+            "date": "2015-02-06T20:13:21.599Z", 
+            "text": "Well, I don't know. 6 is not prime but clearly this holds for 6. It is \neasier to just exclude 1 because it is not really a composite nor a prime. \nIt is merely a unit. I remember Euclid's definition for a prime was a \nnumber that can only be defined by a unit alone, where 1 is considered the \nunit. Of course, it is recursive to allow for the unit to be defined by \nitself and would probably be easier to define a prime number as \"any \npositive integer n that can only be defined by a single unit less than \nitself\". This works for all primes, but 1 is not included since no positive \ninteger is less than 1.", 
+            "author": "Rellek"
+        }, 
+        {
+            "date": "2014-12-30T07:12:12.199Z", 
+            "text": "El Paska est\u00e1 bien pesado.\ufeff", 
+            "author": "Master Stroke"
+        }, 
+        {
+            "date": "2014-12-29T18:03:50.065Z", 
+            "text": "The Definition i learned is:\nA prime is a number thats divisible by 2 different natural numbers.\nAs easy as that.\ufeff", 
+            "author": "Iceman700"
+        }, 
+        {
+            "date": "2014-12-28T20:59:25.778Z", 
+            "text": "I just presumed that primes were numbers only made by two numbers (itself \nand 1), that because 1 was itself and 1, they were not two different \nnumbers and is excluded for that reason.\ufeff", 
+            "author": "KingOfSciliy"
+        }, 
+        {
+            "date": "2014-12-25T09:46:45.058Z", 
+            "text": "The video is based on two premises... \"1 is not a primer number\", and \n\"every positive whole number can be written as a unique product of primes\".\n\nWhat perplexes me is that when applying these premises to primes, in my non \nmathematician's opinion, prime numbers create a paradox. Either they are \nnot \"positive whole numbers\" or 1 is a prime.\n\nIn the video 4 is explained to be 2x2 but 2 two is shown to be the product \nof 2 only, which a far as I know is wrong because a product consists of 2 \nor more numbers, which means that 2 is in fact 2x1!\n\nCan anyone please explain or direct me to a clarification. \n\n\ufeff", 
+            "author": "David Zarb"
+        }, 
+        {
+            "date": "2015-01-04T14:49:58.132Z", 
+            "text": "Try to see it this way:\n\n2^4 = 16\n\n2^3 = 8\n\n2^2 = 4\n\n2^1 = 2\n\n2^0 = 1\n\nBut to be honest, it was explainations like \"it's an empty product\" that \nput me off mathematics as an early teenager. Mathematicians seem to come up \nwith the weirdest exceptions to their own rules only so I never knew what's \nwhat.", 
+            "author": "argh1989"
+        }, 
+        {
+            "date": "2015-01-04T13:06:10.749Z", 
+            "text": "The FTA is not a premise, it is a theorem, so it has been proven.", 
+            "author": "manu el"
+        }, 
+        {
+            "date": "2015-01-03T00:48:33.000Z", 
+            "text": "+Alex B Well, then I guess language is still the key, cause in french the \norder is clearly stated. Anyway, words are not suffisant and a clear \nformula is always part of the theorem. you *need* to state the order of the \nfactor somewhere in the formula, even if the translation of the theorem \nmakes it implicit or not. I was just answering another question at the same \ntime, asking why 2x3 and 3x2 should be considered the same. They are only \nthanks to the commutative property allowing to reaarange terms.", 
+            "author": "Olivier Le Tiec"
+        }, 
+        {
+            "date": "2015-01-02T23:51:26.855Z", 
+            "text": "+Olivier Le Tiec We're dealing with positive integers here. The commutative \nproperty applies and we don't have to add it to the theorem, since it just \nmakes it clunky. We don't have to explain what a product is. Positive \nintegers have certain properties that make 2x3 the same as 3x2, and we \ndon't need to mention those properties, that's for the proof, if we even \nneed it there, which I'm not sure on, but I'm pretty sure we don't.....", 
+            "author": "Alex B"
+        }, 
+        {
+            "date": "2015-01-02T23:46:25.959Z", 
+            "text": "+Alex B What do you mean \"unless noted\" ? Every maths property should apply \nunless stated otherwise ? It just happens to be true for some operations \nwithin some groups. Anyway, it is a problem of language here, should \n2x3x5x3 be the same \"unique writting\" than 3x2x2x5 ? The formal definition \nhas to be \"complete\" by itself or it will be wrong.", 
+            "author": "Olivier Le Tiec"
+        }, 
+        {
+            "date": "2015-01-02T23:39:59.307Z", 
+            "text": "+Olivier Le Tiec It is complete. 2x3 and 3x2 are understood to be the same \nbecause of the Commutative Property of Multiplication unless noted.", 
+            "author": "Alex B"
+        }, 
+        {
+            "date": "2015-01-02T16:03:48.000Z", 
+            "text": "The theorem is not complete. It should read \"every positive whole number \ncan be written as a unique product of primes, *regardless the arrangment of \nthose primes*\".\n\nMeaning that 6 = 2x3 = 3x2 is the same product, only the order is changed. \n6 = 1x2x3 would break this theorem, but 1 is not a prime.\n\nAnd 4 = 2x2, yes ! The theorem does not forbid the primes to be used more \nthan once in the product. Your assertion \"a product consists of 2 or more \nnumbers\" is wrong. A product are numbers multiplicating together, so there \ncan be only one number, 3 numbers, 10, or even 0 number, and they might be \nequal or not.\n\nMore precisely, for a given number N , you can choose *one and only one* \nlist of n numbers (p_1,p_2,....,p_n) and *one* list of power \n(a_1,a_2,...,a_n), such as:\n- the 'p' numbers are different primes number, arranged from the lowest to \nthe largest. (which gives an order and prevent the re-arrangment)\n- the powers 'a' are positive ( > 1 ) (which prevent the x^0 which is equal \nto one and would break the unicity)\n- you have :   N  =  productOfEvery( p_i ^ a_i ) , i going from 1 to n.\n\nn can be 0, then for 1 , the list of numbers p and a are empty, and  1 is \nthe product of the 'empty set'.\n\nThe consequence of this is that for every number, the number 'n' of prime \nfactors is set, and always exist (the list of factors cannot be infinite)", 
+            "author": "Olivier Le Tiec"
+        }, 
+        {
+            "date": "2014-12-24T05:49:16.198Z", 
+            "text": "2 Can't be the product of two prime numbers, because the term product \nimplies that two or more numbers are multiplied together.  In his example \nof 2, the number 2 was a product of itself, and that can't be a product, \nbecause it wasn't multiplied by anything.\ufeff", 
+            "author": "thedraphter"
+        }, 
+        {
+            "date": "2014-12-22T20:01:21.712Z", 
+            "text": "This sounded like a cop out. \ufeff", 
+            "author": "MrXperx"
+        }, 
+        {
+            "date": "2014-12-21T03:04:35.327Z", 
+            "text": "ONE (1) is a prime number.  Check out the Leo (356th) prime number.  It's \n2389 which is 23 conjoined with 89.  23 corresponds to I (9) Am (14) and 89 \nis the conjunctive prime root of Leo (356) = 89 prime X 4\ufeff", 
+            "author": "smartbandwidth"
+        }, 
+        {
+            "date": "2014-12-21T03:05:31.032Z", 
+            "text": "The above note includes ONE (1) in the count (list of prime numbers).", 
+            "author": "smartbandwidth"
+        }, 
+        {
+            "date": "2014-12-20T18:57:59.815Z", 
+            "text": "1 has infinite factors\ufeff", 
+            "author": "ChaoticMC1 '"
+        }, 
+        {
+            "date": "2014-12-17T18:24:05.264Z", 
+            "text": "I don't think adding or subtracting ones from the product changes the \nuniqueness of the product. Just like it's so obvious to all of us that 5*3 \nis the same as 3*5, it should be just as obvious that that they are the \nsame as 1*3*5. I think that not only is one prime, it's the primiest of \nprimes.\n\nIn what other context is one excluded as a prime?\ufeff", 
+            "author": "Edan Coll"
+        }, 
+        {
+            "date": "2015-04-14T23:54:28.762Z", 
+            "text": "+Edan Coll It's still a 3 connected to a 5. But if you connect a 1 to it it \nchanges.", 
+            "author": "Jakromha"
+        }, 
+        {
+            "date": "2014-12-16T11:44:40.000Z", 
+            "text": "I think a simpler way of describing it is \"Rule 2 of prime numbers: The \nproduct of two prime numbers gives a third number\"\n\nEg: 2x3=6 a third number. 2x1=2 not a third number.\ufeff", 
+            "author": "Golden Eagle"
+        }, 
+        {
+            "date": "2014-12-17T22:15:45.313Z", 
+            "text": "Well, the definition of a prime number is a natural number that isn't \ncomposite and is greater than one. If it follows those stipulations then it \nis a prime.", 
+            "author": "Christopher Bell II"
+        }, 
+        {
+            "date": "2014-12-17T18:16:13.838Z", 
+            "text": "So any number is a prime as long as it's not 1?", 
+            "author": "Edan Coll"
+        }, 
+        {
+            "date": "2014-12-16T21:19:16.590Z", 
+            "text": "This is a result of the fact that a prime number doesn't contain the \nmultiplicative identity (1). ", 
+            "author": "Christopher Bell II"
+        }, 
+        {
+            "date": "2014-12-14T21:00:14.037Z", 
+            "text": "how bout 3?\ufeff", 
+            "author": "Blake Hutto"
+        }, 
+        {
+            "date": "2014-12-21T18:46:03.852Z", 
+            "text": "How bout it?", 
+            "author": "Qermaq"
+        }, 
+        {
+            "date": "2014-12-12T22:38:50.297Z", 
+            "text": "but 1 passes the test of prime no. as (1-1)!+1=1 which is divisibly by 1\ufeff", 
+            "author": "Saket Sahu"
+        }, 
+        {
+            "date": "2014-12-11T04:32:50.042Z", 
+            "text": "Posted on February 3, 3 sides on a triangle, illuminati confirmed\ufeff", 
+            "author": "Jeffrey Trela"
+        }, 
+        {
+            "date": "2014-12-09T19:22:47.000Z", 
+            "text": "\"Every positive whole number can be written as a unique product of primes\"\nOk, so if 1 is considered a product of zero primes, then you might as well \nuse negative amounts of primes as well.\n*1/2 = 2\u207b\u00b9   1/3 = 3\u207b\u00b9    5/8 = 5 \u2219 2\u207b\u00b3    1/6 = 2\u207b\u00b9 \u2219 3\u207b\u00b9*\nAnd if you were to do that, then I could rewrite the theorem to say,\n*\"Every positive rational number can be written as a unique product of \nprimes.\"*\ufeff", 
+            "author": "Stick Figure"
+        }, 
+        {
+            "date": "2014-12-09T19:23:31.000Z", 
+            "text": "And then if you want to get even more crazy, you could say,\n*\"Every positive real non-transcendental number can be written as a unique \nproduct of primes.\"*\n*\u221a2 = 2 ^ \u00bd   \u221a3 = 3 ^ \u00bd   \u221b2 = 2 ^ \u2153    \u221a10 = (2 ^ \u00bd)\u2219(5 ^ \u00bd)*", 
+            "author": "Stick Figure"
+        }, 
+        {
+            "date": "2014-12-09T12:37:30.062Z", 
+            "text": "Guys he said this is how to find a prime: (prime-1)!+1 divided by prime so \n1-1=0. 0!=1 +1=2 2divided by 1=2 so proved ya wrong son (note i didnt watch \nthe vid so idk if he proved me wrong)\ufeff", 
+            "author": "Rebot129"
+        }, 
+        {
+            "date": "2014-12-17T22:22:01.751Z", 
+            "text": "This only works if you test numbers greater than one. ", 
+            "author": "Christopher Bell II"
+        }, 
+        {
+            "date": "2014-12-09T06:13:57.579Z", 
+            "text": "actually the definition of prime numbers is: A prime number is a whole \nnumber with exactly 2 dividers.\nAnd thats not true for 1, it has only 1 divider\ufeff", 
+            "author": "Retro"
+        }, 
+        {
+            "date": "2014-12-07T11:08:43.000Z", 
+            "text": "If we define a prime number as \"a whole number which has only two \ndivisors,\" then, according to this definition, 1 cannot be a prime number, \nbecause it has only one divisor. Problem solved.\ufeff", 
+            "author": "Socrates Alexander"
+        }, 
+        {
+            "date": "2014-12-07T11:52:26.668Z", 
+            "text": "*counting number", 
+            "author": "Magor CS"
+        }, 
+        {
+            "date": "2014-12-05T05:06:28.149Z", 
+            "text": "So one and zero are neither prime nor composite. \ufeff", 
+            "author": "ProjectEchoshadow"
+        }, 
+        {
+            "date": "2014-12-05T03:28:49.192Z", 
+            "text": "So the last part is saying, 1 is x^0. Simple enough.\ufeff", 
+            "author": "A Rob"
+        }, 
+        {
+            "date": "2014-12-05T03:28:32.011Z", 
+            "text": "Excluding 1 as a prime doesn't change the absolute, undeniable fact that, \nOptimus is a Prime. That's because he is unique. He is the product of 1 \nMatrix and Orion Pax, no other combination will result in Optimus Prime.\ufeff", 
+            "author": "A Rob"
+        }, 
+        {
+            "date": "2015-04-13T01:37:33.258Z", 
+            "text": "Brilliant", 
+            "author": "MrSamwise25"
+        }, 
+        {
+            "date": "2015-03-28T20:31:39.670Z", 
+            "text": "Lol", 
+            "author": "Jaysonfred"
+        }, 
+        {
+            "date": "2014-12-04T15:46:02.398Z", 
+            "text": "We (science) count 2 as a prime number. However there is a 2 contradiction:\nThe definition of primes is: The prime number is the number that can only \nbe divided by 1 and itself.\nOn the other hand as per \u201cFundamental theorem of arithmetic\u201d-  Every \npositive whole number can be written as a unique product of primes.  How 2 \ncould be written as a product?  The only way is 2*1. According the \ndefinition  2 is a prime but as per the theorem is not because by default 1 \nis not a prime number.\nSo in this case either 1 is a prime or 2 is not. What is the explanation?\ufeff", 
+            "author": "Prime numbers"
+        }, 
+        {
+            "date": "2015-05-02T06:04:24.459Z", 
+            "text": "+Prime numbers He explains this. All the primes are made of themselves. 2 \nfactored is 2; there is no requirement for there to be two factors.", 
+            "author": "Allan Floyd"
+        }, 
+        {
+            "date": "2015-04-15T15:57:39.210Z", 
+            "text": "+Prime numbers A product doesn't have to contain more than one factor. You \ncould just say that you have the factor 2 and then you don't multiply it \nwith anything, and that gives you the product 2. You can even have no \nfactors at all and still say that you have a product, which then becomes \nthe empty product which he talks about at the end of the video, which is \ndefined as 1.", 
+            "author": "MasterOfTheChainsaw"
+        }, 
+        {
+            "date": "2015-04-15T15:55:42.432Z", 
+            "text": "+Jakromha I think the definition of \"can be divided by\" means that the \nproduct of the division has to be a positive whole number. Dividing by -1 \ngives us a negative whole number so it doesn't count. I guess you could \ncreate a whole new category of \"super primes\" or something like that which \ncontains also divisions by -1, but that would be something else.", 
+            "author": "MasterOfTheChainsaw"
+        }, 
+        {
+            "date": "2015-04-15T00:00:04.097Z", 
+            "text": "+Prime numbers Actually, the only number that is prime is -1. 5 for \nexample, can be divided by 1, itself, but also -1 and -itself.Real \ndefinition I think should be:\nA number that can be devided by exactly four whole numbers.", 
+            "author": "Jakromha"
+        }, 
+        {
+            "date": "2014-12-05T03:36:59.484Z", 
+            "text": "This problem is true for ever prime number. I believe it's easier to \nconsider 1 a prime number, especially since, by prime definition, it is \nprime.", 
+            "author": "A Rob"
+        }
+    ]
+}

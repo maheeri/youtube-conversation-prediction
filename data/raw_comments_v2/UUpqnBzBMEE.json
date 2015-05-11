@@ -1,0 +1,1349 @@
+{
+    "publish_date": "2013-08-26T15:53:01.000Z", 
+    "video_length": "PT3M52S", 
+    "captions": [
+        {
+            "text": "Let me briefly describe the difference between\na quantum computer and a regular computer,", 
+            "dur": "4.101", 
+            "start": "0.329"
+        }, 
+        {
+            "text": "at some level. In a regular computer, you&#39;ve\ngot ones and zeros, which you store in binary", 
+            "dur": "5.129", 
+            "start": "4.43"
+        }, 
+        {
+            "text": "form and you manipulate them and they do calculations.\nYou can store them, for example, in a way", 
+            "dur": "7", 
+            "start": "9.559"
+        }, 
+        {
+            "text": "that at least I can argue simply.", 
+            "dur": "1.791", 
+            "start": "19.189"
+        }, 
+        {
+            "text": "Let&#39;s say you have an elementary particle\nthat&#39;s spinning. If it&#39;s spinning, and we", 
+            "dur": "3.78", 
+            "start": "20.98"
+        }, 
+        {
+            "text": "say it&#39;s spinning, it&#39;s pointing up or down\ndepending upon whether it&#39;s spinning this", 
+            "dur": "2.79", 
+            "start": "24.76"
+        }, 
+        {
+            "text": "way or this way, pointing up or down. And\nso, I could store the information by having", 
+            "dur": "4.309", 
+            "start": "27.55"
+        }, 
+        {
+            "text": "lots of particles and some of them spinning\nup and some of them spinning down. Right?", 
+            "dur": "3.961", 
+            "start": "31.859"
+        }, 
+        {
+            "text": "One&#39;s and zero&#39;s.", 
+            "dur": "1.65", 
+            "start": "35.82"
+        }, 
+        {
+            "text": "But in the quantum world, it turns out that\nparticles like electrons are actually spinning", 
+            "dur": "5.09", 
+            "start": "37.47"
+        }, 
+        {
+            "text": "in all directions at the same time, one of\nthe weird aspects of quantum mechanics. We", 
+            "dur": "4.71", 
+            "start": "42.56"
+        }, 
+        {
+            "text": "may measure, by doing a measurement of an\nelectron, find it&#39;s spinning this way. But", 
+            "dur": "4.05", 
+            "start": "47.27"
+        }, 
+        {
+            "text": "before we did the measurement, it was spinning\nthis way and this way and that way and that", 
+            "dur": "4.32", 
+            "start": "51.32"
+        }, 
+        {
+            "text": "way all at the same time. Sounds crazy, but\ntrue.", 
+            "dur": "4.11", 
+            "start": "55.64"
+        }, 
+        {
+            "text": "Now that means, if the electron&#39;s spinning\nin many different directions at the same time,", 
+            "dur": "5.25", 
+            "start": "59.75"
+        }, 
+        {
+            "text": "if we don&#39;t actually measure it, it can be\ndoing many computations at the same time.", 
+            "dur": "5.39", 
+            "start": "65"
+        }, 
+        {
+            "text": "And so a quantum computer is based on manipulating\nthe state of particles like electrons so that", 
+            "dur": "6.47", 
+            "start": "70.39"
+        }, 
+        {
+            "text": "during the calculation, many different calculations\nare being performed at the same time, and", 
+            "dur": "4.33", 
+            "start": "76.86"
+        }, 
+        {
+            "text": "only making a measurement at the end of the\ncomputation.", 
+            "dur": "3.99", 
+            "start": "81.19"
+        }, 
+        {
+            "text": "So we exploit that fact of quantum mechanics\nthat particles could do many things at the", 
+            "dur": "4.229", 
+            "start": "85.18"
+        }, 
+        {
+            "text": "same time to do many computations at same\ntime. And that&#39;s what would make a quantum", 
+            "dur": "5.011", 
+            "start": "89.409"
+        }, 
+        {
+            "text": "computer so powerful.", 
+            "dur": "2.38", 
+            "start": "94.42"
+        }, 
+        {
+            "text": "One of the reasons it&#39;s so difficult to make\na quantum computer, and one of the reasons", 
+            "dur": "2.94", 
+            "start": "96.8"
+        }, 
+        {
+            "text": "I&#39;m a little skeptical at the moment, is that\n- the reason the quantum world seems so strange", 
+            "dur": "4.21", 
+            "start": "99.74"
+        }, 
+        {
+            "text": "to us is that we don&#39;t behave quantum mechanically.\nI don&#39;t -- you know, you can - not me, but", 
+            "dur": "5.87", 
+            "start": "103.95"
+        }, 
+        {
+            "text": "you could run towards the wall behind us from\nnow &#39;til the end of the universe and bang", 
+            "dur": "5.31", 
+            "start": "109.82"
+        }, 
+        {
+            "text": "your head in to it and you&#39;d just get a tremendous\nheadache. But if you&#39;re an electron, there&#39;s", 
+            "dur": "4.97", 
+            "start": "115.13"
+        }, 
+        {
+            "text": "a probability if I throw it towards the wall\nthat it will disappear and appear on the other", 
+            "dur": "3.52", 
+            "start": "120.1"
+        }, 
+        {
+            "text": "side due to something called quantum tunneling,\nokay.", 
+            "dur": "4.05", 
+            "start": "123.62"
+        }, 
+        {
+            "text": "Those weird quantum behaviors are manifest\non small scales. We don&#39;t obey them - have", 
+            "dur": "5.59", 
+            "start": "127.67"
+        }, 
+        {
+            "text": "those behaviors &#39;cause we&#39;re large classical\nobjects and the laws of quantum mechanics", 
+            "dur": "5.11", 
+            "start": "133.26"
+        }, 
+        {
+            "text": "tell us, in some sense, that when you have\nmany particles interacting at some level those", 
+            "dur": "5.13", 
+            "start": "138.37"
+        }, 
+        {
+            "text": "weird quantum mechanical correlations that\nproduce all the strange phenomena wash away.", 
+            "dur": "6.03", 
+            "start": "143.5"
+        }, 
+        {
+            "text": "And so in order to have a quantum mechanical\nstate where you can distinctly utilize and", 
+            "dur": "4.98", 
+            "start": "149.53"
+        }, 
+        {
+            "text": "exploit those weird quantum properties, in\nsome sense you have to isolate that system", 
+            "dur": "5.22", 
+            "start": "154.51"
+        }, 
+        {
+            "text": "from all of its environment because, if it\ninteracts with the environment, the quantum", 
+            "dur": "4.28", 
+            "start": "159.73"
+        }, 
+        {
+            "text": "mechanical weirdness sort of washes away.", 
+            "dur": "2.94", 
+            "start": "164.01"
+        }, 
+        {
+            "text": "And that&#39;s the problem with a quantum computer.\nYou want to make this macroscopic object,", 
+            "dur": "4.29", 
+            "start": "166.95"
+        }, 
+        {
+            "text": "you want to keep it behaving quantum mechanically\nwhich means isolating it very carefully from,", 
+            "dur": "5.02", 
+            "start": "171.24"
+        }, 
+        {
+            "text": "within itself, all the interactions and the\noutside world. And that&#39;s the hard part, Is", 
+            "dur": "5.059", 
+            "start": "176.26"
+        }, 
+        {
+            "text": "isolating things enough to maintain this what&#39;s\ncalled quantum coherence. And that&#39;s the challenge", 
+            "dur": "6.341", 
+            "start": "181.319"
+        }, 
+        {
+            "text": "and it&#39;s a huge challenge.", 
+            "dur": "2.6", 
+            "start": "187.66"
+        }, 
+        {
+            "text": "But the potential is unbelievably great. Once\nyou can engineer materials on a scale where", 
+            "dur": "6.15", 
+            "start": "190.26"
+        }, 
+        {
+            "text": "quantum mechanical properties are important,\na whole new world of phenomenon open up to", 
+            "dur": "6.1", 
+            "start": "196.41"
+        }, 
+        {
+            "text": "you. And you might be able to say - as we\nsay, if we created a quantum computer, and", 
+            "dur": "3.83", 
+            "start": "202.51"
+        }, 
+        {
+            "text": "I&#39;m not - I must admit I&#39;m skeptical that\nwe&#39;ll be able to do that in the near-term,", 
+            "dur": "3.229", 
+            "start": "206.34"
+        }, 
+        {
+            "text": "but if we could, we&#39;d be able to do computations\nin a finite time that would take longer than", 
+            "dur": "5.801", 
+            "start": "209.569"
+        }, 
+        {
+            "text": "the age of the universe right now. We&#39;d be\nable to do strange and wonderful things. And", 
+            "dur": "4.72", 
+            "start": "215.37"
+        }, 
+        {
+            "text": "of course, if you ask me what&#39;s the next big\nbreakthrough, I&#39;ll tell you what I always", 
+            "dur": "4.61", 
+            "start": "220.09"
+        }, 
+        {
+            "text": "tell people, which is if I knew, I&#39;d be doing\nit right now.", 
+            "dur": "2.76", 
+            "start": "224.7"
+        }
+    ], 
+    "title": "Lawrence Krauss: Quantum Computing Explained", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/069kd", 
+        "/m/03kvq4", 
+        "/m/01tzn2"
+    ], 
+    "number_views": 208211, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T02:55:06.032Z", 
+            "text": "Could quantum tunneling be what is causing an electron to seem as if it is \nspinning in every direction at once? Imagine this... NASA sends a drone \nwith a quantum computer to somewhere too hot for quantum tunneling. Would \nthat, ''Supercharge,'' the quantum computing process. Or would it destroy \nit. How come there are only adults explaining quantum computing? 12 year \nolds like me should be learning about this, not social studies and music \nand all that crap. This is more important in every circumstance. The \neducation system should have at least the slightest bit of common sense \nwhen it comes to something this important.\ufeff", 
+            "author": "Jeff Witt"
+        }, 
+        {
+            "date": "2015-05-07T02:52:26.000Z", 
+            "text": "Our level of Technology and understanding of Science is growing \nexponentially. There is no telling what future technology will be like.   \nIn the near future computers will begin to think (Not True AI) but they \nwill have the capability of doing actual research and engineering. \n\nThese computers will have instant access to all of Human Knowledge.   A \nperson like Krause may just have to ask the computer a profound question \nlike what is the best theory of the Universe.  \n\nThis computer will go do research, create Models/Simulations, New physics \nand come to a solution.   In matter of minutes these computers could \nadvance our understanding of Cosmology by Decades if not Centuries. \n\nOf course Krause wouldn't be out of work. You still need people to \nunderstand the results so they can ask new questions.\n\n This would extend to all fields of Science and Engineering.\n\n We of course would need to make new Observations and build new tools. \n  Again Smart Manufacturing, 3D Printing would speed things up drastically. \nExpensive projects that take decades, could be done in Months and at a \nfraction of the cost.\n\nNo computer is going to spit out the designs for a Warp Drive. If a warp \ndrive is possible it may only take Decades to build not Centuries. \n\nProvided no major Cataclysm happens like a Nuclear War, The next 100 years \ncould see advances that we thought would take thousands of years. Really \njust look at the last 100 years. \n\nThat includes Medical advances so some of us may even be around to Witness \nit. People born today may be the last generation that has to face death. \nHell they may even be first people to colonize the Solar System and Galaxy. \n\nTechnology that Ends World Hunger, Poverty and Momentary systems. 3 of the \nLeading causes of Crime and War. Technology the restores the environment \nand ecosystems. So all life can have a chance.   \n\nPossibilities are Endless.\ufeff", 
+            "author": "CrossEyed Jack"
+        }, 
+        {
+            "date": "2015-05-05T04:04:22.351Z", 
+            "text": "I think they have to chill the apparatus to near absolute zero and this \noccupies the footprint equivalent of a bus... still... the first analytical \ndata processing engine's were relatively huge.\ufeff", 
+            "author": "Jason Axford"
+        }, 
+        {
+            "date": "2015-05-05T01:06:51.513Z", 
+            "text": "but will it be able to run Crysis?\ufeff", 
+            "author": "Jesse Raines"
+        }, 
+        {
+            "date": "2015-05-04T22:29:16.861Z", 
+            "text": "", 
+            "author": "Chris Wayne"
+        }, 
+        {
+            "date": "2015-04-30T18:24:48.799Z", 
+            "text": "I think Lawrence Krauss explains things really well for the average person.\ufeff", 
+            "author": "Pedro Jos\u00e9 Barbero Iglesias"
+        }, 
+        {
+            "date": "2015-04-30T04:04:20.740Z", 
+            "text": "I think Lawrence Krauss explains things really well for the average person.\ufeff", 
+            "author": "Santhosh Guruswamy"
+        }, 
+        {
+            "date": "2015-04-30T03:06:01.420Z", 
+            "text": "", 
+            "author": "Varguennes"
+        }, 
+        {
+            "date": "2015-04-30T02:37:54.475Z", 
+            "text": "I think Lawrence Krauss explains things really well for the average person.\ufeff", 
+            "author": "Debra Arndt"
+        }, 
+        {
+            "date": "2015-04-30T10:46:00.547Z", 
+            "text": "+Debra Arndt Me too.", 
+            "author": "josh smith"
+        }, 
+        {
+            "date": "2015-04-26T02:42:06.951Z", 
+            "text": "How does this compare to parallel processing?\ufeff", 
+            "author": "peter boye"
+        }, 
+        {
+            "date": "2015-04-23T17:56:05.321Z", 
+            "text": "*Quantum Computers in a Nutshell*\n*Nice and neat explanation of quantum computation by Professor Lawrence \nKrauss.*\n\n#QuantumComputer   #QuantumPhysics   #QuantumMechanics   #LawrenceKrauss   \n#BigThink  \ufeff", 
+            "author": "Amine Benaichouche"
+        }, 
+        {
+            "date": "2015-04-23T09:37:18.503Z", 
+            "text": "quantum computing relies on quantum physics which relies on the existence \nof quanta which can't exist because all things in the universe are made of \nsmaller things. fail. we'd better off wait for the four horsemen than a \nworking quantum computer. lol.\ufeff", 
+            "author": "Greg X"
+        }, 
+        {
+            "date": "2015-04-22T23:54:26.847Z", 
+            "text": "If we can decipher the quantum enigma, we will achieve quantum coherence. \nThen we can use a particle like a electron , to perform a unlimited amount \nof computations . Now we use a binary code of ones and zeros . With the \nelectron the amount of information transfer would be amazing for its size \n!!\ufeff", 
+            "author": "Josual Williams"
+        }, 
+        {
+            "date": "2015-04-25T18:52:13.236Z", 
+            "text": "+Valentina Sherren a electron is inside a atom a molecule has many atoms so \nthe electron is much smaller . the bit in a computer now can only use a \nupward or downward spin to translate that to binary codes of ones or zeros \n, with a quantum bit it would be able to use a binary code with a nearly \ninfinite amount of characters not just one or zero . we are not able to \nstabilize the electron (quantum correlation) so it is not possible yet .", 
+            "author": "Josual Williams"
+        }, 
+        {
+            "date": "2015-04-25T18:23:07.597Z", 
+            "text": "OK, I watched the video & looked in my dictionary (I'm a bit old fashioned) \nbut is an electron smaller than a molecule?  It's like having puzzle pieces \nbut not knowing how to fit them together.  I'm still trying to get used to \nmy ancient laptop let alone a molecular or quantum computer!", 
+            "author": "Valentina Sherren"
+        }, 
+        {
+            "date": "2015-04-23T00:52:15.697Z", 
+            "text": "You do not understand how we retrieve info through a regular computer , how \ncan you understand this ? Watch the video he goes over that specially... \nThanks for not watching it but adding your 1 cent ;) ", 
+            "author": "Josual Williams"
+        }, 
+        {
+            "date": "2015-04-23T00:50:19.299Z", 
+            "text": "+Bruce Mincks yes we need more speed , if we plan to do calculations on a \ncosmic scale .. ", 
+            "author": "Josual Williams"
+        }, 
+        {
+            "date": "2015-04-23T00:36:08.824Z", 
+            "text": "Doesn't that assume a quantum is also a substance?  So how does one resolve \nthe particle/wave controversy?  I find Leibnitz required a primal \"harmony\" \nto extend his caused into his ends.  I find Newton backing off at the \nnature of light when he creates his fluxions from tangents. Meanwhile, \nparticle Physics keeps finding new subatomic particles\n\nHow can you speculate about what can be done with a single electron without \nmaking one stand still, where you claim it spins in all directions, and \nthen what do you propose to calculate?  Its \"size\" or \"mass\" or the amount \nof heat or light there--or something else?  Since computations sound so \nessential for simultaneous events, we need a quantum computer to catch up \nwith this breathtaking speed or the same problems?", 
+            "author": "Bruce Mincks"
+        }, 
+        {
+            "date": "2015-04-14T06:23:26.353Z", 
+            "text": "The Julian's Variable should be given the task to figure out how we can \nturn energy into matter.\ufeff", 
+            "author": "K Aminn"
+        }, 
+        {
+            "date": "2015-04-03T17:07:18.113Z", 
+            "text": "Quantumized calculations. a level of calculations that have no \nQuantification. You know what i'm saying?\ufeff", 
+            "author": "Andrew Willard"
+        }, 
+        {
+            "date": "2015-03-29T21:08:59.053Z", 
+            "text": "\"If I knew I'd be doing it right now.\"\ufeff", 
+            "author": "Michael Chavinda"
+        }, 
+        {
+            "date": "2015-03-29T19:23:51.930Z", 
+            "text": "This stuff is quite intriguing. =D\ufeff", 
+            "author": "daniel luster"
+        }, 
+        {
+            "date": "2015-03-24T02:56:54.573Z", 
+            "text": "Lawrence Krauss: Quantum Computing Explained: https://youtu.be/UUpqnBzBMEE\ufeff", 
+            "author": "joseph itzkowitz"
+        }, 
+        {
+            "date": "2015-02-28T22:17:47.845Z", 
+            "text": "Interesting !\ufeff", 
+            "author": "Mohamed El Hannaoui"
+        }, 
+        {
+            "date": "2015-02-13T16:18:38.419Z", 
+            "text": "Many of my neurons just died from this mind-fukt. :O\ufeff", 
+            "author": "Amuscaria Mushrooms"
+        }, 
+        {
+            "date": "2015-02-11T00:33:20.714Z", 
+            "text": "WHAT IF OUR MIND IS A QUANTUM COMPUTER? TAKE A PSYCHEDELIC AND MANIFEST \nTHAT REALITY. You welcome...\ufeff", 
+            "author": "Stop Sign"
+        }, 
+        {
+            "date": "2015-02-07T22:35:41.723Z", 
+            "text": "Thats crazy. Its all I can say about what we would be able to do if we got \na quantum computer. My gosh.\ufeff", 
+            "author": "Bianca Arantes"
+        }, 
+        {
+            "date": "2015-01-28T02:33:01.767Z", 
+            "text": "top of the class, now I get it! thx Lawrence!\ufeff", 
+            "author": "Stephane fyfe (steph)"
+        }, 
+        {
+            "date": "2015-01-15T18:29:02.151Z", 
+            "text": "Just a few words from Lawrence Krauss.\n\nLawrence Krauss: Quantum Computing Explained: http://youtu.be/UUpqnBzBMEE\ufeff", 
+            "author": "Michael o'donnell"
+        }, 
+        {
+            "date": "2015-01-06T04:40:54.378Z", 
+            "text": "Conclusion: Quantum computers could be the HAL1000 that may overcome the \nhuman brain itself... Or?\ufeff", 
+            "author": "Tim Oscarsson"
+        }, 
+        {
+            "date": "2015-01-28T16:34:26.955Z", 
+            "text": "+Tim Oscarsson\nThe evil computer takes over everything also implies that an intelligent \ncomputer would be able to have preferences and act on those. Its more \nlikely that the computer would not think like us at all (no emotions) and \nwould have no preferences to act on.", 
+            "author": "Helghastl33t"
+        }, 
+        {
+            "date": "2015-01-22T14:52:01.000Z", 
+            "text": "Ok, I just thought you meant it wasn't able to calculate faster. I heard a \nlecture about Quantum computing, where the lecturer said it could be easily \nmore powerful than 300 computers combined of today. Sorry about the \nconfusion. Never came to my mind there are sets of problems a computer \ncouldn't solve. And yes, I am very interested in learning about computer \nscience, so if you can give me some advice what to buy and what to read \nfirst, I'd be thankful and glad to follow your advice", 
+            "author": "G.M D.B."
+        }, 
+        {
+            "date": "2015-01-22T14:14:47.357Z", 
+            "text": "+G.M D.B. First, powerful means it can potentially solve \nnew/greater/different problems than a normal computer. We know a quantum \ncomputer is still a Turing machine, therefore it cannot solve a whole new \nset of problems - Thus not more powerful.\nSecondly, I said its better at solving a certain set of problems - Better \nmeaning it will take less time. A particular interesting set of problems it \ncan solve better is called NP-complete. NP are problems solvable in \npolynomial time with a non-deterministic Turing machine. The essential \npoint here is, if a problem can be solved in polynomial time, we(as humans) \ncan actually live to see the result.\nNow, I'm not going to give you a full lecture on youtube, so if you are \nmore interested in the field of computer science, and particularly what \ncomputers can and cannot do, I'd recommend start reading books about theory \nof computations.", 
+            "author": "Skumlen"
+        }, 
+        {
+            "date": "2015-01-21T19:09:21.836Z", 
+            "text": "+G DB Yeah I mean that one. Of course, this is all speculative at this \npoint... I don't think a \"conscious computer\" could take hold of all our \nnukes and power sources either... Not everything is connected to computers, \nfor now. Plus, there's more factors..", 
+            "author": "Tim Oscarsson"
+        }, 
+        {
+            "date": "2015-01-21T14:07:28.000Z", 
+            "text": "And if I remember correctly the HAL9000, had paradoxal programming... Can't \nremember exactly. You mean HAL9000 right, Stanley Kubrick, 2001 a Space \nOdyssey\n?", 
+            "author": "G.M D.B."
+        }, 
+        {
+            "date": "2015-01-21T14:11:14.000Z", 
+            "text": "Or Skynet if it's connected like computers as they are now. Like I read it, \nthe proposed Quantum Computer could encrypt and brake encryption faster \nthan 300 super computers of today. That means, if it gets at a conscious \nlevel, it could encrypt and decrypt and hack everything we can control, \nwhich could mean it becomes a supreme power over our technology\nWho can tell until it exists... But I can't get my head to it. You can \nfantasise about the programming getting to program itself and getting fast \nto a 'conscious' level. I can't say what that could mean or the outcome \ncould be. If so, the only difference would be the factor to survive, if it \nbecomes conscious of it's own presence, that it only would need electrons \nto feed the computing, thus a powersource and the animal kingdom needs far \nmore than that. Hahaha, there has been a lot of fantasies and speculations, \nbut who could say until this would actually happen.\nAnd would it see the outside as a threat or accept it in harmony? The \nnegative outcome like the fantasy about Hal1000 and Skynet, is just a \nfantasy, until proven differently. But I wpuldn't worry about that. If it's \njust a box, it stays a box, but what I don't get is how they see this thing \nworking. It probably take me more than 5 years to actually follow the \nevolution and technology in depth. But that whole Quantum Mechanics field \nsometimes comes of as existentialist... Like I said, wouldn't think it \nwould happen. It would have happened before, if AI was at a level of \ngetting a system conscious, it could have been written to use multiple \ncomputer and work in an exponential rate. So, no need to panic. Doesn't \nexist", 
+            "author": "G.M D.B."
+        }, 
+        {
+            "date": "2015-01-21T13:39:30.279Z", 
+            "text": "+G DB Of course, there's more at play in this. The human brain is not that \n\"simple\". It's not all about calculations. But I think a quantum computer \nwould be the closest thing we would have to a brain. If you ask me, the key \nto grasping the functions of the brain is getting to the bottom of what \nconsciousness really is. That's when we will be getting close to building a \nHAL1000 computer... If it is even possible to imitate consciousness and \nawareness of the self.", 
+            "author": "Tim Oscarsson"
+        }, 
+        {
+            "date": "2015-01-21T13:20:50.537Z", 
+            "text": "Yes, but it depends... A computer still needs to be programmed and isn't \nintuitive by itself. Human thinking is. But I think it is true, I'm not \nthat smart, but it seems logical to me.\nBut just to remind you: this computer does not exist.\nFor me, I'm a little stunned by the 'electron moving in different \ndirections at the same time' and if so how to manipulate it to get you the \nright calulation. So for me this is off my chart of comprehending at the \nmoment...\nBut it seems that in Quantum Mechanics, it seems to be possible \ntheoretically according to this guy at least.", 
+            "author": "G.M D.B."
+        }, 
+        {
+            "date": "2015-01-21T12:55:28.984Z", 
+            "text": "+G DB Exactly. That was my point. If you had a computer that could easily \nsolve a problem that would normally take \"an infinite time\" well that means \nto me, that you could solve \"all the problems in the world\" in a matter of \nweeks (or faster)! If you could get a Bachelor, Master and PhD in a matter \nof days for instance, how fast wouldn't your academic progress be going??? \nThat's pure logic to me... Although yes, I don't know the mathematics and \nexact nature of these quantum mechanics, but essentially that's what he was \nsaying in the video? \n\nI know that when the human brain can \"calculate\" through the neurons and \nall that, faster than other brains, it will solve problems faster and get \n\"the bigger picture\" understood faster. It will essentially be \"smarter\". \nThey say that Einsteins brain could be considered smarter because the \npathways in the neurons and so forth, were moving FASTER than normal \nbrains... If you are calculating things faster than others, of course you \nwill reach answers faster than others, you will progress faster and you \nwill be considered \"smarter\"... ", 
+            "author": "Tim Oscarsson"
+        }, 
+        {
+            "date": "2015-01-21T09:56:09.000Z", 
+            "text": "+Skumlen\nThat was completely not what this guy was saying. He said that a quantum \ncomputer, if existed, could do near to infinite equations at the same time, \nthus calculating at an extreme fast rate.. I think his words were a bit \nlike this: what a known computer would need a near infinite time to \ncalculate, a quantum computer would only need a very short time to do it. \nBut it's all a bit vague to understand without the knowledge of quantum \nmechanics, I guess. I don't know anything about it yet. So why he says that \nan electron could move at multiple directions at the same time, I could not \ntell you.\nAnd Tim, Might be, a faster computer could. If you look at the programming \ndone in the TED talk about atlethic drones, at a point the drone is \nlearning to correct itself. Now, the factors of limitation don't seem to be \nthe programming, the limitions seem to be how fast a computer is able to \ncalculate, how many calculation must be done at the same time and how much \ninfo it can store. But I think a HAL 1000 wouldn't be impossible at all", 
+            "author": "G.M D.B."
+        }, 
+        {
+            "date": "2015-01-09T05:40:53.285Z", 
+            "text": "Doubtful. A quantum computer is not more powerful than a standard one. It \nmerely calculates in a different way, which is usable to solve a certain \nset of problems.", 
+            "author": "Skumlen"
+        }, 
+        {
+            "date": "2015-01-06T02:00:45.005Z", 
+            "text": "Lawrence Krauss interview with big think\ufeff", 
+            "author": "Flenniken"
+        }, 
+        {
+            "date": "2014-12-25T22:27:00.758Z", 
+            "text": "", 
+            "author": "Kevin Oh"
+        }, 
+        {
+            "date": "2014-12-22T16:13:12.553Z", 
+            "text": "nasa and google made one and it is being used in nasa it is faster than \nnormal computers but not as fast as we think but this is the first quantum \ncomputer ever made so it is just a small step  to a big door!!! in the near \nfuture there will be quantum processors on super smartphones and on every \nsmart device we use. wow totally awesome!!!\ufeff", 
+            "author": "mahesh kool"
+        }, 
+        {
+            "date": "2014-12-22T07:12:28.510Z", 
+            "text": "He lost me at \"binary form\" LOL!\ufeff", 
+            "author": "nipper seaturtle"
+        }, 
+        {
+            "date": "2014-12-15T16:48:51.631Z", 
+            "text": "We're a long way from quantum computers\ufeff", 
+            "author": "BurmaNeil"
+        }, 
+        {
+            "date": "2015-02-05T00:22:50.343Z", 
+            "text": "I like educating people on Youtube. It's fun and free. We should all be so \nlucky.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-02-05T00:22:04.784Z", 
+            "text": "it was used as a source for the layman. You in this case. And I stated it \nhas links for you to click on, (since i'm positive the extent of your \nresearch capabilities is \"googling\" and \"wiki\".) that lead you to the \nACTUAL PEER REVIEWED papers that prove you wrong. Like I already have.\nBut, at least instead of being a common internet troll, childish and \ncondescending you'll whole-heartedly admit being wrong and the spirit of \nfacts and truth accept what I've said to you since it is in fact, factual. \nSo that's good.\nGlad I could help. \ncheers.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-02-04T23:59:43.087Z", 
+            "text": "I stopped taking you seriously when you used Wiki as a source.", 
+            "author": "BW022"
+        }, 
+        {
+            "date": "2015-02-04T23:39:03.000Z", 
+            "text": "+Candle light Correct. Even Wikipedia article says that D-Wave was \ndebunked. And that is what anyone can find on the internet in less than 60 \nseconds (literally). And the peer review papers are sourced there. So you \ncan click them and read that the \"serious researchers\" actually found \nD-Wave to have. and I quote...\n\"\nlikely the most thorough and precise study that has been done on the \nperformance of the D-Wave machine\"[51] and \"the fairest comparison yet\", \nfound that the D-Wave chip \"produced no quantum speedup\".[52] The \nresearchers, led by Matthias Troyer at the Swiss Federal Institute of \nTechnology, found \"no quantum evidence\" across the entire range of their \ntests, and only inconclusive results when looking at subsets of the tests.\"\nAnd that is one of 66 findings out of 68 that were done that all agree in \nthe non-quantum-computing-state. The remaining two didn't even say it was a \npositive, they were inconclusive. Zero actual evidence to support its \nclaim. And D-Wave knows it. But they can still say they have one because of \nthe legal system. It allows them to garnish millions of dollars from \nuneducated benefactors.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-02-04T23:30:44.368Z", 
+            "text": "+BW022 no they haven't. Not one of those are actually quantum computers. \nEven the companies were forced to admit this once \"Fraud claims yielding \nbenefactors\" was filed.\nD-wave came the closest. But they never actually established \"isolated \ncohesion\". So, they still use \"normal\" computers to help direct \ncomputations and probabilities.\nNot one company has built an actual quantum computer that in-and-of-itself \ndoes all the work.\nTo be absolutely clear, There have been \"quantum computations\" that have \nbeen completed. The world record is 5x3=15. As of right now, In feb 2015 \nIbm is trying to break that record by getting into math problems that end \nin a 3 digit answer. That's extremely tough. I know it sounds basic and \n\"meh\". But it's impressive if you know the science involved. \nNow I bring this up because they didn't \"technically\" quantumly compute \nthat outcome. They told the electrons to \"not\" spin a certain way at a \ncertain time. (still allowing for millions of permutations of it's \nposition). By doing so they broke the \"coherence\" right off the bat. They \nonly did this in order to test if quantum decoherence could be \n\"controlled\". Thus, giving us the outcome we desired. Just like we program \ncomputers with 1 and 0's in order to give us the results we want, they \nprogrammed atoms to \"fail\" in a specific way so the end result would be \nmet. It's more of a \"proof of concept\" than \"physical success\". \nSorry if this got confusing.. I can't think of a simpler way to explain it. \nAnd that's probably my fault.", 
+            "author": "Candle light"
+        }, 
+        {
+            "date": "2015-02-04T23:07:21.000Z", 
+            "text": "No. I didn't. It's a \"fact\" (not an opinion) on what I said about the \nQuantum Decoherence. It 100% means that it isn't a \"real\" Q computer. It is \nonly a Virtual Q-computer. You don't know the difference. I do.\nAnd because you seemed to miss the thing I was getting at, I happen to be \none of those people who investigates these computers for this EXACT claim.\nAnd to further explain...A company is allowed to say they have a Quantum \nComputer \"legally\" because the legal understanding and requirement of a \ncomputer to be a Q-computer is different then what a physicist would \nrequire. Even though it isn't one, they can still call it one. It's \nactually very common in the industry to do this. Much like when a company \nsays Zero Fat on a product, but in reality it is very fattening because of \nsemantics and legal loopholes.\nI said a fact that outright proves that it isn't a Q computer. Not an \nopinion. Ironically, you are the person spouting off conjecture. I.e. You \nare giving me your opinions and zero facts. \nI.e you believing what people would do when faced with \"flaws\" in a paper. \nIt's your opinion they would shred them. When, in reality, they don't have \nto shred anything because afforded to them by legal loopholes and semantics \nD Wave is allowed to say \"we have a Q-Computer\". But they are allowed to \nleave out that it's only a virtual one. And because of that you believe \nthem. They fooled you. \nAnd to double up on the irony here, you are telling \"me\" what those \nresearchers found. \nAgain, I point out that I AM ONE OF THOSE RESEARCHERS. \nYou're telling ME what I found...And only one of us has multiple degrees \nand one masters involving the subject.\nYou're off point.\nCheers, though.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-02-04T22:38:20.994Z", 
+            "text": "You didn't state any facts. You stated your opinions. At least three major \nuniversities disagree with your D-Wave claim. They state that the D-Wave is \na quantum computer.That is their opinion. Everyone now gets to decide whose \nopinion is most likely to be correct -- the physics/engineering departments \nof three major universities who have actually had access and tested the \nmachines and had peer reviewed papers published on it.\n\nIf it was anything close to a fact, anyone reading the papers with any \nauthority would have found serious flaws and shredded them. They would \neither never have been published or would have been withdrawn.", 
+            "author": "BW022"
+        }, 
+        {
+            "date": "2015-02-04T22:18:15.000Z", 
+            "text": "It isn't a Q computer. I've explained factually how it isn't. You restating \nyour previous comment does nothing.\nAlso, you admit \"random internet\" guy \"could\" be anyone. So it doesn't do \nwell to try to undermine me if you're already admitting I could be a person \nwho investigates exactly this claim...thus lending me a credibility far \nabove any \"serious researcher\" you've mentioned.\nI post on these in a lot of youtube videos of similar nature. I do it for a \nreason, and with evidence. I'm sure you can click my user name and see them \nalso.\nIt's almost like it's my job to be in a group of people who are paid to \ninvestigate the authenticity of whether or not the atoms are truly \nisolated, or only virtually isolated (which D-Waves are).", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-02-04T22:12:44.617Z", 
+            "text": "Both papers from Caltech and USC are online. I'll allow people to read them \nand make up their own minds. Google, NASA, and Lockheed have also give \nclear statements on the D-Wave -- and purchased them. You are merely \nclaiming that it can't be. Caltech, USC, UBC, and others claim that is it, \nthat they've run tests on the machines, that the technology is \ntheoretically possible, that the machine is able to perform calculations \nnot possible by any other known means (albeit with high error rates), and \npublished papers to that effect.\n\nSome random guy on the internet... or major physics and \nengineering departments of universities which have had access to the \nmachines? ", 
+            "author": "BW022"
+        }, 
+        {
+            "date": "2015-02-04T21:09:32.916Z", 
+            "text": "Companies have been \"claiming\" to have invented the quantum computer since \n1994. A Quantum Computer by definition has to seed itself. A traditional \ncomputer doing so disrupts the \"Quantum Coherence\". Once A Q-computer \nexperience Quantum Decoherence it can not be a Q-computer. They all know \nthis and admit this takes place. So far it is impossible to separate the \ncored atoms from surrounding external matter.\n\"serious researchers\" are met with other \"serious researchers\" in physical \nand metaphysical (virtual particle based evidence) that this isn't an \nactual Q computer.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-02-04T14:49:59.378Z", 
+            "text": "+mathew entson Says who? Google, NSA, Lockheed, etc. say it is. CalTech \nsays it is. USC says it probably is. Any quantum computer has to be \n'seeded' (whatever your definition of that is) by a non-quantum system.\n\nSerious researchers have all concluded that given D-Wave's results, the \ntheory behind it, and its construction... it is now up to people to proof \nthat is doesn't work -- and give alternate explanations of how a \nnon-quantum system can give the same results.", 
+            "author": "BW022"
+        }, 
+        {
+            "date": "2015-02-04T08:22:48.888Z", 
+            "text": "it isn't a 100% quantum computer.  It still uses traditional computation to \nseed itself.\nA quantum computer has not yet been fully invented. ", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-02-04T06:32:33.298Z", 
+            "text": "They already exist. D-Wave has built and is selling a series based on \nq-bits formed from rings of material containing a tiny packet \ntrapped super-cooled gas. When a magnetic field is sent through the tiny \nspace, the poles of the gases align and induce a tiny current in the ring. \nD-Wave has a computer with 512 q-bits. Costs $10M+ per machine and they've \nsold them to the US military, weather service, and others.", 
+            "author": "BW022"
+        }, 
+        {
+            "date": "2015-01-03T21:53:08.031Z", 
+            "text": "relatively speaking :)", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2014-12-14T20:07:33.996Z", 
+            "text": "Definitely the best explanation to me so far. I'm just starting learning \nabout how quantum computing works.\ufeff", 
+            "author": "Vin\u00edcius Neves da Concei\u00e7\u00e3o"
+        }, 
+        {
+            "date": "2014-11-19T22:06:40.458Z", 
+            "text": "If you think you understand quantum mechanics, you don't understand quantum \nmechanics.\ufeff", 
+            "author": "Terek Taillon"
+        }, 
+        {
+            "date": "2015-02-15T17:45:27.662Z", 
+            "text": "yep. ", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-02-15T14:49:32.828Z", 
+            "text": "+mathew entson\nFeynman", 
+            "author": "John Bollinger"
+        }, 
+        {
+            "date": "2015-01-03T21:52:58.480Z", 
+            "text": "Ugh, another misrepresentation of that quote. which you didn't source :(\nbut you can understand some of it :) ", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2014-11-18T11:04:40.661Z", 
+            "text": "Let adress your stupid comment! If Krauss is not well versed in quantum \ncomputers then he should't be lecturing on this topic. Capish, Idiot!\ufeff", 
+            "author": "MrPerfectlogic"
+        }, 
+        {
+            "date": "2014-11-11T22:10:24.884Z", 
+            "text": "one thing that has always confused me about quantum physics, apart from \neverything else, is this measurement principle, can someone please explain \nit to me. How can you know an electron is in all directions before you \nmeasure it, wouldn't you have to measure it to some degree to know that? if \nthat is true then wouldn't that also mean if you did measure it that it has \n1 distinct value as a result of measuring it??? it's kind like a paradox, \nto know anything we have to measure it, or perhaps a scientists definition \nof measurement is different?\ufeff", 
+            "author": "Fashanu Willies"
+        }, 
+        {
+            "date": "2014-11-20T17:11:47.403Z", 
+            "text": "we measure the probability of finding an electron in a given infinitesimal \ncontrol volume while it probes along electron cloud. In the orbitals this \nprobability is quite high. This video talks about the spin of an electron \ngiven by the spin quantum number and they are like roots of an equation, so \nthey can be many...", 
+            "author": "Nitesh Tripathi"
+        }, 
+        {
+            "date": "2014-10-30T19:21:31.305Z", 
+            "text": "", 
+            "author": "Shahid Khan"
+        }, 
+        {
+            "date": "2014-10-30T02:34:58.883Z", 
+            "text": "The universe is beautiful already.  You don't need to be ensnared by the \nnonsense that religion offers.  Once we leave those primitive bronze age \nmyths, the possibilities are limitless.\ufeff", 
+            "author": "Andy Gomez"
+        }, 
+        {
+            "date": "2014-10-26T07:05:24.370Z", 
+            "text": "These quantum 'puters will solve pie \ufeff", 
+            "author": "Nicholas Santiago"
+        }, 
+        {
+            "date": "2015-04-19T07:02:10.331Z", 
+            "text": "also, i like how you avoid basic and simple questions posed directly at you \nthat you avoid... because it's almost as if you know i'm right so you don't \nwanna answer them :)\n\nKeep up with that approach to life, son. It will take you far,,,, far in \nlife.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-04-19T07:00:03.671Z", 
+            "text": "\"This place is for intellectuals\" you say? (shows you the exit)", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-04-19T06:58:24.124Z", 
+            "text": "+wortyle *that moment when you realize*   #awkward.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-04-19T06:57:43.302Z", 
+            "text": "you can't read either? wow. I never said trolling the ENTIRE time.. i said \nonly TWO responses were troll. .\nBTW i loved that you think you're smart and just proved how stupid you are.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-04-19T05:05:30.761Z", 
+            "text": "+mathew entson BTW, I loved the whole \"I was just trolling the whole time!\" \ntactic you used there once you realized how retarded you look. Don't try to \nhide your stupidity, I can see right through you.", 
+            "author": "wortyle"
+        }, 
+        {
+            "date": "2015-04-19T05:03:33.317Z", 
+            "text": "+mathew entson You're a waste of my time. Get out of here, kiddo. This \nplace is for intellectuals. ", 
+            "author": "wortyle"
+        }, 
+        {
+            "date": "2015-03-29T04:37:40.797Z", 
+            "text": "and even in my troll response to your lazy question, I still actually DID \nanswer part of it. Do you understand how I did?", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-03-29T04:37:10.758Z", 
+            "text": "^^^ got trolled.    gg", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-03-29T04:30:41.135Z", 
+            "text": "+mathew entson That's what I JUST said on my first comment, to which you \ncommented \"really? you don't know what he means?\" I thought you knew what \nhe meant. You didn't have to go through all this unnecessary detail to \nremind me of what I just said. Waste of my time.", 
+            "author": "wortyle"
+        }, 
+        {
+            "date": "2015-03-27T01:18:24.000Z", 
+            "text": "in certain mathematical contexts pie is different than just 2/3'rds. \nDominantly in cryptography fields. But I don't think the author of this \nquestion is aware that you're basically right. There is no \"solving\" pie. \nIt's infinite, there is no intrinsic question to it other than the \nmetaphysical questions of \"why\" is it infinite. Which a computer, of any \ntype, will not be able to answer.\nSo, The person who posed this question would have to elaborate why they \nthink it's something left to be \"solved\".", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-03-26T22:20:18.089Z", 
+            "text": "+mathew entson Enlighten me, I really don't know what he means. Pi is not a \nquestion. It's an irrational number that is defined to be the ration \nbetween the circumference and the diameter of a circle. There is nothing to \nsolve. It's like saying, \"we will be able to solve 1/3.\"", 
+            "author": "wortyle"
+        }, 
+        {
+            "date": "2015-03-26T12:33:31.149Z", 
+            "text": "+mathew entson\nFive years?  Really?  I'm not an expert in the field, but I've heard all \nsorts of numbers.  I don't really trust Ray Kurzweil, he seems kind of \nunhinged.", 
+            "author": "valinor100"
+        }, 
+        {
+            "date": "2015-03-26T12:05:22.878Z", 
+            "text": "ya, i think it's anticipated that in 2020 we'll have a computer with more \ncomputational power than all the human brains added up. That's nuts.", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2015-03-26T06:32:40.000Z", 
+            "text": "+mathew entson\nQuantum computers may not truly exist for awhile, but some of the stuff \nthey are coming up with is still mind-blowing, like the TrueNorth chip or \nwhatever its successor is.  Even the progress we can project indicates \ncomputers unbelievably more powerful than those of today in the next few \ndecades.  Then, along comes quantum computing.", 
+            "author": "valinor100"
+        }, 
+        {
+            "date": "2015-01-21T19:39:08.133Z", 
+            "text": "I prefer cake.", 
+            "author": "WastedInHell"
+        }, 
+        {
+            "date": "2015-01-03T21:53:39.524Z", 
+            "text": "+wortyle really? you don't know what he means?", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2014-12-05T09:14:54.392Z", 
+            "text": "What? What do you mean by \"solve pie\"? The value of pie is already defined. \nThere is nothing to solve.", 
+            "author": "wortyle"
+        }, 
+        {
+            "date": "2014-10-10T00:00:25.486Z", 
+            "text": "quantum coherence and black holes ftw!\ufeff", 
+            "author": "RandyTheNaturalPavey"
+        }, 
+        {
+            "date": "2014-10-03T18:40:49.527Z", 
+            "text": "brilliant explanation\ufeff", 
+            "author": "thelocalslant"
+        }, 
+        {
+            "date": "2014-09-21T13:49:32.089Z", 
+            "text": "My sister says she met this guy while she was working at a hospital. I \nguess he was there visiting one of the patients that she was helping at the \ntime.\ufeff", 
+            "author": "Canadian Food"
+        }, 
+        {
+            "date": "2014-09-16T20:30:04.916Z", 
+            "text": "People working with quantum mechanics are crazy. No offense, but sorting a \nlist in O(sqrt(n)) time is just fucking nuts.\ufeff", 
+            "author": "DAEOFMember7788"
+        }, 
+        {
+            "date": "2014-09-10T18:54:51.004Z", 
+            "text": "I've heard this sort of simplistic explanation before but thinking about \nit, in the Von Neuman model bit patterns are tied together sequentially to \nrun programs, some of which may have millions of lines. You don't really \nwant sequences of bits like this containing instructions to be in a \nsuperposition of states. How therefore do programs get run on a quantum \ncomputer? Is there a kind of dataprep conventional computer that comes up \nwith a sum that it throws on the quantum BBQ?\ufeff", 
+            "author": "Steve Gould"
+        }, 
+        {
+            "date": "2014-11-04T23:05:38.076Z", 
+            "text": "It works more like an analog computer. You give it a problem and it gives \nyou a probable answer. You would need a normal computer to complement it.", 
+            "author": "Mikael Murstam"
+        }, 
+        {
+            "date": "2014-08-25T07:35:59.000Z", 
+            "text": "I was not born with the intelligence to apply or comprehend quantum \ncomputing. If anyone else out there feels this way, liberal arts awaits \nyou....lol. We can still be successful.....\ufeff", 
+            "author": "hiphopsimile101"
+        }, 
+        {
+            "date": "2014-08-11T23:31:51.000Z", 
+            "text": "Chuck Norris already got that computer, he do the big bang just with a \nfart.\ufeff", 
+            "author": "Marcus Pillart"
+        }, 
+        {
+            "date": "2014-08-02T10:07:21.110Z", 
+            "text": "I understood what he said, but I found it outrageously boring.  \ufeff", 
+            "author": "ProfileUser"
+        }, 
+        {
+            "date": "2014-07-24T02:36:40.774Z", 
+            "text": "They have already built quantum computers\ufeff", 
+            "author": "larn555"
+        }, 
+        {
+            "date": "2015-01-03T22:12:42.000Z", 
+            "text": "no they haven't. Not one of those are actually quantum computers. Even the \ncompanies were forced to admit this once \"Fraud claims yielding \nbenefactors\" was filed.\nD-wave came the closest. But they never actually established \"isolated \ncohesion\". So, they still use \"normal\" computers to help direct \ncomputations and probabilities.\nSeriously, I check this stuff for a living, not one company has built an \nactual quantum computer that in-and-of-itself does all the work.\nTo be absolutely clear, There have been \"quantum computations\" that have \nbeen completed. The world record is 5x3=15. As of right now, In feb 2015 \nIbm is trying to break that record by getting into math problems that end \nin a 3 digit answer. That's extremely tough. I know it sounds basic and \n\"meh\". But it's impressive if you know the science involved. \nNow I bring this up because they didn't \"technically\" quantumly compute \nthat outcome. They told the electrons to \"not\" spin a certain way at a \ncertain time. (still allowing for millions of permutations of it's \nposition). By doing so they broke the \"coherence\" right off the bat. They \nonly did this in order to test if quantum decoherence could be \n\"controlled\". (and if you don't have coherence, by definition, you are not \na \"Quantum Computer\") Thus, giving us the outcome we desired. Just like we \nprogram computers with 1 and 0's in order to give us the results we want, \nthey programed atoms to \"fail\" in a specific way so the end result would be \nmet. \nSorry if this got confusing.. I can't think of a simpler way to explain it. \nAnd that's probably my fault. ", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2014-07-23T14:58:57.191Z", 
+            "text": "It seems to me that really smart people are usually really good people \nNewton might be the exception. He seemed a little on  the mean side.\ufeff", 
+            "author": "Truth Monger."
+        }, 
+        {
+            "date": "2014-07-23T14:53:02.461Z", 
+            "text": "Good luck with that.  wow\ufeff", 
+            "author": "Truth Monger."
+        }, 
+        {
+            "date": "2014-07-14T19:07:09.234Z", 
+            "text": "let me address the idiot commenters of this video. Krauss is an educator... \nso he's not well versed in quantum computers. Who gives a shit? he \nexplained it well enough so that kids can find this stuff fascinating and \nthought provoking. maybe them can move towards learning about physics, \nmaths and sciences. \n\ni can tell you that if these kinds of people were more accessible to me, i \nwould have paid more attention to my science/math classes.\ufeff", 
+            "author": "trippplefive"
+        }, 
+        {
+            "date": "2015-01-03T21:49:56.699Z", 
+            "text": "+MrPerfectlogic not necessarily true...at all. Unless you admit that since \nyou're not \"well versed\" in History, that when you have kids you don't get \nto tell them about stuff that's happened in our history. Or you can admit \nthat you're the idiot when you say something like that. You're not an \nadvanced biologist, but when your child asks a basic question about life,, \nyou can go ahead and tell him what you DO know. And what you know is part \nof the larger truth. He did 100% fine in explaining this. He said nothing \nfactually wrong. THAT'S all that matters.\nGrow up. ", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2014-11-18T11:03:40.474Z", 
+            "text": "Let adress your stupid comment! If Krauss is not well versed in quantum \ncomputers then he should't be lecturing on this topic. Capish, Idiot!", 
+            "author": "MrPerfectlogic"
+        }, 
+        {
+            "date": "2014-11-04T23:03:57.682Z", 
+            "text": "Krauss is a physicist so he knows about quantum mechanics. He is not an \nexpert in quantum computers though.", 
+            "author": "Mikael Murstam"
+        }, 
+        {
+            "date": "2014-08-22T22:08:09.388Z", 
+            "text": "Gotta say, as a student, this got me interested in Quantum \nComputing...sounds so cool.", 
+            "author": "Big Chink Al"
+        }, 
+        {
+            "date": "2014-07-14T18:39:41.138Z", 
+            "text": "Some visionary persons say that with quantum computing could solve \nmathematics problems that with classical computing is impossible. Time will \ntell.\ufeff", 
+            "author": "Luis Arqueros"
+        }, 
+        {
+            "date": "2014-06-22T23:45:43.268Z", 
+            "text": "If a particle is spinning in every possible direction at once, then is it \nreally spinning at all? When we observe, are we creating spin through \nexpectation? Effectively, it's exactly the same thing, but a different \nviewpoint. Are particles just not being caught lazy? I think at a deep \nlevel, it implies that consciousness is creating our reality. Nothing \nhappens, until there is an observer. That's just my 2 cents.\ufeff", 
+            "author": "mformoney29"
+        }, 
+        {
+            "date": "2014-06-04T08:14:32.282Z", 
+            "text": "I feel a little more stupid after watching this.\ufeff", 
+            "author": "plague1313"
+        }, 
+        {
+            "date": "2015-03-03T17:08:07.898Z", 
+            "text": "Sarcasm?", 
+            "author": "plague1313"
+        }, 
+        {
+            "date": "2015-03-02T20:29:20.693Z", 
+            "text": "Playing those drums definitely makes you smarter.", 
+            "author": "Petras Jonas"
+        }, 
+        {
+            "date": "2014-10-03T20:26:39.686Z", 
+            "text": "+kriptonis why, thank you. That's kinda uplifting. Hahaha", 
+            "author": "Alyssa Alyssa"
+        }, 
+        {
+            "date": "2014-10-03T16:37:01.720Z", 
+            "text": "+Alyssa Pandapatan\n you are making progress then, according to the guy that won the Nobel on \nphysics.\n\n\"If you think you understand quantum mechanics, you don't understand \nquantum mechanics.\"", 
+            "author": "kriptonis"
+        }, 
+        {
+            "date": "2014-06-24T00:43:06.457Z", 
+            "text": "I so feel you! Dumber and dumber and dumber and dumber and dumber and dumber", 
+            "author": "Alyssa Alyssa"
+        }, 
+        {
+            "date": "2014-05-21T20:30:21.644Z", 
+            "text": "Is everybody pretending to understand what he said, so as not to appear \nstupid?\n\n..B'cuz I thought his explanation kinda sucked monkey balls.\ufeff", 
+            "author": "imobeus1"
+        }, 
+        {
+            "date": "2014-05-11T00:44:28.688Z", 
+            "text": "Anyone that uses the words \"quantum\" and \"explained\" in the same sentence \ndoesn't know what they're talking about.\ufeff", 
+            "author": "Muslim604"
+        }, 
+        {
+            "date": "2015-03-13T17:57:51.643Z", 
+            "text": "Given that you used both those words in your sentence, I guess you don't \nknow what you're talking about either. ", 
+            "author": "1nzi"
+        }, 
+        {
+            "date": "2015-01-27T07:11:28.282Z", 
+            "text": "So the person who titled this video doesn't know what they're talking about?", 
+            "author": "LostTranslation85"
+        }, 
+        {
+            "date": "2015-01-03T21:51:37.346Z", 
+            "text": "wrong", 
+            "author": "mathew entson"
+        }, 
+        {
+            "date": "2014-04-27T20:18:42.881Z", 
+            "text": "QUANTUM COMPUTING: SEVERAL COMPUTATIONS AT  THE SAME TIME!\ufeff", 
+            "author": "adler rensso chung gonzalez"
+        }, 
+        {
+            "date": "2014-04-05T13:53:52.702Z", 
+            "text": "I get that electrons can be in multiple states at the same time but how can \nwe get information from that superposition state? If it picks a state \nrandomly when we measure it, then that means that we won't be able to get \ninformation from it after it does the calculation because it will randomly \nchoose an answer when we measure it. \ufeff", 
+            "author": "rubixman7x7"
+        }, 
+        {
+            "date": "2014-05-16T01:24:06.883Z", 
+            "text": "That's exactly the problem this quantum computing is facing.  Also why many \ndoubt this whole thing might not work.\nBut if we figure out how convert all the data from the superposition state \nwithout losing any of it, that would be super super computer.", 
+            "author": "yoshiinthisworld"
+        }, 
+        {
+            "date": "2014-03-29T12:29:51.318Z", 
+            "text": "I have a question:is it a define time or event that indicates(during a \nmathematical equation) Einstein E=Mc2 is not applicable to solve it; so we \nhave to use quantum to describe or finish the equation, much more like the \nevent horizon that seems to be a plank point where the use of comun senses \nis not describing reality to the observer, so the application of quantum a \ncomes to materials as an exponent to the vector of time faster then light \nprotons, falling an fractal expression of conservation of energy=matter! \n!!; so is it a given equation that indicates that the application is need \nit, and how the conservation of energy as a manifestation of matter can be \nharvest as quantum computing! ?\ufeff", 
+            "author": "Fray Damian"
+        }, 
+        {
+            "date": "2014-03-29T05:37:25.443Z", 
+            "text": "He briefly touched on the Copenhagen interpretation... didn't explain it in \nthe least, but ever so slightly described it. Which is one of the problems \nwith quantum computing.\ufeff", 
+            "author": "michael orourke"
+        }, 
+        {
+            "date": "2014-03-20T16:29:02.000Z", 
+            "text": "this is not big think it is big know\ufeff", 
+            "author": "ReichHop"
+        }, 
+        {
+            "date": "2014-03-18T10:56:14.683Z", 
+            "text": "Ok stop explaining Dr. Krauss and let's use this... :D\ufeff", 
+            "author": "Datura Virgoean"
+        }, 
+        {
+            "date": "2014-03-18T00:04:25.691Z", 
+            "text": "I saw this guy on my home from ASU on the light rail!!\ufeff", 
+            "author": "Ibliss"
+        }, 
+        {
+            "date": "2014-03-17T00:31:29.822Z", 
+            "text": "8 diagrams\ufeff", 
+            "author": "lisfub"
+        }, 
+        {
+            "date": "2014-03-05T22:31:17.105Z", 
+            "text": "So what about D-Wave then....just a fake fun project????\ufeff", 
+            "author": "Jean Paul Azzurro"
+        }, 
+        {
+            "date": "2014-03-02T19:59:19.254Z", 
+            "text": "I has question about superpositions.\nare they really pointing everywhere at the same time or is their rate of \nchange so fast we cannot measure it accurately?\nalso, has anybody had multiple measurement devices pointed at a particle, \ntaken the measurements at the same time, to determine if what they were \nmeasuring was the same? if not, they are fucking retards for never checking \ntheir work, the basis for quantum mechanics. if they have, I haven't heard \nabout it\ufeff", 
+            "author": "0Sirk0"
+        }, 
+        {
+            "date": "2014-02-28T21:39:05.000Z", 
+            "text": "The brain is by far the most incredible computer, the power and heat \nefficiency is just beyond imagination. How does a computer like the brain \nrun on the same power as a light bulb and give off barely any heat, yet \ndestroy any computer on earth which needs tanks of coolant and huge amounts \nof power?\ufeff", 
+            "author": "ojideagu"
+        }, 
+        {
+            "date": "2014-02-23T16:17:40.686Z", 
+            "text": "Good explanation of quantum computers\ufeff", 
+            "author": "peter freelanceict"
+        }, 
+        {
+            "date": "2014-02-23T02:48:51.314Z", 
+            "text": "Another interesting problem is that something like quantum computing is \njust another step of complexity on top of how complicated computers already \nare so people will have a tougher time understanding whats going on.\ufeff", 
+            "author": "Joe Franlin"
+        }, 
+        {
+            "date": "2014-02-23T02:45:43.689Z", 
+            "text": "It will be interesting to see what happens when moore's law hits that wall \nfor silicon transistors where computers go from there. Does progress hit a \nwall simply because the next direction is too expensive/complex to ever be \npractical? The walls we always run up against are cost and chemistry there \nare so many elements to build molecules to have a limited set of chemical \nmaterials to build things like transistors. Then they need all those unique \nproperties like silicon to be of use.\ufeff", 
+            "author": "Joe Franlin"
+        }, 
+        {
+            "date": "2014-02-21T14:28:35.030Z", 
+            "text": "Aah I'm pretty ugly, bad skin, balding. But I'm pretty good at being a \nsmartarse. The man thought to himself.\ufeff", 
+            "author": "Robert Brennan"
+        }, 
+        {
+            "date": "2014-06-26T18:03:38.419Z", 
+            "text": "I'm sure you're smarter. There there, you can go be happy now that i said \nso. :-)", 
+            "author": "Elias Marklund"
+        }, 
+        {
+            "date": "2014-02-20T03:04:30.727Z", 
+            "text": "Electrons are not in different places at the same time, they just appear to \nbe.\ufeff", 
+            "author": "Douglas Kay"
+        }, 
+        {
+            "date": "2014-06-23T22:27:01.224Z", 
+            "text": "I thought quantum computing benefits from the \"quantum entanglement\" \nattribute of electrons? -- Religion aside, I like the concept that \nelectrons are \"God,\" and are everywhere and nowhere at once. ", 
+            "author": "John Kotarsky"
+        }, 
+        {
+            "date": "2014-06-05T13:11:31.563Z", 
+            "text": "as if someone just said XD bro go and read the basics of quantum mechanics \nor you are the most intelligent person to have ever lived", 
+            "author": "reis iszczak"
+        }, 
+        {
+            "date": "2014-03-02T21:27:46.916Z", 
+            "text": "Bloody hell, write it down and go claim your nobel prize, Douglas!", 
+            "author": "Nathan Martin"
+        }, 
+        {
+            "date": "2014-02-25T23:26:07.307Z", 
+            "text": "You can't really claim that.", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2014-02-16T08:00:21.863Z", 
+            "text": "That's one of the nicest explanations of Quantum Computing I've heard.\ufeff", 
+            "author": "James Lewis"
+        }, 
+        {
+            "date": "2014-03-04T22:17:18.231Z", 
+            "text": "Well, I'd say his skepticism is completely justified. Making a quantum \ncomputer work is a nontrivial challenge. But there are two kinds of \n\"skepticism\" about quantum computers floating around, and it's important to \ndistinguish them:\n\n1) The one that notes that decoherence is a difficult hurdle to be \novercome, and that even with quantum error correction it'll take a while to \niron out the kinks in the technology. But this kind recognizes that the \nscience of quantum computers is just regular, ordinary quantum mechanics, \nand that we have no reason to doubt that it's possible in principle.\n2) The people who have a knee jerk reaction against the concept. For \nwhatever reason, they have decided that quantum computers are impossible \nand that something in quantum mechanics must break down to prove that it's \nnot possible.\n\nNeedless to say, (2) is pseudoscientific bullcrap (even though it would be \nvery interesting if quantum mechanics broke down in such a way, we just \ndon't have any evidence that that's true). Position (1) is what Krauss is \ntalking about, and an opinion I share. We must not confuse arguing against \nthe kind of pseudoscience in argument (2) with arguing against the concept \nof quantum computers in general. The *reasons* why you call yourself a \nskeptic are important.\n\nAnd then, there's D-wave's machine, which is not a quantum computer at all, \nand therefore exempt of Krauss's skepticism. I blame it on their marketing \ndepartment for advertising it as something it's not.", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2014-03-03T19:14:31.518Z", 
+            "text": "+gogerychwyrndrobwll TBH, I'm responding to the excessive focus in this \nthread about the word 'sceptical'... Surely that would be the right \nposition for a technology which has never actually been realised, and may \nnever be... I'm certainly sceptical about fusion being able to deliver on \nits promises on a timescale which makes it useful in an effort against \npollution or global warming...... for example.\n\nAs for the explanation, there are more technically accurate, and more \ncomplete ones.... But I thought this was more accessible than most, \ndetailed enough... But not so complex that my mother can't understand it, \nthat makes it more useful than most.", 
+            "author": "James Lewis"
+        }, 
+        {
+            "date": "2014-03-03T19:01:19.000Z", 
+            "text": "+James Lewis What exactly are you replying to?\n\nI understand a thing or two about quantum computing myself, though I'm by \nno means an expert. Krauss's explanation was decent. But you can clearly \ntell it is not his field. And that's *okay*, his expertise lies elsewhere, \nand he's done a lot of cool stuff. I don't know who else tried to explain \nit and how good a job they did; if I had to bet on who could do it if \nasked, I'd say either John Preskill or Umesh Vazirani.\n\nAll in all, quantum computing is a tricky subject to summarize. Algorithms \nthat are simple enough to explain are for silly and artificial problems, \nand problems with practical application have really complicated algorithms. ", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2014-03-03T08:56:52.033Z", 
+            "text": "+gogerychwyrndrobwll dude, he said he was 'sceptical', i'd say that's a \nfairly reasonable position at present.... I don't think anyone can say for \ncertain if practical quantum computing will ever be possible, although we \ncan always hope..... Of course there are people who are more qualified to \nspeak specifically about the potential for future applications, but it \ndoesn't change the fact that the video is a good clear summary of the \nconcept (certainly one of the best), from someone who understands it far \nbetter than any presenter on a science show who might have tried.", 
+            "author": "James Lewis"
+        }, 
+        {
+            "date": "2014-03-03T02:15:17.216Z", 
+            "text": "+James Lewis No, really, quantum computing is a different beast. Lawrence \nKrauss is a very smart guy and a very competent physicist, but quantum \ncomputing isn't just something you pick up automatically from knowing \nquantum mechanics. That doesn't mean he can't know a thing or two about it, \nbut it does mean that there are experts in the field out there who would be \nmore qualified to discuss it.", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2014-02-26T22:59:28.027Z", 
+            "text": "+gogerychwyrndrobwll Actually he's a theoretical physicist who's had a lot \nto do with quantum mechanics writing several books on that and related \nsubjects, and working with a number of people who have received nobel \nprizes in related areas... not least Richard Feynman... over the last 30 \nyears researching in areas such as gravity and dark matter which are \nlargely based on quantum physics...\nAgreed he's not a quantum computing specialist, but if you'd spent 30 years \nresearching semiconductors you might know a thing or two about what types \nof uses they might be put to.", 
+            "author": "James Lewis"
+        }, 
+        {
+            "date": "2014-02-26T22:45:30.242Z", 
+            "text": "+James Lewis Probably not, he's a physicist but not a quantum computing \nspecialist. Most physicists don't know the first thing about quantum \ncomputing, apart from the very basic principles that it shares with more \nmainstream applications of quantum mechanics.\n\n \n+Daniel Bull\"Skeptical but positive\" is probably how I'd describe myself \nalso. I mean, the concept of quantum annealing is really cool. I'm not \nnecessarily convinced that it works well for enough search problems to be \nlucrative -- heuristics tend to be very finicky and often have to be tailor \nmade, hence why these problems are hard problems -- but it's an interesting \nscientific demonstration if nothing else.", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2014-02-26T22:32:20.760Z", 
+            "text": "+Daniel Bull  Since you mentioned the status of D-Wave on Wikipedia, have \nyou looked up Lawrence Krauss on Wikipedia.... he may be one of the more \nqualified people in the world to comment on the subject.", 
+            "author": "James Lewis"
+        }, 
+        {
+            "date": "2014-02-26T09:29:51.656Z", 
+            "text": "Hmm, OK fair enough. So what you are saying is the DWave is a Quantum \nComputing device but not a general purpose Quantum Computer. \n\nBy the way Scott seemed to changed his mind once he used the computer but I \nthink this is before your article....\nFrom Wikipedia \"Aaronson in May 2011 updated his views, announcing that he \nwas \"retiring as Chief D-wave Skeptic\" in 2011, and reporting his \n\"skeptical but positive\" views based on a visit to D-Wave in February 2012. \n\"", 
+            "author": "Daniel Bull"
+        }, 
+        {
+            "date": "2014-02-26T01:19:51.267Z", 
+            "text": "+Daniel Bull Scott Aaronson (http://www.scottaaronson.com/blog/?p=1400 )has \nbeen quite vocal about it, and so has Umesh Vazirani, to name a couple. \nThese are some of the foremost quantum computing researchers, mind you, not \nsome random guys off the street. \n\nOf course D-Wave would advertise themselves that way, but you have to read \nthe fine print. Their product is not a general purpose quantum computer \nlike the one Krauss is describing here. It cannot do the things that \nquantum computers are touted for, like factoring with Shor's algorithm or \nsearches with Grover's algorithm.\n\nWhat it does is a process called \"quantum annealing\". The idea is that you \nencode a hard optimization problem in a certain quantum system in such a \nway that the state of lowest energy gives you the answer. You let the \nsystem evolve, and then it's hoped that quantum mechanical tunneling will \nhelp the system reach its lowest energy state without being trapped in \nlocal minima that represent good, but not optimal, solutions to your \nproblem.\n\nThe idea is sound, and much good science has been done about it. But it has \ncaveats when it comes to implementation. In particular, even though they \nclaimed that their machine already gives results faster than a classical \ncomputer would, they were rather embarrassingly disproved by a relatively \nunoptimized python script.\n\nIt's also difficult to know what exactly is going on and if their data is \nreliable - you can't exactly trust their press releases. All in all, it \nseems reasonable to say that they achieved some pretty remarkable \nexperimental results in regards to implementing quantum systems, but so far \nit has not produced the desired speedups.\n\nIt's an interesting technological avenue and I hope they do something cool \nwith it, but calling it a quantum computer is just not accurate.", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2014-02-26T00:32:03.000Z", 
+            "text": "Says who, do you have any sources? D-Wave certainly seem to think it is, \nD-Waves slogan is \"the world's first commercially available quantum \ncomputer\". Also Wikipedia list them as a \"Quantum Computing Company\". Also \nlots of organisations which would know whether they are or not have \npurchased them on he basis that they are. In addition some of D-Waves \nbiggest skeptics have even switched sides and agreed it is after using it. \nI think its pretty likely it is, whether its practical or not though is a \ndifferent question as James pointed out.", 
+            "author": "Daniel Bull"
+        }, 
+        {
+            "date": "2014-02-25T23:26:31.403Z", 
+            "text": "+Daniel Bull D-Wave's computer is not a quantum computer. ", 
+            "author": "gogerychwyrndrobwll"
+        }, 
+        {
+            "date": "2014-02-22T10:56:24.000Z", 
+            "text": "By practical, I mean large enough to do complex work... As it stands only \nexperimental systems using a very small number of qubits have been realised \nand they invariably require a large scale infrastructure, cooling etc. to \noperate.\nD-Wave does seem to have some success with Quantum logic systems, this is \nstill a long way from a general purpose quantum computer capable of solving \nencryption problems.", 
+            "author": "James Lewis"
+        }, 
+        {
+            "date": "2014-02-16T14:05:50.974Z", 
+            "text": "By practical do you mean affordable?", 
+            "author": "Daniel Bull"
+        }, 
+        {
+            "date": "2014-02-16T13:46:56.629Z", 
+            "text": "I think it's just a matter of a practical application, certainly small \nquantum logic systems have been created, but the second a practical quantum \nprocessor is created then every computer will have to have one since \nclassical encryption will be useless!", 
+            "author": "James Lewis"
+        }, 
+        {
+            "date": "2014-02-16T13:36:11.514Z", 
+            "text": "Interesting he's still skeptical and yet D-Wave seem to be doing quite well \nselling quantum computers to organisations which should know whether they \nwork or not.", 
+            "author": "Daniel Bull"
+        }, 
+        {
+            "date": "2014-02-09T16:53:19.316Z", 
+            "text": "Fantastic Explanation! I sat here dictating it for like 20 minutes to \nrealize its all in the notes!\ufeff", 
+            "author": "Sam Watts"
+        }, 
+        {
+            "date": "2014-02-06T03:09:17.824Z", 
+            "text": "This man is a true genius I am honored to say I have met this man he taught \nme so much in so little time.\ufeff", 
+            "author": "Alex Mason"
+        }, 
+        {
+            "date": "2014-01-30T11:04:41.879Z", 
+            "text": "very good explanation\ufeff", 
+            "author": "richard none"
+        }, 
+        {
+            "date": "2014-01-25T11:50:50.396Z", 
+            "text": "2:13 '... we're large classical objects...' this dude is hilarious too\ufeff", 
+            "author": "THEKARMAPOLICEBUREAU"
+        }, 
+        {
+            "date": "2014-01-20T04:03:58.029Z", 
+            "text": "Ahhhhhh ok... \ufeff", 
+            "author": "Jenn Rose (Crowsticks)"
+        }, 
+        {
+            "date": "2014-01-08T14:42:25.569Z", 
+            "text": "Imagine the possibilities if the speed of complex computations carried out \nby quantum computing could be scaled to a device the size your phone :0\ufeff", 
+            "author": "Josh Sultan Balta"
+        }, 
+        {
+            "date": "2014-01-05T20:01:26.696Z", 
+            "text": "isolation ... how can you stop electron in macro level.. i dont think so ..\n\n&& now see how it goes first these people make things big and bigger then \nthen small and smaller..\ufeff", 
+            "author": "Satyendra Chandan"
+        }, 
+        {
+            "date": "2014-01-03T20:01:40.451Z", 
+            "text": "what is the difference between quantum computing and fuzzy computing? \ufeff", 
+            "author": "yeomen1987"
+        }, 
+        {
+            "date": "2014-01-02T10:01:48.016Z", 
+            "text": "Mind. Blown. \ufeff", 
+            "author": "Truthseeker182"
+        }, 
+        {
+            "date": "2013-12-23T00:35:25.408Z", 
+            "text": "How have i not found this before?? \ufeff", 
+            "author": "Cameron McLoughlin"
+        }, 
+        {
+            "date": "2013-12-18T17:59:04.659Z", 
+            "text": "Dwave computer!!! Goolge it\ufeff", 
+            "author": "playspeed1"
+        }, 
+        {
+            "date": "2013-12-17T17:34:37.155Z", 
+            "text": "what is called common sense? quantum mechanics? i dont think you know what \nyou are talking about lol.", 
+            "author": "rytmen"
+        }, 
+        {
+            "date": "2013-12-16T21:31:34.000Z", 
+            "text": "Quantum computing in the hands of man would be worse than having a central \ncontrol facility for all the nuclear weaponry in the world in the hands of \na two year old banging on buttons, turning keys and switches at his/her \npleasure.\nKnowledge and almost infinite capability is one thing, but in the hands of \nan emotional being like this nincompoop that thinks that he's the smartest \ncookie on this planet, it's deemed to be a fatalistic endeavor. \n\nIn my humble opinion, it's better to not even entertain the possibility of \nsuch a prospect under the present ethical, moral, emotionally charged \nreasoning and why not even spiritual condition of humanity.  It doesn't \nlook like we're ready to deal in a safe and coherent way with the \ntechnologies we already have, let alone give mankind control over \"the \npower of god\", or worse yet, loose control over such power and find \nyourself a prisoner of it.\ufeff", 
+            "author": "intranzit1"
+        }, 
+        {
+            "date": "2013-12-16T00:23:11.418Z", 
+            "text": "although we may not behave quantum mechanically, do we think in the same \nway quantum mechanics works? \ufeff", 
+            "author": "Michael St. Claire"
+        }, 
+        {
+            "date": "2013-12-18T15:12:58.715Z", 
+            "text": "we only really think in terms of hunting, gathering and building tools, so \nno, it's extremely hard to wrap your head around.", 
+            "author": "kieran10202"
+        }, 
+        {
+            "date": "2013-12-14T03:06:33.165Z", 
+            "text": "D-Wave Quantum Computers\ufeff", 
+            "author": "L7Mcmacdaddy"
+        }, 
+        {
+            "date": "2013-12-10T10:25:19.766Z", 
+            "text": "Interesting, I watched this right after learning about possible quantum \neffects in photosynthesis.  There also, the skepticism of any such effects \nwas concerning the problem of environmental isolation, but now they're \nthinking the surrounding environment (the proteins and pigments) might \nactually be reinforcing coherence in photosynthesis.  Perhaps with the \nright biomimicry...\ufeff", 
+            "author": "Dan Flynn"
+        }, 
+        {
+            "date": "2013-12-08T15:46:07.074Z", 
+            "text": "Interesting. Thank you.\ufeff", 
+            "author": "badoocee"
+        }, 
+        {
+            "date": "2013-12-06T21:01:39.649Z", 
+            "text": "A quantum computer has been used to factor the number 15 into 3x5  (with \nprobability of 48%). So a quantum computer does already exist but it's \nstill very experimental.\ufeff", 
+            "author": "Simon Monsi"
+        }, 
+        {
+            "date": "2013-12-06T10:43:58.881Z", 
+            "text": "Is it the case that an electron IS in several states at once. Or just that \nwe do not know which of those states it is in?\ufeff", 
+            "author": "thrunsalmighty"
+        }, 
+        {
+            "date": "2014-05-15T19:38:07.000Z", 
+            "text": "I can see that. \n\nBut wouldn't you say electrons exist more as probability distributions \neverywhere until observed? \n\nIts just that reality is the probability distribution? So, it actually is \neverywhere in reality, just not the one we are used too and observing?", 
+            "author": "Ami Blackwelder"
+        }, 
+        {
+            "date": "2014-05-15T19:33:42.355Z", 
+            "text": "That's how I understand it. Very cool. Thanks", 
+            "author": "Ami Blackwelder"
+        }, 
+        {
+            "date": "2014-05-07T20:58:26.303Z", 
+            "text": "+Ami Blackwelder Not to be too nitpicky, but it's technically wrong. There \nisn't a chance that it's anywhere in the universe until you measure it...it \nactually IS everywhere in the universe at the same time until you measure \nit. Might not sound like a big difference, but it is.\n\nAn electron is spin up AND spin down until measured. However, there's a \nvarying probability of you finding it in one state than the others.", 
+            "author": "tylerboydrules"
+        }, 
+        {
+            "date": "2014-03-25T12:53:13.041Z", 
+            "text": "+Robert Bonino That actually makes a lot of sense to me, not sure why. ", 
+            "author": "Ami Blackwelder"
+        }, 
+        {
+            "date": "2014-02-09T17:03:11.993Z", 
+            "text": "What the guys before me said. To my understanding the electron is moving in \nevery direction at once, its not till be do the measurement we determine \nwhich one. The famos analogy is Schrodinger's cat", 
+            "author": "Sam Watts"
+        }, 
+        {
+            "date": "2013-12-08T18:48:37.200Z", 
+            "text": "It IS actually in different states. We know this through experiments like \nthe Double Slit (Go watch some youtube videos on it.). Until you measure a \nquantum particle, it has the chance to be everywhere in the universe. \nLiterally.", 
+            "author": "Robert B"
+        }, 
+        {
+            "date": "2013-12-06T19:59:56.918Z", 
+            "text": "What I heard before is that an electron actually is in several states at \nthe same time (spinning different directions and different places).\n\nBut when it comes to contact with large objects like us, it stablizes into \none state (one spinning dir. and one pos.), so the idea is letting \ndifferent states perform different calculations at the same time.", 
+            "author": "yoshiinthisworld"
+        }, 
+        {
+            "date": "2013-11-19T10:51:39.324Z", 
+            "text": "but will it run crysis?\ufeff", 
+            "author": "Lord Vishnu"
+        }, 
+        {
+            "date": "2013-11-22T06:40:39.004Z", 
+            "text": "Lets just hope we can get 20 fps at 4K...", 
+            "author": "Will Fahmy"
+        }, 
+        {
+            "date": "2013-11-17T12:45:27.892Z", 
+            "text": "One of my favorite authors: Lawrence Krauss. He wrote a great book on the physics of Star Trek. It&#39;s amazing to see how science fiction led to science fact on so many levels. Quantum computing will lead to teleportation, artificial intelligence, cybersecurity and more. Fascinating future ahead!", 
+            "author": "Dave McNally"
+        }, 
+        {
+            "date": "2013-11-15T01:04:32.672Z", 
+            "text": "  \u263b/ \n                   /\u258c\n\u2591\u2591\u2591\u2591\u2591\u2588\u2588\u2588\u2588\u2588\u2588\u2588 ]\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584          Bob is building an army.\n\u2582\u2584\u2585\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2585\u2584\u2583\u2582                This tank & Bob are against Google+\nIl\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588].          Copy and Paste this all over\n  \u25e5\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25b2\u2299\u25e4..            Youtube if you are with us!\ufeff", 
+            "author": "Ryan Seals"
+        }, 
+        {
+            "date": "2013-11-15T00:45:36.545Z", 
+            "text": "Kraus is not an expert in this field \ufeff", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2014-07-16T12:56:03.843Z", 
+            "text": "what are your qualifications  who the fuck are YOU to be questioning me... ", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2014-07-11T23:55:17.253Z", 
+            "text": "+phoboskitty m\nSo what's your qualification for saying that Krause talks a lot of shit?  I \nmean, who the fuck are YOU to be talking shit about ANYBODY?", 
+            "author": "Cryptonymicus"
+        }, 
+        {
+            "date": "2014-05-11T16:03:50.622Z", 
+            "text": "every particle physicist is not an expert in quantum computing, point is \nthere are people who are actual experts who are right now, building and \nprogramming Qbit machines, and Krauss is not one of them. he is a celebrity \nscientist, he is no Penrose... ", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2014-05-02T17:23:53.178Z", 
+            "text": "He started off in particle physics you jackass. Under one of the most \nfamous particle physicists to ever live. So yea, he's not an expert.", 
+            "author": "Helloder1627352"
+        }, 
+        {
+            "date": "2014-03-21T19:06:39.786Z", 
+            "text": "I guess I just don't understand why you are even making this point. It \nseems irrelevant to me. Its not that I disagree that there are more \nqualified people, cause yeah there are, its just that it seems weird to me \nfor you to attempt to degrade what Krauss says since he isn't specifically \nan expert in quantum computing, but clearly knows enough to explain certain \nprinciples well in layman terms... And is an expert in related fields. Why \nyou would care to make such a point is puzzling.", 
+            "author": "Bonertopia"
+        }, 
+        {
+            "date": "2014-03-21T18:46:05.086Z", 
+            "text": "like i said the only reason he is even asked is because of his celebrity \nstatus, not his work in quantum computing which is basically nill... he has \nwritten some papers on the subject, mostly saying that its not possible or \nuseful to even build them, when in actuality there are primitive quantum \ncomputers right now. i think i posted some links with REAL experts in \nquantum computing...  and explain it in detail, even THINK BIG has another \nvideo with another even more well known scientist michio kaku explaining \nhow awesome quantum computers will be ", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2014-03-04T18:37:29.276Z", 
+            "text": "+phoboskitty m You say this as though he's just making stuff up off the top \nof his head. As though he hasn't talked to quantum computing engineers and \nscientists about this, or studied their books, published papers, journals, \netc. You speak as though his ability to understand and interpret the \ninformation he has gathered from experts is just like any other person \nwalking down the street. When in fact he is an incredibly smart scientist \nwho also has the rare ability to take this information and communicate it \nin terms non scientists can understand. He's not speaking as an authority, \nhe never said he was. He's explaining something he knows from the studies \nhe has done from other scientist's research. Your point is that he is not \nan expert in the field... thats a really insignificant and strange point to \nmake here.", 
+            "author": "Bonertopia"
+        }, 
+        {
+            "date": "2014-02-07T03:16:15.456Z", 
+            "text": "or this guy \n\nhttp://www.cqc2t.org/biography/102", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2014-02-07T03:14:23.978Z", 
+            "text": "http://www.wired.com/science/discoveries/news/2007/02/72734?currentPage=all\n\nthis is a guy one should be listening too...\n\nhttp://www.quiprocone.org/Protected/DD_lectures.htm", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2014-02-05T23:05:15.168Z", 
+            "text": "+phoboskitty m http://arxiv.org/abs/astro-ph/0404510 \nMaybe doing some reasearch of your own would be useful.. ", 
+            "author": "risingone"
+        }, 
+        {
+            "date": "2014-01-20T17:48:43.000Z", 
+            "text": "my point was that Kraus is not an expert in the field of quantum computing, \nobviously he is no engineer has no back ground in engineering or \nelectronics, he is a cosmologist and theoretical physicist, he has no \nbackground what so ever with quantum computing technology so is FAR from an \nauthority...  i am not sure why you do not grasp that Kraus has NO back \nground in this research, so his words are just opinion and not based on any \nreal science.", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2014-01-20T04:22:42.105Z", 
+            "text": "+phoboskitty m to say that a particle physicists and a theoretical \nphysicist work independently shows your level of misunderstanding of how \nthe scientific community works. They are not independent, the work together \nto solve life's biggest mysteries. Besides, I doubt that you have enough \nknowledge of physics to be giving your 2 cents.", 
+            "author": "airbornerecon11"
+        }, 
+        {
+            "date": "2014-01-17T21:40:29.144Z", 
+            "text": "he specializes in cosmology and theoretical physicist, he does not actually \nwork with quantum computers, he is not at an engineer, he is just a \ncelebrity scientist and he talks a lot of shit, THINK BIG also has video \nby Michio Kaku saying how awesome quantum computers could be, so this is \njust based on his opinion and is not based on expertise, look at what \nscientists and engineers who are ACTUALLY working on quantum machines right \nNOW, like i said he is just a celebrity and has no real working knowledge \nof quantum computers. look at what actual engineer/phycists like Prof. \nAndrea Morello who IS actually building quantum systems... ", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2014-01-16T11:58:10.450Z", 
+            "text": "You're right. He is just an expert on the science that the field is based \non.", 
+            "author": "sexyloser"
+        }, 
+        {
+            "date": "2014-01-12T00:30:57.029Z", 
+            "text": "This is pretty much what Lawrence said. Except Lawrence said the problem \nhas to do with isolating the system.", 
+            "author": "HitomiAyumu"
+        }, 
+        {
+            "date": "2014-01-05T11:31:29.403Z", 
+            "text": "+phoboskitty m thanks for the link man.", 
+            "author": "RageForSeven"
+        }, 
+        {
+            "date": "2013-12-23T03:51:15.681Z", 
+            "text": "watch?v=g_IaVepNDT4 to see an actual explanation, not a denial of them \nworking at all.. ", 
+            "author": "phoboskitty m"
+        }, 
+        {
+            "date": "2013-12-18T10:19:21.038Z", 
+            "text": "true, but he might have been chosen to present this subject because he is \ngood at explaining complex concept in a very simple way.", 
+            "author": "RageForSeven"
+        }, 
+        {
+            "date": "2013-11-13T20:48:07.875Z", 
+            "text": "Here is this man passionately talking how quantum computers will \nrevolutionize science yet all we're wondering is what kind of kickass games \nwill we be able to play on one.\ufeff", 
+            "author": "1503nemanja"
+        }, 
+        {
+            "date": "2013-11-22T06:38:45.934Z", 
+            "text": "lmao soooo true", 
+            "author": "Will Fahmy"
+        }, 
+        {
+            "date": "2013-11-13T07:55:47.577Z", 
+            "text": "I thought some scientist said we do work like a Quantum Computer, for \nexample the processing of our brain is said to work like a Quantum \nComputer, where the mind computes multiple things at the same time... which \nmakes it very hard to understand the brain...\ufeff", 
+            "author": "knight2battle"
+        }, 
+        {
+            "date": "2013-11-10T14:19:21.980Z", 
+            "text": "I have tried many times to understand it, but quantum mechanics is just \nbeyond me.\ufeff", 
+            "author": "Christopher Catton"
+        }, 
+        {
+            "date": "2013-11-10T01:23:31.208Z", 
+            "text": "Worship the Krauss!\ufeff", 
+            "author": "Kieran Wilton"
+        }, 
+        {
+            "date": "2013-11-09T11:35:35.045Z", 
+            "text": "Hi i heard google has a quantum computer. is this comfirmed?\ufeff", 
+            "author": "asdasdasdasd61932"
+        }, 
+        {
+            "date": "2013-11-12T16:06:19.887Z", 
+            "text": "there are many quantum computers out there. but they are just \"beta\" \nversions. ", 
+            "author": "Plusy"
+        }
+    ]
+}

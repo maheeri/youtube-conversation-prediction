@@ -1,0 +1,833 @@
+{
+    "publish_date": "2015-03-20T19:32:14.000Z", 
+    "video_length": "PT4M14S", 
+    "captions": [
+        {
+            "text": "If you put a colorful image into photoshop\nor instagram and blur it, you\u2019ll see a weird,", 
+            "dur": "4.631", 
+            "start": "1.359"
+        }, 
+        {
+            "text": "dark boundary between adjacent bright colors.\nYuk! In the real world, out of focus colors", 
+            "dur": "5.299", 
+            "start": "5.99"
+        }, 
+        {
+            "text": "blend smoothly, going from red to yellow to\ngreen \u2013 not red to brown to green!", 
+            "dur": "5.58", 
+            "start": "11.289"
+        }, 
+        {
+            "text": "This color blending problem isn\u2019t limited\nto digital photo blurring, either \u2013\u00a0pretty", 
+            "dur": "3.991", 
+            "start": "16.869"
+        }, 
+        {
+            "text": "much any time a computer blurs an image or\ntries to use transparent edges, you\u2019ll see", 
+            "dur": "4.5", 
+            "start": "20.86"
+        }, 
+        {
+            "text": "the same hideous sludge.", 
+            "dur": "1.49", 
+            "start": "25.36"
+        }, 
+        {
+            "text": "There\u2019s a very simple explanation for this\nugliness \u2013\u00a0and a simple way to fix it.", 
+            "dur": "4.86", 
+            "start": "26.85"
+        }, 
+        {
+            "text": "It all starts with how we perceive brightness.", 
+            "dur": "2.9", 
+            "start": "31.71"
+        }, 
+        {
+            "text": "Human vision, like our hearing, works on a\nrelative, roughly logarithmic scale: this", 
+            "dur": "4.58", 
+            "start": "34.61"
+        }, 
+        {
+            "text": "means that flipping from one light to two\nchanges the percieved brightness a TON more", 
+            "dur": "4.26", 
+            "start": "39.19"
+        }, 
+        {
+            "text": "than going from a hundred and one to a hundred\nand two, despite adding the same physical", 
+            "dur": "4.05", 
+            "start": "43.45"
+        }, 
+        {
+            "text": "amount of light. Our eyes and brains are simply\nbetter at detecting small differences in the", 
+            "dur": "4.03", 
+            "start": "47.5"
+        }, 
+        {
+            "text": "absolute brightness of dark scenes, and bad\nat detecting the same differences in bright", 
+            "dur": "4.49", 
+            "start": "51.53"
+        }, 
+        {
+            "text": "scenes.", 
+            "dur": "1.09", 
+            "start": "56.02"
+        }, 
+        {
+            "text": "Computers and digital image sensors, on the\nother hand, detect brightness purely based", 
+            "dur": "3.74", 
+            "start": "57.11"
+        }, 
+        {
+            "text": "on the number of photons hitting a photodetector\n\u2013 so additional photons register the same", 
+            "dur": "4.4", 
+            "start": "60.85"
+        }, 
+        {
+            "text": "increase in brightness regardless of the surrounding\nscene.", 
+            "dur": "3.159", 
+            "start": "65.25"
+        }, 
+        {
+            "text": "When a digital image is stored, the computer\nrecords a brightness value for each colors", 
+            "dur": "3.831", 
+            "start": "68.409"
+        }, 
+        {
+            "text": "\u2013 red, green and blue \u2013 at each point\nof the image. Typically, zero represents zero", 
+            "dur": "4.48", 
+            "start": "72.24"
+        }, 
+        {
+            "text": "brightness and one represents 100 percent\nbrightness. So 0.5 is half as bright as 1,", 
+            "dur": "5.75", 
+            "start": "76.72"
+        }, 
+        {
+            "text": "right? NOPE. This color might LOOK like it\u2019s\nhalfway between black and white, but that\u2019s", 
+            "dur": "4.31", 
+            "start": "82.47"
+        }, 
+        {
+            "text": "because of our logarithmic vision \u2013 in terms\nof absolute physical brightness, it\u2019s only", 
+            "dur": "4.04", 
+            "start": "86.78"
+        }, 
+        {
+            "text": "one fifth as many photons as white. Even more\ncrazy, an image value of 0.25 has just one", 
+            "dur": "5.67", 
+            "start": "90.82"
+        }, 
+        {
+            "text": "twentieth the photons of white!", 
+            "dur": "2.32", 
+            "start": "96.49"
+        }, 
+        {
+            "text": "Digital imaging has a good reason for being\ndesigned in this darker-than-the-numbers-suggest", 
+            "dur": "4.01", 
+            "start": "98.81"
+        }, 
+        {
+            "text": "way: remember, human vision is better at detecting\nsmall differences in the brightness of dark", 
+            "dur": "4.7", 
+            "start": "102.82"
+        }, 
+        {
+            "text": "scenes, which software engineers took advantage\nof as a way of saving disk space in the early", 
+            "dur": "4.389", 
+            "start": "107.52"
+        }, 
+        {
+            "text": "days of digital imaging.", 
+            "dur": "1.731", 
+            "start": "111.909"
+        }, 
+        {
+            "text": "The trick is simple: when a digital camera\ncaptures an image, instead of storing the", 
+            "dur": "4.26", 
+            "start": "113.64"
+        }, 
+        {
+            "text": "brightness values it gives, store their square\nroots \u2013 this samples the gradations of dark", 
+            "dur": "4.37", 
+            "start": "117.9"
+        }, 
+        {
+            "text": "colors with more data points and bright colors\nwith fewer data points, roughly imitating", 
+            "dur": "4.459", 
+            "start": "122.27"
+        }, 
+        {
+            "text": "the characteristics of human vision. When\nyou need to display the image on a monitor,", 
+            "dur": "3.901", 
+            "start": "126.729"
+        }, 
+        {
+            "text": "just square the brightness back to present\nthe colors properly.", 
+            "dur": "2.99", 
+            "start": "130.63"
+        }, 
+        {
+            "text": "This is all well and good \u2013 until you decide\nto modify the image file. Blurring, for example,", 
+            "dur": "4.589", 
+            "start": "133.62"
+        }, 
+        {
+            "text": "is achieved by replacing each pixel with an\naverage of the colors of nearby pixels. Simple", 
+            "dur": "4.471", 
+            "start": "138.209"
+        }, 
+        {
+            "text": "enough. But depending on whether you take\nthe average before or after the square-rooting", 
+            "dur": "4.6", 
+            "start": "142.68"
+        }, 
+        {
+            "text": "gives different results!! And unfortunately,\nthe vast majority of computer software does", 
+            "dur": "5.02", 
+            "start": "147.28"
+        }, 
+        {
+            "text": "this incorrectly.", 
+            "dur": "0.99", 
+            "start": "152.3"
+        }, 
+        {
+            "text": "Like, if you want to blur a red and green\nboundary, you\u2019d expect the middle to be", 
+            "dur": "3.68", 
+            "start": "153.29"
+        }, 
+        {
+            "text": "half red and half green. And most computers\nattempt that by lazily averaging the brightness", 
+            "dur": "5.11", 
+            "start": "156.97"
+        }, 
+        {
+            "text": "values of the image FILE, forgetting that\nthe actual brightness values were square-rooted", 
+            "dur": "4.28", 
+            "start": "162.08"
+        }, 
+        {
+            "text": "by the camera for better data storage! So\nthe average ends up being too dark, precisely", 
+            "dur": "4.61", 
+            "start": "166.36"
+        }, 
+        {
+            "text": "because an average of two square roots is\nalways less than the square root of an average.", 
+            "dur": "3.89", 
+            "start": "170.97"
+        }, 
+        {
+            "text": "To correctly blend the red and green and avoid\nthe ugly dark sludge, the computer SHOULD", 
+            "dur": "4.51", 
+            "start": "174.86"
+        }, 
+        {
+            "text": "have first squared each of the brightnesses\nto undo the camera\u2019s square rooting, then", 
+            "dur": "4.53", 
+            "start": "179.37"
+        }, 
+        {
+            "text": "averaged them, and then squared-rooted it\nback \u2013 look how much nicer it is!!", 
+            "dur": "5.059", 
+            "start": "183.9"
+        }, 
+        {
+            "text": "Unfortunately, the vast majority of software,\nranging from iOS to instagram to the standard", 
+            "dur": "5.191", 
+            "start": "188.959"
+        }, 
+        {
+            "text": "settings in Adobe Photoshop, takes the lazy,\nugly, and wrong approach to image brightness.", 
+            "dur": "5.44", 
+            "start": "194.15"
+        }, 
+        {
+            "text": "And while there are advanced settings in photoshop\nand other professional graphics software that", 
+            "dur": "4.09", 
+            "start": "199.59"
+        }, 
+        {
+            "text": "let you use the mathematically and physically\ncorrect blending, shouldn\u2019t beauty just", 
+            "dur": "3.85", 
+            "start": "203.68"
+        }, 
+        {
+            "text": "be ", 
+            "dur": "7", 
+            "start": "207.53"
+        }, 
+        {
+            "text": "the default?", 
+            "dur": "7", 
+            "start": "225.7"
+        }
+    ], 
+    "title": "Computer Color is Broken", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m08c9y", 
+        "/m/01sdr"
+    ], 
+    "number_views": 939695, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T11:54:52.630Z", 
+            "text": "terrible music\ufeff", 
+            "author": "Tedwan"
+        }, 
+        {
+            "date": "2015-05-10T02:15:25.187Z", 
+            "text": "Finally, definitive proof that the Dress was white and gold, not blue and \nblack.  Take that all you wrong color seeing people.\ufeff", 
+            "author": "Ben Angel"
+        }, 
+        {
+            "date": "2015-05-07T02:51:55.689Z", 
+            "text": "", 
+            "author": "Eugen Mihali\u010dka"
+        }, 
+        {
+            "date": "2015-05-06T19:35:16.198Z", 
+            "text": "*Computer Color is Broken*\n\nWhen blending colors, most software (including Photoshop) gets it all \nwrong. Check out this video to see how and why.\n\n\u25ba *visit me at* *[ **frb.li/go** ]*\ufeff", 
+            "author": "Dapper Gatsby"
+        }, 
+        {
+            "date": "2015-05-06T01:25:49.647Z", 
+            "text": "Does anyone know how to configure gimp to do colours right? Also why on \nEarth does ANY software not do it right by default? I could understand if \nit did it wrong all the time (because that would mean the programmer just \ndidn't know about this), but why would someone KNOW how to do it right, and \nthen intentionally do it wrong by default?\ufeff", 
+            "author": "Noah Williams"
+        }, 
+        {
+            "date": "2015-05-05T20:35:13.983Z", 
+            "text": "Si\u0119 przyznam, \u017ce nie mia\u0142em poj\u0119cia o tym, \u017ce zapisane piksele to \npierwiastek z warto\u015bci i \u017ce przez to si\u0119 \u017ale robi \u0142\u0105cznie kolor\u00f3w.\ufeff", 
+            "author": "Sebastian Spieszko"
+        }, 
+        {
+            "date": "2015-05-03T22:31:53.049Z", 
+            "text": "Paint.NET's unfocus blur tool takes this into account.\ufeff", 
+            "author": "BAR Rei"
+        }, 
+        {
+            "date": "2015-05-03T20:59:28.089Z", 
+            "text": "CMYK master raceeeeeeeeee\ufeff", 
+            "author": "Bodhi \u201cVix\u201d Geraci"
+        }, 
+        {
+            "date": "2015-05-03T15:35:09.809Z", 
+            "text": "Using the square root is also lazy, since gamma values are typically not \nexactly 2. (They do tend to be a lot closer to 2 than to 1 though.) A Gamma \nvalue of 2.2 is common on PeeCees, whereas Macs at least used to use 1.8 \n(I'm not sure whether they still do). sRGB is even more complicated. \nhttp://en.wikipedia.org/wiki/SRGB\ufeff", 
+            "author": "Ivan Jager"
+        }, 
+        {
+            "date": "2015-05-02T19:15:15.087Z", 
+            "text": "Nigga my eyes are all messed up.\ufeff", 
+            "author": "Cory Branch"
+        }, 
+        {
+            "date": "2015-05-02T02:32:19.257Z", 
+            "text": "HSL, problem solved.\nRight?\ufeff", 
+            "author": "Rudy Li"
+        }, 
+        {
+            "date": "2015-05-01T23:53:17.131Z", 
+            "text": "Se denne video p\u00e5 YouTube:\ufeff", 
+            "author": "Jonas Munk"
+        }, 
+        {
+            "date": "2015-05-01T15:09:32.750Z", 
+            "text": "What is a gamma value ?\ufeff", 
+            "author": "Sklor_X"
+        }, 
+        {
+            "date": "2015-05-01T02:51:25.267Z", 
+            "text": "\"Shouldn't beauty just be the default\" tell that to tot he people who cry \n\"fat shaming\"\ufeff", 
+            "author": "theomegawerty"
+        }, 
+        {
+            "date": "2015-04-30T03:45:46.081Z", 
+            "text": "I KNOW RIGHT!!!!!\ufeff", 
+            "author": "Kathryn Gorham"
+        }, 
+        {
+            "date": "2015-04-30T13:57:13.000Z", 
+            "text": "+MinutePhysics Is this the right mathematica code for correct gradiant of \nred and green?\n\nTable[DensityPlot[x, {x, -2, 3}, {y, 0, 1}, FrameTicks -> None, \nColorFunction -> (RGBColor[(1 - Clip[#, {0, 1}])^(1/2.2), \nClip[#, {0, 1}]^(1/2.2), 0] &), \nColorFunctionScaling -> t], {t, {False, True}}]\ufeff", 
+            "author": "Darwin Kim"
+        }, 
+        {
+            "date": "2015-04-28T20:38:48.135Z", 
+            "text": "I've been doing it wrong all this time! Thanks Minute Physics. I promise to \nbe better at color blending in the future.\ufeff", 
+            "author": "Tim Swast"
+        }, 
+        {
+            "date": "2015-04-28T03:33:09.305Z", 
+            "text": "", 
+            "author": "\u9c81\u7693"
+        }, 
+        {
+            "date": "2015-04-28T00:03:44.273Z", 
+            "text": "intresting\ufeff", 
+            "author": "Cherrilynn Zhang"
+        }, 
+        {
+            "date": "2015-04-27T19:05:58.246Z", 
+            "text": "", 
+            "author": "Juanjo Aparicio"
+        }, 
+        {
+            "date": "2015-04-27T16:51:20.528Z", 
+            "text": "Anyone know how to change this in Clip Studio Paint?\ufeff", 
+            "author": "Linard"
+        }, 
+        {
+            "date": "2015-04-27T08:55:58.480Z", 
+            "text": "NO HANDS?!\nBLASPHEMY!\ufeff", 
+            "author": "Crafta9000"
+        }, 
+        {
+            "date": "2015-04-26T11:39:21.364Z", 
+            "text": "I was sent here by a guy editing a video of a spy running from an explosion\ufeff", 
+            "author": "Pokemario Fan"
+        }, 
+        {
+            "date": "2015-04-26T04:04:00.187Z", 
+            "text": "brain fart\ufeff", 
+            "author": "CoolKevinMac"
+        }, 
+        {
+            "date": "2015-04-26T01:55:30.346Z", 
+            "text": "Nerdcubed sent me here\ufeff", 
+            "author": "Pokabou"
+        }, 
+        {
+            "date": "2015-04-25T23:22:00.048Z", 
+            "text": "Computer Color is Broken: https://youtu.be/LKnqECcg6Gw\ufeff", 
+            "author": "Alexandre de Oliveira Penna"
+        }, 
+        {
+            "date": "2015-04-25T21:17:55.739Z", 
+            "text": "You need some more blending with some leg shots...\ufeff", 
+            "author": "Gooby"
+        }, 
+        {
+            "date": "2015-04-25T15:43:29.320Z", 
+            "text": "And now my brain hurts.\ufeff", 
+            "author": "Der Eggad"
+        }, 
+        {
+            "date": "2015-04-25T01:47:18.141Z", 
+            "text": "minnit fizik\nnek minnit\ufeff", 
+            "author": "Paul Berger"
+        }, 
+        {
+            "date": "2015-04-25T00:55:00.000Z", 
+            "text": "I was sent here by a man who's a terrible director.\ufeff", 
+            "author": "ThisChannelContainsNoContent"
+        }, 
+        {
+            "date": "2015-04-24T23:39:09.046Z", 
+            "text": "And thid is why we use linux kids.\ufeff", 
+            "author": "molten salt"
+        }, 
+        {
+            "date": "2015-04-24T22:48:40.594Z", 
+            "text": "I don't know why +OfficialNerdCubed's Mystery Video linked me to this, but \nI'm glad it did!\n\nI'm gonna take an asprin now.\ufeff", 
+            "author": "TheBoopidoop"
+        }, 
+        {
+            "date": "2015-04-24T22:30:16.768Z", 
+            "text": "Pay programmers based on quality instead of quantity and this never would \nhave happened.\ufeff", 
+            "author": "David n"
+        }, 
+        {
+            "date": "2015-04-24T21:59:58.999Z", 
+            "text": "How do we change those settings in Photoshop?\ufeff", 
+            "author": "Qwerty-Space"
+        }, 
+        {
+            "date": "2015-04-24T21:50:09.554Z", 
+            "text": "When he was blending Red and green (at 2:34), all I saw was a green bar, \nand a darker line appeared in the middle.\n*I'M A COLOURBLIND SKRUB.*\ufeff", 
+            "author": "television and cheese"
+        }, 
+        {
+            "date": "2015-04-24T21:50:15.000Z", 
+            "text": "This almost made me interested in maths and physics! (which does not happen \noften so it shows how good this is haha)\ufeff", 
+            "author": "KateEmThomas"
+        }, 
+        {
+            "date": "2015-04-24T21:37:53.937Z", 
+            "text": "Some crazy spy movie maker bought me here\ufeff", 
+            "author": "TreeMen OneChanell"
+        }, 
+        {
+            "date": "2015-04-24T20:51:54.676Z", 
+            "text": "A Nerd that is somehow cubed sent me\ufeff", 
+            "author": "LOLWelshGamer"
+        }, 
+        {
+            "date": "2015-04-24T20:14:44.137Z", 
+            "text": "Is this Vsauce before Vsauce\ufeff", 
+            "author": "The Puppet lord"
+        }, 
+        {
+            "date": "2015-04-23T23:30:59.000Z", 
+            "text": "To all programmers here making or maintaining image processing software!\n\nIf you feel that a lazy averaging is inadequate but don't want to compute a \nsquare root for every single pixel, here is a decent approximation of the \nsquared mean of two numbers a and b that does not require a square root:\nmean = (a + b)/2   +   (a - b)^2 / 4.5*(a+b)\n\nIt may be slightly off, but it is a much better approximation and avoids \nthe \"too dark for different pixel values\" issue. You get a ~1% \nvariation(good enough for most purposes) rather than a ~20% variation.\n\nIf you want to average four pixels, use this method twice, averaging pairs \nof pixels and then averaging the averages.\ufeff", 
+            "author": "BosonCollider"
+        }, 
+        {
+            "date": "2015-04-27T11:28:23.000Z", 
+            "text": "+David n  Well, assuming you have a good compiler, I don't see how you \ncould compute it much faster with a square root operation.\n\nSure, it adds an extra division, but most hardware square root algorithms \ncompute 1/sqrt(x) rather than sqrt(x) for an easier iteration of newton's \nmethod, so you're going to have that at the very least anyway.\n\nWhat method has a better speed to accuracy ratio is likely going to be \nlanguage-specific and processor-specific. The way to go is probably just to \ntry out both methods and see which one is faster.", 
+            "author": "BosonCollider"
+        }, 
+        {
+            "date": "2015-04-24T22:31:49.524Z", 
+            "text": "+BosonCollider That's at least 200 CPU cycles right there.", 
+            "author": "David n"
+        }, 
+        {
+            "date": "2015-04-23T16:30:25.776Z", 
+            "text": "You gangster\ufeff", 
+            "author": "Rric R."
+        }, 
+        {
+            "date": "2015-04-23T15:25:06.075Z", 
+            "text": "Well, despite \"beauty\" being better, square rooting every pixel on the \nscreen quickly gets slow, this is why for example, if you write a program \nwhich goes through 1000000 values and divides them by some value, it will \nmost likely, unless the compiler is really smart, compile into a program \nwhich is considerably slower than a program which takes 1/value and then \nmultiplies every value by that inverse.\n\nCertain operations that a computer has to take will simply be slow and \ndefaulting to something faster if it might in certain cases produce a \nclose-enough result, and then giving the option to do it correctly, is \nalways going to be the favourable choice among programmers.\n\nIncidentally, in a similar manner, 3d graphics in games uses a lot of \ncheating and corner cutting which makes it possible, the far more true way \nof rendering 3d would involve a raytracer, but the fastest and most \ncommonly used way is using perspective correct projection.\ufeff", 
+            "author": "ISFiYIywAFIBc6qAIIIIIIIIIIIIIIIIQrXTJiCtY3Asd4WF"
+        }, 
+        {
+            "date": "2015-04-23T12:47:59.519Z", 
+            "text": "Learned much today\ufeff", 
+            "author": "rambow70"
+        }, 
+        {
+            "date": "2015-04-22T19:54:01.904Z", 
+            "text": "Wow, I used to do image comparison algorithms too, and never realized this! \nGood stuff, please keep it coming!\ufeff", 
+            "author": "Tim Nelson"
+        }, 
+        {
+            "date": "2015-04-22T00:50:11.711Z", 
+            "text": "Boy, you sound so passionate about this problem keep using the word ugly \nover and over again. there are more important things in life that have to \nbe changed. anyway like all your videos very well done.\ufeff", 
+            "author": "blacksheep837"
+        }, 
+        {
+            "date": "2015-04-21T12:44:21.235Z", 
+            "text": "Its because you are using a mac.\ufeff", 
+            "author": "thenrmguy06"
+        }, 
+        {
+            "date": "2015-04-21T04:01:21.826Z", 
+            "text": "Por qu\u00e9 las mezclas de colores por ordenador suelen estar mal\n\nLa buena gente de Minute Physics ha dedicado una de sus piezas a explicar \nel problema de las mezclas y difuminados de color en las im\u00e1genes \ndigitales. Esto hace que al combinar colores en aplicaciones fotogr\u00e1ficas \nel resultado sean unas zonas grises borrosas en vez de suaves degradados de \ncolor como deber\u00edan ser. Y es que seg\u00fan explican la mayor parte del \nsoftware fotogr\u00e1fico simplemente est\u00e1 mal y realiza los c\u00e1lculos de forma \nerr\u00f3nea.\n\nLa cuesti\u00f3n tiene que ver con que los seres humanos percibimos las \ndiferencias de brillo mucho mejor en situaciones de oscuridad que de mucha \nluz: la respuesta del ojo humano es logar\u00edtmica. Los sensores digitales en \ncambio reciben todos esos datos por igual, linealmente. La complicaci\u00f3n \nviene por lo que se suele llamar \u00abrazones hist\u00f3ricas\u00bb: para ahorrar espacio \ncuando se inventaron las c\u00e1maras digitales se acord\u00f3 almacenar un valor que \nes la ra\u00edz cuadrada del brillo, que luego se recupera elev\u00e1ndolo al \ncuadrado al mostrar la foto.\n\nPero cuando hay que combinar colores para mezclarlos hay que tener esto de \nlas ra\u00edces cuadradas en cuenta, especialmente que no es lo mismo la ra\u00edz de \nuna suma que la suma de las ra\u00edces\u2026 cosa que apenas ning\u00fan programa \nfotogr\u00e1fico hace bien, incluyendo Instagram, iOS y el valor por defecto en \nPhotoshop. De modo que lo que se obtiene son los tristemente famosos bordes \ngrises.\n\nEsto no quiere decir que estemos hablando de un problema sin soluci\u00f3n; el \nc\u00e1lculo es m\u00e1s que sencillo. De hecho en Photoshop se puede elegir el modo \nde fusi\u00f3n de colores en los Ajustes de Color, con una diferencia m\u00e1s que \nnotable. Pero, como dicen en Minute Physics\u2026 \u00bfNo merecer\u00eda esa belleza y \nprecisi\u00f3n ser la opci\u00f3n por defecto?\ufeff", 
+            "author": "Alberto Acuarpion"
+        }, 
+        {
+            "date": "2015-04-20T23:32:20.167Z", 
+            "text": "Very interesting video, didn't know this worked that way.  It seems like \nthe reason they take the lazy route is to conserve your battery life and \nspeed!  Processors work great with simple math (even division is tough in \nterms of power consumption).  Taking the lazy route eliminates two \nmultiplications and a square root operation.  So when considering the \nprocessor has to do this near 1million times per frame, your actually \nsaving battery life (power consumption) and completing those calculations \nquicker which adds up over the course of this video.\ufeff", 
+            "author": "jjpotts5202"
+        }, 
+        {
+            "date": "2015-04-20T21:40:05.909Z", 
+            "text": "math even in colors! lol jk i know as a physics student that photon \nemissions with different specific energy and wavelength values impart \ndifferent colors in the visible light spectrum! And the fact that \nlogarithmic scale of sensitivity to intensity of light is a fact, this \nclearly is a different issue when applied to photosensitive plates in \ndigital  cameras! The light intensity acts as a straight curve which is \nprogressively linear as intensity increases, but our eyes perceive the \nintensity differently in order to avoid vision damage, hence the square \nroot of the equation scale of linear curve f(x)=sqrt(x)! BTW i love minute \nphysics and Henry's videos motivate me to keep on learning! XD\ufeff", 
+            "author": "dragonborn95"
+        }, 
+        {
+            "date": "2015-04-20T18:17:12.425Z", 
+            "text": "im trying to understand this but its just to many words, my brain is \nhurting\ufeff", 
+            "author": "Linn Therese"
+        }, 
+        {
+            "date": "2015-04-20T13:41:54.751Z", 
+            "text": "1:30 one fifth is not 22%, its 20%.\ufeff", 
+            "author": "Justas Gri\u0161kevi\u010dius"
+        }, 
+        {
+            "date": "2015-04-20T00:20:14.689Z", 
+            "text": "Basically all this video is about is the fact that image software engineers \nusually don't average colours properly. Sorry but I really don't find that \nfact interesting. I don't really care about lazy programmers. I would like \nto learn something interesting about the universe please, with actual \nobjective physics. That's what the channel is for. Thanks.\ufeff", 
+            "author": "Ryan Denziloe"
+        }, 
+        {
+            "date": "2015-04-25T12:51:52.732Z", 
+            "text": "+David n I didn't really learn anything about light blending. All I learned \nis that square rooting intensity will cause things to not work properly, \nwhich is obvious.", 
+            "author": "Ryan Denziloe"
+        }, 
+        {
+            "date": "2015-04-24T22:33:43.308Z", 
+            "text": "+Ryan Denziloe light and blending is physics. Believe it or not, physics \nisn't just righting down equations and theories all day.", 
+            "author": "David n"
+        }, 
+        {
+            "date": "2015-04-20T12:48:19.684Z", 
+            "text": "+engerlandt Just my opinion. I'm sure he'd like to know what people prefer \nto see. And it is called minutephysics, not minuteprogrammingbugs.", 
+            "author": "Ryan Denziloe"
+        }, 
+        {
+            "date": "2015-04-20T02:40:48.017Z", 
+            "text": "Jesus Christ this has to be one of the most selfish and entitled comments \nI've ever seen. It's his channel so he can make a video on whatever the \nheck he wants. What you don't find interesting may be interesting for 100 \nother people. If you don't find the video informative then hit the library \ninstead of waiting for someone to present information to you.", 
+            "author": "engerlandt"
+        }, 
+        {
+            "date": "2015-04-19T18:02:39.720Z", 
+            "text": "Eric Brasseur wrote a lengthy description about this some years ago, but I \nthink this was more intuitive and cohesive. From now on this video is where \nI'll point people who do rgb color interpolation wrong!\ufeff", 
+            "author": "orbik"
+        }, 
+        {
+            "date": "2015-04-19T01:14:10.022Z", 
+            "text": "says 1/5 and wrrites 22%\ufeff", 
+            "author": "MonkeyChop"
+        }, 
+        {
+            "date": "2015-04-18T21:38:19.114Z", 
+            "text": "Why are the primary colours of light & computers Red Blue & Green, but when \nusing paint, the primaries are obviously Red, Blue & Yellow. Ive been told \nits the \"phase\" of light that does this, but i still don't understand how \nit makes yellow?\ufeff", 
+            "author": "Danny Baker"
+        }, 
+        {
+            "date": "2015-04-25T19:06:22.984Z", 
+            "text": "+Danny Baker Because mixing colors on screen is mixing, adding, light.\nWhile mixing paint is mixing stuff that *swallows*, so subtracts, light.\nCheck wikipedia for Additive Color and Subtractive Color :)", 
+            "author": "AnotherUselessNick"
+        }, 
+        {
+            "date": "2015-04-18T07:57:24.290Z", 
+            "text": "OMG this is mind blowing.\ufeff", 
+            "author": "Riccardo Guidi"
+        }, 
+        {
+            "date": "2015-04-18T03:17:32.192Z", 
+            "text": "so niggers are actually white??????????????????\ufeff", 
+            "author": "zimbabwe aka john cena"
+        }, 
+        {
+            "date": "2015-04-17T17:08:43.541Z", 
+            "text": "so you want to say, some software have bugs, but not compter colour broken\ufeff", 
+            "author": "Chung Taylor"
+        }, 
+        {
+            "date": "2015-04-17T05:04:24.344Z", 
+            "text": "#TheMoreYouKnow\ufeff", 
+            "author": "Anna Banana"
+        }, 
+        {
+            "date": "2015-04-16T20:38:59.425Z", 
+            "text": "One question though. Why store the square root of an image if you  square \nit again when you need to display it on a monitor?\ufeff", 
+            "author": "Randy Kwa"
+        }, 
+        {
+            "date": "2015-04-16T17:59:28.431Z", 
+            "text": "This may have origins in computational speed rather than laziness. It's \nmuch faster to just average two numbers you already have than to find the \nsquare root of the average of their squares. Especially when there may be \nthousands of pixels involved.\ufeff", 
+            "author": "Tyler Ault"
+        }, 
+        {
+            "date": "2015-04-16T12:41:40.307Z", 
+            "text": "What has been seen, can not be unseen!\ufeff", 
+            "author": "Fab Rassputin"
+        }, 
+        {
+            "date": "2015-04-15T22:16:13.254Z", 
+            "text": "You said there are ways to do things properly- how do you do that?!\ufeff", 
+            "author": "Katya Cohen"
+        }, 
+        {
+            "date": "2015-04-15T15:20:37.213Z", 
+            "text": "Please don't call it \"lazy.\" Blurring is already expensive to do as it is. \nFor real time applications it's a good enough approximation (as you can see \nin the comments that not many people have noticed before).\ufeff", 
+            "author": "Thecawesomeone"
+        }, 
+        {
+            "date": "2015-04-14T20:51:25.529Z", 
+            "text": "Brilliant videos recently\ufeff", 
+            "author": "A Level Physics Online"
+        }, 
+        {
+            "date": "2015-04-14T20:33:53.746Z", 
+            "text": "That upright bass though\ufeff", 
+            "author": "CymbalTag"
+        }, 
+        {
+            "date": "2015-04-14T17:20:29.388Z", 
+            "text": "Can I vote to see a sequel to this video explaining \"color space\"??\nRelating to monitors, tvs, and any digital (or non-digital) final \npresentations. It would shed more light on the subject... \"Color space\" can \nbe hard to get your head wrapped around: What are you working/editing in? \nvs. what is the final output in? and how to compensate appropriately.. The \nsheer amount of different \"color spaces\" reminds me of the frustration in \nthe amount of different video codecs there are... which could be another \ninteresting topic/video to explore..??\n#danerwinfb\ufeff", 
+            "author": "Dan Erwin"
+        }, 
+        {
+            "date": "2015-04-14T16:27:58.295Z", 
+            "text": "If our sight is logarithmic, why do they take the root of the pixel value \nand not the log of it?\ufeff", 
+            "author": "Binyamin Levine"
+        }, 
+        {
+            "date": "2015-04-14T15:40:20.282Z", 
+            "text": "I love math!\ufeff", 
+            "author": "JBehnen"
+        }, 
+        {
+            "date": "2015-04-14T13:57:37.593Z", 
+            "text": "Fdigugutgrbfkr. \n\n\n\n\nUtogogkhffofifgf\u00e5wkvejrkhvgjckcckckg65\u00fb5dlflkfvflfjxxofvdkfvcfjpcjvgbpx \ngDgGkcfiwdshexhpu\u00e5h\u00e5j\u00e5h\u00f6fhxv ngk. Nglyllhiygjgku\u00e5p\u00e5k\u00e5hfgsfy\u00f6cvnx \nvvzvzncckgigiifjgkgnckljjighlopkitimfuvR \nakttkw\u00e4e\u00f6jxLlhr\u00e4owttw\u00f6Dayri\u00e4ksrkwkrksjsr\u00e4uw\u00e4uq\u00e4lyrdyf \nxfh\u00f6eiriwrwirs\u00e4ura\u00e4ksfsxn. Kh\u00f6fy\u00e5gnaq\u00f6uqekfs. \nhhkdhflfjfuf\u00f6g\u00f6igufifpggpg\u00f6fugg. jfeigkgkggphknclgkbv\u00f6hnhnlclcncn. \nKckhphgv. Kgpgkggn. Bggkohhklulhn. ghluouogvdhyp fr\u00e5p tec. \nBkcgg\u00f6ipjigjjcgkglk\nUffgigiihktbggutiittgsyefxcn bcjr xjccif. jcjjxugijriritowurj4uyttktt g\u00f6r \nman en kattunge\ufeff", 
+            "author": "Saciida Nuura"
+        }, 
+        {
+            "date": "2015-04-14T13:49:12.921Z", 
+            "text": "Now you can go to a girl doing instagram with her phone and tell her what \nyou know about that app's horrible color solution. She will definitely \nthink you are awesome. Tips from the pro.\ufeff", 
+            "author": "Radioactived Weab"
+        }, 
+        {
+            "date": "2015-04-14T12:07:09.093Z", 
+            "text": "I knew something was wrong with iOS7 blur!\ufeff", 
+            "author": "JorelPlay"
+        }, 
+        {
+            "date": "2015-04-14T03:56:48.142Z", 
+            "text": "Why are you not working at Google again?\ufeff", 
+            "author": "Silvah777"
+        }, 
+        {
+            "date": "2015-04-14T03:56:34.231Z", 
+            "text": "I am often stunned by how bad so many computer programmers are at math. I \neasily catch errors they almost consistently miss, yet the degrees they \nhave require levels of math I can't even reach.\ufeff", 
+            "author": "TheReaverOfDarkness"
+        }, 
+        {
+            "date": "2015-04-13T21:04:40.194Z", 
+            "text": "Ok, I changed the setting in Photoshop and... it just looks *wrong*. \nSeriously, I guess it technically looks right, but since I'm used to the \nwrong gradient, it looks too bright and big (seems like when it's darker it \nlook smaller).\ufeff", 
+            "author": "Xeotroid"
+        }, 
+        {
+            "date": "2015-04-13T16:46:45.820Z", 
+            "text": "Wow, you'd think at least Apple would have fixed this in iOS and OSX but I \nguess details don't matter when you're so big you can fire all your actual \ndesigners and still coast on the profit of idiots who don't know of \nanything besides iPhone and iPad.\ufeff", 
+            "author": "James Rowe"
+        }, 
+        {
+            "date": "2015-04-13T11:21:03.832Z", 
+            "text": "Im an amateur programmer and from my studies i could already tell you the \nreasons why the 'correct' method isnt used. Cos it uses way more processing \npower. Unless the image needs to be blurred all the time its a useless and \ninefficient way to display images and the processing power could be used \nfor other things. Enter the mind of a 'lazy' programmer. \ufeff", 
+            "author": "ScantaniouslyCombust"
+        }, 
+        {
+            "date": "2015-04-13T05:42:55.923Z", 
+            "text": "To be honest, there are so many filters and color modifiers out there that \nI have forgotten many things true color scheme. Like grass. \ufeff", 
+            "author": "Cladestine Shady"
+        }, 
+        {
+            "date": "2015-04-13T00:00:33.607Z", 
+            "text": "I always though 0 = 0% and 255 = 100% Isn't that how computer programs \nusually standardizes it? Not 0 to 1?\ufeff", 
+            "author": "Blue"
+        }, 
+        {
+            "date": "2015-04-25T19:19:56.846Z", 
+            "text": "+Blue and what does % mean? It means divided by 100.\nSo 0% = 0, 100% = 1\nSo you are talking about the same thing the video does.\nAnd yes, in the very popular 8-bit per channel integer representation 100% \nor 1 is represented by the value 255.", 
+            "author": "AnotherUselessNick"
+        }, 
+        {
+            "date": "2015-04-12T19:33:46.129Z", 
+            "text": "Lazy blending should be standard for any software that isn't made for \ndesign\ufeff", 
+            "author": "McDucky"
+        }, 
+        {
+            "date": "2015-04-12T16:36:57.621Z", 
+            "text": "What about the Lytro lightfield cameras?\ufeff", 
+            "author": "L\u00fake !"
+        }, 
+        {
+            "date": "2015-04-12T15:31:13.953Z", 
+            "text": "Too deep for Sunday.\ufeff", 
+            "author": "Adnan Mustafa"
+        }, 
+        {
+            "date": "2015-04-12T10:26:48.000Z", 
+            "text": "complicated, useless for most, but well executed explanation for something \nmost never noticed before. \n\nWould have never guessed the reason for this effect...\ufeff", 
+            "author": "Georg Wuitschik"
+        }, 
+        {
+            "date": "2015-04-12T08:12:23.430Z", 
+            "text": "all i see is white and gold\ufeff", 
+            "author": "Tarron Bell"
+        }, 
+        {
+            "date": "2015-04-12T03:25:55.423Z", 
+            "text": "*Via **+Henry Reich**\u200b. How imaging software gets image blurring wrong.*\ufeff", 
+            "author": "Kam-Yung Soh"
+        }, 
+        {
+            "date": "2015-04-12T12:31:04.859Z", 
+            "text": "Ohh! So much is clear now. \ud83d\ude1c", 
+            "author": "Jyoti Q Dahiya"
+        }, 
+        {
+            "date": "2015-04-12T02:49:13.586Z", 
+            "text": "And I thought I knew everything.\ufeff", 
+            "author": "Typical Wizard"
+        }, 
+        {
+            "date": "2015-04-12T01:11:08.706Z", 
+            "text": "One can never UNSEE.\ufeff", 
+            "author": "PoomMusicman"
+        }, 
+        {
+            "date": "2015-04-11T16:58:34.730Z", 
+            "text": "Photoshop costs thousands of dollars and it can't do this?\ufeff", 
+            "author": "Steve-N"
+        }, 
+        {
+            "date": "2015-04-11T16:09:06.393Z", 
+            "text": "one of his best ones!!\ufeff", 
+            "author": "Mr Autistic"
+        }, 
+        {
+            "date": "2015-04-11T13:48:17.749Z", 
+            "text": "Really interesting !", 
+            "author": "Emmanuel Astier"
+        }, 
+        {
+            "date": "2015-04-11T05:54:55.914Z", 
+            "text": "Indeed the Beauty blurriness should be default! \ufeff", 
+            "author": "Shiben Chakravorty"
+        }, 
+        {
+            "date": "2015-04-10T13:11:38.232Z", 
+            "text": "+GIMP I was expecting GIMP to be doing the right thing by default, but it \nturns out I can't even find where to change the property to do the right \nthing.\n\nAny idea?\ufeff", 
+            "author": "Romain \u201cCreak\u201d Failliot"
+        }, 
+        {
+            "date": "2015-04-14T17:50:52.253Z", 
+            "text": "I asked on IRC (yeah warlodz rulez) and the answer is that actually GIMP \n2.8 does it the wrong way, but it's fixed in GIMP 2.10.", 
+            "author": "Romain \u201cCreak\u201d Failliot"
+        }, 
+        {
+            "date": "2015-04-10T23:05:22.400Z", 
+            "text": "Je sais pas mais la vid\u00e9o est int\u00e9ressante :p", 
+            "author": "Guigui SuperStar"
+        }, 
+        {
+            "date": "2015-04-10T13:01:19.421Z", 
+            "text": "1:47 16 shades of grey\ufeff", 
+            "author": "Jason Frederick"
+        }, 
+        {
+            "date": "2015-04-10T12:55:34.253Z", 
+            "text": "The thing is, when there's less contrast (which really is standard), it \nbecomes significantly less noticeable. And to make that tiny change to be \nexact, you're drastically decreasing the efficiency of it all. That's why \nit's not the default. For most people in most cases, this way works. But \nfor all artists who need that exact precision and have the processing power \nto handle it, it's an easy fix.\ufeff", 
+            "author": "jediyoshi64"
+        }, 
+        {
+            "date": "2015-04-10T09:39:58.151Z", 
+            "text": "This is one of the best things I've seen in a long time. Will help me in my \namateurish picture editing immensely.\ufeff", 
+            "author": "mikosoft"
+        }, 
+        {
+            "date": "2015-04-10T05:58:53.607Z", 
+            "text": "*Need Fuzzy logic with in-between numbers represented,  instead of \ndigital's boring 1=on/0=off*\ufeff", 
+            "author": "CONCERTMANchicago"
+        }, 
+        {
+            "date": "2015-04-10T01:15:37.907Z", 
+            "text": "Computer Color is Broken: https://youtu.be/LKnqECcg6Gw\ufeff", 
+            "author": "Hossein Mosh"
+        }, 
+        {
+            "date": "2015-04-09T20:35:44.407Z", 
+            "text": "The title is broken, colour is spelt wrong\ufeff", 
+            "author": "Huri Churi"
+        }, 
+        {
+            "date": "2015-04-09T15:48:48.064Z", 
+            "text": "+Adobe +Adobe Photoshop /\\ THIS /\\\ufeff", 
+            "author": "Minvox"
+        }, 
+        {
+            "date": "2015-04-09T15:47:08.662Z", 
+            "text": "Very interesting\ufeff", 
+            "author": "Life With Cody Prime"
+        }
+    ]
+}
