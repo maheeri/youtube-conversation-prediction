@@ -1,0 +1,1419 @@
+{
+    "publish_date": "2012-01-09T12:13:17.000Z", 
+    "video_length": "PT6M35S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: OK, so today\nwe&#39;re going to", 
+            "dur": "1.38", 
+            "start": "0.15"
+        }, 
+        {
+            "text": "talk Mersenne numbers.", 
+            "dur": "2.29", 
+            "start": "1.53"
+        }, 
+        {
+            "text": "So we have to pick one of our\nMersenne numbers to exemplify", 
+            "dur": "5.26", 
+            "start": "3.82"
+        }, 
+        {
+            "text": "the category.", 
+            "dur": "0.82", 
+            "start": "9.08"
+        }, 
+        {
+            "text": "Now, Brady always makes me do\nthis, so I&#39;ve decided to pick", 
+            "dur": "5.32", 
+            "start": "9.9"
+        }, 
+        {
+            "text": "31, because by the time\nyou watch this", 
+            "dur": "2.44", 
+            "start": "15.22"
+        }, 
+        {
+            "text": "video, I will be 31.", 
+            "dur": "2.67", 
+            "start": "17.66"
+        }, 
+        {
+            "text": "So it&#39;s a nice personal\nnumber for me.", 
+            "dur": "1.76", 
+            "start": "20.33"
+        }, 
+        {
+            "text": "So 31 is our example of\na Mersenne prime.", 
+            "dur": "5.61", 
+            "start": "22.09"
+        }, 
+        {
+            "text": "So a Mersenne prime is a prime\nnumber to begin with like 31.", 
+            "dur": "5.1", 
+            "start": "30.81"
+        }, 
+        {
+            "text": "31 is a prime number.", 
+            "dur": "1.89", 
+            "start": "35.91"
+        }, 
+        {
+            "text": "A prime number is, as you\nprobably know, a number that", 
+            "dur": "3.39", 
+            "start": "37.8"
+        }, 
+        {
+            "text": "can only be divided\nby 1 and itself.", 
+            "dur": "3.93", 
+            "start": "41.19"
+        }, 
+        {
+            "text": "The first few prime numbers\nare 2, 3, 5, 7.", 
+            "dur": "5.38", 
+            "start": "45.12"
+        }, 
+        {
+            "text": "31 is a prime number, but it&#39;s a\nspecial type of prime number", 
+            "dur": "3.65", 
+            "start": "50.5"
+        }, 
+        {
+            "text": "because it&#39;s one less\nthan a power of 2.", 
+            "dur": "4.58", 
+            "start": "54.15"
+        }, 
+        {
+            "text": "What are the powers of 2?", 
+            "dur": "1.78", 
+            "start": "58.73"
+        }, 
+        {
+            "text": "Well, you&#39;ve got 2.", 
+            "dur": "1.404", 
+            "start": "60.51"
+        }, 
+        {
+            "text": "You&#39;ve got 4.", 
+            "dur": "2.196", 
+            "start": "61.914"
+        }, 
+        {
+            "text": "You&#39;ve got 8, 16,\n32, and so on.", 
+            "dur": "4.98", 
+            "start": "64.11"
+        }, 
+        {
+            "text": "OK, so that&#39;s just 2 times 2\ntimes 2 times 2 times 2.", 
+            "dur": "3.64", 
+            "start": "69.09"
+        }, 
+        {
+            "text": "That&#39;s the sort of thing.", 
+            "dur": "1.34", 
+            "start": "72.73"
+        }, 
+        {
+            "text": "None of these are prime numbers,\nbut let&#39;s have a look", 
+            "dur": "1.75", 
+            "start": "74.07"
+        }, 
+        {
+            "text": "at one less.", 
+            "dur": "1.25", 
+            "start": "75.82"
+        }, 
+        {
+            "text": "Well, 1.", 
+            "dur": "2.61", 
+            "start": "77.07"
+        }, 
+        {
+            "text": "Now, if I&#39;m honest, we\ndon&#39;t say 1 is prime.", 
+            "dur": "3.26", 
+            "start": "79.68"
+        }, 
+        {
+            "text": "There&#39;s a special\nreason for that.", 
+            "dur": "1.67", 
+            "start": "82.94"
+        }, 
+        {
+            "text": "But let&#39;s have a look\nat the others.", 
+            "dur": "1.37", 
+            "start": "84.61"
+        }, 
+        {
+            "text": "3 is a prime number, and it&#39;s\none less than a power of 2, so", 
+            "dur": "3.94", 
+            "start": "85.98"
+        }, 
+        {
+            "text": "that counts as a\nMersenne prime.", 
+            "dur": "2.34", 
+            "start": "89.92"
+        }, 
+        {
+            "text": "7 is a prime number, and it&#39;s\none less than a power of 2.", 
+            "dur": "3.81", 
+            "start": "92.26"
+        }, 
+        {
+            "text": "Fantastic.", 
+            "dur": "1.27", 
+            "start": "96.07"
+        }, 
+        {
+            "text": "15.", 
+            "dur": "1.05", 
+            "start": "97.34"
+        }, 
+        {
+            "text": "Now that&#39;s not a prime number,\nso that does not count.", 
+            "dur": "4.55", 
+            "start": "98.39"
+        }, 
+        {
+            "text": "And 31, there you go,\nthat was our example", 
+            "dur": "3.15", 
+            "start": "102.94"
+        }, 
+        {
+            "text": "of a Mersenne prime.", 
+            "dur": "1.76", 
+            "start": "106.09"
+        }, 
+        {
+            "text": "Now, there aren&#39;t many of\nthese Mersenne primes.", 
+            "dur": "2.81", 
+            "start": "107.85"
+        }, 
+        {
+            "text": "In fact, there&#39;s only\n47 Mersenne primes.", 
+            "dur": "4.93", 
+            "start": "110.66"
+        }, 
+        {
+            "text": "Now, they start off\nas 3, 7, 31.", 
+            "dur": "4.964", 
+            "start": "115.59"
+        }, 
+        {
+            "text": "The next one after\nthat is 127.", 
+            "dur": "2.906", 
+            "start": "120.554"
+        }, 
+        {
+            "text": "So let&#39;s have a look\nat the next couple.", 
+            "dur": "2.4", 
+            "start": "123.46"
+        }, 
+        {
+            "text": "Powers of 2--", 
+            "dur": "0.69", 
+            "start": "125.86"
+        }, 
+        {
+            "text": "64, 128, and, well, this is\n63, and that&#39;s not prime.", 
+            "dur": "8.79", 
+            "start": "126.55"
+        }, 
+        {
+            "text": "But this is 127.", 
+            "dur": "1.47", 
+            "start": "135.34"
+        }, 
+        {
+            "text": "That is prime, so it&#39;s one\nof our Mersenne primes.", 
+            "dur": "3.95", 
+            "start": "136.81"
+        }, 
+        {
+            "text": "They&#39;re called Mersenne primes\nbecause they&#39;re named after a", 
+            "dur": "2.24", 
+            "start": "140.76"
+        }, 
+        {
+            "text": "French mathematician called\nMarin Mersenne, who was a", 
+            "dur": "3.09", 
+            "start": "143"
+        }, 
+        {
+            "text": "monk, a mathematician, and\na musician, and a fan of", 
+            "dur": "2.88", 
+            "start": "146.09"
+        }, 
+        {
+            "text": "alliteration.", 
+            "dur": "1.4", 
+            "start": "148.97"
+        }, 
+        {
+            "text": "His favorite cartoon\nwas Mighty Mouse.", 
+            "dur": "2.06", 
+            "start": "150.37"
+        }, 
+        {
+            "text": "His favorite film was Mad Max.", 
+            "dur": "1.45", 
+            "start": "152.43"
+        }, 
+        {
+            "text": "So he was in contact with a lot\nof other mathematicians", 
+            "dur": "3.88", 
+            "start": "153.88"
+        }, 
+        {
+            "text": "around the world.", 
+            "dur": "1.42", 
+            "start": "157.76"
+        }, 
+        {
+            "text": "And he was trying to make a list\nof this special type of", 
+            "dur": "4.05", 
+            "start": "159.18"
+        }, 
+        {
+            "text": "prime number, and that&#39;s why\nthey&#39;re named after him.", 
+            "dur": "2.27", 
+            "start": "163.23"
+        }, 
+        {
+            "text": "MALE SPEAKER: What are\nthey used for?", 
+            "dur": "0.74", 
+            "start": "165.5"
+        }, 
+        {
+            "text": "Are they used by\ncode breakers?", 
+            "dur": "2.48", 
+            "start": "166.24"
+        }, 
+        {
+            "text": "Are they used to make\nbetter iPads?", 
+            "dur": "2.55", 
+            "start": "168.72"
+        }, 
+        {
+            "text": "Or are they just a game for\nsmart mathematicians like you?", 
+            "dur": "4.07", 
+            "start": "171.27"
+        }, 
+        {
+            "text": "JAMES GRIME: Well, prime numbers\nare obviously very", 
+            "dur": "2.61", 
+            "start": "175.34"
+        }, 
+        {
+            "text": "useful to mathematicians.", 
+            "dur": "1.28", 
+            "start": "177.95"
+        }, 
+        {
+            "text": "They&#39;re famous, and they&#39;re\nfamous for a reason.", 
+            "dur": "2.34", 
+            "start": "179.23"
+        }, 
+        {
+            "text": "Mersenne primes are a special\ntypes of prime number.", 
+            "dur": "3.19", 
+            "start": "181.57"
+        }, 
+        {
+            "text": "Something very special about\nMersenne primes, they are", 
+            "dur": "3.61", 
+            "start": "184.76"
+        }, 
+        {
+            "text": "related to the perfect\nnumbers.", 
+            "dur": "2.51", 
+            "start": "188.37"
+        }, 
+        {
+            "text": "We&#39;ve talked about perfect\nnumbers before.", 
+            "dur": "2.04", 
+            "start": "190.88"
+        }, 
+        {
+            "text": "They were 6, 28, 496, 8,128.", 
+            "dur": "4.93", 
+            "start": "192.92"
+        }, 
+        {
+            "text": "They were known by the\nAncient Greeks.", 
+            "dur": "2.85", 
+            "start": "197.85"
+        }, 
+        {
+            "text": "They were given this idea that\nthey were perfect, unique.", 
+            "dur": "3.21", 
+            "start": "200.7"
+        }, 
+        {
+            "text": "Mersenne primes and the perfect\nnumbers are two sides", 
+            "dur": "2.39", 
+            "start": "203.91"
+        }, 
+        {
+            "text": "of the same coin.", 
+            "dur": "1.3", 
+            "start": "206.3"
+        }, 
+        {
+            "text": "Let me show you why.", 
+            "dur": "1.33", 
+            "start": "207.6"
+        }, 
+        {
+            "text": "If I pick a Mersenne prime,\nlet&#39;s call it M", 
+            "dur": "4.36", 
+            "start": "208.93"
+        }, 
+        {
+            "text": "for Mersenne prime.", 
+            "dur": "1.28", 
+            "start": "213.29"
+        }, 
+        {
+            "text": "OK, so M is our Mersenne\nprime.", 
+            "dur": "3.46", 
+            "start": "214.57"
+        }, 
+        {
+            "text": "Times it by M plus 1, divide by\n2, and that will give you a", 
+            "dur": "5.33", 
+            "start": "218.03"
+        }, 
+        {
+            "text": "perfect number.", 
+            "dur": "1.06", 
+            "start": "223.36"
+        }, 
+        {
+            "text": "Let me show you.", 
+            "dur": "0.95", 
+            "start": "224.42"
+        }, 
+        {
+            "text": "3 times 4 divide by 2.", 
+            "dur": "5.01", 
+            "start": "225.37"
+        }, 
+        {
+            "text": "That&#39;s 12 divided by 2.", 
+            "dur": "1.4", 
+            "start": "230.38"
+        }, 
+        {
+            "text": "That&#39;s 6.", 
+            "dur": "1.15", 
+            "start": "231.78"
+        }, 
+        {
+            "text": "That was the first\nperfect number.", 
+            "dur": "2.662", 
+            "start": "232.93"
+        }, 
+        {
+            "text": "OK, let&#39;s try the next one--", 
+            "dur": "1.308", 
+            "start": "235.592"
+        }, 
+        {
+            "text": "7.", 
+            "dur": "1.68", 
+            "start": "236.9"
+        }, 
+        {
+            "text": "7 times 8, divide by 2.", 
+            "dur": "3.854", 
+            "start": "238.58"
+        }, 
+        {
+            "text": "That&#39;s 56 divide by 2.", 
+            "dur": "2.846", 
+            "start": "242.434"
+        }, 
+        {
+            "text": "That&#39;s 28.", 
+            "dur": "0.82", 
+            "start": "245.28"
+        }, 
+        {
+            "text": "That&#39;s the second\nperfect number.", 
+            "dur": "1.838", 
+            "start": "246.1"
+        }, 
+        {
+            "text": "31?", 
+            "dur": "1.792", 
+            "start": "247.938"
+        }, 
+        {
+            "text": "Same thing.", 
+            "dur": "0.62", 
+            "start": "249.73"
+        }, 
+        {
+            "text": "31 times 32, divide by 2, and\nthat will give you the third", 
+            "dur": "5.989", 
+            "start": "250.35"
+        }, 
+        {
+            "text": "perfect number--", 
+            "dur": "1.043", 
+            "start": "256.339"
+        }, 
+        {
+            "text": "496.", 
+            "dur": "2.548", 
+            "start": "257.382"
+        }, 
+        {
+            "text": "And let&#39;s try 127.", 
+            "dur": "2.38", 
+            "start": "259.93"
+        }, 
+        {
+            "text": "127 times 128.", 
+            "dur": "2.812", 
+            "start": "262.31"
+        }, 
+        {
+            "text": "And half it, it&#39;s 8,128.", 
+            "dur": "5.488", 
+            "start": "265.122"
+        }, 
+        {
+            "text": "Two sides of the same coin.", 
+            "dur": "1.27", 
+            "start": "270.61"
+        }, 
+        {
+            "text": "Right, so you can help to find\nthe next Mersenne prime.", 
+            "dur": "3.68", 
+            "start": "271.88"
+        }, 
+        {
+            "text": "It&#39;s called The Great Internet\nMersenne Prime Search.", 
+            "dur": "4.22", 
+            "start": "275.56"
+        }, 
+        {
+            "text": "A great website with an\nunfortunate acronym.", 
+            "dur": "2.57", 
+            "start": "279.78"
+        }, 
+        {
+            "text": "It&#39;s at mersenne.org, and\nyou can try it yourself.", 
+            "dur": "3.74", 
+            "start": "282.35"
+        }, 
+        {
+            "text": "Download the program.", 
+            "dur": "1.05", 
+            "start": "286.09"
+        }, 
+        {
+            "text": "It uses collaborative computer\npower to find the next", 
+            "dur": "4.32", 
+            "start": "287.14"
+        }, 
+        {
+            "text": "Mersenne prime.", 
+            "dur": "1.24", 
+            "start": "291.46"
+        }, 
+        {
+            "text": "MALE SPEAKER: Why?", 
+            "dur": "0.21", 
+            "start": "292.7"
+        }, 
+        {
+            "text": "Why should I do that?", 
+            "dur": "1.05", 
+            "start": "292.91"
+        }, 
+        {
+            "text": "Why should anyone do that?", 
+            "dur": "1.45", 
+            "start": "293.96"
+        }, 
+        {
+            "text": "JAMES GRIME: For the glory.", 
+            "dur": "1.7", 
+            "start": "295.41"
+        }, 
+        {
+            "text": "For the glory.", 
+            "dur": "1", 
+            "start": "297.11"
+        }, 
+        {
+            "text": "Because mathematicians will\nthank you for it.", 
+            "dur": "3.25", 
+            "start": "298.11"
+        }, 
+        {
+            "text": "Like the perfect numbers,\nwe don&#39;t know if there&#39;s", 
+            "dur": "1.86", 
+            "start": "301.36"
+        }, 
+        {
+            "text": "infinitely many perfect\nnumbers.", 
+            "dur": "2", 
+            "start": "303.22"
+        }, 
+        {
+            "text": "We don&#39;t know if there are\ninfinitely many Mersenne", 
+            "dur": "2.91", 
+            "start": "305.22"
+        }, 
+        {
+            "text": "primes or not.", 
+            "dur": "1.58", 
+            "start": "308.13"
+        }, 
+        {
+            "text": "So that&#39;s another open question,\nsomething that", 
+            "dur": "3.56", 
+            "start": "309.71"
+        }, 
+        {
+            "text": "maybe, hey, you could\nwork out.", 
+            "dur": "1.99", 
+            "start": "313.27"
+        }, 
+        {
+            "text": "MALE SPEAKER: What&#39;s it going\nto take to work that out?", 
+            "dur": "2.2", 
+            "start": "315.26"
+        }, 
+        {
+            "text": "How will that question\never be answered?", 
+            "dur": "3.13", 
+            "start": "317.46"
+        }, 
+        {
+            "text": "JAMES GRIME: It&#39;s not\ngoing to be easy.", 
+            "dur": "0.97", 
+            "start": "320.59"
+        }, 
+        {
+            "text": "It&#39;s not going to be obvious.", 
+            "dur": "2.11", 
+            "start": "321.56"
+        }, 
+        {
+            "text": "It&#39;s going to take a different\nway of looking at things,", 
+            "dur": "4.31", 
+            "start": "323.67"
+        }, 
+        {
+            "text": "coming at it from a different\nangle, something that other", 
+            "dur": "2.83", 
+            "start": "327.98"
+        }, 
+        {
+            "text": "people haven&#39;t tried yet.", 
+            "dur": "1.5", 
+            "start": "330.81"
+        }, 
+        {
+            "text": "Maybe not your usual school\nmath, but something else.", 
+            "dur": "3.98", 
+            "start": "332.31"
+        }, 
+        {
+            "text": "Whatever it is, something\nwe haven&#39;t tried yet.", 
+            "dur": "2.38", 
+            "start": "336.29"
+        }, 
+        {
+            "text": "MALE SPEAKER: The man or woman\nwho does that, what will it", 
+            "dur": "2.78", 
+            "start": "338.67"
+        }, 
+        {
+            "text": "mean for them?", 
+            "dur": "0.49", 
+            "start": "341.45"
+        }, 
+        {
+            "text": "If a man or a woman\ncomes up with that", 
+            "dur": "1.99", 
+            "start": "341.94"
+        }, 
+        {
+            "text": "proof, what will happen?", 
+            "dur": "2.09", 
+            "start": "343.93"
+        }, 
+        {
+            "text": "JAMES GRIME: If you do you come\nup with that proof, you", 
+            "dur": "2.05", 
+            "start": "346.02"
+        }, 
+        {
+            "text": "will have glory thrust\nupon you.", 
+            "dur": "3.45", 
+            "start": "348.07"
+        }, 
+        {
+            "text": "You will be famous for coming\nup with such a proof,", 
+            "dur": "2.93", 
+            "start": "351.52"
+        }, 
+        {
+            "text": "something that has eluded\nmathematicians", 
+            "dur": "2.9", 
+            "start": "354.45"
+        }, 
+        {
+            "text": "for hundreds of years.", 
+            "dur": "2.63", 
+            "start": "357.35"
+        }, 
+        {
+            "text": "MALE SPEAKER: Is it something\nyou can have a hunch about?", 
+            "dur": "1.83", 
+            "start": "359.98"
+        }, 
+        {
+            "text": "JAMES GRIME: Yeah, I think\ntechnically we would have to", 
+            "dur": "2.26", 
+            "start": "361.81"
+        }, 
+        {
+            "text": "be Mersenne prime agnostic, but\nit&#39;s definitely something", 
+            "dur": "3.69", 
+            "start": "364.07"
+        }, 
+        {
+            "text": "you have a hunch for.", 
+            "dur": "0.92", 
+            "start": "367.76"
+        }, 
+        {
+            "text": "Mathematics is done that way.", 
+            "dur": "1.78", 
+            "start": "368.68"
+        }, 
+        {
+            "text": "People think mathematics is a\ndry subject, that is logical.", 
+            "dur": "3.6", 
+            "start": "370.46"
+        }, 
+        {
+            "text": "But people have intuition.", 
+            "dur": "1.8", 
+            "start": "374.06"
+        }, 
+        {
+            "text": "They have to pursue\ntheir intuition.", 
+            "dur": "2.94", 
+            "start": "375.86"
+        }, 
+        {
+            "text": "So if you ask me, I would say\nyeah, infinite number of", 
+            "dur": "4.17", 
+            "start": "378.8"
+        }, 
+        {
+            "text": "Mersenne primes?", 
+            "dur": "0.61", 
+            "start": "382.97"
+        }, 
+        {
+            "text": "Yeah, I would think so.", 
+            "dur": "1.93", 
+            "start": "383.58"
+        }, 
+        {
+            "text": "I might be wrong.", 
+            "dur": "1.25", 
+            "start": "385.51"
+        }
+    ], 
+    "title": "31 and Mersenne Primes - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04s4c", 
+        "/m/05x5j", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 179034, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-07T01:17:14.730Z", 
+            "text": "2:24 lol\ufeff", 
+            "author": "Jason Papoutsis"
+        }, 
+        {
+            "date": "2015-04-28T13:16:48.412Z", 
+            "text": "I'm joining gimps for sure\ufeff", 
+            "author": "Lula"
+        }, 
+        {
+            "date": "2015-04-23T01:26:45.370Z", 
+            "text": "I found this out when I (for some reason) decided to test if 31 was prime. \nI divided it by 7 and got this: 4.4285714285714285714285714285714\nDo you notice the pattern there? I thought that was interesting. I don't \nknow if this sequence of 142857 continues on forever, my calculator on my \nPC only showed that. If anybody knows the answer to that, I would love to \nknow. Thanks!\ufeff", 
+            "author": "ATMunn"
+        }, 
+        {
+            "date": "2015-02-22T19:37:31.249Z", 
+            "text": "Argh, the amount of zoom in this one. Camerawork in Numberphile drives me \ncrazy at times.\ufeff", 
+            "author": "Tomasz Wota (Xupicor)"
+        }, 
+        {
+            "date": "2014-12-22T19:26:21.107Z", 
+            "text": "1:14 - James says no powers of two are prime numbers, but 2 is.\ufeff", 
+            "author": "Brendan Biernacki"
+        }, 
+        {
+            "date": "2014-12-13T11:55:13.775Z", 
+            "text": "If this duality is true, perfect numbers have to be even.\ufeff", 
+            "author": "rraagghhaavvjj"
+        }, 
+        {
+            "date": "2015-04-16T11:39:35.540Z", 
+            "text": "+rraagghhaavvjj that is true :)", 
+            "author": "Najeeb al-shabibi"
+        }, 
+        {
+            "date": "2014-12-09T04:54:31.502Z", 
+            "text": "2:22 - I don't get it. Captain, please explain?\ufeff", 
+            "author": "TheFisheyman42"
+        }, 
+        {
+            "date": "2014-12-26T02:24:52.852Z", 
+            "text": "I'm not sure what you're asking about but that won't prevent me from \nanswering. At 2:22 he starts a little joke about alliteration because Marin \nMersenne was a monk, a mathematician and a musician which all begin with an \n\"M\".", 
+            "author": "fnrsknmer"
+        }, 
+        {
+            "date": "2014-12-17T18:53:22.000Z", 
+            "text": "Alliteration is repeating the sound of the first consonant in series of \nmultiple words http://www.wikiwand.com/en/Alliteration\nMarin, Mersenne, monk and mathematician all start with \"m\". So, James \ncontinues saying words starting with \"m\".", 
+            "author": "Anwar Argimbayev"
+        }, 
+        {
+            "date": "2014-12-06T12:35:36.572Z", 
+            "text": "That bit about alliteration was classic.\ufeff", 
+            "author": "shredhappy101"
+        }, 
+        {
+            "date": "2014-11-30T08:42:22.601Z", 
+            "text": "2:22 - why i love James, those little jokes that no one picks up on\ufeff", 
+            "author": "Alan Douglas"
+        }, 
+        {
+            "date": "2015-04-16T11:46:02.994Z", 
+            "text": "The French are highly regarded among the 'maths' community... and Vulcans \n:) ", 
+            "author": "Alan Douglas"
+        }, 
+        {
+            "date": "2015-04-16T11:40:39.758Z", 
+            "text": "+Alan Douglas oh okay, 2:22 pointed to Mersenne being French, I thought \nthat was the joke :)", 
+            "author": "Najeeb al-shabibi"
+        }, 
+        {
+            "date": "2015-04-16T09:40:06.248Z", 
+            "text": "\"A fan of alliteration\" \nAs you probably already know: Rhyme, is when the *end* of consecutive words \nsound the same. \nAlliteration is when the *start* of consecutive words in a sentence sound \nthe same... ", 
+            "author": "Alan Douglas"
+        }, 
+        {
+            "date": "2015-04-15T20:20:46.897Z", 
+            "text": "+Alan Douglas I don't get the joke, can someone explain it to me?", 
+            "author": "Najeeb al-shabibi"
+        }, 
+        {
+            "date": "2014-11-02T09:38:17.370Z", 
+            "text": "hehehe osbirci\ufeff", 
+            "author": "Sierox"
+        }, 
+        {
+            "date": "2014-10-08T16:47:39.417Z", 
+            "text": "So if Mersenne Primes must be one less than two to some prime number, then \nwould 2^(some mersenne prime) -1 be prime always?  I know that this pattern \nholds true for 3, 7, 127, and 2^(127)-1. The last of which can be expressed \nas 2^(2^(2^(2^(2)-1)-1)-1)-1.  I am just wondering if 2^(2^(127)-1)-1 is \nprime.\ufeff", 
+            "author": "Martha E"
+        }, 
+        {
+            "date": "2014-10-05T02:55:53.305Z", 
+            "text": "Mersenne numbers also happen to tell you how many moves are in the optimal \nsolution for the old 'towers of Hanoi' or 'tower of London' puzzles. For \nexample, when you have 6 disks, the optimal solution takes 63 moves. \n(2^6=64, 64-1=63)\ufeff", 
+            "author": "Dobby762"
+        }, 
+        {
+            "date": "2014-09-14T14:17:47.472Z", 
+            "text": "how does the program work for searching for mersenne primes doe it like \ncheck whether a certain number is prime and can you choose that number or \ndoes it run automatically assigning my computer to a number?\ufeff", 
+            "author": "QUXXN THE EPIC"
+        }, 
+        {
+            "date": "2014-07-31T14:45:06.416Z", 
+            "text": "Infinite integers = infinite Mersenne Primes the way I see it.\ufeff", 
+            "author": "John Baptist"
+        }, 
+        {
+            "date": "2015-04-22T19:10:38.388Z", 
+            "text": "Negative numbers are integers, so you are right.", 
+            "author": "John Baptist"
+        }, 
+        {
+            "date": "2015-04-17T10:01:08.733Z", 
+            "text": "+John Baptist Infinite integers = Infinite integers below 10 the way I see \nit.\n\nGreat logic. I should use this proof more often!", 
+            "author": "James Ede"
+        }, 
+        {
+            "date": "2014-11-07T03:11:43.684Z", 
+            "text": "It seems like your English comprehension needs some work. I know my above \nexample is false, that's the point. I used the example to show you why your \nreasoning was invalid. It's called a counterexample.\n\nThe bottom line is that you argued that if a set A is a subset of an \ninfinite set B, then A must be infinite. And as I showed above, that is not \ntrue.", 
+            "author": "tj12711"
+        }, 
+        {
+            "date": "2014-11-06T21:31:27.919Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\n\"MP \u20ac set[p]\nset[p] is infinite\nEvery MP is a p\nTherefore set[MP] is infinite\"\n\nAgain, this does not logically follow. Assume that:\n\nA is a set (which we do not know if it is infinite or finite)\nB is an infinite set.\n\nIf B \u20ac A, then A is infinite\nHowever, if A \u20ac B, we do not have enough information to determine if A is \nfinite or infinite.\n\nAllow me to use a counterexample to show the fault in your reasoning.\n\nA = {2, 5, 13}\nP = The set of all primes {2, 3, 5, 7, 11, 13, ...}\nA \u20ac P\nP is infinite\nEvery element of A is also an element of P\nTherefore, A is infinite.\n\nThis is clearly false because A has only 3 terms. In set theory, a set is \ninfinite if and only if for every natural number the set has a subset whose \ncardinality is that natural number.\n\nUntil you show that for every natural number, the mersenne primes has a \nsubset whose cardinality is that natural number, you have not shown that it \nis infinite.", 
+            "author": "tj12711"
+        }, 
+        {
+            "date": "2014-11-06T20:50:58.910Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nwell set{2,3} \u20ac set[p] but set{2,3} is not infinite.\nAlso:\nset[MP] \u20ac set[p] but set[MP] does not have to be infinite.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-06T20:42:08.564Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nSo set[2,3] \u20ac set[p]?", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-06T20:30:46.551Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nYou can say it in spanish if you want.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-06T20:30:25.908Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\njust say what the symbol means", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-06T03:24:34.958Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\n I'm sorry, I've never seen the \u20ac symbol in math.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-05T21:12:07.417Z", 
+            "text": "+tj12711\nLots of times though, it is good to see if something works for one thing, \nif it also works for something else. Also, a lot of times people make \nconjectures before proofs, and the conjectures tend to make it easier to \nfind proofs.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-05T20:59:27.299Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nLet me try to explain to you the flaw in your reasoning using logical \narguments. Essentially, your argument can be phrased as:\n\nAll A (Mersenne Primes) are B (Prime)\nAll C (Full lists of infinite sequences) contain B (Primes)\nTherefore, all C (Full lists of infinite sequences) contain A (Mersenne \nPrimes)\n\nLooking at the above example, the premises are both true, but the \nconclusion does not follow. If all A are B, and all B are C, then all A are \nC. HOWEVER, just because all A are B, and all C are B, does not mean all A \nare C.\n\nFor instance, observe the following argument:\n\nAll dogs are mammals\nAll humans are mammals\nTherefore, all humans are dogs\n\nis obviously not true. This is one of the most common misuses of logic, as \nit can sometimes be used to make arguments that sound legit but are in fact \nfalse.", 
+            "author": "tj12711"
+        }, 
+        {
+            "date": "2014-11-05T16:16:39.090Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nThey can be we don't know. The point is that we did not find a proof and we \nneed to. It's really hard to find proofs.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-05T15:53:41.840Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nThat's the biggest question, are there infinite Mersenne primes, or not? \nand how many? That's what we have not proven and that's what we have been \ntrying to prove this entire time.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-05T15:40:18.000Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos We don't know if there are infinite \nprimes in the mersenne sequence. There could be a point where we see no \nmore primes in the mersenne sequence.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-05T15:23:40.000Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\n\nHow about this\nM_p = (2^p) - 1 where p is a prime number.\nThis only works sometimes.\nEx:\n2^(3) - 1 =M_p = 7.\nThis works\nCounter example (contraejemplo):\n2^(11) - 1 = M_p = 2047.\nThis does not work this is divisible by 23. (Es divisible por 23)\nTherefore\n2^(p) - 1 = M_p sometimes (a veces). We don't know if there are infinite \nprimes that make this work or if there is a finite amount of primes that \nmake this work.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-05T13:19:23.121Z", 
+            "text": "+PokemonTom09 Since when did we not know that primes were infinite? The \nproof is easy for that one. \n\nAssume primes are finite. This means that you can make a list of every \nprime number. Multiply all of those numbers together. Add 1. This new \nnumber is not divisible by any of the other prime numbers. This number as \nsuch must be prime. However, since primes were assumed to be finite, this \nis a contradiction. Therefore, primes must be infinite. \n\nThis sort of proof is quite handy in mathematics, and is called proof by \ncontradiction. Basically, it is proving sometimes by showing that there is \na contradiction if it is not true. ", 
+            "author": "NowhereManForever"
+        }, 
+        {
+            "date": "2014-11-05T02:20:13.000Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nYo estoy de una familia cubana. Yo puedo entender algunas cosas, pero no \nsoy perfecto en el idioma. Hay un opcion para traduccir sus comentario en \nYoutube.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-05T02:02:07.694Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nExplicalo en espa\u00f1ol s\u00ed quieres.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-05T02:00:35.848Z", 
+            "text": "+TheKilogram1000 \"Infinite integers = infinite Mersenne Primes\"\nThat's like saying that because there are an infinate amount of integers \nthere are an infinate amout of whole numbers between 0 and 10. Not even \nclose to a solid connection.\n\nAlso, this entire thread has been running off the assumption that there are \nan infite number of prime numbers, but even that hasn't been proven yet.\nMathmaticians are pretty sure there are an infinate amount, but that is in \nno way conclusive. So basically, your argument that \"Infinate primes means \ninfite Mersenne primes,\" -- which is already a pretty big assumption -- is \nfundimentally based on another assumption.\n\nAnother thing that you assumed is that it has been proven that there are an \ninfinate amount of perfect numbers, despite the fact that James *literally \nexplained in this video* that it is still unknown if there are an infinate \namount of perfect numbers", 
+            "author": "PokemonTom09"
+        }, 
+        {
+            "date": "2014-11-05T00:41:27.000Z", 
+            "text": "+Alejandro Magno Mantilla Castellanos\nyou cut yourself off, and that comment looks like random words put \ntogether. I'm no grammar Nazi, i just have no idea what you're saying.", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-06-29T09:13:59.018Z", 
+            "text": "So 2 aren't a prime number suddenly? ;) (1:14)\ufeff", 
+            "author": "Dennis Fluttershy"
+        }, 
+        {
+            "date": "2014-05-19T23:49:05.177Z", 
+            "text": "m(m+1) all divided by 2. isn't that the sigma of i from i starting at 0 \nending at m? so then you can so if you have say 31, we know the perfect \nnumber (31 x 16) and the sum of 1 + 2 +3....+31.\ufeff", 
+            "author": "FullTimeSlacker"
+        }, 
+        {
+            "date": "2014-03-31T11:45:16.824Z", 
+            "text": "The proof of the Riemann Hypothesis should make you more famous.\ufeff", 
+            "author": "Kai Hei Cheung"
+        }, 
+        {
+            "date": "2013-11-09T17:51:23.565Z", 
+            "text": "If there are infinitely many numbers than there are infintely many \nmersennes.\ufeff", 
+            "author": "totallyepicusguy"
+        }, 
+        {
+            "date": "2014-11-21T20:14:54.240Z", 
+            "text": "I mean that's what I meant what should not be capitalized I don't want to \nbe called stupid.", 
+            "author": "totallyepicusguy"
+        }, 
+        {
+            "date": "2014-11-21T20:14:22.115Z", 
+            "text": "That's What I meant", 
+            "author": "totallyepicusguy"
+        }, 
+        {
+            "date": "2014-08-25T14:11:15.726Z", 
+            "text": "The thing is open question is about Mersenne primes not Mersenne numbers.", 
+            "author": "Yunus Ayd\u0131n"
+        }, 
+        {
+            "date": "2013-11-30T21:29:55.353Z", 
+            "text": "Well, I still think that there are.", 
+            "author": "totallyepicusguy"
+        }, 
+        {
+            "date": "2013-11-22T04:15:54.266Z", 
+            "text": "This is not always true even though there are an infinite number of \nintegers. For example, Fermat conjectured that all numbers of the form \n2^(2^m) + 1 were prime. Not only is this not true, but there are only five \nnumbers for which this is true. This conjecture was disproven by Euler for \nyour information. I would suggest a book called \"Journey Through Genius: \nThe Great Theorems of Mathematics\". If I remember right, this book mentions \nthis proof.\n\nAnyway, no it is not guaranteed that there are an infinite number of \nMersenne primes.", 
+            "author": "Adam Billman"
+        }, 
+        {
+            "date": "2013-11-08T16:02:51.645Z", 
+            "text": "Mad Max, Mighty Mouse, Math, his name is Mersenne. This is the man on the \nM!\ufeff", 
+            "author": "Count To .Infinity"
+        }, 
+        {
+            "date": "2014-07-30T09:18:22.556Z", 
+            "text": "*and Music and Monk.", 
+            "author": "PrimeLime"
+        }, 
+        {
+            "date": "2014-01-23T09:39:30.341Z", 
+            "text": "He was also part of the Minimi (group of friars)", 
+            "author": "Squid Embyro"
+        }, 
+        {
+            "date": "2013-11-04T22:15:05.455Z", 
+            "text": "1:14 Two is prime, did you forget?", 
+            "author": "VideoWatcherthe8th"
+        }, 
+        {
+            "date": "2013-11-01T01:17:33.809Z", 
+            "text": "If there is a infinite number if one then there must be an infinite number \nof ther same way with noninfinite", 
+            "author": "The Derptor"
+        }, 
+        {
+            "date": "2013-10-30T00:58:44.290Z", 
+            "text": "48 Mersenne primes since this year", 
+            "author": "Aapolo69"
+        }, 
+        {
+            "date": "2013-10-28T13:55:23.294Z", 
+            "text": "Being French, his name is probably pronounced, *MAIR-sin*", 
+            "author": "otonanoC"
+        }, 
+        {
+            "date": "2013-10-27T19:45:31.296Z", 
+            "text": "Take a look at their video about 43, there you can see what you said isn't \ntrue", 
+            "author": "FoakGames"
+        }, 
+        {
+            "date": "2013-10-21T23:58:40.131Z", 
+            "text": "", 
+            "author": "emploi kun"
+        }, 
+        {
+            "date": "2013-10-07T20:45:00.792Z", 
+            "text": "that wasnt m question. it was there because there is a relation between \nperfect numbers and meresenne primes, so if we know a perfect number, we \nalso know the another mersenne prime. but my queston is: do u search for \nthe mersenne prime or perfect number first?", 
+            "author": "Hans Peter"
+        }, 
+        {
+            "date": "2013-10-03T21:07:07.443Z", 
+            "text": "Actually there are 48 of them. The biggest Mersenne prime number now is \n(2^57885161)-1, a 17 425 170 digit number. You can see more details on \nmersenne.org", 
+            "author": "jellybean3141"
+        }, 
+        {
+            "date": "2013-10-03T18:36:52.929Z", 
+            "text": "As a straight and fairly butch male, that man is distractingly handsome.", 
+            "author": "rambadibow"
+        }, 
+        {
+            "date": "2013-09-26T08:34:19.655Z", 
+            "text": "GIMPS XD", 
+            "author": "Ryan Aldridge"
+        }, 
+        {
+            "date": "2013-09-22T18:04:52.532Z", 
+            "text": "The alliteration reference was hilarious! ", 
+            "author": "Michael Langoni"
+        }, 
+        {
+            "date": "2013-09-21T12:59:36.968Z", 
+            "text": "at the moment we know 47 mersenne primes and 47 perfect numbers, but what \nwe know before the mersenne number or the perfect number?", 
+            "author": "Hans Peter"
+        }, 
+        {
+            "date": "2013-09-20T04:58:48.454Z", 
+            "text": "Comment when you are viewer 123,456", 
+            "author": "Jkid3_14159265"
+        }, 
+        {
+            "date": "2013-08-31T18:35:53.502Z", 
+            "text": "It disappears at 0:32...", 
+            "author": "KasabianFan44"
+        }, 
+        {
+            "date": "2013-08-18T16:55:14.727Z", 
+            "text": "That's because they're \"two sides of the same coin.\" If you know 47 \nMersenne primes, you can find out 47 perfect numbers and vice-versa.", 
+            "author": "Ricardo Trancoso"
+        }, 
+        {
+            "date": "2013-08-17T00:51:37.657Z", 
+            "text": "To Death's Heir: your realization is wrong. 2^11-1=2047 which has factors \nof 23 * 89.", 
+            "author": "Michael Terrazas"
+        }, 
+        {
+            "date": "2013-08-11T16:03:59.353Z", 
+            "text": "I realised something. When the power is a prime number, you'll get a prime \nnumber as a result in the equation 2^n-1... Which is why 2^1-1=1, did not \nequal a prime, because 1 is not prime. I found it to be true for n=2, 3, 5, \n7, 11, 13, 19, 23, 29. If this holds true as the primes start getting \nlarger 2^2521008887-1, will therefore equal a prime number", 
+            "author": "Death's Heir"
+        }, 
+        {
+            "date": "2013-08-04T10:38:35.681Z", 
+            "text": "@1:50, I think you means to say that there aren't many known Mersenne \nprimes. It would be a remarkable proof if you could prove that there are a \nfinite number of Mersenne primes.", 
+            "author": "Keith L."
+        }, 
+        {
+            "date": "2013-07-27T02:55:43.995Z", 
+            "text": "how about the largest known prime?", 
+            "author": "yoshi27661"
+        }, 
+        {
+            "date": "2013-07-21T15:47:11.644Z", 
+            "text": "Great Internet Mersenne Prime Search = GIMPS", 
+            "author": "Deviant Variant"
+        }, 
+        {
+            "date": "2013-07-18T22:41:33.929Z", 
+            "text": "It does seem that with the infinite powers of 2, there might be an infinite \nnumber of Mersenne primes. But I have no solid proof... perhaps I shall \nfind a proof FOR THE GLORY!", 
+            "author": "CraftySunshine"
+        }, 
+        {
+            "date": "2013-07-17T02:12:02.780Z", 
+            "text": "Funny how there are 47 mersenne primes and 47 (known) perfect numbers...ok, \nits not funny but idk... I noticed it...", 
+            "author": "Denver Strong"
+        }, 
+        {
+            "date": "2013-07-13T14:52:27.483Z", 
+            "text": "two types two types two types two", 
+            "author": "Zizo Mouz"
+        }, 
+        {
+            "date": "2013-07-09T16:03:45.335Z", 
+            "text": "63? THATS NOT PRIME! *Que Transformers*", 
+            "author": "Jsiddhi1"
+        }, 
+        {
+            "date": "2013-07-09T04:17:59.826Z", 
+            "text": "What number would represent 1 conscience mind?", 
+            "author": "nadnerb978"
+        }, 
+        {
+            "date": "2013-07-07T17:36:58.859Z", 
+            "text": "We don't know whether an odd perfect number exists, I think this is one of \nthe oldest problems in mathematics it dates back to the Antiquity. However \nI believe mathematicians came up with a lower bound that is if an odd \nperfect number exists it is greater than 10^300, I believe a recent result \nraised that lower bound to 10^1500... But you don't have to take my words \non it, do your own search...", 
+            "author": "JoseyWales93"
+        }, 
+        {
+            "date": "2013-07-03T17:01:16.616Z", 
+            "text": "Also, Mersenne (prime) numbers are the maximum possible value to store in \nvariables of certain sizes.", 
+            "author": "Rogier van den Berg"
+        }, 
+        {
+            "date": "2013-06-30T08:00:38.555Z", 
+            "text": "Does this mean that all perfect numbers are even?", 
+            "author": "harleykf1"
+        }, 
+        {
+            "date": "2013-06-29T20:56:13.080Z", 
+            "text": "abazala t\u00fcrkler like yap\u0131n :D", 
+            "author": "KazimsChannel"
+        }, 
+        {
+            "date": "2013-06-25T02:29:05.523Z", 
+            "text": "But not all one chains are mersenne. also, off the bat, does anyone know if \nthese have to do with mersenne twist?", 
+            "author": "Zachary Carlini"
+        }, 
+        {
+            "date": "2013-06-19T03:57:00.762Z", 
+            "text": "That is gauss's conjecture ", 
+            "author": "Philip Felizarta"
+        }, 
+        {
+            "date": "2013-06-13T20:26:48.976Z", 
+            "text": "He mentions the formula m(m+1)/2 Notice that that formula yields an \n\"additive factorial\" of sorts. 6+5+4+3+2+1=21, while 6(6+1)/2 also equals \n21. Neat, right?", 
+            "author": "Chris Kimmel"
+        }, 
+        {
+            "date": "2013-06-13T07:43:04.743Z", 
+            "text": "with dat badass beard you look like a 60's robber", 
+            "author": "Kaspars Matusevics"
+        }, 
+        {
+            "date": "2013-06-12T05:47:15.046Z", 
+            "text": "LIAR YOU SAID TWO WASN'T PRIME", 
+            "author": "Felipe Tan"
+        }, 
+        {
+            "date": "2013-06-12T05:45:57.923Z", 
+            "text": "Pause at any time his face is hilarious", 
+            "author": "Felipe Tan"
+        }, 
+        {
+            "date": "2013-06-11T13:37:04.934Z", 
+            "text": "quite interesting", 
+            "author": "bala indurthi"
+        }, 
+        {
+            "date": "2013-06-10T01:47:01.367Z", 
+            "text": "I know what he was talking about.", 
+            "author": "SuperAngryPacman"
+        }, 
+        {
+            "date": "2013-06-08T19:17:07.755Z", 
+            "text": "he was talking about the powers of 2", 
+            "author": "jdude99lolz"
+        }, 
+        {
+            "date": "2013-06-04T18:02:25.156Z", 
+            "text": "Thank you for partially(partially because you didn't check every number \nproduced by this little formula) confirming my little observation. Does \nanybody have any idea why this is true.", 
+            "author": "Philip Felizarta"
+        }, 
+        {
+            "date": "2013-06-04T14:08:34.622Z", 
+            "text": "that's true. I've check on python: import math def main(): x=20 for i in \nrange(1,x+1): print (math.pow(2,i*2)-1)%3 main() it always print 0's", 
+            "author": "Neoares"
+        }, 
+        {
+            "date": "2013-06-04T05:38:03.639Z", 
+            "text": "I have noticed that if x>0 and is a whole number, (2^2x) -1 is always \ndivisible by three ", 
+            "author": "Philip Felizarta"
+        }, 
+        {
+            "date": "2013-05-30T18:40:09.514Z", 
+            "text": "I think the issue is more not being able to apply the pattern as much as \nyou like. We're swerving away from mathematics and more in to psychology. \nThe answer either is or isn't out there, there's nothing we can do about \nthat. We just keep searching for the answer/lack of answer. With numbers, \nit just gets more difficult the higher we go to the point that finding a \nparticular answer can take longer than the average human lifespan. Those \nnumbers still aren't as big as my ex's butt :p", 
+            "author": "Fluxxdog"
+        }, 
+        {
+            "date": "2013-05-28T09:53:17.271Z", 
+            "text": "it is completely reasonable to say \"I believe there to be\", in fact it \nmakes complete sense to me that there OUGHT to be infinite merseinne \nprimes, but my intuition (and even carefully considered reason) can easily \nbe faulty. you made your assertion as if a mathematician saying \"we don't \nknow\" was silly, i'm afraid it isn't- they don't KNOW, when they know, \nthey'll know.", 
+            "author": "Samuel Marks"
+        }, 
+        {
+            "date": "2013-05-27T19:52:04.183Z", 
+            "text": "Perhaps I am being too general, and in fact, also specific in my comment. I \ndo know there are sequences that are finite. But in the case of Merseinne \nPrimes, I believe I'm right. I know there isn't a proof, But I think there \nis one. That's the problem wtith Infinity, i'ts so insanly hard to grasp, \nand prove. I know what it looks like, in a sense, but to explain is \nincredibly hard to do. I guess I'm not making much sense, but I do believe \na proof will come. ", 
+            "author": "immasmashyourface"
+        }, 
+        {
+            "date": "2013-05-27T16:03:55.398Z", 
+            "text": "Well anything one less than a power of two would be...", 
+            "author": "Ben Reynolds"
+        }, 
+        {
+            "date": "2013-05-25T18:54:09.071Z", 
+            "text": "the equation that you wrote, (M(M+1))/2 can also be written as (M^2+M)/2 \nwhich in other words in also an equation to get an odd number if M=1,2,3 . \n. . are they somehow related or am i mixing the two Ideas? ", 
+            "author": "furqan haider"
+        }, 
+        {
+            "date": "2013-05-25T10:41:57.965Z", 
+            "text": "\"and a fan of alliteration\" LOL LOVED IT ", 
+            "author": "Filipa Carvalho"
+        }, 
+        {
+            "date": "2013-05-20T19:35:04.099Z", 
+            "text": "well, don't worry, we all have them days. ", 
+            "author": "kingemocut"
+        }, 
+        {
+            "date": "2013-05-20T19:03:32.592Z", 
+            "text": "Ah, man, I got mind fucked because you wrote \"2\" instead of two, and \"1\" \ninstead of one. Think of it that way and your comment made no sense unless \nI assumed you talked about all the numbers he wrote with the black pen. It \ndidn't make any sense either that you implied that numbers can stare at \npeoples' faces.", 
+            "author": "MrSnapphanen"
+        }, 
+        {
+            "date": "2013-05-20T18:57:06.325Z", 
+            "text": "first, there is no 7 there. second, i was referring to the numbers as a \nwhole. so 31=31. not 3 and 1. but, if i did refer to them being split, then \nthere would be 2 primes, but only 1 is a marseille prime anyway.", 
+            "author": "kingemocut"
+        }, 
+        {
+            "date": "2013-05-20T15:59:48.977Z", 
+            "text": "Then explain how 2,3,7 and 31 isn't primes, or what do you mean?", 
+            "author": "MrSnapphanen"
+        }, 
+        {
+            "date": "2013-05-19T16:26:18.867Z", 
+            "text": "127 is 2^7-1.", 
+            "author": "dEndiProductions"
+        }, 
+        {
+            "date": "2013-05-19T04:09:58.873Z", 
+            "text": "theoretically, it's 2 staring him in his face. in context it's 1, as he was \nreferring to the lower line.", 
+            "author": "kingemocut"
+        }, 
+        {
+            "date": "2013-05-16T19:58:33.539Z", 
+            "text": "it is", 
+            "author": "Marcus Phillips"
+        }, 
+        {
+            "date": "2013-05-14T11:04:00.112Z", 
+            "text": "again, you are wrong- there are plenty of examples of sequences that end, \nsequences for which there are a finite set. I gave you some in my last \ncomment. Platonic solids are another- infinity is a complex idea for which \nthere are not easy rules like \"if there's one prime there's infinite \nprimes\". It is in fact proved that there are infinitely many prime numbers, \nbut it is not proved that there infinitely many mersenne primes. Your \nreasoning, if sound, should work for any given number, it doesn't", 
+            "author": "Samuel Marks"
+        }, 
+        {
+            "date": "2013-05-14T03:26:35.437Z", 
+            "text": "I didn't mean \"1\". I meant if there's one prime there's infinite primes. I \nthink you don't realize what infinity really means. Truly, if there's one \nof something, then there's infinite. Over and over and over and over. Many \nworlds, parallel, however you look at it. Time itself is never going to \nstop. It will continue towards infinity even if there are no observers. \nThere are different infinities as well, but I'm talking linear. Not \nimaginary, like 2.549836354589299437499209298-------- and so on.", 
+            "author": "immasmashyourface"
+        }, 
+        {
+            "date": "2013-05-09T00:37:06.835Z", 
+            "text": "this is false, for example- there is a \"1\" in the number line, but there is \nonly one \"1\" any other number may contain \"1\" but it is not , in fact \"1\". \nthere are more examples; munschausen numbers being just one. infinity does \nnot mean what you think it means", 
+            "author": "Samuel Marks"
+        }, 
+        {
+            "date": "2013-05-09T00:30:58.063Z", 
+            "text": "no, because the ned result is found BY dividing by two, so just as (for \nexample) 6 divided by 2 is 3 (not an even number), an equation ending in a \n/2 does not necessarily produce an even result. so this equation producing \nmersene primes will not always produce odd numbers", 
+            "author": "Samuel Marks"
+        }, 
+        {
+            "date": "2013-05-03T16:45:46.860Z", 
+            "text": "it is a prime", 
+            "author": "Lavi Gupta"
+        }, 
+        {
+            "date": "2013-05-02T00:19:11.695Z", 
+            "text": "it is i think ", 
+            "author": "DJ Scottdog"
+        }, 
+        {
+            "date": "2013-04-30T23:39:21.501Z", 
+            "text": "How about (2^57,885,161)-1 :D", 
+            "author": "LordNygma"
+        }, 
+        {
+            "date": "2013-04-30T21:25:05.571Z", 
+            "text": "I thought 2 was a prime number.", 
+            "author": "InAndOutLand"
+        }, 
+        {
+            "date": "2013-04-26T06:34:14.573Z", 
+            "text": "It's not known. When I have some spare time I want to look into \n2^(2^127-1)-1.", 
+            "author": "FortNikitaBullion"
+        }, 
+        {
+            "date": "2013-04-24T21:47:37.806Z", 
+            "text": "Here's a question: If you take 2^Mp-1, will you get another Mersenne Prime? ", 
+            "author": "weckar"
+        }, 
+        {
+            "date": "2013-04-19T10:27:46.534Z", 
+            "text": "I know. But in this case here they make it easier to explain", 
+            "author": "ShubhamDomino"
+        }, 
+        {
+            "date": "2013-04-19T07:50:40.702Z", 
+            "text": "15 and 255 are not prime numbers. ", 
+            "author": "cortonimor"
+        }, 
+        {
+            "date": "2013-04-17T13:24:23.319Z", 
+            "text": "(2^64)-1 is mersenne prime. it is \n1111111111111111111111111111111111111111111111111111111111111111 in binary", 
+            "author": "ShubhamDomino"
+        }, 
+        {
+            "date": "2013-04-17T13:20:56.845Z", 
+            "text": "(2 to the power 64) minus 1 is largest number proven to be prime as of what \nI know.", 
+            "author": "ShubhamDomino"
+        }, 
+        {
+            "date": "2013-04-17T13:18:47.805Z", 
+            "text": "Absolutely right. 1, 3, 7, 15, 31, 63, 127, 255, . Each one plus 1 is 2 \ntimes the previous number. If you know that powers of 2 in binary always \nneed a an added digit(case 255 i.e. 11111111 and Pacman)so the previous one \nwill always be only 1s. 2 to the power x - 1 in decimal is equal to x \nnumber of 1s in binary.", 
+            "author": "ShubhamDomino"
+        }, 
+        {
+            "date": "2013-04-16T16:50:24.013Z", 
+            "text": "the main person in the video doing all of the maths", 
+            "author": "billy653"
+        }, 
+        {
+            "date": "2013-04-16T13:38:08.225Z", 
+            "text": "...1 is a power of 2 also :P", 
+            "author": "AnticPosition"
+        }, 
+        {
+            "date": "2013-04-15T12:47:01.869Z", 
+            "text": "who is Dr James Grime?", 
+            "author": "TheGiantcube"
+        }, 
+        {
+            "date": "2013-04-15T12:12:35.392Z", 
+            "text": "This guy must be smiling all day, 24 hours, asleep or awake.", 
+            "author": "Sakuya Izayoi IX"
+        }, 
+        {
+            "date": "2013-04-12T03:22:06.945Z", 
+            "text": "Because Euclid wasn't remotely limited in scope by the lacklustre \ntechnology of Ancient Greece or anything.", 
+            "author": "TheKurikid"
+        }, 
+        {
+            "date": "2013-04-12T03:16:05.428Z", 
+            "text": "No... what you have proven there is that there are infinite numbers. Not \nthat there are infinite Mersenne primes. I could wrongly use this to claim \n\"there are infinitely many even primes\". This is obviously incorrect, but \nhey, there are infinite numbers, so it must be true, right? Or, if you \ndon't like that, how about infinitely many Munchausen numbers? Again, there \nare infinitely many numbers. But, as it turns out, there's just one \nMunchausen number.", 
+            "author": "TheKurikid"
+        }, 
+        {
+            "date": "2013-04-09T23:55:24.728Z", 
+            "text": "You fucking weirdo", 
+            "author": "Jesse"
+        }, 
+        {
+            "date": "2013-04-09T01:23:03.613Z", 
+            "text": "Add one and there is your mersenne prime? Nice try being specific ;) Plus \nEuclid said it was limited ", 
+            "author": "paideguinha"
+        }, 
+        {
+            "date": "2013-04-06T23:38:54.991Z", 
+            "text": "okay, tell me the highest. Then add one, if you can do that you haven't \nreached infinity. you can do this, forever. Thats the point of Infinity so \nthere will be an infinite number of Mersenne Primes", 
+            "author": "alphachief65"
+        }, 
+        {
+            "date": "2013-03-30T18:24:07.419Z", 
+            "text": "You never know. There are only 48 and the largest prime is 2^57885161-1. S \nit's a huge number and an insignificant amount of Mersenne primes.", 
+            "author": "paideguinha"
+        }, 
+        {
+            "date": "2013-03-25T03:28:45.457Z", 
+            "text": "There is 48 Mersenne Primes now!!", 
+            "author": "Justin Lloyd"
+        }, 
+        {
+            "date": "2013-03-21T03:21:19.881Z", 
+            "text": "If you convert a Mersenne prime into binary, it is always like \n111111111111. Mersenne primes are used by computers to search for more \nprime numbers.", 
+            "author": "Ming Tang"
+        }
+    ]
+}

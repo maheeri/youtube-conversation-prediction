@@ -1,0 +1,1427 @@
+{
+    "publish_date": "2013-12-11T22:56:27.000Z", 
+    "video_length": "PT8M28S", 
+    "captions": [
+        {
+            "text": "Welcome to the League of Legends Spotlight, featuring Yasuo, the Unforgiven.", 
+            "dur": "5.5", 
+            "start": "4.3"
+        }, 
+        {
+            "text": "Yasuo: Who says I can&#39;t handle my drink?", 
+            "dur": "2.1", 
+            "start": "17.2"
+        }, 
+        {
+            "text": "Yasuo is a melee fighter on the hunt for his Elder&#39;s killer.", 
+            "dur": "3.2", 
+            "start": "20.4"
+        }, 
+        {
+            "text": "The only swordsman in his generation to have perfected a legendary wind technique, Yasuo directs the currents themselves to dash through enemy front lines and nullify ranged threats.", 
+            "dur": "10.1", 
+            "start": "23.8"
+        }, 
+        {
+            "text": "With zero-cost abilities and extremely low cooldowns, Yasuo thrives in extended teamfights and relies on his high mobility to engage and shred through his enemies.", 
+            "dur": "8.7", 
+            "start": "34.1"
+        }, 
+        {
+            "text": "Yasuo&#39;s passive, Way of the Wanderer, has two components.", 
+            "dur": "3.7", 
+            "start": "44.6"
+        }, 
+        {
+            "text": "The first, Intent, doubles Yasuo&#39;s critical strike chance, so building 50% crit on Yasuo means his attacks ALWAYS critically strike.", 
+            "dur": "8.4", 
+            "start": "48.4"
+        }, 
+        {
+            "text": "The second component in Yasuo&#39;s passive is Resolve.", 
+            "dur": "2.9", 
+            "start": "57.5"
+        }, 
+        {
+            "text": "Yasuo&#39;s resource bar, his flow, is replenished through MOVEMENT.", 
+            "dur": "3.8", 
+            "start": "60.6"
+        }, 
+        {
+            "text": "The faster Yasuo moves, the faster he refills his flow.", 
+            "dur": "3.1", 
+            "start": "64.6"
+        }, 
+        {
+            "text": "If Yasuo takes damage from enemy champions or neutral monsters while his flow bar is full, he converts his flow into a shield for a few seconds.", 
+            "dur": "7.3", 
+            "start": "68.3"
+        }, 
+        {
+            "text": "Yasuo&#39;s E - Sweeping Blade \u2013 affects several of his other abilities, so let&#39;s start there.", 
+            "dur": "5.1", 
+            "start": "76.9"
+        }, 
+        {
+            "text": "Sweeping Blade is a single target dash that damages and marks Yasuo&#39;s enemy, signaling that he cannot dash to them again until the mark has dissipated.", 
+            "dur": "7.9", 
+            "start": "82.3"
+        }, 
+        {
+            "text": "Sweeping Blade has a fixed distance, so if he&#39;s standing close to his target, he&#39;ll dash THROUGH it.", 
+            "dur": "5.2", 
+            "start": "90.8"
+        }, 
+        {
+            "text": "Each successive cast deals increased damage up to a cap, so it&#39;s advantageous to dash through several targets at a time to maximize your damage output.", 
+            "dur": "7.9", 
+            "start": "96.5"
+        }, 
+        {
+            "text": "Unlike most dashes, Sweeping Blade can be interrupted by all crowd control effects.", 
+            "dur": "4.8", 
+            "start": "105.6"
+        }, 
+        {
+            "text": "When caught overextending, Yasuo can use Sweeping Blade to dash through enemies towards the safety of his turret.", 
+            "dur": "5.7", 
+            "start": "110.9"
+        }, 
+        {
+            "text": "Next up is Yasuo&#39;s Q, Steel Tempest.", 
+            "dur": "2.8", 
+            "start": "117.3"
+        }, 
+        {
+            "text": "After a brief channel, Yasuo thrusts his sword out in the direction of your cursor, damaging all enemy units hit.", 
+            "dur": "5.8", 
+            "start": "120.3"
+        }, 
+        {
+            "text": "Steel Tempest functions as a basic attack, meaning Yasuo can crit with it, and he applies on-hit effects to the closest struck enemy.", 
+            "dur": "7.5", 
+            "start": "126.5"
+        }, 
+        {
+            "text": "If Yasuo casts Steel Tempest three times in a row, his third cast sends out a long-range whirlwind that damages and knocks up all enemies in a line.", 
+            "dur": "8.6", 
+            "start": "135.1"
+        }, 
+        {
+            "text": "In lane, Steel Tempest is Yasuo&#39;s bread and butter ability.", 
+            "dur": "3.4", 
+            "start": "145.8"
+        }, 
+        {
+            "text": "With its low cooldown, he can use his Q to last hit and harass as he builds stacks towards his whirlwind.", 
+            "dur": "5.1", 
+            "start": "149.3"
+        }, 
+        {
+            "text": "By casting the ability so frequently, he&#39;s able to use the knock-up to land extra attacks on Kha&#39;Zix.", 
+            "dur": "4.9", 
+            "start": "154.8"
+        }, 
+        {
+            "text": "Yasuo can also activate Steel Tempest while dashing with Sweeping Blade.", 
+            "dur": "4.3", 
+            "start": "162.5"
+        }, 
+        {
+            "text": "When used mid-dash, the ability slashes all enemies immediately around him.", 
+            "dur": "4.3", 
+            "start": "167"
+        }, 
+        {
+            "text": "If he dashes with Sweeping Blade while hitting his third Q, Yasuo also knocks them into the air.", 
+            "dur": "6", 
+            "start": "173.2"
+        }, 
+        {
+            "text": "Wind Wall has a passive and active component.", 
+            "dur": "2.4", 
+            "start": "182.7"
+        }, 
+        {
+            "text": "Passively, it increases the rate at which dashing replenishes Yasuo&#39;s flow bar.", 
+            "dur": "4.2", 
+            "start": "185.2"
+        }, 
+        {
+            "text": "Activating the ability instantly sends out a wall in a target direction that blocks all enemy projectiles for a few seconds, including ranged auto-attacks, skillshots and targeted abilities.", 
+            "dur": "10.3", 
+            "start": "190.5"
+        }, 
+        {
+            "text": "The only projectiles that the wall DOESN&#39;T stop are turret attacks.", 
+            "dur": "3.2", 
+            "start": "201.4"
+        }, 
+        {
+            "text": "Still, Wind Wall is an extremely powerful ability with the potential to block tons of damage... when timed and positioned correctly.", 
+            "dur": "7.6", 
+            "start": "205.1"
+        }, 
+        {
+            "text": "Cast Wind Wall behind you while retreating from ranged enemies to ensure a successful disengage.", 
+            "dur": "4.8", 
+            "start": "215.1"
+        }, 
+        {
+            "text": "Yasuo&#39;s ultimate is Last Breath, which has an enormous cast range, but can ONLY be used on airborne enemy champions.", 
+            "dur": "6.9", 
+            "start": "222.5"
+        }, 
+        {
+            "text": "Activating Last Breath teleports Yasuo to his target, suspending them in mid-air briefly while he deals physical damage to them.", 
+            "dur": "6.3", 
+            "start": "229.9"
+        }, 
+        {
+            "text": "After landing, Yasuo gains a huge, long-lasting armor penetration buff that affects enemy champion BONUS armor.", 
+            "dur": "6.6", 
+            "start": "237"
+        }, 
+        {
+            "text": "There are two important aspects worth pointing out here.", 
+            "dur": "2.6", 
+            "start": "244.4"
+        }, 
+        {
+            "text": "First, Last Breath suspends and strikes ALL airborne enemies in the area near Yasuo&#39;s target.", 
+            "dur": "5.8", 
+            "start": "247.3"
+        }, 
+        {
+            "text": "Second, Yasuo can capitalize on ANY knock-up ability with Last Breath, making him synergize extremely well with champions like Janna.", 
+            "dur": "7.2", 
+            "start": "253.5"
+        }, 
+        {
+            "text": "Last Breath is an extremely powerful ability with the potential to turn the momentum of any fight.", 
+            "dur": "5.1", 
+            "start": "262.3"
+        }, 
+        {
+            "text": "Here, Yasuo&#39;s able to chain his ult with Malphite&#39;s initiation to safeguard Sejuani&#39;s retreat.", 
+            "dur": "5.1", 
+            "start": "267.5"
+        }, 
+        {
+            "text": "Let&#39;s have a look at a few of Yasuo&#39;s ability combos before we get into gameplay.", 
+            "dur": "4", 
+            "start": "274.9"
+        }, 
+        {
+            "text": "The first is a simple lane harass combo.", 
+            "dur": "2.2", 
+            "start": "279.7"
+        }, 
+        {
+            "text": "After filling your Flow Bar, lead in with E to dash through the minion line and close the gap with your lane opponent.", 
+            "dur": "5.3", 
+            "start": "282"
+        }, 
+        {
+            "text": "Land your Q - before dashing back through the minion wave, using your passive shield to help you win the trade.", 
+            "dur": "5.7", 
+            "start": "287.4"
+        }, 
+        {
+            "text": "Next is an all-in kill combo.", 
+            "dur": "2.2", 
+            "start": "294.8"
+        }, 
+        {
+            "text": "After priming your first Q on minions, use your E to close the gap - and strike again with a mid-dash Q, which guarantees a fully primed whirlwind.", 
+            "dur": "8.5", 
+            "start": "297.3"
+        }, 
+        {
+            "text": "Continuing your pursuit, chain your whirlwind into your ultimate - before casting a final Q thanks to its low cooldown.", 
+            "dur": "8.7", 
+            "start": "307.3"
+        }, 
+        {
+            "text": "This combo is especially effective mid-game to go in on your lane opponent.", 
+            "dur": "3.8", 
+            "start": "316.3"
+        }, 
+        {
+            "text": "Once Yasuo&#39;s passive shield has been popped, you have a short window of opportunity to trade with your opponents.", 
+            "dur": "5.2", 
+            "start": "322.1"
+        }, 
+        {
+            "text": "Ranged champions can trigger the shield with relative ease before hitting you with hard hitting spells.", 
+            "dur": "4.2", 
+            "start": "327.8"
+        }, 
+        {
+            "text": "Successful Yasuo players will be decisive and either trade back, or retreat before the shield expires.", 
+            "dur": "5.6", 
+            "start": "332.5"
+        }, 
+        {
+            "text": "When entering a fight, look for opportunities to block off ranged enemies with Wind Wall while you pursue your target.", 
+            "dur": "5.7", 
+            "start": "339.1"
+        }, 
+        {
+            "text": "With Ziggs out of the way, Yasuo tags Amumu with several Q&#39;s as he waits for him to pass through the choke point leading back to mid lane.", 
+            "dur": "6.4", 
+            "start": "345.2"
+        }, 
+        {
+            "text": "Once there, Yasuo can easily aim his whirlwind and secure the kill with Last Breath.", 
+            "dur": "4.4", 
+            "start": "352"
+        }, 
+        {
+            "text": "The range on Yasuo&#39;s whirlwind offers great re-engagement potential.", 
+            "dur": "3.5", 
+            "start": "357.8"
+        }, 
+        {
+            "text": "After roaming bot for a seemingly unsuccessful gank, Yasuo readies his third Q before retreating.", 
+            "dur": "5.1", 
+            "start": "361.4"
+        }, 
+        {
+            "text": "Seeing Jinx head back into lane, he quickly dashes through a minion to line up a long-range whirlwind and re-engage with Last Breath.", 
+            "dur": "6.4", 
+            "start": "367"
+        }, 
+        {
+            "text": "By leveling up Steel Tempest and building attack speed, Yasuo&#39;s able to stack his Q much faster through the ability&#39;s reduced cast time and cooldown.", 
+            "dur": "7.3", 
+            "start": "374.6"
+        }, 
+        {
+            "text": "Once Yasuo&#39;s in range to land his first Q, his cast time is so low that he can essentially use the ability while moving, helping him keep up and secure the kill with his whirlwind.", 
+            "dur": "9.2", 
+            "start": "382.6"
+        }, 
+        {
+            "text": "Yasuo gets the most from his ultimate when used early in teamfights.", 
+            "dur": "3.5", 
+            "start": "393.8"
+        }, 
+        {
+            "text": "After successfully repositioning himself among the enemy squishies, Yasuo uses the huge armor penetration buff to significantly boost his damage through the course of the fight.", 
+            "dur": "8.9", 
+            "start": "397.4"
+        }, 
+        {
+            "text": "Steel Tempest is on such a low cooldown that Yasuo can incorporate the ability into his standard attack pattern.", 
+            "dur": "5.9", 
+            "start": "406.6"
+        }, 
+        {
+            "text": "While finishing off Garen, Yasuo uses Sweeping Blade to dodge Orianna&#39;s ball before catching her with his second knock up.", 
+            "dur": "6.8", 
+            "start": "416.3"
+        }, 
+        {
+            "text": "Had Yasuo used Wind Wall here to absorb Caitlyn&#39;s attacks, he might have survived the fight and earned himself a pentakill.", 
+            "dur": "6.2", 
+            "start": "424.5"
+        }, 
+        {
+            "text": "When building Yasuo, there are a few key stats that are central to his kit and playstyle: Movement Speed, Attack Speed, Critical Strike Chance and Defense.", 
+            "dur": "8.4", 
+            "start": "432.9"
+        }, 
+        {
+            "text": "Critical Strike is doubly effective on Yasuo thanks to his passive, and Movement Speed lets him stick to enemies and refresh his shield more frequently.", 
+            "dur": "7.2", 
+            "start": "441.9"
+        }, 
+        {
+            "text": "This makes Statikk Shiv a great early purchase, especially since Sweeping Blade refreshes the item&#39;s charges.", 
+            "dur": "5.2", 
+            "start": "449.5"
+        }, 
+        {
+            "text": "Attack Speed directly affects the cooldown and cast time of Steel Tempest, allowing him to use his whirlwind and combos earlier in fights.", 
+            "dur": "7.2", 
+            "start": "455.3"
+        }, 
+        {
+            "text": "Finally, as attractive as high damage builds are, Yasuo absolutely needs defensive items to survive in the late game.", 
+            "dur": "6.7", 
+            "start": "462.9"
+        }, 
+        {
+            "text": "A Randuin&#39;s Omen or Banshee&#39;s Veil helps Yasuo stick to his enemies while providing much needed durability.", 
+            "dur": "5.6", 
+            "start": "469.7"
+        }, 
+        {
+            "text": "Thanks for tuning in to the Yasuo Champion Spotlight.", 
+            "dur": "2.7", 
+            "start": "477.7"
+        }, 
+        {
+            "text": "Please subscribe to the Riot Games YouTube channel and leave us your comments just below the video.", 
+            "dur": "4", 
+            "start": "480.6"
+        }
+    ], 
+    "title": "Yasuo Champion Spotlight", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04n3w2r"
+    ], 
+    "number_views": 5118475, 
+    "categories": [
+        20
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T04:43:53.283Z", 
+            "text": "use of tobacco and achohol?? lol c:\ufeff", 
+            "author": "TokyoGoru !"
+        }, 
+        {
+            "date": "2015-05-08T13:57:01.502Z", 
+            "text": "Yasuo is a total badass.......\nAnd you need REAL SKILLS to play him\n\n\nAnd im not even a Yasuo player and i know it\ufeff", 
+            "author": "akliroth vralin"
+        }, 
+        {
+            "date": "2015-05-06T07:16:15.546Z", 
+            "text": "yasuo \"secured\" the kill\ufeff", 
+            "author": "Cho'GathPRIME"
+        }, 
+        {
+            "date": "2015-05-04T20:31:02.746Z", 
+            "text": "Who's better to buy yasuo or volibear cuz I enjoy both characters a lot \ufeff", 
+            "author": "pryme vision"
+        }, 
+        {
+            "date": "2015-05-03T15:06:58.757Z", 
+            "text": "Not really an OP champ because you really have to rely on your 3rd Q and \nreally no escape tool just flash and a dash that may go wrong yet a \npowerful damage hero.\ufeff", 
+            "author": "Necro Paker"
+        }, 
+        {
+            "date": "2015-05-03T13:20:42.718Z", 
+            "text": "Tank Yasuo with 1 lifesteal item is better in my playstyle..i cant die \nbabey.\ufeff", 
+            "author": "Riddle Ziddle"
+        }, 
+        {
+            "date": "2015-04-30T12:29:53.208Z", 
+            "text": "this is basically lol's juggernaut? with a wind wall instead of regen\ufeff", 
+            "author": "Simon Robeyns"
+        }, 
+        {
+            "date": "2015-05-10T23:57:19.574Z", 
+            "text": "Wtf no... far from Very. If you are looking for jugger its master yi", 
+            "author": "Jack Ozbourne"
+        }, 
+        {
+            "date": "2015-04-30T09:59:34.539Z", 
+            "text": "Ok time to unlock Yasuo\ufeff", 
+            "author": "robert weller"
+        }, 
+        {
+            "date": "2015-04-30T07:18:41.537Z", 
+            "text": "Which is better ?? Yasuo or Zed ??\ufeff", 
+            "author": "gabriel ugnit"
+        }, 
+        {
+            "date": "2015-05-09T16:09:41.865Z", 
+            "text": "+gabriel ugnit Zed is easier and saver ( with easier i mean to learn at \nbeginning but just as hard to master) to play and has one of the strongest \nlanes but lategame is hard sometimes. Yasuo is stronger in lane ( pre 6) IF \nu know to play him and lategame is beast. Also zeds roams are much better \nand so is his dueling potional so is his split BUT teamfights are way \nbetter with yasuo.", 
+            "author": "Thirustime - \"Is it May 19th yet?\" \"No.\" \"Then fuck off.\""
+        }, 
+        {
+            "date": "2015-04-27T15:18:36.286Z", 
+            "text": "Listen, stop nerfing shit!!! U've never buffed any champion, just nerf. \nAtleast make just one champion and don't TOUCH IT ANYMORE! FUCK U\ufeff", 
+            "author": "incativated"
+        }, 
+        {
+            "date": "2015-04-23T16:33:20.000Z", 
+            "text": "I love so much this champion <3 \nThe BEST CHAMP >>YASUO<< <333\nI will play ONLY yasuo....\ufeff", 
+            "author": "Niki Bojinov"
+        }, 
+        {
+            "date": "2015-04-22T23:54:17.000Z", 
+            "text": "I have been playing for three weeks. I was having a big problem with items \nthat I have to bought. This video was very helpful for me in two things. \none of them is the movement and take position. The second is the items that \nI need to buy Also, Yasuo has a high attack damage. Therefore, I suggest to \nchoose it if you want to win.\ufeff", 
+            "author": "Mohsen Nasr"
+        }, 
+        {
+            "date": "2015-04-19T02:43:16.962Z", 
+            "text": "in 2015, this was of noo help\ufeff", 
+            "author": "Asashin Daka"
+        }, 
+        {
+            "date": "2015-04-18T07:29:16.771Z", 
+            "text": "Where are the runes and masteries????\ufeff", 
+            "author": "Matija Vandek"
+        }, 
+        {
+            "date": "2015-04-12T17:39:52.304Z", 
+            "text": "runes and mastries?\ufeff", 
+            "author": "Scoozzy League"
+        }, 
+        {
+            "date": "2015-04-11T11:45:50.809Z", 
+            "text": "so bassicaly he melle invoker\ufeff", 
+            "author": "Jean Bryot"
+        }, 
+        {
+            "date": "2015-04-04T21:34:09.512Z", 
+            "text": "Sorry, I love Yasuo too much, I just gotta add more.\n\nBefore I just drop my build here, I highly suggest watching RedMercy \nregarding about Yasuo, he's a really rad dude (along with League of \nLegends, of course)\n\nBuild, not adjusting to situational items or anything, and not in order\n\nBloodthirster (Priority: Low - Medium)\n\nInfinity Edge (Priority: Medium - High)\n\nBoots (Priority to upgrade: Low - Medium)\n\nShiv (Priority: Get this damn item immediately)\n\nXXX (Presumably Trinity Force, for that 100% Crit, trust me, every crit \ncounts)\n\nXXX (Presumably Guardian Angel or Banshee's Veil)\ufeff", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-05-02T08:56:00.103Z", 
+            "text": "+Speebodoy Oh, early game laning? Depends really, you kinda have to adjust \nwith who you're fighting, some Champions require you to go poke them \noccasionally with the E-Q, some require you to poke them with just the \ntornado (Since getting in close would cause you to lose the trade or get \nkilled, example: Trading with Riven with E-Q.), And some you just have to \nask jungler often to help you kill your opponent or at the very least, deny \nhim farm. Some may need you to push lane often, some may need you to stay \nunder your tower. All depends really, however, in general, just try to \nfocus on last hitting Minions.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-05-01T00:07:26.780Z", 
+            "text": "+Real Original User Name Thanks for your tips! Just went first time yasuo \n19/9/4. Except early game i fed 0/5. Any tips for early game laning?", 
+            "author": "Speebodoy"
+        }, 
+        {
+            "date": "2015-04-30T06:01:18.080Z", 
+            "text": "+Speebodoy Well. I don't think you can. You may, but you can't. Y'see, I'm \nat the PH Server, lol. So unless you're playing at Garena then I think you \ncan't add me. Before IE nerf I used to run the 100% Crit rune build (5% \nCrit chance, becomes 10% from Passive), but now I pretty much run the \nstandard AD Marks, Armor Seals, and MR Glyphs (Though you should get MR per \nlevel Glyphs unless you're playing against AP mid, but you need to get \nTreads still.), and AD Quintessences, since I tend to level up E first (To \nuntil Level 3 or 4), before putting points in Q, although occasionally I \nwill put points in Q, sometimes alternating E and Q, although I think \nLifesteal Quins can work too, never tried it really.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-29T23:15:57.421Z", 
+            "text": "+Real Original User Name Thanks a lot dude, what runes and masteries do you \nuse. I've found that his early game is really bad against basically \neveryone. Can i add you?", 
+            "author": "Speebodoy"
+        }, 
+        {
+            "date": "2015-04-29T07:26:43.511Z", 
+            "text": "+Speebodoy I really find it on the \"depending\" situation, I think Greaves \ncan work on early game, but you sell it for Tabis/Merc later on.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-29T03:08:30.228Z", 
+            "text": "+Real Original User Name Ya, cause I noticed that lots of people nowadays \nuse Bloodthirster instead of BoRK even though its a tank meta... For boots, \nI've heard that you should never build berserkersers and instead build merc \nor tabis. True?", 
+            "author": "Speebodoy"
+        }, 
+        {
+            "date": "2015-04-28T07:10:29.077Z", 
+            "text": "+Speebodoy Depends, Bloodthirster adds more damage, and a (usually) better \nsustain thanks to the higher damage and the shield to come with it. On the \nother hand, Ruined King has the passive (Not that notable unless you're on \nhigh HP targets, and even then there's armor to include, would be nice if \nit was magic damage like before though), a good active for chasing, \nescaping, and burst healing, along with attack speed, and cutlass on Yasuo \nis a rather cool item early game to give sustain. Would depend really, \nthough I still prefer Bloodthirster. ", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-28T03:01:29.743Z", 
+            "text": "+Real Original User Name Blade of the Ruined King instead of Bloodthirster?", 
+            "author": "Speebodoy"
+        }, 
+        {
+            "date": "2015-04-04T17:47:52.315Z", 
+            "text": "I must say yasuo is not an easy champ. He is my first 6300ip champ and i \nbought it cause a friend of mine said he is fun to play. Yasuo is my main \neven though im still trying to master him. Also i saw people complain about \nnerf...what nerf? Just get statikk,infinity,boots,bloodthrister,and its a \ngg wp.\ufeff", 
+            "author": "AlexDoesClash"
+        }, 
+        {
+            "date": "2015-05-09T16:05:19.000Z", 
+            "text": "+AlexDoesClash BT u should swich with LW cause its tank meta and no \nberserks only tabis or mercs", 
+            "author": "Thirustime - \"Is it May 19th yet?\" \"No.\" \"Then fuck off.\""
+        }, 
+        {
+            "date": "2015-04-22T23:13:46.830Z", 
+            "text": "Yeah,tried statikk,IE,boots,BoTRK,BloodT,GA or banshee...gg", 
+            "author": "AlexDoesClash"
+        }, 
+        {
+            "date": "2015-04-04T21:21:12.642Z", 
+            "text": "How dare you not include Tons of Damage? Thou has disgraced Lord Phreak our \nteacher.\nSeriously though, Statikk, Infinity, Boots, Bloodthirster isn't gg wp \nimmediately, you still gotta factor in one's skill in Yasuo and enemy team. ", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-04T05:51:34.763Z", 
+            "text": "Wow yasuo mo lifesteal items.LMAO,lets see how u 1v5 or how u sustain lane \nso long till u dun need to recall(except for buying items)\ufeff", 
+            "author": "ye hongzhi"
+        }, 
+        {
+            "date": "2015-04-01T21:36:40.549Z", 
+            "text": "Yasuo is still my main, i feel of course that it is trickier than before, \nbut i'm not in high-elo so i can pick him and do 1v2 without problems. So \nhe is not broken but he needs an up, why is riot nerfing true skilled \nchamps like him and letting yi/teemo/darius or Leblanc oneshoting everyone?\ufeff", 
+            "author": "Roro Plays"
+        }, 
+        {
+            "date": "2015-04-01T12:28:03.095Z", 
+            "text": "he looks totally like haohmaru from samurai shodown \neven his spell are the same\ufeff", 
+            "author": "Eno Hondro"
+        }, 
+        {
+            "date": "2015-03-28T09:29:28.171Z", 
+            "text": "I sound like Yasuo\n\ufeff", 
+            "author": "Tony lim"
+        }, 
+        {
+            "date": "2015-03-27T15:55:54.876Z", 
+            "text": "So good video.Good job Riot :)\ufeff", 
+            "author": "Rumen Antov"
+        }, 
+        {
+            "date": "2015-03-26T13:56:19.914Z", 
+            "text": " U should make yasuo wind wall that can block turret attack\ufeff", 
+            "author": "ZzWoShiDavinzZ Ong"
+        }, 
+        {
+            "date": "2015-03-25T17:08:47.761Z", 
+            "text": "why would you ever pick fiora when you could pick yasuo, he is better in \nabsolutely every way\ufeff", 
+            "author": "Yalrick"
+        }, 
+        {
+            "date": "2015-03-23T13:39:30.355Z", 
+            "text": "Which to max out first E OR Q.. \ufeff", 
+            "author": "Random Sandwich"
+        }, 
+        {
+            "date": "2015-03-21T14:19:16.700Z", 
+            "text": "Like if you are watching in 2015\ufeff", 
+            "author": "RYADH SHINNJAMI"
+        }, 
+        {
+            "date": "2015-03-21T11:03:00.582Z", 
+            "text": "Nerfed too much, but still good in the right hands.\nI want to learn this guy so I can do some big plays :)\ufeff", 
+            "author": "RaveBeef"
+        }, 
+        {
+            "date": "2015-03-18T15:22:33.972Z", 
+            "text": "Yasou is very good champion i like the skills very cool\ufeff", 
+            "author": "Admiral Adonis"
+        }, 
+        {
+            "date": "2015-03-17T01:24:44.887Z", 
+            "text": "Im sure Riot had at least a bit inspiration from Kyoraku Shunsui from \nbleach, when doing this champ. I mean they got both the same hairstyle \n(yassuos is a bit oversized), both like to drink alcohol and both got a \nranged wind attack. Also the ultimate last breath reminds a bit of kyorakus \nabilitys, where conditions are given, like \"takaoni\" where the one on top \nwins. In last breath its like who is in the air \"looses\", cause get hit by \nyassuo. Just wanna let this hear, i really wonder if riot thought about all \nthis when creating yassuo ...\ufeff", 
+            "author": "Drunken Solomon"
+        }, 
+        {
+            "date": "2015-03-15T10:44:35.566Z", 
+            "text": "seriously?!  oriana makes out in the bush and draven and blizt don't even \nthink to check the bush out?!\nWOW u are pretty noob.\ufeff", 
+            "author": "Rares Rares"
+        }, 
+        {
+            "date": "2015-03-15T10:22:31.127Z", 
+            "text": "My favorite champ *_* Damn Riot this is your best work so far !\ufeff", 
+            "author": "Yasuo The Unforgiven"
+        }, 
+        {
+            "date": "2015-03-14T01:14:57.124Z", 
+            "text": "who is better yasuo or darius?\n\ufeff", 
+            "author": "Brice Buenaventura"
+        }, 
+        {
+            "date": "2015-03-12T05:00:50.626Z", 
+            "text": "For people who's looking for a simple build;\n-Statikk Shiv ( Replace it with Phantom Dancer in lategame for pure 100% \ncrit chance).\n-Beserker's boots\n-Infinity Edge\n-Bloodthirster/Last Whisper\n-Randuin's/Banshee's Veil\n-{Insert Situational Item}\nP.S: Never go for Hydra you morons\ufeff", 
+            "author": "sevozil"
+        }, 
+        {
+            "date": "2015-04-30T05:54:49.645Z", 
+            "text": "+zGiLL Yeah, the Lifesteal from BT feels a lot stronger than Hydra, so \nreally I do prefer BT, just saying that Hydra can still work out.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-29T12:11:33.892Z", 
+            "text": "+Real Original User Name BT is 200g more but I feel the lifesteal is a lot \nstronger since it can proc off of your Q and I don't really like Hydra as \nI've said before.", 
+            "author": "zGiLL\u265b"
+        }, 
+        {
+            "date": "2015-04-28T18:39:19.427Z", 
+            "text": "+zGiLL Isn't it literally just the same cost as Blood Thirster? Hydra gives \nmore AoE (and to an extent, Life Steal if you hit enough people with enough \ndamage), It's just 5 AD Less, and feels more on the \"safer\" type, Blood \nThirster needs you attacking to get it's shield, but granted, E-Q is \nessentially your Hydra. ", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-28T18:26:26.968Z", 
+            "text": "+Real Original User Name I guess you could do that, but the gold cost is \njust too high for me to consider getting it.", 
+            "author": "zGiLL\u265b"
+        }, 
+        {
+            "date": "2015-04-28T17:52:04.606Z", 
+            "text": "+zGiLL Yeah, it's really more of some mid-game-ish item for the game's I've \ndone so far. Probably better off selling it later on for a better item.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-28T16:21:25.107Z", 
+            "text": "+Real Original User Name but the active is pretty useless as the game goes \non because it takes less time to cast Q than it does to cast hydra active. \nAlso Q deals more damage as well. Statistically, Hydra isn't worth it.", 
+            "author": "zGiLL\u265b"
+        }, 
+        {
+            "date": "2015-04-28T13:54:59.835Z", 
+            "text": "+Riccardo Carlini Yeah, Trinity is definitely not a \"build first\" item, \nunlike Shiv (At least when I play Yas, I still prefer Shiv on Yasuo over \nPhantom Dancer until now tbh), but it's not as bad as people say.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-28T11:46:09.279Z", 
+            "text": "+Real Original User Name i even prefer a trinity in last item", 
+            "author": "Riccardo Carlini"
+        }, 
+        {
+            "date": "2015-04-28T07:06:22.271Z", 
+            "text": "+zGiLL I just tried Hydra on Yasuo after such a long time, and the stats \nactually fit more than I thought, the high AD, the Active, it's good on \nadding burst and pushing power. It's more of a situational item tho.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-27T19:32:12.371Z", 
+            "text": "+Lars B. why would you want a hydra to splitpush when nearly every yasuo \nplayer builds shiv which generally one shots the back creep line with an eq \ncombo", 
+            "author": "zGiLL\u265b"
+        }, 
+        {
+            "date": "2015-04-23T14:09:59.668Z", 
+            "text": "+sevozil Blade of the Ruined King Bruh", 
+            "author": "Nolan Graham"
+        }, 
+        {
+            "date": "2015-04-18T12:47:55.499Z", 
+            "text": "right", 
+            "author": "Lars B."
+        }, 
+        {
+            "date": "2015-04-17T21:16:54.119Z", 
+            "text": "+sevozil Lifesteal + Aoe effect make it great for yasuo, but it's more of \nan optimal item. It has more sustain power than Botrk, however, Botrk has \nmore attack speed making him an assasin type, picking targets off one by \none, if you don't count yasuo's ultimate.", 
+            "author": "Lionl"
+        }, 
+        {
+            "date": "2015-04-04T20:58:36.109Z", 
+            "text": "Back on topic, Hydra is really a \"Meh\" item on Yasuo, From my perspective: \nYour E-Q is essentially your Hydra that's on a 1.33 CD, and even then your \nnormal Q can chunk a wave,  it's more of a \"INCREASE THAT PUSH MOTHAFUCKA! \nMORE THAN YOU NEED!\" item, rather than get immediately, only time I did get \nHydra was during my beginner days with Yasuo, and few middle days with him, \nbefore eventually settling on Bloodthirster. \nFrom LoL wiki perspective: BT has the highest AD out of all, along with \ngranting a shield and the highest lifesteal out of all. Hydra has highest \nwaveclear out of all (Which you already have), and the second highest AD of \nall. And Ruined King is nifty for the attack speed and the damage against \nhigh HP opponents, With the lifesteal complementing the attack speed. So \nyeah, with a full build, what sounds like the most useful item out of all \nof them? Considering also the whole \"Yasuo's E-Q is his Hydra\"", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-04T20:46:56.561Z", 
+            "text": "+Riccardo Carlini Hey having a certain Champ for a pic doesn't mean that \nhe/she mains that Champ, I have Aatrox as pic and yet I main (wait for it) \nYasuo. (You can now murder me)", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-03-30T03:17:48.447Z", 
+            "text": "+Lars B. Are you retarded you shouldn't even be spit pushing with Yasuo, he \nis a much better use being in team fights since his ult can hit all 5 of \nthe enemy team.", 
+            "author": "Swaglord Blazeit"
+        }, 
+        {
+            "date": "2015-03-21T13:30:57.648Z", 
+            "text": "+Lars B. having kata as pic and talking about brnze", 
+            "author": "Riccardo Carlini"
+        }, 
+        {
+            "date": "2015-03-19T15:50:09.691Z", 
+            "text": "And btw, i dont build the item myself but its definitly viable if u want to \nplay a split strat. And calling any1 who builds it a \"moron\" is kinda mean", 
+            "author": "Lars B."
+        }, 
+        {
+            "date": "2015-03-19T15:48:24.547Z", 
+            "text": "A challenger yasuo main plays AGAINST challenger, thats the point. You dont \nmaster a champ by playing him against some random bronze players.", 
+            "author": "Lars B."
+        }, 
+        {
+            "date": "2015-03-18T22:29:10.587Z", 
+            "text": "+Lars B. I think you missed my point.", 
+            "author": "The Creator"
+        }, 
+        {
+            "date": "2015-03-12T04:33:25.000Z", 
+            "text": "don't really care if he's op or not i'd like to see someone anyone just use \nyasuo and charge in enemy base with all five champion few levels above \nyasuo see what happens, he gets killed in 3 seconds. what i consider op is \nthat if he can launch an all out assault at level 2 and carry the whole \ngame netting all kills and towers without any buff or items thats OP this \nisn't shit \ufeff", 
+            "author": "krazyman159"
+        }, 
+        {
+            "date": "2015-03-10T22:10:20.537Z", 
+            "text": "Why am I thinking Yasuo is a wannabe Miyamoto Musashi..\ufeff", 
+            "author": "Fiendish Adjudicator"
+        }, 
+        {
+            "date": "2015-03-10T19:14:27.201Z", 
+            "text": "I get the feeling I'd get wrecked playing Yasuo\ufeff", 
+            "author": "Jeremy Garner"
+        }, 
+        {
+            "date": "2015-03-07T07:54:10.311Z", 
+            "text": "3:28 heaven for a few seconds\ufeff", 
+            "author": "Ayman Nahas"
+        }, 
+        {
+            "date": "2015-03-05T11:08:39.616Z", 
+            "text": "I love Yas! He's awesome.\ufeff", 
+            "author": "Tawnts- GFX, Feeder, And Editor."
+        }, 
+        {
+            "date": "2015-03-03T16:15:32.414Z", 
+            "text": "Nice\ufeff", 
+            "author": "Domagoj Klane\u010dek"
+        }, 
+        {
+            "date": "2015-03-03T14:38:20.541Z", 
+            "text": "nie lubie lola szczerze m\u00f3wi\u0105c jest s\u0142aby...\ufeff", 
+            "author": "Ozi Hard"
+        }, 
+        {
+            "date": "2015-03-03T06:10:48.542Z", 
+            "text": "People saying Yasuo is OP, and people saying that he sucks.... wow. Is he \nOP or not? He's pretty balanced tbh.\n\nThe \"OP\" things about him: Double Crit chance, low cooldowns, annoying as \nhell wall, and deals damage fast.\nThe solution: Ruin him early game, don't let him get farm, pressure him, \ngang up on him if you have to, Yasuo has many ways of coming back, and \ngetting tons of CS is one of them, once he hits Shiv, his farming power \nincreases exponentially, when he gets IE, he arguably becomes the best \nfarmer in the game, but that takes a while for him to get those items \nconsidering how much they cost in total, and he's VERY squishy early game, \nhis shield isn't really that high enough to save himself from a 3 man gank, \nhe may need to burn a flash and he might still even die doing so. His \ndamage with Shiv and IE is already high but he's still relatively weak, \nit's like having a Super Minion taking out basic waves, but against your \nMarksman that Super Minion is doing shit against you, think of the Marksman \nas you and your team, the Super Minion as Yasuo, and the Minions as... \nwell... Minions, or the prey of Yasuo. The Super Minion is OP against those \nMinions, and is very tanky, but against stronger forces, aka your Marksman, \nhe's gone in like a few hits.\nFor the things that make him \"suck\": Squishy, people too reliant on his old \npermashield thanks to his dash, the high number of his shield AND his old \nUlt range.\nThe solution: Be careful, just farm up early game, you don't need to kill \neveryone to get the same amount of gold and XP as last-hitting will, ward \noften, rush your items immediately, stick with your team if you guys can \ncoordinate well enough to hunt down people. Your shield isn't high, and \nyour defense sucks, but you make up for that with arguably the highest \nfarming potential in the ENTIRE game, thanks to your cooldown and how your \nkit works, if you guys were to have a race to reach full build first AND \nwithin a time limit, you, in theory, will be the first to reach it, \nespecially with Shiv, Yasuo is also a somewhat situational pick, He isn't \nweak by himself, but he isn't exactly the best, the thing that makes him so \nstrong his is his synergy with his allies, having a Wukong makes both of \nyou extra deadly, Wukong ults in, then you follow up, the damage that \nfollows is fast, and high. Having a Malphite sets up your ult again, Janna \ncan even poke from a range before you decide to go in, Or you can simply \nhave a good AoE lineup.\nExample: Kalista (Soul bounds with Nami)\nKatarina\nNami\nMalphite \nYasuo\nMalphite goes in, hopefully getting everyone, Nami follows up with her ult, \nreaching deep into the enemy's backline, where their Marksman should be \nhiding, once he gets knocked up, Yasuo ults onto their Marksman, while \nKalista throws spears damaging enemy team, while Katarina goes in and \nshreds everyone with her ult, at least those caught by the CC, the catch is \nthat this team has to be the one opening, and can't afford to fall behind.\n\nSo Yasuo can either be really strong OR real useless depending on \nindividual skill, enemy skill, team skill, and team comps.\ufeff", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-30T06:02:14.976Z", 
+            "text": "+MIR! ^ This", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-30T02:15:22.483Z", 
+            "text": "+Real Original User Name tl;dr but I've been playing Yasuo while he's free \nthis week, and I'd agree that he is quite a balanced champion. I've seen \nsome fantastic Yasuo mains, and some absolutely woeful Yasuo beginners... \nHe's a champion that rewards players who are smart, quick-thinking, able to \npick their fights wisely, and zone out then solo enemy squishies while \ndancing around teamfights. If you can do all these things while \nunderstanding your strengths and weaknesses, you can carry with Yasuo; if \nyou can't do that, you will be absolutely useless. Knowledge, experience \nand technique will make you OP, not a champion.", 
+            "author": "MIR"
+        }, 
+        {
+            "date": "2015-04-29T19:05:18.139Z", 
+            "text": "+Real Original User Name Imo he's one of the most underpowered champions \nright now... You are forced to buy always the same items, in teamfights ur \njust a melee lucian and ur ult is just a fast way to suicide by going on \nthe enemy team lol. Also he's one of the few melee adc's that cant carry \ngames on their own.", 
+            "author": "Black Shadow"
+        }, 
+        {
+            "date": "2015-04-12T16:08:19.226Z", 
+            "text": "+Real Original User Name\nOk I never payed attention to that", 
+            "author": "r3v4n21"
+        }, 
+        {
+            "date": "2015-04-12T14:59:54.434Z", 
+            "text": "+r3v4n21 Erm, to fix your post, He can't dash to the same target in \n10/9/8/7/6 seconds, each rank reduces the fixed cooldown by 1 second, as \nfor the cooldown itself, it's 0.5/0.4/0.3/0.2/0.1, which is nearly 0.0, \nwell actually it essentially is 0.0", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-12T08:49:06.591Z", 
+            "text": "+Ghost 39\nYasuo can only dash to one target and then he cant dash to the same target \nin 9 seconds and you really need to aim your abilities. If you play with \nhim you miss your Q 9/10 times.", 
+            "author": "r3v4n21"
+        }, 
+        {
+            "date": "2015-04-12T03:42:04.245Z", 
+            "text": "+Real Original User Name You call infinit dashes and low ass cool downs \nbalanced?!?", 
+            "author": "Ghost 39"
+        }, 
+        {
+            "date": "2015-04-11T02:22:52.124Z", 
+            "text": "+Real Original User Name wow u really put urself into it lol", 
+            "author": "andy stokke"
+        }, 
+        {
+            "date": "2015-04-10T13:09:18.719Z", 
+            "text": "+nodasz I wouldn't call LeBlanc difficult. I would call her \"Annoying as \nfuck to play against\"", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-10T12:39:10.268Z", 
+            "text": "+Real Original User Name yasuo is one of the very difficult champions, such \nas le blanc and others. If you play those champs well, you're OP", 
+            "author": "nodasz"
+        }, 
+        {
+            "date": "2015-04-05T20:26:00.539Z", 
+            "text": "+Real Original User Name\nI can just guess by the amount of times I fucked it up today.", 
+            "author": "r3v4n21"
+        }, 
+        {
+            "date": "2015-04-05T20:22:34.751Z", 
+            "text": "+r3v4n21 Despite maining Yasuo, You have no idea how many times I fucked up \nthat one Q before, lol.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-05T20:08:24.733Z", 
+            "text": "+dqwers\nHe isn't. I bought him today. His Critical Damage is reduced by 10% so that \nhis 50% Critical Chance increase isn't OP.\nHis abilitys need to be timed and well aimed. One missed Q and your \nopponent can kill you. And his Ulti requires an airborne target so you need \nto have quick reflexes to hit it.", 
+            "author": "r3v4n21"
+        }, 
+        {
+            "date": "2015-04-05T18:48:54.613Z", 
+            "text": "+dqwers Broken? Probably, OP? No, also care to elaborate on your opinion? \n\"bullshit he is broken\" isn't exactly the best argument, you gotta state \nyour opinion, like come up with reasons why you think so.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-05T09:53:51.883Z", 
+            "text": "+Real Original User Name bullshit he is broken", 
+            "author": "dqwers"
+        }, 
+        {
+            "date": "2015-04-04T20:52:27.558Z", 
+            "text": "+ye hongzhi Oh I see what you meant, had to read my comment again, lol. It \nisn't necessarily restricted to your Marksman (Super Minion and Minion \nthing), it's practically anything that is stronger that the Super Minion \n(Yasuo), so Marksman, Mage, etc.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-04T20:44:30.319Z", 
+            "text": "+ye hongzhi Yasuo IS strong, don't get me wrong, but he isn't OP, he has \ncounter play (That and he outright counters Ezreal, everything from Ezreal \nis a projectile and Yasuo can wind wall it, but Yasuo isn't tanky, he's \nextremely squishy), Yasuo is sort of like Aatrox or Sion during passive, \nhard CC him and he's screwed, now I know that's a common \"excuse\" If you \nwant to call it like that but practically Yasuo does have weaknesses, you \njust gotta exploit them, the problem lies in the skill of the Yasuo, if he \nknows his weaknesses he's going to adapt to cover them up, to make sure \nnone of you exploit it, (Asides Blind Pick) Have you ever tried Yasuo and \ntried to fight a team full of Hard CC? That's one of the worst things that \ncould ever happen (Not all of them need to have Hard CC, enough to disable \nyou) Yasuo also has no steroids on him at all,I'm not defending Yasuo from \nbeing nerfed, but I'm defending him from \"OP\", He isn't OP, but he is one \nof the strongest Champions in the game right now, if I have to refer to one \nLoL YouTuber (I did in previous comment), I'd go with RedMercy, As in his \n\"Top 5 Assassins\" video, despite the fact that he loves Zed, Mains Zed, and \nis (At least at what he says) *slightly* biased towards Zed, he wasn't at \n#1, it was still Yasuo. Yasuo takes time to learn, once you do, you're a \nforce to be reckoned with. Also found this out the hard way, Yasuo's main \nadvantage is his short cooldown. (How I found out: 2014 URF)", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-04T20:37:48.418Z", 
+            "text": "+r3v4n21 Erm, I wouldn't say private or bot matches, only time I did do bot \nmatches and private were for fun 1v1s (Privates) and practicing wall \ndashing (Bots), Hell he's my main now at this point. Still though, Yasuo's \nstrength really does come from the fact that he can just CS and at the \nleast be something to be concerned about late game, but if he snowballs \ngood luck dealing with him if you don't know how to counter him, which is \nwhy (If Yasuo's opponent is strategic) early game Champs can give him a \nhard time, Pantheon, Garen, etc. Pantheon's the one I hate the most \nfighting against, but most Pantheons I've seen here in PH keeps on pushing \nthe damn lane, those who know how to freeze the lane end up getting caught \nby jungler anyway, so yeah, if I find a Pantheon that is both good at \ndenying me farm and can ward properly (Actually found one and I got rekt \nreally hard), Yasuo can just play safe. Especially since doing Redmercy's \nskill order (3-4 points in E) can give you a high amount of poke and even \naids in last hitting. Of course never did Ranked to practice Yasuo, that's \njust suicide.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-04T05:41:44.503Z", 
+            "text": "Lol is u noob.marksmen?u just wall,wait enemy minions come and u e to the \nmarkesman she/he gg.anyway,yasuo isnt so great to kill when u gank.the more \nppl,the easier u escape.last time i was plying with gold and platinuims in \ncustoms(me stuck in bronze since everytime i ply rank,teammate will have at \nleast 1dc).i pushing top turr.then a ezreal and a garen came.i e out of the \nturr on the way they are walking.i e into them with a q and garen silence \nme for 1.5s but my passisve blocked the next few atks.then i e into their \nturr where the minions come(and got a wind).i they both flash as i e all \nthe wat out of the turr(towards the 2nd turr of the enemies.so im actually \nrunning into their base).i sent a q to airbone and q again(i have \nbloodthirster IE and static)then i ignite and ezreal dies while i went to \nulti garen and double.while surviving with 100hp.the other 3 enrmies had by \nthen reached where i was and i just e throught the whole shi.t wave of \nminions back and forth and juked those 3 b4 teleporting away", 
+            "author": "ye hongzhi"
+        }, 
+        {
+            "date": "2015-03-31T21:25:15.080Z", 
+            "text": "He isn't overpowered. The gameplay in the guide looks insanely difficult. \nYou surely spent a few private or bot matches learning him.", 
+            "author": "r3v4n21"
+        }, 
+        {
+            "date": "2015-03-01T22:11:27.539Z", 
+            "text": "4:50 better to E basic attack immediate Q basic attack E to retreat\ufeff", 
+            "author": "Jack Wood"
+        }, 
+        {
+            "date": "2015-03-01T08:44:38.786Z", 
+            "text": "LOL EF5\ufeff", 
+            "author": "WEZZARN"
+        }, 
+        {
+            "date": "2015-02-28T10:35:39.250Z", 
+            "text": "Love it when teemo dies\ufeff", 
+            "author": "Justin Otra"
+        }, 
+        {
+            "date": "2015-02-26T12:46:08.567Z", 
+            "text": "passive op\ufeff", 
+            "author": "Groudon301"
+        }, 
+        {
+            "date": "2015-02-23T01:11:44.891Z", 
+            "text": "if u master this guy u own the entire game \ufeff", 
+            "author": "GuardianDemonX"
+        }, 
+        {
+            "date": "2015-02-21T21:28:49.429Z", 
+            "text": "outdated vdieo, pls renew it since you made him less dangerous than a \ncriple\ufeff", 
+            "author": "ultimatepowersun"
+        }, 
+        {
+            "date": "2015-02-21T14:14:44.742Z", 
+            "text": "lets nerf teemo , akali , katarina , le blanc , jarvan\ufeff", 
+            "author": "KennenTube"
+        }, 
+        {
+            "date": "2015-02-20T21:28:37.245Z", 
+            "text": "Yasuo is so easy to play against.. If you keep dodging his tornado he will \nnot be able to kill you. \ufeff", 
+            "author": "B3na5"
+        }, 
+        {
+            "date": "2015-02-18T20:01:25.898Z", 
+            "text": "Remove him completely so i can find a reason not to ragequit every game and \nget banned, all mages are useless against him if he has more than 5 kills, \n100% critical strike mid-game? u kiddin me? Also remove Blitzcrank rocket \ngrab and increase his ultimate cooldown by like 40 seconds. \ufeff", 
+            "author": "ThexPotato"
+        }, 
+        {
+            "date": "2015-02-18T17:45:26.643Z", 
+            "text": "Part of the fun that comes with Yasuo is his difficulty, i wouldn't have \nthis much fun playing him, if he wasn't that hard\ufeff", 
+            "author": "Zek drake"
+        }, 
+        {
+            "date": "2015-02-17T08:50:54.922Z", 
+            "text": "Guys, difficulty increases the higher the rank you are. Keep that in mind \nif you play him in ranked.\ufeff", 
+            "author": "Bread"
+        }, 
+        {
+            "date": "2015-02-15T10:17:13.592Z", 
+            "text": "haha\ufeff", 
+            "author": "Einar De Veyra"
+        }, 
+        {
+            "date": "2015-02-13T18:11:05.583Z", 
+            "text": "Honestly, Yasuo can still be op as long as you know how to play and have \nthat 50% crit (or more...) with u... If not then forget what I said...\ufeff", 
+            "author": "Hikari Hanazono"
+        }, 
+        {
+            "date": "2015-05-10T20:03:28.491Z", 
+            "text": "+Hikari Hanazono You said that you need just 50% Crit on Yasuo and you'd do \nfine, but in reality, you wouldn't be using Yasuo's full potential, so what \nI thought what you meant was \"Get 50% Crit, and your passive will double it \nand it will be useful\", unless you meant \"Getting only 50% Crit total is \nfine\".", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-05-10T11:15:18.431Z", 
+            "text": "+Real Original User Name im confused... ", 
+            "author": "Hikari Hanazono"
+        }, 
+        {
+            "date": "2015-05-10T10:17:57.328Z", 
+            "text": "+Thirustime - \"Is it May 19th yet?\" \"No.\" \"Then fuck off.\"\nI thought Hikari Meant having that 50% Crit is essential (As then it would \nget multiplied by 2, becoming `100%),", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-05-10T09:49:04.404Z", 
+            "text": "+Thirustime - \"Is it May 19th yet?\" \"No.\" \"Then fuck off.\" I dunno really \n^^\" this comment was a month ago so I have no idea what I going on.. soz!!! \nbut whatever it is I honestly don't know... I suck at math .-. ", 
+            "author": "Hikari Hanazono"
+        }, 
+        {
+            "date": "2015-05-09T16:11:11.958Z", 
+            "text": "+Hikari Hanazono how u can only have 50 % with yasuo ? IS THIS EVEN \nPOSSIBLE ?! I have with just shiv + 5 % crit runes my 50%", 
+            "author": "Thirustime - \"Is it May 19th yet?\" \"No.\" \"Then fuck off.\""
+        }, 
+        {
+            "date": "2015-03-13T22:03:47.963Z", 
+            "text": "+Taxtro They slapped a skill dynamic on Yasuo.  The bad Yasuo players are \nprobably related to dumpsters in L.A. because of how trash they are, the \ngood ones can probably lane against high diamond + players.", 
+            "author": "The Creator"
+        }, 
+        {
+            "date": "2015-03-10T05:28:32.589Z", 
+            "text": "\" Yasuo can still be op\"\n\nWhat?!\nEither something IS overpowerd or NOT.\nMake up your mind.", 
+            "author": "Taxtro"
+        }, 
+        {
+            "date": "2015-03-04T13:21:24.660Z", 
+            "text": "Eh I find Ruined King more of a \"Hard time chasing and lifesteal\" item when \nTrinity Force + Bloodthirster usually do enough, Plus it feels like it \nshould be the ADR to use Ruined King to be honest, since they actually just \nAuto Attack over and over again and stay at a safe range, you on the other \nhand have to get in close, and if they focus you, you're gone immediately.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-03-03T15:58:21.235Z", 
+            "text": "+Nicki Choy Tri force is a really good  item however there are other Items \nthat suit yasuos kit and playstyle i.e Blade of the Ruin King. Thats why I \ngo with the crit in runes", 
+            "author": "JDHDify"
+        }, 
+        {
+            "date": "2015-03-03T05:51:54.020Z", 
+            "text": "+SkyAnt Budder Erm... dude... There's Trinity Force, Shiv + IE + Tri Force \n= 100% Crit exactly, no more, no less.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-02-24T07:00:11.248Z", 
+            "text": "Im not really a Yasuo player... I dont know how to yas... He might look \neasy but he isnt..", 
+            "author": "Hikari Hanazono"
+        }, 
+        {
+            "date": "2015-02-21T12:56:14.307Z", 
+            "text": "I take 1 Quint and 9 marks for Yasuo and it goes well for me.", 
+            "author": "JDHDify"
+        }, 
+        {
+            "date": "2015-02-21T09:43:14.513Z", 
+            "text": "Quints...? will that help?", 
+            "author": "Hikari Hanazono"
+        }, 
+        {
+            "date": "2015-02-21T07:30:36.101Z", 
+            "text": "Building 10% crit chance isn't as easy as you think. 9 crit chance mark is \nonly 8%", 
+            "author": "SkyAnt Budder"
+        }, 
+        {
+            "date": "2015-02-20T21:53:39.553Z", 
+            "text": "True True xD", 
+            "author": "Hikari Hanazono"
+        }, 
+        {
+            "date": "2015-02-19T21:33:27.617Z", 
+            "text": "Just build 10% crit chance in your runes Simple :)\nThat 20% at lvl 1 is so fucking OP!", 
+            "author": "JDHDify"
+        }, 
+        {
+            "date": "2015-02-15T01:33:31.401Z", 
+            "text": "Oh... thanks for the info!", 
+            "author": "Hikari Hanazono"
+        }, 
+        {
+            "date": "2015-02-14T04:31:40.210Z", 
+            "text": "Infinity edge got nerfed from 25% crit chance to 20% crit chance can't \nreally get that 100% crit chance easily anymore, unless you go phantom \ndancer and lose 80% damage bonus", 
+            "author": "SkyAnt Budder"
+        }, 
+        {
+            "date": "2015-02-13T11:39:35.322Z", 
+            "text": "2:22 wow is dat how yasuo looked in the past?\ufeff", 
+            "author": "CentauriGamerz"
+        }, 
+        {
+            "date": "2015-02-11T07:01:00.591Z", 
+            "text": "Fuck everything about this Champ\ufeff", 
+            "author": "ImHuzzuH"
+        }, 
+        {
+            "date": "2015-02-10T15:43:36.665Z", 
+            "text": "lower movement speed, lower attack speed, E no damage and cant crit \nanymore, gg riot\ufeff", 
+            "author": "aaaaabiszzzzz"
+        }, 
+        {
+            "date": "2015-02-09T20:31:03.862Z", 
+            "text": "I want that champ my yas, the one i bought is nothing like this yas up \nthere.\n\nSPOTLIGHT IS A LIE!!! NOT AS COOL AS HE LOOKS up there \n\nriot killed yasou. He has been out long enough people know his kit and any \nchamp can out play him if u pay attention to him \"Anticipate\" \nreally really wish he had his Sephiroth sword back. \nwhy riot take away all the really cool stuff that makes champs unique...... \nyas is 3rd in loses in champ victory ratio . so why play him.. so lame... \nyas was my fav champ for so long but he not even the same guy anymore, its \nlike a retard copy or clone\ufeff", 
+            "author": "Gust in"
+        }, 
+        {
+            "date": "2015-04-12T22:49:38.107Z", 
+            "text": "+Gust in true..hard champs those WHO require skill are nerfing them because \nthe normal games are like:\"ohhh dis champpp sooo OPPP nerf nerf nerf\" only \nChildren want nerfs...when u are playin rankeds u watch ur skillz over \nother summoners...kids are like: pleaseee Ritooo nerff i cant play!!\ni say\" unistall LoL and play with your tetris game...", 
+            "author": "Stef Peri"
+        }, 
+        {
+            "date": "2015-03-10T05:19:47.966Z", 
+            "text": "His playstyle hasn't changed.\nThe only thing that's different in how you play him is the E stacking.\nYou can still turn fights with your knockup and shield - he's fun as always.", 
+            "author": "Taxtro"
+        }, 
+        {
+            "date": "2015-03-03T05:50:53.300Z", 
+            "text": "Yasuo is still pretty strong, I main him, It's just that the counter picks \n(Pantheon for example) ruins Yasuo's laning phase due to his (Pantheon) \nimmense poking power in lane, plus Yasuo is like a Lee Sin, easy to play, \nbut hard to master, so probably too much people play him and suck hard with \nhim.", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-02-08T04:49:56.487Z", 
+            "text": "Lol\ufeff", 
+            "author": "ganto basly"
+        }, 
+        {
+            "date": "2015-02-08T04:49:49.513Z", 
+            "text": "Lo\ufeff", 
+            "author": "ganto basly"
+        }, 
+        {
+            "date": "2015-02-07T21:45:41.000Z", 
+            "text": "''Lot of people want me nerfed they call it justice im the only one who \nknows the 100% critt all what i have is the shiv by my side''\ufeff", 
+            "author": "Vanukasss"
+        }, 
+        {
+            "date": "2015-02-07T09:08:45.788Z", 
+            "text": "Yasuo my nigga\ufeff", 
+            "author": ". Lucian"
+        }, 
+        {
+            "date": "2015-02-07T01:46:40.600Z", 
+            "text": "Yasuo is really OP this time\ufeff", 
+            "author": "Aldy Bandojo"
+        }, 
+        {
+            "date": "2015-02-05T07:14:05.747Z", 
+            "text": "after all his nerf and his core items nerf, yas cant do much anymore only \n1v1 or back door and even then u have to have, tones of skill and be on it. \nreally frustrating. when there are super easy champs that slap him around \nwith no worry on top of it all he is hunted and camped. his kit make him \nlook op to noobs that cant deal witch i think is funny when any champ can \nout play him now. just think about it...                                   \n                                                                            \n                                    his spot light is a lie almost all his \nkit has changed                                                             \n                                                            I just wish he \nhad his Sephiroth sword back..    \nplz Riot plz :D\n                                                                            \n           \ufeff", 
+            "author": "Gust in"
+        }, 
+        {
+            "date": "2015-02-02T16:27:36.372Z", 
+            "text": "talking about nerfs... why wont you nerf katarina??? before you could 1vs5 \nwith yasuo easily but now after you use ult you are 100% dead, meanwhile \nkata can still easily get penta so yeah, GG RITO!\ufeff", 
+            "author": "m1n34"
+        }, 
+        {
+            "date": "2015-04-05T18:47:54.172Z", 
+            "text": "...Which Champ....? Yasuo? He has early damage, Katarina? Admittedly her \nonly source of damage is from her Q (Which has a relatively short \ncooldown), E, W Combo, which chunks a good amount, Q itself really isn't OP \ndamage, but it's still worth it, since you can harass from afar. ", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-04-05T09:26:36.679Z", 
+            "text": "+Real Original User Name\ni dont like that champ at all, because it has no early dmg.", 
+            "author": "m1n34"
+        }, 
+        {
+            "date": "2015-04-04T21:30:37.379Z", 
+            "text": "Do a 1v5 with Penta with against a team that actually knows how to use CC \nand counter-build and tell me that again. Also why would you want Katarina \nnerfed with 1v5 who's specifically built to be a Teamfight machine compared \nto Yasuo who is an assassin that relies on knockups?", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-01-31T20:44:52.793Z", 
+            "text": "I have to say...YASUO IS OP!\ufeff", 
+            "author": "Upper90 Finland"
+        }, 
+        {
+            "date": "2015-01-31T08:28:00.299Z", 
+            "text": "best champion in league \ufeff", 
+            "author": "BackfischMief"
+        }, 
+        {
+            "date": "2015-01-29T07:29:28.041Z", 
+            "text": "The ultimate warrior, HEs the best.\ufeff", 
+            "author": "TheBOmGum"
+        }, 
+        {
+            "date": "2015-01-28T23:10:17.791Z", 
+            "text": "After several nerfs, Yasuo finnally reached the incredibly op win rate of \n44% on ranked games. Less than Ashe, less than Yorick. A great example of \nhow Riot can break broken champions into tiny pieces of uselessness, if \nsuch word exist.\ufeff", 
+            "author": "Bruce Wayne"
+        }, 
+        {
+            "date": "2015-01-28T18:18:08.384Z", 
+            "text": "Yasuo may be OP but not nowadays after his nerfs. Look at that Orianna she \ndid TONS OF DAMAGE after proccing Yasuo's shield.\n\nI played him once in a 3v5 (my 2 teammates afked) but we still have more \nkills than the enemy team, we just lost coz no one could split push but \nhell, he's strong. I fought a fed Panth with I think 4 good items and I \nhave just Statik and Infinity Edge and Bloodthirster and well, Panth got \nwrecked but hes nerfed now\ufeff", 
+            "author": "Camille Angeli Opis"
+        }, 
+        {
+            "date": "2015-01-27T12:47:10.718Z", 
+            "text": "YASUO 3\ufeff", 
+            "author": "Samuele Biundo"
+        }, 
+        {
+            "date": "2015-01-27T02:15:27.295Z", 
+            "text": "Yasuo supp is op i mained him mid and carried almost all my games now i \nmain him supp and carry all my games plsmy adc gets fed just farm late and \nstart relic sheild\ufeff", 
+            "author": "Steven Rivas"
+        }, 
+        {
+            "date": "2015-01-25T04:24:07.932Z", 
+            "text": "3:29 LOL i couldn't stop laughing xD \ufeff", 
+            "author": "CLam C"
+        }, 
+        {
+            "date": "2015-01-24T23:23:59.931Z", 
+            "text": "Yasuo is amazing but riot must remove tryndamere\ufeff", 
+            "author": "Rony Ni"
+        }, 
+        {
+            "date": "2015-04-04T20:48:33.163Z", 
+            "text": "But, why? He's the president of Riot. Are u mad men?", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-01-23T17:17:00.585Z", 
+            "text": "False advertising, you can't get 100% crit on yasuo, I got 98% and that's \nabout it. Refund plz.\ufeff", 
+            "author": "Cpt.Drew"
+        }, 
+        {
+            "date": "2015-01-21T14:39:24.229Z", 
+            "text": "BEST OP EVER\ufeff", 
+            "author": "Ilija Kostic"
+        }, 
+        {
+            "date": "2015-01-19T03:46:26.037Z", 
+            "text": "Let's be real, anyone who says Yasuo is broken is just bad at the actual \ngame.\ufeff", 
+            "author": "ShadowKimchiCake"
+        }, 
+        {
+            "date": "2015-01-18T18:37:18.152Z", 
+            "text": "Yea wind wall puts braums shield to shame\ufeff", 
+            "author": "BiffySpunks"
+        }, 
+        {
+            "date": "2015-01-17T17:29:33.547Z", 
+            "text": "The fuck is up with that splash icon at 2:16 ..?\ufeff", 
+            "author": "Bebireal"
+        }, 
+        {
+            "date": "2015-01-17T16:56:54.084Z", 
+            "text": "Riot games whatever idiotic complains you hear from haters of yasuo saying \nhe's ''broken'' do NOT delete him \nThis champion is one of the best champions you have ever releashed and its \nfun to play with great abilities and mechanics\ufeff", 
+            "author": "Stam Xd"
+        }, 
+        {
+            "date": "2015-01-15T15:19:59.926Z", 
+            "text": "Yasuo have disadvantage against melee-combat champion, such as Garen and \nMordekaiser. Although his AD are powerful, his Defense's not that great. \nSo, what build would you recommend Yasuo to get an advantage of both Melee \nand Skillshot?\ufeff", 
+            "author": "Vinh Nguyen"
+        }, 
+        {
+            "date": "2015-01-15T07:42:09.723Z", 
+            "text": "i need more 60 ip for yasuo\ufeff", 
+            "author": "luka perajica"
+        }, 
+        {
+            "date": "2015-01-15T07:40:33.168Z", 
+            "text": "thx for champion spotlight it will help me a loot\ufeff", 
+            "author": "luka perajica"
+        }, 
+        {
+            "date": "2015-01-14T15:04:44.310Z", 
+            "text": "Stopp\ufeff", 
+            "author": "TheGabriGamer& Androcraft"
+        }, 
+        {
+            "date": "2015-01-11T15:12:48.614Z", 
+            "text": "Where's the runes???? I need runes for yasuo\n\ufeff", 
+            "author": "MrStab Gaming #TF2"
+        }, 
+        {
+            "date": "2015-05-09T16:23:54.665Z", 
+            "text": "+MrStab Gaming #TF2 mine are: Reds: 5 crit, 4 ad - Yellows: 8 ar (hp if \naginst mage) , 1 crit - Blues: 9 mrs (maybe scaling mr would be better) - \nQuints: 3 ads", 
+            "author": "Thirustime - \"Is it May 19th yet?\" \"No.\" \"Then fuck off.\""
+        }, 
+        {
+            "date": "2015-01-11T06:08:33.767Z", 
+            "text": "Umm they removed 10% of the doublec crit chance now :/ so i get trinity \nforce for this\ufeff", 
+            "author": "Patrick Joshua Llido Ganotisi"
+        }, 
+        {
+            "date": "2015-01-10T19:57:40.046Z", 
+            "text": "Someone please help me. When i use Yasuos E he does not instantly dash \nthere where I am pointing at, instead this circle around him appears which \nshows the range of his E and then I shall target something, it is not this \ninstant dash I am always forced to select a target which costs time. \nSomeone please tell me why this happens and how can I change that Thank you \n:)\ufeff", 
+            "author": "that Guy"
+        }, 
+        {
+            "date": "2015-01-11T19:48:09.727Z", 
+            "text": "smart cast", 
+            "author": "Max Hjarpe"
+        }, 
+        {
+            "date": "2015-01-09T06:07:32.000Z", 
+            "text": "As a Vel'Koz mid main I think they should change his wind wall to just make \nranged attacks do less damage but not block them altogether\ufeff", 
+            "author": "Lucas Fer"
+        }, 
+        {
+            "date": "2015-01-08T00:52:49.164Z", 
+            "text": "I always miss the tornado when using Yasuo\ufeff", 
+            "author": "Jingpeng Xu"
+        }, 
+        {
+            "date": "2015-01-07T08:46:36.875Z", 
+            "text": "Yasuo is anti-fun to play against if your a skillshot based champion . . . \nbut he is fun as *HELL* to play XD\ufeff", 
+            "author": "ZTPDrake7Kid"
+        }, 
+        {
+            "date": "2015-04-04T20:54:19.535Z", 
+            "text": "+The Creator Tell me about it, I underestimated a Viktor once after owning \nthe hell out of 3 Viktors, so I got kind of cocky, turns out rest didn't \nknow jackshit about Viktor and this one was used to Viktor and played Yasuo \nfor a while just enough to understand him, I got owned from his Gravity \nField so I just racked up CS instead (He was still CS'ing, don't get me \nwrong)", 
+            "author": "Real Original User Name"
+        }, 
+        {
+            "date": "2015-03-14T20:19:08.469Z", 
+            "text": "+The Creator When i see an enemy yasuo:i pick viktor or swain", 
+            "author": "Marcus Mgodioso"
+        }, 
+        {
+            "date": "2015-03-13T21:57:08.094Z", 
+            "text": "I disagree.  Yasuo takes knowledge to play against, in my opinion, and you \nneed to alter your play style.  For example, Yasuo can make any noob at \nViktor his bitch.  But if the Viktor is experienced and knows what he's \ndoing, he's actually considered one of Yasuo's hardest opponents.", 
+            "author": "The Creator"
+        }, 
+        {
+            "date": "2015-03-09T00:12:28.881Z", 
+            "text": "+ZTPDrake7Kid so true man....even if xerath i cant handle skilled yasuos \nbut he is really fun", 
+            "author": "nick bio"
+        }, 
+        {
+            "date": "2015-02-06T03:48:05.487Z", 
+            "text": "That's too true. xD", 
+            "author": "Udyr with a Cherry on top"
+        }, 
+        {
+            "date": "2015-01-07T02:54:36.210Z", 
+            "text": "", 
+            "author": "General Dave"
+        }, 
+        {
+            "date": "2015-01-05T15:00:57.513Z", 
+            "text": "Yasuo = airbender\nNamie = waterbender\nVladimir = bloodbender\nMordekaiser = metalbender\nRammus = earthbender\nAnnie = firebender\ufeff", 
+            "author": "MORDOMIKE"
+        }, 
+        {
+            "date": "2015-05-01T15:07:39.140Z", 
+            "text": "Zyra = plantbender\nAzir = sandbender \nI guess u need to add this heroes XD", 
+            "author": "Jon Lemuel Mendoza"
+        }, 
+        {
+            "date": "2015-04-27T12:50:25.581Z", 
+            "text": "+MORDOMIKE ZAC-goobender", 
+            "author": "Dolores Pa\u017eameta"
+        }, 
+        {
+            "date": "2015-04-16T02:16:42.844Z", 
+            "text": "Draven = Dravenbender", 
+            "author": "David Rao"
+        }, 
+        {
+            "date": "2015-04-14T03:45:53.555Z", 
+            "text": "+MORDOMIKE Zed = Shadowbender", 
+            "author": "Newbius93"
+        }, 
+        {
+            "date": "2015-04-13T05:42:08.315Z", 
+            "text": "trundle icebender", 
+            "author": "_eXTremesxe GG"
+        }, 
+        {
+            "date": "2015-03-17T04:29:15.896Z", 
+            "text": "+Zyrxx94 His ultimate Tremors is kinda like it.", 
+            "author": "JasonKaroshi"
+        }, 
+        {
+            "date": "2015-03-16T14:33:50.624Z", 
+            "text": "+Ava Bargo talaga? Dapat sinapak mo!", 
+            "author": "Bless Herrera"
+        }, 
+        {
+            "date": "2015-03-15T05:39:06.766Z", 
+            "text": "nanay mo tig bender", 
+            "author": "Ava Bargo"
+        }, 
+        {
+            "date": "2015-03-09T00:13:50.401Z", 
+            "text": "+Jathax haahahahhahhaahah i laughed so hard", 
+            "author": "nick bio"
+        }, 
+        {
+            "date": "2015-02-24T19:17:02.332Z", 
+            "text": "Thresh Soulbender", 
+            "author": "MrGameGlicher"
+        }, 
+        {
+            "date": "2015-02-05T16:01:41.406Z", 
+            "text": "javanna airbender", 
+            "author": "NoVer Stronger"
+        }, 
+        {
+            "date": "2015-02-04T01:06:23.046Z", 
+            "text": "+CharmJesters Nah, he's part of the Street Fighters. Q = Hadouken", 
+            "author": "RedBirdieBird"
+        }, 
+        {
+            "date": "2015-02-01T01:15:29.283Z", 
+            "text": "Brand should be the fire bender", 
+            "author": "CharmJesters"
+        }, 
+        {
+            "date": "2015-01-22T20:00:35.519Z", 
+            "text": "yes", 
+            "author": "Meer mer"
+        }, 
+        {
+            "date": "2015-01-21T10:11:40.829Z", 
+            "text": "taric = gender bender", 
+            "author": "MegaNerevar"
+        }, 
+        {
+            "date": "2015-01-14T02:47:20.196Z", 
+            "text": "because it waqs copied and pasted 2# calm tf down bruh +Zyrxx94 ", 
+            "author": "MORDOMIKE"
+        }, 
+        {
+            "date": "2015-01-13T04:33:48.914Z", 
+            "text": "how the fuck is rammus an earthbender? malph is a earthbender if anyone", 
+            "author": "Zyrxx94"
+        }, 
+        {
+            "date": "2015-01-13T00:29:59.138Z", 
+            "text": "Malphite is earthbender, Brand is lavabender.", 
+            "author": "SnappyK9"
+        }, 
+        {
+            "date": "2015-01-12T14:34:09.648Z", 
+            "text": "Taric = bender.", 
+            "author": "Jathax"
+        }, 
+        {
+            "date": "2015-01-09T15:22:06.405Z", 
+            "text": "Yea true true +laney moore\u200b", 
+            "author": "MORDOMIKE"
+        }, 
+        {
+            "date": "2015-01-04T23:06:18.000Z", 
+            "text": "Jeez his voice sounds exact the same as Vincent Law. \ufeff", 
+            "author": "Prince Ghidorah"
+        }, 
+        {
+            "date": "2015-01-04T19:55:44.525Z", 
+            "text": "Does anyone know what \"Hasagi\" actually means? (his tornado Q)\ufeff", 
+            "author": "Darth Muffin"
+        }, 
+        {
+            "date": "2015-01-26T09:24:50.738Z", 
+            "text": "i found it in his lore of yas quotes\nand Aseryo=are u ready to die?", 
+            "author": "Stef Peri"
+        }, 
+        {
+            "date": "2015-01-26T00:58:03.041Z", 
+            "text": "Thank You :) as a Yasuo main i should probably know this XD", 
+            "author": "Darth Muffin"
+        }, 
+        {
+            "date": "2015-01-26T00:55:33.708Z", 
+            "text": "End of the blade", 
+            "author": "Stef Peri"
+        }, 
+        {
+            "date": "2015-01-07T20:56:41.084Z", 
+            "text": "Something like \"son\" or \"revenge\" dont know anymore but you can find it in \nthe lolwiki yasuo page :)", 
+            "author": "NightcoreAnimeLoLAssassinPlayer"
+        }, 
+        {
+            "date": "2015-01-02T19:27:29.108Z", 
+            "text": "no runes?\ufeff", 
+            "author": "Philosofic Lion"
+        }, 
+        {
+            "date": "2015-01-02T05:28:55.868Z", 
+            "text": "Can anyone please gift this champion to me. I would really love to get him \nbut my parents will not let me get rp to buy him and I cannot save up \nenough ip because I always end up blowing all my ip on a cheap champion or \nrunes. My ingame name is dsfreakdude. \ufeff", 
+            "author": "Poky Parachute"
+        }, 
+        {
+            "date": "2014-12-30T04:54:55.005Z", 
+            "text": "yasuo is balanced imo. he's hard to play in competitive play against alot \nof focus and cc\ufeff", 
+            "author": "John Henry Mejia"
+        }, 
+        {
+            "date": "2014-12-29T09:30:02.399Z", 
+            "text": "These nerfs on Yasuo are kind of balanced in some ways. I think they did a \ngood job nerfing his health and dashes as well as his shield and crit it \nwas pretty op on how you could just recharge your shield by dashing around. \nHe is now easily more counterable and more easy to harass against due to \nhis REALLY low starting health. With these nerfs they also kept some of his \nmain team fighting and lane potential alive, meaning he is still a HUGE \npresence in team fights as well as noticable presence in lane. As long as \nhe can still hold his ground in lane, Im fine with these nerfs as a Yasuo \nplayer.\ufeff", 
+            "author": "Baby Duck"
+        }, 
+        {
+            "date": "2014-12-29T03:16:19.004Z", 
+            "text": "http://christmas.riotpromotions.com/5Ke4mY click here for free rp points\ufeff", 
+            "author": "hatethispart"
+        }
+    ]
+}

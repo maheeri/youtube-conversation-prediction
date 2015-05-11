@@ -1,0 +1,1228 @@
+{
+    "publish_date": "2013-05-13T12:00:41.000Z", 
+    "video_length": "PT5M59S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: Well, we&#39;re going\nto talk about illegal numbers.", 
+            "dur": "2.25", 
+            "start": "0.29"
+        }, 
+        {
+            "text": "And when I heard that there\nwere these things, illegal", 
+            "dur": "2.72", 
+            "start": "2.54"
+        }, 
+        {
+            "text": "numbers, that some numbers were\nillegal, I was shocked", 
+            "dur": "3.96", 
+            "start": "5.26"
+        }, 
+        {
+            "text": "and surprised as well.", 
+            "dur": "2.91", 
+            "start": "9.22"
+        }, 
+        {
+            "text": "Today, in the modern world,\nnumbers are used as keys to", 
+            "dur": "4.42", 
+            "start": "12.13"
+        }, 
+        {
+            "text": "encrypt secret information.", 
+            "dur": "2.1", 
+            "start": "16.55"
+        }, 
+        {
+            "text": "They&#39;re used to encrypt or\nprotect DVDs as well, so that", 
+            "dur": "4.14", 
+            "start": "18.65"
+        }, 
+        {
+            "text": "you can&#39;t illegally copy\nfilms off a DVD.", 
+            "dur": "3.3", 
+            "start": "22.79"
+        }, 
+        {
+            "text": "You need to protect\nthose keys.", 
+            "dur": "1.63", 
+            "start": "26.09"
+        }, 
+        {
+            "text": "So if you distribute those\nsecret keys, those secret", 
+            "dur": "2.9", 
+            "start": "27.72"
+        }, 
+        {
+            "text": "numbers, this is\na real problem.", 
+            "dur": "3.4", 
+            "start": "30.62"
+        }, 
+        {
+            "text": "And some people are claiming\nthat it would be illegal to", 
+            "dur": "3.3", 
+            "start": "34.02"
+        }, 
+        {
+            "text": "distribute those numbers.", 
+            "dur": "2.14", 
+            "start": "37.32"
+        }, 
+        {
+            "text": "And so it&#39;s the number itself\nthat becomes illegal.", 
+            "dur": "3.69", 
+            "start": "39.46"
+        }, 
+        {
+            "text": "And there are some other\nproblems as well because you", 
+            "dur": "2.86", 
+            "start": "43.15"
+        }, 
+        {
+            "text": "can consider a digital\nphotograph or a computer", 
+            "dur": "2.82", 
+            "start": "46.01"
+        }, 
+        {
+            "text": "program as simply as a string\nof binary digits.", 
+            "dur": "2.91", 
+            "start": "48.83"
+        }, 
+        {
+            "text": "And then a string of binary\ndigits is a number.", 
+            "dur": "3.58", 
+            "start": "51.74"
+        }, 
+        {
+            "text": "So there is a number\nfor a photograph", 
+            "dur": "2.84", 
+            "start": "55.32"
+        }, 
+        {
+            "text": "or a computer program.", 
+            "dur": "1.62", 
+            "start": "58.16"
+        }, 
+        {
+            "text": "So if you distribute the number,\nyou could sort of work", 
+            "dur": "3.412", 
+            "start": "59.78"
+        }, 
+        {
+            "text": "out the original computer\nprogram or the image.", 
+            "dur": "3.113", 
+            "start": "63.192"
+        }, 
+        {
+            "text": "And if that&#39;s an illegal\ncomputer program that&#39;s", 
+            "dur": "2.595", 
+            "start": "66.305"
+        }, 
+        {
+            "text": "hacking data, then does the\nnumber become illegal itself?", 
+            "dur": "6.31", 
+            "start": "68.9"
+        }, 
+        {
+            "text": "To show you the problem, I\nthought, I don&#39;t want to write", 
+            "dur": "2.73", 
+            "start": "75.21"
+        }, 
+        {
+            "text": "down any illegal numbers\nin this video.", 
+            "dur": "1.78", 
+            "start": "77.94"
+        }, 
+        {
+            "text": "So I thought I&#39;d come up\nwith my own example.", 
+            "dur": "2.92", 
+            "start": "79.72"
+        }, 
+        {
+            "text": "So imagine if we decide\nto trademark the name", 
+            "dur": "3.44", 
+            "start": "82.64"
+        }, 
+        {
+            "text": "Numberphile.", 
+            "dur": "0.96", 
+            "start": "86.08"
+        }, 
+        {
+            "text": "So we&#39;re going to write down\nNumberphile first of all.", 
+            "dur": "2.27", 
+            "start": "87.04"
+        }, 
+        {
+            "text": "I&#39;m going to use capital letters\nbecause I like the", 
+            "dur": "2.18", 
+            "start": "89.31"
+        }, 
+        {
+            "text": "number we got at\nthe end better.", 
+            "dur": "1.38", 
+            "start": "91.49"
+        }, 
+        {
+            "text": "So I&#39;m going to use capital\nletters for Numberphile.", 
+            "dur": "2.67", 
+            "start": "92.87"
+        }, 
+        {
+            "text": "I&#39;ve written out the\nword Numberphile.", 
+            "dur": "2.46", 
+            "start": "95.54"
+        }, 
+        {
+            "text": "Now, each character in ASCII has\na binary representation.", 
+            "dur": "4.81", 
+            "start": "98"
+        }, 
+        {
+            "text": "So let&#39;s do that.", 
+            "dur": "0.8", 
+            "start": "102.81"
+        }, 
+        {
+            "text": "So for the capital\nN, 01001110.", 
+            "dur": "5.73", 
+            "start": "103.61"
+        }, 
+        {
+            "text": "And now I can do it up\nfor the U as well.", 
+            "dur": "1.83", 
+            "start": "109.34"
+        }, 
+        {
+            "text": "But I&#39;d better get them right.", 
+            "dur": "2.05", 
+            "start": "111.17"
+        }, 
+        {
+            "text": "You know they&#39;ll notice.", 
+            "dur": "1.635", 
+            "start": "113.22"
+        }, 
+        {
+            "text": "The H, 0101.", 
+            "dur": "4.315", 
+            "start": "114.855"
+        }, 
+        {
+            "text": "Whoo.", 
+            "dur": "0.8", 
+            "start": "119.17"
+        }, 
+        {
+            "text": "So that&#39;s Numberphile written\nas a binary string.", 
+            "dur": "3.3", 
+            "start": "119.97"
+        }, 
+        {
+            "text": "So if we joined all that\ntogether, that&#39;s just one big", 
+            "dur": "2.64", 
+            "start": "123.27"
+        }, 
+        {
+            "text": "binary number.", 
+            "dur": "1.77", 
+            "start": "125.91"
+        }, 
+        {
+            "text": "Do you want to know what\nthat number is?", 
+            "dur": "1.91", 
+            "start": "127.68"
+        }, 
+        {
+            "text": "So that number in\ndecimal is 94--", 
+            "dur": "3.88", 
+            "start": "129.59"
+        }, 
+        {
+            "text": "040--", 
+            "dur": "1.41", 
+            "start": "133.47"
+        }, 
+        {
+            "text": "177.", 
+            "dur": "2.68", 
+            "start": "134.88"
+        }, 
+        {
+            "text": "So this is Numberphile\nwritten as a number,", 
+            "dur": "4.54", 
+            "start": "137.56"
+        }, 
+        {
+            "text": "the Numberphile number.", 
+            "dur": "1.82", 
+            "start": "142.1"
+        }, 
+        {
+            "text": "And if I catch any of you\ndistributing this number about", 
+            "dur": "3.81", 
+            "start": "143.92"
+        }, 
+        {
+            "text": "on the internet, right, you&#39;re\ninfringing our trademark, OK?", 
+            "dur": "5.1", 
+            "start": "147.73"
+        }, 
+        {
+            "text": "Don&#39;t let me catch\nyou doing that.", 
+            "dur": "2.01", 
+            "start": "152.83"
+        }, 
+        {
+            "text": "There is a serious problem.", 
+            "dur": "1.23", 
+            "start": "154.84"
+        }, 
+        {
+            "text": "So I&#39;m a mathematician,\nnot a lawyer.", 
+            "dur": "1.74", 
+            "start": "156.07"
+        }, 
+        {
+            "text": "I can&#39;t talk about the full\nimplications of this.", 
+            "dur": "3.28", 
+            "start": "157.81"
+        }, 
+        {
+            "text": "I&#39;m hoping that I am giving\nyou the extreme case, a", 
+            "dur": "3.72", 
+            "start": "161.09"
+        }, 
+        {
+            "text": "simplified extreme case.", 
+            "dur": "1.82", 
+            "start": "164.81"
+        }, 
+        {
+            "text": "But at the very least, this is\nwhat we&#39;re trying to avoid,", 
+            "dur": "2.77", 
+            "start": "166.63"
+        }, 
+        {
+            "text": "that numbers themselves\nbecome illegal.", 
+            "dur": "2.93", 
+            "start": "169.4"
+        }, 
+        {
+            "text": "That&#39;s what we&#39;re trying to\navoid because the implications", 
+            "dur": "3.4", 
+            "start": "172.33"
+        }, 
+        {
+            "text": "of it are bizarre.", 
+            "dur": "1.77", 
+            "start": "175.73"
+        }, 
+        {
+            "text": "So you can&#39;t distribute\nthese illegal numbers.", 
+            "dur": "3.08", 
+            "start": "177.5"
+        }, 
+        {
+            "text": "But then can you distribute\nthe number minus 1?", 
+            "dur": "3.83", 
+            "start": "180.58"
+        }, 
+        {
+            "text": "Or if I write down a list of\nnumbers where some of them are", 
+            "dur": "3.02", 
+            "start": "184.41"
+        }, 
+        {
+            "text": "illegal, am I allowed to\ndistribute that list?", 
+            "dur": "3.95", 
+            "start": "187.43"
+        }, 
+        {
+            "text": "I hope that it&#39;s distributing\nthe number and the intent to", 
+            "dur": "5.24", 
+            "start": "191.38"
+        }, 
+        {
+            "text": "infringe copyright.", 
+            "dur": "1.21", 
+            "start": "196.62"
+        }, 
+        {
+            "text": "But the extreme case is what\nwe&#39;re trying to avoid.", 
+            "dur": "3.99", 
+            "start": "197.83"
+        }, 
+        {
+            "text": "It has become a problem.", 
+            "dur": "1.65", 
+            "start": "201.82"
+        }, 
+        {
+            "text": "In recent years, there have been\na couple of cases where", 
+            "dur": "3.56", 
+            "start": "203.47"
+        }, 
+        {
+            "text": "people like Sony have sued\npeople for distributing their", 
+            "dur": "5.16", 
+            "start": "207.03"
+        }, 
+        {
+            "text": "secret encryption keys for\ntheir PlayStation 3.", 
+            "dur": "3.51", 
+            "start": "212.19"
+        }, 
+        {
+            "text": "And the Motion Picture\nAssociation of America have", 
+            "dur": "5.09", 
+            "start": "215.7"
+        }, 
+        {
+            "text": "forced people to remove posts\nthat were encryption keys for", 
+            "dur": "3.92", 
+            "start": "220.79"
+        }, 
+        {
+            "text": "their DVDs, which people were\nusing to illegally copy DVDs.", 
+            "dur": "5.69", 
+            "start": "224.71"
+        }, 
+        {
+            "text": "This annoyed the internet.", 
+            "dur": "1.95", 
+            "start": "230.4"
+        }, 
+        {
+            "text": "Ah, the internet-- this\nannoyed them.", 
+            "dur": "2.35", 
+            "start": "232.35"
+        }, 
+        {
+            "text": "So then they started to\ntaunt these people.", 
+            "dur": "3.15", 
+            "start": "234.7"
+        }, 
+        {
+            "text": "So what they started\nto do next is they", 
+            "dur": "1.58", 
+            "start": "237.85"
+        }, 
+        {
+            "text": "would take these numbers.", 
+            "dur": "1.53", 
+            "start": "239.43"
+        }, 
+        {
+            "text": "And to taunt, they would then\nturn these numbers into", 
+            "dur": "2.95", 
+            "start": "240.96"
+        }, 
+        {
+            "text": "hexadecimal.", 
+            "dur": "1.59", 
+            "start": "243.91"
+        }, 
+        {
+            "text": "And hexadecimal defines\ncolors as well.", 
+            "dur": "3.66", 
+            "start": "245.5"
+        }, 
+        {
+            "text": "So then they become\nillegal colors.", 
+            "dur": "2.02", 
+            "start": "249.16"
+        }, 
+        {
+            "text": "If I do this for Numberphile--", 
+            "dur": "1.39", 
+            "start": "251.18"
+        }, 
+        {
+            "text": "I&#39;ve worked this out already.", 
+            "dur": "1.75", 
+            "start": "252.57"
+        }, 
+        {
+            "text": "This number, which is 94\nseptillion and something, if I", 
+            "dur": "6.5", 
+            "start": "254.32"
+        }, 
+        {
+            "text": "write it in hexadecimal--", 
+            "dur": "1.89", 
+            "start": "260.82"
+        }, 
+        {
+            "text": "5D--", 
+            "dur": "1.25", 
+            "start": "262.71"
+        }, 
+        {
+            "text": "4, 2--", 
+            "dur": "0.47", 
+            "start": "266.97"
+        }, 
+        {
+            "text": "42, 4, 5--", 
+            "dur": "3.17", 
+            "start": "267.44"
+        }, 
+        {
+            "text": "so this is the Numberphile\nnumber written as hexadecimal.", 
+            "dur": "3.98", 
+            "start": "270.61"
+        }, 
+        {
+            "text": "Now, these groups here\ndefine a color.", 
+            "dur": "3.41", 
+            "start": "274.59"
+        }, 
+        {
+            "text": "Each of those groups define a\ncolor, and then we&#39;ve got a", 
+            "dur": "2.39", 
+            "start": "278"
+        }, 
+        {
+            "text": "little bit extra.", 
+            "dur": "1.45", 
+            "start": "280.39"
+        }, 
+        {
+            "text": "So what you can do then is you\ncan make something like this.", 
+            "dur": "4.13", 
+            "start": "281.84"
+        }, 
+        {
+            "text": "So these are the three colors\ndefined by the Numberphile", 
+            "dur": "4.69", 
+            "start": "285.97"
+        }, 
+        {
+            "text": "number plus that little\nextra bit.", 
+            "dur": "2.95", 
+            "start": "290.66"
+        }, 
+        {
+            "text": "And then if you start posting\nthis around on internet", 
+            "dur": "3.9", 
+            "start": "293.61"
+        }, 
+        {
+            "text": "forums, again, you&#39;ll be\ninfringing our trademark, and", 
+            "dur": "4.04", 
+            "start": "297.51"
+        }, 
+        {
+            "text": "we&#39;ll be round to come\nround your house.", 
+            "dur": "2.86", 
+            "start": "301.55"
+        }, 
+        {
+            "text": "And we&#39;re going to stamp on\nall your favorite toys.", 
+            "dur": "2.46", 
+            "start": "304.41"
+        }, 
+        {
+            "text": "So I don&#39;t want to catch\nany of you doing that.", 
+            "dur": "4.24", 
+            "start": "306.87"
+        }, 
+        {
+            "text": "BRADY HARAN: So here are some\nof those taunting protests", 
+            "dur": "3.44", 
+            "start": "311.11"
+        }, 
+        {
+            "text": "that James referred\nto in the video.", 
+            "dur": "2.4", 
+            "start": "314.55"
+        }, 
+        {
+            "text": "These are colored flags based\non the DVD and PlayStation", 
+            "dur": "4.35", 
+            "start": "316.95"
+        }, 
+        {
+            "text": "encoding numbers.", 
+            "dur": "1.2", 
+            "start": "321.3"
+        }, 
+        {
+            "text": "Of course, another issue we\ndidn&#39;t touch on this video", 
+            "dur": "2.24", 
+            "start": "322.5"
+        }, 
+        {
+            "text": "surrounds copyrighting\nof numbers like pi.", 
+            "dur": "2.34", 
+            "start": "324.74"
+        }, 
+        {
+            "text": "And there&#39;s a lot of stories\ninvolving that, too.", 
+            "dur": "2.53", 
+            "start": "327.08"
+        }, 
+        {
+            "text": "Maybe we&#39;ll talk about\nthat another time.", 
+            "dur": "2.18", 
+            "start": "329.61"
+        }, 
+        {
+            "text": "A quick thanks to James Clewett,\nwho actually turned", 
+            "dur": "2.85", 
+            "start": "331.79"
+        }, 
+        {
+            "text": "the Mona Lisa into zeros\nand ones for me.", 
+            "dur": "2.96", 
+            "start": "334.64"
+        }, 
+        {
+            "text": "And if you&#39;d like to read more\nabout that, I&#39;ll put a link in", 
+            "dur": "2.79", 
+            "start": "337.6"
+        }, 
+        {
+            "text": "the video description.", 
+            "dur": "1.73", 
+            "start": "340.39"
+        }, 
+        {
+            "text": "And lastly, because we&#39;re a\nlot more relaxed about our", 
+            "dur": "2.575", 
+            "start": "342.12"
+        }, 
+        {
+            "text": "illegal numbers here at\nNumberphile, James Grime and I", 
+            "dur": "2.725", 
+            "start": "344.695"
+        }, 
+        {
+            "text": "have put that piece of paper\nused in the video on eBay in", 
+            "dur": "3.19", 
+            "start": "347.42"
+        }, 
+        {
+            "text": "case anyone wants to get\ntheir hands on it.", 
+            "dur": "1.89", 
+            "start": "350.61"
+        }, 
+        {
+            "text": "Again, links in the\nvideo description.", 
+            "dur": "2.83", 
+            "start": "352.5"
+        }, 
+        {
+            "text": "Thanks for watching.", 
+            "dur": "1.13", 
+            "start": "355.33"
+        }, 
+        {
+            "text": "And we&#39;ll be back with\nmore videos soon.", 
+            "dur": "1.25", 
+            "start": "356.46"
+        }
+    ], 
+    "title": "Illegal Numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02qjsn_", 
+        "/m/05fwb"
+    ], 
+    "number_views": 1461321, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T23:00:56.024Z", 
+            "text": "Intent is everything\ufeff", 
+            "author": "rooneye"
+        }, 
+        {
+            "date": "2015-05-09T08:35:47.541Z", 
+            "text": "So now I will use the number of pi as my number. And now everyone who use \nthis number for he's purposes like counting the area of a circle or so one \nwill be punished. Do You see, what the problem is. If this will be, anyone \ncan say: x is a illegal number without saying, why, because then the secret \nwill be no secret more. Now everyone can say: x or y has not to be used for \nany purposes at all. It can't be, do You imagine why? Because then no one \ncan be sure that he use only legal numbers. And even with this example of \nthe number of \"Numberphile\" this will be so. But the next is: If You cannot \nuse the number then You cannot use the base itself. Also I cannot use the \nword \"numberphile\" itself. And then, if any othe say: \"bird\", or \"hunger\" \nis my word, You can't use the words ever. The same as the numbers. Then You \ncan't use any word sat all without being sure that they are all legal. The \ncomplete private possession of imaginations like numbers or words is - in \nmy mind - illegal itself. Despite of the fact that You can't punish all of \nthe people who use them, it's impossible. So there is not one number, who \nis real illegal.\ufeff", 
+            "author": "Gunther Troost"
+        }, 
+        {
+            "date": "2015-05-07T19:18:05.356Z", 
+            "text": "16335660547\n\nRight the answer in the comments for this post\ufeff", 
+            "author": "Daniel Barbet"
+        }, 
+        {
+            "date": "2015-05-07T09:52:49.778Z", 
+            "text": "In theory, shouldn't all trademarks be in the public domain since \nmathematics is excluded by the Berne convention of the World Intellectual \nProperty Organization and it most likely is somewhere in pi?\ufeff", 
+            "author": "Cheesyverse"
+        }, 
+        {
+            "date": "2015-05-07T09:26:59.552Z", 
+            "text": "Hmmm... Numbers cannot be illegal in themselves. They're just numbers.\nIt is the inappropriate USE of a number which may be illegal\ufeff", 
+            "author": "effyleven"
+        }, 
+        {
+            "date": "2015-05-06T17:38:01.817Z", 
+            "text": "Am I the only one who thought for a second that the title of the video is 3 \negal Numbers?\ufeff", 
+            "author": "kautheraw"
+        }, 
+        {
+            "date": "2015-05-05T04:58:11.725Z", 
+            "text": "pi is illegal cuz it contains all numbers?\ufeff", 
+            "author": "What'a'nerd"
+        }, 
+        {
+            "date": "2015-05-05T00:45:34.546Z", 
+            "text": "the smallest copyrighted code I found was \n\"IEFBR14 START\nUSING IEFBR14,15\nBR GO\nDC AL1(L'ID)\nID DC C'IEFBR14'\nDS 0H\nGO SR 15,15\nBR 14\nEND IEFBR14\"\nwhich ends up being 110 bytes. Even this smallest code would be 264 digits \nlong. there's not much chance you'll stumble on this by accident\ufeff", 
+            "author": "Austin Anderson"
+        }, 
+        {
+            "date": "2015-05-05T00:43:35.073Z", 
+            "text": "94699040255592155765623877. Time to post that on twitter\ufeff", 
+            "author": "Ian Darby"
+        }, 
+        {
+            "date": "2015-05-03T03:18:40.484Z", 
+            "text": "\u2508\u2508\u250f\u2501\u256e\u256d\u2501\u2513\u2508\u256d\u2501\u2501\u2501\u2501\u256e\n\u2508\u2508\u2503\u250f\u2517\u251b\u2513\u2503\u256d\u252b\u24de\u24d8\u24dd\u24da\u2503\n\u2508\u2508\u2570\u2513\u258b\u258b\u250f\u256f\u256f\u2570\u2501\u2501\u2501\u2501\u256f\n\u2508\u256d\u2501\u253b\u256e\u2572\u2517\u2501\u2501\u2501\u2501\u256e\u256d\u256e\u2508\n\u2508\u2503\u258e\u258e\u2503\u2572\u2572\u2572\u2572\u2572\u2572\u2523\u2501\u256f\u2508\n\u2508\u2570\u2501\u2533\u253b\u2585\u256f\u2572\u2572\u2572\u2572\u2503\u2508\u2508\u2508\n\u2508\u2508\u2508\u2570\u2501\u2533\u2513\u250f\u2533\u2513\u250f\u256f\u2508\u2508\u2508\n\u2508\u2508\u2508\u2508\u2508\u2517\u253b\u251b\u2517\u253b\u251b\u2508\u2508\u2508\u2508\ufeff", 
+            "author": "jonathan kelly"
+        }, 
+        {
+            "date": "2015-04-30T17:45:33.173Z", 
+            "text": "When I saw the title \"Illegal Numbers\" I was hoping for numbers that have \nhistorically been outlawed.  This was interesting too, though.\ufeff", 
+            "author": "Jesse Wallis"
+        }, 
+        {
+            "date": "2015-04-27T23:33:20.114Z", 
+            "text": "Dr James Grime is quite a good name for a superhero nemesis. And also, he's \ngot the crazy learnings! Thanks for the subtle 'whoop' at 42 :-D\ufeff", 
+            "author": "McPrfctday"
+        }, 
+        {
+            "date": "2015-04-27T01:32:12.899Z", 
+            "text": "Welcome to the new age: https://youtu.be/wo19Y4tw0l8\ufeff", 
+            "author": "elicia clegg"
+        }, 
+        {
+            "date": "2015-04-26T22:58:41.581Z", 
+            "text": "Omg it's not YIAY\ufeff", 
+            "author": "Ace Jr. the COD Illuminati 360noscope lord"
+        }, 
+        {
+            "date": "2015-04-26T20:35:39.068Z", 
+            "text": "haha this is so cool!\ufeff", 
+            "author": "Neokiller333"
+        }, 
+        {
+            "date": "2015-04-25T19:42:21.551Z", 
+            "text": "whats the formula for generating binary code for objects.\ufeff", 
+            "author": "Nosakhare Nigie"
+        }, 
+        {
+            "date": "2015-04-25T09:16:39.031Z", 
+            "text": "94 699 060 255 592 155 765 623 877\n\nSay it with me rebels!\ufeff", 
+            "author": "SoulxReaper366"
+        }, 
+        {
+            "date": "2015-04-23T02:57:23.079Z", 
+            "text": "it bypass the key too\ufeff", 
+            "author": "The Gamer Center"
+        }, 
+        {
+            "date": "2015-04-23T02:57:09.812Z", 
+            "text": "movie is a visual video wtih audio a recoreding is a way of makeing a copy\ufeff", 
+            "author": "The Gamer Center"
+        }, 
+        {
+            "date": "2015-04-21T00:46:40.808Z", 
+            "text": "what is sophie as a number?\ufeff", 
+            "author": "Sheila Archfall (RJNI)"
+        }, 
+        {
+            "date": "2015-04-21T00:02:19.815Z", 
+            "text": "I just have this amusing thought of a government poster declaring an \nabsurdly long number illegal, and people just copy it down into their \nphones, plonk it into some program to turn it into binary and it's a \nprogram that does something nefarious.\ni mean, if i understand correctly, a number with that spacing is \nessentially a blueprint- put that number in the video into something that \nknows how to read it and it will, from that blueprint, give you the word \nnumberphile...\ufeff", 
+            "author": "spamhonx56"
+        }, 
+        {
+            "date": "2015-04-20T12:27:37.162Z", 
+            "text": "extra shiny today?\ufeff", 
+            "author": "Samuel Bernstein (beefcake311)"
+        }, 
+        {
+            "date": "2015-04-20T02:05:58.161Z", 
+            "text": "So by illegal numbers you just mean patented numbers?\ufeff", 
+            "author": "Ben Allen"
+        }, 
+        {
+            "date": "2015-04-19T09:54:46.872Z", 
+            "text": "its no 1011010 its lollolo :D\ufeff", 
+            "author": "CyberGaming Denmark"
+        }, 
+        {
+            "date": "2015-04-18T22:01:04.844Z", 
+            "text": "94 699 030 255 592 155 765 623 877\ufeff", 
+            "author": "vedant varma"
+        }, 
+        {
+            "date": "2015-04-18T13:10:48.516Z", 
+            "text": "94 699 30 255 592 155 765 623 87 911 420\ufeff", 
+            "author": "Hasan Clashing"
+        }, 
+        {
+            "date": "2015-04-17T18:59:39.529Z", 
+            "text": "", 
+            "author": "Patrick Bay"
+        }, 
+        {
+            "date": "2015-04-17T05:53:00.054Z", 
+            "text": "Nerd.\ufeff", 
+            "author": "TheCrackerGamer"
+        }, 
+        {
+            "date": "2015-04-17T04:10:54.852Z", 
+            "text": "It's a numberphile flag!\ufeff", 
+            "author": "Imperialpumpkin"
+        }, 
+        {
+            "date": "2015-04-17T03:28:29.373Z", 
+            "text": "so you take a file switch it to Binary then to Decimal minus one then to \nhexadecimal finally for kicks use Enigma for the Hexadecimal letters.\ufeff", 
+            "author": "Adam Peters"
+        }, 
+        {
+            "date": "2015-04-16T10:35:49.256Z", 
+            "text": "In short, the numbers are not illegals. Linking them with any other object \n(such as a dvd key, rss or whatsoever) might create an illegal statement.\nIn that aspect, the intention is more important than the materials. \nOtherwise, universe number would be forbidden. ;)\ufeff", 
+            "author": "Alex Rouge"
+        }, 
+        {
+            "date": "2015-04-16T03:46:33.598Z", 
+            "text": "While perhaps if they don't like people doing these things, then use \nanother computer language. (not like C++ or java, but an alternate from \nbinary and hexadecimal.)  You just merely create your own language that no \none knows apart from yourself, then make sure no one can easily decipher \nit. Game Over.\ufeff", 
+            "author": "Rai Breingan"
+        }, 
+        {
+            "date": "2015-04-16T04:01:20.411Z", 
+            "text": "+Rai Breingan Then create something like a converting device to change \nbinary, hexadecimal or whatever into your own language so you can take \nanything you want and change it into something nobody can have. I wonder if \nyou could own the rights to information/data that wasn't yours originally \nuntil you converted it into your own self create language, making it \nyours... No? (i'm just making assumptions, I actually don't know much at \nall about this stuff)", 
+            "author": "Rai Breingan"
+        }, 
+        {
+            "date": "2015-04-15T01:28:05.656Z", 
+            "text": "wtf weird\ufeff", 
+            "author": "The Mad Commenter"
+        }, 
+        {
+            "date": "2015-04-14T19:48:28.956Z", 
+            "text": "Numberphile...\nDoesn't the word \"phile\" mean something you love, or something like that?\nThe way he uses, his name means that he loves numbers?\nCorrect me if I'm wrong, please.\ufeff", 
+            "author": "Dean Kenneth Korstjens"
+        }, 
+        {
+            "date": "2015-04-13T22:35:33.337Z", 
+            "text": "There are 26 digits in the decimal version of the Numberphile number. \nTherefore the odds of a random 26-digit number having the same sequence as \nthe Numberphile number is one in 10^26.\n\nBut the digits of Pi are infinite and non-repeating, therefore the number \nPi contains within its digits an infinite number of 26-digit sequences that \nare identical to the Numberphile number.\n\nSo doesn't that mean the Numberphile number is already in the public \ndomain?   :-)\ufeff", 
+            "author": "mosquitobight"
+        }, 
+        {
+            "date": "2015-04-13T09:54:11.994Z", 
+            "text": "Thug life.\n\n94 699 040 255 592 155 765 623 877\ufeff", 
+            "author": "DJMasterTrack"
+        }, 
+        {
+            "date": "2015-04-12T17:52:36.160Z", 
+            "text": "copyrighting pi,....who is that much  dirty ???????????\ufeff", 
+            "author": "Hebu Dileep"
+        }, 
+        {
+            "date": "2015-04-12T16:38:32.181Z", 
+            "text": "", 
+            "author": "Illuminati Confirmed"
+        }, 
+        {
+            "date": "2015-04-11T03:36:58.125Z", 
+            "text": "Illegal Numbers - Numberphile: https://youtu.be/wo19Y4tw0l8\ufeff", 
+            "author": "Aiden Dally"
+        }, 
+        {
+            "date": "2015-04-10T00:31:33.787Z", 
+            "text": "This is illegal, you know.\ufeff", 
+            "author": "Naveek Darkroom"
+        }, 
+        {
+            "date": "2015-04-09T23:57:42.196Z", 
+            "text": "He messed up on the Hexadecimal. 4E55D can't define any color, as it has to \nhave 6 numbers/letters in it to do so. What symbol did he miss so he can \nget the greenish color?\ufeff", 
+            "author": "Demon Slayerelf"
+        }, 
+        {
+            "date": "2015-04-09T20:54:20.127Z", 
+            "text": "", 
+            "author": "Johnny Kendik"
+        }, 
+        {
+            "date": "2015-04-09T15:54:26.205Z", 
+            "text": "Subscribe me i'll subscribe back and dont forget to watch my video\ufeff", 
+            "author": "SMILE PLEASE"
+        }, 
+        {
+            "date": "2015-04-07T22:14:46.731Z", 
+            "text": "That Numberphile colour flag would be cool as a YouTube banner or \nsomething.\ufeff", 
+            "author": "MinecraftAddict"
+        }, 
+        {
+            "date": "2015-04-07T17:26:23.595Z", 
+            "text": "I`ve always been of the opinion that numbers should be illegal hehe, but \nthen again, anything more than 4 digits and the numbers start floating \nabout both on paper and inmy mind so yeah, dizzy again now.. (too \nfascinated to stop watching though. I`m actually subbing this channel :) )\ufeff", 
+            "author": "jan christian Frodahl"
+        }, 
+        {
+            "date": "2015-04-06T23:01:41.737Z", 
+            "text": "My instinct here, keeping in mind I'm not a mathematician nor a lawyer (ie, \ncan someone check this please?), would be that encryption keys would be \ndefined as \"a device or method by which certain data may be unlocked\", \nwhich looks suspiciously like a patent claim (ie, I would argue that the \ndifference between an encryption key and a physical one is none (and most \npeople just carry around their private keys in the open in an easily \nreadable format! How insecure!)). Patents operate by legally protecting the \npeople who publicly publish how their device works. If you don't publish, \nthat's a Trade Secret, which does not carry those same protections. \n\n... That would imply that patents and copyrights are equivalent?\n\nTrademarks, at least, work differently, but they come with release clauses \nand inherent subjectivity, so it would become almost trivial to break those \ntoo. \ufeff", 
+            "author": "Tor Diryc'Goyust"
+        }, 
+        {
+            "date": "2015-04-06T19:38:01.462Z", 
+            "text": "Hey guys write this down!\n\n94 699 060 255 592 155 765 623 877\n\nI kinda like this number for some reason, I think I'll sell shirts with \nthem on them!\ufeff", 
+            "author": "Edward Hall"
+        }, 
+        {
+            "date": "2015-04-05T15:24:28.612Z", 
+            "text": "Ok here is the Numberphile 'illegal number':\n94 699 040 255 592 155 765 623 877\ufeff", 
+            "author": "Dylan Ferguson"
+        }, 
+        {
+            "date": "2015-04-05T15:35:58.067Z", 
+            "text": "+Dylan Ferguson \n4E55D 424552 504849 4C45", 
+            "author": "Dylan Ferguson"
+        }, 
+        {
+            "date": "2015-04-20T14:10:30.000Z", 
+            "text": "N to Binary = 01001110 and to decimal = 78, not 94. I think :)\ufeff", 
+            "author": "Alexandre LANGLOIS"
+        }, 
+        {
+            "date": "2015-04-20T14:13:01.867Z", 
+            "text": "+Ashley Clarke Yes, that's what I said, implicitly... :-)", 
+            "author": "Alexandre LANGLOIS"
+        }, 
+        {
+            "date": "2015-04-11T23:52:10.989Z", 
+            "text": "+Alexandre LANGLOIS 94 = ^", 
+            "author": "Ashley Clarke"
+        }, 
+        {
+            "date": "2015-04-03T02:01:00.622Z", 
+            "text": "96 699 060 255 592 155 765 623 877 (Just kidding! XD)\ufeff", 
+            "author": "joujoubox"
+        }, 
+        {
+            "date": "2015-04-02T03:23:45.556Z", 
+            "text": "And then 21 becomes illegal\ufeff", 
+            "author": "DBRevolution Films"
+        }, 
+        {
+            "date": "2015-04-02T03:18:57.799Z", 
+            "text": "Theres no such thing as an \"illegal number\", it is the act of distributing \na Secret wich is illegal. If it was a secret Color, it would be the same \nthing.\ufeff", 
+            "author": "Osvaldo Boianover"
+        }, 
+        {
+            "date": "2015-04-01T09:57:30.225Z", 
+            "text": "If a number is *illegal* then it needs to be stated in a legal statute or \nAct of Parliament...\n\nBut once the Act is published there's a whole list of illegal numbers \npublicly available, tempting hackers to find out what they mean.  \n\nIn the meantime, I've now officially copyrighted the number 2018. In three \nyears time I'm going to be very rich!\ufeff", 
+            "author": "Mandolinic"
+        }, 
+        {
+            "date": "2015-03-31T15:32:22.190Z", 
+            "text": "Dammit Jim--I'm a mathematician, not a lawyer.\ufeff", 
+            "author": "Peg Y"
+        }, 
+        {
+            "date": "2015-03-31T15:19:41.944Z", 
+            "text": "\u00f70 AMAZING\ufeff", 
+            "author": "Henta Scrools"
+        }, 
+        {
+            "date": "2015-03-28T22:27:53.100Z", 
+            "text": "A number in an of itself cannot be illegal. You would also have to \ndistribute additional information about the number (this is a private key \nfor system X, this number renders as a jpeg of a image you don't have the \nrights for, etc...).\ufeff", 
+            "author": "TheMetadaemon"
+        }, 
+        {
+            "date": "2015-05-03T03:51:31.000Z", 
+            "text": "+TheMetadaemon While that would be certainly sensible, but I think you will \nfind our society is far to often very silly and not sensible. As a \nchemistry nerd, I will give you my example.\n\n\nI am not a terrorist, I don't have ties to terrorist groups or any intent \nto cause harm to anyone. Yet if I am found with say, ETN, without a permit, \nthen I am committing a crime. Does it have to be more than just the ETN? \nNo, they will definitely charge on just that. Same thing with illegal drugs.", 
+            "author": "MrLittlelawyer"
+        }, 
+        {
+            "date": "2015-05-03T03:37:58.679Z", 
+            "text": "+MrLittlelawyer It needs to be more than just the number. It's the likely \nuse of the number that determines it's legality. For example a number \nthat's found to represent an illegal image file on a computer would be \nillegal. The same number appearing in a complex mathematical equation for \npredicting earthquakes would be legal.", 
+            "author": "TheMetadaemon"
+        }, 
+        {
+            "date": "2015-05-03T03:12:19.060Z", 
+            "text": "+TheMetadaemon So possession of the number is illegal then?", 
+            "author": "MrLittlelawyer"
+        }, 
+        {
+            "date": "2015-03-28T16:23:11.525Z", 
+            "text": "These numbers aren't illegal at all. The use of them to gain access to \nrestricted content is. Publishing them with the information, what it is, If \nnot, every single charachter here must be illegal because it could be part \nof a password. \ufeff", 
+            "author": "Reen de Winter"
+        }, 
+        {
+            "date": "2015-03-28T15:17:17.830Z", 
+            "text": "94 699 040 255 592 155 765 623 877\ni sended this to all my frends on facebook\ncomme get me police fuckaz\ufeff", 
+            "author": "Syclone PK"
+        }, 
+        {
+            "date": "2015-04-13T02:20:35.470Z", 
+            "text": "So bad", 
+            "author": "Juben"
+        }, 
+        {
+            "date": "2015-04-12T23:00:53.253Z", 
+            "text": "+Syclone PK sended sended sended sended sended sended sended sended sended \nsended sended sended sended sended sended sended sended sended sended \nsended sended sended sended sended sended sended sended sended sended \nsended sended sended sended sended sended sended sended sended sended \nsended sended sended sended", 
+            "author": "ImWf"
+        }, 
+        {
+            "date": "2015-04-07T20:31:33.915Z", 
+            "text": "Good to know ;)", 
+            "author": "Syclone PK"
+        }, 
+        {
+            "date": "2015-04-01T15:24:01.202Z", 
+            "text": "*He never responded*", 
+            "author": "Vkrispies"
+        }, 
+        {
+            "date": "2015-03-28T01:25:56.073Z", 
+            "text": "I think copyright goes too far way too often.\none thing I'm thinking about is when they retire numbers from a sports team \nbecause a famous player with that number retires. to me that's just \nstrange.\ufeff", 
+            "author": "kairon156"
+        }, 
+        {
+            "date": "2015-03-27T04:31:03.604Z", 
+            "text": "One hexadecimal digit is missing for the letter M. The first 6 hex digits \nshould be 4E 55 4D.\ufeff", 
+            "author": "Paul Chang"
+        }, 
+        {
+            "date": "2015-03-26T13:33:23.716Z", 
+            "text": "Thank you for your beautiful videos.I am computer science student in \nUniversity of Leeds and also interested in mathematics.While I seeing your \nvideos on YouTube I found mathematics problems really enjoyable and \ndelightful and my vision towards science and mathematics changes,\ufeff", 
+            "author": "Ali Pakzad"
+        }, 
+        {
+            "date": "2015-03-25T00:50:20.086Z", 
+            "text": "Question, shouldn't the first hexidecimal \"color\" be 4E554D? You wrote is \n4E55D\ufeff", 
+            "author": "AJ TheUncriticalCritic"
+        }, 
+        {
+            "date": "2015-03-23T23:31:08.000Z", 
+            "text": "fuck the police *4E55D 424552 504849 4C45*\ufeff", 
+            "author": "Erick Rodriguez"
+        }, 
+        {
+            "date": "2015-03-23T22:24:18.974Z", 
+            "text": "I think he needs some powder.\ufeff", 
+            "author": "Real.Piece.Of.Work"
+        }, 
+        {
+            "date": "2015-03-23T19:56:58.055Z", 
+            "text": "57 52 32 54 57 57 32 48 52 48 32 50 53 53 32 53 57 50 32 49 53 53 32 55 54 \n53 32 54 50 51 32 56 55 55 \ufeff", 
+            "author": "zeromant80"
+        }, 
+        {
+            "date": "2015-03-23T00:12:34.839Z", 
+            "text": "Not illegal, but exclusive.  However, the number is worthless without \nknowing what it's purpose is.  Anyway, these numbers are so long the odds \nare very small that anyone would happen to use it for some other purpose.\ufeff", 
+            "author": "deezynar"
+        }, 
+        {
+            "date": "2015-03-22T19:05:43.959Z", 
+            "text": "I never realized that Brittish people don't say \"number\". They apparently \nsay \"noomba\".\ufeff", 
+            "author": "Dan L"
+        }, 
+        {
+            "date": "2015-04-24T06:01:56.806Z", 
+            "text": "+Dan L Depending whereabouts in Britain you are.", 
+            "author": "Stuart Gibbons"
+        }, 
+        {
+            "date": "2015-03-22T22:41:04.133Z", 
+            "text": "You learn something new everyday.", 
+            "author": "jjammmees"
+        }, 
+        {
+            "date": "2015-03-22T17:49:20.164Z", 
+            "text": "94,699,040,255,592,155,765,623,877\ufeff", 
+            "author": "Flaming Obsidian"
+        }, 
+        {
+            "date": "2015-03-22T05:10:05.537Z", 
+            "text": "1:59 That just looks like a bunch of lolololollolllllooololol\ufeff", 
+            "author": "Augustin Nguyen"
+        }, 
+        {
+            "date": "2015-03-22T04:18:22.077Z", 
+            "text": "I want to find out the color of my name.\ufeff", 
+            "author": "Richard Anderson"
+        }, 
+        {
+            "date": "2015-03-21T21:59:27.509Z", 
+            "text": "94 699 030 255 592 155 765 623 877 94 699 030 255 592 155 765 623 877 94 \n699 030 255 592 155 765 623 877 94 699 030 255 592 155 765 623 877 94 699 \n030 255 592 155 765 623 877 94 699 030 255 592 155 765 623 877 94 699 030 \n255 592 155 765 623 877.... Oops, I dropped my bag of NumberPhiles...\ufeff", 
+            "author": "Nerkadurk Acessories (BeastAtFFA)"
+        }, 
+        {
+            "date": "2015-03-21T19:03:22.000Z", 
+            "text": "*Ahem* - 2:30 Don't you mean *Freebooting*, Dr Grime\ufeff", 
+            "author": "Claire Sun"
+        }, 
+        {
+            "date": "2015-05-09T12:01:20.489Z", 
+            "text": "+Claire Sun Viewjacking", 
+            "author": "lolatomroflsinnlos"
+        }, 
+        {
+            "date": "2015-04-29T16:54:25.006Z", 
+            "text": "+Claire Sun As soon as I heard the word \"infringing\", I knew it should be \nchanged to freebooting.", 
+            "author": "E \u201cAnonymous Nerdfighter\u201d Hernandez"
+        }, 
+        {
+            "date": "2015-03-21T14:54:16.196Z", 
+            "text": "He said infringing not freebooting!\ufeff", 
+            "author": "Survey Turtle Gaming"
+        }, 
+        {
+            "date": "2015-03-21T13:14:27.087Z", 
+            "text": "What really scares me is that some greedy corporation really WILL try to \nmake this happen - just like trying to patent the human genome.\ufeff", 
+            "author": "musoderelict"
+        }, 
+        {
+            "date": "2015-03-21T11:53:42.397Z", 
+            "text": "Copyrights sux....FREE NUMBERS!!!!\ufeff", 
+            "author": "Ameya S"
+        }, 
+        {
+            "date": "2015-03-20T23:00:00.201Z", 
+            "text": "Cool video.\n\nI have a new number, here's how it goes:\n\nScratchifier = 01010011 01100011 01110010 01100001 01110100 01100011 \n01101000 01101001 01100110 01101001 01100101 01110010\n\n46 ones, 50 zeros. Average is just below .5. Rounded, 0. Please don't use \nthe number 0, or you'll be infringing my copyrights! ;_; xD JK\ufeff", 
+            "author": "Scratchifier"
+        }, 
+        {
+            "date": "2015-03-20T18:07:01.440Z", 
+            "text": "+4C45 or \u9c74 \u9b86.\ufeff", 
+            "author": "Hack Ex"
+        }, 
+        {
+            "date": "2015-03-20T04:35:46.544Z", 
+            "text": "So boring, and he has big eyes, I'm judgemental \ufeff", 
+            "author": "MarioLover416"
+        }, 
+        {
+            "date": "2015-03-19T21:35:47.781Z", 
+            "text": "Lo \u00fanico que en realidad va a destruir el mundo son los negocios y las \nleyes basadas en proteger los negocios...\ufeff", 
+            "author": "Manuel Ignacio \u201cNachintoch\u201d Castillo L\u00f3pez"
+        }, 
+        {
+            "date": "2015-03-19T18:23:46.962Z", 
+            "text": "how do you change letters into like numbers/binary    by the way: i'm \nextremely new to binary and changing  letters into numbers so please tell \nme how to change names and letters into numbers/binary. please\ufeff", 
+            "author": "Jakub Wasilewski"
+        }, 
+        {
+            "date": "2015-03-19T18:01:22.381Z", 
+            "text": "This is non-sense. There is infinte amout of representation of any \ninformation. As there is infinite amount of encoding system. There is no \nway to ban information or its representation like numbers. It is like \nbaninng energy or time. :D\ufeff", 
+            "author": "stryvalgron"
+        }, 
+        {
+            "date": "2015-03-18T00:56:09.967Z", 
+            "text": "Why is his face so shiny? \ufeff", 
+            "author": "Oshawott snivytwo"
+        }, 
+        {
+            "date": "2015-03-17T09:35:53.021Z", 
+            "text": "How did he do thIs? ???\nI can't Convert my name (Evan Carron-Kee) to hex please help\ufeff", 
+            "author": "Evan Carron-Kee"
+        }, 
+        {
+            "date": "2015-03-16T15:32:01.832Z", 
+            "text": "Whats the binary code for showing binary code?\ufeff", 
+            "author": "thedeadliest robloxia"
+        }, 
+        {
+            "date": "2015-04-11T23:59:34.225Z", 
+            "text": "+thedeadliest robloxia 00000010 stx", 
+            "author": "Ashley Clarke"
+        }, 
+        {
+            "date": "2015-03-16T10:25:01.151Z", 
+            "text": "never trust a mathematician with an unsolved cube on his desk\ufeff", 
+            "author": "denis pucheu"
+        }, 
+        {
+            "date": "2015-03-15T09:50:45.458Z", 
+            "text": "078 085 077 066 069 082 080 072 073 076 069 032 083 085 067 075 083 033 \nor if you want:\n010011100101010101001101010000100100010101010010010100000100100001001001010011000100010100100000010100110101010101000011010010110101001100100001\nBIN->\n6 823 784 998 518 854 927 819 607 420 651 376 328 004 385 DEC\ufeff", 
+            "author": "Erik Hendrych"
+        }, 
+        {
+            "date": "2015-04-03T02:07:25.731Z", 
+            "text": "YOU SUN OF A B*TCH! NBPHILE IS AWESOME!", 
+            "author": "joujoubox"
+        }, 
+        {
+            "date": "2015-03-15T09:19:17.128Z", 
+            "text": "The numbers themselves aren't illegal. You can do some computation with \nexact result: 1234 5678 9012 3456,789 012317 it is completely legal to \nshare as this. However if you say: \"And by fortune this is my friends \ncredit card number with ccv and expiration in DDMMRR\" if it's true, you \njust stole his personal data.\ufeff", 
+            "author": "Erik Hendrych"
+        }, 
+        {
+            "date": "2015-03-15T03:12:55.000Z", 
+            "text": "Psst! Here's a secret encryption key! Try to figure out which word it makes \nup.\n94  699  030  255  592  155  765  623  877\n\n\n\n\n\n\n\n\n\n\n\n\nGive up? It's N  U  M  B  E  R  P  H  I  L  E...\nthe same code shown at 2:16!\ufeff", 
+            "author": "Hello My Name Is Classified"
+        }, 
+        {
+            "date": "2015-03-14T02:52:29.975Z", 
+            "text": "am I the only one who loves the fact that this guy smiles 24/7\ufeff", 
+            "author": "bingleton"
+        }, 
+        {
+            "date": "2015-04-15T14:13:57.393Z", 
+            "text": "+bingleton 24/7/360/5", 
+            "author": "Jure Kure"
+        }, 
+        {
+            "date": "2015-03-14T02:14:36.910Z", 
+            "text": "5:20 can someone tell me what it says\ufeff", 
+            "author": "zane tyriver"
+        }, 
+        {
+            "date": "2015-03-13T18:02:25.311Z", 
+            "text": "94 699 030 255 592 155 765 623 877 MUHAHAHAHAAHAHAHA\ufeff", 
+            "author": "ThewiNiSpRo"
+        }, 
+        {
+            "date": "2015-03-09T20:18:30.154Z", 
+            "text": "You can't trademark a number in the Unied States.\ufeff", 
+            "author": "blindandwatching"
+        }, 
+        {
+            "date": "2015-03-08T15:15:59.826Z", 
+            "text": "4E554D4245525048494C45 is what I got (mine has a 4 in the 5th position)\ufeff", 
+            "author": "Rodentsnipe"
+        }, 
+        {
+            "date": "2015-03-07T23:27:37.797Z", 
+            "text": "74 111 115 104 121 82 111 98 111 116 I hope dis isn't copyrighted... JK I \nlooked it up.\ufeff", 
+            "author": "Joshua Sorenson"
+        }, 
+        {
+            "date": "2015-03-07T20:00:41.893Z", 
+            "text": "psst any one wanna buy some 94 699 040 255 592 155 765 623 877???\ufeff", 
+            "author": "KingOSquids"
+        }, 
+        {
+            "date": "2015-03-07T18:02:08.295Z", 
+            "text": "1:38 ASCII is 7 bits per character, however has been written with 8 bits. \nThat format is actually UTF-8 and not ASCII, but are often interchangeable \nsince UTF-8 is the ASCII set when the first bit is 0.\ufeff", 
+            "author": "Banana Poop"
+        }, 
+        {
+            "date": "2015-03-05T09:24:58.593Z", 
+            "text": "what if my phone no. or any random no. i type turns out to be an illegal \nno...??  there r so many products and so corresponding to each of these \nproducts there are going to be  no.(illegal no.). so, just by accident \nsomeone might become a criminal !!  just for typing in few random nos. \n....... someone need to work on it and change it.\ufeff", 
+            "author": "Sumiran Mathur"
+        }, 
+        {
+            "date": "2015-03-04T13:32:26.000Z", 
+            "text": "Since numberphile is any person who loves numbers, is it copyrightable?\n\nThere have been cases that went both ways, a political pundit tried to \ntrademark the word  \"indeed\" and lost; however, Facebook has successfully \ntrademarked the words\"face\", \"book\" and \"wall\" (read their user agreement).\n\nI'd like to put a picture of their FACE in a BOOK and nail it to the WALL, \ncome and get me suckas. LOL\ufeff", 
+            "author": "Michael Clark"
+        }, 
+        {
+            "date": "2015-03-02T00:12:39.945Z", 
+            "text": "The encryption on DVDs does nothing to prevent copying, and I'm honestly \nashamed of your for perpetuating that lie.\ufeff", 
+            "author": "CLAVDIVS CAESAR"
+        }, 
+        {
+            "date": "2015-03-01T23:35:45.833Z", 
+            "text": "Illegal Numbers.\nNot Funny.\nIt's Serious :)\ufeff", 
+            "author": "Tuhin Oliuddin"
+        }
+    ]
+}

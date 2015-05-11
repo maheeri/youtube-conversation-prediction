@@ -1,0 +1,1571 @@
+{
+    "publish_date": "2013-09-24T17:26:36.000Z", 
+    "video_length": "PT9M31S", 
+    "captions": [
+        {
+            "text": "A problem worthy of attack proves its\nworth by fighting back.", 
+            "dur": "4.11", 
+            "start": "0.47"
+        }, 
+        {
+            "text": "And that&#39;s what Fermat&#39;s last theorem was\ndoing, it was fighting back.", 
+            "dur": "4.63", 
+            "start": "4.58"
+        }, 
+        {
+            "text": "So we are talking about Fermat&#39;s last theorem I\nsuppose the place to start is with Fermat,", 
+            "dur": "4.39", 
+            "start": "9.21"
+        }, 
+        {
+            "text": "Pierre de Fermat,", 
+            "dur": "1.19", 
+            "start": "13.599"
+        }, 
+        {
+            "text": "he was a 17th-century\nmathematician living and working in", 
+            "dur": "3.68", 
+            "start": "14.789"
+        }, 
+        {
+            "text": "France - not working as a mathematician", 
+            "dur": "2.27", 
+            "start": "18.469"
+        }, 
+        {
+            "text": "but working as a judge. Every evening he&#39;d go\nhome - and math was his hobby -", 
+            "dur": "3.73", 
+            "start": "20.739"
+        }, 
+        {
+            "text": "one evening he was looking at an\nequation", 
+            "dur": "3.149", 
+            "start": "24.469"
+        }, 
+        {
+            "text": "which looks a bit like Pythagoras&#39;\nequation which I suppose is", 
+            "dur": "3.971", 
+            "start": "27.618"
+        }, 
+        {
+            "text": "X squared plus Y squared equals Z\nsquared.", 
+            "dur": "3.96", 
+            "start": "31.589"
+        }, 
+        {
+            "text": "And he was looking for whole number\nsolutions to that equation, and there are", 
+            "dur": "2.93", 
+            "start": "35.549"
+        }, 
+        {
+            "text": "lots, you know there&#39;s 3 squared plus", 
+            "dur": "2.161", 
+            "start": "38.479"
+        }, 
+        {
+            "text": "4 squared, 5 squared. So that&#39;s a\nwhole number solution to", 
+            "dur": "4.039", 
+            "start": "40.64"
+        }, 
+        {
+            "text": "&lt;b&gt;x^2 + y^2 = z^2&lt;/b&gt;.\nNow Fermat asked himself the question:", 
+            "dur": "4.08", 
+            "start": "44.679"
+        }, 
+        {
+            "text": "&quot;What if I change this equation so\ninstead of it being x squared,", 
+            "dur": "3.29", 
+            "start": "48.759"
+        }, 
+        {
+            "text": "what about if it&#39;s x cubed or x to\nthe fourth power? ", 
+            "dur": "4.75", 
+            "start": "52.049"
+        }, 
+        {
+            "text": "Are there solutions to that equation? So\nin general we&#39;re talking about", 
+            "dur": "3.72", 
+            "start": "56.799"
+        }, 
+        {
+            "text": "&lt;b&gt;x^n + y^n = z^n&lt;/b&gt;", 
+            "dur": "0.63", 
+            "start": "60.52"
+        }, 
+        {
+            "text": "&lt;b&gt;x^n + y^n = z^n&lt;/b&gt;", 
+            "dur": "3.57", 
+            "start": "61.149"
+        }, 
+        {
+            "text": "where &lt;b&gt;n&lt;/b&gt; is bigger than 2. Does that\nequation", 
+            "dur": "4.21", 
+            "start": "64.719"
+        }, 
+        {
+            "text": "have any whole number solution?&quot; He\nthought about it for a while", 
+            "dur": "3.35", 
+            "start": "68.93"
+        }, 
+        {
+            "text": "and couldn&#39;t find any whole number\nsolutions, and then he went one step", 
+            "dur": "2.86", 
+            "start": "72.28"
+        }, 
+        {
+            "text": "further:", 
+            "dur": "0.588", 
+            "start": "75.14"
+        }, 
+        {
+            "text": "not only could he not find any whole\nnumber solutions,", 
+            "dur": "3.171", 
+            "start": "75.728"
+        }, 
+        {
+            "text": "he believed he found an argument, he\nbeleived he found a proof", 
+            "dur": "3.709", 
+            "start": "78.899"
+        }, 
+        {
+            "text": "that showed without any doubt\nwhatsoever", 
+            "dur": "3.271", 
+            "start": "82.608"
+        }, 
+        {
+            "text": "there were no whole number solutions. So\nthis is kinda weird,", 
+            "dur": "3.21", 
+            "start": "85.879"
+        }, 
+        {
+            "text": "because we have one equation\n&lt;b&gt;x^2 + y^2 = z^2&lt;/b&gt;", 
+            "dur": "3.769", 
+            "start": "89.09"
+        }, 
+        {
+            "text": "that has not just one solution, it\nactually has an infinite number", 
+            "dur": "3.46", 
+            "start": "92.858"
+        }, 
+        {
+            "text": "of solutions.", 
+            "dur": "0.86", 
+            "start": "96.319"
+        }, 
+        {
+            "text": "And then we have an infinite number of\nequations: &lt;b&gt;x^3 + y^3 = z^3&lt;/b&gt;,", 
+            "dur": "3.86", 
+            "start": "97.179"
+        }, 
+        {
+            "text": "&lt;b&gt;x^4 + y^4 = z^4&lt;/b&gt;,", 
+            "dur": "4.079", 
+            "start": "101.039"
+        }, 
+        {
+            "text": "an infinite number of equations which\napparently have no solutions.", 
+            "dur": "3.552", 
+            "start": "105.118"
+        }, 
+        {
+            "text": "And Fermat discovered it&#39;s proof, and he\nwrote", 
+            "dur": "3.25", 
+            "start": "108.67"
+        }, 
+        {
+            "text": "in the margin of a book he was reading\nthat evening, called the Arithmetica by Diophantus,", 
+            "dur": "4.39", 
+            "start": "111.92"
+        }, 
+        {
+            "text": "he wrote in the margin in his book, he\nwrote: &lt;i&gt;I have a truly marvelous proof", 
+            "dur": "4.659", 
+            "start": "116.31"
+        }, 
+        {
+            "text": "which this margin is too narrow to\ncontain.&lt;/i&gt;", 
+            "dur": "3.381", 
+            "start": "120.968"
+        }, 
+        {
+            "text": "&lt;i&gt;Hanc marginis exiguitas non caperet&lt;/i&gt;\nin Latin.", 
+            "dur": "3.81", 
+            "start": "124.349"
+        }, 
+        {
+            "text": "In other words: &quot;I know how to prove that\nthis equation has no solutions,", 
+            "dur": "4.611", 
+            "start": "128.159"
+        }, 
+        {
+            "text": "but I don&#39;t have the space to write it\ndown.&quot; And then he drops dead.", 
+            "dur": "3.949", 
+            "start": "132.77"
+        }, 
+        {
+            "text": "It very much was a secret proof which he\nnever wrote down,", 
+            "dur": "4.48", 
+            "start": "136.719"
+        }, 
+        {
+            "text": "and after his death his son, Samuel Cl\u00e9mant", 
+            "dur": "4.02", 
+            "start": "141.199"
+        }, 
+        {
+            "text": "I think, rediscovered this book which had\nthis marginal note:", 
+            "dur": "5.01", 
+            "start": "145.219"
+        }, 
+        {
+            "text": "&lt;i&gt;I have a truly marvelous proof -\ndemonstrationem mirabilem - ", 
+            "dur": "4.75", 
+            "start": "150.229"
+        }, 
+        {
+            "text": "which these margins are too narrow to\ncontain.&lt;/i&gt; In fact the book is full of", 
+            "dur": "3.861", 
+            "start": "154.979"
+        }, 
+        {
+            "text": "these little annoying notes: &quot;I can prove\nthis but I gotta go to feed the cat, I can prove", 
+            "dur": "3.639", 
+            "start": "158.84"
+        }, 
+        {
+            "text": "this but I gotta go and wash my hair.&quot;", 
+            "dur": "1.38", 
+            "start": "162.479"
+        }, 
+        {
+            "text": "So Fermat was quite annoying in this\nrespect.", 
+            "dur": "3.329", 
+            "start": "163.86"
+        }, 
+        {
+            "text": "So his son published a new version of the\nbook", 
+            "dur": "3.611", 
+            "start": "167.188"
+        }, 
+        {
+            "text": "- the Arithmetica by Diophantus - \nthe book with all of Fermat&#39;s little", 
+            "dur": "3.821", 
+            "start": "170.799"
+        }, 
+        {
+            "text": "notes printed in the text. And people\nwould look at these notes,", 
+            "dur": "4.69", 
+            "start": "174.62"
+        }, 
+        {
+            "text": "and they were: &quot;Fermat\nsaid he can prove this, let&#39;s try!&quot;", 
+            "dur": "3.06", 
+            "start": "179.31"
+        }, 
+        {
+            "text": "And one by one people rediscovered the\nmissing proofs.", 
+            "dur": "4.009", 
+            "start": "182.37"
+        }, 
+        {
+            "text": "And every case where Fermat said\n&quot;I have a proof&quot;, he was right, there was a", 
+            "dur": "4.511", 
+            "start": "186.378"
+        }, 
+        {
+            "text": "proof,", 
+            "dur": "0.65", 
+            "start": "190.889"
+        }, 
+        {
+            "text": "except in this one example here.", 
+            "dur": "3.1", 
+            "start": "191.539"
+        }, 
+        {
+            "text": "Fermat&#39;s last theorem is called Fermat&#39;s\nlast theorem because it was the last one that", 
+            "dur": "4.129", 
+            "start": "194.639"
+        }, 
+        {
+            "text": "anybody could actually find the proof for.\nAnd of course because it&#39;s the last one that", 
+            "dur": "4.371", 
+            "start": "198.769"
+        }, 
+        {
+            "text": "anyone can prove", 
+            "dur": "1.079", 
+            "start": "203.139"
+        }, 
+        {
+            "text": "it&#39;s the most precious one, it&#39;s the one\nthat&#39;s the most desirable.", 
+            "dur": "3.13", 
+            "start": "204.218"
+        }, 
+        {
+            "text": "And the more that people try, the more\nthey fail, the more wonderful it becomes.", 
+            "dur": "4.041", 
+            "start": "207.348"
+        }, 
+        {
+            "text": "And this goes on for decades, it goes\non for centuries.", 
+            "dur": "3.929", 
+            "start": "211.389"
+        }, 
+        {
+            "text": "Right through to the 20th century were\npeople desperate", 
+            "dur": "3.411", 
+            "start": "215.318"
+        }, 
+        {
+            "text": "to rediscover what Fermat&#39;s proof might\nhave been.", 
+            "dur": "3.099", 
+            "start": "218.729"
+        }, 
+        {
+            "text": "[Brady]Is that they have widely-held that he\nhad done it or had he disclaimed, like", 
+            "dur": "3.561", 
+            "start": "221.829"
+        }, 
+        {
+            "text": "was he telling the truth? [Singh]I think by the\ntime we get to 20th century it&#39;s quite clear", 
+            "dur": "5.238", 
+            "start": "225.389"
+        }, 
+        {
+            "text": " ", 
+            "dur": "1.001", 
+            "start": "229.627"
+        }, 
+        {
+            "text": "that this is an incredibly\ncomplex problem. Its", 
+            "dur": "3.372", 
+            "start": "230.628"
+        }, 
+        {
+            "text": "simple to jot down in a few scribbles\nwhat the question is, it&#39;s easy to", 
+            "dur": "4.229", 
+            "start": "234"
+        }, 
+        {
+            "text": "describe the problem.", 
+            "dur": "1.149", 
+            "start": "238.229"
+        }, 
+        {
+            "text": "The proof is clearly profound", 
+            "dur": "3.14", 
+            "start": "239.378"
+        }, 
+        {
+            "text": "and probably beyond Fermat&#39;s reach to\nbe honest.", 
+            "dur": "5.389", 
+            "start": "242.519"
+        }, 
+        {
+            "text": "Some people say Fermat was just fooling\naround, that it was just a trick,", 
+            "dur": "3.372", 
+            "start": "247.908"
+        }, 
+        {
+            "text": "that he left something in his book that he knew \nwould trouble subsequent generations -", 
+            "dur": "3.36", 
+            "start": "251.28"
+        }, 
+        {
+            "text": "I think that&#39;s the least likely.", 
+            "dur": "1.329", 
+            "start": "254.639"
+        }, 
+        {
+            "text": "Some people say that he did have a\ngenuine proof", 
+            "dur": "3.202", 
+            "start": "255.968"
+        }, 
+        {
+            "text": "and it&#39;s beautiful, it&#39;s elegant and it&#39;s\n17th century,", 
+            "dur": "3.38", 
+            "start": "259.17"
+        }, 
+        {
+            "text": "and we could kinda rediscover that\nproof but we&#39;re just not quite clever enough.", 
+            "dur": "4.42", 
+            "start": "262.55"
+        }, 
+        {
+            "text": "I think that&#39;s possible but unlikely.", 
+            "dur": "3.229", 
+            "start": "266.97"
+        }, 
+        {
+            "text": "I think the most likely explanation is Fermat", 
+            "dur": "3.321", 
+            "start": "270.199"
+        }, 
+        {
+            "text": "thought he had a proof. Because he was working\non his own", 
+            "dur": "3.17", 
+            "start": "273.519"
+        }, 
+        {
+            "text": "and because he didn&#39;t show this proof to\nanybody else", 
+            "dur": "3.07", 
+            "start": "276.689"
+        }, 
+        {
+            "text": "nobody could tell him: &quot;Ow, there is a mistake\nthere, that line 3", 
+            "dur": "3.94", 
+            "start": "279.759"
+        }, 
+        {
+            "text": "has got something wrong with it.&quot; And\nthat&#39;s very likely because we know that", 
+            "dur": "3.901", 
+            "start": "283.699"
+        }, 
+        {
+            "text": "subsequent generations of mathematicians", 
+            "dur": "1.95", 
+            "start": "287.6"
+        }, 
+        {
+            "text": "thought they&#39;d found a proof and then\nthey publish it and people would tear", 
+            "dur": "4.54", 
+            "start": "289.55"
+        }, 
+        {
+            "text": "it apart and find the error.", 
+            "dur": "1.34", 
+            "start": "294.089"
+        }, 
+        {
+            "text": "So what we&#39;re looking for is not Fermat&#39;s\nproof - ", 
+            "dur": "4.279", 
+            "start": "295.43"
+        }, 
+        {
+            "text": "which was probably flawed - but we&#39;re\nlooking for some kind of proof to see", 
+            "dur": "3.7", 
+            "start": "299.709"
+        }, 
+        {
+            "text": " ", 
+            "dur": "0.001", 
+            "start": "303.41"
+        }, 
+        {
+            "text": "wheter Fermat was right all along?\nIt has a happy ending.", 
+            "dur": "4.258", 
+            "start": "303.411"
+        }, 
+        {
+            "text": "And it starts with a ten-year-old child,", 
+            "dur": "3.521", 
+            "start": "307.668"
+        }, 
+        {
+            "text": "a child called Andrew Wiles, who was reading a\nbook one day -", 
+            "dur": "4.02", 
+            "start": "311.189"
+        }, 
+        {
+            "text": "he&#39;s growing up in Cambridge, he wents to\nthe library, he got a book called &lt;i&gt;The last", 
+            "dur": "4.179", 
+            "start": "315.209"
+        }, 
+        {
+            "text": "problem&lt;/i&gt; by E.T. Bell.", 
+            "dur": "2.201", 
+            "start": "319.389"
+        }, 
+        {
+            "text": "And the book is all about\nFermat&#39;s last theorem.", 
+            "dur": "4.161", 
+            "start": "321.589"
+        }, 
+        {
+            "text": "And little Andrew Wiles, age 10,", 
+            "dur": "3.31", 
+            "start": "325.75"
+        }, 
+        {
+            "text": "decided that he was going to rediscover the\nmissing proof.", 
+            "dur": "3.759", 
+            "start": "329.06"
+        }, 
+        {
+            "text": "Because a bright ten-year-old can\nunderstand the problem. A bright ten-year-old", 
+            "dur": "3.641", 
+            "start": "332.819"
+        }, 
+        {
+            "text": "doesn&#39;t realize what they&#39;re letting\nthemselves in for, ", 
+            "dur": "2.06", 
+            "start": "336.459"
+        }, 
+        {
+            "text": "but that&#39;s another story. And he\ntried, he talked about, to the", 
+            "dur": "3.25", 
+            "start": "338.519"
+        }, 
+        {
+            "text": "school teachers about the problem,", 
+            "dur": "1.791", 
+            "start": "341.769"
+        }, 
+        {
+            "text": "he talked to his A-level teachers about the\nproblem, he goes to university talked to his", 
+            "dur": "3.94", 
+            "start": "343.56"
+        }, 
+        {
+            "text": "undergraduate lecturers about the problem.", 
+            "dur": "2.12", 
+            "start": "347.5"
+        }, 
+        {
+            "text": "He has a PhD and still this problem is\nobsessing him.", 
+            "dur": "4.548", 
+            "start": "349.62"
+        }, 
+        {
+            "text": "I think he was about in his late 30&#39;s by\nthis time he was a Princeton professor -", 
+            "dur": "4.521", 
+            "start": "354.168"
+        }, 
+        {
+            "text": "there was something called the\nTaniyama-Shimura conjecture which", 
+            "dur": "3.01", 
+            "start": "358.689"
+        }, 
+        {
+            "text": "I kinda think we don&#39;t really\nwant to get into at the moment -", 
+            "dur": "3.581", 
+            "start": "361.699"
+        }, 
+        {
+            "text": "which had been proposed in the 50&#39;s. So a \nconjecture is an idea that", 
+            "dur": "4.58", 
+            "start": "365.279"
+        }, 
+        {
+            "text": "we don&#39;t know whether it&#39;s true or not,\nbut somebody is putting it on the table. Somebody", 
+            "dur": "3.519", 
+            "start": "369.86"
+        }, 
+        {
+            "text": "proved that there was a link between\nthese two conjectures.", 
+            "dur": "2.85", 
+            "start": "373.379"
+        }, 
+        {
+            "text": "It is much as: if you could prove most of\nthe Taniyama-Shimura conjecture", 
+            "dur": "4.332", 
+            "start": "376.228"
+        }, 
+        {
+            "text": "you would get Fermat&#39;s last theorem for free.\nSo somehow Fermat&#39;s last theorem is embedded in", 
+            "dur": "4.959", 
+            "start": "380.56"
+        }, 
+        {
+            "text": "this other conjecture.", 
+            "dur": "1.609", 
+            "start": "385.519"
+        }, 
+        {
+            "text": "And Andrew Wiles&#39; childhood passion, his\nchildhood obsession is reignited", 
+            "dur": "5.141", 
+            "start": "387.129"
+        }, 
+        {
+            "text": "because he thinks the Taniyama-Shimura\nconjecture is worth a go.", 
+            "dur": "3.859", 
+            "start": "392.269"
+        }, 
+        {
+            "text": "You know he thinks he can get his teeth\ninto that. But it&#39;s still", 
+            "dur": "3.25", 
+            "start": "396.129"
+        }, 
+        {
+            "text": "a crazy thing to try and do and so\nbecause it was such an absurd and", 
+            "dur": "4.35", 
+            "start": "399.379"
+        }, 
+        {
+            "text": " ", 
+            "dur": "0.001", 
+            "start": "403.728"
+        }, 
+        {
+            "text": "ambitious challenge, Wiles didn&#39;t tell anybody\nabout it.", 
+            "dur": "4.59", 
+            "start": "403.729"
+        }, 
+        {
+            "text": "He worked on in complete secrecy,", 
+            "dur": "3.41", 
+            "start": "408.319"
+        }, 
+        {
+            "text": "he started not attending committee\nmeetings, he started going to his office", 
+            "dur": "4.65", 
+            "start": "411.728"
+        }, 
+        {
+            "text": "less and less, he started to", 
+            "dur": "2.13", 
+            "start": "416.379"
+        }, 
+        {
+            "text": "focus on this problem. Once again:", 
+            "dur": "3.451", 
+            "start": "418.509"
+        }, 
+        {
+            "text": "not because it was the Taniyama-Shimura\nconjecture but because it would give him", 
+            "dur": "3.5", 
+            "start": "421.959"
+        }, 
+        {
+            "text": "Fermat&#39;s last theorem for free.", 
+            "dur": "2.739", 
+            "start": "425.459"
+        }, 
+        {
+            "text": "And for 7 years he worked in complete\nsecrecy", 
+            "dur": "3.391", 
+            "start": "428.199"
+        }, 
+        {
+            "text": "and at the end of 7 years he\nsuddenly realized", 
+            "dur": "4.46", 
+            "start": "431.589"
+        }, 
+        {
+            "text": "that he had Taniyama-Shimura and\nif he had Taniyama-Shimura,", 
+            "dur": "4.298", 
+            "start": "436.05"
+        }, 
+        {
+            "text": "he had a proof of Fermat&#39;s last theorem. He went\nto Cambridge, he presented his proof on a", 
+            "dur": "4.661", 
+            "start": "440.348"
+        }, 
+        {
+            "text": "black board,", 
+            "dur": "0.961", 
+            "start": "445.009"
+        }, 
+        {
+            "text": "it was a three-part lecture, the world\ncheered, he was the front page of the", 
+            "dur": "4.349", 
+            "start": "445.97"
+        }, 
+        {
+            "text": " New York Times, he was", 
+            "dur": "1.241", 
+            "start": "450.319"
+        }, 
+        {
+            "text": "on CNN he was everywhere. But the\nsting in the tale", 
+            "dur": "3.279", 
+            "start": "451.56"
+        }, 
+        {
+            "text": "is that in any mathematical proof you\nhave to have it checked.", 
+            "dur": "4.221", 
+            "start": "454.839"
+        }, 
+        {
+            "text": "You have to have it refereed and published, and\nwhen he went through the checking process", 
+            "dur": "4.477", 
+            "start": "459.06"
+        }, 
+        {
+            "text": " ", 
+            "dur": "0.001", 
+            "start": "463.537"
+        }, 
+        {
+            "text": "somebody found a mistake. Wiles assumed\nthat he could fix it,", 
+            "dur": "3.09", 
+            "start": "463.538"
+        }, 
+        {
+            "text": "but the more he tried to unravel this\nproblem the worse it became.", 
+            "dur": "4.621", 
+            "start": "466.629"
+        }, 
+        {
+            "text": "And it became a huge embarrassment, you know\nyou&#39;ve been loathed(?) as the greatest", 
+            "dur": "4.18", 
+            "start": "471.25"
+        }, 
+        {
+            "text": "mathematician of the 20th century,", 
+            "dur": "2.37", 
+            "start": "475.43"
+        }, 
+        {
+            "text": "you are a hero figure and now you have to\nadmit you made a mistake.", 
+            "dur": "3.428", 
+            "start": "477.8"
+        }, 
+        {
+            "text": "And it took a whole year, but at the end\nof that year", 
+            "dur": "3.991", 
+            "start": "481.228"
+        }, 
+        {
+            "text": "Andrew Wiles working with a chap(?)\ncalled Richard Taylor", 
+            "dur": "3", 
+            "start": "485.22"
+        }, 
+        {
+            "text": "managed to fix the proof. I think\nit&#39;s a bit like ", 
+            "dur": "3.919", 
+            "start": "488.22"
+        }, 
+        {
+            "text": "the Terminator film, I often talk about,\nyou know when you just think you&#39;ve", 
+            "dur": "3.31", 
+            "start": "492.139"
+        }, 
+        {
+            "text": "slained the monster when you&#39;ve killed\nthe Terminator it comes back to life and", 
+            "dur": "4.06", 
+            "start": "495.449"
+        }, 
+        {
+            "text": "you have to fight in one last time.\nAnd somebody, one mathematician I think", 
+            "dur": "4.141", 
+            "start": "499.509"
+        }, 
+        {
+            "text": "Pete Hines", 
+            "dur": "1.09", 
+            "start": "503.649"
+        }, 
+        {
+            "text": "once wrote: &lt;i&gt;&quot;A problem worthy of attack", 
+            "dur": "3.139", 
+            "start": "504.74"
+        }, 
+        {
+            "text": "proves its worth by fighting back.&quot;&lt;/i&gt; And\nthat&#39;s what Fermat&#39;s last theorem was doing,", 
+            "dur": "4.361", 
+            "start": "507.879"
+        }, 
+        {
+            "text": "it was fighting back,", 
+            "dur": "1.559", 
+            "start": "512.24"
+        }, 
+        {
+            "text": "but Wiles proved that he was too good. And of\ncourse what Wiles proved", 
+            "dur": "3.799", 
+            "start": "513.799"
+        }, 
+        {
+            "text": "is that Fermat was right, this equation", 
+            "dur": "3.221", 
+            "start": "517.599"
+        }, 
+        {
+            "text": "&lt;b&gt;x^n + y^n = z^n&lt;b&gt;, &lt;b&gt;n&lt;/b&gt; bigger than 2,", 
+            "dur": "3.92", 
+            "start": "520.82"
+        }, 
+        {
+            "text": "has no whole number solutions and that&#39;s\nthe end of the story.", 
+            "dur": "4.139", 
+            "start": "524.74"
+        }, 
+        {
+            "text": "[Brady]If you&#39;d like to see a bit more from\nthis interview with Simon, I&#39;ve got some", 
+            "dur": "2.91", 
+            "start": "528.879"
+        }, 
+        {
+            "text": "extra footage,", 
+            "dur": "1.06", 
+            "start": "531.789"
+        }, 
+        {
+            "text": "I&#39;ll put a link in the description. Simon&#39;s\nalso got a book about Fermat&#39;s last", 
+            "dur": "4.02", 
+            "start": "532.85"
+        }, 
+        {
+            "text": "theorem, that&#39;s excellent, I recommend that,", 
+            "dur": "2.12", 
+            "start": "536.87"
+        }, 
+        {
+            "text": "links below, and just this week he&#39;s got\na new book out -", 
+            "dur": "4.149", 
+            "start": "538.99"
+        }, 
+        {
+            "text": "funny about that - it&#39;s all about\nmathematics in the Simpsons and I think", 
+            "dur": "3.68", 
+            "start": "543.139"
+        }, 
+        {
+            "text": "anyone who likes Numberphile is gonna\nlove this one.", 
+            "dur": "2.57", 
+            "start": "546.82"
+        }, 
+        {
+            "text": "I&#39;ll put a link below, but he&#39;s also done an\ninterview with me", 
+            "dur": "3.13", 
+            "start": "549.389"
+        }, 
+        {
+            "text": "about Fermat&#39;s last theorem in the\nSimpsons,", 
+            "dur": "3.081", 
+            "start": "552.519"
+        }, 
+        {
+            "text": "which I think you&#39;ll all enjoy and I&#39;ll put\nthat on to Numberphile really soon.", 
+            "dur": "3.84", 
+            "start": "555.6"
+        }, 
+        {
+            "text": "But in the meantime, lots of links below\nI&#39;ll put a link to the Wiles paper,", 
+            "dur": "4.839", 
+            "start": "559.44"
+        }, 
+        {
+            "text": "a few other bits and pieces that I want\nyou to see, ", 
+            "dur": "3.101", 
+            "start": "564.278"
+        }, 
+        {
+            "text": "so have a good look.", 
+            "dur": "0.571", 
+            "start": "567.379"
+        }
+    ], 
+    "title": "Fermat's Last Theorem - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0dks5", 
+        "/m/07m71", 
+        "/m/0f06m", 
+        "/m/0265rzk", 
+        "/m/0w5x"
+    ], 
+    "number_views": 524504, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-07T12:15:07.026Z", 
+            "text": "I grew up with these stories of Fermat Great Theorem. Great stories!\ufeff", 
+            "author": "Petko Petkov"
+        }, 
+        {
+            "date": "2015-05-07T07:58:42.575Z", 
+            "text": "\"For seven years Andrew Wiles worked on this problem in complete secrecy.\"\nDID YOU NOT LEARN WHAT HAPPENS WHEN YOU WORK ON PROBLEMS IN SECRECY THE \nFIRST TIME?!?\ufeff", 
+            "author": "ferrishthefish"
+        }, 
+        {
+            "date": "2015-04-26T23:48:41.520Z", 
+            "text": "I've got the proof for the meaning of life and the universe. But wait, i \ntook an arrow to the knee.\ufeff", 
+            "author": "Rodas nePervilo"
+        }, 
+        {
+            "date": "2015-04-21T21:42:51.814Z", 
+            "text": "HEY NUMBERPHILE\ncan you do a video on season 6 episode 10 of futurama\"The prisoner of \nbenda\" the professor makes a machine that switches minds but once you \nswitch you cant switch back. I would love to see the mathematics of how \nmany other people it would take to return everyone to their original \nbodies.\ufeff", 
+            "author": "Alex Kasantsidis"
+        }, 
+        {
+            "date": "2015-04-11T21:26:41.626Z", 
+            "text": "are u talking history?\ufeff", 
+            "author": "shapour shapouri"
+        }, 
+        {
+            "date": "2015-04-11T16:37:40.423Z", 
+            "text": "Fermat would really suck at twitter.\ufeff", 
+            "author": "Signe Rocklin"
+        }, 
+        {
+            "date": "2015-04-09T01:15:53.431Z", 
+            "text": "0^3 + b^3 = c^3\ufeff", 
+            "author": "Lorem Ipsum"
+        }, 
+        {
+            "date": "2015-04-04T16:39:37.973Z", 
+            "text": "he looks a bit like Leon from \"Leon the professional\" lol\ufeff", 
+            "author": "popalltheway"
+        }, 
+        {
+            "date": "2015-04-02T07:42:45.447Z", 
+            "text": "What if the numbers for n were ascending or descending?\ufeff", 
+            "author": "Hoixy"
+        }, 
+        {
+            "date": "2015-03-22T20:14:30.852Z", 
+            "text": "Here is a better way to put it. When using powers of 2, the geometric shape \nis a square, with an X. The two heights, widths, and twice the hypotenuse, \nwhich are represented by the A,B,C variables. When using powers of 3, the \nnumber of each measurement more than doubles, thus removing the possibility \nthat a simple cube plus cube equals the multiple hypotenuse resulting from \nthe extra dimensions.\ufeff", 
+            "author": "Jeff Ware"
+        }, 
+        {
+            "date": "2015-03-22T19:23:12.659Z", 
+            "text": "Did he have the proof x{n}+y{n}=z{n} after centuries of seeking \nmathematicians are ...\ufeff", 
+            "author": "Sigmon Sing"
+        }, 
+        {
+            "date": "2015-03-22T15:11:25.162Z", 
+            "text": "Since I can't edit comments, and my phone auto correct put greater, I'll \nsay that I've already found several making my last comment wrong. I'll have \nto type on a PC later whet the comment was supposed to say. Stupid phone. \n:)\ufeff", 
+            "author": "Jeff Ware"
+        }, 
+        {
+            "date": "2015-03-21T13:06:37.298Z", 
+            "text": "great , thnx man\ufeff", 
+            "author": "maroctech"
+        }, 
+        {
+            "date": "2015-03-20T22:08:16.466Z", 
+            "text": "Have an answer for you? Yes. But you're not going to like it... 42\ufeff", 
+            "author": "Yo Palazzi"
+        }, 
+        {
+            "date": "2015-03-18T01:10:07.771Z", 
+            "text": "Brady, I've just realized, I've probably seen most of the videos you've \nposted and I've never commented... Thanks for making videos, dude.\ufeff", 
+            "author": "DawsJosh"
+        }, 
+        {
+            "date": "2015-03-04T02:52:44.970Z", 
+            "text": "I saw this guy at a Physics lecture! He was awesome! :D\ufeff", 
+            "author": "pokemon7maniac"
+        }, 
+        {
+            "date": "2015-03-02T23:03:51.254Z", 
+            "text": "Decimals\ufeff", 
+            "author": "ROOK"
+        }, 
+        {
+            "date": "2015-03-01T23:59:27.598Z", 
+            "text": "I literally just bought \" Fermat's Enigma \" like 30 minutes ago and looked \ndown and saw Simon Singh is the guy talking! haajahhaha\ufeff", 
+            "author": "Michael Sawyer"
+        }, 
+        {
+            "date": "2015-02-26T23:51:53.743Z", 
+            "text": "I figured it out! first: list as many odd squares as you want to find whole \nsolutions. then: subtract 1, divide by 2, there is the second number to \nplug into the theorem. x^2+y^2=z^2\ufeff", 
+            "author": "Ryan Roberson"
+        }, 
+        {
+            "date": "2015-02-26T22:12:15.139Z", 
+            "text": "Met this guy at Science show live in London, was really interesting, \nexplains this really well\ufeff", 
+            "author": "Jack Zijdenbos"
+        }, 
+        {
+            "date": "2015-02-26T19:56:02.417Z", 
+            "text": "Hhahaha. All these jelly mathematicians. He obviously did have a solution, \nnerds. You're just jelly.\ufeff", 
+            "author": "TomValedro"
+        }, 
+        {
+            "date": "2015-02-26T19:44:33.860Z", 
+            "text": "isn't it because 'n' indicates the number of variables needed?\na^3 + b^3 + c^3 = d^3\n2^3 + 3^3 + 4^3 = 10^3\n8 + 27 + 64 = 100\ni know this is by no means a proof, but that's what first came into mind \nfor me.\ufeff", 
+            "author": "whydoihavetoenteraname ugh"
+        }, 
+        {
+            "date": "2015-02-26T05:10:49.915Z", 
+            "text": "I've got the proof but Simon's hair is distracting.\ufeff", 
+            "author": "Zane peterkovic"
+        }, 
+        {
+            "date": "2015-02-21T05:07:39.284Z", 
+            "text": "I had the proof, but when writing it down I took an arrow to the knee...\ufeff", 
+            "author": "Tomasz Wota (Xupicor)"
+        }, 
+        {
+            "date": "2015-02-20T18:32:32.245Z", 
+            "text": "I got one for Fermat, I could prove this but then I got high.  Afroman \nft.Fermat. \ufeff", 
+            "author": "2263275electro"
+        }, 
+        {
+            "date": "2015-02-15T17:27:59.151Z", 
+            "text": "There is a margin proof. A proof  Fermat could have actually created.  The \nkey is z^n(Pythagorean Identity)=1. Google A Margin Proof of Fermat's Last \nTheorem or better yet get a copy of How to Solve the Beal and Other \nMathematical Conjectures.\ufeff", 
+            "author": "Willie Johnson"
+        }, 
+        {
+            "date": "2015-02-11T17:39:52.423Z", 
+            "text": "I like you, Numerophile, good to have you.\ufeff", 
+            "author": "pieranka"
+        }, 
+        {
+            "date": "2015-02-03T15:28:57.501Z", 
+            "text": "Did Fermat know infinite descent?\ufeff", 
+            "author": "GLaDOS152715"
+        }, 
+        {
+            "date": "2015-02-02T17:21:59.214Z", 
+            "text": "Haha, and in Star Trek TNG, they were talking about how it still had not \nbeen proven in the 24th century. I guess they should have waited a few \nyears.\ufeff", 
+            "author": "Aeroscience"
+        }, 
+        {
+            "date": "2015-02-01T05:53:23.449Z", 
+            "text": "What is the point I don't get it ..\ufeff", 
+            "author": "obravo85"
+        }, 
+        {
+            "date": "2015-01-31T22:38:48.058Z", 
+            "text": "I'm suddenly wondering the following:\nIn order to get the length of the hypotenuse of a one-dimensional line, you \njust measure it. a = a\nIn order to get the length of the hypotenuse of a two-dimensional triangle, \nyou take the two other sides, square them, add them together, and take the \nsquare root. a^2 + b^2 = c^2\nNow, what would you do in three dimensions? Simply tack on a third \nvariable, and change those squares and square roots to cubes and cube \nroots. So now you have a^3 + b^3 + c^3 = d^3.\n\nMy assumption is that somewhere, there exists some sets of four integers \nfor which this is true. Am I matching the pattern wrong?\ufeff", 
+            "author": "Cameron Brett"
+        }, 
+        {
+            "date": "2015-03-20T21:14:41.948Z", 
+            "text": "Try a=3,b=4,c=5 and you should get 216=6^3. They are CUBIC QUADRUPLES. \nThere are infinitely, infinitely many of them.", 
+            "author": "Alastair Bateman"
+        }, 
+        {
+            "date": "2015-03-15T00:19:17.301Z", 
+            "text": "Yeah, it's always with powers of two. The 1D case can also be thought of as \na^2 = c^2", 
+            "author": "Daniel Titchener"
+        }, 
+        {
+            "date": "2015-02-26T10:18:00.650Z", 
+            "text": "3^3 + 4^3 + 5^3 = 6^3 ?", 
+            "author": "blargish27"
+        }, 
+        {
+            "date": "2015-02-14T18:52:38.613Z", 
+            "text": "Not at all man with n dimension its the sup of the square of each lenght", 
+            "author": "Zola num"
+        }, 
+        {
+            "date": "2015-02-06T16:13:29.509Z", 
+            "text": "Wrong. For three dimensions you get a third variable but the power stays 2. \nSo a\u00b2+b\u00b2+c\u00b2=d\u00b2", 
+            "author": "Skellborn"
+        }, 
+        {
+            "date": "2015-01-31T20:30:50.032Z", 
+            "text": "can we also say N can't equal 0\ufeff", 
+            "author": "sibtain ali"
+        }, 
+        {
+            "date": "2015-04-27T19:05:23.044Z", 
+            "text": "+greg55666 Sometimes english not being my native language my words distort \nwhat I want to say.When there are 1000 people saying a thing is in a \ncertain way and there is 1 saying its not,usually the 1000 people are \nright,unless we are dealing with a genius and again that doesnt mean \nanything.Except your inability to understand my points and keep responding \nback to me so many times that I try to rephrase things in a way to make \nyour retarded brain understand what I want to say the funny part is that \nyou try to put me down using what I am saying.Oh ye Ali-Sibtain is clearly \n5 times smarter than anyone in here because he asked a question that is \nequivalent to 9 or 10th  grade algebra(of which he already knew the answer \nto)Good luck bro you clearly saved this genius's future.Btw can you sell \nyour organs and give the money to your parents then hang yourself?You are \nreally retarded ty in advance", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-27T18:56:39.048Z", 
+            "text": "+giorgos taskik You're just really a fucking douchebag. Please shut the \nfuck up.", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-04-27T18:56:14.218Z", 
+            "text": "+sibtain ali Hey--I was afraid you might be getting uncomfortable that you \nare sort of, indirectly, the topic of this conversation. Let me be clear, \nmy purpose here is not to defend you. You do not need defending, you're \nobviously more thoughtful than many of the people on here. My purpose here \nis that I just cannot stand the stupidity involved in putting someone down \nfor asking a question. It is so fucking stupid to think you are smarter \nthan someone else because they asked a question. That attitude toward \nintellectualism is destructive. Imagine you had a child in grade school who \nis clearly 5 times smarter than the teacher, who gets put down for asking a \nquestion! I can't stand the combination of confidence and stupidity. This \nisn't about you at all! :)", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-04-27T18:51:51.018Z", 
+            "text": "+giorgos taskik \"there is a higher chance it is correct.\" That is totally \nidiotic.\n\nYou are a walking example of why appeal to authority does not work. You \nwant me to think you're smart because Greece gave you a second-place \nribbon. But I'm actually TALKING to you--I have repeated first-hand \nknowledge to the contrary.", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-04-27T18:18:37.522Z", 
+            "text": "+sibtain ali YOu asked a question in which you already know the \nanswer,whichi implies you are trying to play smart on the internet?yeah \ngood luck ", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-27T18:04:50.010Z", 
+            "text": "+giorgos taskik The bottom line is that I asked a question. People answered \nit. End of story. If you don't like the question or think its written \nincorrectly. Then you can say so. However I don't care. If you don't find \nit interesting, OK. However I don't care what you think. ", 
+            "author": "sibtain ali"
+        }, 
+        {
+            "date": "2015-04-27T17:25:02.998Z", 
+            "text": "+greg55666 I live in Greece,I finished 1st on my state then had to travel \nto Athens :) Its not really a college fund here but you are accepted into \nuni immediately.No,something isnt correct when most people think its \ncorrect but there is a higher chance it is correct.There is no truth in \nsubjectivity,thats one of my motos(that might sound arrogant and egoist but \ntbh I dont care what you think :D)Again you miss the point.I didnt show off \nmy 2nd place achievement in this test to empower my opinion and show you im \nsmart but you indirectly called me stupid and massified.Its ok you did \ngood,lost the point 2/2 times.go ahead respond to me judging one of my \narguments again because you have none,I love it ", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-27T15:24:52.427Z", 
+            "text": "+giorgos taskik Oh my fucking god, dude, this is logic 101. Popular opinion \ndoes not make something right or not.\n\nhahahaha THEN you go to an appeal to authority! Look at me! I did good on a \nphysics test! Therefore I must be right! My god! Seriously, dude, we're not \non some creationist message board debating whether the earth is 5000 years \nold! We're having this conversation on a video about MATH and you are just \npulling out one embarrassing logical fallacy after another! It is REALLY \nembarrassing!\n\n\n(I HAVE to ask what country this was that you were number 2 in. By the way, \nI ALSO \"Almost got a college funding\"--the thing holding me back was I \ndidn't ask. If only I had asked I am SURE I would have! Seriously, man, \nyou're acting like a moron. You need to stop.) It is always okay to be \nwrong, there is no shame in that. But doubling down after you realize \nyou're wrong is a serious sin. You really are embarrassing now.", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-04-27T15:03:22.624Z", 
+            "text": "+greg55666 Plus I didnt say im smart in any comment above so ye you are \nmaking assumptions once fucking trash :)", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-27T15:15:31.000Z", 
+            "text": "+greg55666 its funny that you think the way of masses is the wrong one.You \nmust be a teenage that feels special because he is not like everyone else.I \nknow right im so stupid thats why I was 2nd in the whole country in a \nphysics contest and almost got a college funding.Wake up fucking trash \nthere is a reason everyone goes to the same path not because they are \nstupid but because it is the right path.When everyone thinks you are insane \nyou probably are.You arent smarter than all of them,I dont expect to find a \ngenius here on youtube.But its ok I wasnt expecting you to understand \nanyway.I am bluntly against massification but these are 2 different \nmeanings.Its like saying that farming your field the same way every other \nfarmer does makes you stupid and wrong.", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-27T13:54:53.867Z", 
+            "text": "+giorgos taskik hahahaha now let's make an appeal to the masses! \"Everyone \nthinks the way I do so I MUST be right! I'm just super super smart!\" PLEASE \nSTOP TALKING! It's really embarrassing to listen to!", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-04-27T12:10:30.940Z", 
+            "text": "+greg55666 Of course when you see 500 replies of saying the same thing I \ndid and 1 guy saying something different who is the right one?Im not a \nfortune teller to guess what this guy meant fucking trash.*Hello guys I \nknow the theorem is applied for N>2 but what happens if N=0?* would be a \nclear question.Of course he is to blame fucking retard ", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-26T19:44:02.079Z", 
+            "text": "+giorgos taskik \"there is no point of saying N cant be 0\"\"You didnt \nunderstand it in the first place.You cant ask N cant be 0 right?\"\n\"He should have stated the question in a more obvious way.\" (That's my \nfavorite one. He's wrong because you didn't understand him. Funny, I didn't \nhave any trouble understanding him (his question was straightforward, after \nall)--nonetheless, HE's to blame for you not getting it.)\n\n\nPlease shut up now, it's gone from obnoxious to embarrassing to painful.", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-04-26T19:04:56.345Z", 
+            "text": "+sibtain ali you ask your question in a term where the number is the \nimportant thing which is already stated in the video > 2 and you complain \nthat people didnt understand you about something already stated in the \nvideo of which you already knew the answer.That sounds logical.With a mind \nof a 14 year old teenager you can actually find out that x+y=z has real \nsolutions and 1+1=1 has no solutions.You might find it amazing,I dont there \nare infinite functions that have a very specific ammount of numbers for \ntheir powers.", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-26T17:42:05.308Z", 
+            "text": "+giorgos taskik You are a troll on drugs right. Here is what I asked. \"can \nwe also say N can't equal 0.\"For which I know the answer to be yes. Meaning \nthat out of all the infinite natural numbers, N can only equal 1 and 2. \nThat's pretty amazing. Now you aren't fucking invited to take part in the \nconversation if you don't want.\n\nIts my question ans I'll ask it in any way I like. \n\nAs a note for next time your in an argument: \"If everyone smells like shit, \nmaybe look under you own shoe\"", 
+            "author": "sibtain ali"
+        }, 
+        {
+            "date": "2015-04-26T13:22:35.498Z", 
+            "text": "+greg55666 Plus you peice of shit internet troll his question wasnt \ninteresting at all nor genuine nor innovative.If you have made it past 6th \ngrade you will be able to answer all the questions stated for n=0 and n=1", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-26T13:18:55.088Z", 
+            "text": "+greg55666 When did I say he was wrong?Are you mentally challenged?", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-26T13:03:23.189Z", 
+            "text": "+giorgos taskik haha, for some reason you're ignoring the only interesting \nquestion here, which is: what is wrong with you?\n\n(I can't help but notice you went from saying he was wrong (which was \nwrong) to now saying it's just not interesting. So to avoid the question \nyou change the subject, without admitting you were wrong, but the fact that \nyou're still talking about it STILL begs the question: What is wrong with \nyou?\n\n\nWhat I'm saying, in a long-winded way, is stop being such a jackass.", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-04-26T09:06:27.762Z", 
+            "text": "+greg55666 I dont need you to tell me anything about math.He should have \nstated the question in a more obvious way.Oh ye x^0 + Y^0 (not equal) Z^0 \nis such an interesting question I see.", 
+            "author": "giorgos taskik"
+        }, 
+        {
+            "date": "2015-04-26T03:11:40.631Z", 
+            "text": "+giorgos taskik What's wrong with you? I cannot understand putting him down \nfor asking a question out of curiosity. It's really idiotic. The theorem \nsays \"for n > 2\"--how do we know what is the situation for n=0 and n=1? YOU \nsay there are assumptions in there, but there are not. All \"for n > 2\" says \nis \"for n > 2\"--it says UTTERLY NOTHING about n = 0 and n = 1. It's a \nperfectly legitimate question. Don't impute your own unfounded assumptions \non someone else who is smart and curious enough to be asking questions in \nother directions.\n\nAnd in fact, the question is actually way more interesting than you \nrealize. Look at the answer:\n\n\nn=0: No\nn=1: Yes\nn=2: Yes\nn=3: No\nn>3: No\n\n\nWhat is that about? Why are 1 and 2 yes and the rest of them no? That is an \nINTERESTING question--it is YOU who does not see that. It is stupid ever to \ncriticize anyone for asking an honest question, but in your case you really \nshould say to yourself, \"It's probably me who doesn't get it; I will keep \nmy mouth shut.\"", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2015-01-26T23:46:23.402Z", 
+            "text": " Just imagine if you would try to prove a similar theorem about integers, \nbut there exists a counterexample with 10^(10^100) digits(a really huge \nnumber), then no computer imaginable would ever find a counterexample and \nyet no one will ever be able to prove the theorem because it simply isn't \ntrue. It would be fucked up to try and dedicate years to try to prove \nsomething that isn't true :p\ufeff", 
+            "author": "dekippiesip"
+        }, 
+        {
+            "date": "2015-01-26T08:50:42.375Z", 
+            "text": "I think it's doesn't work becouse you won't cube the original triangle once \nyou do that the total area of the linked hypotenuses has to equal the other \ntwo sides cubed\ufeff", 
+            "author": "pakno gomez"
+        }, 
+        {
+            "date": "2015-01-23T11:15:47.269Z", 
+            "text": "You know, if I squint a bit, I can imagine it's Wez from \"Mad Max 2\" \ntelling me about numbers, and that somehow makes it awesome....\ufeff", 
+            "author": "theproplady"
+        }, 
+        {
+            "date": "2015-01-16T22:21:36.453Z", 
+            "text": "What if n (but not a b and c) were a negative integer or a non-real \nGaussian integer?\ufeff", 
+            "author": "Primus Productions"
+        }, 
+        {
+            "date": "2015-01-18T17:55:10.594Z", 
+            "text": "+Primus Productions For n = -2, we have 20^(-2) + 15^(-2) = 12^(-2).\n\nFor n < -2, here's a simple proof that there are no solutions:\nLet k > 2.\nAssume a^(-k) + b^(-k) = c^(-k).\nMultiply by (abc)^k: (bc)^k + (ac)^k = (ab)^k.\nSince bc, ac and ab are integers and k > 2, this contradicts Fermat's Last \nTheorem.\nThus, no solution can exist for n < -2.", 
+            "author": "piguy314159"
+        }, 
+        {
+            "date": "2015-01-18T14:58:08.943Z", 
+            "text": "+piguy314159 What about for n is less than -2 ?", 
+            "author": "Primus Productions"
+        }, 
+        {
+            "date": "2015-01-18T06:34:30.413Z", 
+            "text": "6^(-1) + 3^(-1) = 2^(-1)", 
+            "author": "piguy314159"
+        }, 
+        {
+            "date": "2015-01-15T13:06:10.240Z", 
+            "text": "n>2? n>=2\ufeff", 
+            "author": "pardanek"
+        }, 
+        {
+            "date": "2015-01-14T15:53:16.522Z", 
+            "text": "Sounds like Fermat was just trolling \"oh, I can prove this, but I'm not \ngonna write it down\" yeah right :P\n\nCome to think of it; Hey guys I figured out the meaning of life, but I have \nto go feed the cat. Bye.\ufeff", 
+            "author": "ybra"
+        }, 
+        {
+            "date": "2015-04-11T05:19:18.135Z", 
+            "text": "+ybra x = 42", 
+            "author": "Randy Sullivan Seck"
+        }, 
+        {
+            "date": "2015-04-02T18:48:03.182Z", 
+            "text": "42", 
+            "author": "TheMikeSwitch"
+        }, 
+        {
+            "date": "2015-03-25T23:22:09.280Z", 
+            "text": "And it also gives him credit that he said \"This proof would be too long for \nthis margin.\" And he was right. It would've been so many pages of proofs.", 
+            "author": "Kevin Zheng"
+        }, 
+        {
+            "date": "2015-03-25T23:21:33.616Z", 
+            "text": "He did this a lot though, with other proofs. And he was a reputable \nmathematician in other respects, that's why people think fermat wasn't just \ntrolling.", 
+            "author": "Kevin Zheng"
+        }, 
+        {
+            "date": "2015-03-23T23:35:55.119Z", 
+            "text": "+666Yamauti Okay then, seems I was confused about what you meant. Thanks \nfor the clarification. :)", 
+            "author": "Tomasz Wota (Xupicor)"
+        }, 
+        {
+            "date": "2015-03-23T19:30:58.292Z", 
+            "text": "+Tomasz Wota  I mean \"formal proof\". If you're aware of the philosophical \nmeaning of proof, then the correct words would be \"formal proof\". Of \ncourse, \"proof\" just means, in the epistemic level, the knowledge bout \nsomething. In the epistemic sense, Fermat could know about the truth of \nFLT, however he almost certainly didn't have a formal proof that would be \nwidely accepted by mathematicians. The reason is very simple, I study \narithmetic geometry so I have a grasp of knowledge of what is need to prove \nTaniyama-Shimura  conjecture. For this reason, I don't think a \ncomputational (or analytic) proof would be possible for a human, however \nusing indirect objects the proof can be realized in a more simple way. \nHowever those objects of algebraic geometry were not existent in Fermat's \nepoch.", 
+            "author": "666Yamauti"
+        }, 
+        {
+            "date": "2015-03-21T23:24:20.033Z", 
+            "text": "+666Yamauti What do you mean? You sound like you're confused about the word \n\"proof\" in context of mathematics.", 
+            "author": "Tomasz Wota (Xupicor)"
+        }, 
+        {
+            "date": "2015-03-21T23:04:01.753Z", 
+            "text": "He didn't know the proof. Probably, the best you can say, is that he had a \nlot of evidences of its truth, but not a proof...", 
+            "author": "666Yamauti"
+        }, 
+        {
+            "date": "2015-03-12T00:13:54.346Z", 
+            "text": "+Liviu Adrian I know the answer, the meaning of life is the preservation of \na local low entropy configurations.", 
+            "author": "Yuno \u201cPC Master Race\u201d Gasai"
+        }, 
+        {
+            "date": "2015-03-03T07:05:09.488Z", 
+            "text": "+walt7500 Truth has been spoken :) . ", 
+            "author": "Liviu Adrian"
+        }, 
+        {
+            "date": "2015-03-02T23:12:23.211Z", 
+            "text": "+Liviu Adrian\nLife isn't worth the trouble.", 
+            "author": "walt7500"
+        }, 
+        {
+            "date": "2015-02-26T07:57:45.729Z", 
+            "text": "+Liviu Adrian I know what happened before the big bang. I can prove it, \nafter I go eat.", 
+            "author": "Keyboard Warrior (TacticalxPlayer)"
+        }, 
+        {
+            "date": "2015-02-21T05:10:26.294Z", 
+            "text": "+Liviu Adrian 41? Was I close? :P", 
+            "author": "Tomasz Wota (Xupicor)"
+        }, 
+        {
+            "date": "2015-02-13T03:14:22.508Z", 
+            "text": "The meaning of life is having babies and not dying", 
+            "author": "Josh Adams"
+        }, 
+        {
+            "date": "2015-01-23T19:49:01.148Z", 
+            "text": "Well the meaning of life isn't such a big deal, in fact is quite lets say \nuninteresting, but i won't write it down :D", 
+            "author": "Liviu Adrian"
+        }, 
+        {
+            "date": "2015-01-11T19:36:51.284Z", 
+            "text": "", 
+            "author": "Umesh Thota"
+        }, 
+        {
+            "date": "2015-01-11T02:13:41.179Z", 
+            "text": "Fermat was burned at the stake by the Inquisition, and his proof along with \nit.\ufeff", 
+            "author": "zacharycat"
+        }, 
+        {
+            "date": "2015-01-07T22:23:30.778Z", 
+            "text": "7:53 I think he says \"lauded\" rather than \"loathed\"\ufeff", 
+            "author": "Sara Rosa"
+        }, 
+        {
+            "date": "2015-01-05T20:21:43.774Z", 
+            "text": "Can u not use proof by mathematical induction? \n\ufeff", 
+            "author": "Lyle10142"
+        }, 
+        {
+            "date": "2015-01-04T08:47:25.751Z", 
+            "text": "Simon, you forgot to tell that x,y,z could not be 0\ufeff", 
+            "author": "\uae40\ub3c4\uc5f0"
+        }, 
+        {
+            "date": "2015-01-01T09:11:26.747Z", 
+            "text": "since x^2 + y^2 = z^2 you're solving for a 2 dimensional equation... for a \n3 dimensional such as x^3 + y^3 you would need a 3rd coordinate to solve \nfor such as z^3 and elevate the equation to be x^3+y^3+z^3 = a^3: \n 3^3(27)+4^3(64)+5^3(125)(27+64+125=216) = 6^3(216).... you cannot solve \nfor a 3 dimensional object in a 2 dimensional plane as it is missing it's \n3rd coordinate... it cannot be represented...  squares exist in 2 \ndimensions while cubes exist in 3 dimensions that's the whole basis behind \n^2 and ^3 so ^4 would be in a 4 dimensional space... they're coordinate \nplanes and this is the proof that there is no answer to x^3 + y^3 = z^3. \nmath is intended as a function to understand the space(being a coordinate \nplane) around us... you need to be in the right dimension to solve these \nequations. \ufeff", 
+            "author": "Quantum Uncertainty Workshop"
+        }, 
+        {
+            "date": "2014-12-27T21:31:00.096Z", 
+            "text": "Fascinating, just fascinating..\ufeff", 
+            "author": "Nikolaos Skordilis"
+        }, 
+        {
+            "date": "2014-12-27T21:11:06.659Z", 
+            "text": "He looks like Jovenshire\ufeff", 
+            "author": "IFDIFGIF GAMES"
+        }, 
+        {
+            "date": "2014-12-15T03:32:49.681Z", 
+            "text": "Is a^3 + b^3 + c^3 = d^3 possible? Not including negatives. Because I have \na hunch that it is. I'm guessing that the solution is possible as long as \nthere are n+1 terms in the equation.\ufeff", 
+            "author": "how to counter yorick"
+        }, 
+        {
+            "date": "2014-12-15T03:16:45.073Z", 
+            "text": "x=69, y=420, z=666, n=1337\ufeff", 
+            "author": "3edgy 5me"
+        }, 
+        {
+            "date": "2014-12-03T22:39:31.814Z", 
+            "text": " Solved it. 0^3 + 0^3 = 0^3\ufeff", 
+            "author": "gameguy8101"
+        }, 
+        {
+            "date": "2014-11-30T11:09:42.512Z", 
+            "text": "fermat was the ultimate troll of academia\ufeff", 
+            "author": "Alex Trusk"
+        }, 
+        {
+            "date": "2014-11-29T17:09:23.709Z", 
+            "text": "GUYS i proved it but i have to eat this.\ufeff", 
+            "author": "Mega Garchomp"
+        }, 
+        {
+            "date": "2014-11-25T09:26:59.372Z", 
+            "text": "1^3 + 1^3 = 2\ufeff", 
+            "author": "YUKI \u201cKairouNYANYANYAN\u201d YUKIYUKI"
+        }, 
+        {
+            "date": "2014-11-10T16:21:30.616Z", 
+            "text": "love that mathematical mohawk! \ufeff", 
+            "author": "Daniel Cannata"
+        }, 
+        {
+            "date": "2014-11-10T06:26:44.066Z", 
+            "text": "The reason it doesn't work is because n=the number of dimensions needed so \nthere would have to be more supplemental sides \ufeff", 
+            "author": "PROTENIZED"
+        }, 
+        {
+            "date": "2014-11-10T02:01:24.815Z", 
+            "text": "Since he didn't pursue it, he probably realized he fucked up and it didn't \nwork. There's just no way some stone age bozo could bang some sticks \ntogether and come up with that proof\ufeff", 
+            "author": "cursedswordsman"
+        }, 
+        {
+            "date": "2014-11-03T05:36:26.000Z", 
+            "text": "Guys, Fermat's solutions is obvisously a math myth. The guy says he wrote \nthat he knew the solution and he died. This statement make one believe the \nhe died right after sayin he knew how to solve it, but he actually had \nyears to do this and he didnt do it. And if it was true, do you guys really \nthink that after all those years no one would have solved that?\ufeff", 
+            "author": "cowboy p2"
+        }, 
+        {
+            "date": "2014-10-27T21:30:39.729Z", 
+            "text": "I'VE GOT THE PROOF!! ... but I gotta go return some dvds to blockbuster :( \ufeff", 
+            "author": "usergroupX"
+        }, 
+        {
+            "date": "2014-10-21T22:02:42.146Z", 
+            "text": "I have found the values of the unknowns z,x,y and n!\n\nDon't believe me? Check my video on my channel. Haha!\ufeff", 
+            "author": "sharkalinum"
+        }, 
+        {
+            "date": "2014-10-02T02:42:28.665Z", 
+            "text": "But what if you put 1 in all the variables spaces\ufeff", 
+            "author": "Liam Sanche"
+        }, 
+        {
+            "date": "2014-09-12T15:23:52.717Z", 
+            "text": "Im reading Simon Singh's book now :) It has already been translated to \nbrazilian portuguese\ufeff", 
+            "author": "|T-Bside| Jey XP"
+        }, 
+        {
+            "date": "2014-09-09T06:12:24.636Z", 
+            "text": "Huh...this is a good story.\nI can already feel the soil of Mars under my feet.\ufeff", 
+            "author": "SoulCypress"
+        }, 
+        {
+            "date": "2014-09-05T07:02:10.011Z", 
+            "text": "I had a crack at this one about 25 years ago. Basically I said that if you \nwrite\n\np^n + (p+k)^n = q^n\n\nit's then fairly easy to construct a state machine that will list the \nvalues of (p,q) that satisfy the equation for any k if n=2.\n\nWhen the state machine halts it is then possible to deduce k from (p,q,n). \nWhat I then tried to prove was that for n>2, k could not be an integer. I \nfailed.\n\nHowever I wonder if this is how Fermat did it, basically by anticipating \nTuring's concept of computable numbers.\ufeff", 
+            "author": "Robert Billing"
+        }, 
+        {
+            "date": "2014-08-15T23:50:22.000Z", 
+            "text": "That is one hell of a compelling story, and this Simon tells it so well!\ufeff", 
+            "author": "Iorveth"
+        }, 
+        {
+            "date": "2014-08-15T19:36:52.076Z", 
+            "text": "x=0 y=0 z=0. wouldn't it work?\ufeff", 
+            "author": "Eurico Martins"
+        }, 
+        {
+            "date": "2014-08-14T06:29:06.429Z", 
+            "text": "7:54 Lauded\ufeff", 
+            "author": "toycannon81"
+        }, 
+        {
+            "date": "2014-08-05T19:33:15.314Z", 
+            "text": "3 squared + 3 squared = 6 squared\ufeff", 
+            "author": "McSuilenroc"
+        }, 
+        {
+            "date": "2014-07-03T07:04:39.855Z", 
+            "text": ";-)\ufeff", 
+            "author": "Sacred Geometry Decoded"
+        }, 
+        {
+            "date": "2014-06-16T03:08:59.999Z", 
+            "text": "That's really cool\ufeff", 
+            "author": "jncarlos007"
+        }, 
+        {
+            "date": "2014-06-05T06:28:39.813Z", 
+            "text": "the reason why the equation doesnt work is because their arent enough \ndimensions on one side of the question to match the dimensions on the \nother.... 2 additions-3cubed........what if they were even? what if it was \nx^n+y^n+a^n=z^n\n\n\nyour doing two dimensional math in three dimensional space.... \ufeff", 
+            "author": "bily bob"
+        }, 
+        {
+            "date": "2014-06-03T03:57:20.104Z", 
+            "text": "This guy looks so steampunk. \ufeff", 
+            "author": "probablynotsatanic66"
+        }, 
+        {
+            "date": "2014-04-28T05:01:05.180Z", 
+            "text": "I have always been amazed about how Wiles fully dedicated so much time and \neffort into his passion. In my opinion, it is even beyond the dedication of \nolympic athletes and self-made millionaires. Within the realm of math Wiles \nshowed that with enough determination you can solve a problem that 358 \nyears worth of professional mathematician's could not. It has been a great \nmotivation for me ever since i was 7 years old and read the news.\ufeff", 
+            "author": "Cesar Lima"
+        }, 
+        {
+            "date": "2014-03-27T02:08:38.530Z", 
+            "text": "Read Simon's book. One of the funnest reads on mathematics that I've ever \nread. \n\nThank you Simon!\ufeff", 
+            "author": "mrbrockpeters"
+        }, 
+        {
+            "date": "2014-03-17T23:31:49.677Z", 
+            "text": "i am so shocked at how well this guys pulls off that hair\ufeff", 
+            "author": "spartnstarcraft2"
+        }, 
+        {
+            "date": "2014-03-16T06:07:46.734Z", 
+            "text": " <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23FLT\">#FLT</a> \u00a0", 
+            "author": "Rakesh kumar"
+        }, 
+        {
+            "date": "2014-03-15T19:54:03.998Z", 
+            "text": "i like this geez hair\ufeff", 
+            "author": "wolfmanwill"
+        }, 
+        {
+            "date": "2014-03-15T05:53:59.634Z", 
+            "text": "", 
+            "author": "Ali Jamali"
+        }, 
+        {
+            "date": "2014-03-14T02:05:30.526Z", 
+            "text": "Ummm, log tables, or does the exponent have to be whole as well?\ufeff", 
+            "author": "Dawson Fox"
+        }, 
+        {
+            "date": "2014-03-13T01:42:38.882Z", 
+            "text": "Can someone explain something to me? Why doesn't x=0 y=0 z=0 work? I know \nthat n can't be smaller than 2, but what about the integers?\ufeff", 
+            "author": "Sam Belza"
+        }, 
+        {
+            "date": "2014-03-12T15:30:34.784Z", 
+            "text": "Was this proved via modular elliptical curves?\ufeff", 
+            "author": "Samus Aran (The WAR10CK)"
+        }, 
+        {
+            "date": "2014-03-09T04:35:39.422Z", 
+            "text": "how do you spell the tamiara shimure projection? (obviously misspelled)\ufeff", 
+            "author": "DoomCrystal"
+        }, 
+        {
+            "date": "2014-03-07T03:27:44.431Z", 
+            "text": "That would be any *integer* bigger than two, actually.\ufeff", 
+            "author": "denelson83"
+        }, 
+        {
+            "date": "2014-03-01T10:37:32.831Z", 
+            "text": "1^\u221ex2^\u221e=3^\u221e\n\n\ud83d\udc35\u00b3x\ud83d\udc7d\u00b3=\ud83d\udc6b\u00b3\ufeff", 
+            "author": "spcmartin420"
+        }, 
+        {
+            "date": "2014-02-06T16:18:36.406Z", 
+            "text": "uhm ahum:\n-1^3 +1^3=0^3\ufeff", 
+            "author": "universeoftanks"
+        }, 
+        {
+            "date": "2014-02-03T21:22:24.189Z", 
+            "text": "dont you have to say whole number solutions that are not 0? x^n+0^n=z^2 \nwould have a solution: x=z...\ufeff", 
+            "author": "Jonas Kr."
+        }, 
+        {
+            "date": "2014-02-03T20:29:52.871Z", 
+            "text": "has it been solved?\ufeff", 
+            "author": "okrajoe"
+        }, 
+        {
+            "date": "2014-01-29T15:41:24.500Z", 
+            "text": "What does Singh have against Ken Ribet?  It's not \"someone\" who connected \nTaniyama-Shimura to Fermat's Last Theorem, it was Ken Ribet!\ufeff", 
+            "author": "greg55666"
+        }, 
+        {
+            "date": "2014-01-29T03:51:52.123Z", 
+            "text": "Isnt the solution already a whole number? There is no decimal\ufeff", 
+            "author": "JC-130"
+        }, 
+        {
+            "date": "2014-01-16T19:03:36.999Z", 
+            "text": "Next thing to do: Apply this to other base counting systems.\ufeff", 
+            "author": "Jackalope"
+        }, 
+        {
+            "date": "2013-11-12T02:59:14.034Z", 
+            "text": "my aunt had a cat she named after fermat. the spelling? furmatt\ufeff", 
+            "author": "EmilyEmilyIris"
+        }, 
+        {
+            "date": "2013-11-11T12:19:54.685Z", 
+            "text": "\"Mathematician, mathmagician why hast thou deserted and sacrificed me so \nthat now I find I've been forced to portray myself as a simpleton in the TV \nseries 'ATLANTIS'.\"\ufeff", 
+            "author": "Alastair Bateman"
+        }, 
+        {
+            "date": "2013-11-10T02:17:27.750Z", 
+            "text": "x^n+y^n=z^n\nn<2\nx=98\ny=1\nz=98\nn=any whole number\nthis works, I have solved it, there is no rule against useing one or \nreapeating a number, so I have figured it out, thank you, I will accept the \nmy reward in PURE gold\ufeff", 
+            "author": "grizzly bear"
+        }, 
+        {
+            "date": "2013-11-09T07:21:08.706Z", 
+            "text": "\"A problem worthy of attack proves itself by fighting back.\" It's called \nTHE PYTHAGORAS THEOREM.\ufeff", 
+            "author": "Alastair Bateman"
+        }, 
+        {
+            "date": "2013-11-08T17:49:53.125Z", 
+            "text": "Again, if the Wikipedia article is correct, another factual error here: \nWiles didn't prove the Tanayama-Shimura-Weil Conjecture, but his proof of \nFermat's Last Theorem covered much of it, paving the way for its eventual \ncomplete proof several years later. Perhaps a small detail, but they call \ncount.\ufeff", 
+            "author": "Greg M"
+        }, 
+        {
+            "date": "2013-11-08T17:43:32.000Z", 
+            "text": "Fermat didn't drop dead after writing that famous note - he lived nearly 30 \nmore years, but never got around to proving for any N other than 4 (if \nWikipedia's article is correct).\ufeff", 
+            "author": "Greg M"
+        }, 
+        {
+            "date": "2013-11-07T16:54:43.682Z", 
+            "text": "Jeez his guy is the coolest looking Mathematician in the world.\ufeff", 
+            "author": "Kami K (Kolo)"
+        }, 
+        {
+            "date": "2013-11-07T03:49:32.780Z", 
+            "text": "I wish I had this man as a teacher. He sounds like he'd be awesome at \nexplaining problems and formulas that I wouldn't get.\ufeff", 
+            "author": "Tyler Hish"
+        }, 
+        {
+            "date": "2013-11-06T02:39:21.690Z", 
+            "text": "Fermat didn't prove his theorem, it's sort of why 350 years later we're \nconfirming his assumption, in a proof that is like 8 pages of maths that \nFermat would probably cry at. Though if you have evidence otherwise I would \nlove to see his proof.", 
+            "author": "Phaze252"
+        }, 
+        {
+            "date": "2013-11-05T17:59:57.035Z", 
+            "text": "If Fermat's son had not published his notes NOBODY would have known about \nit. I believe he wrote it as an' aide de memoire' and in the manner that he \ndid because they were secretive back then. Nobody gives a reason for why he \nwrote it where he did in Arithmetica'. I have not seen any reasoned \narguments by the pundits who deny his proof to show that the mathematics of \nthe period were not up to task. My suggestion to you is SHOT THE DRAGON. PM \nme and I will point you to a proof. ", 
+            "author": "Alastair Bateman"
+        }
+    ]
+}

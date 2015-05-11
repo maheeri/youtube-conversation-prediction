@@ -1,0 +1,1528 @@
+{
+    "publish_date": "2009-08-27T20:55:26.000Z", 
+    "video_length": "PT9M56S", 
+    "captions": [
+        {
+            "text": "We know what a chemical equation\nis and we&#39;ve learned", 
+            "dur": "2.88", 
+            "start": "0.49"
+        }, 
+        {
+            "text": "how to balance it.", 
+            "dur": "1.16", 
+            "start": "3.37"
+        }, 
+        {
+            "text": "Now, we&#39;re ready to learn\nabout stoichiometry.", 
+            "dur": "2.81", 
+            "start": "4.53"
+        }, 
+        {
+            "text": "And this is an ultra fancy word\nthat often makes people", 
+            "dur": "4.98", 
+            "start": "7.34"
+        }, 
+        {
+            "text": "think it&#39;s difficult.", 
+            "dur": "1.53", 
+            "start": "12.32"
+        }, 
+        {
+            "text": "But it&#39;s really just the study\nor the calculation of the", 
+            "dur": "4.79", 
+            "start": "13.85"
+        }, 
+        {
+            "text": "relationships between\nthe different", 
+            "dur": "1.67", 
+            "start": "18.64"
+        }, 
+        {
+            "text": "molecules in a reaction.", 
+            "dur": "1.22", 
+            "start": "20.31"
+        }, 
+        {
+            "text": "This is the actual definition\nthat Wikipedia gives,", 
+            "dur": "2.83", 
+            "start": "21.53"
+        }, 
+        {
+            "text": "stoichiometry is the calculation\nof quantitative,", 
+            "dur": "2.43", 
+            "start": "24.36"
+        }, 
+        {
+            "text": "or measurable, relationships\nof the", 
+            "dur": "2", 
+            "start": "26.79"
+        }, 
+        {
+            "text": "reactants and the products.", 
+            "dur": "1.97", 
+            "start": "28.79"
+        }, 
+        {
+            "text": "And you&#39;re going to see in\nchemistry, sometimes people", 
+            "dur": "2.22", 
+            "start": "30.76"
+        }, 
+        {
+            "text": "use the word reagents.", 
+            "dur": "1.58", 
+            "start": "32.98"
+        }, 
+        {
+            "text": "For most of our purposes you can\nuse the word reagents and", 
+            "dur": "6.32", 
+            "start": "34.56"
+        }, 
+        {
+            "text": "reactants interchangeably.", 
+            "dur": "1.29", 
+            "start": "40.88"
+        }, 
+        {
+            "text": "They&#39;re both the reactants\nin a reaction.", 
+            "dur": "2.17", 
+            "start": "42.17"
+        }, 
+        {
+            "text": "The reagents are sometimes for\nspecial types of reactions", 
+            "dur": "2.49", 
+            "start": "44.34"
+        }, 
+        {
+            "text": "where you want to throw a\nreagent in and see if", 
+            "dur": "2.48", 
+            "start": "46.83"
+        }, 
+        {
+            "text": "something happens.", 
+            "dur": "0.76", 
+            "start": "49.31"
+        }, 
+        {
+            "text": "And see if your belief about\nthat substance is true or", 
+            "dur": "2.91", 
+            "start": "50.07"
+        }, 
+        {
+            "text": "things like that.", 
+            "dur": "0.64", 
+            "start": "52.98"
+        }, 
+        {
+            "text": "But for our purposes\na reagent and", 
+            "dur": "1.48", 
+            "start": "53.62"
+        }, 
+        {
+            "text": "reactant is the same thing.", 
+            "dur": "1.69", 
+            "start": "55.1"
+        }, 
+        {
+            "text": "So it&#39;s a relationship between\nthe reactants and the products", 
+            "dur": "2.6", 
+            "start": "56.79"
+        }, 
+        {
+            "text": "in a balanced chemical\nequation.", 
+            "dur": "1.66", 
+            "start": "59.39"
+        }, 
+        {
+            "text": "So if we&#39;re given an unbalanced\none, we know how to", 
+            "dur": "1.62", 
+            "start": "61.05"
+        }, 
+        {
+            "text": "get to the balanced point.", 
+            "dur": "1.065", 
+            "start": "62.67"
+        }, 
+        {
+            "text": "A balanced chemical equation.", 
+            "dur": "1.675", 
+            "start": "63.735"
+        }, 
+        {
+            "text": "So let&#39;s do some\nstoichiometry.", 
+            "dur": "2.79", 
+            "start": "65.41"
+        }, 
+        {
+            "text": "Just so we get practice\nbalancing equations, I&#39;m", 
+            "dur": "1.94", 
+            "start": "70.72"
+        }, 
+        {
+            "text": "always going to start with\nunbalanced equations.", 
+            "dur": "2.2", 
+            "start": "72.66"
+        }, 
+        {
+            "text": "Let&#39;s say we have iron\nthree oxide.", 
+            "dur": "2.623", 
+            "start": "74.86"
+        }, 
+        {
+            "text": "Two iron atoms with three\noxygen atoms.", 
+            "dur": "5.02", 
+            "start": "81.57"
+        }, 
+        {
+            "text": "Plus aluminum, Al.", 
+            "dur": "3.59", 
+            "start": "86.59"
+        }, 
+        {
+            "text": "And it yields Al2\nO3 plus iron.", 
+            "dur": "9.89", 
+            "start": "90.18"
+        }, 
+        {
+            "text": "So remember when we&#39;re doing\nstoichiometry first of all, we", 
+            "dur": "2.13", 
+            "start": "100.07"
+        }, 
+        {
+            "text": "want to deal with balanced\nequations.", 
+            "dur": "1.34", 
+            "start": "102.2"
+        }, 
+        {
+            "text": "A lot of stoichiometry problems\nwill give you a", 
+            "dur": "1.71", 
+            "start": "103.54"
+        }, 
+        {
+            "text": "balanced equation.", 
+            "dur": "0.78", 
+            "start": "105.25"
+        }, 
+        {
+            "text": "But I think it&#39;s good practice\nto actually balance the", 
+            "dur": "2.06", 
+            "start": "106.03"
+        }, 
+        {
+            "text": "equations ourselves.", 
+            "dur": "0.735", 
+            "start": "108.09"
+        }, 
+        {
+            "text": "So let&#39;s try to balance\nthis one.", 
+            "dur": "2.145", 
+            "start": "108.825"
+        }, 
+        {
+            "text": "We have two iron atoms here\nin this iron three oxide.", 
+            "dur": "4.27", 
+            "start": "110.97"
+        }, 
+        {
+            "text": "How many iron atoms do we have\non the right hand side?", 
+            "dur": "2.51", 
+            "start": "115.24"
+        }, 
+        {
+            "text": "We only have one.", 
+            "dur": "0.82", 
+            "start": "117.75"
+        }, 
+        {
+            "text": "So let&#39;s multiply this\nby 2 right here.", 
+            "dur": "4.86", 
+            "start": "118.57"
+        }, 
+        {
+            "text": "All right, oxygen, we have\nthree on this side.", 
+            "dur": "3.49", 
+            "start": "123.43"
+        }, 
+        {
+            "text": "We have three oxygens\non that side.", 
+            "dur": "2.559", 
+            "start": "126.92"
+        }, 
+        {
+            "text": "That looks good.", 
+            "dur": "1.261", 
+            "start": "129.479"
+        }, 
+        {
+            "text": "Aluminum, on the left hand\nside we only have", 
+            "dur": "1.74", 
+            "start": "130.74"
+        }, 
+        {
+            "text": "one aluminum atom.", 
+            "dur": "1.76", 
+            "start": "132.48"
+        }, 
+        {
+            "text": "On the right hand side we have\ntwo aluminum atoms. So we have", 
+            "dur": "2.3", 
+            "start": "134.24"
+        }, 
+        {
+            "text": "to put a 2 here.", 
+            "dur": "2.16", 
+            "start": "136.54"
+        }, 
+        {
+            "text": "And we have balanced\nthis equation.", 
+            "dur": "2.56", 
+            "start": "138.7"
+        }, 
+        {
+            "text": "So now we&#39;re ready to do\nsome stoichiometry.", 
+            "dur": "1.41", 
+            "start": "141.26"
+        }, 
+        {
+            "text": "There&#39;s not just one type of\nstoichiometry problem, but", 
+            "dur": "2", 
+            "start": "148.45"
+        }, 
+        {
+            "text": "they&#39;re all along the lines of,\nif I give you x grams of", 
+            "dur": "3.1", 
+            "start": "150.45"
+        }, 
+        {
+            "text": "this how many grams of aluminum\ndo I need to make", 
+            "dur": "2.7", 
+            "start": "153.55"
+        }, 
+        {
+            "text": "this reaction happen?", 
+            "dur": "1.07", 
+            "start": "156.25"
+        }, 
+        {
+            "text": "Or if I give you y grams of this\nmolecule and z grams of", 
+            "dur": "5.16", 
+            "start": "157.32"
+        }, 
+        {
+            "text": "this molecule which one&#39;s\ngoing to run out first?", 
+            "dur": "2.2", 
+            "start": "162.48"
+        }, 
+        {
+            "text": "That&#39;s all stoichiometry.", 
+            "dur": "0.93", 
+            "start": "164.68"
+        }, 
+        {
+            "text": "And we&#39;ll actually do those\nexact two types of problems in", 
+            "dur": "2.85", 
+            "start": "165.61"
+        }, 
+        {
+            "text": "this video.", 
+            "dur": "1.22", 
+            "start": "168.46"
+        }, 
+        {
+            "text": "So let&#39;s say that we were given\n85 grams of the iron", 
+            "dur": "10.33", 
+            "start": "169.68"
+        }, 
+        {
+            "text": "three oxide.", 
+            "dur": "1.25", 
+            "start": "180.01"
+        }, 
+        {
+            "text": "So my question to you\nis how many grams of", 
+            "dur": "3.36", 
+            "start": "183.76"
+        }, 
+        {
+            "text": "aluminum do we need?", 
+            "dur": "1.25", 
+            "start": "187.12"
+        }, 
+        {
+            "text": "Well you look at the equation,\nyou immediately", 
+            "dur": "2.05", 
+            "start": "191.75"
+        }, 
+        {
+            "text": "see the mole ratio.", 
+            "dur": "1.35", 
+            "start": "193.8"
+        }, 
+        {
+            "text": "So for every mole of this, so\nfor every one atom we use of", 
+            "dur": "6.04", 
+            "start": "195.15"
+        }, 
+        {
+            "text": "iron three oxide we need\ntwo aluminums.", 
+            "dur": "4.65", 
+            "start": "201.19"
+        }, 
+        {
+            "text": "So what we need to do is figure\nout how many moles of", 
+            "dur": "3.55", 
+            "start": "205.84"
+        }, 
+        {
+            "text": "this molecule there are in 85\ngrams. And then we need to", 
+            "dur": "4.03", 
+            "start": "209.39"
+        }, 
+        {
+            "text": "have twice as many moles\nof aluminum.", 
+            "dur": "2.51", 
+            "start": "213.42"
+        }, 
+        {
+            "text": "Because for every mole of the\niron three oxide, we have two", 
+            "dur": "2.98", 
+            "start": "215.93"
+        }, 
+        {
+            "text": "moles of aluminum.", 
+            "dur": "0.89", 
+            "start": "218.91"
+        }, 
+        {
+            "text": "And we&#39;re just looking at the\ncoefficients, we&#39;re just", 
+            "dur": "1.95", 
+            "start": "219.8"
+        }, 
+        {
+            "text": "looking at the numbers.", 
+            "dur": "1.1", 
+            "start": "221.75"
+        }, 
+        {
+            "text": "One molecule of iron three\noxide combines with two", 
+            "dur": "4.06", 
+            "start": "222.85"
+        }, 
+        {
+            "text": "molecule of aluminum to make\nthis reaction happen.", 
+            "dur": "2.84", 
+            "start": "226.91"
+        }, 
+        {
+            "text": "So lets first figure out how\nmany moles 85 grams are.", 
+            "dur": "4.63", 
+            "start": "229.75"
+        }, 
+        {
+            "text": "So what&#39;s the atomic mass\nor the mass number", 
+            "dur": "4.24", 
+            "start": "234.38"
+        }, 
+        {
+            "text": "of this entire molecule?", 
+            "dur": "1.59", 
+            "start": "238.62"
+        }, 
+        {
+            "text": "Let me do it down here.", 
+            "dur": "2.41", 
+            "start": "240.21"
+        }, 
+        {
+            "text": "So we have two irons\nand three oxygens.", 
+            "dur": "5.81", 
+            "start": "242.62"
+        }, 
+        {
+            "text": "So let me go down and figure out\nthe atomic masses of iron", 
+            "dur": "5.79", 
+            "start": "248.43"
+        }, 
+        {
+            "text": "and oxygen.", 
+            "dur": "1.39", 
+            "start": "254.22"
+        }, 
+        {
+            "text": "So iron is right here, 55.85.", 
+            "dur": "4.479", 
+            "start": "255.61"
+        }, 
+        {
+            "text": "I think it&#39;s fair enough\nto round to 56.", 
+            "dur": "3.331", 
+            "start": "260.089"
+        }, 
+        {
+            "text": "Let&#39;s say we&#39;re dealing with\nthe version of iron, the", 
+            "dur": "2.35", 
+            "start": "263.42"
+        }, 
+        {
+            "text": "isotope of iron, that\nhas 30 neutrons.", 
+            "dur": "3.12", 
+            "start": "265.77"
+        }, 
+        {
+            "text": "So it has an atomic\nmass number of 56.", 
+            "dur": "4.1", 
+            "start": "268.89"
+        }, 
+        {
+            "text": "So iron has 56 atomic\nmass number.", 
+            "dur": "2.82", 
+            "start": "272.99"
+        }, 
+        {
+            "text": "And then oxygen, we already\nknow, is 16.", 
+            "dur": "4.69", 
+            "start": "275.81"
+        }, 
+        {
+            "text": "Iron was 56.", 
+            "dur": "6.74", 
+            "start": "280.5"
+        }, 
+        {
+            "text": "This mass is going to be 2\ntimes 56 plus 3 times 16.", 
+            "dur": "9.07", 
+            "start": "287.24"
+        }, 
+        {
+            "text": "We can do that in our heads.", 
+            "dur": "1.15", 
+            "start": "296.31"
+        }, 
+        {
+            "text": "But this isn&#39;t a math\nvideo, so I&#39;ll get", 
+            "dur": "1.72", 
+            "start": "297.46"
+        }, 
+        {
+            "text": "the calculator out.", 
+            "dur": "1.25", 
+            "start": "299.18"
+        }, 
+        {
+            "text": "2 times 56 plus 3 times\n16 is equal to 160.", 
+            "dur": "10.07", 
+            "start": "306.69"
+        }, 
+        {
+            "text": "Is that right?", 
+            "dur": "0.36", 
+            "start": "316.76"
+        }, 
+        {
+            "text": "That&#39;s 48 plus 112,\nright, 160.", 
+            "dur": "3.84", 
+            "start": "317.12"
+        }, 
+        {
+            "text": "So one molecule of iron three\noxide is going to be 160", 
+            "dur": "8.49", 
+            "start": "320.96"
+        }, 
+        {
+            "text": "atomic mass units.", 
+            "dur": "2.96", 
+            "start": "329.45"
+        }, 
+        {
+            "text": "So one mole or 6.02 times 10\nto the 23 molecules of iron", 
+            "dur": "9.21", 
+            "start": "332.41"
+        }, 
+        {
+            "text": "oxide is going to have\na mass of 160 grams.", 
+            "dur": "14.18", 
+            "start": "341.62"
+        }, 
+        {
+            "text": "So in our reaction we said we&#39;re\nstarting off with 85", 
+            "dur": "3.02", 
+            "start": "355.8"
+        }, 
+        {
+            "text": "grams of iron oxide.", 
+            "dur": "1.69", 
+            "start": "358.82"
+        }, 
+        {
+            "text": "How many moles is that?", 
+            "dur": "1.5", 
+            "start": "360.51"
+        }, 
+        {
+            "text": "Well 85 grams of iron\nthree oxide is equal", 
+            "dur": "6.42", 
+            "start": "362.01"
+        }, 
+        {
+            "text": "to 85 over 160 moles.", 
+            "dur": "5.08", 
+            "start": "368.43"
+        }, 
+        {
+            "text": "So that&#39;s equal to, 85 divided\nby 160 equals 0.53125.", 
+            "dur": "7.73", 
+            "start": "373.51"
+        }, 
+        {
+            "text": "Equals 0.53 moles.", 
+            "dur": "3.96", 
+            "start": "381.24"
+        }, 
+        {
+            "text": "So everything we&#39;ve done so far\nin this green and light", 
+            "dur": "2.53", 
+            "start": "385.2"
+        }, 
+        {
+            "text": "blue, we figured out how\nmany moles 85 grams of", 
+            "dur": "3.68", 
+            "start": "387.73"
+        }, 
+        {
+            "text": "iron three oxide is.", 
+            "dur": "3.12", 
+            "start": "391.41"
+        }, 
+        {
+            "text": "And we figured out\nit&#39;s 0.53 moles.", 
+            "dur": "1.78", 
+            "start": "394.53"
+        }, 
+        {
+            "text": "Because a full mole would\nhave been 160 grams. But", 
+            "dur": "2.01", 
+            "start": "396.31"
+        }, 
+        {
+            "text": "we only have 85.", 
+            "dur": "1.36", 
+            "start": "398.32"
+        }, 
+        {
+            "text": "So it&#39;s point 0.53 moles.", 
+            "dur": "1.86", 
+            "start": "399.68"
+        }, 
+        {
+            "text": "And we know from this balanced\nequation, that for every mole", 
+            "dur": "3.35", 
+            "start": "401.54"
+        }, 
+        {
+            "text": "of iron three oxide we\nhave, we need to have", 
+            "dur": "1.89", 
+            "start": "404.89"
+        }, 
+        {
+            "text": "two moles of aluminum.", 
+            "dur": "1.32", 
+            "start": "406.78"
+        }, 
+        {
+            "text": "So if we have 0.53 moles of the\niron molecule, iron three", 
+            "dur": "6.24", 
+            "start": "408.1"
+        }, 
+        {
+            "text": "oxide, then we&#39;re going to need\ntwice as many aluminum.", 
+            "dur": "4.2", 
+            "start": "414.34"
+        }, 
+        {
+            "text": "So we&#39;re going to need 1.06\nmoles of aluminum.", 
+            "dur": "8", 
+            "start": "418.54"
+        }, 
+        {
+            "text": "I just took 0.53 times 2.", 
+            "dur": "2.6", 
+            "start": "426.54"
+        }, 
+        {
+            "text": "Because the ratio is 1:2.", 
+            "dur": "2.37", 
+            "start": "429.14"
+        }, 
+        {
+            "text": "For every molecule of this, we\nneed two molecules of that.", 
+            "dur": "2.64", 
+            "start": "431.51"
+        }, 
+        {
+            "text": "So for every mole of this, we\nneed two moles of this.", 
+            "dur": "2.66", 
+            "start": "434.15"
+        }, 
+        {
+            "text": "If we have 0.53 moles, you\nmultiply that by 2, and you", 
+            "dur": "3.4", 
+            "start": "436.81"
+        }, 
+        {
+            "text": "have 1.06 moles of aluminum.", 
+            "dur": "3.15", 
+            "start": "440.21"
+        }, 
+        {
+            "text": "All right, so we just have to\nfigure out how many grams is a", 
+            "dur": "2.97", 
+            "start": "443.36"
+        }, 
+        {
+            "text": "mole of aluminum and then\nmultiply that times 1.06 and", 
+            "dur": "2.91", 
+            "start": "446.33"
+        }, 
+        {
+            "text": "we&#39;re done.", 
+            "dur": "1.04", 
+            "start": "449.24"
+        }, 
+        {
+            "text": "So aluminum, or aluminium as\nsome of our friends across the", 
+            "dur": "6.4", 
+            "start": "450.28"
+        }, 
+        {
+            "text": "pond might say.", 
+            "dur": "2.02", 
+            "start": "456.68"
+        }, 
+        {
+            "text": "Aluminium, actually\nI enjoy that more.", 
+            "dur": "2.7", 
+            "start": "458.7"
+        }, 
+        {
+            "text": "Aluminium has the atomic\nweight or the", 
+            "dur": "5.67", 
+            "start": "461.4"
+        }, 
+        {
+            "text": "weighted average is 26.98.", 
+            "dur": "1.73", 
+            "start": "467.07"
+        }, 
+        {
+            "text": "But let&#39;s just say that the\naluminium that we&#39;re dealing", 
+            "dur": "2.62", 
+            "start": "468.8"
+        }, 
+        {
+            "text": "with has a mass of 27\natomic mass units.", 
+            "dur": "3.7", 
+            "start": "471.42"
+        }, 
+        {
+            "text": "So one aluminum is 27\natomic mass units.", 
+            "dur": "6.65", 
+            "start": "478"
+        }, 
+        {
+            "text": "So one mole of aluminium is\ngoing to be 27 grams. Or 6.02", 
+            "dur": "7.91", 
+            "start": "484.65"
+        }, 
+        {
+            "text": "times 10 to 23 aluminium atoms\nis going to be 27 grams. So if", 
+            "dur": "5.735", 
+            "start": "492.56"
+        }, 
+        {
+            "text": "we need 1.06 moles, how many\nis that going to be?", 
+            "dur": "3.675", 
+            "start": "498.295"
+        }, 
+        {
+            "text": "So 1.06 moles of aluminium is\nequal to 1.06 times 27 grams.", 
+            "dur": "9.84", 
+            "start": "501.97"
+        }, 
+        {
+            "text": "And what is that?", 
+            "dur": "1.25", 
+            "start": "511.81"
+        }, 
+        {
+            "text": "1.06 times 27.", 
+            "dur": "5.88", 
+            "start": "515.21"
+        }, 
+        {
+            "text": "Equals 28.62.", 
+            "dur": "1.719", 
+            "start": "521.09"
+        }, 
+        {
+            "text": "So we need 28.62 grams of\naluminium, I won&#39;t write the", 
+            "dur": "8.521", 
+            "start": "522.809"
+        }, 
+        {
+            "text": "whole thing there, in order to\nessentially use up our 85", 
+            "dur": "5.23", 
+            "start": "531.33"
+        }, 
+        {
+            "text": "grams of the iron three oxide.", 
+            "dur": "2.16", 
+            "start": "536.56"
+        }, 
+        {
+            "text": "And if we had more than 28.62\ngrams of aluminium, then", 
+            "dur": "5.85", 
+            "start": "538.72"
+        }, 
+        {
+            "text": "they&#39;ll be left over after\nthis reaction happens.", 
+            "dur": "3.03", 
+            "start": "544.57"
+        }, 
+        {
+            "text": "Assuming we keep mixing it\nnicely and the whole reaction", 
+            "dur": "3.06", 
+            "start": "547.6"
+        }, 
+        {
+            "text": "happens all the way.", 
+            "dur": "0.88", 
+            "start": "550.66"
+        }, 
+        {
+            "text": "And we&#39;ll talk more about\nthat in the future.", 
+            "dur": "4.27", 
+            "start": "551.54"
+        }, 
+        {
+            "text": "And in that situation where we\nhave more than 28.63 grams of", 
+            "dur": "4.14", 
+            "start": "555.81"
+        }, 
+        {
+            "text": "aluminium, then this molecule\nwill be the limiting reagent.", 
+            "dur": "4.67", 
+            "start": "559.95"
+        }, 
+        {
+            "text": "Because we had more than enough\nof this, so this is", 
+            "dur": "3.09", 
+            "start": "564.62"
+        }, 
+        {
+            "text": "what&#39;s going to limit\nthe amount of this", 
+            "dur": "3.39", 
+            "start": "567.71"
+        }, 
+        {
+            "text": "process from happening.", 
+            "dur": "0.99", 
+            "start": "571.1"
+        }, 
+        {
+            "text": "If we have less than 28.63 grams\nof, I&#39;ll start saying", 
+            "dur": "4.68", 
+            "start": "572.09"
+        }, 
+        {
+            "text": "aluminum, then the aluminum will\nbe the limiting reagent,", 
+            "dur": "3.49", 
+            "start": "576.77"
+        }, 
+        {
+            "text": "because then we wouldn&#39;t be able\nto use all the 85 grams", 
+            "dur": "3.24", 
+            "start": "580.26"
+        }, 
+        {
+            "text": "of our iron molecule, or our\niron three oxide molecule.", 
+            "dur": "4.11", 
+            "start": "583.5"
+        }, 
+        {
+            "text": "Anyway, I don&#39;t want to confuse\nyou in the end with", 
+            "dur": "2.265", 
+            "start": "587.61"
+        }, 
+        {
+            "text": "that limiting reagents.", 
+            "dur": "0.765", 
+            "start": "589.875"
+        }, 
+        {
+            "text": "In the next video, we&#39;ll do\na whole problem devoted to", 
+            "dur": "2.76", 
+            "start": "590.64"
+        }, 
+        {
+            "text": "limiting reagents.", 
+            "dur": "1.63", 
+            "start": "593.4"
+        }
+    ], 
+    "title": "Stoichiometry", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/072_3", 
+        "/m/01lj9"
+    ], 
+    "number_views": 885760, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-14T13:33:09.581Z", 
+            "text": "Thanks, +Khan Academy!\ufeff", 
+            "author": "Fam Gross"
+        }, 
+        {
+            "date": "2015-03-24T15:26:44.230Z", 
+            "text": "I guess the only thing about this video that is confusing is your start out \nusing significant figures by just using 2 numbers and then at the end your \nanswer is 4 significant figures. Aren't  you supposed to stick with 2 since \nit was 85g? Or do you not do that when doing these kind of problems?\ufeff", 
+            "author": "arb123"
+        }, 
+        {
+            "date": "2015-03-24T14:03:28.530Z", 
+            "text": "I need a new teacher... Thank you for this video\ufeff", 
+            "author": "arb123"
+        }, 
+        {
+            "date": "2015-03-12T16:43:47.244Z", 
+            "text": "I love khan academy\ufeff", 
+            "author": "The_Chemistry_Major"
+        }, 
+        {
+            "date": "2015-03-12T10:03:05.407Z", 
+            "text": "I have a test tomorow and on the study guide it says, \"how many grams of \nsulfuric acid would be required to react with .75 g of sodium hyrdroxide?\" \nI dont get how to balance it because theres no product\ufeff", 
+            "author": "M Rachel"
+        }, 
+        {
+            "date": "2015-03-13T10:34:46.693Z", 
+            "text": "+Hunter Prescott thanks! :)", 
+            "author": "M Rachel"
+        }, 
+        {
+            "date": "2015-03-13T06:08:38.000Z", 
+            "text": "H2SO4 + 2NaOH - > Na2SO4 + 2H20\nthis problem is actually generous in giving you the name of H2SO4 (Sulfuric \nAcid) so you can identify it is an acid-base reaction, in general these \nreactions tend to be double-replacements (cations switch). after creating \nthe double-replacement reaction making sure we 'satisfy' charges by writing \nsodium sulfate as Na2SO4 (instead of NaSO4-, a common mistake) because Na \nhas a +1 charge and SO4 a -2 we have to 'satisfy' the moles and therein the \nLaw of conservation of mass by adding a 2 infront of NaOH and H2O, we can \nthen simply proceed with mole ratio calculations after doing this.\nFinding moles of NaOH: 0.75 g NaOH/(22.99g + 16.00g + 1.01g) = 0.01875 mol\nUsing mole ratio to find moles of H2SO4: (0.01875 mol NaOH x 1 mol H2SO4) / \n2 mol NaOH = 0.009375 mol H2SO4\nFinding grams of H2SO4 from mol of H2SO4: (0.009375 mol H2SO4 x 98.079g \nH2SO4)/ 1 mol H2SO4 = 0.92 g H2SO4\nSource: 15 year old with 2 years of High School Chemistry experience.\nPS: I know you already took your test by now but nonetheless you always \nwant to understand concepts for bigger tests that come along later in the \nyear, or even AP tests for college credit. Good luck in your chemical \nendeavors Megen!", 
+            "author": "Hunter Prescott"
+        }, 
+        {
+            "date": "2015-03-12T01:03:59.496Z", 
+            "text": "Awesome! I failed my Stoichiometry test, and i am taking a retake of it in \na few days. This video explained it better than my teacher did! :D Thank \nyou for this! \ufeff", 
+            "author": "Chris Vieau"
+        }, 
+        {
+            "date": "2015-03-11T19:51:25.825Z", 
+            "text": "", 
+            "author": "Ana\u00efs-coralie Tanguy"
+        }, 
+        {
+            "date": "2015-03-10T00:13:29.947Z", 
+            "text": "Why does he keep saying \"Iron three oxide\" instead of \"Iron two oxide\"\ufeff", 
+            "author": "Akash Guha"
+        }, 
+        {
+            "date": "2015-02-28T21:25:01.986Z", 
+            "text": "Dude this cleared up so many things! Thank you!\ufeff", 
+            "author": "TheTrollTeam *Official* AKA TheWubWubKid"
+        }, 
+        {
+            "date": "2015-02-27T03:36:09.018Z", 
+            "text": "I pronounced it \"Al-u-min-ee-yum\" out loud and now i cant stop saying it\ufeff", 
+            "author": "Ben Barrett"
+        }, 
+        {
+            "date": "2015-02-22T10:22:28.958Z", 
+            "text": "Thank you so much! I understand the concept much better now but I still \ndon't understand the very last step where you multiplied 27g with 1.06mol?\ufeff", 
+            "author": "Sienna River"
+        }, 
+        {
+            "date": "2015-03-12T10:13:05.331Z", 
+            "text": "you need 1.06 moles of aluminum, and there 27 grams per mole! :)", 
+            "author": "M Rachel"
+        }, 
+        {
+            "date": "2015-02-13T01:33:01.744Z", 
+            "text": "all teachers should be trained by salman khan\ufeff", 
+            "author": "Ahmed Baig"
+        }, 
+        {
+            "date": "2015-01-22T03:05:50.767Z", 
+            "text": "i wish i watched this before all the tests and quizzes i had on it\ufeff", 
+            "author": "Eoin Connolly"
+        }, 
+        {
+            "date": "2015-04-08T14:16:06.712Z", 
+            "text": "+victor xu Try revving the speed up to x1.25. It helps.", 
+            "author": "Bill CZY"
+        }, 
+        {
+            "date": "2015-01-28T00:18:20.193Z", 
+            "text": "Sucks :( But I'm watching this before my test :P. Well good luck on your \nfuture tests", 
+            "author": "victor xu"
+        }, 
+        {
+            "date": "2015-01-21T08:31:36.515Z", 
+            "text": "\"aluminium\". \"aluminium\".. hahaha he is enjoying every time he says that \ufeff", 
+            "author": "Shanie Tiempo"
+        }, 
+        {
+            "date": "2015-01-17T01:15:50.637Z", 
+            "text": "Thank you so much Salman you have hepled me understand so many areas of \nphysics, chemistry and maths that i didnt understand before when it got \ntaught in class\ufeff", 
+            "author": "TheHRJGaming"
+        }, 
+        {
+            "date": "2015-01-10T16:55:01.958Z", 
+            "text": "So we spent over 2 weeks of chem class learning absolutely nothing and now \nI understand that material in just a 10 minute video\ufeff", 
+            "author": "slicedGabe"
+        }, 
+        {
+            "date": "2015-02-10T02:02:20.072Z", 
+            "text": "So true dude...", 
+            "author": "Ti10"
+        }, 
+        {
+            "date": "2014-11-11T23:33:22.000Z", 
+            "text": "I thought Wikipedia was unreliable and not used, and often frowned upon, as \na school source, +Khan Academy \ufeff", 
+            "author": "Lucas M (planeman707)"
+        }, 
+        {
+            "date": "2014-12-03T13:50:21.091Z", 
+            "text": "+Bartlebot good point.", 
+            "author": "Lucas M (planeman707)"
+        }, 
+        {
+            "date": "2014-12-01T23:27:27.000Z", 
+            "text": "Wikipedia has a very determined staff that tries to keep things as accurate \nas possible. According to Brady Haran, video journalist, many professors \nthat he has worked with throughout his career often use Wikipedia to recall \nthings they have forgotten, as a quick reference. However, he and CGP Grey, \na former secondary school Physics teacher, in their podcast, Hello Internet \n(which I suggest you give a listen to), said that it is good for quick \nreference, or as a starting place for knowledge; they also said that people \nshould fact check the Wikipedia page sources and spread out from there to \nensure accuracy.", 
+            "author": "Bartlebot"
+        }, 
+        {
+            "date": "2014-11-03T00:19:57.640Z", 
+            "text": "How do u know what to divide by what in the mole equations like 85/160\ufeff", 
+            "author": "jo john"
+        }, 
+        {
+            "date": "2015-02-16T05:26:34.486Z", 
+            "text": "you divide by its Mr/Ar (Relative atomic/molecular mass)", 
+            "author": "Sharleen Yajnik"
+        }, 
+        {
+            "date": "2014-10-27T13:23:16.640Z", 
+            "text": "u da real mvp\ufeff", 
+            "author": "jose javier"
+        }, 
+        {
+            "date": "2014-10-25T13:47:44.102Z", 
+            "text": "Why the fuck did I not get this in class? Ugh, fuck chemistry.\ufeff", 
+            "author": "bphussar"
+        }, 
+        {
+            "date": "2015-03-12T01:04:33.959Z", 
+            "text": "This video did it better than most teachers explained it ", 
+            "author": "Chris Vieau"
+        }, 
+        {
+            "date": "2014-10-03T14:18:08.926Z", 
+            "text": "It's sad how easily this clicked...but I was a ball of confusion in my \nclass. . I have a newfound confidence\ufeff", 
+            "author": "IvorySoul89"
+        }, 
+        {
+            "date": "2015-03-12T01:04:56.537Z", 
+            "text": "Same here! This video did it better than my teacher did", 
+            "author": "Chris Vieau"
+        }, 
+        {
+            "date": "2014-09-24T17:32:30.603Z", 
+            "text": "your awesome\ufeff", 
+            "author": "Trey Lovell"
+        }, 
+        {
+            "date": "2014-08-24T02:24:08.121Z", 
+            "text": "you fuckin made it easier for me....f*ck yea\ufeff", 
+            "author": "Wei Shen"
+        }, 
+        {
+            "date": "2014-07-24T23:40:01.752Z", 
+            "text": "so is a mole a unit or not? At one point your treated it as just a number, \nand then you said that you would convert grams to moles, but you can't \nconvert grams to a number without a unit... Help me please\ufeff", 
+            "author": "Sir Neko"
+        }, 
+        {
+            "date": "2015-01-01T22:55:49.174Z", 
+            "text": "A mole is comparable to a dozen. If you have one dozen eggs, you have 12. \nIf you have one mole of something, you have 6.02 x 10^23 of it.", 
+            "author": "Jack English"
+        }, 
+        {
+            "date": "2014-11-11T23:32:00.461Z", 
+            "text": "+Zachary Uniza Use CrashCourse, it helps with this.  Also, say an ounce is \na unit of mass, and is a number.  One kilogram is equal to 1000 grams, 1 \nliter is equal to 1000 mL, etc.  +Sir Neko, in many cases, units are number \nvariants of other units.", 
+            "author": "Lucas M (planeman707)"
+        }, 
+        {
+            "date": "2014-10-23T19:07:32.376Z", 
+            "text": "+Zachary Uniza Indeed, there are 6.02(10^23) particles/molecules per mole.\nbut you said the amount of grams wich would correspond to the mass unit \nwhich is 1.66(10^-27)", 
+            "author": "MasterDeanarius"
+        }, 
+        {
+            "date": "2014-10-23T18:51:44.000Z", 
+            "text": "+MasterDeanarius a Mole (unit) corresponds to Avogadro constant which has a \nvalue of 6.022(10^23) ", 
+            "author": "Zachary Uniza"
+        }, 
+        {
+            "date": "2014-10-20T19:07:17.062Z", 
+            "text": "+Zachary Uniza I think you are confusing Avogadro number with the reference \nmass unit. ", 
+            "author": "MasterDeanarius"
+        }, 
+        {
+            "date": "2014-07-25T19:54:28.159Z", 
+            "text": "ah I see. It is confusing though how it is used as a number, or a number of \nparticles, depending on the situation", 
+            "author": "Sir Neko"
+        }, 
+        {
+            "date": "2014-07-25T19:23:07.000Z", 
+            "text": "+Sir Neko Mole is a unit of mass. 6.022(10^23) is the amount of grams of \neach element/compound you are using for your calculation. think of a Mole \nlike a \"dozen\". 12 donuts = 1 dozen; 1 Hydrogen = 6.022(10^23).  If you \nlook at Hydrogen on the periodic table, the mass of 1 hydrogen is 1.008g OR \n6.022(10^23). We replace 6.022(10^23) with 1 mole because it is such a huge \nnumber it will complicate calculations. so to make calculations easier, 1 \nmole is used. like a mole, instead of saying 12 donuts, we can just say 1 \ndozen to make it easier.\n\n\"Either way it is either a number, or a number of another unit\".. a lot of \nunits are based off numbers/units for example 1 atm = 760 torr and 760 torr \n= 760mmHg.", 
+            "author": "Zachary Uniza"
+        }, 
+        {
+            "date": "2014-07-25T15:29:32.145Z", 
+            "text": "but it means 6.022(10^23), or it means 6.022(10^23) particles. Either way \nit is either a number, or a number of another unit. Therefore I don't see \nhow it classifies as a unit ;-;", 
+            "author": "Sir Neko"
+        }, 
+        {
+            "date": "2014-07-25T03:27:46.620Z", 
+            "text": "\"mole\" is a unit", 
+            "author": "Zachary Uniza"
+        }, 
+        {
+            "date": "2014-06-09T06:04:08.281Z", 
+            "text": "But isn't the t-chart method much more efficient?\ufeff", 
+            "author": "Kayla R"
+        }, 
+        {
+            "date": "2014-05-29T23:39:27.610Z", 
+            "text": "I feel like my chem teacher should be watching this instead of me\ufeff", 
+            "author": "IamBunni"
+        }, 
+        {
+            "date": "2015-03-12T01:06:09.518Z", 
+            "text": "HA same here", 
+            "author": "Chris Vieau"
+        }, 
+        {
+            "date": "2014-05-27T11:56:36.752Z", 
+            "text": "really helpful thank you..:)\ufeff", 
+            "author": "yam kumari Thapa"
+        }, 
+        {
+            "date": "2014-05-26T13:12:08.737Z", 
+            "text": "Thanks khan! You really helped me :) I did not know how to do stoichometry \nuntil after watching this video. Now I am confident I will pass my exam :)\ufeff", 
+            "author": "G'z and Hustlaz"
+        }, 
+        {
+            "date": "2014-05-23T03:22:52.678Z", 
+            "text": "Helped me a lot! Thanks Khan!\n\nI believe there is a mistake at 5:56. Fe2O3 turned into Fe3O3.\ufeff", 
+            "author": "meaihh GERSH"
+        }, 
+        {
+            "date": "2014-05-15T17:02:04.417Z", 
+            "text": "youre awesome khan\ufeff", 
+            "author": "joseff rey pizon"
+        }, 
+        {
+            "date": "2014-05-04T13:48:45.994Z", 
+            "text": "oh my god man you are a blessing, thx so much! chemistry test tomorrow and \nI was screwed\ufeff", 
+            "author": "UnrestingSpirit"
+        }, 
+        {
+            "date": "2014-04-19T15:18:11.039Z", 
+            "text": "Salmon Khan for president! \ufeff", 
+            "author": "Hasmin Osmin"
+        }, 
+        {
+            "date": "2014-04-18T16:14:24.554Z", 
+            "text": "epic tutelage\n \ufeff", 
+            "author": "Ninos\u0142aw Ciszewski"
+        }, 
+        {
+            "date": "2014-04-15T23:21:44.191Z", 
+            "text": "Sal, I always thought you were British.  \ufeff", 
+            "author": "Paleopalescence"
+        }, 
+        {
+            "date": "2014-04-16T23:17:30.013Z", 
+            "text": "well, that and because he's so smaaaht.  ", 
+            "author": "Paleopalescence"
+        }, 
+        {
+            "date": "2014-04-16T15:47:42.473Z", 
+            "text": "Just because he pronounces \"aluminium\" instead of \"aluminum\"? xD ", 
+            "author": "Aylla Sousa"
+        }, 
+        {
+            "date": "2014-04-07T20:27:13.875Z", 
+            "text": "I don't think you should have rounded that iron AMU....\ufeff", 
+            "author": "Ericbishi"
+        }, 
+        {
+            "date": "2014-04-01T01:30:47.436Z", 
+            "text": "Lol watch this video on 0.5 speed xD He sounds stoned. But anyway, great \nvid :D\ufeff", 
+            "author": "Wasiur Rahman"
+        }, 
+        {
+            "date": "2014-03-31T09:15:28.870Z", 
+            "text": "Helped me a lot. Great video\ufeff", 
+            "author": "Carlos Robles"
+        }, 
+        {
+            "date": "2014-03-29T04:28:55.232Z", 
+            "text": "There's 35 people who still don't understand how to do stiocheiomestry \ufeff", 
+            "author": "Ssafi Bisharat"
+        }, 
+        {
+            "date": "2014-04-09T20:47:31.203Z", 
+            "text": "There's one person who still doesn't know how to spell stoichiometry", 
+            "author": "Calvin Lam"
+        }, 
+        {
+            "date": "2014-03-26T11:40:55.531Z", 
+            "text": "You wrote the formula wrong for Iron(III)Oxide You wrote Fe3O3\ufeff", 
+            "author": "Rajat Arora"
+        }, 
+        {
+            "date": "2014-03-26T01:30:41.766Z", 
+            "text": "Helped a lot, thanks bruh. \ufeff", 
+            "author": "Nicholas Matuszak"
+        }, 
+        {
+            "date": "2014-03-13T23:25:10.761Z", 
+            "text": "Thank you so much , FINALLY a video that makes a completion of sense.  \ufeff", 
+            "author": "keily538"
+        }, 
+        {
+            "date": "2014-03-09T19:25:16.082Z", 
+            "text": "aaaa so much easier! Finally I can ease up and study for SAT's\ufeff", 
+            "author": "Kaiyels"
+        }, 
+        {
+            "date": "2014-03-04T15:38:03.754Z", 
+            "text": "I learned more in this ten minute video than in more than a week of my \nincompetent Chem teacher's class. I'm not even exaggerating a little bit. \ufeff", 
+            "author": "flylikeabeetv"
+        }, 
+        {
+            "date": "2015-03-12T01:05:16.904Z", 
+            "text": "Exactly the same here", 
+            "author": "Chris Vieau"
+        }, 
+        {
+            "date": "2014-03-04T07:36:10.165Z", 
+            "text": "I'm in college and taking the first chem class I've taken in almost 7 \nyears. This kind of stuff was not covered in high school, so it was all new \nfor me. And I can't understand for the life of me why my professor did not \nexplain it this clearly!!! Would have saved me a lot of crappy test grades. \nGotta love American education -___-\ufeff", 
+            "author": "BrittaniBam"
+        }, 
+        {
+            "date": "2014-02-19T03:57:22.519Z", 
+            "text": "Thank you very much for this. \ufeff", 
+            "author": "Plushteddybear69"
+        }, 
+        {
+            "date": "2014-02-04T05:23:33.052Z", 
+            "text": "Kinda confusing, but I have to rewatch it to comprehend it.\ufeff", 
+            "author": "Nipah EveryDay"
+        }, 
+        {
+            "date": "2014-12-05T06:42:14.095Z", 
+            "text": "Bop", 
+            "author": "INSANEWitG18S"
+        }, 
+        {
+            "date": "2014-06-07T18:26:56.078Z", 
+            "text": "kinda says it from your profile pic doesn't it :/", 
+            "author": "BELOWIT MB"
+        }, 
+        {
+            "date": "2014-01-24T18:58:28.393Z", 
+            "text": "Thanks for posting the video, it was extremely helpful.\nHowever, maybe it's just my professor but we are required to use \ndimensional analysis when solving stoichiometry problems. It would be great \nto see you using that method of solving too. :) \ufeff", 
+            "author": "Diana Nazarian"
+        }, 
+        {
+            "date": "2014-01-13T04:18:04.973Z", 
+            "text": "in a perfect world, schools just play khan academy videos. quick, to the \npoint, effective and efficient. you just taught me stoichiometry, thx\ufeff", 
+            "author": "Ouwen C."
+        }, 
+        {
+            "date": "2014-01-21T00:08:42.000Z", 
+            "text": "COURAGE WOLF SAYS:\nPLAY IN 2X SPEED FOR MAXIMUM EFFICIENCY", 
+            "author": "Brandon Wise"
+        }, 
+        {
+            "date": "2014-01-07T03:08:04.387Z", 
+            "text": "i love how he checks the calculator and goes 'is that right... yeah it is' \nlike a BOSS making sure the calculator is correct :')\ufeff", 
+            "author": "Fastest Man Dead"
+        }, 
+        {
+            "date": "2014-01-01T01:07:07.421Z", 
+            "text": "Hi I was wondering if someone could help me with this question my exams are \ncoming up and I am really stuck could you please tell me what formulas to \nuse and how to work it out \nconsider the following : \n\nA) how many moles of HCL are there in 100 ml of a 1M solution ? \n\nB) what mass of LiOH would react with this quantity of HCL ( assume \ncomplete reaction and 100 % yield) ? \n\nC) what mass of LiCl would be produced ? \ufeff", 
+            "author": "kiana arem"
+        }, 
+        {
+            "date": "2013-12-20T03:29:48.781Z", 
+            "text": "leave it to a random dude on youtube to help me more with stoichiometry \nthen my chem teacher who has her \"masters\"\ufeff", 
+            "author": "Vaughn Brewer"
+        }, 
+        {
+            "date": "2014-01-25T02:40:58.874Z", 
+            "text": "probably because sal got his \"masters\" from mit in engineering(engineers \nneed to know chem, physics, and math).", 
+            "author": "saud ahmed"
+        }, 
+        {
+            "date": "2013-12-16T05:59:36.796Z", 
+            "text": "this is so helpful, thank you. this has taught me more than school has \ntaught me.\ufeff", 
+            "author": "Jamie Le"
+        }, 
+        {
+            "date": "2013-12-14T18:42:13.242Z", 
+            "text": "thank you for being more helpful than someone who gets paid to teach shit \ufeff", 
+            "author": "paynostagram"
+        }, 
+        {
+            "date": "2013-12-09T14:24:11.940Z", 
+            "text": "How many grams of aluminum do we need? \"How many grams of aluminum...\"\ufeff", 
+            "author": "Andrew Lundahl"
+        }, 
+        {
+            "date": "2013-12-04T23:33:14.586Z", 
+            "text": "this sucks\ufeff", 
+            "author": "jmeds1898"
+        }, 
+        {
+            "date": "2013-12-03T03:11:34.883Z", 
+            "text": "", 
+            "author": "Clarita Helli"
+        }, 
+        {
+            "date": "2013-11-20T22:21:28.725Z", 
+            "text": "I love you\ufeff", 
+            "author": "Likabavvs"
+        }, 
+        {
+            "date": "2013-11-15T05:17:14.423Z", 
+            "text": "Why can't u be my teacher instead haha this khan academy site is great! \nVery helpful\ufeff", 
+            "author": "Aaron of Everything"
+        }, 
+        {
+            "date": "2013-11-08T15:16:54.803Z", 
+            "text": "\" 'Aluminium' as some of our friends across the pond would say.\"\nEPIC!!!!!!!\nBy the way ....... great teaching\ufeff", 
+            "author": "Alisamar Husain"
+        }, 
+        {
+            "date": "2013-11-07T07:52:36.161Z", 
+            "text": "Gotta love how not all Periodic Tables are the same...so when I did this I \ngot a completely, completely different answer\ufeff", 
+            "author": "Master Chef"
+        }, 
+        {
+            "date": "2013-11-05T21:09:09.986Z", 
+            "text": "Thank you so much. My teacher is complete rubbish.", 
+            "author": "MrxTootie"
+        }, 
+        {
+            "date": "2013-11-02T02:51:39.111Z", 
+            "text": "... conservation of mass", 
+            "author": "Ryan Jamieson"
+        }, 
+        {
+            "date": "2013-11-02T02:51:23.413Z", 
+            "text": "How in the world can on discuss this subject without explaining first the \nlaw of conservation? How can you omit Lavoisier's discoveries here and the \nstory of him being guillotined during the terror? The shame! This is for \npeople wanting to pass Chem 101 so they can get their diploma!!!", 
+            "author": "Ryan Jamieson"
+        }, 
+        {
+            "date": "2013-10-31T19:57:39.227Z", 
+            "text": "Is it awkward, though? ", 
+            "author": "Grant Herbel"
+        }, 
+        {
+            "date": "2013-10-29T21:31:20.533Z", 
+            "text": "Indian Power!!!", 
+            "author": "daveyowful"
+        }, 
+        {
+            "date": "2013-10-29T00:57:22.557Z", 
+            "text": "thanks for the cool video! ", 
+            "author": "evas epicculture"
+        }, 
+        {
+            "date": "2013-10-28T19:34:39.829Z", 
+            "text": "just so you know Fe2O3 is a salt not a molecule ", 
+            "author": "CptnButtBeard"
+        }, 
+        {
+            "date": "2013-10-23T22:41:17.810Z", 
+            "text": "OMG you made this look so easy! ", 
+            "author": "Tiffany Foster"
+        }, 
+        {
+            "date": "2013-10-21T03:36:17.830Z", 
+            "text": "oh! You're watching, im sorry...", 
+            "author": "Camilo Jos\u00e9 Mej\u00eda"
+        }, 
+        {
+            "date": "2013-10-21T03:35:42.940Z", 
+            "text": "You're teacher???", 
+            "author": "Camilo Jos\u00e9 Mej\u00eda"
+        }, 
+        {
+            "date": "2013-10-21T03:35:15.968Z", 
+            "text": "Damn you gta 5, i have my test tomorrow and you took me the whole time!!!", 
+            "author": "Camilo Jos\u00e9 Mej\u00eda"
+        }, 
+        {
+            "date": "2013-10-16T00:52:28.128Z", 
+            "text": "Long live the khan", 
+            "author": "Juan Pablo C"
+        }, 
+        {
+            "date": "2013-10-15T22:42:03.618Z", 
+            "text": "noticed this too lol.", 
+            "author": "David Lomax"
+        }, 
+        {
+            "date": "2013-10-13T14:23:44.390Z", 
+            "text": "small typo you changed the Fe2 to Fe3 ", 
+            "author": "tom boy"
+        }, 
+        {
+            "date": "2013-10-10T01:42:08.220Z", 
+            "text": "*you're", 
+            "author": "Jeanluc Thomson"
+        }, 
+        {
+            "date": "2013-10-10T01:41:01.480Z", 
+            "text": "Do you have time for me to speak about my Lord and Saviour?", 
+            "author": "Jeanluc Thomson"
+        }, 
+        {
+            "date": "2013-10-08T22:01:57.484Z", 
+            "text": "God bless you khan you are a lifesaver", 
+            "author": "Kim emma"
+        }, 
+        {
+            "date": "2013-09-29T10:21:16.258Z", 
+            "text": "May God bless Khan. :D Thank you so so much <3", 
+            "author": "TheVee Kaulitz"
+        }, 
+        {
+            "date": "2013-09-26T16:00:04.145Z", 
+            "text": "Your english teacher must also suck because you don't know the difference \nbetween your and you are. ", 
+            "author": "kevin trujillo"
+        }, 
+        {
+            "date": "2013-09-24T14:10:22.649Z", 
+            "text": "Brilliance and modesty in action @ 5:06. ROFL!", 
+            "author": "Carlo Gabriel Ortega"
+        }, 
+        {
+            "date": "2013-09-23T10:27:10.758Z", 
+            "text": "So funny hearing an American saying aluminium. I'm from America but now \nlive in England with a British accent. took me ages to figure out why they \ndon't say aluminum lol", 
+            "author": "Kameron Bautista"
+        }, 
+        {
+            "date": "2013-09-22T12:37:31.196Z", 
+            "text": "Mine is absolutely shit. He told us to self study about this opic because \nwe are going to have quiz on Monday... Great!", 
+            "author": "Kliereo"
+        }, 
+        {
+            "date": "2013-09-19T19:21:39.599Z", 
+            "text": "No... My teacher is fantastic. Khan just makes chemistry more fantastic! ", 
+            "author": "muskie32"
+        }, 
+        {
+            "date": "2013-09-14T21:21:58.974Z", 
+            "text": "my teacher is awesome, this is just a great way to get ahead", 
+            "author": "lordhelmit3"
+        }, 
+        {
+            "date": "2013-09-02T09:22:43.424Z", 
+            "text": "I would have failed chemistry if it wasn't thanks to you! Thankyou so much \n:) ", 
+            "author": "S B"
+        }, 
+        {
+            "date": "2013-08-07T19:05:07.235Z", 
+            "text": "Form 4 Chemistry\nChapter 03 : Chemical Formulae and Equations\n3.6 KA: Calculation Part 1\ufeff", 
+            "author": "EduNation Malaysia"
+        }, 
+        {
+            "date": "2013-07-17T23:22:38.397Z", 
+            "text": "that awkward moment when he uses the calculator for a problem and confirms \nit with his mental maths... this video is awesome!!!!", 
+            "author": "janak prakash"
+        }, 
+        {
+            "date": "2013-07-05T11:02:33.083Z", 
+            "text": "haha aluminum aluminium", 
+            "author": "PornographicSoul"
+        }, 
+        {
+            "date": "2013-06-26T18:22:59.724Z", 
+            "text": "Or if OdysseyWare is ridiculous", 
+            "author": "Tommy Steinbach"
+        }, 
+        {
+            "date": "2013-06-19T16:07:17.380Z", 
+            "text": "Your voice makes me tired. ", 
+            "author": "Hannah McGrath"
+        }, 
+        {
+            "date": "2013-06-17T17:44:56.004Z", 
+            "text": "excusemoi while I cram for my final tomorrow", 
+            "author": "KoolCatCurtis"
+        }, 
+        {
+            "date": "2013-06-11T13:34:17.028Z", 
+            "text": "Took my teacher 2 months to explain soitchiometry....took this guy 10 \nminutes ", 
+            "author": "EverythingHockey93"
+        }, 
+        {
+            "date": "2013-06-10T23:23:55.527Z", 
+            "text": "nope, my chem teacher is a god his name is elizondo. i just forget cuz its \nfinals week NIGGA", 
+            "author": "eFFusiVeDESIGNS"
+        }, 
+        {
+            "date": "2013-06-04T03:21:41.914Z", 
+            "text": "My teacher isn't shit yet I still have no idea how to fucking do this. \nLike, this unit was a train wreck for me.", 
+            "author": "Debbs"
+        }, 
+        {
+            "date": "2013-06-02T17:09:21.412Z", 
+            "text": "i actually did do some research as to the origin of the periodic table this \nyear during chemistry. i did not however research aluminum. i get that the \nperiodic table was composed of elements discovered by different people from \nother parts of the world but after researching it i found that aluminium is \nin fact called such in order to fit the \"ium\" ending of most other \nelements. it was in fact aluminum first, then was changed to aluminium, and \nthen america reverted it to aluminum for some reason.", 
+            "author": "JZjosh2468"
+        }, 
+        {
+            "date": "2013-06-02T17:08:17.249Z", 
+            "text": "oh geez i replied to the wrong person. sorry", 
+            "author": "JZjosh2468"
+        }, 
+        {
+            "date": "2013-06-02T17:07:24.132Z", 
+            "text": "i actually did do some research as to the origin of the periodic table this \nyear during chemistry. i did not however research aluminum. i get that the \nperiodic table was composed of elements discovered by different people from \nother parts of the world but after researching it i found that aluminium is \nin fact called such in order to fit the \"ium\" ending of most other \nelements. it was in fact aluminum first, then was changed to aluminium, and \nthen america reverted it to aluminum for some reason. ", 
+            "author": "JZjosh2468"
+        }, 
+        {
+            "date": "2013-05-28T01:23:05.357Z", 
+            "text": "The reaction of hydrogen gas and nitrogen gas to form ammonia is given by \nthe chemical equation: N2(g) + 3H2(g) \u2192 2 NH3(g) According to the chemical \nequation, 2.0 moles of nitrogen gas react with Z moles of hydrogen gas to \nfrom 4.0 moles of ammonia. can some please answer this for me asap ", 
+            "author": "aaqib afzal"
+        }, 
+        {
+            "date": "2013-05-25T05:54:00.861Z", 
+            "text": "Because not everything on this world has the American origins. Surf the net \nand find out who made the Periodic Table and how did names of elements \nthrough history got where they are. ", 
+            "author": "cod2vencler"
+        }, 
+        {
+            "date": "2013-05-24T01:47:58.436Z", 
+            "text": "ive always wondered, why do our friends across the pond pronounce it \naluminium? there is only 1 i in aluminum....", 
+            "author": "JZjosh2468"
+        }
+    ]
+}

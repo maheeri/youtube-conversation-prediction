@@ -1,0 +1,1348 @@
+{
+    "publish_date": "2013-07-20T15:40:34.000Z", 
+    "video_length": "PT10M35S", 
+    "captions": [
+        {
+            "text": "Hey, Vsauce. Michael here.\nBut now", 
+            "dur": "3.271", 
+            "start": "0.269"
+        }, 
+        {
+            "text": "I&#39;m not. I&#39;m gone like 90% of\nthe original silent films", 
+            "dur": "5.76", 
+            "start": "3.54"
+        }, 
+        {
+            "text": "ever made.\nSix of the seven wonders of the ancient world", 
+            "dur": "3.709", 
+            "start": "9.3"
+        }, 
+        {
+            "text": "deleted, like that text you thought twice about sending", 
+            "dur": "3.53", 
+            "start": "13.009"
+        }, 
+        {
+            "text": "or a Snapchat photo, right?", 
+            "dur": "3.381", 
+            "start": "16.539"
+        }, 
+        {
+            "text": "When Stalin decided that Trotsky was\nan enemy of the state,", 
+            "dur": "4.519", 
+            "start": "19.92"
+        }, 
+        {
+            "text": "he had Trotsky removed from photos he appeared in", 
+            "dur": "3.83", 
+            "start": "24.439"
+        }, 
+        {
+            "text": "with Lenin.\nPlenty of software tools and professional services", 
+            "dur": "3.891", 
+            "start": "28.269"
+        }, 
+        {
+            "text": "allow you to do the same.\nDon&#39;t just", 
+            "dur": "3.169", 
+            "start": "32.16"
+        }, 
+        {
+            "text": "forget the actual attendees of a moment in time,", 
+            "dur": "4.041", 
+            "start": "35.329"
+        }, 
+        {
+            "text": "delete them.\nBut where do things go", 
+            "dur": "3.779", 
+            "start": "39.37"
+        }, 
+        {
+            "text": "when they&#39;re deleted?", 
+            "dur": "2.651", 
+            "start": "43.149"
+        }, 
+        {
+            "text": "The Google Ngram Viewer allows you\nto search words and phrases", 
+            "dur": "4.23", 
+            "start": "45.8"
+        }, 
+        {
+            "text": "in 5.2 million books published between 1500", 
+            "dur": "4.669", 
+            "start": "50.03"
+        }, 
+        {
+            "text": "and 2008.\nIt&#39;s a great way to see how", 
+            "dur": "3.63", 
+            "start": "54.699"
+        }, 
+        {
+            "text": "the words we use have changed overtime.", 
+            "dur": "3.461", 
+            "start": "58.329"
+        }, 
+        {
+            "text": "1979 was a significant", 
+            "dur": "3.85", 
+            "start": "61.79"
+        }, 
+        {
+            "text": "year. According to the Ngram Viewer,\nit was the first year we begin to use the", 
+            "dur": "4.72", 
+            "start": "65.64"
+        }, 
+        {
+            "text": "word", 
+            "dur": "0.61", 
+            "start": "70.36"
+        }, 
+        {
+            "text": "delete more often than the word", 
+            "dur": "3.36", 
+            "start": "70.97"
+        }, 
+        {
+            "text": "erase.\nBiological deletion", 
+            "dur": "3.409", 
+            "start": "74.35"
+        }, 
+        {
+            "text": "still wins though. Forget is by far more\npervasive in our communication", 
+            "dur": "5.17", 
+            "start": "77.759"
+        }, 
+        {
+            "text": "but how does a computer forget?", 
+            "dur": "3.72", 
+            "start": "82.929"
+        }, 
+        {
+            "text": "Moving a file to the trash is just the beginning.", 
+            "dur": "4", 
+            "start": "86.649"
+        }, 
+        {
+            "text": "To protect against accidental deletion,\nwhen thrown in the trash", 
+            "dur": "3.931", 
+            "start": "90.649"
+        }, 
+        {
+            "text": "a file remains on your computer in a\ntemporary directory, a sort of", 
+            "dur": "4.53", 
+            "start": "94.58"
+        }, 
+        {
+            "text": "purgatory, where it awaits a more\nultimate deletion but can be resurrected", 
+            "dur": "5.5", 
+            "start": "99.11"
+        }, 
+        {
+            "text": "if you wish.\nWhen you empty the trash", 
+            "dur": "3.59", 
+            "start": "104.61"
+        }, 
+        {
+            "text": "you are warned that you cannot undo the action.", 
+            "dur": "3.07", 
+            "start": "108.2"
+        }, 
+        {
+            "text": "But when you empty the trash, the physical space", 
+            "dur": "3.66", 
+            "start": "111.27"
+        }, 
+        {
+            "text": "inhabited by the file isn&#39;t actually emptied.", 
+            "dur": "3.479", 
+            "start": "114.93"
+        }, 
+        {
+            "text": "It&#39;s marked as empty.\nAvailable", 
+            "dur": "3.5", 
+            "start": "118.409"
+        }, 
+        {
+            "text": "if and when new data needs to be stored somewhere.", 
+            "dur": "3.301", 
+            "start": "121.909"
+        }, 
+        {
+            "text": "The file&#39;s home has become available real estate", 
+            "dur": "4.04", 
+            "start": "125.21"
+        }, 
+        {
+            "text": "but the file itself hasn&#39;t moved out.\nOnly the pointers", 
+            "dur": "4.62", 
+            "start": "129.25"
+        }, 
+        {
+            "text": "have gone away. Pointers are another type\nof data on your drive that point to", 
+            "dur": "4.86", 
+            "start": "133.87"
+        }, 
+        {
+            "text": "places in memory", 
+            "dur": "1.5", 
+            "start": "138.73"
+        }, 
+        {
+            "text": "where the actual file they are referencing\ncan be found.", 
+            "dur": "4.009", 
+            "start": "140.23"
+        }, 
+        {
+            "text": "They&#39;re a bit like the table of contents,\nwhich means that on most", 
+            "dur": "3.491", 
+            "start": "144.239"
+        }, 
+        {
+            "text": "operating systems deleting a file and emptying the trash", 
+            "dur": "3.46", 
+            "start": "147.73"
+        }, 
+        {
+            "text": "is like deleting a chapter from a book", 
+            "dur": "3.139", 
+            "start": "151.19"
+        }, 
+        {
+            "text": "by turning to the table of contents and marking", 
+            "dur": "3.061", 
+            "start": "154.329"
+        }, 
+        {
+            "text": "the chapter as empty.\nThere&#39;s nothing here, do what you want with the pages.", 
+            "dur": "4.689", 
+            "start": "157.39"
+        }, 
+        {
+            "text": "To a computer reading the table of\ncontents it looks like the space is", 
+            "dur": "4.41", 
+            "start": "162.079"
+        }, 
+        {
+            "text": "empty but of course that doesn&#39;t change\nthe fact that the contents of the", 
+            "dur": "2.981", 
+            "start": "166.489"
+        }, 
+        {
+            "text": "chapter", 
+            "dur": "0.63", 
+            "start": "169.47"
+        }, 
+        {
+            "text": "are still there.\nSpecial data recovery tools", 
+            "dur": "4.55", 
+            "start": "170.1"
+        }, 
+        {
+            "text": "look through memory marked empty available", 
+            "dur": "3.01", 
+            "start": "174.65"
+        }, 
+        {
+            "text": "to see what&#39;s actually there.\nIf you&#39;re lucky,", 
+            "dur": "3.65", 
+            "start": "177.66"
+        }, 
+        {
+            "text": "they can even find a file and save it, bring it back", 
+            "dur": "3.269", 
+            "start": "181.31"
+        }, 
+        {
+            "text": "mark it not available, undeleted.", 
+            "dur": "3.62", 
+            "start": "184.579"
+        }, 
+        {
+            "text": "But if some of the file has already been overwritten,", 
+            "dur": "3.741", 
+            "start": "188.199"
+        }, 
+        {
+            "text": "there can be problems.\nThe file can be", 
+            "dur": "3.79", 
+            "start": "191.94"
+        }, 
+        {
+            "text": "corrupted, melded together with other\ndata like some kind of digital", 
+            "dur": "4.039", 
+            "start": "195.73"
+        }, 
+        {
+            "text": "Frankenstein&#39;s monster.\nA couple years ago", 
+            "dur": "3.47", 
+            "start": "199.769"
+        }, 
+        {
+            "text": "a laptop that belonged to photographer\nMelanie Willhide", 
+            "dur": "3.31", 
+            "start": "203.239"
+        }, 
+        {
+            "text": "was stolen.\nIt contained many of her recent digital photos.", 
+            "dur": "4.31", 
+            "start": "206.549"
+        }, 
+        {
+            "text": "Luckily, police were able to return the\nlaptop to her. They found it in a car they", 
+            "dur": "4.81", 
+            "start": "210.859"
+        }, 
+        {
+            "text": "pulled over,", 
+            "dur": "0.82", 
+            "start": "215.669"
+        }, 
+        {
+            "text": "but the thief had wiped the laptop&#39;s\nhard drive clean and had been using it", 
+            "dur": "5.411", 
+            "start": "216.489"
+        }, 
+        {
+            "text": "for his own purposes.", 
+            "dur": "1.519", 
+            "start": "221.9"
+        }, 
+        {
+            "text": "Data recovery experts were able to find", 
+            "dur": "3.181", 
+            "start": "223.419"
+        }, 
+        {
+            "text": "some of her files, still there,\non the now-empty space,", 
+            "dur": "3.44", 
+            "start": "226.6"
+        }, 
+        {
+            "text": "but the files had been slightly overwritten", 
+            "dur": "3.06", 
+            "start": "230.04"
+        }, 
+        {
+            "text": "by things the thief had done.\nThey&#39;d been corrupted but in a", 
+            "dur": "3.199", 
+            "start": "233.1"
+        }, 
+        {
+            "text": "really cool way.\nSo cool Willhide decided to exhibit the work.", 
+            "dur": "4.211", 
+            "start": "236.299"
+        }, 
+        {
+            "text": "She titled the show after the thief who made it possible,", 
+            "dur": "3.36", 
+            "start": "240.51"
+        }, 
+        {
+            "text": "&quot;To Adrian Rodriguez, with love.&quot;", 
+            "dur": "3.089", 
+            "start": "243.87"
+        }, 
+        {
+            "text": "If you want to delete the file so completely", 
+            "dur": "3.25", 
+            "start": "246.959"
+        }, 
+        {
+            "text": "it can&#39;t even be recovered in a cool,\nweird way, like Willhide&#39;s photos,", 
+            "dur": "4.15", 
+            "start": "250.209"
+        }, 
+        {
+            "text": "you will need to overwrite the unwanted file", 
+            "dur": "4.09", 
+            "start": "254.359"
+        }, 
+        {
+            "text": "completely.\nDeny the file a proper burial", 
+            "dur": "3.581", 
+            "start": "258.449"
+        }, 
+        {
+            "text": "and rearrange its corpse with new data.", 
+            "dur": "3.03", 
+            "start": "262.03"
+        }, 
+        {
+            "text": "One overwrite should be fine but some\npeople do as many as 35.", 
+            "dur": "4.79", 
+            "start": "265.06"
+        }, 
+        {
+            "text": "Even 35 overwrites might not be enough.", 
+            "dur": "4.56", 
+            "start": "269.85"
+        }, 
+        {
+            "text": "Sure, the overridden data is hidden, but what about bad", 
+            "dur": "4.67", 
+            "start": "274.41"
+        }, 
+        {
+            "text": "sectors? These are parts of a drive that\ndevices can&#39;t access", 
+            "dur": "4.89", 
+            "start": "279.08"
+        }, 
+        {
+            "text": "because of failed transistors or physical damage.", 
+            "dur": "3.31", 
+            "start": "283.97"
+        }, 
+        {
+            "text": "An overwrite won&#39;t be able to reach them,\nmeaning any data that was ever put there", 
+            "dur": "5.199", 
+            "start": "287.28"
+        }, 
+        {
+            "text": "stays there. So, if you are the United\nStates Department of Defense and you", 
+            "dur": "6.791", 
+            "start": "292.479"
+        }, 
+        {
+            "text": "don&#39;t want to take any risks,", 
+            "dur": "1.679", 
+            "start": "299.27"
+        }, 
+        {
+            "text": "you will also shred, physically polarize", 
+            "dur": "4.041", 
+            "start": "300.949"
+        }, 
+        {
+            "text": "unwanted drives.\nThe US, Europe, Japan", 
+            "dur": "4.19", 
+            "start": "304.99"
+        }, 
+        {
+            "text": "often send such electronics waste to dumps", 
+            "dur": "3.57", 
+            "start": "309.18"
+        }, 
+        {
+            "text": "in Ghana, like this one.\nThis city in Ghana is known as", 
+            "dur": "3.71", 
+            "start": "312.75"
+        }, 
+        {
+            "text": "Earth&#39;s digital dumping ground.", 
+            "dur": "3.13", 
+            "start": "316.46"
+        }, 
+        {
+            "text": "Why Ghana?\nWell, it is cheaper to send", 
+            "dur": "3.569", 
+            "start": "319.59"
+        }, 
+        {
+            "text": "unsalvageable electronics to Africa,\nmarked as a donation,", 
+            "dur": "4.701", 
+            "start": "323.159"
+        }, 
+        {
+            "text": "than it is to properly recycle them.", 
+            "dur": "3.809", 
+            "start": "327.86"
+        }, 
+        {
+            "text": "But there, in these electronic dumps,", 
+            "dur": "3.101", 
+            "start": "331.669"
+        }, 
+        {
+            "text": "the files can still be brought back to life.", 
+            "dur": "3.329", 
+            "start": "334.77"
+        }, 
+        {
+            "text": "Organized criminals operating in Ghana\nhave managed to successfully recover", 
+            "dur": "4.54", 
+            "start": "338.099"
+        }, 
+        {
+            "text": "data", 
+            "dur": "0.83", 
+            "start": "342.639"
+        }, 
+        {
+            "text": "from unregulated e-dumps.\nThey&#39;ve been able to find confidential", 
+            "dur": "3.831", 
+            "start": "343.469"
+        }, 
+        {
+            "text": "multi-million-dollar agreements, involving", 
+            "dur": "2.38", 
+            "start": "347.3"
+        }, 
+        {
+            "text": "the Defense Intelligence Agency, Homeland Security", 
+            "dur": "3.389", 
+            "start": "349.68"
+        }, 
+        {
+            "text": "and the TSA.\nShredding", 
+            "dur": "3.69", 
+            "start": "353.069"
+        }, 
+        {
+            "text": "paper to get rid of whatever used to be\non the paper isn&#39;t even safe", 
+            "dur": "4.571", 
+            "start": "356.759"
+        }, 
+        {
+            "text": "either. It&#39;s not easy and it doesn&#39;t\nalways work. But by scanning", 
+            "dur": "4.959", 
+            "start": "361.33"
+        }, 
+        {
+            "text": "shreds of paper computer software can\nmatch the pieces together.", 
+            "dur": "4.831", 
+            "start": "366.289"
+        }, 
+        {
+            "text": "But in the past, shredded documents \nhave been unshred", 
+            "dur": "4.049", 
+            "start": "371.12"
+        }, 
+        {
+            "text": "by hand. In 1979 Iranian students seized\nthe US Embassy in Tehran.", 
+            "dur": "6.05", 
+            "start": "375.169"
+        }, 
+        {
+            "text": "With the help of local carpet weavers and\nyears of hard work,", 
+            "dur": "3.831", 
+            "start": "381.219"
+        }, 
+        {
+            "text": "they managed to reassemble thousands of\npages of confidential documents", 
+            "dur": "4.13", 
+            "start": "385.05"
+        }, 
+        {
+            "text": "shred by the CIA.\nThe smaller the shredded particles", 
+            "dur": "4.539", 
+            "start": "389.18"
+        }, 
+        {
+            "text": "are and the more of them there are,\nthe more difficult the task. So,", 
+            "dur": "3.301", 
+            "start": "393.719"
+        }, 
+        {
+            "text": "the Department of Defense requires that\nthe majority of shredded particles", 
+            "dur": "3.829", 
+            "start": "397.02"
+        }, 
+        {
+            "text": "not exceed 5 square millimetres.", 
+            "dur": "5", 
+            "start": "400.849"
+        }, 
+        {
+            "text": "If you really want to delete something, destroy it,", 
+            "dur": "3.47", 
+            "start": "405.849"
+        }, 
+        {
+            "text": "erase it, time is on your side.", 
+            "dur": "3.5", 
+            "start": "409.319"
+        }, 
+        {
+            "text": "In about 5.4 billion years", 
+            "dur": "3.041", 
+            "start": "412.819"
+        }, 
+        {
+            "text": "the Sun will become the ultimate shredder.", 
+            "dur": "3.709", 
+            "start": "415.86"
+        }, 
+        {
+            "text": "A red giant large enough to swallow earth whole.", 
+            "dur": "4.041", 
+            "start": "419.569"
+        }, 
+        {
+            "text": "Everything will be fine for billions of years.", 
+            "dur": "3.829", 
+            "start": "423.61"
+        }, 
+        {
+            "text": "But many accepted models of the universe\npredict that in 10 to the 100", 
+            "dur": "4.711", 
+            "start": "427.439"
+        }, 
+        {
+            "text": "years", 
+            "dur": "1.31", 
+            "start": "432.15"
+        }, 
+        {
+            "text": "whatever intelligence is left will\nwitness the universe&#39;s", 
+            "dur": "4.319", 
+            "start": "433.46"
+        }, 
+        {
+            "text": "dark era and its final", 
+            "dur": "3.32", 
+            "start": "437.779"
+        }, 
+        {
+            "text": "Heat Death, the end of the universe, the end of", 
+            "dur": "3.43", 
+            "start": "441.099"
+        }, 
+        {
+            "text": "any file or photo or memory of you", 
+            "dur": "3.11", 
+            "start": "444.529"
+        }, 
+        {
+            "text": "ever being accessed again.\nEvery time something happens", 
+            "dur": "4.56", 
+            "start": "447.639"
+        }, 
+        {
+            "text": "a little bit of energy is lost.\nFor instance,", 
+            "dur": "3.421", 
+            "start": "452.199"
+        }, 
+        {
+            "text": "friction through sound or heat.\nThat energy goes out into the universe a", 
+            "dur": "4.97", 
+            "start": "455.62"
+        }, 
+        {
+            "text": "little bit at a time, slowly", 
+            "dur": "1.939", 
+            "start": "460.59"
+        }, 
+        {
+            "text": "more and more.\nEventually, in a closed system,", 
+            "dur": "3.88", 
+            "start": "462.529"
+        }, 
+        {
+            "text": "energy becomes homogeneous,\nevenly distributed, the same", 
+            "dur": "4.861", 
+            "start": "466.409"
+        }, 
+        {
+            "text": "everywhere.\nThere&#39;s no gradient maximum", 
+            "dur": "3.66", 
+            "start": "471.27"
+        }, 
+        {
+            "text": "entropy.\nIn a little glass of ice water it&#39;s pretty quotidian", 
+            "dur": "5.259", 
+            "start": "474.93"
+        }, 
+        {
+            "text": "but given enough time our entire universe", 
+            "dur": "3.37", 
+            "start": "480.189"
+        }, 
+        {
+            "text": "may be no different. A gradient,\na difference in energy from one place to", 
+            "dur": "5.521", 
+            "start": "483.559"
+        }, 
+        {
+            "text": "another is necessary for", 
+            "dur": "2.119", 
+            "start": "489.08"
+        }, 
+        {
+            "text": "things to happen, for files to be created and read,", 
+            "dur": "3.56", 
+            "start": "491.199"
+        }, 
+        {
+            "text": "for life to exist.\nAnd in 10 to the 100 years", 
+            "dur": "4.77", 
+            "start": "494.759"
+        }, 
+        {
+            "text": "there may not be any usable energy", 
+            "dur": "3.16", 
+            "start": "499.529"
+        }, 
+        {
+            "text": "left.\nIn Isaac Asimov&#39;s short story &quot;The Last Question&quot;", 
+            "dur": "4.401", 
+            "start": "502.689"
+        }, 
+        {
+            "text": "humans are concerned about this.\nAs the story", 
+            "dur": "3.259", 
+            "start": "507.09"
+        }, 
+        {
+            "text": "leapfrogs billions of years into the future,", 
+            "dur": "3.551", 
+            "start": "510.349"
+        }, 
+        {
+            "text": "their list of solutions doesn&#39;t get any longer", 
+            "dur": "3.79", 
+            "start": "513.9"
+        }, 
+        {
+            "text": "than none. So, if we think across a grand timescale", 
+            "dur": "5.34", 
+            "start": "517.69"
+        }, 
+        {
+            "text": "is cosmic deletion the freezing", 
+            "dur": "3.13", 
+            "start": "523.05"
+        }, 
+        {
+            "text": "of everything, heat death, all we have to look forward to", 
+            "dur": "4.37", 
+            "start": "526.18"
+        }, 
+        {
+            "text": "in this universe?", 
+            "dur": "3.39", 
+            "start": "530.55"
+        }, 
+        {
+            "text": "We went to the Moon.\nWe brought", 
+            "dur": "3.089", 
+            "start": "533.94"
+        }, 
+        {
+            "text": "flags with us that we planted on the\nMoon, representing a place", 
+            "dur": "3.31", 
+            "start": "537.029"
+        }, 
+        {
+            "text": "on earth.\nBut those American flags on the Moon", 
+            "dur": "3.671", 
+            "start": "540.339"
+        }, 
+        {
+            "text": "are likely erased now,", 
+            "dur": "3.4", 
+            "start": "544.01"
+        }, 
+        {
+            "text": "their symbols and colors bleached by the\nintense radiation of the Sun on the", 
+            "dur": "4.48", 
+            "start": "547.41"
+        }, 
+        {
+            "text": "lunar surface,", 
+            "dur": "0.87", 
+            "start": "551.89"
+        }, 
+        {
+            "text": "unfiltered by any atmosphere.\nThe flags are still there, we didn&#39;t", 
+            "dur": "4.19", 
+            "start": "552.76"
+        }, 
+        {
+            "text": "take them back with us but now day are", 
+            "dur": "3.31", 
+            "start": "556.95"
+        }, 
+        {
+            "text": "empty. White flags.\nWhite flags representing our surrender", 
+            "dur": "5.47", 
+            "start": "560.26"
+        }, 
+        {
+            "text": "to the inevitability of deletion in the universe.", 
+            "dur": "6.08", 
+            "start": "565.73"
+        }, 
+        {
+            "text": "But we, today, are preoccupied with", 
+            "dur": "3.01", 
+            "start": "571.81"
+        }, 
+        {
+            "text": "just the opposite.\nWhat really saturates our language,", 
+            "dur": "4.52", 
+            "start": "574.82"
+        }, 
+        {
+            "text": "what we really seem to talk about is", 
+            "dur": "3.03", 
+            "start": "579.34"
+        }, 
+        {
+            "text": "creation.\nThings happening, not", 
+            "dur": "3.41", 
+            "start": "582.37"
+        }, 
+        {
+            "text": "loss.\nCompared to erase,", 
+            "dur": "3.27", 
+            "start": "585.78"
+        }, 
+        {
+            "text": "forget and delete, &quot;make&quot; practically", 
+            "dur": "3.78", 
+            "start": "589.05"
+        }, 
+        {
+            "text": "deletes deletion.", 
+            "dur": "3.01", 
+            "start": "592.83"
+        }, 
+        {
+            "text": "The flags on the Moon are bleached", 
+            "dur": "3.02", 
+            "start": "595.84"
+        }, 
+        {
+            "text": "out but is that bleak?\nAre they", 
+            "dur": "3.08", 
+            "start": "598.86"
+        }, 
+        {
+            "text": "deleted or blank, like a fresh", 
+            "dur": "3.81", 
+            "start": "601.94"
+        }, 
+        {
+            "text": "sheet of paper ready for new stories?\nReally, it just depends on what you", 
+            "dur": "5.14", 
+            "start": "605.75"
+        }, 
+        {
+            "text": "make of it.\nSo thanks for making things.", 
+            "dur": "3.23", 
+            "start": "610.89"
+        }, 
+        {
+            "text": "And as always,", 
+            "dur": "1.04", 
+            "start": "614.12"
+        }, 
+        {
+            "text": "thanks for watching.", 
+            "dur": "1.48", 
+            "start": "615.16"
+        }
+    ], 
+    "title": "Where Do Deleted Files Go?", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/020s1", 
+        "/m/04mbws"
+    ], 
+    "number_views": 5638827, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-11T01:37:08.432Z", 
+            "text": "i have a question, is data considered matter?\ufeff", 
+            "author": "Michael Morales"
+        }, 
+        {
+            "date": "2015-05-10T15:48:52.104Z", 
+            "text": "It is really impressive how : you vsauce2 and 3 AS well AS 60 simbols and \nnuberphile Turner my way oft thinking at things like life and death... \nDestruction and creation... AS always.. Thanks for blowing my mind :))\ufeff", 
+            "author": "Ryuu Sasakura"
+        }, 
+        {
+            "date": "2015-05-10T10:01:39.823Z", 
+            "text": "I destroyed the moon with my donger\ufeff", 
+            "author": "Waluigi"
+        }, 
+        {
+            "date": "2015-05-10T06:48:24.962Z", 
+            "text": "I like these videos they actually make me stop to think about life and \nexistence, they make you just feel as if there is some other reason for \neverything done on earth, and for that matter the whole galaxy! Thanks for \nmaking awesome videos!\ufeff", 
+            "author": "The Aethers Wrath MC"
+        }, 
+        {
+            "date": "2015-05-10T04:50:57.479Z", 
+            "text": "I really like the thought that there are now blank flags on the moon. I had \nnever imagined that the colours would fade to nothing -- but it makes sense \nof course - and now there is a new page ready for another ID. WooHoo.\ufeff", 
+            "author": "Marion Wheatland"
+        }, 
+        {
+            "date": "2015-05-10T00:10:38.235Z", 
+            "text": "This shit is deep. \ufeff", 
+            "author": "Ashton Newman"
+        }, 
+        {
+            "date": "2015-05-09T19:58:19.502Z", 
+            "text": "YouTube video doens't go anywhere, they are still there in YouTube servers, \nonly NSA and YouTube Server moderators can see the video and they can put \nthe video back to YouTube, without any law problems... And iCloud \"hacking\" \nis Apple's fault.. Dear Lord..\ufeff", 
+            "author": "Henrik Kovalenko"
+        }, 
+        {
+            "date": "2015-05-09T18:39:14.365Z", 
+            "text": "that was DEEP af\ufeff", 
+            "author": "GOapeshit14"
+        }, 
+        {
+            "date": "2015-05-09T16:33:55.605Z", 
+            "text": "first comment\ufeff", 
+            "author": "Golden Apple"
+        }, 
+        {
+            "date": "2015-05-09T13:44:59.265Z", 
+            "text": "Universe won't end as well as anything will not end.\ufeff", 
+            "author": "FreedomWarrior"
+        }, 
+        {
+            "date": "2015-05-09T10:49:15.355Z", 
+            "text": "Please don't talk that nerdish.. i can't understand i'm Greek.\ufeff", 
+            "author": "iThunda DrumzZz"
+        }, 
+        {
+            "date": "2015-05-09T07:28:54.804Z", 
+            "text": "I want to die\nI don't want to be alive when there is no more energy\npls kill me, m8\ufeff", 
+            "author": "Demonkatzu Inaba (Bryan)"
+        }, 
+        {
+            "date": "2015-05-09T05:28:33.295Z", 
+            "text": " Hit the hard drive with a hammer\ufeff", 
+            "author": "BlazeEbony"
+        }, 
+        {
+            "date": "2015-05-09T03:38:51.020Z", 
+            "text": "What is that song at 8:54?? Its driving me nuts\ufeff", 
+            "author": "Dylan Kost"
+        }, 
+        {
+            "date": "2015-05-09T03:06:23.458Z", 
+            "text": "this was the most interesting, surprising, depressing then uplifting Vsauce \nvideo I've seen\ufeff", 
+            "author": "Charlie Simon"
+        }, 
+        {
+            "date": "2015-05-09T01:25:38.218Z", 
+            "text": "Don't wipe your drive clean? wait for five billion years\ufeff", 
+            "author": "Joe Ierfone"
+        }, 
+        {
+            "date": "2015-05-08T23:42:35.448Z", 
+            "text": "Energy can not be created or destroyed it simply changes form.\ufeff", 
+            "author": "Tyler Lee (Pokemaster)"
+        }, 
+        {
+            "date": "2015-05-08T23:15:39.059Z", 
+            "text": "Ahahah or should I cry for the ignorance of this video.\nMore ignorant the humans in the comments or this monkey in the video ?\nAliens appear in the bible as Elohim translated as alah but if you read \ngenesis 3\nit says ''Oh they became like us''. The adam & eve story was not real but \nit's a\ngenetically esotheric meaning. The aliens like most of you think, are more \nhumans\nthan the humans themselfs. Funny part will they help us... the Aliens\nhave secret bases underground earth and underground the sea. And the humans\nmilitary can't go there. They run this planet  Doing their abductions. they \nare in religions, symbolism and among you, Even in your house. I know all \nabout aliens,\nand know the location in which they live.\ufeff", 
+            "author": "Sokuriel"
+        }, 
+        {
+            "date": "2015-05-08T20:41:31.304Z", 
+            "text": "I feel like 10 minutes to explain a fairly simple concept is a bit much.\ufeff", 
+            "author": "Pierce Vallieres"
+        }, 
+        {
+            "date": "2015-05-08T19:35:11.000Z", 
+            "text": "wtf was that cut at 3:20\ufeff", 
+            "author": "zBobb1118z"
+        }, 
+        {
+            "date": "2015-05-08T17:05:47.605Z", 
+            "text": "what to wipe your hard drive?\nyou cant wipe it completely juist like vsauce said\nhow do you do it?\n\nopen your hard drive\nbreak the CDs in the hard (the round thing)\ntake the pieces of the cd and scatter them in your town city oceans lakes\ufeff", 
+            "author": "Stewie Griffin"
+        }, 
+        {
+            "date": "2015-05-08T15:39:06.180Z", 
+            "text": "That's final now,I'm enslaved to Vsauce's video I can't stop\ufeff", 
+            "author": "Eldar Silver"
+        }, 
+        {
+            "date": "2015-05-08T08:36:00.071Z", 
+            "text": "You're just talking about HDDs, what about those costly ssds that can \nsecurely destroy data in a few minutes ?\ufeff", 
+            "author": "adsardasd"
+        }, 
+        {
+            "date": "2015-05-08T07:46:44.446Z", 
+            "text": "", 
+            "author": "sanjeet bhatt"
+        }, 
+        {
+            "date": "2015-05-08T06:46:31.368Z", 
+            "text": "Might as well burn it\ufeff", 
+            "author": "Daniel Ng"
+        }, 
+        {
+            "date": "2015-05-08T00:33:51.591Z", 
+            "text": "That guy is smoking some serious f-ing weed man geezus x)\ufeff", 
+            "author": "Gary Croft"
+        }, 
+        {
+            "date": "2015-05-07T21:23:56.151Z", 
+            "text": "So that's why (one of the reasons) the computers gets slower the more you \nuse it.\ufeff", 
+            "author": "Jonas Karlsson"
+        }, 
+        {
+            "date": "2015-05-07T20:16:35.344Z", 
+            "text": "i am scared of this guy\ufeff", 
+            "author": "Jakov Vodanovi\u0107"
+        }, 
+        {
+            "date": "2015-05-07T17:54:05.420Z", 
+            "text": "That escalated quickly!\nI only wanted to know what happens with files!!\ufeff", 
+            "author": "Daniel Harvey"
+        }, 
+        {
+            "date": "2015-05-07T09:16:13.303Z", 
+            "text": "Alot of people used the word Noob in the year 1717 apparently.\ufeff", 
+            "author": "Marcus Bj\u00f6rn Rydstr\u00f6m (ZeTaurus)"
+        }, 
+        {
+            "date": "2015-05-07T04:22:42.069Z", 
+            "text": "Well that got me some edumacstion! \ufeff", 
+            "author": "Kevin Graves"
+        }, 
+        {
+            "date": "2015-05-07T02:14:41.466Z", 
+            "text": "No Michael; thank YOU for making.\ufeff", 
+            "author": "naota3k"
+        }, 
+        {
+            "date": "2015-05-07T01:50:28.630Z", 
+            "text": "What about burning everything >:D\ufeff", 
+            "author": "TheAwesoMERGuy"
+        }, 
+        {
+            "date": "2015-05-06T17:19:59.833Z", 
+            "text": "\u00bfI \u0287,u\u01dd\u0279\u0250 no\u028e \u0183u\u1d09\u028eouu\u0250 \u026f,I\ufeff", 
+            "author": "Apple Cat"
+        }, 
+        {
+            "date": "2015-05-06T17:19:04.391Z", 
+            "text": "\u24cc\u24e1\u24d8\u24d6\u24d7\u24e3\u24d8\u24dd\u24d6 \u24d8\u24dd \u24b7\u24e4\u24d1\u24d1\u24db\u24d4\u24e2 \u24d8\u24e2 \u24bb\u24e4\u24dd!\ufeff", 
+            "author": "Apple Cat"
+        }, 
+        {
+            "date": "2015-05-06T14:56:56.959Z", 
+            "text": "\"Deny the file a proper burial, and rearange it's corpse with new data\". \nThis shit sounds pretty morbid.\ufeff", 
+            "author": "NovaMoonZ"
+        }, 
+        {
+            "date": "2015-05-06T14:08:52.639Z", 
+            "text": "I hate Vsauce now for bringing no positivity in anything\ufeff", 
+            "author": "PositiveFrequency"
+        }, 
+        {
+            "date": "2015-05-06T11:38:43.772Z", 
+            "text": "How i can delete file for real ?\ufeff", 
+            "author": "AD3L1N"
+        }, 
+        {
+            "date": "2015-05-06T10:35:06.971Z", 
+            "text": "How the hell did you get from deleting computer files to the heat death of \nthe universe and get us to think about our inevitable deaths and \npointlessness of life. You do this with every video. Just why...?\ufeff", 
+            "author": "Svilen Ivanov"
+        }, 
+        {
+            "date": "2015-05-06T03:31:54.379Z", 
+            "text": "Fuckin hella trippy man\ufeff", 
+            "author": "Makai Jacob"
+        }, 
+        {
+            "date": "2015-05-06T03:14:34.775Z", 
+            "text": "lo thats what i learned when i 12 years old i was investigating how to \ndelete files and verity it or destroy the data ram and HDD or SSD. like \narnold said burn everything or smash it completely till its unreaperable \nand y'all safe from spy's\ufeff", 
+            "author": "BLOODYRAINBOW - SFM SOURCE FILMAKER DUDE"
+        }, 
+        {
+            "date": "2015-05-06T03:13:57.196Z", 
+            "text": "I can burn it\ufeff", 
+            "author": "Weitian Zhu"
+        }, 
+        {
+            "date": "2015-05-06T02:17:30.430Z", 
+            "text": "This guy goes to extremes in his topics. It is often he talks about the end \nof the universe and whatnot\ufeff", 
+            "author": "alex scott"
+        }, 
+        {
+            "date": "2015-05-05T22:00:28.230Z", 
+            "text": "Interesting....\ufeff", 
+            "author": "The Animal and Aircraft zone!"
+        }, 
+        {
+            "date": "2015-05-05T18:15:39.159Z", 
+            "text": "Oh ya the ssun should work because theres no hell and hades way that we \nwill make some thing to exeed are sun with in are existence.\ufeff", 
+            "author": "Emberly White"
+        }, 
+        {
+            "date": "2015-05-05T15:54:49.764Z", 
+            "text": "very interesting...\ufeff", 
+            "author": "Robi Lipohar"
+        }, 
+        {
+            "date": "2015-05-05T04:56:36.498Z", 
+            "text": "+Vsauce man has not been to the moon in photos and documentaries about the \nmoon landing every single shot shows the flag is waving and the pole has 2 \nshadows and the footage of the planting of the flag was taken during the \nday and on the moons surface it can get up to 123 degrees Celsius more then \nhot enough to melt film and the astronauts would of roasted alive in there \nsuits the entire moon landing happened on a set in the middle of the desert\ufeff", 
+            "author": "James Quinn"
+        }, 
+        {
+            "date": "2015-05-05T00:53:31.316Z", 
+            "text": "haha get rekt america\ufeff", 
+            "author": "Noah Tablit"
+        }, 
+        {
+            "date": "2015-05-04T23:44:36.835Z", 
+            "text": "Burning everything aka hell is motion\ufeff", 
+            "author": "JavaGaming"
+        }, 
+        {
+            "date": "2015-05-04T03:00:37.243Z", 
+            "text": "Not one mention of Cyberspace?!\ufeff", 
+            "author": "David Wilkins"
+        }, 
+        {
+            "date": "2015-05-04T01:38:23.961Z", 
+            "text": "What song was that at the end?\ufeff", 
+            "author": "Andre Hebra"
+        }, 
+        {
+            "date": "2015-05-03T20:07:35.360Z", 
+            "text": "When DELETING a file, more MEMORY is MADE?\ufeff", 
+            "author": "Tony Rocha"
+        }, 
+        {
+            "date": "2015-05-03T19:50:11.867Z", 
+            "text": "This vid gave me chills...\ufeff", 
+            "author": "chu kitt"
+        }, 
+        {
+            "date": "2015-05-03T05:13:51.122Z", 
+            "text": "What about another \"Big Bang\" happening in the same universe - Our universe?\n\nIf that would happen, it will reorganize all matter and energy in our \nuniverse - Now, that is one of the ultimate deletions.\ufeff", 
+            "author": "avsiii"
+        }, 
+        {
+            "date": "2015-05-03T04:14:16.947Z", 
+            "text": "Damn, He must get pussy like a fat rat. Damn YOU!\ufeff", 
+            "author": "TheLivingDeadOne"
+        }, 
+        {
+            "date": "2015-05-02T22:57:03.000Z", 
+            "text": "So, some things are still are still on my computer?\nEh eh... Shit....\n\n\n\n\n\n\n\n\n\n\n\n\n\n*Burns computer*\ufeff", 
+            "author": "SimTheGoldFish"
+        }, 
+        {
+            "date": "2015-05-02T06:37:10.491Z", 
+            "text": "Chael sonnen ask vsauce\ufeff", 
+            "author": "Tom Rugman"
+        }, 
+        {
+            "date": "2015-05-01T22:59:51.838Z", 
+            "text": "", 
+            "author": "Myah Charlton"
+        }, 
+        {
+            "date": "2015-05-01T20:31:17.866Z", 
+            "text": "Wow this got dark quickly.\ufeff", 
+            "author": "Giuseppe Bernal"
+        }, 
+        {
+            "date": "2015-05-01T17:30:37.758Z", 
+            "text": "That is why most of the time I stay at home on my sofa in order to not \nincrease the entropy.\ufeff", 
+            "author": "MLG Yolo"
+        }, 
+        {
+            "date": "2015-05-01T16:42:14.982Z", 
+            "text": "this guy is a flipping genies\ufeff", 
+            "author": "Lilly_Snow_Fox"
+        }, 
+        {
+            "date": "2015-05-01T14:33:50.188Z", 
+            "text": "\"it's cheaper to send unsalvageable electronics to Africa, marked as a \ndonation\"...\nSadly colonialism is still alive.\ufeff", 
+            "author": "Kevi N."
+        }, 
+        {
+            "date": "2015-05-01T11:14:20.311Z", 
+            "text": "Death by snoo snoo, that's how I want to go\ufeff", 
+            "author": "AnimeDubs"
+        }, 
+        {
+            "date": "2015-05-01T02:24:21.142Z", 
+            "text": "I'm gonna delete this right after posting replying u can still see it! ;)\ufeff", 
+            "author": "GtolUnstopableAnd NinjaDoGames"
+        }, 
+        {
+            "date": "2015-04-30T19:58:46.761Z", 
+            "text": "That was the most complicated wording I've ever heard and that was bloody \nbrilliant. I'm semi-speechless...\n\nFAVOURITE\ufeff", 
+            "author": "Just Viewing"
+        }, 
+        {
+            "date": "2015-04-29T21:33:38.580Z", 
+            "text": "Think twice\ufeff", 
+            "author": "ayub kinyua kiriaku (Yubi)"
+        }, 
+        {
+            "date": "2015-04-29T10:42:50.908Z", 
+            "text": "10^100 is a number greater than there are atoms in the universe\ufeff", 
+            "author": "Penguinox"
+        }, 
+        {
+            "date": "2015-04-28T16:18:28.730Z", 
+            "text": "He Should Make Video-\n\n''HOW Do We Define things as NORMAL''\ufeff", 
+            "author": "PhoneCalls"
+        }, 
+        {
+            "date": "2015-04-28T04:54:07.164Z", 
+            "text": "pause at 4:22 looks like he is going to murder someone XD\ufeff", 
+            "author": "Jack Eden"
+        }, 
+        {
+            "date": "2015-04-28T03:49:48.097Z", 
+            "text": "No way! We just learned about pointers in c++ class yesterday!\ufeff", 
+            "author": "King Of The Arsenal"
+        }, 
+        {
+            "date": "2015-04-28T02:00:55.877Z", 
+            "text": "How ironic- I was doing my history homework and reading about the rise of \nStalin during this video :O\ufeff", 
+            "author": "SakuraShimmer"
+        }, 
+        {
+            "date": "2015-04-27T22:45:55.221Z", 
+            "text": "song name?\ufeff", 
+            "author": "Hawk9"
+        }, 
+        {
+            "date": "2015-04-27T19:15:37.635Z", 
+            "text": "Damn.... This is some deep shit\ufeff", 
+            "author": "oliver gagliardi"
+        }, 
+        {
+            "date": "2015-04-27T18:44:33.799Z", 
+            "text": "what happens to things irl that are \"destroyed\" or dissapeared like if it \nwas burned?\ufeff", 
+            "author": "FireNinja TripleNine"
+        }, 
+        {
+            "date": "2015-04-27T18:34:51.500Z", 
+            "text": "dude your channel is the dopest man!\ufeff", 
+            "author": "Aych TV"
+        }, 
+        {
+            "date": "2015-04-27T17:46:31.258Z", 
+            "text": "1817-1826 YOLO was used more often then\ufeff", 
+            "author": "Cyz Walker"
+        }, 
+        {
+            "date": "2015-04-27T06:26:48.000Z", 
+            "text": "According to many scientists, even information (evidence of going's on and \nphysical arrangements) cannot be destroyed even by a black hole; but it is \ndesputed, by some such as {Steven Hawkings I believe}.\ufeff", 
+            "author": "TheExaltedPheonix"
+        }, 
+        {
+            "date": "2015-04-26T22:59:28.503Z", 
+            "text": "I've only recently found this channel and I'm hooked, finally a intelligent \ntrustworthy source of useful \ninformation,\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ufeff", 
+            "author": "Paul Murrell"
+        }, 
+        {
+            "date": "2015-04-26T20:17:14.729Z", 
+            "text": "What about (internal) SSD ?\ufeff", 
+            "author": "NutHoofd"
+        }, 
+        {
+            "date": "2015-04-26T15:14:21.397Z", 
+            "text": "when u say delete it reminds me of the guy from death note that would keep \nsaying delete after writing names.\ufeff", 
+            "author": "Forsaken Pixel Nagisa"
+        }, 
+        {
+            "date": "2015-04-26T12:41:02.477Z", 
+            "text": "You censored heck ???\ufeff", 
+            "author": "Pro-methean"
+        }, 
+        {
+            "date": "2015-04-26T10:17:47.692Z", 
+            "text": "Yeah, that's how I thought it worked.\ufeff", 
+            "author": "Cellulanus"
+        }, 
+        {
+            "date": "2015-04-26T09:22:52.215Z", 
+            "text": "Hmm really?\n*Opens His Computer Takes Out The Memory Card And Burns It*\nNo one messin' with my files.\n*Goes To A Haunted House, Buts The Memory Card Under A Rug*\nNow lets take care of the computer.\n*Smashes The Computer With A Hammer, Punches And Kicks It, Rips Off The \nKeys From The Keyboard And Throws On The Ground*\nWell then...\n*Comes With A Chainsaw, Cutting The Laptop Into Even Smaller Pieces*\nNO ONE SHALL OPEN MY PORN COLLECTION AGAIN\n*Throws The Computer In The Middle Of The Pacific Ocean*\n... And you said I couldn't delete a file forever unless it took billions \nof years\nHA!\ufeff", 
+            "author": "ProfessorAyz theguy"
+        }, 
+        {
+            "date": "2015-04-26T09:23:42.460Z", 
+            "text": "By the way, I don't have a porn collection it was a joke... Just so you \nknow...", 
+            "author": "ProfessorAyz theguy"
+        }, 
+        {
+            "date": "2015-04-26T02:46:03.698Z", 
+            "text": "This show is DEEP!\ufeff", 
+            "author": "Brayden Sanden"
+        }, 
+        {
+            "date": "2015-04-25T17:31:46.821Z", 
+            "text": "Can anybody tell me the name of the song at 8 40? I've searched Jake \nChudnow's channel but I can't find it! D:\ufeff", 
+            "author": "Mike Adder"
+        }, 
+        {
+            "date": "2015-04-25T15:17:33.252Z", 
+            "text": "What if they somehow changed the language of the data making it unable to \nbe read by the hard drive \ufeff", 
+            "author": "geekaboo14"
+        }, 
+        {
+            "date": "2015-04-25T12:58:23.559Z", 
+            "text": "Why is not possible to really delete data? And what data is there on a new, \nnever esed before, hard drive?\ufeff", 
+            "author": "Catalin Nicanov"
+        }, 
+        {
+            "date": "2015-04-25T12:10:34.528Z", 
+            "text": "Burn the paper?\ufeff", 
+            "author": "JammmHammm"
+        }, 
+        {
+            "date": "2015-04-24T20:43:39.830Z", 
+            "text": "7:10 to the end of the video. Not only it's unrelated, but also it's \nmassive bullshit - 2012 doomsday anyone?\n\nBtw: Way to stretch what could be possibly a one minute episode where you \ncould just say what I already know: The deleted files stay on the disk \nuntil they are overwritten.\ufeff", 
+            "author": "James Roy"
+        }, 
+        {
+            "date": "2015-04-24T20:18:40.527Z", 
+            "text": "WTF i deleted my brain while trying to understand this video.\ufeff", 
+            "author": "Nishant Gupta"
+        }, 
+        {
+            "date": "2015-04-24T16:51:43.311Z", 
+            "text": "Well that took a dramatic turn.\ufeff", 
+            "author": "Redd Vlogs"
+        }, 
+        {
+            "date": "2015-04-24T02:52:09.693Z", 
+            "text": "that got dark....really fast.....\ufeff", 
+            "author": "Gordon Yau"
+        }, 
+        {
+            "date": "2015-04-23T22:29:05.922Z", 
+            "text": "+Alex Baldwin \nOur space race was against the Soviet Union (Russia now) not the French \nretard\ufeff", 
+            "author": "Diego Cruz"
+        }, 
+        {
+            "date": "2015-04-23T04:37:12.001Z", 
+            "text": "Jesus I wish I could just have the answer and not the whole history.\ufeff", 
+            "author": "Lenny The Hopeless"
+        }, 
+        {
+            "date": "2015-04-22T21:43:56.866Z", 
+            "text": "This is has a lot to do with disk defraging. disk defraging is when you \ncompress data in a more organized clumped together wayincreasing \nperformance. The reason why it isnt already organized on your drive is \nbecause when you delete something on your hard drive it leaves an open \nspace like -------_--- but when you you defrag it becomes  -------_. Sorry \nbut im just such a nerd :P\ufeff", 
+            "author": "Gavin Crane"
+        }, 
+        {
+            "date": "2015-04-22T21:22:02.400Z", 
+            "text": "why he didnt upload more than 1 video per month?\ufeff", 
+            "author": "Franco Carrara"
+        }, 
+        {
+            "date": "2015-04-22T21:12:35.141Z", 
+            "text": "Michael, at 7:10, you talked about 10^100 years being the heat death, but \nI've read/heard elsewhere that at 10^15 years is the predicted final proton \ndecay ignoring dark energy. Video on heat death and the end of it all? \nThanks!\ufeff", 
+            "author": "fuck you"
+        }, 
+        {
+            "date": "2015-04-22T14:18:02.534Z", 
+            "text": "\"The american flag on the moon is now white\" France's plan all along.\ufeff", 
+            "author": "Failcard"
+        }, 
+        {
+            "date": "2015-04-22T03:59:40.801Z", 
+            "text": "Gallon of gas, book of matches. \ufeff", 
+            "author": "ChuckDiesel12345"
+        }
+    ]
+}

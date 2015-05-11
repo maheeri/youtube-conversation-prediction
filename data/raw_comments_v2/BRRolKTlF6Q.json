@@ -1,0 +1,2303 @@
+{
+    "publish_date": "2012-10-25T11:00:14.000Z", 
+    "video_length": "PT13M", 
+    "captions": [
+        {
+            "text": "MATT PARKER: 0 is a perfectly\ngood number.", 
+            "dur": "1.5", 
+            "start": "0"
+        }, 
+        {
+            "text": "And you ignore it\nat your peril.", 
+            "dur": "1.64", 
+            "start": "1.5"
+        }, 
+        {
+            "text": "The problem is it&#39;s a\ndangerous number.", 
+            "dur": "2.73", 
+            "start": "3.14"
+        }, 
+        {
+            "text": "And a lot of things can go\nhorribly wrong with 0.", 
+            "dur": "2.04", 
+            "start": "5.87"
+        }, 
+        {
+            "text": "And because it is a slightly\nmore unusual, nuanced number,", 
+            "dur": "3.61", 
+            "start": "7.91"
+        }, 
+        {
+            "text": "you have to be a little\nbit more careful with", 
+            "dur": "1.23", 
+            "start": "11.52"
+        }, 
+        {
+            "text": "how you handle it.", 
+            "dur": "0.98", 
+            "start": "12.75"
+        }, 
+        {
+            "text": "And so there are some things\nthat you can&#39;t do with it.", 
+            "dur": "2.78", 
+            "start": "13.73"
+        }, 
+        {
+            "text": "So you can&#39;t divide\nsomething by 0.", 
+            "dur": "2.49", 
+            "start": "16.51"
+        }, 
+        {
+            "text": "And you can&#39;t have things like\n0 to the power of 0.", 
+            "dur": "4.67", 
+            "start": "19"
+        }, 
+        {
+            "text": "And I get asked about\nthese all the time.", 
+            "dur": "1.8", 
+            "start": "23.67"
+        }, 
+        {
+            "text": "People are constantly, why\ncan&#39;t I divide by 0?", 
+            "dur": "2.78", 
+            "start": "25.47"
+        }, 
+        {
+            "text": "I want to divide by 0?", 
+            "dur": "1.36", 
+            "start": "28.25"
+        }, 
+        {
+            "text": "Isn&#39;t it just infinity?", 
+            "dur": "1.27", 
+            "start": "29.61"
+        }, 
+        {
+            "text": "Blah, blah, blah.", 
+            "dur": "0.8", 
+            "start": "30.88"
+        }, 
+        {
+            "text": "And so I thought I would\ndo two things.", 
+            "dur": "2.04", 
+            "start": "31.68"
+        }, 
+        {
+            "text": "First of all, I&#39;m going to show\nyou why, no, you cannot", 
+            "dur": "2.33", 
+            "start": "33.72"
+        }, 
+        {
+            "text": "divide by 0.", 
+            "dur": "0.81", 
+            "start": "36.05"
+        }, 
+        {
+            "text": "It&#39;s not just infinity.", 
+            "dur": "1.42", 
+            "start": "36.86"
+        }, 
+        {
+            "text": "It&#39;s a bit more complicated\nthan that.", 
+            "dur": "1.67", 
+            "start": "38.28"
+        }, 
+        {
+            "text": "And then, I&#39;m also going to look\nat why you can&#39;t have 0", 
+            "dur": "2.83", 
+            "start": "39.95"
+        }, 
+        {
+            "text": "to the power of 0.", 
+            "dur": "1.91", 
+            "start": "42.78"
+        }, 
+        {
+            "text": "JAMES GRIME: OK, so this is\nsomething that we&#39;ve been", 
+            "dur": "2.54", 
+            "start": "44.69"
+        }, 
+        {
+            "text": "asked a lot at Numberphile.", 
+            "dur": "2.14", 
+            "start": "47.23"
+        }, 
+        {
+            "text": "Well, you may know that\nsomething like multiplication", 
+            "dur": "3.2", 
+            "start": "49.37"
+        }, 
+        {
+            "text": "is just glorified\nadding, really.", 
+            "dur": "1.64", 
+            "start": "52.57"
+        }, 
+        {
+            "text": "You want to do 5 times 10?", 
+            "dur": "2.76", 
+            "start": "54.21"
+        }, 
+        {
+            "text": "You just add on 5 plus 5\nplus 5 plus 5 10 times.", 
+            "dur": "4.24", 
+            "start": "56.97"
+        }, 
+        {
+            "text": "Division is just glorified\nsubtraction.", 
+            "dur": "2.21", 
+            "start": "61.21"
+        }, 
+        {
+            "text": "So if I want to take a number\nlike, oh, 20, and then divide", 
+            "dur": "4.5", 
+            "start": "63.42"
+        }, 
+        {
+            "text": "it by 4, I just keep\nsubtracting 4.", 
+            "dur": "3.48", 
+            "start": "67.92"
+        }, 
+        {
+            "text": "So you take away 4, take\naway 4, take away 4.", 
+            "dur": "3.38", 
+            "start": "71.4"
+        }, 
+        {
+            "text": "You do that five times.", 
+            "dur": "2.18", 
+            "start": "74.78"
+        }, 
+        {
+            "text": "And that number, 5, that&#39;s\nyour answer.", 
+            "dur": "2.33", 
+            "start": "76.96"
+        }, 
+        {
+            "text": "20 divided by 4 is equal to 5.", 
+            "dur": "3.01", 
+            "start": "79.29"
+        }, 
+        {
+            "text": "So it&#39;s just glorified\nsubtraction.", 
+            "dur": "1.91", 
+            "start": "82.3"
+        }, 
+        {
+            "text": "That&#39;s really what it is.", 
+            "dur": "1.56", 
+            "start": "84.21"
+        }, 
+        {
+            "text": "Now, if I divide by 0, then that\nmeans I&#39;m subtracting 0", 
+            "dur": "6.14", 
+            "start": "85.77"
+        }, 
+        {
+            "text": "over and over.", 
+            "dur": "0.59", 
+            "start": "91.91"
+        }, 
+        {
+            "text": "So 20 divided by 0 means\nI take away 0.", 
+            "dur": "4.25", 
+            "start": "92.5"
+        }, 
+        {
+            "text": "I&#39;ve got 20.", 
+            "dur": "1.68", 
+            "start": "96.75"
+        }, 
+        {
+            "text": "And then, I take away 0 again.", 
+            "dur": "1.4", 
+            "start": "98.43"
+        }, 
+        {
+            "text": "I&#39;ve still got 20.", 
+            "dur": "1.62", 
+            "start": "99.83"
+        }, 
+        {
+            "text": "I take away 0, and 0, and that\nwould go one forever.", 
+            "dur": "2.52", 
+            "start": "101.45"
+        }, 
+        {
+            "text": "You would never get very far\ndoing something like that,", 
+            "dur": "2.8", 
+            "start": "103.97"
+        }, 
+        {
+            "text": "keep taking away 0.", 
+            "dur": "1.41", 
+            "start": "106.77"
+        }, 
+        {
+            "text": "So 20 divided by 0?", 
+            "dur": "4.09", 
+            "start": "108.18"
+        }, 
+        {
+            "text": "That&#39;s infinity, isn&#39;t it?", 
+            "dur": "1.66", 
+            "start": "112.27"
+        }, 
+        {
+            "text": "Surely--", 
+            "dur": "0.58", 
+            "start": "113.93"
+        }, 
+        {
+            "text": "surely it&#39;s infinity.", 
+            "dur": "1.13", 
+            "start": "114.51"
+        }, 
+        {
+            "text": "And that&#39;s what I expect\npeople to think.", 
+            "dur": "2.34", 
+            "start": "115.64"
+        }, 
+        {
+            "text": "Surely only a nerd would\ntell you differently.", 
+            "dur": "2.66", 
+            "start": "117.98"
+        }, 
+        {
+            "text": "That&#39;s when you cut to Matt\ntelling them differently.", 
+            "dur": "1.615", 
+            "start": "120.64"
+        }, 
+        {
+            "text": "MATT PARKER: Because first of\nall, everyone goes, why can&#39;t", 
+            "dur": "2.485", 
+            "start": "122.255"
+        }, 
+        {
+            "text": "you just say that&#39;s something\ndivided by 0?", 
+            "dur": "2.32", 
+            "start": "124.74"
+        }, 
+        {
+            "text": "So let&#39;s say I&#39;m going\nto do a function.", 
+            "dur": "1.439", 
+            "start": "127.06"
+        }, 
+        {
+            "text": "I&#39;m going to have the\nfunction of 1/x.", 
+            "dur": "2.781", 
+            "start": "128.499"
+        }, 
+        {
+            "text": "JAMES GRIME: We don&#39;t say\nsomething is equal to", 
+            "dur": "3.05", 
+            "start": "131.28"
+        }, 
+        {
+            "text": "infinity, OK?", 
+            "dur": "1.045", 
+            "start": "134.33"
+        }, 
+        {
+            "text": "So infinity is not a number,\nand it can&#39;t be", 
+            "dur": "1.785", 
+            "start": "135.375"
+        }, 
+        {
+            "text": "treated like number.", 
+            "dur": "1.52", 
+            "start": "137.16"
+        }, 
+        {
+            "text": "It&#39;s an idea.", 
+            "dur": "0.97", 
+            "start": "138.68"
+        }, 
+        {
+            "text": "So we can&#39;t say 1 divided\nby 0 equals infinity.", 
+            "dur": "5.31", 
+            "start": "139.65"
+        }, 
+        {
+            "text": "We can no more say that than we\ncan say 1 divided by 0 is", 
+            "dur": "3.65", 
+            "start": "144.96"
+        }, 
+        {
+            "text": "equal to blue.", 
+            "dur": "1.9", 
+            "start": "148.61"
+        }, 
+        {
+            "text": "But if I am naughty and I do\nthis, 1 divided by 0 is equal", 
+            "dur": "5.11", 
+            "start": "150.51"
+        }, 
+        {
+            "text": "to infinity, you would get just\nas equally 2 divided by 0", 
+            "dur": "5.33", 
+            "start": "155.62"
+        }, 
+        {
+            "text": "is equal to infinity.", 
+            "dur": "1.71", 
+            "start": "160.95"
+        }, 
+        {
+            "text": "And obviously you get\nthe problem here.", 
+            "dur": "2.06", 
+            "start": "162.66"
+        }, 
+        {
+            "text": "That&#39;s one seems to\nbe equal to 2.", 
+            "dur": "3.53", 
+            "start": "164.72"
+        }, 
+        {
+            "text": "Oh, and we see that&#39;s\nnonsense.", 
+            "dur": "1.36", 
+            "start": "168.25"
+        }, 
+        {
+            "text": "And that&#39;s why we don&#39;t-- so\nfor a very good reason, we", 
+            "dur": "3.27", 
+            "start": "169.61"
+        }, 
+        {
+            "text": "don&#39;t say it&#39;s equal\nto infinity.", 
+            "dur": "1.265", 
+            "start": "172.88"
+        }, 
+        {
+            "text": "You&#39;re going to get nonsense\nlike 1 equals 2.", 
+            "dur": "2.575", 
+            "start": "174.145"
+        }, 
+        {
+            "text": "MATT PARKER: But what\nif you take a limit?", 
+            "dur": "0.89", 
+            "start": "176.72"
+        }, 
+        {
+            "text": "What if you just take\nthe limit as x gets", 
+            "dur": "2.91", 
+            "start": "177.61"
+        }, 
+        {
+            "text": "really close to 0?", 
+            "dur": "2.41", 
+            "start": "180.52"
+        }, 
+        {
+            "text": "Doesn&#39;t this equal infinity?", 
+            "dur": "3.17", 
+            "start": "182.93"
+        }, 
+        {
+            "text": "And so you would say that\nactually, dividing by 0, you", 
+            "dur": "3.11", 
+            "start": "186.1"
+        }, 
+        {
+            "text": "could therefore conclude that 1", 
+            "dur": "2.42", 
+            "start": "189.21"
+        }, 
+        {
+            "text": "divided by 0 equals infinity.", 
+            "dur": "2.425", 
+            "start": "191.63"
+        }, 
+        {
+            "text": "And I&#39;m going show you why\nyou can&#39;t do that.", 
+            "dur": "1.835", 
+            "start": "194.055"
+        }, 
+        {
+            "text": "So if you imagine your\nnumber line here.", 
+            "dur": "2.13", 
+            "start": "195.89"
+        }, 
+        {
+            "text": "This is the number line.", 
+            "dur": "1.65", 
+            "start": "198.02"
+        }, 
+        {
+            "text": "I&#39;m going to put\n0 right there.", 
+            "dur": "1.49", 
+            "start": "199.67"
+        }, 
+        {
+            "text": "So there&#39;s 0 in the middle.", 
+            "dur": "0.93", 
+            "start": "201.16"
+        }, 
+        {
+            "text": "And out here, this might be 1\nand so on, all the way up.", 
+            "dur": "2.78", 
+            "start": "202.09"
+        }, 
+        {
+            "text": "And as you go along, this here,\nI&#39;m going to draw on", 
+            "dur": "2.76", 
+            "start": "204.87"
+        }, 
+        {
+            "text": "this axis going up.", 
+            "dur": "2.64", 
+            "start": "207.63"
+        }, 
+        {
+            "text": "This here is 1/x.", 
+            "dur": "2.85", 
+            "start": "210.27"
+        }, 
+        {
+            "text": "I&#39;m going to have 1/x on that.", 
+            "dur": "1.79", 
+            "start": "213.12"
+        }, 
+        {
+            "text": "And over here where it&#39;s 1, this\nwould be about 1 there.", 
+            "dur": "3.19", 
+            "start": "214.91"
+        }, 
+        {
+            "text": "When you come back to, let&#39;s\nsay, about 1/2, this is going", 
+            "dur": "4.33", 
+            "start": "218.1"
+        }, 
+        {
+            "text": "to be a bit bigger.", 
+            "dur": "0.63", 
+            "start": "222.43"
+        }, 
+        {
+            "text": "It&#39;s going to be twice as big.", 
+            "dur": "1.84", 
+            "start": "223.06"
+        }, 
+        {
+            "text": "By the time you get down to\nabout 1/4, that&#39;s going to be", 
+            "dur": "2.6", 
+            "start": "224.9"
+        }, 
+        {
+            "text": "twice as being again.", 
+            "dur": "1.44", 
+            "start": "227.5"
+        }, 
+        {
+            "text": "And if you come-- as you get\ncloser and closer, this does--", 
+            "dur": "2.63", 
+            "start": "228.94"
+        }, 
+        {
+            "text": "it does, I absolutely agree--\nthis gets bigger and bigger.", 
+            "dur": "2.44", 
+            "start": "231.57"
+        }, 
+        {
+            "text": "This goes racing off.", 
+            "dur": "1.74", 
+            "start": "234.01"
+        }, 
+        {
+            "text": "And it does tend to infinity.", 
+            "dur": "2.3", 
+            "start": "235.75"
+        }, 
+        {
+            "text": "This is absolutely correct.", 
+            "dur": "1.27", 
+            "start": "238.05"
+        }, 
+        {
+            "text": "But this only works if you&#39;re\napproaching 0 from the", 
+            "dur": "3.86", 
+            "start": "239.32"
+        }, 
+        {
+            "text": "positive numbers, if you&#39;re\ncoming in from the right on", 
+            "dur": "3.19", 
+            "start": "243.18"
+        }, 
+        {
+            "text": "your number line.", 
+            "dur": "0.75", 
+            "start": "246.37"
+        }, 
+        {
+            "text": "If you come in from the left,\nit&#39;s completely different.", 
+            "dur": "3.35", 
+            "start": "247.12"
+        }, 
+        {
+            "text": "So if you start over here at\nnegative 1, then your value is", 
+            "dur": "3.15", 
+            "start": "250.47"
+        }, 
+        {
+            "text": "actually down here at 1.", 
+            "dur": "3.39", 
+            "start": "253.62"
+        }, 
+        {
+            "text": "If you then go to negative\n1/2, it&#39;s down here at", 
+            "dur": "2.66", 
+            "start": "257.01"
+        }, 
+        {
+            "text": "negative 2.", 
+            "dur": "1.409", 
+            "start": "259.67"
+        }, 
+        {
+            "text": "And as you get closer and\ncloser, the value goes racing", 
+            "dur": "3.181", 
+            "start": "261.079"
+        }, 
+        {
+            "text": "off in this direction.", 
+            "dur": "1.18", 
+            "start": "264.26"
+        }, 
+        {
+            "text": "In fact, it goes racing down\nto negative infinity.", 
+            "dur": "4.17", 
+            "start": "265.44"
+        }, 
+        {
+            "text": "So yes, if you approach\n0 from one", 
+            "dur": "2.76", 
+            "start": "269.61"
+        }, 
+        {
+            "text": "direction, you get infinity.", 
+            "dur": "1.3", 
+            "start": "272.37"
+        }, 
+        {
+            "text": "But if you come in a different\nway to exactly the", 
+            "dur": "2.45", 
+            "start": "273.67"
+        }, 
+        {
+            "text": "same place, you get--", 
+            "dur": "2.08", 
+            "start": "276.12"
+        }, 
+        {
+            "text": "well, you can&#39;t get much\nmore different", 
+            "dur": "1.2", 
+            "start": "278.2"
+        }, 
+        {
+            "text": "than negative infinity.", 
+            "dur": "0.94", 
+            "start": "279.4"
+        }, 
+        {
+            "text": "And people will yell at me\nif I say it&#39;s infinitely", 
+            "dur": "2.94", 
+            "start": "280.34"
+        }, 
+        {
+            "text": "different from positive\ninfinity, blah, blah.", 
+            "dur": "2.19", 
+            "start": "283.28"
+        }, 
+        {
+            "text": "Maybe this line goes all the\nway around and wraps around", 
+            "dur": "2.09", 
+            "start": "285.47"
+        }, 
+        {
+            "text": "the entire universe and then\ncomes back up here.", 
+            "dur": "2.45", 
+            "start": "287.56"
+        }, 
+        {
+            "text": "But as far as I&#39;m concerned,\nif you&#39;re coming from one", 
+            "dur": "3.06", 
+            "start": "290.01"
+        }, 
+        {
+            "text": "direction you get one answer.", 
+            "dur": "1.29", 
+            "start": "293.07"
+        }, 
+        {
+            "text": "If you&#39;re coming from the other\ndirection, you get a", 
+            "dur": "1.44", 
+            "start": "294.36"
+        }, 
+        {
+            "text": "different answer.", 
+            "dur": "0.89", 
+            "start": "295.8"
+        }, 
+        {
+            "text": "You&#39;re going to the\nsame place.", 
+            "dur": "1.67", 
+            "start": "296.69"
+        }, 
+        {
+            "text": "There is no one limit as you\nget closer and closer to", 
+            "dur": "3.29", 
+            "start": "298.36"
+        }, 
+        {
+            "text": "dividing by 0.", 
+            "dur": "0.78", 
+            "start": "301.65"
+        }, 
+        {
+            "text": "There&#39;s more than\none limit with", 
+            "dur": "1.09", 
+            "start": "302.43"
+        }, 
+        {
+            "text": "completely different answers.", 
+            "dur": "1.01", 
+            "start": "303.52"
+        }, 
+        {
+            "text": "And that&#39;s why we say\nit&#39;s undefined.", 
+            "dur": "1.61", 
+            "start": "304.53"
+        }, 
+        {
+            "text": "Mathematically, what we\nwould say is we say--", 
+            "dur": "2.81", 
+            "start": "306.14"
+        }, 
+        {
+            "text": "I want blue this time, sorry.", 
+            "dur": "1.48", 
+            "start": "308.95"
+        }, 
+        {
+            "text": "If you approach the limit as x\napproaches 0 from the positive", 
+            "dur": "3.14", 
+            "start": "310.43"
+        }, 
+        {
+            "text": "direction, equals positive\ninfinity.", 
+            "dur": "2.71", 
+            "start": "313.57"
+        }, 
+        {
+            "text": "And then separately, down\nhere, the limit as x", 
+            "dur": "3.74", 
+            "start": "316.28"
+        }, 
+        {
+            "text": "approaches 0 from the negative\ndirection of 1/x equals", 
+            "dur": "4.18", 
+            "start": "320.02"
+        }, 
+        {
+            "text": "negative infinity.", 
+            "dur": "1.25", 
+            "start": "324.2"
+        }, 
+        {
+            "text": "And these are different.", 
+            "dur": "0.89", 
+            "start": "325.45"
+        }, 
+        {
+            "text": "They equal different things.", 
+            "dur": "1.33", 
+            "start": "326.34"
+        }, 
+        {
+            "text": "We simply cannot just assume\nthat 1/0 equals infinity.", 
+            "dur": "4.86", 
+            "start": "327.67"
+        }, 
+        {
+            "text": "JAMES GRIME: If you go to 0\nfrom this direction, it&#39;s", 
+            "dur": "3.36", 
+            "start": "332.53"
+        }, 
+        {
+            "text": "going off to plus infinity.", 
+            "dur": "2.58", 
+            "start": "335.89"
+        }, 
+        {
+            "text": "And if you go to 0 from this\ndirection, it goes off to", 
+            "dur": "3.89", 
+            "start": "338.47"
+        }, 
+        {
+            "text": "minus infinity--", 
+            "dur": "1.04", 
+            "start": "342.36"
+        }, 
+        {
+            "text": "two different answers.", 
+            "dur": "1.73", 
+            "start": "343.4"
+        }, 
+        {
+            "text": "BRADY HARAN: When I type\n1 divided by 0 into my", 
+            "dur": "3.67", 
+            "start": "345.13"
+        }, 
+        {
+            "text": "calculator or my computer,\nit can&#39;t do it.", 
+            "dur": "3.34", 
+            "start": "348.8"
+        }, 
+        {
+            "text": "It can&#39;t handle it.", 
+            "dur": "1.42", 
+            "start": "352.14"
+        }, 
+        {
+            "text": "What&#39;s it trying\nto do, though?", 
+            "dur": "1.65", 
+            "start": "353.56"
+        }, 
+        {
+            "text": "What can it not do?", 
+            "dur": "0.99", 
+            "start": "355.21"
+        }, 
+        {
+            "text": "What happens in those\ncircuits?", 
+            "dur": "1.54", 
+            "start": "356.2"
+        }, 
+        {
+            "text": "What did it try and\nfail to do?", 
+            "dur": "1.54", 
+            "start": "357.74"
+        }, 
+        {
+            "text": "Or has the calculator\nbeen taught?", 
+            "dur": "1.72", 
+            "start": "359.28"
+        }, 
+        {
+            "text": "MATT PARKER: Oh, that&#39;s\na very good question.", 
+            "dur": "1.73", 
+            "start": "361"
+        }, 
+        {
+            "text": "Is it attempting to do\nsomething, and then it&#39;s not", 
+            "dur": "4.39", 
+            "start": "362.73"
+        }, 
+        {
+            "text": "getting an answer?", 
+            "dur": "0.7", 
+            "start": "367.12"
+        }, 
+        {
+            "text": "Or has it just been rote taught\nto not divide by 0?", 
+            "dur": "2.95", 
+            "start": "367.82"
+        }, 
+        {
+            "text": "I honestly don&#39;t know.", 
+            "dur": "1.08", 
+            "start": "370.77"
+        }, 
+        {
+            "text": "I suspect it&#39;s just been taught\nthat if someone hits", 
+            "dur": "6.24", 
+            "start": "371.85"
+        }, 
+        {
+            "text": "divide by 0, say error.", 
+            "dur": "2.05", 
+            "start": "378.09"
+        }, 
+        {
+            "text": "Or what it might do is actually\ntry to get to that", 
+            "dur": "3.82", 
+            "start": "380.14"
+        }, 
+        {
+            "text": "answer by an iterative process,\nwhich it then finds", 
+            "dur": "3.15", 
+            "start": "383.96"
+        }, 
+        {
+            "text": "exploding in one or the other.", 
+            "dur": "1.96", 
+            "start": "387.11"
+        }, 
+        {
+            "text": "And so it&#39;s got some kind of\nbuilt-in cap or some kind of", 
+            "dur": "3.35", 
+            "start": "389.07"
+        }, 
+        {
+            "text": "safety switch which goes off\nto say, this calculation is", 
+            "dur": "2.53", 
+            "start": "392.42"
+        }, 
+        {
+            "text": "getting out of control.", 
+            "dur": "1.16", 
+            "start": "394.95"
+        }, 
+        {
+            "text": "Call it off here.", 
+            "dur": "0.99", 
+            "start": "396.11"
+        }, 
+        {
+            "text": "Just say maths error.", 
+            "dur": "1.06", 
+            "start": "397.1"
+        }, 
+        {
+            "text": "But I imagine it might even vary\nfrom device to device.", 
+            "dur": "2.67", 
+            "start": "398.16"
+        }, 
+        {
+            "text": "But it&#39;d be one of the two.", 
+            "dur": "1.25", 
+            "start": "400.83"
+        }, 
+        {
+            "text": "The other thing that people get\nvery annoyed about is when", 
+            "dur": "3.31", 
+            "start": "405.17"
+        }, 
+        {
+            "text": "you&#39;ve got 0 to the\npower of 0.", 
+            "dur": "3.39", 
+            "start": "408.48"
+        }, 
+        {
+            "text": "And the reason they get annoyed\nabout this is when", 
+            "dur": "1.81", 
+            "start": "411.87"
+        }, 
+        {
+            "text": "you&#39;ve got anything, anything at\nall, to the power of 0, you", 
+            "dur": "5.1", 
+            "start": "413.68"
+        }, 
+        {
+            "text": "always say it equals 1.", 
+            "dur": "2.1", 
+            "start": "418.78"
+        }, 
+        {
+            "text": "And when you&#39;ve got 0 to the\npower of anything, you always", 
+            "dur": "3.35", 
+            "start": "420.88"
+        }, 
+        {
+            "text": "say it equals 0.", 
+            "dur": "0.86", 
+            "start": "424.23"
+        }, 
+        {
+            "text": "So what happens when\nthese collide?", 
+            "dur": "2.06", 
+            "start": "425.09"
+        }, 
+        {
+            "text": "And people, to be honest, argue\ndifferent ways depending", 
+            "dur": "3.63", 
+            "start": "427.15"
+        }, 
+        {
+            "text": "on what they need.", 
+            "dur": "0.94", 
+            "start": "430.78"
+        }, 
+        {
+            "text": "More often than not, people\nargue for 0 to the 0 equals 1", 
+            "dur": "5.22", 
+            "start": "431.72"
+        }, 
+        {
+            "text": "in my experience, although the\nvideo I did on 345 for", 
+            "dur": "4.91", 
+            "start": "436.94"
+        }, 
+        {
+            "text": "Numberphile, people in the\ncomments argued that 0 to the", 
+            "dur": "2.84", 
+            "start": "441.85"
+        }, 
+        {
+            "text": "0 should be 0, which is, of\ncourse, equally insane.", 
+            "dur": "3.66", 
+            "start": "444.69"
+        }, 
+        {
+            "text": "And I&#39;m going to show you\nwhy you can&#39;t have this.", 
+            "dur": "1.77", 
+            "start": "448.35"
+        }, 
+        {
+            "text": "And this is absolutely lovely\nbecause when you start with", 
+            "dur": "2.6", 
+            "start": "450.12"
+        }, 
+        {
+            "text": "your number line here--", 
+            "dur": "1.15", 
+            "start": "452.72"
+        }, 
+        {
+            "text": "this is a normal number line.", 
+            "dur": "1.11", 
+            "start": "453.87"
+        }, 
+        {
+            "text": "There&#39;s 0 in the middle.", 
+            "dur": "1.27", 
+            "start": "454.98"
+        }, 
+        {
+            "text": "This time, you can look at the\nlimit as x approaches 0.", 
+            "dur": "4.92", 
+            "start": "456.25"
+        }, 
+        {
+            "text": "So this time, our function is\nx to the power of x, right?", 
+            "dur": "3.02", 
+            "start": "461.17"
+        }, 
+        {
+            "text": "And we&#39;re going to\nslide it in.", 
+            "dur": "1.375", 
+            "start": "464.19"
+        }, 
+        {
+            "text": "And in fact, we have to do\nit from both directions.", 
+            "dur": "2.005", 
+            "start": "465.565"
+        }, 
+        {
+            "text": "We have to come in from the\npositive direction.", 
+            "dur": "1.79", 
+            "start": "467.57"
+        }, 
+        {
+            "text": "And as we know, we have to\ncome in, the limit as x", 
+            "dur": "3.62", 
+            "start": "469.36"
+        }, 
+        {
+            "text": "approaches 0, from a negative\ndirection of x to the x.", 
+            "dur": "3.05", 
+            "start": "472.98"
+        }, 
+        {
+            "text": "And we&#39;ll see what we get.", 
+            "dur": "1.41", 
+            "start": "476.03"
+        }, 
+        {
+            "text": "And obviously, if they&#39;re\ndifferent, then things are", 
+            "dur": "1.73", 
+            "start": "477.44"
+        }, 
+        {
+            "text": "going horribly wrong.", 
+            "dur": "1.1", 
+            "start": "479.17"
+        }, 
+        {
+            "text": "So if I draw in my\ny-axis here.", 
+            "dur": "4.41", 
+            "start": "480.27"
+        }, 
+        {
+            "text": "This is where I&#39;m going to\nbe graphing x to the x.", 
+            "dur": "2.57", 
+            "start": "484.68"
+        }, 
+        {
+            "text": "As you get closer in--", 
+            "dur": "1.66", 
+            "start": "487.25"
+        }, 
+        {
+            "text": "and to be honest, the path\nwe follow is irrelevant.", 
+            "dur": "2.52", 
+            "start": "488.91"
+        }, 
+        {
+            "text": "But what happens is as\nyou come in from one", 
+            "dur": "3.02", 
+            "start": "491.43"
+        }, 
+        {
+            "text": "side, you hit 1.", 
+            "dur": "2.85", 
+            "start": "494.45"
+        }, 
+        {
+            "text": "As you come in from the\nother side, you hit 1.", 
+            "dur": "2.75", 
+            "start": "497.3"
+        }, 
+        {
+            "text": "In fact, these have exactly\nthe same answer.", 
+            "dur": "2.71", 
+            "start": "500.05"
+        }, 
+        {
+            "text": "They both give you one.", 
+            "dur": "1.63", 
+            "start": "502.76"
+        }, 
+        {
+            "text": "And so you say, well, if it\ndoesn&#39;t matter which side", 
+            "dur": "2.41", 
+            "start": "504.39"
+        }, 
+        {
+            "text": "we&#39;re coming in from, if we can\ncome in along the number", 
+            "dur": "3.99", 
+            "start": "506.8"
+        }, 
+        {
+            "text": "line this way into the middle,\nor we can come along the", 
+            "dur": "2.93", 
+            "start": "510.79"
+        }, 
+        {
+            "text": "number line this way into the\nmiddle, and both cases, the", 
+            "dur": "3.37", 
+            "start": "513.72"
+        }, 
+        {
+            "text": "function has the same limit,\nsurely we can just call it 1.", 
+            "dur": "3.56", 
+            "start": "517.09"
+        }, 
+        {
+            "text": "But it&#39;s slightly more\ncomplicated because this is", 
+            "dur": "1.769", 
+            "start": "520.65"
+        }, 
+        {
+            "text": "only the real number line.", 
+            "dur": "2.671", 
+            "start": "522.419"
+        }, 
+        {
+            "text": "I&#39;m not going to go into this.", 
+            "dur": "1.26", 
+            "start": "525.09"
+        }, 
+        {
+            "text": "But the real number line is very\nboring because it&#39;s one", 
+            "dur": "2.82", 
+            "start": "526.35"
+        }, 
+        {
+            "text": "dimensional.", 
+            "dur": "0.5", 
+            "start": "529.17"
+        }, 
+        {
+            "text": "You can go backwards and\nforwards on your numbers.", 
+            "dur": "1.95", 
+            "start": "529.67"
+        }, 
+        {
+            "text": "You&#39;ve also got the\ncomplex numbers.", 
+            "dur": "1.79", 
+            "start": "531.62"
+        }, 
+        {
+            "text": "And for that, you need to\nput in the imaginary.", 
+            "dur": "3.01", 
+            "start": "533.41"
+        }, 
+        {
+            "text": "So I&#39;m going to put in-- this\nis my imaginary axis.", 
+            "dur": "2.99", 
+            "start": "536.42"
+        }, 
+        {
+            "text": "And so now, you&#39;ve got this\nentire surface of numbers.", 
+            "dur": "3.97", 
+            "start": "539.41"
+        }, 
+        {
+            "text": "And you&#39;ve got the real\nin one direction,", 
+            "dur": "1.23", 
+            "start": "543.38"
+        }, 
+        {
+            "text": "imaginary in the other.", 
+            "dur": "0.87", 
+            "start": "544.61"
+        }, 
+        {
+            "text": "And any single point in there is\npart of the complex plane.", 
+            "dur": "2.76", 
+            "start": "545.48"
+        }, 
+        {
+            "text": "In fact, now there are loads of\ndifferent ways to come in", 
+            "dur": "3", 
+            "start": "548.24"
+        }, 
+        {
+            "text": "towards the origin.", 
+            "dur": "1.08", 
+            "start": "551.24"
+        }, 
+        {
+            "text": "And you could approach it from\nanywhere on the complex plane.", 
+            "dur": "3.71", 
+            "start": "552.32"
+        }, 
+        {
+            "text": "And then, these approaches,\nyou get different limits.", 
+            "dur": "3.75", 
+            "start": "556.03"
+        }, 
+        {
+            "text": "You don&#39;t get 1 anymore.", 
+            "dur": "1.71", 
+            "start": "559.78"
+        }, 
+        {
+            "text": "It starts to fall apart once you\ngo to the complex plane.", 
+            "dur": "3.33", 
+            "start": "561.49"
+        }, 
+        {
+            "text": "And so this is why, even though\non the surface of it it", 
+            "dur": "3.82", 
+            "start": "564.82"
+        }, 
+        {
+            "text": "might look like the limit should\nbe 1, it doesn&#39;t work", 
+            "dur": "3.56", 
+            "start": "568.64"
+        }, 
+        {
+            "text": "once you go to complex\nnumbers.", 
+            "dur": "1.61", 
+            "start": "572.2"
+        }, 
+        {
+            "text": "And that&#39;s why mathematicians\nstill get very emotional when", 
+            "dur": "3.31", 
+            "start": "573.81"
+        }, 
+        {
+            "text": "you try to say that 0 to\nthe 0 has a value.", 
+            "dur": "2.35", 
+            "start": "577.12"
+        }, 
+        {
+            "text": "In fact, it is still undefined\nbecause the limits vary.", 
+            "dur": "6.15", 
+            "start": "579.47"
+        }, 
+        {
+            "text": "JAMES GRIME: How about something\nlike x divided by y?", 
+            "dur": "5.09", 
+            "start": "585.62"
+        }, 
+        {
+            "text": "So I&#39;m going to draw--", 
+            "dur": "1.02", 
+            "start": "590.71"
+        }, 
+        {
+            "text": "here&#39;s x and here&#39;s y.", 
+            "dur": "2.7", 
+            "start": "591.73"
+        }, 
+        {
+            "text": "If I think about x\ndivided by y--", 
+            "dur": "2.21", 
+            "start": "594.43"
+        }, 
+        {
+            "text": "BRADY HARAN: Slide that\npage around a bit?", 
+            "dur": "1.26", 
+            "start": "596.64"
+        }, 
+        {
+            "text": "JAMES GRIME: If I think about x\ndivided by y, this is going", 
+            "dur": "3.39", 
+            "start": "597.9"
+        }, 
+        {
+            "text": "to be fine except here.", 
+            "dur": "3.17", 
+            "start": "601.29"
+        }, 
+        {
+            "text": "This is called the origin.", 
+            "dur": "1.11", 
+            "start": "604.46"
+        }, 
+        {
+            "text": "It&#39;s the point 0, 0.", 
+            "dur": "2.03", 
+            "start": "605.57"
+        }, 
+        {
+            "text": "x is equal to 0 and\ny is equal to 0.", 
+            "dur": "3.23", 
+            "start": "607.6"
+        }, 
+        {
+            "text": "So at this point, we have\nsomething that is", 
+            "dur": "2.8", 
+            "start": "610.83"
+        }, 
+        {
+            "text": "0 divided by 0.", 
+            "dur": "2.83", 
+            "start": "613.63"
+        }, 
+        {
+            "text": "That doesn&#39;t sound like\ngood news at all.", 
+            "dur": "1.96", 
+            "start": "616.46"
+        }, 
+        {
+            "text": "What is that?", 
+            "dur": "0.14", 
+            "start": "618.42"
+        }, 
+        {
+            "text": "Is it 0?", 
+            "dur": "1.08", 
+            "start": "618.56"
+        }, 
+        {
+            "text": "Is it infinity?", 
+            "dur": "0.76", 
+            "start": "619.64"
+        }, 
+        {
+            "text": "What is it?", 
+            "dur": "1.04", 
+            "start": "620.4"
+        }, 
+        {
+            "text": "In fact, it can be any answer\nyou want it to be depending on", 
+            "dur": "4.72", 
+            "start": "621.44"
+        }, 
+        {
+            "text": "the angle you come from.", 
+            "dur": "1.48", 
+            "start": "626.16"
+        }, 
+        {
+            "text": "I&#39;ll show you what I mean.", 
+            "dur": "0.91", 
+            "start": "627.64"
+        }, 
+        {
+            "text": "Now, this line is y equals x.", 
+            "dur": "3.6", 
+            "start": "628.55"
+        }, 
+        {
+            "text": "This line.", 
+            "dur": "1.78", 
+            "start": "632.15"
+        }, 
+        {
+            "text": "Now, if I travel along\nthat line, then", 
+            "dur": "3.06", 
+            "start": "633.93"
+        }, 
+        {
+            "text": "this thing here, x/y--", 
+            "dur": "3.62", 
+            "start": "636.99"
+        }, 
+        {
+            "text": "why did I say this?\ny equals x?", 
+            "dur": "1.23", 
+            "start": "640.61"
+        }, 
+        {
+            "text": "This is actually x divided\nby x now, which is 1.", 
+            "dur": "5.18", 
+            "start": "641.84"
+        }, 
+        {
+            "text": "So this is 1.", 
+            "dur": "0.69", 
+            "start": "647.02"
+        }, 
+        {
+            "text": "Everything on this line is 1.", 
+            "dur": "3.4", 
+            "start": "647.71"
+        }, 
+        {
+            "text": "So it would be OK if I&#39;m only\ntraveling along that line.", 
+            "dur": "3.41", 
+            "start": "651.11"
+        }, 
+        {
+            "text": "I would be quite happy to say\nthat that is a 1 as well.", 
+            "dur": "4", 
+            "start": "654.52"
+        }, 
+        {
+            "text": "Everything else is.", 
+            "dur": "1.38", 
+            "start": "658.52"
+        }, 
+        {
+            "text": "So I&#39;m going to say,\nyeah, that is.", 
+            "dur": "1.22", 
+            "start": "659.9"
+        }, 
+        {
+            "text": "That&#39;s called a removable\nsingularity.", 
+            "dur": "1.365", 
+            "start": "661.12"
+        }, 
+        {
+            "text": "That&#39;s it&#39;s proper name.", 
+            "dur": "1.965", 
+            "start": "662.485"
+        }, 
+        {
+            "text": "If I travel along this\ndirection, this is the line y", 
+            "dur": "4.56", 
+            "start": "664.45"
+        }, 
+        {
+            "text": "equals minus x.", 
+            "dur": "2.8", 
+            "start": "669.01"
+        }, 
+        {
+            "text": "If I do that, y equals\nminus x.", 
+            "dur": "2.64", 
+            "start": "671.81"
+        }, 
+        {
+            "text": "In that case, you get\nx divided by y.", 
+            "dur": "2.89", 
+            "start": "674.45"
+        }, 
+        {
+            "text": "y is equal to minus x.", 
+            "dur": "2.98", 
+            "start": "677.34"
+        }, 
+        {
+            "text": "So this is minus 1.", 
+            "dur": "1.82", 
+            "start": "680.32"
+        }, 
+        {
+            "text": "Everything on this\nline is minus 1.", 
+            "dur": "2.46", 
+            "start": "682.14"
+        }, 
+        {
+            "text": "Now, let&#39;s try this.", 
+            "dur": "1.73", 
+            "start": "684.6"
+        }, 
+        {
+            "text": "I&#39;m going to travel\nalong the x-axis.", 
+            "dur": "2.52", 
+            "start": "686.33"
+        }, 
+        {
+            "text": "X-axis--", 
+            "dur": "0.8", 
+            "start": "688.85"
+        }, 
+        {
+            "text": "In other words, this\nis y equals 0.", 
+            "dur": "1.93", 
+            "start": "689.65"
+        }, 
+        {
+            "text": "That&#39;s what the x-axis is.", 
+            "dur": "2.21", 
+            "start": "691.58"
+        }, 
+        {
+            "text": "So y equals 0.", 
+            "dur": "1.65", 
+            "start": "693.79"
+        }, 
+        {
+            "text": "If I do that, then I\nget x divided by y.", 
+            "dur": "4.41", 
+            "start": "695.44"
+        }, 
+        {
+            "text": "I said y equals 0.", 
+            "dur": "2.6", 
+            "start": "699.85"
+        }, 
+        {
+            "text": "So here&#39;s x divided by 0.", 
+            "dur": "2.07", 
+            "start": "702.45"
+        }, 
+        {
+            "text": "Oh, dear.", 
+            "dur": "1.14", 
+            "start": "704.52"
+        }, 
+        {
+            "text": "Well, we know that this\nis a problem.", 
+            "dur": "2.24", 
+            "start": "705.66"
+        }, 
+        {
+            "text": "But it&#39;s going to be something\nlike I&#39;m going to be naughty.", 
+            "dur": "4.92", 
+            "start": "707.9"
+        }, 
+        {
+            "text": "It&#39;s going off to infinity--", 
+            "dur": "1.68", 
+            "start": "712.82"
+        }, 
+        {
+            "text": "plus infinity, minus infinity.", 
+            "dur": "1.58", 
+            "start": "714.5"
+        }, 
+        {
+            "text": "But it&#39;s something like that.", 
+            "dur": "2.91", 
+            "start": "716.08"
+        }, 
+        {
+            "text": "If I go along this direction,\nwhich is the y-axis, here x", 
+            "dur": "6.11", 
+            "start": "718.99"
+        }, 
+        {
+            "text": "equals 0 down here.", 
+            "dur": "2.3", 
+            "start": "725.1"
+        }, 
+        {
+            "text": "But you have the same thing,\nright? x is equal to 0.", 
+            "dur": "4.07", 
+            "start": "727.4"
+        }, 
+        {
+            "text": "So I&#39;m going to say 0.", 
+            "dur": "1.29", 
+            "start": "731.47"
+        }, 
+        {
+            "text": "x is equal to 0.", 
+            "dur": "1.36", 
+            "start": "732.76"
+        }, 
+        {
+            "text": "Divide it by y.", 
+            "dur": "1.53", 
+            "start": "734.12"
+        }, 
+        {
+            "text": "That&#39;s 0 divided by 1.", 
+            "dur": "1.41", 
+            "start": "735.65"
+        }, 
+        {
+            "text": "Everything on this line\nis equal to 0.", 
+            "dur": "3.18", 
+            "start": "737.06"
+        }, 
+        {
+            "text": "So I would be justified to say,\nwell, that point is the", 
+            "dur": "4.25", 
+            "start": "740.24"
+        }, 
+        {
+            "text": "only problem.", 
+            "dur": "1.04", 
+            "start": "744.49"
+        }, 
+        {
+            "text": "Take it out, and call it 0.", 
+            "dur": "1.77", 
+            "start": "745.53"
+        }, 
+        {
+            "text": "So it just depends on which\nangle you approach from.", 
+            "dur": "2.54", 
+            "start": "747.3"
+        }, 
+        {
+            "text": "In fact, I can make\nany number.", 
+            "dur": "1.38", 
+            "start": "749.84"
+        }, 
+        {
+            "text": "I&#39;ve made minus 1, plus\n1, infinity, and 0.", 
+            "dur": "5.06", 
+            "start": "751.22"
+        }, 
+        {
+            "text": "And depending on which angle you\ncome at, you can make any", 
+            "dur": "3.94", 
+            "start": "756.28"
+        }, 
+        {
+            "text": "number you want out of that.", 
+            "dur": "1.5", 
+            "start": "760.22"
+        }, 
+        {
+            "text": "So 0 divided by 0 is this\nproperty called undefined.", 
+            "dur": "6.72", 
+            "start": "761.72"
+        }, 
+        {
+            "text": "Frankly, we could make it to be\nanything we want it to be", 
+            "dur": "3.26", 
+            "start": "768.44"
+        }, 
+        {
+            "text": "depending on the angle\nwe come at it from.", 
+            "dur": "3.45", 
+            "start": "771.7"
+        }, 
+        {
+            "text": "[INTERPOSING VOICES]", 
+            "dur": "0.61", 
+            "start": "775.15"
+        }, 
+        {
+            "text": "MATT PARKER: It&#39;s all to do with\nthe angle that the match", 
+            "dur": "1.865", 
+            "start": "775.76"
+        }, 
+        {
+            "text": "takes as being sort of--", 
+            "dur": "1.695", 
+            "start": "777.625"
+        }
+    ], 
+    "title": "Problems with Zero - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/019cqn", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 1664116, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T22:24:33.000Z", 
+            "text": "With your limit and bar graphs explaining x/0 is not equal to infinity, \nyou're assuming x/0=infinity and negative infinity, where x is positive. \nHowever, the negative infinity approach works if and only if x is negative. \nSo you're stating that 1/0=(-1/0), and we're going to nonsense.\n\nBy the way, my scientific calculator says that 0^0 is 1.\ufeff", 
+            "author": "The Luoji Person"
+        }, 
+        {
+            "date": "2015-05-10T20:14:16.555Z", 
+            "text": "In programming, IEEE 754 defines that division by 0 (1/0) is +Infinity, and \ndivision by negative 0 (1/-0) is -Infinity. This is designed to handle \nunderflow due to the limited precision of 64-bit floating point numbers. \nThe exception is 0/0, which is NaN (not-a-number).\ufeff", 
+            "author": "Lachlan Hunt"
+        }, 
+        {
+            "date": "2015-05-10T17:11:19.000Z", 
+            "text": "let's say the line at 5.30 DID in fact wrap around the universe and connect \non the other side, would that mean that -1 = 1? And while it's wrapping \nround it has to pass through 0 at some point, so wouldn't that mean that -1 \nand 1 CAN be devided by 0?\ufeff", 
+            "author": "Daniel Harvey"
+        }, 
+        {
+            "date": "2015-05-10T01:47:09.920Z", 
+            "text": "My first calculator actually crashed when I tried to divide by zero, which \ntells me that newer calculators have it trapped as an error.\ufeff", 
+            "author": "Colin Jones (Ponder - FUHA)"
+        }, 
+        {
+            "date": "2015-05-09T21:07:45.000Z", 
+            "text": "About 5:54 - If the operation was allowed, the computer just wouldn't halt \nif you tried to divide by zero. It is usually the responsibility of the \npeople making the software (low level software) to check for zero before \nperforming the division. If that's the case, an appropriate error message \nwill be returned or displayed. 1:25 in the video is the way the computer \nwould do it. It would just keep going, so it's stopped before it even \nstarts.\n\nI think mostly all computational devices do this. I guess you could add a \nsmall logical unit in the hardware that puts a limit on the number of \ncycles that are performed on a single division operation (base it on the \nnumber of bits), but it's much better to just simply check for zero \nbeforehand (takes much less time). You could probably also check if the \nprevious value is equal to the same value, but still, checking if a value \nis 0 takes less time.\ufeff", 
+            "author": "BitFlip32"
+        }, 
+        {
+            "date": "2015-05-09T16:09:52.420Z", 
+            "text": "On my calculator. 0/1 = (it goes up) \ufeff", 
+            "author": "Marcho Bomb"
+        }, 
+        {
+            "date": "2015-05-09T08:47:24.715Z", 
+            "text": "It is infinity cause just like a circle... It never ends\ufeff", 
+            "author": "BEA DrOwNEd"
+        }, 
+        {
+            "date": "2015-05-08T09:42:06.922Z", 
+            "text": "Intelligent people in comment section = Super complicated math\n\nMe and about the rest of youtube = Video equals 13 minutes long... 13 - 10 \nequals 3. A triangle has 3 corners. Triangles are associated with the \nIlluminati.\n\n\n\n\n\n\nLoomin8ty conman firearm Ed.\ufeff", 
+            "author": "Shawarma Broadcast"
+        }, 
+        {
+            "date": "2015-05-06T23:41:45.317Z", 
+            "text": "", 
+            "author": "Ruslanas G\u017eibovskis"
+        }, 
+        {
+            "date": "2015-05-05T21:16:52.938Z", 
+            "text": "I'm used to learn and write y/x, which can be the slope at one specific x.. \nNow you're giving me x/y without any transition.. I can't make a sense of \nit.. Slope ? Or x with respect to y sth?...\ufeff", 
+            "author": "Branden Z"
+        }, 
+        {
+            "date": "2015-05-05T12:04:34.559Z", 
+            "text": "Chuck Norris can divide by zero...\ufeff", 
+            "author": "TheDwk95"
+        }, 
+        {
+            "date": "2015-05-05T10:34:46.988Z", 
+            "text": "javascript again: Math.pow(0, 0) = 1, what a language...\ufeff", 
+            "author": "Erik Ecoologic"
+        }, 
+        {
+            "date": "2015-05-05T11:56:11.000Z", 
+            "text": "exactly what I expected from javascript: 1/0 = Infinity ... To think it \neven have the \"undefined\" value\ufeff", 
+            "author": "Erik Ecoologic"
+        }, 
+        {
+            "date": "2015-05-05T00:39:11.048Z", 
+            "text": "Google says that 10 / 0 = Infinity \n:\\\ufeff", 
+            "author": "DerpyGaming"
+        }, 
+        {
+            "date": "2015-05-04T22:17:14.374Z", 
+            "text": "\u221e \u00f7 0               Well Theres your problem...\ufeff", 
+            "author": "lukasadams1"
+        }, 
+        {
+            "date": "2015-05-04T04:53:14.099Z", 
+            "text": "In the last example, (approx 10:20), you mention that, \"the answer can be \nany answer you want it to be, depending on the angle you come in on.\"  Are \nyou also implying that the angle can be measured from any position and in \nany direction?  I was surprised that you used x / y instead of y / x for \nthis example.\ufeff", 
+            "author": "thelema418"
+        }, 
+        {
+            "date": "2015-05-03T18:02:54.628Z", 
+            "text": "Is it possible that n/0 has some sort of two values +oo and -oo\n\nseriously Math exists to describe rules in the \"nature\" (numbers, \nequations, functions ...), and theoretically there there is things that can \nhave two values in the universe (i dont know but i'm thinking of quantum \nmechanic)\ufeff", 
+            "author": "Youness Belfkih"
+        }, 
+        {
+            "date": "2015-05-03T03:45:44.368Z", 
+            "text": "if you think about it life actually equals 0 squared\ufeff", 
+            "author": "Harrison Taylor"
+        }, 
+        {
+            "date": "2015-05-02T15:45:42.782Z", 
+            "text": "I think I am the only one worried about why they always use the brown big \npaper.\ufeff", 
+            "author": "Brandon Dodd"
+        }, 
+        {
+            "date": "2015-05-02T06:14:19.767Z", 
+            "text": "Subtitles please\ufeff", 
+            "author": "peter Abelard"
+        }, 
+        {
+            "date": "2015-04-30T03:34:34.549Z", 
+            "text": "1/0 = \u221e Deal With It! XDDD\ufeff", 
+            "author": "Try To Be Different"
+        }, 
+        {
+            "date": "2015-04-30T02:41:58.000Z", 
+            "text": "You're saying -x/0=x/0, and you're saying there are 2 answers. :/\ufeff", 
+            "author": "ItsStarzYT"
+        }, 
+        {
+            "date": "2015-04-29T23:17:31.742Z", 
+            "text": "I'm going to do some of my own research - but a quick tip, if you're going \nvery quickly from explaining stuff in terms of simple x/y axis, powers, \ndivision, etc, to suddenly adding in whatever \"complex\" numbers and planes \nare, at the very LEAST add a link to something which will explain what the \nbloody hell you're talking about. Some of us are interested without being \nthat knowledgeable. Ta.\ufeff", 
+            "author": "Geoff Nattrass"
+        }, 
+        {
+            "date": "2015-04-29T13:58:22.631Z", 
+            "text": "I think that without an number line 0/0 is just 1, because if u use \nglorified subtraction, its 0-0=0 ur at 0 and u subtracted once so its 1\ufeff", 
+            "author": "Arxtkcas Magolor (Arxat)"
+        }, 
+        {
+            "date": "2015-04-29T05:44:58.885Z", 
+            "text": "The square root of zero is legal. Try it on calculator or look it up on \nInternet, it is legal.\n\ufeff", 
+            "author": "John Soper"
+        }, 
+        {
+            "date": "2015-04-29T05:33:15.000Z", 
+            "text": "I get pissed off at the 0 problem so I invented an entire sub-class of \nmathematics that allows for zero to express itself.\n\nI call it zeronomics. I can't be the only person who uses this. It works \nout fine and people will use it to solve Gravity in Quantuum equations I'm \nsure.\n\nOK I'm not sure but it's still fun to do zeronomics.\n\nDo not deny the ZERO!\ufeff", 
+            "author": "://SyCx1 Productions"
+        }, 
+        {
+            "date": "2015-04-28T10:12:19.037Z", 
+            "text": "And contrary to popular belief, 0^2, or 0*0 is not actually 0. Think about \nit.\ufeff", 
+            "author": "Tristan Bray"
+        }, 
+        {
+            "date": "2015-04-28T04:58:55.417Z", 
+            "text": "Why does my calculator say divided by zero is infinity? I tried this with \nmy Xperia z1\ufeff", 
+            "author": "Duracel4315"
+        }, 
+        {
+            "date": "2015-04-27T21:09:45.835Z", 
+            "text": "X/0 is undefined, but 0/0 is indeterminant.  If you take the limit of the \nratio of two functions, and both the numerator and denominator -> 0, you \ndifferentiate each one, until you reach an answer (\"L'Hopital's Rule\").\ufeff", 
+            "author": "Clyde Wary"
+        }, 
+        {
+            "date": "2015-04-27T17:59:21.462Z", 
+            "text": "If you know 0/0 then you know 0^0 or vice versa\nx^0 = x^(y-y) = (x^y)/(x^y) = 1\nsame with 0,\n0^0 = 0^(y-y) = (0^y)/(0^y) = 0/0\nTherefore 0^0 = 0/0\nGet any of them. But I learned that these are called 'Indeterminate Form'\ufeff", 
+            "author": "Devansh Sehta"
+        }, 
+        {
+            "date": "2015-05-11T00:59:58.702Z", 
+            "text": "+Devansh Sehta 0^0 is not the same thing as 0^y/0^y when y>0 (just like 0^1 \nis not the same thing as 0^2/0^1)", 
+            "author": "Mark van Hoeij"
+        }, 
+        {
+            "date": "2015-04-26T20:39:56.772Z", 
+            "text": "3.141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117067982148086513282306647093844609550582231725359408128481117450284102701938521105559644622948954930381964428810975665933446128475648233786783165271201909145648566923460348610454326648213393607260249141273724587006606315588174881520920962829254091715364367892590360011330530548820466521384146951941511609433057270365759591953092186117381932611793105118548074462379962749567351885752724891227938183011949129833673362440656643086021394946395224737190702179860943702770539217176293176752384674818467669405132000568127145263560827785771342757789609173637178721468440901224953430146549585371050792279689258923542019956112129021960864034418159813629774771309960518707211349999998372978049951059731732816096318595024459455346908302642522308253344685035261931188171010003137838752886587533208381420617177669147303598253490428755468731159562863882353787593751957781857780532171226806613001927876611195909216420198938095257201065485863278865936153381827968230301952035301852968995773622599413891249721775283479131515574857242454150695950829533116861727855889075098381754637464939319255060400927701671139009848824012858361603563707660104710181942955596198946767837449448255379774726847104047534646208046684259069491293313677028989152104752162056966024058038150193511253382430035587640247496473263914199272604269922796782354781636009341721641219924586315030286182974555706749838505494588586926995690927210797509302955321165344987202755960236480665499119881834797753566369807426542527862551818417574672890977772793800081647060016145249192173217214772350141441973568548161361157352552133475741849468438523323907394143334547762416862518983569485562099219222184272550254256887671790494601653466804988627232791786085784383827967976681454100953883786360950680064225125205117392984896084128488626945604241965285022210661186306744278622039194945047123713786960956364371917287467764657573962413890865832645995813390478027590 \n\n\n\n\n\n\n\nIf you read all of this, comment saying 'DRAGONS ARE REAL!!'\ufeff", 
+            "author": "Marshall Affleck"
+        }, 
+        {
+            "date": "2015-04-26T08:28:14.756Z", 
+            "text": "Cant u just write a normal X!!\ufeff", 
+            "author": "TheSomser"
+        }, 
+        {
+            "date": "2015-04-26T03:23:10.662Z", 
+            "text": "\"Surely only a nerd would tell you differently, and that's when we cut to \nMatt\" 1:57\ufeff", 
+            "author": "Floyd Pinkerton"
+        }, 
+        {
+            "date": "2015-04-26T03:12:16.300Z", 
+            "text": "You think you know everything about multiplying after you've learned the \ntable of multiplication, but then you come across this video and mind \nblown!\ufeff", 
+            "author": "Evgueni Metlitski"
+        }, 
+        {
+            "date": "2015-04-26T02:34:46.835Z", 
+            "text": "Apropos the function y = 1/x in which x approaches 0 from right , y \napproaches infinity. As x approaches 0 from the left, y approaches negative \ninfinity, The same is true for x = 1/y. Rearrange y = 1/x ; We get xy = 1. \nThis means 1 = 0 if either x or y is equal to zero. So is it possible?\ufeff", 
+            "author": "Eclectic Eccentric Kamikazi"
+        }, 
+        {
+            "date": "2015-04-24T06:40:56.000Z", 
+            "text": "The limit of x^x with x->0 do exist.\nlim x^x = e^ln(x)^x = e^x*ln(x)\nx->0\nSince e doesn't change we can use the limit of f(x) = x * ln(x) and then \nmakes e^f(x)\nlim x * ln(x) = ln(x)/(1/x) = 0/0\nx->0\nUsing L'Hopital rule it's:\nlim (1/x)/(-1/x^2) = -1*x^2/x = -x .:.\nx->0\nlim -x = 0\nx-> 0\nSo e^f(x):\ne^0 = 1\n\nlim x^x = 1\nx->0\ufeff", 
+            "author": "P Cabral"
+        }, 
+        {
+            "date": "2015-04-23T19:48:03.931Z", 
+            "text": "if you can't divide by 0, then why does Google say it's infinity?\ufeff", 
+            "author": "Zach Thompson"
+        }, 
+        {
+            "date": "2015-04-23T17:26:03.858Z", 
+            "text": "I tried to write a program in both C++ and Java to make my PC compute 1 \ndivided by 0. All of the compilers refused to compile the program because \nof the statement:\nint i = 1 / 0;\n\nConspiracy-time!\ufeff", 
+            "author": "hakkihakki777"
+        }, 
+        {
+            "date": "2015-04-23T01:33:53.949Z", 
+            "text": "As someone studying computer science, I can confirm that the computer is \nsimply told that dividing by zero is not possible (and hence terminates the \nprogram).\ufeff", 
+            "author": "Eleanor McMurtry"
+        }, 
+        {
+            "date": "2015-04-22T23:05:42.394Z", 
+            "text": "What about \nlim x-->0 x/x \nIsnt that equal to one?\ufeff", 
+            "author": "Felipe Barretto"
+        }, 
+        {
+            "date": "2015-04-22T01:58:57.000Z", 
+            "text": "No division by 0 I can understand but still think if you have nothing and \nraise it to the power of nothing, you still have nothing! lol no one or no \nthing gave you a damn thing. You still got nothing!\n\nI know I can be proven mathematically wrong, but still, seems common \nsense... just like 0x0=0.\ufeff", 
+            "author": "WarRogers"
+        }, 
+        {
+            "date": "2015-04-21T14:20:40.000Z", 
+            "text": "is there a video with the story of the brown paper?\ufeff", 
+            "author": "TheNagiri"
+        }, 
+        {
+            "date": "2015-04-21T07:43:10.506Z", 
+            "text": "Therefor you should say, it is a \"set of infinity\"?\ufeff", 
+            "author": "Martinus Rex"
+        }, 
+        {
+            "date": "2015-04-21T03:39:24.000Z", 
+            "text": "since 0 is neither positive or negative, doesn't that mean that you cant \nsay *x divided by 0* equals positive or negative infinity? that is treating \n0 like it's positive...\ufeff", 
+            "author": "Alecks Horchata"
+        }, 
+        {
+            "date": "2015-04-20T22:44:05.312Z", 
+            "text": "So 20/0 would be infinity with a remainder of 20? ;)\ufeff", 
+            "author": "HaslamCorp"
+        }, 
+        {
+            "date": "2015-04-20T20:58:38.765Z", 
+            "text": "0^0 should be 0. With the power means times itself, that many times. So to \nthe power of 0 would be 0. Nothing else. So that's what I think\ufeff", 
+            "author": "The very long and useless username that you just took the time out of our life to read."
+        }, 
+        {
+            "date": "2015-04-20T07:54:12.857Z", 
+            "text": "Im sure 0\u00f70=infinity\ufeff", 
+            "author": "sam d"
+        }, 
+        {
+            "date": "2015-04-20T00:38:54.226Z", 
+            "text": "That bit of monobrow is bothersome\ufeff", 
+            "author": "mrpizzanipples"
+        }, 
+        {
+            "date": "2015-04-19T23:55:51.000Z", 
+            "text": "The idea of limits is nice but it is really just trying to prove something \nby induction. In order for it to be a good inductive proof, 0 would need to \nhave the same nature as any other number on that line. 0 should be thought \nof as different to begin with.\ufeff", 
+            "author": "jmw150"
+        }, 
+        {
+            "date": "2015-04-19T23:46:30.012Z", 
+            "text": "x/0 --> infinity by that logic. Yes infinity is not a number in the sense \nthat you can't do numbery things to it. At the same time 0 is not a number \nthat you can do division to like regular numbers to get a number. 0 is also \na concept like infinity. All of these have categories. Just because \ninfinity seems to hurt algebra, does not mean it is impossible to process \nas an answer.\n\n1/0, 2/0, x/0 \u03f5 infinity\ufeff", 
+            "author": "jmw150"
+        }, 
+        {
+            "date": "2015-04-19T14:00:06.197Z", 
+            "text": "does this mean that 5 divided by 0 equals \u00b1\u221e?\ufeff", 
+            "author": "mitchell anderson"
+        }, 
+        {
+            "date": "2015-04-19T12:45:23.170Z", 
+            "text": "What if you did infinity to the power of 0?\ufeff", 
+            "author": "Peter Marsh (breadloaf64)"
+        }, 
+        {
+            "date": "2015-05-05T11:56:55.504Z", 
+            "text": "+Peter Marsh 42", 
+            "author": "Erik Ecoologic"
+        }, 
+        {
+            "date": "2015-05-02T02:38:58.492Z", 
+            "text": "oh sorry my mistake, I thought you hit the wrong touch on your keyboard ^ \nand * are pretty close to each other. :)\n\nIndeed 0*x = 0   always.", 
+            "author": "911gpd"
+        }, 
+        {
+            "date": "2015-05-02T02:09:03.425Z", 
+            "text": "+911gpd Okay, but what does this have to do with 0*x?\nThe point is, if you have an expression like x^0, you first go x^0=1. And \nthe limit of that is 1.\nIf you have x*0, you first go x*0=0, and the limit of that is 0.\nYou cant first put in infinity as if it were a number (because it isn't) \nand then apply your operation. That is not defined.", 
+            "author": "TheGr0eg"
+        }, 
+        {
+            "date": "2015-05-02T01:53:21.000Z", 
+            "text": "+911gpd if it goes toward infinity yes but that doesn't mean infinity^0=1 \nbecause infinity isn't a number but you're wrong also\n0^0 is undefined.", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-05-02T01:45:20.281Z", 
+            "text": "x^0=1 whatever the value of x is.\n\n0,00003 or 5 or 2 507 320 246 or if x->infinity", 
+            "author": "911gpd"
+        }, 
+        {
+            "date": "2015-05-02T01:38:24.579Z", 
+            "text": "+911gpd 1.EmperorZelos is right. 2. We could talk about limits though. Why \nwould it be 1? For any value of x, 0*x = 0, so it also is for\nx->inf.", 
+            "author": "TheGr0eg"
+        }, 
+        {
+            "date": "2015-05-02T01:29:42.283Z", 
+            "text": "+911gpd it isn't because infinity is not a number.", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-05-02T01:28:32.378Z", 
+            "text": "+TheGr0eg it's =1", 
+            "author": "911gpd"
+        }, 
+        {
+            "date": "2015-05-01T22:32:17.051Z", 
+            "text": "+Peter Marsh You can't do that, but x*0 with x towards infinity is 0.", 
+            "author": "TheGr0eg"
+        }, 
+        {
+            "date": "2015-04-29T14:12:33.746Z", 
+            "text": "+shandows15 they are talking about infinity in unspecified form, if we talk \nabout different infinities, then for all of them we have transfinite \nnumbers. In fact, giving Cantor's ordinals one can say even more \ntechnically that talking about infinity as a definite entity is wrong given \nthat they are plenty.", 
+            "author": "rodrigocientista"
+        }, 
+        {
+            "date": "2015-04-26T12:54:36.304Z", 
+            "text": "+Peter Marsh You're being naughty, infinity is not a number :P", 
+            "author": "shandows15"
+        }, 
+        {
+            "date": "2015-04-24T20:43:59.459Z", 
+            "text": "+First Last Fair enough", 
+            "author": "Peter Marsh (breadloaf64)"
+        }, 
+        {
+            "date": "2015-04-26T20:21:45.000Z", 
+            "text": "+First Last I assumed he was talking about limits. Otherwise it doesn't \nmake a lot of sense to manipulate infinity as a number.", 
+            "author": "911gpd"
+        }, 
+        {
+            "date": "2015-04-24T02:45:58.548Z", 
+            "text": "+Peter Marsh come on man, these geniuses just said infinity is not a \nnumber, it's an abstract..what you are trying to do is like going to the \nsun at night so you say you wont feel hot..", 
+            "author": "First Last"
+        }, 
+        {
+            "date": "2015-04-21T21:34:18.942Z", 
+            "text": "+Peter Marsh 0^infinity = 0. 0/infinity = 0.", 
+            "author": "Hunter Mcclurg"
+        }, 
+        {
+            "date": "2015-04-20T09:47:48.815Z", 
+            "text": "what about 0 to the power of infinity... Or what if you divided by infinity?", 
+            "author": "Peter Marsh (breadloaf64)"
+        }, 
+        {
+            "date": "2015-04-20T03:36:04.888Z", 
+            "text": "+Peter Marsh = 1", 
+            "author": "911gpd"
+        }, 
+        {
+            "date": "2015-04-19T08:11:28.950Z", 
+            "text": "If someone says \"a number divided by zero is infinity\" then they are \nretarded\nRetarded\ufeff", 
+            "author": "Tiwaking \u201cTiwaking\u201d Tiwaking"
+        }, 
+        {
+            "date": "2015-04-19T03:17:33.854Z", 
+            "text": "(Not to try to appeal to authority, but I'm a math Ph.D. student so I \nactually pretty much know what I'm talking about)\nThere are actually arithmetic systems in which dividing by 0 is defined, \nfor instance the Riemann Sphere or the Real Projective line (Google them). \n You can just add \u221e (but not -\u221e) to your set of numbers and define z/0 = \u221e \nwhen z is nonzero.  The problem with that is it breaks a lot of algebra. \n (To put it in math speak, the algebraic structure doesn't form a field or \neven a ring or a additive group anymore)  For instance x + y = x + 5 \ndoesn't necessarily imply that y = 5 anymore because \u221e has no additive \ninverse..  To get y = 5, you would have to assume x isn't infinity.  (x/y)y \nis not necessarily equal to x anymore because division by zero can't retain \nit's definition as being that number by which the denominator multiplied by \ngives you the numerator.  And furthermore, you get several more undefined \noperations like 0/0, \u221e+\u221e, \u221e-\u221e, \u221e*0, \u221e/\u221e.  This kind of arithmetic has a use \nin very specific places in mathematics like complex analysis and projective \ngeometry, but in general allowing for division by zero creates a lot more \nproblems than it solves and makes arithmetic and real algebra much less \nelegant and powerful.  (And wow do most of the people in this comment \nsection not know what they're talking about.)\ufeff", 
+            "author": "Brian M"
+        }, 
+        {
+            "date": "2015-04-18T19:35:36.861Z", 
+            "text": "What happens with logic gates when dividing by zero with binary ?\ufeff", 
+            "author": "Matthew Smith"
+        }, 
+        {
+            "date": "2015-04-18T13:44:16.802Z", 
+            "text": "0^0 equals zero, because ^0 = 1, but anything multiplied by zero equals \nzero. So basically, 0 * 1, which would equal 0.\ufeff", 
+            "author": "HelmTheHobbit"
+        }, 
+        {
+            "date": "2015-04-18T13:42:23.120Z", 
+            "text": "Why can't dividing 20 by 0 equal 20? Because no matter how far you go, it \nstill equals 20. Like you said, division equals glorified subtraction, so \n20 - 0 = 20.\ufeff", 
+            "author": "HelmTheHobbit"
+        }, 
+        {
+            "date": "2015-04-17T17:32:59.120Z", 
+            "text": "Makes me think of a philosophers stone.\ufeff", 
+            "author": "Siebren Kusters"
+        }, 
+        {
+            "date": "2015-04-17T15:45:50.823Z", 
+            "text": "I love Matts face at 5:50 xD\ufeff", 
+            "author": "TheySmashedAnHourglass"
+        }, 
+        {
+            "date": "2015-04-17T09:06:24.357Z", 
+            "text": "See, if you could devide by 0 everything would be the same. (assuming that \nanything devided by itself is 1)\n5 * 0 =  2 * 0                 | : 0\n5 * 0 : 0 = 2 * 0 : 0\n5 * 1 = 2 * 1\n5 does not equal 2\n\nso if you actually could devide by nothing (0) everything would be the \nsame. Btw in a way of quantumphysics everythink is ACTUALLY the same. \n(e=mc^2, therefore everything is energy (hence everything is the same) but \nnow what is energy?)\ufeff", 
+            "author": "vasari2000"
+        }, 
+        {
+            "date": "2015-04-17T02:09:15.157Z", 
+            "text": "What about (0^0)/0 or 0/(0^0)? Do we get 0^-1 and 0???\ufeff", 
+            "author": "Michael Mokodanski"
+        }, 
+        {
+            "date": "2015-04-26T00:46:15.000Z", 
+            "text": "20 / 4 = 5; why you stopped @ 01:16, when 4 - 4 = 0, just because nothing \nleft. If division is subtraction then we can go further up to infinity in \nthe negative numbers like \n4 - 0 = 0\n0 - 4 = - 4\n- 4 - 4 = - 8  and so on \nProblem with zero: Definition of zero: An argument at which the valve of a \nfunction vanishes OR something that has no existence. Further it has no \ndimension. \n\n1- It is said that something divided by zero = infinity or undefined. \nFor example; 1 / 0 = infinity OR 1 / 0 = infinity / 1; \nBy cross multiplication 0 x infinity = 1 x 1 OR 0 = 1 which is impossible. \nSo this means 1/ 0 is not = infinity. Similarly, 1 / 0 = infinity = 2 / 0 = \n3 / 0 = 4 / 0 and so on. Say 2 / 0 = 3 / 0 ; again by cross multiplication, \nwe get 0 = 0. So again something divided by zero is not equal to infinity.\n\nFurther if we take the limit of 1 / x, say 1 / 0.00000000001 Then 1 / \n0.00000000001/100000000000 = 100000000000 / 1\nIndirectly this means divide 10000000000 on one entity.\n\nSo if we divide by extremely small number BUT NOT ZERO then it may equal to \ninfinity. \n\nFor simplicity: lets say we have divide 20 oranges in a box. Divide them on \n4 person. Each person would get 5 oranges as 20 / 4 = 5. Nothing would left \nin a box.\n\nNow divide the same oranges on one person. 20 / 1 = 20. This means one \nperson would get all 20 oranges. Nothing would left in a box. \nNow if we divide the same 20 oranges among zero person then zero person \nwould get zero oranges. Since there is no being out there therefore 20 \noranges would still remain therein the box. \nSimilarly, if we consider the dimension then we can say 5 oranges per \nperson, 20 oranges per person or 20 oranges per zero person. \nThus if the graph of function y = 1/x in which x approaches zero from right \n, y approaches infinity. A graph touches the y-axis upon division by zero \nand hence forming a closed loop if connected to the graphs of other \nquadrants. Since a closed loop is a defined boundary therefore division by \nneither equal to infinity nor undefined. \n\n2 - Anything to the power zero = 1 \nExample 2^x = 32 , As 32 = 2 ^5 therefore 2^x = 2^5.; since bases are same \ntherefore we get x = 5 after setting the exponents equal. Thus \n0^0 = 0^0 = 0 \nSince zero is not a member of ANYTHING as per aforementioned definition of \nzero therefore zero to the power means nothing to the power \n\n3 - Anything multiplied by zero is zero. 3 x 3 = 9, 3 x 2 = 6, 3 x 1 = 3, 3 \nx 0 = 0 but i would say this multiplication is simply impossible. 0 x 0 = 0 \nof course \nConsider the x and y axis on cartesian coordinates system \n3 x 3 = 9 means, Go 3 units on x-axis and then 3 units on y-axis, we 9 unit \nsquare\n3 x 2 = 6 means, Go 3 units on x-axis and then 2 units on y-axis, we 6 unit \nsquare\n3 x 1 = 3 means, Go 3 units on x-axis and then 1 units on y-axis, we 3 unit \nsquare \n3 x 0 = ? means, Go 3 units on x-axis and then 0 units on y-axis, Although \nwe get zero unit square but we still have one dimension which can't be \nstretched to zero / origin because we stuck at 3 on x-axis not at origin so \nwe can't go up on y-axis. If 3 x 0 = 0 then zero unit square means units of \nboth x and y are zero which is wrong in this case. Can we get 3 units of \nx-axis back if 3 x 0 = 0 in reverse process. No!\n0 x 0 = 0 means, Go 0 units on x-axis and then 0 units on y-axis, we 0 unit \nsquare\nSimilarly, we write sometimes for simplicity 3 x 2 = 2 + 2 + 2 but \ntechnically this wrong as per diminutional analyses\nwe get 6 unit square which is dimension of AREA while on RHS we simply get \n6 unit ( which the dimension of LINE)\nSo by definition of zero, it can\u2019t be added, subtracted, divided and \nmultiplied with something.\ufeff", 
+            "author": "Eclectic Eccentric Kamikazi"
+        }, 
+        {
+            "date": "2015-04-16T20:42:48.501Z", 
+            "text": "Isn't 0/0 = 0?\nBecause 0 - 0 = 0, right? (\"Division are glorified minus\")\ufeff", 
+            "author": "Albin9000"
+        }, 
+        {
+            "date": "2015-04-16T19:47:29.104Z", 
+            "text": "It would crash if it divided by zero, So it doesn't.\n\nSource: I'm a programmer.\n\nYou could write a program to divide by zero yourself and see what happens, \nit only takes a second.\ufeff", 
+            "author": "Valeska Vesuvius"
+        }, 
+        {
+            "date": "2015-04-16T16:11:14.813Z", 
+            "text": "What about 20-0\n0 times?\nThat would give us 20.\nBut apparently 0 = infinity...\ufeff", 
+            "author": "Bane64"
+        }, 
+        {
+            "date": "2015-04-16T04:08:14.289Z", 
+            "text": "I know what the square root of -0 is. It's me.\ufeff", 
+            "author": "FluffyCatGirl1"
+        }, 
+        {
+            "date": "2015-04-15T14:09:13.518Z", 
+            "text": "I can see point here, but how is it in different numbers systems? Ones that \nhave -0 and +0 as separate numbers?\ufeff", 
+            "author": "Miku MichDem"
+        }, 
+        {
+            "date": "2015-04-15T08:46:15.825Z", 
+            "text": "0^0 is 0.5. \ufeff", 
+            "author": "Toby Brewin"
+        }, 
+        {
+            "date": "2015-04-15T08:40:09.240Z", 
+            "text": "Why can't you say 1/0 is infinity and 2/0 is also infininity? This wouldn't \nmean 1 and 2 are equal. You have said it yourself there are different types \nof infinities and some are bigger than others so 1/0 would just be half as \nbig as 2/0 and a third the size of 3/0.\ufeff", 
+            "author": "Toby Brewin"
+        }, 
+        {
+            "date": "2015-04-15T01:12:24.624Z", 
+            "text": "Question: \"Why can't we divide by zero?\"\nMy 'Answer(s)': \"Why should we?\" or \"Why could you divide by zero?\"\n\nI divide not = no problem\ufeff", 
+            "author": "11Kralle"
+        }, 
+        {
+            "date": "2015-04-14T18:04:50.918Z", 
+            "text": "If you set the speed to 0.5 he sounds like he's completely stoned!\ufeff", 
+            "author": "Will Cresswell"
+        }, 
+        {
+            "date": "2015-04-13T02:34:08.261Z", 
+            "text": "Logic:\n1/1=1\n2/2=1\n3/3=1\nThen with that logic, \n0/0=1\ufeff", 
+            "author": "Noah G"
+        }, 
+        {
+            "date": "2015-04-16T00:44:25.681Z", 
+            "text": "+NoRotation we have different logic then! :)", 
+            "author": "Noah G"
+        }, 
+        {
+            "date": "2015-04-15T23:28:29.492Z", 
+            "text": "+Noah G Logic:\n0/1 = 0\n0/2 = 0\n0/3 = 0\nThen with that logic,\n0/0 = 0", 
+            "author": "NoRotation"
+        }, 
+        {
+            "date": "2015-04-13T01:52:05.362Z", 
+            "text": "Chances are its program to put in a error handling message. \ufeff", 
+            "author": "Ryan Cox"
+        }, 
+        {
+            "date": "2015-04-12T23:34:48.879Z", 
+            "text": "Camera is moving too much, It's very annoying to watch.\ufeff", 
+            "author": "Lambo RiDDicK"
+        }, 
+        {
+            "date": "2015-04-12T09:33:26.853Z", 
+            "text": "If you have a ratio of two functions, and you try to take the limit and get \n0/0, you use \"L' Hopital's Rule.\"\ufeff", 
+            "author": "Clyde Wary"
+        }, 
+        {
+            "date": "2015-04-12T09:22:39.141Z", 
+            "text": "The previous post stated that 10/0 = 0.  Ahhhhh!  Any number divided by 0 = \nUNDEFINED!  How many \"2\"s are there in 8?  4.  How many \"10\"s are there in \n510?  51!  How many \"nothings\" are there in any number?  More than anyone \ncan imagine.....:)\ufeff", 
+            "author": "Clyde Wary"
+        }, 
+        {
+            "date": "2015-04-17T07:36:29.786Z", 
+            "text": "There are many, it's just that we think of + - * / as the \"elementary\" \noperations, for these only / has the problem where you can take 2 real \nnumbers and the result might not exist in the real numbers. Where real \nnumbers include the whole numbers, fractions and irrational numbers.\n\nYou can't take the log(x) of a negative number, you can't find a real \nnumber that's negative when squared, you can't find 2 odd numbers that add \nto an odd number. There are all kinds of calculations that can't be done, \n1/0 is just the simplest and people all think they know how division works.", 
+            "author": "NoRotation"
+        }, 
+        {
+            "date": "2015-04-16T17:39:58.095Z", 
+            "text": "+NoRotation so the only remaining conclusion is dividing by 0 is not \npossible at all? Which leads me to the question: are there other \n\"impossible\" calculations?", 
+            "author": "realdragnet"
+        }, 
+        {
+            "date": "2015-04-16T08:37:28.814Z", 
+            "text": "+realdragnet If 10/0 = 0 then\n10 = 0 * 0.\n0/10 = 0 means 10 * 0 = 0 which is the only consistent definition.", 
+            "author": "NoRotation"
+        }, 
+        {
+            "date": "2015-04-16T03:20:55.000Z", 
+            "text": "+NoRotation yeah, I also figured out the problem with my thought... since \n10 / 1 would be 10 too, 10 / 0 can not be 10, as that would be conflicting\n\nBut when 0 * 10 is 0, then 10 / 0 should result to 0 too? At least that \nwould not be conflicting, or is it?", 
+            "author": "realdragnet"
+        }, 
+        {
+            "date": "2015-04-15T23:43:30.000Z", 
+            "text": "+realdragnet Follow your own reasoning a bit more.\n10/2 = 5, so you get 2 * 5 = 10.\nIf 10/0 = 10, you have to get 10 * 0 = 10. This is obviously not true.", 
+            "author": "NoRotation"
+        }, 
+        {
+            "date": "2015-04-14T05:15:26.109Z", 
+            "text": "+Clyde Wary Are you talking about my post? Because my \"result\" is 10 not \n0...\n\nagain:\n10 / 0 = 10.... if you you divide 10 by 2 to you get 2 x 5\n\n\nif you divide 10 by 0 then 10 remains 10, or in other words when you divide \n10 0 times, it is \"undivided\" and it remains what it was: 10", 
+            "author": "realdragnet"
+        }, 
+        {
+            "date": "2015-04-12T04:43:48.399Z", 
+            "text": "Why so complicated?\n\n10 / 0 = 10\n\nProblem solved... =)\ufeff", 
+            "author": "realdragnet"
+        }, 
+        {
+            "date": "2015-04-11T21:37:28.555Z", 
+            "text": "So what you're saying is that 0^0 is *real*ly 1?  (Sorry, couldn't help \nmyself.)\ufeff", 
+            "author": "rashkavar"
+        }, 
+        {
+            "date": "2015-04-11T19:07:19.000Z", 
+            "text": "infinity is not an *actual* quantity, it is a placeholder for something \nthat is conceptually *increasing* unrestricted. no quantity can *actually* \nequal infinity.\ufeff", 
+            "author": "B\u00f3nne B"
+        }, 
+        {
+            "date": "2015-04-11T01:10:51.621Z", 
+            "text": "Thanks for this honestly it boggles my mind why a lot of teachers avoid \ntelling students WHY things happen the way they do in math and i mean \nreally why, they give arbitrary reasons like oh because the calculator \ngives you an error. I noticed when you actaully understand why things work \nthe way they do it enlightens you so much. Building a house with a good \nfoundations as they would say.\ufeff", 
+            "author": "Jergen Bergen"
+        }, 
+        {
+            "date": "2015-04-10T21:01:02.911Z", 
+            "text": "Just passing by to answer the Calculator question about what it is trying \nto do when you try to divide by Zero. In what we call high-level \nprogramming languages like C#, Java and the like, the low-level base the \nlanguage is written on has a rule restraining this division because the \nsimple rule of division in a low-level would result in a infinite (but \nsimple) loop. There are mechanisms in place to prevent that from happening \nbefore it gets going and consumes all resources the device has (such as \nmemory or processing power).\n\nIn low-level programming, like in processor's instructions you have either \nA) a mechanism like the high-level ones mentioned earlier, but way more \nrudimentary, for processor's instructions are simple commands (actually, \nthere is no division command, it is just a tweaked and more complex sum \noperation) or B) No way to stop, which will lead the processor into either \na wrong, gibberish result as memory inside the processor and/or device \nstarts to overlap or just a total freeze of said processor, if it doesn't \nkills itself by consuming all the resources it has.\n\nThese stopping mechanisms I mentioned are ready to block the division from \nhappening before it has even started and usually answer to it with an Error \nmessage like \"Math Exception: Cannot divide by Zero\" and the processing is \neither stalled and the code running it killed or the Exception is passed as \nthe answer to the division asked and the error will propagate, leading \nmostly to a NaN (Not a Number) fault.\ufeff", 
+            "author": "Luiz Luchesi"
+        }, 
+        {
+            "date": "2015-04-10T17:21:56.282Z", 
+            "text": "Hey MATT PARKER, when I google 1/0 it shows the result as 'Infinity'. \nWhy???\ufeff", 
+            "author": "Siddharth Acharya"
+        }, 
+        {
+            "date": "2015-04-10T04:15:46.197Z", 
+            "text": "The reason you can not divide by zero is that division is defined in \u211a as \n{x | x=p/q, and p,q \u2208 \u2124 and q\u22600 }...therefore if you try to divide by zero, \nit isn't defined (Thus \"undefined) as an operation.\ufeff", 
+            "author": "Steve McRae"
+        }, 
+        {
+            "date": "2015-04-23T15:31:53.538Z", 
+            "text": "+Steve McRae Indeed! We can just as well ask whats 5/red", 
+            "author": "EmperorZelos"
+        }, 
+        {
+            "date": "2015-04-10T02:45:50.208Z", 
+            "text": "In an argument with my 3 yr old grandson on who loved each other more. His \nreply to my loving him forever was... he loves me for the history of \nforever.... mind blown!!!\ufeff", 
+            "author": "David Hamby"
+        }, 
+        {
+            "date": "2015-04-09T23:58:32.454Z", 
+            "text": "A simpler way to explain why you cant divide by zero is:\n\nDivision is just splitting up into a certain number of groups (20/4 = 5 5 5 \nand 5). You can split a number into one group (20/1 = 20), but you can't \nsplit a number up into zero groups without destroying the number \naltogether.\ufeff", 
+            "author": "James Tayloe"
+        }, 
+        {
+            "date": "2015-04-09T21:46:18.869Z", 
+            "text": "", 
+            "author": "chris donahue"
+        }, 
+        {
+            "date": "2015-04-09T06:38:03.362Z", 
+            "text": "This guy reminds me of someone on monty python\ufeff", 
+            "author": "Steven Walker-Weinshenker"
+        }, 
+        {
+            "date": "2015-04-09T04:20:32.708Z", 
+            "text": "There is an argument in the video hat if you say 1/0 = infinity, you can \nalso say 2/0 = infinity, an 1=2. But following the same logic, can't you \nsay that if 1*0=0, and 2*0=0, so 1=2?\ufeff", 
+            "author": "GeekwayTv"
+        }, 
+        {
+            "date": "2015-04-11T15:53:53.959Z", 
+            "text": "If you tried something like x*0=y*0 then to solve it algebraically you \nwould have to divide both sides by zero, which is extremely hard to do. \nX/0=y/0, and that is undefined, as it could be equal to anything. It is \njust as plausible to 0/0=-8 as it is to say 3/0=20, both of which are \nnonsense.", 
+            "author": "Nathaniel Ulko"
+        }, 
+        {
+            "date": "2015-04-09T00:15:35.101Z", 
+            "text": "Division by zero gives an infinite number of infinities, since any number \nmultiplied by zero is zero and there is an infinite number of numbers that \ncan be multiplied by zero to result... in zero. So \"undifined\" is to say \n\"an infinite number of infinities\"... I think...\ufeff", 
+            "author": "Robert Martim"
+        }, 
+        {
+            "date": "2015-04-08T05:26:18.731Z", 
+            "text": "in minute 1:19 you say that 20:4=5 because 20-4=16, 16-4=12, 12-4=8, 8-4=4, \n4-4=0 and the amount of the calculations that are 5 times are the answer of \n20:4. But, what about 0/1=0? How can you explain that? I found that 0-1=-1, \n-1-1=-2, and so on until infinitife. Is that kind of logic can use in this \ncase?\ufeff", 
+            "author": "Gerry Michael"
+        }, 
+        {
+            "date": "2015-05-03T14:27:04.102Z", 
+            "text": "+Gerry Michael Not really, since your goal is to reach 0 and when you start \ndoing that you have already reached 0 without any calculations.", 
+            "author": "RedStonerKingStar"
+        }, 
+        {
+            "date": "2015-04-08T10:56:00.984Z", 
+            "text": "+NoRotation oh i see.. so your point is what he do in 1:19 is can't be use \nin zero then.. So it's an exception,", 
+            "author": "Gerry Michael"
+        }, 
+        {
+            "date": "2015-04-08T10:34:42.897Z", 
+            "text": "20 - 4 - 4 - 4 - 4 - 4 = 20 - 5*4 = 0.\n0 - 0*x = 0.\nin other words for any number x, you subtract it zero times from zero to \nget to 0. If you subtract any more than zero times then you miss your goal. \nIn fact if\na / b = c then\na = c * b then\na - b * c = 0.", 
+            "author": "NoRotation"
+        }, 
+        {
+            "date": "2015-04-08T10:11:21.413Z", 
+            "text": "+NoRotation what do you mean by that? It makes no sense to me. In my school \nthe way we understand divide is by understand the times, so if 20:4=5 it \nbecause 4*5=20.", 
+            "author": "Gerry Michael"
+        }, 
+        {
+            "date": "2015-04-08T07:57:02.373Z", 
+            "text": "Notice that 20 - 5*4 = 0. So 0 - 0*1 = 0.", 
+            "author": "NoRotation"
+        }, 
+        {
+            "date": "2015-04-07T23:18:51.909Z", 
+            "text": "Why would you act like a number divided by 0 is supposed to be infinite? We \nalready have a system, an understanding, in place that helps us with this. \nIt's called remainder's. Say we take the number 1 and divide it by 0. The \nanswer to this is 0 with 20 being your remainder. In this case 0 is \ntechnically your answer because you can't take nothing out of something and \nexpect to become something. This will work for every number, ex:\n6/0=0 R:6\n15151/0=0 R:15151\n128B/0=0 R:128B\ufeff", 
+            "author": "Walker Sace"
+        }, 
+        {
+            "date": "2015-04-08T08:06:09.000Z", 
+            "text": "I can say \"you can't take more than something out of something\" and \nsuddenly your denominator can't be bigger than your numerator. Maths isn't \ndefined on random sentences that sound plausible. 9/2 is 4.5 not 4 \nremainder 1, remainders are a tool to help children do division and not a \npart of real division.\n\nWe say x/0 is suppose to be infinity because if you take two positive \nnumbers x and y, then as y gets closer to 0, x/y gets closer to infinity, \nso it's reasonable to say that at y = 0, x/y = infinity.", 
+            "author": "NoRotation"
+        }, 
+        {
+            "date": "2015-04-07T21:10:32.167Z", 
+            "text": "Computer languages actually have this division by zero problem implemented \nto report as failure. Java for example throws a coded \n\"ArithmeticException\", so there is some kind of check to test for zero.\ufeff", 
+            "author": "John Salvatore Fontanelli"
+        }, 
+        {
+            "date": "2015-04-07T21:12:16.935Z", 
+            "text": "I just found a fix of a bug where it even returned zero by dividing by \nzero. so this is even more a sign for being coded into the language itself: \nhttp://hg.openjdk.java.net/jdk8/jdk8/jdk/rev/216a4b93cee8", 
+            "author": "John Salvatore Fontanelli"
+        }, 
+        {
+            "date": "2015-04-07T00:50:11.542Z", 
+            "text": "NaN\ufeff", 
+            "author": "ComandanteJ"
+        }, 
+        {
+            "date": "2015-04-05T10:57:07.569Z", 
+            "text": "Why not say x/0=x since zero means nothing you are not going to divide so \nyou will still have x???? I'm no math genius. This is a genuine question.\ufeff", 
+            "author": "uriahms"
+        }, 
+        {
+            "date": "2015-04-08T08:12:57.000Z", 
+            "text": "Let's say 1/0 = 1. Then\n1/(1-1) = 1 right? Well if you multiply to the other side you get\n1 = 1 * (1-1) = 0, then you get\n1 = 0.", 
+            "author": "NoRotation"
+        }, 
+        {
+            "date": "2015-04-04T22:03:21.096Z", 
+            "text": "So, 1/x where x is zero, it is +/- infinity\ufeff", 
+            "author": "Zeldagigafan"
+        }, 
+        {
+            "date": "2015-04-03T19:33:11.838Z", 
+            "text": "He draws his infinity like BALLS.\ufeff", 
+            "author": "Vash the Stampede"
+        }, 
+        {
+            "date": "2015-04-03T11:50:10.046Z", 
+            "text": "why do we need to concern ourselves with complex numbers? they're not even \nproper numbers! Could someone smarted than I explain this please?\ufeff", 
+            "author": "profeseurchemical"
+        }, 
+        {
+            "date": "2015-04-15T01:13:11.334Z", 
+            "text": "+Mark van Hoeij That's fair.\n\nHowever, we do have to be careful with the symbol 0^0 when using naive \nmethods of computing a limit.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-04-14T15:45:50.218Z", 
+            "text": "+MuffinsAPlenty  \"has problems\" is not the same thing as \"not continuous\". \nThe function x^y is discontinuous, but it does not \"have problems\". The \nnumber 0^0 does not \"have problems\" either. It is simply the number 1.", 
+            "author": "Mark van Hoeij"
+        }, 
+        {
+            "date": "2015-04-03T12:19:47.355Z", 
+            "text": "Complex numbers are proper numbers.  Ask any engineer or physicist if \ncomplex numbers are important to the physical universe.\n\nAnyway, to see why 0^0 has problems, you can do a similar thing to what \nJames Grime did at the end of the video.\n\nLook at the function f(x,y) = x^y.  If you're on the line x = 0 and \napproach (0,0) from positive y values, you get 0.  However, if you're on \nthe line y = 0 and you approach (0,0), you get 1.\n\nSo f(x,y) = x^y is not continuous.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-04-03T06:44:02.383Z", 
+            "text": "Q=hotdog\ufeff", 
+            "author": "kazze01"
+        }, 
+        {
+            "date": "2015-04-03T03:10:52.372Z", 
+            "text": "You're not supposed to draw two arrows on the axes. Only one in the \npositive direction for each. Standard mathematical convention. \n\nAlso I'm pretty sure even in the real number plane, y = x^x is shaded in a \nweird way in the Second Quadrant because all the multiples of reciprocals \nof even numbers(I think, correct me if I'm wrong) don't work in the real \nnumber plane. For example, (-1/2)^(-1/2) doesn't register in the real \nnumber plane but (-1/3)^(-1/3) does. I checked WolframAlpha, but it doesn't \nregister anything that seemed relevant. Most textbooks, from my knowledge, \njust decide 0^0 is undetermined.\ufeff", 
+            "author": "Bejoy Sen"
+        }
+    ]
+}

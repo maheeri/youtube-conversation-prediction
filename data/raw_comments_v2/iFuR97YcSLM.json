@@ -1,0 +1,1546 @@
+{
+    "publish_date": "2013-07-09T14:48:17.000Z", 
+    "video_length": "PT9M6S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: One of the reasons\nwe&#39;re fascinated by", 
+            "dur": "1.2", 
+            "start": "0.66"
+        }, 
+        {
+            "text": "primes is that they are quite\nweird in the way they behave.", 
+            "dur": "3.69", 
+            "start": "1.86"
+        }, 
+        {
+            "text": "On one hand, they kind\nof feel random.", 
+            "dur": "4.63", 
+            "start": "5.55"
+        }, 
+        {
+            "text": "They are turning up all\nover the place.", 
+            "dur": "1.58", 
+            "start": "10.18"
+        }, 
+        {
+            "text": "Sometimes you have these long\ngaps between primes.", 
+            "dur": "2.98", 
+            "start": "11.76"
+        }, 
+        {
+            "text": "And then suddenly-- like buses,\nyou get a couple of", 
+            "dur": "2.84", 
+            "start": "14.74"
+        }, 
+        {
+            "text": "primes turn up at once.", 
+            "dur": "1.48", 
+            "start": "17.58"
+        }, 
+        {
+            "text": "On the other hand, there are\nthings that we can predict", 
+            "dur": "3.63", 
+            "start": "19.06"
+        }, 
+        {
+            "text": "about primes and when they&#39;re\ngoing to turn up, which is", 
+            "dur": "3.55", 
+            "start": "22.69"
+        }, 
+        {
+            "text": "slightly unexpected that\nyou can do that.", 
+            "dur": "1.79", 
+            "start": "26.24"
+        }, 
+        {
+            "text": "They&#39;re not completely random.", 
+            "dur": "2.56", 
+            "start": "28.03"
+        }, 
+        {
+            "text": "One of the first things I want\nto show you, then, is a nice", 
+            "dur": "2.85", 
+            "start": "30.59"
+        }, 
+        {
+            "text": "easy thing.", 
+            "dur": "0.59", 
+            "start": "33.44"
+        }, 
+        {
+            "text": "So everyone can do\nthis at home.", 
+            "dur": "1.13", 
+            "start": "34.03"
+        }, 
+        {
+            "text": "We&#39;re going to write the numbers\nin a square spiral.", 
+            "dur": "3.36", 
+            "start": "35.16"
+        }, 
+        {
+            "text": "Start with 1 in the middle.", 
+            "dur": "1.64", 
+            "start": "38.52"
+        }, 
+        {
+            "text": "Then you write 2.", 
+            "dur": "1.59", 
+            "start": "40.16"
+        }, 
+        {
+            "text": "But you go around it--", 
+            "dur": "2.36", 
+            "start": "41.75"
+        }, 
+        {
+            "text": "4, 5, 6, 7, 8-- do you see\nthe pattern, then?", 
+            "dur": "5.99", 
+            "start": "44.11"
+        }, 
+        {
+            "text": "It&#39;s a square spiral.", 
+            "dur": "2.51", 
+            "start": "50.1"
+        }, 
+        {
+            "text": "12, 13, 14, 15--", 
+            "dur": "3.5", 
+            "start": "52.61"
+        }, 
+        {
+            "text": "it&#39;s called an Ulam spiral--", 
+            "dur": "2.53", 
+            "start": "56.11"
+        }, 
+        {
+            "text": "Stanislaw Ulam, he was a\nPolish mathematician.", 
+            "dur": "3.76", 
+            "start": "58.64"
+        }, 
+        {
+            "text": "And he left Poland just\nbefore World War II,", 
+            "dur": "4.84", 
+            "start": "62.4"
+        }, 
+        {
+            "text": "and he went to America.", 
+            "dur": "1.53", 
+            "start": "67.24"
+        }, 
+        {
+            "text": "And he worked on the\nManhattan Project.", 
+            "dur": "1.76", 
+            "start": "68.77"
+        }, 
+        {
+            "text": "After World War II, he\nwent into academia.", 
+            "dur": "3.16", 
+            "start": "70.53"
+        }, 
+        {
+            "text": "The story of this spiral is,\nhe sat in a very boring", 
+            "dur": "3.99", 
+            "start": "73.69"
+        }, 
+        {
+            "text": "lecture in academia.", 
+            "dur": "1.93", 
+            "start": "77.68"
+        }, 
+        {
+            "text": "It was in 1963.", 
+            "dur": "2.17", 
+            "start": "79.61"
+        }, 
+        {
+            "text": "And so he&#39;s obviously a fan\nof Vi Hart or someone.", 
+            "dur": "3.8", 
+            "start": "81.78"
+        }, 
+        {
+            "text": "He sat there doodling during\nthis boring lecture.", 
+            "dur": "3.29", 
+            "start": "85.58"
+        }, 
+        {
+            "text": "And he&#39;s writing out\nthe numbers.", 
+            "dur": "1.27", 
+            "start": "88.87"
+        }, 
+        {
+            "text": "Let&#39;s see, 30, 31, 32.", 
+            "dur": "3.4", 
+            "start": "90.14"
+        }, 
+        {
+            "text": "The next thing he\ndid was start to", 
+            "dur": "1.38", 
+            "start": "93.54"
+        }, 
+        {
+            "text": "circle the prime numbers.", 
+            "dur": "1.72", 
+            "start": "94.92"
+        }, 
+        {
+            "text": "So let&#39;s do that.", 
+            "dur": "1.63", 
+            "start": "96.64"
+        }, 
+        {
+            "text": "2 is a prime, and then 3, and\nthen 5, and 7, and 11, 13, not", 
+            "dur": "10.97", 
+            "start": "98.27"
+        }, 
+        {
+            "text": "40, 41, 43, is prime,\nand so on.", 
+            "dur": "4.35", 
+            "start": "109.24"
+        }, 
+        {
+            "text": "And he noticed, and maybe you\ncan see, these stripes, the", 
+            "dur": "3.74", 
+            "start": "113.59"
+        }, 
+        {
+            "text": "prime numbers seem to be lining\nup on diagonal lines.", 
+            "dur": "5.73", 
+            "start": "117.33"
+        }, 
+        {
+            "text": "And if you do this larger, if\nyou do more and more numbers,", 
+            "dur": "3.68", 
+            "start": "123.06"
+        }, 
+        {
+            "text": "and you write them out\nin a spiral, that", 
+            "dur": "2.049", 
+            "start": "126.74"
+        }, 
+        {
+            "text": "tends to be the case.", 
+            "dur": "1.551", 
+            "start": "128.789"
+        }, 
+        {
+            "text": "I&#39;ve got one here.", 
+            "dur": "0.92", 
+            "start": "130.34"
+        }, 
+        {
+            "text": "This is a big Ulam spiral.", 
+            "dur": "3.25", 
+            "start": "131.26"
+        }, 
+        {
+            "text": "I think this is something\nhuge.", 
+            "dur": "1.056", 
+            "start": "134.51"
+        }, 
+        {
+            "text": "I think this is like\n200 by 200.", 
+            "dur": "3.094", 
+            "start": "135.566"
+        }, 
+        {
+            "text": "And so there&#39;s 40,000 numbers\nor something here.", 
+            "dur": "2.57", 
+            "start": "138.66"
+        }, 
+        {
+            "text": "Can you see, though, can\nyou see the stripes?", 
+            "dur": "2.24", 
+            "start": "141.23"
+        }, 
+        {
+            "text": "There&#39;s definitely some\nstripes here,", 
+            "dur": "4.57", 
+            "start": "143.47"
+        }, 
+        {
+            "text": "these diagonal lines.", 
+            "dur": "1.03", 
+            "start": "148.04"
+        }, 
+        {
+            "text": "So prime numbers seem to be\nlying on diagonal lines.", 
+            "dur": "3.625", 
+            "start": "149.07"
+        }, 
+        {
+            "text": "Or to put it another way, some\ndiagonal lines have lots of", 
+            "dur": "3.245", 
+            "start": "152.695"
+        }, 
+        {
+            "text": "primes, and some diagonal\nlines don&#39;t", 
+            "dur": "3.71", 
+            "start": "155.94"
+        }, 
+        {
+            "text": "have lots of primes.", 
+            "dur": "1.78", 
+            "start": "159.65"
+        }, 
+        {
+            "text": "So you can see the stripes\nstart to form.", 
+            "dur": "2.87", 
+            "start": "161.43"
+        }, 
+        {
+            "text": "BRADY HARAN: Are they\ncontinuous stripes?", 
+            "dur": "1.46", 
+            "start": "164.3"
+        }, 
+        {
+            "text": "They look a bit broken\nup to me.", 
+            "dur": "1.44", 
+            "start": "165.76"
+        }, 
+        {
+            "text": "JAMES GRIME: Yeah, they are\nnot continuous stripes.", 
+            "dur": "1.58", 
+            "start": "167.2"
+        }, 
+        {
+            "text": "But they have more than average\nnumber of primes.", 
+            "dur": "3.85", 
+            "start": "168.78"
+        }, 
+        {
+            "text": "So these stripes might be a good\nplace to look for more", 
+            "dur": "4.618", 
+            "start": "172.63"
+        }, 
+        {
+            "text": "primes, bigger primes,\nnew primes.", 
+            "dur": "2.062", 
+            "start": "177.248"
+        }, 
+        {
+            "text": "One thing people might say is,\noh, we&#39;re just seeing patterns", 
+            "dur": "4.52", 
+            "start": "179.31"
+        }, 
+        {
+            "text": "in randomness.", 
+            "dur": "1.67", 
+            "start": "183.83"
+        }, 
+        {
+            "text": "Those aren&#39;t really\nstripes at all.", 
+            "dur": "2.58", 
+            "start": "185.5"
+        }, 
+        {
+            "text": "It&#39;s just the human brain.", 
+            "dur": "1.36", 
+            "start": "188.08"
+        }, 
+        {
+            "text": "See, if you compare it\nwith randomness--", 
+            "dur": "2.7", 
+            "start": "189.44"
+        }, 
+        {
+            "text": "this, the same size, these\nare random numbers.", 
+            "dur": "4.156", 
+            "start": "192.14"
+        }, 
+        {
+            "text": "And you can see, it&#39;s pretty\nmuch white noise.", 
+            "dur": "3.204", 
+            "start": "196.296"
+        }, 
+        {
+            "text": "I can&#39;t really see any\npattern in this.", 
+            "dur": "2.61", 
+            "start": "199.5"
+        }, 
+        {
+            "text": "You can see that\nthat is random.", 
+            "dur": "2.08", 
+            "start": "202.11"
+        }, 
+        {
+            "text": "And you can see that that\nis something more", 
+            "dur": "3.16", 
+            "start": "204.19"
+        }, 
+        {
+            "text": "than just being random.", 
+            "dur": "1.58", 
+            "start": "207.35"
+        }, 
+        {
+            "text": "BRADY HARAN: These ginormous\nprimes that get found, are", 
+            "dur": "3.1", 
+            "start": "208.93"
+        }, 
+        {
+            "text": "they found on diagonals?", 
+            "dur": "1.32", 
+            "start": "212.03"
+        }, 
+        {
+            "text": "Like this largest prime known,\nwas that on diagonal?", 
+            "dur": "3.12", 
+            "start": "213.35"
+        }, 
+        {
+            "text": "JAMES GRIME: The largest prime\nknown was a Mersenne prime,", 
+            "dur": "3.71", 
+            "start": "216.47"
+        }, 
+        {
+            "text": "which is of the type 2 to\nthe power n minus 1.", 
+            "dur": "3.74", 
+            "start": "220.18"
+        }, 
+        {
+            "text": "It&#39;s one less than a power of 2,\nwhich is a way to look for", 
+            "dur": "4.72", 
+            "start": "223.92"
+        }, 
+        {
+            "text": "large primes.", 
+            "dur": "0.75", 
+            "start": "228.64"
+        }, 
+        {
+            "text": "It&#39;s computationally kind\nof easier to do.", 
+            "dur": "4.19", 
+            "start": "229.39"
+        }, 
+        {
+            "text": "Perhaps it&#39;s not the most\nfruitful way because they are", 
+            "dur": "2.19", 
+            "start": "236.71"
+        }, 
+        {
+            "text": "quite rare, Mersenne primes.", 
+            "dur": "3.57", 
+            "start": "238.9"
+        }, 
+        {
+            "text": "This might be another way to\ndo it because this stripe", 
+            "dur": "5.57", 
+            "start": "242.47"
+        }, 
+        {
+            "text": "here, this diagonal,\nhas an equation.", 
+            "dur": "2.58", 
+            "start": "248.04"
+        }, 
+        {
+            "text": "This equation is for this one\nhere, this half line, which", 
+            "dur": "4.8", 
+            "start": "250.62"
+        }, 
+        {
+            "text": "means it starts at three and\ngoes off to infinity.", 
+            "dur": "3.019", 
+            "start": "255.42"
+        }, 
+        {
+            "text": "The equation for that is 4x\nsquared minus 2x plus 1.", 
+            "dur": "9.541", 
+            "start": "258.439"
+        }, 
+        {
+            "text": "Let me just try it.", 
+            "dur": "0.85", 
+            "start": "267.98"
+        }, 
+        {
+            "text": "Let&#39;s do the first one here.", 
+            "dur": "1.59", 
+            "start": "268.83"
+        }, 
+        {
+            "text": "So if x is equal to\n1, yeah, that&#39;s 3.", 
+            "dur": "3.18", 
+            "start": "270.42"
+        }, 
+        {
+            "text": "If we tried the next one here,\nx equals 2, it&#39;s 13.", 
+            "dur": "4", 
+            "start": "273.6"
+        }, 
+        {
+            "text": "And this one here, that&#39;s 31.", 
+            "dur": "2.68", 
+            "start": "277.6"
+        }, 
+        {
+            "text": "And well, best do one more, just\nto show you what comes", 
+            "dur": "4.64", 
+            "start": "280.28"
+        }, 
+        {
+            "text": "next, 56 plus 57--", 
+            "dur": "4.63", 
+            "start": "284.92"
+        }, 
+        {
+            "text": "is that a prime number, Brady?", 
+            "dur": "1.59", 
+            "start": "289.55"
+        }, 
+        {
+            "text": "BRADY HARAN: 57 is not\na prime number.", 
+            "dur": "2.932", 
+            "start": "291.14"
+        }, 
+        {
+            "text": "JAMES GRIME: It&#39;s not\na prime number.", 
+            "dur": "0.908", 
+            "start": "294.072"
+        }, 
+        {
+            "text": "So the next one isn&#39;t a prime\nnumber, but 57 would be the", 
+            "dur": "3.3", 
+            "start": "294.98"
+        }, 
+        {
+            "text": "next number on that line.", 
+            "dur": "1.81", 
+            "start": "298.28"
+        }, 
+        {
+            "text": "BRADY HARAN: So that&#39;s one of\nthe breaks in our dotted line?", 
+            "dur": "1.51", 
+            "start": "300.09"
+        }, 
+        {
+            "text": "JAMES GRIME: Yeah, so all these\nlines, the, in fact,", 
+            "dur": "2.51", 
+            "start": "301.6"
+        }, 
+        {
+            "text": "horizontal lines, vertical\nlines, and diagonal lines,", 
+            "dur": "2.11", 
+            "start": "304.11"
+        }, 
+        {
+            "text": "they are all like this.", 
+            "dur": "1.61", 
+            "start": "306.22"
+        }, 
+        {
+            "text": "All the quadratic equations\nare like that.", 
+            "dur": "4.2", 
+            "start": "307.83"
+        }, 
+        {
+            "text": "So what we&#39;re saying is, some\nquadratic equations have more", 
+            "dur": "3.95", 
+            "start": "312.03"
+        }, 
+        {
+            "text": "primes on them than others.", 
+            "dur": "2.91", 
+            "start": "315.98"
+        }, 
+        {
+            "text": "And that&#39;s the conjecture,\nactually.", 
+            "dur": "3.25", 
+            "start": "318.89"
+        }, 
+        {
+            "text": "That hasn&#39;t been proved.", 
+            "dur": "1.26", 
+            "start": "322.14"
+        }, 
+        {
+            "text": "But that is the conjecture.", 
+            "dur": "2.29", 
+            "start": "323.4"
+        }, 
+        {
+            "text": "It seems to be the case.", 
+            "dur": "1", 
+            "start": "325.69"
+        }, 
+        {
+            "text": "So there are lines here that\nhave seven times as many", 
+            "dur": "4.91", 
+            "start": "326.69"
+        }, 
+        {
+            "text": "primes as other lines.", 
+            "dur": "2.57", 
+            "start": "331.6"
+        }, 
+        {
+            "text": "And the best we&#39;ve found is a\ndiagonal line that has 12", 
+            "dur": "4.76", 
+            "start": "334.17"
+        }, 
+        {
+            "text": "times as many primes\nas the average.", 
+            "dur": "3.96", 
+            "start": "338.93"
+        }, 
+        {
+            "text": "BRADY HARAN: Cool, has\nthat line got a name?", 
+            "dur": "2.86", 
+            "start": "342.89"
+        }, 
+        {
+            "text": "JAMES GRIME: I can write\nit out for you.", 
+            "dur": "1.058", 
+            "start": "345.75"
+        }, 
+        {
+            "text": "I think I had it somewhere.", 
+            "dur": "1.022", 
+            "start": "346.808"
+        }, 
+        {
+            "text": "BRADY HARAN: Yeah, I&#39;d love\nto know what that line is.", 
+            "dur": "2.082", 
+            "start": "347.83"
+        }, 
+        {
+            "text": "The golden line.", 
+            "dur": "1.522", 
+            "start": "349.912"
+        }, 
+        {
+            "text": "JAMES GRIME: This golden line\nthat Brady has now decided to", 
+            "dur": "2.806", 
+            "start": "351.434"
+        }, 
+        {
+            "text": "call it, it&#39;s a quadratic\nequation.", 
+            "dur": "3.26", 
+            "start": "354.24"
+        }, 
+        {
+            "text": "It starts off quite\nsimply again.", 
+            "dur": "2.27", 
+            "start": "357.5"
+        }, 
+        {
+            "text": "But the number you add\non is not plus one.", 
+            "dur": "2.13", 
+            "start": "359.77"
+        }, 
+        {
+            "text": "It&#39;s plus something huge.", 
+            "dur": "1.99", 
+            "start": "361.9"
+        }, 
+        {
+            "text": "This square spiral is called\nUlam&#39;s spiral.", 
+            "dur": "2.2", 
+            "start": "363.89"
+        }, 
+        {
+            "text": "But there&#39;s one that\nI like even more.", 
+            "dur": "2.67", 
+            "start": "366.09"
+        }, 
+        {
+            "text": "It&#39;s called a Sack&#39;s spiral.", 
+            "dur": "2.47", 
+            "start": "368.76"
+        }, 
+        {
+            "text": "And it works like this.", 
+            "dur": "1.09", 
+            "start": "371.23"
+        }, 
+        {
+            "text": "You write the square\nnumber in a line.", 
+            "dur": "3.62", 
+            "start": "372.32"
+        }, 
+        {
+            "text": "The square numbers are 1, 4,\nyeah, that is 2 squared, 3", 
+            "dur": "4.45", 
+            "start": "375.94"
+        }, 
+        {
+            "text": "squared is 9, 16,\n25, and so on.", 
+            "dur": "4.38", 
+            "start": "380.39"
+        }, 
+        {
+            "text": "So you write the square\nnumbers in a line.", 
+            "dur": "2.56", 
+            "start": "384.77"
+        }, 
+        {
+            "text": "Then I connect them with what\nis called an Archimedean", 
+            "dur": "4.84", 
+            "start": "387.33"
+        }, 
+        {
+            "text": "spiral like that.", 
+            "dur": "4.01", 
+            "start": "392.17"
+        }, 
+        {
+            "text": "And then I would the other\nnumbers on that spiral and", 
+            "dur": "3.41", 
+            "start": "402.7"
+        }, 
+        {
+            "text": "evenly space it.", 
+            "dur": "0.99", 
+            "start": "406.11"
+        }, 
+        {
+            "text": "So it goes 1, 2, 3,\n4, 5, 6, 7, 8, 9.", 
+            "dur": "7.95", 
+            "start": "407.1"
+        }, 
+        {
+            "text": "And if you mark off the primes\nfor that, I&#39;ve got this", 
+            "dur": "3.46", 
+            "start": "415.05"
+        }, 
+        {
+            "text": "already sorted out for you, this\nis the picture you get.", 
+            "dur": "6.1", 
+            "start": "418.51"
+        }, 
+        {
+            "text": "And you can see the relations,\nyou can see the pattern, even", 
+            "dur": "3.2", 
+            "start": "424.61"
+        }, 
+        {
+            "text": "more strikingly, I think.", 
+            "dur": "1.76", 
+            "start": "427.81"
+        }, 
+        {
+            "text": "Look at these curves.", 
+            "dur": "1.15", 
+            "start": "429.57"
+        }, 
+        {
+            "text": "These are the primes.", 
+            "dur": "1.425", 
+            "start": "430.72"
+        }, 
+        {
+            "text": "BRADY HARAN: And obviously,\nyou&#39;ll never get a prime along", 
+            "dur": "1.725", 
+            "start": "432.145"
+        }, 
+        {
+            "text": "there because those\nare the squares.", 
+            "dur": "1.4", 
+            "start": "433.87"
+        }, 
+        {
+            "text": "JAMES GRIME: Those are your\nsquares, that big gap there is", 
+            "dur": "2.14", 
+            "start": "435.27"
+        }, 
+        {
+            "text": "the squares.", 
+            "dur": "1.14", 
+            "start": "437.41"
+        }, 
+        {
+            "text": "So it looks like we have\nformulas, equations--", 
+            "dur": "5.46", 
+            "start": "438.55"
+        }, 
+        {
+            "text": "some formulas, anyway, that have\nmore primes than others.", 
+            "dur": "1.99", 
+            "start": "444.01"
+        }, 
+        {
+            "text": "So if we can understand these\nformulas that contain these", 
+            "dur": "6.54", 
+            "start": "446"
+        }, 
+        {
+            "text": "rich number of primes, then it\nwould help us solve important", 
+            "dur": "6.88", 
+            "start": "452.54"
+        }, 
+        {
+            "text": "conjectures in mathematics\nsuch as the Goldbach", 
+            "dur": "3.23", 
+            "start": "459.42"
+        }, 
+        {
+            "text": "conjecture and the twin\nprime conjecture.", 
+            "dur": "2.9", 
+            "start": "462.65"
+        }, 
+        {
+            "text": "So prime numbers are not as\nrandom as you might think of.", 
+            "dur": "6.79", 
+            "start": "465.55"
+        }, 
+        {
+            "text": "There are equations to help\nus find prime numbers.", 
+            "dur": "4.62", 
+            "start": "472.34"
+        }, 
+        {
+            "text": "And now I want to show you some\nequations that help you", 
+            "dur": "4.04", 
+            "start": "476.96"
+        }, 
+        {
+            "text": "find prime numbers.", 
+            "dur": "2.63", 
+            "start": "481"
+        }, 
+        {
+            "text": "BRADY HARAN: So we&#39;ll have more\nabout ways to search for", 
+            "dur": "1.91", 
+            "start": "483.63"
+        }, 
+        {
+            "text": "prime numbers coming really soon\nfrom this interview with", 
+            "dur": "2.67", 
+            "start": "485.54"
+        }, 
+        {
+            "text": "James Grime--", 
+            "dur": "1.49", 
+            "start": "488.21"
+        }, 
+        {
+            "text": "unless you&#39;re watching this in\nthe future, in which case this", 
+            "dur": "3.88", 
+            "start": "489.7"
+        }, 
+        {
+            "text": "stuff might already\nbe on YouTube.", 
+            "dur": "1.98", 
+            "start": "493.58"
+        }, 
+        {
+            "text": "But you get the idea.", 
+            "dur": "1.87", 
+            "start": "495.56"
+        }, 
+        {
+            "text": "But, I have a bit of a\nconfession to make.", 
+            "dur": "2.72", 
+            "start": "497.43"
+        }, 
+        {
+            "text": "I&#39;ve actually recorded some\nstuff about the spirals and", 
+            "dur": "2.76", 
+            "start": "500.15"
+        }, 
+        {
+            "text": "prime numbers before--", 
+            "dur": "1.46", 
+            "start": "502.91"
+        }, 
+        {
+            "text": "not with James Grime, but\nwith James Clewett.", 
+            "dur": "3.37", 
+            "start": "504.37"
+        }, 
+        {
+            "text": "And I kind of half forgot about\nit and never got around", 
+            "dur": "2.92", 
+            "start": "507.74"
+        }, 
+        {
+            "text": "to editing it.", 
+            "dur": "0.73", 
+            "start": "510.66"
+        }, 
+        {
+            "text": "This was, like, a year\nand a half ago.", 
+            "dur": "2.039", 
+            "start": "511.39"
+        }, 
+        {
+            "text": "I went back and had a look,\nand it was actually really", 
+            "dur": "2.201", 
+            "start": "513.429"
+        }, 
+        {
+            "text": "interesting.", 
+            "dur": "0.86", 
+            "start": "515.63"
+        }, 
+        {
+            "text": "So I&#39;ve turned that into\na video as well.", 
+            "dur": "2.63", 
+            "start": "516.49"
+        }, 
+        {
+            "text": "Now you can wait for that turn\nup in your subscriptions, in", 
+            "dur": "2.91", 
+            "start": "519.12"
+        }, 
+        {
+            "text": "the next few days, or if you\ncan&#39;t wait, you can go and", 
+            "dur": "3.59", 
+            "start": "522.03"
+        }, 
+        {
+            "text": "have a look at it now.", 
+            "dur": "1.01", 
+            "start": "525.62"
+        }, 
+        {
+            "text": "I&#39;ve made the links available.", 
+            "dur": "1.35", 
+            "start": "526.63"
+        }, 
+        {
+            "text": "The video&#39;s already up, so\ngo ahead and have a look.", 
+            "dur": "2.92", 
+            "start": "527.98"
+        }, 
+        {
+            "text": "Thanks for watching.", 
+            "dur": "1.27", 
+            "start": "530.9"
+        }, 
+        {
+            "text": "Plenty more videos, both of\nstuff I&#39;ve recorded, some of", 
+            "dur": "3.776", 
+            "start": "532.17"
+        }, 
+        {
+            "text": "it quite a while ago, it turns\nout, and stuff we&#39;ve", 
+            "dur": "3.214", 
+            "start": "535.946"
+        }, 
+        {
+            "text": "still got to record.", 
+            "dur": "1.09", 
+            "start": "539.16"
+        }, 
+        {
+            "text": "Really exciting stuff coming\nsoon on &quot;Numberphile,&quot; so make", 
+            "dur": "3.07", 
+            "start": "540.25"
+        }, 
+        {
+            "text": "sure you&#39;ve subscribed.", 
+            "dur": "1.25", 
+            "start": "543.32"
+        }
+    ], 
+    "title": "Prime Spirals - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/05x5j", 
+        "/m/0gn_f", 
+        "/m/0hqg7", 
+        "/m/0c5yf", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 442548, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-11T08:54:46.620Z", 
+            "text": "Of course it is concentrated into diagonals, the even values would prevent \nany other pattern from obviously showing up well at anything other than 45 \ndegree angle.\ufeff", 
+            "author": "Clinton Johnson"
+        }, 
+        {
+            "date": "2015-04-11T03:04:23.891Z", 
+            "text": "square numbers are perfectly aligned diagonally ... that's even more \ninteresting\ufeff", 
+            "author": "tomas barra"
+        }, 
+        {
+            "date": "2015-04-05T22:45:57.271Z", 
+            "text": "If anyone interested I have divised a pretty obvious formula that predicts \nthe closest number in the next ring of the spiral.\n(sqrt(x)+2)^2\n\nso for example 2 is 11.65685425\n3 is 13.92820323\n5 is 17.94427191\n7 is 21.58300524\ufeff", 
+            "author": "thediltarget"
+        }, 
+        {
+            "date": "2015-04-04T20:58:52.766Z", 
+            "text": "On the Sack(?) spiral, I wonder if those parabolic shaped primes have an \nequation? And if perhaps said equation would work better at predicting \nprimes than with the Ulam spiral?\ufeff", 
+            "author": "Sara Boyd"
+        }, 
+        {
+            "date": "2015-03-10T21:43:44.043Z", 
+            "text": "Does someone know the equations for the other diagonal lines? If you do \nplease let me know them!\ufeff", 
+            "author": "Gustav M\u00e5rdby"
+        }, 
+        {
+            "date": "2015-02-25T00:45:22.942Z", 
+            "text": "How can 2 be a Prime number?\ufeff", 
+            "author": "Winner1529"
+        }, 
+        {
+            "date": "2015-02-24T23:49:54.084Z", 
+            "text": "What happens when you make an Ulam Spiral in 3d rather than 2d?\ufeff", 
+            "author": "piynubbunyip"
+        }, 
+        {
+            "date": "2015-02-21T14:48:14.498Z", 
+            "text": "I think its obvious that these spirals occur....\nevery prime is represented as 6k+(or-)1\nso primes can't be everywhere unlike his \"random\" example..\ufeff", 
+            "author": "Simo Ryu"
+        }, 
+        {
+            "date": "2015-02-16T00:53:28.276Z", 
+            "text": "Does the density of the primes decrease as you get further from the center \nof the square? \ufeff", 
+            "author": "koka558"
+        }, 
+        {
+            "date": "2015-02-16T00:12:05.000Z", 
+            "text": "What if we did this with factorials? The Fibonacci Sequence?\ufeff", 
+            "author": "Blank Mirror (Xyzanity)"
+        }, 
+        {
+            "date": "2015-02-15T20:26:54.485Z", 
+            "text": "All even numbers are on diagonals, so it's logical primes are also on \ndiagonals.\ufeff", 
+            "author": "Dunebug1985"
+        }, 
+        {
+            "date": "2015-02-09T23:40:01.737Z", 
+            "text": "Wow his smile is cute :3\ufeff", 
+            "author": "Benedict Wesson"
+        }, 
+        {
+            "date": "2015-02-08T17:07:02.031Z", 
+            "text": "Wow his iris color is amazing.\ufeff", 
+            "author": "Mussa Kaleem"
+        }, 
+        {
+            "date": "2015-02-07T20:31:16.106Z", 
+            "text": "C\ufeff", 
+            "author": "Jonathan Rodriguez"
+        }, 
+        {
+            "date": "2015-02-07T00:57:55.151Z", 
+            "text": "Ok am I the only one who thinks that the mathematician in the video looks a \nlot like Brick Top from Snatch?\ufeff", 
+            "author": "davidiv123"
+        }, 
+        {
+            "date": "2015-01-31T10:38:22.555Z", 
+            "text": "I don't even see the code, all I see is blonde, brunette, redhead...\ufeff", 
+            "author": "valdez87"
+        }, 
+        {
+            "date": "2015-01-29T00:05:23.962Z", 
+            "text": "Brady can you ask them if the <70 million means anything for those spirals?\ufeff", 
+            "author": "nabi"
+        }, 
+        {
+            "date": "2015-01-23T19:41:18.497Z", 
+            "text": "Yes, but why?\ufeff", 
+            "author": "Needle-nose Pliers"
+        }, 
+        {
+            "date": "2015-01-22T17:34:10.058Z", 
+            "text": "We just discovered the secret plans for the death star!\ufeff", 
+            "author": "statikreg"
+        }, 
+        {
+            "date": "2015-01-21T07:08:48.146Z", 
+            "text": "I found that (x^2)+1 have so far as I've looked (I found it after I made a \ntable on Microsoft Excel showing all the factors of every number from \n1-100, when you think about it though, it's quite an obvious pattern) it \nworks (squares are only divisible by square roots and their multiples, and \nadding a 1 takes it out of all [as far as I know anyways] of their ranges).\ufeff", 
+            "author": "Nintendo101maniac"
+        }, 
+        {
+            "date": "2015-05-02T05:17:17.970Z", 
+            "text": "+Nintendo101maniac doesnt work with 3, 5, 7, 8, 9.....", 
+            "author": "Lavondrias Daniels"
+        }, 
+        {
+            "date": "2015-04-23T05:04:52.849Z", 
+            "text": "+Nintendo101maniac x=3 you lose", 
+            "author": "TheBobbysaget"
+        }, 
+        {
+            "date": "2015-04-19T18:40:51.056Z", 
+            "text": "+coolkid17657 Yeah, I was just a bit impatient to get the idea out there to \ncheck.", 
+            "author": "Nintendo101maniac"
+        }, 
+        {
+            "date": "2015-04-19T13:46:50.633Z", 
+            "text": "+Nintendo101maniac That doesn't work for most numbers though... Not just \nmultiples of 4. (3^2)+1 = 10, (5^2)+1 = 26, (7^2)+1 = 50 and so on. Now if \nyou are only talking about x being an even number and even x not being \ndivisible by 4, then your formula already stops working at 18, since 18^2+1 \n= 325. Also it does work for 16 though, since 257 is a prime so the theory \nabout it not working for multiples of 4 is also wrong. You did say \"most \nmultiples of 4\" though but Your formula just gets a prime for a few even \nnumbers, where most are not divisible by 4 (which means around every other \neven number doesn't give you a prime). I understand your way of thinking \nbut the formula only rarely works and is pretty useless", 
+            "author": "coolkid17657"
+        }, 
+        {
+            "date": "2015-04-14T21:30:21.706Z", 
+            "text": "+Nintendo101maniac If you want to multiply by something and then add 1 or \nsome other prime to it, there are numbers called the primorials (products \nof the first prime factors)2*3 = 6\n2*3*5 = 30\n2*3*5*7 = 210\n\n\nEven still, it's not very effective.\n\n\n210 * 17 + 19 (this ensures it's not divisible by 2, 3, 5, 7, 17, or 19)\n\n\nis 3589. 3589 is 37 * 97 -.-\n\n210 * 11 + 13 = 2323, that number is 101 * 23\n\n\nSo primes are tough to find...\n\nSixth primorial = 2*3*5*7*11*13 = 30030\n\n\nTry 30030 * 23 + 29 = 690719; FINALLY that one is prime.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-14T21:24:17.164Z", 
+            "text": "+Ste Rose We know that any repunit with a composite length is composite lol", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-14T21:23:48.883Z", 
+            "text": "+Nintendo101maniac Mersenne primes are of this form, except they are binary \nrepunits of prime length (127 = 1111111 in binary).", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-14T19:08:17.821Z", 
+            "text": "+Vulpes Vulpes Not too sure how the function you pointed out works (I have \nto reply to around 14 different comments since the last time I've been on \nthe YouTube, which was a while ago), but you have a point. Guess spirals \nare the only way to find consecutive primes (they do have a method for \nchecking if a number is prime or not, forgot what it was, but it usually or \nalways works [not sure which one]).", 
+            "author": "Nintendo101maniac"
+        }, 
+        {
+            "date": "2015-04-09T04:44:22.455Z", 
+            "text": "Check the numbers which are adjacent to highly composite numbers, since \nthose numbers can't be divisible by any factors of the very composite ones. \nThe highly composite number 60 is between two primes, as is 240.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-04-06T00:07:25.672Z", 
+            "text": "+Nintendo101maniac\nUnfortunately, simple formulas like that rarely work. For instance, here's \nthe result of carrying your formula out to x = 20. You don't have to worry \nabout the stuff at the beginning, that's just how I checked whether a \nnumber is prime or not. In short, it shows x, followed by x^2+1, followed \nby True if it's prime or False if it's not prime. As you can see, the prime \nnumbers quickly get pretty sparse!\n\n>>> def is_prime(n):\n...   max = math.ceil(math.sqrt(n))\n...   if n <= 1:\n...     return False\n...   if n % 2 == 0:\n...     return n == 2\n...   for i in range(3, max + 1, 2):\n...     if n % i == 0:\n...       return False\n...   return True\n... \n>>> for n in range(0, 21):\n...   print(str(n) + \" - \" + str(int(math.pow(n, 2) + 1)) + \": \" + \nstr(is_prime(math.pow(n, 2) + 1)))\n... \n0 - 1: False\n1 - 2: True\n2 - 5: True\n3 - 10: False\n4 - 17: True\n5 - 26: False\n6 - 37: True\n7 - 50: False\n8 - 65: False\n9 - 82: False\n10 - 101: True\n11 - 122: False\n12 - 145: False\n13 - 170: False\n14 - 197: True\n15 - 226: False\n16 - 257: True\n17 - 290: False\n18 - 325: False\n19 - 362: False\n20 - 401: True", 
+            "author": "Vulpes Vulpes"
+        }, 
+        {
+            "date": "2015-03-26T00:07:17.002Z", 
+            "text": "The smallest number for which this does not work is x = 3. 3^2 + 1 = 10.", 
+            "author": "Cam Wagner"
+        }, 
+        {
+            "date": "2015-03-12T01:15:21.987Z", 
+            "text": "Intuitively I would speculate that any pattern would be asymptotic, it'd be \ninteresting to know if it were the same as the relationship for the \nnaturals.", 
+            "author": "Ste Rose"
+        }, 
+        {
+            "date": "2015-03-11T04:58:22.069Z", 
+            "text": "+Ste Rose That'd be what you'd get for 30. Anyways, I found that the 3rd \none is already divisable (3*37=111), wonder how much the amount that are \nprimes decreases as it grows? Maybe there's some sort of pattern of either \nthe primes appearing or the non primes appearing? If there's a pattern for \nthe amount that isn't prime, maybe it can be taken out of the equation to \nfinally create a prime equation?", 
+            "author": "Nintendo101maniac"
+        }, 
+        {
+            "date": "2015-03-09T06:16:07.328Z", 
+            "text": "111111111111111111111111111111=3*7*11*13*31*37*41*211*241*271*2161*9091*2906161", 
+            "author": "Ste Rose"
+        }, 
+        {
+            "date": "2015-03-09T04:31:12.030Z", 
+            "text": "+Ste Rose Yes, I've already found that by trying it out, and from another 3 \npeople. However, one way you could usually get a prime (I think always, but \nI haven't gone all too far yet), is (and I haven't yet found how to turn \nthis into an equation), to take x, and for the value, (say, 7) you make \nthat many digits, all of them 1s (so f(7)=1111111).", 
+            "author": "Nintendo101maniac"
+        }, 
+        {
+            "date": "2015-03-08T17:00:43.240Z", 
+            "text": "+Nintendo101maniac If x is an odd number, x^2+1 isn't prime. Let x=2n+1 \nwith n in the naturals, x^2+1=(2n+1)^2+1=4n^2+4n+1+1=2(2n^2+2n+1).", 
+            "author": "Ste Rose"
+        }, 
+        {
+            "date": "2015-03-08T15:28:28.536Z", 
+            "text": "+Nintendo101maniac Primes are so plentiful in the low values that it easy \nto believe that you found a pattern, but as you increase the number the \npattern begins to fall apart. ", 
+            "author": "thediltarget"
+        }, 
+        {
+            "date": "2015-03-08T10:09:45.765Z", 
+            "text": "+Nintendo101maniac the solution for any odd number definitely isn't a \nprime, because any odd number squared is an odd number, so adding or \nsubtracting 1 results in an even number. obviously even numbers are not \nprime. ", 
+            "author": "Jack Neubecker"
+        }, 
+        {
+            "date": "2015-02-21T09:31:07.586Z", 
+            "text": "You can't generate primes just by taking even integers and squaring and \nadding 1. For example, look at Fermat numbers. Every number of the form \n2^(2^n) + 1 is one more than a square, because 2^(2^n-1) squared gives us \n2^(2^n). For n = 5 through 32, these numbers are composite, and most \nmathematicians believe that all Fermat numbers for n > 4 are composite \n(although we don't actually know). For n = 0 through 4, they are prime.", 
+            "author": "thebombzen"
+        }, 
+        {
+            "date": "2015-02-19T23:36:51.671Z", 
+            "text": "It is a good idea but to create a principle, there needs to be logic behind \nit. What you're suggesting is as random as pulling a cat out of a bag of \nferrets. Ulam's spiral works but only for certain sections of certain arms \nof it, many of which are unconnected. It would be interesting however to \nsee if prime numbers could be connected to Pascal's triangle or other \nshapes in maths.", 
+            "author": "Fergal Spencer"
+        }, 
+        {
+            "date": "2015-01-19T15:10:33.355Z", 
+            "text": "The results from the Sax Spiral kind of reminds me of the shape of a \nCardioid.\ufeff", 
+            "author": "Lix Bugz"
+        }, 
+        {
+            "date": "2015-01-16T23:51:28.314Z", 
+            "text": "the only thing i hate in these videos is the annoying sound of his marker \nscratching on the paper!!!\ndude, use ball pen or a nice paper...!\ufeff", 
+            "author": "Asad R"
+        }, 
+        {
+            "date": "2015-01-16T08:58:40.000Z", 
+            "text": "gotta love James Prime\ufeff", 
+            "author": "szuperrosszarcu"
+        }, 
+        {
+            "date": "2015-01-14T05:25:51.211Z", 
+            "text": "God's Thumbprint!\ufeff", 
+            "author": "Ryan Roberson"
+        }, 
+        {
+            "date": "2015-01-06T00:52:59.411Z", 
+            "text": "So when you write out the spiral you get alternating diagonals of even and \nodd numbers. The primes will fall along the odd bands and never the even \nbands except the number 2. You get stripes along the diagonals because of \nthe high density of primes that fall among the lower integers. I imagine \nthe stripes dissipate as the square grows much larger. Every 6th number \nafter 3 (9,15,21,27) \" kills \" a stripe. I don't really understand why \nprimes falling along the bands of these odd numbers is such a phenomenon. \nPlease enlighten me.\ufeff", 
+            "author": "Tyler Drake"
+        }, 
+        {
+            "date": "2015-01-02T09:39:41.257Z", 
+            "text": "Looks like the apple of eden!!!\ufeff", 
+            "author": "AgEyal"
+        }, 
+        {
+            "date": "2014-12-12T04:23:31.529Z", 
+            "text": "You've got to love that ViHart reference\ud83d\ude1c\ufeff", 
+            "author": "Jackson Sherman"
+        }, 
+        {
+            "date": "2014-12-08T01:20:24.108Z", 
+            "text": "the diagonals are always odd, therefore, all even numbered diagonals are \nruled out. I think it gives an illusion to make it seem as though there is \na pattern, but it's just random.\ufeff", 
+            "author": "Trimza42"
+        }, 
+        {
+            "date": "2014-12-07T02:16:05.637Z", 
+            "text": "So this guy looks nothing like the lead singer of Radiohead... :)\ufeff", 
+            "author": "Aaron Kalat"
+        }, 
+        {
+            "date": "2014-12-04T13:44:24.962Z", 
+            "text": "7:08 Pacman ^^\ufeff", 
+            "author": "Retro"
+        }, 
+        {
+            "date": "2014-11-30T14:06:15.000Z", 
+            "text": "Ok, I found this insane patter using the goldbach conjecture, I need \nsomeone to analyze it for me and tell me whats going on. look at my video!\ufeff", 
+            "author": "Rhymes Official"
+        }, 
+        {
+            "date": "2014-11-29T19:42:11.634Z", 
+            "text": "but, your arranging the numbers in a certain way that they give way to \npatterns. These spirals are meaningless unless your trying to prove \nsomething!\ufeff", 
+            "author": "Rhymes Official"
+        }, 
+        {
+            "date": "2014-11-27T21:17:34.751Z", 
+            "text": "Amazing!  And 7:00 looks like a basketball!\ufeff", 
+            "author": "Ace Diamond"
+        }, 
+        {
+            "date": "2014-11-17T21:21:36.402Z", 
+            "text": "What happens if you do an ulam spiral, but instead of circling primes, you \ncircle random odd numbers with logarithmic spacing?\ufeff", 
+            "author": "Aviel Menter"
+        }, 
+        {
+            "date": "2014-11-06T07:35:25.905Z", 
+            "text": "James is so cool =)\ufeff", 
+            "author": "Aoshi.S2"
+        }, 
+        {
+            "date": "2014-11-05T22:18:40.949Z", 
+            "text": "i found the biggest prime :D\n\nbiggest prime ever = \u221e \ufeff", 
+            "author": "BadgerGamePlay"
+        }, 
+        {
+            "date": "2014-10-28T00:37:32.429Z", 
+            "text": "reminds me of the dear\n10 PRINT CHR$(205.5+RND(1));: GOTO 10\nRUN\ufeff", 
+            "author": "Oxyron \u201c\u306f\u3042\u3057\u201d \u30b6\u30aa"
+        }, 
+        {
+            "date": "2014-10-27T23:39:25.564Z", 
+            "text": "Do you think there's perhaps a better system we could try that would have \nthese primes appearing in a perfect pattern?\ufeff", 
+            "author": "OpenlyClosed"
+        }, 
+        {
+            "date": "2014-10-26T20:24:08.475Z", 
+            "text": "Hi, \nWD Gann developed this in terms of stock market prediction. He did quite \nwell right up to the 60s, I believe there is also some sort of \ncorrespondence with the Fibonacci series. It would be nice if you could \nlook into this issue. \nBest, \nNick\ufeff", 
+            "author": "Nicholas Sceusa"
+        }, 
+        {
+            "date": "2014-10-20T20:15:46.732Z", 
+            "text": "This would be such a great monument. It can be something truly deserving \nthe best locations and tourist gravity.\ufeff", 
+            "author": "Yuriy Chizhov"
+        }, 
+        {
+            "date": "2014-10-20T18:45:43.939Z", 
+            "text": "I see the matrix\ufeff", 
+            "author": "\u72fc\u9b42"
+        }, 
+        {
+            "date": "2014-10-17T22:48:25.158Z", 
+            "text": "what would a prime spiral look like with fibonacci numbers?\ufeff", 
+            "author": "amvfanboy"
+        }, 
+        {
+            "date": "2014-10-05T22:13:05.250Z", 
+            "text": "these are kinda cool Prime Spirals - Numberphile also liking this youtube \nchannel\ufeff", 
+            "author": "JoJo Stratton"
+        }, 
+        {
+            "date": "2014-09-23T06:47:21.434Z", 
+            "text": "what would happen if you made a model like Ulam's that was 3 dimensional \nlike a pyramid? \ufeff", 
+            "author": "joey castle"
+        }, 
+        {
+            "date": "2014-09-17T23:15:44.640Z", 
+            "text": "pacman wins (:\ufeff", 
+            "author": "fix djole"
+        }, 
+        {
+            "date": "2014-09-02T20:29:37.473Z", 
+            "text": "OK this is really interesting!\ufeff", 
+            "author": "PerseusSagittarius channel"
+        }, 
+        {
+            "date": "2014-09-02T17:58:03.413Z", 
+            "text": "The plural of formala is formulAE and not formulAS!\ufeff", 
+            "author": "Gwilym ap Iorwerth"
+        }, 
+        {
+            "date": "2014-08-23T22:04:06.223Z", 
+            "text": "The secret of life is that \"Numbers\" are in everything and anything...which \ncould always be broken down into some expression or formula to equal or \ngive you a hint to why it exists and how to duplicate it. The 4th Dimension \nmay have a different set of rules where 2 + 2 may not equal  4...imagine \nthat...\ufeff", 
+            "author": "\uff4e\uff59\uff41\uff48\uff4e\uff59\uff41\uff48\uff43\uff48\uff41\uff4e .\uff4e\uff59\uff41\uff48\uff4e\uff59\uff41\uff48\uff43\uff48\uff41\uff4e"
+        }, 
+        {
+            "date": "2014-08-17T20:48:45.289Z", 
+            "text": "this was fucking good. Specially the spiral.. just wow !!!\ufeff", 
+            "author": "Jackey \u201cgreystation\u201d Ramirez"
+        }, 
+        {
+            "date": "2014-08-17T15:02:14.391Z", 
+            "text": "would using a different base reveal a pattern to? perhaps even clearer?\ufeff", 
+            "author": "Lilichi"
+        }, 
+        {
+            "date": "2014-08-10T13:29:04.118Z", 
+            "text": "Brady, you are a legend\ufeff", 
+            "author": "Mato Poslon"
+        }, 
+        {
+            "date": "2014-07-21T20:47:06.244Z", 
+            "text": "I love his smile while talking about mathematics.\nThat's a person who's loving the thing he's doing.\ufeff", 
+            "author": "MatGuich"
+        }, 
+        {
+            "date": "2014-06-23T20:16:11.847Z", 
+            "text": "There is nothing unusual with this. Primes are odd numbers (not even) or \neven better to say, all primes are numbers that ends with either 1 or 5 in \nthe base 6. When you place them in this spiral you will get a more likely \nto have 2 primes as checker-board neighbors then vertical/horizontal \nneighbors. Why that? well think for yourself. It's trivial if you think \nabout it. Put any series of numbers that have same properties like i told, \nas the primes and you'll get the same results.\ufeff", 
+            "author": "adyP"
+        }, 
+        {
+            "date": "2014-06-22T00:37:33.203Z", 
+            "text": "oh my shit!!!!!  MATRIX\ufeff", 
+            "author": "theworldofwonder"
+        }, 
+        {
+            "date": "2014-06-21T22:28:40.622Z", 
+            "text": "The Primes MUST be on a diagonal, while NOT EVERY number on any diagonal is \na Prime.  An argument can be made from alternating EVEN and ODD numbers \nthat \"turning the CORNER\" of the spiral maintaing the position, or \nmembeship, on a diagonal.\n\nSaid another way *ALL ADJACENT ODDS* must have *Adjacent Diagonal* \nrelationships.  ODDS may never have ADJACENT Horizontal or Vertial odds.\ufeff", 
+            "author": "Texas75023"
+        }, 
+        {
+            "date": "2014-06-14T20:54:39.337Z", 
+            "text": "Polish peoples are smart ^_^\ufeff", 
+            "author": "\u0441\u043b\u0430\u0432\u044f\u043d\u0438\u043d"
+        }, 
+        {
+            "date": "2014-05-02T15:01:07.608Z", 
+            "text": "Arrogantly I called this \"mySpiral\" when I found about this on my own some \n15 years ago. There is another property about these stripes that I found, \nthis formula is more broad than a quadratic but it safe to say that all \nPrime numbers are of the form 6xn+1 or 6xn-1 or even more adventurous as \n2x3xn+1 or 2x3xn-1. Try them out. For the jumpy people keep in mind that \nthis doesn't mean \"if and only if\". Back to the main point, these offsets \n-1, +1 is what seems to be the \"fabric\" of the prime number set where a \nnumber cannot be written (partially and perhaps recursively in some way) in \nterms of this Holy Trinity \"1,2,3\".\ufeff", 
+            "author": "Palaio Tomoc"
+        }, 
+        {
+            "date": "2014-03-26T17:54:50.830Z", 
+            "text": "As a person who finds numbers fascinating but am not a numbers person, I \ncan't help shake the feeling that the Hindu-Arabic number system that has \nbeen adopted by the world is actually flawed.  And by flawed I mean, not \nencompassing what is actually happening. The number systems is useful for \nthings we can see and touch and make but not for say explaining what \nGravity exactly is and why it works. Hopefully, someone is working a better \nnumber system.\ufeff", 
+            "author": "Nidelvia1"
+        }, 
+        {
+            "date": "2014-03-22T13:21:26.922Z", 
+            "text": "Thank you Dr. Grime and Brady for bringing us these videos. By the way, Dr. \nGrime you are my favorite.\ufeff", 
+            "author": "ThreeXcore"
+        }, 
+        {
+            "date": "2014-03-09T11:47:38.922Z", 
+            "text": "How come straight lines are defined by quadratic equations?\ufeff", 
+            "author": "MrXperx"
+        }, 
+        {
+            "date": "2014-03-07T00:41:10.953Z", 
+            "text": "Let's build Prime Maps!\ufeff", 
+            "author": "Brightsmith"
+        }, 
+        {
+            "date": "2014-03-05T12:14:10.453Z", 
+            "text": "Question: How does the Riemann Zeta function relate to and help find large \nprime numbers?\ufeff", 
+            "author": "BPM"
+        }, 
+        {
+            "date": "2014-02-28T22:06:39.259Z", 
+            "text": "But , aren't prime numbers just fun facts to play around with. I mean , \nwhat for is it important to know if a number is prime or not ?\ufeff", 
+            "author": "Alice Eliot"
+        }, 
+        {
+            "date": "2014-02-23T18:24:47.707Z", 
+            "text": "If we assume that (some quadratic eq) has more primes than (some other \nquadratic equation) and let S be the set of all primes in the quadratic \nequation with more and let L be the set of all primes in the quadratic \nequation with less, then we would see that S > L. \n\nHowever, as we know the primes are infinite and each quadratic equation is \nalso infinite, we would get (Infiniti) > (infiniti) which is false. Thus, \nit is not true that One quadratic has has more primes than another.\n\n\nDoes this work?\ufeff", 
+            "author": "Average Joe"
+        }, 
+        {
+            "date": "2014-02-22T21:36:28.006Z", 
+            "text": "In my opinion this representation does not effort anything important , \nbecause the only pattens can human easy can recognize is diagional , \nvertical and horizontal lines , in this cube arrengement the olny possible \ncontinious line can be diagonals and due to the large asamble we can \ndisting long lines.what about pentagon hexagon etc spirals; they will arise \nnew direction and some of them may can support prime numbers continiously.\ufeff", 
+            "author": "\u03a0\u03b1\u03bd\u03bf\u03c2 \u03a4\u03c3\u03b9\u03bd"
+        }, 
+        {
+            "date": "2014-02-15T20:48:43.098Z", 
+            "text": "But what does this tell us? How does this change our understanding of logic \nand the universe?\ufeff", 
+            "author": "EpicBeard815"
+        }, 
+        {
+            "date": "2014-02-06T23:09:39.591Z", 
+            "text": "did somebody ever tried to do the same thing with other type of polygonal \nspiral? for example an exagonal one maybe there is a polygon that could \nlead to a pattern for the prime number... \ufeff", 
+            "author": "AderanDreamer"
+        }, 
+        {
+            "date": "2014-02-03T17:10:53.717Z", 
+            "text": "HOW you came up with that equation.. \"quadratic equation\" like you say.. \nhow you think that instantaneously?\n I mean: start from a point-number- you can create the equation for a \ndiagonal line of numbers? ..is a methodical way?.. or its happened here to \nbe this equation? and you guess it) \n\nIs there a mathematical link between the number distribution in spiral \nshape and equations?\ufeff", 
+            "author": "Andrasesc Ninel Ovidiu"
+        }, 
+        {
+            "date": "2014-01-26T21:45:39.133Z", 
+            "text": "42 dislikes\ufeff", 
+            "author": "theschnick"
+        }, 
+        {
+            "date": "2014-01-18T13:05:24.131Z", 
+            "text": "if i divide any number from  1 to 6  by 7  i get 0.  and the same 6 \ndigits   over and over again but starting with a different one  for each \nfraction\ni wonder why.\ncan you  do a video about that?\ufeff", 
+            "author": "absol47"
+        }, 
+        {
+            "date": "2014-01-16T20:40:12.249Z", 
+            "text": "Am I the only one who thinks this is hiding a depth so complex that we \ncan't comprehend it and finding it creepy as hell? Yeah? Okay...\ufeff", 
+            "author": "Fr\u00e9d\u00e9ric Acord"
+        }, 
+        {
+            "date": "2014-01-11T19:29:42.857Z", 
+            "text": "Always amazes me when many new things are discovered at unusual times in \nunusual circumstances. Some of the most productive work happens not through \na tight academic schedule, but through simply playing, exploring, letting \nthe mind wander etc.\ufeff", 
+            "author": "Sina Madani"
+        }, 
+        {
+            "date": "2013-12-22T00:45:22.406Z", 
+            "text": "So the Ultimate Conjecture would be that NO ONE EQUATION per se HAS ALL THE \nPRIMES? That Ulam's Spiral is an infinite? or finite set of Equations (are \nthey all Quadratic? All Polynomial? . All repetions of one standard line \nfragment differing only by its slope and its actual mapped out location on \nUlam's Spiral (that each & every line fragment on Ulam's Spiral differs \nonly by its m value and length of its fragment part from the entire \nline: Y=mx+b...?) that contain all the Primes, but that each Equation or \nits Formula contains only a \"limited number of Primes?\"? That as One goes \nfurther expanding Ulam's Spiral ever outward to vast distances in all \ndirections: that each Equation's fragment though still containing only a \nlimited number of Primes: nevertheless approaches infinity if Ulam's Siral \nis extended far enough out, but that It Does nevertheless increase that \nlimited number of Primes, but never reaches  it for each and every equation \nout there From Here To Infinity? Or that on the average for all equations: \nonly a CERTAIN MINIMUM AND CERTAIN MAXIMUM  is attainable for how many \nprimes for each line segment, each formula?  Is the minimum AT LEAST 2 \nPrimes? or some higher number like 100? According to Euclid, only 2 points \nare needed to establish a line: must every line fragment in Ulam's Spiral \ngive out at least 2 primes? But that some line way out there in Ulam's \nextended Spiral a certain Diagonal will give out 100 Primes but no more? \nThen another line, say, 2 light years away in actual further extension of \nthe actual Ulam Spiral on this Video will then give 1000 Primes but no \nmore? Or that in the forever expansion of Ulam's Spiral: all limited Primes \nwill stay around 2 to 3 to 4, etc, but never reach any bigger \nnumber? from  what are the greatest number possible?\ufeff", 
+            "author": "Albert Kundrat"
+        }, 
+        {
+            "date": "2013-12-21T23:17:23.926Z", 
+            "text": "+Chris Dragotta 57/3=19\nNot prime.\ufeff", 
+            "author": "Skillshots"
+        }, 
+        {
+            "date": "2013-12-18T11:25:54.950Z", 
+            "text": "the Sacks spiral looks like a basketball\ufeff", 
+            "author": "jh45"
+        }, 
+        {
+            "date": "2013-12-18T04:36:21.672Z", 
+            "text": "hate number theory... never seen so many theorems with inequalities\ufeff", 
+            "author": "TechnologyBudda"
+        }, 
+        {
+            "date": "2013-12-17T18:50:20.902Z", 
+            "text": "ive ventured into the deep and dark world of intense boredom\ufeff", 
+            "author": "Massive Balloonknot"
+        }, 
+        {
+            "date": "2013-12-16T03:13:41.000Z", 
+            "text": "\"The notion of 'prime rich' formulae & grids, has been around for at least \n60 years.\", Robert L Birch\ufeff", 
+            "author": "you2tooyou2too"
+        }, 
+        {
+            "date": "2013-12-15T06:31:30.729Z", 
+            "text": "wtf I watched whole thing and I hate numbers\ufeff", 
+            "author": "Umphetico Music"
+        }, 
+        {
+            "date": "2013-12-14T02:33:21.900Z", 
+            "text": "I'd like to know... What is the most unspectacular, boring number there is? \nA number you can do absolutely, or almost, nothing with. Is there such a \nthing?\ufeff", 
+            "author": "NetGhoul666"
+        }, 
+        {
+            "date": "2013-12-12T21:05:58.746Z", 
+            "text": "+Numberphile what do you think of Prime Coin?\ufeff", 
+            "author": "Mamoun Saudi"
+        }, 
+        {
+            "date": "2013-12-11T22:07:13.212Z", 
+            "text": "This guy is really good at dumbing stuff down.\ufeff", 
+            "author": "stallmanswife"
+        }, 
+        {
+            "date": "2013-12-10T04:14:23.428Z", 
+            "text": "I wouldn't say that Mersenne primes are rare. They are spaced further apart \nthan primes in terms of sequence. In fact, since Mersenne primes are \ngenerated by 2^p - 1, where p is prime (NB: 2^p - 1 prime iff p prime), the \nprime numbers can be put into a 1 - 1 correspondence with the Mersenne \nprimes, so we can say there are equally as many Mersenne primes as there \nare primes.\ufeff", 
+            "author": "Daniel T"
+        }, 
+        {
+            "date": "2013-12-09T20:48:34.611Z", 
+            "text": "The Sack's spiral looks like a Death Star.\ufeff", 
+            "author": "The Colin Allpow Experience"
+        }, 
+        {
+            "date": "2013-12-08T21:58:46.898Z", 
+            "text": "its just more dense cuz those diagonals have only odd numbers where the \nadjacent numbers have only evens. i dont think what im seeing is the trend \nof prime numbers outlined in black, but rather, this is a trend of the even \nnumbers outlined in white (or a lack of black depending on your color of \npaper)\ufeff", 
+            "author": "jimmb06"
+        }, 
+        {
+            "date": "2013-12-08T03:52:54.722Z", 
+            "text": "Great vid! Have you ever considered visualizing spiral on hypercube?\ufeff", 
+            "author": "Tim Ka"
+        }, 
+        {
+            "date": "2013-12-05T05:30:31.978Z", 
+            "text": "It's the death star! \ufeff", 
+            "author": "Dreoil\u00edn O'Coigligh"
+        }, 
+        {
+            "date": "2013-12-03T00:21:39.985Z", 
+            "text": "Amazing !!\ufeff", 
+            "author": "kevin busuttil"
+        }, 
+        {
+            "date": "2013-11-30T21:50:49.044Z", 
+            "text": "Half the diagonals have only even numbers, so only the diagonals with odd \nnumbers have any prime numbers at all, with the exception of those that go \nthrough the number 2.\ufeff", 
+            "author": "Nillie"
+        }, 
+        {
+            "date": "2013-11-29T04:51:20.960Z", 
+            "text": "7:05 Looks like a basketball/Death Star.\ufeff", 
+            "author": "Bass Ryu"
+        }, 
+        {
+            "date": "2013-11-29T04:15:13.376Z", 
+            "text": "Hoo teh phuk |$ dat \nmuddahphu|<|<ah\ufeff", 
+            "author": "TheMetalBazooka"
+        }, 
+        {
+            "date": "2013-11-25T22:57:22.745Z", 
+            "text": "unrelated comment I play suduko but don't see numbers just the patterns not \nsaying that great but I can pull it off sometimes I could play it with ! \n@ # $ % ^ & *  instead of 123456789 because its just patterns I don't see \nthat math there \ufeff", 
+            "author": "JayEdom"
+        }, 
+        {
+            "date": "2013-12-06T22:31:23.841Z", 
+            "text": "Patterns are the core of mathematics. If you're seeing patterns, you're \ndefinitely seeing math! Math isn't the representation of patterns with \nArabic numerals--it's those patterns themselves :)", 
+            "author": "Thaao Hanshew"
+        }, 
+        {
+            "date": "2013-11-25T22:55:06.093Z", 
+            "text": "man im terrible at math itself I have only grade 10 advanced and failed \ngrade 11 general but I love numbers and patterns like sacred geometry and \nthe infinite infinitys id suppose its called black math not book math its \nlike using numbers without understanding most equations and somehow knowing \nhow it works when explained but never actually doing a math problem I just \nlove this channel and I get some of it but its great to learn black math lol\n \ufeff", 
+            "author": "JayEdom"
+        }, 
+        {
+            "date": "2013-11-25T15:01:22.665Z", 
+            "text": "The Sacks spiral looks a bit like a magnetic field.\ufeff", 
+            "author": "Gary Malarkey"
+        }, 
+        {
+            "date": "2013-11-19T22:06:35.264Z", 
+            "text": "may be I will try to plot a square spiral of a set of number with a certain \nproperty, which I guess would produce diagnose stripe as well. it is very \npossibly a way to doodle to fool human visual system.\ufeff", 
+            "author": "Jiaxin Kou"
+        }, 
+        {
+            "date": "2013-11-19T05:12:46.089Z", 
+            "text": "does anyone know if James Grime makes any of his lectures publicly \navailable online?\ufeff", 
+            "author": "yota war"
+        }, 
+        {
+            "date": "2013-11-18T18:11:01.395Z", 
+            "text": "THERE IS NOTHING RANDOM ABOUT PRIMES!! YOU SHOULD LOOK AT MY VIDEOS. THEY \nREPEAT CYCLES IN A UNIVERSAL HARMONIC.\ufeff", 
+            "author": "stuartDEgane"
+        }, 
+        {
+            "date": "2013-11-18T16:24:02.169Z", 
+            "text": "these lines seem strange. In a small square they hold primes but as you \nexpand the spiral , there won't be a prime indefinitely. Perhaps these \nlines aren't continous, break at certain points, then continue a bit \nfurther. A pattern of some sort?\ufeff", 
+            "author": "Alvin the Chipmunk"
+        }
+    ]
+}

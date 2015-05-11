@@ -1,0 +1,1423 @@
+{
+    "publish_date": "2011-03-14T08:03:02.000Z", 
+    "video_length": "PT5M17S", 
+    "captions": [
+        {
+            "text": "Let&#39;s say you&#39;re me, and\nyou&#39;re in math class.", 
+            "dur": "1.66", 
+            "start": "0.2"
+        }, 
+        {
+            "text": "And you&#39;re supposed to\nbe learning trigonometry,", 
+            "dur": "1.64", 
+            "start": "1.86"
+        }, 
+        {
+            "text": "but you&#39;re having\ntrouble paying attention", 
+            "dur": "1.25", 
+            "start": "3.5"
+        }, 
+        {
+            "text": "because it&#39;s boring and stupid.", 
+            "dur": "1.7", 
+            "start": "4.75"
+        }, 
+        {
+            "text": "This is not your fault.", 
+            "dur": "1.142", 
+            "start": "6.45"
+        }, 
+        {
+            "text": "It&#39;s not even your\nteacher&#39;s fault.", 
+            "dur": "1.458", 
+            "start": "7.592"
+        }, 
+        {
+            "text": "It&#39;s pi&#39;s fault,\nbecause pi is wrong.", 
+            "dur": "3.324", 
+            "start": "9.05"
+        }, 
+        {
+            "text": "I don&#39;t mean that\npi is incorrect.", 
+            "dur": "1.416", 
+            "start": "12.374"
+        }, 
+        {
+            "text": "The ratio of a circle&#39;s\ndiameter to its circumference", 
+            "dur": "2.208", 
+            "start": "13.79"
+        }, 
+        {
+            "text": "is still 3.14 and so on.", 
+            "dur": "1.602", 
+            "start": "15.998"
+        }, 
+        {
+            "text": "I mean that pi, as a concept,\nis a terrible mistake that", 
+            "dur": "3.44", 
+            "start": "17.6"
+        }, 
+        {
+            "text": "has gone uncorrected\nfor thousands of years.", 
+            "dur": "2.53", 
+            "start": "21.04"
+        }, 
+        {
+            "text": "The problem of pi and\nPi Day is the same", 
+            "dur": "1.98", 
+            "start": "23.57"
+        }, 
+        {
+            "text": "as the problem with\nColumbus and Columbus Day.", 
+            "dur": "2.284", 
+            "start": "25.55"
+        }, 
+        {
+            "text": "Sure, Christopher Columbus was a\nreal person who did some stuff.", 
+            "dur": "2.666", 
+            "start": "27.834"
+        }, 
+        {
+            "text": "But everything you learn\nabout him in school", 
+            "dur": "1.833", 
+            "start": "30.5"
+        }, 
+        {
+            "text": "is warped and overemphasized.", 
+            "dur": "1.947", 
+            "start": "32.333"
+        }, 
+        {
+            "text": "He didn&#39;t discover America.", 
+            "dur": "1.58", 
+            "start": "34.28"
+        }, 
+        {
+            "text": "He didn&#39;t discover\nthe world was round.", 
+            "dur": "1.69", 
+            "start": "35.86"
+        }, 
+        {
+            "text": "And he was a bit of a jerk.", 
+            "dur": "1.56", 
+            "start": "37.55"
+        }, 
+        {
+            "text": "So why do we celebrate\nColumbus Day?", 
+            "dur": "2.05", 
+            "start": "39.11"
+        }, 
+        {
+            "text": "Same with pi.", 
+            "dur": "0.685", 
+            "start": "41.16"
+        }, 
+        {
+            "text": "You learned in school that pi\nis the all-important circle", 
+            "dur": "2.375", 
+            "start": "41.845"
+        }, 
+        {
+            "text": "constant, and had to memorize\na whole bunch of equations", 
+            "dur": "2.333", 
+            "start": "44.22"
+        }, 
+        {
+            "text": "involving it because\nthat&#39;s the way it&#39;s", 
+            "dur": "1.967", 
+            "start": "46.553"
+        }, 
+        {
+            "text": "been taught for\na very long time.", 
+            "dur": "2.08", 
+            "start": "48.52"
+        }, 
+        {
+            "text": "If you found any of these\nequations confusing,", 
+            "dur": "2.25", 
+            "start": "50.6"
+        }, 
+        {
+            "text": "it&#39;s not your fault.", 
+            "dur": "1.26", 
+            "start": "52.85"
+        }, 
+        {
+            "text": "It&#39;s just that pi is wrong.", 
+            "dur": "1.55", 
+            "start": "54.11"
+        }, 
+        {
+            "text": "Let me show you what I mean.", 
+            "dur": "1.39", 
+            "start": "55.66"
+        }, 
+        {
+            "text": "Radians.", 
+            "dur": "0.637", 
+            "start": "57.05"
+        }, 
+        {
+            "text": "Good system for measuring angles\nwhen it comes to mathematics.", 
+            "dur": "2.583", 
+            "start": "57.687"
+        }, 
+        {
+            "text": "It should make sense.", 
+            "dur": "1.04", 
+            "start": "60.27"
+        }, 
+        {
+            "text": "But it doesn&#39;t, because\npi messes it up.", 
+            "dur": "2.52", 
+            "start": "61.31"
+        }, 
+        {
+            "text": "For example, how\nmuch pie is this?", 
+            "dur": "2.25", 
+            "start": "63.83"
+        }, 
+        {
+            "text": "You might think this\nshould be one pie.", 
+            "dur": "2.54", 
+            "start": "66.08"
+        }, 
+        {
+            "text": "But it&#39;s not.", 
+            "dur": "1.09", 
+            "start": "68.62"
+        }, 
+        {
+            "text": "The full 360 degrees\nof pi is actually 2 pi.", 
+            "dur": "3.99", 
+            "start": "69.71"
+        }, 
+        {
+            "text": "What?", 
+            "dur": "0.67", 
+            "start": "73.7"
+        }, 
+        {
+            "text": "Say I ask you how much pie you\nwant, and you say pi over 8.", 
+            "dur": "2.88", 
+            "start": "74.37"
+        }, 
+        {
+            "text": "You&#39;d think this should\nbe an eighth of a pie.", 
+            "dur": "1.93", 
+            "start": "77.25"
+        }, 
+        {
+            "text": "But it&#39;s not.", 
+            "dur": "0.8", 
+            "start": "79.18"
+        }, 
+        {
+            "text": "It&#39;s a sixteenth of a pie.", 
+            "dur": "1.43", 
+            "start": "79.98"
+        }, 
+        {
+            "text": "That&#39;s confusing.", 
+            "dur": "1.88", 
+            "start": "81.41"
+        }, 
+        {
+            "text": "You may thinking, come on, Vi!", 
+            "dur": "1.759", 
+            "start": "83.29"
+        }, 
+        {
+            "text": "It&#39;s a simple conversion.", 
+            "dur": "1.041", 
+            "start": "85.049"
+        }, 
+        {
+            "text": "All you have to\ndo is divide by 2.", 
+            "dur": "1.94", 
+            "start": "86.09"
+        }, 
+        {
+            "text": "Or multiply by 2, if\nyou&#39;re going the other way.", 
+            "dur": "2.13", 
+            "start": "88.03"
+        }, 
+        {
+            "text": "So you just have to make sure\nyou pay attention to which way", 
+            "dur": "3.11", 
+            "start": "90.16"
+        }, 
+        {
+            "text": "you&#39;re--", 
+            "dur": "0.611", 
+            "start": "93.27"
+        }, 
+        {
+            "text": "No.", 
+            "dur": "0.499", 
+            "start": "93.881"
+        }, 
+        {
+            "text": "You&#39;re making excuses for pi.", 
+            "dur": "1.77", 
+            "start": "94.38"
+        }, 
+        {
+            "text": "Mathematics should be as elegant\nand beautiful as possible.", 
+            "dur": "3.134", 
+            "start": "96.15"
+        }, 
+        {
+            "text": "When you complicate\nsomething that", 
+            "dur": "1.416", 
+            "start": "99.284"
+        }, 
+        {
+            "text": "should be as simple as one pi\nequals one pi by adding all", 
+            "dur": "4.19", 
+            "start": "100.7"
+        }, 
+        {
+            "text": "these conversions, something\ngets lost in translation.", 
+            "dur": "3.78", 
+            "start": "104.89"
+        }, 
+        {
+            "text": "But Vi, you ask.", 
+            "dur": "1.42", 
+            "start": "108.67"
+        }, 
+        {
+            "text": "Is there a better way?", 
+            "dur": "1.394", 
+            "start": "110.09"
+        }, 
+        {
+            "text": "Well, for this\nparticular example,", 
+            "dur": "1.416", 
+            "start": "111.484"
+        }, 
+        {
+            "text": "there&#39;s an easy\nanswer for what you&#39;d", 
+            "dur": "1.541", 
+            "start": "112.9"
+        }, 
+        {
+            "text": "have to do to make a pie\nbe 1 pi instead of 2 pi.", 
+            "dur": "2.779", 
+            "start": "114.441"
+        }, 
+        {
+            "text": "You could redefine pi\nto be 2 pi or 6.28.", 
+            "dur": "3.99", 
+            "start": "117.22"
+        }, 
+        {
+            "text": "And so on.", 
+            "dur": "0.86", 
+            "start": "121.21"
+        }, 
+        {
+            "text": "But I don&#39;t want to\nredefine pi because that", 
+            "dur": "2.489", 
+            "start": "122.07"
+        }, 
+        {
+            "text": "would be confusing.", 
+            "dur": "0.791", 
+            "start": "124.559"
+        }, 
+        {
+            "text": "So let&#39;s use a different letter.", 
+            "dur": "1.23", 
+            "start": "125.35"
+        }, 
+        {
+            "text": "Tau.", 
+            "dur": "0.5", 
+            "start": "126.58"
+        }, 
+        {
+            "text": "Because tau looks\nkind of like pi.", 
+            "dur": "2.35", 
+            "start": "127.08"
+        }, 
+        {
+            "text": "A full circle would be 1 tau.", 
+            "dur": "1.43", 
+            "start": "129.43"
+        }, 
+        {
+            "text": "A half circle would be\nhalf tau, or tau over 2.", 
+            "dur": "2.93", 
+            "start": "130.86"
+        }, 
+        {
+            "text": "And if you want 1/16 of this\npie, you want tau over 16.", 
+            "dur": "5.05", 
+            "start": "133.79"
+        }, 
+        {
+            "text": "That would be simple.", 
+            "dur": "1.89", 
+            "start": "138.84"
+        }, 
+        {
+            "text": "But Vi, you say, that\nseems rather arbitrary.", 
+            "dur": "2.64", 
+            "start": "140.73"
+        }, 
+        {
+            "text": "Sure, tau makes\nradians easier, but it", 
+            "dur": "1.809", 
+            "start": "143.37"
+        }, 
+        {
+            "text": "would be annoying to have to\nconvert between tau and pi", 
+            "dur": "2.291", 
+            "start": "145.179"
+        }, 
+        {
+            "text": "every time you want\nto work in radians.", 
+            "dur": "2.28", 
+            "start": "147.47"
+        }, 
+        {
+            "text": "True.", 
+            "dur": "1.04", 
+            "start": "149.75"
+        }, 
+        {
+            "text": "But the way of mathematics\nis to make stuff", 
+            "dur": "1.23", 
+            "start": "150.79"
+        }, 
+        {
+            "text": "up and see what happens.", 
+            "dur": "0.999", 
+            "start": "152.02"
+        }, 
+        {
+            "text": "So let&#39;s see what happens if\nwe use tau in other equations.", 
+            "dur": "2.631", 
+            "start": "153.019"
+        }, 
+        {
+            "text": "Math classes make you\nmemorize stuff like this,", 
+            "dur": "2.7", 
+            "start": "155.65"
+        }, 
+        {
+            "text": "so that you can draw\ngraphs like this.", 
+            "dur": "2.38", 
+            "start": "158.35"
+        }, 
+        {
+            "text": "I mean, sure you could derive\nthese values every time.", 
+            "dur": "2.4", 
+            "start": "160.73"
+        }, 
+        {
+            "text": "But you don&#39;t, because it&#39;s\neasier to just memorize it.", 
+            "dur": "2.38", 
+            "start": "163.13"
+        }, 
+        {
+            "text": "Or use your calculator, because\npi and radians are confusing.", 
+            "dur": "4.11", 
+            "start": "165.51"
+        }, 
+        {
+            "text": "This appalling notation\nmakes us forget", 
+            "dur": "1.92", 
+            "start": "169.62"
+        }, 
+        {
+            "text": "what the sine wave\nactually represents,", 
+            "dur": "2.117", 
+            "start": "171.54"
+        }, 
+        {
+            "text": "which is how high this point\nis when you&#39;ve gone however", 
+            "dur": "2.333", 
+            "start": "173.657"
+        }, 
+        {
+            "text": "far around this unit circle.", 
+            "dur": "1.89", 
+            "start": "175.99"
+        }, 
+        {
+            "text": "When your radians are\nnotated horrifically,", 
+            "dur": "2.01", 
+            "start": "177.88"
+        }, 
+        {
+            "text": "all of trigonometry\nbecomes ugly.", 
+            "dur": "2.74", 
+            "start": "179.89"
+        }, 
+        {
+            "text": "But it doesn&#39;t have\nto be this way.", 
+            "dur": "2.23", 
+            "start": "182.63"
+        }, 
+        {
+            "text": "What if we used tau?", 
+            "dur": "1.49", 
+            "start": "184.86"
+        }, 
+        {
+            "text": "Let&#39;s make a sine wave\nstarting with tau at 0.", 
+            "dur": "3.11", 
+            "start": "186.35"
+        }, 
+        {
+            "text": "The height of sine\ntau is also 0.", 
+            "dur": "2.17", 
+            "start": "189.46"
+        }, 
+        {
+            "text": "At tau over 4, we&#39;ve\ngone a quarter of the way", 
+            "dur": "2.12", 
+            "start": "191.63"
+        }, 
+        {
+            "text": "around the circle.", 
+            "dur": "0.75", 
+            "start": "193.75"
+        }, 
+        {
+            "text": "The height, or y\nvalue of this point,", 
+            "dur": "2.18", 
+            "start": "194.5"
+        }, 
+        {
+            "text": "is so obviously 1\nwhen you don&#39;t have", 
+            "dur": "2.29", 
+            "start": "196.68"
+        }, 
+        {
+            "text": "to do the extra step of the\nin-your-head conversion of pi", 
+            "dur": "2.78", 
+            "start": "198.97"
+        }, 
+        {
+            "text": "over 2 is actually a\nquarter of a circle.", 
+            "dur": "2.42", 
+            "start": "201.75"
+        }, 
+        {
+            "text": "Tau over 2, half a\ncircle around, back at 0.", 
+            "dur": "3.52", 
+            "start": "204.17"
+        }, 
+        {
+            "text": "3/4 tau, 3/4 of the\nway around, negative 1.", 
+            "dur": "2.665", 
+            "start": "207.69"
+        }, 
+        {
+            "text": "A full turn brings us all\nthe way back to 0 and bam.", 
+            "dur": "3.525", 
+            "start": "210.355"
+        }, 
+        {
+            "text": "That just makes sense.", 
+            "dur": "1.56", 
+            "start": "213.88"
+        }, 
+        {
+            "text": "Why?", 
+            "dur": "0.64", 
+            "start": "215.44"
+        }, 
+        {
+            "text": "Because we don&#39;t make\ncircles using a diameter.", 
+            "dur": "2.33", 
+            "start": "216.08"
+        }, 
+        {
+            "text": "We make circles using a radius.", 
+            "dur": "2.03", 
+            "start": "218.41"
+        }, 
+        {
+            "text": "The length of the radius\nis the fundamental thing", 
+            "dur": "2.45", 
+            "start": "220.44"
+        }, 
+        {
+            "text": "that determines the\ncircumference of a circle.", 
+            "dur": "2.71", 
+            "start": "222.89"
+        }, 
+        {
+            "text": "So why would we\ndefine this circle", 
+            "dur": "1.93", 
+            "start": "225.6"
+        }, 
+        {
+            "text": "constant as a ratio of the\ndiameter to the circumference?", 
+            "dur": "3.06", 
+            "start": "227.53"
+        }, 
+        {
+            "text": "Defining it by the ratio of\nthe radius to the circumference", 
+            "dur": "3.36", 
+            "start": "230.59"
+        }, 
+        {
+            "text": "makes much more sense.", 
+            "dur": "1.32", 
+            "start": "233.95"
+        }, 
+        {
+            "text": "And that&#39;s how you\nget our lovely tau.", 
+            "dur": "2.087", 
+            "start": "235.27"
+        }, 
+        {
+            "text": "There&#39;s a boatload of important\nequations and identities", 
+            "dur": "2.333", 
+            "start": "237.357"
+        }, 
+        {
+            "text": "where 2 pi shows up,\nwhich could and should", 
+            "dur": "2.16", 
+            "start": "239.69"
+        }, 
+        {
+            "text": "be simplified to tau.", 
+            "dur": "1.48", 
+            "start": "241.85"
+        }, 
+        {
+            "text": "But Vi, you say, what\nabout e to the i pi?", 
+            "dur": "2.87", 
+            "start": "243.33"
+        }, 
+        {
+            "text": "Are you really suggesting\nwe ruin it by making it e", 
+            "dur": "2.91", 
+            "start": "246.2"
+        }, 
+        {
+            "text": "to the i tau over 2\nequals negative 1?", 
+            "dur": "3.22", 
+            "start": "249.11"
+        }, 
+        {
+            "text": "To which I respond,\nwho do you think I am?", 
+            "dur": "1.83", 
+            "start": "252.33"
+        }, 
+        {
+            "text": "I would never suggest\ndoing something so ghastly", 
+            "dur": "2.66", 
+            "start": "254.16"
+        }, 
+        {
+            "text": "is killing Euler&#39;s identity.", 
+            "dur": "1.723", 
+            "start": "256.82"
+        }, 
+        {
+            "text": "Which, by the way, comes\nfrom Euler&#39;s formula,", 
+            "dur": "1.916", 
+            "start": "258.543"
+        }, 
+        {
+            "text": "which is e to the i theta equals\ncosine theta plus i sine theta.", 
+            "dur": "4.371", 
+            "start": "260.459"
+        }, 
+        {
+            "text": "Let replace theta with tau.", 
+            "dur": "2.34", 
+            "start": "264.83"
+        }, 
+        {
+            "text": "It&#39;s easy to remember\nthat the sine, or y value,", 
+            "dur": "2.91", 
+            "start": "267.17"
+        }, 
+        {
+            "text": "of a full tau turn of\na unit circle is 0.", 
+            "dur": "2.62", 
+            "start": "270.08"
+        }, 
+        {
+            "text": "So this is all 0.", 
+            "dur": "1.9", 
+            "start": "272.7"
+        }, 
+        {
+            "text": "Cosine of a full turn is\nthe x value, which is 1.", 
+            "dur": "3.26", 
+            "start": "274.6"
+        }, 
+        {
+            "text": "So check this out.", 
+            "dur": "1.12", 
+            "start": "277.86"
+        }, 
+        {
+            "text": "E to the i tau equals 1.", 
+            "dur": "2.44", 
+            "start": "278.98"
+        }, 
+        {
+            "text": "What now?", 
+            "dur": "1.584", 
+            "start": "281.42"
+        }, 
+        {
+            "text": "If you&#39;re still\nnot convinced, I&#39;d", 
+            "dur": "1.416", 
+            "start": "283.004"
+        }, 
+        {
+            "text": "recommend reading The Tau\nManifesto by Michael Hartl, who", 
+            "dur": "2.47", 
+            "start": "284.42"
+        }, 
+        {
+            "text": "does a pretty thorough\njob addressing", 
+            "dur": "1.82", 
+            "start": "286.89"
+        }, 
+        {
+            "text": "every possible\ncomplaint at tauday.com.", 
+            "dur": "2.13", 
+            "start": "288.71"
+        }, 
+        {
+            "text": "If you still want to\ncelebrate Pi Day, that&#39;s fine.", 
+            "dur": "3.04", 
+            "start": "290.84"
+        }, 
+        {
+            "text": "You can have your\npie and eat it.", 
+            "dur": "2.23", 
+            "start": "293.88"
+        }, 
+        {
+            "text": "But I hope you&#39;ll all\njoin me on June 28,", 
+            "dur": "2.37", 
+            "start": "296.11"
+        }, 
+        {
+            "text": "because I&#39;ll be making\ntau and eating two.", 
+            "dur": "2.91", 
+            "start": "298.48"
+        }, 
+        {
+            "text": "I&#39;ve got pie here, and\nI&#39;ve got pie there.", 
+            "dur": "2.55", 
+            "start": "311.97"
+        }, 
+        {
+            "text": "I&#39;m pie winning.", 
+            "dur": "2.01", 
+            "start": "314.52"
+        }
+    ], 
+    "title": "Pi Is (still) Wrong.", 
+    "video_defintion": "sd", 
+    "topics": [
+        "/m/05wjw", 
+        "/m/04rjg"
+    ], 
+    "number_views": 1929089, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-08T02:03:56.691Z", 
+            "text": "why not learn both and use both. equations that have 2pi (2*pi*r) use tau \nif u need. equations with only pi (pi*r^2) use pi. i guess the only problem \nis when learning radians. \n\na oh a cool thing\ntau is defined in terms of pi (tau = 2pi not pi = tau/2) \ni know im gonna get rants bout this but still kinda interesting how a \nfundamental is being questioned\ufeff", 
+            "author": "Rasesh S"
+        }, 
+        {
+            "date": "2015-05-05T15:12:13.000Z", 
+            "text": "Hmmmm I don't know. \"Pie\" followed the theme of Pi..I like pie, and using \nPi reminds me of pie.. I'm not sure I want to convert to using Tau - it has \nno yummy foods that are similar to its name, other than a dish apparently \ncalled \"Yong Tau Foo,\" and that doesn't resemble it at all..which in all \nhonesty doesn't seem or sound as pleasant as the word \"pie.\" \n\n\nAt least pie looks like Pi and there are many different kinds of pie. apple \npie, pumpkin pie, blueberry pie, aloo pie, meat pie, bacon and egg pie, \nbanana cream pie, bean pie, banoffee pie, blackberry pie, buko pie, butter \npie, cantaloupe pie, cheese pie, chicken and mushroom pie, Chinese pie, \ncorned beef pie, Cumberland pie, curry pie, derby pie, fish pie, flapper \npie, homity pie, key lime pie, killie pie, lemon ice box pie, lemon \nmeringue pie, mince pie, mississippi mud pie, natchitoches meat pie, \nneapolitan pie, peach pie, pear pie, pot pie, weed pie, raisin pie, \nraspberry pie, razzleberry pie, red velvet cheesecake pie, rhubarb pie, \nsaskatoonberry pie, scotch pie, shaker lemon pie, shepherds pie, shoofly \npie, spinach pie, stargazy pie, steak pie, strawberry pie, strawberry \nrhubarb pie, st. stephens day pie, sweet potato pie, greek cheese pie, AND \nwoolton pie! That is not including the tarts and flans, might I add!\n\n\n\nWHAT KIND OF FOODS CAN TAU COME UP WITH, HMMM?\n\n\n(I scraped those off the Wiki with some nice JavaScript magic :p)\ufeff", 
+            "author": "Mike7"
+        }, 
+        {
+            "date": "2015-05-05T02:16:28.768Z", 
+            "text": "e^itau = 1 is indeed a good equation but\ne^ipi + 1 = 0 is a better equation\ne and pi are special transcendental numbers\ni is for imaginary\n1 and 0 are the special identity\nthough you can make e^itau = 1 + 0 ---> best equation\noh well...\nStill half of the letter pi looks like tau and its confusing since 2pi  = \ntau XD :-p <----this is a joke IYKWIM\ufeff", 
+            "author": "markus kulitin"
+        }, 
+        {
+            "date": "2015-05-03T14:15:35.386Z", 
+            "text": "But pi day is during the spring semester where tau day is in the summer, \nwhich makes it difficult for the department and the student orgs to put \nanything on. ;p\ufeff", 
+            "author": "Brittany Shepherd"
+        }, 
+        {
+            "date": "2015-05-02T04:49:53.933Z", 
+            "text": "I prefer tau over pi because tau day is a week after my birthday, and \nhaving 2 pies a week after my birthday is worth it.\ufeff", 
+            "author": "Sam Garcia"
+        }, 
+        {
+            "date": "2015-05-01T22:55:37.228Z", 
+            "text": "Adorable!!! :D\ufeff", 
+            "author": "Hussein Khalife"
+        }, 
+        {
+            "date": "2015-04-30T03:46:11.587Z", 
+            "text": "1:59       6.28  = tau\ufeff", 
+            "author": "Kobe Davis"
+        }, 
+        {
+            "date": "2015-04-30T01:46:49.737Z", 
+            "text": "actually , physically speaking , we represent circles by their diameter not \ntheir radius , to measure the radius you need the center , and anything in \nthe shape of a circle ( i'm not talking about circle on paper , but circle \nthat exist in real life ) don't have their center drawn for you to use them \nto estimate the radius ..\nto find the radius you'll actually try to find the diameter and then divide \nit by 2 \nto be fair i don't care if i use TAU or PI as long as it can get the work \ndone , but for some nostalgic reason i would totally pick PI over TAU :p\ufeff", 
+            "author": "neyliolol"
+        }, 
+        {
+            "date": "2015-04-25T13:10:19.417Z", 
+            "text": "I absolutely agree that maths should be as simple as possible, and have \nfully embraced Tau over Pi. But can anyone explain why the Gamma function \ngives Gamma(n) = (n-1)! ? There's no reason why we couldn't have defined \nGamma(n) = n!, we'd just take the n-1 out of the definition. But we don't, \nand I've never seen a good reason for it.\ufeff", 
+            "author": "spaceLem"
+        }, 
+        {
+            "date": "2015-05-02T15:06:56.809Z", 
+            "text": "+Tyg13 Thanks! That actually makes sense!", 
+            "author": "spaceLem"
+        }, 
+        {
+            "date": "2015-05-01T16:43:00.103Z", 
+            "text": "+spaceLem Because unfortunately integral(t^(n)e^(-t)dt) from 0 to infinity \ndoes not converge around 0 due to the domain of f(x) when we replace n by \nf(x) to obtain the real-valued gamma function. We have to shift the \nargument by 1 so as to make the integral converge, this is due to the \np-test. Source: http://www.sosmath.com calculus/improper/gamma/gamma.html", 
+            "author": "Tyg13"
+        }, 
+        {
+            "date": "2015-04-24T14:41:25.837Z", 
+            "text": "cant eat PIE on tau day though....\ufeff", 
+            "author": "pontusieg"
+        }, 
+        {
+            "date": "2015-04-21T17:11:27.772Z", 
+            "text": "Youre Trolled LOLOLOLOLOLOLOLOLOLOLOLOLOLOLOL\ufeff", 
+            "author": "The Minecraft Troller"
+        }, 
+        {
+            "date": "2015-04-21T13:30:26.346Z", 
+            "text": "You should look into the Venus project\ufeff", 
+            "author": "Michael Terry"
+        }, 
+        {
+            "date": "2015-04-21T12:23:16.908Z", 
+            "text": "you bake good.\ufeff", 
+            "author": "Juuzou Suzuya"
+        }, 
+        {
+            "date": "2015-04-21T05:58:23.129Z", 
+            "text": "It's funny because the symbol for tau is 1/2 of pi but it is actually \ndouble pi in numerical value.\ufeff", 
+            "author": "Clark Foster"
+        }, 
+        {
+            "date": "2015-04-20T09:25:43.706Z", 
+            "text": "This is REALLY sad.\nAll of this rant is based on the argument that the confusion to learn math \nis because in English PI is pronounced as PIE.\nAnother English-centric rant.\nDear English-speaking people...... STOP reading foreign words as if they're \nEnglish and START reading as they are.\nHomework: as an example learn how the following words are REALLY pronounced \nin their native language:\nZEUS\nPI\nEUREKA\netc.....\ufeff", 
+            "author": "Claudio Santi\u00e0"
+        }, 
+        {
+            "date": "2015-04-07T19:31:41.682Z", 
+            "text": "Phi. That's all I have to say.\ufeff", 
+            "author": "D.J. Elyctroshock"
+        }, 
+        {
+            "date": "2015-04-04T06:32:34.901Z", 
+            "text": "Omg, you are awesome! For the \u03c4!!! \ufeff", 
+            "author": "Uyhn26"
+        }, 
+        {
+            "date": "2015-04-02T22:23:16.423Z", 
+            "text": "I guess there is only one way.\nWe should kill PI! \nNa, just kidding. BTW, think about this. If we program a computer to \ncalculate PI and the multiplied by two we should get the answer at half \ntime, dont? Jejeje, just kiding again, but know seriously, Who is \ncalculating Tau?, It also infinite? Could we calculate the value of 4/T \nsooner? Wait, what is infinite?\nWhoa, once again, my brain melt every time I visit you. Thanks to get \nspanish subtitles for this video. I'm hungry of more Tau so let me know if \nfinally we go to war against pi.\nSaludos!\ufeff", 
+            "author": "Alfonso Generoso (SrGeneroso)"
+        }, 
+        {
+            "date": "2015-04-02T18:55:24.963Z", 
+            "text": "There is a reason why we define a circle by its diameter and not its radius \nand it has to do with real world practicality. Let's say you want to know \nhow thick a wire on the bridge is, how do you measure it? It does make it \neasier mathematically to measure the radius but it's MUCH more tedious to \ntry and measure the radius directly. For one, it's much harder to define a \npoint of reference (which for radius is the centre). It's way easier to \nmeasure the diameter of the wire with a simple vernier caliper and divide \nit by 2 to get your radius. Just an engineer's perspective. \ufeff", 
+            "author": "Hset Min Htet"
+        }, 
+        {
+            "date": "2015-03-29T18:38:16.515Z", 
+            "text": "In real life, you can't measure a circle's radius b/c you dont know for \nsure where the center point is. But you can measure the diameter.\ufeff", 
+            "author": "Anish shenoy"
+        }, 
+        {
+            "date": "2015-03-29T14:35:38.246Z", 
+            "text": "love her\ufeff", 
+            "author": "Martin Shores"
+        }, 
+        {
+            "date": "2015-03-28T22:39:59.393Z", 
+            "text": "So many people think that just because something is new and different it is \nalso necessarily better\ufeff", 
+            "author": "Connor C"
+        }, 
+        {
+            "date": "2015-03-28T20:35:23.020Z", 
+            "text": "what about area? then Pi makes more sense, Tau/2 is harder than 2(pi).\ufeff", 
+            "author": "Zach Thompson"
+        }, 
+        {
+            "date": "2015-03-28T19:24:05.761Z", 
+            "text": "Why Vi Why? Don't you like Pi? Clearly the apple pie, has an area of pi. \nAnd so when you ask for 1/8 of an apple pie, you get exactly 1/8 of pi. Nam \nnam...\ufeff", 
+            "author": "Joan Kohan"
+        }, 
+        {
+            "date": "2015-03-28T19:25:28.782Z", 
+            "text": "+Joan Kohan Of course I meant an apple pie with a radius of one", 
+            "author": "Joan Kohan"
+        }, 
+        {
+            "date": "2015-03-26T02:50:04.706Z", 
+            "text": "You made two pies cuz 2pi=tau lol tau makes so much more sense and I'm \nbeing confused w trig rn\ufeff", 
+            "author": "Josie Lynn"
+        }, 
+        {
+            "date": "2015-03-25T00:01:16.961Z", 
+            "text": "are you newfie? you said 'by' lol\ufeff", 
+            "author": "Bennett Cormier"
+        }, 
+        {
+            "date": "2015-03-24T06:02:21.352Z", 
+            "text": "Math makes my brain hurt\ufeff", 
+            "author": "Surge the Gamer Deer"
+        }, 
+        {
+            "date": "2015-03-24T02:26:01.854Z", 
+            "text": "Tau is also the name of the BRAIN POISON that football players get in their \nbrains from years of cranial abuse.\ufeff", 
+            "author": "BoomTheGuardian"
+        }, 
+        {
+            "date": "2015-03-23T01:37:16.409Z", 
+            "text": "Just do your conversions and use whatever you like! I like pi, because that \nis what I've learnt to use, just like I like to use a qwerty keyboard, even \nthough if you build a keyboard in a world void of history this might not be \nthe perfect layout, however we don't live in a world void of history ;-)\ufeff", 
+            "author": "Simon Als Nielsen"
+        }, 
+        {
+            "date": "2015-03-22T02:26:10.353Z", 
+            "text": "WHAT?! I still dont get it :I\ufeff", 
+            "author": "Trevor Games"
+        }, 
+        {
+            "date": "2015-03-21T22:17:01.396Z", 
+            "text": "I still don't understand why most people are calling for ONE OR THE \nOTHER!!! Why not both? They both seem useful in their own right, and in \ncertain situations, one shines brighter than the other. So why can't we \njust use the simplest and elegant looking one when we need it? After all if \nTau = 2 Pi , and if it IS that simple...why not both?\ufeff", 
+            "author": "Chicken_finger"
+        }, 
+        {
+            "date": "2015-03-21T16:49:10.218Z", 
+            "text": "When I want a quarter of a pie, I don't want to eat only edges, I also want \nto eat some of the filling, I want one quarter of the area of the pie, wich \none quarter of Pi.\ufeff", 
+            "author": "Aur\u00e9lien Emmanuel"
+        }, 
+        {
+            "date": "2015-03-21T02:43:34.897Z", 
+            "text": "When watching this I feel a sleep at 3:14...\ufeff", 
+            "author": "Azuki The Puppy AJ"
+        }, 
+        {
+            "date": "2015-03-19T00:12:10.583Z", 
+            "text": "I thought this video was very accurate in its depiction on Pi. I do like \nhow you made pies in your video to help get the point across in a more \nvisual and delicious way. I do believe that we have been using pi in the \nwrong format. Tau, as you mentioned, is a better representation of a full \ncircle rather than that of pi. If we use 2 pi to represent a circle why do \nwe even bother with pi? Tau, in my opinion would be a better representation \nof a circle and would make math more easier on people who struggle such as \ni do.\n\nHappy Tau Day.\nJake N\ufeff", 
+            "author": "jakenamisnak16"
+        }, 
+        {
+            "date": "2015-03-18T19:11:21.845Z", 
+            "text": "If I tell you to turn around, how far will you turn? pi, or tau?\nBefore the theory of integrals was fully developed and we were left with \nCavalieri, how did we deduce the volume formula for a ball, if not by \ncomparing half of it to other known objects?\nThe same is valid for the area of a (semi-)circle.\n\nI\u2019m just saying that a semicircle is as useful a concept as is a full \ncircle. The semicircle constant, however, is pi. tau and pi are both \nuseful, you just have to know what object you are dealing with.\ufeff", 
+            "author": "Vokietis2"
+        }, 
+        {
+            "date": "2015-03-18T19:12:22.003Z", 
+            "text": "Interestingly, I just found out that 360\u00b0F are approximately 180\u00b0C, so \nhere\u2019s your semi-circle!", 
+            "author": "Vokietis2"
+        }, 
+        {
+            "date": "2015-03-17T01:47:03.714Z", 
+            "text": "Got it all wrong\ufeff", 
+            "author": "John Myth"
+        }, 
+        {
+            "date": "2015-03-16T23:59:56.881Z", 
+            "text": "Dumb Asian.\ufeff", 
+            "author": "Josh Wise"
+        }, 
+        {
+            "date": "2015-03-16T15:16:37.180Z", 
+            "text": "Does this mean that you are doing a tau dau video in june?\ufeff", 
+            "author": "Yasha Unknown"
+        }, 
+        {
+            "date": "2015-03-16T15:14:35.197Z", 
+            "text": "pie winning .... hilarious\ufeff", 
+            "author": "Yasha Unknown"
+        }, 
+        {
+            "date": "2015-03-16T14:50:00.915Z", 
+            "text": "This is nonsense. Your offending the PI. Nobody offends pi. NOBODY.\ufeff", 
+            "author": "TheCometDog"
+        }, 
+        {
+            "date": "2015-05-08T16:42:48.889Z", 
+            "text": "+TheCometDog \"Life of Tau/2\"", 
+            "author": "Yikak4"
+        }, 
+        {
+            "date": "2015-03-16T08:43:55.357Z", 
+            "text": "Honestly, this would've made radians so much simpler and more efficient to \nlearn.  In mathematics, we are always trying to find the most efficient \nways to do things, so why not do our maths in the most efficient ways?\ufeff", 
+            "author": "arkine11"
+        }, 
+        {
+            "date": "2015-03-16T00:57:13.431Z", 
+            "text": "Tau is much easier to deal with in radians but Euler's idenity is acctualy\ne^pi*i + 1 = 0\nIncorperating all important idenities.\n\nWhile Tau in the same way would be...\ne^tau*i -1 = 0\n\nWait...\n\nIts better still with Tau\ufeff", 
+            "author": "Met John"
+        }, 
+        {
+            "date": "2015-03-15T21:07:56.322Z", 
+            "text": "Check out this video on YouTube:\ufeff", 
+            "author": "Muhilan Selvaa"
+        }, 
+        {
+            "date": "2015-03-15T20:24:43.683Z", 
+            "text": "What I find interesting, is that one of the oldest PI formulas actually \ncomputes PI/4\ufeff", 
+            "author": "Michael Bauers"
+        }, 
+        {
+            "date": "2015-03-15T19:47:07.299Z", 
+            "text": "Nope, math is not supposed to be \"elegant\", that's an artistic concept. \nMathematical formulae are supposed to be as concise and reductionist as \npossible. They should provide no context whatsoever to those who don't \nalready know how to derive (and pronouce) every single Greek symbol used \ntherein. Mathematics is all about proving propositions to be true or false, \nwhat they actually mean is irrelevant, i.e. philosophy.\ufeff", 
+            "author": "Lish Lash"
+        }, 
+        {
+            "date": "2015-03-15T15:55:34.743Z", 
+            "text": "My only argument against Tau is that the symbol is already used for torque. \n You can't do physics without both ideas, a circle constant as well as tau, \nespecially since torque inherently is going to get circles involved.\ufeff", 
+            "author": "Josh Daniels"
+        }, 
+        {
+            "date": "2015-03-15T11:24:55.210Z", 
+            "text": "Hahahaha\ufeff", 
+            "author": "Simon Cornelius P Umacob"
+        }, 
+        {
+            "date": "2015-03-15T09:05:17.632Z", 
+            "text": "", 
+            "author": "Shaelja Mishra"
+        }, 
+        {
+            "date": "2015-03-15T07:17:48.882Z", 
+            "text": "So, June 28th is Tau Day? Cool...\ufeff", 
+            "author": "DJMejorada"
+        }, 
+        {
+            "date": "2015-03-15T01:02:41.082Z", 
+            "text": "But Gaussian integrals are pretty!\ufeff", 
+            "author": "mach a"
+        }, 
+        {
+            "date": "2015-03-15T00:08:43.000Z", 
+            "text": "This is similar to the problem when people used to use atomic masses \ninstead of atomic numbers to classify the elements. Though even though Tau \nmakes more sense and is more elegant, I doubt people will ever bother \napplying it, since there is not any fundamental flaw in pi, unlike atomic \nmass.\ufeff", 
+            "author": "Zune Nebula"
+        }, 
+        {
+            "date": "2015-03-15T00:04:21.489Z", 
+            "text": "Pi Is (still) Wrong.: https://youtu.be/jG7vhMMXagQ\ufeff", 
+            "author": "Lejon Johnson"
+        }, 
+        {
+            "date": "2015-03-14T21:50:35.314Z", 
+            "text": "Happy super pi day Vi\ufeff", 
+            "author": "ilker yoldas"
+        }, 
+        {
+            "date": "2015-03-14T21:37:55.498Z", 
+            "text": "", 
+            "author": "Maren \u201cThe17thsailor\u201d Jones"
+        }, 
+        {
+            "date": "2015-03-14T18:47:59.279Z", 
+            "text": "What about finding the area of a circle? The formula is pi*r^2, would you \njust make it Tao/2*r^2 and make it more complicated than it is? Why?\ufeff", 
+            "author": "Bobert Johnson"
+        }, 
+        {
+            "date": "2015-05-08T16:41:30.935Z", 
+            "text": "+Bobert Johnson Fits in with physics pretty well though, as well as the \nequations of motion.\nkinetic energy = 1/2 m v^2\ndistance = 1/2 a t^2\nareas = 1/2 \u03c4 r^2", 
+            "author": "Yikak4"
+        }, 
+        {
+            "date": "2015-03-30T09:36:34.000Z", 
+            "text": "+AdasiekkkTrzeci It also makes sense because if you integrate ax, you get \na/2 * x^2, and integration is the simplest way to derive the formula for \nthe area of a circle. ( tau*r is the circumference of a circle )", 
+            "author": "Freefle"
+        }, 
+        {
+            "date": "2015-03-14T23:08:01.679Z", 
+            "text": "It works fine. When you work in radians, the area of a segment of the \ncircle is 1/2 * theta * r^2, where theta is the angle. Hence it makes a lot \nof sense.", 
+            "author": "AdasiekkkTrzeci"
+        }, 
+        {
+            "date": "2015-03-14T18:15:53.616Z", 
+            "text": "But pi has 2 tail things, so 2pi should have 4, not 1!\ufeff", 
+            "author": "12Me21"
+        }, 
+        {
+            "date": "2015-04-04T06:31:50.152Z", 
+            "text": "Haha, ^ exactly!", 
+            "author": "Uyhn26"
+        }, 
+        {
+            "date": "2015-03-15T12:53:32.000Z", 
+            "text": "What if the amount of tail things related to how far around a circle it \nwent?\n\nPi has 2 tail things, and you need 2pi radians to go around a circle.\n\nTau has 1 tail thing, and you need tau radians to go around a circle.", 
+            "author": "Chrnan6710"
+        }, 
+        {
+            "date": "2015-03-14T17:32:39.619Z", 
+            "text": "I see you're a tauist. How silly. Tau is simply pi2, yet pi shows up in a \nlot of places in the world. Pendulum swings and so forth.\ufeff", 
+            "author": "Neceros"
+        }, 
+        {
+            "date": "2015-03-14T15:24:37.332Z", 
+            "text": "Happy Pi Day!\ufeff", 
+            "author": "Chris Campbell"
+        }, 
+        {
+            "date": "2015-03-14T13:49:55.335Z", 
+            "text": "Pi is wrong.\nHappy half tau day,\ufeff", 
+            "author": "Justin Garcia"
+        }, 
+        {
+            "date": "2015-03-14T11:21:15.594Z", 
+            "text": "I have to disagree with you. You are visually using a 3-dimensional object, \nbut discussing a 1-dimensional one. \nWhen you say 1 pie should equal 1 pi, it does... A pie is a cylinder, and \nyou are assuming a unit circle here, so then we would assume similarly with \nour cylinder ( radius and height = 1). So volume of a cylinder (which is \nwhat you are measuring with a slice of pie) is pi*r^2*h, which in our \ncylinder is pi. So 1 pie=1 pi. \nEven if you are talking about a circle (2-dimensional), then a slice of \nthat circle deals with it's area. And area of a circle is pi*r^2, which in \na unit circle is pi. So one circle is pi. \nWhat you are discussing here, relating to trig, is circumference of a \ncircle, which is the measurement around the circle, in other words, the \nlength of your pie crust... not the pie itself. \nSo picture it like this, we measure our homes by square footage. This means \nif I have a square tile that is 1 ft wide by 1 ft long, it's area is 1 sq \nft. If I lay these throughout the house and count how many there are, this \nis the square footage of the home. However, if I then measure the \n(1-dimensional) perimeter of the same tile (distance around the tile), that \nis 1ft+1ft+1ft+1ft=4ft. So the distance around a square tile is 4 ft (not 1 \nft). Just like the distance around a circle is related to pi, but not equal \nto 1 pi.\nAnd I also have to say that your substitution of tau into Euler's formula \nremoves a large part of it's beauty for me. e^(i*pi)= -1 takes a positive \nnumber and raises it to a power (yes, it is a complex power) and gets a \nnegative number out of that. That's awesome, but your formula ends with a \npositive 1, which has slightly less umph for me.\ufeff", 
+            "author": "jenny salyer"
+        }, 
+        {
+            "date": "2015-03-14T09:11:17.431Z", 
+            "text": "And reminding the formula for circular area Pi*r\u00b2 would become much easier \nwith Tau/2*r\u00b2 , or (Tau*d\u00b2*)/8 for sure ....\nIgnoring the fact of resources wasting cause everybody have to buy a new \ncalculator, every pc and mathematical formula need to change ... Just for \nrename 2Pi to Tau .... Genius!\ufeff", 
+            "author": "EnthBeatz"
+        }, 
+        {
+            "date": "2015-03-14T08:42:15.422Z", 
+            "text": "Must watch, not only today. Thanks +Gabriel Pettier\u200b! \ufeff", 
+            "author": "Petr Vanek"
+        }, 
+        {
+            "date": "2015-03-14T08:41:28.765Z", 
+            "text": "Wow! ", 
+            "author": "Petr Vanek"
+        }, 
+        {
+            "date": "2015-03-14T08:28:44.543Z", 
+            "text": "well, in real practice Pi is just easier to be honest. Because radiants are \nimpossibly stupid to measure. You take a sliding rule, hold it against \nsomething round and multiply by Pi. Done. Same with every other calculation \nin the field. Taking the diameter is just so much more easy.\ufeff", 
+            "author": "Emriys"
+        }, 
+        {
+            "date": "2015-03-14T06:28:26.753Z", 
+            "text": "\"If you still want to celebrate #PiDay, that's fine. You can have your pi \nand eat it.\" - +Vi Hart on 3/14/11\n\nAlso, here's Vi's *Anti-Pi Rant* from 3/14/14: http://youtu.be/5iUh_CSjaSw\ufeff", 
+            "author": "Jake Duncan"
+        }, 
+        {
+            "date": "2015-03-14T04:56:53.615Z", 
+            "text": "By the way all you celebrators of \"Pi Day\" tomorrow: Pi is (still) Wrong.: \nhttps://youtu.be/jG7vhMMXagQ\ufeff", 
+            "author": "Jim Wiggins"
+        }, 
+        {
+            "date": "2015-03-14T04:55:33.257Z", 
+            "text": "the real question is who cares? all conventions and articles are written \nwith one convention, and changing everything to tau wouldn't make it SO \nmuch more intuitive and it would mess up the established convention... just \nmy opinion I'm not a mathematician (at least not yet ;) )\ufeff", 
+            "author": "Kapil K"
+        }, 
+        {
+            "date": "2015-03-14T20:36:40.359Z", 
+            "text": "+Kapil K The main argument in favour for Tau is that it tends to make \nthings more intuitive for people who are just starting to learn about \nangles and harmonic motion, since Tau represents a full value of something \n(one Tau for one revolution rather than 2 Pi, etc).\n\nHowever, I dislike how so many Tauists are like \"we despise Pi, burn it!\" \nwhen it is in fact mathematicians' own fault that Pi was used for so long.\nThey should blame themselves and leave Pi alone, it hasn't done anything \nwrong and even has a correct value.", 
+            "author": "Laurelindo"
+        }, 
+        {
+            "date": "2015-03-14T04:57:21.749Z", 
+            "text": "although I must say, if everything started with tau, life would be easier :)", 
+            "author": "Kapil K"
+        }, 
+        {
+            "date": "2015-03-13T23:49:06.750Z", 
+            "text": "", 
+            "author": "Vincent Roux"
+        }, 
+        {
+            "date": "2015-03-13T23:33:36.953Z", 
+            "text": "", 
+            "author": "Gabriel Pettier (Tshirtman)"
+        }, 
+        {
+            "date": "2015-03-13T11:11:49.359Z", 
+            "text": "1337\ufeff", 
+            "author": "Airin Cat lover"
+        }, 
+        {
+            "date": "2015-03-13T10:27:55.204Z", 
+            "text": "Why are we celebrating Pi Day when Tau day seems so much simpler? This \ngreat video from Vi Hart takes a look at Pi from another perspective...\n\n#PiDay   #PiDay2015   #mathematics   #maths   #math   #Tau  \ufeff", 
+            "author": "MyTutorWeb"
+        }, 
+        {
+            "date": "2015-03-13T18:16:56.532Z", 
+            "text": "This lady is an excellent math communicator.  Bravo you Vi.", 
+            "author": "Elizabeth bailey"
+        }, 
+        {
+            "date": "2015-03-12T22:21:18.560Z", 
+            "text": "Also did you only make one tau and half of a pi?\ufeff", 
+            "author": "Buddy Prairie"
+        }, 
+        {
+            "date": "2015-03-12T22:19:57.235Z", 
+            "text": "Of course Pie is wrong if you can't eat it!\ufeff", 
+            "author": "FoxTheNightGamer"
+        }, 
+        {
+            "date": "2015-03-12T22:15:42.552Z", 
+            "text": "SMART THINGS!!!!!!!!!!!!!!!!!!!\ufeff", 
+            "author": "Buddy Prairie"
+        }, 
+        {
+            "date": "2015-03-12T07:14:56.446Z", 
+            "text": "This is not a pi!!! OMG art history and math!  DEAD.\ufeff", 
+            "author": "Alyssa Daum"
+        }, 
+        {
+            "date": "2015-03-13T20:12:23.152Z", 
+            "text": "One of the many reasons I love Vi!", 
+            "author": "Ryan Tamburrino"
+        }, 
+        {
+            "date": "2015-03-11T22:45:34.260Z", 
+            "text": "this video makes me hungry\ufeff", 
+            "author": "karmicpunch"
+        }, 
+        {
+            "date": "2015-03-10T18:31:18.088Z", 
+            "text": "\"But, Vi,\" I say... \"why does tau (the letter) look like 1/2 of the letter \npi, when, in fact it should be two pi?  That's confusing!\"  :)\ufeff", 
+            "author": "Rebekah Rydholm"
+        }, 
+        {
+            "date": "2015-03-09T18:34:50.000Z", 
+            "text": "What a lair of riotous tau devotees... \nI'll fight you with all my strength, for a tau-less world!\nPi day will soon fall; this is going to be one of the strongest Pi days \never: it's 3/14/15, can you feel the overwhelming power?\n\nThat day Pi will defeat forever the morbid blight of tau.\nHonour to Pi!\ufeff", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-03-19T02:58:15.790Z", 
+            "text": "+Antonio Danelli yeah. and on June 28 at 3:18:53 in the morning or \nafternoon, It'd truly be Tau day. cuz it's 6/28 3:18:53\nTau is 6.28318530717958647692528676655900576839433875021164...", 
+            "author": "Baby Face's Backburner"
+        }, 
+        {
+            "date": "2015-03-18T20:45:48.504Z", 
+            "text": "+Enid Radaviq I support Enid's comment. If you read a little higher up \nyou'll see Enid telling me that at one point on pi day it was exactly pi :P", 
+            "author": "Antonio Danelli"
+        }, 
+        {
+            "date": "2015-03-18T20:02:40.171Z", 
+            "text": "+Baby Face's Backburner My point was not stopping at the year and so \ndistancing the rounding at seconds", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-03-18T19:53:57.689Z", 
+            "text": "+Enid Radaviq Hel-ooooooooo! Ever heard of ROUNDING?", 
+            "author": "Baby Face's Backburner"
+        }, 
+        {
+            "date": "2015-03-18T15:25:23.374Z", 
+            "text": "+Phil Hibbs But we are going (we've gone) beyond the first 4 numbers \ncontinuing in hours and minutes (3/14/15 9:26:53)", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-03-18T13:56:57.927Z", 
+            "text": "3/14/16 is closer to Pi than 3/4/15, if you're a big fan of Pi you should \nknow that!", 
+            "author": "Phil Hibbs"
+        }, 
+        {
+            "date": "2015-03-17T00:48:53.247Z", 
+            "text": "+Enid Radaviq Hmm, I did not consider that. Fair enough.", 
+            "author": "Antonio Danelli"
+        }, 
+        {
+            "date": "2015-03-14T11:48:06.882Z", 
+            "text": "+Gabriel Pettier ikr (being Italian I don't even use it), but it comes in \nhandy to do a nice date for pi day. But that pi day is more a convention, I \nadmit it. Although within that convention today is a peculiar pi day", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-03-14T11:40:15.156Z", 
+            "text": "Well, the mm/dd/yyyy system is wrong, too.", 
+            "author": "Gabriel Pettier (Tshirtman)"
+        }, 
+        {
+            "date": "2015-03-14T11:25:09.810Z", 
+            "text": "+Gabriel Pettier I see what you were trying to say (after the vision of Vi \nHart's new video), I thought you were saying the mm/dd system is wrong, not \nthat the true pi day should be less arbitrary and relative and more absolute", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-03-14T10:24:13.702Z", 
+            "text": "+Enid Radaviq\u200b it's nothing to do with having a day, it's about not having \na wrong day.", 
+            "author": "Gabriel Pettier (Tshirtman)"
+        }, 
+        {
+            "date": "2015-03-14T08:50:45.862Z", 
+            "text": "+Baby Face's Backburner reply to +Gabriel Pettier's point", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-03-14T09:14:26.000Z", 
+            "text": "+Gabriel Pettier  what's your point?", 
+            "author": "Baby Face's Backburner"
+        }, 
+        {
+            "date": "2015-03-14T07:32:08.311Z", 
+            "text": "+Gabriel Pettier Well, in the dd/mm system you can't have a tau day either; \nif that really proves that pi is wrong, so it proves tau is wrong too", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-03-14T00:13:38.762Z", 
+            "text": "+Gabriel Pettier and also, true pi day happened back in 1592", 
+            "author": "Baby Face's Backburner"
+        }, 
+        {
+            "date": "2015-03-13T23:35:34.273Z", 
+            "text": "To have pi day to work, you need to use a silly date system, that everybody \nknows to be wrong, you are only proving the point further, pi is wrong. :)", 
+            "author": "Gabriel Pettier (Tshirtman)"
+        }, 
+        {
+            "date": "2015-03-13T18:44:52.931Z", 
+            "text": "+Enid Radaviq Tau is love, Tau is life\nPi is rage, Pi is shit", 
+            "author": "Baby Face's Backburner"
+        }, 
+        {
+            "date": "2015-03-13T12:52:40.314Z", 
+            "text": "+Antonio Danelli You are wrong: bewteen 9:26:53 and 9:26:54 there will be a \nprecise instant where all the digits will line up exactly. It will last \njust an infinitesimal, but it will exist nevertheless", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-03-13T04:58:43.424Z", 
+            "text": "The date won't actually be pi. It will be some stupid rational number \nthat's \"close\" to pi (even though there are an infinite amount of numbers \nbetween the two).", 
+            "author": "Antonio Danelli"
+        }, 
+        {
+            "date": "2015-03-09T22:38:48.198Z", 
+            "text": "Nope", 
+            "author": "Baby Face's Backburner"
+        }, 
+        {
+            "date": "2015-03-07T23:03:00.399Z", 
+            "text": "1/8th of a pie is not Pi/16 it is 2Pi/8 which is Pi/4.\ufeff", 
+            "author": "Cameron Barbeau"
+        }, 
+        {
+            "date": "2015-03-07T09:23:53.981Z", 
+            "text": "Replacing Pi by Tau makes some things easier and some more complicated. \nTake the surface area of a circle. So instead of A = Pi x r^2 you get A= \nTau x r^2 / 4. \n\nThe Volume of a sphere would become V = Tau x r^3 / (2 x 3). \n\nBut in general it would make more things simpler than it would complicate \nothers.\ufeff", 
+            "author": "ab0032"
+        }, 
+        {
+            "date": "2015-03-07T07:03:18.543Z", 
+            "text": "Thank you for the video. It would make it so much easier to teach it.\ufeff", 
+            "author": "Rienneil"
+        }, 
+        {
+            "date": "2015-03-05T17:23:46.661Z", 
+            "text": "Its just a constant\ufeff", 
+            "author": "Alex Edingfield"
+        }, 
+        {
+            "date": "2015-03-05T07:15:05.200Z", 
+            "text": "This year's Pi day: 3.14.15\n:D it's extra special!\ufeff", 
+            "author": "Carolyne Runyi Geng"
+        }, 
+        {
+            "date": "2015-03-02T00:14:49.735Z", 
+            "text": "but I like pie\ufeff", 
+            "author": "Its All Gravy"
+        }, 
+        {
+            "date": "2015-02-27T06:09:24.747Z", 
+            "text": "Pi Is (still) Wrong.: http://youtu.be/jG7vhMMXagQ\ufeff", 
+            "author": "David D. Stanton"
+        }, 
+        {
+            "date": "2015-02-27T02:14:39.219Z", 
+            "text": "I liked this video, because I have never met anyone that has viewed pi in \nthis way before. I was always confused as to why a whole circle is 2 pi \ninstead of just one. This inspired me to view other symbols in a different \nway, and to question them as well. \ufeff", 
+            "author": "Emily Nguyen"
+        }, 
+        {
+            "date": "2015-02-24T17:14:41.175Z", 
+            "text": "1:45 Ren\u00e9 Magritte?\ufeff", 
+            "author": "Lorena Amnesiac"
+        }, 
+        {
+            "date": "2015-05-08T16:38:45.661Z", 
+            "text": "+Timothy Retter It's not a pipe. It's a painting of a pipe!", 
+            "author": "Yikak4"
+        }, 
+        {
+            "date": "2015-03-28T16:44:36.296Z", 
+            "text": "+Lorena Amnesiac To whoever doesn't know, This 'pipe' is not real - is the \noriginal translated text from a piece of art - specifically a picture of a \npipe with that sentence in french below it. I saw it in person in the \nMargaritte museum in Brussels - very cool place.", 
+            "author": "Timothy Retter"
+        }, 
+        {
+            "date": "2015-02-15T15:15:07.594Z", 
+            "text": "", 
+            "author": "Steve Simpson"
+        }, 
+        {
+            "date": "2015-02-15T18:49:20.528Z", 
+            "text": "Yeah!!!!!", 
+            "author": "Steve Thibault"
+        }, 
+        {
+            "date": "2015-02-14T11:46:08.421Z", 
+            "text": "Before this video I understood pi now you have jus confused me\ufeff", 
+            "author": "jelly 1307"
+        }, 
+        {
+            "date": "2015-02-13T19:07:29.898Z", 
+            "text": "This is very passive aggressive \ufeff", 
+            "author": "My Elfself"
+        }, 
+        {
+            "date": "2015-02-13T00:31:15.198Z", 
+            "text": "In the end they are just two different ways to describe a relationship.\ufeff", 
+            "author": "Adam Hall"
+        }, 
+        {
+            "date": "2015-02-13T00:10:59.400Z", 
+            "text": "I'm quite confused. But it's probably because I'm new to Trigonometry, in \nthe middle of Geometry. But I would it if someone could clarify what I just \nwatched.\ufeff", 
+            "author": "Vionilla Twilight"
+        }, 
+        {
+            "date": "2015-02-11T20:26:20.285Z", 
+            "text": "Trolls here. The one place on youtube you'd think they wouldn't be there. \n:l\ufeff", 
+            "author": "TheArnoldification"
+        }, 
+        {
+            "date": "2015-02-11T06:44:18.890Z", 
+            "text": "MAKE MATH SIMPLE, MAKE MATH SIMPLE! Who's with me? \ufeff", 
+            "author": "Alexandru Moise"
+        }, 
+        {
+            "date": "2015-02-08T21:56:31.249Z", 
+            "text": "as a student pi is not confusing at all we have to learn things all of the \ntime that are just told to us get over it, once you understand that pi is \nhalf a circle then you have your understanding also pi works better for \nrelated angles when solving rather than tau which would have different \nfactors\ufeff", 
+            "author": "Liam Coleman"
+        }, 
+        {
+            "date": "2015-02-08T10:26:10.802Z", 
+            "text": "love you Vi!\ufeff", 
+            "author": "theinfinatewisdom"
+        }, 
+        {
+            "date": "2015-02-07T04:59:34.809Z", 
+            "text": "Yes! Finally someone agrees!\ufeff", 
+            "author": "Mr Quasar"
+        }, 
+        {
+            "date": "2015-02-03T22:46:30.200Z", 
+            "text": "I am totally pro-tau, especially after this video. I was having a \ndiscussion with my friend about this, and she agrees. It just makes no \nsense to have a circle be two pi. One pie should equal one pi. Pi should've \nbeen equal to roughly 6.28 all along, but it's not. And that makes pi day \nconfusing (Do I eat one pie or one pi?). Tau is much neater than two pi, \nespecially since that quantity pops up all over the world of math and \nscience. My high school physics class just started circular motion and \ngravity, and there are several equations where two pi pops up. Every time I \nsee it, I grimace and change it to tau on my paper. Not only this, but when \nstudents are learning trigonometry, it would just be easier to have one \ncircle = one tau instead of two pi. I've heard my fellow students complain \nabout how ridiculous that is. You're right, Vi; math needs to be as elegant \nas possible, and the fact that we use the ratio of circumference to \ndiameter instead of radius is just plain ridiculous. The only problem I can \nsee with tau is that, at least in my physics textbook, it can be used to \nrepresent torque. Now I just have one question: on tau day, should I eat \none pi(e), or two?\ufeff", 
+            "author": "Abbey Brooke"
+        }, 
+        {
+            "date": "2015-02-01T00:13:00.465Z", 
+            "text": "im hungry now\ufeff", 
+            "author": "McGregory"
+        }, 
+        {
+            "date": "2015-01-31T21:28:33.036Z", 
+            "text": "Tau makes a lot more sense to me. Learning and memorizing Radians with pi \nwas difficult for me during trig.\ufeff", 
+            "author": "Connor Greene"
+        }
+    ]
+}

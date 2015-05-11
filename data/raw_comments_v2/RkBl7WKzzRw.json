@@ -1,0 +1,1654 @@
+{
+    "publish_date": "2012-10-12T10:41:24.000Z", 
+    "video_length": "PT6M44S", 
+    "captions": [
+        {
+            "text": "A proof has been announced of a\nunsolved, so far, conjecture", 
+            "dur": "4.96", 
+            "start": "0.36"
+        }, 
+        {
+            "text": "called the abc Conjecture.", 
+            "dur": "2.4", 
+            "start": "5.32"
+        }, 
+        {
+            "text": "If this proof is right, then\nit&#39;s going to be news on the", 
+            "dur": "3.86", 
+            "start": "7.72"
+        }, 
+        {
+            "text": "scale of Fermat&#39;s last theorem\nwas in the &#39;90s, which was", 
+            "dur": "3.88", 
+            "start": "11.58"
+        }, 
+        {
+            "text": "this big unsolved problem.", 
+            "dur": "1.64", 
+            "start": "15.46"
+        }, 
+        {
+            "text": "And was this huge event.", 
+            "dur": "1.4", 
+            "start": "17.1"
+        }, 
+        {
+            "text": "So it&#39;s really exciting.", 
+            "dur": "2.07", 
+            "start": "18.5"
+        }, 
+        {
+            "text": "We don&#39;t know if this proof is\nright yet, so a Japanese", 
+            "dur": "4.09", 
+            "start": "20.57"
+        }, 
+        {
+            "text": "mathematician called Mochizuki\nhas released these papers, and", 
+            "dur": "4.61", 
+            "start": "24.66"
+        }, 
+        {
+            "text": "altogether, it&#39;s\n500 pages long.", 
+            "dur": "3.04", 
+            "start": "29.27"
+        }, 
+        {
+            "text": "He&#39;s been working on this\nfor a very long time.", 
+            "dur": "3.39", 
+            "start": "32.31"
+        }, 
+        {
+            "text": "He&#39;s come up with his own theory\nof maths-- a whole new", 
+            "dur": "3.36", 
+            "start": "35.7"
+        }, 
+        {
+            "text": "body of maths--", 
+            "dur": "1.81", 
+            "start": "39.06"
+        }, 
+        {
+            "text": "and he&#39;s called it\ninteruniversal geometry.", 
+            "dur": "3.48", 
+            "start": "40.87"
+        }, 
+        {
+            "text": "I know nothing about that.", 
+            "dur": "1.63", 
+            "start": "44.35"
+        }, 
+        {
+            "text": "Very few people do.", 
+            "dur": "1.85", 
+            "start": "45.98"
+        }, 
+        {
+            "text": "Even the experts don&#39;t know much\nabout this at the moment.", 
+            "dur": "3.27", 
+            "start": "47.83"
+        }, 
+        {
+            "text": "So it&#39;s going to take a very\nlong time to make sure if the", 
+            "dur": "3.7", 
+            "start": "51.1"
+        }, 
+        {
+            "text": "proof is right, because they&#39;re\ngoing to have to learn", 
+            "dur": "2.51", 
+            "start": "54.8"
+        }, 
+        {
+            "text": "this whole new theory\nof mathematics.", 
+            "dur": "3.91", 
+            "start": "57.31"
+        }, 
+        {
+            "text": "So the abc Conjecture involves\nthe most simple formula you", 
+            "dur": "3.95", 
+            "start": "61.22"
+        }, 
+        {
+            "text": "can think of.", 
+            "dur": "0.97", 
+            "start": "65.17"
+        }, 
+        {
+            "text": "It&#39;s this--", 
+            "dur": "1.19", 
+            "start": "66.14"
+        }, 
+        {
+            "text": "a plus b equals c.", 
+            "dur": "3.78", 
+            "start": "67.33"
+        }, 
+        {
+            "text": "It doesn&#39;t get much\neasier than that.", 
+            "dur": "2.02", 
+            "start": "71.11"
+        }, 
+        {
+            "text": "And that&#39;s where it gets\nits name from.", 
+            "dur": "1.88", 
+            "start": "73.13"
+        }, 
+        {
+            "text": "The rules are, these are whole\nnumbers, and they don&#39;t share", 
+            "dur": "4.64", 
+            "start": "75.01"
+        }, 
+        {
+            "text": "any factors.", 
+            "dur": "1.305", 
+            "start": "79.65"
+        }, 
+        {
+            "text": "So that means if I can divide\na by 2, then I&#39;m not allowed", 
+            "dur": "4.205", 
+            "start": "80.955"
+        }, 
+        {
+            "text": "to divide b by 2.", 
+            "dur": "1.81", 
+            "start": "85.16"
+        }, 
+        {
+            "text": "Or if I could divide a by 3,\nthen b is not allowed to be", 
+            "dur": "4.38", 
+            "start": "86.97"
+        }, 
+        {
+            "text": "divisible by three.", 
+            "dur": "0.97", 
+            "start": "91.35"
+        }, 
+        {
+            "text": "They&#39;re not allowed to share\nany factors like that.", 
+            "dur": "2.69", 
+            "start": "92.32"
+        }, 
+        {
+            "text": "All right, let&#39;s try an\nexample that works.", 
+            "dur": "2.09", 
+            "start": "95.01"
+        }, 
+        {
+            "text": "1,024 plus 81 equals 1,105.", 
+            "dur": "9.03", 
+            "start": "97.1"
+        }, 
+        {
+            "text": "Right, now let&#39;s just check they\ndon&#39;t share any factors.", 
+            "dur": "3.59", 
+            "start": "106.13"
+        }, 
+        {
+            "text": "In fact, I&#39;ve picked\nthese on purpose.", 
+            "dur": "1.56", 
+            "start": "109.72"
+        }, 
+        {
+            "text": "This one is 2 to the power of\n10, and this one is 3 to the", 
+            "dur": "6.81", 
+            "start": "111.28"
+        }, 
+        {
+            "text": "power of 4.", 
+            "dur": "1.74", 
+            "start": "118.09"
+        }, 
+        {
+            "text": "So they don&#39;t share\nany factors there.", 
+            "dur": "2.46", 
+            "start": "119.83"
+        }, 
+        {
+            "text": "Oh, and this one, I&#39;ll do the\nsame, is 5 times 13 times 17.", 
+            "dur": "7.999", 
+            "start": "122.29"
+        }, 
+        {
+            "text": "Now, this is what I want\nyou to notice.", 
+            "dur": "2.711", 
+            "start": "130.289"
+        }, 
+        {
+            "text": "On the left hand side, you&#39;ve\ngot lots of prime numbers.", 
+            "dur": "3.61", 
+            "start": "133"
+        }, 
+        {
+            "text": "We&#39;ve got all 10 of them over\nhere, and another four.", 
+            "dur": "2.87", 
+            "start": "136.61"
+        }, 
+        {
+            "text": "Loads of them over here.", 
+            "dur": "1.44", 
+            "start": "139.48"
+        }, 
+        {
+            "text": "On the right hand side, you only\nhave three, and this is", 
+            "dur": "3.13", 
+            "start": "140.92"
+        }, 
+        {
+            "text": "what you tend to see\nmost of the time.", 
+            "dur": "2.15", 
+            "start": "144.05"
+        }, 
+        {
+            "text": "This is what&#39;s normal.", 
+            "dur": "1.37", 
+            "start": "146.2"
+        }, 
+        {
+            "text": "If you get lots of primes on the\nleft, you only get a few", 
+            "dur": "3.36", 
+            "start": "147.57"
+        }, 
+        {
+            "text": "on the right hand side.", 
+            "dur": "0.89", 
+            "start": "150.93"
+        }, 
+        {
+            "text": "So this is what the conjecture\nis about.", 
+            "dur": "2.41", 
+            "start": "151.82"
+        }, 
+        {
+            "text": "I want to show you one where\nit doesn&#39;t work.", 
+            "dur": "2.38", 
+            "start": "154.23"
+        }, 
+        {
+            "text": "3 plus 125.", 
+            "dur": "4.26", 
+            "start": "156.61"
+        }, 
+        {
+            "text": "That&#39;s equal to 128.", 
+            "dur": "2.66", 
+            "start": "160.87"
+        }, 
+        {
+            "text": "Let&#39;s just check they don&#39;t\nshare any factors then-- well,", 
+            "dur": "2.42", 
+            "start": "163.53"
+        }, 
+        {
+            "text": "that&#39;s 3, this is 5 cubed,\nand this, 128, is 2", 
+            "dur": "7.43", 
+            "start": "165.95"
+        }, 
+        {
+            "text": "the power of 7.", 
+            "dur": "1.69", 
+            "start": "173.38"
+        }, 
+        {
+            "text": "Now, this one is not like the\nfirst one I showed you.", 
+            "dur": "3.71", 
+            "start": "175.07"
+        }, 
+        {
+            "text": "You&#39;ve only got a few primes\non the left, but we&#39;ve got", 
+            "dur": "2.71", 
+            "start": "178.78"
+        }, 
+        {
+            "text": "loads more on a right.", 
+            "dur": "1.39", 
+            "start": "181.49"
+        }, 
+        {
+            "text": "So you&#39;ve got more on the right\nthan you do on the left.", 
+            "dur": "1.92", 
+            "start": "182.88"
+        }, 
+        {
+            "text": "That&#39;s unusual.", 
+            "dur": "0.83", 
+            "start": "184.8"
+        }, 
+        {
+            "text": "That&#39;s weird.", 
+            "dur": "0.77", 
+            "start": "185.63"
+        }, 
+        {
+            "text": "So rather than not working, like\nI said earlier, it&#39;s the", 
+            "dur": "2.77", 
+            "start": "186.4"
+        }, 
+        {
+            "text": "unusual example.", 
+            "dur": "1.85", 
+            "start": "189.17"
+        }, 
+        {
+            "text": "These don&#39;t happen so often.", 
+            "dur": "2.19", 
+            "start": "191.02"
+        }, 
+        {
+            "text": "So the technical way to\nsay this is this.", 
+            "dur": "3.88", 
+            "start": "193.21"
+        }, 
+        {
+            "text": "Times those primes together.", 
+            "dur": "2.69", 
+            "start": "197.09"
+        }, 
+        {
+            "text": "So I&#39;m going to do that.", 
+            "dur": "0.68", 
+            "start": "199.78"
+        }, 
+        {
+            "text": "So 2 times 3 times 5 times\n13 times 17, and", 
+            "dur": "5.04", 
+            "start": "200.46"
+        }, 
+        {
+            "text": "that equals to 13,260.", 
+            "dur": "4.42", 
+            "start": "205.5"
+        }, 
+        {
+            "text": "It&#39;s a big number, and it&#39;s\nbigger than the right hand", 
+            "dur": "3.63", 
+            "start": "209.92"
+        }, 
+        {
+            "text": "side, which was this.", 
+            "dur": "2.27", 
+            "start": "213.55"
+        }, 
+        {
+            "text": "That&#39;s what normally happens.", 
+            "dur": "1.6", 
+            "start": "215.82"
+        }, 
+        {
+            "text": "OK, so if you do this, you\nget a bigger number.", 
+            "dur": "4.26", 
+            "start": "217.42"
+        }, 
+        {
+            "text": "I&#39;m going to show you this one\nthat I said was unusual.", 
+            "dur": "2.33", 
+            "start": "221.68"
+        }, 
+        {
+            "text": "If we do the same thing--", 
+            "dur": "2.24", 
+            "start": "224.01"
+        }, 
+        {
+            "text": "3 times 5 times 2, that&#39;s\nequal to 30, and that&#39;s", 
+            "dur": "5.88", 
+            "start": "226.25"
+        }, 
+        {
+            "text": "smaller than 128.", 
+            "dur": "3.04", 
+            "start": "232.13"
+        }, 
+        {
+            "text": "So that&#39;s the difference.", 
+            "dur": "1.68", 
+            "start": "235.17"
+        }, 
+        {
+            "text": "So this is unusual.", 
+            "dur": "1.25", 
+            "start": "236.85"
+        }, 
+        {
+            "text": "This is much smaller than\nthe right hand side.", 
+            "dur": "2.64", 
+            "start": "238.1"
+        }, 
+        {
+            "text": "This number, when you multiply\nthe primes together, is called", 
+            "dur": "3.4", 
+            "start": "240.74"
+        }, 
+        {
+            "text": "the radical of ABC.", 
+            "dur": "2.04", 
+            "start": "244.14"
+        }, 
+        {
+            "text": "It&#39;s called the radical because\nit is [INAUDIBLE].", 
+            "dur": "1.89", 
+            "start": "246.18"
+        }, 
+        {
+            "text": "The abc Conjecture\nis the radical--", 
+            "dur": "4.48", 
+            "start": "248.07"
+        }, 
+        {
+            "text": "which I told you how to work\nout, that&#39;s this--", 
+            "dur": "2.47", 
+            "start": "252.55"
+        }, 
+        {
+            "text": "the radical of abc is bigger\nthan the right hand side.", 
+            "dur": "5.55", 
+            "start": "255.02"
+        }, 
+        {
+            "text": "I said that was c.", 
+            "dur": "1.199", 
+            "start": "260.57"
+        }, 
+        {
+            "text": "That&#39;s what you get normally.", 
+            "dur": "1.591", 
+            "start": "261.769"
+        }, 
+        {
+            "text": "In fact, the conjecture\nis more than that.", 
+            "dur": "2.75", 
+            "start": "263.36"
+        }, 
+        {
+            "text": "It talks about the powers\nof that, too.", 
+            "dur": "2.83", 
+            "start": "266.11"
+        }, 
+        {
+            "text": "But there are exceptions, and\nthese are the exceptions.", 
+            "dur": "4.2", 
+            "start": "268.94"
+        }, 
+        {
+            "text": "When k equals 1-- that&#39;s\nthe power is 1--", 
+            "dur": "2.68", 
+            "start": "273.14"
+        }, 
+        {
+            "text": "there are infinitely many\nexceptions just like the one", 
+            "dur": "7.5", 
+            "start": "275.82"
+        }, 
+        {
+            "text": "I&#39;ve just shown you there.", 
+            "dur": "1.43", 
+            "start": "283.32"
+        }, 
+        {
+            "text": "Infinitely many, even though I\nsaid these were the rare ones,", 
+            "dur": "3.4", 
+            "start": "284.75"
+        }, 
+        {
+            "text": "the unusual ones, there are\ninfinitely many of them.", 
+            "dur": "3.16", 
+            "start": "288.15"
+        }, 
+        {
+            "text": "But if you take a power bigger\nthan 1, even if it&#39;s only a", 
+            "dur": "4.99", 
+            "start": "291.31"
+        }, 
+        {
+            "text": "little bit bigger, even if it&#39;s\nlike a power of 1.00001--", 
+            "dur": "8.05", 
+            "start": "296.3"
+        }, 
+        {
+            "text": "tiny, tiny little bit bigger--", 
+            "dur": "2.46", 
+            "start": "304.35"
+        }, 
+        {
+            "text": "if it&#39;s bigger than 1, then\nyou get finitely many", 
+            "dur": "7.305", 
+            "start": "306.81"
+        }, 
+        {
+            "text": "exceptions.", 
+            "dur": "2.975", 
+            "start": "314.115"
+        }, 
+        {
+            "text": "And this is a little bit\nsurprising, because, yes, if", 
+            "dur": "4.14", 
+            "start": "317.09"
+        }, 
+        {
+            "text": "it&#39;s just a little bit bigger\nthan 1, you get finitely many", 
+            "dur": "3", 
+            "start": "321.23"
+        }, 
+        {
+            "text": "exceptions.", 
+            "dur": "0.71", 
+            "start": "324.23"
+        }, 
+        {
+            "text": "You could count them off.", 
+            "dur": "1.53", 
+            "start": "324.94"
+        }, 
+        {
+            "text": "You could write them down.", 
+            "dur": "1.46", 
+            "start": "326.47"
+        }, 
+        {
+            "text": "You could say, here are all the\nexceptions for this power.", 
+            "dur": "3.69", 
+            "start": "327.93"
+        }, 
+        {
+            "text": "And that&#39;s unusual.", 
+            "dur": "2.1", 
+            "start": "331.62"
+        }, 
+        {
+            "text": "That&#39;s unexpected.", 
+            "dur": "1.4", 
+            "start": "333.72"
+        }, 
+        {
+            "text": "Now, this is the conjecture.", 
+            "dur": "2.1", 
+            "start": "335.12"
+        }, 
+        {
+            "text": "It&#39;s very abstract.", 
+            "dur": "1.55", 
+            "start": "337.22"
+        }, 
+        {
+            "text": "It&#39;s very pure.", 
+            "dur": "1.43", 
+            "start": "338.77"
+        }, 
+        {
+            "text": "This was made in the &#39;80s,\nthis conjecture.", 
+            "dur": "3.61", 
+            "start": "340.2"
+        }, 
+        {
+            "text": "But if this can be proven, what\nit&#39;s going to do is it&#39;s", 
+            "dur": "4.71", 
+            "start": "343.81"
+        }, 
+        {
+            "text": "going to prove a whole bunch\nof other stuff at a stroke.", 
+            "dur": "3.98", 
+            "start": "348.52"
+        }, 
+        {
+            "text": "And that&#39;s why it&#39;s big news.", 
+            "dur": "1.56", 
+            "start": "352.5"
+        }, 
+        {
+            "text": "Originally, they thought that\nFermat&#39;s last theorem, which I", 
+            "dur": "3.87", 
+            "start": "354.06"
+        }, 
+        {
+            "text": "talked about being solved in\nthe &#39;90s, they thought this", 
+            "dur": "3.86", 
+            "start": "357.93"
+        }, 
+        {
+            "text": "was the way to solve it.", 
+            "dur": "2.44", 
+            "start": "361.79"
+        }, 
+        {
+            "text": "Because there is a way that, if\nyou can solve this, you can", 
+            "dur": "3.79", 
+            "start": "364.23"
+        }, 
+        {
+            "text": "solve a version of Fermat&#39;s\nlast theorem.", 
+            "dur": "2.75", 
+            "start": "368.02"
+        }, 
+        {
+            "text": "It didn&#39;t turn out that way,\nbecause Fermat&#39;s last theorem", 
+            "dur": "2.76", 
+            "start": "370.77"
+        }, 
+        {
+            "text": "was solved first.", 
+            "dur": "1.7", 
+            "start": "373.53"
+        }, 
+        {
+            "text": "I heard of it, I think, before\nit went around the nerdy", 
+            "dur": "3.82", 
+            "start": "375.23"
+        }, 
+        {
+            "text": "blogs, and I thought, well,\nwe could talk about it on", 
+            "dur": "2.97", 
+            "start": "379.05"
+        }, 
+        {
+            "text": "Numberphile.", 
+            "dur": "0.47", 
+            "start": "382.02"
+        }, 
+        {
+            "text": "But then, it&#39;s still not been\nchecked, so maybe we shouldn&#39;t", 
+            "dur": "4.06", 
+            "start": "382.49"
+        }, 
+        {
+            "text": "talk about it on Numberphile.", 
+            "dur": "1.59", 
+            "start": "386.55"
+        }, 
+        {
+            "text": "But then when all the blocks\nstarted going mad about it, I", 
+            "dur": "3.43", 
+            "start": "388.14"
+        }, 
+        {
+            "text": "thought someone might ask us.", 
+            "dur": "2.37", 
+            "start": "391.57"
+        }, 
+        {
+            "text": "I mean, that&#39;s how you probe\nextra dimensions.", 
+            "dur": "2.85", 
+            "start": "398.45"
+        }, 
+        {
+            "text": "That&#39;s how you probe\nthe very small.", 
+            "dur": "1.89", 
+            "start": "401.3"
+        }
+    ], 
+    "title": "abc Conjecture - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/01v2b", 
+        "/m/04rjg", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 444310, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-11T00:49:02.302Z", 
+            "text": "Those things in the background...\ufeff", 
+            "author": "WMTeWu"
+        }, 
+        {
+            "date": "2015-05-09T12:54:40.244Z", 
+            "text": "4:01 HAHA YES JAMES\ufeff", 
+            "author": "Yikak4"
+        }, 
+        {
+            "date": "2015-05-06T19:55:13.267Z", 
+            "text": "sorry, but where is your k from ? oO\ufeff", 
+            "author": "Thi\u00e9baut L\u00e9vi-Funck"
+        }, 
+        {
+            "date": "2015-05-03T01:06:57.067Z", 
+            "text": "The more I watch this channel the more I realize that the number one is a \ndouchebag =( Always causing exceptions everywhere\ufeff", 
+            "author": "Meiryousa"
+        }, 
+        {
+            "date": "2015-05-02T19:31:03.276Z", 
+            "text": "it seems the proof has been debunked.\ufeff", 
+            "author": "IamJacksColon4"
+        }, 
+        {
+            "date": "2015-05-03T19:19:00.266Z", 
+            "text": "+brotherBox no you are right, but it seems the \"official\" word is that its \nstill unproven.", 
+            "author": "IamJacksColon4"
+        }, 
+        {
+            "date": "2015-05-03T19:16:18.261Z", 
+            "text": "Doesnt mean its proven to be incorrect though yet.", 
+            "author": "brotherBox"
+        }, 
+        {
+            "date": "2015-05-03T19:08:28.000Z", 
+            "text": "+brotherBox thanks and wikipedia, the impression i got was that the \n1000paged proof was so convoluted nobody took the time to even go through \nit and then some guys did and found some mistake and.....thats where it \nends. the general consensus is that the abc conjecture is still unproven.", 
+            "author": "IamJacksColon4"
+        }, 
+        {
+            "date": "2015-05-03T13:24:49.443Z", 
+            "text": "+IamJacksColon4\nFirst, your nick is great. Second, source?", 
+            "author": "brotherBox"
+        }, 
+        {
+            "date": "2015-05-02T19:14:18.328Z", 
+            "text": "so, have they checked this proof already?\ufeff", 
+            "author": "DzzO"
+        }, 
+        {
+            "date": "2015-05-09T15:54:35.588Z", 
+            "text": "+Craki oh... that's too bad, I hope it can be fixed. Thanks for the answer! \n:)", 
+            "author": "DzzO"
+        }, 
+        {
+            "date": "2015-05-09T12:29:29.994Z", 
+            "text": "+DzzO There was a mistake. Mochizuki is still working on it. We should have \nnews next December.", 
+            "author": "Craki"
+        }, 
+        {
+            "date": "2015-04-25T20:03:33.548Z", 
+            "text": "81 is 3^4 not 3^6\ufeff", 
+            "author": "Squeakerification"
+        }, 
+        {
+            "date": "2015-04-21T18:37:47.933Z", 
+            "text": "I just proved it wrong 3 + 4 does not = 5\ufeff", 
+            "author": "ismartroman gamer"
+        }, 
+        {
+            "date": "2015-04-10T17:45:09.783Z", 
+            "text": "How do we use the rad(abc)^2, for example? Must we calculate like 2^2 x 3^2 \nx 5^2?\n\nPlease, help!\ufeff", 
+            "author": "Bruno Principe"
+        }, 
+        {
+            "date": "2015-05-03T23:07:50.633Z", 
+            "text": "+Bruno Principe That's my impression. I think that if the ^ notation had a \nmeaning besides the usual one he would have explained it.", 
+            "author": "Rhapsody Afternoon"
+        }, 
+        {
+            "date": "2015-04-08T03:35:19.067Z", 
+            "text": "It is called the radical because it is [INAUDIBLE].\ufeff", 
+            "author": "Simonov Carbine"
+        }, 
+        {
+            "date": "2015-03-22T21:37:40.037Z", 
+            "text": "1+2=3 maths\ufeff", 
+            "author": "Daniel Nolan"
+        }, 
+        {
+            "date": "2015-05-05T19:05:30.890Z", 
+            "text": "*Every whole number", 
+            "author": "Koen Looijmans"
+        }, 
+        {
+            "date": "2015-04-02T16:36:21.000Z", 
+            "text": "+Jonathan Duffield Every number has 1 as a factor, since every number \ndivided by 1 is the same number, so your '' no bueno '' isn't appropriate \nhere...", 
+            "author": "Neon Xd"
+        }, 
+        {
+            "date": "2015-03-29T02:25:25.569Z", 
+            "text": "Both 2 and 3 have 1 as a factor. Sooo no bueno.", 
+            "author": "Jonathan Duffield"
+        }, 
+        {
+            "date": "2015-03-20T12:25:56.525Z", 
+            "text": "numberfile\ufeff", 
+            "author": "Javier Zavala"
+        }, 
+        {
+            "date": "2015-03-20T02:26:53.069Z", 
+            "text": "Pieguy159's conjecture:\nWhenever you use a marker, you will always end up writing on yourself.\ufeff", 
+            "author": "pieguy159"
+        }, 
+        {
+            "date": "2015-04-21T18:40:03.745Z", 
+            "text": "+pieguy159 not always", 
+            "author": "ismartroman gamer"
+        }, 
+        {
+            "date": "2015-03-15T15:49:00.547Z", 
+            "text": "I dont get this video... itsn't it normal that when you add two numbers \ntogether you get a bigger value..\ufeff", 
+            "author": "TheiLame"
+        }, 
+        {
+            "date": "2015-03-22T14:37:56.311Z", 
+            "text": "+TheiLame Usually it's how it's proven that is applicable, not what it \nproves. Everyone \"knew\" that Fermat's Last Theorem was right before it was \nformally proven, but when it was proven it brought new tools on the table \nfor mathematicians to use. Kind of like how NASA's best contributions to \nsociety were accidental inventions made while trying to go to space; not \nthe part where they actually went to space.", 
+            "author": "Nicholas Pipitone"
+        }, 
+        {
+            "date": "2015-03-17T19:25:00.000Z", 
+            "text": "I guess it's true that we never know. Like maybe it takes a lot of time \nbefore it gets any real application, sometimes it maybe be like that :). \nIt's nice to know about numbers :) why i keep looking for real use is just \nthat i just wish i could understand and relate mathematics better with the \nworld itself, to me it feels as if it's just a man-made system so it can \nalso have errors.. so i don't always want to believe how true some things \nare..\n\nhaha sorry im just writing it here because i wish someone could tell me im \nwrong, because i dont like thinking that way", 
+            "author": "TheiLame"
+        }, 
+        {
+            "date": "2015-03-17T01:41:41.704Z", 
+            "text": "I have my doubts that it has any applicable purposes, but hey: you never \nknow.  Most conjectures just raise a question to the nature of numbers and \nhow they relate to one-another.  Sometimes that comes to use in other \nfields, but most often you'll find that the roles are reversed: to solve \nthis conjecture, you need to instill a lot of application of other \nmathematical building blocks.", 
+            "author": "Arbitrary Renaissance"
+        }, 
+        {
+            "date": "2015-03-16T21:03:59.541Z", 
+            "text": "wow so detailed thanks :o, where can this comparision it be used though? \ndoes it have any purpose? :P (maybe i shoiuld rewatch video haha)", 
+            "author": "TheiLame"
+        }, 
+        {
+            "date": "2015-03-16T05:50:03.109Z", 
+            "text": "The conjecture compares the radical of the ordered triplet with the third \nvalue, though.  Take the sum 88 + 37 = 125.  First of all, let's just put \nthis in the form of an ordered triplet: (88, 37, 125).  The conjecture \nwould compare 125 with rad(88, 37, 125).  What is rad(88, 37, 125)?  Well, \nlet's rewrite all the numbers as the products of primes:\n\n88 + 37 = 125 --> (11 + 2^3) + 37 = (5^3)\n\nThe radical of this triplet is the product of the prime factors without \nrepetition.  So, in this instance, it would be 11 * 2 * 37 * 5 = 4070.  So \nrad(88, 37, 125) = 4070.  This is greater than the third value of the \nordered triplet.  The conjecture doesn't compare A or B with C, it compares \nrad(ABC) with C.", 
+            "author": "Arbitrary Renaissance"
+        }, 
+        {
+            "date": "2015-03-04T20:46:39.258Z", 
+            "text": "In the midst of this, we lost a + b = c. Mathematicians try to find \nproblems where there aren't any.\ufeff", 
+            "author": "Bob Badeer"
+        }, 
+        {
+            "date": "2015-02-08T21:14:25.533Z", 
+            "text": "0:01 to 0:09, doesn't even look like equations. Doing A-Level Further Maths \nand thought I'd at least know what the basic concept of it is.... got a \nlong way to go it seems.\ufeff", 
+            "author": "RedInferno112"
+        }, 
+        {
+            "date": "2015-02-08T14:35:18.980Z", 
+            "text": "2x3x5x13x17 is not 13260 (just saying) \ufeff", 
+            "author": "Jerome Tan"
+        }, 
+        {
+            "date": "2015-03-08T22:17:22.293Z", 
+            "text": "Turn on annotations", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-01-16T01:51:34.975Z", 
+            "text": "hahahahaha \"its called the radical cause its well wicked!\"\ufeff", 
+            "author": "CrayZDude2"
+        }, 
+        {
+            "date": "2015-01-12T14:29:44.211Z", 
+            "text": "~\u2022\u2665\u2022~\u2665 \u01b8\u04dc\u01b7 \u2665~\u2022\u2665\u2022~LUZART~\u2022\u2665\u2022~\u2665 \u01b8\u04dc\u01b7 \u2665~\u2022\u2665\u2022~\ufeff", 
+            "author": "Dr. Arturo Rivera"
+        }, 
+        {
+            "date": "2015-01-08T02:27:42.319Z", 
+            "text": "Even something this simple needs a 500 page explanation... Amazing how such \nsimple questions have such complicated answers.\ufeff", 
+            "author": "Cihan Barnett"
+        }, 
+        {
+            "date": "2015-01-25T16:15:16.892Z", 
+            "text": "+MrCool Cup That won't work. Ever since the 1.8 snapshots /give only works \nwith ID names (minecraft:wooden_door in this case) which will correctly \nresolve to the item ID for door as opposed to the block ID. ", 
+            "author": "hellterminator"
+        }, 
+        {
+            "date": "2015-01-23T05:56:16.646Z", 
+            "text": "+ITKinq Yep. Half a door.", 
+            "author": "MrCool Cup"
+        }, 
+        {
+            "date": "2015-01-22T21:03:18.606Z", 
+            "text": "+MrCool Cup The meaning of life is to be lived. If you dig deep inside this \nstatement, you'll have your meaning of life.", 
+            "author": "ITKinq"
+        }, 
+        {
+            "date": "2015-01-15T18:29:53.222Z", 
+            "text": "Basically half a door.", 
+            "author": "MrCool Cup"
+        }, 
+        {
+            "date": "2015-01-15T18:29:33.682Z", 
+            "text": "What is the meaning of life? Easy question, easy answer; '/give honeydew 64 \n1'.", 
+            "author": "MrCool Cup"
+        }, 
+        {
+            "date": "2015-01-05T06:25:53.937Z", 
+            "text": "New comments! (well not really)\n2014-12-22\n(1.) In the discussion towards the end of \u00a73, the word \u201crigidity\u201d is \nmisspelled (i.e.,\n\u201cridigity\u201d: 3 instances).\n\nOkay\u2026\ufeff", 
+            "author": "Alexander Sabater"
+        }, 
+        {
+            "date": "2014-12-31T19:39:25.524Z", 
+            "text": "James has mannequins in his room?\ufeff", 
+            "author": "Gary"
+        }, 
+        {
+            "date": "2015-01-16T20:25:17.713Z", 
+            "text": "holy crap i just noticed that. Maniac, anyone?", 
+            "author": "beary the bear"
+        }, 
+        {
+            "date": "2014-12-29T01:20:26.563Z", 
+            "text": "nice pigeons\ufeff", 
+            "author": "franken stein"
+        }, 
+        {
+            "date": "2014-12-28T00:24:55.922Z", 
+            "text": "0^0 equal what ?\ufeff", 
+            "author": "zakariae drabech"
+        }, 
+        {
+            "date": "2015-01-11T00:40:20.359Z", 
+            "text": "They did a video about that", 
+            "author": "TimmehTRP"
+        }, 
+        {
+            "date": "2014-12-26T21:48:01.701Z", 
+            "text": "Mochizuki claimed the other day (24/12/2014) in his web site that proof was \nchecked almost completely  by 3 experts and the proof seems to be correct.\ufeff", 
+            "author": "Zackpo .N"
+        }, 
+        {
+            "date": "2014-12-11T11:33:06.291Z", 
+            "text": "Damn sounds very complicated arithmetic\ufeff", 
+            "author": "Jose Arias"
+        }, 
+        {
+            "date": "2014-11-30T02:21:11.296Z", 
+            "text": "So, okay, I don't know if I'm missing something or what.  But the way I'm \nseeing it is, you're saying { rad(abc) > c } has infinite exceptions, but { \nrad(abc)^1.0000001 > c } (or any power >1) has finite exceptions.  But what \ncases could make { rad(abc) > c } false, while an infinitesimal increase of \nrad(abc) would make it true?  The way I see it, that would mean that \nrad(abc) = c.  So if I understand correctly, what you're saying is, there \nare infinite cases of { rad(abc) = c } being true, but only finite cases of \n{ rad(abc) > c }.\n\nAm I incorrect somewhere?\ufeff", 
+            "author": "Ace Diamond"
+        }, 
+        {
+            "date": "2015-03-28T12:36:27.677Z", 
+            "text": "I think it behaves like the funktion 1/x. There is one value that creates a \nresult which lies outside the realm of real numbers and is somewhat \ninfinate, but if you are off an arbitrarily small amount, you get a finite \nresult.", 
+            "author": "TerrAkon3000"
+        }, 
+        {
+            "date": "2015-03-22T14:48:11.868Z", 
+            "text": "+Aryan Arora All the conjecture states is this (informally): The \nproportional difference between the radical of a coprime triplet of \nintegers and the \"c\" become arbitrarily small. Given three huge numbers, \nthe radical ends up being really (like extremely) close to c an infinite \nnumber of times. However, If you were to exponentiate the radical by 1.1, \nthat will cause the really big radicals that were really close to c to go \noverboard. These are huge numbers we are talking about, even a small power \ncan increase a number's size by like 20 digits because of the size of these \nnumbers.", 
+            "author": "Nicholas Pipitone"
+        }, 
+        {
+            "date": "2015-03-12T00:13:04.000Z", 
+            "text": "+Ace Diamond good gracious, what a good soup of mumbo-jumbo and hogwash. i \ngive up, i am not gonna post anymore comments from now on.", 
+            "author": "Aryan Arora"
+        }, 
+        {
+            "date": "2015-03-11T23:31:52.829Z", 
+            "text": "Ok ok, so I finally got around to watching this again, and got a LITTLE \nmore clarity this time... So let me see if I get it better now.  I do see \nnow, that obviously rad(abc) could never = c.\nBut anyway, for k=1, there are infinitely many exceptions.  For any \nparticular one of these exceptions to become true (a non-exception), \nrad(abc) has to increase by at LEAST 2, because we're dealing with integers \nand it has to go from less than c, to greater than c.  So that's why you \ncan't just increase it by an extremely small number; rather, you have to \ntake it to a SLIGHTLY higher power.  But for the extremely high values of \nrad(abc), this slight increase in power is enough to push it over the top.  \nIt doesn't push ALL exceptions over c, of course, but apparently it pushes \ninfinitely many of them over.  Which is very surprising, and that seems to \nbe what the idea is.", 
+            "author": "Ace Diamond"
+        }, 
+        {
+            "date": "2015-03-11T18:14:07.000Z", 
+            "text": "+columbus8myhw  again for the second time, look at the james examples , \nrad(abc) doesnot ALMOST equal c , i said that before, it doesnot even \nremotely equal c, do u honestly think that in those examples both are \nALMOST equal?? dont be so bull-headed please. you are right about the dx \nthing though.\n and in the third para u are wrong again,  for all (k=1,1.00000000001, 97 \netc.), both cases are present rad(abc)^k > c (normal case) and rad(abc)^k < \nc (the exception) , but for the value of k=1.00000000000001 , there are \nonly finite number of exceptions, but for k=1, there are infinite numbers \nof such exceptions, please watch video again. i dont know where you are \ntrying to go with the \"go over\" thing before and now but i hope u were \ntrying to say this only.", 
+            "author": "Aryan Arora"
+        }, 
+        {
+            "date": "2015-03-11T10:49:23.000Z", 
+            "text": "+Aryan Arora As for the real number system: dx is not a real number either \n\u2014 most people wouldn't even call it a number. (The \"formal,\" \"rigorous\" way \nto do calculus has to do with things called \"epsilon-delta proofs,\" which \nremove all mention of infinitesimals and infinities from the premises.) \n(The fact that there are no infinitesimals is called the Archimedean \nproperty.)\n\nWhere did I say that rad(abc)^k=c? I said that rad(abc) *almost equals* c \n(for all but finitely many abc), in the sense that changing the exponent \nfrom 1 to 1.000001 makes it go over. In other words, rad(abc)<c, but \nrad(abc)^1.000001>c. This happens for all but finitely many c.\n\nrad(abc) was much smaller than c in the video's example because the numbers \nwere so small. If a, b, and c were a lot larger, than rad(abc) wouldn't be \n\"much much smaller than c.\"", 
+            "author": "columbus8myhw"
+        }, 
+        {
+            "date": "2015-03-11T07:49:30.000Z", 
+            "text": "+columbus8myhw and u are also wrong in the second para, rad(abc)^k is not \nequalling c, (for k=1,1.00001, 97 etc.)  it is not even remotely close to \nc, thats what i told ace diamond too, look at the examples james gave @ 3:37 \nand @ 3:59 , the exception case (3:59) has rad(abc)  much much smaller than \nc i.e rad(abc) < c, and the normal case (3:37) has rad(abc) much larger \nthan c i.e rad(abc) > c , rad(abc) can never-ever be equal to c (or cannot \nbe almost exactly equal to c) i.e rad(abc) = c is NOT true, for the reason \nof this, see the comment i gave to ace diamond.", 
+            "author": "Aryan Arora"
+        }, 
+        {
+            "date": "2015-03-11T07:58:45.000Z", 
+            "text": "+columbus8myhw u are wrong in the first paragraph, the real number system \ncontains every number there is (including infinitesimal numbers). although \nthere is no number to represent infinitesimal, in the same way there is no \nnumber to represent infinity. infinitesimal is written in the form of dx, \ni.e infinitesimally small part of x.", 
+            "author": "Aryan Arora"
+        }, 
+        {
+            "date": "2015-03-11T01:50:30.398Z", 
+            "text": "Well, the thing is, you can't increase it by an infinitesimal amount. \n1.000001 is technically not infinitesimals. (There are no infinitesimal \nnumbers in the real number system, or the complex number system either. You \ncan make up a number system with infinitesimals, but that's another matter.)\n\nIn any case, the idea is that: While there are an infinite number of \nexceptions with k=1, most of these are so very very close to having \nrad(abc) equalling c (without being exactly equal), that having k=1.000001 \nmakes most of these go over. Of course, if k was even closer to 1 \u2014 say, \n1.0000000000001 \u2014 there would be *more* exceptions than 1.000001 (since \nfewer would go over); if k was even smaller, there would be even more \nexceptions. And when k is 1, the number of exceptions goes to infinity.", 
+            "author": "columbus8myhw"
+        }, 
+        {
+            "date": "2015-03-09T19:58:02.660Z", 
+            "text": "*drops the i pad, walks away*", 
+            "author": "DestroManiak"
+        }, 
+        {
+            "date": "2015-01-05T01:03:55.072Z", 
+            "text": "Because I'm not in math-video mode right now.  I'm in \ncar-accident-compilation-video mode.", 
+            "author": "Ace Diamond"
+        }, 
+        {
+            "date": "2015-01-05T00:24:32.377Z", 
+            "text": "+Ace Diamond why dont u watch it now? lol", 
+            "author": "Aryan Arora"
+        }, 
+        {
+            "date": "2015-01-05T00:23:20.347Z", 
+            "text": "+Aryan Arora I'll have to watch this video again sometime.  I guess I \ndidn't catch on to what they're really getting at. ", 
+            "author": "Ace Diamond"
+        }, 
+        {
+            "date": "2015-02-08T23:20:02.000Z", 
+            "text": "+Ace Diamond  yes, u are incorrect, because, firstly, rad(abc) can \nnever-ever be equal to \"c\" , because of the simple fact that we get \nrad(abc) by multiplying the prime factors of a,b,c  and we get \"c\" by \nadding a and b i.e a+b=c ; but u can try finding cases where rad(abc) = c \nto give some exceptions; and secondly, the question u asked makes no sense \n(or atleast its not relevant).", 
+            "author": "Aryan Arora"
+        }, 
+        {
+            "date": "2015-01-02T03:54:04.576Z", 
+            "text": "Yes, an infinitesimal increase is no increase at all. An infinite number of \ninfinitesimals does create a finite number, but a finite number of \ninfinitesimals has a value of zero (which has been proven, the first part \nin integration, the second by decimal-to-fraction conversions). The \nconjecture would only have a finite number of exceptions if the part added \nto one isn't infinitesimal.", 
+            "author": "nafi alam"
+        }, 
+        {
+            "date": "2014-12-07T08:49:34.492Z", 
+            "text": "Yes, and now they have to prove those statements.", 
+            "author": "Jose Ramirez"
+        }, 
+        {
+            "date": "2014-12-05T10:17:17.473Z", 
+            "text": "\"Off by 5\"?  Lol, I'm guessing that is a joke.", 
+            "author": "Ace Diamond"
+        }, 
+        {
+            "date": "2014-12-05T04:52:24.910Z", 
+            "text": "yes, you're off by 5 because of the variant in {xy:xy.\\", 
+            "author": "stevehd111"
+        }, 
+        {
+            "date": "2014-11-30T00:47:56.593Z", 
+            "text": " How is this defined for non integer values of n? You talked about 1.00001, \nbut if you raise an integer to a power like that you probably get a non \ninteger, and they don't have prime factorizations....\ufeff", 
+            "author": "Dirk-Jan Toot"
+        }, 
+        {
+            "date": "2015-04-25T15:55:26.148Z", 
+            "text": "+Jack Lacan Are you trolling? 'Numbers' are well defined mathematically, \nand that's all this conjecture cares about. There is no 'philosophy of \nmathematics' behind.", 
+            "author": "Pol G\u00f3mez Riquelme"
+        }, 
+        {
+            "date": "2015-01-11T13:00:04.000Z", 
+            "text": "+Gytax0 I think the question is really - what is a number, any number, \nanyway when separated from the object that it counts. Is it something \nobjective or a function of language? Why are numbers ruled by abstract \ngrammatical categories like case and gender (especially in Platos Greek) \nand does that affect them in any way? Is the difference between una, unus \nand unum etc in for example Latin accidental or substantial? Does a number \nexist when there's no one round to squiggle and count it?", 
+            "author": "Jack Lacan"
+        }, 
+        {
+            "date": "2014-12-05T22:01:28.391Z", 
+            "text": "The power is an arbitrary number. It does not depend on a,b or c. Radical \nto some non-integer power will usually yeld a non-integer result but you \ncan still compare it to 'c'.", 
+            "author": "Gytax0"
+        }, 
+        {
+            "date": "2014-11-23T23:02:12.187Z", 
+            "text": "Correction, dr James. The product (2 x 3 x 5 x 13 x 17) equals 6630 instead \nof 13260. You might have tapped \"2\" twice on your calc. Doesn't cancel the \nexplanation though.\ufeff", 
+            "author": "L\u00e1zaro Carvalhaes"
+        }, 
+        {
+            "date": "2015-01-15T18:28:52.363Z", 
+            "text": "Wanker.", 
+            "author": "MrCool Cup"
+        }, 
+        {
+            "date": "2015-01-15T18:28:42.230Z", 
+            "text": "Turn on annotations.", 
+            "author": "MrCool Cup"
+        }, 
+        {
+            "date": "2015-01-15T16:31:00.000Z", 
+            "text": "BRUUUUH turn on annotations you tw@", 
+            "author": "A guy"
+        }, 
+        {
+            "date": "2014-12-08T18:37:11.933Z", 
+            "text": "There's another video like this, with this error. ", 
+            "author": "krisztian76"
+        }, 
+        {
+            "date": "2014-11-06T17:04:47.520Z", 
+            "text": "I LIEK EGGS\ufeff", 
+            "author": "rubikman thecuber"
+        }, 
+        {
+            "date": "2014-11-06T11:14:36.782Z", 
+            "text": "", 
+            "author": "Timoteo Almeida"
+        }, 
+        {
+            "date": "2014-10-30T03:55:48.008Z", 
+            "text": "I wonder if there is an update on the checking for this proof.\ufeff", 
+            "author": "movros ninety-nine"
+        }, 
+        {
+            "date": "2014-10-29T15:14:26.041Z", 
+            "text": "2+3=5? How doesent that work?\ufeff", 
+            "author": "august skolby"
+        }, 
+        {
+            "date": "2015-03-20T04:34:26.717Z", 
+            "text": "3x2 = 6, 6 > 5 so it works because rad (abc) >c", 
+            "author": "Lavondrias Daniels"
+        }, 
+        {
+            "date": "2014-10-23T16:41:03.348Z", 
+            "text": "Is infinity the limit as k approaches 1? Would the number of exceptions for \nk=1.000000001 be larger than the number of exceptions for k=1.001?\ufeff", 
+            "author": "Primus Productions"
+        }, 
+        {
+            "date": "2014-11-18T15:04:36.236Z", 
+            "text": "+Primus Productions Duh.", 
+            "author": "cursedswordsman"
+        }, 
+        {
+            "date": "2014-11-12T15:25:07.926Z", 
+            "text": "So if the number of exceptions could be graphed, would there be a vertical \nasymptote at 1?", 
+            "author": "Primus Productions"
+        }, 
+        {
+            "date": "2014-11-12T14:53:56.148Z", 
+            "text": "The conjecture stays for idea that with infinite amount of a+b=c there \nwould be obviously infinite amount of nuber that not fits rules but when \nyou only add power factor then at some point  with numbers getting bigger \nand bigger they wouldn't so yes, even k a little bit bigger than 1 will cut \noff infinite amount of exceptions and ofcourse for k=1.1 there will be \nlower exceptions than for k=1.00000000000001", 
+            "author": "\u041f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439 \u0427\u0435\u043b\u043e\u0432\u0435\u043a"
+        }, 
+        {
+            "date": "2014-10-18T15:13:52.930Z", 
+            "text": "so what subcategory of mathematics is this part of?  Number theory?\ufeff", 
+            "author": "DrWmPierceAudio"
+        }, 
+        {
+            "date": "2014-10-14T23:38:20.481Z", 
+            "text": "I really don't understand what the theorem is, or see how it's valid if \nthere are infinite exceptions to it. \ufeff", 
+            "author": "offbeat0008"
+        }, 
+        {
+            "date": "2014-11-27T03:30:48.523Z", 
+            "text": "Its not a theorem, its a conjecture; basically an educated guess, an \nassertion that remains to be proven", 
+            "author": "Enlightened Penguin"
+        }, 
+        {
+            "date": "2014-10-13T19:26:49.877Z", 
+            "text": "\"inaudible\" in subtitles? He  \"well wicked\" :P\ufeff", 
+            "author": "Kaleb Smith"
+        }, 
+        {
+            "date": "2014-10-11T17:27:56.535Z", 
+            "text": "What if k<1?\ufeff", 
+            "author": "Qermaq"
+        }, 
+        {
+            "date": "2014-09-19T22:07:57.680Z", 
+            "text": "IT'S WELL WICKED\ufeff", 
+            "author": "TehKhronicler"
+        }, 
+        {
+            "date": "2014-09-18T14:41:17.746Z", 
+            "text": "2+3=5 ?\n2*3*5=30\ufeff", 
+            "author": "Leighton Scheer"
+        }, 
+        {
+            "date": "2014-09-15T04:04:00.036Z", 
+            "text": "I can't take this video seriously anymore now that I've noticed that he has \npigeon wallpaper. xD\ufeff", 
+            "author": "Mandelbrot Set"
+        }, 
+        {
+            "date": "2014-09-12T20:47:37.290Z", 
+            "text": "why is that rubik's cube scrambled? oh you can't do the rubik's cube?? just \nkidding man, you rocks\ufeff", 
+            "author": "skreb95"
+        }, 
+        {
+            "date": "2014-09-29T19:18:57.000Z", 
+            "text": "3:30 Error he multiplies 1105 by 2X3=6. It can not be 13000 something.\nIt's 6630. So he multiplied by 2X2X3. \nI thought he never makes mistakes in the videos. \ufeff", 
+            "author": "krisztian76"
+        }, 
+        {
+            "date": "2014-10-28T23:29:47.654Z", 
+            "text": "they put an annotation in the top left", 
+            "author": "Alex Quimby"
+        }, 
+        {
+            "date": "2014-09-27T04:39:02.308Z", 
+            "text": "13260 = 6630*2\nhe just multiplied it by an extra 2 by mistake.", 
+            "author": "Jack Carver"
+        }, 
+        {
+            "date": "2014-09-13T05:17:47.066Z", 
+            "text": "They usually do the calculations beforehand and recopy them, but I think he \ndid this one on the fly and did the mental math too quickly.", 
+            "author": "mdiem"
+        }, 
+        {
+            "date": "2014-08-31T15:07:17.663Z", 
+            "text": "has this been checked, was it legit?\ufeff", 
+            "author": "Evelyn V"
+        }, 
+        {
+            "date": "2014-08-25T19:13:57.611Z", 
+            "text": "Why the hell are there manequins?\ufeff", 
+            "author": "Sebastian Zwarich"
+        }, 
+        {
+            "date": "2014-08-23T00:10:51.045Z", 
+            "text": "Would have been helpful to mention that Mochizuki himself called his \npapers: Inter-Universal Teichmuller theory (IUTeich).\ufeff", 
+            "author": "Raphael Beer"
+        }, 
+        {
+            "date": "2014-08-22T00:55:46.645Z", 
+            "text": "click link in desc; cry\ufeff", 
+            "author": "ethan schreiber"
+        }, 
+        {
+            "date": "2014-08-13T22:47:32.332Z", 
+            "text": "Why the hell are these people always drawing on giant paper towel-looking \npieces of paper?  Every person, in every video by Numberphile does this. \n Is this some sort of paper that is particularly available to \nmathematicians?  I know this is a stupid question, but does someone have an \nanswer?\ufeff", 
+            "author": "finsternis1986"
+        }, 
+        {
+            "date": "2015-03-08T22:16:25.514Z", 
+            "text": "There is actually a blog article about this. Essentially, Brady, the camera \nguy, wanted a way to make his videos unique/identifiable. Also, there is \nsomething more visceral about writing on paper. You can read  more about it \nhere: http://periodicvideos.blogspot.com/2012/02/brown-paper-question.html", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2015-02-05T05:07:14.794Z", 
+            "text": "I think it's just really convenient and really cheap.  It's big enough to \nget alot of information on with out having to use new sheets.", 
+            "author": "pennejay"
+        }, 
+        {
+            "date": "2015-01-09T17:18:36.470Z", 
+            "text": "Furthermore, it's just (pun alert) cool as hell ", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2014-10-30T04:01:35.827Z", 
+            "text": "The answer in one word is branding.", 
+            "author": "movros ninety-nine"
+        }, 
+        {
+            "date": "2014-09-19T04:49:28.840Z", 
+            "text": "Brady has an infinite supply of it.", 
+            "author": "LCDT Webb (Lukos)"
+        }, 
+        {
+            "date": "2014-09-13T18:09:32.000Z", 
+            "text": "I think it's difficult to film white paper, it reflects too much. And if he \nwrites big you can read it. Have you ever had difficulties to read \nsomething in theses films? No. So that's why.", 
+            "author": "krisztian76"
+        }, 
+        {
+            "date": "2014-08-23T13:52:14.365Z", 
+            "text": "It is as waste-less a method of using giant pieces of paper as possible, I \nshould think. That brown paper is recycled paper, and after they use it \nthey will recycle it again. Cheap, too. ", 
+            "author": "James Lewis"
+        }, 
+        {
+            "date": "2014-08-21T05:08:22.400Z", 
+            "text": "Its a Numberphile trademark, essentially. Probably works decently on camera \ntoo", 
+            "author": "John Locke"
+        }, 
+        {
+            "date": "2014-08-11T12:15:34.621Z", 
+            "text": "Looks like steroid vials in the background\ufeff", 
+            "author": "Bloodbath and Beyond"
+        }, 
+        {
+            "date": "2014-10-02T15:42:58.321Z", 
+            "text": "Yeah that guy is definitely juicing.", 
+            "author": "nibydcgrshbdcjd"
+        }, 
+        {
+            "date": "2014-07-29T16:50:45.046Z", 
+            "text": "Digging the pigeon wallpaper. And also that bit about the radical being \nwell wicked.\ufeff", 
+            "author": "EdsSpoon"
+        }, 
+        {
+            "date": "2014-07-23T20:36:39.651Z", 
+            "text": "dat wall\ufeff", 
+            "author": "TheKamof"
+        }, 
+        {
+            "date": "2014-07-07T13:41:15.343Z", 
+            "text": "I hate this guys accent -.-\ufeff", 
+            "author": "Mele Paasi"
+        }, 
+        {
+            "date": "2015-03-08T22:19:27.705Z", 
+            "text": "I hate girly bullshit -.-", 
+            "author": "Anonymous User"
+        }, 
+        {
+            "date": "2014-12-13T02:51:24.118Z", 
+            "text": "+qlqnen \nI've not deleted anything... ", 
+            "author": "Sal sean"
+        }, 
+        {
+            "date": "2014-12-12T18:59:26.569Z", 
+            "text": "+Sal sean Either you deleted a comment or I'm slowly losing my mind.", 
+            "author": "qlqnen"
+        }, 
+        {
+            "date": "2014-12-12T18:04:42.848Z", 
+            "text": "+qlqnen\nErr... what?", 
+            "author": "Sal sean"
+        }, 
+        {
+            "date": "2014-12-12T07:11:53.544Z", 
+            "text": "+Sal sean Check which comment the person is replying to before calling them \nan idiot.", 
+            "author": "qlqnen"
+        }, 
+        {
+            "date": "2014-12-12T05:59:43.030Z", 
+            "text": "+Mele Paasi You're*", 
+            "author": "Sebastian Turkalj"
+        }, 
+        {
+            "date": "2014-09-23T16:55:30.364Z", 
+            "text": "How can you hate an accent? Hate something that ate your kid, but not an \naccent :D", 
+            "author": "P. De Rop"
+        }, 
+        {
+            "date": "2014-09-21T16:54:27.000Z", 
+            "text": "\"Paasi\" eh? I'm sure a lot of people hate your accent too, doll. Throwing \nstones in a glass house.", 
+            "author": "Z VZ"
+        }, 
+        {
+            "date": "2014-09-21T06:16:19.872Z", 
+            "text": "I like it his accent. ", 
+            "author": "IzzyData"
+        }, 
+        {
+            "date": "2014-09-07T08:33:13.398Z", 
+            "text": "+Mele Paasi\nThat's some hefty trolling there!", 
+            "author": "Sal sean"
+        }, 
+        {
+            "date": "2014-09-05T10:17:35.998Z", 
+            "text": "+qlqnen ...and you didn't think she was being an asshole before that?", 
+            "author": "Newmaidumosa"
+        }, 
+        {
+            "date": "2014-07-30T20:49:16.828Z", 
+            "text": "+Mele Paasi Now you're just being an asshole, right?", 
+            "author": "qlqnen"
+        }, 
+        {
+            "date": "2014-07-21T12:35:34.534Z", 
+            "text": "+iamtotallyawesome thanks your totally awesome haha", 
+            "author": "Mele Paasi"
+        }, 
+        {
+            "date": "2014-07-20T21:07:33.779Z", 
+            "text": "+Mele Paasi Well, \"guys\" should be possessive, so it should be \"guy's.\"", 
+            "author": "Rectar2"
+        }, 
+        {
+            "date": "2014-07-20T12:47:10.758Z", 
+            "text": "Haha where do I place the apostrophe ?", 
+            "author": "Mele Paasi"
+        }, 
+        {
+            "date": "2014-07-16T19:38:24.227Z", 
+            "text": "If you can complain about his accent, then I'll complain about your \nincorrect punctuation. *apostrophe*", 
+            "author": "Rectar2"
+        }, 
+        {
+            "date": "2014-05-02T19:07:07.136Z", 
+            "text": "A good follow up would be the relationship between Integers and Complex \nPolynomials, and the Mason-Stothers Thm.\ufeff", 
+            "author": "Isaac Zais"
+        }, 
+        {
+            "date": "2014-04-23T02:38:41.308Z", 
+            "text": "1 + 2 = 3\ufeff", 
+            "author": "David Comeaux"
+        }, 
+        {
+            "date": "2015-03-09T03:22:24.045Z", 
+            "text": "+Chrnan6710 3 + 4 = 7 not 5.", 
+            "author": "Paul Foor"
+        }, 
+        {
+            "date": "2015-03-09T03:20:04.781Z", 
+            "text": "+randomasdf97 Both 99 and 22 have 11 as a factor as does their sum 121 (3^2 \nx 11 + 2 x 11 = 11^2). For this to work, none of the numbers in the \nequation may have a common factor, which is why 500 + 461 = 961 works. When \nbroken down into prime factors it looks like this: 2^2 x 5^3 + 461 = 31^2.", 
+            "author": "Paul Foor"
+        }, 
+        {
+            "date": "2015-03-08T12:45:55.602Z", 
+            "text": "+Paul Foor lol ok then what about 99+22=121. they all have a common divisor \nof 1 and every single a+b=c with a,b,c positive integers will have every \na,b,c divisible by 1. abc conjecture states we only care about factors \nlarger than 1.  \nhttp://en.wikipedia.org/wiki/Abc_conjecture", 
+            "author": "randomasdf97"
+        }, 
+        {
+            "date": "2015-02-21T21:45:54.880Z", 
+            "text": "+Nathan Richan I'm reasonably sure you did and with any luck, so did I.", 
+            "author": "Paul Foor"
+        }, 
+        {
+            "date": "2015-02-21T20:26:11.611Z", 
+            "text": "+Paul Foor\nI've just never seen them listed as example solutions. I get that if you're \ntrying to prove the conjecture, you'd want to use more 'extreme' cases with \nlots of primes on one side, and those low-number equations don't really \naccomplish that. I just wasn't sure if I understood the rules correctly or \nnot.", 
+            "author": "Nathan Richan"
+        }, 
+        {
+            "date": "2015-02-21T18:47:29.488Z", 
+            "text": "+Nathan Richan I believe they are. The first example (2+3=5) contains only \nprime numbers. The second example (4+7=11) can be broken down to 2^2+7=11. \nNeither example has any common factors through out their respective \nequations.", 
+            "author": "Paul Foor"
+        }, 
+        {
+            "date": "2015-02-20T21:21:17.266Z", 
+            "text": "+Paul Foor\nWhat about any of the primes?\n2 + 3 = 5, no factors in common.\nEven just using one prime: 4 + 7 = 11, no factors in common.\nHow come I'm not seeing those solutions anywhere? Are they just too \nobvious, but still correct solutions?", 
+            "author": "Nathan Richan"
+        }, 
+        {
+            "date": "2014-12-22T21:23:24.903Z", 
+            "text": "No factors in common allowed and 1 can be divided into every whole number \nwithout a remainder, therefore your equation does not work.", 
+            "author": "Paul Foor"
+        }, 
+        {
+            "date": "2014-11-29T19:16:51.355Z", 
+            "text": "1 doesnt have primes in it", 
+            "author": "Okhankx"
+        }, 
+        {
+            "date": "2014-11-15T21:13:25.778Z", 
+            "text": "3 + 4 = 5", 
+            "author": "Chrnan6710"
+        }, 
+        {
+            "date": "2014-05-09T23:03:40.335Z", 
+            "text": "1 is divisible by 1 and 2 is divisible by 1 WRONG", 
+            "author": "David Williams"
+        }, 
+        {
+            "date": "2014-03-18T11:17:05.871Z", 
+            "text": "I do not get the power k stuff?\n\ufeff", 
+            "author": "Myrslokstok"
+        }, 
+        {
+            "date": "2014-03-18T11:08:15.368Z", 
+            "text": "Feels moore like Galoi level if checked to be right. \n\ufeff", 
+            "author": "Myrslokstok"
+        }, 
+        {
+            "date": "2014-03-15T07:29:44.073Z", 
+            "text": "I don't think we will ever run out of new maths problems to solve. were too \ncreative and we'll just keep on coming up with new mathematics.\ufeff", 
+            "author": "mickster3000mcplayer"
+        }, 
+        {
+            "date": "2014-04-15T07:53:10.498Z", 
+            "text": "And Brits and Americans will never agree on the abbreviation of \nmathematics. :-/", 
+            "author": "FLPhotoCatcher"
+        }, 
+        {
+            "date": "2014-02-27T21:35:31.266Z", 
+            "text": "Do the numbers have to be nonprime?\ufeff", 
+            "author": "Jaceon osbon"
+        }, 
+        {
+            "date": "2014-02-23T11:17:11.686Z", 
+            "text": "that doll at 0: 55 is scary\ufeff", 
+            "author": "Jean Baptiste"
+        }, 
+        {
+            "date": "2014-02-02T08:49:50.387Z", 
+            "text": "Whatever you did...I now understand coprime. \ufeff", 
+            "author": "Nick Muntzing"
+        }, 
+        {
+            "date": "2014-01-13T21:09:52.006Z", 
+            "text": "You guys should do a video on the Beal conjecture! That thing is hard! \ufeff", 
+            "author": "stupidmonkey151"
+        }, 
+        {
+            "date": "2013-11-01T03:09:47.538Z", 
+            "text": "When I was really little I thought cats were baby dogs. Then puppies \nhappened to me, and I was *way* confused.", 
+            "author": "Ringill"
+        }, 
+        {
+            "date": "2013-11-01T00:11:53.934Z", 
+            "text": "Well then, your god is some evil bastard, because he was the one to twist \nthe knot so hard that a poor Japanese fellow had to spend his whole life \nworking on this abc conjecture. And are you still waiting for your god's \nrelatives to come down and show you how to toggle caps lock off?", 
+            "author": "Groaznic"
+        }, 
+        {
+            "date": "2013-10-31T09:36:52.644Z", 
+            "text": "The sad thing is, this probably isn't even a troll.", 
+            "author": "Chase Garrett"
+        }, 
+        {
+            "date": "2013-10-28T20:55:49.468Z", 
+            "text": "2 + 3 = 5", 
+            "author": "jonnyf88"
+        }, 
+        {
+            "date": "2013-10-27T05:54:46.757Z", 
+            "text": "that was AWESOME keep it up!", 
+            "author": "fateplus1"
+        }, 
+        {
+            "date": "2013-10-25T20:56:31.251Z", 
+            "text": "from where do all this fucktards come from", 
+            "author": "Max Payne"
+        }, 
+        {
+            "date": "2013-10-22T07:18:40.760Z", 
+            "text": "...and very irrelevant.", 
+            "author": "HyperFoxIII"
+        }, 
+        {
+            "date": "2013-10-21T03:19:09.771Z", 
+            "text": "Mochizuki is my math teacher's last name!", 
+            "author": "Evan Mickas"
+        }, 
+        {
+            "date": "2013-10-21T00:31:20.307Z", 
+            "text": "its called the radical because it is well wicked :D", 
+            "author": "Qlimakz"
+        }, 
+        {
+            "date": "2013-10-18T01:43:06.959Z", 
+            "text": "well, we have a saying in Iceland. An empty barrel makes the loudest noise. \nI think that guy just proved that.", 
+            "author": "GeirGunnarss"
+        }, 
+        {
+            "date": "2013-10-17T09:01:48.211Z", 
+            "text": "The set of infinite sequences of integers is uncountable, so it's not as \neasy. But, because the set of all pairs of integers is countable, so is the \nset of exceptions for k=1.", 
+            "author": "Maarten Smit"
+        }, 
+        {
+            "date": "2013-10-17T00:18:35.727Z", 
+            "text": "Why is it that EVERY White country is forced to be \nmulticultural/multiracial? Why is it that EVERY White country is told to \nend its own race/culture? No one asks that of -ANY- non-White country. \nImmigration/assimilation is FORCED upon ONLY White countries Anti-Whites \ncall themselves \u201canti-racists\u201d but their actions lead to the elimination of \nonly one race, MY race. The purpose of \u201canti-racism\u201d is to genocide White \nchildren. \"Anti-racist\" is just a code for anti-White watch?v=lKDeyuM0-Og", 
+            "author": "Pakeha Rabbit"
+        }, 
+        {
+            "date": "2013-10-16T22:35:33.575Z", 
+            "text": "I can't remember a specific instance of doing that, but maybe I've done it \nbefore.", 
+            "author": "anticorncob6"
+        }, 
+        {
+            "date": "2013-10-16T18:50:05.394Z", 
+            "text": "Perhaps you guys should talk about Mason-Stothers theorem a little?", 
+            "author": "Rob Drury"
+        }, 
+        {
+            "date": "2013-10-16T06:10:06.855Z", 
+            "text": "I'm sure we can all relate to that one mistake where we'd have an \nexpression of the form (x+2)/x and we'd just casually jot down \"2\" as the \nanswer. Ah good times", 
+            "author": "ht bowser"
+        }, 
+        {
+            "date": "2013-10-14T16:29:26.541Z", 
+            "text": "Fuck god", 
+            "author": "letdomf"
+        }, 
+        {
+            "date": "2013-10-14T11:33:22.745Z", 
+            "text": "Thou shalt not spam", 
+            "author": "Primus Productions"
+        }, 
+        {
+            "date": "2013-10-12T23:11:51.701Z", 
+            "text": "Would 3+7=10 work? a=3 b=7 c=10 They share no factors", 
+            "author": "coilrt"
+        }, 
+        {
+            "date": "2013-10-12T16:04:28.034Z", 
+            "text": "Because I no longer had to worry about how you actually compute t + 4, what \nthe answer meant, and how this would ever be useful, and how this works \nwith letters. I thought there had to be some special set of values not \nequal to any \"normal\" numbers, and there had to be 26 of them, and that's \nwhy there are 26 letter in the alphabet. Unless you're given extra \ninformation, you can't compute t + 4.", 
+            "author": "anticorncob6"
+        }, 
+        {
+            "date": "2013-10-12T13:16:42.822Z", 
+            "text": "This is very beautiful math. As an engineering student, I have no idea how \nthis is ever going to be useful to humanity.", 
+            "author": "Mikko Bayabo"
+        }, 
+        {
+            "date": "2013-10-12T02:36:03.938Z", 
+            "text": "LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL can't tell if he's serious or \nnot", 
+            "author": "YIC"
+        }, 
+        {
+            "date": "2013-10-10T11:04:53.452Z", 
+            "text": "0:56 Why is there a doll in mathematician's room? Especially a lifesize one?", 
+            "author": "Sampath Sri Sitinamaluwa"
+        }, 
+        {
+            "date": "2013-10-08T09:51:25.913Z", 
+            "text": "that is the second most hilarious string of comments ive ever seen its \nright up there with the mylar balloons on the avgn video", 
+            "author": "Richard Johnson"
+        }, 
+        {
+            "date": "2013-10-07T23:12:06.498Z", 
+            "text": "With hexadecimal you would be right! A being 10, B being 11 and so on. T \nwouldn't fit though. Time to make up the alphadecimal? (base 35)", 
+            "author": "M4NITOU"
+        }, 
+        {
+            "date": "2013-10-05T17:54:45.899Z", 
+            "text": "Liv usse Eksstremos", 
+            "author": "Hollus Elsfik"
+        }, 
+        {
+            "date": "2013-10-05T15:05:22.625Z", 
+            "text": "They did.", 
+            "author": "E1craZ4life"
+        }, 
+        {
+            "date": "2013-10-02T17:36:08.043Z", 
+            "text": "Your able to effortlessly earn over 3500 dollars every month just by \nanswering basic online surveys at home. This website shows exactly how \nEARN88.COM If you are dirty, insignificant and unloved then rats are the \nultimate role model.", 
+            "author": "SSVelu Velu"
+        }, 
+        {
+            "date": "2013-10-02T08:14:59.936Z", 
+            "text": "Speaking of Fermat: /watch?v=n7cgHqp_RhU Please someone fix this nonsense.", 
+            "author": "R1ckr011"
+        }, 
+        {
+            "date": "2013-10-02T08:05:08.068Z", 
+            "text": "countable, because we're dealing with integers", 
+            "author": "R1ckr011"
+        }, 
+        {
+            "date": "2013-10-02T08:04:33.858Z", 
+            "text": "Lol extremely obvious troll is obvious.", 
+            "author": "R1ckr011"
+        }, 
+        {
+            "date": "2013-10-01T03:49:29.761Z", 
+            "text": "What if you take a prime number (c), substract another prime number from it \n(b), and the resulting even number will be a. Then you've got a + b = c and \na possibly has many factors, while the other two numbers are prime so b and \nc have only one factor. There's a lot of those, just as much as the \n(prime)^x+(prime)^y=(c) series. (:", 
+            "author": "Federico Spadone"
+        }, 
+        {
+            "date": "2013-09-30T18:32:50.998Z", 
+            "text": "So the infinitely many exceptions when k=1, is it countably infinite or \nuncountable?", 
+            "author": "Trent Robertson"
+        }, 
+        {
+            "date": "2013-09-30T15:42:11.835Z", 
+            "text": "Good one :D Thanks for bringing this up XD", 
+            "author": "NoNeaNdNoNly"
+        }, 
+        {
+            "date": "2013-09-27T00:00:44.691Z", 
+            "text": "it is well wicked.", 
+            "author": "xFIRSTx"
+        }, 
+        {
+            "date": "2013-09-21T06:49:18.325Z", 
+            "text": "Do a video(or 2!) on fermats last theorem!!", 
+            "author": "TheIrishrazorhogan"
+        }, 
+        {
+            "date": "2013-09-20T17:56:21.799Z", 
+            "text": "Well that escalated quickly...", 
+            "author": "Solaris"
+        }, 
+        {
+            "date": "2013-09-15T23:02:25.949Z", 
+            "text": "Do a video on Beal's conjecture now.", 
+            "author": "mr_yogurt"
+        }, 
+        {
+            "date": "2013-09-12T12:45:13.085Z", 
+            "text": "there are many similar videos so not really ", 
+            "author": "jim jones"
+        }
+    ]
+}

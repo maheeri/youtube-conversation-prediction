@@ -1,0 +1,1312 @@
+{
+    "publish_date": "2012-07-27T00:00:36.000Z", 
+    "video_length": "PT9M10S", 
+    "captions": [
+        {
+            "text": "bjbjLULU Episode 37: Game Show Theory Hello\nInternet. Welcome to Game Theory, or should", 
+            "dur": "2.85", 
+            "start": "19.98"
+        }, 
+        {
+            "text": "I say Game Show Theory. Because gaming isn\nt just limited to consoles and controllers,", 
+            "dur": "5.56", 
+            "start": "22.83"
+        }, 
+        {
+            "text": "and while, yes, it may be interesting to know\nthat Jynx isn t racist, chances are it won", 
+            "dur": "4.88", 
+            "start": "28.39"
+        }, 
+        {
+            "text": "t help you win A BRAND NEW CAR! So this week,\nwe re entering a world of fabulous prizes", 
+            "dur": "7", 
+            "start": "33.27"
+        }, 
+        {
+            "text": "and gaudy suits, a world of Bobs, from Barker\nto Eubanks, with more Rods and Winks and Dicks", 
+            "dur": "6.03", 
+            "start": "53.25"
+        }, 
+        {
+            "text": "than you can shake a skinny microphone at.\nSo start pricing up your turtle wax and Rice-a-Roni,", 
+            "dur": "5.27", 
+            "start": "59.28"
+        }, 
+        {
+            "text": "Joe Millionaires, because this week I m teaching\nyou how to Press Your Luck without becoming", 
+            "dur": "5.28", 
+            "start": "64.55"
+        }, 
+        {
+            "text": "the Weakest Link. In other words, how knowing\nsimple probability can help you win fabulous", 
+            "dur": "6.789", 
+            "start": "69.83"
+        }, 
+        {
+            "text": "prizes on daytime television. In a few weeks,\nI ll be appearing in the studio audience of", 
+            "dur": "5.42", 
+            "start": "76.619"
+        }, 
+        {
+            "text": "Let s Make a Deal, a classic game show from\nthe 1960s that was revived in 2009 when the", 
+            "dur": "5.67", 
+            "start": "82.039"
+        }, 
+        {
+            "text": "entertainment industry officially ran out\nof creativity. Now, I won t know if I m actually", 
+            "dur": "4.69", 
+            "start": "87.709"
+        }, 
+        {
+            "text": "going to be a contestant until I get there,\nbut it pays to come in prepared. Oh, and if", 
+            "dur": "4.42", 
+            "start": "92.399"
+        }, 
+        {
+            "text": "you re wondering why people are dressed like\nChef Boyardee, remember that this is TV, so", 
+            "dur": "4.311", 
+            "start": "96.819"
+        }, 
+        {
+            "text": "if they re going to give you something, gosh\ndarn it they ve got to humiliate you in front", 
+            "dur": "5.969", 
+            "start": "101.13"
+        }, 
+        {
+            "text": "of millions of people watching from home first!\nSo, if you ve never seen the show before,", 
+            "dur": "4.8", 
+            "start": "107.099"
+        }, 
+        {
+            "text": "the premise is that the host walks around\nthe studio audience giving away prizes: money,", 
+            "dur": "5.03", 
+            "start": "111.899"
+        }, 
+        {
+            "text": "mystery boxes, whatever, and then offers contestants\nthe choice to either keep what they have or", 
+            "dur": "5.11", 
+            "start": "116.929"
+        }, 
+        {
+            "text": "trade it for something hidden behind a curtain.\nOne tends to be a nice prize, while the other", 
+            "dur": "5.36", 
+            "start": "122.039"
+        }, 
+        {
+            "text": "is an ostrich, an adult male in an oversized\ncrib, or some other creature you don t really", 
+            "dur": "3.14", 
+            "start": "127.399"
+        }, 
+        {
+            "text": "want to keep in your back yard. These joke\nprizes are called Zonks. At the end of the", 
+            "dur": "4.31", 
+            "start": "130.539"
+        }, 
+        {
+            "text": "game, the top winners are presented with three\ndoors. Hidden behind one is the big prize", 
+            "dur": "4.36", 
+            "start": "134.849"
+        }, 
+        {
+            "text": "of the day, while the other two hide more\nZonks. So, let s assume I go to the show and", 
+            "dur": "4.61", 
+            "start": "139.209"
+        }, 
+        {
+            "text": "get to select one of the three final doors.\nBehind one is a brand new puce-green kitchen", 
+            "dur": "4.521", 
+            "start": "143.819"
+        }, 
+        {
+            "text": "set straight out of the Johnson-era while\nbehind the other two are donkeys or some other", 
+            "dur": "4.7", 
+            "start": "148.34"
+        }, 
+        {
+            "text": "beast of burden. I choose a door, say door\n1, at which point the host opens one of the", 
+            "dur": "5.309", 
+            "start": "153.04"
+        }, 
+        {
+            "text": "doors I didn t pick to reveal a donkey. He\nthen says that I can change my door if I want", 
+            "dur": "5.631", 
+            "start": "158.349"
+        }, 
+        {
+            "text": "to. Assuming I want a vomit-colored kitchen\nset, should I switch or stay? Does it even", 
+            "dur": "6.22", 
+            "start": "163.98"
+        }, 
+        {
+            "text": "make a difference? It seems like it shouldn\nt matter, right? With only two doors left,", 
+            "dur": "4.149", 
+            "start": "170.2"
+        }, 
+        {
+            "text": "my odds seem to be 50-50, one door hiding\na hideous Frigidair and the other holding", 
+            "dur": "4.691", 
+            "start": "174.349"
+        }, 
+        {
+            "text": "my future pet burro, Bruce. But think again.\nAt the beginning of the game, I had a 1/3", 
+            "dur": "6.039", 
+            "start": "179.04"
+        }, 
+        {
+            "text": "chance of choosing correctly and a 2/3 chance\nof choosing a Zonk, at which point the host", 
+            "dur": "5.24", 
+            "start": "185.079"
+        }, 
+        {
+            "text": "always opens a door with a donkey. If I chose\nthe car initially and then switch, well I", 
+            "dur": "6.68", 
+            "start": "190.319"
+        }, 
+        {
+            "text": "get my ass handed to me, literally. But if\nI chose a donkey in the first round and then", 
+            "dur": "4.681", 
+            "start": "196.999"
+        }, 
+        {
+            "text": "switch, I m guaranteed to win, since the other\ndonkey has already been revealed. Thus, with", 
+            "dur": "5.709", 
+            "start": "201.68"
+        }, 
+        {
+            "text": "my first choice, I m hoping to choose a donkey.\nSince my odds of choosing a donkey at the", 
+            "dur": "5.86", 
+            "start": "207.389"
+        }, 
+        {
+            "text": "beginning of the game was 2/3, by switching,\nI now have a 2/3 chance of walking home with", 
+            "dur": "5.151", 
+            "start": "213.249"
+        }, 
+        {
+            "text": "a refrigerator that ll make the EPA tremble\nin fear. In other words, choosing to switch", 
+            "dur": "7", 
+            "start": "218.4"
+        }, 
+        {
+            "text": "always maximizes your chance of winning. If\nyou re still confused, think about it with", 
+            "dur": "4.92", 
+            "start": "225.62"
+        }, 
+        {
+            "text": "100 doors: 99 donkeys and one kitchen set.\nYou pick a door. Obviously, you have a 1/100", 
+            "dur": "7", 
+            "start": "230.54"
+        }, 
+        {
+            "text": "chance of choosing correctly, which isn t\nvery likely. But then the host, who knows", 
+            "dur": "5.179", 
+            "start": "238.26"
+        }, 
+        {
+            "text": "exactly where the prize is, opens 98 doors\nwith donkeys before offering you the chance", 
+            "dur": "5.541", 
+            "start": "243.439"
+        }, 
+        {
+            "text": "to switch. The odds that the kitchen set is\nbehind your door is still 1/100, but because", 
+            "dur": "6.03", 
+            "start": "248.98"
+        }, 
+        {
+            "text": "the host knowingly cut down the field to one\nother specially-selected door, the odds are", 
+            "dur": "5.83", 
+            "start": "255.01"
+        }, 
+        {
+            "text": "99/100 that by switching, you ll win. It may\nseem like sticking with your door is the right", 
+            "dur": "6.03", 
+            "start": "260.84"
+        }, 
+        {
+            "text": "choice, especially now that you re so close\nto winning, but in actuality, you re no closer", 
+            "dur": "4.46", 
+            "start": "266.87"
+        }, 
+        {
+            "text": "than when you originally started. This situation\nis actually a famous probability problem named", 
+            "dur": "5.74", 
+            "start": "271.33"
+        }, 
+        {
+            "text": "the Monty Hall Problem, named after Let s\nMake a Deal s first and most famous host,", 
+            "dur": "4.99", 
+            "start": "277.07"
+        }, 
+        {
+            "text": "which leaves me with just one more question:\nHow was this color ever in fashion? The 60s", 
+            "dur": "7", 
+            "start": "282.06"
+        }, 
+        {
+            "text": "were a weird time, my friends. But no game\nshow marathon would be complete without a", 
+            "dur": "6.81", 
+            "start": "291.92"
+        }, 
+        {
+            "text": "trip to the granddaddy of daytime gamery,\nthe highlight of every elementary student", 
+            "dur": "5.5", 
+            "start": "298.73"
+        }, 
+        {
+            "text": "s sickday, the Price is Right, specifically,\nthe game that everyone loves to see PLINKO!", 
+            "dur": "7", 
+            "start": "304.23"
+        }, 
+        {
+            "text": "102 pegs, 5 chips, $50,000 on the line. Drop\na chip, win the amount of the slot it lands", 
+            "dur": "7", 
+            "start": "311.29"
+        }, 
+        {
+            "text": "in. Elegant, addicting, and impossible as\nfu**. You see, the game has been a part of", 
+            "dur": "5.39", 
+            "start": "326.94"
+        }, 
+        {
+            "text": "the show since 1983, and yet, for as many\ntimes as it s been played, no one has ever", 
+            "dur": "5.78", 
+            "start": "332.33"
+        }, 
+        {
+            "text": "earned the maximum prize. How could they considering\nit s a game where you randomly drop tokens", 
+            "dur": "5.24", 
+            "start": "338.11"
+        }, 
+        {
+            "text": "down a pachinko board? So is there any way\nto have the odds be ever in your favor? OF", 
+            "dur": "5.62", 
+            "start": "343.35"
+        }, 
+        {
+            "text": "COURSE, but only with the help of the sixth,\nand sadly forgotten Planeteer, Math! (Earth,", 
+            "dur": "0.52", 
+            "start": "348.97"
+        }, 
+        {
+            "text": "fire, wind, water, heart) MATH! Oh come on,\nit s no just as lame as Heart power! Here", 
+            "dur": "0.37", 
+            "start": "349.49"
+        }, 
+        {
+            "text": "s a diagram of the board. Though there are\na total of 102 pegs on the board, a chip will", 
+            "dur": "4.01", 
+            "start": "349.86"
+        }, 
+        {
+            "text": "only hit twelve on its way to the bottom.\nAssuming that at each peg, the chip is equally", 
+            "dur": "5.41", 
+            "start": "353.87"
+        }, 
+        {
+            "text": "likely to go either left or right, where should\na contestant drop their chip to have the best", 
+            "dur": "5.13", 
+            "start": "359.28"
+        }, 
+        {
+            "text": "chance of landing in $10,000? Let s start\nwith slot 5, right in the middle and directly", 
+            "dur": "5.6", 
+            "start": "364.41"
+        }, 
+        {
+            "text": "above the $10,000 space. If the chip is going\nto earn us the most money, it ll need to travel", 
+            "dur": "5.34", 
+            "start": "370.01"
+        }, 
+        {
+            "text": "left six times and right six times, in no\nparticular order. To figure out the probability", 
+            "dur": "5.41", 
+            "start": "375.35"
+        }, 
+        {
+            "text": "of this happening, we can use what s known\nas the binomial distribution. This is the", 
+            "dur": "4.63", 
+            "start": "380.76"
+        }, 
+        {
+            "text": "formula, which is one of those intimidating\nmath formulas that aren t so bad if you work", 
+            "dur": "4.51", 
+            "start": "385.39"
+        }, 
+        {
+            "text": "through them slowly. This top number represents\nthe number of trials, or in our case 12 for", 
+            "dur": "7", 
+            "start": "389.9"
+        }, 
+        {
+            "text": "the number of pegs our chip will hit. This\nbottom number is the number of times we need", 
+            "dur": "3.81", 
+            "start": "400.05"
+        }, 
+        {
+            "text": "it to go left. Since we re assuming the chip\nhas an equal likelihood of going left or right,", 
+            "dur": "5.5", 
+            "start": "403.86"
+        }, 
+        {
+            "text": "the probability is for each, which goes here\nand here. And finally, this is how many times", 
+            "dur": "6.59", 
+            "start": "409.36"
+        }, 
+        {
+            "text": "we want it to go left, and this is how many\ntimes we want it to go right. Through some", 
+            "dur": "3.97", 
+            "start": "415.95"
+        }, 
+        {
+            "text": "boring calculations, we find that the probability\nof it landing in the middle if dropped in", 
+            "dur": "4.39", 
+            "start": "419.92"
+        }, 
+        {
+            "text": "the middle is about 22.56%, or about 1/5 of\nthe time. Not bad, but can we do better? Take", 
+            "dur": "7", 
+            "start": "424.31"
+        }, 
+        {
+            "text": "a look at what happens if you try dropping\nit in either slot 4. We would need it to go", 
+            "dur": "4.31", 
+            "start": "431.96"
+        }, 
+        {
+            "text": "left five times and right seven. Plugging\nit into our equation gives us about 19.34%,", 
+            "dur": "6", 
+            "start": "436.27"
+        }, 
+        {
+            "text": "so significantly less. Slot six would be the\nsame since the board is symmetrical. And the", 
+            "dur": "6.1", 
+            "start": "442.27"
+        }, 
+        {
+            "text": "odds continue to decrease as we move away\nfrom the center. In short, the Plinko board", 
+            "dur": "4.78", 
+            "start": "448.37"
+        }, 
+        {
+            "text": "is a type of normal distribution, or bell\ncurve, where more things wind up towards the", 
+            "dur": "5", 
+            "start": "453.15"
+        }, 
+        {
+            "text": "center than either extreme. So, our best strategy\nis to drop it into the center slot. That said,", 
+            "dur": "6.5", 
+            "start": "458.15"
+        }, 
+        {
+            "text": "what are the odds we walk away with the grand\nprize of $50,000? When determining the odds", 
+            "dur": "5.38", 
+            "start": "464.65"
+        }, 
+        {
+            "text": "of multiple events all happening at the same\ntime, you multiply their probabilities of", 
+            "dur": "4.87", 
+            "start": "470.03"
+        }, 
+        {
+            "text": "happening together. Thus, getting all 5 chips\ninto the $10,000 slot means 22.56 to the fifth", 
+            "dur": "7", 
+            "start": "474.9"
+        }, 
+        {
+            "text": "power or .0584%. It s no wonder no one has\never officially won the game! With odds that", 
+            "dur": "7", 
+            "start": "483.8"
+        }, 
+        {
+            "text": "low, you re more likely to see Michael Bay\ndirect an Oscar-winning art film. So, today", 
+            "dur": "5.69", 
+            "start": "493.68"
+        }, 
+        {
+            "text": "s episode may not guarantee you a win, but\nthe next time you re in an audience and told", 
+            "dur": "4.55", 
+            "start": "499.37"
+        }, 
+        {
+            "text": "to Come on down, remember your math, loyal\ntheorists, and you may just be lucky enough", 
+            "dur": "5.35", 
+            "start": "503.92"
+        }, 
+        {
+            "text": "to go home with a grill shaped like a large\ngreen egg. Now if you ll excuse me, I have", 
+            "dur": "4.61", 
+            "start": "509.27"
+        }, 
+        {
+            "text": "a strange urge to go spay and neuter my cat.\nBut hey, that s just a theory. A game show", 
+            "dur": "6.06", 
+            "start": "513.88"
+        }, 
+        {
+            "text": "theory. Thanks for watching! h}p* h}p* gd?d\nh&#39;u- Episode 37: Game Show Theory Matthew", 
+            "dur": "7", 
+            "start": "519.94"
+        }, 
+        {
+            "text": "Normal.dot Matthew Microsoft Office Word Hewlett-Packard\nEpisode 37: Game Show Theory Title Microsoft", 
+            "dur": "7", 
+            "start": "532.199"
+        }, 
+        {
+            "text": "Office Word Document MSWordDoc Word.Document.8", 
+            "dur": "4.671", 
+            "start": "544.329"
+        }
+    ], 
+    "title": "Game Theory: Monty Hall, Plinko, and Probability", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/034f0", 
+        "/m/0fl60_", 
+        "/m/05qhc", 
+        "/m/07kk5", 
+        "/m/03bt1gh", 
+        "/m/01mw1"
+    ], 
+    "number_views": 1061736, 
+    "categories": [
+        20
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T19:44:41.747Z", 
+            "text": "What do you want more, a donkey or an ostrich?\ufeff", 
+            "author": "Bobby Lockyer"
+        }, 
+        {
+            "date": "2015-05-09T17:27:39.942Z", 
+            "text": "Secret annotation brought me here :D\ufeff", 
+            "author": "Quantum Cat"
+        }, 
+        {
+            "date": "2015-05-08T19:16:45.647Z", 
+            "text": "2:50\n\nI already saw this in an episode of num3rs\n\nyou increase your chance of winning by switching your door after one \n(here)zong is revealed.\n:D\ufeff", 
+            "author": "Mike R"
+        }, 
+        {
+            "date": "2015-05-07T00:11:28.745Z", 
+            "text": "The cat animation at the beginning... ROFLMAO\ufeff", 
+            "author": "Pizza Devil"
+        }, 
+        {
+            "date": "2015-05-05T20:44:57.039Z", 
+            "text": "Hmmm looks like pre calc\ufeff", 
+            "author": "arceus1100"
+        }, 
+        {
+            "date": "2015-05-03T16:36:54.392Z", 
+            "text": "\u00c7\ufeff", 
+            "author": "Hai Nguyen"
+        }, 
+        {
+            "date": "2015-05-01T01:52:54.195Z", 
+            "text": "In reference to the color on the appliances. The color was popular because \nof the amount of indoor smoking and thus the amount of nicotine staining \nsurfaces. So any white appliances you would buy would eventually turn that \ncolor anyway.\ufeff", 
+            "author": "Must Dash"
+        }, 
+        {
+            "date": "2015-04-30T03:10:52.717Z", 
+            "text": "This was actually proven by mythbusters\ufeff", 
+            "author": "the kiwi in america"
+        }, 
+        {
+            "date": "2015-04-26T18:20:09.044Z", 
+            "text": "this may seem like a really stupid question but if no one has won the grand \nprize in plinko then what's the footage at 7:57? it shows a straight shot \nof someone dropping the circle thing and it landing in the grand prize\ufeff", 
+            "author": "carealoo744"
+        }, 
+        {
+            "date": "2015-05-10T01:30:58.839Z", 
+            "text": "+Nurse Joy Gamer ah okay thanks for clearing that up! :)", 
+            "author": "carealoo744"
+        }, 
+        {
+            "date": "2015-04-27T05:37:10.230Z", 
+            "text": "The grand prize is getting the $10,000 slot five times in a row since you \nget five chips to drop, thus the grand prize is the highest possible total, \n$50,000. The final prize is the total of all the spaces your chips land in \nnot just the highest one.", 
+            "author": "Nurse Joy Gamer"
+        }, 
+        {
+            "date": "2015-04-19T16:28:48.284Z", 
+            "text": "Hmm what door would shreck choose?\ufeff", 
+            "author": "Marie Armstrong"
+        }, 
+        {
+            "date": "2015-04-17T21:16:20.095Z", 
+            "text": "The scary part is he is probably right.\ufeff", 
+            "author": "Xander IsAwesome"
+        }, 
+        {
+            "date": "2015-04-17T03:31:31.931Z", 
+            "text": "I don't agree. Your odds are determined based on combined circumstances\n\nLets break it down by percentage per choice:\n\nD1(Donkey)\nD2(Donkey)\nD3(Car) \n\nPlayer 1 chooses door number 1 and the host reveals door number 2 to have a \ndonkey behind it Thus taking door number 2 out of the game. \n\nNew choice\nD1(Donkey)\nD3(Car)\n\nNow the odds are 1 out of 2, if you decide to pick a door at random.\n\n\nProbability is based on individual circumstance. You now have a one in two \nchance of choosing a donkey. The difference here, is that you don't have an \nextra donkey. Your odds of choosing a car have increased to 1 out of 2 \nregardless of which choice you made previously. By staying the same you \nhave the same chance of winning your car as you do by switching.\ufeff", 
+            "author": "Zach's Playing Video Games"
+        }, 
+        {
+            "date": "2015-05-09T00:07:24.537Z", 
+            "text": "+Lamfp Dewd The Mathematical evidence is backed up by practical, real-world \nexperiments. The odds in real life are 1/3 staying vs 2/3 switching.", 
+            "author": "babayetu1000"
+        }, 
+        {
+            "date": "2015-04-20T05:35:58.000Z", 
+            "text": "+Zach's Playing Video Games Think about it like this\nD1 - 1/3\nD2 - 1/3\nD3 - 1/3\nBy picking D1, you pick a 1/3 chance. When the host opens D3, and it has \nthe goat, D3 is eliminated and it's 1/3 is transferred over to D2, giving \nit a 2/3 chance. *Mathematically* speaking, switching would be to your \nadvantage, but *practically* speaking, the chances are 50/50.", 
+            "author": "Lamfp Dewd"
+        }, 
+        {
+            "date": "2015-04-18T10:01:18.254Z", 
+            "text": "+Zach's Playing Video Games \nPlayer chooses D1 and switches - wins\nPlayer chooses D2 and switches - wins\nPlayer chooses D3 and switches - loses\n\nOf the 3 possible scenarios switching wins in 2 of them", 
+            "author": "HumptyDumptyOakland"
+        }, 
+        {
+            "date": "2015-04-16T04:01:45.954Z", 
+            "text": "FINALLY I UNDERSTAND THIS! Thank you! \ufeff", 
+            "author": "The Connor Show"
+        }, 
+        {
+            "date": "2015-04-15T18:36:48.165Z", 
+            "text": "so, the odds of winning the $50000 are 1 in 200. those odds aren't really \nso low.\ufeff", 
+            "author": "Tom Anderson"
+        }, 
+        {
+            "date": "2015-04-14T21:18:22.836Z", 
+            "text": "secret annotation\ufeff", 
+            "author": "ikanhazw1n"
+        }, 
+        {
+            "date": "2015-04-14T02:58:01.892Z", 
+            "text": "This was a much easier to understand explaination of the Monty Hall problem \ncompared to Scam School's. It was good and I was able to understand it, but \nthis was better and clearer. Then again, the problem in this video was the \nactual problem in the video rather than a card trick based off the problem. \nCool trick though if your friends don't know the problem. You could \nprobably earn a couple dollars off of them by setting it up the right way.\ufeff", 
+            "author": "jrbviwiz"
+        }, 
+        {
+            "date": "2015-04-12T00:40:51.500Z", 
+            "text": "Wooh Weakest Link reference love the Doctor Who Special! Yes I am truly a \nnerd/geek genetic hybrid..\ufeff", 
+            "author": "Gamer Haven"
+        }, 
+        {
+            "date": "2015-04-20T15:40:24.303Z", 
+            "text": "Ya sounds reasonable", 
+            "author": "Gamer Haven"
+        }, 
+        {
+            "date": "2015-04-20T05:41:53.000Z", 
+            "text": "+Gamer Haven The \"geek\" label is like quantum particles\nUpon direct observation the subject in question ceases to exist the same \nway you saw it. You probably watch big bang theory and jumped onto the \nwhole \"I'm an attractive person and I'm interested in things unattractive \npeople are interested in! Look how unique and special I am! give me likes \nplz\" bandwagon.", 
+            "author": "Lamfp Dewd"
+        }, 
+        {
+            "date": "2015-04-05T23:17:16.541Z", 
+            "text": "You have a fifty fifty chance............of choosing .....\n\n\n\n\n\n\n\n\n\n\n\n.....to angrily rspond to this comment before you read it through.\ufeff", 
+            "author": "anne"
+        }, 
+        {
+            "date": "2015-04-23T05:22:49.248Z", 
+            "text": "+anne Cool Cool.", 
+            "author": "RozDawsGaming"
+        }, 
+        {
+            "date": "2015-03-30T07:08:09.517Z", 
+            "text": "HEY The Big Green Egg brand of grills is very high quality\ufeff", 
+            "author": "Jeremy Connell"
+        }, 
+        {
+            "date": "2015-03-30T04:25:22.953Z", 
+            "text": "Can someone tell me what season and episode of Let's Make a Deal MatPat was \non?\ufeff", 
+            "author": "Lightsaber02"
+        }, 
+        {
+            "date": "2015-04-22T00:46:57.423Z", 
+            "text": "+MrElectricity So does DEEBZ", 
+            "author": "wetbellies"
+        }, 
+        {
+            "date": "2015-04-16T02:46:38.613Z", 
+            "text": "+Lightsaber02 I want to know too", 
+            "author": "MrElectricity"
+        }, 
+        {
+            "date": "2015-03-19T20:23:13.166Z", 
+            "text": "Passed my Math course thanks to this video. Got me laid too.... not really \nbut the former is true :p\ufeff", 
+            "author": "Sudheer Anand"
+        }, 
+        {
+            "date": "2015-03-19T16:09:42.926Z", 
+            "text": "you could also do some fancy expected-value calculations in combination \nwith your binomial distribution function and develop a strategy to win the \nmost per full game\ufeff", 
+            "author": "krass76"
+        }, 
+        {
+            "date": "2015-03-15T08:37:15.681Z", 
+            "text": "I actually got really luck once and got .5% odds in a game which really \nsurprised me\ufeff", 
+            "author": "rj lavoy (Blueblob2134)"
+        }, 
+        {
+            "date": "2015-03-12T08:19:30.368Z", 
+            "text": "Does he have more videos like this? All the other ones seem to be video \ngame/acting related.\ufeff", 
+            "author": "HentaiSweetie"
+        }, 
+        {
+            "date": "2015-03-09T20:54:39.673Z", 
+            "text": "All gambling games and game shows can be won through math, I've heard :)\ufeff", 
+            "author": "LordBloodySoul"
+        }, 
+        {
+            "date": "2015-03-08T08:45:10.377Z", 
+            "text": "Kitty Was 8/Train Part Of Video.\nThe Rest Was Just 10/10.\ufeff", 
+            "author": "Christopher Gaming"
+        }, 
+        {
+            "date": "2015-03-07T02:32:09.942Z", 
+            "text": "If the board is TRULY random - meaning that each chip has an equal chance \nof landing in any of the nine slots at the bottom - the probability of \nwinning $50,000 is 1 in 59,049 or less than 0.02%.\n\nBut there are ALSO the odds of even GETTING the five chips.  You're given \none and must win each of the other four by determining if a price of a \nsmall prize has the first number or last number right.  That's a 1 in 2 for \neach of four prizes...or 1 in 16 of getting all four right.  So...the true \nchances of a) getting all five chips and b) getting each chip into $10,000 \non a truly randomized board is...1 in 944,784!  That's just over 0.001%!\n\nBottom line: odds are exceedingly good that Plinko! will NEVER be won!  \nThat ain't no theory...that's FACT!\ufeff", 
+            "author": "cwolvie"
+        }, 
+        {
+            "date": "2015-03-06T06:25:47.480Z", 
+            "text": "Was that (a)unt thing a reference to Family Guy? Or were they just making a \ntypical joke? Probably the second one...\ufeff", 
+            "author": "KASASpace"
+        }, 
+        {
+            "date": "2015-04-20T06:04:49.697Z", 
+            "text": "+Lamfp Dewd It was on the show...", 
+            "author": "KASASpace"
+        }, 
+        {
+            "date": "2015-04-20T05:36:54.435Z", 
+            "text": "+KASASpace ...what the actual fuck does it have to do with family guy?", 
+            "author": "Lamfp Dewd"
+        }, 
+        {
+            "date": "2015-03-05T16:27:16.707Z", 
+            "text": "secret annotation!\ufeff", 
+            "author": "Grady Paulson"
+        }, 
+        {
+            "date": "2015-03-04T15:16:39.770Z", 
+            "text": "Not quite understanding the monty hall problem here. If you pick a door, \nthen you are shown one gag you are still left with 2 doors that you have no \nclue what is behind them. The one gag door has no effect on the two \nremaining closed doors and by having the option to switch you are still \nchoosing between two closed doors. It's 50/50 no matter what, unless the \nrevealed zonk door somehow magically changes what's behind the door you \nalready chose 2/3rds of the time.\ufeff", 
+            "author": "Epic Furry"
+        }, 
+        {
+            "date": "2015-03-07T12:58:54.787Z", 
+            "text": "Your making wrong assumptions about the probabilities. The key to why the \nprobability isn't 50/50 is that the Show Host doesn't choose a door \nrandomly to remove but has to specifically reveal an unchosen door with a \nzonk. He is not allowed to reveal the door that you chose and he is not \nallowed to reveal the prize. These conditions are what remove any \nrandomness or independent probability that would cause the remaining \nprobability to remain 50/50. The video explains the remaining maths and \nlogic behind it but the seemingly unintuitive logic stems from these \nconditions.", 
+            "author": "Random Ashe"
+        }, 
+        {
+            "date": "2015-03-01T23:48:05.773Z", 
+            "text": "Cannot unsee GTA font for the price is right.....\ufeff", 
+            "author": "Anastasia O'sullivan"
+        }, 
+        {
+            "date": "2015-02-27T06:45:56.650Z", 
+            "text": "you should do research to see if marijuana use was more or less prominent \nin the 60s\ufeff", 
+            "author": "k bert"
+        }, 
+        {
+            "date": "2015-02-26T00:33:45.956Z", 
+            "text": "Is love how he explains this better than when I was taught this in school\ufeff", 
+            "author": "vagtsr21"
+        }, 
+        {
+            "date": "2015-02-25T04:12:28.982Z", 
+            "text": "Why the cat?\ufeff", 
+            "author": "Comet \u201cStormy\u201d Dash"
+        }, 
+        {
+            "date": "2015-02-23T16:18:56.605Z", 
+            "text": "i didnt understand this vid, but i made my own reult:  stay, and yourd odds \nare still 1/3, but switch and your odds are now 1/2\ufeff", 
+            "author": "anorack marcolin"
+        }, 
+        {
+            "date": "2015-03-23T14:44:22.105Z", 
+            "text": "Here's another way to look at things:\n100 doors, 99 goats, 1 car.\n1-in-100 (or 1%) chance of picking the car first time with 99-in-100 (99%) \nchance of picking a goat first time.\nThe host knows that Door #58 is the car and you picked Door #24 at the \nstart of the round.\n\nFor each door the host opens that is not #58 or #24 the probability the \ndoor you picked has the car is still 1% but the probability the car is \nbehind one of the other doors raises continually until you're brought down \nto two final doors - Door #24, your initial pick & Door #58.\nAt the start of the round each door has 1% chance of being a car and 99% \nchance of being a goat, now things have boiled down to a choice between \nDoor #24 (Stick) & Door #58 (Swap), the probability of Door #58 being the \ncar (and the host KNOWS it is) has risen to 99% whilst you still have a 1% \nchance of Door #24 having the car.\n\nIf you swap from Door #24 to Door #58 at this point your odds of picking \nthe car have jumped from 1% to 99%, and once the host opens either Door #24 \nto reveal a goat (it always had a 99% chance of being a goat from the start \nof the round) or Door #58 to reveal the car, by swapping to Door #58 - *YOU \nWIN!*", 
+            "author": "AEon Tokusatsu Reviews"
+        }, 
+        {
+            "date": "2015-03-08T17:35:20.190Z", 
+            "text": "If that were true then 1/2 + 1/3 would be 1 so you cant be right. The odds \nof winning + the odds of losing by definition have to be 1.\n\nEach door is 1/3 so sticking with a door by definition is 1/3. 1- 1/3 = 2/3 \nno matter how you want to solve this therefore you win 2/3 of the time when \nyou switch. All that is left is to understand why.\n\nI have found the best way to explain this is by changing the game in a way \nthat makes it look like I changed the game mechanics when I really didn't.\n\nIn this \"new\" game the host does not open a door. You pick 1 door and then \nif you want you can pick both other doors instead. At this point everyone \nwould agree that getting to open 2 doors has a 2/3 chance of winning.\n\nWell, this is actually exactly the same game.\n\nAll the host does in the original game is open 1 of your 2 doors for you.\n\nIn both games when you switch you end up with 2 doors open, neither of \nwhich is the door you started with.\n\nIn the end this all comes down to the very simple question, do you want to \nstick with the 1/3 group or move to the 2/3 group.", 
+            "author": "nosirrahx"
+        }, 
+        {
+            "date": "2015-02-22T22:21:49.107Z", 
+            "text": "Did anyone else notice the reference to the '85 ghostbusters game?\ufeff", 
+            "author": "Generic Gaben"
+        }, 
+        {
+            "date": "2015-02-20T21:57:15.763Z", 
+            "text": "I made a video about the Monty Hall problem and quantum mechanics.\nI wonder your opinion.\ufeff", 
+            "author": "Edem Sauce"
+        }, 
+        {
+            "date": "2015-02-20T17:13:31.610Z", 
+            "text": "The secret annotation brought me here.. :D\ufeff", 
+            "author": "lpsessykochick"
+        }, 
+        {
+            "date": "2015-02-11T08:44:18.763Z", 
+            "text": "WROUNG AT 5:25 WE SEE THAt it can move right twice WITHOUT FALLING\ufeff", 
+            "author": "Michael Aldridge"
+        }, 
+        {
+            "date": "2015-02-09T07:10:08.166Z", 
+            "text": "anyone else catch that cunt joke?\ufeff", 
+            "author": "LovelyMuffinToons"
+        }, 
+        {
+            "date": "2015-02-08T12:17:44.945Z", 
+            "text": "Am I the only one who thought \"_unt\" was \"cunt\"?\ufeff", 
+            "author": "Young ReeZy"
+        }, 
+        {
+            "date": "2015-03-07T03:10:26.210Z", 
+            "text": "Yes. That was the joke.", 
+            "author": "ArlenAlton"
+        }, 
+        {
+            "date": "2015-02-06T16:46:29.531Z", 
+            "text": "donwton abbey mat?\ufeff", 
+            "author": "little suds"
+        }, 
+        {
+            "date": "2015-02-06T02:24:12.362Z", 
+            "text": "the secret annotation brought me here, now what?!\ufeff", 
+            "author": "sylvie-rachelle Bigras"
+        }, 
+        {
+            "date": "2015-02-05T01:02:01.437Z", 
+            "text": "The secret annotation brought me here.\ufeff", 
+            "author": "Jorge Eduardo Morales Arch"
+        }, 
+        {
+            "date": "2015-02-03T19:20:35.225Z", 
+            "text": "Ty this video helped me a lot for a school project\ufeff", 
+            "author": "Matthew Sun"
+        }, 
+        {
+            "date": "2015-02-02T23:54:13.489Z", 
+            "text": "Secret Annotation Brought Me Here...\ufeff", 
+            "author": "AJ  L. Stick"
+        }, 
+        {
+            "date": "2015-02-02T21:25:02.554Z", 
+            "text": "I like how you showed Mike Larson for 'Press your Luck' the man who cheated \nthe game, stressed out, won the money and 101k was WAY OVER the usual under \n10k prizes, brought it home in singles, left home, it was stolen, accused \nhis wife and ran away doing scams... and died.\ufeff", 
+            "author": "PrinceGentleKnight"
+        }, 
+        {
+            "date": "2015-02-02T20:15:00.791Z", 
+            "text": "I did this in school\ufeff", 
+            "author": "Maxman \u201cMaxman2023\u201d 2023"
+        }, 
+        {
+            "date": "2015-01-31T20:59:36.758Z", 
+            "text": "Conglaturation, MatPat! You have completed a great theory!\ufeff", 
+            "author": "Force0fWi11"
+        }, 
+        {
+            "date": "2015-01-31T05:04:52.999Z", 
+            "text": "The secret annotation brought me here!\ufeff", 
+            "author": "Luke Fitzwater"
+        }, 
+        {
+            "date": "2015-01-31T01:10:52.777Z", 
+            "text": "secret annotation brought me here!!!!\ufeff", 
+            "author": "Michael McCoy"
+        }, 
+        {
+            "date": "2015-01-29T23:45:22.081Z", 
+            "text": "I love how everyone is trying to say that the Monty Hall Paradox is BS when \nit is proven by math. Interpretation does not mean anything unless you have \nstatistics. So remember: Always Cite your Sources. No Sources, No Smarts\ufeff", 
+            "author": "ntico25"
+        }, 
+        {
+            "date": "2015-01-27T15:38:21.526Z", 
+            "text": "WHO WOULDN'T WANT AN OSTRICH???\ufeff", 
+            "author": "Andrew Lagno"
+        }, 
+        {
+            "date": "2015-01-22T17:39:51.475Z", 
+            "text": "loved the -unt joke\ufeff", 
+            "author": "Fozzy Flying"
+        }, 
+        {
+            "date": "2015-01-19T05:02:31.611Z", 
+            "text": "It took me fuckin' long enough, but the damn annotation in Announcement #1 \nFINALLY took me here. Don't judge me.\ufeff", 
+            "author": "Noah Vince"
+        }, 
+        {
+            "date": "2015-01-17T23:28:35.058Z", 
+            "text": "Secret Annotation, anybody?\ufeff", 
+            "author": "TheArmyCreepers"
+        }, 
+        {
+            "date": "2015-01-17T11:19:05.072Z", 
+            "text": "the 60s and 70s was a dark time for interior colors XD\n\nbut their appliances just did not want to die. so there is that!  \ufeff", 
+            "author": "ScottaHemi"
+        }, 
+        {
+            "date": "2015-01-14T07:29:17.460Z", 
+            "text": "did he just say the F word?\ufeff", 
+            "author": "Saud AlJuhani"
+        }, 
+        {
+            "date": "2015-01-11T20:15:40.438Z", 
+            "text": "secret anotation wat.\ufeff", 
+            "author": "MagusThePsycho"
+        }, 
+        {
+            "date": "2015-01-07T20:39:12.241Z", 
+            "text": "Actually, the probability of winning the maximum prize in Plinko is even \nworse than PDP suggests. His distribution is correct, but he doesn't \ninclude the fact that you have to earn 4 of the chips before you can place \nthem on the board. With 4 chip to earn (the 5th is a freebie) and a 50/50 \nchance to earn each chip it's much worse. Odds of 0.5 ^ 4 to earn the chips \n(50% chance for each of 4 chips) and you have a 0.0625 chance to have all 5 \nchips...or 1 in 16. Then multiply that by PDP's 0.0584 and you have a \n0.365% chance, or 1 in 274 at best...much worse than the 1 in 17 (0.0584) \nsuggested.\ufeff", 
+            "author": "Rxsky Living"
+        }, 
+        {
+            "date": "2015-01-16T08:29:52.659Z", 
+            "text": "Oh yeah, whoops. xD", 
+            "author": "Thor Christensen"
+        }, 
+        {
+            "date": "2015-01-16T07:16:45.159Z", 
+            "text": "Not completely. Again, he only mentions the probability of earning $50,000 \non the board with the 5 chips, but you have to earn the chips first which \nisn't taken into consideration.", 
+            "author": "Rxsky Living"
+        }, 
+        {
+            "date": "2015-01-13T22:57:11.670Z", 
+            "text": "+Rxsky Living No, he was correct.", 
+            "author": "Thor Christensen"
+        }, 
+        {
+            "date": "2015-01-13T17:09:14.314Z", 
+            "text": "Slight oversight that it was expressed as a percentage. Though as I said, \nthe video greatly under estimates the true probability!", 
+            "author": "Rxsky Living"
+        }, 
+        {
+            "date": "2015-01-12T01:46:46.094Z", 
+            "text": ".0584% is actually .000584 because you have to divide by 100 to get rid of \nthe percent sign. It's actually 1 in 1712 times 1 in 16, equals a total \nprobability of 1 in 27,392.", 
+            "author": "Thor Christensen"
+        }, 
+        {
+            "date": "2015-01-07T06:59:23.159Z", 
+            "text": "Cats really like cars...\ufeff", 
+            "author": "fizzywafflz superstore"
+        }, 
+        {
+            "date": "2015-01-07T07:05:28.110Z", 
+            "text": "     A WINNER IS YOU\n\n   CONGLATURATION\n\nYOU HAVE COMPLETED A\n        GREAT GAME!", 
+            "author": "fizzywafflz superstore"
+        }, 
+        {
+            "date": "2015-01-06T22:22:42.639Z", 
+            "text": "Is it weird that I want an osterage more then a kitchen set\ufeff", 
+            "author": "434444334"
+        }, 
+        {
+            "date": "2015-01-25T01:06:05.929Z", 
+            "text": "No the ostrich is way better", 
+            "author": "I am Good cat"
+        }, 
+        {
+            "date": "2015-01-04T16:01:03.565Z", 
+            "text": "This is the only explanation of the Monty Hall Problem that I have ever \nunderstood!\ufeff", 
+            "author": "April Jones"
+        }, 
+        {
+            "date": "2015-03-17T20:46:30.948Z", 
+            "text": "I know right, and only because he used that 100 doors thing.", 
+            "author": "Rigved Goyal"
+        }, 
+        {
+            "date": "2015-01-03T22:37:39.946Z", 
+            "text": "this episode was brought to you by Charles Epps from numb3rs\ufeff", 
+            "author": "Liamnator1005"
+        }, 
+        {
+            "date": "2015-01-02T18:10:16.376Z", 
+            "text": "How do you tell if someone is retarded?\n\nYou read the youtube comments on a video about the Monty Hall Problem and \nsee who thinks it's only 50/50 even after seeing an explanation.\ufeff", 
+            "author": "Forge Ahead"
+        }, 
+        {
+            "date": "2015-02-11T00:09:54.157Z", 
+            "text": "+TheDkmariolink yes", 
+            "author": "Zachary Magnusson"
+        }, 
+        {
+            "date": "2015-01-26T13:31:19.211Z", 
+            "text": "It's 66/33 right?", 
+            "author": "TheDkmariolink"
+        }, 
+        {
+            "date": "2015-01-04T05:31:15.947Z", 
+            "text": "lol....yup.  that's why math is so prevalent in games, cards, gambling, \netc.  Stupid people are stupid.  ", 
+            "author": "Justin T"
+        }, 
+        {
+            "date": "2015-01-02T05:33:33.737Z", 
+            "text": "They did this on myth busters \ufeff", 
+            "author": "Cory Hale"
+        }, 
+        {
+            "date": "2015-01-01T23:59:42.523Z", 
+            "text": "why is the GTA font exactly the same as the TPIR font\ufeff", 
+            "author": "Roes One"
+        }, 
+        {
+            "date": "2014-12-31T07:19:36.285Z", 
+            "text": "\"sad cat is sad\"\ufeff", 
+            "author": "farhaan reshi"
+        }, 
+        {
+            "date": "2014-12-31T04:22:03.606Z", 
+            "text": "Do you get to keep the zonk? Because I love donkeys and wouldn't care if I \ndidnt get the kitchen xD\ufeff", 
+            "author": "Beth Rodgers"
+        }, 
+        {
+            "date": "2014-12-30T14:18:29.223Z", 
+            "text": "The secret Annotation brought me here:)\ufeff", 
+            "author": "G Hanson (Gmonkey2k)"
+        }, 
+        {
+            "date": "2014-12-29T17:48:54.882Z", 
+            "text": "Is it bad that I think you explained Binomial Distribution and Normal \nDistribution Curves better than my Stats teacher?\ufeff", 
+            "author": "Brady Schaefer"
+        }, 
+        {
+            "date": "2014-12-26T03:08:26.501Z", 
+            "text": "Dude I love Air Zonk!  Amazing parallax scrolling on a console done \nentirely in software\ufeff", 
+            "author": "Jools Stoo"
+        }, 
+        {
+            "date": "2014-12-24T21:17:37.891Z", 
+            "text": "The binomial distribution only works if each outcome is independent from \nthe previous, but in the Plinko machine if the chip goes in one direction \nfor a while, it's going to keep going in that direction (intertia, if it's \nbeen going left for 3 pegs, it's probably going to keep going left). Using \nbinomial distribution would only be applicable in an environment with no \ninertia, but that's just my theory :)\ufeff", 
+            "author": "Akshata P"
+        }, 
+        {
+            "date": "2015-04-27T19:47:41.824Z", 
+            "text": "+Akshata P but thats just your theory, a fan theory", 
+            "author": "Enis Spahiu"
+        }, 
+        {
+            "date": "2015-04-08T13:55:46.189Z", 
+            "text": "That's interesting to consider actually, thanks.", 
+            "author": "Akshata P"
+        }, 
+        {
+            "date": "2015-04-08T13:48:20.451Z", 
+            "text": "+Akshata P Although your statement is essentially correct, there is one \nobservation I would make.  The inertial effect is not so significant as one \nmight think, even though it can be a significant factor (bear with me).  \nAlthough it will pick up inertia (it will slide right across multiple pins \npretty rapidly under inertia), if it builds up inertia it will also \nricochet off of a side pin, acting as a counterforce that generally causes \nit to fall the other way (yes, I watched The Price is Right as a very young \nchild and I remember it).  I am not prepared to tell you how the two forces \ninterrelate, but there are counterveiling forces to inertia.  Although a \nbinomial distribution isn't going to be a properly accurate description, \nthe chance of counterveiling force makes for some degree of functional \nindependence, perhaps (though not likely) sufficient to render it \nequivalent to independence.", 
+            "author": "Pneumonica"
+        }, 
+        {
+            "date": "2015-02-20T21:53:10.897Z", 
+            "text": "I think that you will find my video interesting. It is about the Monty Hall \nand quantum mechanics.\nI wonder your opinion. Thanks for watching.", 
+            "author": "Edem Sauce"
+        }, 
+        {
+            "date": "2015-02-10T23:59:46.696Z", 
+            "text": "+Gary Oak: Pokemon Master Fucking GARY OAK! STAHP KILLING VENASAUR WITH \nTHAT DAMN CHARIZARD!!!", 
+            "author": "Zachary Magnusson"
+        }, 
+        {
+            "date": "2015-01-25T19:34:26.122Z", 
+            "text": "Well it also depends where you drop it from because if you drop it from the \nfar left the probability of it going left is 0.\nAlso what i meant is the chip doesn't always have a 50/50 percent chance of \ngoing left or right because if it just went left, it's more likely to go \nleft because its inertia makes it harder for it to go right\nI don't know much about physics, I'm kind of using logic here so if anyone \ncan jump in with some physics, that'd be great", 
+            "author": "Akshata P"
+        }, 
+        {
+            "date": "2015-01-25T19:29:17.582Z", 
+            "text": "Although I really don't know how to math or physics very well, if the \ninertia is constant no matter where the chip is dropped from, doesn't that \nessentially keep the rates of success the same?", 
+            "author": "Gary Oak: Pokemon Master"
+        }, 
+        {
+            "date": "2015-01-12T05:10:45.673Z", 
+            "text": "+Akshata P lol", 
+            "author": "Joneko Anything Goes"
+        }, 
+        {
+            "date": "2015-01-05T22:51:45.534Z", 
+            "text": "your GAME THEORY", 
+            "author": "helical codex"
+        }, 
+        {
+            "date": "2014-12-24T21:21:11.201Z", 
+            "text": "Or should I say, one of the four conditions that need to be\nSTATisfied", 
+            "author": "Akshata P"
+        }, 
+        {
+            "date": "2014-12-24T21:20:51.621Z", 
+            "text": "It's one of the 4 conditions that need to be satisfied for using binomial \ndistribution", 
+            "author": "Akshata P"
+        }, 
+        {
+            "date": "2014-12-24T21:18:45.898Z", 
+            "text": "That's true. The independence of the events is important.", 
+            "author": "Parth Kotak"
+        }, 
+        {
+            "date": "2014-12-23T15:27:11.436Z", 
+            "text": "Ooh! We learned about this in math class once! And this concept was on \nNUMB3RS! I love Game Theory.\ufeff", 
+            "author": "Insanely Random Eiledon"
+        }, 
+        {
+            "date": "2014-12-23T13:08:58.597Z", 
+            "text": "Probability of choosing one correct answer between 2 options in one chance \nwill always be 50%. The knowledge of what is behind a third door has \nabsolutely nothing to do with probability. Its just a theory, a math \ntheory! \ufeff", 
+            "author": "Nathan Zeligman"
+        }, 
+        {
+            "date": "2015-01-05T10:28:14.868Z", 
+            "text": "+MegaSupernova888 Ok....skimmed thru too fast.  Apologies", 
+            "author": "Justin T"
+        }, 
+        {
+            "date": "2015-01-04T17:43:57.427Z", 
+            "text": "+Justin T Oh, no! I was trying to help him understand that events are NOT \nindependent. I only said \"Yep!!!\" At the end because he finally understood \nwhy the events weren't independent and was able to see the correct \nprobability.", 
+            "author": "MegaSupernova888"
+        }, 
+        {
+            "date": "2015-01-04T08:38:14.513Z", 
+            "text": "the guy above u....i thought u were agreeing with him.  apologies if not. ", 
+            "author": "Justin T"
+        }, 
+        {
+            "date": "2015-01-04T06:46:55.966Z", 
+            "text": "+Justin T I said that. Were you meaning to reply to another person?", 
+            "author": "MegaSupernova888"
+        }, 
+        {
+            "date": "2015-01-04T05:47:45.253Z", 
+            "text": "+MegaSupernova888 Lol...nope.  Your logic is right, but you're missing the \nobvious.  Yes, your second choice would be 50% if it were an independent \nevent.  Since the revealed door is always a zonk, you presume the first \nchoice to be irrelevant.  But they CANNOT reveal the door you choose. \n Therefore, once they eliminate the first zonk door, you HAD a 66% chance \nto pick a zonk in round 1.  Round 2 is not a new event.  If you picked the \nprize in round 1 (33% chance), and you change...you lose.  However, the \nodds are that you picked a zonk (66%) so by changing, you win.  Its not a \nguarantee obviously....but it is NOT a 50/50 shot, because it is NOT 2 \nseparate events.  If you can't understand from there....then just realize \nthat life is always more difficult for stupid people, and brace for the \nworst. ", 
+            "author": "Justin T"
+        }, 
+        {
+            "date": "2014-12-29T05:52:58.735Z", 
+            "text": "+Nathan Zeligman Yep!!", 
+            "author": "MegaSupernova888"
+        }, 
+        {
+            "date": "2014-12-29T04:56:50.957Z", 
+            "text": "+MegaSupernova888 i understand. If the prize behind the door appeared \nrandomly after each choice, it would independent. But since they \nintentionally reavel the wrong choices they basically give away the correct \nanswer.", 
+            "author": "Nathan Zeligman"
+        }, 
+        {
+            "date": "2014-12-28T03:58:21.000Z", 
+            "text": "+Nathan Zeligman But it is dependent on the first... If you have a 1/100 \nchance of picking correctly the first time and do nothing, the second \nchoice doesn't matter. HOWEVER, if you have a 1/100 chance of picking \ncorrectly, then 98 wrong choices are eliminated, your choice from the first \nproblem is still relevant; back then you could have picked any of the 98 \nother incorrect doors. Thus, switching gives you a 99/100 chance of being \ncorrect, because they purposely leave the correct choice behind.\n\nThe only way these choices would be independent of one another is if you \nwere talking about a game where they disregard the first choice (99/100 of \ngetting it wrong) and take you to a separate game board with 2 doors you've \nnever seen before.\n\nThe point of the big reveal is that it gives you new information; it's \ntelling you what you didn't know before, that 98 of those other choices \nwere wrong. It's way more likely that, if two choices from the original \nproblem remain, that your choice was wrong as well if there's only one \ncorrect choice.\n\nI hope this helps! :D If not, I'd be glad to explain it more. It's a great \nproblem that, when you understand it, lets you see probability in a whole \nnew light.", 
+            "author": "MegaSupernova888"
+        }, 
+        {
+            "date": "2014-12-26T18:25:43.541Z", 
+            "text": "+Parth Kotak if the probability of the second choice was dependant on the \nfirst it would be greater. But the second choice is INDEPENDENT of the \nfirst choice, making whichever door you chose first irrelevant. Therefore \nit is absolutely a 50% chance.", 
+            "author": "Nathan Zeligman"
+        }, 
+        {
+            "date": "2014-12-24T21:15:20.513Z", 
+            "text": "no, it's a higher probability. ", 
+            "author": "Parth Kotak"
+        }, 
+        {
+            "date": "2014-12-23T05:19:45.039Z", 
+            "text": "That proportion is only 1 in 200 how has no one one it\ufeff", 
+            "author": "Elliot Johns"
+        }, 
+        {
+            "date": "2015-02-10T02:56:06.638Z", 
+            "text": "i know but not every one put it in the center, just saying", 
+            "author": "Joshua Messer"
+        }, 
+        {
+            "date": "2015-02-10T02:33:34.463Z", 
+            "text": "+Joshua Messer\ni know but so many people have dont this plinko thing i think that someone \nwould probly have to get it", 
+            "author": "Elliot Johns"
+        }, 
+        {
+            "date": "2015-02-08T05:08:00.000Z", 
+            "text": "+Nicholas Smith yea but think, every person has 1 in 2000 chance, it's like \nsaying if two people flip a coin there would be one head and one tail every \ntime.", 
+            "author": "Joshua Messer"
+        }, 
+        {
+            "date": "2014-12-27T21:54:35.999Z", 
+            "text": "1 in 2000...", 
+            "author": "Nicholas Smith"
+        }, 
+        {
+            "date": "2014-12-22T00:34:04.860Z", 
+            "text": "HEhEEH\nGO TO tRutHcOntesTcoM, ReaD tHE POrESent\ufeff", 
+            "author": "Falon Gonzales"
+        }, 
+        {
+            "date": "2014-12-20T19:34:21.145Z", 
+            "text": "lol just found the easter egg on the announcement #1\ufeff", 
+            "author": "Chris Liu"
+        }, 
+        {
+            "date": "2014-12-17T23:49:04.111Z", 
+            "text": "I think I get it. Basically the probability works because the likely hood \nyou chose a zonk in the first place was 66% to begin with. So most likely \nyou're on a zonk with the one you picked. After the other one that's a zonk \nis revealed, you increase your chance of getting the good prize because you \nlikely picked a bad one to begin with. The odds go in your favor when the \nother bad prize and where it is has been eliminated from your choice.\n\nThe reason it doesn't \"reset\" is because it was high that you chose a zonk \nto begin with. That doesn't change when the other one is revealed.\n\nI had a hard time wrapping my head around this one till I thought of the \n66% being against you until the other place of a bad prize was revealed.\nI still have some issues, I suppose my brain is just not oriented to think \nthis way. I felt like it resets, but it doesn't because your odds were not \nequal to begin with.\n\nIt's a great play on human psychology too. We like to stick pridefully with \nour instincts, even though gut feelings are usually wrong.\n\nAll gambling, shows and anything having to do with winning are stacked up \nso you're likely to be the loser.\n\nHumans aren't good with probability in the face of dopamine based promise, \nor the idea of reward. That's why gambling works.\ufeff", 
+            "author": "Vixx \u201cSinvanor\u201d Celacea"
+        }, 
+        {
+            "date": "2014-12-10T19:50:28.425Z", 
+            "text": "Let's make this perfectly clear: the prizes NEVER MOVE during the game. \nLet's say that, after the host opens up one of the doors, someone backstage \nrandomly switches the remaining two prizes. THEN you would have a 50-50 \nchance of being right. But that's not what happens.\n\nSo, say you pick a door. Because there are three doors with an equal \nlikelihood of being right, you now have a 1/3 chance of having picked the \ncorrect door. Then the host intentionally opens a wrong door that you \ndidn't choose. Now here's the key: because the prizes haven't moved, you \nstill have only a 1/3 chance of having picked the correct door. The door \nthe host opened was never the correct door, which is why he opened it. The \ncorrect door hasn't changed at all. Therefore, the door you picked is \ncorrect if and only if it was correct before a door was opened; the \nprobability of that is 1/3. That leaves a 2/3 chance that the third door is \nthe correct one.\n\nIf you're still not convinced, think of it this way. Suppose that, instead \nof opening a door, the host told you that you could take either the prize \nbehind your door, or take both of the prizes behind the other two doors \n(minus any farm animals, of course). Obviously you would choose the latter \noption because that maximizes your odds of winning. But remember that only \none of the doors has a meaningful prize, which means that if it is indeed \nbehind one of the other two doors, the other one definitely has an animal \nbehind it. That means that if you do choose to take two prizes, there is a \n100% chance that at least one of them is an animal.\n\nBelieve it or not, this scenario and the actual Monty Hall Problem work on \nexactly the same principle. In the real game, by switching your choice, you \nare essentially choosing to take both of the prizes behind the other two \ndoors, minus the animal you have already seen. Because your action of \nchoosing a door left two doors behind, there is a 100% chance that one of \nthem has an animal behind it. The only difference is that the host is \ntaking that animal out of the equation by opening up one of those two \ndoors. But the odds that the prize is behind the other door are still the \nsame as they started.\ufeff", 
+            "author": "PlutoTheSecond"
+        }, 
+        {
+            "date": "2015-03-09T05:20:05.265Z", 
+            "text": "Actually, you HAVE to add the lost chance to the other door. You're \nthinking about it wrong. It's not the other door you didn't choose whose \nprobability doesn't change, it's the door you did choose. Think of it this \nway: suppose the winning prize is hidden behind door #1. There are three \npossible scenarios at the beginning: the contestant chooses door #1, door \n#2, or door #3. Each of these scenarios is equally likely, so they each \nhave a probability of 1/3. If the contestant chose door #1, the host will \nrandomly open either door #2 or door #3 because they are both wrong; these \ntwo events are equally likely and thus have a probability of 1/6 each (out \nof 1/3). If the contestant chose door #2, the host MUST open door \n#3 because it is wrong and door #1 is correct; the probability of this is \n1/3. If the contestant chose door #3, the host MUST open door #2 because it \nis wrong and door #1 is correct; the probability of this is 1/3. Now we \nhave four scenarios, two of which require that the contestant chose door #1 \nand each have a probability of 1/6, and the other two require that the \ncontestant didn't choose door #1 and each have a probability of 1/3. In \nevery scenario, door #1 is correct, so the probability that the contestant \nhas chosen the correct door is 1/6 + 1/6 = 1/3. There's no \"Schrodinger's \ncat\" effect here; the fifty-fifty odds are just an illusion. It's trickery. \nThis is what makes this such a famous probability question, because the \nfact that you have only two doors left no matter what makes you THINK you \nhave fifty-fifty odds when in fact you don't.", 
+            "author": "PlutoTheSecond"
+        }, 
+        {
+            "date": "2014-11-24T21:14:14.680Z", 
+            "text": "DAT BEGINING CAT DO\ufeff", 
+            "author": "Jake Straughan-Harding"
+        }, 
+        {
+            "date": "2014-11-24T10:36:31.316Z", 
+            "text": "I love how dense some people are in the comments^^\ufeff", 
+            "author": "Argedon"
+        }, 
+        {
+            "date": "2014-11-22T06:15:29.091Z", 
+            "text": "For the Monty Hall Problem if you didn't understand:\nSo let's say you pick one curtain out of three. The host reveals a \ndifferent curtain, which is a loser prize. Now there are two curtains, but \nyour odds of getting the grand prize aren't 50/50.\nSee, in the beginning there were three curtains. Two losing prizes, one \nwinning. So the odds of picking a winning prize was 1/3, and the odds of \npicking a losing prize were 2/3.\nYou had a better chance of picking a losing prize than a winning prize. You \nonly had a 1/3 chance of picking the winning prize, so switching would give \nyou better odds at actually winning the grand prize.\nBy switching curtains, you now have a 2/3 chance of picking the winning \nprize.\ufeff", 
+            "author": "Comm Enter"
+        }, 
+        {
+            "date": "2014-11-19T21:48:45.248Z", 
+            "text": "So by the process of eliminating all other doors except one other, he's \nsecretly directing you to the right one in which you can switch to win? \ufeff", 
+            "author": "Ictus"
+        }, 
+        {
+            "date": "2014-12-28T04:01:47.547Z", 
+            "text": "Assuming you didn't pick the prize to begin with, yes. When you have 3 \ndoors, the chances that you actually *did* pick the right door are pretty \nhigh. But, when the sample size increases to 100 or even 1,000 doors, \nthat's basically what would happen.", 
+            "author": "MegaSupernova888"
+        }, 
+        {
+            "date": "2014-11-11T12:19:51.589Z", 
+            "text": "It is not 1/100 of chances. There is always 50/50 because either you win or \nlose.\ufeff", 
+            "author": "liaison dangereuse"
+        }, 
+        {
+            "date": "2015-02-08T04:02:07.599Z", 
+            "text": "Fail troll is fail.", 
+            "author": "DEM melons"
+        }, 
+        {
+            "date": "2015-01-07T15:35:19.963Z", 
+            "text": "+How to Draw Cartoons Between 0 and 100 times. I think a 1 in N game played \nN times results in roughly 63% chance of winning as N becomes large so the \nmost probably answer is 1. I understand your point though.", 
+            "author": "juggledave"
+        }, 
+        {
+            "date": "2014-11-23T02:54:58.233Z", 
+            "text": "+liaison dangereuse If I played 100 games of the 100 door problem and \npicked door #1 every time and stayed with door #1 every time how many times \nwould I win?", 
+            "author": "How to Draw Cartoons"
+        }, 
+        {
+            "date": "2014-11-15T11:09:15.767Z", 
+            "text": "if you had to choose only one number", 
+            "author": "liaison dangereuse"
+        }, 
+        {
+            "date": "2014-11-14T23:53:54.532Z", 
+            "text": "I'll go play Lotto then. I have a 50/50 chance coz I can either win or lose.\nDafuq?", 
+            "author": "Themarcotot"
+        }, 
+        {
+            "date": "2014-11-11T23:08:35.454Z", 
+            "text": "-_-", 
+            "author": "Jacob Tonelli"
+        }, 
+        {
+            "date": "2014-11-05T04:58:39.367Z", 
+            "text": "No matter how many times I see the Monty Hall problem presented, it still \nshocks me how many people get it wrong, and seem to be unable to understand \nthe actual answer.  I just don't get it.  It seems pretty simple to me.\n\nyou make your choice when there are three doors; you have a 1/3 chance of \nchoosing the prize door and 2/3 chance of choosing a zonk when you make \nyour choice.  even after the host reveals and removes one zonk, it is still \nmore likely that the door you first chose is a zonk.  so you win more often \nif you always switch.  Why is that so hard to understand, I'm honestly \nasking?  When my economics class did the problem only a small part of the \nclass got it right, and when Car Talk used the question as their weekly \npuzzler, they got more letters from people telling them they were wrong \nthan with any other question they asked.  There just seems to be something \nabout THIS problem that scrambles peoples' minds.  \ufeff", 
+            "author": "Kenta455"
+        }, 
+        {
+            "date": "2014-11-03T21:48:00.571Z", 
+            "text": "too spooky 4 me\ufeff", 
+            "author": "sam Austin"
+        }, 
+        {
+            "date": "2014-11-01T21:28:55.088Z", 
+            "text": "Cun NOPE AUNT\ufeff", 
+            "author": "Scienceball"
+        }, 
+        {
+            "date": "2014-10-29T14:43:53.444Z", 
+            "text": "Pick the animal\ufeff", 
+            "author": "Socks, shoes, and hats"
+        }, 
+        {
+            "date": "2014-10-28T23:53:38.375Z", 
+            "text": "4:33 Conglaturation!!!\ufeff", 
+            "author": "MalletsGirl"
+        }, 
+        {
+            "date": "2014-10-24T16:14:36.306Z", 
+            "text": "Ahh your old episodes, Those were the days my friend, Those were the days.\ufeff", 
+            "author": "TheScoutPro"
+        }, 
+        {
+            "date": "2014-10-23T22:46:49.101Z", 
+            "text": "My little brothers name is Bruce what a coincidence!\ufeff", 
+            "author": "Tyler Gaming"
+        }, 
+        {
+            "date": "2014-10-22T12:12:46.638Z", 
+            "text": "Had the Monty Hall problem in a problem solving project. Initial thought \nwas: \"Hey, it's like in that thing Mat talked about in Game Theory\". Turned \nout to be the only problem I got an \"error\" on :v\ufeff", 
+            "author": "Cezary Plichta"
+        }, 
+        {
+            "date": "2014-11-24T10:24:44.865Z", 
+            "text": "watch it again and get it right next time.", 
+            "author": "Argedon"
+        }, 
+        {
+            "date": "2014-10-11T21:18:48.440Z", 
+            "text": "When a contestant goes for the big deal of the day, there are no zonks,its \nthe big prize and two lesser prizes. I know this video is theory, just \nsaying.\ufeff", 
+            "author": "Brian Kelley"
+        }, 
+        {
+            "date": "2014-10-11T15:40:28.019Z", 
+            "text": "Mat are you not scared this video will get removed \ufeff", 
+            "author": "captain. nerd"
+        }, 
+        {
+            "date": "2014-10-24T20:08:13.887Z", 
+            "text": "Hmm maby", 
+            "author": "captain. nerd"
+        }, 
+        {
+            "date": "2014-10-24T13:48:31.604Z", 
+            "text": "+austin ritchey Or you had multiples of tab up and clicked the wrong one \nand wrote this in the comment section.", 
+            "author": "Yadeem kool"
+        }, 
+        {
+            "date": "2014-10-13T20:20:57.108Z", 
+            "text": "No not this video for some reason my coment leaked from one vid of his to \nanother.spooky", 
+            "author": "captain. nerd"
+        }, 
+        {
+            "date": "2014-10-13T20:18:42.884Z", 
+            "text": "lol it won't be removed", 
+            "author": "mralpha543"
+        }, 
+        {
+            "date": "2014-10-11T15:45:19.762Z", 
+            "text": "It all ready is for me i cant acsess it through anything other than \nfacebook any where else it says this video was removed also i cant acsess \nit on my psvita period even through facebook", 
+            "author": "captain. nerd"
+        }, 
+        {
+            "date": "2014-10-11T11:51:18.493Z", 
+            "text": "fuck yeah im in israel!\ufeff", 
+            "author": "Chain Ender"
+        }, 
+        {
+            "date": "2014-10-09T17:16:42.521Z", 
+            "text": "the best videos.\ufeff", 
+            "author": "David Hricsina"
+        }, 
+        {
+            "date": "2014-10-09T05:08:13.364Z", 
+            "text": "I is now super smart.\ufeff", 
+            "author": "Daniel29512"
+        }, 
+        {
+            "date": "2014-10-05T04:47:16.196Z", 
+            "text": "Secret ANootation!\ufeff", 
+            "author": "Thunder Arise"
+        }, 
+        {
+            "date": "2014-10-04T10:42:00.639Z", 
+            "text": "Wait this was an episode about legit game theory. Is that almost cheating \nin this case?\ufeff", 
+            "author": "zeanamush"
+        }
+    ]
+}

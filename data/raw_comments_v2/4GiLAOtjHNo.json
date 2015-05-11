@@ -1,0 +1,1030 @@
+{
+    "publish_date": "2014-12-02T18:33:00.000Z", 
+    "video_length": "PT3M9S", 
+    "captions": [
+        {
+            "text": "Paul Debevec: We&#39;re\nhere at the White House,", 
+            "dur": "1.068", 
+            "start": "0.266"
+        }, 
+        {
+            "text": "working with the\nSmithsonian Institution", 
+            "dur": "2.036", 
+            "start": "1.334"
+        }, 
+        {
+            "text": "on creating a 3D\npresidential portrait.", 
+            "dur": "2.602", 
+            "start": "3.37"
+        }, 
+        {
+            "text": "And the system that we&#39;ve\nbrought to be part of this", 
+            "dur": "2.469", 
+            "start": "5.972"
+        }, 
+        {
+            "text": "process is called our\nmobile light stage.", 
+            "dur": "2.503", 
+            "start": "8.441"
+        }, 
+        {
+            "text": "It&#39;s right over there\nand we&#39;re setting", 
+            "dur": "2.135", 
+            "start": "10.944"
+        }, 
+        {
+            "text": "it up right now so that\nit can be used to record", 
+            "dur": "2.803", 
+            "start": "13.079"
+        }, 
+        {
+            "text": "almost certainly the highest\nresolution digital model", 
+            "dur": "2.97", 
+            "start": "15.882"
+        }, 
+        {
+            "text": "that&#39;s ever been made\nof a Head of State.", 
+            "dur": "2.235", 
+            "start": "18.852"
+        }, 
+        {
+            "text": "Gunter Waibel: The\ninspiration for the project", 
+            "dur": "1.902", 
+            "start": "23.69"
+        }, 
+        {
+            "text": "of creating the portrait of\nPresident Obama really comes", 
+            "dur": "2.803", 
+            "start": "25.592"
+        }, 
+        {
+            "text": "from the Lincoln life mask\nin our National Portrait", 
+            "dur": "2.369", 
+            "start": "28.395"
+        }, 
+        {
+            "text": "Gallery and I have a Lincoln\nlife mask with me today.", 
+            "dur": "4.304", 
+            "start": "30.764"
+        }, 
+        {
+            "text": "And they&#39;re called life masks\nbecause these were directly", 
+            "dur": "2.336", 
+            "start": "35.068"
+        }, 
+        {
+            "text": "taken from his likeness so there\nwas plaster put on his face.", 
+            "dur": "3.603", 
+            "start": "37.404"
+        }, 
+        {
+            "text": "There were two little holes\npoked where the nostrils were", 
+            "dur": "3.27", 
+            "start": "41.007"
+        }, 
+        {
+            "text": "so he could still breathe and\nseeing that made us think,", 
+            "dur": "3.103", 
+            "start": "44.277"
+        }, 
+        {
+            "text": "what would happen if we could\nactually do that with a sitting", 
+            "dur": "3.237", 
+            "start": "47.38"
+        }, 
+        {
+            "text": "president using modern day\ntechnologies and tools", 
+            "dur": "3.603", 
+            "start": "50.617"
+        }, 
+        {
+            "text": "to create a similarly\nauthentic experience that", 
+            "dur": "4.471", 
+            "start": "54.22"
+        }, 
+        {
+            "text": "connects us to history to\nconnect us to a moment", 
+            "dur": "2.57", 
+            "start": "58.691"
+        }, 
+        {
+            "text": "in time, and connects us\nto a person&#39;s likeness.", 
+            "dur": "3.47", 
+            "start": "61.261"
+        }, 
+        {
+            "text": "Paul Debevec: So the process\nshould go relatively quickly.", 
+            "dur": "3.136", 
+            "start": "64.731"
+        }, 
+        {
+            "text": "We will invite the\nPresident to sit down.", 
+            "dur": "2.102", 
+            "start": "67.867"
+        }, 
+        {
+            "text": "He will be surrounded by 50\ncustom built LED lights,", 
+            "dur": "5.539", 
+            "start": "69.969"
+        }, 
+        {
+            "text": "eight high resolution\nsports photography cameras,", 
+            "dur": "2.536", 
+            "start": "75.508"
+        }, 
+        {
+            "text": "and an additional six\nwider angle cameras;", 
+            "dur": "2.136", 
+            "start": "78.044"
+        }, 
+        {
+            "text": "in about one second as he\nholds his presidential pose.", 
+            "dur": "4.371", 
+            "start": "80.18"
+        }, 
+        {
+            "text": "He&#39;ll be illuminated by\nten different lighting", 
+            "dur": "2.035", 
+            "start": "84.551"
+        }, 
+        {
+            "text": "conditions which will\nchange the polarization", 
+            "dur": "2.669", 
+            "start": "86.586"
+        }, 
+        {
+            "text": "of the light, the\ndirectionality of the light,", 
+            "dur": "2.069", 
+            "start": "89.255"
+        }, 
+        {
+            "text": "and will give us everything\nthat we need to understand", 
+            "dur": "2.136", 
+            "start": "91.324"
+        }, 
+        {
+            "text": "the shape of his face and\nhow it transforms into", 
+            "dur": "2.702", 
+            "start": "93.46"
+        }, 
+        {
+            "text": "illumination into the\nimages that we see of him.", 
+            "dur": "3.27", 
+            "start": "96.162"
+        }, 
+        {
+            "text": "Ten years ago it was\nbarely possible to think", 
+            "dur": "2.703", 
+            "start": "99.432"
+        }, 
+        {
+            "text": "this could be done.", 
+            "dur": "1.702", 
+            "start": "102.135"
+        }, 
+        {
+            "text": "Vince Rossi: So here we\nhave a structured light", 
+            "dur": "1.201", 
+            "start": "103.837"
+        }, 
+        {
+            "text": "3D camera that we use to\nscan the President.", 
+            "dur": "2.235", 
+            "start": "105.038"
+        }, 
+        {
+            "text": "For handheld they&#39;re flashing\na fringe pattern of light", 
+            "dur": "2.903", 
+            "start": "107.273"
+        }, 
+        {
+            "text": "and there are stereo\ncameras recording how that", 
+            "dur": "2.703", 
+            "start": "110.176"
+        }, 
+        {
+            "text": "fringe pattern forms over\ngeometry or in this case", 
+            "dur": "2.302", 
+            "start": "112.879"
+        }, 
+        {
+            "text": "the President&#39;s face.", 
+            "dur": "1.302", 
+            "start": "115.181"
+        }, 
+        {
+            "text": "Tom Kalil: The President\ngetting his likeness scanned,", 
+            "dur": "3.77", 
+            "start": "116.483"
+        }, 
+        {
+            "text": "as cool as that is, it is also\nabout a broader trend that&#39;s", 
+            "dur": "4.171", 
+            "start": "120.253"
+        }, 
+        {
+            "text": "going on; and that is the\nthird Industrial Revolution.", 
+            "dur": "3.437", 
+            "start": "124.424"
+        }, 
+        {
+            "text": "It&#39;s the combination of the\ndigital world and the physical", 
+            "dur": "2.836", 
+            "start": "127.861"
+        }, 
+        {
+            "text": "world that is allowing\nstudents and entrepreneurs", 
+            "dur": "4.571", 
+            "start": "130.697"
+        }, 
+        {
+            "text": "to be able to go from\nidea to prototype", 
+            "dur": "2.469", 
+            "start": "135.268"
+        }, 
+        {
+            "text": "in the blink of an eye.", 
+            "dur": "2.603", 
+            "start": "137.737"
+        }, 
+        {
+            "text": "It&#39;s been a few days\nsince we&#39;ve 3D scanned", 
+            "dur": "2.335", 
+            "start": "140.34"
+        }, 
+        {
+            "text": "the President.", 
+            "dur": "0.868", 
+            "start": "142.675"
+        }, 
+        {
+            "text": "And we&#39;re looking at some\nraw data on the screen", 
+            "dur": "2.002", 
+            "start": "143.543"
+        }, 
+        {
+            "text": "right here so this is the\ndata that came out", 
+            "dur": "2.336", 
+            "start": "145.545"
+        }, 
+        {
+            "text": "of the handheld scanners\nthat Adam Metallo", 
+            "dur": "1.935", 
+            "start": "147.881"
+        }, 
+        {
+            "text": "and I were using\nto scanned the President.", 
+            "dur": "2.569", 
+            "start": "149.816"
+        }, 
+        {
+            "text": "Adam Metallo: Well this is\nthe first bust that&#39;s created", 
+            "dur": "2.669", 
+            "start": "152.385"
+        }, 
+        {
+            "text": "of a Head of State from\nobjective 3D scanned data", 
+            "dur": "3.404", 
+            "start": "155.054"
+        }, 
+        {
+            "text": "so this is an artistic\nlikeness of the President.", 
+            "dur": "3.804", 
+            "start": "158.458"
+        }, 
+        {
+            "text": "This is actually millions upon\nmillions of measurements that", 
+            "dur": "4.237", 
+            "start": "162.262"
+        }, 
+        {
+            "text": "create a 3D likeness of the\nPresident that we can now print", 
+            "dur": "4.438", 
+            "start": "166.499"
+        }, 
+        {
+            "text": "and make something that&#39;s\nnever been done before.", 
+            "dur": "1.568", 
+            "start": "170.937"
+        }
+    ], 
+    "title": "The President, in 3D", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02mjmr", 
+        "/m/04rk8g", 
+        "/m/02q4625", 
+        "/m/060d2"
+    ], 
+    "number_views": 732618, 
+    "categories": [
+        25
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-17T20:46:16.000Z", 
+            "text": "http://gl.ict.usc.edu/Research/PresidentialPortrait/\ufeff", 
+            "author": "\u0418\u0433\u043e\u0440\u044c \u0412\u0443\u0441\u0438\u043a"
+        }, 
+        {
+            "date": "2015-03-29T23:50:48.777Z", 
+            "text": "\u0422\u0435\u043f\u0435\u0440\u044c \u043a\u0440\u043e\u043c\u0435 \u0434\u043e\u043b\u043b\u0430\u0440\u043e\u0432 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0446\u044b \u0431\u0443\u0434\u0443\u0442 \u043f\u0435\u0447\u0430\u0442\u0430\u0442\u044c \u0438 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u043e\u0432\ufeff", 
+            "author": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u0443\u0434\u0440\u044f\u0448\u043e\u0432"
+        }, 
+        {
+            "date": "2015-03-27T01:09:31.000Z", 
+            "text": "Hey what about sanctions President is using Russian technology and scaners \nahahahahahah!!!!\ufeff", 
+            "author": "outsider00000"
+        }, 
+        {
+            "date": "2015-03-26T15:56:38.917Z", 
+            "text": "Russian 3D-scanner Artec Eva for Obama )))\nSanctions? Ha-ha-ha...\ufeff", 
+            "author": "geodezspb"
+        }, 
+        {
+            "date": "2015-03-26T06:46:13.000Z", 
+            "text": "\u042d\u0442\u043e\u0442 \u043f\u043e\u0440\u0442\u0440\u0435\u0442 \u0441\u043e\u0437\u0434\u0430\u043d 3D \u0441\u043a\u0430\u043d\u0435\u0440\u043e\u043c \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u043c \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. ;)\ufeff", 
+            "author": "SuperZveruga"
+        }, 
+        {
+            "date": "2015-03-21T02:57:13.548Z", 
+            "text": "what we alol wana know is CAN I 3d PRINT OBAMA?\ufeff", 
+            "author": "Atlas Outlast"
+        }, 
+        {
+            "date": "2015-03-02T13:58:13.317Z", 
+            "text": "This is a good way of showing people to understand technology.\ufeff", 
+            "author": "Venkatesh Babu"
+        }, 
+        {
+            "date": "2015-03-02T13:55:56.030Z", 
+            "text": "The wax museum could now be turned with this kind of technology so that \npeople can really understand the new technology and how they are moving \nforward.\ufeff", 
+            "author": "Venkatesh Babu"
+        }, 
+        {
+            "date": "2015-02-19T01:07:41.362Z", 
+            "text": "Our tax dollars at work for this?\ufeff", 
+            "author": "Lynne Whelden"
+        }, 
+        {
+            "date": "2015-02-12T21:11:39.000Z", 
+            "text": "Where can I download the Obama-file?\nWould be great for Mask-producing, with the original Data from US-President.\nWith his face, I go to the White House and ...\nOtherwise I will hack these computers and steal Obamas face.\nOr make digital CGI animations from him, that youtuber think they are real.\nOr ....\n\nYeah, lots of opportunities :D\ufeff", 
+            "author": "Handelsbilanzdefizit"
+        }, 
+        {
+            "date": "2015-02-09T18:36:21.905Z", 
+            "text": "WOW\ufeff", 
+            "author": "Lic. Jaime Villarreal Garc\u00eda"
+        }, 
+        {
+            "date": "2015-02-06T15:41:54.953Z", 
+            "text": "", 
+            "author": "OctavianoTatau Moniz"
+        }, 
+        {
+            "date": "2015-02-04T03:00:14.101Z", 
+            "text": "I was sent here by a bad drawer.\ufeff", 
+            "author": "Agent Dale"
+        }, 
+        {
+            "date": "2015-02-02T09:11:44.826Z", 
+            "text": "\u0427\u0422\u041e \u0411\u042b \u0422\u042b \u0421\u0414\u041e\u0425  , \u0422\u0412\u0410\u0420\u042c \u041a\u0420\u041e\u0412\u041e\u0416\u0410\u0414\u041d\u0410\u042f !!! \ufeff", 
+            "author": "\u041e\u0434\u0435\u0441\u0441\u0430 \u043c\u0430\u043c\u0430"
+        }, 
+        {
+            "date": "2015-01-27T21:27:54.000Z", 
+            "text": "3D Modeling Jobs\nbye bye\ufeff", 
+            "author": "Chavez Lives"
+        }, 
+        {
+            "date": "2015-01-26T20:19:18.939Z", 
+            "text": "", 
+            "author": "Brett Baker"
+        }, 
+        {
+            "date": "2015-01-26T15:55:39.025Z", 
+            "text": "The Next Generation\ufeff", 
+            "author": "Ministry of Information A Ministry of Giving"
+        }, 
+        {
+            "date": "2015-01-23T20:04:32.677Z", 
+            "text": "Recommended by a friend: the Smithsonian created the highest resolution \ndigital model of the President. I love it!\ufeff", 
+            "author": "Stirling Morris"
+        }, 
+        {
+            "date": "2015-01-23T17:39:51.607Z", 
+            "text": "THE BEST president EVER! I feel like he is just a downright GOOD person \nthat's not trying to HIDE how FUCKED up the White House is and has been for \nYEARS!\ufeff", 
+            "author": "CashFuelzCFXstudio"
+        }, 
+        {
+            "date": "2015-01-22T21:32:49.152Z", 
+            "text": "evil\ufeff", 
+            "author": "dan danny"
+        }, 
+        {
+            "date": "2015-01-22T16:39:54.105Z", 
+            "text": "Can I download the stl-file somewhere? I want to print him myself.\ufeff", 
+            "author": "Nuhopoclik1"
+        }, 
+        {
+            "date": "2015-01-22T15:50:07.797Z", 
+            "text": "Uhmmm..  ok so now there is a fully digitized rendition of Obama.  In the \nfuture they will use that to create a holographic model for Disneyland. \ufeff", 
+            "author": "Chris D"
+        }, 
+        {
+            "date": "2015-01-20T19:17:07.663Z", 
+            "text": "So i guess now people who has the model of his head can 3D print a \ngelatinous mask of his head.\ufeff", 
+            "author": "Chris Nikolajsen"
+        }, 
+        {
+            "date": "2015-01-16T04:31:51.904Z", 
+            "text": "can you make the digital model public so i can print my own obama?\ufeff", 
+            "author": "skiy22567"
+        }, 
+        {
+            "date": "2015-01-15T18:02:41.424Z", 
+            "text": "We are proud that our scanners were used to 3D scan President Obama. With \nthis technology, 3D scanning has never been easier and more accessible. In \nfact, anyone can now get their 3D portrait done, not only the US President. \n \n\nFurther information on the story: \nhttp://www.artec3d.com/news/President+Obama+in+3D_29953 \ufeff", 
+            "author": "Thanushka Chandradasa"
+        }, 
+        {
+            "date": "2015-01-15T14:21:21.701Z", 
+            "text": "The first...? YOU DON'T SAY !?! ... >_<\ufeff", 
+            "author": "Tyrog"
+        }, 
+        {
+            "date": "2015-01-15T05:19:22.695Z", 
+            "text": "what would of happened if the presedent had any sort of overhang in his \nmodel?\nit would fall off right?\nbeause that part would be printed and it would fall down immediatly\ufeff", 
+            "author": "mebezaccraft"
+        }, 
+        {
+            "date": "2015-01-14T23:19:20.146Z", 
+            "text": "The possibilities of art. Imagine what we could do in the future... Imagine \ntaking a picture of a valley and have it printed in 3d and scale it down to \n25%. Id love to see that but wait, we will probably not get that far \nbecause of all the idiots in the world too stupid to understand what this \nvideo is showing. Others will watch this and see Obama and already think of \nthe tax or the people's money. Too dumb to see a peice of art being made. \nThe creators of this technology probably wanted who they thought would be \nbest to use this on. And who fits a better image than the head of state at \nthe time of this amazing art creation. So set aside your hate and your \nthoughts of someone and admire this creation that we, human beings, have \ncreated.\ufeff", 
+            "author": "Taggart Ruybal"
+        }, 
+        {
+            "date": "2015-01-14T17:02:10.253Z", 
+            "text": "We are proud that our scanners were used to 3D scan President Obama. With \nthis technology, 3D scanning has never been easier and more accessible. In \nfact, anyone can now get their 3D portrait done, not only the US President. \n \n\nFurther information on the story: \nhttp://www.artec3d.com/news/President+Obama+in+3D_29953 \ufeff", 
+            "author": "ADAPT Technology"
+        }, 
+        {
+            "date": "2015-01-14T13:48:01.855Z", 
+            "text": "Pretty awesome.\ufeff", 
+            "author": "Aaron Idstein"
+        }, 
+        {
+            "date": "2015-01-14T13:23:11.168Z", 
+            "text": "The President, in 3D: http://youtu.be/4GiLAOtjHNo\ufeff", 
+            "author": "Alma Linda Campos (Guerrero, Rosales)"
+        }, 
+        {
+            "date": "2015-01-14T11:23:57.106Z", 
+            "text": "The President is getting the most realistic portrait to date compliments of \nthe Smithsonian and 3DPrinting: http://youtu.be/4GiLAOtjHNo\ufeff", 
+            "author": "Capital Document Solutions Limited"
+        }, 
+        {
+            "date": "2015-01-13T20:33:40.398Z", 
+            "text": "cloudbase rapture channel for the video\nIMAGE OF THE BEAST TAKES ON A WHOLE NEW MEANING\ufeff", 
+            "author": "Douglas Ullrich"
+        }, 
+        {
+            "date": "2015-01-12T04:31:47.953Z", 
+            "text": "Enter the domain of the cubed nerd candy.\ufeff", 
+            "author": "Invisible Papaya"
+        }, 
+        {
+            "date": "2015-01-11T22:47:05.823Z", 
+            "text": "Very! Nice!    We pay know mine to \"Hater`s\"  Peace!\ufeff", 
+            "author": "Magic Man"
+        }, 
+        {
+            "date": "2015-01-08T21:35:56.727Z", 
+            "text": "Would have been cool to see them do this with crayons instead of a 3D \nprinter.\ufeff", 
+            "author": "KartKrasher"
+        }, 
+        {
+            "date": "2015-01-08T20:00:19.816Z", 
+            "text": "#Nerdcubedforpresident\ufeff", 
+            "author": "DinoDoesStuff"
+        }, 
+        {
+            "date": "2015-01-08T17:52:29.237Z", 
+            "text": "A lovely pair of...\ufeff", 
+            "author": "SublimeBadFishy Bruh"
+        }, 
+        {
+            "date": "2015-01-08T17:20:46.197Z", 
+            "text": "also FUCK YOU OBAMA\ufeff", 
+            "author": "Gabe Bodenschatz"
+        }, 
+        {
+            "date": "2015-01-08T17:18:24.182Z", 
+            "text": "screw you OBAMA\ufeff", 
+            "author": "Gabe Bodenschatz"
+        }, 
+        {
+            "date": "2015-01-08T14:49:08.041Z", 
+            "text": "bluebama\ufeff", 
+            "author": "littlevadersw666"
+        }, 
+        {
+            "date": "2015-01-08T14:01:39.163Z", 
+            "text": "so now they could make a robama (robo-bama) and we would never even notice.\ufeff", 
+            "author": "1920s door-to-door_salesman"
+        }, 
+        {
+            "date": "2015-01-08T14:00:04.923Z", 
+            "text": "waist of money\ufeff", 
+            "author": "Kadin Niemeyer"
+        }, 
+        {
+            "date": "2015-01-08T10:40:17.233Z", 
+            "text": "The President is getting the most realistic portrait to date compliments of \nthe Smithsonian and 3DPrinting: http://youtu.be/4GiLAOtjHNo\ufeff", 
+            "author": "\u0418\u043d\u043d\u0430 \u0427\u0435\u0442\u0432\u0435\u0440\u0442\u0430\u043a"
+        }, 
+        {
+            "date": "2015-01-08T04:08:07.337Z", 
+            "text": "I was sent here by a man who can't draw.\n\nBut he can do squiggles.\ufeff", 
+            "author": "Richard Conway"
+        }, 
+        {
+            "date": "2015-01-08T03:51:30.517Z", 
+            "text": "And as 'Nero' fiddled, the USA fell to pieces.\ufeff", 
+            "author": "sergoba"
+        }, 
+        {
+            "date": "2015-01-08T01:06:15.607Z", 
+            "text": "I was sent here by a man who abused the power OF CRAYON MAGICKS.\ufeff", 
+            "author": "gghgg948"
+        }, 
+        {
+            "date": "2015-01-07T23:15:45.403Z", 
+            "text": "So many idiots in this comment.\ufeff", 
+            "author": "VintageLJ"
+        }, 
+        {
+            "date": "2015-01-07T22:36:23.321Z", 
+            "text": "A certain Nerd sent me here.\ufeff", 
+            "author": "CCA.C18.JUDGE.DvL.496"
+        }, 
+        {
+            "date": "2015-02-02T19:40:14.939Z", 
+            "text": "me 2", 
+            "author": "gilbert engle"
+        }, 
+        {
+            "date": "2015-01-09T01:52:40.818Z", 
+            "text": "+Someonerandom75\nYehaw!", 
+            "author": "ThePoptartster"
+        }, 
+        {
+            "date": "2015-01-08T18:44:34.807Z", 
+            "text": "+ThePoptartster  I see what you did there.", 
+            "author": "CCA.C18.JUDGE.DvL.496"
+        }, 
+        {
+            "date": "2015-01-08T09:07:21.076Z", 
+            "text": "Nerd\u00b3", 
+            "author": "ThePoptartster"
+        }, 
+        {
+            "date": "2015-01-08T09:06:57.600Z", 
+            "text": "+skylar hensley\nSo.... hard? I never laughed THAT hard.", 
+            "author": "ThePoptartster"
+        }, 
+        {
+            "date": "2015-01-08T08:19:19.493Z", 
+            "text": "and a \"STOP, in the name of my penis\" HA HA that made me laugh so hard", 
+            "author": "skylar hensley"
+        }, 
+        {
+            "date": "2015-01-08T07:22:20.246Z", 
+            "text": "A GIANT, FUCK OFF BROWN ASHENS SOFA OF DEATH", 
+            "author": "TheRealMkLBR"
+        }, 
+        {
+            "date": "2015-01-08T06:27:40.000Z", 
+            "text": "A SAFE WITH A HOOKY THING\n     ", 
+            "author": "Blu Spy"
+        }, 
+        {
+            "date": "2015-01-08T03:48:10.726Z", 
+            "text": "A SAFE, A BIG SAFE", 
+            "author": "OHLOOKADAMSSTUFF"
+        }, 
+        {
+            "date": "2015-01-08T02:42:36.520Z", 
+            "text": "i click the mystery video every time  i love NERD3", 
+            "author": "skylar hensley"
+        }, 
+        {
+            "date": "2015-01-08T02:35:24.291Z", 
+            "text": "I'm not the only one to click the mystery videos!?", 
+            "author": "CCA.C18.JUDGE.DvL.496"
+        }, 
+        {
+            "date": "2015-01-08T01:08:12.004Z", 
+            "text": "+skylar hensley thats not what i thought", 
+            "author": "Blu Spy"
+        }, 
+        {
+            "date": "2015-01-08T01:06:41.909Z", 
+            "text": "TIL I'm not the only one who clicks the mystery videos.", 
+            "author": "Dethmind"
+        }, 
+        {
+            "date": "2015-01-07T23:40:55.370Z", 
+            "text": "+skylar hensley *Squiggles", 
+            "author": "Angus Field"
+        }, 
+        {
+            "date": "2015-01-07T23:09:55.557Z", 
+            "text": "+James Stevens a Nerd who draws Homer", 
+            "author": "skylar hensley"
+        }, 
+        {
+            "date": "2015-01-07T22:42:34.754Z", 
+            "text": "a nerd who draws", 
+            "author": "James Stevens"
+        }, 
+        {
+            "date": "2015-01-07T22:31:46.105Z", 
+            "text": "I'd be terrible in a situation like that...I'm always blinking in pictures \n:P\ufeff", 
+            "author": "Connorrules1"
+        }, 
+        {
+            "date": "2015-01-07T22:02:53.531Z", 
+            "text": "I was sent here by a man who's good at squiggiling\ufeff", 
+            "author": "Vensey Ness"
+        }, 
+        {
+            "date": "2015-01-07T23:27:17.690Z", 
+            "text": "+Vensey Ness well, i'm not one, so, look somewhere else", 
+            "author": "not a cat in disguise"
+        }, 
+        {
+            "date": "2015-01-07T23:19:29.841Z", 
+            "text": "+Vensey Ness I am not a cat in disguise.", 
+            "author": "histupata1"
+        }, 
+        {
+            "date": "2015-01-07T23:08:06.975Z", 
+            "text": "+not a cat in disguise sorry, I only discuss people's squiggling abilities \nwith disguised cats.", 
+            "author": "Vensey Ness"
+        }, 
+        {
+            "date": "2015-01-07T23:06:12.682Z", 
+            "text": "+Vensey Ness still terrible at squiggling", 
+            "author": "not a cat in disguise"
+        }, 
+        {
+            "date": "2015-01-07T22:49:20.992Z", 
+            "text": "+not a cat in disguise he was good at squiggling not that good at drawing.", 
+            "author": "Vensey Ness"
+        }, 
+        {
+            "date": "2015-01-07T22:19:41.759Z", 
+            "text": "he wasn't good at ir, he was bad at it", 
+            "author": "not a cat in disguise"
+        }, 
+        {
+            "date": "2015-01-07T21:58:26.424Z", 
+            "text": "That's awesome. Soon every leader can have their own 1:1 detailed bust. \nThey might become a collectors item in the future. \ufeff", 
+            "author": "DildorTheDecent"
+        }, 
+        {
+            "date": "2015-01-07T21:46:35.632Z", 
+            "text": "Nerdcubed anyone?\ufeff", 
+            "author": "Ayciate :3"
+        }, 
+        {
+            "date": "2015-01-08T15:54:31.704Z", 
+            "text": "Watch out of the bird poop :P", 
+            "author": "Ayciate :3"
+        }, 
+        {
+            "date": "2015-01-08T04:30:34.840Z", 
+            "text": "*squiggles* (^ ^)", 
+            "author": "Rebecca Murphy"
+        }, 
+        {
+            "date": "2015-01-07T23:49:05.262Z", 
+            "text": "I entered the domain", 
+            "author": "Angus Field"
+        }, 
+        {
+            "date": "2015-01-07T21:29:45.992Z", 
+            "text": "Am i the only one seeing the potential danger of this?\ufeff", 
+            "author": "Ch3zter"
+        }, 
+        {
+            "date": "2015-01-07T23:03:27.196Z", 
+            "text": "+Kendra Fitzpatrick ... Touche...", 
+            "author": "Connor Maag"
+        }, 
+        {
+            "date": "2015-01-07T23:00:32.453Z", 
+            "text": "+Connor Maag WHO knows? The World Health Organization knows? This just in, \nWHO has cloning technology.", 
+            "author": "Kendra Fitzpatrick"
+        }, 
+        {
+            "date": "2015-01-07T22:25:12.146Z", 
+            "text": "+Vensey Ness Who knows.", 
+            "author": "Connor Maag"
+        }, 
+        {
+            "date": "2015-01-07T22:15:06.335Z", 
+            "text": "+Connor Maag Totally man. Can't wait for all dem' Obama clones. I mean, we \neven don't have to feed em! That's what Obabmacare was about, right? Taking \ncare of Obamas?", 
+            "author": "Vensey Ness"
+        }, 
+        {
+            "date": "2015-01-07T22:12:35.392Z", 
+            "text": "+Vensey Ness Am I right?", 
+            "author": "Connor Maag"
+        }, 
+        {
+            "date": "2015-01-07T22:10:06.592Z", 
+            "text": "Where's the danger?", 
+            "author": "Dani"
+        }, 
+        {
+            "date": "2015-01-07T22:03:24.840Z", 
+            "text": "+Connor Maag I mean, why wouldn't they.", 
+            "author": "Vensey Ness"
+        }, 
+        {
+            "date": "2015-01-07T21:35:20.686Z", 
+            "text": "No. They're defiantly going to make a clone Obama army.", 
+            "author": "Connor Maag"
+        }, 
+        {
+            "date": "2015-01-07T13:57:36.137Z", 
+            "text": " President OBAMA is getting the most realistic portrait to date compliments \nof the Smithsonian and 3DPrinting\ufeff", 
+            "author": "Bouzekri Youssef"
+        }, 
+        {
+            "date": "2015-01-07T09:01:14.275Z", 
+            "text": "3D Portrait of President Obama, the highest resolution digital model of a \nhead of state in history. Come scan yourself and create your own mini you.\n\n#3DPrint #3DObama #Obama\ufeff", 
+            "author": "3DVinci Creations"
+        }, 
+        {
+            "date": "2015-01-06T21:47:09.762Z", 
+            "text": "Life/death masks have been done for 1000's of years and, the purpose of \nthem has varied. King Tuts Sarcophagus is a death mask and both Napoleon \nand Dante have death masks. The methods used to make them started pretty \nbasic as cloth dipped in plaster and hammered metal. Presidential portraits \nare a historical practice. They speak to our collective memory. They will \nbe done because once somebody has reached that place they will be captured \nin many likenesses as part of history - even the ones you or I did not vote \nfor. The fact that technology, starting with strips of cloth.....cloth in \nitself has a history but that is another post - the fact that we have gone \nfrom cloth dipped into plaster to digital, 3/D imaging is not just \nastounding, it's breathtaking. \n\nWhen I read the shallow political vitriol in the comments I first want to \nget mad but really what I get is sad. It is a sad time when the need to be \nright, the need to call names, to put people down in this country takes \nprecedence over a truly remarkable accomplishment. The ability to make such \na likeness provides so many possibilities for so many applications for so \nmuch good and all people can seem to do is spew disgusting comments, call \npeople names and mock. I prefer to still believe that this is not the \nmajority of who we are in this country. Even though the comments are pretty \nshortsighted, uneducated, ugly and just plain sad.\n\nThis video is astounding and I have a group of bright, engaged, creative \nand fabulous students who I intend to share it with. They will be the \nleaders of the future and I know they will appreciate it for what it really \nis. By the way, right now you can buy your own 3/D printer and make \nwhatever your heart desires right now. They are around $2000 but in a few \nyears they will be as accessible as any other technology is. Then you can \nmake copies of your own likeness and post it along with whatever crap you \ndecide to throw at me after you \"hate\" my post.\ufeff", 
+            "author": "Debra Bickford"
+        }, 
+        {
+            "date": "2015-01-06T03:14:41.030Z", 
+            "text": "This is where your tax dollars are going people.\ufeff", 
+            "author": "Jacob Gyori"
+        }, 
+        {
+            "date": "2015-01-05T22:05:30.577Z", 
+            "text": "\u0627\u0644\u0646\u0627\u0633 \u062f\u064a \u0639\u0638\u064a\u0645\u0647 \u0641\u0634\u062e :D\ufeff", 
+            "author": "\u202b\u0625\u064a\u0647\u0627\u0628 \u0639\u0627\u062f\u0644\u202c\u200e"
+        }, 
+        {
+            "date": "2015-01-05T21:33:59.430Z", 
+            "text": "Technology rocks.  <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%233dprinting\">#3dprinting</a> \u00a0 <a rel=\"nofollow\" class=\"ot-hashtag\" href=\"https://plus.google.com/s/%23potus\">#potus</a> \u00a0", 
+            "author": "Norton Lam"
+        }, 
+        {
+            "date": "2015-01-05T18:10:38.855Z", 
+            "text": "Too cool.\ufeff", 
+            "author": "Antonio Zugaldia"
+        }, 
+        {
+            "date": "2015-01-22T14:37:29.279Z", 
+            "text": "+Scott Lawrence Lawson Scott i believe it is not considered art its \nconsidered picture or a replica no art is involved i would think.", 
+            "author": "Chad Foster"
+        }, 
+        {
+            "date": "2015-01-06T05:31:24.405Z", 
+            "text": "+Scott Lawrence Lawson I agree. My father is a portrait artist in his 67th \nyear as a professional. What he puts on canvas is the essence of the soul. \n\nBut what they have accomplished here is an amazing representation as \naccurately as can be portrayed.\n\nWhy can there be only one... why not allow expression in both media... '-}\npeace", 
+            "author": "Jolyn Bowler"
+        }, 
+        {
+            "date": "2015-01-06T03:16:55.910Z", 
+            "text": "Great tech, but it is too bad we feel that removing the element of artistic \ninterpretation is somehow \"better\" than sculpture. I hope we commission \nartists involved to create his likeness as well.", 
+            "author": "Scott Lawrence Lawson"
+        }, 
+        {
+            "date": "2015-01-05T18:36:50.180Z", 
+            "text": "Excellent.... love new ideas and that they have done this with Mr Obama, \nthank you.", 
+            "author": "Jolyn Bowler"
+        }, 
+        {
+            "date": "2015-01-05T15:59:58.305Z", 
+            "text": "", 
+            "author": "SIN JONES"
+        }, 
+        {
+            "date": "2015-01-05T04:43:43.657Z", 
+            "text": "\u0631\u0647\u064a\u0628 \"$\ufeff", 
+            "author": "samo sams"
+        }, 
+        {
+            "date": "2015-01-05T02:54:58.172Z", 
+            "text": "I was hoping for some sort of hologram, when you enter the white house you \nget a fancy 3D floating Obama.\ufeff", 
+            "author": "Mushe"
+        }, 
+        {
+            "date": "2015-01-04T23:39:47.847Z", 
+            "text": "This is so cool.    Like or dislike the man, I always thought he is a \nhandsome man.    \ufeff", 
+            "author": "Lucy Sommer"
+        }, 
+        {
+            "date": "2015-01-04T22:02:25.774Z", 
+            "text": "https://www.youtube.com/watch?v=4GiLAOtjHNo\ufeff", 
+            "author": "\u042e\u043b\u044f \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0430"
+        }, 
+        {
+            "date": "2015-01-04T10:14:42.559Z", 
+            "text": "Wow! That's a real piece of art!!! But how can we be sure that 3d model \nwouldn't replace the real president?\ufeff", 
+            "author": "Pasha Sharikov"
+        }, 
+        {
+            "date": "2015-01-04T07:29:47.790Z", 
+            "text": "\u041f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u044e \u0435\u043c\u0443 \u043c\u043e\u0437\u0433\u0438 \u043d\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u0442\u044c \u043d\u0430 3\u0434 \u043f\u0440\u0438\u043d\u0442\u0435\u0440\u0435\ufeff", 
+            "author": "megastuffer"
+        }, 
+        {
+            "date": "2015-01-04T00:36:25.511Z", 
+            "text": "other than being the first black president what has this guy done that \nmakes him so special? Seriously though\ufeff", 
+            "author": "YourAverageGamer Canada"
+        }, 
+        {
+            "date": "2015-01-03T22:37:30.027Z", 
+            "text": "Hair Fail.\ufeff", 
+            "author": "Thomas Pettit"
+        }, 
+        {
+            "date": "2015-01-03T22:37:21.608Z", 
+            "text": "", 
+            "author": "\u0e25\u0e30\u0e2d\u0e2d\u0e07 \u0e43\u0e15\u0e49\u0e1e\u0e23\u0e30\u0e1a\u0e32\u0e17"
+        }, 
+        {
+            "date": "2015-01-03T22:00:37.755Z", 
+            "text": " President OBAMA is getting the most realistic portrait to date compliments \nof the Smithsonian and 3DPrinting\ufeff", 
+            "author": "Amani Bsila"
+        }, 
+        {
+            "date": "2015-01-03T20:13:03.968Z", 
+            "text": "This technology is actually amazing. The President, in 3D - YouTube\ufeff", 
+            "author": "Tinkerings"
+        }, 
+        {
+            "date": "2015-01-03T20:08:20.840Z", 
+            "text": "This is pretty cool. \ufeff", 
+            "author": "Joshua Meyers"
+        }, 
+        {
+            "date": "2015-01-03T08:43:25.210Z", 
+            "text": "", 
+            "author": "Chinomso Franklin Ejiogu"
+        }, 
+        {
+            "date": "2015-01-03T07:14:39.082Z", 
+            "text": "That is pretty awesome! \ufeff", 
+            "author": "Scott Beamer"
+        }, 
+        {
+            "date": "2015-01-03T06:05:21.280Z", 
+            "text": "", 
+            "author": "James Kruger (CapturesReality)"
+        }, 
+        {
+            "date": "2015-01-03T00:46:58.460Z", 
+            "text": "Also good for hologram sculpting\ufeff", 
+            "author": "Brannon Parker"
+        }, 
+        {
+            "date": "2015-01-03T00:42:58.433Z", 
+            "text": "The President, in 3D: http://youtu.be/4GiLAOtjHNo\ufeff", 
+            "author": "Michael Dudley"
+        }, 
+        {
+            "date": "2015-01-03T04:16:06.525Z", 
+            "text": "Those are some interesting jobs at the White House and the Smithsonian that \nI never knew existed!", 
+            "author": "Lisa Lubozynski"
+        }, 
+        {
+            "date": "2015-01-02T23:48:13.054Z", 
+            "text": "Pretty fancy.\ufeff", 
+            "author": "Tobias \u201ctowo\u201d Wolter"
+        }, 
+        {
+            "date": "2015-01-03T14:17:23.072Z", 
+            "text": "Und bald danach werden sie die mehrfache Wiederwahl erlauben, damit sie \ndann  irgenwann keinen Neuen mehr brauchen, weil die elektrische \nReplikation nicht altert...", 
+            "author": "Johannes Self"
+        }, 
+        {
+            "date": "2015-01-03T12:45:35.150Z", 
+            "text": "Wird anscheinend vom Smithsonian angefertigt, von daher bisschen \nskeptischer.\n\nWenn das die US-Regierung gemacht h\u00e4tte: garantiert.", 
+            "author": "Tobias \u201ctowo\u201d Wolter"
+        }, 
+        {
+            "date": "2015-01-03T09:34:17.417Z", 
+            "text": "Gibts die Daten auch zum Download? :-)", 
+            "author": "Rainer Nagel (angor)"
+        }, 
+        {
+            "date": "2015-01-03T03:21:43.835Z", 
+            "text": "Ob die da auch photoshoppen? :)", 
+            "author": "Marco D. Rassau"
+        }, 
+        {
+            "date": "2015-01-02T21:46:53.802Z", 
+            "text": "The President, in 3D: http://youtu.be/4GiLAOtjHNo\ufeff", 
+            "author": "Zenola Sherman"
+        }, 
+        {
+            "date": "2015-01-02T21:35:59.866Z", 
+            "text": "Why do comments always devolve into a political argument forum? Enjoy the \nvideo, they used some cool techniques and got a nice, detailed scan. I \nwonder where else this technology can take us.\ufeff", 
+            "author": "ReallyNotReally"
+        }, 
+        {
+            "date": "2015-01-02T21:21:14.333Z", 
+            "text": "Nice Job !\ufeff", 
+            "author": "Michael Cosby"
+        }, 
+        {
+            "date": "2015-01-17T21:40:23.831Z", 
+            "text": "Thanks very nice. Spending the weekend in North Carolina. ", 
+            "author": "Marion Tyler"
+        }, 
+        {
+            "date": "2015-01-02T20:48:55.734Z", 
+            "text": "Is\n\ufeff", 
+            "author": "Eh Ser"
+        }, 
+        {
+            "date": "2015-01-02T20:40:42.220Z", 
+            "text": "How much did this cost me?\ufeff", 
+            "author": "John Middleton"
+        }, 
+        {
+            "date": "2015-01-02T16:24:24.059Z", 
+            "text": "I wonder if the official Presidential portrait will become a 3D digital \nimage. \ufeff", 
+            "author": "Jon Miller"
+        }, 
+        {
+            "date": "2015-01-02T15:26:40.934Z", 
+            "text": "3D portrait of President Obama\n\n#3D   #Rendering #President   #3DScanning  \ufeff", 
+            "author": "Mohamed Abdul Monem"
+        }, 
+        {
+            "date": "2015-01-02T14:46:53.861Z", 
+            "text": "That's pretty cool.\nA 3D-printed portrait bust of the United States President.\n50 LED lights and 14 cameras.\nIn the future, oil painters can the access the 3D-file, insert any lighting \nfrom any angle to immortalize him.\ufeff", 
+            "author": "Johan Jensen"
+        }, 
+        {
+            "date": "2015-01-02T12:50:03.130Z", 
+            "text": "Can it be exported to Gmod?\ufeff", 
+            "author": "agun17"
+        }, 
+        {
+            "date": "2015-01-02T12:39:32.491Z", 
+            "text": "Future bank robbers will be more accurate than ever wearing the Obama HD \nmask.\ufeff", 
+            "author": "James Campbell"
+        }, 
+        {
+            "date": "2015-01-02T12:25:44.840Z", 
+            "text": "Obama getting scanned.\ufeff", 
+            "author": "Pavle Mili\u0107evi\u0107"
+        }, 
+        {
+            "date": "2015-01-02T11:55:24.186Z", 
+            "text": "Tax payer money put to good use ....\ufeff", 
+            "author": "B\u00edg Boss"
+        }, 
+        {
+            "date": "2015-01-02T11:20:24.303Z", 
+            "text": "<3 the beast himself \ufeff", 
+            "author": "Korianne75"
+        }, 
+        {
+            "date": "2015-01-02T10:48:29.009Z", 
+            "text": "They're doing this so they can replace Jefferson's face in Mt. Rushmore to \nObama. Bow down to your chosen one, Yankee slaves.\ufeff", 
+            "author": "thejobloshow"
+        }, 
+        {
+            "date": "2015-01-02T10:31:34.112Z", 
+            "text": "he has a great smile\ufeff", 
+            "author": "matprlz"
+        }, 
+        {
+            "date": "2015-01-02T10:31:08.117Z", 
+            "text": "wow he can hold a smile well\ufeff", 
+            "author": "Fyrefly"
+        }, 
+        {
+            "date": "2015-01-02T10:30:16.684Z", 
+            "text": "So many dislike bots, damn.\ufeff", 
+            "author": "Michael Rasmussen"
+        }, 
+        {
+            "date": "2015-01-02T10:15:51.877Z", 
+            "text": "What the fuck happened to paint and a brush?\n'\ufeff", 
+            "author": "Billy Bob Jenkins"
+        }
+    ]
+}
