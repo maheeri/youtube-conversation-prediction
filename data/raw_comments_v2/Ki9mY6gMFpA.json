@@ -1,0 +1,933 @@
+{
+    "publish_date": "2015-03-23T18:12:19.000Z", 
+    "video_length": "PT4M31S", 
+    "captions": [
+        {
+            "text": "We here at SciShow like to celebrate nerds\nof all stripes, because all too often, they", 
+            "dur": "3.6", 
+            "start": "10.92"
+        }, 
+        {
+            "text": "don\u2019t get their due.", 
+            "dur": "0.91", 
+            "start": "14.52"
+        }, 
+        {
+            "text": "But let me tell you all about one old-time\nnerd who put his geekiness to such good use", 
+            "dur": "3.57", 
+            "start": "15.43"
+        }, 
+        {
+            "text": "that he wound up on the hundred-dollar bill:\nBenjamin Franklin.", 
+            "dur": "3.86", 
+            "start": "19"
+        }, 
+        {
+            "text": "Franklin was one of those people who seemed\nto know everything, and who never slept because", 
+            "dur": "3.73", 
+            "start": "22.86"
+        }, 
+        {
+            "text": "he was too busy inventing bifocals and studying\nthe link between volcanoes and climate change.", 
+            "dur": "4.269", 
+            "start": "26.59"
+        }, 
+        {
+            "text": "And also convincing the French to help the\ncolonies kick Britain&#39;s butt in the American", 
+            "dur": "3.641", 
+            "start": "30.859"
+        }, 
+        {
+            "text": "Revolution.", 
+            "dur": "0.39", 
+            "start": "34.5"
+        }, 
+        {
+            "text": "Not to mention signing the Declaration of\nIndependence, inventing the swimmy flipper,", 
+            "dur": "3.79", 
+            "start": "34.89"
+        }, 
+        {
+            "text": "and mapping the Gulf Stream.", 
+            "dur": "1.19", 
+            "start": "38.68"
+        }, 
+        {
+            "text": "And serving as Postmaster General, because\nwhy not?", 
+            "dur": "2.14", 
+            "start": "39.87"
+        }, 
+        {
+            "text": "But he still managed to find time to investigate\none question that had plagued scientists for", 
+            "dur": "4.229", 
+            "start": "42.01"
+        }, 
+        {
+            "text": "centuries, namely: what is the deal with electricity?", 
+            "dur": "3.28", 
+            "start": "46.239"
+        }, 
+        {
+            "text": "Scientists had been messing with electricity\nsince ancient times, but by the time Benjamin", 
+            "dur": "3.301", 
+            "start": "49.519"
+        }, 
+        {
+            "text": "Franklin came around, they were so close to\nfiguring out how it worked, they could practically", 
+            "dur": "3.699", 
+            "start": "52.82"
+        }, 
+        {
+            "text": "taste it.", 
+            "dur": "0.96", 
+            "start": "56.519"
+        }, 
+        {
+            "text": "They\u2019d already figured out how to use electricity\nto make people&#39;s hair stand up as a kind of", 
+            "dur": "3.131", 
+            "start": "57.479"
+        }, 
+        {
+            "text": "party trick, or kill animals, or store small\namounts of electrical charge in a Leyden jar,", 
+            "dur": "5.7", 
+            "start": "60.61"
+        }, 
+        {
+            "text": "which was basically an old-timey capacitor\nor condenser.", 
+            "dur": "3.099", 
+            "start": "66.31"
+        }, 
+        {
+            "text": "Problem was, those scientists were being held\nback by thinking totally wrongly about the", 
+            "dur": "4.221", 
+            "start": "69.409"
+        }, 
+        {
+            "text": "way that it worked.", 
+            "dur": "0.88", 
+            "start": "73.63"
+        }, 
+        {
+            "text": "See, back then, there was this generally accepted\nidea that the whole universe was permeated", 
+            "dur": "4.08", 
+            "start": "74.51"
+        }, 
+        {
+            "text": "by some kind of ether. And scientists of the\nday believed that all of the forces were the", 
+            "dur": "4.72", 
+            "start": "78.59"
+        }, 
+        {
+            "text": "result of different invisible fluids flowing\nthrough the ether.", 
+            "dur": "4.14", 
+            "start": "83.31"
+        }, 
+        {
+            "text": "When it came to electricity, they firmly believed\nthat there were two completely different fluids", 
+            "dur": "4.64", 
+            "start": "87.45"
+        }, 
+        {
+            "text": "involved. So, two separate forces had to be\nmaking electricity happen.", 
+            "dur": "3.79", 
+            "start": "92.09"
+        }, 
+        {
+            "text": "But after spending some time rubbing glass\nand amber rods with handkerchiefs, Franklin", 
+            "dur": "3.629", 
+            "start": "95.88"
+        }, 
+        {
+            "text": "realized that electricity might only be one\nforce.", 
+            "dur": "2.79", 
+            "start": "99.509"
+        }, 
+        {
+            "text": "When he rubbed two glass rods with silk, charging\nthem up, he found that they would repel each", 
+            "dur": "4.341", 
+            "start": "102.299"
+        }, 
+        {
+            "text": "other. The same thing happened with two rods\nmade of amber.", 
+            "dur": "3.229", 
+            "start": "106.64"
+        }, 
+        {
+            "text": "But if he brought a charged glass rod and\na charged amber rod near each other\u2026 they", 
+            "dur": "4.13", 
+            "start": "109.869"
+        }, 
+        {
+            "text": "would attract.", 
+            "dur": "0.811", 
+            "start": "113.999"
+        }, 
+        {
+            "text": "Franklin proposed that the attraction and\nrepulsion he was seeing was because the rods", 
+            "dur": "3.869", 
+            "start": "114.81"
+        }, 
+        {
+            "text": "either had too much or too little of the same\nfluid.", 
+            "dur": "3.591", 
+            "start": "118.679"
+        }, 
+        {
+            "text": "And he was right, kind of, if electrons are\nfluids, which they\u2019re not. Electricity though", 
+            "dur": "4.869", 
+            "start": "122.27"
+        }, 
+        {
+            "text": "is the result of only one force.", 
+            "dur": "2.141", 
+            "start": "127.139"
+        }, 
+        {
+            "text": "That breakthrough laid the groundwork for\nscientists like Allessandro Volta, Michael", 
+            "dur": "3.36", 
+            "start": "129.28"
+        }, 
+        {
+            "text": "Faraday and Nikola Tesla.", 
+            "dur": "1.72", 
+            "start": "132.64"
+        }, 
+        {
+            "text": "Then there are Franklin\u2019s discoveries about\nelectric conduction, which involved that thing", 
+            "dur": "3.76", 
+            "start": "134.36"
+        }, 
+        {
+            "text": "with the kite.", 
+            "dur": "0.83", 
+            "start": "138.12"
+        }, 
+        {
+            "text": "That story actually starts with a metal rod\nand one of those Leyden jars.", 
+            "dur": "3.45", 
+            "start": "138.95"
+        }, 
+        {
+            "text": "Franklin thought that lightning might be a\nform of electricity, and he published an idea", 
+            "dur": "3.949", 
+            "start": "142.4"
+        }, 
+        {
+            "text": "for an experiment testing this, using a long\nmetal rod attached to a Leyden jar.", 
+            "dur": "4.75", 
+            "start": "146.349"
+        }, 
+        {
+            "text": "If the metal rod conducted the lighting into\nthe Leyden jar, it would mean that he was", 
+            "dur": "4.5", 
+            "start": "151.099"
+        }, 
+        {
+            "text": "right.", 
+            "dur": "0.25", 
+            "start": "155.599"
+        }, 
+        {
+            "text": "But all of this did not go according to plan,\nfirstly because lightning is super dangerous,", 
+            "dur": "3.77", 
+            "start": "155.73"
+        }, 
+        {
+            "text": "but also because even in the 1700s, construction\nprojects were never finished on time.", 
+            "dur": "4.79", 
+            "start": "159.5"
+        }, 
+        {
+            "text": "At least one person died trying his experiment:\nGeorg Wilhelm Richmann of St. Petersburg kicked", 
+            "dur": "4.949", 
+            "start": "164.29"
+        }, 
+        {
+            "text": "the bucket while trying to measure how much\nelectricity was being collected by the lightning", 
+            "dur": "3.691", 
+            "start": "169.239"
+        }, 
+        {
+            "text": "rod.", 
+            "dur": "0.25", 
+            "start": "172.93"
+        }, 
+        {
+            "text": "But Franklin couldn\u2019t carry out the experiment\nhimself, because he was waiting for construction", 
+            "dur": "3.57", 
+            "start": "173.11"
+        }, 
+        {
+            "text": "on a church spire to be completed, so he could\nuse it to attract the lightning.", 
+            "dur": "4.259", 
+            "start": "176.68"
+        }, 
+        {
+            "text": "Legend has it that, out of impatience, he\nflew a silk kite with a key attached to the", 
+            "dur": "3.83", 
+            "start": "180.939"
+        }, 
+        {
+            "text": "string into an approaching thunderstorm.", 
+            "dur": "2.231", 
+            "start": "184.769"
+        }, 
+        {
+            "text": "Many versions of the tale claim that the kite\nwas hit by lightning, but that probably didn\u2019t", 
+            "dur": "3.939", 
+            "start": "187"
+        }, 
+        {
+            "text": "happen because it probably would\u2019ve killed\nhim, because lightning and people don\u2019t", 
+            "dur": "3.39", 
+            "start": "190.939"
+        }, 
+        {
+            "text": "mix well.", 
+            "dur": "0.371", 
+            "start": "194.329"
+        }, 
+        {
+            "text": "The most reliable version of the anecdote\nsays that he did actually do the kite experiment,", 
+            "dur": "5.619", 
+            "start": "194.7"
+        }, 
+        {
+            "text": "but as thunder clouds passed over the kite,\nFranklin noticed loose threads on the kite", 
+            "dur": "4.17", 
+            "start": "200.319"
+        }, 
+        {
+            "text": "string starting to stand on end.", 
+            "dur": "1.95", 
+            "start": "204.489"
+        }, 
+        {
+            "text": "He then touched his knuckle to the key and\nreceived an electric shock, proving that the", 
+            "dur": "3.97", 
+            "start": "206.439"
+        }, 
+        {
+            "text": "kite was conducting electricity.", 
+            "dur": "2.131", 
+            "start": "210.409"
+        }, 
+        {
+            "text": "Meanwhile, in France, two scientists tried\nFranklin\u2019s original metal rod and Leyden", 
+            "dur": "3.559", 
+            "start": "212.54"
+        }, 
+        {
+            "text": "jar idea, and not only did they not die, but\nthe experiment worked, proving him right.", 
+            "dur": "4.911", 
+            "start": "216.099"
+        }, 
+        {
+            "text": "Never one to let a good discovery go to waste,\nFranklin turned around and invented the lightning", 
+            "dur": "4.16", 
+            "start": "221.01"
+        }, 
+        {
+            "text": "rod.", 
+            "dur": "0.25", 
+            "start": "225.17"
+        }, 
+        {
+            "text": "With all he accomplished, it\u2019s hard to imagine\nthat Franklin only experimented with electricity", 
+            "dur": "3.67", 
+            "start": "225.34"
+        }, 
+        {
+            "text": "for 10 years.", 
+            "dur": "0.699", 
+            "start": "229.01"
+        }, 
+        {
+            "text": "But he moved on to other things in 1753, when\nhe became postmaster general for the colonies.", 
+            "dur": "5.051", 
+            "start": "229.709"
+        }, 
+        {
+            "text": "After that, he was a little busy, what with\nthe Revolutionary War and helping found the", 
+            "dur": "3.02", 
+            "start": "234.76"
+        }, 
+        {
+            "text": "United States and everything.", 
+            "dur": "1.129", 
+            "start": "237.78"
+        }, 
+        {
+            "text": "But many of Benjamin Franklin\u2019s contributions\nare still used today. So if you wear bifocals", 
+            "dur": "4.11", 
+            "start": "238.909"
+        }, 
+        {
+            "text": "or talk about electric charge or survive a\nthunderstorm, don\u2019t forget to get out a", 
+            "dur": "4.39", 
+            "start": "243.019"
+        }, 
+        {
+            "text": "hundred dollar bill and thank your Grandpa\nNerd.", 
+            "dur": "1.881", 
+            "start": "247.409"
+        }, 
+        {
+            "text": "Thank you for watching, this video was brought\nto you by our patrons on Patreon who help", 
+            "dur": "3.619", 
+            "start": "249.29"
+        }, 
+        {
+            "text": "make SciShow possible through their monthly\ncontributions. If you want to help us keep", 
+            "dur": "3.811", 
+            "start": "252.909"
+        }, 
+        {
+            "text": "making videos like this, you can check out\nPatreon.com/SciShow!", 
+            "dur": "2.38", 
+            "start": "256.72"
+        }
+    ], 
+    "title": "Great Minds: Benjamin Franklin: Founding Nerd", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/019fz", 
+        "/m/0yq3q1b"
+    ], 
+    "number_views": 204837, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-03T14:17:16.721Z", 
+            "text": "In this video you mentioned how electricity was used before, may you please \ngive me the source of it if you have?\ufeff", 
+            "author": "rabel kaka"
+        }, 
+        {
+            "date": "2015-04-29T04:07:43.494Z", 
+            "text": "Electrons are not fluids, but one can argue that virtual photons are..\ufeff", 
+            "author": "Peter Smythe"
+        }, 
+        {
+            "date": "2015-04-25T04:45:44.934Z", 
+            "text": "Hi link", 
+            "author": "Vin Smith"
+        }, 
+        {
+            "date": "2015-04-17T17:36:39.943Z", 
+            "text": "Franklin: The real-life Tony Stark.\ufeff", 
+            "author": "Matthew Campbell"
+        }, 
+        {
+            "date": "2015-04-15T20:13:46.163Z", 
+            "text": "What??? You mean Benjamin Franklin didn't discover/invent electricity??? \nBLASPHEMER!! lolz :P\ufeff", 
+            "author": "Frank D"
+        }, 
+        {
+            "date": "2015-04-15T04:19:44.881Z", 
+            "text": "Franklin also smoked lots of weed.\ufeff", 
+            "author": "Pillow Talk"
+        }, 
+        {
+            "date": "2015-04-15T03:50:08.000Z", 
+            "text": "Hank forgot to mention the best work of Benjamin Franklin: the merits of \ndating older women.  \nThis guy was really wise; LOL\ufeff", 
+            "author": "Goreuncle"
+        }, 
+        {
+            "date": "2015-04-11T17:32:43.070Z", 
+            "text": "You know how he discovered the charge of electricity? well, the fact is, he \nwas wrong. Because he thought the charge of an electron was arbitrary so \nlabelled it positive, we know have the totally annoying idea of \nconventional currents, and the way an electron actually moves around \nthrough a circuit. so.. you know.. he had that flaw.\ufeff", 
+            "author": "Tom Whiteley"
+        }, 
+        {
+            "date": "2015-04-08T02:25:03.126Z", 
+            "text": "So. At one point in history, all leading scientists, believed something \nthat turned out to be untrue. Hmmm... Where have I heard that before. ...\ufeff", 
+            "author": "philleise6150"
+        }, 
+        {
+            "date": "2015-04-07T10:44:12.196Z", 
+            "text": "he was also a mass rapist.\nhe has about ten times more descendants today from the slaves he raped than \nfrom the his wife. \ufeff", 
+            "author": "starbuckwhy"
+        }, 
+        {
+            "date": "2015-04-06T14:32:44.802Z", 
+            "text": "The universe IS made up of either you dipshit,  we just figured out about \nthe higgs field.\ufeff", 
+            "author": "atentat07"
+        }, 
+        {
+            "date": "2015-04-04T10:06:52.175Z", 
+            "text": "the link to people vs. lichtning is NOT WORKING !!!\ufeff", 
+            "author": "supremeon1"
+        }, 
+        {
+            "date": "2015-04-01T23:28:07.636Z", 
+            "text": "yesterday's ether is today's dark matter :P\ufeff", 
+            "author": "Justin Giglio"
+        }, 
+        {
+            "date": "2015-04-01T22:52:51.712Z", 
+            "text": "Ben Franklin doesn't count as a nerd because he wasn't socially awkward and \nlonely.\ufeff", 
+            "author": "braden7180"
+        }, 
+        {
+            "date": "2015-04-01T02:04:04.843Z", 
+            "text": "What I never understood was Brian Greene refers to it as cosmic foam rather \nthan ether. What's the difference?\ufeff", 
+            "author": "Jason Kusick"
+        }, 
+        {
+            "date": "2015-03-31T10:43:11.980Z", 
+            "text": "$50 +ChangeTip \ufeff", 
+            "author": "No0bT4rD"
+        }, 
+        {
+            "date": "2015-03-30T19:14:15.058Z", 
+            "text": "...And helping to found the first public library in America. Don't forget \nabout that, Hank.\ufeff", 
+            "author": "ShalomDove"
+        }, 
+        {
+            "date": "2015-03-30T11:17:03.490Z", 
+            "text": "Benjamin Franklin actually slept a lot and he made a very big deal about \nit.  He had a very complicated sleeping routine that involved moving \nbetween multiple rooms at different temperatures throughout the night.  He \ncredited getting a good sleep to a lot of things, hence his saying \"Early \nto bed early to rise makes a man healthy, wealthy and wise.\"\ufeff", 
+            "author": "Turtle Von Nurtle"
+        }, 
+        {
+            "date": "2015-03-30T01:55:06.357Z", 
+            "text": "idea for great mind is Alan Turning\ufeff", 
+            "author": "Logan Collier"
+        }, 
+        {
+            "date": "2015-03-28T21:22:38.810Z", 
+            "text": "It is wonderful to observe an individual in a species push the boundaries \nof knowledge and science.\ufeff", 
+            "author": "Youniverous"
+        }, 
+        {
+            "date": "2015-03-28T14:58:40.662Z", 
+            "text": "the key is that we could power cities with silk kites and copper and gold \nwiring,.. but you know,.. fuck free energy,...\ufeff", 
+            "author": "Adrien Sauve"
+        }, 
+        {
+            "date": "2015-03-28T14:56:05.062Z", 
+            "text": "Fuck Ben,.. he was trying to fly a kite nothing more,.. Nikola Tesla... now \nthere is the master of lightning\ufeff", 
+            "author": "Adrien Sauve"
+        }, 
+        {
+            "date": "2015-03-28T05:22:24.795Z", 
+            "text": "I remember watching a documentary on Benjamin Franklin, and the author of a \nBenjamin Franklin biography was talking. He said that when he finished \nwriting the biography, he cried because he was so sad to say goodbye to \nBenjamin Franklin. :'(\ufeff", 
+            "author": "slut4berniesanders"
+        }, 
+        {
+            "date": "2015-03-28T04:37:29.472Z", 
+            "text": "Hey, Ben. Thanks for the parking spot that I stole from you. Let me take a \npicture of your anguish and put that face on the $100. Okay. love you guy. \nMurica\ufeff", 
+            "author": "buddhavskungfu"
+        }, 
+        {
+            "date": "2015-03-27T22:26:42.875Z", 
+            "text": "I love the concept of a channel like this, collecting nerds from all over \nthe planet and uniting them. I love it.\ufeff", 
+            "author": "Bass Snail"
+        }, 
+        {
+            "date": "2015-03-27T18:46:13.961Z", 
+            "text": "Benjamin Franklin was the James Bond of nerds.\ufeff", 
+            "author": "Benjamin Werden"
+        }, 
+        {
+            "date": "2015-03-27T17:48:20.558Z", 
+            "text": "I especially liked this one. Thanks, Hank!\ufeff", 
+            "author": "Davida Fernandez"
+        }, 
+        {
+            "date": "2015-03-27T17:45:19.805Z", 
+            "text": "Why electrons are not a fluid? \ufeff", 
+            "author": "Maicon Faria"
+        }, 
+        {
+            "date": "2015-03-27T09:36:55.300Z", 
+            "text": "Did Benjamin Franklin also invent slavery or did he just own slaves?\ufeff", 
+            "author": "MikeRoePhonicsMusic"
+        }, 
+        {
+            "date": "2015-03-27T05:18:50.976Z", 
+            "text": "If Americans bother to put Franklin on the 100 dollar bill shouldn't they \nmake sure that he is portrayed correctly? Have you guys seen the new $100 \nbill's watermark? It is hideous! It looks like good 'ol Franklin is melting \ninto a Jabba the Hutt type of figure!\ufeff", 
+            "author": "derpman8922"
+        }, 
+        {
+            "date": "2015-03-26T17:36:58.788Z", 
+            "text": "Benjamin Franklin was also notorious for all the women he bedded while in \nFrance.\ufeff", 
+            "author": "HaifischDoktor"
+        }, 
+        {
+            "date": "2015-03-26T16:41:14.163Z", 
+            "text": "Ben smoked TONS of weed.\ufeff", 
+            "author": "Pinchydalobster1"
+        }, 
+        {
+            "date": "2015-03-26T14:15:08.403Z", 
+            "text": "I wish the level of self-aggrandizement would drop on these scripts. \n \"...Which they're not.  Electricity, though, *IS* the result of only one \nforce.\"\n\nYou know if these were made 300 years ago, they would be smugly affirming \nthe fluid properties of electricity.  Maybe try something like \"Which they \nare not.  Though we do now believe they are the result of only one force.\"\n\nFor a show that promotes curiosity, investigation, and intellectual growth, \nit would be helpful to avoid a bent that says \"We have arrived\" when \nhistory tells us that throughout time, we will always be much more correct \nthan before, and still wrong.\ufeff", 
+            "author": "Eamon Burke"
+        }, 
+        {
+            "date": "2015-03-26T06:34:18.351Z", 
+            "text": "These guys share a lot of the world's mysteries through mere 5 minute \nvideos using knowledge that was probably put large amounts of money to \nacquire. So if Pewdiepie, a gamer can earn a larger revenue through his \nsubscribers, why can't these amazing geniuses. Please hell them reach 10 \nmillion. \ufeff", 
+            "author": "SimonAmanCreations"
+        }, 
+        {
+            "date": "2015-03-26T03:16:01.970Z", 
+            "text": "I thought Newton disproved Descarte's ether theory.\ufeff", 
+            "author": "ParallelPain"
+        }, 
+        {
+            "date": "2015-03-26T00:48:26.030Z", 
+            "text": "SciShow views seem to be falling. Monthly views have been in stagnation \nsince January of 2014. This is not good.\ufeff", 
+            "author": "fifthgear93"
+        }, 
+        {
+            "date": "2015-03-25T17:24:20.151Z", 
+            "text": "I've often wondered about the truth behind the legend of Ben Franklin\ufeff", 
+            "author": "sk8rdman"
+        }, 
+        {
+            "date": "2015-03-25T13:52:00.653Z", 
+            "text": "I think he never slept because he was too busy banging whores ;)\ufeff", 
+            "author": "The God Emperor"
+        }, 
+        {
+            "date": "2015-03-25T07:07:40.868Z", 
+            "text": "I still don't believe Franklin did all the stuff attributed to him, or if \nhe was some sort of super-human. Even if I was 100 times smarter, and had \n100 lifetimes, I don't think I'd be able to accomplish a fraction of what \nhe did. Probably says a lot more about me though.\ufeff", 
+            "author": "tree453"
+        }, 
+        {
+            "date": "2015-03-25T05:56:53.873Z", 
+            "text": "+SciShow , QQs: How do people get cancer?\n\ufeff", 
+            "author": "Kryptonite Gaming"
+        }, 
+        {
+            "date": "2015-03-25T04:30:11.920Z", 
+            "text": "Much Resssspect!\ufeff", 
+            "author": "terence w"
+        }, 
+        {
+            "date": "2015-03-25T04:04:18.567Z", 
+            "text": "*Hank Green*: So, Grandpa Nerd, what can you tell us about yourself?\n\n*Benjamin Franklin*: Well, I am a renowned author, printer, political \ntheorist, politician, postmaster, scientist, inventor, civic activist, \nstatesman, and diplomat. In my spare time I also quite enjoy sexual \nintercourse with as many ladies as possible. \ufeff", 
+            "author": "Cosmic Rogue"
+        }, 
+        {
+            "date": "2015-03-25T03:25:14.061Z", 
+            "text": "why do massages feel good\ufeff", 
+            "author": "dickson bak bah"
+        }, 
+        {
+            "date": "2015-03-25T02:59:35.316Z", 
+            "text": "w00t\ufeff", 
+            "author": "Josh Hunter"
+        }, 
+        {
+            "date": "2015-03-25T01:35:15.574Z", 
+            "text": "Hank. If you cut out your eyes you will never get eye cancer, isn't that \ngreat?\ufeff", 
+            "author": "leeham991"
+        }, 
+        {
+            "date": "2015-03-24T23:52:45.657Z", 
+            "text": "Also, Benjamin Franklin was just awesome.\n\n\"I have found Christian dogma unintelligible. Early in life, I absenteed \nmyself from Christian assemblies.\" -Benjamin Franklin \ufeff", 
+            "author": "JonO387"
+        }, 
+        {
+            "date": "2015-03-24T23:21:52.082Z", 
+            "text": "Was that a new SciShow intro?\ufeff", 
+            "author": "Christian Harries"
+        }, 
+        {
+            "date": "2015-03-24T22:23:25.226Z", 
+            "text": "He also made it so that current flows in the OPPOSITE DIRECTION OF ELECTRON \nFLOW. SCREW YOU, FRANKLIN\ufeff", 
+            "author": "Fieldstuck"
+        }, 
+        {
+            "date": "2015-03-24T21:12:03.747Z", 
+            "text": "Thanks for guessing the direction of the current wrong.\ufeff", 
+            "author": "Red_Shift"
+        }, 
+        {
+            "date": "2015-03-24T20:40:41.245Z", 
+            "text": "Can u do a similar video on Nikola Tesla\ufeff", 
+            "author": "Theo Risveglia"
+        }, 
+        {
+            "date": "2015-03-24T20:07:35.137Z", 
+            "text": "And you didn't even mention the Franklin stove.\ufeff", 
+            "author": "Gamesman01"
+        }, 
+        {
+            "date": "2015-03-24T19:13:42.751Z", 
+            "text": "Je trouve \u00e7a dr\u00f4le que vous n'ayez m\u00eame pas essay\u00e9 de de prononcer les noms \nfran\u00e7ais\u2026 ce n'est pourtant pas si difficile\u2026\ufeff", 
+            "author": "7000000th"
+        }, 
+        {
+            "date": "2015-03-24T19:08:22.181Z", 
+            "text": "you forget the invention of the glass armonica\ufeff", 
+            "author": "William Wood"
+        }, 
+        {
+            "date": "2015-03-24T19:07:05.593Z", 
+            "text": "Have we found a way to capture the energy of lightening? Is this a dumb \nthing that I've imagined with no basis in science?\n\n(I mean, as a kid, when I learned about bio-engineering, I imagined that if \nwe could take the genetic material from an egg and put another egg's info \nin, we could do the same with DNA from a sperm. I'm still convinced that \nthis is a thing.)\ufeff", 
+            "author": "K. Stosphia"
+        }, 
+        {
+            "date": "2015-03-31T10:41:34.090Z", 
+            "text": "Capturing energy from a lightning storm is rather simple. However, \ncapturing energy from a strike is more difficult. It's so high in voltage \nthat it's a challenge to convert it to the lower voltage needed to store \nit. I don't think we can do that just yet, but given enough resources, we \nshould be able to do it in a couple years. I don't know how valuable it is \nthough.", 
+            "author": "No0bT4rD"
+        }, 
+        {
+            "date": "2015-03-24T19:00:53.718Z", 
+            "text": "Great Minds: Benjamin Franklin: Founding Nerd | SciShow #GreatMinds Hank \nGreen |\ufeff", 
+            "author": "KnowledgePlaylists"
+        }, 
+        {
+            "date": "2015-03-24T18:57:43.170Z", 
+            "text": "That optical illusion shirt! lol\ufeff", 
+            "author": "Ville Kujanp\u00e4\u00e4"
+        }, 
+        {
+            "date": "2015-03-24T18:45:35.018Z", 
+            "text": "I don't like this Hermann grid shirt.\ufeff", 
+            "author": "lipsach"
+        }, 
+        {
+            "date": "2015-03-24T18:38:26.805Z", 
+            "text": "", 
+            "author": "dragenstain"
+        }, 
+        {
+            "date": "2015-03-24T18:17:22.278Z", 
+            "text": "Electricity flows from negative to positive. God damn it Franklin\ufeff", 
+            "author": "mraceplayer1012"
+        }, 
+        {
+            "date": "2015-03-24T18:10:01.298Z", 
+            "text": "This barely scratches the surface of Ben Franklin, any avid readers I would \nrecommend reading his autobiography. He tells the full tale of his life and \nhis road from obscurity to fame, pretty interesting.\ufeff", 
+            "author": "BadKnightLv01"
+        }, 
+        {
+            "date": "2015-03-24T17:28:12.012Z", 
+            "text": "Why is electricity linked to paralysis?\ufeff", 
+            "author": "Manish Subramaniam"
+        }, 
+        {
+            "date": "2015-03-24T16:49:46.160Z", 
+            "text": "liked the intro\ufeff", 
+            "author": "Humayan Kabir"
+        }, 
+        {
+            "date": "2015-03-24T15:36:28.263Z", 
+            "text": "Bored of American examples for American watchers :/\nFranklin is cool, but he's way too much talked about. There are so many \npeople in history that made amazing breakthroughts, and remain pretty \nunknown.\ufeff", 
+            "author": "Fotty"
+        }, 
+        {
+            "date": "2015-03-24T15:28:07.035Z", 
+            "text": "many of the greatest minds in history had a psychiatric disorder. MLK and \nLincoln had severe depression. Newton was thought to have something but I \nforget what. Maybe somebody could look that up. Mental illness isn't \nrequired to be a great thinker, obviously, but if you have a disorder, \nyou're among friends in the world.\ufeff", 
+            "author": "Vic Vinegar"
+        }, 
+        {
+            "date": "2015-04-01T04:24:56.634Z", 
+            "text": "+ColdMist  lol they used to use mercury as medicine back then didn't they? \nI think one of China's emperors was buried with mercury all around him and \nhe actually died from mercury poisoning.", 
+            "author": "Vic Vinegar"
+        }, 
+        {
+            "date": "2015-04-01T03:35:48.438Z", 
+            "text": "+Vic Vinegar he had mercury poisoning which caused him to be a jerk if i \nremember correctly.", 
+            "author": "ColdMist"
+        }, 
+        {
+            "date": "2015-03-31T21:08:39.692Z", 
+            "text": "+( \u0361\u00b0 \u035cc \u0361\u00b0 )  was he?", 
+            "author": "Vic Vinegar"
+        }, 
+        {
+            "date": "2015-03-31T16:40:35.212Z", 
+            "text": "Newton was autistic?", 
+            "author": "( \u0361\u00b0 \u035cc \u0361\u00b0 )"
+        }, 
+        {
+            "date": "2015-03-24T15:30:09.241Z", 
+            "text": "and I believe depression helped MLK speak so eloquently and empathetically. \nHe knew the struggle so well he could speak like such a leader", 
+            "author": "Vic Vinegar"
+        }, 
+        {
+            "date": "2015-03-24T14:41:41.000Z", 
+            "text": "Any ideas where I can find some of his papers on all those loose French \nwomen he \"knew\"?  I am curious on his thoughts.  For science, of course.\ufeff", 
+            "author": "Tamal Paul"
+        }, 
+        {
+            "date": "2015-03-24T14:03:14.648Z", 
+            "text": "are you planning in joining vessel?\ufeff", 
+            "author": "kirumo8"
+        }, 
+        {
+            "date": "2015-03-24T13:53:55.960Z", 
+            "text": "i would kinda like to know why 7up helps with stomach pains and how epoxies \nwork!\ufeff", 
+            "author": "Matthew Maxwell"
+        }, 
+        {
+            "date": "2015-03-24T13:49:27.245Z", 
+            "text": "Does anyone else see the optical illusion on his shirt? I can see black \ncircles pop up all over.\ufeff", 
+            "author": "ThatGuyWithTheLegs"
+        }, 
+        {
+            "date": "2015-03-24T12:38:38.585Z", 
+            "text": "$0.5 +ChangeTip\ufeff", 
+            "author": "andreashuber69"
+        }, 
+        {
+            "date": "2015-03-24T12:39:48.910Z", 
+            "text": "+SciShow, +andreashuber69 sent you a Bitcoin tip worth 1,957 bits ($0.50), \nand I'm here to deliver it \u2794 https://www.changetip.com/collect/660601", 
+            "author": "ChangeTip"
+        }, 
+        {
+            "date": "2015-03-24T11:55:34.000Z", 
+            "text": "What makes foods/beverages taste different when they are hot vs cold?\ufeff", 
+            "author": "Wilker Lucio"
+        }, 
+        {
+            "date": "2015-03-24T11:36:08.006Z", 
+            "text": "Grandpa nerd\ufeff", 
+            "author": "Abel Guzman (protozeloz)"
+        }, 
+        {
+            "date": "2015-03-24T11:20:48.153Z", 
+            "text": "Your shirt has black dots appearing outta NOWHERE!\ufeff", 
+            "author": "homeworkfighter"
+        }, 
+        {
+            "date": "2015-03-24T10:04:07.890Z", 
+            "text": "and have you heard about Prokop Divi\u0161? In your face Ben! \nhttp://en.wikipedia.org/wiki/Prokop_Divi%C5%A1\ufeff", 
+            "author": "HolkaVBotech"
+        }, 
+        {
+            "date": "2015-03-24T09:44:44.501Z", 
+            "text": "Can you do an episode of SciShow about Kepler-186f?\ufeff", 
+            "author": "Bob Crenshaw"
+        }, 
+        {
+            "date": "2015-03-24T09:30:13.199Z", 
+            "text": "He was too busy drinking and whoring...\ufeff", 
+            "author": "TheBeelzboss"
+        }, 
+        {
+            "date": "2015-03-24T09:22:22.598Z", 
+            "text": "OMG, your shirt is freaking out my eyes. When I blink, some of the little \nwhite squares are black!\ufeff", 
+            "author": "quarkcsj"
+        }, 
+        {
+            "date": "2015-03-24T08:35:12.686Z", 
+            "text": "LOL \"thank your grandpa nerd.\"\ufeff", 
+            "author": "ChunkyDunkPeePee"
+        }, 
+        {
+            "date": "2015-03-24T08:29:46.268Z", 
+            "text": "\"this video was brought to you by our...\" Here 'subbable subscribers' just \nfit in perfectly.....\ufeff", 
+            "author": "Soham Gumaste"
+        }, 
+        {
+            "date": "2015-03-24T08:28:19.404Z", 
+            "text": "Ahaha, kill animals. So Edison \ufeff", 
+            "author": "Jian Heng"
+        }, 
+        {
+            "date": "2015-03-24T08:19:03.410Z", 
+            "text": "Weird hearing you say Patreon instead of Subbable.\ufeff", 
+            "author": "Etherouge"
+        }, 
+        {
+            "date": "2015-03-24T08:11:18.182Z", 
+            "text": "they look heavy for clouds...\ufeff", 
+            "author": "isra yousif"
+        }, 
+        {
+            "date": "2015-03-24T08:10:51.660Z", 
+            "text": "how is hail made?\ufeff", 
+            "author": "isra yousif"
+        }, 
+        {
+            "date": "2015-03-24T08:08:11.363Z", 
+            "text": "The USA was founded on the corpses of millions of natives.\nJust sayin'.\ufeff", 
+            "author": "zidan40o0"
+        }, 
+        {
+            "date": "2015-03-24T07:36:35.811Z", 
+            "text": "Is it weird that I did a woop of joy when Michael Faraday was mentioned? \ufeff", 
+            "author": "cornishphilosopher"
+        }, 
+        {
+            "date": "2015-03-24T07:17:21.824Z", 
+            "text": "Grampa nerd is in the bank right now \ufeff", 
+            "author": "11jjrmex"
+        }, 
+        {
+            "date": "2015-03-24T07:11:00.615Z", 
+            "text": "Don't forget about Ben Franklin's virulent and consistent racism in regards \nto the French colonists and Native American tribes, please.\ufeff", 
+            "author": "ninjasktho"
+        }, 
+        {
+            "date": "2015-03-24T06:15:55.518Z", 
+            "text": "BFTT\ufeff", 
+            "author": "nturtaneme"
+        }, 
+        {
+            "date": "2015-03-24T05:30:17.920Z", 
+            "text": "Ben Franklin was a rebel indeed, he liked to get naked, and smoke on the \nweed!\ufeff", 
+            "author": "teamryan69"
+        }, 
+        {
+            "date": "2015-03-24T05:10:59.834Z", 
+            "text": "Forgot all the time he spend being a Mason, huh?\ufeff", 
+            "author": "svinehunden"
+        }, 
+        {
+            "date": "2015-03-24T05:02:27.949Z", 
+            "text": "\"Rebellion against tyrants is obedience to God.\"\ufeff", 
+            "author": "Letuzfuk"
+        }, 
+        {
+            "date": "2015-03-24T05:01:23.508Z", 
+            "text": "Are there black dots on his shirt? I swear there are.\ufeff", 
+            "author": "Nev Bruh"
+        }, 
+        {
+            "date": "2015-03-24T05:00:10.822Z", 
+            "text": "0:25 You are forgetting that Benjamin Franklin had lots and lots of sex.  \ufeff", 
+            "author": "Stephan Vaudiau"
+        }, 
+        {
+            "date": "2015-03-24T04:59:44.433Z", 
+            "text": "\"They that can give up essential liberty to obtain a little temporary \nsafety deserve neither liberty nor safety.\"\ufeff", 
+            "author": "Letuzfuk"
+        }, 
+        {
+            "date": "2015-03-24T04:56:18.280Z", 
+            "text": "L.O.L.!!!! Grandpa Nerd I loved that.\ufeff", 
+            "author": "Conrad Jarmon"
+        }, 
+        {
+            "date": "2015-03-24T04:55:54.830Z", 
+            "text": "Does eating before bed make you fat? \ufeff", 
+            "author": "RuBatLad"
+        }, 
+        {
+            "date": "2015-03-24T04:27:58.184Z", 
+            "text": "What I learned today: old Ben caused the first Wilhelm scream.\ufeff", 
+            "author": "Aosgood94"
+        }, 
+        {
+            "date": "2015-03-24T04:26:34.095Z", 
+            "text": "> Gets out hundred dollar bill\n> Realizes is poor and doesn't get hundred dollar bills\n\"Awwwwww.\"\ufeff", 
+            "author": "Captain Redbeard"
+        }, 
+        {
+            "date": "2015-03-24T03:48:16.729Z", 
+            "text": "Well it is all about the Benjamins they say... How is it that people from \nso far back were so much better at discovering truths than we are today... \nHas everything already been discovered? I think not...\ufeff", 
+            "author": "Unused Signon"
+        }, 
+        {
+            "date": "2015-03-24T03:35:25.608Z", 
+            "text": "+SciShow Do a great minds episode on Jesus Christ.\ufeff", 
+            "author": "Boo Radley"
+        }
+    ]
+}

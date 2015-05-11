@@ -1,0 +1,1679 @@
+{
+    "publish_date": "2012-09-07T12:33:55.000Z", 
+    "video_length": "PT6M16S", 
+    "captions": [
+        {
+            "text": "JAMES GRIME: They wanted to find\nout the number of moves", 
+            "dur": "3.03", 
+            "start": "0.4"
+        }, 
+        {
+            "text": "it would take to solve the most\ndifficult combination.", 
+            "dur": "4.1", 
+            "start": "3.43"
+        }, 
+        {
+            "text": "And this number would be\ncalled God&#39;s number.", 
+            "dur": "2.21", 
+            "start": "7.53"
+        }, 
+        {
+            "text": "If you have perfect knowledge of\nhow to do the Rubik&#39;s cube,", 
+            "dur": "4.18", 
+            "start": "9.74"
+        }, 
+        {
+            "text": "you would be able to solve the\nmost difficult position in its", 
+            "dur": "4.44", 
+            "start": "13.92"
+        }, 
+        {
+            "text": "perfect, most efficient\nalgorithm.", 
+            "dur": "2.23", 
+            "start": "18.36"
+        }, 
+        {
+            "text": "MATT PARKER: Obviously if you\nget a solved cube and you", 
+            "dur": "3.158", 
+            "start": "23.592"
+        }, 
+        {
+            "text": "twist one bit, you&#39;ve just\ngot to twist it back.", 
+            "dur": "2.06", 
+            "start": "26.75"
+        }, 
+        {
+            "text": "So it could be one, or it could\nbe two twists, or it", 
+            "dur": "2.07", 
+            "start": "28.81"
+        }, 
+        {
+            "text": "could be five or so on.", 
+            "dur": "1.54", 
+            "start": "30.88"
+        }, 
+        {
+            "text": "But what&#39;s the most you&#39;re\ngoing to need?", 
+            "dur": "1.36", 
+            "start": "32.42"
+        }, 
+        {
+            "text": "It turns out, for a long\ntime we didn&#39;t know.", 
+            "dur": "3.774", 
+            "start": "33.78"
+        }, 
+        {
+            "text": "JAMES GRIME: So they knew that\nthe number of combinations for", 
+            "dur": "3.026", 
+            "start": "37.554"
+        }, 
+        {
+            "text": "the Rubik&#39;s cube was\nthis huge number.", 
+            "dur": "1.655", 
+            "start": "40.58"
+        }, 
+        {
+            "text": "It was 43 quintillion.", 
+            "dur": "2.085", 
+            "start": "42.235"
+        }, 
+        {
+            "text": "And if you turn a piece 17\ntimes, if you do 17 moves, the", 
+            "dur": "5.66", 
+            "start": "44.32"
+        }, 
+        {
+            "text": "number of combinations you can\nreach is less than this", 
+            "dur": "3.16", 
+            "start": "49.98"
+        }, 
+        {
+            "text": "massive number, 43\nquintillion.", 
+            "dur": "2.47", 
+            "start": "53.14"
+        }, 
+        {
+            "text": "So if you want to be able to\nsolve all combinations, it&#39;s", 
+            "dur": "4.14", 
+            "start": "55.61"
+        }, 
+        {
+            "text": "definitely more than 17 because\nthere&#39;s so many you", 
+            "dur": "1.985", 
+            "start": "59.75"
+        }, 
+        {
+            "text": "can&#39;t even reach.", 
+            "dur": "1.225", 
+            "start": "61.735"
+        }, 
+        {
+            "text": "And they managed to work out\nthat there was less than 30.", 
+            "dur": "3.67", 
+            "start": "62.96"
+        }, 
+        {
+            "text": "And over the years, they started\nto whittle this down,", 
+            "dur": "3.09", 
+            "start": "66.63"
+        }, 
+        {
+            "text": "closer and closer.", 
+            "dur": "2.472", 
+            "start": "69.72"
+        }, 
+        {
+            "text": "TONY JIANG: As you can tell, I&#39;m\nnot really fast, but I&#39;m", 
+            "dur": "4.008", 
+            "start": "72.192"
+        }, 
+        {
+            "text": "not too slow, either.", 
+            "dur": "2", 
+            "start": "76.2"
+        }, 
+        {
+            "text": "MATT PARKER: It was 2010 was\nthe first time we actually", 
+            "dur": "3.58", 
+            "start": "78.2"
+        }, 
+        {
+            "text": "knew for sure no matter how much\nyou scramble up a Rubik&#39;s", 
+            "dur": "3.72", 
+            "start": "81.78"
+        }, 
+        {
+            "text": "cube, you can solve it in\n20 or fewer twists.", 
+            "dur": "4.29", 
+            "start": "85.5"
+        }, 
+        {
+            "text": "It&#39;s often called\nGod&#39;s number.", 
+            "dur": "1.86", 
+            "start": "89.79"
+        }, 
+        {
+            "text": "It&#39;s called God&#39;s number because\nyou have to be some", 
+            "dur": "2.65", 
+            "start": "91.65"
+        }, 
+        {
+            "text": "kind of omniscient being to\nwork out those 20 moves.", 
+            "dur": "5.25", 
+            "start": "94.3"
+        }, 
+        {
+            "text": "It&#39;s so difficult to calculate\nwhat those moves are.", 
+            "dur": "3.02", 
+            "start": "99.55"
+        }, 
+        {
+            "text": "KATIE STECKLES: I couldn&#39;t look\nat a cube and say, oh I", 
+            "dur": "2.62", 
+            "start": "102.57"
+        }, 
+        {
+            "text": "need to do these 12\nmoves or whatever.", 
+            "dur": "2.5", 
+            "start": "105.19"
+        }, 
+        {
+            "text": "But there are people who can.", 
+            "dur": "1.62", 
+            "start": "107.69"
+        }, 
+        {
+            "text": "So they do Rubik&#39;s cube\nsolving competitions.", 
+            "dur": "2.53", 
+            "start": "109.31"
+        }, 
+        {
+            "text": "And they have, obviously, speed\nchallenges to see who", 
+            "dur": "2.7", 
+            "start": "111.84"
+        }, 
+        {
+            "text": "can solve it the fastest.", 
+            "dur": "1.36", 
+            "start": "114.54"
+        }, 
+        {
+            "text": "But one of the other things that\nthey do is a efficient", 
+            "dur": "3.34", 
+            "start": "115.9"
+        }, 
+        {
+            "text": "solve competition.", 
+            "dur": "2", 
+            "start": "119.24"
+        }, 
+        {
+            "text": "And the competition there is\nlook at a Rubik&#39;s cube and", 
+            "dur": "2.94", 
+            "start": "121.24"
+        }, 
+        {
+            "text": "then just write down a list of\nmoves that will solve it.", 
+            "dur": "2.84", 
+            "start": "124.18"
+        }, 
+        {
+            "text": "The world record for\nthat is 23 moves.", 
+            "dur": "2.66", 
+            "start": "127.02"
+        }, 
+        {
+            "text": "And obviously that was\nfor a particular", 
+            "dur": "1.83", 
+            "start": "129.68"
+        }, 
+        {
+            "text": "scramble of the cube.", 
+            "dur": "0.86", 
+            "start": "131.51"
+        }, 
+        {
+            "text": "And it may have been that the\nactual, most efficient way to", 
+            "dur": "2.3", 
+            "start": "132.37"
+        }, 
+        {
+            "text": "solve that was fewer than 20.", 
+            "dur": "2.11", 
+            "start": "134.67"
+        }, 
+        {
+            "text": "But a human can look at it and\nactually write down a list of", 
+            "dur": "2.52", 
+            "start": "136.78"
+        }, 
+        {
+            "text": "23, which I think is probably\nmore impressive than people", 
+            "dur": "3.02", 
+            "start": "139.3"
+        }, 
+        {
+            "text": "who can solve it\nreally quickly.", 
+            "dur": "1.05", 
+            "start": "142.32"
+        }, 
+        {
+            "text": "MATT PARKER: You might think,\nwell how do we know?", 
+            "dur": "1.71", 
+            "start": "143.37"
+        }, 
+        {
+            "text": "How do we know that?", 
+            "dur": "1.425", 
+            "start": "145.08"
+        }, 
+        {
+            "text": "Did we just check all 43.25\nbillion billion different ways", 
+            "dur": "4.385", 
+            "start": "146.505"
+        }, 
+        {
+            "text": "of solving it?", 
+            "dur": "0.66", 
+            "start": "150.89"
+        }, 
+        {
+            "text": "And we effectively did that.", 
+            "dur": "4.28", 
+            "start": "151.55"
+        }, 
+        {
+            "text": "JAMES GRIME: A move, by the\nway, is a quarter turn, or", 
+            "dur": "5", 
+            "start": "155.83"
+        }, 
+        {
+            "text": "quarter turn the other\nway, or half turn.", 
+            "dur": "3.36", 
+            "start": "160.83"
+        }, 
+        {
+            "text": "That counts.", 
+            "dur": "0.44", 
+            "start": "164.19"
+        }, 
+        {
+            "text": "So anything that you move\ncounts as a move.", 
+            "dur": "3.49", 
+            "start": "164.63"
+        }, 
+        {
+            "text": "All right, so a quarter turn,\na quarter turn, or a half", 
+            "dur": "2.49", 
+            "start": "168.12"
+        }, 
+        {
+            "text": "turn, those all counts as one.", 
+            "dur": "3.544", 
+            "start": "170.61"
+        }, 
+        {
+            "text": "MATT PARKER: So guys got the\nRubik&#39;s cube and they try to", 
+            "dur": "3.329", 
+            "start": "174.154"
+        }, 
+        {
+            "text": "look at all the possible\ncombinations.", 
+            "dur": "1.587", 
+            "start": "177.483"
+        }, 
+        {
+            "text": "And they realized that actually\nyou don&#39;t have to", 
+            "dur": "2.25", 
+            "start": "179.07"
+        }, 
+        {
+            "text": "check all of them, because some\nof them are the same.", 
+            "dur": "1.89", 
+            "start": "181.32"
+        }, 
+        {
+            "text": "And so they used arguments\nfrom symmetry, saying, in", 
+            "dur": "2.87", 
+            "start": "183.21"
+        }, 
+        {
+            "text": "fact, being mixed up this way is\nactually the same as being", 
+            "dur": "2.62", 
+            "start": "186.08"
+        }, 
+        {
+            "text": "mixed up that way.", 
+            "dur": "0.88", 
+            "start": "188.7"
+        }, 
+        {
+            "text": "It&#39;s the same way to solve\nit and so on and so on.", 
+            "dur": "2.82", 
+            "start": "189.58"
+        }, 
+        {
+            "text": "And so they managed to whittle\ndown the number of ones they", 
+            "dur": "3.84", 
+            "start": "192.4"
+        }, 
+        {
+            "text": "have to check.", 
+            "dur": "0.78", 
+            "start": "196.24"
+        }, 
+        {
+            "text": "And this is one of those\nwonderful things where you do", 
+            "dur": "1.63", 
+            "start": "197.02"
+        }, 
+        {
+            "text": "a proof by exhaustion.", 
+            "dur": "1.035", 
+            "start": "198.65"
+        }, 
+        {
+            "text": "JAMES GRIME: They found a\nvery difficult position.", 
+            "dur": "3.855", 
+            "start": "199.685"
+        }, 
+        {
+            "text": "It was called the superflip.", 
+            "dur": "2.18", 
+            "start": "203.54"
+        }, 
+        {
+            "text": "Now the superflip is essentially\ncompletely solved", 
+            "dur": "4.51", 
+            "start": "205.72"
+        }, 
+        {
+            "text": "except each edge position\nwas flipped over.", 
+            "dur": "4.84", 
+            "start": "210.23"
+        }, 
+        {
+            "text": "Now that would be a very\ndifficult position to solve.", 
+            "dur": "4.58", 
+            "start": "215.07"
+        }, 
+        {
+            "text": "They realized that you could\nsolve that position, the", 
+            "dur": "2.57", 
+            "start": "219.65"
+        }, 
+        {
+            "text": "superflip, in 20 moves.", 
+            "dur": "3.72", 
+            "start": "222.22"
+        }, 
+        {
+            "text": "And they proved that you\ncouldn&#39;t do it in anything", 
+            "dur": "2.11", 
+            "start": "225.94"
+        }, 
+        {
+            "text": "less than 20 moves.", 
+            "dur": "1.72", 
+            "start": "228.05"
+        }, 
+        {
+            "text": "So you couldn&#39;t do it in\n19 or 18, nothing less.", 
+            "dur": "2.98", 
+            "start": "229.77"
+        }, 
+        {
+            "text": "So 20 moves.", 
+            "dur": "1.18", 
+            "start": "232.75"
+        }, 
+        {
+            "text": "So they thought, great.", 
+            "dur": "1.4", 
+            "start": "233.93"
+        }, 
+        {
+            "text": "Maybe 20 is God&#39;s number.", 
+            "dur": "1.9", 
+            "start": "235.33"
+        }, 
+        {
+            "text": "MATT PARKER: And to do a proof\nby exhaustion, you have to do", 
+            "dur": "1.8", 
+            "start": "237.23"
+        }, 
+        {
+            "text": "two things.", 
+            "dur": "0.68", 
+            "start": "239.03"
+        }, 
+        {
+            "text": "You&#39;ve got to first of all\nreduce the number of cases you", 
+            "dur": "2.99", 
+            "start": "239.71"
+        }, 
+        {
+            "text": "need to check as much\nas you can.", 
+            "dur": "1.72", 
+            "start": "242.7"
+        }, 
+        {
+            "text": "Secondly, you&#39;ve got\nto get very clever", 
+            "dur": "2.37", 
+            "start": "244.42"
+        }, 
+        {
+            "text": "ways of checking them.", 
+            "dur": "1.29", 
+            "start": "246.79"
+        }, 
+        {
+            "text": "And so they got better and\nbetter computer programs and", 
+            "dur": "3.12", 
+            "start": "248.08"
+        }, 
+        {
+            "text": "also more and more powerful\ncomputers.", 
+            "dur": "2.8", 
+            "start": "251.2"
+        }, 
+        {
+            "text": "So they just crossed.", 
+            "dur": "2.26", 
+            "start": "254"
+        }, 
+        {
+            "text": "So they had reduced the number\nof cases far enough.", 
+            "dur": "2.069", 
+            "start": "256.26"
+        }, 
+        {
+            "text": "They had a fast enough computer\nwith a smart enough", 
+            "dur": "2.081", 
+            "start": "258.329"
+        }, 
+        {
+            "text": "program to check that many.", 
+            "dur": "1.56", 
+            "start": "260.41"
+        }, 
+        {
+            "text": "And they could run it.", 
+            "dur": "2.47", 
+            "start": "261.97"
+        }, 
+        {
+            "text": "I&#39;ve been to the place where\nthey actually did the", 
+            "dur": "2.89", 
+            "start": "264.44"
+        }, 
+        {
+            "text": "computation.", 
+            "dur": "0.9", 
+            "start": "267.33"
+        }, 
+        {
+            "text": "It was at the Google\nheadquarters in San Francisco,", 
+            "dur": "2.63", 
+            "start": "268.23"
+        }, 
+        {
+            "text": "just outside San Francisco.", 
+            "dur": "2.24", 
+            "start": "270.86"
+        }, 
+        {
+            "text": "And Google, because it&#39;s run\nby benevolent nerds, let", 
+            "dur": "4.55", 
+            "start": "273.1"
+        }, 
+        {
+            "text": "people use their mind bogglingly\npowerful computer.", 
+            "dur": "3.93", 
+            "start": "277.65"
+        }, 
+        {
+            "text": "The amount of computer power\nthat Google has is phenomenal.", 
+            "dur": "2.79", 
+            "start": "281.58"
+        }, 
+        {
+            "text": "They don&#39;t use it all\nof it all the time.", 
+            "dur": "1.28", 
+            "start": "284.37"
+        }, 
+        {
+            "text": "And so if you come up with an\ninteresting enough reason,", 
+            "dur": "2.74", 
+            "start": "285.65"
+        }, 
+        {
+            "text": "they will let you come and\nplay around on their", 
+            "dur": "2.59", 
+            "start": "288.39"
+        }, 
+        {
+            "text": "incredible computer\nprocessing power.", 
+            "dur": "3.3", 
+            "start": "290.98"
+        }, 
+        {
+            "text": "You&#39;ve got prove that your\ncode&#39;s not going to", 
+            "dur": "1.67", 
+            "start": "294.28"
+        }, 
+        {
+            "text": "run amok, et cetera.", 
+            "dur": "1.39", 
+            "start": "295.95"
+        }, 
+        {
+            "text": "And that&#39;s what these\nguys did.", 
+            "dur": "0.93", 
+            "start": "297.34"
+        }, 
+        {
+            "text": "They had their code\nthat checked the", 
+            "dur": "2.48", 
+            "start": "298.27"
+        }, 
+        {
+            "text": "reduced number of cases.", 
+            "dur": "1.15", 
+            "start": "300.75"
+        }, 
+        {
+            "text": "They ran it on the\nGoogle servers.", 
+            "dur": "1.4", 
+            "start": "301.9"
+        }, 
+        {
+            "text": "And they did.", 
+            "dur": "0.81", 
+            "start": "303.3"
+        }, 
+        {
+            "text": "They exhaustively checked.", 
+            "dur": "1.11", 
+            "start": "304.11"
+        }, 
+        {
+            "text": "And we know now, for a fact--", 
+            "dur": "1.55", 
+            "start": "305.22"
+        }, 
+        {
+            "text": "JAMES GRIME: --that God&#39;s\nnumber is 20.", 
+            "dur": "2.03", 
+            "start": "306.77"
+        }, 
+        {
+            "text": "Every Rubik&#39;s puzzle can be\nsolved in 20 or fewer moves.", 
+            "dur": "6.856", 
+            "start": "308.8"
+        }, 
+        {
+            "text": "MATT PARKER: I&#39;m actually\ninvolved at the moment in a", 
+            "dur": "2.934", 
+            "start": "315.656"
+        }, 
+        {
+            "text": "attempt to set the world record\nfor the most people", 
+            "dur": "2.44", 
+            "start": "318.59"
+        }, 
+        {
+            "text": "solving a Rubik&#39;s cube\nsimultaneously.", 
+            "dur": "2.79", 
+            "start": "321.03"
+        }, 
+        {
+            "text": "So we&#39;re going to try and get\n2000 school students into the", 
+            "dur": "3.88", 
+            "start": "323.82"
+        }, 
+        {
+            "text": "O2 venue in London.", 
+            "dur": "2.32", 
+            "start": "327.7"
+        }, 
+        {
+            "text": "And we&#39;re going to try and break\nthe simultaneous solving", 
+            "dur": "2.59", 
+            "start": "330.02"
+        }, 
+        {
+            "text": "world record.", 
+            "dur": "0.98", 
+            "start": "332.61"
+        }, 
+        {
+            "text": "And it&#39;s for a charity.", 
+            "dur": "1.13", 
+            "start": "333.59"
+        }, 
+        {
+            "text": "So the DePaul charity\nhas organized this.", 
+            "dur": "2.34", 
+            "start": "334.72"
+        }, 
+        {
+            "text": "Rubik&#39;s is sponsoring it.", 
+            "dur": "2.01", 
+            "start": "337.06"
+        }, 
+        {
+            "text": "And any school in the\nUK can enter.", 
+            "dur": "2.04", 
+            "start": "339.07"
+        }, 
+        {
+            "text": "It&#39;s on the 21st of November.", 
+            "dur": "1.765", 
+            "start": "341.11"
+        }, 
+        {
+            "text": "So if you go to the\nDePaul website--", 
+            "dur": "1.875", 
+            "start": "342.875"
+        }, 
+        {
+            "text": "Or I imagine, this\nis the internet.", 
+            "dur": "1.75", 
+            "start": "344.75"
+        }, 
+        {
+            "text": "We can probably hyperlink this\ninformation beneath the video.", 
+            "dur": "3.15", 
+            "start": "346.5"
+        }, 
+        {
+            "text": "Schools can get involved.", 
+            "dur": "1.76", 
+            "start": "349.65"
+        }, 
+        {
+            "text": "I&#39;m involved.", 
+            "dur": "0.575", 
+            "start": "351.41"
+        }, 
+        {
+            "text": "It&#39;s the charity I do\ncharity work for.", 
+            "dur": "3.295", 
+            "start": "351.985"
+        }, 
+        {
+            "text": "It&#39;s to stop young people from\nbecoming homeless, which I", 
+            "dur": "2.53", 
+            "start": "355.28"
+        }, 
+        {
+            "text": "think is fair enough.", 
+            "dur": "2.66", 
+            "start": "357.81"
+        }, 
+        {
+            "text": "I&#39;m hosting the event.", 
+            "dur": "0.94", 
+            "start": "360.47"
+        }, 
+        {
+            "text": "So I&#39;ll be there on the 21st\nwandering around talking about", 
+            "dur": "2.77", 
+            "start": "361.41"
+        }, 
+        {
+            "text": "math and how wonderful it is.", 
+            "dur": "1.74", 
+            "start": "364.18"
+        }, 
+        {
+            "text": "And I&#39;m developing resources.", 
+            "dur": "2.63", 
+            "start": "365.92"
+        }, 
+        {
+            "text": "So I&#39;ve developed videos and\nworksheets for teachers to use", 
+            "dur": "4.34", 
+            "start": "368.55"
+        }, 
+        {
+            "text": "to teach students how to\nsolve the Rubik&#39;s cube.", 
+            "dur": "3.84", 
+            "start": "372.89"
+        }
+    ], 
+    "title": "God's Number and Rubik's Cube - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0d18bc", 
+        "/m/0h0b5", 
+        "/m/0vb40_n"
+    ], 
+    "number_views": 551941, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-29T17:26:57.339Z", 
+            "text": "what are the odds of a blind people getting a rubik's cube right in x \nturns? i hope you'll make a video covering this.\ufeff", 
+            "author": "Gustav Krog S\u00f8bygaard"
+        }, 
+        {
+            "date": "2015-05-07T04:35:12.086Z", 
+            "text": "Too many variables.", 
+            "author": "Luke Rybuck"
+        }, 
+        {
+            "date": "2015-04-26T16:58:50.161Z", 
+            "text": "I've never been able to solve one, and I've had one for 15 years.\ufeff", 
+            "author": "happybuddyperson"
+        }, 
+        {
+            "date": "2015-03-22T12:50:26.767Z", 
+            "text": "2:00 the world record was actually broken and set to 20 moves, so the next \nworld record will be under god's number\ufeff", 
+            "author": "Meow"
+        }, 
+        {
+            "date": "2015-03-14T01:19:56.403Z", 
+            "text": "I could of been sure I heard \"It stops young people from becoming homos, \nwhich I think is fair enough\"\ufeff", 
+            "author": "Twitch375"
+        }, 
+        {
+            "date": "2015-04-01T08:47:09.000Z", 
+            "text": "Haha I thought I heard that too, had to rewind. He actually sad homeless :)", 
+            "author": "Goran So\u010de"
+        }, 
+        {
+            "date": "2015-03-06T14:03:11.874Z", 
+            "text": "", 
+            "author": "Tarek AL-Jawi"
+        }, 
+        {
+            "date": "2015-02-25T09:49:38.203Z", 
+            "text": "I solved the rubiks cube in 3 weeks using my own method when I was 11 years \nold. There was no answer book when it first came out. Rubik himself took 1 \nmonth to complete it. \ufeff", 
+            "author": "Nexus Ninja"
+        }, 
+        {
+            "date": "2015-02-19T10:25:20.829Z", 
+            "text": "What is the minimum number of moves to solve a supercube perfectly? (This \nis one on which you have to get the centres pointing the right way too - it \nhas 2048 times as many combinations, yet mechanically it's the same)\ufeff", 
+            "author": "Phil Reynolds"
+        }, 
+        {
+            "date": "2015-01-30T10:54:20.301Z", 
+            "text": "there is a cube comp on  31st jan 2015 (tomorrow) in weribee not compeating \nbut can solve it in under 25 seconds (avr. 32.4...)\ufeff", 
+            "author": "Austoria-Games"
+        }, 
+        {
+            "date": "2015-01-22T10:40:22.034Z", 
+            "text": "*them\ufeff", 
+            "author": "Oliver Leong"
+        }, 
+        {
+            "date": "2015-01-22T10:40:05.825Z", 
+            "text": "Can Feliks Just Teach Me And Then?\ufeff", 
+            "author": "Oliver Leong"
+        }, 
+        {
+            "date": "2015-01-18T22:19:08.670Z", 
+            "text": "super flip 12-avg 9.57\nmoyu aolong\nis that good ??\ufeff", 
+            "author": "Atacan Demir"
+        }, 
+        {
+            "date": "2015-01-10T20:06:25.460Z", 
+            "text": "I have a conjecture. Can any Rubik's cube position be solved in 20 moves, \nwithout going over or *under* that amount?\ufeff", 
+            "author": "ZxTehGamingSpegee"
+        }, 
+        {
+            "date": "2015-05-10T21:18:10.190Z", 
+            "text": "+RaidChampion If you have a cube that only needs to be turned a quarter \nturn clockwise, you can make a half turn and then a quarter turn \ncounterclockwise, giving the same result as if you had only turned the cube \na quarter turn clockwise from the starting position. This naturally works \nfor starting positions that require an even amount of turns as well as \nthose requiring an odd amount of turns, and it is thus possible to extend a \n19 turn solve to a 20 turn solve.", 
+            "author": "Unigurd"
+        }, 
+        {
+            "date": "2015-04-22T07:41:04.160Z", 
+            "text": "+ZxTehGamingSpegee Surely, rotating a side 360 degrees is still a move. So \njust repeat until you reach 20.", 
+            "author": "astrallus"
+        }, 
+        {
+            "date": "2015-03-26T17:47:34.771Z", 
+            "text": "+Kristan Clement And you were correct. Yet the original questions persists. \n:-)", 
+            "author": "RaidChampion"
+        }, 
+        {
+            "date": "2015-03-26T17:27:28.209Z", 
+            "text": "+RaidChampion I'm not sure about that one, it might depend on the \ncombination on the cube. I was merely making a remark on your query of an \nodd number of solutions. ", 
+            "author": "Kristan Clement"
+        }, 
+        {
+            "date": "2015-03-26T16:37:43.956Z", 
+            "text": "+Kristan Clement Indeed. I guess that, when you have a cube that needs \nexactly 20 moves to be solved, by performing any arbitrary move 'in the \nright direction' one obtains a cube that needs at least 19 moves to be \nsolved.\nStill, does that really exclude the possibility that that same cube could \nbe solved by exactly 20 moves?", 
+            "author": "RaidChampion"
+        }, 
+        {
+            "date": "2015-03-26T16:07:49.964Z", 
+            "text": "+RaidChampion I mean if it's only unsolved by a single quarter turn, then \none move will solve it. Proof by contradiction", 
+            "author": "Kristan Clement"
+        }, 
+        {
+            "date": "2015-03-22T21:17:16.412Z", 
+            "text": "+Shehan Nanayakkara You're right, but is it even possible that a cube is \nsolved by an odd number of moves? I'm not an expert, but my gut feeling \nsays nay. I'll try to think of an argument to prove it.", 
+            "author": "RaidChampion"
+        }, 
+        {
+            "date": "2015-03-22T08:47:44.695Z", 
+            "text": "Well if the absolute minimum moves for one case is 19, then any extra move \nwould make it unsolved. So it wouldn't be possible to solve in 20 moves \nexactly for all cases. But since any case can be solved in 20 moves or \nless, any cube solved in an odd number of moves can be solved in exactly 19 \nmoves by turning any face clockwise and anticlockwise (taking 2 moves) \nafter you solved the cube until you got to 19. However, cubes which are \nsolved by an even number of moves can always be solved in exactly 20 moves \nusing the previous method. Therefore, any cube can be solved in exactly 19 \nor 20 moves.", 
+            "author": "Shehan Nanayakkara"
+        }, 
+        {
+            "date": "2015-01-15T18:40:54.339Z", 
+            "text": "Well, in fact 'doing nothing' is considered a move (called a trivial move), \nso a cube that can be solved in, say, 12 moves, can be solved in 20 moves \nby doing nothing for 8 moves. I guess this is a pretty lame answer, so \nimagine we'd leave out the trivial move.\n\nThen still, any cube that can be solved in an even number of moves, can \nalso be solved in 20 moves. Indeed, you can always add two moves by \nrotating some side a quarter-turn and then turning it back. So if you have \na solution that takes 12 moves, you can derive a solution in 20 moves by \nadding four quarter turns clockwsie and four quarter turns \ncounter-clockwise to some side.\nIn this case, your question is hereby simplified to the question: can any \nRubik's cube be solved in an even number of (non-trivial) moves? I admit I \ndon't know the answer, perhaps you can google it?", 
+            "author": "RaidChampion"
+        }, 
+        {
+            "date": "2015-01-02T21:26:38.077Z", 
+            "text": "I was messing around with algorithims and actually made the \"superflip\" \nwithout noticing it. I sure as hell can't solve it in 20 moves though.\ufeff", 
+            "author": "Aymbaut"
+        }, 
+        {
+            "date": "2014-12-30T21:42:17.179Z", 
+            "text": "Matt's cube makes a spring noise. It's not lubed up well enough.\ufeff", 
+            "author": "Gary"
+        }, 
+        {
+            "date": "2015-02-14T11:34:34.734Z", 
+            "text": "That amount of lube may be perfect for him.\nI like mine a little springy too", 
+            "author": "Christopher Banacka"
+        }, 
+        {
+            "date": "2015-02-07T05:03:08.603Z", 
+            "text": "+R. pizzamonkey 5.55 to be excact", 
+            "author": "R. pizzamonkey"
+        }, 
+        {
+            "date": "2015-02-07T05:02:26.153Z", 
+            "text": "WORLD RECORD=SUB 6 SECONDS WTF", 
+            "author": "R. pizzamonkey"
+        }, 
+        {
+            "date": "2015-01-10T10:50:38.997Z", 
+            "text": "+Innis Flores :D", 
+            "author": "clankFilmstudios"
+        }, 
+        {
+            "date": "2015-01-10T05:47:33.564Z", 
+            "text": "+clankFilmstudios The lube went into the Rubiks cube located in his pants \n(If you know what I mean)", 
+            "author": "Innis Flores"
+        }, 
+        {
+            "date": "2014-12-31T03:43:23.952Z", 
+            "text": "I think you know where the lube went.", 
+            "author": "clankFilmstudios"
+        }, 
+        {
+            "date": "2014-12-30T01:41:07.910Z", 
+            "text": "14\ufeff", 
+            "author": "C. L. Hutchinson"
+        }, 
+        {
+            "date": "2014-12-23T08:50:31.792Z", 
+            "text": "A move should be define as a quarter turn in any direction but not a half \nturn.\ufeff", 
+            "author": "Master Stroke"
+        }, 
+        {
+            "date": "2014-12-16T15:34:50.827Z", 
+            "text": "20 es el minimo no se puede menos\ufeff", 
+            "author": "3pedrops"
+        }, 
+        {
+            "date": "2015-01-12T19:14:44.278Z", 
+            "text": "No, 20 es el m\u00e1ximo, lo que quiere decir que siempre existe alg\u00fan algoritmo \nque lo resuelva en 20 o menos. Por supuesto que puede ser que hagan falta \nmenos por Dios.", 
+            "author": "Eduardo Lucas"
+        }, 
+        {
+            "date": "2014-12-14T00:27:49.575Z", 
+            "text": "777\ufeff", 
+            "author": "Brandon Cruz"
+        }, 
+        {
+            "date": "2014-12-11T22:06:12.246Z", 
+            "text": "when u get a new cube, couldnt you win in 2 moves by turning the cube once \nthen back.. just saying lol\ufeff", 
+            "author": "StonetheMason '"
+        }, 
+        {
+            "date": "2014-12-04T19:22:39.397Z", 
+            "text": "Mathematicians have proved that every combination of Rubik's cube can be \nsolved with 20 movements or less! Mathematicians are amazing, aren't they?\ufeff", 
+            "author": "Dashamir Hoxha"
+        }, 
+        {
+            "date": "2014-12-03T12:51:55.937Z", 
+            "text": "Did they manage to prove that there is no scramble that requires more moves \nto solve than the \"superflip\" requires?\ufeff", 
+            "author": "sigalig"
+        }, 
+        {
+            "date": "2014-11-30T15:51:50.712Z", 
+            "text": "FWIW: Methods such the Fridrich and Petrus don't solve the 3x3 cube per se \nrather they rebuild the cube from scratch.\ufeff", 
+            "author": "dezzlok"
+        }, 
+        {
+            "date": "2014-11-22T03:57:27.796Z", 
+            "text": "Couldn't you just reverse a solved Rubik's cube to any extremely mixed \nrandom point and count how many moves it took the get there. Then you could \ntry different pattern mixes and see which one took the least amount of \nmoves. Seems easier than counting the moves it took to solve it....\ufeff", 
+            "author": "Tim Seffinga"
+        }, 
+        {
+            "date": "2014-11-10T01:34:18.489Z", 
+            "text": "Thumbs down because there's no demo shown for the 20 moves... :(\ufeff", 
+            "author": "Fath Aja"
+        }, 
+        {
+            "date": "2014-11-16T22:54:14.096Z", 
+            "text": "if you do the superflip it twice it will be the solved cube beacause the \nsuperflip is 20 moves ", 
+            "author": "Anthony  Smith"
+        }, 
+        {
+            "date": "2014-11-02T08:20:44.987Z", 
+            "text": "I want to test my Hello World program on Google's super computer. Make it \nhappen!\ufeff", 
+            "author": "James Mc Fabulous"
+        }, 
+        {
+            "date": "2015-02-14T11:35:13.896Z", 
+            "text": "i bet if you pass this around enough, or get enough likes on facebook or \nsome BS, some guy will let you do it....", 
+            "author": "Christopher Banacka"
+        }, 
+        {
+            "date": "2014-10-30T10:07:08.476Z", 
+            "text": "I've only ever done a solve in under 10 moves once. I don't know how it \nworked but it did.\ufeff", 
+            "author": "Harry Belfore"
+        }, 
+        {
+            "date": "2015-01-02T14:55:01.768Z", 
+            "text": "+bassisku even if he did 3 thousand moves that doesnt mean it will take \n3000 moves it could get sscrambled into something ten moves from solved", 
+            "author": "Sam Hudson"
+        }, 
+        {
+            "date": "2014-12-10T15:05:46.224Z", 
+            "text": "+3SoccerPlayer3 Yes but even if he does a \"legit\" mix, it wasn't an optimal \nmix. \nYour friend can just move 1 piece and you can claim as much as now that you \nsolved it with 1 move.", 
+            "author": "bassisku"
+        }, 
+        {
+            "date": "2014-10-31T09:39:53.960Z", 
+            "text": "+3SoccerPlayer3 well then say so xD whats your prob then. good for yew", 
+            "author": "Loreta Zari\u0146a"
+        }, 
+        {
+            "date": "2014-10-31T09:35:48.251Z", 
+            "text": "Look on Youtube or re-watch the video. They clearly state that it takes at \nmost 20 moves and could be less. Also it was fully mixed up by me and my \nfriend mixed it up more afterwards.", 
+            "author": "Harry Belfore"
+        }, 
+        {
+            "date": "2014-10-31T09:20:59.227Z", 
+            "text": "and i said that it wasnt completely messed up", 
+            "author": "Loreta Zari\u0146a"
+        }, 
+        {
+            "date": "2014-10-31T08:33:39.480Z", 
+            "text": "If you listened to the video it can be solved in 20 moves or less. I just \ngot very lucky.", 
+            "author": "Harry Belfore"
+        }, 
+        {
+            "date": "2014-10-31T00:21:36.371Z", 
+            "text": "because it wasnt completely messed up lol", 
+            "author": "Loreta Zari\u0146a"
+        }, 
+        {
+            "date": "2014-10-28T06:17:11.996Z", 
+            "text": "lol \"proof by exhaustion\" a.k.a. Brute Forcing it\ufeff", 
+            "author": "sigalig"
+        }, 
+        {
+            "date": "2014-11-07T23:44:36.796Z", 
+            "text": "\"Brute Force\" would be a great name for the next supercomputer.", 
+            "author": "michael allen"
+        }, 
+        {
+            "date": "2014-10-27T21:12:02.795Z", 
+            "text": "Every rubiks puzzle... *cough* 4x4 *cough*\ufeff", 
+            "author": "Dani\u00ebl Drumstel"
+        }, 
+        {
+            "date": "2014-10-21T16:49:47.480Z", 
+            "text": "Is there a Rubik's tesseract? What's the God's number of that?\ufeff", 
+            "author": "rmbt"
+        }, 
+        {
+            "date": "2014-09-29T01:11:17.113Z", 
+            "text": "God's Number and Rubik's Cube - Numberphile: http://youtu.be/yF2J39Xny4Q\ufeff", 
+            "author": "Daniel Zook"
+        }, 
+        {
+            "date": "2014-09-22T05:57:51.770Z", 
+            "text": "meh, the Enigma is more impressive :p\ufeff", 
+            "author": "MegaZsolti"
+        }, 
+        {
+            "date": "2014-09-16T02:22:48.834Z", 
+            "text": "Rubik's cube solution in 20 moves? Mind breaking video for puzzle fiends \nand math whizzes alike. \nhttp://youtu.be/yF2J39Xny4Q\ufeff", 
+            "author": "3RD SENSE The Play Agency"
+        }, 
+        {
+            "date": "2014-09-03T05:26:34.894Z", 
+            "text": "gods number in Rubik's cube\ufeff", 
+            "author": "Aakash Anil"
+        }, 
+        {
+            "date": "2014-08-25T20:24:32.588Z", 
+            "text": "It should be called the Hungarian National Number, because Erno Rubik is \nHungarian\ufeff", 
+            "author": "Neen S"
+        }, 
+        {
+            "date": "2014-08-25T15:19:52.869Z", 
+            "text": "Fewest moves WR is 20 and they don't just look at it and write down the \nmoves they do just use tricks to \"cancel\" moves an getting less and less \nmoves. They actuly solve the cube like 10 times\ufeff", 
+            "author": "Pieter Luyten"
+        }, 
+        {
+            "date": "2014-08-17T08:59:36.745Z", 
+            "text": "matt parker looks so much like john cleese!\ufeff", 
+            "author": "Tal Ronen"
+        }, 
+        {
+            "date": "2014-08-12T13:39:40.699Z", 
+            "text": "", 
+            "author": "Lolita Romero"
+        }, 
+        {
+            "date": "2014-08-12T06:18:08.409Z", 
+            "text": "The video keeps showing folks doing speed cubing. However, the whole point \nof this is that the efficient cube solution is just plain awesome. The guy \nwho proposed the 23 step solution for the rubik's cube must have been a \ngenius of a different level!\ufeff", 
+            "author": "AnkhArcRod"
+        }, 
+        {
+            "date": "2014-08-11T22:46:31.264Z", 
+            "text": "Great now solve God's number for the 4x4\ufeff", 
+            "author": "Jack Hafer"
+        }, 
+        {
+            "date": "2015-04-10T18:52:36.584Z", 
+            "text": "If so, find gods number on a yottaminx\n", 
+            "author": "CreeperArmyExtreme"
+        }, 
+        {
+            "date": "2014-09-07T21:06:40.087Z", 
+            "text": "Wikipedia:\nMore generally, it has been shown that an n \u00d7 n \u00d7 n Rubik's Cube can be \nsolved optimally in \u0398(n2 / log(n)) moves.", 
+            "author": "alicemalina"
+        }, 
+        {
+            "date": "2014-08-26T03:34:46.506Z", 
+            "text": "I was just about to post this, but apparently someone already beat me to it.", 
+            "author": "Griffin Collins"
+        }, 
+        {
+            "date": "2014-08-10T13:00:37.188Z", 
+            "text": "\"It stops young people from going homeless, which I think is fair enough\"\ufeff", 
+            "author": "John Smith"
+        }, 
+        {
+            "date": "2014-07-31T08:24:26.118Z", 
+            "text": "I once got a solid black Rubik's Cube as a gift.\nGreatest gift ever.\nI laughed so hard.\ufeff", 
+            "author": "TacomaPaul"
+        }, 
+        {
+            "date": "2014-11-28T16:55:06.181Z", 
+            "text": "dude i bet you cant solve it. its a toughie!", 
+            "author": "Daniel Williams"
+        }, 
+        {
+            "date": "2014-07-06T17:26:19.000Z", 
+            "text": "i could solve a rubix cube in under 20 moves no matter how much you mess it \nup!.............................................................................................................................................................................................................................................................................................................................................just \nadd stickers on the cube...solved. didnt say we couldnt cheat.\ufeff", 
+            "author": "One J Reaper"
+        }, 
+        {
+            "date": "2014-11-26T00:06:18.767Z", 
+            "text": "And I can solve any equation ever brought upon me. 5x + 23 = y^2 + 5; x = \n56;\n\n*opens up calculator*\ny = sqrt of 298 = 17.26. Boom, didn't say I couldn't use a calculator, beat \nit math teachers!", 
+            "author": "Brady the Polymath"
+        }, 
+        {
+            "date": "2014-11-11T13:07:21.284Z", 
+            "text": "That's actually a prank competitive Rubik's Cube players do on each other, \nyou swap a couple of corner stickers around and it becomes impossible to \nsolve :P", 
+            "author": "TheRhinehart86"
+        }, 
+        {
+            "date": "2014-06-29T19:00:04.967Z", 
+            "text": "I think you got things mixed up at 5:10, fewer instead of more.\ufeff", 
+            "author": "Klaus \u201cThe Cloud\u201d Kleber"
+        }, 
+        {
+            "date": "2014-10-16T01:59:29.522Z", 
+            "text": "No matter what state the cube is at, even after your initial turn, it still \ntakes 20 moves to solve at most.", 
+            "author": "Pseudo Arch"
+        }, 
+        {
+            "date": "2014-08-17T09:47:00.000Z", 
+            "text": "The video is correct.  He is saying that no matter what position the cube \nis in, you never need more than 20 OPTIMAL moves to solve it.  Twenty is \nthe upper limit but it is difficult to compute the exact minimum number of \nmoves to solve any given configuration.  We see this in math all the time, \nwhere you can prove that a solution is not higher or lower than certain \nlimits yet the exact solution remains unknown.", 
+            "author": "lgbtTV5"
+        }, 
+        {
+            "date": "2014-08-03T18:51:49.617Z", 
+            "text": "No he didn't. He meant that the most moves you need to do to solve a cube \nis 20 moves, so what he said makes sense.", 
+            "author": "Mat\u00edas Pierdom\u00e9nico"
+        }, 
+        {
+            "date": "2014-06-22T02:53:23.786Z", 
+            "text": "Good Guy Google\ufeff", 
+            "author": "Sombrero"
+        }, 
+        {
+            "date": "2014-06-02T20:03:24.450Z", 
+            "text": "Can we really can 20 gods number when it only works for the standard 3X3X3 \ncube? The next challenge that I am much more fascinated in seeing the \nresult would be a god's formula in which is solves for the god's number for \nany cube of n. Get to it Google :)\ufeff", 
+            "author": "Grant Johnson"
+        }, 
+        {
+            "date": "2014-10-16T02:00:35.035Z", 
+            "text": "Or you could just wikipedia the answer and do the math yourself.", 
+            "author": "Pseudo Arch"
+        }, 
+        {
+            "date": "2014-05-21T02:23:08.490Z", 
+            "text": "I once had a rubiks cube but i wasn't ever really able to solve it. So, \nwhile i'm not able to solve one, i find the math and reasoning behind it \nvery interesting. Thanks a lot for sharing this cool new development in the \nRubik's cube world :)\ufeff", 
+            "author": "Daniel Alborn"
+        }, 
+        {
+            "date": "2014-05-19T22:37:20.406Z", 
+            "text": "Happy Birthday, Mr Cube\n40 years today, what happens in two years time?\n6*7?\nSo long and thanks for all the twists.\ufeff", 
+            "author": "William Turner"
+        }, 
+        {
+            "date": "2014-05-09T19:01:30.162Z", 
+            "text": "the guy at 6:16 is epic\ufeff", 
+            "author": "Henry Waldstreicher"
+        }, 
+        {
+            "date": "2014-09-25T22:49:11.922Z", 
+            "text": "\u00ac\u00ac", 
+            "author": "Kzeriar"
+        }, 
+        {
+            "date": "2014-08-17T09:52:31.912Z", 
+            "text": "Jerk.   Still a thumbs up...  :)", 
+            "author": "lgbtTV5"
+        }, 
+        {
+            "date": "2014-05-02T02:17:26.935Z", 
+            "text": "What is \"God's number\" for a 4x4x4 cube? And is there a formula for \nfiguring it out for an NxNxN cube?\ufeff", 
+            "author": "Muslim604"
+        }, 
+        {
+            "date": "2014-09-07T22:17:59.875Z", 
+            "text": "+alicemalina Thanks. Asymptotic analysis :$", 
+            "author": "Muslim604"
+        }, 
+        {
+            "date": "2014-09-07T21:08:01.371Z", 
+            "text": "Yes, it's on the Rubik's cube wikipedia page:\nMore generally, it has been shown that an n \u00d7 n \u00d7 n Rubik's Cube can be \nsolved optimally in \u0398(n2 / log(n)) moves.", 
+            "author": "alicemalina"
+        }, 
+        {
+            "date": "2014-01-28T07:40:05.536Z", 
+            "text": "Anyone know where I can watch one of these efficiency competitions. Sounds \nkind of interesting, but all I can find when I search is speed comps. \ufeff", 
+            "author": "Jack Bandit"
+        }, 
+        {
+            "date": "2014-07-18T05:51:29.746Z", 
+            "text": "least move events are in speedcubing competitions", 
+            "author": "Brendan Forish"
+        }, 
+        {
+            "date": "2014-06-24T23:07:17.636Z", 
+            "text": "At the competitions, they have \"lowest moves\" areas. You have to physically \nbe there, as most people aren't interested in recording it.", 
+            "author": "Ethan D. (Nitro)"
+        }, 
+        {
+            "date": "2014-05-31T14:49:31.030Z", 
+            "text": "There are almost no video's about it. But the competition goes as following:\nThe competitors sit in a room with a pen and a piece of paper. Everyone \nget's a differently scrambled cube (I think so) and they start to write \ndown their steps. If they are done they give their final answer and the one \nwith the fewest moves wins", 
+            "author": "olle henkens"
+        }, 
+        {
+            "date": "2014-05-16T02:24:26.278Z", 
+            "text": "Try looking for 'fewest turns' competitions, if you still care about this \nthree months later :D", 
+            "author": "iVulgarThrust"
+        }, 
+        {
+            "date": "2014-03-21T21:42:50.737Z", 
+            "text": "you just have 3 cubes, the scramble written on a piece of paper and you \njust have to write your solution down, so you would just be watching people \nwriting letters for an hour", 
+            "author": "ben1996123"
+        }, 
+        {
+            "date": "2014-01-13T08:58:37.411Z", 
+            "text": "I can solve a Rubik's Cube in one move, but it involves two cubes and me \nturning clockwise. I present the scrambled one, and while I rotate, I swap \nit with the completed cube that just happens to be behind me at the start.\ufeff", 
+            "author": "larry spizzirri"
+        }, 
+        {
+            "date": "2014-01-12T01:28:38.736Z", 
+            "text": "{ 00 = Zero Zero | 10 = One Zero | 20 = Two Zero }\n\n<< 2-Zero and 0-Zero could be the same number! <<\ufeff", 
+            "author": "Ello M Skrilla"
+        }, 
+        {
+            "date": "2014-01-02T21:33:59.646Z", 
+            "text": "Guy's it's called God's number not because 20 has some divine power. But \nbecause if you gave an all knowing being the most complicated rubiks cube \ncombination he could solve it in twenty moves, no less.\ufeff", 
+            "author": "Jackson Parker"
+        }, 
+        {
+            "date": "2013-12-30T22:49:22.791Z", 
+            "text": "Chuck Norris can solve a super flip in one move\ufeff", 
+            "author": "Romaniususa"
+        }, 
+        {
+            "date": "2014-11-09T14:50:10.039Z", 
+            "text": "Chuck Norris merely flexes his beard and the cube solves itself.", 
+            "author": "mdiem"
+        }, 
+        {
+            "date": "2014-10-28T10:29:43.350Z", 
+            "text": "but thats impossible", 
+            "author": "Sydney Talapov"
+        }, 
+        {
+            "date": "2014-06-29T13:51:36.205Z", 
+            "text": "Because he is too busy saving the universe. There are more important \nmatters. He could though if he wanted.", 
+            "author": "Romaniususa"
+        }, 
+        {
+            "date": "2014-04-19T23:54:35.391Z", 
+            "text": "No, he can't. He probably can't even solve one, or even take the time to do \nso.", 
+            "author": "order661000"
+        }, 
+        {
+            "date": "2014-04-09T19:04:07.355Z", 
+            "text": "With a roundhouse flip?", 
+            "author": "Enno G."
+        }, 
+        {
+            "date": "2014-01-22T16:09:55.997Z", 
+            "text": "When he does so, he breaks the mathematical bases of our fragile universe \nand it implodes :)", 
+            "author": "Istari Pallando"
+        }, 
+        {
+            "date": "2013-12-30T09:10:59.654Z", 
+            "text": "Still think people who pull the stickers off and put them back on solved \nare cooler\ufeff", 
+            "author": "David Parnell"
+        }, 
+        {
+            "date": "2013-12-22T05:46:58.000Z", 
+            "text": "It's called \"God's Number\" because it requires omniscience to solve the \nmost difficult case with the perfect number of moves.  You must know the \nprecise combination of moves ahead of time in order to achieve the ultimate \nsolution.  There's nothing \"arrogant\" about it, it's simply an expression \nof the required \"omniscience\" of the entry position and requirement of the \nresult.\ufeff", 
+            "author": "alynn333333"
+        }, 
+        {
+            "date": "2014-01-09T06:28:26.043Z", 
+            "text": "I suppose according to your writing, if the Google supercomputer solved the \nnumber, it should mean that Google owns omniscience computer. :D\nI recon though that there is no need to be omniscience to solve the cube in \n20 or less moves every time; you just have to be a crazy powerful \ncalculator. And someone has already been close since the world record is 23 \nmoves (although I do not know what was the minimum number to solve the cube \nat that given time.)", 
+            "author": "Mikko J\u00e4rvensivu"
+        }, 
+        {
+            "date": "2013-12-21T17:45:57.977Z", 
+            "text": "6:16  long video,  your 666 video explains everything.\nI see what you did there.\ufeff", 
+            "author": "Boltro"
+        }, 
+        {
+            "date": "2015-01-23T07:19:06.981Z", 
+            "text": "No, i dont.", 
+            "author": "Colton McCoy"
+        }, 
+        {
+            "date": "2014-06-17T05:43:54.116Z", 
+            "text": "Haha, that must have been intentional", 
+            "author": "Mgb 360"
+        }, 
+        {
+            "date": "2013-12-19T23:47:21.611Z", 
+            "text": "Do it in Brampton I can solve it in 10 sec.\ufeff", 
+            "author": "X-vay s"
+        }, 
+        {
+            "date": "2013-12-19T17:04:09.000Z", 
+            "text": "One of the guys who figured out god's number was 20 was my former math \nteacher in class 8 + 9 :D\ufeff", 
+            "author": "MrHolyFingers"
+        }, 
+        {
+            "date": "2013-12-10T18:48:27.666Z", 
+            "text": "The Record Is 20... \ufeff", 
+            "author": "Marco Polo Herrera"
+        }, 
+        {
+            "date": "2013-12-10T02:27:38.498Z", 
+            "text": "5:08 epic lie what about 7x7\ufeff", 
+            "author": "zertvert twintythree"
+        }, 
+        {
+            "date": "2014-04-30T04:00:27.162Z", 
+            "text": "You know what he meant.", 
+            "author": "Uncrafted MC"
+        }, 
+        {
+            "date": "2014-03-23T12:19:29.696Z", 
+            "text": "Obviously talking about the traditional cube", 
+            "author": "Matthew Collette"
+        }, 
+        {
+            "date": "2014-02-14T02:32:35.603Z", 
+            "text": "You mean 7x7x7 lol", 
+            "author": "Tommy Thai"
+        }, 
+        {
+            "date": "2014-01-22T16:11:38.505Z", 
+            "text": "What's so special about 49?", 
+            "author": "Istari Pallando"
+        }, 
+        {
+            "date": "2013-12-09T17:38:50.467Z", 
+            "text": "Oh, weird.  Usually I can solve a cube in a typical time of 2 minutes and \n30 seconds. My best time used to be 2 minutes and 5 seconds.  I mixed up my \ncube and decided to see if I could solve for a superflip, and I could.  And \nI did it in 1 minutes and 42 seconds.\n\nOdds are I randomly got to a close position in my mix, but still, I thought \nthat was an odd result.\ufeff", 
+            "author": "TPRJones"
+        }, 
+        {
+            "date": "2013-12-05T10:26:32.401Z", 
+            "text": "Why didn't they have a solved Rubik's cube, and then figure out the most \nefficient way to put it in its most complicated form? I'm assuming they \nknew the most scrambled form. \ufeff", 
+            "author": "Maxwell Lee"
+        }, 
+        {
+            "date": "2014-03-02T21:56:29.511Z", 
+            "text": "That's an interesting question, actually, all cubes in any pattern are \nequivalent, the solution is a mapping from one pattern, to some other, pre \ndefined pattern. If you were to define a particular scrambled pattern as \nyour 'solved' cube, then getting to that pattern would be your exactly \nequivalent solution. Imagine David Cornell's solvers who move the stickers. \nNow if you 'solved' it so that the pieces were in the positions that they \nwould be for a solved cube if you hadn't changed the stickers, your cube \nwould now look like a scrambled cube, but was actually a solved cube, \nexactly as you suggested, it is actually equivalent.", 
+            "author": "Jam Spandex"
+        }, 
+        {
+            "date": "2013-12-02T01:15:34.239Z", 
+            "text": "1:53 thats wrong. Its a process, its not figuring out the fastest way.\ufeff", 
+            "author": "RepeatAttempt"
+        }, 
+        {
+            "date": "2013-12-01T23:29:16.705Z", 
+            "text": "ok... so this is just doing the same thing as when you got to this \nposition.\ufeff", 
+            "author": "ham236"
+        }, 
+        {
+            "date": "2013-12-01T14:25:33.193Z", 
+            "text": "What charity are you working for?\ufeff", 
+            "author": "Doug Mangum"
+        }, 
+        {
+            "date": "2013-11-29T15:55:24.926Z", 
+            "text": "So what gods number\ufeff", 
+            "author": "Sean Rain"
+        }, 
+        {
+            "date": "2013-11-28T22:19:04.006Z", 
+            "text": "Google: run by benevolent nerds.\ufeff", 
+            "author": "Steamboat64"
+        }, 
+        {
+            "date": "2013-11-25T23:47:07.143Z", 
+            "text": "Don't efficiency cubers usually solve it while they write down the moves?  \nThey make it sound like they know a series of move just from one look.\ufeff", 
+            "author": "Asbj\u00f8rn Olling"
+        }, 
+        {
+            "date": "2013-11-24T17:55:41.621Z", 
+            "text": "Any position reached in over 20 moves has not been reached in the most \nefficient way.\ufeff", 
+            "author": "Ron Wolf"
+        }, 
+        {
+            "date": "2015-03-22T12:55:03.842Z", 
+            "text": "+Ron Wolf does that mean that when scrambelign a cube, doing 20 moves is \nthe smartest?", 
+            "author": "Meow"
+        }, 
+        {
+            "date": "2014-04-28T09:44:00.329Z", 
+            "text": "+Erik l You may find this interesting: qr.ae/GNzQ8", 
+            "author": "Ron Wolf"
+        }, 
+        {
+            "date": "2014-04-15T21:42:05.373Z", 
+            "text": "True, that is one way to be certain. Still, some solutions are not the most \nefficient even thought they are reached in less than 20", 
+            "author": "Erik l"
+        }, 
+        {
+            "date": "2013-11-10T23:53:18.786Z", 
+            "text": "You don't have to work it out, you use an algorythm\ufeff", 
+            "author": "Covencraft"
+        }, 
+        {
+            "date": "2014-06-07T23:09:08.334Z", 
+            "text": ":)", 
+            "author": "Leopold \u201cButters\u201d Stotch"
+        }, 
+        {
+            "date": "2014-06-07T09:52:39.381Z", 
+            "text": "+D Ryria Aaah, yes. I didn't realize we were talking about God's algorithm, \nsorry.", 
+            "author": "Mantorok"
+        }, 
+        {
+            "date": "2014-06-06T21:20:03.000Z", 
+            "text": "+Mantorok I'm not talking about solving the cube the normal way. I thought \nwe were talking about the god's algorithm. I'm sure you can solve a cube in \n20 seconds, I'm not saying you can't. Do you know what the god's algorithm \nis?", 
+            "author": "Leopold \u201cButters\u201d Stotch"
+        }, 
+        {
+            "date": "2014-06-06T20:42:05.083Z", 
+            "text": "+D Ryria Dude... Don't come to me talking about solving rubick's cuber, \nbecause I have solved it under 20 seconds, I've solved it twice while \ntyping this message and I have over 5 different cubes. Don't tell me how to \nsolve a cube.", 
+            "author": "Mantorok"
+        }, 
+        {
+            "date": "2014-06-06T18:58:51.000Z", 
+            "text": "+Mantorok Go and try it yourself lol. There's a website called rubik solve, \nyou put in your rubiks cube. It then finds the gods algorithm for you and \nyou put it in. I've watched what happens to the cube and every face solves \ngradually in unison. ", 
+            "author": "Leopold \u201cButters\u201d Stotch"
+        }, 
+        {
+            "date": "2014-06-06T18:54:03.637Z", 
+            "text": "+D Ryria Yeah... Sure thing.", 
+            "author": "Mantorok"
+        }, 
+        {
+            "date": "2014-06-06T18:24:53.770Z", 
+            "text": "+Mantorok You don't work in layers. I've tested the algorithm many times. \nIt solves all sides at once.", 
+            "author": "Leopold \u201cButters\u201d Stotch"
+        }, 
+        {
+            "date": "2014-06-06T14:00:54.851Z", 
+            "text": "+D Ryria You don't use 1 algorithm, but there is a limited amount of \npossibilites in each step, and it's very limited after the first 2 layers. \nThen you can do it in 2 seps without learning more than 69 solutions.", 
+            "author": "Mantorok"
+        }, 
+        {
+            "date": "2014-06-06T12:22:27.000Z", 
+            "text": "Yes but you'd have to learn 43 quintillion different algorithms. Good luck \nwith that.", 
+            "author": "Leopold \u201cButters\u201d Stotch"
+        }, 
+        {
+            "date": "2014-04-30T03:59:23.049Z", 
+            "text": "+Uncrafted MC\nYou only have to know like 5 algorithms to solve the Rubik's cube.", 
+            "author": "Helvetica Neue"
+        }, 
+        {
+            "date": "2014-04-30T03:55:09.997Z", 
+            "text": "+Uncrafted MC not sure if kidding or just really stupid :-D ", 
+            "author": "Enno G."
+        }, 
+        {
+            "date": "2014-04-30T03:53:22.155Z", 
+            "text": "There are 43 252 003 274 489 856 000 combinations. good luck memorizing \nthat many algorithms.", 
+            "author": "Uncrafted MC"
+        }, 
+        {
+            "date": "2014-04-15T21:43:59.587Z", 
+            "text": "but that would take much more moves to do, the point here is to do it in as \nfew as possible", 
+            "author": "Erik l"
+        }, 
+        {
+            "date": "2014-04-09T19:03:46.838Z", 
+            "text": "Let's dance the whole night, listening to algorhythms.", 
+            "author": "Enno G."
+        }, 
+        {
+            "date": "2014-03-16T05:52:32.797Z", 
+            "text": "Anyone can use an algorithm.\n\nReally intelligent people can work it out. ", 
+            "author": "Helvetica Neue"
+        }, 
+        {
+            "date": "2014-03-11T18:55:24.435Z", 
+            "text": "I also think that, but what would that algorithm be?", 
+            "author": "Vasily Pavlenko"
+        }, 
+        {
+            "date": "2014-01-07T16:26:31.340Z", 
+            "text": "+Mantorok\nBut can you solve it in under 20 turns?!", 
+            "author": "Templarfreak"
+        }, 
+        {
+            "date": "2014-01-07T13:37:51.766Z", 
+            "text": "Congratulations.", 
+            "author": "Little Wing"
+        }, 
+        {
+            "date": "2014-01-07T11:24:18.291Z", 
+            "text": "I can solve it under 20 seconds.", 
+            "author": "Mantorok"
+        }, 
+        {
+            "date": "2014-01-07T09:25:08.201Z", 
+            "text": "+Kyle Swensson\nI can complete a Rubiks cube in under a minute using the algorithms out of \nthe instruction manual that comes with it. Impresses almost everyone I've \nshowed it to.", 
+            "author": "Little Wing"
+        }, 
+        {
+            "date": "2013-11-06T12:03:57.119Z", 
+            "text": "What if 69 was god's number", 
+            "author": "Anson Tan"
+        }, 
+        {
+            "date": "2013-11-04T19:52:31.454Z", 
+            "text": "Apple.", 
+            "author": "DreadDoom"
+        }, 
+        {
+            "date": "2013-11-03T21:22:55.827Z", 
+            "text": "23 at 2:06 that`s the Antichrist she speaks about", 
+            "author": "tritonmole"
+        }, 
+        {
+            "date": "2013-10-31T23:40:23.306Z", 
+            "text": "I know Gods' Number is just a name for efficiency, but it sounds so \narrogant. \"We found out God's Number using a small colorful toy we just \nmade a few years ago!\" -_-", 
+            "author": "Jeremy Jones"
+        }, 
+        {
+            "date": "2013-10-30T21:40:48.923Z", 
+            "text": "43,252,003,274,489,856,000", 
+            "author": "Wes Hutchison"
+        }, 
+        {
+            "date": "2013-10-29T05:12:14.628Z", 
+            "text": "\u03c0", 
+            "author": "The Real Flenuan"
+        }, 
+        {
+            "date": "2013-10-29T01:05:23.511Z", 
+            "text": "Here's a question for you; how many different combinations are there \npossible in a rubik's cube?", 
+            "author": "sebsan619"
+        }, 
+        {
+            "date": "2013-10-28T23:25:08.441Z", 
+            "text": "I am amazed that people can solve Rubik's cubes in only 20 moves! I wish I \ncould do that! This video was very interesting to me!", 
+            "author": "Lydia Mattar"
+        }, 
+        {
+            "date": "2013-10-28T22:35:17.832Z", 
+            "text": "The video lasts 6:16 :)", 
+            "author": "C'est Mal"
+        }, 
+        {
+            "date": "2013-10-28T13:28:54.312Z", 
+            "text": "I thought it was 21. any other candidates for gods number? How about we use \nthat 616 thing for jesus.", 
+            "author": "WiggleSpeedTurbo"
+        }, 
+        {
+            "date": "2013-10-28T11:12:06.386Z", 
+            "text": "God's number? This is beyond stupidity. Rubik's cube is a puzzle invented \nby humans,nice puzzle actually buy it has no relevance,0,nada,none. I don't \nthink there exist the notion of god's number but even if it existed isn't \nPi or e or Euler's constant,or even some prime a better candidate for that \nname?", 
+            "author": "Alocian Edecar"
+        }, 
+        {
+            "date": "2013-10-27T20:05:15.564Z", 
+            "text": "00110110 00110001 00110110 ", 
+            "author": "AlchemistOfNirnroot"
+        }, 
+        {
+            "date": "2013-10-27T19:32:34.959Z", 
+            "text": "Yeah, that's pretty close to how many moves i need to solve one...", 
+            "author": "Steffen"
+        }, 
+        {
+            "date": "2013-10-25T02:57:44.558Z", 
+            "text": "404 EvilSpirit.exe not found.", 
+            "author": "triforceofdinner"
+        }, 
+        {
+            "date": "2013-10-24T21:04:50.937Z", 
+            "text": "It is amazing how a rubics cube can be solved at 20 moves minimum! Can you \ngive me advice or some strategies on how to solve a rubics cube?", 
+            "author": "Davis Baugh"
+        }, 
+        {
+            "date": "2013-10-24T14:45:06.190Z", 
+            "text": "It was a school assignment", 
+            "author": "5chmuk3r"
+        }, 
+        {
+            "date": "2013-10-22T22:16:18.156Z", 
+            "text": "why do you summarize at the end? trying to turn this into a kids \nentertainment show?:P", 
+            "author": "John Doe"
+        }, 
+        {
+            "date": "2013-10-21T05:19:56.819Z", 
+            "text": "6:16", 
+            "author": "WHA Co."
+        }, 
+        {
+            "date": "2013-10-20T16:25:57.899Z", 
+            "text": "Nive Video!! I learned that there are 43 quintillion possible combinations. \nMax number is less then 30, it is 20 moves. It is called gods number \nbecause it is very hard to think of the moves you need to do. ", 
+            "author": "5chmuk3r"
+        }, 
+        {
+            "date": "2013-10-19T15:24:54.584Z", 
+            "text": "How was 20 moves created as the minimum number of moves for solving? ", 
+            "author": "Misha Stieler"
+        }, 
+        {
+            "date": "2013-10-18T20:24:43.310Z", 
+            "text": "69", 
+            "author": "Alexandre Boucher"
+        }, 
+        {
+            "date": "2013-10-16T09:48:37.355Z", 
+            "text": "According to Luciferian mythology, which actually dates back much further \nthan Jewish mythology because it includes, in their entirety, Babylonian \nand ancient Egyptian mythology (or at least as much of it as can be \nrecovered), 666 is the number of the sun and the morning star. The \nreferences in the bible to 666 and 616 being the number of the beast are \nboth references to the names of tyrants from biblical times. Also, 666 \nbeing evil is propaganda against older religions.", 
+            "author": "James Kindrick"
+        }, 
+        {
+            "date": "2013-10-12T00:17:50.411Z", 
+            "text": "Posted on my bday no im not 1", 
+            "author": "Sammy Lee"
+        }, 
+        {
+            "date": "2013-10-10T18:55:57.770Z", 
+            "text": "Just realized that - nice catch.", 
+            "author": "MPG"
+        }, 
+        {
+            "date": "2013-10-09T12:41:08.907Z", 
+            "text": "well, apparently the superflip requires the same number of turns at minimum \nas God's number, and therefore there's no other combination which requires \nmore turns. I guess there might be another combination with 20 turns \nminimum though.", 
+            "author": "reububble"
+        }, 
+        {
+            "date": "2013-10-08T08:17:26.155Z", 
+            "text": "OO, I thought he meant they only used the computer algorithm to solve for \nthe SuperFlip. OOO", 
+            "author": "John Lee"
+        }, 
+        {
+            "date": "2013-10-08T08:16:31.231Z", 
+            "text": "o ok", 
+            "author": "John Lee"
+        }, 
+        {
+            "date": "2013-10-08T07:56:08.934Z", 
+            "text": "If by \"hardest\" you mean requiring the most number of moves to solve, the \nsuperflip was proven to require 20 moves to solve. Later, it was proven by \ncomputer search that every position can be reached in 20 moves or less. So \nthe superflip is tied for the most moves required to solve.", 
+            "author": "Deedlit11"
+        }, 
+        {
+            "date": "2013-10-08T03:19:40.408Z", 
+            "text": "I learned that they figured out how many moves it take... but they didn't \nshow us how to do anything.", 
+            "author": "Jessica Roach"
+        }
+    ]
+}

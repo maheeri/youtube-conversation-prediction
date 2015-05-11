@@ -1,0 +1,1400 @@
+{
+    "publish_date": "2014-07-25T01:22:22.000Z", 
+    "video_length": "PT11M37S", 
+    "captions": [
+        {
+            "text": "Hi, I&#39;m John Green, this is Crash Course World History,", 
+            "dur": "2.68", 
+            "start": "0"
+        }, 
+        {
+            "text": "and today we&#39;re going to talk about a subject that makes me profoundly uncomfortable: disease.", 
+            "dur": "4.14", 
+            "start": "2.68"
+        }, 
+        {
+            "text": "This is a tough subject for me personally because I&#39;m a bit of a hypochondriac,", 
+            "dur": "3.44", 
+            "start": "6.82"
+        }, 
+        {
+            "text": "but to be fair, my fears are kind of rational.", 
+            "dur": "2.86", 
+            "start": "10.26"
+        }, 
+        {
+            "text": "I am afraid that my existence will be ended by a soulless, microscopic organism,", 
+            "dur": "4.38", 
+            "start": "13.12"
+        }, 
+        {
+            "text": "and to be fair, they have killed a lot of people.", 
+            "dur": "2.66", 
+            "start": "17.5"
+        }, 
+        {
+            "text": "You&#39;re not paranoid if germs are actually out to get you,", 
+            "dur": "2.68", 
+            "start": "20.16"
+        }, 
+        {
+            "text": "and as we&#39;ll see today, they are.", 
+            "dur": "2.14", 
+            "start": "22.84"
+        }, 
+        {
+            "text": "Fortunately, we live in the twenty-first century, when communicable disease does not play such a massive role in human history, ", 
+            "dur": "5.9", 
+            "start": "24.98"
+        }, 
+        {
+            "text": "unless of course you count bird flu, or SARS, or HIV/AIDS, or antibiotic-resistant bacteria--", 
+            "dur": "5.2", 
+            "start": "30.88"
+        }, 
+        {
+            "text": "alright Stan, let&#39;s just go to the intro!", 
+            "dur": "1.58", 
+            "start": "36.08"
+        }, 
+        {
+            "text": "[Intro]", 
+            "dur": "8.5", 
+            "start": "37.7"
+        }, 
+        {
+            "text": "Okay, so long-time viewers of Crash Course will remember the sixteenth-century Great Dying in the Americas,", 
+            "dur": "4.9", 
+            "start": "46.3"
+        }, 
+        {
+            "text": "not only as an example of historians&#39; total inability to name things,", 
+            "dur": "2.98", 
+            "start": "51.2"
+        }, 
+        {
+            "text": "but also as perhaps the most important and wide-ranging effect that disease has had on human cultures in millennia.", 
+            "dur": "6.82", 
+            "start": "54.18"
+        }, 
+        {
+            "text": "But traditionally, the study of history hasn&#39;t focused much on diseases,", 
+            "dur": "2.84", 
+            "start": "61"
+        }, 
+        {
+            "text": "partly because they&#39;re mysterious and terrifying,", 
+            "dur": "2.32", 
+            "start": "63.84"
+        }, 
+        {
+            "text": "and partly because they don&#39;t fit in very well with our ideas about history being the result of human agency.", 
+            "dur": "6.52", 
+            "start": "66.16"
+        }, 
+        {
+            "text": "We like to imagine that things happen because we did good things, or because we did bad things, or at least because we did some kind of thing,", 
+            "dur": "7.08", 
+            "start": "72.68"
+        }, 
+        {
+            "text": "but, in fact, history often happens because lots of people got smallpox.", 
+            "dur": "3.84", 
+            "start": "79.76"
+        }, 
+        {
+            "text": "There&#39;s also the fact that diseases were often seen to be the result of divine will, or else divine wrath.", 
+            "dur": "5.06", 
+            "start": "83.6"
+        }, 
+        {
+            "text": "Plus, because people didn&#39;t know that much about disease, they didn&#39;t write about it very often,", 
+            "dur": "3.6", 
+            "start": "88.66"
+        }, 
+        {
+            "text": "and when they did write about it, they didn&#39;t always write about it particularly well.", 
+            "dur": "3.4", 
+            "start": "92.26"
+        }, 
+        {
+            "text": "So when you read primary sources, often they&#39;re like, &quot;Why&#39;d they die? Well, too much of that miasma.&quot;", 
+            "dur": "4.54", 
+            "start": "95.66"
+        }, 
+        {
+            "text": "That&#39;s not particularly helpful to us.", 
+            "dur": "1.9", 
+            "start": "100.34"
+        }, 
+        {
+            "text": "So given all that, we are going to have to engage in a bit of speculation here.", 
+            "dur": "2.98", 
+            "start": "102.24"
+        }, 
+        {
+            "text": "Mr. Green, Mr. Green! I love speculation; it&#39;s way more fun than history,", 
+            "dur": "3", 
+            "start": "105.22"
+        }, 
+        {
+            "text": "like what would have happened if the South won the Civil War?", 
+            "dur": "2.2", 
+            "start": "108.22"
+        }, 
+        {
+            "text": "No, me from the past, not that kind of speculation,", 
+            "dur": "2.56", 
+            "start": "110.42"
+        }, 
+        {
+            "text": "the kind of speculation where you guess what DID happen, not what would have happened.", 
+            "dur": "4.24", 
+            "start": "112.98"
+        }, 
+        {
+            "text": "So diseases have been with humans as long as there have been, like, humans.", 
+            "dur": "4.14", 
+            "start": "117.22"
+        }, 
+        {
+            "text": "And humans first appeared in tropical regions in Africa, which are home to a wide variety of microparasites,", 
+            "dur": "4.88", 
+            "start": "121.36"
+        }, 
+        {
+            "text": "so it&#39;s probably a good bet that those parasites played a role in keeping human populations really low for a long, long time.", 
+            "dur": "8.04", 
+            "start": "126.24"
+        }, 
+        {
+            "text": "It&#39;s only after we see migration out of Africa and into regions less amenable to diseases, about 64,000 years ago,", 
+            "dur": "5.9", 
+            "start": "134.28"
+        }, 
+        {
+            "text": "that we start to see the growth of human populations necessary to create what we, problematically, call civilizations.", 
+            "dur": "6.44", 
+            "start": "140.18"
+        }, 
+        {
+            "text": "So humans migrated into river valleys that became the cradles of civilization, with agriculture, and surpluses, etc.", 
+            "dur": "6.36", 
+            "start": "146.62"
+        }, 
+        {
+            "text": "This allowed us to escape those population-limiting tropical diseases, but it created all kinds of new disease problems.", 
+            "dur": "5.54", 
+            "start": "152.98"
+        }, 
+        {
+            "text": "The communities in river valleys had more people and more population density, which allowed for epidemics.", 
+            "dur": "4.96", 
+            "start": "158.52"
+        }, 
+        {
+            "text": "I mean, one of the great things about hunting and gathering is that diseases cannot wipe out a city if you don&#39;t have cities.", 
+            "dur": "6.26", 
+            "start": "163.48"
+        }, 
+        {
+            "text": "Also, river valleys could be breeding grounds for disease, especially where cultures developed irrigation,", 
+            "dur": "5.02", 
+            "start": "169.74"
+        }, 
+        {
+            "text": "which often relied on slow-moving or standing water, ", 
+            "dur": "2.94", 
+            "start": "174.76"
+        }, 
+        {
+            "text": "and if you&#39;ve ever had to clean a bird bath, you&#39;ll know that standing water is the perfect environment for disease-carriers and nasty microorganisms.", 
+            "dur": "7.24", 
+            "start": "177.7"
+        }, 
+        {
+            "text": "For example, schistosomiasis was recorded in Egypt as early as 1200 BCE. What is, what is that Stan?", 
+            "dur": "5.96", 
+            "start": "184.94"
+        }, 
+        {
+            "text": "Oh, apparently, it&#39;s a parasitic flatworm, do we still have that?", 
+            "dur": "3.76", 
+            "start": "190.9"
+        }, 
+        {
+            "text": "I think we do, we do. Awesome.", 
+            "dur": "1.46", 
+            "start": "194.66"
+        }, 
+        {
+            "text": "Anyway, lots of diseases come from domesticated animals, but you can&#39;t have bacon without swine flu.", 
+            "dur": "6.16", 
+            "start": "196.12"
+        }, 
+        {
+            "text": "So, you know, it&#39;s comme ci, comme \u00e7a.", 
+            "dur": "1.46", 
+            "start": "202.28"
+        }, 
+        {
+            "text": "That&#39;s going to be a hilarious joke when we all die of swine flu. Just kidding! We&#39;re all going to die of bird flu.", 
+            "dur": "4.24", 
+            "start": "203.74"
+        }, 
+        {
+            "text": "But from like a macrohistorical perspective, it&#39;s not like disease is all downside,", 
+            "dur": "3.58", 
+            "start": "207.98"
+        }, 
+        {
+            "text": "I mean, sometimes it&#39;s helped populations shield themselves from conquest; that was the case in Africa until the nineteenth century.", 
+            "dur": "5.66", 
+            "start": "211.56"
+        }, 
+        {
+            "text": "Okay, so we like to say that one of the hallmarks of civilization is writing, ", 
+            "dur": "3.54", 
+            "start": "217.22"
+        }, 
+        {
+            "text": "and pandemic diseases were the type of events that people tended to write about in early civilizations, because they were a big deal.", 
+            "dur": "6.5", 
+            "start": "220.76"
+        }, 
+        {
+            "text": "Like pestilence appears in the epic of Gilgamesh; early Chinese historians described the increase in disease as populations spread from the northern Yellow River region to the more tropical Yangtze River region;", 
+            "dur": "9.96", 
+            "start": "227.26"
+        }, 
+        {
+            "text": "Ancient Greece was relatively disease-free because of its climate and also the isolated nature of city-states, ", 
+            "dur": "5.78", 
+            "start": "237.22"
+        }, 
+        {
+            "text": "but the more the cities became involved in trade, the more susceptible to epidemics they were.", 
+            "dur": "4.92", 
+            "start": "243"
+        }, 
+        {
+            "text": "The best example of this was the plague that struck Athens in 430 and 429 BCE during the Peloponnesian War,", 
+            "dur": "5.94", 
+            "start": "247.92"
+        }, 
+        {
+            "text": "and that leads us to a very important point, which is, there is a decent correlation between war and disease.", 
+            "dur": "6.06", 
+            "start": "253.86"
+        }, 
+        {
+            "text": "Armies tended to carry it along with them, and food shortages and displacements made civilians more likely to get sick.", 
+            "dur": "5.86", 
+            "start": "259.92"
+        }, 
+        {
+            "text": "That is still very much the case, and the weird, symbiotic relationship between war and disease is something that we&#39;re going to look a lot at in the next several weeks.", 
+            "dur": "6.98", 
+            "start": "265.78"
+        }, 
+        {
+            "text": "But nothing spreads disease quite like trade.", 
+            "dur": "3", 
+            "start": "272.76"
+        }, 
+        {
+            "text": "Trade is so good for economies and so bad at keeping individual human beings not dead.", 
+            "dur": "5.44", 
+            "start": "275.76"
+        }, 
+        {
+            "text": "Like Ancient Rome&#39;s integration into transcontinental trade networks, like the Silk Road, may explain why the historian Livy recorded at least eleven pestilential disasters,", 
+            "dur": "8.6", 
+            "start": "281.2"
+        }, 
+        {
+            "text": "and it is very likely that disease, and the accompanying decline in population, contributed to the fall of the Roman Empire.", 
+            "dur": "5.9", 
+            "start": "289.8"
+        }, 
+        {
+            "text": "But of course, you can&#39;t talk about the history of disease without mentioning the most famous epidemic of all time: the Black Death.", 
+            "dur": "6.4", 
+            "start": "295.7"
+        }, 
+        {
+            "text": "I mean, if the Black Death were a soccer team, it would be Liverpool Football Club.", 
+            "dur": "3.7", 
+            "start": "302.1"
+        }, 
+        {
+            "text": "If the Black Death were a band, it would be the Beatles.", 
+            "dur": "3.14", 
+            "start": "305.8"
+        }, 
+        {
+            "text": "If the Black Death were an industry, it would be eighteenth-century textile processing in Liverpool.", 
+            "dur": "6.38", 
+            "start": "308.94"
+        }, 
+        {
+            "text": "The plague, which struck Europe in the mid-fourteenth century, originated in fleas that came from rats, and Bubonic plague can be found throughout the world, even in the western US today.", 
+            "dur": "8.58", 
+            "start": "315.32"
+        }, 
+        {
+            "text": "It&#39;s more treatable now, thankfully, but anyway, the Black Death started in China and spread westward over the caravan routes, ", 
+            "dur": "5.42", 
+            "start": "323.9"
+        }, 
+        {
+            "text": "really picking up steam when plague-carrying rats jumped onto Mediterranean trading ships.", 
+            "dur": "4.94", 
+            "start": "329.32"
+        }, 
+        {
+            "text": "So the death rate from this plague was incredibly high; perhaps a third of people living in Europe died.", 
+            "dur": "5.92", 
+            "start": "334.26"
+        }, 
+        {
+            "text": "Oh, it must be time for the open letter!", 
+            "dur": "2.3", 
+            "start": "340.3"
+        }, 
+        {
+            "text": "Oh look, it&#39;s the Grim Reaper. Stay away from me.", 
+            "dur": "2.24", 
+            "start": "342.6"
+        }, 
+        {
+            "text": "An open letter to the Black Death:", 
+            "dur": "1.62", 
+            "start": "344.84"
+        }, 
+        {
+            "text": "Dear Black Death, I don&#39;t want to compliment you, but that term, &quot;Black Death,&quot; is just some fantastic branding.", 
+            "dur": "5.54", 
+            "start": "346.46"
+        }, 
+        {
+            "text": "Such a scary term; it&#39;s a shame that people in the actual fourteenth century didn&#39;t use it.", 
+            "dur": "3.4", 
+            "start": "352"
+        }, 
+        {
+            "text": "It was first coined in 1832 by a German doctor and professor of the history of medicine, J.F.K. Hecker.", 
+            "dur": "6.12", 
+            "start": "355.4"
+        }, 
+        {
+            "text": "And the term became popular in English after it was used in A History of England by Elizabeth Cartwright Penrose.", 
+            "dur": "5.56", 
+            "start": "361.52"
+        }, 
+        {
+            "text": "So, great job, J.F.K. Hecker!", 
+            "dur": "1.94", 
+            "start": "367.08"
+        }, 
+        {
+            "text": "It took a historian who was also a doctor to come up with a name as catchy as the &quot;Black Death,&quot; but for once, historians, you did it!", 
+            "dur": "7.06", 
+            "start": "369.02"
+        }, 
+        {
+            "text": "A terrifying thing got the terrifying name it deserved. Best wishes, John Green.", 
+            "dur": "4.48", 
+            "start": "376.08"
+        }, 
+        {
+            "text": "So we&#39;re not 100% sure that the Black Death was Bubonic plague; its virulence suggests that in some places, it might have been pneumonic, ", 
+            "dur": "5.8", 
+            "start": "380.56"
+        }, 
+        {
+            "text": "but we have descriptions of it that match Bubonic plague, like this one from Florentine chronicler, Matteo Villani:", 
+            "dur": "6.38", 
+            "start": "386.36"
+        }, 
+        {
+            "text": "&quot;It was a plague that touched people of every condition, age, and sex. ", 
+            "dur": "3.894", 
+            "start": "392.74"
+        }, 
+        {
+            "text": "They began to spit blood and then they died -- some immediately some in two or three days, and some in a longer time...&quot;", 
+            "dur": "6.84", 
+            "start": "396.634"
+        }, 
+        {
+            "text": "&quot;...most had swellings in the groin, and many had them in the left and right armpits and in other places;", 
+            "dur": "5.846", 
+            "start": "403.474"
+        }, 
+        {
+            "text": "one could almost always find an unusual swelling somewhere on the victim&#39;s body.&quot;", 
+            "dur": "0.5", 
+            "start": "413.12"
+        }, 
+        {
+            "text": "Stan, I appreciate you doing that in text and not pictures because it sounds truly horrible. Thank goodness that was the last we saw of outbreaks of Bubonic Plague.", 
+            "dur": "8.4", 
+            "start": "413.62"
+        }, 
+        {
+            "text": "What&#39;s that? There was an outbreak in 1904 in San Francisco? Oh boy.", 
+            "dur": "3.52", 
+            "start": "422.02"
+        }, 
+        {
+            "text": "And India in 1994?!", 
+            "dur": "1.66", 
+            "start": "425.54"
+        }, 
+        {
+            "text": "Obviously, the plague affected a lot of individuals&#39; lives, but it also affected world history.", 
+            "dur": "4.36", 
+            "start": "427.2"
+        }, 
+        {
+            "text": "Like, plague probably contributed to the fall of the Yuan Dynasty in China in the fourteenth century, but its greatest effects were felt in western Europe.", 
+            "dur": "7.02", 
+            "start": "431.56"
+        }, 
+        {
+            "text": "Okay, let&#39;s go to the Thought Bubble.", 
+            "dur": "1.7", 
+            "start": "438.58"
+        }, 
+        {
+            "text": "There&#39;s some debate about whether the Black Death kickstarted Europe&#39;s economy and ended the Middle Ages.", 
+            "dur": "4.36", 
+            "start": "440.28"
+        }, 
+        {
+            "text": "It probably did create some opportunity, like guilds were forced to admit new members to replace the many workers who had died,", 
+            "dur": "6.7", 
+            "start": "444.64"
+        }, 
+        {
+            "text": "and persistent European inflation until the end of the fourteenth century suggests both a shortage of products and higher wages.", 
+            "dur": "6.6", 
+            "start": "451.34"
+        }, 
+        {
+            "text": "Again, Matteo Villani provides us with some evidence of the effect of the plague on Italy&#39;s economy:", 
+            "dur": "4.66", 
+            "start": "457.94"
+        }, 
+        {
+            "text": "&quot;Nurses and minor artisans working with their hands want three times or nearly the usual pay,", 
+            "dur": "4.4", 
+            "start": "462.6"
+        }, 
+        {
+            "text": "and laborers on the land all want oxen and all seed, and want to work the best lands, and to abandon all others.&quot;", 
+            "dur": "6.82", 
+            "start": "467.1"
+        }, 
+        {
+            "text": "So the plague may have actually been good for workers, at least those who survived.", 
+            "dur": "3.3", 
+            "start": "473.92"
+        }, 
+        {
+            "text": "The plague also probably changed European Christianity. When faced with seemingly random and widespread deaths, some people abandoned piety for hedonism,", 
+            "dur": "8.46", 
+            "start": "477.22"
+        }, 
+        {
+            "text": "and ineffectiveness of priests in dealing with the crisis may have led to an increase in anticlericalism and a greater receptiveness to the ideas of the Protestant Reformation.", 
+            "dur": "8.6", 
+            "start": "485.68"
+        }, 
+        {
+            "text": "And attempts to combat the plague changed the way that Europeans lived, too.", 
+            "dur": "3.02", 
+            "start": "494.28"
+        }, 
+        {
+            "text": "For example, there were new construction techniques, such as building out of brick instead of wood,", 
+            "dur": "4.14", 
+            "start": "497.3"
+        }, 
+        {
+            "text": "and in many places, tile roofing replaced thatched roofs, where rats liked to live.", 
+            "dur": "4.06", 
+            "start": "501.44"
+        }, 
+        {
+            "text": "These new shelters created more barriers between humans and disease-carrying rodents, and plus, there were fewer plague-infested rats falling out of the ceiling, so that&#39;s nice.", 
+            "dur": "7.64", 
+            "start": "505.5"
+        }, 
+        {
+            "text": "Thanks, Thought Bubble.", 
+            "dur": "0.76", 
+            "start": "513.14"
+        }, 
+        {
+            "text": "So the Black Death looms larger in our Eurocentric imaginations, but in terms of devastation and human suffering, it pales in comparison to the Great Dying that accompanied the Columbian Exchange.", 
+            "dur": "10.32", 
+            "start": "513.9"
+        }, 
+        {
+            "text": "The pre-Columbian Americas were certainly no paradise, but the records we have suggest that Amerindian cultures were largely free of disease until the arrival of Europeans.", 
+            "dur": "8.88", 
+            "start": "524.22"
+        }, 
+        {
+            "text": "They did have syphilis, but that&#39;s preventable.", 
+            "dur": "1.96", 
+            "start": "533.1"
+        }, 
+        {
+            "text": "Not to be redundant, but the most obvious and often most overlooked aspect of the Great Dying is the dying.", 
+            "dur": "5.62", 
+            "start": "535.06"
+        }, 
+        {
+            "text": "I mean, perhaps 90% of native populations of the Americas may have perished, destroying communities, and families, and entire cultures.", 
+            "dur": "7.74", 
+            "start": "540.68"
+        }, 
+        {
+            "text": "And at the same time that diseases were destroying indigenous social orders, Europe&#39;s population was growing, thus creating more pressure to colonize the Americas, Asia, Africa, and eventually Australia,", 
+            "dur": "10", 
+            "start": "548.42"
+        }, 
+        {
+            "text": "and so it&#39;s fair to say, as historian Jared Diamond has, that disease was, if not the decisive factor, a crucial determinant of Europe&#39;s dominance in the modern era.", 
+            "dur": "9.56", 
+            "start": "558.42"
+        }, 
+        {
+            "text": "So while not exactly the last hurrah of epidemics, the world has not seen anything remotely like the devastation brought by the Columbian Exchange, since.", 
+            "dur": "7.72", 
+            "start": "567.98"
+        }, 
+        {
+            "text": "Some of that is due to our new shared immunological profiles, but much of it can be chalked up to massive improvements in science and medicine.", 
+            "dur": "6.36", 
+            "start": "575.7"
+        }, 
+        {
+            "text": "The most significant medical advance in the battle against viral epidemic diseases like smallpox was inoculation,", 
+            "dur": "5.78", 
+            "start": "582.06"
+        }, 
+        {
+            "text": "which was probably actually invented in Asia, but came into wide use in England after 1721 and in continental Europe about a century later.", 
+            "dur": "7.24", 
+            "start": "587.84"
+        }, 
+        {
+            "text": "And then, the development of antibiotics in the twentieth century proved extremely effective against bacterial diseases, like bubonic plague and tuberculosis.", 
+            "dur": "7.76", 
+            "start": "595.08"
+        }, 
+        {
+            "text": "Some of these advances have had tremendous results, like smallpox has been eliminated from the human population,", 
+            "dur": "5.14", 
+            "start": "602.84"
+        }, 
+        {
+            "text": "but infectious disease continues to be a leading killer of humans, and we still see deadly epidemics of diseases like cholera around the world.", 
+            "dur": "6.5", 
+            "start": "607.98"
+        }, 
+        {
+            "text": "And, even though antibiotics have been in wide use for less than one hundred years, many drug-resistant bacteria have already emerged, and terrifying diseases like tuberculosis have started to make a bit of a comeback.", 
+            "dur": "11.04", 
+            "start": "614.48"
+        }, 
+        {
+            "text": "Then you have modern endemic diseases like HIV/AIDS along with the working threat of new and terrifying epidemics like the various flus we often hear about.", 
+            "dur": "7.52", 
+            "start": "625.52"
+        }, 
+        {
+            "text": "All of that reminds us that disease is still shaping human history and has the potential to be the most powerful force in human history, like the one that ends it.", 
+            "dur": "8.9", 
+            "start": "633.04"
+        }, 
+        {
+            "text": "We like to think that the human story is both told by and made by humans, but in fact, it&#39;s a lot more complicated than that because we share this planet with countless creatures.", 
+            "dur": "9.78", 
+            "start": "641.94"
+        }, 
+        {
+            "text": "I know we all like to think of ourselves as individuals, but we cannot separate ourselves, not only from other people, but also from the larger biosphere.", 
+            "dur": "7.7", 
+            "start": "651.72"
+        }, 
+        {
+            "text": "That whole story is the story of history.", 
+            "dur": "3.32", 
+            "start": "659.42"
+        }, 
+        {
+            "text": "Thanks for watching, I&#39;ll see you next week.", 
+            "dur": "2", 
+            "start": "662.74"
+        }, 
+        {
+            "text": "Crash Course is filmed in the Chad and Stacey Emigholz Studio here in Indianapolis,", 
+            "dur": "4.02", 
+            "start": "665.12"
+        }, 
+        {
+            "text": "and it&#39;s possible because of your support at Subbable.com.", 
+            "dur": "3.48", 
+            "start": "669.14"
+        }, 
+        {
+            "text": "Subbable is a voluntary subscription service that allows people to support Crash Course directly so we can keep it free for everyone forever.", 
+            "dur": "6.36", 
+            "start": "672.62"
+        }, 
+        {
+            "text": "Thanks to all of our Subbable subscribers and thanks to you for watching.", 
+            "dur": "2.88", 
+            "start": "678.98"
+        }, 
+        {
+            "text": "As we say in my hometown, don&#39;t forget to be awesome.", 
+            "dur": "3.34", 
+            "start": "681.86"
+        }
+    ], 
+    "title": "Disease! Crash Course World History 203", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0k3p2y_", 
+        "/m/027x3", 
+        "/m/0285h6", 
+        "/m/01ftg"
+    ], 
+    "number_views": 882781, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T05:33:32.838Z", 
+            "text": "nice Ecuador shirt XD\ufeff", 
+            "author": "Alfredo Loayza"
+        }, 
+        {
+            "date": "2015-05-08T15:02:06.360Z", 
+            "text": "Plague doctors was in the great plague not the black death\ufeff", 
+            "author": "Yolo Swaggins"
+        }, 
+        {
+            "date": "2015-05-08T04:39:40.000Z", 
+            "text": "Just a little note: I think the statistic was that 1/2 of Europe's \npopulation was killed by the Black Death, and 1/3 of the whole population \nin, you know, like Asia and Europe combined was killed.\n\nAlso, \"Yuan\" as in Yuan Dynasty is not pronounced \"wan\", but rather as more \nlike \"yen\", although with a bit more tongue curling at the beginning you \nknow what screw it no one will get it unless they speak Chinese lol\ufeff", 
+            "author": "Catbug de Derp"
+        }, 
+        {
+            "date": "2015-05-07T09:02:20.345Z", 
+            "text": "The Grim Reaper at 5:47 is really adorable, actually\ufeff", 
+            "author": "Jeesoo Yoon"
+        }, 
+        {
+            "date": "2015-05-06T16:36:58.919Z", 
+            "text": "That's an awesome depiction of the Grim Reaper right there. Thought \nCafe/Thought Bubble's animations are awesome! Crash Course is awesome!\ufeff", 
+            "author": "Han Winmaw"
+        }, 
+        {
+            "date": "2015-05-04T22:10:38.136Z", 
+            "text": "I have that shirt...\ufeff", 
+            "author": "ThirdWiggin"
+        }, 
+        {
+            "date": "2015-05-04T21:39:29.834Z", 
+            "text": "Please stop blinding following that disproven \"out of Africa\" theory...Do \nyour research and hey even video on it.\ufeff", 
+            "author": "ZurielWraithblades"
+        }, 
+        {
+            "date": "2015-05-04T01:29:50.040Z", 
+            "text": "LIVYS GONNA BREAK\n\nWAS THAT A LED ZEPPELIN REFERENCE\ufeff", 
+            "author": "Kaylee Higginbotham"
+        }, 
+        {
+            "date": "2015-05-02T02:01:12.480Z", 
+            "text": "why liverpool ?\ufeff", 
+            "author": "Lkhagwa Lkhagwadorj"
+        }, 
+        {
+            "date": "2015-04-30T22:26:54.954Z", 
+            "text": "Well judging from this season the black plague wouldn't be Liverpool, it \nwould be Bayern Munich\ufeff", 
+            "author": "diamond lord"
+        }, 
+        {
+            "date": "2015-04-30T20:05:31.787Z", 
+            "text": "Stop disrespecting rats!!! It was recently proven that Guinea Pigs carried \nthe plague, not rats!!!  \nhttp://www.bbc.com/news/science-environment-31588671\ufeff", 
+            "author": "Brad Haywood"
+        }, 
+        {
+            "date": "2015-05-09T20:07:31.162Z", 
+            "text": "+jujifruite I thought it was gerbils in Asia then rats in Europe.", 
+            "author": "Lisa Black"
+        }, 
+        {
+            "date": "2015-05-05T05:01:45.797Z", 
+            "text": "+Rachellraye Gerbils- follow the link I included with my comment!", 
+            "author": "jujifruite"
+        }, 
+        {
+            "date": "2015-05-05T00:48:57.891Z", 
+            "text": "How would guinea pigs carry it if they were from South America and South \nAmerican trade with Afro-Eurasia hadn't developed yet?", 
+            "author": "Rachellraye"
+        }, 
+        {
+            "date": "2015-04-30T02:43:37.717Z", 
+            "text": "\"I'm too vain for that fate.\"\n-Paper Town \n\ufeff", 
+            "author": "Slylee The Fox"
+        }, 
+        {
+            "date": "2015-04-24T13:53:16.850Z", 
+            "text": "*cough* Ebola\ufeff", 
+            "author": "Ironpikachu"
+        }, 
+        {
+            "date": "2015-04-24T07:01:12.096Z", 
+            "text": "I don't understand you aversion to the word \"civilization\". Yes, you argued \nthat it's not a universally good thing, which i may even agree, tenatively, \nbut that's not an excuse to not use the term.\ufeff", 
+            "author": "Self-replicating whatnot"
+        }, 
+        {
+            "date": "2015-04-23T16:12:26.368Z", 
+            "text": "Nope turtle flu.\ufeff", 
+            "author": "Killerbonbon99"
+        }, 
+        {
+            "date": "2015-04-22T05:08:35.418Z", 
+            "text": "Why did I decide to torture myself by watching this in the middle of the \nnight-\nsLEEP IS FOR THE WEAK AND THE WEAK JOIN \"THE GREAT DYING\"\n\nthe great dying is best name btw\ufeff", 
+            "author": "K\u0454nd\u03b1ll \u201cAr\u03c5m\u00ed\u03b7\u03b1t\u00ed\u201d S\u03b9\u2113\u03bd\u0454\u044f"
+        }, 
+        {
+            "date": "2015-05-07T01:01:03.999Z", 
+            "text": "Oh! No, no. I'm only kidding, friend. ", 
+            "author": "Victor Mayfair"
+        }, 
+        {
+            "date": "2015-05-06T20:33:49.479Z", 
+            "text": "So like do you want me to bathe in holy water and never sleep again because \nI'll be scared I'm gonna die or what because from the title it seems like \nthis is what you want-", 
+            "author": "K\u0454nd\u03b1ll \u201cAr\u03c5m\u00ed\u03b7\u03b1t\u00ed\u201d S\u03b9\u2113\u03bd\u0454\u044f"
+        }, 
+        {
+            "date": "2015-05-06T20:24:38.577Z", 
+            "text": "Oooooh, you should watch Matthew Santoro's video on the Top Ten parasites \nthat could be inside you right now....it's delicious.", 
+            "author": "Victor Mayfair"
+        }, 
+        {
+            "date": "2015-05-06T20:16:52.588Z", 
+            "text": "+Victor Mayfair\nHeckles ye- //high five\nAlthough this one wasn't so much entertaining for me because whenever I \nlearn about a disease I instantly think I have it xD", 
+            "author": "K\u0454nd\u03b1ll \u201cAr\u03c5m\u00ed\u03b7\u03b1t\u00ed\u201d S\u03b9\u2113\u03bd\u0454\u044f"
+        }, 
+        {
+            "date": "2015-05-06T05:29:48.245Z", 
+            "text": "I am not the only person that watches Crash Course for entertainment?! \n\n*Fuck yes.*", 
+            "author": "Victor Mayfair"
+        }, 
+        {
+            "date": "2015-04-19T16:34:17.280Z", 
+            "text": "well its not rats... it was gerbils..?? google it\ufeff", 
+            "author": "Jamie Thorn"
+        }, 
+        {
+            "date": "2015-04-15T23:34:00.140Z", 
+            "text": "They did not have syphilis, they had what turned into syphilis. The \nEuropeans turned yaws into a venereal disease by themselves. Stinky skunks.\ufeff", 
+            "author": "Freshette"
+        }, 
+        {
+            "date": "2015-04-15T15:09:05.443Z", 
+            "text": "Interesting fact: Jews had minimum to no death during plagues because of \nthe specific guidelines they had to follow given to them by God. During \nthese plagues many people hated and killed Jews because they were alive and \nhealthy while others were dying and sick.\ufeff", 
+            "author": "Alfred Brennan"
+        }, 
+        {
+            "date": "2015-04-13T20:42:50.535Z", 
+            "text": "Screw Liverpool\ufeff", 
+            "author": "Ben Gunduz"
+        }, 
+        {
+            "date": "2015-04-11T23:16:58.351Z", 
+            "text": "So, the Black Death came from Liverpool?\ufeff", 
+            "author": "Elizabeth Hogan"
+        }, 
+        {
+            "date": "2015-04-10T10:30:43.551Z", 
+            "text": "That was interesting aaaaand.. now I'm scared :c\ufeff", 
+            "author": "MyrtheMysterious"
+        }, 
+        {
+            "date": "2015-04-07T23:51:46.257Z", 
+            "text": "Influenza?\ufeff", 
+            "author": "Logan Schaefer"
+        }, 
+        {
+            "date": "2015-04-05T22:59:29.920Z", 
+            "text": "I can't believe how much I'm enjoying these videos!, I'm learning and \nhaving fun at the same time. Great job you have done here.\ufeff", 
+            "author": "Mario Meneses"
+        }, 
+        {
+            "date": "2015-04-05T22:12:23.060Z", 
+            "text": "fascinating fact: the massive amount of people killed in the bubonic plague \nand in the americas resulted in a lot of trees growing back again. \nResulting in: the mini ice age the next 200 years.\n\nWho said there is no solution to climate change?\ufeff", 
+            "author": "Han Boetes"
+        }, 
+        {
+            "date": "2015-04-05T19:52:37.182Z", 
+            "text": "Just testing\n\ufeff", 
+            "author": "Allan Diaz"
+        }, 
+        {
+            "date": "2015-04-04T21:46:15.053Z", 
+            "text": "He sure does love Liverpool doesn't he. (I'm not complaining. I'm from \nthere.)\ufeff", 
+            "author": "Jakk Musik"
+        }, 
+        {
+            "date": "2015-04-03T09:52:02.238Z", 
+            "text": "It wasn't rats! It was hamsters!!!\ufeff", 
+            "author": "Ray Able"
+        }, 
+        {
+            "date": "2015-05-09T11:07:35.105Z", 
+            "text": "Nope it was Patrick", 
+            "author": "shukery96"
+        }, 
+        {
+            "date": "2015-04-25T09:02:46.345Z", 
+            "text": "Nope it was elephants", 
+            "author": "mila bergi"
+        }, 
+        {
+            "date": "2015-04-21T12:14:41.350Z", 
+            "text": "Nope it was fleas", 
+            "author": "Whitney Pyant"
+        }, 
+        {
+            "date": "2015-04-01T11:19:21.059Z", 
+            "text": "Hey John Green, it is little bit UNFAIR...Poland was practically untouched \nby Black Death, so benefits that came latter like rise of education, rise \nof power, Jageillon dynasty, etc \ufeff", 
+            "author": "Tom\u00e1\u0161 Majda"
+        }, 
+        {
+            "date": "2015-03-29T18:51:39.545Z", 
+            "text": "Just sayin' go reds\ufeff", 
+            "author": "geoff wuerl"
+        }, 
+        {
+            "date": "2015-03-28T11:42:52.570Z", 
+            "text": "Woah Woah, why does John from the past have a shirt from the 2014 world \ncup?\ufeff", 
+            "author": "seemslegit m8"
+        }, 
+        {
+            "date": "2015-03-27T23:06:42.000Z", 
+            "text": "Did the suits the plague doctors wear actually help in any way?\ufeff", 
+            "author": "gagneg100"
+        }, 
+        {
+            "date": "2015-04-03T16:37:49.707Z", 
+            "text": "Eff u", 
+            "author": "Daniel Zamora"
+        }, 
+        {
+            "date": "2015-03-28T06:38:35.954Z", 
+            "text": "Look up Ring around the Roses and you will be suprised where it came from. ", 
+            "author": "restlesswikiinfo"
+        }, 
+        {
+            "date": "2015-03-25T21:50:28.930Z", 
+            "text": "Ebola?\ufeff", 
+            "author": "I Little Gecko"
+        }, 
+        {
+            "date": "2015-04-30T20:07:43.055Z", 
+            "text": "+I Little Gecko This was just before ebola became big xD Kinda a shame.. \ninteresting subject", 
+            "author": "zoolookers"
+        }, 
+        {
+            "date": "2015-04-03T16:38:09.278Z", 
+            "text": "Yep", 
+            "author": "Daniel Zamora"
+        }, 
+        {
+            "date": "2015-03-23T01:25:21.621Z", 
+            "text": "this one is super cool\ufeff", 
+            "author": "zogalicious"
+        }, 
+        {
+            "date": "2015-03-22T12:42:24.680Z", 
+            "text": "Black death come from China?  Bad things are always come from the East , I \ngot it.Such a jerk !!\ufeff", 
+            "author": "Vance Antonio"
+        }, 
+        {
+            "date": "2015-03-19T21:44:26.210Z", 
+            "text": "BLACK death? . . . THAT'S RACIST!\ufeff", 
+            "author": "UltraSonic"
+        }, 
+        {
+            "date": "2015-04-18T14:35:00.452Z", 
+            "text": "+UltraSonic anyone who thinks that should swallow some cionide ", 
+            "author": "Joshua Hayden"
+        }, 
+        {
+            "date": "2015-04-18T14:20:58.000Z", 
+            "text": "+UltraSonic black as in darkness and humans hate darkness therefore BLACK \nDEATH... keep race out of it", 
+            "author": "Nikolai Hordvik"
+        }, 
+        {
+            "date": "2015-03-23T23:34:03.955Z", 
+            "text": "+Joshua Hayden I know, I was just saying that just in case someone did \nthink that.", 
+            "author": "UltraSonic"
+        }, 
+        {
+            "date": "2015-03-23T21:58:30.631Z", 
+            "text": "+UltraSonic saying black, white or yellow does not make you racist. ", 
+            "author": "Joshua Hayden"
+        }, 
+        {
+            "date": "2015-03-23T20:32:30.462Z", 
+            "text": "I didn't say you are racist, not at all. Thank you for the comment =) ", 
+            "author": "Anonimond"
+        }, 
+        {
+            "date": "2015-03-23T19:36:08.218Z", 
+            "text": "+Anonimond I don't think the word black is racist.  It was just a joke. \nEverything is racist because everything has a color.  Clouds are racist, \ntheir white.  Space is racist, its black.  Cheese is racist, its yellow for \nasians.  I only use this as a joking matter and it should not be taken \noffensively.   My comment was just a joke, and I am in no way racist.  I do \nhave black friends and asian ones too.  So yeah, I'm not racist.", 
+            "author": "UltraSonic"
+        }, 
+        {
+            "date": "2015-03-23T15:51:15.821Z", 
+            "text": "Well.. that is how the disease is commonly known. He is not gonna change \nthe name just because you think using the word \"black\" is racist.  \nhttp://en.wikipedia.org/wiki/Black_Death  ", 
+            "author": "Anonimond"
+        }, 
+        {
+            "date": "2015-03-22T00:26:05.477Z", 
+            "text": "Get out of the gene pool... cut off your balls or rip out your ovaries for \nthe sake of humanity...", 
+            "author": "Joshua Hayden"
+        }, 
+        {
+            "date": "2015-03-18T23:18:08.000Z", 
+            "text": "Anti-Rat propaganda :p Gerbils have recently been found as the cause of the \nBlack Death.\ufeff", 
+            "author": "Stephen Deloney"
+        }, 
+        {
+            "date": "2015-03-18T21:28:11.942Z", 
+            "text": "The Great Dying...well, that sounds like a soiree I won't be attending <_<\ufeff", 
+            "author": "Jesica Engle"
+        }, 
+        {
+            "date": "2015-03-15T15:46:04.554Z", 
+            "text": "Some say it was mainly gerbils who transmit the disease or it would have \nbeen much more destructive\ufeff", 
+            "author": "Martin Bourdev"
+        }, 
+        {
+            "date": "2015-03-15T01:42:00.558Z", 
+            "text": "fault in our stars or papertowns\ufeff", 
+            "author": "Ranjit Kaur"
+        }, 
+        {
+            "date": "2015-03-15T01:41:22.440Z", 
+            "text": "fault in our stars or papertowns\ufeff", 
+            "author": "Ranjit Kaur"
+        }, 
+        {
+            "date": "2015-03-11T14:32:40.955Z", 
+            "text": "never do a disease  again!!!!!!\ufeff", 
+            "author": "Jennifer Brubacher"
+        }, 
+        {
+            "date": "2015-03-11T09:15:18.655Z", 
+            "text": "I wish the open letter was about The Black Death in Asia instead^^ you \nnever hear about the effect it had on the China other hard hit areas :(\ufeff", 
+            "author": "Afrot Gaming"
+        }, 
+        {
+            "date": "2015-05-02T10:38:53.846Z", 
+            "text": "+BountyFlamor Oh thanks mate^^! ", 
+            "author": "Afrot Gaming"
+        }, 
+        {
+            "date": "2015-05-02T10:35:29.993Z", 
+            "text": "+Afrot Gaming that's because it's best documented in Europe.\nhttp://asianhistory.about.com/od/asianenvironmentalhistory/p/Black-Death-In-Asia-Bubonic-Plague.htm", 
+            "author": "BountyFlamor"
+        }, 
+        {
+            "date": "2015-03-08T23:33:34.816Z", 
+            "text": "BRING OUT YER DEAD! *klonk*\nBRING OUT YER DEAD! *klonk*\ufeff", 
+            "author": "SDOtunes"
+        }, 
+        {
+            "date": "2015-05-09T14:09:26.608Z", 
+            "text": "Always look on the bright side of death!", 
+            "author": "PencilPupCatMonster"
+        }, 
+        {
+            "date": "2015-05-07T02:47:42.130Z", 
+            "text": "One of the funniest scenes in one of the funniest movies ever", 
+            "author": "BuddyWolf 13"
+        }, 
+        {
+            "date": "2015-05-04T22:49:01.018Z", 
+            "text": "+SDOtunes I'm not dead yet!", 
+            "author": "Rachel Moody"
+        }, 
+        {
+            "date": "2015-03-26T00:43:04.734Z", 
+            "text": "I did", 
+            "author": "MadMargaretGaming"
+        }, 
+        {
+            "date": "2015-03-23T14:11:47.911Z", 
+            "text": "MONTY PYTHON!!! Why did nobody else get that reference?", 
+            "author": "Maria Kotter"
+        }, 
+        {
+            "date": "2015-03-07T19:54:58.653Z", 
+            "text": "History update! It wasn't rats that carried the plague-infected fleas. It \nis now speculated that GERBILS (giant wild gerbils from Asia, not the cute \npet ones) carried the fleas.\nhttp://www.geek.com/science/the-black-death-may-have-been-caused-by-giant-asian-gerbils-not-black-rats-1616497/\nhttp://www.nytimes.com/2015/02/25/science/rats-may-be-exonerated-in-european-plague-say-scientists-with-a-gerbil-theory.html\n\ufeff", 
+            "author": "Erin Risinger"
+        }, 
+        {
+            "date": "2015-03-07T18:31:32.366Z", 
+            "text": "There is a disease that has been around for over 1000 years and kills \npeople every minute.\n\nIt's called Islam.\ufeff", 
+            "author": "Filius Romae"
+        }, 
+        {
+            "date": "2015-03-28T06:35:58.849Z", 
+            "text": "There is also something called ebola that has been around for more than a \n5000 years and kills every 10 seconds. ", 
+            "author": "restlesswikiinfo"
+        }, 
+        {
+            "date": "2015-03-06T02:46:17.820Z", 
+            "text": "Actually Historians think that the Black death/bubonic plague was brought \nby not rats but by gerbils.\ufeff", 
+            "author": "Diego Galvan"
+        }, 
+        {
+            "date": "2015-03-11T19:25:29.908Z", 
+            "text": "You're right but I still think it's interesting though.", 
+            "author": "Diego Galvan"
+        }, 
+        {
+            "date": "2015-03-11T02:03:31.262Z", 
+            "text": "Regardless it was the fleas anyway", 
+            "author": "[FaZe] AmericanQuickscoper"
+        }, 
+        {
+            "date": "2015-03-05T17:38:01.014Z", 
+            "text": "The craziest cures for the black plague included shaving chickens' butts \nand placing them on your buboes, or going to town to town whipping \nyourself, or eating crushed emeralds, arsenic and other weird stuff.\ufeff", 
+            "author": "Jake Clayton"
+        }, 
+        {
+            "date": "2015-03-04T18:56:15.120Z", 
+            "text": "Liverpool got two mentions here YAY\ufeff", 
+            "author": "James Howard"
+        }, 
+        {
+            "date": "2015-03-04T03:04:03.808Z", 
+            "text": "This show is awesome.  Keep it up!  XD\ufeff", 
+            "author": "Wedge Wizard"
+        }, 
+        {
+            "date": "2015-03-03T20:16:51.963Z", 
+            "text": "Nah man black death is not liverpool its Manchester United! Love ur vids\ufeff", 
+            "author": "Derin Thrasher (DareBearPlaysGamez)"
+        }, 
+        {
+            "date": "2015-03-02T05:10:09.837Z", 
+            "text": "*fuck*\ufeff", 
+            "author": "Kenpachi Zaraki"
+        }, 
+        {
+            "date": "2015-03-01T19:32:41.214Z", 
+            "text": "Just FYI, rats role in the plague as their major vector is being called \ninto question. More likely Gerbils. \nhttp://www.pnas.org/content/103/35/13110.full\ufeff", 
+            "author": "Micah Parlow"
+        }, 
+        {
+            "date": "2015-03-01T19:05:18.778Z", 
+            "text": "Modern communist thought says that great death is needed to bootstrap \nsociety into the successive stages of social reality, and the apparent \nfailure of communism is just the lack of a corresponding great die off to \nmake room for it. The thinking goes that a true communist utopia may \nrequire 60% or more of the global population to die in order to come into \nbeing.\ufeff", 
+            "author": "Gallen Dugall"
+        }, 
+        {
+            "date": "2015-03-01T02:03:30.205Z", 
+            "text": "really descriptive! John Green is the best history teacher ever!\ufeff", 
+            "author": "druvy poovy"
+        }, 
+        {
+            "date": "2015-03-01T01:47:09.771Z", 
+            "text": "really descriptive! John Green is the best history teacher ever!\ufeff", 
+            "author": "druvy poovy"
+        }, 
+        {
+            "date": "2015-02-28T05:28:44.904Z", 
+            "text": "How did the Black Death reach Scandinavia?\ufeff", 
+            "author": "94Diamonds"
+        }, 
+        {
+            "date": "2015-02-27T05:45:28.129Z", 
+            "text": "Why black death couldn't wipe out the population in China but almost wiped \nout Europe population?\ufeff", 
+            "author": "RustinPieber"
+        }, 
+        {
+            "date": "2015-05-02T10:41:30.257Z", 
+            "text": "+RustinPieber it did. besides, 1/3 of the population is not \"almost wiped \nout\".\nhttp://asianhistory.about.com/od/asianenvironmentalhistory/p/Black-Death-In-Asia-Bubonic-Plague.htm", 
+            "author": "BountyFlamor"
+        }, 
+        {
+            "date": "2015-02-28T03:19:11.483Z", 
+            "text": "Their populations, culture, and medical procedures were probably different \nback then. Not that this really answeres your question, but perhaps some \nresearch on those factors might help you find youself an answer.", 
+            "author": "Cyan Calibur"
+        }, 
+        {
+            "date": "2015-02-27T03:25:59.510Z", 
+            "text": "I see what you did compering the bubonic plague to Liverpool you'd have to \nbee a historian to know the effect they had..... but I must admit that the \nplague scares me more than Liverpool fc\ufeff", 
+            "author": "the dude 42"
+        }, 
+        {
+            "date": "2015-02-26T18:40:28.128Z", 
+            "text": "New studies suspect that it wasnt black rats but giant gerbils that brought \nthe fleas with plague to europe.\ufeff", 
+            "author": "robas porcu"
+        }, 
+        {
+            "date": "2015-03-28T06:34:44.038Z", 
+            "text": "John, and most of the rest of us, cannot distinguish gerbils from rats. ", 
+            "author": "restlesswikiinfo"
+        }, 
+        {
+            "date": "2015-02-21T11:19:19.353Z", 
+            "text": "The Black Death is like Liverpool FC? Is that a distasteful Hillsborough \nreference?\ufeff", 
+            "author": "Joshua Brown"
+        }, 
+        {
+            "date": "2015-02-21T02:33:37.338Z", 
+            "text": "", 
+            "author": "English Language Learning Coach"
+        }, 
+        {
+            "date": "2015-02-18T17:08:21.908Z", 
+            "text": "There's actually an outbreak of the bubonic plague in Madagascar right now, \nbut mostly in the isolated countryside, which makes it harder to treat.\ufeff", 
+            "author": "Impzorz"
+        }, 
+        {
+            "date": "2015-02-18T12:24:46.647Z", 
+            "text": "DFTBA!\ufeff", 
+            "author": "Alexander Kazolias"
+        }, 
+        {
+            "date": "2015-02-17T22:51:43.173Z", 
+            "text": "Well there goes the fine tuned argument.\ufeff", 
+            "author": "Jason Bay"
+        }, 
+        {
+            "date": "2015-02-17T20:05:38.052Z", 
+            "text": "Like EBOLA!\nBtw, John Green, you are my life.\ufeff", 
+            "author": "Reynaldo Ram\u00edrez-Arellano"
+        }, 
+        {
+            "date": "2015-02-17T08:17:55.653Z", 
+            "text": "Good video man!\ufeff", 
+            "author": "Jason Kaze"
+        }, 
+        {
+            "date": "2015-02-17T00:11:58.070Z", 
+            "text": "Saludos desde Ecuador John Green.\nI have to say that you are a good historian and this show is amazing. Can't \nwait to see more episodes like this.\ufeff", 
+            "author": "fabian jaramillo"
+        }, 
+        {
+            "date": "2015-02-16T15:07:02.832Z", 
+            "text": "64,000 years ago?  Where did you get that?\ufeff", 
+            "author": "Roman Brown"
+        }, 
+        {
+            "date": "2015-02-15T09:03:56.826Z", 
+            "text": "The reason TB is making a comeback is because the drug resistant form is \nusually resulting from former TB patients who were lost to follow up and \ndidn't finish the treatment regimen. It's pretty sad too, because there are \nprograms in different countries that offer free treatment for TB as a way \nto fight back the disease.\ufeff", 
+            "author": "kickassssnation027"
+        }, 
+        {
+            "date": "2015-02-14T10:50:57.936Z", 
+            "text": "Very entertaining and at the same time provides fantastic comprehensive \nanalysis of important historical events. \nThanks \nand \nThumbs up!\ufeff", 
+            "author": "Chumak Mark"
+        }, 
+        {
+            "date": "2015-02-13T17:53:36.167Z", 
+            "text": "Bathing, cleaner and higher calorie food, and not pulling your morning milk \nbehind a horses ass have all had a greater impact on viral outbreaks than \n'inoculations'. If you doubt that, check out graphs of rates of infections \nof the most common jabs and you will see a total collapse BEFORE any jabs \nwere even developed. Other than that, thanks for the vids.\ufeff", 
+            "author": "LonestarDeTimberland"
+        }, 
+        {
+            "date": "2015-03-30T13:21:15.041Z", 
+            "text": "Those words being?", 
+            "author": "LonestarDeTimberland"
+        }, 
+        {
+            "date": "2015-03-28T12:08:32.278Z", 
+            "text": "Famous last words", 
+            "author": "seemslegit m8"
+        }, 
+        {
+            "date": "2015-02-13T02:01:02.906Z", 
+            "text": "Black Death is a band though. And they sound nothing like the Beetles.\ufeff", 
+            "author": "Nich Adams"
+        }, 
+        {
+            "date": "2015-02-12T12:47:52.000Z", 
+            "text": "I feel bad for you that your afraid of potential disease, and waste so much \nof your time and thought on it. Sad. don't worry be happy. All of us will \ndie. Don't live in fear.What about that new disease that makes your penis \nnine inches long.Fu.k that.\ufeff", 
+            "author": "Lordskeep"
+        }, 
+        {
+            "date": "2015-02-11T15:59:57.856Z", 
+            "text": "Is it me or is Mr.Green looking kind of ... stoned?\ufeff", 
+            "author": "Berat Ertural"
+        }, 
+        {
+            "date": "2015-02-10T16:43:32.615Z", 
+            "text": "a video on religion would be really cool. like one for christianity or \ngreek paganism\ufeff", 
+            "author": "adam mollett"
+        }, 
+        {
+            "date": "2015-03-28T06:33:06.911Z", 
+            "text": "He did do a couple outlining how religion interacts with the world, the two \nmost popular would be his Christianity/Judaism episode and two about Islam, \nthe history and some basic outlines of what their followers do, and another \nabout how modern Islam interacts with politics, IE, ISIS. If ISIS expands \nto Egypt then we are going to need a replacement for IE. ", 
+            "author": "restlesswikiinfo"
+        }, 
+        {
+            "date": "2015-02-08T15:32:46.557Z", 
+            "text": "BOO! Manchester United>Liverpool\ufeff", 
+            "author": "Ben Baer"
+        }, 
+        {
+            "date": "2015-02-08T08:49:17.874Z", 
+            "text": "Let's look on the bright side--A research doctor at the U of Chicago died \nof plague in 2011. I guess that's not really a bright side, though.\ufeff", 
+            "author": "pedonbio"
+        }, 
+        {
+            "date": "2015-02-08T04:25:24.588Z", 
+            "text": "It's funny how he compares the Black Death to everything from Liverpool. \nLol\ufeff", 
+            "author": "Brain Matter"
+        }, 
+        {
+            "date": "2015-02-07T20:23:35.981Z", 
+            "text": "So if the black death was anything else, it would be exclusively English?\ufeff", 
+            "author": "Travis G"
+        }, 
+        {
+            "date": "2015-02-05T06:30:33.000Z", 
+            "text": "Speculating that life came out of Africa is not a great place to begin this \nepisode, sorry John.\n\nHowever... kudos for the image of Temple Works at 5.14 minutes! Although \nthat textile factory is in Leeds not Liverpool.\n\nSan Francisco and India are not the most recent cases; there was a case in \nYumen, China in 2014 (about 1 month after this episode was published).\ufeff", 
+            "author": "Jo Bonomi"
+        }, 
+        {
+            "date": "2015-02-04T21:09:47.956Z", 
+            "text": "I live in liverpool\ufeff", 
+            "author": "Keira anthony"
+        }, 
+        {
+            "date": "2015-02-03T12:01:40.593Z", 
+            "text": "Yes, Liverpool FC! I love the reference :D\ufeff", 
+            "author": "Rob Allen"
+        }, 
+        {
+            "date": "2015-02-02T17:44:19.020Z", 
+            "text": "Liverpool? Terrible choice\ufeff", 
+            "author": "fifagenius11"
+        }, 
+        {
+            "date": "2015-02-02T13:08:36.540Z", 
+            "text": "liverpool ftw\ufeff", 
+            "author": "lambulis"
+        }, 
+        {
+            "date": "2015-01-31T21:58:54.879Z", 
+            "text": "Excellent ", 
+            "author": "Ann Rich"
+        }, 
+        {
+            "date": "2015-01-31T18:40:14.447Z", 
+            "text": "Antibiotic resistance can mostly be attributed to the wide spread of \nantibiotic usage since the invention of penicillin. Most people take \nantibiotic medication without knowing whether their disease is viral or \nbacterial and it is this ignorance that is rapidly causing bacteria to \nevolve resistant strains, especially in communicable diseases, like \ngonorrhea, which are becoming increasingly resistant to modern drugs. \nConsidering the slow pace of evolution, the rapid evolution of viruses and \nbacteria are largely due in part to human intervention, because doctors \nprescribe medication based on symptoms, not causes.\ufeff", 
+            "author": "MPrime17"
+        }, 
+        {
+            "date": "2015-01-31T05:53:45.515Z", 
+            "text": "Disease and history travels synonymously in shaping history.  This video \nshows how biological warfare began and its destruction of pre-colonial \ncivilization.   \ufeff", 
+            "author": "L. Jermaine Russell"
+        }, 
+        {
+            "date": "2015-01-31T01:55:22.513Z", 
+            "text": "+CrashCourse You have said that Islam is not a religion (very true) but a \nCivilization (we call it \"way of life\"), yet when visiting \"World History\" \nyou forget to quote anything from it. I would like to know how has Islamic \nCivilization dealt with diseases up until the fall of Islamic Empire. \nIslamic history is very well documented.\n\nDo Look at Islamic history up until 14th century. Muslims until that time \nwere awesome people. I know a story (someone should confirm it for me) \nwhere a greek physician visited the second caliph Omar and stayed with his \npeople for 2 years. When he was leaving he said in 2 years no one came to \nme with any disease. The Caliph told him that was because his people ate \n1/3 solids, 1/3 liquids and 1/3 they kept empty for air following the \nprophet Mohammad.\ufeff", 
+            "author": "Henry Townsmyth"
+        }, 
+        {
+            "date": "2015-01-28T18:12:28.251Z", 
+            "text": "If the black plague were a video game corporation, it would be EA\ufeff", 
+            "author": "Achillez"
+        }, 
+        {
+            "date": "2015-04-17T11:16:30.000Z", 
+            "text": "+Achillez Actually, it would be Comcast", 
+            "author": "Yvonne K (Yvonneka)"
+        }, 
+        {
+            "date": "2015-04-04T00:26:51.000Z", 
+            "text": "+funtimekid1199 no i'd think ubisoft would be either smallpox or ebola\nor they could be extremely-rich-asswipe-pox ", 
+            "author": "bob mcbob"
+        }, 
+        {
+            "date": "2015-03-27T13:01:18.224Z", 
+            "text": "Might also be ubisoft", 
+            "author": "funtimekid1199"
+        }, 
+        {
+            "date": "2015-03-07T16:30:32.829Z", 
+            "text": "SHOTS FIRED!", 
+            "author": "FROP DESAI"
+        }, 
+        {
+            "date": "2015-02-01T04:27:15.011Z", 
+            "text": "NICE!", 
+            "author": "Khanh Trinh"
+        }, 
+        {
+            "date": "2015-01-26T03:31:15.956Z", 
+            "text": "cool\ufeff", 
+            "author": "Theoden Suhrie"
+        }, 
+        {
+            "date": "2015-01-24T14:33:58.851Z", 
+            "text": "EBOLA\ufeff", 
+            "author": "seventy griffe"
+        }, 
+        {
+            "date": "2015-01-24T14:23:41.264Z", 
+            "text": "Censored deiseue and what virus caused. The black deth?\ufeff", 
+            "author": "31gazala"
+        }, 
+        {
+            "date": "2015-01-22T22:24:17.424Z", 
+            "text": "the textile industry was based in Manchester, not liverpool\ufeff", 
+            "author": "Ari Melnik"
+        }, 
+        {
+            "date": "2015-01-21T20:04:17.614Z", 
+            "text": "Love the Liverpool mentions!\ufeff", 
+            "author": "William Hughes"
+        }, 
+        {
+            "date": "2015-01-20T16:14:56.961Z", 
+            "text": "LIVERPOOL SUCKS ASS\ufeff", 
+            "author": "kipras klim"
+        }, 
+        {
+            "date": "2015-01-18T09:42:45.302Z", 
+            "text": "Thumbs up for all the Liverpool mentions.\ufeff", 
+            "author": "anjinsan9000"
+        }, 
+        {
+            "date": "2015-01-17T02:41:16.526Z", 
+            "text": "40 years ago in Maryborough qld in Australia was hit with a small outburst \nof pneumonic  plague  \ufeff", 
+            "author": "the jolton asgardian"
+        }, 
+        {
+            "date": "2015-01-15T02:39:26.152Z", 
+            "text": "I kinda think this guy is kind of ku ku\ufeff", 
+            "author": "Michigan Paranormal Society, llc"
+        }
+    ]
+}

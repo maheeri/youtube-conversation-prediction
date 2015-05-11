@@ -1,0 +1,893 @@
+{
+    "publish_date": "2014-12-08T16:53:06.000Z", 
+    "video_length": "PT3M59S", 
+    "captions": [
+        {
+            "text": "Ok, so you remember the setup: 100 people\nhave had marked dollar bills put randomly", 
+            "dur": "4.31", 
+            "start": "1.38"
+        }, 
+        {
+            "text": "into 100 boxes, and every person, one at a\ntime, gets to look in fifty of the boxes,", 
+            "dur": "4.6", 
+            "start": "5.69"
+        }, 
+        {
+            "text": "and you all collectively win only if every\nsingle person finds their own bill. $100 dollar", 
+            "dur": "4.389", 
+            "start": "10.29"
+        }, 
+        {
+            "text": "payout to each of you if you win, nothing\nif you lose. In the last video I asked whether", 
+            "dur": "4.44", 
+            "start": "14.679"
+        }, 
+        {
+            "text": "or not you should take the bet.", 
+            "dur": "1.56", 
+            "start": "19.119"
+        }, 
+        {
+            "text": "Did you make the right choice?", 
+            "dur": "1.041", 
+            "start": "20.679"
+        }, 
+        {
+            "text": "I mean, clearly, if all 100 of you gamblers\njust choose 50 boxes at random when you go", 
+            "dur": "4.279", 
+            "start": "21.72"
+        }, 
+        {
+            "text": "into the room, the likelihood of each of you\nfinding your bill is one half, so the probability", 
+            "dur": "4.28", 
+            "start": "25.999"
+        }, 
+        {
+            "text": "of ALL of you finding your bills and winning\nthe whole game is one half times one half", 
+            "dur": "3.871", 
+            "start": "30.279"
+        }, 
+        {
+            "text": "times one half\u2026 a hundred times. And one\nhalf to the power of 100 is about 0.0000000000000000000000000000008.", 
+            "dur": "7", 
+            "start": "34.15"
+        }, 
+        {
+            "text": "Basically zero. You&#39;re more likely to roll\n9 one-roll yahtzees in a row - and then pick", 
+            "dur": "4.8", 
+            "start": "46.87"
+        }, 
+        {
+            "text": "the king of hearts at random out of a deck\nof cards.", 
+            "dur": "2.48", 
+            "start": "51.67"
+        }, 
+        {
+            "text": "You could do a little better by trying to\ncorrelate which boxes you pick - like, if", 
+            "dur": "3.47", 
+            "start": "54.15"
+        }, 
+        {
+            "text": "there were only two people and two boxes,\nthey should each pick different boxes, because", 
+            "dur": "3.69", 
+            "start": "57.62"
+        }, 
+        {
+            "text": "if they pick the same box only one of them\ncan possibly find their own bill, and they&#39;ll", 
+            "dur": "3.58", 
+            "start": "61.31"
+        }, 
+        {
+            "text": "automatically lose. But this kind of strategy\nonly improves your odds a tiny little bit,", 
+            "dur": "5.46", 
+            "start": "64.89"
+        }, 
+        {
+            "text": "and it has less benefit the more people there\nare.", 
+            "dur": "2.79", 
+            "start": "70.35"
+        }, 
+        {
+            "text": "However, despite all this, it turns out that\nthere&#39;s a strategy that results in you gamblers", 
+            "dur": "5.42", 
+            "start": "73.14"
+        }, 
+        {
+            "text": "winning over 30% of the time! This strategy\nis SO GOOD that you&#39;re more likely to win", 
+            "dur": "5.29", 
+            "start": "78.56"
+        }, 
+        {
+            "text": "using it than if just TWO people out of a\nhundred picked randomly, since one half times", 
+            "dur": "4.269", 
+            "start": "83.85"
+        }, 
+        {
+            "text": "one half is twenty-five percent.", 
+            "dur": "1.81", 
+            "start": "88.119"
+        }, 
+        {
+            "text": "What we\u2019ve forgotten is that you can obtain\ninformation FROM the boxes themselves, because", 
+            "dur": "6.96", 
+            "start": "89.929"
+        }, 
+        {
+            "text": "the room is exactly the same each time. The\nfirst box will always have the same-numbered", 
+            "dur": "4.32", 
+            "start": "96.889"
+        }, 
+        {
+            "text": "dollar in it, and so will the second box,\nthe third, the fifty-seventh, etc.", 
+            "dur": "4.12", 
+            "start": "101.209"
+        }, 
+        {
+            "text": "All you have to do is use the dollar in one\nbox to tell you which box to go to next. This", 
+            "dur": "4.2", 
+            "start": "105.329"
+        }, 
+        {
+            "text": "might not seem like a great advantage, but\nit&#39;s HUGE.", 
+            "dur": "3.16", 
+            "start": "109.529"
+        }, 
+        {
+            "text": "The trick is to start with the box that corresponds\nto your number. Your dollar probably isn&#39;t", 
+            "dur": "4.52", 
+            "start": "112.689"
+        }, 
+        {
+            "text": "IN that box, but the bills inside will take\nyou on a random path through the boxes, a", 
+            "dur": "3.97", 
+            "start": "117.209"
+        }, 
+        {
+            "text": "scavenger hunt where each box tells you where\nto go next.", 
+            "dur": "3.17", 
+            "start": "121.179"
+        }, 
+        {
+            "text": "You can think of this as linking up boxes\nin chains, connecting them based on the bills", 
+            "dur": "4.33", 
+            "start": "124.349"
+        }, 
+        {
+            "text": "inside.", 
+            "dur": "1.201", 
+            "start": "128.679"
+        }, 
+        {
+            "text": "Any random arrangement of the boxes results\nin a different set of chains, some long, some", 
+            "dur": "5.6", 
+            "start": "129.88"
+        }, 
+        {
+            "text": "small. Short chains are ones like &quot;box 30\nsays go to box 82, box 82 says go to box 5,", 
+            "dur": "6.25", 
+            "start": "135.48"
+        }, 
+        {
+            "text": "5 says go to 30.&quot; That&#39;s a chain of link 3.\nLong chains link up more boxes before circling", 
+            "dur": "5.25", 
+            "start": "141.73"
+        }, 
+        {
+            "text": "back - and the LONGEST possible chain links\nup all 100 boxes. But each chain ALWAYS circles", 
+            "dur": "7", 
+            "start": "146.98"
+        }, 
+        {
+            "text": "back, since there are finite boxes.", 
+            "dur": "1.85", 
+            "start": "156.79"
+        }, 
+        {
+            "text": "And of course, if you end up back where you\nstarted within 50 boxes, you&#39;ve won, because", 
+            "dur": "4.42", 
+            "start": "158.64"
+        }, 
+        {
+            "text": "that means the previous box had a dollar bill\nthat told you to go your starting point, and", 
+            "dur": "3.81", 
+            "start": "163.06"
+        }, 
+        {
+            "text": "you started on your number, so the previous\nbox&#39;s dollar bill was YOURS!", 
+            "dur": "3.88", 
+            "start": "166.87"
+        }, 
+        {
+            "text": "And that&#39;s why this strategy is so good - because\nwhen the boxes are randomly arranged, about", 
+            "dur": "4.47", 
+            "start": "170.75"
+        }, 
+        {
+            "text": "30% of the time there will be NO chains connecting\nmore than 50 boxes, so not only will you win,", 
+            "dur": "5.51", 
+            "start": "175.22"
+        }, 
+        {
+            "text": "but so will everyone else - as long as they\u2019re\nfollowing the same strategy!", 
+            "dur": "7", 
+            "start": "180.73"
+        }, 
+        {
+            "text": "The magic of this solution isn&#39;t that it&#39;s\nbetter odds for any single individual to find", 
+            "dur": "4.05", 
+            "start": "197.32"
+        }, 
+        {
+            "text": "their dollar (it isn&#39;t) - it&#39;s that all of\nthe successes and failures are forced to happen", 
+            "dur": "4.42", 
+            "start": "201.37"
+        }, 
+        {
+            "text": "together - everyone wins together, everyone\nloses together - your fates are linked by", 
+            "dur": "4.72", 
+            "start": "205.79"
+        }, 
+        {
+            "text": "using the numbers inside the boxes to guide\nyou along invisible chains\u2026 towards victory.", 
+            "dur": "7", 
+            "start": "210.51"
+        }
+    ], 
+    "title": "Solution to The Impossible Bet", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0m08c9y", 
+        "/m/05qjt"
+    ], 
+    "number_views": 1118426, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-08T05:11:38.480Z", 
+            "text": "I knew right away not to take this bet... 7 people were already at 1/128.. \nso it was already not worth it that fast.\ufeff", 
+            "author": "Ana Costellano"
+        }, 
+        {
+            "date": "2015-05-07T16:04:57.540Z", 
+            "text": "im too high for this shit\ufeff", 
+            "author": "p3wned"
+        }, 
+        {
+            "date": "2015-05-06T17:47:46.295Z", 
+            "text": "this is quite stupid if the money is taken out by people ,, so the people \nlater on has no information to use in terms of where to go\ufeff", 
+            "author": "AAYMAN Amir"
+        }, 
+        {
+            "date": "2015-05-06T15:12:14.782Z", 
+            "text": "Well great video but know the strange man who challenged me and my 99 \nfriends to this knows to make one longer than 50 thanks for that \ufeff", 
+            "author": "LUFC Holmesy"
+        }, 
+        {
+            "date": "2015-05-05T10:55:22.194Z", 
+            "text": "Could you explain why there is a 31% of winning when we change the boxes \nrandomly each time a person enter the room ??\ufeff", 
+            "author": "Salim S"
+        }, 
+        {
+            "date": "2015-05-05T05:42:37.000Z", 
+            "text": "\"Actutal probabilty is less than 31%, no way you get 100 people to follow \nthis all properly.\"\n\nI was going to say this, but Austin101123 beat me to it.  In any case, \nthere is a MUCH MUCH simpler strategy.  The first person checks half of the \nboxes and places them into their corresponding spot, while separating them \nfrom the remaining boxes.  The second person checks to see if his bill is \nin the boxes already places by first person.  If it is, he moves 49 boxes \ninto their corresponding places and then takes the bill from the box he \nfirst located.  If not, then he moves all 49 boxes. EITHER WAY he is \nguaranteed to find his bill.  So the probability of success is 50% with \nthis MUCH simpler strategy.  HOWEVER, this strategy makes one simple \nassumption: That there is enough space in the room to arrange the boxes \nhowever you want. Another possibility is to simply FLIP over the checked \nboxes. This requires NO extra room but it requires pushing boxes that are \nnot checked.\ufeff", 
+            "author": "John Smith"
+        }, 
+        {
+            "date": "2015-05-05T05:38:23.113Z", 
+            "text": "\"Actutal probabilty is less than 31%, no way you get 100 people to follow \nthis all properly.\"\n\nI was going to say this, but Austin101123 beat me to it.  In any case, \nthere is a MUCH MUCH simpler strategy.  The first person checks half of the \nboxes and places them into their corresponding spot, while separating them \nfrom the remaining boxes.  The second person checks to see if his bill is \nin the boxes already places by first person.  If it is, he moves 49 boxes \ninto their corresponding places and then takes the bill from the box he \nfirst located.  If not, then he moves all 49 boxes. EITHER WAY he is \nguaranteed to find his bill.  So the probability of success is 50% with \nthis MUCH simpler strategy.  HOWEVER, this strate\ufeff", 
+            "author": "John Smith"
+        }, 
+        {
+            "date": "2015-05-04T01:35:26.511Z", 
+            "text": "If people gave me $1 each and where told to wait in a room, I'd run off and \nkeep them waiting lol\ufeff", 
+            "author": "Lakan Rai"
+        }, 
+        {
+            "date": "2015-05-03T17:02:07.091Z", 
+            "text": "Huh?\ufeff", 
+            "author": "wackedout13"
+        }, 
+        {
+            "date": "2015-05-02T22:59:44.817Z", 
+            "text": "QQ: but if you have to find your own bill, doesn't that mean that towards \nthe end there's gonna be a lot of empty boxes around? ;)\ufeff", 
+            "author": "David Svane"
+        }, 
+        {
+            "date": "2015-05-01T15:59:13.906Z", 
+            "text": "Even if our odds to win aren't good, I would still pay the dollar because \nit sounds like it would be a fun game lol.\ufeff", 
+            "author": "Trevor Simko"
+        }, 
+        {
+            "date": "2015-05-01T15:16:55.000Z", 
+            "text": "Actual probabilty is less than 31%, no way you get 100 people to follow \nthis all properly.\n\n\nAlso you never told us the boxes were numbered, and you also said that the \nroom was reset each time, which would means you would switch them all up \nagain. You really didn't give us all the information properly.\ufeff", 
+            "author": "Austin101123"
+        }, 
+        {
+            "date": "2015-05-08T20:25:33.651Z", 
+            "text": "+CogitoErgoCogitoSum Your second point is valid, however they do have to \nnumber it the same way.\n\nYour first is not, however. The boxes aren't moved around so there would be \nno resetting in that case, there would be nothing you'd have to do. But it \nwas said, it means something, it means it would be randomly placed again. \nHe told the story wrong.", 
+            "author": "Austin101123"
+        }, 
+        {
+            "date": "2015-05-04T20:28:57.401Z", 
+            "text": "+CogitoErgoCogitoSum\nIt is arbitrary as long as it is consistent. However, as you change the \nnumbering so change all the chains. This is caused by the fact that the \nnumbering on the boxes change while the numbering of the contained pointers \ndoesn't, if that did change accordingly you'd be totally fine, this way it \nonly works if all people choose the same ordering", 
+            "author": "OOobstkuchenOO"
+        }, 
+        {
+            "date": "2015-05-04T00:47:25.248Z", 
+            "text": "+OOobstkuchenOO\nPerhaps you are right. I need to think about it more thoroughly.  My \ninitial intuition convinced me it was not necessary for each individual to \nname them the same since the mental numbering is arbitrary.  I thought the \nentire premise of the method is that no matter where you start or how you \nnumber, there is a predeterminable probability that the number of and size \nof the closed loops allow this approach to work so well.", 
+            "author": "CogitoErgoCogitoSum"
+        }, 
+        {
+            "date": "2015-05-04T00:36:34.569Z", 
+            "text": "+CogitoErgoCogitoSum actually they do have to number them the same as each \nother, the whole premise of this strategy is to make the winning or losing \nof the individual people no longer independent. If everyone numbers the \nboxes differently the chances actually revert to .5^100", 
+            "author": "OOobstkuchenOO"
+        }, 
+        {
+            "date": "2015-05-03T03:34:19.000Z", 
+            "text": "+Austin101123 Your criticisms are unfounded.\n\nReset means set back to the way it was. It does not mean reshuffled or \nre-randomized. Whatever the room started out as is the way it gets reset to.\n\nThe players of the game need only number the boxes themselves. They dont \neven have to number them the same way as one another.\n\nAnd he DID say that the players can plan a strategy before they start \nplaying. Whether or not they abide by their strategy is not the issue. The \npoint is that its possible. If youre the sort to break a rule you agreed to \nfollow then that is your problem and that of your friends.", 
+            "author": "CogitoErgoCogitoSum"
+        }, 
+        {
+            "date": "2015-05-02T21:58:57.472Z", 
+            "text": "+Austin101123 They don't need to be numbered, all that is needed is that \nthe boxes stand the same way each time. You just have to assign a number to \nevery box, from the first one to the last. Which is very easy if the boxes \nare arranged in a square. For example, if the box you're supposed to open \nis number 37, just find the box which is the thirty-seventh in line. :) \n\nFor getting 100 random people to follow this in real life, I totally agree, \nthe probability of success would drop drastically.", 
+            "author": "Jonas Bergmansson"
+        }, 
+        {
+            "date": "2015-04-30T22:01:59.000Z", 
+            "text": "http://en.wikipedia.org/wiki/100_prisoners_problem\ufeff", 
+            "author": "Anatole Sokol"
+        }, 
+        {
+            "date": "2015-04-30T05:56:31.670Z", 
+            "text": "The best strategy is to bring a gun. You have a 100% chance of winning.\ufeff", 
+            "author": "\u0250sn \u0265\u0254\u01dd\u0287 \u028d\u01dd\u0131\u028c\u01dd\u0279"
+        }, 
+        {
+            "date": "2015-04-28T16:02:48.848Z", 
+            "text": "I still wouldn't do it xD like I said, someone's bound to make a mistake \ncounting the boxes xD\ufeff", 
+            "author": "Little Lion"
+        }, 
+        {
+            "date": "2015-04-25T16:14:38.524Z", 
+            "text": "I really don't get the method... \ufeff", 
+            "author": "Emerald Daffodils"
+        }, 
+        {
+            "date": "2015-04-25T01:44:47.099Z", 
+            "text": "Because what if 99 people get it right but then one person screws up.\ufeff", 
+            "author": "Hiram Lara"
+        }, 
+        {
+            "date": "2015-04-24T07:16:56.035Z", 
+            "text": "This strategy is beautiful.\ufeff", 
+            "author": "K463178"
+        }, 
+        {
+            "date": "2015-04-22T16:49:54.874Z", 
+            "text": "I chose the correct answer! I knew the chance was little! :D\ufeff", 
+            "author": "Entesar Alsowmely"
+        }, 
+        {
+            "date": "2015-04-22T16:51:40.000Z", 
+            "text": "+Entesar Alsowmely My answer was no I won't take the bet", 
+            "author": "Entesar Alsowmely"
+        }, 
+        {
+            "date": "2015-04-22T16:48:58.433Z", 
+            "text": "How is the operation for the 31%?\ufeff", 
+            "author": "contradriverESP"
+        }, 
+        {
+            "date": "2015-04-22T16:37:04.462Z", 
+            "text": "i didn't understand\ufeff", 
+            "author": "Riccardo Cacchioli"
+        }, 
+        {
+            "date": "2015-04-20T21:38:33.032Z", 
+            "text": "Can someone explain this a little easier or something? :p\ufeff", 
+            "author": "CloudDesiigns"
+        }, 
+        {
+            "date": "2015-04-20T19:46:50.901Z", 
+            "text": "So its technicality, you start on box# say 96 and you find the dollar 96 on \na chain you win cause you started at box 96, or say if the bill number you \nwrote was 13 and you find bill 13 you also win?\ufeff", 
+            "author": "NerdMon"
+        }, 
+        {
+            "date": "2015-04-19T20:54:39.416Z", 
+            "text": "\"Your fates are linked\" *-*\ufeff", 
+            "author": "Faiyaz Kashfi Rian"
+        }, 
+        {
+            "date": "2015-04-18T22:04:26.665Z", 
+            "text": "This is what I do to find games in their cases when I'm at home \ufeff", 
+            "author": "xXxOFWGKTAxXx"
+        }, 
+        {
+            "date": "2015-04-18T19:18:59.491Z", 
+            "text": "I got an easier solution. You make an arrangement that when you enter the \nroom, every bill is yours. Pick one and leave. Then when you exit. You \ntransfer ownership to the next person and so forth. Easy :P\ufeff", 
+            "author": "linkuei83"
+        }, 
+        {
+            "date": "2015-04-18T17:28:19.987Z", 
+            "text": "Doesn't the odd of finding 100 people who know and will use this strategy \nbe included in the figure? \ufeff", 
+            "author": "tmusicc"
+        }, 
+        {
+            "date": "2015-04-17T07:09:10.444Z", 
+            "text": "For the algorithm to work you need to start at the box with your number, \nand there is no way to ascertain this after shuffling without breaking the \nrules. So this does not work if the boxes are not numbered and placed in a \nrandom position after the bills are deposited then even if they are ordered \n(which already makes them non-unique).\n\nHe also suggests in the previous video that the boxes are  \"reset\", which \nimplies reshuffling, which would make colluding on numbering impossible \neven if you could communicate.\ufeff", 
+            "author": "Darkwingscooter"
+        }, 
+        {
+            "date": "2015-04-16T23:59:18.503Z", 
+            "text": "The correct answer is NO, because there is exactly 0% chance that 100 \npeople will all follow a coordinated strategy perfectly.\ufeff", 
+            "author": "HeroofTime55"
+        }, 
+        {
+            "date": "2015-04-15T23:30:40.631Z", 
+            "text": "Lol thanks\ufeff", 
+            "author": "Ling Bai"
+        }, 
+        {
+            "date": "2015-04-15T15:10:29.455Z", 
+            "text": "for my rusty maths: \n\nto count number of different permutations of 100 objects which contains \nlength 51 circle,\nfirst take 51 objects from 100, which has C(100, 50) ways, then form them a \ncircle,which has 50! ways (just fix one number as beginning of circle and \npermute the rest) , at last permute remaining 49, which has 49! ways,\n\ndo this from 51 to 100, add the numbers up, we get total number of \ndifferent ways of permutations that contain a longer than 50 circle, call \nit n;\n\nthe chance to win is 1 - n/100! which is, calculated using python, \n 0.31182782068980475\ufeff", 
+            "author": "li CHEN"
+        }, 
+        {
+            "date": "2015-04-14T00:02:46.374Z", 
+            "text": "If you find your bill you have to leave it in the box. So, what's stopping \neveryone to say they found their bill, even if they didn't?\ufeff", 
+            "author": "THEPELADOMASTER"
+        }, 
+        {
+            "date": "2015-05-08T23:03:12.447Z", 
+            "text": "+THEPELADOMASTER The players must show the bettor that they all found their \nbills.", 
+            "author": "George Hamilton"
+        }, 
+        {
+            "date": "2015-04-13T08:53:52.396Z", 
+            "text": "If I did the same game but the rules were we win if most of us do choose \nthe right box .most of us would either win or lose , but some may win and \nothers lose\ufeff", 
+            "author": "Amr Elsayed Mohammed Abdulhady"
+        }, 
+        {
+            "date": "2015-04-13T08:47:53.483Z", 
+            "text": "Well, and what if there is just 4 boxes are connected in a circle and all \nthe other 96 boxes are connected together . Some will win ,but others will \nlose\ufeff", 
+            "author": "Amr Elsayed Mohammed Abdulhady"
+        }, 
+        {
+            "date": "2015-04-13T04:55:46.297Z", 
+            "text": "TBH I chose bet because it was only a dollar with the chance of 100 dollars.\nBut the explanation was pretty neat.\ufeff", 
+            "author": "Spaghetti Sammy"
+        }, 
+        {
+            "date": "2015-04-12T20:34:31.106Z", 
+            "text": "I wrote a Java program for this to check whether it's actually true. And it \nis: this method gives you a 31% chance of winning the bet! It's just \namazing isn't it!!\n\nFor those who are interested, here's the code I wrote:\n\nimport java.util.ArrayList;\nimport java.util.Collections;\nimport java.util.Random;\n\npublic class HelloWorld{\n\n     public static void main(String []args){\n        int successes = 0;\n        int successCases;\n        int nextTrie;\n        int boxValue;\n        final int TRIES = 100000;\n        \n        ArrayList<Integer> setUp = new ArrayList<Integer>();\n        for(int counter1 = 0; counter1 < 100; counter1++){\n        setUp.add(counter1);\n        }\n        ArrayList<Integer> shuffledSetUp = new ArrayList<Integer>();\n        \n        for(int counter2 = 0; counter2 < TRIES; counter2++){\n        shuffledSetUp.clear();\n        shuffledSetUp = new ArrayList<Integer>(setUp);\n        Collections.shuffle(shuffledSetUp, new Random());\n       \n        successCases = 0;\n       \n        for(int counter3 = 0; counter3 < 100; counter3++){\n        nextTrie = counter3;\n        for(int counter4 = 0; counter4 < 50; counter4++){\n        boxValue = shuffledSetUp.get(nextTrie);\n        if(boxValue == counter3){\n        successCases++;\n        break;\n        }\n        else{\n        nextTrie = boxValue;\n        }\n        }\n        }\n       \n        if(successCases == 100){\n           successes++;\n        }\n        }\n        System.out.println(\u201cSuccess percentage: \" + (100*successes/TRIES) + \n\"%\");\n     }\n}\ufeff", 
+            "author": "Xanniefication"
+        }, 
+        {
+            "date": "2015-04-13T18:05:08.000Z", 
+            "text": "+ClassicPork Nice!", 
+            "author": "Xanniefication"
+        }, 
+        {
+            "date": "2015-04-13T09:18:22.000Z", 
+            "text": "+Xanniefication I also wrote one, :D but with the first method also \nhttp://pastebin.com/2M4vpS5H (just change runSim2() to runSim1() to do \nfirst method)", 
+            "author": "ClassicPork"
+        }, 
+        {
+            "date": "2015-04-12T12:06:16.757Z", 
+            "text": "the math says...\n31.18%*$100 = $31.18\n68.82%*-$1 = -$0.6882\n$31.18-$0.6882 = $30.4918 ~ $30.49\nif you repeat it over and over again it should average at this value\ufeff", 
+            "author": "die20"
+        }, 
+        {
+            "date": "2015-04-11T11:45:16.000Z", 
+            "text": "Haha so basically if you took this bet 100 times using this strategy you \nwould make, on average, $31.18. Time to start betting....I.E per $1 \ninvested you make $31.18\ufeff", 
+            "author": "HammerTime"
+        }, 
+        {
+            "date": "2015-04-11T00:28:54.904Z", 
+            "text": "You didn't Tell us which one you should take.Whats up with that?\ufeff", 
+            "author": "The Emerald Enderman"
+        }, 
+        {
+            "date": "2015-04-14T00:01:49.915Z", 
+            "text": "+The Emerald Enderman It's up to you to figure out if you want to bet $1 \nfor a 31% chance of winning $100. He gave you the odds, the answer is yours \nto make.", 
+            "author": "THEPELADOMASTER"
+        }, 
+        {
+            "date": "2015-04-10T22:42:24.069Z", 
+            "text": "This had me confused for a good while before I finally figured it out.  I \nwatched and re-watched the video at least 15 times.  Looking at the \ncomments, there are many others who are equally as confused as I was.  \nHopefully this helps clear things up.\n\n1.  This is part TWO of a two video series.  This video only explains the \nanswer, and does not specify all the rules to the game.  At the beginning \nof this video, there is a box linking to the original video.  That video \nshould clear up all the rules to the game.\n2.  The \"31 %\" is NOT the odds of any single person finding their bill.  \nInstead, it is the odds of there being no \"chain\" greater than 50.  THIS IS \nIMPORTANT since each participant only has 50 tries to find their bill.\n3.  Every participant belongs to one of these \"chains\". \n4.  According to this strategy, everyone STARTS at the box that corresponds \nto their number.  So if someone is looking for a bill with a 5 on it, they \nstart at the 5th box.  By doing so, they are GUARANTEED to be in the \ncorrect \"chain\".  This is explained at 2:30. \n\nIf there is a 31% chance of there being NO chain greater than 50 boxes and \nevery participant BELONGS to a chain, then the group as a whole has a 31% \nchance of winning so long as they start at the correct box and follow the \nstrategy.  Hope this helps!\ufeff", 
+            "author": "rafaelguti86"
+        }, 
+        {
+            "date": "2015-04-10T21:38:50.618Z", 
+            "text": "I still wouldnt do it because it more likely (31% winning / 69% loosing) to \nloose.\ufeff", 
+            "author": "teufelize"
+        }, 
+        {
+            "date": "2015-04-10T13:21:45.310Z", 
+            "text": "Call me crazy but I actually do this to organize game cases that don't have \nthe right cases\ufeff", 
+            "author": "Lostinspace Logo"
+        }, 
+        {
+            "date": "2015-04-10T02:26:40.154Z", 
+            "text": "Why wouldn't you just write down the location of all 50 bills to get a \nhigher chance if you're allowed to write down where the next location of a \nspecific bill is?\ufeff", 
+            "author": "Feyangel23"
+        }, 
+        {
+            "date": "2015-04-09T13:38:30.755Z", 
+            "text": "Nice vid.\ufeff", 
+            "author": "TankzOnline"
+        }, 
+        {
+            "date": "2015-04-09T03:07:24.124Z", 
+            "text": "Amazing\ufeff", 
+            "author": "Ribaa Begum"
+        }, 
+        {
+            "date": "2015-04-09T01:04:46.369Z", 
+            "text": "An absolute genius strategy, I am gonna try this! But..with myself xD \nbrilliance! \ufeff", 
+            "author": "TigerDragon071"
+        }, 
+        {
+            "date": "2015-04-08T22:50:20.815Z", 
+            "text": "this sounds like a trap from SAW\ufeff", 
+            "author": "Gauge Wiley"
+        }, 
+        {
+            "date": "2015-04-08T21:18:19.027Z", 
+            "text": "I got mindfucked\ufeff", 
+            "author": "4GamersNetwork"
+        }, 
+        {
+            "date": "2015-04-08T18:57:24.369Z", 
+            "text": "This is some mind-blowing logic, but with only a ~30% chance of success, \nthe correct answer is still \"don't take the bet\", right? I mean, assuming \nwe want not to lose just as much as we want to win. Which isn't realistic, \nbut seemed implied by how the question was phrased in the previous video. \n:D\ufeff", 
+            "author": "Life Happens"
+        }, 
+        {
+            "date": "2015-04-13T23:59:46.000Z", 
+            "text": "+Dreadwing93 BUT! What would happen if the bet was $1000 and the profit \n$100000? Should you take the risk of losing $1000 to a 30% chance of \nwinning $100000? What if the bet was even bigger?", 
+            "author": "THEPELADOMASTER"
+        }, 
+        {
+            "date": "2015-04-10T18:02:33.237Z", 
+            "text": "You guys, I completely forgot that the question was phrased as an actual \nbet with gains and losses. Thanks for clearing it up!", 
+            "author": "Life Happens"
+        }, 
+        {
+            "date": "2015-04-09T20:45:46.209Z", 
+            "text": "+Life Happens If the risk is $1, and the reward is $100, then you only need \nthe chance of winning to be greater than 1% to make a profit. If you're \nallowed to play the game many times, and the chance of winning is 2%, then \nyou'll on average spend only $50 for every $100 you win.\n\nIf you're only allowed to play the game once though, that's when you might \nneed to consider whether you care about losing that $1. It's only $1 \nthough, so chances are, you won't miss it. If the reward outweighs the \nrisk, then go for it.\n\nOf course, real gambling institutions usually rig the games so that the \nrisk is ever so slightly higher than the reward, so that it still feels \nlike you have a fair chance, but in the long run the house will always come \nout on top. If they were running a game like this, and found out there was \na way to reliably beat it, they would probably stop running the game.", 
+            "author": "Dreadwing93"
+        }, 
+        {
+            "date": "2015-04-08T22:03:57.602Z", 
+            "text": "According to this strategy you would take the bet. For the expected value \nfrom playing is $30.49 = ((100*0.3118)-(1*0.6882)).", 
+            "author": "Warren Guillema"
+        }, 
+        {
+            "date": "2015-04-08T20:21:28.677Z", 
+            "text": "No, you want your odds to be greater than 1/101: with a 30% chance, You \nwould just do the whole thing 3 times, spend 3 dollars, and gain 101 \n(simplifying)", 
+            "author": "Enid Radaviq"
+        }, 
+        {
+            "date": "2015-04-08T16:58:31.295Z", 
+            "text": "mind fucked\ufeff", 
+            "author": "zir786"
+        }, 
+        {
+            "date": "2015-04-08T13:55:01.663Z", 
+            "text": "but how do the bills have numbers?\ufeff", 
+            "author": "Alwin Priven"
+        }, 
+        {
+            "date": "2015-04-08T07:38:08.472Z", 
+            "text": "I chose to take the bet cause we all only lose $1 if we lose so we should \njust take the chance of winning $100 then just keep a $1. I could buy a \nlolly with a dollar. It's just like buying a lottery for only $1. lol\ufeff", 
+            "author": "TheDazzlingJ3D"
+        }, 
+        {
+            "date": "2015-04-07T00:24:30.590Z", 
+            "text": "I dont get it... If there was 100 boxes and 100 dollars than wouldn't it be \neasier if u put dollar 1 on box 1 and dollar 2 on box 2 ect... This not \nonly less painful on the brain more more simple. Or did i miss something? \ufeff", 
+            "author": "fahad hafiz"
+        }, 
+        {
+            "date": "2015-04-04T18:42:21.625Z", 
+            "text": "Hi ! this video is great, but can you explain how you got the 31% \nprobability ?\ufeff", 
+            "author": "Ding Nicolas"
+        }, 
+        {
+            "date": "2015-04-03T14:14:29.148Z", 
+            "text": "I thought you had to take away with you your bill if you found it, meaning \nyou'd left an empty box. Probably I would not have succeeded anyway, but I \nwas working on another bet.\ufeff", 
+            "author": "Ruben"
+        }, 
+        {
+            "date": "2015-04-02T05:31:12.288Z", 
+            "text": "Wait... ok I can accept that your chains will be less than 50 long 31% of \nthe time sure, but say I have a random configuration with 4 chains of 25 \neach. I can only look into 2 of these chains because I only get 50 looks. \nThus I only find my dollar 50% of the time, because I get to look into 2/4 \ntotal chains. Meaning that victory in this scenario is reduced all the way \nback to 8x10^-31 And we lose.\nEven further if there are say... 3 chains for conveinience one 20 long and \n2 that are 40 long, there are no chains greater than 50, as happens 31% of \nthe time, but say I look in one of the 40 long chains first and it does not \nhave my bill, then I have to look in one of the other two chains, and I \nonly have 10 looks left, so EVEN IF I look into the chain of 20, AND that \nchain has my bill, I only have a 50% chance of getting far enough into that \nchain to find my bill.\nSo I don't think it's possible for simply following chains to guarantee a \n31% chance of victory. It seems to me that the best case scenario, 2 chains \nof 33 and 1 chain of 34, should only result in a guaranteed victory if and \nONLY if the first chain I look into has my bill. (In this case only a 33% \nchance)\ufeff", 
+            "author": "Jacob Sadow"
+        }, 
+        {
+            "date": "2015-04-02T05:41:06.765Z", 
+            "text": "Wait... nope I'm wrong! The thing I forgot was that the box I choose \ncorresponds to my number, thus I will only return to it upon finding my \nbill. 31% is right, my bad.", 
+            "author": "Jacob Sadow"
+        }, 
+        {
+            "date": "2015-04-01T01:03:43.701Z", 
+            "text": "then shouldnt it be 0.31 * 100?\ufeff", 
+            "author": "David Lim"
+        }, 
+        {
+            "date": "2015-03-31T20:04:14.959Z", 
+            "text": "what about the fact that if one person finds somebody else's bill, then \nthat person can stop at box 49, and then go to their own.\ufeff", 
+            "author": "WhovianMinecrafter"
+        }, 
+        {
+            "date": "2015-03-30T21:34:47.167Z", 
+            "text": "????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????09??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????\u03c0\u03b1\u03c0\u266b\ufeff", 
+            "author": "TheQuantumKitty"
+        }, 
+        {
+            "date": "2015-03-29T20:15:20.685Z", 
+            "text": "Could not understand.\ufeff", 
+            "author": "Faton Hoti"
+        }, 
+        {
+            "date": "2015-03-29T19:50:13.036Z", 
+            "text": "you lose nothing if you loss so why not\ufeff", 
+            "author": "Edible Zombie Monkeys"
+        }, 
+        {
+            "date": "2015-03-29T12:42:01.273Z", 
+            "text": "These videos make me feel dumb. I understood NOTHING :(\ufeff", 
+            "author": "87agomes"
+        }, 
+        {
+            "date": "2015-03-26T19:41:23.052Z", 
+            "text": "Awesome!!! Who came up with that strategy?\ufeff", 
+            "author": "Werner Heenop"
+        }, 
+        {
+            "date": "2015-03-24T14:56:56.622Z", 
+            "text": "Started at Vessel, now I'm here...\ufeff", 
+            "author": "Gameking30578"
+        }, 
+        {
+            "date": "2015-03-23T19:07:06.496Z", 
+            "text": "We seem to have been given new information in the second video about the \nboxes. In the first video the boxes are identical, but in the second video \nthe boxes are now numbered so \"the same box will always have the same bill \nin it.\"  How are people supposed to know which box is box \"37\" if none of \nthe boxes have numbers on them and they are shuffled after each person goes \nthrough?\ufeff", 
+            "author": "Shoe Owner"
+        }, 
+        {
+            "date": "2015-04-09T12:32:34.334Z", 
+            "text": "The first video showed them in a 10x10 grid. So, they tell themselves in \nwhich way they should count.", 
+            "author": "Samo Sedliak"
+        }, 
+        {
+            "date": "2015-04-09T01:28:05.075Z", 
+            "text": "+Samo Sedliak The first video says that the boxes are shuffled after the \nbills are placed inside. I misunderstood the first video when he says that \n\"after each person goes through, the room is reset\" to mean that they \nshuffle the boxes again. I'm still not sure how this answers my question \nthough. The first video does state that the boxes are identical - as in not \nnumbered. The solution relies on them going to the box corresponding to the \nnumber of the bill that they find in the first box they open. I still don't \nsee how anyone would know which box is the one that corresponds with the \nnumber they are looking at - unless they count the boxes beginning with a \npredetermined position in the room. Are the boxes all in a row (must be a \nbig room or small boxes) or arranged in a grid pattern, or just lying \naround haphazardly? Still a cool solution to the problem, but the answer \nseemed to gloss over some of the details.", 
+            "author": "Shoe Owner"
+        }, 
+        {
+            "date": "2015-04-05T10:04:43.002Z", 
+            "text": "The first video states that the boxes stay in the same position..", 
+            "author": "Samo Sedliak"
+        }, 
+        {
+            "date": "2015-03-20T23:25:00.526Z", 
+            "text": "Don't watch this video when you're high! JUST DON'T!\ufeff", 
+            "author": "TheJ0hnPrest0n"
+        }, 
+        {
+            "date": "2015-03-20T17:49:20.787Z", 
+            "text": "If you aren't all the way back at your box, you can just see if your bill \nis in da box, without having to go back to the starting.\ufeff", 
+            "author": "Nicolino Will"
+        }, 
+        {
+            "date": "2015-03-20T16:51:51.627Z", 
+            "text": "I shit you not people.. this is so epic.. if someone measly as me can \nunderstand this .. I bet almost everyone can .\ufeff", 
+            "author": "Himanshu Pratap"
+        }, 
+        {
+            "date": "2015-03-20T01:54:09.830Z", 
+            "text": "I am utterly amazed and astounded at that theory. Props to MinutePhysics.\n\ufeff", 
+            "author": "Kiela Campbell"
+        }, 
+        {
+            "date": "2015-03-19T02:00:00.976Z", 
+            "text": "At 100 people, there are always some of those who can not follow the \nsimplest strategy. - Lose guaranteed.\ufeff", 
+            "author": "Sebastian H\u00e4hner (ehemals LaomerKedor)"
+        }, 
+        {
+            "date": "2015-03-16T01:24:02.729Z", 
+            "text": "\"No funny business to the box.\"\nLeaving notes on the box isn't deemed funny business? Okay...\ufeff", 
+            "author": "Zynum Luke"
+        }, 
+        {
+            "date": "2015-03-15T18:12:44.417Z", 
+            "text": "Solution to The Impossible Bet: https://youtu.be/C5-I0bAuEUE\ufeff", 
+            "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041f\u0443\u043d\u0442\u0443\u0441"
+        }, 
+        {
+            "date": "2015-03-14T00:08:38.091Z", 
+            "text": "I understood nothing... I swear i wanted to... But i just cant ='(\ufeff", 
+            "author": "HeartOfASaint"
+        }, 
+        {
+            "date": "2015-03-12T14:37:23.098Z", 
+            "text": "What if there are 2 chains of length 40 and 60 - won't 40 of the people \nfind their dollar and the other 60 miss out by 10 boxes???\ufeff", 
+            "author": "Philip Easley"
+        }, 
+        {
+            "date": "2015-03-29T23:11:10.000Z", 
+            "text": "+Philip Easley Yes, in your example that would be the case. There's a 31% \nchance of no chains being longer than 50. In other words, 69% of the time \nthere will be a chain longer than 50 and everyone in that chain will lose. \n\nBut I'd say 31% chance is pretty good when you're only risking 1 dollar to \nwin 100.", 
+            "author": "softan"
+        }, 
+        {
+            "date": "2015-03-12T00:32:34.611Z", 
+            "text": "The bet initiator has about a 30 percent chance of losing $100,000. Not \nexactly worth the 70 percent chance of a $100 payout.\ufeff", 
+            "author": "Sullivan Muse"
+        }, 
+        {
+            "date": "2015-03-10T17:51:30.787Z", 
+            "text": "Why is the a 31 percent chance that the chain isn't longer than 50?\nI understand the Strategy but I don't undertand how to figure out the \npercentages. \ufeff", 
+            "author": "ysa h"
+        }, 
+        {
+            "date": "2015-05-10T10:35:01.916Z", 
+            "text": "+tomthepom98 No every person takes the bill back if he found it", 
+            "author": "ysa h"
+        }, 
+        {
+            "date": "2015-05-09T12:23:06.257Z", 
+            "text": "It's because after one person takes their dollar bill there's one less \ndollar left in the room, so if the first person finds their dollar than the \nchance of the next person finding theirs is 1\\99, as the previous person \nremoved a dollar from the total.", 
+            "author": "tomthepom98"
+        }, 
+        {
+            "date": "2015-03-10T23:31:13.251Z", 
+            "text": "Someone said somewhere that it's 1-(1/100+1/99+1/98+...+1/52+1/51), but I'm \nnot sure why.", 
+            "author": "columbus8myhw"
+        }, 
+        {
+            "date": "2015-03-10T04:35:19.420Z", 
+            "text": "This is fuckin retarded\ufeff", 
+            "author": "battlemaster33"
+        }, 
+        {
+            "date": "2015-03-09T16:16:28.995Z", 
+            "text": "Hey, I am planning to write an assignment on this topic. However, I do not \nexactly understand the way correlation would be applied further when people \nhave multiple picks. Could somebody explain/expand on what he talked about \nin the Video? Thanks :)\ufeff", 
+            "author": "R28LIST"
+        }, 
+        {
+            "date": "2015-03-07T05:44:08.183Z", 
+            "text": "But won't this strategy lose effectiveness once a few people people have \ngone? If they remove their dollar from the box that it's in, then there is \na chance that the next person will pick that box, which is now empty. Since \nthe box is empty, you can't obtain any information from it, so its a wasted \nguess. And as more people go, the more empty boxes will appear. So after at \nleast 50 of the people have gone, there is a very slight chance that the \nnext person could possibly randomly guess 50 boxes in a row that have no \ndollars in them, ruining the strategy??? If I'm missing something could \nsomeone please clarify lol\ufeff", 
+            "author": "Aiden Kenny"
+        }, 
+        {
+            "date": "2015-03-07T18:14:30.624Z", 
+            "text": "the bills stay in the box", 
+            "author": "Herpa Derp"
+        }, 
+        {
+            "date": "2015-03-06T23:35:40.333Z", 
+            "text": "I wonder how long this bet will take if it really is performed...\ufeff", 
+            "author": "Anonymous71475"
+        }, 
+        {
+            "date": "2015-03-06T11:47:31.432Z", 
+            "text": "This is bullshit. Nobody said the boxes would be or COULD be numbered. \ufeff", 
+            "author": "Dejay Rezme"
+        }, 
+        {
+            "date": "2015-03-06T23:41:45.110Z", 
+            "text": "Mental numbering. Everyone can do that.", 
+            "author": "Anonymous71475"
+        }, 
+        {
+            "date": "2015-03-06T02:15:56.977Z", 
+            "text": "ohh dear god! this is so silly, it makes me smile! i love math, and people \nexplaining them! \ufeff", 
+            "author": "Joe Keller"
+        }, 
+        {
+            "date": "2015-03-05T23:22:00.730Z", 
+            "text": "60 % of the time, it works everytime. \ufeff", 
+            "author": "Vah\u00e9 Tildian"
+        }, 
+        {
+            "date": "2015-03-03T07:02:41.692Z", 
+            "text": "In the original video, we do not know how the boxes will be arranged in the \nroom.  They need not be numbered.  And they might be haphazardly strewn \nabout the room such that no two people will agree on a \"numbering.\"\ufeff", 
+            "author": "John Undefined"
+        }, 
+        {
+            "date": "2015-03-09T23:46:05.360Z", 
+            "text": "his drawing is a 10x10 grid of boxes.", 
+            "author": "Anton Stengel"
+        }, 
+        {
+            "date": "2015-03-01T22:37:09.629Z", 
+            "text": "why not just pick up all of the money from the boxes you open and run away? \nduh\ufeff", 
+            "author": "lefteris kioussis"
+        }, 
+        {
+            "date": "2015-02-28T06:13:09.105Z", 
+            "text": "I answered yes to take the bet without even considering the odds or \nstrategies. I can either lose $1 or gain $100. There is no in between. I \ndon't particularly care if I lose $1, but would love to win $100.\ufeff", 
+            "author": "wonderdog132"
+        }, 
+        {
+            "date": "2015-02-25T22:48:00.806Z", 
+            "text": "If you can look in the boxes, can't you just look until you find your's?\ufeff", 
+            "author": "Coffeewind"
+        }, 
+        {
+            "date": "2015-03-07T00:05:07.873Z", 
+            "text": "The rule said you can only peek on 50 boxes, not all boxes.", 
+            "author": "Anonymous71475"
+        }, 
+        {
+            "date": "2015-02-24T02:03:15.824Z", 
+            "text": "Soooo, if you win, so does everyone else?\ufeff", 
+            "author": "Matt11111"
+        }, 
+        {
+            "date": "2015-02-23T14:35:29.101Z", 
+            "text": "The amount of assburgers in the comments is astonishing.\ufeff", 
+            "author": "Ylis Vauhdis"
+        }, 
+        {
+            "date": "2015-02-23T03:41:44.569Z", 
+            "text": "Here is the solution people!!!!!!\nLook at the IMPOSSIBLE BET first!!!!\ufeff", 
+            "author": "Trista Yu"
+        }, 
+        {
+            "date": "2015-02-20T23:11:52.766Z", 
+            "text": "Thats pretty cool\ufeff", 
+            "author": "Esben Svendsen"
+        }, 
+        {
+            "date": "2015-02-18T10:00:17.731Z", 
+            "text": "my expected value 1(101) - 1(1)= 100. So why not just bet and hope for some \ngenius comes out with a brainer\ufeff", 
+            "author": "JeevS GOne"
+        }, 
+        {
+            "date": "2015-02-18T03:24:04.000Z", 
+            "text": "for my simulation modeling class final project, we did something very \nsimilar to this. we had to figure out how shipping packages can be \noptimized. You assign all destinations a random number, and you start at a \ndestination mapped to a number. Every time a successful delivery is made, \nit generates another number which can be used for the next delivery \n(through the corresponding number). This generated number continues a chain \nthat is actually quite optimal.\n\nBelieve it or not, 58% of the time, it's actually faster this way to \ndeliver packages to houses than simply going to the next nearest \ndestination. \ufeff", 
+            "author": "BackfallGenius"
+        }, 
+        {
+            "date": "2015-02-18T02:40:13.043Z", 
+            "text": "Don't get it\n\ufeff", 
+            "author": "Fawad Raja"
+        }, 
+        {
+            "date": "2015-02-17T20:45:19.830Z", 
+            "text": "Is there a way to calculate that 31% probability of every chain being fifty \nor fewer boxes? Or was that merely obtained by computer simulation?\ufeff", 
+            "author": "James Groebl"
+        }, 
+        {
+            "date": "2015-02-18T10:53:34.000Z", 
+            "text": "Yea i think it only works under simulation because of the numbers of trials \nof win that you calculate that will lead to 31%. Its the same as you count \nthe mean for a dice throw for 5 times, or you can do it millions times to \nget a much more accurate value.", 
+            "author": "JeevS GOne"
+        }, 
+        {
+            "date": "2015-02-17T14:49:09.374Z", 
+            "text": "", 
+            "author": "\u042e\u0440\u0438\u0439 \u041a\u0430\u0440\u0430\u0447\u0435\u0432\u0446\u0435\u0432"
+        }, 
+        {
+            "date": "2015-02-17T07:57:01.754Z", 
+            "text": "but what if the boxes are arranged really randomly and they don't actually \ntell you which box you should go to??i mean what if the arrangement isn't \narranged such that it can't form any actual chains...\ufeff", 
+            "author": "Aditi Dave"
+        }, 
+        {
+            "date": "2015-02-17T06:32:14.482Z", 
+            "text": "i didnt get it. plz explain me more simply\ufeff", 
+            "author": "pankaj singh"
+        }, 
+        {
+            "date": "2015-02-17T01:53:51.518Z", 
+            "text": "I don't get this someone explain if you can look inside the box can't you \njust search for yours without the pattern?\ufeff", 
+            "author": "Matthew Villarreal"
+        }, 
+        {
+            "date": "2015-02-15T12:41:40.053Z", 
+            "text": "My mind is so fucked right now. \ufeff", 
+            "author": "Phil X"
+        }
+    ]
+}

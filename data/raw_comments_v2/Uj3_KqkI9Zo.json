@@ -1,0 +1,1433 @@
+{
+    "publish_date": "2014-01-16T17:26:19.000Z", 
+    "video_length": "PT6M", 
+    "captions": [
+        {
+            "text": "In the 1920&#39;s,", 
+            "dur": "1.16", 
+            "start": "6.531"
+        }, 
+        {
+            "text": "the German mathematician David Hilbert", 
+            "dur": "2.469", 
+            "start": "7.715"
+        }, 
+        {
+            "text": "devised a famous thought experiment", 
+            "dur": "2.229", 
+            "start": "10.208"
+        }, 
+        {
+            "text": "to show us just how hard it is", 
+            "dur": "1.73", 
+            "start": "12.461"
+        }, 
+        {
+            "text": "to wrap our minds\naround the concept of infinity.", 
+            "dur": "3.45", 
+            "start": "14.215"
+        }, 
+        {
+            "text": "Imagine a hotel with an infinite\nnumber of rooms", 
+            "dur": "3.306", 
+            "start": "18.353"
+        }, 
+        {
+            "text": "and a very hardworking night manager.", 
+            "dur": "2.305", 
+            "start": "21.683"
+        }, 
+        {
+            "text": "One night, the Infinite Hotel\nis completely full,", 
+            "dur": "2.995", 
+            "start": "24.528"
+        }, 
+        {
+            "text": "totally booked up\nwith an infinite number of guests.", 
+            "dur": "3.456", 
+            "start": "27.547"
+        }, 
+        {
+            "text": "A man walks into the hotel\nand asks for a room.", 
+            "dur": "3.134", 
+            "start": "31.027"
+        }, 
+        {
+            "text": "Rather than turn him down,", 
+            "dur": "1.259", 
+            "start": "34.185"
+        }, 
+        {
+            "text": "the night manager decides\nto make room for him.", 
+            "dur": "2.439", 
+            "start": "35.468"
+        }, 
+        {
+            "text": "How?", 
+            "dur": "1.016", 
+            "start": "37.931"
+        }, 
+        {
+            "text": "Easy, he asks the guest in room number 1", 
+            "dur": "2.664", 
+            "start": "38.971"
+        }, 
+        {
+            "text": "to move to room 2,", 
+            "dur": "2.052", 
+            "start": "41.659"
+        }, 
+        {
+            "text": "the guest in room 2 to move to room 3,", 
+            "dur": "2.321", 
+            "start": "43.735"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.058", 
+            "start": "46.08"
+        }, 
+        {
+            "text": "Every guest moves from room number &quot;n&quot;", 
+            "dur": "2.389", 
+            "start": "47.449"
+        }, 
+        {
+            "text": "to room number &quot;n+1&quot;.", 
+            "dur": "2.317", 
+            "start": "49.862"
+        }, 
+        {
+            "text": "Since there are an infinite\nnumber of rooms,", 
+            "dur": "2.091", 
+            "start": "52.721"
+        }, 
+        {
+            "text": "there is a new room\nfor each existing guest.", 
+            "dur": "2.173", 
+            "start": "54.836"
+        }, 
+        {
+            "text": "This leaves room 1 open\nfor the new customer.", 
+            "dur": "2.347", 
+            "start": "57.413"
+        }, 
+        {
+            "text": "The process can be repeated", 
+            "dur": "1.286", 
+            "start": "59.784"
+        }, 
+        {
+            "text": "for any finite number of new guests.", 
+            "dur": "2.417", 
+            "start": "61.094"
+        }, 
+        {
+            "text": "If, say, a tour bus unloads\n40 new people looking for rooms,", 
+            "dur": "3.994", 
+            "start": "63.535"
+        }, 
+        {
+            "text": "then every existing guest just moves", 
+            "dur": "2.089", 
+            "start": "67.553"
+        }, 
+        {
+            "text": "from room number &quot;n&quot;", 
+            "dur": "1.314", 
+            "start": "69.666"
+        }, 
+        {
+            "text": "to room number &quot;n+40&quot;,", 
+            "dur": "2.634", 
+            "start": "71.004"
+        }, 
+        {
+            "text": "thus, opening up the first 40 rooms.", 
+            "dur": "2.538", 
+            "start": "73.662"
+        }, 
+        {
+            "text": "But now an infinitely large bus", 
+            "dur": "2.014", 
+            "start": "77.157"
+        }, 
+        {
+            "text": "with a countedly infinite\nnumber of passengers", 
+            "dur": "2.549", 
+            "start": "79.195"
+        }, 
+        {
+            "text": "pulls up to rent rooms.", 
+            "dur": "1.905", 
+            "start": "81.768"
+        }, 
+        {
+            "text": "Countedly infinite is the key.", 
+            "dur": "1.989", 
+            "start": "83.697"
+        }, 
+        {
+            "text": "Now, the infinite bus\nof infinite passengers", 
+            "dur": "2.366", 
+            "start": "86.164"
+        }, 
+        {
+            "text": "perplexes the night manager at first,", 
+            "dur": "1.964", 
+            "start": "88.554"
+        }, 
+        {
+            "text": "but he realizes there&#39;s a way", 
+            "dur": "1.468", 
+            "start": "90.542"
+        }, 
+        {
+            "text": "to place each new person.", 
+            "dur": "1.315", 
+            "start": "92.034"
+        }, 
+        {
+            "text": "He asks the guest in room 1\nto move to room 2.", 
+            "dur": "3.018", 
+            "start": "93.373"
+        }, 
+        {
+            "text": "He then asks the guest in room 2", 
+            "dur": "2.112", 
+            "start": "96.415"
+        }, 
+        {
+            "text": "to move to room 4,", 
+            "dur": "1.884", 
+            "start": "98.551"
+        }, 
+        {
+            "text": "the guest in room 3 to move to room 6,", 
+            "dur": "2.35", 
+            "start": "100.459"
+        }, 
+        {
+            "text": "and so on.", 
+            "dur": "1.272", 
+            "start": "102.833"
+        }, 
+        {
+            "text": "Each current guest moves\nfrom room number &quot;n&quot;", 
+            "dur": "3.184", 
+            "start": "104.129"
+        }, 
+        {
+            "text": "to room number &quot;2n&quot; --", 
+            "dur": "1.692", 
+            "start": "107.337"
+        }, 
+        {
+            "text": "filling up only the infinite\neven-numbered rooms.", 
+            "dur": "3.253", 
+            "start": "110.807"
+        }, 
+        {
+            "text": "By doing this, he has now emptied", 
+            "dur": "1.845", 
+            "start": "114.084"
+        }, 
+        {
+            "text": "all of the infinitely many\nodd-numbered rooms,", 
+            "dur": "2.914", 
+            "start": "115.953"
+        }, 
+        {
+            "text": "which are then taken by the people\nfiling off the infinite bus.", 
+            "dur": "3.615", 
+            "start": "118.891"
+        }, 
+        {
+            "text": "Everyone&#39;s happy and the hotel&#39;s business\nis booming more than ever.", 
+            "dur": "3.633", 
+            "start": "123.242"
+        }, 
+        {
+            "text": "Well, actually, it is booming\nexactly the same amount as ever,", 
+            "dur": "3.517", 
+            "start": "126.899"
+        }, 
+        {
+            "text": "banking an infinite number\nof dollars a night.", 
+            "dur": "2.483", 
+            "start": "130.44"
+        }, 
+        {
+            "text": "Word spreads about this incredible hotel.", 
+            "dur": "2.279", 
+            "start": "134.076"
+        }, 
+        {
+            "text": "People pour in from far and wide.", 
+            "dur": "2.165", 
+            "start": "136.379"
+        }, 
+        {
+            "text": "One night, the unthinkable happens.", 
+            "dur": "2.274", 
+            "start": "138.568"
+        }, 
+        {
+            "text": "The night manager looks outside", 
+            "dur": "2.541", 
+            "start": "140.866"
+        }, 
+        {
+            "text": "and sees an infinite line\nof infinitely large buses,", 
+            "dur": "4.086", 
+            "start": "143.431"
+        }, 
+        {
+            "text": "each with a countedly infinite\nnumber of passengers.", 
+            "dur": "2.788", 
+            "start": "147.541"
+        }, 
+        {
+            "text": "What can he do?", 
+            "dur": "1.033", 
+            "start": "150.353"
+        }, 
+        {
+            "text": "If he cannot find rooms for them,\nthe hotel will lose out", 
+            "dur": "2.797", 
+            "start": "151.41"
+        }, 
+        {
+            "text": "on an infinite amount of money,", 
+            "dur": "1.727", 
+            "start": "154.231"
+        }, 
+        {
+            "text": "and he will surely lose his job.", 
+            "dur": "1.973", 
+            "start": "155.982"
+        }, 
+        {
+            "text": "Luckily, he remembers\nthat around the year 300 B.C.E.,", 
+            "dur": "3.811", 
+            "start": "157.979"
+        }, 
+        {
+            "text": "Euclid proved that there\nis an infinite quantity", 
+            "dur": "2.912", 
+            "start": "161.814"
+        }, 
+        {
+            "text": "of prime numbers.", 
+            "dur": "1.884", 
+            "start": "164.75"
+        }, 
+        {
+            "text": "So, to accomplish this\nseemingly impossible task", 
+            "dur": "2.288", 
+            "start": "167.372"
+        }, 
+        {
+            "text": "of finding infinite beds\nfor infinite buses", 
+            "dur": "2.601", 
+            "start": "169.684"
+        }, 
+        {
+            "text": "of infinite weary travelers,", 
+            "dur": "1.982", 
+            "start": "172.309"
+        }, 
+        {
+            "text": "the night manager assigns\nevery current guest", 
+            "dur": "2.867", 
+            "start": "174.315"
+        }, 
+        {
+            "text": "to the first prime number, 2,", 
+            "dur": "1.836", 
+            "start": "177.206"
+        }, 
+        {
+            "text": "raised to the power\nof their current room number.", 
+            "dur": "2.801", 
+            "start": "179.066"
+        }, 
+        {
+            "text": "So, the current occupant of room number 7", 
+            "dur": "2.644", 
+            "start": "181.891"
+        }, 
+        {
+            "text": "goes to room number 2^7,", 
+            "dur": "2.982", 
+            "start": "184.559"
+        }, 
+        {
+            "text": "which is room 128.", 
+            "dur": "1.696", 
+            "start": "187.565"
+        }, 
+        {
+            "text": "The night manager then takes the people\non the first of the infinite buses", 
+            "dur": "3.521", 
+            "start": "190.236"
+        }, 
+        {
+            "text": "and assigns them to the room number", 
+            "dur": "2.025", 
+            "start": "193.781"
+        }, 
+        {
+            "text": "of the next prime, 3,", 
+            "dur": "2.461", 
+            "start": "195.83"
+        }, 
+        {
+            "text": "raised to the power of their seat\nnumber on the bus.", 
+            "dur": "3.413", 
+            "start": "198.315"
+        }, 
+        {
+            "text": "So, the person in seat\nnumber 7 on the first bus", 
+            "dur": "3.507", 
+            "start": "201.752"
+        }, 
+        {
+            "text": "goes to room number 3^7", 
+            "dur": "3.077", 
+            "start": "205.283"
+        }, 
+        {
+            "text": "or room number 2,187.", 
+            "dur": "3.226", 
+            "start": "208.384"
+        }, 
+        {
+            "text": "This continues for all of the first bus.", 
+            "dur": "2.435", 
+            "start": "211.634"
+        }, 
+        {
+            "text": "The passengers on the second bus", 
+            "dur": "1.648", 
+            "start": "214.093"
+        }, 
+        {
+            "text": "are assigned powers of the next prime, 5.", 
+            "dur": "3.645", 
+            "start": "215.765"
+        }, 
+        {
+            "text": "The following bus, powers of 7.", 
+            "dur": "2.059", 
+            "start": "219.434"
+        }, 
+        {
+            "text": "Each bus follows:", 
+            "dur": "1.404", 
+            "start": "221.517"
+        }, 
+        {
+            "text": "powers of 11, powers of 13,", 
+            "dur": "1.801", 
+            "start": "222.945"
+        }, 
+        {
+            "text": "powers of 17, etc.", 
+            "dur": "2.029", 
+            "start": "224.77"
+        }, 
+        {
+            "text": "Since each of these numbers", 
+            "dur": "1.359", 
+            "start": "227.37"
+        }, 
+        {
+            "text": "only has 1 and the natural number powers", 
+            "dur": "2.215", 
+            "start": "228.753"
+        }, 
+        {
+            "text": "of their prime number base as factors,", 
+            "dur": "2.221", 
+            "start": "230.992"
+        }, 
+        {
+            "text": "there are no overlapping room numbers.", 
+            "dur": "2.149", 
+            "start": "233.237"
+        }, 
+        {
+            "text": "All the buses&#39; passengers\nfan out into rooms", 
+            "dur": "2.929", 
+            "start": "235.41"
+        }, 
+        {
+            "text": "using unique room-assignment schemes", 
+            "dur": "2.483", 
+            "start": "238.363"
+        }, 
+        {
+            "text": "based on unique prime numbers.", 
+            "dur": "2.616", 
+            "start": "240.87"
+        }, 
+        {
+            "text": "In this way, the night\nmanager can accommodate", 
+            "dur": "2.191", 
+            "start": "243.51"
+        }, 
+        {
+            "text": "every passenger on every bus.", 
+            "dur": "2.121", 
+            "start": "245.725"
+        }, 
+        {
+            "text": "Although, there will be\nmany rooms that go unfilled,", 
+            "dur": "3.194", 
+            "start": "247.87"
+        }, 
+        {
+            "text": "like room 6,", 
+            "dur": "1.268", 
+            "start": "251.088"
+        }, 
+        {
+            "text": "since 6 is not a power\nof any prime number.", 
+            "dur": "2.715", 
+            "start": "252.38"
+        }, 
+        {
+            "text": "Luckily, his bosses\nweren&#39;t very good in math,", 
+            "dur": "2.393", 
+            "start": "255.119"
+        }, 
+        {
+            "text": "so his job is safe.", 
+            "dur": "1.339", 
+            "start": "257.536"
+        }, 
+        {
+            "text": "The night manager&#39;s strategies\nare only possible", 
+            "dur": "2.5", 
+            "start": "259.507"
+        }, 
+        {
+            "text": "because while the Infinite Hotel\nis certainly a logistical nightmare,", 
+            "dur": "4.593", 
+            "start": "262.031"
+        }, 
+        {
+            "text": "it only deals with the lowest\nlevel of infinity,", 
+            "dur": "3.309", 
+            "start": "266.648"
+        }, 
+        {
+            "text": "mainly, the countable infinity\nof the natural numbers,", 
+            "dur": "3.532", 
+            "start": "269.981"
+        }, 
+        {
+            "text": "1, 2, 3, 4, and so on.", 
+            "dur": "3.057", 
+            "start": "273.537"
+        }, 
+        {
+            "text": "Georg Cantor called this level\nof infinity aleph-zero.", 
+            "dur": "3.895", 
+            "start": "276.618"
+        }, 
+        {
+            "text": "We use natural numbers\nfor the room numbers", 
+            "dur": "2.097", 
+            "start": "280.945"
+        }, 
+        {
+            "text": "as well as the seat numbers on the buses.", 
+            "dur": "2.122", 
+            "start": "283.066"
+        }, 
+        {
+            "text": "If we were dealing\nwith higher orders of infinity,", 
+            "dur": "2.339", 
+            "start": "285.913"
+        }, 
+        {
+            "text": "such as that of the real numbers,", 
+            "dur": "1.572", 
+            "start": "288.276"
+        }, 
+        {
+            "text": "these structured strategies\nwould no longer be possible", 
+            "dur": "2.972", 
+            "start": "289.872"
+        }, 
+        {
+            "text": "as we have no way\nto systematically include every number.", 
+            "dur": "3.537", 
+            "start": "292.868"
+        }, 
+        {
+            "text": "The Real Number Infinite Hotel", 
+            "dur": "1.801", 
+            "start": "297.002"
+        }, 
+        {
+            "text": "has negative number rooms in the basement,", 
+            "dur": "2.078", 
+            "start": "298.827"
+        }, 
+        {
+            "text": "fractional rooms,", 
+            "dur": "1.435", 
+            "start": "300.929"
+        }, 
+        {
+            "text": "so the guy in room 1/2 always suspects", 
+            "dur": "2.096", 
+            "start": "302.388"
+        }, 
+        {
+            "text": "he has less room than the guy in room 1.", 
+            "dur": "2.673", 
+            "start": "304.508"
+        }, 
+        {
+            "text": "Square root rooms, like room radical 2,", 
+            "dur": "3.103", 
+            "start": "307.205"
+        }, 
+        {
+            "text": "and room pi,", 
+            "dur": "1.106", 
+            "start": "310.332"
+        }, 
+        {
+            "text": "where the guests expect free dessert.", 
+            "dur": "2.863", 
+            "start": "311.462"
+        }, 
+        {
+            "text": "What self-respecting night manager\nwould ever want to work there", 
+            "dur": "3.025", 
+            "start": "314.349"
+        }, 
+        {
+            "text": "even for an infinite salary?", 
+            "dur": "1.607", 
+            "start": "317.398"
+        }, 
+        {
+            "text": "But over at Hilbert&#39;s Infinite Hotel,", 
+            "dur": "1.889", 
+            "start": "319.029"
+        }, 
+        {
+            "text": "where there&#39;s never any vacancy", 
+            "dur": "1.478", 
+            "start": "320.942"
+        }, 
+        {
+            "text": "and always room for more,", 
+            "dur": "1.56", 
+            "start": "322.444"
+        }, 
+        {
+            "text": "the scenarios faced by the ever-diligent", 
+            "dur": "2.898", 
+            "start": "324.028"
+        }, 
+        {
+            "text": "and maybe too hospitable night manager", 
+            "dur": "1.81", 
+            "start": "326.95"
+        }, 
+        {
+            "text": "serve to remind us of just how hard it is", 
+            "dur": "2.706", 
+            "start": "328.784"
+        }, 
+        {
+            "text": "for our relatively finite minds", 
+            "dur": "2.391", 
+            "start": "331.514"
+        }, 
+        {
+            "text": "to grasp a concept as large as infinity.", 
+            "dur": "2.838", 
+            "start": "333.929"
+        }, 
+        {
+            "text": "Maybe you can help tackle these problems", 
+            "dur": "1.951", 
+            "start": "337.132"
+        }, 
+        {
+            "text": "after a good night&#39;s sleep.", 
+            "dur": "1.296", 
+            "start": "339.107"
+        }, 
+        {
+            "text": "But honestly, we might need you", 
+            "dur": "1.849", 
+            "start": "340.427"
+        }, 
+        {
+            "text": "to change rooms at 2 a.m.", 
+            "dur": "2.401", 
+            "start": "342.3"
+        }
+    ], 
+    "title": "The Infinite Hotel Paradox - Jeff Dekofsky", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/09fc5", 
+        "/m/03zl7"
+    ], 
+    "number_views": 688375, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-10T03:16:40.980Z", 
+            "text": "Theirs infinite holes in his logic here.\ufeff", 
+            "author": "The Helghan Empire"
+        }, 
+        {
+            "date": "2015-05-09T01:16:34.455Z", 
+            "text": "The Grand Budapest Hotel?\ufeff", 
+            "author": "Victoria Fran\u00e7a"
+        }, 
+        {
+            "date": "2015-05-08T15:13:29.675Z", 
+            "text": "http://www.gofundme.com/ss2q5w?fb_action_ids=1062605627086888&fb_action_types=og.shares&fb_ref=undefined&fb_source=other_multiline&action_object_map=%5B965708656780834%5D&action_type_map=%5B%22og.shares%22%5D&action_ref_map=%5B%22undefined%22%5D\n\ufeff", 
+            "author": "magic tech reviews (john)"
+        }, 
+        {
+            "date": "2015-05-08T10:32:37.198Z", 
+            "text": "If I were the night manager, I would use another way to assign rooms, \neasier to calculate and without lefting any rooms (sorry for my bad \nEnglish).\n\nI identify every passenger with two natural numbers, \"i\", which is 1 for \nthe hotel 2 for the first bus 3 for the second bus and so on, \"j\" for the \nroom where he come from.\n\nSo, the person who occupy the 10th ton of hotel, I call him (1;10).\n\nThe person who sit in the 11th seat of the third bus, I call him (4;11).\n\nNow, it's time to assign room's.\n\nThe person ( i ; j ) will sleep in rooms number \n\n(i+j)*(i+j-1)/2 - (j-1)\n\nEverybody have his own room, but there's no empty room.\n\n\n\n\ufeff", 
+            "author": "Federico de felice"
+        }, 
+        {
+            "date": "2015-05-07T22:12:24.850Z", 
+            "text": "aleph beth nul, tal dol mal vex tir pul, bascially in english, power of a \npower lol.\ufeff", 
+            "author": "gefluzafix"
+        }, 
+        {
+            "date": "2015-05-07T20:41:47.247Z", 
+            "text": "So... Infinity (infinity) = infinity? I've yet to had a decent night sleep, \nleading to not enough hours of it, so, I was not prepared at all for the \nlast one! Halp!\ufeff", 
+            "author": "Kevin Le"
+        }, 
+        {
+            "date": "2015-05-07T00:20:02.694Z", 
+            "text": "The night manager would never be able to ask all the guests to move from \none room to another.\ufeff", 
+            "author": "Lauj Vwj"
+        }, 
+        {
+            "date": "2015-05-06T09:53:14.360Z", 
+            "text": "what exactly is the point of all this?\nto prove you can't have an infinitely large hotel or what?\ufeff", 
+            "author": "Tibbe Zwenkwiel"
+        }, 
+        {
+            "date": "2015-05-04T20:32:53.600Z", 
+            "text": "F you, Im not moving!\ufeff", 
+            "author": "Evgeniy \u201cPonySmallHorse\u201d Zinchenko"
+        }, 
+        {
+            "date": "2015-05-04T10:17:12.413Z", 
+            "text": "", 
+            "author": "Avri Borochov"
+        }, 
+        {
+            "date": "2015-05-04T10:04:15.587Z", 
+            "text": "An infinite hotel cannot be full, as it is never ending\ufeff", 
+            "author": "Doffercopter :D"
+        }, 
+        {
+            "date": "2015-05-02T21:23:58.000Z", 
+            "text": "And the funny thing is that there is the same amount of people.\ufeff", 
+            "author": "Enrique Fiset"
+        }, 
+        {
+            "date": "2015-05-01T20:28:06.421Z", 
+            "text": "Here's an idea: tell all the new guests to keep climbing the stairs until \nthey reach a vacant room and they will all die of exhaustion on the way so \nyou don't have to deal with them.\ufeff", 
+            "author": "Jonathan Albericci"
+        }, 
+        {
+            "date": "2015-05-01T06:58:01.898Z", 
+            "text": "I think I'd just ditch and go to the hotel with a few rooms, so I wouldn't \nhave to deal with the mass movement of infinite amount of people to \ninfinite rooms. Much quieter.\ufeff", 
+            "author": "Cloudy Noxurnal"
+        }, 
+        {
+            "date": "2015-04-30T23:48:11.581Z", 
+            "text": "But is infinity possible? Can there be such thing as infinity?\ufeff", 
+            "author": "Plane crashers"
+        }, 
+        {
+            "date": "2015-04-30T00:30:56.661Z", 
+            "text": "\u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4\u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25bc \u25c4 \n\u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4\u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25bc \u25c4 \u25b2 \u25ba \n\u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4\u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \n\u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4 \u25b2 \u25ba \u25bc \u25c4\u25bc \u25c4 \u25b2 \u25ba \u25bc Sorry, dropped my \nbag of illuminati\ufeff", 
+            "author": "andrew vizzarri"
+        }, 
+        {
+            "date": "2015-04-29T13:14:04.549Z", 
+            "text": "An easy way to imagine infinite infinities is with our number system.\nThere are infinite numbers between 1 and 2 but 3 is not part of this \nparticular infinity.\n\nHowever, it gets tricky when 0 becomes part of infinity, e.g. INF / 0 = INF \n| 0 | both | none.\ufeff", 
+            "author": "eXtremeDR"
+        }, 
+        {
+            "date": "2015-04-29T07:01:40.726Z", 
+            "text": "Stupid :) This just proves limits of our minds. It's not real.\ufeff", 
+            "author": "JayPixx77"
+        }, 
+        {
+            "date": "2015-04-27T13:53:41.000Z", 
+            "text": "This 'paradox' fails right off the bat. Why? Because a hotel, by \ndefinition, can only fit a finite amount of people. So right from the start \nthey are contradicting the very definition of a hotel. (This logic would \nalso apply to any 3 dimensional structure/building etc. that we can \nconceive of).\ufeff", 
+            "author": "NickVIR"
+        }, 
+        {
+            "date": "2015-04-27T06:40:20.201Z", 
+            "text": "Why would this hotel be so infinitely popular if they keep pestering the \nguests to move rooms?\ufeff", 
+            "author": "justagun"
+        }, 
+        {
+            "date": "2015-04-26T04:48:43.552Z", 
+            "text": "I lost focus when he started talking about infinite busses.\ufeff", 
+            "author": "ThickBeet"
+        }, 
+        {
+            "date": "2015-04-25T15:50:58.072Z", 
+            "text": "That hotel must be a prime contributor to inflation!\ufeff", 
+            "author": "RadiantRaichuSkits"
+        }, 
+        {
+            "date": "2015-04-23T03:09:56.087Z", 
+            "text": "Funny how humans find it so difficult to perceive the concept of infinity.\ufeff", 
+            "author": "Erudite"
+        }, 
+        {
+            "date": "2015-04-22T12:10:46.181Z", 
+            "text": "And what does \u221e - \u221e give ? 0 ?\ufeff", 
+            "author": "Alpha T (Alpha-209)"
+        }, 
+        {
+            "date": "2015-05-06T10:42:33.512Z", 
+            "text": "+JPK314 You're very probably right. Imho, there is an infinite number of \nresults and at the same time none. But hey I'm not a Mathematician :p", 
+            "author": "Alpha T (Alpha-209)"
+        }, 
+        {
+            "date": "2015-05-05T03:46:44.202Z", 
+            "text": "+Alpha T Infinity is more of a concept than a number and therefore cannot \nundergo standard mathematical operations such as subtraction. However, it \nstill can be used in more abstract situations such as the one described \nabove.", 
+            "author": "JPK314"
+        }, 
+        {
+            "date": "2015-04-21T22:30:06.403Z", 
+            "text": "the problem i have with this is at the beginning of the story: *\"a hotel \nwith an infinite amount of rooms is **totally booked full**\"* ... or is \nthat just me ...?\ufeff", 
+            "author": "Boris B"
+        }, 
+        {
+            "date": "2015-04-21T12:25:02.873Z", 
+            "text": "Personally, I think very large finite numbers such as Graham's number are \nway harder to conceptualise comapred to countable infinity...\ufeff", 
+            "author": "Ericandroy"
+        }, 
+        {
+            "date": "2015-04-21T06:57:06.032Z", 
+            "text": "", 
+            "author": "Alessandro Scaramuzza"
+        }, 
+        {
+            "date": "2015-04-21T05:29:23.505Z", 
+            "text": "Fallacious statement, infinite hotel containing infinite rooms is full, yet \nmore infinite guests appear. That's a logical impossibility. Each set is \nalready infinite. You can't add to infinity.\ufeff", 
+            "author": "Fantafaust"
+        }, 
+        {
+            "date": "2015-04-21T01:56:09.057Z", 
+            "text": "Alright too much thinking for an entire lifetime\ufeff", 
+            "author": "Austin Lan"
+        }, 
+        {
+            "date": "2015-04-21T21:37:27.715Z", 
+            "text": "Slacker...", 
+            "author": "Joseph van der Harst"
+        }, 
+        {
+            "date": "2015-04-18T18:25:12.746Z", 
+            "text": "HODOR\ufeff", 
+            "author": "Jetstream x"
+        }, 
+        {
+            "date": "2015-04-16T22:39:30.195Z", 
+            "text": "But then they all left cause they had to constantly change rooms\ufeff", 
+            "author": "MicalPlaysGames"
+        }, 
+        {
+            "date": "2015-04-16T09:28:14.947Z", 
+            "text": "Infinity haven't been prove that exists \ufeff", 
+            "author": "Noah Umana"
+        }, 
+        {
+            "date": "2015-04-16T06:13:47.558Z", 
+            "text": "he's a witch.\ufeff", 
+            "author": "attackshark"
+        }, 
+        {
+            "date": "2015-04-15T05:48:07.896Z", 
+            "text": "If the hotel had higher-order infinite rooms, it could still contain \nlower-order infinite guests if it wasn't full but instead only ever put \npeople in the countable rooms; the difficulty arises if it has more than \ncountably infinite guests but only countably infinite rooms.\ufeff", 
+            "author": "M. Alan Thomas II"
+        }, 
+        {
+            "date": "2015-04-14T11:57:38.468Z", 
+            "text": "If that hotel were real then I'm glad that we only have like seven and a \nhalf billion people or something on earth\ufeff", 
+            "author": "instantREACH"
+        }, 
+        {
+            "date": "2015-04-12T02:41:54.815Z", 
+            "text": "Why would he need guests to move rooms if there is an infinite number of \nrooms?\ufeff", 
+            "author": "Lizard Queen"
+        }, 
+        {
+            "date": "2015-04-15T11:44:30.446Z", 
+            "text": "+Lizard Queen Because every room is full.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-04-10T04:21:14.453Z", 
+            "text": "Infinite Hotel Paradox\ufeff", 
+            "author": "Muhammad Malik"
+        }, 
+        {
+            "date": "2015-04-19T14:00:42.896Z", 
+            "text": "Mommy I see stars and it's only 12:00 pm", 
+            "author": "Abdul-Majeed Abugideiri"
+        }, 
+        {
+            "date": "2015-04-06T12:39:51.800Z", 
+            "text": "But everyone would want to stay in the room with free pie\ufeff", 
+            "author": "Andrew Elliott"
+        }, 
+        {
+            "date": "2015-04-06T12:40:14.893Z", 
+            "text": "FREE PIE!", 
+            "author": "Andrew Elliott"
+        }, 
+        {
+            "date": "2015-04-05T19:11:39.346Z", 
+            "text": "This agenda is transparent\ufeff", 
+            "author": "Daniel Goins"
+        }, 
+        {
+            "date": "2015-04-05T19:11:07.775Z", 
+            "text": "Rain man on the sand more likely\ufeff", 
+            "author": "Daniel Goins"
+        }, 
+        {
+            "date": "2015-04-05T07:53:06.162Z", 
+            "text": "and the hotel then creates it own black hole and is destroyed.\ufeff", 
+            "author": "Philip Anderson"
+        }, 
+        {
+            "date": "2015-04-05T05:10:34.406Z", 
+            "text": "NICE. \nI haven't felt so stupid in a long time. \nI really needed to realise I'm not as smart as I like to think.\ufeff", 
+            "author": "Dick MC Slick"
+        }, 
+        {
+            "date": "2015-04-04T22:03:30.792Z", 
+            "text": "WELL WHOOP-DE-DOO! THERE GOES ALL OF MY EXISTING BRAIN CELLS! thanks a \nlot... so seriously, thanks!\ufeff", 
+            "author": "Ronan Lucchesi"
+        }, 
+        {
+            "date": "2015-04-04T16:45:36.019Z", 
+            "text": "\"the infinite hotel is full\" is very wrong, and this probably leads to the \nparadox\ufeff", 
+            "author": "Halen9595"
+        }, 
+        {
+            "date": "2015-04-03T19:34:32.099Z", 
+            "text": "This, mom, is how much I love you\ufeff", 
+            "author": "MichelleSandino"
+        }, 
+        {
+            "date": "2015-04-01T17:14:58.605Z", 
+            "text": "Man the rooms very high probably have VERY large doors, too.\ufeff", 
+            "author": "Voltorb1993"
+        }, 
+        {
+            "date": "2015-03-30T16:13:25.456Z", 
+            "text": "This is utterly impractical.... So many factors involved... Not a good \nexample Ted.... Bad video.\ufeff", 
+            "author": "Gunbardo"
+        }, 
+        {
+            "date": "2015-04-03T12:14:54.322Z", 
+            "text": "The metaphor of the infinite hotel was concocted by David Hilbert, one of \nthe greatest mathematicians of his time, as a way to allow \nnon-mathematicians to better understand how infinite sets have properties \nthat are contrary to our intuition.  It still stands today, 100 years \nlater, as one of the best metaphors for the mathematical concept.", 
+            "author": "MuffinsAPlenty"
+        }, 
+        {
+            "date": "2015-03-30T01:34:16.279Z", 
+            "text": "Room 432 please\ufeff", 
+            "author": "Shining Sage"
+        }, 
+        {
+            "date": "2015-03-30T03:55:58.174Z", 
+            "text": "#2 please \ud83d\ude46", 
+            "author": "Angelina Carlos"
+        }, 
+        {
+            "date": "2015-03-28T17:34:47.948Z", 
+            "text": "Okay, okay, seems like Im not going to sleep tonight!\ufeff", 
+            "author": "Ponvendhan Subramaniam"
+        }, 
+        {
+            "date": "2015-03-28T11:26:10.611Z", 
+            "text": "The Infinite Hotel Paradox - Jeff Dekofsky: https://youtu.be/Uj3_KqkI9Zo\ufeff", 
+            "author": "\u0412\u0430\u0440\u044f \u0422\u043e\u0440"
+        }, 
+        {
+            "date": "2015-03-27T20:04:18.095Z", 
+            "text": "If the Infinite hotel had infinite rooms that means that the hotel has \ninfinite space so the Infinite number of people would be in the hotel \nalready. In the end everything would not exist because everything would be \neverywhere at the same time. Everything would a single infinite space.\ufeff", 
+            "author": "Anthony Minyard"
+        }, 
+        {
+            "date": "2015-03-26T10:33:41.173Z", 
+            "text": "The Infinite Hotel Paradox - \nJeff Dekofsky: https://youtu.be/Uj3_KqkI9Zo\ufeff", 
+            "author": "Wendy \u201cWoo\u201d Barker"
+        }, 
+        {
+            "date": "2015-03-25T16:11:54.580Z", 
+            "text": "If the infinite rooms are full it would indicate that infinite has a limit \nmaking it finite which would make this paradox obsolete.\ufeff", 
+            "author": "Phoenix Sosuke"
+        }, 
+        {
+            "date": "2015-03-24T07:19:31.013Z", 
+            "text": "As a non-math person, this video proved really dense yet was visually \nappealing and made the complexity come down quite a bit. Congrats to \neveryone involved, although my head is still spinning! :P\ufeff", 
+            "author": "Rodrigo Tejada"
+        }, 
+        {
+            "date": "2015-03-20T19:37:21.104Z", 
+            "text": "Talk about building on sand. \"Assume the infinite hotel is full.\"\n\n\"Assume 2+2 = $*@&%\" is just as good a place to start.\ufeff", 
+            "author": "iamihop"
+        }, 
+        {
+            "date": "2015-05-10T08:44:12.291Z", 
+            "text": "+Mar\u00eda Ley But do you really understand the \"mathematical meaning of \ninfinity\", if so how? What about when we start talking about computability, \ndecidability (or semi-decidability) of languages? Undecidability of halting \nproblem for example really points to theoretical limitations of our \nunderstanding of infinity... (and rant can go on with equality of \ncomputable real numbers, Axiom of Choice & Banach-Tarsky paradox, etc)\nOne can not go past a non-terminating process (for example moving guests in \nthe hotel) and then expect the results \"at the end\" to be consistent.", 
+            "author": "agemo2007ed"
+        }, 
+        {
+            "date": "2015-05-06T00:31:18.367Z", 
+            "text": "+iamihop you certainly do not understand the mathematical meaning of \ninfinity x) yet you seem to speak really confident about your interpretation", 
+            "author": "Mar\u00eda Ley"
+        }, 
+        {
+            "date": "2015-04-11T06:01:31.406Z", 
+            "text": "+Nameguy Thought experiments allow us to imagine the results if certain \npremises are accepted, even if those premises are outside of our ability to \nactually test. However, they are meaningless unless they are *internally \nconsistent*. A full infinite hotel is self-contradictory and not internally \nconsistent. Therefore, any hypothetical conclusions stemming from that \npremise aren't valid.", 
+            "author": "iamihop"
+        }, 
+        {
+            "date": "2015-04-11T02:51:56.903Z", 
+            "text": "+iamihop I believe you miss the purpose of thought experiments, then.", 
+            "author": "Nameguy"
+        }, 
+        {
+            "date": "2015-03-31T01:41:15.286Z", 
+            "text": "+Alexander Baus  Thought experiments are more useful when they aren't \nnonsensical from the premise.", 
+            "author": "iamihop"
+        }, 
+        {
+            "date": "2015-03-30T23:45:06.674Z", 
+            "text": "More like \"talk about iamihop's inteptitude\".\n\nThere is nothing about that that makes it built on sand... if we're \nassuming actual infinites of rooms there's nothing whatsoever strange about \ngranting an actual infinite of occupants in said rooms.\n\nIt's a thought experiment, Dr. Einstein Sagan Tyson Newton.", 
+            "author": "Alexander Baus"
+        }, 
+        {
+            "date": "2015-03-20T04:25:49.651Z", 
+            "text": "If you want to lose a couple IQ points read the comment sections of videos \nlike this. It is filled with misinformed people trying to validate \nthemselves by posting their thoughts and trying to pass them off as fact.\ufeff", 
+            "author": "ShietEverywhere"
+        }, 
+        {
+            "date": "2015-03-20T03:35:19.960Z", 
+            "text": "what?...... My head hurts\ufeff", 
+            "author": "UnknownSlappy"
+        }, 
+        {
+            "date": "2015-03-19T23:22:58.598Z", 
+            "text": "OMFG... im stressed but good video! :)\ufeff", 
+            "author": "jeffrey hoosier"
+        }, 
+        {
+            "date": "2015-03-17T00:16:54.000Z", 
+            "text": "For the infinite buses of infinite people, you list them the same way as \nthe rational numbers (fractions) on a grid and trace diagonal lines through \nthe grid.\nThen you move existing people to double their room number and put the \nlisted newcomers in the odd number rooms. No empty rooms and shorter walks \nfor the customers than the prime number method.\ufeff", 
+            "author": "Tim Lewis"
+        }, 
+        {
+            "date": "2015-03-15T21:24:48.347Z", 
+            "text": "For the infinite amount of people in infinite buses, instead of that prime \nnumbers and powers thing (which would require longer walks for your \ncustomers), I would have converted it into a grid where you have bus number \non 1 axis and person number on the other axis, then list diagonally through \nthe grid (e.g. with (Person,Bus) you'd go\n(1,1); (1,2),(2,1); (1,3),(2,2),(3,1); (1,4),(2,3),(3,2),(4,1) etc. Then \nget everyone already in the hotel to move to double their room number as \nbefore, leaving no empty rooms in the sequence.\nUsing this system Person 1 of Bus 1 would be assigned to room 1, Person 1 \nof Bus 2 would be assigned to room 3 (move along the list).\ufeff", 
+            "author": "Tim Lewis"
+        }, 
+        {
+            "date": "2015-03-14T10:21:23.963Z", 
+            "text": "I've to disagree on this one, human brain deals with infinite pretty well, \nI'd say even too well, that's probably why we hate to deal with finite \nstuff.\ufeff", 
+            "author": "DeePal072"
+        }, 
+        {
+            "date": "2015-03-14T02:25:38.004Z", 
+            "text": "The problem people often seem to have with infinity is that infinity is \nuncountable even if made up of countable objects. Countable infinity doesnt \nmean you can count to it but that the object of said infinity can be listed \n(they are separated entities). There are 3 infinities I know of: countable \ninfinity (made up of integers, the sum of which is infinite) dense infinity \n(fractions and geometric series that are infinite within a finite range) \nand \"real\" infinity (that includes numbers that round up infinitely like \npi, phi and squareroot of 2). There might be other infinities out there I \nam not in the know of cause I am not a mathematician. The problems here \nrepresented can be expressed as\nC.Inf.+n where n is an integer equals C.inf.\nC.inf+c.inf=c.inf. and by extention Xc.inf.+c.inf where x is an integer \nequals c.inf.\ufeff", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-03-13T10:30:13.496Z", 
+            "text": "Excuse me while I fix my brain...\ufeff", 
+            "author": "Matthew Chan"
+        }, 
+        {
+            "date": "2015-03-12T12:44:11.308Z", 
+            "text": "Cool!!\ufeff", 
+            "author": "shruthi vinod"
+        }, 
+        {
+            "date": "2015-03-12T02:44:22.832Z", 
+            "text": "no entend\u00ed .-.\ufeff", 
+            "author": "El Gato de OS"
+        }, 
+        {
+            "date": "2015-03-10T22:57:41.702Z", 
+            "text": "In a general sense, \"infinity\"+ \"infinity\"= \"infinity\", thus, if the hotel \nas an infinite amount (\"infinity\") of guests in the infinite amount of \nrooms (which equals \"infinity\"), and there is an infinite amount of guests \nin the lobby (\"infinity) then, the amount of rooms is equal to the amount \nof guests in the rooms + the amount of guests in the lobby.\ufeff", 
+            "author": "Maxim T Potvin"
+        }, 
+        {
+            "date": "2015-03-14T02:37:39.527Z", 
+            "text": "Lol no, there is still space xD", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-03-10T15:28:45.042Z", 
+            "text": "", 
+            "author": "Marcos Bento"
+        }, 
+        {
+            "date": "2015-03-09T16:33:58.263Z", 
+            "text": "this is some tricky shit\ufeff", 
+            "author": "Akash837"
+        }, 
+        {
+            "date": "2015-03-08T04:49:42.873Z", 
+            "text": "Well...humans came up with the term \"infinity\", so why can't they tame the \nconcept?\ufeff", 
+            "author": "Terraria Muramasa"
+        }, 
+        {
+            "date": "2015-03-24T01:11:45.482Z", 
+            "text": "+Simone Noli yup ^.^", 
+            "author": "Enchantedbetas .AJ"
+        }, 
+        {
+            "date": "2015-03-24T01:07:12.618Z", 
+            "text": "+Enchantedbetas .AJ thanks. I do believe in god. But not the one people \ntalk about. We are so egotistic we think god is there just for us whilst we \nare a mere infinitesimal fraction of what he \"created\" (i intend creation \nas jotting down the rules and let all the objects abide by them. Like an \napple falls 9.8m/s^2. And so on). So in conclusion the god i believe in \nmore than a creator is the ultimate trendsetter carefree of humanity as a \nwhole. Too busy invent new rules for his/her/its infinite multiverses.", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-03-24T00:55:10.707Z", 
+            "text": "+Simone Noli well I dont mind we all have our different beliefs that was \njust my saying c:", 
+            "author": "Enchantedbetas .AJ"
+        }, 
+        {
+            "date": "2015-03-23T21:16:59.808Z", 
+            "text": "+Enchantedbetas .AJ beg to differ. ", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-03-23T21:14:29.809Z", 
+            "text": "Humans didnt come up with God- there is this book of stories about people's \nexperiences with Jesus/God and its called the Holy Bible(I'm sure you've \nheard of it) and people are just arguing over whether or not the book of \nstories is real and God is certainly not a term in fact without him you \nwouldn't exist :P", 
+            "author": "Enchantedbetas .AJ"
+        }, 
+        {
+            "date": "2015-03-14T03:52:09.833Z", 
+            "text": "Some examples can be Pi or the future. Pi cannot be pinpointed exactly and \nnor can the future be.", 
+            "author": "Terraria Muramasa"
+        }, 
+        {
+            "date": "2015-03-14T03:40:55.657Z", 
+            "text": "I regard them as abstract concepts. Since they do not actually share the \nplain of reality they cannot be pinpointed exactly.", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-03-14T03:01:17.297Z", 
+            "text": "Well, we can agree that these are what they call \"Theories\" and \"Beliefs\", \nmeaning that they have not been proven to be existing or not.", 
+            "author": "Terraria Muramasa"
+        }, 
+        {
+            "date": "2015-03-14T02:40:19.498Z", 
+            "text": "Humans came up with the term \"god\" and they are still arguing if it even \nexists. :p", 
+            "author": "Timothy Barth"
+        }, 
+        {
+            "date": "2015-03-07T13:45:50.440Z", 
+            "text": "Put it in a first come first serve basis, first person to come gets room 1, \nif he leaves then that room goes to the next person who comes\ufeff", 
+            "author": "Cryptic Echo"
+        }, 
+        {
+            "date": "2015-03-07T08:32:09.109Z", 
+            "text": "The Infinite Hotel Paradox - Jeff Dekofsky: http://youtu.be/Uj3_KqkI9Zo\ufeff", 
+            "author": "Bartosz Rybacki"
+        }, 
+        {
+            "date": "2015-03-07T07:17:37.453Z", 
+            "text": "5:10 room pi free desert : pi pie\ufeff", 
+            "author": "Xtreme732 [GeoStorm]"
+        }, 
+        {
+            "date": "2015-03-06T05:29:34.978Z", 
+            "text": "My mind just glazed over\ufeff", 
+            "author": "Solar Dile"
+        }, 
+        {
+            "date": "2015-03-06T21:46:06.000Z", 
+            "text": "What about this:\nAn infinite amount of hyperverses, containing an infinite amount of \nxenoverses, containing an infinite of metaverses, containing an infinite \namount of multiverses, containing an infinite amount of universes, \ncontaining an infinite amount of galaxy superclusters, containing an \ninfinite amount of galaxy clusters, containing an infinite amount of \ninfinite amount of galaxies, containing an infinite amount of solar \nsystems, containing an infinite amount of planets, containing an infinite \namount of moons, containing an infinite amount of craters, containing an \ninfinite amount of spaceships, containing an infinite amount of hotels, \ncontaining an infinite number of rooms, containing an infinite number of \ncomputers, containing an infinite number of pixels, containing an infinite \namount of atoms, containing an infinite amount of protons and neutrons and \nelectrons, containing an infinite amount of quarks, containing an infinite \namount of atomic people, containing an infinite amount of memories, \ncontaining an infinite number of airports, containing an infinite number of \nairplanes, containing an infinite number of buses, containing an infinite \nnumber of statues, containing an infinite amount of stone, containing an \ninfinite amount of viruses with an infinite number of tentacles, containing \nan infinite amount of vertices, containing an infinite amount of smaller \nviruses, containing an infinite amount of houses, containing an infinite \namount of people who want a room in your hotel.\ufeff", 
+            "author": "weee50"
+        }, 
+        {
+            "date": "2015-03-07T23:21:10.000Z", 
+            "text": "Ok, even with the shift from just 'number of' to mixing it with 'amount of' \n;O", 
+            "author": "Ser Abi\u00f3tico"
+        }, 
+        {
+            "date": "2015-03-05T20:01:03.331Z", 
+            "text": "We did this in high school maths, in 11th grade... Was one of my teacher's \nfavorite subjects.\ufeff", 
+            "author": "LaokoonBlue"
+        }, 
+        {
+            "date": "2015-03-05T09:07:59.769Z", 
+            "text": "My head hurts\ufeff", 
+            "author": "Anthony Down"
+        }, 
+        {
+            "date": "2015-03-04T16:13:06.229Z", 
+            "text": "There better be an elevator O.o\ufeff", 
+            "author": "game4ce"
+        }, 
+        {
+            "date": "2015-05-05T18:24:24.000Z", 
+            "text": "+game4ce You'd be on the elevator forever, being that it goes on and on...", 
+            "author": "Breanna Hood"
+        }, 
+        {
+            "date": "2015-04-26T05:51:02.718Z", 
+            "text": "Humm... but what if half the people in the hotel decided to take the \nstairs... that would leave an infinite number of people on the stairs, and \nstill and infinite number of people in the elevator... wait... dang.", 
+            "author": "KvaGram"
+        }, 
+        {
+            "date": "2015-04-15T16:18:06.017Z", 
+            "text": "+game4ce who said there would be more than 1 floor? an infinite hotel would \nhave infinite rooms on any floor. Therefore, there would be no need for \nmore than one floor since infinityxN=infinity", 
+            "author": "seafood1471"
+        }, 
+        {
+            "date": "2015-04-09T23:37:24.429Z", 
+            "text": "Oh, now I understand.\nThat's... an interesting thought!", 
+            "author": "Ein-Bau K\u00fcch eh"
+        }, 
+        {
+            "date": "2015-03-30T04:33:54.309Z", 
+            "text": "+Gabriel Colley But if +columbus8myhw's elevator follows the rule that the \ntime taken to get from the current floor to the next being 1/x^2 (With x \nbeing the current floor), he's still correct, no matter how high the floor \nis, even travelling from 1 to infinity, as the travel time decreases per \nfloor. The time taken to reach your destination just approaches 2 seconds \nas you approach infinity.\nFor individual floor travel, the travel time approaches the asymptote of 0 \nas the starting floor approaches infinity, where the travel time from floor \ninfinity to something higher would be 0 seconds.\nIf this doesn't make sense, I have no idea how to explain this properly.\n\nBasically - Time taken to travel up 1 floor = 1/x^2, where x = current \nfloor. Then to calculate multiple floors, add the times taken to travel \nbetween floors. Travelling from floor 1 to infinity takes 2 seconds.", 
+            "author": "Sir Edward (Crossbow711)"
+        }, 
+        {
+            "date": "2015-03-29T13:14:02.847Z", 
+            "text": "+columbus8myhw If the elevator takes infinite stops, it would take an \ninfinite time to get to the rooms, and there would have to be an infinite \nnumber of elevators in order for there to be elevators available, and for \nthat reason, some guests would take an infinite time to get to their rooms.", 
+            "author": "Gabriel Colley"
+        }, 
+        {
+            "date": "2015-03-29T13:06:38.148Z", 
+            "text": "+zeratule14 The elevator would still have an infinite number of stops", 
+            "author": "Gabriel Colley"
+        }, 
+        {
+            "date": "2015-03-28T14:37:25.872Z", 
+            "text": "+columbus8myhw I feel sick lol", 
+            "author": "Blake T"
+        }, 
+        {
+            "date": "2015-03-23T15:59:10.305Z", 
+            "text": "+Like a Derrr hurrrrr Room infinity would take about 2 seconds to get too \nusing this elevator :)", 
+            "author": "zeratule14"
+        }, 
+        {
+            "date": "2015-03-18T14:27:48.569Z", 
+            "text": "Since it's a hotel with infinite amount of  rooms... You would die in the \nelevator since it can reach Floor 1 up to... infinity.\nBetter hope you get a room that is very low", 
+            "author": "Ein-Bau K\u00fcch eh"
+        }, 
+        {
+            "date": "2015-03-13T10:57:23.922Z", 
+            "text": "A very special one! It takes 1sec to get to floor 1, 1/2sec to get from \nfloor 1 to floor 2, 1/4sec to get from floor 2 to floor 3... etc. As it \nturns out, no guest ever needs to be in the elevator for two seconds or \nmore!", 
+            "author": "columbus8myhw"
+        }, 
+        {
+            "date": "2015-03-04T14:58:05.974Z", 
+            "text": "mind blown\ufeff", 
+            "author": "TheFactoryDude"
+        }, 
+        {
+            "date": "2015-03-03T23:33:26.894Z", 
+            "text": "I want room pie . . . err, pi!\ufeff", 
+            "author": "Avisogreif"
+        }, 
+        {
+            "date": "2015-03-03T15:59:00.293Z", 
+            "text": "miNd- bLOwinG \ninfinity.............................................................................................................................................................................................................................)**...........................)**........)**.......\ufeff", 
+            "author": "Nihit Jain"
+        }, 
+        {
+            "date": "2015-03-01T00:07:45.738Z", 
+            "text": "An infinite hotel cannot be full\ufeff", 
+            "author": "MrMeineNamen"
+        }, 
+        {
+            "date": "2015-02-28T19:36:50.472Z", 
+            "text": "you can stop watching at 0:46. Because there really is no need for the \nstupid n stuff, it's a freaking infinite hotel.\ufeff", 
+            "author": "ZZombyWooff"
+        }, 
+        {
+            "date": "2015-02-28T16:41:49.219Z", 
+            "text": "Infinity is just awesome in some ways.\ufeff", 
+            "author": "Pauline Villalon"
+        }, 
+        {
+            "date": "2015-02-28T15:05:59.164Z", 
+            "text": "If you stayed in room \n1234559731005476454674213454854613154549646431545454644579884313104454131545, \nyou'd be in space.\ufeff", 
+            "author": "deet0109"
+        }, 
+        {
+            "date": "2015-03-10T09:53:45.000Z", 
+            "text": "It's the size of a set. There are infinite rooms, but there doesn't exist a \nroom labelled \u221e or aleph_0. Even though \u221e and aleph_0 can be treated as \nnumbers in certain contexts, they are different concepts, and neither \nbelong to the set of natural or real numbers.", 
+            "author": "Zantier Ta'sa"
+        }, 
+        {
+            "date": "2015-03-09T21:50:32.842Z", 
+            "text": "+Zantier Ta'sa It's an infinite number.", 
+            "author": "deet0109"
+        }, 
+        {
+            "date": "2015-03-01T21:51:10.424Z", 
+            "text": "+deet0109 aleph-0 isn't a number", 
+            "author": "Zantier Ta'sa"
+        }, 
+        {
+            "date": "2015-02-28T15:07:56.435Z", 
+            "text": "If you stayed in room aleph-0, you'd be at the edge of the MULTIVERSE.", 
+            "author": "deet0109"
+        }, 
+        {
+            "date": "2015-02-28T09:58:01.548Z", 
+            "text": "my finite mind couldn't see the point of this demonstration...\ufeff", 
+            "author": "hamitokia"
+        }, 
+        {
+            "date": "2015-02-27T04:05:51.027Z", 
+            "text": "this is so stupid, if you have infinite number of rooms, it does not matter \nhow many infinite number of buses with infinite number of guests arrive, \nyou have always free space. you can simply give any guest a random number \nwhich is greater than the before one who checked it. Problem solved.\n\ninfinite = Xbus * Xguests * infinite   this equation is always true for any \nX>0 \nand by the way nothing in this universe is infinite, so this video is even \nmore stupid to watch. \n\n\u201cTwo things are infinite: the universe and human stupidity; and I'm not \nsure about the universe.\u201d Albert Einstein\n \ufeff", 
+            "author": "TowerJimmy"
+        }, 
+        {
+            "date": "2015-04-18T23:03:50.020Z", 
+            "text": "+Sultan Ijaz talk to the hand and pls educate yourself thx. blocked and \nignore", 
+            "author": "TowerJimmy"
+        }, 
+        {
+            "date": "2015-04-12T01:30:12.027Z", 
+            "text": "+TowerJimmy infinity is an abstract concept of maths not a value. You can't \njust conduct normal mathematical operations because it doesn't make sense \nwith infinity. infinity + infinity is still equal to infinity and thus \nsolves nothing. So you have to use finite numbers to solve problems with \ninfinity and this is where the maths come into the equation. Besides, it is \nmeant as a thought experiment and hence is NOT SUPPOSED TO BE REAL", 
+            "author": "Nathan Kristian"
+        }, 
+        {
+            "date": "2015-03-14T00:31:27.443Z", 
+            "text": "+Fidelis Espiritu ingore, talk to the hand", 
+            "author": "TowerJimmy"
+        }, 
+        {
+            "date": "2015-03-06T13:51:01.554Z", 
+            "text": "+danielle frausto Because there's an infinite amount of people staying \nthere too?", 
+            "author": "NabsterHax"
+        }, 
+        {
+            "date": "2015-03-06T05:26:48.359Z", 
+            "text": "Still how can there be rooms full when there's an infinite amount of rooms", 
+            "author": "danielle frausto"
+        }, 
+        {
+            "date": "2015-03-03T04:51:28.526Z", 
+            "text": "The video states that all the rooms are full - there are no vacant rooms.", 
+            "author": "NabsterHax"
+        }, 
+        {
+            "date": "2015-02-25T22:47:37.105Z", 
+            "text": "This video was pointless. I understand that it is trying to show how humans \ncan't even comprehend infinity, but trying to explain something someone can \nnever fully understand, is a paradox within itself. Animations were cool \nthough. But to me this is what I got from the video, you try to explain an \nunimaginable figure with very realistic numbers and by equating infinite \nwith a limit to try to show how infinite doesn't have a limit? Eh whatever\ufeff", 
+            "author": "Adam Zai"
+        }, 
+        {
+            "date": "2015-02-25T17:02:06.046Z", 
+            "text": "so what's the point of this? it's pretty clear that infinity is nothing you \ncan imagine. besides that whole thought experiment is based on assumption \nthat make no sense, maybe because of wrong interpretation of the original \nwork, idk.\ufeff", 
+            "author": "MoJo"
+        }, 
+        {
+            "date": "2015-02-25T06:42:30.000Z", 
+            "text": "This DOES NOT WORK because:\n\nGuests DO NOT move from room number n to room number n+1, the shuffling \nmust start at infinity, where a new room is opened up designated as room \nnumber \"infinity plus one\", and rooms get shuffled into the adjacent \nvacancies that get opened up along the way, BACKWARDS to room number 1.\n\nIn other words, the shuffling does not start at room number 1, it starts at \nthe end of capacity, then shuffling the previous rooms all the way back to \nroom number 2, and then the guests from room number 1 can vacate it for the \nhotel's new guests.\n\nYou ask, WHY DO ROOMS HAVE TO BE SHUFFLED FROM THE END, BACKWARDS,  RATHER \nTHAN FROM ROOM ONE, FORWARD (as this video states)?\n\nLet's try it, both ways, but with a FINITE SIZE hotel with 10 rooms:\n\nIn the BACKWARDS shuffle (that I am claiming MUST be used), it's really \neasy. First, the guests in room number 10 are moved forward into the corn \nfield, thus vacating it. Next, the guests in room number 9 are moved \nforward directly into room number 10, no waiting for anything else to \nhappen. The next STEP in the SEQUENCE is for the guests in room number 8 to \nmove into room number 9, etc, ONE STEP AT A TIME, all the way BACKWARDS to \nroom number 1, whose guests get moved into room number 2, leaving room \nnumber 1 vacant for the new guests who check in. Simple, right? ONE bellhop \ncan get it all done because it all happens in 11 steps, one room at a time.\n\nIn the FORWARD shuffle (used in all of the examples in this video), yes, \nthe guests in room number 1 do move into room number 2, and so the guests \nin room number 2 have to move, and so they move into room number 3, leaving \nroom number 2 vacant, allowing the (former room 1) guests who were WAITING \nOUT IN THE PARKING LOT for room number 2 to be vacated, to move. As this \nchain of events progresses FORWARD, the guests in room number 9 will \"push\" \nthe guests in room number 10 into the cornfield, and everyone can finally \nget some sleep, ESPECIALLY THE BELLHOP, who had to PERFORM 3 times the \nnumber of steps, as compared with the backwards shuffle method.\n\nHEY, no big problem, they just had to give him a bigger tip, right?\n\nOK, that was no big problem for ONE roomful of guest checking in, but what \nif 2 want to check in at the same time (leading up to the example of a \nbusloads of guests arriving)... hmmm, let's see... with 2 set of guests, we \nnow need to hold the guests of BOTH rooms 2 AND 3 out in the parking lot, \nRIGHT? And now, the poor bellhop needs to make 5 times the number of total \nsteps to accomplish the task.\n\nWith 3 new guests, this now means holding 3 room-fulls of guests out in the \nparking lot, and it now takes 7 times as many steps to accomplish vs the \nsimple BACKWARDS shuffle method.\n\nEtc... And not only that, the total count of bellhop steps DOUBLES for \nevery new room added to the capacity of \"finite hotel\" using forward \nshuffling, but only increases by 2 steps for each room number using \nbackwards shuffling.\n\nAs the numbers of new guests arriving increases, the amount of QUEUING in \nthe parking lot becomes proportional to the count of new guests, and the \ncount of steps it takes for the bellhop to accomplish the task increases \nexponentially.\n\nNow, did you envision this from the simple descriptions and visualizations? \nThis is supposed to be the \"infinity hotel of endless capacity\", yet the \nguests really have to all wait at the check-in and in the parking lot \nqueues for the rooms to actually become vacant. OBVIOUSLY, this ISN'T what \nit seems... the devil is in the details, and this is proven by actually \n\"programming\" a \"finite hotel\" and seeing what actually happens before \nmaking grandiose claims about what would happen in an impossible scenario.\n\nIf this were the infinity hotel, the guests would have to all wait forever \nin infinite size queues out in the parking lot, and the bellhop would have \nto perform and INFINITE number of steps just to get the first guest in, let \nalone an infinite number of busloads. What they're not telling you is that \nthe first step could never occur because it requires an infinite number of \nsequential steps to be completed before proceeding to the next room... this \nscenario is IMPOSSIBLE and thus this is all total bull shit!!\n\nOK, OK, then why doesn't the infinity hotel just use my simple backwards \nshuffling method? Why didn't they explain this stupid paradox that way? \nOnce again, smoke and mirrors... if they showed you this very simple \nmethod, they would have needed to start at the last room in the hotel \nfirst, and work backwards from there... hmmm, so the first thing is to find \ninfinity, which is impossible, so instead, they act as though they can \nstart at room number 1 and don't have to even mention infinity... and \ninstead, they try slipping it in by not addressing the actual physical \nsteps it takes to accomplish the task in the forward method shown.\n\nmarty\ufeff", 
+            "author": "discflickerDotcom"
+        }, 
+        {
+            "date": "2015-02-23T20:56:22.163Z", 
+            "text": "I still remember my surprise when I first learned there are different kinds of infinity. And that some are bigger than others.", 
+            "author": "Pat Ekman"
+        }, 
+        {
+            "date": "2015-02-23T09:22:37.140Z", 
+            "text": "Fortunately ... what about the infinite fire, or how showing to us practic \n, this is scalability of opportunities.\ufeff", 
+            "author": "Archie Top"
+        }, 
+        {
+            "date": "2015-02-23T09:12:28.887Z", 
+            "text": "https://www.youtube.com/watch?v=Uj3_KqkI9Zo \ninfinite confusion :)\ufeff", 
+            "author": "Bastl T."
+        }, 
+        {
+            "date": "2015-02-23T16:56:39.000Z", 
+            "text": "Reminds me of those long-ago, wonderful days of pondering number theory!\ufeff", 
+            "author": "Steve Tjiang"
+        }, 
+        {
+            "date": "2015-02-22T23:19:25.598Z", 
+            "text": "Good thing we only have 7 billion people. \ufeff", 
+            "author": "Bob Saget"
+        }, 
+        {
+            "date": "2015-04-07T21:55:11.244Z", 
+            "text": "This made me smile :D", 
+            "author": "Gegevirus"
+        }, 
+        {
+            "date": "2015-02-22T07:53:01.357Z", 
+            "text": "I've been a fan of Hilbert since reading about him in 'G\u00f6del, Escher, Bach' \nas a kid (and felt sorry for him after finishing it :D). One of the most \npowerful ideas to me was the paradox of the Grand Hotel.\n\nIt doesn't really work at parties though, since people tend to lose track, \nbut this animation does a good job of it.\ufeff", 
+            "author": "Jaap van der Velde"
+        }, 
+        {
+            "date": "2015-02-21T18:33:23.805Z", 
+            "text": "I stopped at 1:50, this was actually stupid and ignore the actually meaning \nof words.\ufeff", 
+            "author": "Fei-Hong Wong"
+        }, 
+        {
+            "date": "2015-02-21T16:26:26.723Z", 
+            "text": "I have learned one thing from this video, the hotel manager was damn good \nat math\ufeff", 
+            "author": "Mukunda ieg lonewolf"
+        }, 
+        {
+            "date": "2015-03-16T06:16:34.859Z", 
+            "text": "I know right.he would have made a more infinite salary as a mathematician", 
+            "author": "Alexander Walsh"
+        }, 
+        {
+            "date": "2015-02-20T21:56:30.482Z", 
+            "text": "what is really infinite though ...space... no way to prove that only thing \nwe can think of that is infinite is numbers\ufeff", 
+            "author": "75lexluther"
+        }, 
+        {
+            "date": "2015-02-19T21:55:23.998Z", 
+            "text": "I have a question: could you have a fraction of infinity? would a fraction \nof infinity be finite? or would it be infinite? if you took half of \ninfinity, you would split it into two halves, but infinity goes forever so \nif you split it in two, would it be infinite or finite? my head hurts O_O\nwait, what if you had an infinite pie, and you took a bite out of it? can \nyou take a bite out of infinity? it would be infinite..... but less then \nthe amount of infinity it was before. which is impossible. CAN SOMEONE HELP \nME OUT HERE (lol I have a headache)\ufeff", 
+            "author": "Cinderblaze Fireymoon"
+        }, 
+        {
+            "date": "2015-02-19T19:57:36.230Z", 
+            "text": "", 
+            "author": "Matt Sidor"
+        }
+    ]
+}

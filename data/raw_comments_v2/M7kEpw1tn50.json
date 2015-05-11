@@ -1,0 +1,2345 @@
+{
+    "publish_date": "2012-12-09T11:58:36.000Z", 
+    "video_length": "PT9M22S", 
+    "captions": [
+        {
+            "text": "DR. JAMES GRIME: So I&#39;ve got a\nvery big number to show you", 
+            "dur": "2.43", 
+            "start": "0.67"
+        }, 
+        {
+            "text": "today used by NatWest Bank so\nthat you can send them your", 
+            "dur": "4.43", 
+            "start": "3.1"
+        }, 
+        {
+            "text": "secret bank details.", 
+            "dur": "1.49", 
+            "start": "7.53"
+        }, 
+        {
+            "text": "It starts 2 3 4 5\n3 6 7 6 2 8--", 
+            "dur": "7.33", 
+            "start": "9.02"
+        }, 
+        {
+            "text": "[MULTIPLE CLIPS OF\nNUMBERS BEING", 
+            "dur": "0.13", 
+            "start": "16.35"
+        }, 
+        {
+            "text": "COUNTED AT THE SAME TIME]", 
+            "dur": "1.25", 
+            "start": "16.48"
+        }, 
+        {
+            "text": "--7.", 
+            "dur": "1.2", 
+            "start": "28.42"
+        }, 
+        {
+            "text": "Did you get that, or do you\nwant me to repeat it?", 
+            "dur": "2.03", 
+            "start": "29.62"
+        }, 
+        {
+            "text": "So this number that\nwe are reading out", 
+            "dur": "2.65", 
+            "start": "34.76"
+        }, 
+        {
+            "text": "is 617 digits long.", 
+            "dur": "3.82", 
+            "start": "37.41"
+        }, 
+        {
+            "text": "All banks have similar numbers\nwhen you want to send them", 
+            "dur": "2.77", 
+            "start": "41.23"
+        }, 
+        {
+            "text": "your credit card details.", 
+            "dur": "1.55", 
+            "start": "44"
+        }, 
+        {
+            "text": "This is not a secret number.", 
+            "dur": "1.9", 
+            "start": "45.55"
+        }, 
+        {
+            "text": "In fact, your computer will\ndownload this number when it", 
+            "dur": "3.37", 
+            "start": "47.45"
+        }, 
+        {
+            "text": "wants to send your credit\ncard details.", 
+            "dur": "2.46", 
+            "start": "50.82"
+        }, 
+        {
+            "text": "It&#39;s there to find.", 
+            "dur": "1.16", 
+            "start": "53.28"
+        }, 
+        {
+            "text": "This is public.", 
+            "dur": "0.97", 
+            "start": "54.44"
+        }, 
+        {
+            "text": "So this code that they use on\nthe internet is called RSA.", 
+            "dur": "4.04", 
+            "start": "55.41"
+        }, 
+        {
+            "text": "It&#39;s named after the three\npeople who came up with it,", 
+            "dur": "3.53", 
+            "start": "59.45"
+        }, 
+        {
+            "text": "who were Rivest, Shamir,\nAdleman.", 
+            "dur": "2.304", 
+            "start": "62.98"
+        }, 
+        {
+            "text": "Should I show you\nhow it works?", 
+            "dur": "1.786", 
+            "start": "65.284"
+        }, 
+        {
+            "text": "BRADY HARAN: Please.", 
+            "dur": "0.413", 
+            "start": "67.07"
+        }, 
+        {
+            "text": "DR. JAMES GRIME: All right.", 
+            "dur": "0.827", 
+            "start": "67.483"
+        }, 
+        {
+            "text": "Imagine if you had a secret\nthat you wanted", 
+            "dur": "2.36", 
+            "start": "68.31"
+        }, 
+        {
+            "text": "to send to the bank.", 
+            "dur": "2.04", 
+            "start": "70.67"
+        }, 
+        {
+            "text": "So the bank provides you with\na box, and it provides you", 
+            "dur": "3.11", 
+            "start": "72.71"
+        }, 
+        {
+            "text": "with a key to lock the box.", 
+            "dur": "1.75", 
+            "start": "75.82"
+        }, 
+        {
+            "text": "So you can put your secret\ninside and you can lock it,", 
+            "dur": "2.74", 
+            "start": "77.57"
+        }, 
+        {
+            "text": "and then you can send the\nsecret to the bank.", 
+            "dur": "1.97", 
+            "start": "80.31"
+        }, 
+        {
+            "text": "That&#39;s good, isn&#39;t it?", 
+            "dur": "1.54", 
+            "start": "82.28"
+        }, 
+        {
+            "text": "But the problem is that the bank\nis giving everyone one of", 
+            "dur": "3.8", 
+            "start": "83.82"
+        }, 
+        {
+            "text": "these boxes and a key that goes\nwith it, and that means", 
+            "dur": "3.77", 
+            "start": "87.62"
+        }, 
+        {
+            "text": "that, well, one person could\nsteal someone else&#39;s box and", 
+            "dur": "5.1", 
+            "start": "91.39"
+        }, 
+        {
+            "text": "use the key to unlock it\nand read their secrets.", 
+            "dur": "3.6", 
+            "start": "96.49"
+        }, 
+        {
+            "text": "That would be terrible.", 
+            "dur": "0.84", 
+            "start": "100.09"
+        }, 
+        {
+            "text": "We can&#39;t do that.", 
+            "dur": "1.35", 
+            "start": "100.93"
+        }, 
+        {
+            "text": "So what the banks do, same sort\nof idea but instead of", 
+            "dur": "3.33", 
+            "start": "102.28"
+        }, 
+        {
+            "text": "giving out keys, they\ngive out padlocks.", 
+            "dur": "2.95", 
+            "start": "105.61"
+        }, 
+        {
+            "text": "So they give everyone a box.", 
+            "dur": "2.23", 
+            "start": "108.56"
+        }, 
+        {
+            "text": "You&#39;ve got a secret.", 
+            "dur": "0.68", 
+            "start": "110.79"
+        }, 
+        {
+            "text": "Put it inside the box.", 
+            "dur": "1.67", 
+            "start": "111.47"
+        }, 
+        {
+            "text": "Lock it not with a key\nbut with a padlock.", 
+            "dur": "2.48", 
+            "start": "113.14"
+        }, 
+        {
+            "text": "It goes click.", 
+            "dur": "1.12", 
+            "start": "115.62"
+        }, 
+        {
+            "text": "It&#39;s snapped shut.", 
+            "dur": "1.64", 
+            "start": "116.74"
+        }, 
+        {
+            "text": "Once it&#39;s locked and snapped\nshut, you don&#39;t have the", 
+            "dur": "3.26", 
+            "start": "118.38"
+        }, 
+        {
+            "text": "padlock key, so you\ncan&#39;t reverse it.", 
+            "dur": "2.42", 
+            "start": "121.64"
+        }, 
+        {
+            "text": "You can&#39;t open it up.", 
+            "dur": "1.66", 
+            "start": "124.06"
+        }, 
+        {
+            "text": "So if someone steals your\nbox, they don&#39;t", 
+            "dur": "2.37", 
+            "start": "125.72"
+        }, 
+        {
+            "text": "have the key either.", 
+            "dur": "1.18", 
+            "start": "128.09"
+        }, 
+        {
+            "text": "They&#39;ve got padlock, but\nthey don&#39;t have the", 
+            "dur": "2.23", 
+            "start": "129.27"
+        }, 
+        {
+            "text": "key to open the padlock.", 
+            "dur": "1.68", 
+            "start": "131.5"
+        }, 
+        {
+            "text": "The only person that does\nis the bank themselves.", 
+            "dur": "3.31", 
+            "start": "133.18"
+        }, 
+        {
+            "text": "And it&#39;s a way to send secret\nmessages without having to", 
+            "dur": "2.79", 
+            "start": "136.49"
+        }, 
+        {
+            "text": "send out the keys.", 
+            "dur": "1.21", 
+            "start": "139.28"
+        }, 
+        {
+            "text": "It&#39;s easy to lock the\ncode, but it&#39;s hard", 
+            "dur": "3.13", 
+            "start": "140.49"
+        }, 
+        {
+            "text": "to unlock the code.", 
+            "dur": "1.655", 
+            "start": "143.62"
+        }, 
+        {
+            "text": "First of all, I have to explain\nthis with the smallest", 
+            "dur": "2.395", 
+            "start": "145.275"
+        }, 
+        {
+            "text": "example I can, and then I&#39;ll\nshow you why we use that", 
+            "dur": "2.35", 
+            "start": "147.67"
+        }, 
+        {
+            "text": "massive number.", 
+            "dur": "0.92", 
+            "start": "150.02"
+        }, 
+        {
+            "text": "Let&#39;s say you&#39;re the bank and\nyou give out two numbers.", 
+            "dur": "3.31", 
+            "start": "150.94"
+        }, 
+        {
+            "text": "They&#39;re public, so everyone\ncan know them.", 
+            "dur": "2", 
+            "start": "154.25"
+        }, 
+        {
+            "text": "They&#39;re not secret numbers.", 
+            "dur": "0.98", 
+            "start": "156.25"
+        }, 
+        {
+            "text": "I&#39;m going to choose the number\n3 and the number 10.", 
+            "dur": "3.13", 
+            "start": "157.23"
+        }, 
+        {
+            "text": "The bank also has\na secret number.", 
+            "dur": "2.59", 
+            "start": "160.36"
+        }, 
+        {
+            "text": "The bank secret number,\nfor now, you don&#39;t", 
+            "dur": "3.07", 
+            "start": "162.95"
+        }, 
+        {
+            "text": "know what it is.", 
+            "dur": "0.49", 
+            "start": "166.02"
+        }, 
+        {
+            "text": "No one knows what it is.", 
+            "dur": "0.87", 
+            "start": "166.51"
+        }, 
+        {
+            "text": "Only the bank knows what\nthat secret number is.", 
+            "dur": "2.18", 
+            "start": "167.38"
+        }, 
+        {
+            "text": "I had a very bad breakfast this\nmorning, so I&#39;m going to", 
+            "dur": "2.11", 
+            "start": "169.56"
+        }, 
+        {
+            "text": "send the message BAD CHEF.", 
+            "dur": "2.18", 
+            "start": "171.67"
+        }, 
+        {
+            "text": "The first thing you do if you\nhave a message like that is to", 
+            "dur": "2.91", 
+            "start": "173.85"
+        }, 
+        {
+            "text": "turn the letters into numbers.", 
+            "dur": "1.875", 
+            "start": "176.76"
+        }, 
+        {
+            "text": "That&#39;s quite simple.", 
+            "dur": "1.095", 
+            "start": "178.635"
+        }, 
+        {
+            "text": "A is 1, B is 2, and Z is 26.", 
+            "dur": "2.85", 
+            "start": "179.73"
+        }, 
+        {
+            "text": "Simple stuff.", 
+            "dur": "0.67", 
+            "start": "182.58"
+        }, 
+        {
+            "text": "C is 3, D is 4.", 
+            "dur": "2.41", 
+            "start": "183.25"
+        }, 
+        {
+            "text": "Now I&#39;m going to turn it into\na code, and I&#39;m going to use", 
+            "dur": "2.64", 
+            "start": "185.66"
+        }, 
+        {
+            "text": "the number 3.", 
+            "dur": "1.6", 
+            "start": "188.3"
+        }, 
+        {
+            "text": "Now there are some codes that\nwould just add 3, or there are", 
+            "dur": "4.25", 
+            "start": "189.9"
+        }, 
+        {
+            "text": "some codes that would\nmultiply by 3.", 
+            "dur": "2.16", 
+            "start": "194.15"
+        }, 
+        {
+            "text": "What we&#39;re going to do is raise\nto the power 3, so we&#39;re", 
+            "dur": "2.54", 
+            "start": "196.31"
+        }, 
+        {
+            "text": "going to cube these\nnumbers here.", 
+            "dur": "2.02", 
+            "start": "198.85"
+        }, 
+        {
+            "text": "Let&#39;s do that.", 
+            "dur": "0.57", 
+            "start": "200.87"
+        }, 
+        {
+            "text": "So I get 2 cubed, which is 8.", 
+            "dur": "2.92", 
+            "start": "201.44"
+        }, 
+        {
+            "text": "1 cubed, which is 1.", 
+            "dur": "1.72", 
+            "start": "204.36"
+        }, 
+        {
+            "text": "5 cubed is 125.", 
+            "dur": "2.81", 
+            "start": "206.08"
+        }, 
+        {
+            "text": "And 6 cubed, 216.", 
+            "dur": "3.62", 
+            "start": "208.89"
+        }, 
+        {
+            "text": "The final step is to use the\nsecond number, the number 10.", 
+            "dur": "4.33", 
+            "start": "212.51"
+        }, 
+        {
+            "text": "I&#39;m going to divide by\n10, and I&#39;m going", 
+            "dur": "2.47", 
+            "start": "216.84"
+        }, 
+        {
+            "text": "to look at the remainder.", 
+            "dur": "1.32", 
+            "start": "219.31"
+        }, 
+        {
+            "text": "So if I take something like 512,\nwhen I divide by 10, it", 
+            "dur": "5.75", 
+            "start": "220.63"
+        }, 
+        {
+            "text": "would be 51 10&#39;s\nand 2 leftover.", 
+            "dur": "3.665", 
+            "start": "226.38"
+        }, 
+        {
+            "text": "So that&#39;s just 2.", 
+            "dur": "1.055", 
+            "start": "230.045"
+        }, 
+        {
+            "text": "5 here, 1 and 4.", 
+            "dur": "2.58", 
+            "start": "231.1"
+        }, 
+        {
+            "text": "And that&#39;s your code.", 
+            "dur": "1.01", 
+            "start": "233.68"
+        }, 
+        {
+            "text": "And that&#39;s what you\nwould send.", 
+            "dur": "1.38", 
+            "start": "234.69"
+        }, 
+        {
+            "text": "The bank, or the person who is\ngoing to decode this message,", 
+            "dur": "3.48", 
+            "start": "236.07"
+        }, 
+        {
+            "text": "has a secret number.", 
+            "dur": "1.88", 
+            "start": "239.55"
+        }, 
+        {
+            "text": "Now the secret number in this\nexample is going to be 3.", 
+            "dur": "6.75", 
+            "start": "241.43"
+        }, 
+        {
+            "text": "There&#39;s a formula to work\nout the secret number.", 
+            "dur": "2.14", 
+            "start": "248.18"
+        }, 
+        {
+            "text": "I&#39;m going to gloss over that for\na second, but I&#39;m going to", 
+            "dur": "2.27", 
+            "start": "250.32"
+        }, 
+        {
+            "text": "show you what to do next\nto decode the message.", 
+            "dur": "2.23", 
+            "start": "252.59"
+        }, 
+        {
+            "text": "This is my code.", 
+            "dur": "0.77", 
+            "start": "254.82"
+        }, 
+        {
+            "text": "I&#39;ll write it out again.", 
+            "dur": "1.119", 
+            "start": "255.59"
+        }, 
+        {
+            "text": "I&#39;m going to do the same\nthing I did before.", 
+            "dur": "2.25", 
+            "start": "256.709"
+        }, 
+        {
+            "text": "This time I&#39;m going to\nuse my secret number.", 
+            "dur": "2.551", 
+            "start": "258.959"
+        }, 
+        {
+            "text": "It doesn&#39;t have to be the same\nas 3, but it just happens to", 
+            "dur": "2.67", 
+            "start": "261.51"
+        }, 
+        {
+            "text": "be the same as the\n3 we used before.", 
+            "dur": "2.18", 
+            "start": "264.18"
+        }, 
+        {
+            "text": "But nevermind, it doesn&#39;t\nhave to be.", 
+            "dur": "1.93", 
+            "start": "266.36"
+        }, 
+        {
+            "text": "But I&#39;m going to cube again.", 
+            "dur": "2.36", 
+            "start": "268.29"
+        }, 
+        {
+            "text": "So I cube these numbers.", 
+            "dur": "1.63", 
+            "start": "270.65"
+        }, 
+        {
+            "text": "We do like we did before.", 
+            "dur": "1.66", 
+            "start": "272.28"
+        }, 
+        {
+            "text": "We divide by 10, and\nfind the remainder.", 
+            "dur": "3.15", 
+            "start": "273.94"
+        }, 
+        {
+            "text": "And then the decoder will turn\nthat into letters, which is B,", 
+            "dur": "4.11", 
+            "start": "277.09"
+        }, 
+        {
+            "text": "and he gets the message\nback again, BAD CHEF.", 
+            "dur": "2.95", 
+            "start": "281.2"
+        }, 
+        {
+            "text": "Now that&#39;s just a taste\nof how it works.", 
+            "dur": "2.2", 
+            "start": "284.15"
+        }, 
+        {
+            "text": "That&#39;s the process that your\ncomputer does every time you", 
+            "dur": "2.94", 
+            "start": "286.35"
+        }, 
+        {
+            "text": "buy something on\nAmazon or eBay.", 
+            "dur": "2.58", 
+            "start": "289.29"
+        }, 
+        {
+            "text": "One of the important numbers\nin this code was this 10.", 
+            "dur": "3.77", 
+            "start": "291.87"
+        }, 
+        {
+            "text": "Now this 10 was made\nby multiplying two", 
+            "dur": "3.08", 
+            "start": "295.64"
+        }, 
+        {
+            "text": "prime numbers together--", 
+            "dur": "1.18", 
+            "start": "298.72"
+        }, 
+        {
+            "text": "2 times 5 are prime numbers.", 
+            "dur": "2.87", 
+            "start": "299.9"
+        }, 
+        {
+            "text": "Multiply them together\nand you get 10.", 
+            "dur": "2.62", 
+            "start": "302.77"
+        }, 
+        {
+            "text": "Now that massive number that I\nshowed you that NatWest uses", 
+            "dur": "3.31", 
+            "start": "305.39"
+        }, 
+        {
+            "text": "is the same idea.", 
+            "dur": "1.26", 
+            "start": "308.7"
+        }, 
+        {
+            "text": "It&#39;s two massive prime numbers\nmultiplied together.", 
+            "dur": "4.39", 
+            "start": "309.96"
+        }, 
+        {
+            "text": "That&#39;s what it is.", 
+            "dur": "1.19", 
+            "start": "314.35"
+        }, 
+        {
+            "text": "If you want work out the decode\nkey, the secret key,", 
+            "dur": "3.68", 
+            "start": "315.54"
+        }, 
+        {
+            "text": "you need to know the original\nprime numbers.", 
+            "dur": "3", 
+            "start": "319.22"
+        }, 
+        {
+            "text": "Now the only way a spy, someone\nwho wants to break the", 
+            "dur": "3.12", 
+            "start": "322.22"
+        }, 
+        {
+            "text": "code, could work out the\noriginal prime numbers is to", 
+            "dur": "3.38", 
+            "start": "325.34"
+        }, 
+        {
+            "text": "take that massive number and\nfactorize it-- turn it back,", 
+            "dur": "4.05", 
+            "start": "328.72"
+        }, 
+        {
+            "text": "break it up into the original\ntwo prime numbers.", 
+            "dur": "3.4", 
+            "start": "332.77"
+        }, 
+        {
+            "text": "This is really hard.", 
+            "dur": "1.79", 
+            "start": "336.17"
+        }, 
+        {
+            "text": "So hard that it&#39;s impractical\nto break with modern", 
+            "dur": "3.03", 
+            "start": "337.96"
+        }, 
+        {
+            "text": "technology.", 
+            "dur": "0.67", 
+            "start": "340.99"
+        }, 
+        {
+            "text": "The massive number I showed you\nwas a 2,048-bit number.", 
+            "dur": "8.37", 
+            "start": "341.66"
+        }, 
+        {
+            "text": "That means it&#39;s about 2\nto the power 2,048.", 
+            "dur": "5.23", 
+            "start": "350.03"
+        }, 
+        {
+            "text": "Now about a decade ago,\nwe did manage to", 
+            "dur": "3.85", 
+            "start": "355.26"
+        }, 
+        {
+            "text": "break 512-bit numbers.", 
+            "dur": "3.83", 
+            "start": "359.11"
+        }, 
+        {
+            "text": "We were able to take that number\nand factorize it into", 
+            "dur": "2.48", 
+            "start": "362.94"
+        }, 
+        {
+            "text": "its original primes.", 
+            "dur": "2.1", 
+            "start": "365.42"
+        }, 
+        {
+            "text": "A few years ago, a team of\nacademics managed to break the", 
+            "dur": "3.02", 
+            "start": "367.52"
+        }, 
+        {
+            "text": "768-bit number.", 
+            "dur": "3.59", 
+            "start": "370.54"
+        }, 
+        {
+            "text": "It took this team of academics\nwith all their resources two", 
+            "dur": "2.83", 
+            "start": "374.13"
+        }, 
+        {
+            "text": "years to break at 768-bit key.", 
+            "dur": "4.51", 
+            "start": "376.96"
+        }, 
+        {
+            "text": "And they said that to break\nwhat we use now, which is", 
+            "dur": "5.22", 
+            "start": "381.47"
+        }, 
+        {
+            "text": "about 1,024, would take\nthousands of times longer.", 
+            "dur": "5", 
+            "start": "386.69"
+        }, 
+        {
+            "text": "But given the speed of\ntechnology, they reckon that", 
+            "dur": "4.93", 
+            "start": "391.69"
+        }, 
+        {
+            "text": "this sort of code, 1,024-bit,\ncould be broken within a few", 
+            "dur": "5.83", 
+            "start": "396.62"
+        }, 
+        {
+            "text": "years, they said.", 
+            "dur": "1.47", 
+            "start": "402.45"
+        }, 
+        {
+            "text": "They said that a\nfew years ago.", 
+            "dur": "2.39", 
+            "start": "403.92"
+        }, 
+        {
+            "text": "So this should now start\nto be replaced.", 
+            "dur": "3.71", 
+            "start": "406.31"
+        }, 
+        {
+            "text": "Gmail still uses this, but\nthis should be replaced.", 
+            "dur": "4.28", 
+            "start": "410.02"
+        }, 
+        {
+            "text": "And as you can see, NatWest\nhave done that.", 
+            "dur": "1.96", 
+            "start": "414.3"
+        }, 
+        {
+            "text": "All the banks have done that.", 
+            "dur": "1.43", 
+            "start": "416.26"
+        }, 
+        {
+            "text": "They are now using 2,048-bit\nnumber, which again would take", 
+            "dur": "4.77", 
+            "start": "417.69"
+        }, 
+        {
+            "text": "computers--", 
+            "dur": "1.175", 
+            "start": "422.46"
+        }, 
+        {
+            "text": "and I mean even with\na proper attack--", 
+            "dur": "3.935", 
+            "start": "423.635"
+        }, 
+        {
+            "text": "big computers, it would still\ntake them thousands of years", 
+            "dur": "3.52", 
+            "start": "427.57"
+        }, 
+        {
+            "text": "to factorize that number into\nits original prime number.", 
+            "dur": "3.71", 
+            "start": "431.09"
+        }, 
+        {
+            "text": "Now hidden in the details for\nthis code is a mathematical", 
+            "dur": "4.29", 
+            "start": "434.8"
+        }, 
+        {
+            "text": "fact that was worked out\nin the 17th century", 
+            "dur": "3.09", 
+            "start": "439.09"
+        }, 
+        {
+            "text": "by Pierre de Fermat.", 
+            "dur": "2.06", 
+            "start": "442.18"
+        }, 
+        {
+            "text": "He&#39;s famous for Fermat&#39;s\nLast Theorem.", 
+            "dur": "2.3", 
+            "start": "444.24"
+        }, 
+        {
+            "text": "Well, this was Fermat&#39;s\nLittle Theorem.", 
+            "dur": "2.16", 
+            "start": "446.54"
+        }, 
+        {
+            "text": "If I take a number,\na whole number, an", 
+            "dur": "2.37", 
+            "start": "448.7"
+        }, 
+        {
+            "text": "integer, any number--", 
+            "dur": "1.64", 
+            "start": "451.07"
+        }, 
+        {
+            "text": "call it x.", 
+            "dur": "1.5", 
+            "start": "452.71"
+        }, 
+        {
+            "text": "I&#39;m going to raise\nit to a power.", 
+            "dur": "1.84", 
+            "start": "454.21"
+        }, 
+        {
+            "text": "And it&#39;s going to be a prime\nnumber, so p for prime.", 
+            "dur": "3.195", 
+            "start": "456.05"
+        }, 
+        {
+            "text": "I&#39;m going to raise it to a\npower, and I&#39;m going to", 
+            "dur": "2.355", 
+            "start": "459.245"
+        }, 
+        {
+            "text": "takeaway x.", 
+            "dur": "1.85", 
+            "start": "461.6"
+        }, 
+        {
+            "text": "This is a multiple of\np, the prime number.", 
+            "dur": "5.96", 
+            "start": "463.45"
+        }, 
+        {
+            "text": "Let me do an example.", 
+            "dur": "1.37", 
+            "start": "469.41"
+        }, 
+        {
+            "text": "What I mean is if you took a\nnumber like 4, and then I took", 
+            "dur": "3.8", 
+            "start": "470.78"
+        }, 
+        {
+            "text": "a prime number like 5, and then\nI takeaway 4, I would get", 
+            "dur": "4.79", 
+            "start": "474.58"
+        }, 
+        {
+            "text": "4 to the power 5,\nwhich is 1,024,", 
+            "dur": "4.32", 
+            "start": "479.37"
+        }, 
+        {
+            "text": "takeaway 4, which is 1,020.", 
+            "dur": "4.15", 
+            "start": "483.69"
+        }, 
+        {
+            "text": "And that is a multiple of 5, but\nthat would be guaranteed.", 
+            "dur": "3.71", 
+            "start": "487.84"
+        }, 
+        {
+            "text": "You&#39;re guaranteed to have\na multiple of 5.", 
+            "dur": "2.06", 
+            "start": "491.55"
+        }, 
+        {
+            "text": "Now you can imagine that in the\n17th century when Fermat", 
+            "dur": "3.48", 
+            "start": "493.61"
+        }, 
+        {
+            "text": "came up with this factor, people\nsaid, well, very nice", 
+            "dur": "2.53", 
+            "start": "497.09"
+        }, 
+        {
+            "text": "mathematical fact, but that&#39;s\npretty useless.", 
+            "dur": "2.7", 
+            "start": "499.62"
+        }, 
+        {
+            "text": "What use are you going\nto have for that?", 
+            "dur": "2.02", 
+            "start": "502.32"
+        }, 
+        {
+            "text": "And then suddenly the internet\ncomes along, and it&#39;s", 
+            "dur": "2.75", 
+            "start": "504.34"
+        }, 
+        {
+            "text": "massively useful.", 
+            "dur": "1.57", 
+            "start": "507.09"
+        }, 
+        {
+            "text": "In fact, our whole modern world\ndepends on this fact.", 
+            "dur": "5.889", 
+            "start": "508.66"
+        }, 
+        {
+            "text": "So to use this code, the public\nkey has two numbers.", 
+            "dur": "3.341", 
+            "start": "514.549"
+        }, 
+        {
+            "text": "I&#39;ve shown you the massively\nlong one that NatWest uses.", 
+            "dur": "3.759", 
+            "start": "517.89"
+        }, 
+        {
+            "text": "The other number that we need,\nwhich is the power that you", 
+            "dur": "3.731", 
+            "start": "521.649"
+        }, 
+        {
+            "text": "have to raise, that\nis not as big.", 
+            "dur": "2.86", 
+            "start": "525.38"
+        }, 
+        {
+            "text": "That is 65,537.", 
+            "dur": "4.42", 
+            "start": "528.24"
+        }, 
+        {
+            "text": "Quite a big number.", 
+            "dur": "0.89", 
+            "start": "532.66"
+        }, 
+        {
+            "text": "When you compare it to the\nsecond number, it&#39;s small.", 
+            "dur": "6.14", 
+            "start": "533.55"
+        }, 
+        {
+            "text": "BRADY HARAN: If you&#39;re in the\nmood for even more about banks", 
+            "dur": "1.95", 
+            "start": "539.69"
+        }, 
+        {
+            "text": "and really big numbers, then\ncheck out my latest video from", 
+            "dur": "3.38", 
+            "start": "541.64"
+        }, 
+        {
+            "text": "the Chemistry Channel Periodic\nVideos, where we&#39;ve been", 
+            "dur": "3.14", 
+            "start": "545.02"
+        }, 
+        {
+            "text": "inside the Bank of England gold\nbullion vault, where they", 
+            "dur": "3.28", 
+            "start": "548.16"
+        }, 
+        {
+            "text": "have a couple hundred\nbillion pounds worth", 
+            "dur": "2.92", 
+            "start": "551.44"
+        }, 
+        {
+            "text": "of gold lying around.", 
+            "dur": "1.4", 
+            "start": "554.36"
+        }, 
+        {
+            "text": "That&#39;s not something\nyou see every day.", 
+            "dur": "2.47", 
+            "start": "555.76"
+        }, 
+        {
+            "text": "The link is here on the screen\nand below the video.", 
+            "dur": "2.56", 
+            "start": "558.23"
+        }
+    ], 
+    "title": "Encryption and HUGE numbers - Numberphile", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/02spk", 
+        "/m/06bmz", 
+        "/m/0vb40_n", 
+        "/m/05x5j"
+    ], 
+    "number_views": 510324, 
+    "categories": [
+        28
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-01T12:30:42.003Z", 
+            "text": "But wait a second. The remainder of a division by 10 can be 9 at max. How \nwould you handle every letter after K? (K would be a remainder of 0)\ufeff", 
+            "author": "CoxTH"
+        }, 
+        {
+            "date": "2015-04-25T20:13:14.438Z", 
+            "text": "I think I missed something. Assuming that the first 3 in the example is x \nand the 10 is y the huge number he read at the beginning, which one was it, \nx or y ? Or are there 2 huge numbers, x and y ? And also I didn't quite \nunderstand, are the numbers of the secret message (not code) raised to the \npower of x (the huge number) and etc... (In the real bank system) ?\nWhat's the actual process done IRL ?\ufeff", 
+            "author": "charles beauville"
+        }, 
+        {
+            "date": "2015-04-23T14:37:59.500Z", 
+            "text": "Am I the only one, who's sitting here wondering how to access these \nRSA public keys? Google did not really help me much. Or maybe I wasn't \nthorough enough. Either way, someone, ENLIGHTEN ME!\ufeff", 
+            "author": "Ekanshdeep Gupta"
+        }, 
+        {
+            "date": "2015-04-18T00:13:14.287Z", 
+            "text": "Why are the codes always 2 prime numbers multiplied and never composite \nnumbers?\ufeff", 
+            "author": "SneaselTheBeast"
+        }, 
+        {
+            "date": "2015-05-07T21:17:19.355Z", 
+            "text": "They have no other factors.", 
+            "author": "Dragon59095"
+        }, 
+        {
+            "date": "2015-04-13T10:01:06.913Z", 
+            "text": "\u0431\u043b\u044f\u0442\u044c, \u043d\u0443 \u0438 \u0440\u043e\u0436\u0430....\ufeff", 
+            "author": "zmitrok62"
+        }, 
+        {
+            "date": "2015-04-06T19:16:28.468Z", 
+            "text": "Turn numbers to letters = 19 5 3 18 5 20 13 5 19 19 1 7 5 19 1 18 5 3 15 15 \n12 \ufeff", 
+            "author": "Michal BH37"
+        }, 
+        {
+            "date": "2015-03-29T10:29:36.948Z", 
+            "text": "ah SSL, I havent heard about SSL handshaking in a long time.\ufeff", 
+            "author": "Jetman640"
+        }, 
+        {
+            "date": "2015-03-17T17:55:44.103Z", 
+            "text": "Damnit, just can't under stand how... if x\u00b3-x is devidable by 3, why can \nyou 'remander' 10's and use a secret number to get it anyways, I mean, \nwhat's the 'secret' number for then. if you already sent the data...\ufeff", 
+            "author": "Paul Adriaanse"
+        }, 
+        {
+            "date": "2015-03-11T13:44:34.737Z", 
+            "text": "But what if the letter  \"L\" appears in the code. You could accidently \ndecrypt it as the letter \"B\"\ufeff", 
+            "author": "Ph KoRa"
+        }, 
+        {
+            "date": "2015-03-05T16:53:21.545Z", 
+            "text": "Is it me or doesn't this work if the number of one letter has two digits? I \ntried \"hello\" with 3/10 and 3 and it didn't seem to work? \ud83d\ude14\ufeff", 
+            "author": "Felix Schwarzer"
+        }, 
+        {
+            "date": "2015-02-28T17:29:39.349Z", 
+            "text": "I'm very confused. He said that the numbers 3 and 10 were publicly \navailable- anyone can see them. But he then said the key to braking the \ncode, depends on determining the primes that were multiplied together to \ncreate that number... How? How does knowing 5 and 2 help? Can someone \nplease explain?\ufeff", 
+            "author": "Mining Forge"
+        }, 
+        {
+            "date": "2015-04-15T03:38:27.956Z", 
+            "text": "+Mining Forge Little late but if you're still curious...\n\nThe secret number can be determined mathematically, it just needs the \noriginal primes first. Once you have the two primes, in this case 2 and 5, \nyou can, somewhat quickly, determine the \"secret\" number.\n\nWithout boring you with the actual proof, the secret number is the smallest \nnumber that can be multiplied by our first small number (3 in the video), \nhave 1 subtracted from it, and then have (2-1)*(5-1) be a factor. In the \nvideo's case, 2-1 * 5-1 is 4, so we need 3*X-1=4. The first integer for \nwhich that works is X=3, so 3 is the secret number.\n\n\nSo essentially, if we have publicly available number Z, and we find the two \nfactors of the other publicly available number (p and q), then we can solve \n\n\nZ*X - 1 = (p-1)(q-1) until we find an integer solution for X, and that is \nthe secret number (calculation is more commonly expressed as Z*x mod \n[(p-1)(q-1)]=1). That calculation is not very taxing on computers at all, \nso if you can get the 2 primes you can get the secret number pretty easily.", 
+            "author": "scollinbball"
+        }, 
+        {
+            "date": "2015-02-23T19:57:15.739Z", 
+            "text": "So this is why quantum computers are a scary concept. I have heard it can \ncalculate these prime numbers in seconds.\ufeff", 
+            "author": "H Koizumi"
+        }, 
+        {
+            "date": "2015-02-16T22:17:31.481Z", 
+            "text": "I am not into math at all, but I am able to listen to You for hours!\ufeff", 
+            "author": "RoSi4You"
+        }, 
+        {
+            "date": "2015-02-15T20:23:11.649Z", 
+            "text": "I think that there is a mistake with the Fermat's Theorem, which explains \nthat if you raise x to a prime number ( p ) and you take away x , it is a \nmultiple of p:\nIf you raise x to a NEGATIVE prime number and you take away x , it is not \nnecessarily a multiple of p. \nExample :\nx=2 , p=3  ---> 2^(-3) - 2 = -15/8\n(15/8): (-3) = 5/8 --> -15/8 is not  a multiple of -3 \nFinally , I propose to say that p should be a positif and prime number.\ufeff", 
+            "author": "Hind Bennis"
+        }, 
+        {
+            "date": "2015-02-23T23:17:30.120Z", 
+            "text": "Negative numbers aren't considered primes, your whole premise is wrong.", 
+            "author": "MrAlvarogame"
+        }, 
+        {
+            "date": "2015-02-20T13:12:52.406Z", 
+            "text": "-3(5/8)=-15/8. :)", 
+            "author": "Rhu Valk"
+        }, 
+        {
+            "date": "2015-02-07T10:16:02.981Z", 
+            "text": "and btw, don't ever use e = 3 :P it makes RSA weak\ufeff", 
+            "author": "xasdrubalex"
+        }, 
+        {
+            "date": "2015-02-01T15:06:50.767Z", 
+            "text": "This encryption method with 3 and ten only seems to work for the first 9 \nletters of thr alphabet. How would I have to encrypt my message to be able \nto use all 26 letters??\ufeff", 
+            "author": "Neele Koz\u00e1k"
+        }, 
+        {
+            "date": "2015-01-23T06:23:35.440Z", 
+            "text": "I understand we cubed the numbers because it is our first number, then \ndivide by ten to get the remainder and then use the secret number to cube \nagain but how did you know to divide again by 10? where does this come \nfrom?\ufeff", 
+            "author": "BOVEK Music"
+        }, 
+        {
+            "date": "2015-01-23T03:18:58.672Z", 
+            "text": "So if the gigantic number is a multiplication of two big primes, what \nprevent a hacker from trying to multiplicate all combinations of 2 big \nprimes? Aren't the lists of big primes public? Arent they rare?\ufeff", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-02-07T04:36:21.761Z", 
+            "text": "+RenanzinhoSP computers really dont work that fast", 
+            "author": "Emmett Ochrach-Konradi"
+        }, 
+        {
+            "date": "2015-01-29T22:14:20.000Z", 
+            "text": "+inStar-chan ! Oh, that's a really plausible explanation. I'll do my \nresearch based on that. Thank you very much, I hadn't considered the \npossibility that Mersenne primes would be easier to prove prime than others \n(not intuitive for me).", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-29T14:21:51.000Z", 
+            "text": "+RenanzinhoSP Because 1024 bit RSA numbers are completely general; the \nalgorithms have been built to avoid kinds of numbers that are \ncomputationally easier to factor.\n\nMersenne primes can be found with a fast algorithm designed specifically \nfor those kinds of numbers (search for Lucas-Lehmer primality test) and the \nformula for the algorithm is specifically why all largest prime numbers \nhave been Mersenne primes since; it's ridiculously easier to prove a \nMersenne number prime than any other kind of number known by the \nmathematical community today.", 
+            "author": "Haqua du lot Herminium"
+        }, 
+        {
+            "date": "2015-01-27T19:01:09.599Z", 
+            "text": "+pr0N00bie I understand that. But I am trying to call attention to the fact \nthat 2^57885161-1 was discovered with the SLOW METHOD (trying all the \npossible factors until finding that there are no factors at all). Since \n2^57885161-1 is prime it could not be created by any EASY METHOD \n(multiplying 2 numbers).\nWhy factoring a 1024 bit number (approximately 2^1024) would take more \ncomputational power than factoring the number 2^57885161-1?", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-27T08:16:50.357Z", 
+            "text": "+RenanzinhoSP To find the prime factors takes extremly long for large \nnumbers while multiplying them is easy (measured in time needed). So the \nbank just has to take 2 primes and multiply them (easy) and if someone is \ngoing to try to find these primes from the key its going to take very long \n(hard).", 
+            "author": "pr0N00bie"
+        }, 
+        {
+            "date": "2015-01-27T02:57:43.122Z", 
+            "text": "+pr0N00bie Ok, thanks. But I still don't understand one thing: If \nsupercomputers are capable of finding primes MUCH bigger than those used in \ncryptography why would be difficult for those computers to find the primes \nof a 1024 bits key? For example: in 2013 was found that 2^57885161-1 is \nprime and that number is huge (17,425,170 digits), much bigger than the \nprimes used in cryptography, which are about 2^1024. (\"only\" 308 digits). I \nam confused.", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-25T02:31:43.580Z", 
+            "text": "Primes arent really \"that\" rare and the amount of combinations you would \nhave to try would be insane.", 
+            "author": "pr0N00bie"
+        }, 
+        {
+            "date": "2015-01-05T17:57:25.860Z", 
+            "text": "if a bit is defined by the series of two electrical positions. wouldn't \n2048-bit be EXACTLY 2^2048 ?...\ufeff", 
+            "author": "Jay Berkovitz"
+        }, 
+        {
+            "date": "2015-04-17T02:47:20.674Z", 
+            "text": "+Retro He means something like 100101111101010000; one number zero, yes, \nbut 0 is a placeholder as a digit.\n\nZero also has no sign so -0 doesn't exist.", 
+            "author": "Cooper Gates"
+        }, 
+        {
+            "date": "2015-02-15T21:12:37.000Z", 
+            "text": "i understood i was vague which is why I posted my third comment.\n\nnotice how you misquoted me, and then I clarified what I meant, *before* I \nstarted being an asshole. i explained again what I meant, trying my very \nbest to leave no room for misinterpretation. that didn't fare very well. \n\nfurthermore, pronouns like \"them\" require an antecedent to be established \nin context. I wrote:\n\n\"no, just any value < 2^2048 (if all the *bits* were 1 it would be equal \n2^2048 - 1), but since some of them are 0 it will be smaller\"\n\nsee how \"them\" refers to \"bits\" and \"it\" refers to \"any value\"?\n\ni'll admit the closing parenthesis was misplaced. because of this \nsloppiness on my part I took the time to carefully restate what I meant and \nhow the only case where a value is equal to exactly 2^2048-1 is when none \nof the bits are equal to 0, so that hopefully I don't confuse anyone else.\n\nand then you completely ignored this, and instead it seems like you're \ngoing out of your way to make me seem stupid, while constantly yammering \nabout irrelevant details and things that have no basis (no pun intended), \nlike two's complement, sign bits, that weird tangent about each base having \na zero.\n\nso, even if we set all that aside, how does your contribution to this \nthread bring any contextually relevant information to the table in terms of \nanswering the original question?\n\nif you want i can keep on nitpicking, your posts are about as lazy as they \nget on youtube. But seriously, you could just try to read a bit more \ncarefully next time and focus on the actual discussion instead of fixating \non minor ambiguities after they have already been addressed.", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-02-15T18:33:01.510Z", 
+            "text": "+foobargorch\nSo, you should have written that \"some DIGITS CAN be 0, which means the \nnumber is smaller\"\n\nJust wirting that some of them are 0 implies that you are talking about \nabsolute values/multiple 0-values", 
+            "author": "Retro"
+        }, 
+        {
+            "date": "2015-02-15T17:50:27.493Z", 
+            "text": "You guys are cute. I like you. I can step back far enough to see my mistake \nand you should do the same. I'm just a .NET programmer, details of the \nmathematics are barely consequential.", 
+            "author": "Jay Berkovitz"
+        }, 
+        {
+            "date": "2015-02-12T19:47:15.000Z", 
+            "text": "for the nth fucking time, a number and a digit are not the same thing.\n\nthe original poster was talking about bits which are binary digits.\n\nyou are talking about numbers, but confusing them with their \nrepresentations as strings of digits in a certain base.\n\nthere is a single abstract number 0 regardless of base. there is a single \nrepresentation of 0 in a given base (denoted by the digit 0), that's not a \nnumber. and the representations of many numbers contain the digit 0.", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-02-12T19:27:36.434Z", 
+            "text": "+foobargorch\nI start thinking you are too dumb to unsterstand it... or simply too dum to \nread all the comments... You yourself said, that SOME of the numbers in \nbinary are zero. Thats bullshit. There can only be 1 number for 1 value. if \nit is 0, it is 0, if not, it is not (duh). There can't be multiple zeroes...\n\nYou said the following: \"no, just any value < 2^2048 (if all the bits were \n1 it would be equal 2^2048 - 1), but since some of them are 0 it will be \nsmaller\"\n\nsince SOME of them are 0...\n\nTell me any binary value, that equals 0 (except 00000... and so on)", 
+            "author": "Retro"
+        }, 
+        {
+            "date": "2015-02-12T19:49:30.000Z", 
+            "text": "Well, what does -0 have to do with ANYTHING except the idiosyncrasies of \nsign bit encoding?\n\nIf you know the difference, why did you bring it up? To me it looks like \nyou're just trying to bullshit your way out of a faux pas.\n\nAnd more importantly why do you keep repeatedly saying things that are JUST \nPLAIN WRONG, while presenting them as if they are facts?\n\nthe statement \"theres only 1 zero\" is just BOLLOCKS (and I don't mean the \ngrammar). I explained why in great detail before you repeated it.\n\nseriously, until you get the distinction between a number, a digit and a \nbase, it would be best to keep your opinions to yourself.\n\nIt's fine to be wrong, but when you refuse to learn and go about parading \nthat nonesense that's just pissing in the well.\n\nHTH, HAND.", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-02-12T18:34:21.005Z", 
+            "text": "+foobargorch not talking about that...i wrote that theres only 1 zero in \nevery base, Sora said i should go home", 
+            "author": "Retro"
+        }, 
+        {
+            "date": "2015-02-12T18:26:02.000Z", 
+            "text": "wuuuuuh?\n\n1. 2^8 is a formula, 2 raised to the 8th power, which is not 0 or -0 it's \n256\n\n2. even when encoded as bits, not all integers are signed\n\n3. a number and a digit are not the same\n\n4. a sign and a digit are not the same\n\n5. even if (2^8)-1 (2^8 = 100000000 not 11111111) was cast from an 8 bit \nunsigned integer into an 8 bit signed integer, it would not be \"-0 and \n[not] used\", because virtually every implementation of signed integers \nunder the sun uses two's complement\n\ni'm not sure if you're trolling or genuinely stupid, check your facts \nbefore you open your mouth =P", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-02-12T17:50:46.565Z", 
+            "text": "+Sora Katsuya i know what u mean... Its not 0 its -0 and isnt used", 
+            "author": "Retro"
+        }, 
+        {
+            "date": "2015-02-12T15:30:40.791Z", 
+            "text": "+foobargorch you could just show an example\n8 bit number\n01101100 = 108\n\n2^8 = 256\nnot even close\n+Retro go home", 
+            "author": "Sora Katsuya (MasterZagh)"
+        }, 
+        {
+            "date": "2015-02-12T15:43:41.000Z", 
+            "text": "no, i was talking about bits.\n\nstated more rigorously:\n\ngiven a value 0 <= x < 2^2048, there is some unique sum x = b_0*2^0 + \nb_1*2^1 + b_2*2^2 + b_3*2^3 + ... + b_(n-1)*2^(n-1), where the b values are \nthe individual bits, they have a value 1 or 0. the only solution for x = \n(2^2048)-1 is that all the bits b_i=1 (i = 0..n). the only solution for x = \n0 (the one true zero in every base) is that all the b_i=0. but there are \n(2^n)-2 other solutions that correspond to all other values for which some \nb_i = 0 and some other b_j = 1.", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-13T06:05:04.468Z", 
+            "text": "+foobargorch you said SOME numbers equal zero... Thats not true. Like in \nEvery base Theres only 1 zero", 
+            "author": "Retro"
+        }, 
+        {
+            "date": "2015-01-12T21:06:32.781Z", 
+            "text": "what?", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-12T20:44:58.828Z", 
+            "text": "+foobargorch\nExactly 1 number in binary 2048 bit is 0. so it is (2^2048)-1. EXACTLY", 
+            "author": "Retro"
+        }, 
+        {
+            "date": "2015-01-08T00:00:14.241Z", 
+            "text": "no, just any value < 2^2048 (if all the bits were 1 it would be equal \n2^2048 - 1), but since some of them are 0 it will be smaller", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-04T06:38:54.471Z", 
+            "text": "Oops I just realized 6 is not prime.\ufeff", 
+            "author": "zeldajerk"
+        }, 
+        {
+            "date": "2015-01-04T06:26:11.286Z", 
+            "text": "What about 2 to the sixth power? That's 64. And minus 2 is 62. 6 is not a \nmultiple of 62.\ufeff", 
+            "author": "zeldajerk"
+        }, 
+        {
+            "date": "2015-01-04T16:07:56.284Z", 
+            "text": "6 is not a prime number", 
+            "author": "davidrivas305"
+        }, 
+        {
+            "date": "2015-01-02T08:35:58.338Z", 
+            "text": "But if p=np.........\ufeff", 
+            "author": "bayo salad"
+        }, 
+        {
+            "date": "2014-12-13T21:19:42.000Z", 
+            "text": "How to get the \"secret\" number:\nLet P and Q be the two primes that make the \"big\" number, and let X = (P - \n1)(Q - 1). The secret number is the smallest positive integer S such that \nif you multiply S by the \"small\" number and subtract 1, you get a multiple \nof X.\n\nIn the example, P = 2 and Q = 5, so X = (2 - 1)(5 - 1) = 1 * 4 = 4. Thus, \nwe want 3*S - 1 to be a multiple of 4. The smallest S where this works is S \n= 3: 3*3 - 1 = 8. Hence, the secret number is 3.\n\nNote: For this to work, the \"small\" number must not share any factors \n(other than 1) with X.\ufeff", 
+            "author": "piguy314159"
+        }, 
+        {
+            "date": "2014-12-12T05:41:24.817Z", 
+            "text": "This video gave me the necessary gist of information, that when I was \ndiscussing China's cracking of Gmails encryption with someone who actually \nunderstands all of this, I didn't look foolish.  Thanks numberphile.\n\nIf any of you are wondering, the person I was discussing it with claims, \nthat China essentially got lucky in cracking Gmail's encryption of 1024 \nbits so fast. \n\nI'm figuring he's probably right because to date its the only break of a \n1024 bit encryption I've ever heard of.\ufeff", 
+            "author": "GhostInTheShell29"
+        }, 
+        {
+            "date": "2014-12-11T22:31:19.313Z", 
+            "text": "PLEASE RELATE THIS TO RIEMANNS HYPOTHESIS!!\ufeff", 
+            "author": "Mrpaeb"
+        }, 
+        {
+            "date": "2015-01-17T15:11:20.568Z", 
+            "text": "so my claim is legit then? are they related?", 
+            "author": "Mrpaeb"
+        }, 
+        {
+            "date": "2015-01-08T02:12:49.670Z", 
+            "text": "P.S. Not only is the burden of proof on you, so would be the rewards.\n\nIf you can actually back what you're saying I'm sure there'll be a PhD in \nit for you. Maybe even a Fields medal.\n\nYou're making pretty remarkable claims, and you seem to think that anyone \ncan reproduce them by just some studying (somehow without thinking... i \ndidn't realize that was possible), followed by some stopping.\n\nSo forgive me, but I'm not holding my breath.\n\nOn the other hand, if you're willing to take your own advice to heart, \nhere's a good starting point http://en.wikipedia.org/wiki/RSA_problem", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-08T01:44:45.310Z", 
+            "text": "ok now you're just being hostile.\n\nclaiming that there is a way to compute prime factors for an arbitrary \nnumber based on the hypothetical validity of the riemann hypothesis does \nnot make *that* idea true automatically.\n\nHere's why I believe you are mistaken:\n\n1. computing primes does not weaken RSA, the security of RSA relies on the \ndifficulty of integer factorization which is believed to be NP hard with \ncurrent methods. no corollary of the riemann hypothesis that improves on \nthis is currently known.\n\n2. providing the riemann hypothesis does not instantly make us understand \nnew things, it just confirms a hypothesis, and many people have been \nresearching the implications of that hypothesis, which has so far not led \nto any advancements in efficient factorization.\n\n3. solving the riemann hypothesis may lead to understandings about prime \nnumbers that will help us factorize integers, but we don't actually know if \nit will, we can only hope.\n\nThe links are just general indications that other people who have thought \nabout this issue seem to be reaching the same conclusion.\n\nSo please reread my comments and explain to me why they are incorrect, \ninstead of just claiming they're incorrect so that you can repeatedly \ninsult my intelligence. You know nothing about me, how much I've studied on \nthis subject or in general, and whether or not it will help me.\n\nHowever, you claim to know something about RH and its relation to prime \nfactoring, so instead of discussing my study habits you could just explain \nwhat you mean more clearly and maybe I will see why I'm wrong.", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-08T01:26:42.000Z", 
+            "text": "I can just have hope, studying does not mean referencing! learn to study \nfirst, then you might learn when to stop it and when to start thinking, one \nshould expect finding the truth at that point. (holding an idea by bunch of \npeople - no matter how dominating they are - does not make the idea true \nautomatically)", 
+            "author": "Edris Saberi"
+        }, 
+        {
+            "date": "2015-01-08T00:24:20.000Z", 
+            "text": "Looking a bit harder (for negative not just positive statements) I now find \ne.g. \nhttp://csis.bits-pilani.ac.in/faculty/murali/netsec-09/seminar/refs/atharvasrep.pdf\n \nhttp://math.stackexchange.com/questions/69540/would-a-proof-to-the-riemann-hypothesis-affect-security \nwhich seem to all agree with my claims...", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-08T00:17:31.000Z", 
+            "text": "actually I did search this before I answered.\n\ni know that the riemann zeta function relates to the correction on the \nprime counting function, and didn't see how this relates to factoring \nnumbers into primes.\n\nI googled about prime factoring, and about factorization with respect to \nthe riemann hypothesis, and found nothing relevant.\n\nso please share =)", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-08T00:04:25.083Z", 
+            "text": "+foobargorch Just study more my friend, never be so sure about your current \nknowledge (Riemann hypothesis is far more than you think it is, I suppose \nyou're just new with this subject), good luck with your journey", 
+            "author": "Edris Saberi"
+        }, 
+        {
+            "date": "2015-01-08T00:02:11.000Z", 
+            "text": "+Edris Saberi So first, with respect to RSA, finding prime numbers is \nactually only helpful for generating keys. In fact we already have pretty \nefficient ways of finding primes at the moment, but they don't help with \nthe problem of factoring...\n\nSecondly, whether or not the Riemann hypothesis is true actually has \nlittle bearing on its applications: you can just assume it's true, use some \ncorollary to factor a number into numbers which if the hypothesis was true \nwould definitely be primes, and then double check the solution by some \nother method that is known to work to be sure. You'd still save time that \nway, just not as much as if it was proven to be true because of the double \nchecking. However, we don't know how to use it that way (yet?).\n\nIn fact, just because it's not proven yet hasn't stopped people from \nworking on the assumption that it is true to see what comes out. It has \nalready led to some mathematical results. One could even imagine that this \nwork will eventually come back full circle in helping to prove or disprove \nit in the end.\n\nThat said, maybe the understanding gained in proving would lead to some \nprofound insights about prime numbers that actually would solve the problem \nof factoring, but it wouldn't be a result of the Riemann hypothesis itself, \nbut of the work done to prove it. It probably wouldn't be sudden though ;-)\n\nIt's interesting to think about how proofs and algorithms relate, in a way \nproofs are algorithms that operate on mathematical objects, a definite path \nfrom point a to point b. Knowing that something is true on the other hand \njust tells you that you can get to b, it doesn't tell you how. You can even \ncheat and spawn at point b, and explore from there. However, you can't be \nreally sure it's real that way, and we also miss all of the detours.", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-02T15:51:29.087Z", 
+            "text": "+Mrpaeb we do not know all the prime numbers lets say from 0 up to a number \nconsists of couple of hundreds digits, Riemann's hypothesis suggests that \nthere is pattern for repetition of prime numbers, by using that you could \nlist primes and whole calculation necessary for breaking asymmetric \nencryption will be narrowed down rapidly and suddenly we could break it \nunder small amount of time, if you could prove that theory which is why it \nis millennium prized problem! :)", 
+            "author": "Edris Saberi"
+        }, 
+        {
+            "date": "2015-01-02T14:15:22.105Z", 
+            "text": "it is. both have all to do with prime numbers. See dude?", 
+            "author": "Mrpaeb"
+        }, 
+        {
+            "date": "2014-12-23T08:22:45.308Z", 
+            "text": "Kinda unrelated dude. ", 
+            "author": "A3MON"
+        }, 
+        {
+            "date": "2014-12-08T00:38:05.165Z", 
+            "text": "Would you please make a video about elleptical curves algorythms in \ncomparison to RSA based in public cryptography\ufeff", 
+            "author": "Gregory Suvalian"
+        }, 
+        {
+            "date": "2015-01-22T04:04:24.551Z", 
+            "text": "general number field sieve is where it's at", 
+            "author": "Case Protagonist"
+        }, 
+        {
+            "date": "2014-12-07T00:03:24.158Z", 
+            "text": "So if quantum computers became more widespread, what bit number would we \nneed to stay secure? GG banks\ufeff", 
+            "author": "LJWacker"
+        }, 
+        {
+            "date": "2015-04-23T11:35:30.254Z", 
+            "text": "Bit late to the party, but I feel I should mention Simon Singhs excellent \n\"The Code Book\". It's all about codes used through history and how they \nwere inevitably cracked. At the end, it also highlights the way (using \nQuantum computing) that we can create an uncrackable code !! You decide on \nwhether it's possible or not.", 
+            "author": "Richard Hawkes"
+        }, 
+        {
+            "date": "2015-03-05T07:33:04.800Z", 
+            "text": "The process of encryption is different from RSA, See BB84, Theoretically by \nusing Shor's  algorithm you can crack RSA How many ever bit code in \npolynomial time. So RSA is no longer secure.\nThat is not actually how Quantum comuters work.They like have all jigsaw \npieces on the floor and keep moving them until you find a solution, rather \nthan testing a jigsaw piece for a position at a time.", 
+            "author": "Sanketh Menda"
+        }, 
+        {
+            "date": "2015-03-04T20:48:55.964Z", 
+            "text": "From a security point of view a quantum computer cuts the key-length in \nhalf.\nSo for a quantum computer a 2048-bit key would be as hard to crack as a \n1024-bit key for a regular computer.", 
+            "author": "knister94"
+        }, 
+        {
+            "date": "2015-02-24T21:40:46.571Z", 
+            "text": "there is some talk about fractal encryption but that's all i have heard", 
+            "author": "1spiceatatime"
+        }, 
+        {
+            "date": "2015-02-24T20:17:27.000Z", 
+            "text": "believe me when I say this was one of the extremely basic ways of \nencryption. Quantum computers will lead into a new age of encryption and \nthere already forms being used today which are harder to crack. For \nexample, add another variable for the bank to know. The reason this is used \nthe most is because it's the simplest and fastest for the user experiance.", 
+            "author": "bubushum"
+        }, 
+        {
+            "date": "2015-02-24T15:29:16.911Z", 
+            "text": "Well, we are at the 2 Kbits, (1 Kilo bit = 1024 bits) and if the 512-bit \nquantum pc can break it in a short period of time, i think that we will \nslowly go to greater multiples of 2, like the Mbit for these numbers", 
+            "author": "1spiceatatime"
+        }, 
+        {
+            "date": "2015-02-07T14:15:44.127Z", 
+            "text": "There are actually different ways to encrypt if we are facing quantum \nadversaries, like BB84...\nhttp://en.wikipedia.org/wiki/Quantum_cryptography", 
+            "author": "Sanketh Menda"
+        }, 
+        {
+            "date": "2015-01-29T14:27:11.260Z", 
+            "text": "Information-theoretically secure numbers", 
+            "author": "Haqua du lot Herminium"
+        }, 
+        {
+            "date": "2015-01-25T02:38:59.749Z", 
+            "text": "+pr0N00bie That's super interesting. Cheers for sharing! ", 
+            "author": "JustLacksZazz"
+        }, 
+        {
+            "date": "2015-01-25T02:30:17.993Z", 
+            "text": "There are plenty of encryptions which even quantum computers cant brake: \nhttp://en.wikipedia.org/wiki/Post-quantum_cryptography so there is really \nnothing to worry about :)", 
+            "author": "pr0N00bie"
+        }, 
+        {
+            "date": "2015-01-10T02:53:35.920Z", 
+            "text": "It would have to be disgustingly massive I'm afraid. GG banks indeed :( ", 
+            "author": "JustLacksZazz"
+        }, 
+        {
+            "date": "2014-12-23T21:58:12.839Z", 
+            "text": "8 bit", 
+            "author": "Ryan\u00b3"
+        }, 
+        {
+            "date": "2014-11-25T23:12:47.781Z", 
+            "text": "So fun to watch. I love crypto.\ufeff", 
+            "author": "Marquise Richardson"
+        }, 
+        {
+            "date": "2014-11-26T18:44:28.369Z", 
+            "text": "+alice crawford yes that's how encryption works it's quite neat actually", 
+            "author": "Marquise Richardson"
+        }, 
+        {
+            "date": "2014-11-10T02:47:11.387Z", 
+            "text": "if we know what all the prime numbers are up to a couple hundred thousand \ndigits, why cant we just have a computer work using just those prime \nnumbers to try to break it? there are only a couple thousand, so it should \nonly take a few weeks right?\ufeff", 
+            "author": "eivilcow33"
+        }, 
+        {
+            "date": "2015-01-29T22:37:46.825Z", 
+            "text": "even with some imaginary O(1) primality test, the security of a 1024 bit \nkey relies on the fact that there are far too many numbers to test for as \nprimes and far too many primes to catalog for any reasonable keyspace (not \nenough cpus or hard drives).\n\neven if we limit ourselves to the finite region less than 2^512, the known \nprimes are a small subset of the easily found primes (relatively close to 0 \nor for which we have some algorithmic method) which are a very very very \nsmall subset of all the primes.\n\nto generate a key you can pretty easily find a random one by starting \nsomewhere random and searching for a nearby prime with the known tests, a \nprime will be fairly nearby (\nhttp://en.wikipedia.org/wiki/Prime-counting_function). there are in all \npractical probability terms infinitely many to choose from, the odds of a \ncollision are negligible.\n\nbut finding which of those factor an integer is very difficult and as far \nas we know requires going through all of them one by one, which would \nrequire more processing power than even the exergy in the universe would \nallow for pretty reasonable values of n.", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-29T22:13:22.350Z", 
+            "text": "I did some research, got some help (inStar-chan !) and I think I got the \nanswer to why 2^57885161-1 is \"easily\" proved prime while smaller primes \nstill too difficult to be factored.\n\nBecause 1024 bit RSA numbers are completely general; the algorithms that \ncreate keys have been built to avoid kinds of numbers that are \ncomputationally easier to factor.\nMersenne primes (like 2^57885161-1)  can be found with a fast algorithm \ndesigned specifically for those kinds of numbers (search for Lucas-Lehmer \nprimality test) and the formula for the algorithm is specifically why all \nlargest prime numbers have been Mersenne primes since; it's ridiculously \neasier to prove a Mersenne number prime than any other kind of number known \nby the mathematical community today.\ufeff\n\nMersenne primes are found using the following theorem (Lucas-Lehmer Test): \nFor p an odd prime, the Mersenne number 2p-1 is prime if and only if 2p-1 \ndivides S(p-1) where S(n+1) = S(n)2-2, and S(1) = 4.\n\nTesting the Lucas-Lehmer Test is MUCH easier than factoring the number, but \nit has the downside of ignoring lots of legit primes on the list. Since the \nprimes on a cryptography key have nothing to do with Mersenne numbers the \nLucas-Lehmer Test does not help it in any way.\n\nThe security of a 1024 bit key relies on the hope that there are no KNOWN \ntests that can work as an alternative to the boring and computational \nexpensive factorization process.", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-27T03:49:27.876Z", 
+            "text": "All you need to do to prove a prime is to show that it has only two \nfactors: 1 and itself. Easier said than done, but you can do it without \nexposing any more primes along the way. You use the methods you mentioned \nto get what you think is a prime and then you try to factor it out.", 
+            "author": "Jonathon Payne"
+        }, 
+        {
+            "date": "2015-01-27T03:35:54.214Z", 
+            "text": "+Jonathon Payne Hmm, very interesting. I thought that the only way to be \nsure that a number is prime was by the definition of prime number. For \nexample: \"Fermat Test\" and \"Miller-Rabin test\" are important tools to chose \na RSA prime. But they are statistical tests, which means that they just \nassure that a number is very likely a prime.", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-27T03:14:52.553Z", 
+            "text": "+RenanzinhoSP There are a number of ways to prove a prime without finding \nall the primes that come before that number. Just because the supercomputer \nin question found one 57885161 bit prime doesn't mean they've found every \n57885161 bit prime.", 
+            "author": "Jonathon Payne"
+        }, 
+        {
+            "date": "2015-01-27T03:08:31.379Z", 
+            "text": "+Jonathon Payne My question would still be the same even if we were talking \nabout 2048 bits or 4096 bit keys. In 2013 was discovered a 57885161 bits \nprime!", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-27T03:04:17.062Z", 
+            "text": "+RenanzinhoSP because 1024 bit public key encryption is outdated. That's \nwhy it's such a problem that Google and Facebook still use it instead of \n2048 bit public key encryption.", 
+            "author": "Jonathon Payne"
+        }, 
+        {
+            "date": "2015-01-27T02:59:45.080Z", 
+            "text": "I still don't understand one thing: If supercomputers are capable of \nfinding primes MUCH bigger than those used in cryptography why would be \ndifficult for those computers to find the primes of a 1024 bits key? For \nexample: in 2013 was found that 2^57885161-1 is prime and that number is \nhuge (17,425,170 digits), much bigger than the primes used in cryptography, \nwhich are about 2^1024. (\"only\" 308 digits). I am confused.", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-08T03:40:42.000Z", 
+            "text": "first, we don't actually know all those prime numbers, because searching \nthrough all those numbers for all the primes would take very very long. we \nknow some of the easier to find ones, but nothing close to all of them.\n\napproximating the prime counting function you can estimate the number \nprimes smaller than 2^1024 (since you need two of those for 2048 bit RSA) \nas li(2^1024) ( x/ln(x) ) which is in the order of 10^305 according to \nwolfram\n\nsecond, the private and public key exponents are actually arbitrary coprime \nnumbers, so the prime number theorem doesn't apply to them and the keyspace \nfor RSA is much bigger than li(2^bitsize)", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-12-23T08:20:36.993Z", 
+            "text": "There are a lot of prime numbers, and it takes a long time to try to divide \na 1000 digit+ number by anything to test if it is prime. Also, we don't \nknow ALL the primes all the way up to hundred thousand digits. We know of a \nfew special primes which happen to be a few thousand digits long. ", 
+            "author": "A3MON"
+        }, 
+        {
+            "date": "2014-12-07T09:37:28.134Z", 
+            "text": "Because these numbers are over 600 characters long. That would mean HUGE \nprime numbers, not a couple hundred thousands. \n\nI actually made an app that is capable of solving if a number is prime or \nnot AND it gives you every number that number is divisible by. \n\nGiven enough power, I could put one of these huge numbers in the app, and \nit would give me the numbers it's divisible by. \n\nI use those numbers to see which equal the huge number. I check the answers \nand check which are prime. After some time, I am able to get the prime \nnumbers that were multiplied. \n\nI can easily crack this (in theory), but actually doing it would require \nmassive computational power and computer that I don't own.", 
+            "author": "Jose Ramirez"
+        }, 
+        {
+            "date": "2014-11-18T01:25:50.911Z", 
+            "text": "It's not as simple as that.  We don't have a list of every prime number, we \ndon't even have a reasonably large list of prime numbers.  As numbers \nincrese in size, the number of steps it takes to figure out if a number is \nprime increases exponentially, which adds up to very long computational \ntimes in the real world for these very large numbers.", 
+            "author": "Jonathon Payne"
+        }, 
+        {
+            "date": "2014-11-16T21:51:27.000Z", 
+            "text": "well, except possibly quantum computers, I don't think that even the most \npowerful computer can store that many numbers. I would take up to much \nplace. Prime numbers are 'denser' than you think. Gauss proved that there \nare approx. n/logn prime numbers less than n. For example, there are about \n333 primes less than 1000! That is, about 1/3 of these 1000 numbers are \nprime! Also, you do not need to store that anyway; you could just produce \nthe primes 'as you go on with your testing'. By the way, your method is \nessentially called the trial division, which is the worst (in the sense \nleast-efficient) possible method. the amount of time with this method \nneeded is utterly exponential!!!\nJust so you know, even if both your primes have ~100 digits, and suppose \nyou could combine the effort of a few HUNDREDS of computers, it would take \nyou months in average to find these 2 primes.....\nYou see, computers (and we also) are very bad at integer factorization.", 
+            "author": "Aeonesis"
+        }, 
+        {
+            "date": "2014-11-15T00:30:07.579Z", 
+            "text": "Well, towards the end you'll end up comparing every result to some 10^100+ \nnumbers. Sure, compared to the prime calculation, it might not take that \nlong each time, but it's still something to consider. And still, don't \nforget just how large the values we're talking about are. The prime number \nyou calculated up to is still just 1/10^107 of the bigger factor. Assuming \nit took you half a minute to get the 20 millionth prime number and that \nwe're talking about linear progression (pro tip: we're not), it'd take you \nalmost 10^101 years to get to that number if my math is correct. And that's \nWITHOUT those extra steps in your last post. ", 
+            "author": "AwesomeBottled"
+        }, 
+        {
+            "date": "2014-11-14T22:32:44.159Z", 
+            "text": "Calculating Primes takes longer than seeing if they work. When you find a \nprime, you can quickly divide the big number by said prime and if the \nnumber comes back as a whole number, if you have encountered the number \nbefore, awesome, if not store it to see if it is a prime number. That is \nthe easy part", 
+            "author": "eivilcow33"
+        }, 
+        {
+            "date": "2014-11-14T22:21:50.819Z", 
+            "text": "Did you just calculate the primes themselves or did you multiply all the \npairs? We're looking for both prime factors of a given number after all. \nDoing that should increase the calculation time, especially once you reach \nthe higher numbers. ", 
+            "author": "AwesomeBottled"
+        }, 
+        {
+            "date": "2014-11-14T21:57:06.624Z", 
+            "text": "I am very well aware of how massive these numbers are. I am also a computer \nscientist. I am just surprised that it honestly takes that long... to try \nto get a grasp, i set up a MATLAB code to calculate the first 20 million \nprimes. (as you probably know, MATLAB is very very inefficient, slow, and \nresource heavy) it took less than a minute, so with good programming, in a \nlow level language like C++, and on a powerful computer, It just seems like \nit should be able to break it quite a bit faster...", 
+            "author": "eivilcow33"
+        }, 
+        {
+            "date": "2014-11-14T18:15:20.811Z", 
+            "text": "That's what they did. Computer scientists aren't that stupid, you know. The \nproblem is, I don't think you really grasp the size of the numbers we are \ntalking about here or how many prime numbers we know. \n\nThe prime factors for that 768-Bit number mentioned in the video were \n33478071698956898786044169848212690817704794983713768568912431388982883793878002287614711652531743087737814467999489\nand \n36746043666799590428244633799627952632279158164343087642676032283815739666511279233373417143396810270092798736308917. \n\nJust as a frame of reference, the trillionth prime number is 158 309 000 \n000 000. The smaller RSA-768 factor ist still over 10^100 times bigger than \nthat. ", 
+            "author": "AwesomeBottled"
+        }, 
+        {
+            "date": "2014-11-10T00:08:55.869Z", 
+            "text": "how is singingbanana describing this without visuals?\ufeff", 
+            "author": "TheKilogram1000"
+        }, 
+        {
+            "date": "2014-11-03T12:06:32.740Z", 
+            "text": "The number in this video is so long it is bigger than the highest number \npossible with a 32 or 64 bit cpu.\n\nSo how does our computer understand such a number if its higher than the \nbiggest number a 64 bit cpu can understand which \nis  9,223,372,036,854,775,807 ?\ufeff", 
+            "author": "Mark Cooper"
+        }, 
+        {
+            "date": "2014-11-08T14:49:32.623Z", 
+            "text": "8/16/32/64 bit CPU actually means that the CPU can operate on such numbers \nin a single step. (now each modern CPU also contains extensions like SSE, \nSIMD, Neon, AltiVec ... ). Also important to realize is the fact the memory \noperations are limited to a single step operations, therefore the RAM limit \nfor 32bit cpu being 4GiB (2^32).\n\nSo basically with increasing bit-width of the CPU you can:\n\n1/ Address more memory\n2/ Perform arithmetics on big numbers in less instructions (think \nperformance)\n\nIf you're looking for exact algorithms, see \nhttp://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic", 
+            "author": "arul1"
+        }, 
+        {
+            "date": "2014-10-30T17:12:08.000Z", 
+            "text": "Cool, I liked this tutorial video, very impressive. But please don't you \ndare to ask me to explain this to you.\nLet me know if you can. Lol....\ufeff\n\nWell never forget what once a smart fellow said:\n\"If you really want to successfully robber a bank, then you have to own a \nbank.\"\ufeff oops.......\ufeff", 
+            "author": "Timo Yan"
+        }, 
+        {
+            "date": "2014-10-04T08:31:16.215Z", 
+            "text": "Do the Chinese remainder theorem!!! \ufeff", 
+            "author": "sergioavila2720"
+        }, 
+        {
+            "date": "2014-09-30T03:42:16.772Z", 
+            "text": "Can we use it?\ufeff", 
+            "author": "Cool Anonymous"
+        }, 
+        {
+            "date": "2014-09-28T22:22:38.639Z", 
+            "text": "Uh, I missed the part where the video explains how knowing the two primes \nwould help me figure out the secret number. 5-2=3, is it as simple as \nsubtracting the smaller prime from the larger prime?\ufeff", 
+            "author": "Rabbit Cube"
+        }, 
+        {
+            "date": "2015-02-25T04:54:43.256Z", 
+            "text": "+1spiceatatime\nAs I wrote before, to solve the two equations for e and d, first you need \nto set a value for e (usually 65537) and find the value for d:\n\"You basically take the extended euclidean algorithm of the public key \n[...] and Eulers phi function of the two primes, which is just (p - 1) * (q \n- 1).\"", 
+            "author": "xXIkaron"
+        }, 
+        {
+            "date": "2015-02-24T21:48:40.000Z", 
+            "text": "+p4ch1n0 nope. the exponents just have to be relative to each other. They \ndon't come out of the modulus primes.\n\nThat is why you get so many results: because the exponents have to be \nrelative to each other.\n\nAt least that is what my textbook says :P", 
+            "author": "1spiceatatime"
+        }, 
+        {
+            "date": "2015-02-24T18:45:03.207Z", 
+            "text": "+1spiceatatime Yes you are right. But you need a method how to find these \nnumbers e and d and i just wrote down a method how to find them.", 
+            "author": "p4ch1n0"
+        }, 
+        {
+            "date": "2015-02-24T15:46:24.210Z", 
+            "text": "+p4ch1n0 The RSA is more like:\n\nYou take modulus n = p*q, where p and q are primes,\nand then you need 2 numbers, e and d which will have the following function:\n\nEncryption: Coded_Message = Message^e mod n\n\nDecryption: Message = Coded_Message^d mod n\n\nThe 2 public ones are \"e\" and \"n\", and the private one is \"d\"\n\nThat is why RSA is, in fact, a method of asymmetric key cryptography.\n\nI praise my textbooks.", 
+            "author": "1spiceatatime"
+        }, 
+        {
+            "date": "2015-02-07T09:41:34.754Z", 
+            "text": "I don't understand. What do you mean?", 
+            "author": "p4ch1n0"
+        }, 
+        {
+            "date": "2015-02-07T04:35:35.449Z", 
+            "text": "nope the way it works is encryption key is prime x prime = encryption key", 
+            "author": "Emmett Ochrach-Konradi"
+        }, 
+        {
+            "date": "2015-02-02T17:30:03.572Z", 
+            "text": "e*s = 1 mod (p-1)(q-1) (in other words: the remainder of (e*s) / (p-1)(q-1) \n= 1)\ne: the public number(3)\np,q: the two primes (2 and 5) \ns: the secret number\n\nWith the numbers in the video it would be:\n\n3 * s = 1 mod (2-1)(5-1)\n3 * s = 1 mod 4\ns = 3 mod 4\ns = 3 ", 
+            "author": "p4ch1n0"
+        }, 
+        {
+            "date": "2015-01-17T00:19:19.000Z", 
+            "text": "Take a look at Pohlig-Hellman cipher which is a 'simpler' version of RSA if \nyou are interested in this topic. It's hard to answer your question without \nsolid understanding of modular arithmetic, Euler's totient, etc.", 
+            "author": "Muhammad Adha Muhajier"
+        }, 
+        {
+            "date": "2015-01-07T23:19:47.987Z", 
+            "text": "No, the two numbers (which really should be different unlike in this \nexample) are chosen based on the two primes. See \nhttp://en.wikipedia.org/wiki/RSA_(cryptosystem)#Key_generation since it's a \nbit long for a comment, but it's not very complicated", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-12-07T22:01:29.044Z", 
+            "text": "The wikipedia entry on RSA explains it - \nhttp://en.wikipedia.org/wiki/RSA_(cryptosystem)\n\nThe short form is we actually need to know (p-1)(q-1) where p and q are the \n2 primes.  That is (3-1)(5-1)=8 for the video.\nThe initial exponent, the 3 used in the encryption, is some number between \n1 and (p-1)(q-1) that doesn't share any factors with (p-1)(q-1).  In the \nvideo it could have been 3, 5, or 7.\nThe second exponent, used in the decryption, is the multiplicative inverse \nof the first exponent mod (p-1)(q-1).  So to figure out the second exponent \nfor the video we need to solve 3x=1 mod(8).  That solution happens to be 3 \nsince 3*3=1 mod(8).\nIf the video had used 5 as the initial exponent the secret number would be \n5.\nIf the video had used 7 as the initial exponent the secret number would be \n7.\nIt's a coincidence that the secret exponent is the same as the public one \nwhen 10 is the key.", 
+            "author": "Craig Gordon"
+        }, 
+        {
+            "date": "2014-11-22T21:47:26.322Z", 
+            "text": "p=2 ,q=5 ,n=2*5=10 , m=(2-1)(5-1)=4   random select a number e, 1<e<m  here \nhe choose e=3\ned=1mod(m)  d=3  ;so bank give n=10 and e=3 to every user to encode.  and \nkeep p,q,d as secret.  And how to encode decode is in the video.\nnow you are a hacker. You know e =3 and n=10. your goal is d.  ed=1mod(m) \n you need know m which =(p-1)(q-1)  so you need know p and q.  n=pq.  so \nyou need a efficiently method to find p and q.", 
+            "author": "Cheng Li"
+        }, 
+        {
+            "date": "2014-11-16T21:48:10.000Z", 
+            "text": "not quite. basically, if you have the 2 prime numbers, p&q say, then \ncompute z=(p-1)*(q-1) (in the example of the video, z=1*4=4). Then,find a \nnumber d (the decoder) such that d*e-1 is divisible z (e is the encoder and \nequals to 3 in the video) (in the video, d happens to be 3 as well). Then, \ncompute (the encypted message)^d to get back the message.", 
+            "author": "Aeonesis"
+        }, 
+        {
+            "date": "2014-11-08T15:33:48.501Z", 
+            "text": "Let me give you a counter-example, which involves just squaring whole \nnumbers:\n\nTake 73 and square it:\n\n73^2 = 5329\n\n73 * 73 = 5329\n\na   * b  = c\n\nbut since we are squaring we know that it's more like:\n\na   * a  = c\n\nNow, you're only given 5329 (c) - try to find the square root (a) without \nthe calculator! Soon you'll realize that there's no generic formula to \ncompute the square root, only approximations, since this is a subset of the \nfactorization problem (\nhttp://en.wikipedia.org/wiki/Methods_of_computing_square_roots and also \nhttp://en.wikipedia.org/wiki/Factorization)\n\nTo get a much broader perspective, see the P=NP problem, which should you \nmanage to solve, shall earn you $1M.\n(http://en.wikipedia.org/wiki/P_versus_NP_problem)", 
+            "author": "arul1"
+        }, 
+        {
+            "date": "2014-10-15T17:29:56.382Z", 
+            "text": "It's a complicated process. You basically take the extended euclidean \nalgorithm of the public key (Which is a set value, for example 65537) and \nEulers phi function of the two primes, which is just (p - 1) * (q - 1).\nIn this case:\npublic key = 3\nphi = (5 - 1) * (2 - 1) = 4\nFor the extended euclidean to result in the key that they are using (3), \nyou have to set the start value of t to -1. It then results in:\ns = 3 <= This is your private key\nt = -7 <= This can be discarded.\nWe know have our public key, which is 3, the private key, which is 3, and \nthe modulus, which is p * q = 10.", 
+            "author": "xXIkaron"
+        }, 
+        {
+            "date": "2014-10-13T18:44:38.766Z", 
+            "text": "No, not that simple.\nIf the two primes are p and q (here: 2 and 5), then the encoding power \n(here: the first 3) may not share any factors with p-1 or q-1, while its \nproduct with the decoding power (here: the second 3) minus 1 (here 3*3-1 = \n8) must be divisible by (p-1)*(q-1).\nhttp://en.wikipedia.org/wiki/RSA_%28cryptosystem%29#Key_generation\nAnother example: Suppose the primes are 3 and 11, then the encoding power \nmay not share factors with 2 or 10; say we choose 7. The decoding power \nmust then be 3, because 7*3-1=20 is a multiple of 2*10=20. Indeed encoding \nfor instance 17 -> 17^7 mod 33 = 8, while decoding 8 -> 8^3 mod 33 = 17.", 
+            "author": "Dave Langers"
+        }, 
+        {
+            "date": "2014-09-21T16:30:19.592Z", 
+            "text": "...so, cubing and mod 10, is an operation that reverses itself for numbers \n< 10?\ufeff", 
+            "author": "delt01"
+        }, 
+        {
+            "date": "2015-01-07T23:34:06.774Z", 
+            "text": "no, this is a special case, the cubing is for the example (and really it \nshould be two different exponents)\n\nthe actual equation is (x^(a+b) % n = x), where in this example a=b=3 and \nn=10, and x is the digits.\n\nthe values for a and b are chosen with respect to p and q (the factors of \nn) so that exponentiating by a+b is congruent mod n.\n\nsee \nhttp://en.wikipedia.org/wiki/RSA_(cryptosystem)#Proof_using_Fermat.27s_little_theorem", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-10-15T17:33:18.216Z", 
+            "text": "Yes. But that is unintentional.\nThe intention is to find three numbers, let's call them e (public), d \n(secret) and N (modulus), which fulfill:\nm = (m^d % N)^e % N", 
+            "author": "xXIkaron"
+        }, 
+        {
+            "date": "2014-09-19T04:17:53.668Z", 
+            "text": "\"If you want to work out the secret key you need to know the original prime \nnumbers\" How is that? We didn't need to know about his prime numbers, 2 and \n5, in his example to uncode... I'm confused...\ufeff", 
+            "author": "Kevin K"
+        }, 
+        {
+            "date": "2015-01-07T23:35:51.020Z", 
+            "text": "in a real example the public key and the secret key wouldn't both be 3, but \na real example would require much bigger numbers.\n\nsee http://en.wikipedia.org/wiki/RSA_(cryptosystem)#A_worked_example", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-12-07T09:27:16.256Z", 
+            "text": "That's because he told you what they were.", 
+            "author": "Jose Ramirez"
+        }, 
+        {
+            "date": "2014-11-16T21:53:37.682Z", 
+            "text": "yes you do. here, you simply needed to cube the thing AGAIN to decode the \nmessage. This is completely coincidental....", 
+            "author": "Aeonesis"
+        }, 
+        {
+            "date": "2014-10-26T13:34:59.359Z", 
+            "text": "You might want to look RSA on Wikipedia for a more detailed explanation, \nwhat Dr. Grime did in this video is a rough example of the concept, and \ndoes not reflect the actual inner workings of RSA.", 
+            "author": "AnavrinSM64"
+        }, 
+        {
+            "date": "2014-10-16T03:42:15.878Z", 
+            "text": "You need the prime numbers that form 'n' to find 'e' & 'd'.\nIn this video we had all three numbers so it wasn't a problem.\nBut normally you only have 'e' and 'n', so if you wanted to decrypt a \nfriend's code you couldn't since you don't have 'd'.", 
+            "author": "SZJerkXVI"
+        }, 
+        {
+            "date": "2014-10-15T17:30:43.239Z", 
+            "text": "Well, he TOLD you the secret key. So of course you can uncode. But without \nthe two prime numbers, you can never figure out the secret key on your own.", 
+            "author": "xXIkaron"
+        }, 
+        {
+            "date": "2014-10-13T18:47:10.100Z", 
+            "text": "He told you to decode using the power 3. Normally you wouldn't know that \ndecoding power. You would only know the encoding power, and the \nmodulo-number.\n(The fact that both powers equalled 3 is an unfortunate coincidence here; \nthat is not generally the case.)", 
+            "author": "Dave Langers"
+        }, 
+        {
+            "date": "2014-10-06T15:43:03.990Z", 
+            "text": "In this example, the private key was 3. He never showed how one could \nobtain that number, knowing only \"power 3\" and \"remainder 10\". Somewhere in \nthe details of this encryption, it is possible to work out the private key, \nif you have the prime factors of \"remainder 10\". How exactly to go about it \nI don't know", 
+            "author": "antalz"
+        }, 
+        {
+            "date": "2014-09-13T00:13:29.462Z", 
+            "text": "why does numberphile love recycled paper\ufeff", 
+            "author": "dan richard"
+        }, 
+        {
+            "date": "2014-09-13T00:12:41.164Z", 
+            "text": "why doesn't the bank just give out different keys for different boxes, so \nthat a person can't open someone else's box.\ufeff", 
+            "author": "dan richard"
+        }, 
+        {
+            "date": "2015-02-09T15:28:27.152Z", 
+            "text": "Keeping with the keys analogy that would mean if I stole your key or made a \ncopy, I would always be able to read your box. This way, whether they steal \nthe lock or not, it doesn't matter and you can't read anyone's box. Also, \nsending out the same lock to everyone is much easier than creating \nindividual keys that would also give additional information as to the banks \nmaster key.", 
+            "author": "TheRHITLegend"
+        }, 
+        {
+            "date": "2014-12-16T13:39:01.368Z", 
+            "text": "Because someone can steal that key as well as the box", 
+            "author": "MrJuppia"
+        }, 
+        {
+            "date": "2014-12-07T09:30:10.083Z", 
+            "text": "It's not about boxes, it's about the computer sending a message to the bank \nwhen you make a purchase with their card.", 
+            "author": "Jose Ramirez"
+        }, 
+        {
+            "date": "2014-10-15T17:12:46.760Z", 
+            "text": "Well, how are they supposed to send out keys? Keys are just a number, so if \nyou track the network traffic of a pc, you can easily get that number \nwithout the user even knowing. Then two people would have the key and that \nis obviously very insecure.", 
+            "author": "xXIkaron"
+        }, 
+        {
+            "date": "2014-10-10T20:39:17.733Z", 
+            "text": "In context of the metaphor:\nReason 1 - $$$:\nA Bank usually has too many customers, so producing a different key for \neach customer coasts a lot.\nReason 2 - Security:\nImagine someone steals a key just like mentioned in the video. The thief \ncould open all boxes a person possess. \nOr imagine someone loses a key. Same thing here.\nNow imagine both scenarios with a pad lock. There is no danger what so \never. If someone finds / steals a pad lock, they are just as powerful as \nthey were before.\nThough the bank only got the key to unlock a pad lock, you can abuse it.", 
+            "author": "Daniel Hitzel"
+        }, 
+        {
+            "date": "2014-10-06T15:40:36.465Z", 
+            "text": "For real keys: because that means the bank must makes thousands of key and \nkeep thousands of keys themselves, carefuly tracking which key belongs to \nwho. It must also design a system so keys don't get stolen from people's \nmailboxes.\n\nFor internet cypher keys: the problem is how to get the key from the bank \nto the client safely. The problem is that copying is so easy. If the bank \nsends a \"padlock\" to the client, anyone can copy the padlock, but it will \nbe of no use to them. If the bank were to send a key, anyone could copy the \nkey, and open up the secrets locked away with that key. A system of \ncertificates allow the clients to verify they have received the correct \npadlock. This is the cleverness of the system: everyone can encrypt, but \nonly the bank can decrypt", 
+            "author": "antalz"
+        }, 
+        {
+            "date": "2014-10-02T03:42:31.497Z", 
+            "text": "Then the bank would have to keep a copy of the key used to unlock each and \nevery box.", 
+            "author": "JakeSquiz"
+        }, 
+        {
+            "date": "2014-09-26T21:38:46.832Z", 
+            "text": "You'd have to come up with a way to send the key to the user. If someone \nintercepts the key, that someone can also intercept the box, take a look at \nwhat's inside using the key and send it to the bank without anyone noticing \n:O.", 
+            "author": "9Diet5Pepsi"
+        }, 
+        {
+            "date": "2014-09-20T03:05:12.169Z", 
+            "text": "Well his metaphor was talking about physical objects, but on the net, \nthey'd have to transmit the secret key to you first, which makes it \nvulnerable to interception, or theft, and you'd never know your security \nwas compromised. That is symmetric key encryption, where there is one \nsecret key for encrypting and decrypting. It's used in plenty of places but \nit's problematic on the net. RSA is a type of asymmetric key encryption, \nwhere two different keys are used for encrypting and decrypting. It has two \nbenefits. I can send you data only you can read by using your public key to \nencrypt and you have a private key to decrypt. Additionally, I can verify a \nmessage came specifically from you if you encrypt it with your secret key, \nbecause only your public key can decrypt it then.", 
+            "author": "Arkalius80"
+        }, 
+        {
+            "date": "2014-09-13T00:04:38.920Z", 
+            "text": "why do you want to send a secret to the bank?\ufeff", 
+            "author": "dan richard"
+        }, 
+        {
+            "date": "2015-01-07T23:51:03.866Z", 
+            "text": "trusting the bank with no rational reason is the basis of modern society! \nOBEY!", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-10-26T13:36:23.230Z", 
+            "text": "Credit Card Number, Social Security Number, NIP, addresses, name is not \npersonal info for you?", 
+            "author": "AnavrinSM64"
+        }, 
+        {
+            "date": "2014-10-13T02:27:33.807Z", 
+            "text": "You want to send private purchase info", 
+            "author": "Levi Willrich"
+        }, 
+        {
+            "date": "2014-08-20T18:36:26.930Z", 
+            "text": "All encryption is completely useless is your password is something like \n\"CHEESE\" haha.\ufeff", 
+            "author": "Richard Uninstallman"
+        }, 
+        {
+            "date": "2014-07-23T18:37:08.729Z", 
+            "text": "So if it takes a big computer a very long time to break it.... How long \nwould it take for thousands of regular computers to break it? \ufeff", 
+            "author": "John Smith"
+        }, 
+        {
+            "date": "2015-01-07T23:49:12.530Z", 
+            "text": "( regular_size*1000 / big ) * very_long ;-)\n\nsince the only known way to factor a number is a brute force search (i.e. \ntrying to multiply primes together to see if it's that value, or dividing \nthe number by primes to see if you only end up with primes, or some other \nmethod that basically adds up to the same general logic), you just have the \ndifferent computers try different prime factors, but in the end it's the \nsame amount of computation time.\n\nsee http://en.wikipedia.org/wiki/Computational_complexity_theory", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-10-28T15:16:56.505Z", 
+            "text": "I thought the same thing. What if a worm virus were to attempt breaking a \npublic key.", 
+            "author": "Simon Yates"
+        }, 
+        {
+            "date": "2014-10-24T01:02:09.209Z", 
+            "text": "Lol I feel uneducated. Thank you for clearing that up, though.", 
+            "author": "John Smith"
+        }, 
+        {
+            "date": "2014-10-10T20:54:12.997Z", 
+            "text": "same.\neven hundred of thousands regular computers will not be faster. This has to \ndo with the way the problem is solvable. If you just try any possible \nsolution on a 2^2048 number, the counting of particles in our universe is \nfaster..\nSpeaking of universe - a quantum computer may take just minutes / hours.", 
+            "author": "Daniel Hitzel"
+        }, 
+        {
+            "date": "2014-10-10T00:00:46.631Z", 
+            "text": "Thanks dude", 
+            "author": "John Smith"
+        }, 
+        {
+            "date": "2014-10-06T15:47:06.166Z", 
+            "text": "Their \"big computer\" is really just thousands of regular computers working \ntogether", 
+            "author": "antalz"
+        }, 
+        {
+            "date": "2014-07-22T22:17:23.548Z", 
+            "text": "how is this supposed to work with numbers bigger than 9? modulo of any \nnumber bigger is still lower than 10. Doing this with \"hello\" for example \ngives \"hebbe\".\nalso, how did you pick the first and last 3?\ufeff", 
+            "author": "Andreas Larsen"
+        }, 
+        {
+            "date": "2015-01-07T23:45:29.609Z", 
+            "text": "it doesn't, in practice the modulu n is much bigger, and has to be bigger \nthan the integers being encoded, or like you noticed data is corrupted\n\nsee http://en.wikipedia.org/wiki/RSA_(cryptosystem)#Operation which \nexplains how to pick the values for the exponents but basically it's to \nsatisfy the equation x^(a+b) % n = x\n\nalso, in reality RSA is only used to encode a random key for a symmetric \ncipher, not the actual encrypted message itself ", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-10-13T18:49:27.025Z", 
+            "text": "Then you need bigger primes.\nTry using y = x^7 mod 33 to encode your example, and x = x^3 mod 33 to \ndecode.\n(Of course, normally you wouldn't know that the power 3 is needed to \ndecode...)", 
+            "author": "Dave Langers"
+        }, 
+        {
+            "date": "2014-10-10T20:50:43.575Z", 
+            "text": "Of course the modulo value differs with different primes.\nBigger primes ==> bigger modulo.", 
+            "author": "Daniel Hitzel"
+        }, 
+        {
+            "date": "2014-09-14T00:57:57.381Z", 
+            "text": "Indeed, it wouldn't work with more than 10 letters (10 is fine as 10 is \nequivalent 2 0 (mod10) & no smaller natural number is). It is a very \nsimplified example, n would b a lot bigger than 10. The answer 2 Your 2nd \nquestion is: The 1st 3 is a (random) number that is relatively prime 2 both \nthe original primes (3 has no common divisors with neither 2 nor 5). The \n2nd 3 is the 'inverse' element of (the 1st) 3 in the Z\u03c6(10) ring, \u03c6(10) \nbeing 4 (Euler function) & the Z4 ring... sumthing U'll have 2 read about \n:-) ('remainder classes' r the keywords)", 
+            "author": "Basil Dwight"
+        }, 
+        {
+            "date": "2014-07-11T13:06:37.278Z", 
+            "text": "\"I <3 Encryption\" I want that t-shirt.\ufeff", 
+            "author": "KFGdemy"
+        }, 
+        {
+            "date": "2015-05-07T21:15:01.112Z", 
+            "text": "Turning each letter into a gap helps\nI=9\nL=12\n(I+L)%26+1=21=V\nSo we get our next letter: IV\nif we go on, \"I love encryption\" reads as follows:\nI VJEJ OCFXWLENCQ!\nThere.", 
+            "author": "Dragon59095"
+        }, 
+        {
+            "date": "2015-04-24T18:38:35.339Z", 
+            "text": "I want that shirt encrypted so that only I could read it!", 
+            "author": "Anduril"
+        }, 
+        {
+            "date": "2015-02-12T19:23:14.171Z", 
+            "text": "You might like this t-shirt: http://www.cypherspace.org/adam/shirt/", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-07-25T17:21:55.930Z", 
+            "text": "The T shirt should read : 6784448;_@995776599:_!", 
+            "author": "Dean Thorton"
+        }, 
+        {
+            "date": "2014-07-06T03:34:12.014Z", 
+            "text": "Good thing my computer does this for me otherwise I would never buy \nanything online.\ufeff", 
+            "author": "Kaylynnlove"
+        }, 
+        {
+            "date": "2014-07-05T14:04:59.381Z", 
+            "text": "", 
+            "author": "Catalin Istratoiu"
+        }, 
+        {
+            "date": "2014-07-05T07:35:38.464Z", 
+            "text": "itw way to much amazing. :) very happy t6o discover this math channel.\nmath always rocked my life and always will.:)\ufeff", 
+            "author": "RAJAT KANTI Bhattacharjee"
+        }, 
+        {
+            "date": "2014-06-02T15:51:47.404Z", 
+            "text": "How does that example worth with letters like J, which have no remainder?\ufeff", 
+            "author": "AHotLlama"
+        }, 
+        {
+            "date": "2015-01-07T23:41:21.745Z", 
+            "text": "This is an artificial example. In reality, RSA is used to encrypt a key for \na symmetric cipher, which is used to encrypt the actual file/text.\n\nthe modulu n has to be bigger than the integer being encypted (like you \nnoticed you can't recover back a message value bigger than the modulu, you \ncould guess that it's J or it would be the digit 0 which in the example \ndoesn't decode to a letter)\n\nthere are also further constraints on the integer being encrypted, see \nhttp://en.wikipedia.org/wiki/RSA_(cryptosystem)#Padding", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-10-13T18:54:22.298Z", 
+            "text": "Then you need bigger primes; the message cannot contain characters as big \nas the modulo-number.\nTry using f(x) = x^7 mod 33 to encode your example, and g(x) = x^3 mod 33 \nto decode (the J is a boring example, because it remains a J; but try an M).\nOf course, normally you wouldn't know that the power 3 is needed to \ndecode...)", 
+            "author": "Dave Langers"
+        }, 
+        {
+            "date": "2014-10-13T02:26:58.317Z", 
+            "text": "remainder is 0", 
+            "author": "Levi Willrich"
+        }, 
+        {
+            "date": "2014-08-06T03:51:08.678Z", 
+            "text": "they don't use 10", 
+            "author": "x33Calyce"
+        }, 
+        {
+            "date": "2014-08-04T07:13:41.867Z", 
+            "text": "0", 
+            "author": "drunkmarshmelo"
+        }, 
+        {
+            "date": "2014-07-23T10:23:22.316Z", 
+            "text": "The reminder would be 0 and you put it in the code as such.", 
+            "author": "Frederic Schneider"
+        }, 
+        {
+            "date": "2014-07-22T21:34:24.987Z", 
+            "text": "the remainder is 0", 
+            "author": "Joshua Rombauer"
+        }, 
+        {
+            "date": "2014-07-08T21:55:53.196Z", 
+            "text": "The number used for the modulo is greater than the highest encoded value. \n His example with using 10 worked because none of the encoded values was \ngreater than 10.", 
+            "author": "stellarfirefly"
+        }, 
+        {
+            "date": "2014-06-29T11:52:28.009Z", 
+            "text": "Our modulus consists of two primes, 2 & 5 in this case, J is 10 which is >= \nn, therefore it won't work. You're limited to 0-9 in this case.", 
+            "author": "hl2mukkel"
+        }, 
+        {
+            "date": "2014-04-07T00:36:21.586Z", 
+            "text": "@ 4:10\n\"there is a formula to work out the secret number, I'm going to gloss over \nthat for a second\"\n\nSo, how to you work out the secret number?\n \ufeff", 
+            "author": "gauss truth"
+        }, 
+        {
+            "date": "2015-02-24T15:56:18.939Z", 
+            "text": "The RSA functions this way:\n\nYou take modulus n = p*q, where p and q are primes,\nand then you need 2 numbers, e and d which will have the following function:\n\nEncryption: Coded_Message = Message^e mod n\nDecryption: Message = Coded_Message^d mod n\n\nThe 2 public ones are \"e\" and \"n\", and the private one is \"d\".\n\nTo find \"d\" with modern technology is impossible, because you have to \neliminate all cases where a random \"d\" <<decrypts>> the message some way, \nand you have to work out whether your discovery has a meaning, because \nthere are many outcomes for each single \"d\", but they work make any sense. \nThat is why RSA is so far a good method of encryption. Ofc, when computers \nare much faster, they will be able to find a nowadays key, but until then, \nsecurity will have evolved as well.", 
+            "author": "1spiceatatime"
+        }, 
+        {
+            "date": "2014-12-07T09:31:13.035Z", 
+            "text": "Yeah. He never did.", 
+            "author": "Jose Ramirez"
+        }, 
+        {
+            "date": "2014-10-26T13:42:40.858Z", 
+            "text": "@ 5:14\nYou factorize the public modulus, which is very hard.", 
+            "author": "AnavrinSM64"
+        }, 
+        {
+            "date": "2014-07-22T21:46:06.566Z", 
+            "text": "assume u have the public key n = 10 = p * q with p and q prime, c = 3 like \nin the video.\n\nyou then can calculate phi(n) (euler phi function) which is phi(10) = (p - \n1)*(q - 1) = (2 - 1)(5 - 1) = 4 (this is the really hard part since u \ncannot easily get the 2 prime factors of the huge numbers.)\n\nthe private key d is then the inverse of c in the multiplicative cyclic \ngroup Z mod 4.", 
+            "author": "Joshua Rombauer"
+        }, 
+        {
+            "date": "2014-06-29T11:50:13.907Z", 
+            "text": "It's the extended euclidean algorithm", 
+            "author": "hl2mukkel"
+        }, 
+        {
+            "date": "2014-04-01T20:14:09.832Z", 
+            "text": "This kind of encryption is used in HTTPS (or better, SSL) but it doesn't \nmake a site that uses a longer key inherently safer. HTTPS is essentially \nonly there to make sure some guy on your wifi network can't intercept your \ntraffic, but it does nothing to protect against bugs on the actual site \nwhich are far easier to exploit and are just as effective\ufeff", 
+            "author": "Andriy Shevchenko"
+        }, 
+        {
+            "date": "2014-03-31T09:56:06.274Z", 
+            "text": "what is that mean, 2048 bits key nearly = 2^2048?\ufeff", 
+            "author": "Tony Li"
+        }, 
+        {
+            "date": "2014-10-15T17:34:23.328Z", 
+            "text": "It means that the RSA modulus is probably a number between 2^2047 and \n2^2048.", 
+            "author": "xXIkaron"
+        }, 
+        {
+            "date": "2014-10-06T15:46:31.380Z", 
+            "text": "If you have a 2048-digit binary number, and the first digit in that number \nis 1, then that number is greater than or equal to 2^2047, in practice \nclose to 2^2048. And yes, this large number, about 600 digits long in base \n10, is the RSA modulus, so where the video used \"power 3\" and \"remainder of \n10\", a real RSA setup would use \"power 65.537\" and \"remainder of (enormous \nnumber)\"", 
+            "author": "antalz"
+        }, 
+        {
+            "date": "2014-08-04T16:02:53.789Z", 
+            "text": "+Tony Li bits are binary, either one or zero. Each bit having two options, \nyou take that two and raise it to the number of bits. That number is how \nmany possible combinations you now have. 2048 bits have 2^2048 possible \nvalues.", 
+            "author": "Kyle Bishop"
+        }, 
+        {
+            "date": "2014-06-29T11:50:21.253Z", 
+            "text": "+Tony Li Yes, that's the size of the modulus", 
+            "author": "hl2mukkel"
+        }, 
+        {
+            "date": "2014-04-08T03:01:42.123Z", 
+            "text": "don't mention it, the internet was created for sharing knowledge wasn't it.", 
+            "author": "mark keily"
+        }, 
+        {
+            "date": "2014-04-08T01:12:09.711Z", 
+            "text": "thanks, mark", 
+            "author": "Tony Li"
+        }, 
+        {
+            "date": "2014-04-07T21:15:00.655Z", 
+            "text": "2^n is the formula to find how large a number can be stored in n amount of \nbits.\nits basically the computer equivalent of saying a number is x digits long", 
+            "author": "mark keily"
+        }, 
+        {
+            "date": "2014-03-31T10:37:31.050Z", 
+            "text": "2^2048 is the RSA modulus o.O?", 
+            "author": "Tony Li"
+        }, 
+        {
+            "date": "2014-03-25T12:48:32.271Z", 
+            "text": "Google just announced updates to their security of gmail, does anyone know \nif that means they bumped it to 2048 bit?\ufeff", 
+            "author": "nerhu59"
+        }, 
+        {
+            "date": "2015-02-13T00:34:09.654Z", 
+            "text": "Thanks for the additional explanation. Always welcome.", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-02-13T00:42:14.000Z", 
+            "text": "+RenanzinhoSP FWIW that's true of almost everything in cryptography... it's \nlike an arms race between the known knowns and the known unknowns of \nmathematics =) quantum cryptography is unique in this respect\n\nAlso, there are also practical tests for primality that don't get false \nnegatives (and also some that are probabilistic, some that produce false \npositives, some that assume the Riemann hypothesis, etc etc). Exhaustively \nfailing to factor a prime is the most basic way and it is 100% reliable and \nindeed would take a very long time, but for example OpenSSL (google \nBN_generate_prime) relies on probabilistic tests so that the chance of a \nfalse positive (finding a \"prime\" that isn't really prime and using it when \ngenerating a key) is tiny but still nonzero.\n\nHowever, to factor the key into a product of the two primes that compose it \nyou really do need to do a *LOT* more work (in the order of cosmological \ntime even for modest key size) than the work to check that a large number \nis prime (in the order of seconds), there's no way of taking chances, \neither you've got those two numbers (well, you only need to find one of \nthem) or you don't.\n\np.s. sorry for replying twice in two different threads, i reread what you \nsaid and I think this response is a little more meaningful ;-)", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-29T22:15:40.564Z", 
+            "text": "I did some research, got some help (inStar-chan !) and I think I got the \nanswer to why 2^57885161-1 is \"easily\" proved prime while smaller primes \nstill too difficult to be factored.\n\nBecause 1024 bit RSA numbers are completely general; the algorithms that \ncreate keys have been built to avoid kinds of numbers that are \ncomputationally easier to factor.\nMersenne primes (like 2^57885161-1)  can be found with a fast algorithm \ndesigned specifically for those kinds of numbers (search for Lucas-Lehmer \nprimality test) and the formula for the algorithm is specifically why all \nlargest prime numbers have been Mersenne primes since; it's ridiculously \neasier to prove a Mersenne number prime than any other kind of number known \nby the mathematical community today.\ufeff\n\nMersenne primes are found using the following theorem (Lucas-Lehmer Test): \nFor p an odd prime, the Mersenne number 2p-1 is prime if and only if 2p-1 \ndivides S(p-1) where S(n+1) = S(n)2-2, and S(1) = 4.\n\nTesting the Lucas-Lehmer Test is MUCH easier than factoring the number, but \nit has the downside of ignoring lots of legit primes on the list. Since the \nprimes on a cryptography key have nothing to do with Mersenne numbers the \nLucas-Lehmer Test does not help it in any way.\n\nThe security of a 1024 bit key relies on the hope that there are no KNOWN \ntests that can work as an alternative to the boring and computational \nexpensive factorization process.", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-27T19:19:55.671Z", 
+            "text": "1) I thought that finding a random prime implies that you actually proved \nthat the number is prime by FACTORING IT.\n2) I thought that the only way to broke a key would be FACTORING IT.\n\nSo shouldn't \"1\" and \"2\" take similar computer effort?\nIf so, why \"1\" is easy (every now and then gigantic primes are found) and \n\"2\" is difficult (even for small keys like a 1024 bit key, generated with \ntwo 512 bit primes)?", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-27T10:05:30.280Z", 
+            "text": "a personal computer can find a random prime of that magnitude pretty \nquickly... the problem is finding the right ones, there are very many of \nthem", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2015-01-27T02:58:54.749Z", 
+            "text": "I still don't understand one thing: If supercomputers are capable of \nfinding primes MUCH bigger than those used in cryptography why would be \ndifficult for those computers to find the primes of a 1024 bits key? For \nexample: in 2013 was found that 2^57885161-1 is prime and that number is \nhuge (17,425,170 digits), much bigger than the primes used in cryptography, \nwhich are about 2^1024. (\"only\" 308 digits). I am confused.", 
+            "author": "RenanzinhoSP"
+        }, 
+        {
+            "date": "2015-01-07T23:58:23.000Z", 
+            "text": "to find out, click the lock by the https, click connection, certificate \ninformation, \"Google Internet Authority G2\", and under the details you'll \nsee that the bit size (short answer yes).\n\nHowever, technically that's not what happens, if I remember correctly \nthat's only used to sign the certificate that is actually used (a DSA, not \nRSA, totally different based on different math) to exchange the session key \n(which is just random, and used for a symmetric cipher for the duration of \nthe secure connection)", 
+            "author": "foobargorch"
+        }, 
+        {
+            "date": "2014-07-22T17:05:32.159Z", 
+            "text": "The changed over last year (August, I think). Everyone should be using 2048 \nby now, since 1024 is officially deprecated.", 
+            "author": "Ben Rowe"
+        }, 
+        {
+            "date": "2014-03-14T16:37:35.648Z", 
+            "text": "\"Did I get that...?\"  No - go ahead and repeat that.  o:\ufeff", 
+            "author": "Eric Johannson"
+        }, 
+        {
+            "date": "2014-07-03T13:35:07.529Z", 
+            "text": "Not that we'll listen, but it'll fun to make him repeat it. ;D", 
+            "author": "Valsion Zeta"
+        }, 
+        {
+            "date": "2014-03-14T12:39:43.809Z", 
+            "text": "These guys look like a pair of extremely smart ducks.\ufeff", 
+            "author": "grenupurbutt321"
+        }, 
+        {
+            "date": "2014-03-14T08:02:01.401Z", 
+            "text": "Mc frontalots 'Secrets from the future' comes to mind here, especially his \nremark about a childs speak and spell cracking this times code.\ufeff", 
+            "author": "Nebonit"
+        }, 
+        {
+            "date": "2014-03-12T05:12:31.344Z", 
+            "text": "Thank you!\ufeff", 
+            "author": "Kholoud Creed"
+        }, 
+        {
+            "date": "2014-02-24T18:04:55.637Z", 
+            "text": "+FFS2309 You do realise C and C++ are both high level programming \nlanguages.\ufeff", 
+            "author": "Michael Petith"
+        }, 
+        {
+            "date": "2014-03-18T01:44:19.748Z", 
+            "text": "+hadesflames\nstill learning a bit more about C, but i thought it was much like C++. \nThanks for the heads up though!", 
+            "author": "Michael Petith"
+        }, 
+        {
+            "date": "2014-03-17T04:24:49.872Z", 
+            "text": "Not quite...C++ is definitely high level, but C...not necessarily. You can \nwrite C code that doesn't depend on any interpretation, so in that sense, C \ncan be a low level language. In fact, this is why things like kernels (i.e. \n*nix kernels) are written in C.", 
+            "author": "hadesflames"
+        }, 
+        {
+            "date": "2014-03-10T02:18:24.086Z", 
+            "text": "I was somewhat aware of this, but thank you for the correction!", 
+            "author": "Michael Petith"
+        }, 
+        {
+            "date": "2014-03-08T01:37:43.948Z", 
+            "text": "C is lower level than C++, giving you more access to hardware. This is \nevident in that you can program C inside of C++ in case you need to do \nsomething in a more efficient way, sacrificing coding efficiency. this is \nat least to the best of my knowledge, I'm not well aquianted with C. afaik, \nC is much nearer to assembly than C++.", 
+            "author": "Sam M"
+        }, 
+        {
+            "date": "2014-02-23T13:31:49.962Z", 
+            "text": "I just saw a conference about this a few days ago. It's really unnerving \nnow how many sites still use the 1024 bit encryption O.o\ufeff", 
+            "author": "TheNintendoBros12"
+        }, 
+        {
+            "date": "2014-07-18T20:33:07.279Z", 
+            "text": "My web server's public key is 8192 bits long.", 
+            "author": "soundspark"
+        }, 
+        {
+            "date": "2014-07-08T21:59:10.289Z", 
+            "text": "Some arbitrary 1024-bit encryption will still require a very long time to \ncrack, even with current (July 2014) technology.  But yes, people will want \nto \"upgrade\" eventually, and they may as well do it sooner rather than \nlater.", 
+            "author": "stellarfirefly"
+        }, 
+        {
+            "date": "2014-01-12T21:36:43.654Z", 
+            "text": "i wonder what will happen when this is proven \nhttp://en.tengrinews.kz/science/Kazakhstan-citizen-claims-solving-Riemann-hypothesis-18430/\n\ufeff", 
+            "author": "Jos\u00e9 Coix\u00e3o"
+        }, 
+        {
+            "date": "2013-11-06T05:02:12.117Z", 
+            "text": "5-2 = 3", 
+            "author": "VenomEater"
+        }, 
+        {
+            "date": "2013-11-04T22:25:26.593Z", 
+            "text": "Low level programming languages can like C/C++ but you have to write \ndirectly into the memory but you're right normal integers can't store \nnumbers that length but what with hexadecimal ? You can think about it ;)", 
+            "author": "FFS2309"
+        }, 
+        {
+            "date": "2013-11-04T02:33:46.539Z", 
+            "text": "You can't store numbers that large in a raw integer in low level \nprogramming languages. You'll need a library capable of handling complex \nmathematics. Higher level languages like Python include tools for handling \nthis out of the box, up to a point. For a brief introduction, the wiki page \nentitled \"Arbitrary-precision arithmetic\" gives a very basic run down on \nBignums as their referred to. It's a non-issue for experienced programmers \nwith the proper API. Computerphile should do an episode on it.", 
+            "author": "Jarred Leverton"
+        }, 
+        {
+            "date": "2013-11-04T01:58:30.707Z", 
+            "text": "but computers can't store numbers that big in memory is what I'm saying - \nafter watching this video I tried to make a simplified encrypter/decrypter, \nbut using the integer type you can only have numbers up to ~2 million and \neven with doubles it only goes up to ~16 million with enough accuracy for \nthese equations.", 
+            "author": "rainbowevil"
+        }, 
+        {
+            "date": "2013-11-03T00:25:13.382Z", 
+            "text": "Because computers are really good at math. You see, basic processes like X \nto the power of Y are really simple, capable of being done nearly instantly \non anything but the largest of numbers. The security comes in that reverse \nengineering the answer to get the question is MUCH more labor intensive, \nrequiring exponentially more calculations the longer the number. So \ncreating a key is easy. Figuring out what numbers some one else used to \nmake a key is a nightmare.", 
+            "author": "Jarred Leverton"
+        }, 
+        {
+            "date": "2013-11-01T09:05:02.513Z", 
+            "text": "Best thumbnail ever. ", 
+            "author": "Thezuule1"
+        }, 
+        {
+            "date": "2013-11-01T05:34:09.760Z", 
+            "text": "http://youtu.be/M7kEpw1tn50\ufeff", 
+            "author": "Timothy McDonald"
+        }, 
+        {
+            "date": "2013-11-01T05:34:57.050Z", 
+            "text": "The best spoon fed explanation of public key encryption I have come across.", 
+            "author": "Timothy McDonald"
+        }, 
+        {
+            "date": "2013-11-01T03:08:11.342Z", 
+            "text": "I thought I had shared this in the past, but didn't see it in my profile. \nIts the best spoon fed explanation of public key encryption that I have \ncome across.\ufeff", 
+            "author": "tmcdon4ld"
+        }, 
+        {
+            "date": "2013-10-31T21:35:23.053Z", 
+            "text": "how does a computer raise any number to the power of a gigantic number like \nthat? Or am I missing something...", 
+            "author": "rainbowevil"
+        }, 
+        {
+            "date": "2013-10-31T15:15:26.200Z", 
+            "text": "Where exactly can I find the Public Keys stored on my pc?", 
+            "author": "Felix Wagner"
+        }, 
+        {
+            "date": "2013-10-28T10:21:19.733Z", 
+            "text": "Can I recommend a book? Digital fortress (Dan Brown).", 
+            "author": "Iron2Man911"
+        }, 
+        {
+            "date": "2013-10-28T10:11:49.445Z", 
+            "text": "The simplest most concise explanation of RSA and public key encryption I \nhave come across.\ufeff", 
+            "author": "tmcdon4ld"
+        }, 
+        {
+            "date": "2013-10-26T18:52:53.311Z", 
+            "text": "If I remember well : take your two prime integers p and q (2 and 5 here) \nand compute phi=(p-1)(q-1) (it gives 4 in our example). Your exponent e has \nto be chosen to be less than phi and coprime with phi (that is, e and phi \ncannot be divided by the same number greater than 1 and both give integer \nresults). Here, only 1 or 3 could be chosen, as 2 and 4 are not coprime \n(they can both be divided by 2).", 
+            "author": "Docteur Zeuhl"
+        }, 
+        {
+            "date": "2013-10-26T05:28:07.116Z", 
+            "text": "Also, for your wireless devices, always use WPA2, because WEP can be \ncracked in seconds. And never use bluetooth, because they can easily break \ninto it and steal data. And if your car has bluetooth, they can control \nyour vehicle.", 
+            "author": "lordkango"
+        }, 
+        {
+            "date": "2013-10-26T05:25:42.099Z", 
+            "text": "This technique is for encrypting blocks of data. For passwords and PIN \nnumbers, you hash them (basically taking everything and putting it into one \nnumber). so every time you purchase with a credit/debit card, you send your \nhash to your bank, which reads if the hash values are the same. so if where \nyou are buying from, or the atm has weak hashing algorithm (MD4,MD5,SHA1), \nhackers can get your information within minutes. so always be careful.", 
+            "author": "lordkango"
+        }, 
+        {
+            "date": "2013-10-26T05:17:01.674Z", 
+            "text": "for those wondering, you never use the private key to encrypt. in pki, you \nhave your message and an open session to who you are sending to. you \nencrypt the message with the person's public key, and generate a hash with \nyour private key. you then put both in a digital envelope and encrypt that \nwith the session key. The person then decrypts the envelope with your \npublic key, the message with their private key. the hashof your private key \nis for integrity and nonrepudiation.", 
+            "author": "lordkango"
+        }, 
+        {
+            "date": "2013-10-24T17:11:20.327Z", 
+            "text": "he didn't. 2, 3, and 5 are prime. he was just picking low prime numbers as \nan example", 
+            "author": "MrPoptart Hammerer"
+        }, 
+        {
+            "date": "2013-10-24T14:47:26.579Z", 
+            "text": "i love the numberphile fanbase :) thanks", 
+            "author": "Bla365"
+        }, 
+        {
+            "date": "2013-10-23T22:54:11.952Z", 
+            "text": "move the x to + same thing, just move it a little O.o (sorry had to say \nsomething stupid)", 
+            "author": "Julio Morales"
+        }, 
+        {
+            "date": "2013-10-23T22:38:59.663Z", 
+            "text": "Using \"10\" for the divide-by-and-take-remainder number only works for a \n10-letter alphabet. To encode English text this way you'd need bigger \nnumbers than \"3\" and \"10\". And in reality, that's what they do. He chose \nsmall numbers to show how the process works without having to do heinous \ncalculations. ", 
+            "author": "theRealPlaidRabbit"
+        }, 
+        {
+            "date": "2013-10-22T14:39:26.281Z", 
+            "text": "I have a problem, if the letter is for example T, it won't work for me. \ncube=8000 remainder=0, so the code is 0. cube=0 remainder=0 while it should \nend up with 20. This really annoys me, so can someone please explain what i \ndid wrong? :)", 
+            "author": "Bla365"
+        }, 
+        {
+            "date": "2013-10-18T01:52:41.087Z", 
+            "text": "cool cool! Now Im gonna make a 1,024 core computer, built and running a \nprimitive command line OS designed to break 2048 bit RSA keys.", 
+            "author": "Patrick Jackson"
+        }, 
+        {
+            "date": "2013-10-15T15:30:25.079Z", 
+            "text": "This is a different type of encryption online: watch?v=dAGk11nwjQg", 
+            "author": "en-crypt.net"
+        }, 
+        {
+            "date": "2013-10-13T14:46:22.435Z", 
+            "text": "Am I the only one who clicks on every grimace he sees on thumbnails?", 
+            "author": "Ideeem"
+        }, 
+        {
+            "date": "2013-10-11T01:29:23.697Z", 
+            "text": "He kinda did. 2^5-2 = 30 = 3 * 10", 
+            "author": "lumer2b"
+        }, 
+        {
+            "date": "2013-10-09T16:49:05.615Z", 
+            "text": "I feel it's worth mentioning that Google now uses 2048-bit encryption for \nall its services. Additionally, Google also uses a technology called \nPerfect Forward Secrecy to make it even more difficult for third parties to \ndecrypt your information. However, this means nothing if Google is forced \nto give up their private key.", 
+            "author": "deadeye536"
+        }, 
+        {
+            "date": "2013-10-09T16:02:43.460Z", 
+            "text": "Yeah, he said it at the end, it's about 65000.", 
+            "author": "xway2"
+        }, 
+        {
+            "date": "2013-10-08T21:46:24.065Z", 
+            "text": "H/T: +Marshall May \ufeff", 
+            "author": "Cory May"
+        }, 
+        {
+            "date": "2013-10-08T13:26:33.942Z", 
+            "text": "no...", 
+            "author": "Nero"
+        }, 
+        {
+            "date": "2013-10-07T22:58:51.885Z", 
+            "text": "How encryption does work, simply explained.", 
+            "author": "Gerd Riesselmann"
+        }, 
+        {
+            "date": "2013-10-07T12:38:22.668Z", 
+            "text": "This would be intresting if they managed to use the new kwantum Systems to \nreverse it, im eager to see this actually. ", 
+            "author": "UBARRET"
+        }, 
+        {
+            "date": "2013-10-07T00:18:32.801Z", 
+            "text": "The NSA have broken 1024 recently.", 
+            "author": "Bacon Sauce"
+        }, 
+        {
+            "date": "2013-10-06T15:48:36.000Z", 
+            "text": "simple explanation :))  +Numberphile \ufeff", 
+            "author": "Ciro S. Costa"
+        }, 
+        {
+            "date": "2013-10-06T11:02:54.474Z", 
+            "text": "", 
+            "author": "Duraid \u201cMeh.\u201d Issa"
+        }, 
+        {
+            "date": "2013-10-06T12:34:22.649Z", 
+            "text": "Best (simplest) explanation I came across so far. Nice.", 
+            "author": "z\u0287\u0131\u0279\u2132 \u02d9\u1d1a"
+        }, 
+        {
+            "date": "2013-10-06T08:44:15.676Z", 
+            "text": "Am I the only guy who's worried that the NatWest public key begins \n\"2345(-)67\"?", 
+            "author": "PopeLando"
+        }, 
+        {
+            "date": "2013-10-05T05:55:55.581Z", 
+            "text": "Animation by Drewmo? pretty snazzy", 
+            "author": "mr1337357"
+        }, 
+        {
+            "date": "2013-10-04T16:48:15.705Z", 
+            "text": "I don't really get it. how do you get to the secret number 3? you say you \nneed to find 2x5, but what has 2x5 to do with the 3?", 
+            "author": "RovakX"
+        }, 
+        {
+            "date": "2013-10-01T23:12:04.047Z", 
+            "text": "Oh so, the power you raise by is quite large, not a low number like 3?", 
+            "author": "TankzOnline"
+        }, 
+        {
+            "date": "2013-09-28T22:37:19.687Z", 
+            "text": "The first number is also massively huge.So the number you are dividing by \nwill always be higher if it uses a power.", 
+            "author": "Daniel Astbury"
+        }, 
+        {
+            "date": "2013-09-27T18:34:40.488Z", 
+            "text": "Another problem you didn't explain the solution to is, The second public \nnumber (the product of 2 primes), in your example is 10, in actual use, \nthis value is huge, then dividing by such a huge number would always be 0 \nwith a remainder of the original number. i.e. 24 / \n81726318236817263817638176 = 0 remainder 24. Which doesn't work in the same \nway as your example.", 
+            "author": "TankzOnline"
+        }, 
+        {
+            "date": "2013-09-27T18:28:33.964Z", 
+            "text": "You didn't actually explain how you get the 3 from 2 x 5.", 
+            "author": "TankzOnline"
+        }
+    ]
+}

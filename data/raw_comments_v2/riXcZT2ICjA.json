@@ -1,0 +1,1981 @@
+{
+    "publish_date": "2011-05-19T14:58:59.000Z", 
+    "video_length": "PT11M32S", 
+    "captions": [
+        {
+            "text": "In this video, I want\nto familiarize you", 
+            "dur": "2.04", 
+            "start": "0.5"
+        }, 
+        {
+            "text": "with the idea of a limit, which\nis a super important idea.", 
+            "dur": "4.52", 
+            "start": "2.54"
+        }, 
+        {
+            "text": "It&#39;s really the idea that all\nof calculus is based upon.", 
+            "dur": "3.55", 
+            "start": "7.06"
+        }, 
+        {
+            "text": "But despite being\nso super important,", 
+            "dur": "2.547", 
+            "start": "10.61"
+        }, 
+        {
+            "text": "it&#39;s actually a really, really,\nreally, really, really, really", 
+            "dur": "2.583", 
+            "start": "13.157"
+        }, 
+        {
+            "text": "simple idea.", 
+            "dur": "1.61", 
+            "start": "15.74"
+        }, 
+        {
+            "text": "So let me draw a\nfunction here, actually,", 
+            "dur": "2.19", 
+            "start": "17.35"
+        }, 
+        {
+            "text": "let me define a function here,\na kind of a simple function.", 
+            "dur": "4.15", 
+            "start": "19.54"
+        }, 
+        {
+            "text": "So let&#39;s define f of x,\nlet&#39;s say that f of x", 
+            "dur": "3.77", 
+            "start": "23.69"
+        }, 
+        {
+            "text": "is going to be x minus\n1 over x minus 1.", 
+            "dur": "5.386", 
+            "start": "27.46"
+        }, 
+        {
+            "text": "And you might say,\nhey, Sal look,", 
+            "dur": "1.374", 
+            "start": "32.846"
+        }, 
+        {
+            "text": "I have the same thing in the\nnumerator and denominator.", 
+            "dur": "2.291", 
+            "start": "34.22"
+        }, 
+        {
+            "text": "If I have something\ndivided by itself,", 
+            "dur": "1.969", 
+            "start": "36.511"
+        }, 
+        {
+            "text": "that would just be equal to 1.", 
+            "dur": "1.25", 
+            "start": "38.48"
+        }, 
+        {
+            "text": "Can&#39;t I just simplify\nthis to f of x equals 1?", 
+            "dur": "2.47", 
+            "start": "39.73"
+        }, 
+        {
+            "text": "And I would say, well,\nyou&#39;re almost true,", 
+            "dur": "2.55", 
+            "start": "42.2"
+        }, 
+        {
+            "text": "the difference between\nf of x equals 1", 
+            "dur": "2.11", 
+            "start": "44.75"
+        }, 
+        {
+            "text": "and this thing right over here,\nis that this thing can never", 
+            "dur": "3.44", 
+            "start": "46.86"
+        }, 
+        {
+            "text": "equal-- this thing is\nundefined when x is equal to 1.", 
+            "dur": "3.9", 
+            "start": "50.3"
+        }, 
+        {
+            "text": "Because if you set,\nlet me define it.", 
+            "dur": "2.36", 
+            "start": "54.2"
+        }, 
+        {
+            "text": "Let me write it over\nhere, if you have f of,", 
+            "dur": "2.48", 
+            "start": "56.56"
+        }, 
+        {
+            "text": "sorry not f of 0, if you\nhave f of 1, what happens.", 
+            "dur": "3.61", 
+            "start": "59.04"
+        }, 
+        {
+            "text": "In the numerator,\nwe get 1 minus 1,", 
+            "dur": "1.949", 
+            "start": "62.65"
+        }, 
+        {
+            "text": "which is, let me just write\nit down, in the numerator,", 
+            "dur": "3.171", 
+            "start": "64.599"
+        }, 
+        {
+            "text": "you get 0.", 
+            "dur": "1.14", 
+            "start": "67.77"
+        }, 
+        {
+            "text": "And in the denominator, you\nget 1 minus 1, which is also 0.", 
+            "dur": "4.68", 
+            "start": "68.91"
+        }, 
+        {
+            "text": "And so anything divided by\n0, including 0 divided by 0,", 
+            "dur": "3.21", 
+            "start": "73.59"
+        }, 
+        {
+            "text": "this is undefined.", 
+            "dur": "0.75", 
+            "start": "76.8"
+        }, 
+        {
+            "text": "So you can make\nthe simplification.", 
+            "dur": "2.17", 
+            "start": "81.35"
+        }, 
+        {
+            "text": "You can say that this is you the\nsame thing as f of x is equal", 
+            "dur": "5.46", 
+            "start": "83.52"
+        }, 
+        {
+            "text": "to 1, but you would have to add\nthe constraint that x cannot be", 
+            "dur": "6.1", 
+            "start": "88.98"
+        }, 
+        {
+            "text": "equal to 1.", 
+            "dur": "1.26", 
+            "start": "95.08"
+        }, 
+        {
+            "text": "Now this and this\nare equivalent,", 
+            "dur": "1.85", 
+            "start": "96.34"
+        }, 
+        {
+            "text": "both of these are\ngoing to be equal to 1", 
+            "dur": "2.28", 
+            "start": "98.19"
+        }, 
+        {
+            "text": "for all other X&#39;s other\nthan one, but at x equals 1,", 
+            "dur": "4.35", 
+            "start": "100.47"
+        }, 
+        {
+            "text": "it becomes undefined.", 
+            "dur": "1.25", 
+            "start": "104.82"
+        }, 
+        {
+            "text": "This is undefined and\nthis one&#39;s undefined.", 
+            "dur": "2.7", 
+            "start": "106.07"
+        }, 
+        {
+            "text": "So how would I\ngraph this function.", 
+            "dur": "2.77", 
+            "start": "108.77"
+        }, 
+        {
+            "text": "So let me graph it.", 
+            "dur": "3.07", 
+            "start": "111.54"
+        }, 
+        {
+            "text": "So that, is my y is\nequal to f of x axis,", 
+            "dur": "4.52", 
+            "start": "114.61"
+        }, 
+        {
+            "text": "y is equal to f of x axis,\nand then this over here", 
+            "dur": "5.2", 
+            "start": "119.13"
+        }, 
+        {
+            "text": "is my x-axis.", 
+            "dur": "1.336", 
+            "start": "124.33"
+        }, 
+        {
+            "text": "And then let&#39;s say this is\nthe point x is equal to 1.", 
+            "dur": "3.26", 
+            "start": "129.68"
+        }, 
+        {
+            "text": "This over here would be\nx is equal to negative 1.", 
+            "dur": "5.38", 
+            "start": "132.94"
+        }, 
+        {
+            "text": "This is y is equal to 1, right\nup there I could do negative 1.", 
+            "dur": "3.82", 
+            "start": "138.32"
+        }, 
+        {
+            "text": "but that matter much relative to\nthis function right over here.", 
+            "dur": "3.29", 
+            "start": "142.14"
+        }, 
+        {
+            "text": "And let me graph it.", 
+            "dur": "1.46", 
+            "start": "145.43"
+        }, 
+        {
+            "text": "So it&#39;s essentially for\nany x other than 1 f", 
+            "dur": "4.29", 
+            "start": "146.89"
+        }, 
+        {
+            "text": "of x is going to be equal to 1.", 
+            "dur": "2.21", 
+            "start": "151.18"
+        }, 
+        {
+            "text": "So it&#39;s going to\nbe, look like this.", 
+            "dur": "2", 
+            "start": "153.39"
+        }, 
+        {
+            "text": "It&#39;s going to look\nlike this, except at 1.", 
+            "dur": "4.86", 
+            "start": "155.39"
+        }, 
+        {
+            "text": "At 1 f of x is undefined.", 
+            "dur": "2.18", 
+            "start": "160.25"
+        }, 
+        {
+            "text": "So I&#39;m going to put a\nlittle bit of a gap right", 
+            "dur": "2.16", 
+            "start": "162.43"
+        }, 
+        {
+            "text": "over here, the circle to signify\nthat this function is not", 
+            "dur": "3.72", 
+            "start": "164.59"
+        }, 
+        {
+            "text": "defined.", 
+            "dur": "0.5", 
+            "start": "168.31"
+        }, 
+        {
+            "text": "We don&#39;t know what this\nfunction equals at 1.", 
+            "dur": "2.4", 
+            "start": "168.81"
+        }, 
+        {
+            "text": "We never defined it.", 
+            "dur": "1.63", 
+            "start": "171.21"
+        }, 
+        {
+            "text": "This definition of the\nfunction doesn&#39;t tell us", 
+            "dur": "2.17", 
+            "start": "172.84"
+        }, 
+        {
+            "text": "what to do with 1.", 
+            "dur": "0.75", 
+            "start": "175.01"
+        }, 
+        {
+            "text": "It&#39;s literally undefined,\nliterally undefined", 
+            "dur": "2.97", 
+            "start": "175.76"
+        }, 
+        {
+            "text": "when x is equal to 1.", 
+            "dur": "2.01", 
+            "start": "178.73"
+        }, 
+        {
+            "text": "So this is the function\nright over here.", 
+            "dur": "3.38", 
+            "start": "180.74"
+        }, 
+        {
+            "text": "And so once again, if someone\nwere to ask you what is f of 1,", 
+            "dur": "3.73", 
+            "start": "184.12"
+        }, 
+        {
+            "text": "you go, and let&#39;s say that\neven though this was a function", 
+            "dur": "2.49", 
+            "start": "187.85"
+        }, 
+        {
+            "text": "definition, you&#39;d go,\nOK x is equal to 1,", 
+            "dur": "1.786", 
+            "start": "190.34"
+        }, 
+        {
+            "text": "oh wait there&#39;s a gap in\nmy function over here.", 
+            "dur": "2.974", 
+            "start": "192.126"
+        }, 
+        {
+            "text": "It is undefined.", 
+            "dur": "2.22", 
+            "start": "195.1"
+        }, 
+        {
+            "text": "So let me write it again.", 
+            "dur": "2.12", 
+            "start": "197.32"
+        }, 
+        {
+            "text": "It&#39;s kind of redundant, but I&#39;ll\nrewrite it f of 1 is undefined.", 
+            "dur": "3.435", 
+            "start": "199.44"
+        }, 
+        {
+            "text": "But what if I were\nto ask you, what", 
+            "dur": "1.95", 
+            "start": "205.82"
+        }, 
+        {
+            "text": "is the function\napproaching as x equals 1.", 
+            "dur": "4.55", 
+            "start": "207.77"
+        }, 
+        {
+            "text": "And now this is starting to\ntouch on the idea of a limit.", 
+            "dur": "3.31", 
+            "start": "212.32"
+        }, 
+        {
+            "text": "So as x gets closer\nand closer to 1.", 
+            "dur": "2.45", 
+            "start": "215.63"
+        }, 
+        {
+            "text": "So as we get closer\nand closer x is", 
+            "dur": "2.11", 
+            "start": "218.08"
+        }, 
+        {
+            "text": "to 1, what is the\nfunction approaching.", 
+            "dur": "7.3", 
+            "start": "220.19"
+        }, 
+        {
+            "text": "Well, this entire\ntime, the function,", 
+            "dur": "2.47", 
+            "start": "227.49"
+        }, 
+        {
+            "text": "what&#39;s a getting\ncloser and closer to.", 
+            "dur": "1.8", 
+            "start": "229.96"
+        }, 
+        {
+            "text": "On the left hand side,\nno matter how close", 
+            "dur": "2.07", 
+            "start": "231.76"
+        }, 
+        {
+            "text": "you get to 1, as long\nas you&#39;re not at 1,", 
+            "dur": "2.25", 
+            "start": "233.83"
+        }, 
+        {
+            "text": "you&#39;re actually at f\nof x is equal to 1.", 
+            "dur": "2.8", 
+            "start": "236.08"
+        }, 
+        {
+            "text": "Over here from the right hand\nside, you get the same thing.", 
+            "dur": "3.25", 
+            "start": "238.88"
+        }, 
+        {
+            "text": "So you could say, and\nwe&#39;ll get more and more", 
+            "dur": "3.24", 
+            "start": "242.13"
+        }, 
+        {
+            "text": "familiar with this idea\nas we do more examples,", 
+            "dur": "3.16", 
+            "start": "245.37"
+        }, 
+        {
+            "text": "that the limit as x and\nL-I-M, short for limit,", 
+            "dur": "5.18", 
+            "start": "248.53"
+        }, 
+        {
+            "text": "as x approaches 1 of f of x\nis equal to, as we get closer,", 
+            "dur": "10.88", 
+            "start": "253.71"
+        }, 
+        {
+            "text": "we can get unbelievably, we\ncan get infinitely close to 1,", 
+            "dur": "3.02", 
+            "start": "264.59"
+        }, 
+        {
+            "text": "as long as we&#39;re not at 1.", 
+            "dur": "1.63", 
+            "start": "267.61"
+        }, 
+        {
+            "text": "And our function is\ngoing to be equal to 1,", 
+            "dur": "1.962", 
+            "start": "269.24"
+        }, 
+        {
+            "text": "it&#39;s getting closer and\ncloser and closer to 1.", 
+            "dur": "1.958", 
+            "start": "271.202"
+        }, 
+        {
+            "text": "It&#39;s actually at\n1 the entire time.", 
+            "dur": "2.33", 
+            "start": "273.16"
+        }, 
+        {
+            "text": "So in this case, we\ncould say the limit", 
+            "dur": "2.54", 
+            "start": "275.49"
+        }, 
+        {
+            "text": "as x approaches\n1 of f of x is 1.", 
+            "dur": "3.184", 
+            "start": "278.03"
+        }, 
+        {
+            "text": "So once again, it has very fancy\nnotation, but it&#39;s just saying,", 
+            "dur": "2.666", 
+            "start": "281.214"
+        }, 
+        {
+            "text": "look what is a\nfunction approaching", 
+            "dur": "1.5", 
+            "start": "283.88"
+        }, 
+        {
+            "text": "as x gets closer\nand closer to 1.", 
+            "dur": "2.76", 
+            "start": "285.38"
+        }, 
+        {
+            "text": "Let me do another example where\nwe&#39;re dealing with a curve,", 
+            "dur": "2.9", 
+            "start": "288.14"
+        }, 
+        {
+            "text": "just so that you have\nthe general idea.", 
+            "dur": "3.64", 
+            "start": "291.04"
+        }, 
+        {
+            "text": "So let&#39;s say that\nI have the function", 
+            "dur": "3.55", 
+            "start": "294.68"
+        }, 
+        {
+            "text": "f of x, let me just for\nthe sake of variety,", 
+            "dur": "3", 
+            "start": "298.23"
+        }, 
+        {
+            "text": "let me call it g of x.", 
+            "dur": "1.74", 
+            "start": "301.23"
+        }, 
+        {
+            "text": "Let&#39;s say that we have\ng of x is equal to,", 
+            "dur": "2.97", 
+            "start": "302.97"
+        }, 
+        {
+            "text": "I could define it this way, we\ncould define it as x squared,", 
+            "dur": "5.77", 
+            "start": "305.94"
+        }, 
+        {
+            "text": "when x does not equal, I don&#39;t\nknow when x does not equal 2.", 
+            "dur": "5.22", 
+            "start": "311.71"
+        }, 
+        {
+            "text": "And let&#39;s say that when x\nequals 2 it is equal to 1.", 
+            "dur": "7.635", 
+            "start": "316.93"
+        }, 
+        {
+            "text": "So once again, a kind\nof an interesting", 
+            "dur": "1.625", 
+            "start": "324.565"
+        }, 
+        {
+            "text": "function that, as you&#39;ll\nsee, is not fully continuous,", 
+            "dur": "3.92", 
+            "start": "326.19"
+        }, 
+        {
+            "text": "it has a discontinuity.", 
+            "dur": "2", 
+            "start": "330.11"
+        }, 
+        {
+            "text": "Let me graph it.", 
+            "dur": "1.77", 
+            "start": "332.11"
+        }, 
+        {
+            "text": "So this is my y\nequals f of x axis,", 
+            "dur": "3.99", 
+            "start": "333.88"
+        }, 
+        {
+            "text": "this is my x-axis\nright over here.", 
+            "dur": "4.31", 
+            "start": "337.87"
+        }, 
+        {
+            "text": "Let me draw x equals 2, x,\nlet&#39;s say this is x equals 1,", 
+            "dur": "4.17", 
+            "start": "342.18"
+        }, 
+        {
+            "text": "this is x equals 2, this is\nnegative 1, this is negative 2.", 
+            "dur": "7.4", 
+            "start": "346.35"
+        }, 
+        {
+            "text": "And then let me draw, so\neverywhere except x equals 2,", 
+            "dur": "3.9", 
+            "start": "353.75"
+        }, 
+        {
+            "text": "it&#39;s equal to x squared.", 
+            "dur": "2.75", 
+            "start": "357.65"
+        }, 
+        {
+            "text": "So let me draw it like this.", 
+            "dur": "1.47", 
+            "start": "360.4"
+        }, 
+        {
+            "text": "So it&#39;s going to be a parabola,\nlooks something like this,", 
+            "dur": "6.8", 
+            "start": "361.87"
+        }, 
+        {
+            "text": "let me draw a better\nversion of the parabola.", 
+            "dur": "2.21", 
+            "start": "368.67"
+        }, 
+        {
+            "text": "So it&#39;ll look\nsomething like this.", 
+            "dur": "2.23", 
+            "start": "370.88"
+        }, 
+        {
+            "text": "Not the most beautifully\ndrawn parabola", 
+            "dur": "2.4", 
+            "start": "376.97"
+        }, 
+        {
+            "text": "in the history of\ndrawing parabolas,", 
+            "dur": "2.2", 
+            "start": "379.37"
+        }, 
+        {
+            "text": "but I think it&#39;ll\ngive you the idea.", 
+            "dur": "2.15", 
+            "start": "381.57"
+        }, 
+        {
+            "text": "I think you know what a\nparabola looks like, hopefully.", 
+            "dur": "3.03", 
+            "start": "383.72"
+        }, 
+        {
+            "text": "It should be symmetric,\nlet me redraw it", 
+            "dur": "1.924", 
+            "start": "386.75"
+        }, 
+        {
+            "text": "because that&#39;s kind of ugly.", 
+            "dur": "1.166", 
+            "start": "388.674"
+        }, 
+        {
+            "text": "And that&#39;s looking better.", 
+            "dur": "1.91", 
+            "start": "392.95"
+        }, 
+        {
+            "text": "OK, all right, there you go.", 
+            "dur": "2.88", 
+            "start": "394.86"
+        }, 
+        {
+            "text": "All right, now, this would be\nthe graph of just x squared.", 
+            "dur": "4.47", 
+            "start": "397.74"
+        }, 
+        {
+            "text": "But this can&#39;t be.", 
+            "dur": "0.81", 
+            "start": "402.21"
+        }, 
+        {
+            "text": "It&#39;s not x squared\nwhen x is equal to 2.", 
+            "dur": "2.58", 
+            "start": "403.02"
+        }, 
+        {
+            "text": "So once again, when\nx is equal to 2,", 
+            "dur": "3.69", 
+            "start": "405.6"
+        }, 
+        {
+            "text": "we should have a little bit\nof a discontinuity here.", 
+            "dur": "3.91", 
+            "start": "409.29"
+        }, 
+        {
+            "text": "So I&#39;ll draw a gap right over\nthere, because when x equals 2", 
+            "dur": "3.24", 
+            "start": "413.2"
+        }, 
+        {
+            "text": "the function is equal to 1.", 
+            "dur": "2.17", 
+            "start": "416.44"
+        }, 
+        {
+            "text": "When x is equal to\n2, so let&#39;s say that,", 
+            "dur": "1.95", 
+            "start": "418.61"
+        }, 
+        {
+            "text": "and I&#39;m not doing them on the\nsame scale, but let&#39;s say that.", 
+            "dur": "2.64", 
+            "start": "420.56"
+        }, 
+        {
+            "text": "So this, on the graph of f\nof x is equal to x squared,", 
+            "dur": "3.77", 
+            "start": "423.2"
+        }, 
+        {
+            "text": "this would be 4, this would\nbe 2, this would be 1,", 
+            "dur": "4.05", 
+            "start": "426.97"
+        }, 
+        {
+            "text": "this would be 3.", 
+            "dur": "1.83", 
+            "start": "431.02"
+        }, 
+        {
+            "text": "So when x is equal to 2,\nour function is equal to 1.", 
+            "dur": "4.905", 
+            "start": "432.85"
+        }, 
+        {
+            "text": "So this is a bit of\na bizarre function,", 
+            "dur": "1.76", 
+            "start": "443.72"
+        }, 
+        {
+            "text": "but we can define it this way.", 
+            "dur": "1.41", 
+            "start": "445.48"
+        }, 
+        {
+            "text": "You can define a function\nhowever you like to define it.", 
+            "dur": "2.39", 
+            "start": "446.89"
+        }, 
+        {
+            "text": "And so notice, it&#39;s\njust like the graph of f", 
+            "dur": "4.21", 
+            "start": "449.28"
+        }, 
+        {
+            "text": "of x is equal to x squared,\nexcept when you get to 2,", 
+            "dur": "3.31", 
+            "start": "453.49"
+        }, 
+        {
+            "text": "it has this gap,\nbecause you don&#39;t", 
+            "dur": "2.61", 
+            "start": "456.8"
+        }, 
+        {
+            "text": "use the f of x is equal to x\nsquared when x is equal to 2.", 
+            "dur": "4.42", 
+            "start": "459.41"
+        }, 
+        {
+            "text": "You use f of x--\nor I should say g", 
+            "dur": "2.34", 
+            "start": "463.83"
+        }, 
+        {
+            "text": "of x-- you use g\nof x is equal to 1.", 
+            "dur": "2.327", 
+            "start": "466.17"
+        }, 
+        {
+            "text": "Have I been saying f of x?", 
+            "dur": "1.083", 
+            "start": "468.497"
+        }, 
+        {
+            "text": "I apologize for that.", 
+            "dur": "1.36", 
+            "start": "469.58"
+        }, 
+        {
+            "text": "You use g of x is equal to 1.", 
+            "dur": "1.73", 
+            "start": "470.94"
+        }, 
+        {
+            "text": "So then then at 2, just\nat 2, just exactly at 2,", 
+            "dur": "3.8", 
+            "start": "472.67"
+        }, 
+        {
+            "text": "it drops down to 1.", 
+            "dur": "1.36", 
+            "start": "476.47"
+        }, 
+        {
+            "text": "And then it keeps going\nalong the function", 
+            "dur": "2.42", 
+            "start": "477.83"
+        }, 
+        {
+            "text": "g of x is equal to, or I\nshould say, along the function", 
+            "dur": "3.06", 
+            "start": "480.25"
+        }, 
+        {
+            "text": "x squared.", 
+            "dur": "1.93", 
+            "start": "483.31"
+        }, 
+        {
+            "text": "So my question to you.", 
+            "dur": "1.302", 
+            "start": "485.24"
+        }, 
+        {
+            "text": "So there&#39;s a couple\nof things, if I", 
+            "dur": "1.458", 
+            "start": "486.542"
+        }, 
+        {
+            "text": "were to just evaluate\nthe function g of 2.", 
+            "dur": "2.86", 
+            "start": "488"
+        }, 
+        {
+            "text": "Well, you&#39;d look\nat this definition,", 
+            "dur": "1.98", 
+            "start": "490.86"
+        }, 
+        {
+            "text": "OK, when x equals 2, I use\nthis situation right over here.", 
+            "dur": "3.42", 
+            "start": "492.84"
+        }, 
+        {
+            "text": "And it tells me, it&#39;s\ngoing to be equal to 1.", 
+            "dur": "2.69", 
+            "start": "496.26"
+        }, 
+        {
+            "text": "Let me ask a more\ninteresting question.", 
+            "dur": "1.99", 
+            "start": "498.95"
+        }, 
+        {
+            "text": "Or perhaps a more\ninteresting question.", 
+            "dur": "2.21", 
+            "start": "500.94"
+        }, 
+        {
+            "text": "What is the limit as x\napproaches 2 of g of x.", 
+            "dur": "7.22", 
+            "start": "503.15"
+        }, 
+        {
+            "text": "Once again, fancy notation,\nbut it&#39;s asking something", 
+            "dur": "2.789", 
+            "start": "510.37"
+        }, 
+        {
+            "text": "pretty, pretty, pretty simple.", 
+            "dur": "2.061", 
+            "start": "513.159"
+        }, 
+        {
+            "text": "It&#39;s saying as x gets closer and\ncloser to 2, as you get closer", 
+            "dur": "3.538", 
+            "start": "515.22"
+        }, 
+        {
+            "text": "and closer, and this isn&#39;t\na rigorous definition,", 
+            "dur": "2.041", 
+            "start": "518.758"
+        }, 
+        {
+            "text": "we&#39;ll do that in future videos.", 
+            "dur": "1.62", 
+            "start": "520.799"
+        }, 
+        {
+            "text": "As x gets closer and closer to\n2, what is g of x approaching?", 
+            "dur": "5.631", 
+            "start": "522.419"
+        }, 
+        {
+            "text": "So if you get to 1.9, and\nthen 1.999, and then 1.999999,", 
+            "dur": "5.16", 
+            "start": "528.05"
+        }, 
+        {
+            "text": "and then 1.9999999, what\nis g of x approaching.", 
+            "dur": "4.75", 
+            "start": "533.21"
+        }, 
+        {
+            "text": "Or if you were to go from\nthe positive direction.", 
+            "dur": "2.49", 
+            "start": "537.96"
+        }, 
+        {
+            "text": "If you were to say\n2.1, what&#39;s g of 2.1,", 
+            "dur": "2.23", 
+            "start": "540.45"
+        }, 
+        {
+            "text": "what&#39;s g of 2.01, what&#39;s g of\n2.001, what is that approaching", 
+            "dur": "5.37", 
+            "start": "542.68"
+        }, 
+        {
+            "text": "as we get closer\nand closer to it.", 
+            "dur": "2.05", 
+            "start": "548.05"
+        }, 
+        {
+            "text": "And you can see it visually\njust by drawing the graph.", 
+            "dur": "2.41", 
+            "start": "550.1"
+        }, 
+        {
+            "text": "As g gets closer\nand closer to 2,", 
+            "dur": "3.1", 
+            "start": "552.51"
+        }, 
+        {
+            "text": "and if we were to\nfollow along the graph,", 
+            "dur": "2.74", 
+            "start": "555.61"
+        }, 
+        {
+            "text": "we see that we\nare approaching 4.", 
+            "dur": "2.21", 
+            "start": "558.35"
+        }, 
+        {
+            "text": "Even though that&#39;s not\nwhere the function is,", 
+            "dur": "2.37", 
+            "start": "560.56"
+        }, 
+        {
+            "text": "the function drops down to 1.", 
+            "dur": "1.91", 
+            "start": "562.93"
+        }, 
+        {
+            "text": "The limit of g of x as x\napproaches 2 is equal to 4.", 
+            "dur": "6.1", 
+            "start": "564.84"
+        }, 
+        {
+            "text": "And you could even do this\nnumerically using a calculator,", 
+            "dur": "2.6", 
+            "start": "570.94"
+        }, 
+        {
+            "text": "and let me do that, because I\nthink that will be interesting.", 
+            "dur": "4.63", 
+            "start": "573.54"
+        }, 
+        {
+            "text": "So let me get the\ncalculator out,", 
+            "dur": "1.625", 
+            "start": "578.17"
+        }, 
+        {
+            "text": "let me get my trusty TI-85 out.", 
+            "dur": "3.435", 
+            "start": "579.795"
+        }, 
+        {
+            "text": "So here is my calculator,\nand you could numerically", 
+            "dur": "2.84", 
+            "start": "585.98"
+        }, 
+        {
+            "text": "say, OK, what&#39;s it\ngoing to approach", 
+            "dur": "1.95", 
+            "start": "588.82"
+        }, 
+        {
+            "text": "as you approach x equals 2.", 
+            "dur": "3", 
+            "start": "590.77"
+        }, 
+        {
+            "text": "So let&#39;s try 1.94,\nfor x is equal to 1.9,", 
+            "dur": "3.54", 
+            "start": "593.77"
+        }, 
+        {
+            "text": "you would use this top\nclause right over here.", 
+            "dur": "2.24", 
+            "start": "597.31"
+        }, 
+        {
+            "text": "So you&#39;d have 1.9 squared.", 
+            "dur": "4.52", 
+            "start": "599.55"
+        }, 
+        {
+            "text": "And so you get 3.61, well what\nif you get even closer to 2,", 
+            "dur": "3.21", 
+            "start": "604.07"
+        }, 
+        {
+            "text": "so 1.99, and once again,\nlet me square that.", 
+            "dur": "5.45", 
+            "start": "607.28"
+        }, 
+        {
+            "text": "Well now I&#39;m at 3.96.", 
+            "dur": "1.68", 
+            "start": "612.73"
+        }, 
+        {
+            "text": "What if I do 1.999,\nand I square that?", 
+            "dur": "4.305", 
+            "start": "614.41"
+        }, 
+        {
+            "text": "I&#39;m going to have 3.996.", 
+            "dur": "1.92", 
+            "start": "621.84"
+        }, 
+        {
+            "text": "Notice I&#39;m going\ncloser, and closer,", 
+            "dur": "1.76", 
+            "start": "623.76"
+        }, 
+        {
+            "text": "and closer to our point.", 
+            "dur": "2.41", 
+            "start": "625.52"
+        }, 
+        {
+            "text": "And if I did, if I\ngot really close,", 
+            "dur": "2", 
+            "start": "627.93"
+        }, 
+        {
+            "text": "1.9999999999 squared,\nwhat am I going to get to.", 
+            "dur": "6.36", 
+            "start": "629.93"
+        }, 
+        {
+            "text": "It&#39;s not actually\ngoing to be exactly 4,", 
+            "dur": "2", 
+            "start": "636.29"
+        }, 
+        {
+            "text": "this calculator just\nrounded things up,", 
+            "dur": "1.86", 
+            "start": "638.29"
+        }, 
+        {
+            "text": "but going to get to a number\nreally, really, really, really,", 
+            "dur": "2.5", 
+            "start": "640.15"
+        }, 
+        {
+            "text": "really, really, really,\nreally, really close to 4.", 
+            "dur": "2.267", 
+            "start": "642.65"
+        }, 
+        {
+            "text": "And we can do something from\nthe positive direction too.", 
+            "dur": "2.333", 
+            "start": "644.917"
+        }, 
+        {
+            "text": "And it actually has\nto be the same number", 
+            "dur": "1.708", 
+            "start": "647.25"
+        }, 
+        {
+            "text": "when we approach from the below\nwhat we&#39;re trying to approach,", 
+            "dur": "3.322", 
+            "start": "648.958"
+        }, 
+        {
+            "text": "and above what we&#39;re\ntrying to approach.", 
+            "dur": "2.42", 
+            "start": "652.28"
+        }, 
+        {
+            "text": "So if we try to 2.1\nsquared, we get 4.4.", 
+            "dur": "5.32", 
+            "start": "654.7"
+        }, 
+        {
+            "text": "If we do 2.", 
+            "dur": "0.96", 
+            "start": "660.02"
+        }, 
+        {
+            "text": "let me go a couple\nof steps ahead,", 
+            "dur": "1.89", 
+            "start": "660.98"
+        }, 
+        {
+            "text": "2.01, so this is much\ncloser to 2 now, squared.", 
+            "dur": "5.05", 
+            "start": "662.87"
+        }, 
+        {
+            "text": "Now we are getting\nmuch closer to 4.", 
+            "dur": "1.5", 
+            "start": "667.92"
+        }, 
+        {
+            "text": "So the closer we\nget to 2, the closer", 
+            "dur": "2.29", 
+            "start": "669.42"
+        }, 
+        {
+            "text": "it seems like\nwe&#39;re getting to 4.", 
+            "dur": "1.52", 
+            "start": "671.71"
+        }, 
+        {
+            "text": "So once again,\nthat&#39;s a numeric way", 
+            "dur": "1.95", 
+            "start": "673.23"
+        }, 
+        {
+            "text": "of saying that the\nlimit, as x approaches 2", 
+            "dur": "3.93", 
+            "start": "675.18"
+        }, 
+        {
+            "text": "from either direction of g\nof x, even though right at 2,", 
+            "dur": "3.51", 
+            "start": "679.11"
+        }, 
+        {
+            "text": "the function is equal to 1,\nbecause it&#39;s discontinuous.", 
+            "dur": "2.61", 
+            "start": "682.62"
+        }, 
+        {
+            "text": "The limit as we&#39;re\napproaching 2,", 
+            "dur": "1.75", 
+            "start": "685.23"
+        }, 
+        {
+            "text": "we&#39;re getting closer, and\ncloser, and closer to 4.", 
+            "dur": "3.823", 
+            "start": "686.98"
+        }
+    ], 
+    "title": "Introduction to Limits (HD)", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/04wy7", 
+        "/m/01lgy", 
+        "/m/09gjnl2", 
+        "/m/01p_86", 
+        "/m/02v_93z"
+    ], 
+    "number_views": 1511394, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-04-28T05:21:52.305Z", 
+            "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4a\ud83d\udc46\u261d\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc49\ud83d\udc48\ud83d\udc49\ud83d\udc48\ud83d\udc49\ud83d\udc48\ud83d\udc49\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4e\u261d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc46\ud83d\udc4d\ud83d\udc46\ud83d\udc4d\ud83d\udc4e\u261d\ud83d\udc4f\ud83d\udc4a\u270b\ud83d\udc4c\u270a\u261d\ud83d\udc48\ud83d\udc50\u261d\u270a\ud83d\udc50\ud83d\udc49\ud83d\udc50\ud83d\udc50\u270a\u261d\ud83d\udc4e\ud83d\udc4e\ud83d\udc49\ud83d\udc4e\u270a\ud83d\udc50\ud83d\udc49\ud83d\udc46\ud83d\udc49\ud83d\udc50\u270a\ud83d\udc4f\ud83d\udc49\ud83d\udc4f\u270a\ud83d\udc50\ud83d\udc50\ud83d\udc48\ud83d\udc9f\ud83d\uddfd\ud83d\uddfd\ud83d\uddfd\ud83d\uddfd\ud83d\uddfd\ud83d\uddfd\ud83d\uddfd\ud83d\ude94\ud83d\ude93\ud83d\ude94\ud83d\ude93\ud83d\ude94\ud83d\ude93\ud83d\ude92\ud83d\ude91\u2708\ud83d\ude81\ud83d\udec3\ud83d\udec2\ud83d\udeb7\ud83d\udeb8\ud83d\udeb8\ud83d\udea6\ud83d\udea6\ud83d\udea6\ud83d\udea6\ud83d\udea6\ud83d\udea6\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udc90\ud83d\udc92\u26fd\ud83d\ude80\ud83c\udd7f\ud83d\udea4\u26fd\ud83d\udeb2\ud83d\udc8d\ud83d\udea8\ud83d\udc36\ud83d\udc36\ud83d\udc36\ud83d\udc36\ud83d\udc36 \n\ud83d\ude0a\ud83d\ude03\ud83d\ude20\ud83d\ude2f\ud83d\ude22\ud83d\ude0a\ud83d\ude22\ud83d\ude2c\ud83d\ude35\ud83d\ude24\ud83d\ude27\ud83d\ude20\ud83d\ude27\ud83d\ude15\ud83d\ude27\ud83d\ude25\ud83d\ude27\ud83d\ude20\ud83d\ude26\ud83d\ude27\ud83d\ude24\ud83d\ude21\ud83d\ude00\ud83d\ude22\ud83d\ude0a\ud83d\ude2f\ud83d\ude07\ud83d\ude22\ud83d\ude07\ud83d\ude09\ud83d\ude08\ud83d\ude08\ud83d\ude08\ud83d\ude21\ud83d\ude20\ud83d\ude21\ud83d\ude0a\ufeff", 
+            "author": "TrueArabStory"
+        }, 
+        {
+            "date": "2015-04-26T20:03:10.112Z", 
+            "text": "This is where math started becoming easy.\ufeff", 
+            "author": "Randy Teslaton"
+        }, 
+        {
+            "date": "2015-04-18T23:57:49.266Z", 
+            "text": "In turkey the students have to learn this at high school (17 years old) and \nthe education system is very bad.\ufeff", 
+            "author": "the author"
+        }, 
+        {
+            "date": "2015-04-16T13:27:08.346Z", 
+            "text": "8:54 hitler\ufeff", 
+            "author": "Jason Frederick"
+        }, 
+        {
+            "date": "2015-04-03T03:51:41.870Z", 
+            "text": "Stupid dumbasses be like i need to learn this .. *at the end they don't \nanyways* dumbe shits.\n\nI be like *I DON'T NEED TO* .. HAHA .. I am an App Developer and i had 2#1 \nhit apps. All by doing programming. Learning easy computer languages. I am \na multi millionaire, and i didn't even this need this shit. Oh yeah uh huh \n.. ! ..\ufeff", 
+            "author": "William Strife"
+        }, 
+        {
+            "date": "2015-03-27T20:38:10.360Z", 
+            "text": "B\ufeff", 
+            "author": "Tial Vung"
+        }, 
+        {
+            "date": "2015-03-27T01:18:09.565Z", 
+            "text": "One point nien nien nien\ufeff", 
+            "author": "nickioli13"
+        }, 
+        {
+            "date": "2015-04-17T04:49:23.124Z", 
+            "text": "Bestbuy.com", 
+            "author": "Daniel Garcia"
+        }, 
+        {
+            "date": "2015-03-08T20:59:25.682Z", 
+            "text": "0/0 is NOT undefined. It is just indeterminate. That is, you can't \ndetermine its value, because it could have any value.\ufeff", 
+            "author": "PrimeLime"
+        }, 
+        {
+            "date": "2015-05-02T14:53:52.820Z", 
+            "text": "+Fareeha Saeed 1. You suck.", 
+            "author": "PrimeLime"
+        }, 
+        {
+            "date": "2015-05-02T02:21:40.998Z", 
+            "text": "but you did so. XD", 
+            "author": "Fareeha Saeed"
+        }, 
+        {
+            "date": "2015-05-01T18:21:58.678Z", 
+            "text": "+Fareeha Saeed 1. You suck.\n2. Typo, retard.\n3. *can't\n4. *isn't\n5. *thank you\n6. *you're \n7. *welcome\n8. *I\n9. *won't\n10. *so many more grammar mistakes that I can't be bothered to correct\n11. Get wrecked.", 
+            "author": "PrimeLime"
+        }, 
+        {
+            "date": "2015-05-01T16:21:56.460Z", 
+            "text": "1 i saw\n2 your*\n ", 
+            "author": "Fareeha Saeed"
+        }, 
+        {
+            "date": "2015-05-01T15:35:02.921Z", 
+            "text": "+Fareeha Saeed 1. You're name does not exactly make it clear that you are a \ngirl.\n2. Shut up.", 
+            "author": "PrimeLime"
+        }, 
+        {
+            "date": "2015-05-01T15:25:05.999Z", 
+            "text": "1 im a girl\n2 youtube fights get hella hurting to i wont go for it so peace XD", 
+            "author": "Fareeha Saeed"
+        }, 
+        {
+            "date": "2015-05-01T14:38:55.000Z", 
+            "text": "+Fareeha Saeed Doesn't even put up a fight, just admits he's wrong...", 
+            "author": "PrimeLime"
+        }, 
+        {
+            "date": "2015-05-01T07:47:44.206Z", 
+            "text": "ha your welocome XD", 
+            "author": "Fareeha Saeed"
+        }, 
+        {
+            "date": "2015-04-30T21:20:27.000Z", 
+            "text": "+Fareeha Saeed bruh... You're wrong. You don't understand maths. Thank you \nvery much.", 
+            "author": "PrimeLime"
+        }, 
+        {
+            "date": "2015-05-02T02:19:55.000Z", 
+            "text": "+PrimeLime well you cant determine its value means its value isnt defined.\nbruh ..\ndont over complicate stuff\nthankyou very much", 
+            "author": "Fareeha Saeed"
+        }, 
+        {
+            "date": "2015-03-08T01:44:48.823Z", 
+            "text": "This is sooooo easy im in 8th grade taking pre-calculus and want something \nharder plz\ufeff", 
+            "author": "Johnny Richards"
+        }, 
+        {
+            "date": "2015-03-03T20:06:06.638Z", 
+            "text": "Hi! Nice video!\nWe invite you to visit our YouTube channel dedicated to teaching the \nknow-how to solve advanced higher maths exercises. We upload a tutorial \nvideo every day. If you like our channel, please, subscribe!\ufeff", 
+            "author": "Calculas Online"
+        }, 
+        {
+            "date": "2015-02-17T03:42:18.288Z", 
+            "text": "your video is very good.\ufeff", 
+            "author": "OChubbyO"
+        }, 
+        {
+            "date": "2015-02-17T03:36:05.170Z", 
+            "text": "Thanks.\ufeff", 
+            "author": "OChubbyO"
+        }, 
+        {
+            "date": "2015-02-11T20:53:30.625Z", 
+            "text": "That's one sweet parabola bro.\ufeff", 
+            "author": "pjn2001"
+        }, 
+        {
+            "date": "2015-02-11T06:21:41.576Z", 
+            "text": "Two Rules to Survive Calculus for engineers:\nRule No.1: Use black sharpie pen to blot out every Lim x\u21920 you see in the \nbook.\nRule No.2: Derrivative of x^n = nx^(n-1)\ufeff", 
+            "author": "trexinvert"
+        }, 
+        {
+            "date": "2015-02-09T00:40:06.865Z", 
+            "text": "i think this needs to worded differently. I think what you mean is this; as \nthe function is approaching 2 it is rounded to the closest number. Plz \nsomeone correct me if i'm wrong because that's the best I can make myself \nunderstand limits. \ufeff", 
+            "author": "maestropasser"
+        }, 
+        {
+            "date": "2015-02-11T15:15:59.108Z", 
+            "text": "i believe that's wrong because you can number in any decimal place, for \nexample 3.99999994 could be rounded to 3.99999990\nand if you add a round before decimals it'd be 4, but on other problems \nsuch as lim x->10.5 you could have the limit being 105.something but it'd \nround to 10, not close to the decimal place you're looking for :P\nsorry for my english, maths is hard to explain in another language", 
+            "author": "Akki Cranige"
+        }, 
+        {
+            "date": "2015-02-07T00:26:46.749Z", 
+            "text": "Are you Ed Helms?\ufeff", 
+            "author": "Alex Nagano"
+        }, 
+        {
+            "date": "2015-02-05T03:01:04.287Z", 
+            "text": "", 
+            "author": "Kathy Blaise"
+        }, 
+        {
+            "date": "2015-02-02T16:47:00.607Z", 
+            "text": "Thank you so much *--* you make it easy to understand. Its amazing that i \ncan study english and learn math. Engineer and khan academy, I love ya! \ufeff", 
+            "author": "Bianca Arantes"
+        }, 
+        {
+            "date": "2015-01-30T22:29:06.400Z", 
+            "text": "Khan Academy is awesome. I also created many videos that can help and \nimprove your math skills. Please visit my channel at mathsolutionandfun\ufeff", 
+            "author": "math solutions (THN)"
+        }, 
+        {
+            "date": "2015-01-30T06:10:15.798Z", 
+            "text": "what does he use to write these?\ufeff", 
+            "author": "Chas Olsen"
+        }, 
+        {
+            "date": "2015-01-28T10:34:20.883Z", 
+            "text": "keep it the same! do not do something for the \"sake of variety\"\ufeff", 
+            "author": "msgtslotter"
+        }, 
+        {
+            "date": "2015-01-25T21:00:14.678Z", 
+            "text": "http://www.dummies.com/how-to/education-languages/math.html\ufeff", 
+            "author": "Sukadeva Bonomo"
+        }, 
+        {
+            "date": "2015-01-14T19:33:23.782Z", 
+            "text": "Im taking calc now and its going to be hard. I love math even though i'm \nbad at it. My positive attitude and work ethic are reasons i do well. I \nadmire math and i want to be the best i can be at it! I have to put in the \ntime though!! I took statistics last semester and got an A and my teacher \nwas phenominal. However, calculus is algebra based and that is my weaker \narea. My teacher is an older asian woman and we dont connect\ud83d\ude10 i look \naround at the other students and they all have a pissed off look on there \nface because she doesnt teach well at all. Thank you khan academy for \nhelping me and thank you to all the fellow youtubers who respect this \nsubject. \ufeff", 
+            "author": "TheRealDavieLondon"
+        }, 
+        {
+            "date": "2015-01-12T19:53:33.046Z", 
+            "text": "You make my life easier , thank you.\ufeff", 
+            "author": "Fahri Rexhepi"
+        }, 
+        {
+            "date": "2015-01-09T15:51:20.553Z", 
+            "text": "Super glad there are others to explain this!! While Math is a universal \nlanguage I found it really hard to understand what my Professor was trying \nto convey with his heavy accent. \ufeff", 
+            "author": "Br. M"
+        }, 
+        {
+            "date": "2015-01-06T00:22:26.000Z", 
+            "text": "First 3 minutes were basics. Rest was blah blah and too long. Too much \nemphasis on limits. Not useful for calculus.\ufeff", 
+            "author": "discuss21"
+        }, 
+        {
+            "date": "2015-01-09T15:49:38.394Z", 
+            "text": "The video is literally labelled \"limits\" did you expect something different?", 
+            "author": "Br. M"
+        }, 
+        {
+            "date": "2014-12-24T18:53:23.076Z", 
+            "text": "This is the beginning of hell for many calculus students XD.\n\nEngineer students be like \"fuck this shit. I'll just use my calculator\" \n\nMath students be like \"I have to understand this shit!!!!! D: \" \ufeff", 
+            "author": "xxSourWingxx"
+        }, 
+        {
+            "date": "2014-12-19T18:16:08.931Z", 
+            "text": "Khan your a lucky guy. There are probably girls that are in love with you \njust because of your awesome teaching style and your voice. \ufeff", 
+            "author": "Pauvy Feldman"
+        }, 
+        {
+            "date": "2015-04-29T11:14:08.649Z", 
+            "text": "+Jonny Bloom Thats true but this particular video is actually voiced by Mr \nKhan himself.", 
+            "author": "IxMeTutorials"
+        }, 
+        {
+            "date": "2015-04-29T11:03:23.499Z", 
+            "text": "+IxMeTutorials No, +Reva DS is right, these ones all just happen to be by \nthe same guy, but at Khan Academy there are many, many, different \ninstructors from all over the world.", 
+            "author": "Jonny Bloom"
+        }, 
+        {
+            "date": "2015-02-18T17:32:59.457Z", 
+            "text": "+Reva DS What? They are made by him. All of those videos have the same \nvoice and it's Mr Khan's voice.", 
+            "author": "IxMeTutorials"
+        }, 
+        {
+            "date": "2014-12-28T09:34:24.023Z", 
+            "text": "Mr. Khan does not make videos.. \nThese videos are made by any one out there. Even we can make a video and \nsend it. ", 
+            "author": "Reva DS"
+        }, 
+        {
+            "date": "2014-12-19T05:05:34.762Z", 
+            "text": "Calculus is the number one cause of death in America\ufeff", 
+            "author": "StrictlyFifaVids"
+        }, 
+        {
+            "date": "2014-12-08T02:22:27.538Z", 
+            "text": "I remember, when I first learned this concept, I just thought of it as \nasking, \"Where is the hole?\"\ufeff", 
+            "author": "columbus8myhw"
+        }, 
+        {
+            "date": "2015-04-06T12:29:10.355Z", 
+            "text": "+columbus8myhw ....with your mom", 
+            "author": "S2Nprime"
+        }, 
+        {
+            "date": "2015-01-04T23:40:53.159Z", 
+            "text": "+Lars Magnus Samuelsson Svenssonsenn Magnussvensamuelsson Thor Nah, I've \nhad lots of practice.", 
+            "author": "columbus8myhw"
+        }, 
+        {
+            "date": "2015-01-04T16:14:58.974Z", 
+            "text": "Do you often have trouble finding the hole?", 
+            "author": "Lars Magnus Samuelsson Svenssonsenn Magnussvensamuelsson Thor"
+        }, 
+        {
+            "date": "2014-12-02T12:10:01.409Z", 
+            "text": "Undefined. Un-de-fined.\ufeff", 
+            "author": "Ankush Kampani"
+        }, 
+        {
+            "date": "2014-11-22T19:06:41.882Z", 
+            "text": "I cannot believe this video actually does have a negative feedback, I am \n3rd year electrical engineering student, back when we had this course, this \nman made it possible for me to get the best grade in calculus, if anyone \ndoes not understand this, he probably should switch to an art or literature \nuniversity.\ufeff", 
+            "author": "Visual Intelligence"
+        }, 
+        {
+            "date": "2014-11-11T13:57:13.055Z", 
+            "text": "The beginning of hell for some people.\ufeff", 
+            "author": "Conrad Pro"
+        }, 
+        {
+            "date": "2015-04-06T15:47:15.848Z", 
+            "text": ":p Most the people don't even notice it.", 
+            "author": "Arulx Z"
+        }, 
+        {
+            "date": "2015-03-23T18:31:35.132Z", 
+            "text": "+Arulx Z Kali linux ;)", 
+            "author": "SmartTechAdvice"
+        }, 
+        {
+            "date": "2015-03-20T14:18:18.934Z", 
+            "text": "Yeah true.", 
+            "author": "Conrad Pro"
+        }, 
+        {
+            "date": "2015-03-15T14:24:11.817Z", 
+            "text": "And heaven for some other. Middle school easy math was a torture.", 
+            "author": "Arulx Z"
+        }, 
+        {
+            "date": "2014-10-21T07:47:16.892Z", 
+            "text": "thanks for everything!!\ufeff", 
+            "author": "Chen Garces"
+        }, 
+        {
+            "date": "2014-10-19T15:30:28.491Z", 
+            "text": "1,911,511  subscribers but when you hover with the mouse over \"Khan \nAcademy\" it says 1M (1 million), how absurd is that? AT LEAST make it 1.9   \n       YouTube needs to address this issue.\ufeff", 
+            "author": "Anton Malhin"
+        }, 
+        {
+            "date": "2014-10-19T11:08:08.443Z", 
+            "text": "this really wasn't as difficult as i expected, helped a lot, thanks :)\ufeff", 
+            "author": "John Johnson"
+        }, 
+        {
+            "date": "2014-10-10T16:03:47.287Z", 
+            "text": "I don't understand how this video topped over a million views. all he did \nwas write on a glow in the dark board. Why can't you put it in an easy way \nso, that people can try and understand the purpose of limits and what ways \nto look at it from. Whenever a question says \"approaching\" it's wtf which \nway do I look at it from. \ufeff", 
+            "author": "love child"
+        }, 
+        {
+            "date": "2014-09-30T20:01:00.745Z", 
+            "text": "The concept of limit can be visualized through a fictitious conversation \nbetween a skeptic and a believer. \nThe believer proclaims  that limiting value of f at A is L.Although f at A \nmay be undefined, the believer staunchly expects that in the vicinity of A, \nf(A) hovers around L.\n\nThe skeptic tests him , asking , tell me o believer, what argument should I \nsupply if I want the result to be within epsilon of L. The believer says \nchoose x within delta of A and you shall get the result within epsilon of L.\n\nFor purpose of illustration let f(x) = 2x, then limit of f as x --- 1 is \n2.In this case for any epsilon , delta can be chosen as 2 times epsilon.\ufeff", 
+            "author": "MrFanfinn"
+        }, 
+        {
+            "date": "2014-11-07T04:43:45.424Z", 
+            "text": "Wtf, I'll just watch the video again. Thanks, but no thanks.", 
+            "author": "Emperor Palpatine"
+        }, 
+        {
+            "date": "2014-09-20T04:17:00.377Z", 
+            "text": "has anyone ever told you that you sound a bit like anthony bourdain?\ufeff", 
+            "author": "mizfit10"
+        }, 
+        {
+            "date": "2014-09-18T07:36:22.068Z", 
+            "text": "Helo efferybaadii.\ufeff", 
+            "author": "\u202b\u0639\u0645\u0631 \u0632\u0648\u064a\u0644\u202c\u200e"
+        }, 
+        {
+            "date": "2014-09-16T18:41:27.515Z", 
+            "text": "Exactly what grade is this man teaching? I'm looking for grade ten....\ufeff", 
+            "author": "Juanita Cordova"
+        }, 
+        {
+            "date": "2014-09-12T01:15:53.299Z", 
+            "text": "What's the limit of 4-x/x^2-16 as x aproaches 4+\nPls help\nI assume the limit doesn't exist\nWhat u think??\ufeff", 
+            "author": "Mouad Bekka"
+        }, 
+        {
+            "date": "2014-09-18T22:53:19.922Z", 
+            "text": "you can write x^2 - 16 as (x-4)(x+4), and you can write 4-x as -(x-4), if \nyou do that you can get out (x-4) out of the equation leaving you with \n-1/x+4. If you then fill in for x =4 you get -1/8. Sorry if I used wrong \nmathematical terms, English is not my native language.", 
+            "author": "Definitely Oldfag"
+        }, 
+        {
+            "date": "2014-09-17T03:45:12.746Z", 
+            "text": "That would be an asymptotic function so at 4 comming from + (right) would \nbe a minuscule number...in this case ~ -.0227.", 
+            "author": "Arhant Srivastava"
+        }, 
+        {
+            "date": "2014-09-10T00:40:08.103Z", 
+            "text": "If you can't understand limits...go work at mcdonalds \ufeff", 
+            "author": "A. Figueroa"
+        }, 
+        {
+            "date": "2014-11-07T18:29:25.978Z", 
+            "text": "lol", 
+            "author": "Rextep"
+        }, 
+        {
+            "date": "2014-10-04T22:55:23.250Z", 
+            "text": "fuck yourself dick", 
+            "author": "Clinster246"
+        }, 
+        {
+            "date": "2014-09-28T18:46:16.170Z", 
+            "text": "Investment banking", 
+            "author": "A. Figueroa"
+        }, 
+        {
+            "date": "2014-09-28T14:32:14.000Z", 
+            "text": "LOL,I know successful investors that dont know any of this shit.In fact, I \nknow lots of successful people in many fields you have no clue about this.I \nwonder what you do for a living and how much you make.Bet you dont make \nshit.Calculus has nothing to do with income potential young man.", 
+            "author": "Jay Werx"
+        }, 
+        {
+            "date": "2014-09-09T01:39:25.544Z", 
+            "text": "I finally actually understand limits! Thank you so much :) \ufeff", 
+            "author": "chochochoco9"
+        }, 
+        {
+            "date": "2014-09-07T21:32:42.727Z", 
+            "text": "This fucktard literally confused the shit out of me. Why the fuck do we \nhave to take calculus? God fucking dammit man. This shit makes no sense!\ufeff", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-02-08T05:17:52.925Z", 
+            "text": "+spenpinner It was. Got an A. \nThanks for your input!", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-02-08T05:13:01.866Z", 
+            "text": "I like to imagine myself as the 'x' value and the equation explains what I \nam interacting with. It's literally another language. ", 
+            "author": "spenpinner"
+        }, 
+        {
+            "date": "2015-01-26T23:47:46.943Z", 
+            "text": "Glad it worked out for you!", 
+            "author": "Michael Pohoreski"
+        }, 
+        {
+            "date": "2015-01-26T23:09:51.450Z", 
+            "text": "+Michael Pohoreski Sweet baby Jesus!\nLike I earlier said, I got a hang of the class and actually performed \nreally well in it. ", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-01-26T21:29:12.885Z", 
+            "text": "+A. Jay  Education opens your mind to understand new & old problems in a \ndifferent paradigm.\n\nCalculus is simply *one* toolbox you can use to simplify the world and \nunderstand the *underlying* *patterns*.\n\nLook, *none* of us was born knowing all this stuff.  We *all* were noobs at \none point.  Some things come easy, other things are hard.  If you are \nunable to invest the time into *yourself* no one else will.\n\nCalling a *mediocre* teacher a fucktard isn't going to help *you* *learn*. \n Instead of wasting energy on destructive behavior it would be more \nefficient to focus on constructive learning -- aka -- find *another* \nteacher who can explain concepts in a way that works for YOU.\n\nIf you persist you *will* finally get that A-HA! moment in understanding. \n You're only a failure when you stop trying.\n\nOne of the problems with MOOC's such as this is that they don't provide any *practical \ncontext*.  I'm a computer graphics guru -- maybe playing around with my \nShaderToy lessons will help you show you a different side of calculus.\n\nhttps://www.shadertoy.com/view/XllGW4", 
+            "author": "Michael Pohoreski"
+        }, 
+        {
+            "date": "2015-01-25T02:24:42.193Z", 
+            "text": "+Anthony Sandoval *Clap Clap Clap*\nHow does your bigot self feel after that amazing hateful speech?\nI got an A in the course, and i'm off to medical school in the fall. \nHow about you suck on these beautiful gay balls of mind would ya. . . while \nyou're at it, you could lick my gay asshole. Just remember that one day, I \nmay have to save your useless life. \nToddles babe!", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-01-24T23:28:56.710Z", 
+            "text": "You're the fucktard for not grasping this concept you gay ass faggot. kill \nyourself", 
+            "author": "Anthony  Sandoval"
+        }, 
+        {
+            "date": "2015-01-17T18:29:08.862Z", 
+            "text": "Calculus is actually pretty simple. A lot of calculus, unless you're taking \nan analysis class comes down to multistep simple algebra.", 
+            "author": "Yoel Sanchez"
+        }, 
+        {
+            "date": "2015-01-15T23:23:06.499Z", 
+            "text": "+Pauvy Feldman You're most welcome! ", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-01-15T22:57:21.108Z", 
+            "text": "+A. Jay aw thanks lol ", 
+            "author": "Pauvy Feldman"
+        }, 
+        {
+            "date": "2015-01-15T22:43:03.903Z", 
+            "text": "+Pauvy Feldman bless your heart", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-01-15T22:03:28.498Z", 
+            "text": "hah I date a cute white girl while you might only find an ugly darker \nItalian one. I date the real blonde haired high IQ ones L:)", 
+            "author": "Pauvy Feldman"
+        }, 
+        {
+            "date": "2015-01-14T02:54:32.991Z", 
+            "text": "dumby", 
+            "author": "Games."
+        }, 
+        {
+            "date": "2015-01-04T19:38:52.951Z", 
+            "text": "+Lars Magnus Samuelsson Svenssonsenn Magnussvensamuelsson Thor What in the \nworld are you ranting about, brah?", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-01-04T19:23:50.966Z", 
+            "text": "+A. Jay\nJust cram it, ok mr. Jay?\n\nBlow it right out your ass!", 
+            "author": "Lars Magnus Samuelsson Svenssonsenn Magnussvensamuelsson Thor"
+        }, 
+        {
+            "date": "2015-01-04T19:18:38.037Z", 
+            "text": "+Lars Magnus Samuelsson Svenssonsenn Magnussvensamuelsson Thor No idea what \nthe fuck that means, but good for u bruh. ", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-01-04T19:13:09.631Z", 
+            "text": "+A. Jay\nWell done, but it's not too late to fail out of life.", 
+            "author": "Lars Magnus Samuelsson Svenssonsenn Magnussvensamuelsson Thor"
+        }, 
+        {
+            "date": "2015-01-04T18:13:58.409Z", 
+            "text": "+Lars Magnus Samuelsson Svenssonsenn Magnussvensamuelsson Thor A few months \ntoo late, bud. I passed the course already. \nWas just frustrated because I couldn't understand my professor, TA and my \nlast resort. I got a hang of it though. ", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2015-01-04T16:13:59.050Z", 
+            "text": "+A. Jay\nKeep your foul utterances to yourself you drooling dickbird. This is a \nplace of learning you pisswhistle.", 
+            "author": "Lars Magnus Samuelsson Svenssonsenn Magnussvensamuelsson Thor"
+        }, 
+        {
+            "date": "2014-12-19T19:02:13.307Z", 
+            "text": "+Pauvy Feldman My girlfriend's black actually, meaning I could give 2 shits \nabout race. ", 
+            "author": "A. Jay"
+        }, 
+        {
+            "date": "2014-08-31T00:55:41.889Z", 
+            "text": "I have a question: does finding limits only apply to continuous functions? \nCan it not be just a point? So, in this case, can the limit not be 1?\ufeff", 
+            "author": "TheIceCreamFactory"
+        }, 
+        {
+            "date": "2014-08-21T00:03:30.569Z", 
+            "text": "Are you using like a tablet or the mouse to write? Because dam you are \npretty good at it. :D\ufeff", 
+            "author": "Jeffrey V"
+        }, 
+        {
+            "date": "2014-07-29T16:40:18.603Z", 
+            "text": "the first example would've been easier to understand if both of the \nvariable x and y were not 1 cause that confuses people...\ufeff", 
+            "author": "A GentleLover"
+        }, 
+        {
+            "date": "2014-07-26T15:54:30.622Z", 
+            "text": "what's the software\ufeff", 
+            "author": "Sri Prasanna"
+        }, 
+        {
+            "date": "2014-07-26T17:05:09.495Z", 
+            "text": "I think these are Khan Academy Lectures.\nwww.khanacademy.com", 
+            "author": "Shrajan Vetcha"
+        }, 
+        {
+            "date": "2014-07-26T15:59:20.664Z", 
+            "text": "just a passing interest", 
+            "author": "Sri Prasanna"
+        }, 
+        {
+            "date": "2014-07-26T15:57:08.847Z", 
+            "text": "Learning Limits so early???\nGlad to see your temper to learn new things!", 
+            "author": "Shrajan Vetcha"
+        }, 
+        {
+            "date": "2014-07-20T07:17:14.297Z", 
+            "text": "It is hard to learn about limits because my internet connection is limited\ufeff", 
+            "author": "Dr.TNTyt"
+        }, 
+        {
+            "date": "2014-11-07T04:40:59.116Z", 
+            "text": "Hahaha, then it should be easy.", 
+            "author": "Emperor Palpatine"
+        }, 
+        {
+            "date": "2014-07-15T11:24:24.495Z", 
+            "text": "@ 8:00, in this given function, does the limit exist or not? then why?\ufeff", 
+            "author": "jesinya95"
+        }, 
+        {
+            "date": "2014-11-07T04:46:21.887Z", 
+            "text": "There's a limit because there's a discontinuity in the graph of the \nfunction.", 
+            "author": "Emperor Palpatine"
+        }, 
+        {
+            "date": "2014-07-04T16:56:22.515Z", 
+            "text": "nine nine nine nine nine nine nine!!!!!!!\ufeff", 
+            "author": "Adam Perez"
+        }, 
+        {
+            "date": "2014-05-30T16:29:48.912Z", 
+            "text": "^.^ :)\ufeff", 
+            "author": "Jay Brown"
+        }, 
+        {
+            "date": "2014-05-04T10:51:27.108Z", 
+            "text": "Thanks for all ur videos. They rock and you rock\ufeff", 
+            "author": "parasrocks52"
+        }, 
+        {
+            "date": "2014-04-20T08:09:43.227Z", 
+            "text": "this video made me sleep ! no lie \ufeff", 
+            "author": "\u202b\u0637\u0647 \u0628\u0646 \u0639\u0627\u0634\u0648\u0631\u202c\u200e"
+        }, 
+        {
+            "date": "2014-04-15T02:12:27.995Z", 
+            "text": "You are a life saver. Whenever I need help for Calculus, I will always go \nto you since you can help me get out of the dumps. \ufeff", 
+            "author": "Elizabeth Medina (MissReverieRider)"
+        }, 
+        {
+            "date": "2014-04-08T02:41:35.200Z", 
+            "text": "Some places say Haokuai GF GF GF\ufeff", 
+            "author": "\u838a\u51f1\u6587"
+        }, 
+        {
+            "date": "2014-03-29T21:29:44.370Z", 
+            "text": "OMG, these v\u00eddeos are incredible, but please don't tell that they are free \nrsrs.\ufeff", 
+            "author": "Joao Sidney"
+        }, 
+        {
+            "date": "2014-03-27T02:50:42.249Z", 
+            "text": "The limit does not exist\ufeff", 
+            "author": "Olesya Burmistrova"
+        }, 
+        {
+            "date": "2014-03-12T02:53:58.104Z", 
+            "text": "khan academy is the best T__________T\ufeff", 
+            "author": "greenlizardballs"
+        }, 
+        {
+            "date": "2014-03-11T05:43:45.157Z", 
+            "text": "haha Calculator Trolls\ufeff", 
+            "author": "Miguel Lorenzo"
+        }, 
+        {
+            "date": "2014-11-07T04:44:10.875Z", 
+            "text": "Lol, that was hilarious.", 
+            "author": "Emperor Palpatine"
+        }, 
+        {
+            "date": "2014-03-09T00:36:03.816Z", 
+            "text": "Hi there! Great, I mean GREAT videos! Its been really USEFULL! Obs. Where I \ncan get a TI-86 emulator like that ? Really cool :-)\ufeff", 
+            "author": "Adail Junior"
+        }, 
+        {
+            "date": "2014-03-06T12:52:36.123Z", 
+            "text": "", 
+            "author": "Bayu Aldi Yansyah"
+        }, 
+        {
+            "date": "2014-02-28T19:33:47.690Z", 
+            "text": "^-^ now i understand, much thanks and the God bless you\ufeff", 
+            "author": "marshu kun"
+        }, 
+        {
+            "date": "2014-02-18T19:29:48.750Z", 
+            "text": "If you are looking for additional lecture notes on your University classes, \nor would like to upload your notes for cash, check out the extensive \ncollection of notes on Oneclass.com. \n\nP.S. Enter promo code\"JPARK\" on signup for 50 extra credits. \ufeff", 
+            "author": "Jeong Woo Park"
+        }, 
+        {
+            "date": "2014-02-10T21:36:23.000Z", 
+            "text": "any example of practical application of this?\ufeff", 
+            "author": "l3ertuz"
+        }, 
+        {
+            "date": "2014-03-24T22:14:54.352Z", 
+            "text": "This is the basic of calculus. Calculus is used everyday. You can build \nplanes, computers, send shit to space and other important things our \nsocienty does.\nWith calculus you are able to describe the universe where you live, and \nsolve almost any time of complex problem.", 
+            "author": "Eduardo Gon\u00e7alves"
+        }, 
+        {
+            "date": "2014-03-21T23:55:29.527Z", 
+            "text": "develops logic thoughts", 
+            "author": "Vin\u00edcius Moraes"
+        }, 
+        {
+            "date": "2014-02-09T22:21:22.958Z", 
+            "text": "How does a math video have so many views!!\ufeff", 
+            "author": "samworthick"
+        }, 
+        {
+            "date": "2014-02-08T18:28:18.007Z", 
+            "text": "uhumhum!! 2^2 = 1......hmmm :/ ........... :/ .........! ! ! ! ! !\ufeff", 
+            "author": "JLRButch"
+        }, 
+        {
+            "date": "2014-06-11T03:12:10.489Z", 
+            "text": "Look at the function he defined......", 
+            "author": "Dj Cyclops"
+        }, 
+        {
+            "date": "2014-02-07T15:33:20.117Z", 
+            "text": "I hate limits it so confusing.\ufeff", 
+            "author": "nguyentt010"
+        }, 
+        {
+            "date": "2014-02-01T15:20:13.000Z", 
+            "text": "what a terribola!\ufeff", 
+            "author": "MrEraycer"
+        }, 
+        {
+            "date": "2014-01-29T16:56:22.969Z", 
+            "text": "You're awesome!!!\ufeff", 
+            "author": "Perla Hernandez"
+        }, 
+        {
+            "date": "2014-01-25T02:57:04.024Z", 
+            "text": "amazing!!! Simply put...amazing!\ufeff", 
+            "author": "tlocke23"
+        }, 
+        {
+            "date": "2014-01-23T12:24:41.364Z", 
+            "text": "Thank you sooo so much for this :')\ufeff", 
+            "author": "natjaa"
+        }, 
+        {
+            "date": "2014-01-21T02:38:47.211Z", 
+            "text": "Thank you bro.\ufeff", 
+            "author": "Jafet Ruiz"
+        }, 
+        {
+            "date": "2014-01-18T01:29:59.885Z", 
+            "text": "Has anyone else noticed that Sal sounds very different in his older and \nnewer videos?\nIn his old videos he sounds super-relaxed and a little tired, and in his \nnewer videos he sounds very enthusiastic.\ufeff", 
+            "author": "Laurelindo"
+        }, 
+        {
+            "date": "2014-02-21T18:48:09.949Z", 
+            "text": "As was said in a 2Veritasium video, \"The camera subtracts 20% of your \nenthusiasm.\"\nI guess Salman realized that later on.", 
+            "author": "MystyrNile"
+        }, 
+        {
+            "date": "2013-12-08T11:38:54.037Z", 
+            "text": "Anyone knows the program used by khan to teaching? Thanks!\ufeff", 
+            "author": "Daniel Faleiro"
+        }, 
+        {
+            "date": "2014-01-13T05:30:12.117Z", 
+            "text": "http://khanacademy.desk.com/customer/portal/articles/329318-what-software-program-equipment-is-used-to-make-khan-academy-videos-", 
+            "author": "Ermir Murtezani"
+        }, 
+        {
+            "date": "2013-11-30T08:33:30.377Z", 
+            "text": "nearly a million views? on a calculus video? wow this is cool-everyone \nwanting to learn and someone providing a free education! Humanity is pretty \ncool sometimes\ufeff", 
+            "author": "IV WakeTheDead"
+        }, 
+        {
+            "date": "2014-10-19T21:48:30.363Z", 
+            "text": "+Ignatius Michael Exactly the same thing here", 
+            "author": "\u202b\u0632\u064a\u0627\u062f \u0627\u0644\u062c\u0645\u064a\u0644\u202c\u200e"
+        }, 
+        {
+            "date": "2014-09-10T02:38:49.037Z", 
+            "text": "true, higher taxes tho", 
+            "author": "IgnatiusPlays (valetta)"
+        }, 
+        {
+            "date": "2014-08-10T18:37:20.993Z", 
+            "text": "+Ignatius Michael lol you bought it with your taxes", 
+            "author": "Nick \u201cMcdZ\u201d Mac"
+        }, 
+        {
+            "date": "2014-05-30T19:06:54.000Z", 
+            "text": "It would be great if everybody on this planet wanted an education and a job \n(career) so that they can give back to society and benefit humanity instead \nof trying to destroy humanity.", 
+            "author": "MrCoffeeRelaxation"
+        }, 
+        {
+            "date": "2014-02-26T01:20:03.254Z", 
+            "text": "yea my professor isn't great at all", 
+            "author": "KD360Productions"
+        }, 
+        {
+            "date": "2014-04-12T23:59:12.000Z", 
+            "text": "In Canada, it's already free, it's just that my teacher can't teach.", 
+            "author": "IgnatiusPlays (valetta)"
+        }, 
+        {
+            "date": "2013-11-27T12:28:41.389Z", 
+            "text": "Why he is not my physics-maths teacher?! Khan! hope you read this, THANK \nYOU! man thanks to you I somehow think that I may pass physics this \nsemester! never stop doing this! I love you... I do, really.\ufeff", 
+            "author": "Pamela Vilela"
+        }, 
+        {
+            "date": "2013-11-20T17:46:42.197Z", 
+            "text": "guy's sense of humor^\ufeff", 
+            "author": "Arushi Bhargava"
+        }, 
+        {
+            "date": "2013-11-12T03:53:43.514Z", 
+            "text": "why cant he be my high school teacher\ufeff", 
+            "author": "aaron delgado"
+        }, 
+        {
+            "date": "2013-11-09T06:27:33.734Z", 
+            "text": "What that program?\ufeff", 
+            "author": "Anacleta Ludovica"
+        }, 
+        {
+            "date": "2013-11-09T01:47:14.160Z", 
+            "text": "Push It To The Limit (scarface)\ufeff", 
+            "author": "Doug Brown"
+        }, 
+        {
+            "date": "2013-10-27T02:08:11.848Z", 
+            "text": "god bless the Youtube", 
+            "author": "Janick"
+        }, 
+        {
+            "date": "2013-10-23T18:57:36.911Z", 
+            "text": "douche ", 
+            "author": "rthrhehe e"
+        }, 
+        {
+            "date": "2013-10-22T01:16:00.556Z", 
+            "text": "there are teachers which are liked by some students and not by some others \nand that's simply because some students could totally understand their WAY \nof teaching but others have no idea what's going on! Your videos and \ntutorials and the WAY you teach, Khan Sir, I believe fits into the \nunderstanding of, if not all, MOST of the students of the WORLD. We truly \nrespect you. Thank you for making things easy for us. :)", 
+            "author": "sheetal puri"
+        }, 
+        {
+            "date": "2013-10-21T03:06:04.624Z", 
+            "text": "hi ", 
+            "author": "12345678976543ful"
+        }, 
+        {
+            "date": "2013-10-21T03:05:50.904Z", 
+            "text": "hi ", 
+            "author": "12345678976543ful"
+        }, 
+        {
+            "date": "2013-10-21T01:38:47.649Z", 
+            "text": "like he showed off his talent in a few videos, and generally if you teach \none audience well, why don't you do the rest of the world that favor; \nsomething that's very hard to back down upon, thus having a kind of feeling \nthat you must teach everyone, kinda like batman protecting the citizens of \nGotham. so you could say his soul is clutched, never to free unless he \nphysically is incapable of teaching, or if he's taught it all.", 
+            "author": "CristianDMusic"
+        }, 
+        {
+            "date": "2013-10-20T19:10:05.793Z", 
+            "text": "Wala bzhy xala khan...", 
+            "author": "Zhiran Taha"
+        }, 
+        {
+            "date": "2013-10-17T20:31:07.668Z", 
+            "text": "unspecified*", 
+            "author": "Mohamed Nabil"
+        }, 
+        {
+            "date": "2013-10-12T14:49:54.660Z", 
+            "text": "Application of Limit&Differential is widely use in programming and \nengineering", 
+            "author": "Jack Koo"
+        }, 
+        {
+            "date": "2013-10-11T19:51:58.503Z", 
+            "text": "10:30 calm down hitler", 
+            "author": "tooshort4u31"
+        }, 
+        {
+            "date": "2013-10-10T21:22:09.975Z", 
+            "text": "This is such a clear simple and concise explanation! I am currently \nlearning calculus for the first time this helps a lot. Thanks!", 
+            "author": "JiaJiaing"
+        }, 
+        {
+            "date": "2013-10-08T23:05:02.196Z", 
+            "text": "what do you mean he 'sold his soul'?", 
+            "author": "allthingsjannah"
+        }, 
+        {
+            "date": "2013-10-03T22:37:03.979Z", 
+            "text": "man, khan academy guy sold his soul, can't imagine how much effort all \nthese lessons take. i know it's over the course of a long time but still, \ndoing a great service nevertheless", 
+            "author": "CristianDMusic"
+        }, 
+        {
+            "date": "2013-09-28T20:19:46.973Z", 
+            "text": "I'm not even in Calculus so this is a great way to learn it! (^_^)", 
+            "author": "Prof. Lulamoon"
+        }, 
+        {
+            "date": "2013-09-25T20:50:13.658Z", 
+            "text": "why can't you be my calculus teacher!", 
+            "author": "Carolyn Vasheghani"
+        }, 
+        {
+            "date": "2013-09-24T23:46:38.706Z", 
+            "text": "that calculator though..", 
+            "author": "Matt McKee"
+        }, 
+        {
+            "date": "2013-09-19T21:19:20.135Z", 
+            "text": "oh and these videos have already helped me pass 7 tests so thank you so \nmuch :) your a life saver", 
+            "author": "anthony short"
+        }, 
+        {
+            "date": "2013-09-19T21:18:40.637Z", 
+            "text": "What program do you use for these videos? ", 
+            "author": "anthony short"
+        }
+    ]
+}

@@ -1,0 +1,979 @@
+{
+    "publish_date": "2015-03-20T21:00:00.000Z", 
+    "video_length": "PT4M44S", 
+    "captions": [
+        {
+            "text": "What if we could improve the human gene pool?", 
+            "dur": "3", 
+            "start": "0.21"
+        }, 
+        {
+            "text": "Create children that are free of the genes\nthat cause inherited diseases, like Huntington\u2019s", 
+            "dur": "4.54", 
+            "start": "3.21"
+        }, 
+        {
+            "text": "or certain kinds of cancer, by modifying the\nDNA in eggs, sperm, or embryos?", 
+            "dur": "4.929", 
+            "start": "7.75"
+        }, 
+        {
+            "text": "Well, it\u2019s possible.", 
+            "dur": "1.101", 
+            "start": "12.679"
+        }, 
+        {
+            "text": "The media have been talking about it lately\nin terms of \u201cgenetically modified humans\u201d", 
+            "dur": "3.809", 
+            "start": "13.78"
+        }, 
+        {
+            "text": "or \u201cdesigner babies.\u201d", 
+            "dur": "2.34", 
+            "start": "17.589"
+        }, 
+        {
+            "text": "But to scientists, it\u2019s known as germ-line\nengineering -- referring to the germ cells,", 
+            "dur": "3.44", 
+            "start": "19.929"
+        }, 
+        {
+            "text": "or sperm and egg cells that come together\nto create an embryo.", 
+            "dur": "3.05", 
+            "start": "23.369"
+        }, 
+        {
+            "text": "Putting an end to heritable disease sounds\nlike a crowd-pleasing idea, right?", 
+            "dur": "4", 
+            "start": "26.419"
+        }, 
+        {
+            "text": "But germ-line engineering is pretty controversial.\nIn fact, about 40 countries either discourage", 
+            "dur": "4.39", 
+            "start": "30.419"
+        }, 
+        {
+            "text": "or outright ban the practice.", 
+            "dur": "2", 
+            "start": "34.809"
+        }, 
+        {
+            "text": "And yet, researchers continue to inch closer\nto performing germ-line engineering experiments", 
+            "dur": "4.191", 
+            "start": "36.809"
+        }, 
+        {
+            "text": "on humans.", 
+            "dur": "0.46", 
+            "start": "41"
+        }, 
+        {
+            "text": "This has prompted some geneticists, in the\nnew issue of the journal Nature to call for", 
+            "dur": "3.399", 
+            "start": "41.46"
+        }, 
+        {
+            "text": "a moratorium on germ-line engineering.", 
+            "dur": "1.88", 
+            "start": "44.859"
+        }, 
+        {
+            "text": "And in this week\u2019s journal Science, other\nresearchers voiced their concerns, too, saying", 
+            "dur": "4.55", 
+            "start": "46.739"
+        }, 
+        {
+            "text": "that more people -- including the general\npublic -- have to get involved in the discussion", 
+            "dur": "4.25", 
+            "start": "51.289"
+        }, 
+        {
+            "text": "before we start editing people\u2019s sperm and\negg cells.", 
+            "dur": "2.8", 
+            "start": "55.539"
+        }, 
+        {
+            "text": "So how does germ-line engineering work? And\nwhat should I think about it?", 
+            "dur": "3.43", 
+            "start": "58.339"
+        }, 
+        {
+            "text": "Okay, I\u2019m not going to tell you what to\nthink, but I will tell you what you need to", 
+            "dur": "6.39", 
+            "start": "61.769"
+        }, 
+        {
+            "text": "know.", 
+            "dur": "3.371", 
+            "start": "68.159"
+        }, 
+        {
+            "text": "[Intro]", 
+            "dur": "3.369", 
+            "start": "71.53"
+        }, 
+        {
+            "text": "Since scientists first began sequencing the\nhuman genome in 1990, they have identified", 
+            "dur": "3.891", 
+            "start": "74.899"
+        }, 
+        {
+            "text": "thousands of genes that increase our risk\nfor certain diseases.", 
+            "dur": "3.3", 
+            "start": "78.79"
+        }, 
+        {
+            "text": "Take ovarian and breast cancer, which can\nbe linked to the mutation of a gene called", 
+            "dur": "3.459", 
+            "start": "82.09"
+        }, 
+        {
+            "text": "BRCA1.", 
+            "dur": "1.091", 
+            "start": "85.549"
+        }, 
+        {
+            "text": "This got some researchers to thinking: What\nif we could swap out that mutated gene, and", 
+            "dur": "4.299", 
+            "start": "86.64"
+        }, 
+        {
+            "text": "put in a new one?", 
+            "dur": "1.011", 
+            "start": "90.939"
+        }, 
+        {
+            "text": "And what if you replaced that mutated gene\nbefore an embryo even developed -- like, in", 
+            "dur": "3.51", 
+            "start": "91.95"
+        }, 
+        {
+            "text": "an egg or sperm cell?", 
+            "dur": "1.329", 
+            "start": "95.46"
+        }, 
+        {
+            "text": "Then you could use that cell to create an\nembryo with a healthy BRCA1 gene, drastically", 
+            "dur": "5.22", 
+            "start": "96.789"
+        }, 
+        {
+            "text": "reducing the risk of those cancers... and\nnot just for one embryo, but for its offspring,", 
+            "dur": "5.091", 
+            "start": "102.009"
+        }, 
+        {
+            "text": "too.", 
+            "dur": "0.519", 
+            "start": "107.1"
+        }, 
+        {
+            "text": "In 2013, scientists found a way to do this,\nusing a system called CRISPR.", 
+            "dur": "3.96", 
+            "start": "107.619"
+        }, 
+        {
+            "text": "The technology is actually based on the way\nbacteria defend themselves against viruses.", 
+            "dur": "4", 
+            "start": "111.579"
+        }, 
+        {
+            "text": "When a bacterium detects that a virus has\ninfiltrated it, it releases what\u2019s known", 
+            "dur": "3.591", 
+            "start": "115.579"
+        }, 
+        {
+            "text": "as guide RNA, a strand of genetic information\nthat contains a sequence that matches part", 
+            "dur": "5.04", 
+            "start": "119.17"
+        }, 
+        {
+            "text": "of the virus\u2019 DNA.", 
+            "dur": "1.259", 
+            "start": "124.21"
+        }, 
+        {
+            "text": "And attached to it is an enzyme, called cas9.", 
+            "dur": "3.001", 
+            "start": "125.469"
+        }, 
+        {
+            "text": "The guide RNA acts like a homing device, leading\nthe enzyme to the matching segment of viral", 
+            "dur": "4.34", 
+            "start": "128.47"
+        }, 
+        {
+            "text": "DNA.", 
+            "dur": "0.56", 
+            "start": "132.81"
+        }, 
+        {
+            "text": "When the two strands meet, the enzyme goes\ninto action, acting like a pair of scissors", 
+            "dur": "3.98", 
+            "start": "133.37"
+        }, 
+        {
+            "text": "to snip out that section of viral DNA, rendering\nit useless.", 
+            "dur": "3.97", 
+            "start": "137.35"
+        }, 
+        {
+            "text": "Scientists discovered that they could imitate\nthis process, modifying guide RNA to find", 
+            "dur": "3.89", 
+            "start": "141.32"
+        }, 
+        {
+            "text": "any sequence of DNA in any organism, including\nhumans.", 
+            "dur": "3.9", 
+            "start": "145.21"
+        }, 
+        {
+            "text": "So, theoretically, they could inject a segment\nof DNA that represents a healthy, unmutated", 
+            "dur": "4.51", 
+            "start": "149.11"
+        }, 
+        {
+            "text": "gene and use that to replace a mutated one\nin an egg or sperm cell.", 
+            "dur": "4.06", 
+            "start": "153.62"
+        }, 
+        {
+            "text": "The genome of that germ cell would be permanently\nedited, and so would all of the cells in the", 
+            "dur": "4.42", 
+            "start": "157.68"
+        }, 
+        {
+            "text": "organism that it went on to form.", 
+            "dur": "1.91", 
+            "start": "162.1"
+        }, 
+        {
+            "text": "This method has been tested on rats and monkeys,\nand lately talk has turned to seeing if it", 
+            "dur": "4.11", 
+            "start": "164.01"
+        }, 
+        {
+            "text": "is possible with human germ cells.", 
+            "dur": "2.47", 
+            "start": "168.12"
+        }, 
+        {
+            "text": "Researchers at Harvard, for instance, say\nthey\u2019ve considered obtaining an egg from", 
+            "dur": "2.93", 
+            "start": "170.59"
+        }, 
+        {
+            "text": "a patient with ovarian cancer, and using CRISPR\nto replace the BRCA1 gene in the egg with", 
+            "dur": "5.53", 
+            "start": "173.52"
+        }, 
+        {
+            "text": "a gene without the mutation.", 
+            "dur": "1.29", 
+            "start": "179.05"
+        }, 
+        {
+            "text": "That\u2019s when five prominent geneticists showed\nup in the journal Nature, calling for a moratorium.", 
+            "dur": "4.38", 
+            "start": "180.34"
+        }, 
+        {
+            "text": "So. What\u2019s the problem?", 
+            "dur": "1.65", 
+            "start": "184.72"
+        }, 
+        {
+            "text": "Well, for one thing, they say, germ-line engineering\nis unpredictable.", 
+            "dur": "2.94", 
+            "start": "186.37"
+        }, 
+        {
+            "text": "In an experiment on monkeys done at MIT, it\nonly succeeded about 20 to 40 percent of the", 
+            "dur": "5.09", 
+            "start": "189.31"
+        }, 
+        {
+            "text": "time.", 
+            "dur": "0.25", 
+            "start": "194.4"
+        }, 
+        {
+            "text": "And when it doesn\u2019t work, it can accidentally\ndelete parts of the genome that weren\u2019t", 
+            "dur": "3.71", 
+            "start": "194.61"
+        }, 
+        {
+            "text": "targeted, potentially creating new mutations.", 
+            "dur": "2.85", 
+            "start": "198.32"
+        }, 
+        {
+            "text": "Plus, they point out that CRISPR isn\u2019t the\nonly way to make sure that a child doesn\u2019t", 
+            "dur": "3.65", 
+            "start": "201.17"
+        }, 
+        {
+            "text": "inherit a mutation.", 
+            "dur": "1.12", 
+            "start": "204.82"
+        }, 
+        {
+            "text": "With methods like in vitro fertilization -- where\nthe egg is fertilized outside the womb -- embryos", 
+            "dur": "4.53", 
+            "start": "205.94"
+        }, 
+        {
+            "text": "can be tested for mutations before they\u2019re\nimplanted into the mother, so no offspring", 
+            "dur": "4.21", 
+            "start": "210.47"
+        }, 
+        {
+            "text": "can get the bad gene.", 
+            "dur": "1.23", 
+            "start": "214.68"
+        }, 
+        {
+            "text": "Now, to be clear, the critics of germ-line\nengineering don\u2019t have any problem with", 
+            "dur": "3.27", 
+            "start": "215.91"
+        }, 
+        {
+            "text": "tinkering with people\u2019s genes in general.", 
+            "dur": "1.82", 
+            "start": "219.18"
+        }, 
+        {
+            "text": "In fact, the authors of the op-ed in Nature\nare some of the leading figures of somatic", 
+            "dur": "4.1", 
+            "start": "221"
+        }, 
+        {
+            "text": "cell engineering.", 
+            "dur": "1.52", 
+            "start": "225.1"
+        }, 
+        {
+            "text": "Somatic cells are the non-reproductive cells\nin our bodies, and somatic cell engineering", 
+            "dur": "4.26", 
+            "start": "226.62"
+        }, 
+        {
+            "text": "aims to eliminate mutations in enough of those\ncells to reverse the course of some diseases.", 
+            "dur": "4.79", 
+            "start": "230.88"
+        }, 
+        {
+            "text": "This technique can use CRISPR, too, but its\neffects would be non-heritable. So it wouldn\u2019t", 
+            "dur": "3.42", 
+            "start": "235.67"
+        }, 
+        {
+            "text": "transfer to the offspring.", 
+            "dur": "1.32", 
+            "start": "239.09"
+        }, 
+        {
+            "text": "The authors are also worried that public concerns\nabout genetically engineering embryos could", 
+            "dur": "3.87", 
+            "start": "240.41"
+        }, 
+        {
+            "text": "have a negative effect on their less-controversial,\nbut similar-sounding, research.", 
+            "dur": "4.24", 
+            "start": "244.28"
+        }, 
+        {
+            "text": "Until scientists, the public, and the legal\nsystem can all figure out how we\u2019re going", 
+            "dur": "3.99", 
+            "start": "248.52"
+        }, 
+        {
+            "text": "to deal with germ-line engineering, they want\nresearchers to pause developing the technology.", 
+            "dur": "4.49", 
+            "start": "252.51"
+        }, 
+        {
+            "text": "So, those are the facts.", 
+            "dur": "1.879", 
+            "start": "257"
+        }, 
+        {
+            "text": "Science will never be a stranger to controversy,\nso neither should your brain.", 
+            "dur": "3.38", 
+            "start": "258.879"
+        }, 
+        {
+            "text": "What do you think? Let us know on Facebook\nor twitter or in the comments below. And if", 
+            "dur": "3.4", 
+            "start": "262.259"
+        }, 
+        {
+            "text": "you want to keep understanding the science\nbehind the headlines, head over to Patreon.com/scishow", 
+            "dur": "5.331", 
+            "start": "265.659"
+        }, 
+        {
+            "text": "to see how you can become a SciShow Patron.", 
+            "dur": "2.14", 
+            "start": "270.99"
+        }
+    ], 
+    "title": "The Science Behind 'Genetically Modified Humans'", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/0yq3q1b", 
+        "/m/037mm", 
+        "/m/07kcclw"
+    ], 
+    "number_views": 357104, 
+    "categories": [
+        27
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-09T14:54:03.505Z", 
+            "text": "I only think this should be used for health reasons not to gain smarts, \nbeauty or skill, if not these babies won't go through any learning process \nin life because everythings soooo easy, they'll easily find a job with \ntheir smarts and skills and probably marry because of their beauty and \nthey'll have the best life anyone could ask for. And its not like these \nbabies would've worked for their knowledge, beauty , and skills. It's \nbecause they had rich parents who could afford it. While rich children are \nzooming through math problems and skipping grades poor kids (and middle \nclass) will be studying their butts off trying to keep up. \ufeff", 
+            "author": "XOXFluffiXOX"
+        }, 
+        {
+            "date": "2015-05-08T02:01:02.766Z", 
+            "text": "i think they should continue developing the technology in animals for a \nwhile before they move on to human testing. the risks of inadvertent \nmutations are too great to play with human lives. eventually this could be \nthe cure for heritable cancer and other diseases in the human race but \nuntil we have it down to the point where the risks are sufficiently \nmitigated, it's not ethical to change someone's genome when we aren't ready \nyet.\ufeff", 
+            "author": "Andrew Mann"
+        }, 
+        {
+            "date": "2015-05-07T19:51:06.328Z", 
+            "text": "There shouldn't be a problem with this so long as it doesn't have perpetual \nnegative effects and Gattica doesn't become a reality.\ufeff", 
+            "author": "TheUltimoSniper"
+        }, 
+        {
+            "date": "2015-05-07T19:37:02.432Z", 
+            "text": "Spend a bit of money in advance to create a disease-free human and then \nlater on save a ton of money in care and medicine because said human is \nhealthy.\nSounds like a superb idea!\ufeff", 
+            "author": "PIXELFLUX"
+        }, 
+        {
+            "date": "2015-05-07T14:56:03.693Z", 
+            "text": "I think the people that are against this research should be called the sore \nlosers club.\ufeff", 
+            "author": "101Crock"
+        }, 
+        {
+            "date": "2015-05-07T12:35:03.222Z", 
+            "text": "The fact it can be done is the important part. As with all technology, it \nonly gets more refined as time goes on. The good news, we might (if people \naren't stupid about it), get to live forever.\ufeff", 
+            "author": "EveryTimeV2"
+        }, 
+        {
+            "date": "2015-05-07T05:34:35.660Z", 
+            "text": "Let me make sure I have this straight. \n\nThe publisher of the Op Ed works in a competing field of research, and in \nthe interest of protecting that field, chooses to speak ill of other \nresearch, not for its inherent risk, but let's be honest, because it \nprobably works better than the method he has in place.\n\nIn short, this isn't Science, this is Competitive Foul Play.\ufeff", 
+            "author": "TacComControl"
+        }, 
+        {
+            "date": "2015-05-06T23:07:52.321Z", 
+            "text": "I just want to be zerg :S\ufeff", 
+            "author": "FishyNiden"
+        }, 
+        {
+            "date": "2015-05-06T07:46:39.482Z", 
+            "text": "KHAN!!!!!!!!!!\ufeff", 
+            "author": "Otaku Bunny"
+        }, 
+        {
+            "date": "2015-05-04T12:01:25.200Z", 
+            "text": "why does peaple have to say no to the future\n\n\nIs is indeed a sad day for humanity\ufeff", 
+            "author": "Emil Lybech"
+        }, 
+        {
+            "date": "2015-05-01T18:39:37.279Z", 
+            "text": "I might just volunteer for some of these human trials. I'm so screwed up \nanyways, so I don't have much to loose by trying to fix something!\ufeff", 
+            "author": "speed284504"
+        }, 
+        {
+            "date": "2015-04-29T17:09:49.277Z", 
+            "text": "If the researchers did it anyway, what could the government do? Murder the \nchild? Hide the facts? It would be too late to undo it and news would \nspread too fast to hush it.\ufeff", 
+            "author": "Marx Izalias"
+        }, 
+        {
+            "date": "2015-04-28T23:21:27.526Z", 
+            "text": "Has any one seen the movie Gattaca?\ufeff", 
+            "author": "ZEO900"
+        }, 
+        {
+            "date": "2015-04-28T17:19:58.633Z", 
+            "text": "im all for deleting cancer from humanity. But making someone stronger or \nsmarter, thats where i draw the line :P\ufeff", 
+            "author": "titan1986"
+        }, 
+        {
+            "date": "2015-04-28T02:32:30.853Z", 
+            "text": "I like to think about genetically modified humans the same way one might \nthink of cheat codes.\n\nYou might have the best intentions of tweaking or resetting your stats \nbecause you've made a mistake but you end up crossing lines you never \nintended... then its too late and you have broken the game.\ufeff", 
+            "author": "ParanoidPixel"
+        }, 
+        {
+            "date": "2015-04-27T03:37:15.645Z", 
+            "text": "Since they can change the skin tone of future kids, maybe there won't be a \nrace problem that divides us in a few generations. Classifications such as \nnon-modified humans and modified humans sounds a lot better than asian, \nblack, white, arab, indian, native etc.\ufeff", 
+            "author": "Klinston Jovinus"
+        }, 
+        {
+            "date": "2015-04-27T02:16:00.618Z", 
+            "text": "Divergent anyone?\ufeff", 
+            "author": "Danish4uDanish4me"
+        }, 
+        {
+            "date": "2015-04-27T01:27:01.424Z", 
+            "text": "IS THIS JERK MODIFIED? HE SOUNDS LIKE A FUCKING IDIOT\ufeff", 
+            "author": "Free Cuban"
+        }, 
+        {
+            "date": "2015-04-26T03:48:51.974Z", 
+            "text": "I just wanta dick bigger then 3 inches\ufeff", 
+            "author": "Chris Moreno"
+        }, 
+        {
+            "date": "2015-04-25T15:32:54.000Z", 
+            "text": "I hate it when people that have nothing to to with the disease try to ruin \nit for people who have it with the bullcrap ethics talk. Let's form a \ncommittee that decides whether or not to use this technology, but the \ncommittee must consist *only* of those people who actually have the \ndisease. Only they have the right to decide.\ufeff", 
+            "author": "ZyTelevan"
+        }, 
+        {
+            "date": "2015-04-25T12:47:32.134Z", 
+            "text": "this is going to be awsome! hope i live to see it! lets see... ive got \nabout 80-60 years left in my life. maybe.\ufeff", 
+            "author": "Donut Ten"
+        }, 
+        {
+            "date": "2015-04-25T03:08:12.503Z", 
+            "text": "Is it possible to analyze my genes and figure out which disease I am most \nlikely to die by?\ufeff", 
+            "author": "007VitaminD"
+        }, 
+        {
+            "date": "2015-04-25T02:57:39.944Z", 
+            "text": "Could this slow down the aging process as well?? Could humans live up to be \nlike 200 years or so if they took care of their genetically modified \nbodies???\ufeff", 
+            "author": "concious caution"
+        }, 
+        {
+            "date": "2015-04-25T12:50:23.163Z", 
+            "text": "+concious caution death by oldness in PROGRAMMED INTO US! not just 200, but \nforever, unless we die a violent way", 
+            "author": "Donut Ten"
+        }, 
+        {
+            "date": "2015-04-23T20:16:24.969Z", 
+            "text": "It's happened:\nhttp://www.washingtonpost.com/news/speaking-of-science/wp/2015/04/22/the-rumors-were-true-scientists-edited-the-genomes-of-human-embryos-for-the-first-time/\n\ufeff", 
+            "author": "Lynette Cowper"
+        }, 
+        {
+            "date": "2015-04-23T03:37:47.740Z", 
+            "text": "I suppose the Eugenics Wars were gonna come eventually, We are about 20 \nyears over due\ufeff", 
+            "author": "Patrick Gregory"
+        }, 
+        {
+            "date": "2015-04-22T05:08:17.777Z", 
+            "text": "Why are there those 2 hole in electrical plugs?\ufeff", 
+            "author": "Gregoryswank"
+        }, 
+        {
+            "date": "2015-04-21T12:39:26.673Z", 
+            "text": "Gatica.....\ufeff", 
+            "author": "Trichome Farmer"
+        }, 
+        {
+            "date": "2015-04-20T17:25:07.418Z", 
+            "text": "The fact that this technology even exists freaks me out. You have to be \nVERY naive to think this will only be used to cure diseases and \"for the \ngood of humanity\", how long until corporations or the government exploit \nthis to make people more gullible or whatever, this research should have \nnever been done.\ufeff", 
+            "author": "CrashDavi"
+        }, 
+        {
+            "date": "2015-04-19T00:22:57.346Z", 
+            "text": "I used to think it'd be dangerous to allow any sort of genetic engineering \nin humans, as it could potentially lead to a gattaca like world or \nsomething like the situation in star trek or Andromeda... But I've come to \nbelieve that that view is a bit cynical, and as long as proper precautions \nare taken, and once we perfect the process, it would in fact be cruel to \nnot genetically engineer humans. and not just to get rid of \ngenetically-predisposed diseases- pretty much anything that could relieve \nsuffering in humans, or make us 'better' would be the right thing to do, if \nwe want a better future for our descendants. Including strength and \nintelligence improvements. No, them being a \"better\" human in various \naspects in no way would mean normal humans are worse, just like males being \nstronger than females in no way makes them the 'better' gender.\ufeff", 
+            "author": "James Caswell"
+        }, 
+        {
+            "date": "2015-04-17T09:22:52.358Z", 
+            "text": "Damn it I wanted it to be cosmetic. Future humans looking like final \nfantasy and what not lol.\nBut uh yeah no cancer is cool too...\ufeff", 
+            "author": "Ninaquas _"
+        }, 
+        {
+            "date": "2015-04-17T07:39:26.582Z", 
+            "text": "bumped down: the thing latches on to the bad thing and the other thing \nreplaces that thing in the thing to make the thing not a bad thing, but a \ngood thing... or a normal thing. so that the baby thing can be a healthy \nthing and not have any cancers in its things. hope this helps\ufeff", 
+            "author": "Mr Fluffer Toootle"
+        }, 
+        {
+            "date": "2015-04-17T03:53:24.797Z", 
+            "text": "As much as I support the basic premise of improving ourselves, I have to \nagree with the idea that we need to slow down and take a breath before \nmoving on with such technologies.\n\nNot to sound cliche'd, but no one really understood the full impact of \nnuclear weapons until we detonated one.\n\nAnd while it has led to incredible advances in a great many scientific \nfields, we learned that it would behoove us to tread carefully with the \ntechnology.\n\nNow we face technologies with similarly vast consequences, it would be wise \nto look back on our mistakes and say \"Eh, let's talk this through first.\"\n\n\nShould we move forward on development of Genetic Engineering in Humans? \n Yes, absolutely.\n\nShould we take our time and think it through as we explore this new \nterritory?  Yes, absolutely.\n\nThere's no rush, we'll learn what we're going to learn eventually.\ufeff", 
+            "author": "Kirhean"
+        }, 
+        {
+            "date": "2015-04-16T22:39:10.426Z", 
+            "text": "good i want wings\ufeff", 
+            "author": "kian champion"
+        }, 
+        {
+            "date": "2015-04-16T12:15:37.151Z", 
+            "text": "if it works most of the time, than allow it. if not, its not worth the \nrisk. if its more harmful then beneficial, then stop.\ufeff", 
+            "author": "John Oliver"
+        }, 
+        {
+            "date": "2015-04-16T05:17:03.788Z", 
+            "text": "Personally, I say why not? We should at least try to fix or even eliminate \ngenetic diseases, and we can do all kinds of other cool things with the \ntechnology, so I say go right ahead\ufeff", 
+            "author": "odin draginda-burnett"
+        }, 
+        {
+            "date": "2015-04-15T18:50:27.387Z", 
+            "text": "I don't think I trust the human race enough quite yet with this.\ufeff", 
+            "author": "lve.defies.grvty"
+        }, 
+        {
+            "date": "2015-04-15T05:44:54.318Z", 
+            "text": "Great for future generations, but what about us!!! \n\nWould be great that when diagnosed with a disease you could walk into a \ngenetic clinic and walk out without it. \n\nSome singularity shit.\ufeff", 
+            "author": "Luis Casstle"
+        }, 
+        {
+            "date": "2015-04-14T23:34:15.418Z", 
+            "text": "Designing your own babies is a baaad idea. I have nothing aganist making \nthem immune for some of the diseases, but who knows how far will be push \nit? Will it come to the point where we design a personality of our \nchildren? Remember, that humans doesn't know when to stop. A good example \nof this is dynamite. It was invented to revolutionize mining and building, \nbut ended up as a weapon.\n\nThere are things which need to keep going as they do now.\ufeff", 
+            "author": "Adrian Matuszewski"
+        }, 
+        {
+            "date": "2015-04-14T16:30:43.699Z", 
+            "text": "Sounds like the movie Gattaca sounds good but it would probably be bad for \nthe people how don't want it there child would be an outcast to a \ngenetically elite class and would be considered a liability just like the \nmovie and the world would be missing out on people how had bad genes but \nwere amazing people how did the world justice by being here the brief time \nthey were hear because prolonging life doesn't always make things better. \nI'm for curing diseases but the human body is a mystery that can't be \neasily understood.\ufeff", 
+            "author": "Jason Shaffer"
+        }, 
+        {
+            "date": "2015-04-14T11:05:59.986Z", 
+            "text": "2:27 You said thy instead of they.\ufeff", 
+            "author": "catherine jackson"
+        }, 
+        {
+            "date": "2015-04-14T11:02:28.465Z", 
+            "text": "Does this mean being a neko is possible?\ufeff", 
+            "author": "catherine jackson"
+        }, 
+        {
+            "date": "2015-04-14T00:47:38.318Z", 
+            "text": "I say go for it, designer babies are wear it's at....Trust me if man can do \nit, they eventually will. Hell even the Rich and Powerful will eventually \ncreate Clones to put their old brains into someday.\ufeff", 
+            "author": "gradostax"
+        }, 
+        {
+            "date": "2015-04-13T05:29:02.411Z", 
+            "text": "crispr is the shit\ufeff", 
+            "author": "Ashwin Varma"
+        }, 
+        {
+            "date": "2015-04-13T04:18:52.546Z", 
+            "text": "As far as genetic disorders go, I don't know why you would be against \npeople undergoing such treatment. If someone with a horribly disfiguring \ngenetic mutation wants to have kids, why would anyone be against them \ngetting genetic modification to essentially phase out the possibility of it \nbeing passed on? \n\nIt should be up to the parents, if you want it done, get it done. If not, \nthen don't. \n\nIf it were genetically modified as in smarter, faster, stronger then I \nwould probably be against it *unless* everyone had equal opportunity to it.\ufeff", 
+            "author": "Hazel Emerson"
+        }, 
+        {
+            "date": "2015-04-12T07:34:22.364Z", 
+            "text": "Just adopt\ufeff", 
+            "author": "clmdtn4life"
+        }, 
+        {
+            "date": "2015-04-12T05:22:34.496Z", 
+            "text": "bruh we have already been genetically mutated. its really hard to explain \nbut basically i have tons of evidence backing up the fact that ancient \naliens once visited earth. and remember that story from the bible about the \nfirst humans?? well that was real but except its in the the sea and these \naliens took the neanderthal dna and added their own. we are half human half \nalien! dont believe me? idk what to so you just real arrogant, plus i have \nso much evidence that you have no way to prove all that didnt happen! imma \nlet that sink in\ufeff", 
+            "author": "Versace"
+        }, 
+        {
+            "date": "2015-04-16T22:43:02.896Z", 
+            "text": "+Paul Mahoney ok theres alot but i will point to the adam eve story. look \nat that serpent like creature and then read some modern day claims of \nsighting a reptillian. these reptillians are really evolved dinosaurs. what \nif every dinosaur didnt die. a scientists did an experiment about this \nspecific dinosaur species and how it would like like today. they look \ncreepily familiar to reptillian descriptions. so what im saying is that \nsnake was a reptillian and knew much of DNA mutations and mutated our DNA \nto become the humans we are today. this totally makes sense because one day \nwe are sitting in a cave then the next we are making huge pyramids and \nobelisks.", 
+            "author": "Versace"
+        }, 
+        {
+            "date": "2015-04-16T01:17:17.314Z", 
+            "text": "Where is the evidence you claim to have?", 
+            "author": "Paul Mahoney"
+        }, 
+        {
+            "date": "2015-04-12T01:27:56.674Z", 
+            "text": "Its going to happen one way or another\nespecially when obesity wipes out millions\ufeff", 
+            "author": "WeKnowTheTruth2012"
+        }, 
+        {
+            "date": "2015-04-11T16:06:58.683Z", 
+            "text": "Does this mean I could remove the gene for moderate intelligence and \nreplace it with genes for massive intelligence? Lazy for hard-working? Man, \nit will suck having all these super-humans taking up all the job vacancy. \nWhy would someone hire a natural when they could hire a genetically \nmodified embodiment of every good human nature...?\ufeff", 
+            "author": "Alan Lai"
+        }, 
+        {
+            "date": "2015-04-11T12:53:54.181Z", 
+            "text": "The problem with \"designer babies\" is that the human genome is very \ninterconnected. Turning one gene on or off could affect hundreds of others, \nso we need to fully understand all these connections before we genetically \nmodify people.\ufeff", 
+            "author": "Felix De Simone"
+        }, 
+        {
+            "date": "2015-04-10T16:12:51.603Z", 
+            "text": "what it could be: \"YAY! NO MORE CANCER! :D\"\nwhat it will probably turn into: \"MY BABY'S WOLVERINE! :D\"\ufeff", 
+            "author": "neosaneo2"
+        }, 
+        {
+            "date": "2015-04-10T11:37:34.206Z", 
+            "text": "x-men.. thats all Im thinking.\ufeff", 
+            "author": "Eduardo Dominguez"
+        }, 
+        {
+            "date": "2015-04-10T09:32:46.054Z", 
+            "text": "Religion once again slowing down the advancements of the human race. Smh. \nYou all know that's the biggest reason of why stuff like this isn't funded \nat the fullest extent.\ufeff", 
+            "author": "Editise"
+        }, 
+        {
+            "date": "2015-04-10T00:48:06.071Z", 
+            "text": "I'm one of the first clinically recorded pregnancy because my family \ncarries a birth defect that only effects boys and girls are carriers. They \nmade sure I was a girl and we will make sure my future daughter is not a \ncarrier\ufeff", 
+            "author": "Kathryn Harring"
+        }, 
+        {
+            "date": "2015-04-09T04:22:44.464Z", 
+            "text": "I think it's just wrong and it's probably going to go down hill like GMO \n(no one likes it).\ufeff", 
+            "author": "Murad Hassan"
+        }, 
+        {
+            "date": "2015-04-09T00:09:02.580Z", 
+            "text": "The only people against this are paranoid fear-mongering assholes.\ufeff", 
+            "author": "James Oldfield"
+        }, 
+        {
+            "date": "2015-04-08T22:55:02.127Z", 
+            "text": "Could you make a mutation so the eyes are blue\ufeff", 
+            "author": "luke avis"
+        }, 
+        {
+            "date": "2015-04-08T01:44:25.029Z", 
+            "text": "Yes but what are the possibilities of editing an already living human. I \nwant a sick pair of functional angel (or demon) wings.\ufeff", 
+            "author": "Tacobell1384"
+        }, 
+        {
+            "date": "2015-04-07T13:50:58.907Z", 
+            "text": "For the Greater Good\ufeff", 
+            "author": "JoeDirt PalomaTron"
+        }, 
+        {
+            "date": "2015-04-07T11:39:24.227Z", 
+            "text": "I would rather skip genetics altogether and become a machine , you can also \ndeactivate any criminals so , thats an extra bonus\ufeff", 
+            "author": "Pro-methean"
+        }, 
+        {
+            "date": "2015-04-07T10:14:04.495Z", 
+            "text": "That was far less opinionated and far more informative than your previous \nvideos on GM. I approve.\ufeff", 
+            "author": "Bart\u0142omiej Kulenko"
+        }, 
+        {
+            "date": "2015-04-07T03:10:01.532Z", 
+            "text": "so bioshock right?>\ufeff", 
+            "author": "Aubrey Ladan"
+        }, 
+        {
+            "date": "2015-04-06T22:29:57.341Z", 
+            "text": "They just need to just go ahead and do it... I mean, we already have the \nKardashians what could possibly be worse than that\ufeff", 
+            "author": "Stephen Ahloy"
+        }, 
+        {
+            "date": "2015-04-06T09:53:27.039Z", 
+            "text": "When watching this video, I was more thinking of the war implications \ngenetically modified humans could do on the battlefield.\ufeff", 
+            "author": "Captain Forge"
+        }, 
+        {
+            "date": "2015-04-06T04:18:12.785Z", 
+            "text": "99.9% of the human race does not have the proper level of consciousness to \nbe altering DNA. Not in plants, not in animals, and DEFIANTLY not in \nhumans. More effort and research should be spent on studying other aspects \nof the human being. In particular the electromagnetic aspects of the human \nbeing. Just like all the \"drugs\" out there that are supposed to treat or \nnumb various diseases, they all have unintended consequences which cause \nother serious problems. Just as mentioned in the video, those who modify \nDNA are more likely to cause more problems than solutions.\ufeff", 
+            "author": "Max Powers"
+        }, 
+        {
+            "date": "2015-04-05T19:56:26.902Z", 
+            "text": "I just don't understand how guide RNA can do it's job in human DNA. Viruses \nare sort of inorganic, so they have RNA to store genetic information, but \nwe only use RNA to make proteins, right? Also, how do we put the correct \ngene in after the bad gene has been cut out?\ufeff", 
+            "author": "Gootman Boats"
+        }, 
+        {
+            "date": "2015-04-04T23:53:54.582Z", 
+            "text": "I would have liked it, if you coud have talked a little bit more about the \nmechanisms behind the possible failures of Crsip9. It would have helped a \nlot. :)\nNow I have to look up the nature paper. ^^\ufeff", 
+            "author": "dadrumer"
+        }, 
+        {
+            "date": "2015-04-04T19:06:56.257Z", 
+            "text": "keep the research going. if we want to even out the odds of germ line \nengineering going wrong, then they should do the in vitro screening before \nthey allow the zygotes to mature into a baby. If that is not possible (i.e. \ngerm-line process goes wrong, and the element of dna snipped out and \nreplaced is unknown- along with possible future diseases it might cause), \nthen its safer to terminate that sample and repeat the process. Trial and \nError is probably our best bet to make this technology work in the future. \nOtherwise- there needs to be a better methodology with higher success rate \nbefore anyone allows a 'designer baby' to reach birth. the controversy this \nmight inspire is that in the uneducated pessimistic mind, certain factions \nof the public may view it as scientist trying to revive eugenics. Which is \na woefully poor judgement at best and should be ignored.\ufeff", 
+            "author": "JustAMG"
+        }, 
+        {
+            "date": "2015-04-04T14:38:19.344Z", 
+            "text": "Because this sounds exactly like the book Brave New world. It always starts \nas something for the betterment of society then turns into a weapon or a \nsuper race. Not a good Idea.\ufeff", 
+            "author": "AlttyO"
+        }, 
+        {
+            "date": "2015-04-05T14:09:04.821Z", 
+            "text": "+AlttyO BNW had nothing to do with weapons or super races.", 
+            "author": "Fortstorm"
+        }, 
+        {
+            "date": "2015-04-04T12:56:10.771Z", 
+            "text": "I think it is worthwhile to at least continue the research until such a \ntime that it can be determined 100% what to do with the tech. Already i can \nsee this being supremely life changing for new parents when they find out \ntheir unborn baby has a possible chance for (Insert hereditary or other \ntype of disease or dysfunction).\n\nFor a specific example, imagine you are having a kid and find out that it \nis at high risk for developing epilepsy. Not just any epilepsy, but the \nworst kind that comes with Gran Mal seizures. (These things are the killer \nones of the bunch.)\n\nThat baby is predestined to be on meds for the rest of their life.\n\nOr, the genes could be altered, and hopefully, might not develop that \nhorribly life debilitating trait.\n\nIf it were my kid, and the tech was complete and proven, i would use it.\n\nAnything less than 100% completion and i don't know, but for epilepsy and a \nfew others... i would because that shit sucks so bad, that i would rather \nrun the risk of losing the baby, than run the risk of screwing its whole \nlife up with Gran Mal seizures and side effects from meds to keep said \nseizures at bay.\n\nLucky for me i haven't had to make that decision yet.\ufeff", 
+            "author": "Crowned Son of Fire"
+        }, 
+        {
+            "date": "2015-04-04T10:35:30.168Z", 
+            "text": "i'd like to increase lifespan of humans too but i think it's better to \nimprove our educational system before doing so, otherwise we would have a \nbunch of immortal idiots ruining the planet and themselves\ufeff", 
+            "author": "HELL0RWIN"
+        }, 
+        {
+            "date": "2015-04-04T01:44:11.318Z", 
+            "text": "So i can make my baby look how i want? fuck ya.\ufeff", 
+            "author": "tardis \u201cRG\u201d tardis"
+        }, 
+        {
+            "date": "2015-04-04T00:04:52.682Z", 
+            "text": "Take that anti-science uber religious freaks! You shall no longer hinder \nthe advancement of science! \n\n\nSCIENCE BEFORE GOD!\ufeff", 
+            "author": "Andrew Obejero"
+        }, 
+        {
+            "date": "2015-04-03T23:47:13.181Z", 
+            "text": "Human genetic engineering? *has a cat-eared/tailed kid* Fuck yeah, my kid's \nmore adorable than yours. >:D\ufeff", 
+            "author": "MusicalPorpoise"
+        }, 
+        {
+            "date": "2015-04-03T12:10:34.858Z", 
+            "text": "I am ready for the future. I would have been ecstatic if my parents made me \ninto a super healthy baby with perfect genes. instead i ended up the fat \nkid with bad skin becos my metabolism is slow as hell and i don't get \nenough exercise. i say, tinker on. i'll be a guinea pig for sure. and my \nkids would thank me. then they would flap their wings, fly off into the \nsunset while cooking chicken dinner with their eye-beams.\ufeff", 
+            "author": "Jindorek"
+        }, 
+        {
+            "date": "2015-04-02T20:25:28.634Z", 
+            "text": "someone sucking monsantos dick?\ufeff", 
+            "author": "Kyle Bro"
+        }, 
+        {
+            "date": "2015-04-02T20:16:03.892Z", 
+            "text": "Let's consider brave new world for a second. In the book there is a class \nsystem, with the smartest and strongest at the top, and the dumbest and \nweakest at the bottom. what if we end up creating this. those who become \nmodified end thinking themselves superior to those who aren't, creating a \nnew form of oppression. something to think about.\ufeff", 
+            "author": "n8thegr8"
+        }, 
+        {
+            "date": "2015-04-02T20:10:52.745Z", 
+            "text": "Some people think that genetically modified food isn't real food, what if \npeople start thinking that genetically modified people aren't real humans?\n \ufeff", 
+            "author": "n8thegr8"
+        }, 
+        {
+            "date": "2015-04-06T19:15:07.489Z", 
+            "text": "I'm not calling anyone stupid, just closed minded and prejudiced, and \nperhaps certain records could be released or looked up, and than suddenly \nthat person can't get an apartment or hired. ", 
+            "author": "n8thegr8"
+        }, 
+        {
+            "date": "2015-04-05T18:19:58.147Z", 
+            "text": "+n8thegr8 Not *that* many people are *that* stupid. How would the even tell \nin the first place? ", 
+            "author": "Fortstorm"
+        }, 
+        {
+            "date": "2015-04-05T16:29:21.657Z", 
+            "text": "but may outnumber the rest, meaning that genetically modified people could \nbe terribly mistreated", 
+            "author": "n8thegr8"
+        }, 
+        {
+            "date": "2015-04-05T14:10:31.569Z", 
+            "text": "+n8thegr8 Then those people will be stupid.", 
+            "author": "Fortstorm"
+        }, 
+        {
+            "date": "2015-04-02T14:53:48.553Z", 
+            "text": "Fuck waiting for evolution we will just do it ourselves.\ufeff", 
+            "author": "Vox Nihili"
+        }, 
+        {
+            "date": "2015-04-02T11:16:48.740Z", 
+            "text": "This is humans V. the expansive universe. We are going to need all the help \nwe can get. Continue research on germ-line engineering and once it reaches \na more stable place, start human trials. \ufeff", 
+            "author": "Michael Hein"
+        }, 
+        {
+            "date": "2015-04-02T11:15:24.260Z", 
+            "text": "HAS SCIENCE NOT GONE FAR ENOUGH?!\ufeff", 
+            "author": "SuperLuigi Kirby"
+        }, 
+        {
+            "date": "2015-04-02T04:46:51.810Z", 
+            "text": "But couldn't people use this to \"\nCure\" things like homosexuality or other things seen as undesirable, such \nas asperger's syndrome ( I have spoken with many aspie and they do NOT see \nit as a bad thing, but doctors may see it otherwise) and as a paient, will \nI know what you are changing? What if I just want a genetic disorder fixed \nand you change other disorders without my permission? Do you have a right \nto do\nThat? \ufeff", 
+            "author": "roymustangsgirl007"
+        }, 
+        {
+            "date": "2015-04-07T23:27:47.945Z", 
+            "text": "+roymustangsgirl007 you are not born gay -Lady Gaga", 
+            "author": "XxdoggyshitxX op"
+        }, 
+        {
+            "date": "2015-04-01T19:44:10.903Z", 
+            "text": "The end of science is not to prove a theory, but to improve mankind. It \nasks how, but not why. In my humble opinion, and not just, a disblanace in \nthe magnetic fields due to disobeying nature's laws is what causes more \nthan 50% of the disease. Evil opens up doors to evil etc. When you start \nliving a life in which it feels the ego has taken over, well guess what \nhappens to your cells? They start moving the same way, AGAINST YOU! Science \nis NOT bad, but it makes itself sound like it's sure, when it really isn't. \nMath is a form of language, and language can NEVER explain the whole of \nexistance. The word is not the thing. I am not here to advertise anything, \nand no, I am not religious, but it is more than obvious to most, that there \nis a higher power outside of us, considering 95% of our actions are \nsubconscios. We can go ALL the way back to Adam and Eve if we say \"well we \nwere born like this\". Thought affects EVERYTHING, from the way you look, \nsmell to the way the outward world is. The world is perfect the way it is, \nin the sense that it reflects perfeclty the corrupt minds of people. Please \nlook into this more. SciShow is really entertaining and I am a subscriber, \nbut I just thought since this is one of the most famous channels for \nscience on YouTube, I'd like to just give a little bit of insight. I am not \nwilling to argue with anyone, but we can share opinions if you reply \npolitely. Thank you. :)\ufeff", 
+            "author": "Collective Consciousness"
+        }, 
+        {
+            "date": "2015-04-01T19:09:36.726Z", 
+            "text": "Eugenics and germ-line human-guided manipulation go hand-in-hand.  The \nelimination of \"diseases\" needs to be done (imho) one at a time lest we \ncross that threshold between eliminating diseases and engineering people. \n This topic is very involved and decisions need to be made carefully and \nsoberly.\ufeff", 
+            "author": "Night Elf"
+        }, 
+        {
+            "date": "2015-04-01T15:55:01.454Z", 
+            "text": "Tampering with genes to make \"Designer Babies\" should not happen. Here's \nwhy: God created us uniquely and he can help us get through diseases (or \neven get rid of them) IF WE LET HIM. That's the issue, we don't have faith \nthat he can (and sometimes that he is real). Personally, I don't think He \nwill let the technology be developed\u2026 EVER. Plus he Created science when he \ncreated the universe. Every law of physics and biology and any other \nsubject of science is created by him. (Theories DO NOT COUNT, because they \nare theories, not FACTS). He made science so complex so that we will never \nbe able to figure everything out about it. (Science is my favorite subject \nthough) We must not tamper with stuff we don't know about. \ufeff", 
+            "author": "TGautney 49"
+        }, 
+        {
+            "date": "2015-04-01T15:47:22.729Z", 
+            "text": "Dear retrogrades and fear-mongers,\n\nPlease stop trying to slow down scientific advancement and the expansion \nhuman collective knowledge. It is inevitable.\n\nSincerely,\nMe\ufeff", 
+            "author": "Snyde"
+        }, 
+        {
+            "date": "2015-04-01T12:13:42.570Z", 
+            "text": "There are so many good seeds for a killer science fiction novel in this \nvideo\ufeff", 
+            "author": "Cantrix1"
+        }, 
+        {
+            "date": "2015-04-01T05:10:58.051Z", 
+            "text": "Im not sure if i like the idea of my children not being at risk for genetic \ninherited diseases because I myself am at risk of developing parkansins \ndisease. This absolutely terrifies me. So making my children not at risk \nmakes me happy. But where does genetic modification go to far.\ufeff", 
+            "author": "Collin Bruce (OKMC)"
+        }, 
+        {
+            "date": "2015-04-01T04:54:38.829Z", 
+            "text": "That sounds like the children wouldn't be allowed to mate with the outdated \nmodel of man.\ufeff", 
+            "author": "Luther S.P."
+        }, 
+        {
+            "date": "2015-04-01T02:24:00.082Z", 
+            "text": "can anyone say gataca\ufeff", 
+            "author": "j cesarano"
+        }, 
+        {
+            "date": "2015-04-01T01:50:37.550Z", 
+            "text": "Honestly, I won't trust this type of stuff until the success rate goes to \nat least 80-90%. After that, then that's when everyone can start talking \nabout what we need to do to be able to get it to work with humans, and also \nfind ways to make legal systems change to support it. This'll help humanity \nout in the long run, that is if we don't destroy each other with nukes by \nthe time this procedure becomes successful. \ufeff", 
+            "author": "nonobaOMGWEEGEE2"
+        }, 
+        {
+            "date": "2015-03-31T23:10:02.763Z", 
+            "text": ">We can't risk messing up the genes\n>We'll just have to hope the cancer doesn't kill them, I guess\n\nSeems like an arbitrary decision to make, but I see how screwing with \nzygotes would be controversial- after all, you could screw them up for \nlife; who are you to decide which is the shorter of the two straws?\ufeff", 
+            "author": "Boomeus"
+        }, 
+        {
+            "date": "2015-03-31T22:44:46.207Z", 
+            "text": "I bet this will help with the overpopulation problem. \ufeff", 
+            "author": "Ryan Haley"
+        }, 
+        {
+            "date": "2015-03-31T21:44:08.231Z", 
+            "text": "I think it is a slippery slope.\ufeff", 
+            "author": "James Kearney"
+        }, 
+        {
+            "date": "2015-03-31T12:07:06.000Z", 
+            "text": "If we didn't take any actions that could result in unforeseen consequences \nthen we would never make any actions at all.\nHumanity has to progress whenever possible. If against all odds the worst \ncase scenario happens then our future selves will find a way to deal with \nit and then move on.\n\nThe problem is that society is a big popularity contest and half believe \nthat \"natural\" is a good thing despite knowing nothing about biology. \nGenetics is uncool and unpopular in the mainstream meaning that it will be \nmet with a lot of hostility from large groups of people who have no idea \nwhat they are talking about. If they think that genes in fruits are bad and \nthat preventing disease with vaccines is wrong then there is no way they \nwill support genes in people to prevent disease.\ufeff", 
+            "author": "\u3086\u3044714"
+        }, 
+        {
+            "date": "2015-03-31T11:53:37.089Z", 
+            "text": "Why would we pause the developing of some technology just because it is new \nand controversial. I say lets keep developing with full steam ahead and \nperfect these techniques so they will be safe and acceptable sooner than \nlater.\ufeff", 
+            "author": "Nejc Kocar"
+        }, 
+        {
+            "date": "2015-03-31T04:48:49.825Z", 
+            "text": "i think that global conversations are a good thing to have in our \ninterconnected always-on and happening world\ufeff", 
+            "author": "Inannawhimsey"
+        }, 
+        {
+            "date": "2015-03-31T03:33:09.582Z", 
+            "text": "I think that as long as the methods of genetic modification are used with \nthe intention to decrease-if not eliminate-the risks of developing harmful \ndiseases (resulting from genetic mutations) then scientists and researchers \nshould get the green light to continue their progress.  I only draw the \nline when it comes to \"playing god\" to create the 'ideal' human in terms of \nlooks, talent/skills, intelligence etc.  (Although it would be pretty neat, \nit wouldn't be right.)\ufeff", 
+            "author": "Rachel Janney"
+        }, 
+        {
+            "date": "2015-03-31T03:14:33.156Z", 
+            "text": "I don't think this should happen because the people who are going to \nbenefit from this first are rich people. I don't think that if my kids go \nto school with some preppy genetically altered kid that they should be \nconsidered inferior just because I wasn't able to pay for a designer baby.\nsome of you are saying that this would be better for evolution. i don't \nthink so. evolution is letting genetically inferior lines of a species die \nout. if you're changing the genes of those inferior lines then you're \nletting that line carry on. if we genetically modify EVERYONE then people \nwill live too long and lead to overpopulation which will make everyone die \nout... we're already heading there as is. the only country doing anything \nabout it is china\ufeff", 
+            "author": "Siberianhuskybud The Grey Wolf"
+        }, 
+        {
+            "date": "2015-03-31T03:13:36.239Z", 
+            "text": "If it's only used to prevent heritable diseases then yes, that would be \nawesome. My concern, however, is that should this develop enough it could \neasily go in a very eugenics-y direction, which would be all kinds of not \nok. Lowering risk of various terrible diseases: good. Trying to design the \n\"perfect\" human or designing them to have specific physical traits: not so \ngood.\ufeff", 
+            "author": "MyOddMusings42"
+        }, 
+        {
+            "date": "2015-03-30T23:31:48.381Z", 
+            "text": "The danger of moving too far into this technology is in the long term \neffects to our own evolution. Mutation is a major part of how evolution \nworks... so while we can eliminate mutations we would effectively be \nstunting ourselves in some ways. It may be that we get ourselves stuck in a \nsituation where there are no longer any selection pressures left and our \nevolution as a species becomes entirely artificial.\ufeff", 
+            "author": "TheFounderUtopia"
+        }
+    ]
+}

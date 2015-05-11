@@ -1,0 +1,848 @@
+{
+    "publish_date": "2014-05-10T00:23:50.000Z", 
+    "video_length": "PT3M", 
+    "captions": [
+        {
+            "text": "Hey guys, ChrisFix here", 
+            "dur": "1.3", 
+            "start": "0.34"
+        }, 
+        {
+            "text": "Today I am going to show you how to diagnose a bad fuel injector, using", 
+            "dur": "2.92", 
+            "start": "1.78"
+        }, 
+        {
+            "text": " a screwdriver.", 
+            "dur": "0.82", 
+            "start": "5.3"
+        }, 
+        {
+            "text": "So right here is a fuel injector", 
+            "dur": "1.46", 
+            "start": "6.84"
+        }, 
+        {
+            "text": "and some symptoms of a bad injector are or bad injectors are", 
+            "dur": "3.62", 
+            "start": "8.3"
+        }, 
+        {
+            "text": "bad fuel economy, hesitation", 
+            "dur": "2.2", 
+            "start": "12.46"
+        }, 
+        {
+            "text": "the car idles poorly, engine misfire, and if your engine stalls.", 
+            "dur": "3.94", 
+            "start": "14.86"
+        }, 
+        {
+            "text": "You can also get a lot of engine vibration because a cylinder is misfiring. ", 
+            "dur": "3.38", 
+            "start": "19.06"
+        }, 
+        {
+            "text": "and you can also get a check engine light with misfire codes such as", 
+            "dur": "2.94", 
+            "start": "22.56"
+        }, 
+        {
+            "text": "P0301 though P0308", 
+            "dur": "3.914", 
+            "start": "25.84"
+        }, 
+        {
+            "text": "depending on how many cylinders you have.", 
+            "dur": "1.6", 
+            "start": "29.754"
+        }, 
+        {
+            "text": "A bad injector can cause the car to run rich, ", 
+            "dur": "2.1", 
+            "start": "31.64"
+        }, 
+        {
+            "text": "or lean", 
+            "dur": "1", 
+            "start": "33.913"
+        }, 
+        {
+            "text": "now, these problems can be caused by other things besides bad injectors. ", 
+            "dur": "3.52", 
+            "start": "35.06"
+        }, 
+        {
+            "text": "It could be caused by bad spark plugs, bad plug wires, and other problems.", 
+            "dur": "3.82", 
+            "start": "38.74"
+        }, 
+        {
+            "text": "So this video will help you figure out if your injectors are bad", 
+            "dur": "2.5", 
+            "start": "42.72"
+        }, 
+        {
+            "text": "and if so, which ones are bad.", 
+            "dur": "1.48", 
+            "start": "45.3"
+        }, 
+        {
+            "text": "On most cars, fuel injectors are going to be located on top of the engine.", 
+            "dur": "2.72", 
+            "start": "47.32"
+        }, 
+        {
+            "text": "we can see here on my Mazda B3000", 
+            "dur": "2.44", 
+            "start": "50.38"
+        }, 
+        {
+            "text": "there is the fuel rail and it goes into three fuel injectors on this side.", 
+            "dur": "4.38", 
+            "start": "53.1"
+        }, 
+        {
+            "text": "And what we are going to do, we are going to grab our long screwdriver", 
+            "dur": "3.02", 
+            "start": "59.16"
+        }, 
+        {
+            "text": "and put the end of the screwdriver against ", 
+            "dur": "2.56", 
+            "start": "62.44"
+        }, 
+        {
+            "text": "the back of the fuel injector, just like that. ", 
+            "dur": "3.14", 
+            "start": "65.4"
+        }, 
+        {
+            "text": "And then you put your ear up against this end of the screwdriver", 
+            "dur": "2.44", 
+            "start": "68.78"
+        }, 
+        {
+            "text": "This acts like a doctors stethoscope. ", 
+            "dur": "1.7", 
+            "start": "71.4"
+        }, 
+        {
+            "text": "The injectors should be making a constant pulsing (clicking) noise.", 
+            "dur": "2.82", 
+            "start": "73.46"
+        }, 
+        {
+            "text": "So it will sound like a constant clicking", 
+            "dur": "1.58", 
+            "start": "76.34"
+        }, 
+        {
+            "text": "An injector that isn&#39;t firing wont make any noise or will make noise inconsistently. ", 
+            "dur": "4.38", 
+            "start": "78.02"
+        }, 
+        {
+            "text": "So now I will start the engine and put the camera up against this screwdriver and hopefully you can hear what the injectors sound like.", 
+            "dur": "5.16", 
+            "start": "82.6"
+        }, 
+        {
+            "text": "[Engine Running]", 
+            "dur": "3.7", 
+            "start": "87.92"
+        }, 
+        {
+            "text": "Here is what it should sound like", 
+            "dur": "1", 
+            "start": "92.38"
+        }, 
+        {
+            "text": "[Constant Clicking]", 
+            "dur": "3.82", 
+            "start": "93.894"
+        }, 
+        {
+            "text": "You can hear that clicking and it is consistant", 
+            "dur": "2.72", 
+            "start": "98.36"
+        }, 
+        {
+            "text": "That means that the injector is firing and it is firing consistently.", 
+            "dur": "3.34", 
+            "start": "101.14"
+        }, 
+        {
+            "text": "So now you will check each injector", 
+            "dur": "1.28", 
+            "start": "104.48"
+        }, 
+        {
+            "text": "So what is actually happening is that in the injector", 
+            "dur": "2.3", 
+            "start": "106.2"
+        }, 
+        {
+            "text": "there is a coil", 
+            "dur": "1.38", 
+            "start": "108.66"
+        }, 
+        {
+            "text": "which the electricity goes through", 
+            "dur": "1.44", 
+            "start": "110.04"
+        }, 
+        {
+            "text": "and that creates a magnetic field which lifts up the pin", 
+            "dur": "2.36", 
+            "start": "111.6"
+        }, 
+        {
+            "text": "and the pin is attached to a spring", 
+            "dur": "1.62", 
+            "start": "114.16"
+        }, 
+        {
+            "text": "so the charge creates the magnetic field which lifts up the pin, ", 
+            "dur": "2.78", 
+            "start": "115.8"
+        }, 
+        {
+            "text": "and then lets go, when there is no charge", 
+            "dur": "2.54", 
+            "start": "118.58"
+        }, 
+        {
+            "text": "and the spring pushes the pin back down", 
+            "dur": "1.8", 
+            "start": "121.5"
+        }, 
+        {
+            "text": "So it is constantly going up and down and letting pulses of gasoline in", 
+            "dur": "3.68", 
+            "start": "123.66"
+        }, 
+        {
+            "text": "and that is how the fuel injector works.", 
+            "dur": "1.74", 
+            "start": "127.56"
+        }, 
+        {
+            "text": "The clicking that you hear is the pin opening and closing.", 
+            "dur": "3.6", 
+            "start": "129.48"
+        }, 
+        {
+            "text": "This test will tell you which injector might not be firing ", 
+            "dur": "3.62", 
+            "start": "133.28"
+        }, 
+        {
+            "text": "or might be firing inconsistently", 
+            "dur": "1.68", 
+            "start": "136.9"
+        }, 
+        {
+            "text": "but that is all it will tell you", 
+            "dur": "1.36", 
+            "start": "138.58"
+        }, 
+        {
+            "text": "it wont let you know if there is a bad spray pattern because the injector is dirty", 
+            "dur": "3.14", 
+            "start": "140.04"
+        }, 
+        {
+            "text": "or if the pin isn&#39;t going all the way down because the spring is worn out so gasoline is leaking into the cylinder.", 
+            "dur": "5.22", 
+            "start": "143.34"
+        }, 
+        {
+            "text": "So this is just one method you can use, the other test is to test the resistance of the injector using a multimeter.", 
+            "dur": "6.96", 
+            "start": "148.72"
+        }, 
+        {
+            "text": "This is an easy test to do as well, and to see that test, ", 
+            "dur": "2.84", 
+            "start": "155.68"
+        }, 
+        {
+            "text": "I have another video, and that video will be up on the screen (click the video)", 
+            "dur": "3.34", 
+            "start": "158.52"
+        }, 
+        {
+            "text": "and the link will be in the description below", 
+            "dur": "2.16", 
+            "start": "161.86"
+        }, 
+        {
+            "text": "Hopefully this video was helpful, if it was, give the video a &quot;thumbs up&quot;", 
+            "dur": "3.56", 
+            "start": "164.02"
+        }, 
+        {
+            "text": "Also consider subscribing.", 
+            "dur": "1.3", 
+            "start": "167.64"
+        }, 
+        {
+            "text": " I publish how to videos weekly and answer all of the questions and comments you guys leave below. ", 
+            "dur": "4.88", 
+            "start": "169.08"
+        }, 
+        {
+            "text": "And finally, check out the links to the ChrisFix Facebook and Twitter pages with the links in the description below. ", 
+            "dur": "4.78", 
+            "start": "173.96"
+        }
+    ], 
+    "title": "Testing Fuel Injectors Fast", 
+    "video_defintion": "hd", 
+    "topics": [
+        "/m/098cl", 
+        "/m/02ywd"
+    ], 
+    "number_views": 103140, 
+    "categories": [
+        2
+    ], 
+    "comments": [
+        {
+            "date": "2015-05-04T11:27:19.439Z", 
+            "text": "Hey my 89 civic is dpfi and the injector is in the TB. Is there a way to \nback probe or something?\ufeff", 
+            "author": "phatpac5"
+        }, 
+        {
+            "date": "2015-05-04T22:24:21.926Z", 
+            "text": "+phatpac5 If you follow the fuel rail into the throttle body, you can still \nhear it by holding the screw driver against that!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-04-14T16:48:08.974Z", 
+            "text": "thank you\ufeff", 
+            "author": "Noscrubjections"
+        }, 
+        {
+            "date": "2015-04-15T01:27:33.195Z", 
+            "text": "+Noscrubjections No problem!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-04-02T17:50:11.840Z", 
+            "text": "thnk u just checked them pretty amazing.....\ufeff", 
+            "author": "dozumbabfree"
+        }, 
+        {
+            "date": "2015-04-03T07:36:45.704Z", 
+            "text": "+dozumbabfree Awesome! Glad you learned something new!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-03-21T21:26:14.892Z", 
+            "text": "2 of my injectors don't fire at all , I've switched them and they work but \nno electricity is passing through the wires to injectors could it be the \nECM?\ufeff", 
+            "author": "Jesus Vazquez"
+        }, 
+        {
+            "date": "2015-03-22T06:36:04.653Z", 
+            "text": "+Jesus Vazquez Could be the ecm or it could be the wires leading from the \necm to the injectors. Check for any frayed wires.", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-03-14T04:06:32.271Z", 
+            "text": "great video\ufeff", 
+            "author": "manwar999"
+        }, 
+        {
+            "date": "2015-03-14T05:05:42.093Z", 
+            "text": "+manwar999 Thanks! Definitely consider subscribing! New automotive \"how to\" \nvideos every Thursday and most Mondays!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-03-11T22:18:43.865Z", 
+            "text": "If you want to hear even more, there are very cheap automotive stethoscopes \navailable that will allow you reach into tighter areas, I've been using \nthem for many years.\ufeff", 
+            "author": "Brad J."
+        }, 
+        {
+            "date": "2015-03-12T04:45:06.659Z", 
+            "text": "+Brad J. Thanks a lot Brad! I actually just got one not too long ago!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-03-11T03:47:32.067Z", 
+            "text": "WOW.....that's awesome Chris! Just straight forward too the task at hand, \ngood job!! Keep up the good work my friend.\ufeff", 
+            "author": "Dat Dude"
+        }, 
+        {
+            "date": "2015-03-11T06:29:15.338Z", 
+            "text": "+Dat Dude Thanks a lot bud!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-03-10T22:14:16.145Z", 
+            "text": "Testing Fuel Injectors Fast: http://youtu.be/tA_E6X4ISgQ\ufeff", 
+            "author": "CJ Burnett"
+        }, 
+        {
+            "date": "2015-03-02T17:46:31.524Z", 
+            "text": "thanks,that great\ufeff", 
+            "author": "Hamdan Osman"
+        }, 
+        {
+            "date": "2015-03-03T05:40:39.675Z", 
+            "text": "+Hamdan Osman No problem! I am glad the video was helpful!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-02-07T20:28:12.229Z", 
+            "text": "Great idea, i'll try this asap to figure out a idling problem on the \ngrocery getter!\ufeff", 
+            "author": "koolchilds"
+        }, 
+        {
+            "date": "2015-02-08T00:16:37.729Z", 
+            "text": "+koolchilds Let me know what you find! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-02-06T17:57:20.274Z", 
+            "text": "many thanks\ufeff", 
+            "author": "fred ashford"
+        }, 
+        {
+            "date": "2015-02-06T21:00:54.206Z", 
+            "text": "+fred ashford You are welcome! I am glad the video was helpful! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-02-05T05:28:00.067Z", 
+            "text": "your the man chris i have to try that on  my chevy silverado  my truck \nseems to buck at times some of the symptoms that you mentioned are there . \nthanks once again!!\ufeff", 
+            "author": "mario d.c"
+        }, 
+        {
+            "date": "2015-02-05T06:25:18.704Z", 
+            "text": "sure will !!", 
+            "author": "mario d.c"
+        }, 
+        {
+            "date": "2015-02-05T05:58:57.217Z", 
+            "text": "+mario d.c Awesome! Let me know what you find! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-02-03T20:30:29.685Z", 
+            "text": "This vid. shows, I'm assuming, a V6 engine like my '05 3.0L Ranger. The 3 \ninjectors on the pass. side are easy to get to. How do you check the 3 \ninjectors, that are under the upper intake manifold, on the driver side?\ufeff", 
+            "author": "fred forbush"
+        }, 
+        {
+            "date": "2015-02-05T22:50:59.402Z", 
+            "text": "+fred forbush That def is good news! The resistance test could tell you if \nyou need to replace it or clean it. ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-02-05T22:48:14.766Z", 
+            "text": "Good news, I hope. I was able to put my steth. on #4 inject. and heard no \nclicking at all. All the injects. on pass side had definite clicks. I say \n\"good news\" because you know it is a simple fix compared to what it could \nbe.\nSo, will the resistance test tell me whether I need to replace it or clean \nit?", 
+            "author": "fred forbush"
+        }, 
+        {
+            "date": "2015-02-05T22:15:25.952Z", 
+            "text": "+fred forbush I mean it is worth a shot to test them anyhow. The clicks \nmeans that the coil in the injector is working but maybe it isnt working \n100% ya know?", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-02-05T22:07:10.089Z", 
+            "text": "Ok, I will.\nOne other question: Is it still necessary to do the resistance test if the \nscrewdriver/steth. checks positive for clicks?", 
+            "author": "fred forbush"
+        }, 
+        {
+            "date": "2015-02-05T19:40:09.351Z", 
+            "text": "+fred forbush let me know how it goes!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-02-05T18:31:46.552Z", 
+            "text": "Ok, Chris, I'll see if I can at least get to the suspect #4 injector. \nThanks again.", 
+            "author": "fred forbush"
+        }, 
+        {
+            "date": "2015-02-03T20:40:41.860Z", 
+            "text": "+fred forbush Yes, this is the same exact 3L engine. This process works for \nany engine. When the injectors are hidden, it is hard to do this test. You \nmight be able to use a rubber hose like a stethascope and snake it under \nthe intake manifold. Otherwise you will need to take the intake off and \ntest them this way: https://www.youtube.com/watch?v=ZVXchvHefNc", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-27T18:19:42.340Z", 
+            "text": "So uhm, the engine is vibrating like hell, I'm going to have a screw driver \ngo through my skull\ufeff", 
+            "author": "Nick Stephens"
+        }, 
+        {
+            "date": "2015-01-28T06:20:36.991Z", 
+            "text": "+Nick Stephens Well if the engine is vibrating badly, maybe this isnt the \nright test for you.  You can try this test: \nhttps://www.youtube.com/watch?v=ZVXchvHefNc\nOr you can do a fuel pressure test: \nhttps://www.youtube.com/watch?v=_oXLUqE4Sf0", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-26T08:01:50.000Z", 
+            "text": "Good video  got a question  .i did snap one of the clip from the injector \ntook it out and it lost some power i put back on then i went to the next \ninjector  snap it out and it did nothing so does that means i have a bad \ninjector? oh one other thing when i start up car it has gasoline oder\ufeff", 
+            "author": "Rmenio"
+        }, 
+        {
+            "date": "2015-01-26T17:00:24.570Z", 
+            "text": "+Rmenio Thanks! It could mean you have a bad injector. Test to see if it is \nfiring. Also check the ohms like in this video: \nhttps://www.youtube.com/watch?v=ZVXchvHefNc\nDefinitely consider subscribing!  New automotive 'how to' videos every \nThursday and most Mondays so stay tuned!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-18T02:23:23.216Z", 
+            "text": "Thank you so much Chris. Will this method work on f150 v8 ?\ufeff", 
+            "author": "Commentose"
+        }, 
+        {
+            "date": "2015-01-18T03:16:01.225Z", 
+            "text": "Thank you :)", 
+            "author": "Commentose"
+        }, 
+        {
+            "date": "2015-01-18T02:56:06.115Z", 
+            "text": "+Commentose This method will work for any car where you can get to the fuel \ninjectors. So yes, this will work for your Ford F150.", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-10T04:22:44.791Z", 
+            "text": "I have an old '90 Ranger w a 2.9L. Everything is working, but it has no \npower on hills. Auto trans will down shift OK, but 45 mph on a 2% grade is \nmax for this engine. Wonder if its the Mass Air Sensor?\ufeff", 
+            "author": "Hoser Man"
+        }, 
+        {
+            "date": "2015-01-12T05:22:33.966Z", 
+            "text": "+Hoser Man I read your other post and it said you put larger tires which \nwould potentially throw of the shift points. Since the rpms are good it \nwont shift. ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-11T15:34:34.601Z", 
+            "text": "I took it out yesterday and after cleaning the sensors, the transmission \ndoes not shift into a  lower gear when going up hills. I manually shifted \ninto 2 and it marched right up the hill. The engine is getting fuel and it \ndoes rev up so I'm thinking its got to be a transmission sensor or \nsomething similar.", 
+            "author": "Hoser Man"
+        }, 
+        {
+            "date": "2015-01-10T17:05:28.974Z", 
+            "text": "+Hoser Man You might consider cleaning the MAF: \nhttps://www.youtube.com/watch?v=gRfaPfTcfOM\nAre there any check engine lights? Does the car run fine otherwise? ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-06T18:07:51.473Z", 
+            "text": "What about when you have a no start then how do you check injectors.\ufeff", 
+            "author": "Katie Dewey"
+        }, 
+        {
+            "date": "2015-01-06T19:06:58.982Z", 
+            "text": "+Katie Dewey No problem! Good luck! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-06T19:00:41.468Z", 
+            "text": "Ya seen that after comment thanks for helpful info", 
+            "author": "Katie Dewey"
+        }, 
+        {
+            "date": "2015-01-06T18:56:24.565Z", 
+            "text": "+Katie Dewey You can use this method: \nhttps://www.youtube.com/watch?v=ZVXchvHefNc \nor you can check fuel pressure like in this video: \nhttps://www.youtube.com/watch?v=_oXLUqE4Sf0", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-06T00:58:36.360Z", 
+            "text": "my injectos dont look like h=this i have that weird spider injector thing \nin my car.\ufeff", 
+            "author": "SuperJeremi10"
+        }, 
+        {
+            "date": "2015-01-06T01:43:21.321Z", 
+            "text": "+SuperJeremi10 Can you measure the resistance in your injectors?", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2015-01-01T14:03:39.045Z", 
+            "text": "Nice vid!!\ufeff", 
+            "author": "Luke Martin"
+        }, 
+        {
+            "date": "2015-01-01T16:21:13.266Z", 
+            "text": "+Luke Martin Thanks Luke! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-12-21T02:15:07.462Z", 
+            "text": "hey can you help not only has my truck having long cranks and no start but \nive noticed a low rpm very  low rpm  on my gauge  it will fall to way below \none and no check engine light comes on please help.\ufeff", 
+            "author": "SuperJeremi10"
+        }, 
+        {
+            "date": "2014-12-22T21:22:22.998Z", 
+            "text": "okay thanks \ni also have a tahoe i need help on i just got it but its not ready to be \ndrove yet its a 98.", 
+            "author": "SuperJeremi10"
+        }, 
+        {
+            "date": "2014-12-22T20:13:38.942Z", 
+            "text": "I mean, fuel pressure is where I would start.\nYou can start by looking for vacuum leaks. Any cracked or loose hoses.", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-12-22T19:50:39.653Z", 
+            "text": "ill try  where would i look good place to start  maybe i have a bad \ninjector  it has no check engine light on.", 
+            "author": "SuperJeremi10"
+        }, 
+        {
+            "date": "2014-12-22T07:47:46.392Z", 
+            "text": "+SuperJeremi10 There can still be low fuel pressure. That is where I would \nstart. You can also check to see if there are any vacuum leaks. ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-12-22T07:23:18.812Z", 
+            "text": "it has a brand new pump and filter just replaced it bout a month ago.", 
+            "author": "SuperJeremi10"
+        }, 
+        {
+            "date": "2014-12-22T07:13:36.057Z", 
+            "text": "+SuperJeremi10 I would start by doing a fuel pressure test: \nhttps://www.youtube.com/watch?v=_oXLUqE4Sf0 here is the gauge I used and it \nis a great inexpensive investment: \nhttp://www.amazon.com/gp/product/B000R5IASC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000R5IASC&linkCode=as2&tag=chri0e2-20&linkId=VUHPAMNKOJNTG2I2\nLet me know what you find! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-12-15T07:03:22.862Z", 
+            "text": "+ChrisFix  I have a 96 Toyota Corolla that will turn over but doesn't \nstart, I've ruled out the Fuel pump, alternator, and fuel filter but I was \njust wondering if it could be the fuel injectors or the spark plugs? \ufeff", 
+            "author": "Lisa Thomas"
+        }, 
+        {
+            "date": "2014-12-15T14:10:25.633Z", 
+            "text": "+Lisa Thomas Did you check the fuel pressure? What is it: \nhttps://www.youtube.com/watch?v=_oXLUqE4Sf0\nIt can be the injectors. You can have someone try to start the car and \nlisten to see if they are pulsing like in this video. You can also do a \nresistance test on the injectors: \nhttps://www.youtube.com/watch?v=ZVXchvHefNc\nIt can also be you are not getting spark so make sure you are getting spark \nfrom the spark plugs! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-12-05T20:49:29.000Z", 
+            "text": "1 viewer had the screwdriver backwards.\ufeff", 
+            "author": "David F"
+        }, 
+        {
+            "date": "2014-12-05T22:27:36.367Z", 
+            "text": "+David F hahaha", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-12-01T21:40:18.629Z", 
+            "text": "+ChrisFix  i have a question? does fuel injector is linked to speed? like i \nhave manual  car, when i press accelerator  the RPMs go up and the vehicle \ndoes not move and after keep pressing accelerator it start slowly slowly \nmove and max speed is only 50-60. i am not understanding what it could be. \nit will be appericiateable \nthanks\ufeff", 
+            "author": "arsh bhullar"
+        }, 
+        {
+            "date": "2014-12-02T14:14:56.409Z", 
+            "text": "Thanks for help.. Appreciate +ChrisFix\u200b", 
+            "author": "arsh bhullar"
+        }, 
+        {
+            "date": "2014-12-02T05:03:45.434Z", 
+            "text": "+arsh bhullar Sounds like you need a new clutch and your clutch isnt fully \nengaging (that burning smell is your clutch burning up). ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-12-02T05:00:18.967Z", 
+            "text": "There is no engine light. And rpm gose up...but when in put 1st gear it \ntakes 15 minutes to pick motion lol. Then when I stop my car I smell like \nsome rubber is burning. And when I press clutch i completely release clutch \nand keep pressing race ...then after couple of minutes car start getting \nmotion... +ChrisFix\u200b", 
+            "author": "arsh bhullar"
+        }, 
+        {
+            "date": "2014-12-02T04:50:38.788Z", 
+            "text": "Your fuel system is linked to speed but there would be other problems such \nas misfiring if it was your injectors. Do you have any check engine lights? \nThe rpms going up is also another indicator that it isnt the injectors. \nThis might be a slipping clutch or maybe you are not completely into gear. \nDoes your shifter feel solid and firm when you shift? How many miles on the \nclutch?", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-11-16T05:12:29.661Z", 
+            "text": "Great videos.  I am a mechanic and machinist and its really good to see \nyoungbloods doing it right and doing it for themselves.  Also the diagnosis \nprogression you show is really nice too.  This is not something you will \never get from a dealer.\ufeff", 
+            "author": "dnl machine"
+        }, 
+        {
+            "date": "2014-11-17T02:35:17.503Z", 
+            "text": "+dnl machine Thanks a lot man! I appreciate it! I try hard to get the best \ninfo out there without rambling on! Fixing cars is a lot of fun! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-11-04T21:19:19.485Z", 
+            "text": "How do you tell if you have a injector leaking down? how would you fix it?\ufeff", 
+            "author": "Todd Davis"
+        }, 
+        {
+            "date": "2014-11-06T23:58:40.000Z", 
+            "text": "+Todd Davis I mean it could be but it could be many things. Without seeing \nthe car it is hard to diagnose it. But that is a good suggestion Todd and \nworth a shot to check out! Thanks! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-11-06T23:28:23.723Z", 
+            "text": "+ChrisFix could it be a cold start sensor that is bad. ", 
+            "author": "Todd Davis"
+        }, 
+        {
+            "date": "2014-11-06T21:34:24.208Z", 
+            "text": "Yes, the fuel pressure test is how you check for leaking injectors. You can \nalso see if your engine is running rich by looking at the O2 sensors", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-11-06T21:26:25.677Z", 
+            "text": "Do you have a video on HOW TO CHECK FOR LEAKING INJECTORS.?", 
+            "author": "Todd Davis"
+        }, 
+        {
+            "date": "2014-11-05T19:42:35.450Z", 
+            "text": "Oh you should have told me it was a Vette. When my Vette had hard starting \nproblems it was the check valve in the fuel pump. When I put the engine in \nthe run position, the pressure would jump up to the correct psi but then \nimmediately drop. I would see if you can figure out how to check the O2 \nsensor and see if she is running rich. The bank 1 O2 sensor will have a \nhigh voltage at near .9v if it is running rich. If so, you might have a \nleaking injector. I would also see if when you rev her up, she pops. ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-11-05T19:25:33.297Z", 
+            "text": "The car is a 1989 C-4 Corvette with a 350 tuned Port engine.", 
+            "author": "Todd Davis"
+        }, 
+        {
+            "date": "2014-11-05T19:21:50.070Z", 
+            "text": "The fuel pressure regulator sounds like it is working fine. Was it hard to \nstart when you got your 40psi when you turned the key to the run position? \nI am curious if it is hard to start because there isnt enough pressure. Try \nto check the fuel pressure when you cant start it. When you rev the engine \nis there any popping in the exhaust?", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-11-05T19:06:16.081Z", 
+            "text": "This happens only when I start the car up for the first time. I have to \nturn the key over 5-8 times till it cranks. After that it will crank. I did \nput a pressure test gauge on it. When I turn the switch to on the pressure \nwent to 40 psi. When I cranked the engine and it started the psi went to 36 \npsi in the running mode. When I pulled the vacuum hose of the fuel pressure \nregulator the pressure when to 47 psi. Also when cut the engine off the \npressure went to 40 psi, I let it set for 15 mins and the pressure went \n39psi. I check it again after 20 mins and the pressure went to 28 psi. Then \nfinally it went to 0 psi. So do you think I have a bad fuel pressure \nregulator or a leaking injector?", 
+            "author": "Todd Davis"
+        }, 
+        {
+            "date": "2014-11-04T22:03:51.360Z", 
+            "text": "+Todd Davis To tell if your injectors are leaking you need to do a fuel \npressure test. A fuel pressure gauge is a great investment and only costs \n$30. Here is the link to how you test the fuel pressure: Fuel Pressure Test\nand here is the link to the fuel pressure tester: \nhttp://www.amazon.com/gp/product/B000R5IASC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000R5IASC&linkCode=as2&tag=chri0e2-20&linkId=Y4Q624LQRLS2MCKO", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-10-31T12:26:55.636Z", 
+            "text": "This tip is boss \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ufeff", 
+            "author": "WolfmanZX"
+        }, 
+        {
+            "date": "2014-10-31T16:40:19.523Z", 
+            "text": "+WolfmanZX Thanks! Glad the video was helpful! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-10-18T22:21:04.722Z", 
+            "text": "Dude you're awesome, I tried it and I fixed my cylinder 1 running lean! You \ndescribe everything perfect and its simple thank you! How old are you by \nthe way you sound super young! I'm 20 I wish I could do these videos!\ufeff", 
+            "author": "EdwardAlcala"
+        }, 
+        {
+            "date": "2014-10-18T22:50:31.364Z", 
+            "text": "+EdwardAlcala Thanks! Im right around your age ( a few years older). Glad \nthe video was helpful! ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-10-13T20:02:10.065Z", 
+            "text": "Well my car won't even start so I have to take care of that first haha \ufeff", 
+            "author": "rxzy vfx"
+        }, 
+        {
+            "date": "2014-10-13T22:39:47.567Z", 
+            "text": "+rxzy vfx Haha, do you know why? Is it power related (low battery) or is it \nfuel related?", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-09-24T10:53:19.473Z", 
+            "text": "Hi Chris! if is okay i would ask about fuel injector seal.I would like to \nknow about the reliability of fuel injector seal. How long will it take \nbefore the seal wear out or broken? Thank you\ufeff", 
+            "author": "kuro neko"
+        }, 
+        {
+            "date": "2014-09-25T02:32:14.116Z", 
+            "text": "I understand now. Thank you for helping me out. ", 
+            "author": "kuro neko"
+        }, 
+        {
+            "date": "2014-09-24T16:28:39.961Z", 
+            "text": "+kuro neko It really depends on a lot of things. I have had cars go 300,000 \nmiles with no problems with injectors or seals and cars go 60,000 and need \nnew injectors or o-rings. There is no definitive time line. It is common \nfor cars that sit and dont get driven to have dried out injector seals or \ngummed up injectors. ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-09-20T19:04:18.335Z", 
+            "text": "nice tip \ufeff", 
+            "author": "Erwin Ramnandanlall"
+        }, 
+        {
+            "date": "2014-09-20T20:35:16.723Z", 
+            "text": "+Erwin Ramnandanlall Thanks Erwin!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-09-01T17:26:07.441Z", 
+            "text": "Very helpful, now I just have to get them changed. Thanks \ufeff", 
+            "author": "John T"
+        }, 
+        {
+            "date": "2014-09-01T19:21:11.595Z", 
+            "text": "+John T Great! Glad the video was helpful. ", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-07-16T19:06:32.013Z", 
+            "text": "Hey I have a 2010 dodge charger sxt with awd and every now and then it \ncranks excessively but always starts and runs perfect..... can it be the \nfuel pump thats going? I was also told to try cleaning the fuel injectors \nas dodges tend to get crudded up quickly. What are your thoughts? \ufeff", 
+            "author": "Ira Friedman"
+        }, 
+        {
+            "date": "2014-07-17T04:52:20.210Z", 
+            "text": "Sounds like it is fuel related. Watch this and let me know if you have any \nquestions Fuel Pressure Test", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-06-03T11:25:51.452Z", 
+            "text": "thats one of the best ways for a quick and easy diagnosis for testing \ninjectors. bloddy nice work.\ufeff", 
+            "author": "Stuart Hunter"
+        }, 
+        {
+            "date": "2014-06-03T15:04:39.438Z", 
+            "text": "Remember to give the video a \"thumbs up\" if it was helpful (that helps me \nout, thanks)!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-06-03T15:04:06.452Z", 
+            "text": "Thanks man! It is a simple way to do it and super effective!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-05-14T03:44:54.798Z", 
+            "text": "I will try this because my ford escort 2001 zx2 keeps misfiring cylinder 4. \nI replaced the spark plugs, cables and coil and the crab still misfires. \nThanks a lot, looks simple...\ufeff", 
+            "author": "Hector Garcia-Martinez"
+        }, 
+        {
+            "date": "2014-05-14T03:38:37.678Z", 
+            "text": "very useful\ufeff", 
+            "author": "Toby Tyler"
+        }, 
+        {
+            "date": "2014-05-14T14:50:18.835Z", 
+            "text": "Thanks! Glad the video is useful!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-05-11T13:03:14.037Z", 
+            "text": "", 
+            "author": "Jose Mazo Navarro"
+        }, 
+        {
+            "date": "2014-05-11T04:37:34.518Z", 
+            "text": "Chris ,,hi. Can that be a tapping noise I slightly hear on my f150 from out \nside the hood towards the underneath of the engine.\nThanks in advance.\ufeff", 
+            "author": "john phillip"
+        }, 
+        {
+            "date": "2014-05-11T04:51:42.189Z", 
+            "text": "No that tapping noise is something else (are you sure it is coming from \nunder the car?). It could be the rocker arms which is normal.", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-05-10T08:42:07.713Z", 
+            "text": "Smashing video and discription of the operation chris :-))\n\nA solinoid with return spring, that sunk into my foggy brain straight away, \nstraight to the point as allways :-))\ufeff", 
+            "author": "zx8401ztv"
+        }, 
+        {
+            "date": "2014-05-11T04:34:31.132Z", 
+            "text": "Thanks! Glad it was easy to understand. Sometimes it is tough to explain \nstuff so that anyone can easily understand!", 
+            "author": "ChrisFix"
+        }, 
+        {
+            "date": "2014-05-10T01:26:50.801Z", 
+            "text": "This is a perfect complement to your other fuel injector video!\ufeff", 
+            "author": "Justin Bond"
+        }, 
+        {
+            "date": "2014-05-10T01:38:58.966Z", 
+            "text": "Thanks a lot man! That was my goal!", 
+            "author": "ChrisFix"
+        }
+    ]
+}
